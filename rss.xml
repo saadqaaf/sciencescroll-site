@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 22:01:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 23:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The concept of aromaticity after 200 years of benzene</title>
+<link>https://doi.org/10.1038/s41570-026-00877-w</link>
+<guid isPermaLink="false">10.1038/s41570-026-00877-w</guid>
+<pubDate>Fri, 25 Sep 2026 23:01:19 GMT</pubDate>
+<description>این مقاله مفهوم آروماتیسیته را پس از ۲۰۰ سال از کشف بنزن مرور می‌کند.&lt;br&gt;Nature Reviews Chemistry | ⭐ Review&lt;br&gt;🏷 aromaticity · benzene · chemical bonding · history of chemistry · concept evolution</description>
+<category>aromaticity</category>
+<category>benzene</category>
+<category>chemical bonding</category>
+<category>history of chemistry</category>
+<category>concept evolution</category>
+</item>
+<item>
+<title>Enhanced power factor by transition metal substitution in the thermoelectric Kagome metal Ni 3 Sn</title>
+<link>https://doi.org/10.1039/d6ta01928e</link>
+<guid isPermaLink="false">10.1039/d6ta01928e</guid>
+<pubDate>Fri, 25 Sep 2026 23:01:16 GMT</pubDate>
+<description>جایگزینی کبالت در فلز کاگومه Ni3Sn ضریب توان ترموالکتریک را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 thermoelectric · Kagome metal · Ni3Sn · transition metal substitution · power factor</description>
+<category>thermoelectric</category>
+<category>Kagome metal</category>
+<category>Ni3Sn</category>
+<category>transition metal substitution</category>
+<category>power factor</category>
+</item>
 <item>
 <title>Single-cell visual proteomics of a minimal bacterium reveals structural coordination of gene expression machineries</title>
 <link>https://doi.org/10.1016/j.cell.2026.08.054</link>
@@ -702,30 +726,6 @@
 <category>cell extrusion</category>
 <category>innate immunity</category>
 <category>viral spread</category>
-</item>
-<item>
-<title>A designed ubiquitin-binding protein selectively enriches and visualizes unanchored ubiquitin</title>
-<link>https://doi.org/10.1126/sciadv.aec0818</link>
-<guid isPermaLink="false">10.1126/sciadv.aec0818</guid>
-<pubDate>Fri, 25 Sep 2026 20:03:42 GMT</pubDate>
-<description>پروتئین UBiP10 با طراحی محاسباتی برای اتصال اختصاصی به یوبیکویتین غیرلنگر، غنی‌سازی و تصویربرداری آن را در سلول‌ها ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 unanchored ubiquitin · ubiquitin-binding protein · protein design · RFdiffusion · aggresome</description>
-<category>unanchored ubiquitin</category>
-<category>ubiquitin-binding protein</category>
-<category>protein design</category>
-<category>RFdiffusion</category>
-<category>aggresome</category>
-</item>
-<item>
-<title>Antagonistic regulation of PIF4 and HY5 activity by BBX28 regulates thermomorphogenesis</title>
-<link>https://doi.org/10.1126/sciadv.aeh5725</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh5725</guid>
-<pubDate>Fri, 25 Sep 2026 20:03:39 GMT</pubDate>
-<description>BBX28 با تنظیم متقابل فعالیت PIF4 و HY5، رشد هایپوکوتیل در دمای بالا را از طریق ژن‌های سیگنالینگ اکسین کنترل می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 thermomorphogenesis · PIF4 · HY5 · BBX28 · auxin signaling</description>
-<category>thermomorphogenesis</category>
-<category>PIF4</category>
-<category>HY5</category>
-<category>BBX28</category>
-<category>auxin signaling</category>
 </item>
 </channel>
 </rss>
