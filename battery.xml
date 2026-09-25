@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 12:01:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 13:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cu/Ti/Al tripartite synergistic O3-typeNaNi 0.3 Fe 0.2 Mn 0.5 O 2 for sodium-ion batteries with high energy-density and cyclic-stability</title>
+<link>https://doi.org/10.1039/d6ta05746b</link>
+<guid isPermaLink="false">10.1039/d6ta05746b</guid>
+<pubDate>Fri, 25 Sep 2026 13:01:49 GMT</pubDate>
+<description>کاتدهای لایه‌ای O3-type در مقیاس کیلوگرمی با زینتر حالت جامد ساخته می‌شوند و هم‌افزایی Cu/Ti/Al استحکام ساختاری و پایداری چرخه‌ای باتری یون-سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Cu/Ti/Al tripartite synergy in O3-type NaNi0.3Fe0.2Mn0.5O2 enables kilogram-scale synthesis of a cathode with enhanced structural robustness, high energy density, and stable cycling. This advances practical sodium-ion batteries by combining scalable solid-state production with improved performance, addressing key barriers to commercialization.&lt;br&gt;🏷 sodium-ion battery · O3-type cathode · layered oxide · Cu/Ti/Al doping · cycling stability</description>
+<category>sodium-ion battery</category>
+<category>O3-type cathode</category>
+<category>layered oxide</category>
+<category>Cu/Ti/Al doping</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Homogeneous regeneration of spent LiFePO 4 via in situ Al/F impurity introduction: tailoring Li–Fe anti-sites for great cycling stability</title>
+<link>https://doi.org/10.1039/d6ta05623g</link>
+<guid isPermaLink="false">10.1039/d6ta05623g</guid>
+<pubDate>Fri, 25 Sep 2026 13:01:44 GMT</pubDate>
+<description>هم‌آمیزی جزئی Al/F در LiFePO4 مستعمل نقص‌های آنتی‌سایت را تنظیم و نفوذ Li+ را تسریع می‌کند؛ کاتد بازتولیدشده 141.78 mAh g−1 در 1.0C و پایداری چرخه‌ای بالا می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Trace Al/F co-doping during spent LiFePO4 regeneration tailors Li–Fe antisite defects, lowering charge-transfer resistance and boosting Li+ diffusion. This in situ impurity-introduction strategy enables homogeneous regeneration, delivering 141.78 mAh g−1 at 1.0C with &amp;gt;90% capacity retention over 500 cycles, offering a scalable, low-cost route to high-performance recycled cathodes.&lt;br&gt;🏷 LiFePO4 regeneration · spent cathode · Al/F co-doping · antisite defects · cycling stability</description>
+<category>LiFePO4 regeneration</category>
+<category>spent cathode</category>
+<category>Al/F co-doping</category>
+<category>antisite defects</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Pyridoxal phosphate-mediated organic–inorganic hybrid interphase for highly stable aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1039/d6ta05681d</link>
+<guid isPermaLink="false">10.1039/d6ta05681d</guid>
+<pubDate>Fri, 25 Sep 2026 13:01:24 GMT</pubDate>
+<description>افزودنی PLP با تنظیم سولواتاسیون Zn2+ و جذب ترجیحی روی سطح Zn (002)، رسوب یکنواخت و عمر چرخه‌ای طولانی آند روی در باتری آبی یون-روی را ممکن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 PLP uniquely combines solvation regulation with facet-selective adsorption on Zn(002), forming an organic–inorganic hybrid interphase. This dual mechanism suppresses dendrites and side reactions, enabling highly stable, long-cycle-life aqueous zinc-ion batteries—advancing sustainable energy storage.&lt;br&gt;🏷 zinc-ion battery · zinc anode · pyridoxal phosphate · solvation regulation · Zn (002) deposition</description>
+<category>zinc-ion battery</category>
+<category>zinc anode</category>
+<category>pyridoxal phosphate</category>
+<category>solvation regulation</category>
+<category>Zn (002) deposition</category>
+</item>
 <item>
 <title>Synergistic engineering of smart electrolytes and ultrathin coatings for adaptive interphase formation in advanced batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.124834</link>
