@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 19:03:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 20:06:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Particle Size Dictates Transport Mechanism and Performance in Li 6 PS 5 Cl Conversion Cathodes for All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/smll.75953</link>
+<guid isPermaLink="false">10.1002/smll.75953</guid>
+<pubDate>Fri, 25 Sep 2026 20:06:10 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد اندازه ذرات Li6PS5Cl در کاتدهای تبدیل، ظرفیت دسترس‌پذیر و سازوکار انتقال لیتیوم را تعیین می‌کند و کاتد بهینه چگالی انرژی 1096 Wh kg−1 با پایداری چرخه عالی ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Particle size non-monotonically governs Li transport in Li₆PS₅Cl conversion cathodes: rate capability first drops, then recovers in the ultrafine regime, alongside cycling stability. This reveals an interfacial job-sharing mechanism adding coupled ion/electron transport, distinct from degrading bulk pathways. The optimized cathode achieves 1096 Wh kg⁻¹ with ~100% capacity retention over 100 cycles, resolving whether LPSCl conversion enables high-capacity all-solid-state energy storage.&lt;br&gt;🏷 all-solid-state battery · Li6PS5Cl · conversion cathode · particle size · ion transport</description>
+<category>all-solid-state battery</category>
+<category>Li6PS5Cl</category>
+<category>conversion cathode</category>
+<category>particle size</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Crystallinity Regulation of Ionic Liquid‐Based Quasi‐Solid‐State Polymer Electrolytes for Long‐Lifespan Flexible Transparent Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.75948</link>
+<guid isPermaLink="false">10.1002/smll.75948</guid>
+<pubDate>Fri, 25 Sep 2026 20:06:01 GMT</pubDate>
+<description>این پژوهش با تنظیم بلورینگی الکترولیت پلیمری شبه‌جامد بر پایه مایع یونی و PMMA/PVDF-HFP، باتری لیتیوم-یونی انعطاف‌پذیر و شفاف با شفافیت بالا و عمر چرخه طولانی می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers a crystallinity regulation strategy for ionic liquid-based quasi-solid polymer electrolytes, tuning PMMA/PVDF-HFP ratios to co-optimize transparency and ionic transport. The optimal membrane achieves 88.2% transmittance, 1.91×10⁻⁴ S cm⁻¹ conductivity, and 0.55 Li⁺ transference number, enabling flexible transparent lithium-ion batteries with 300-cycle lifespan, 61.2% transparency, and 44.8 µWh cm⁻² energy density—advancing high-performance flexible transparent energy storage.&lt;br&gt;🏷 quasi-solid electrolyte · ionic liquid · crystallinity regulation · flexible transparent battery · PMMA</description>
+<category>quasi-solid electrolyte</category>
+<category>ionic liquid</category>
+<category>crystallinity regulation</category>
+<category>flexible transparent battery</category>
+<category>PMMA</category>
+</item>
+<item>
+<title>Recent Progress of Single‐Atom Catalysts for High‐Performance Metal‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/smll.75895</link>
+<guid isPermaLink="false">10.1002/smll.75895</guid>
+<pubDate>Fri, 25 Sep 2026 20:05:56 GMT</pubDate>
+<description>این مرور پیشرفت‌های اخیر کاتالیزورهای تک‌اتمی را برای باتری‌های فلز-گوگرد بررسی می‌کند و نقش هیبریداسیون اوربیتال d–p در بهبود سینتیک ردوکس گوگرد و مهار shuttle پلی‌سولفیدها را برجسته می‌سازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges fundamental electrochemistry and rational design of single-atom catalysts (SACs) across diverse metal-sulfur batteries, from Li-S to emerging Na-S, Al-S, K-S, Zn-S, and Mg-S systems. It highlights d–p orbital hybridization mechanisms governing bidirectional sulfur redox kinetics, offering critical insights and future directions for high-energy-density, long-lifespan M-S electrochemistry.&lt;br&gt;🏷 single-atom catalyst · metal-sulfur battery · polysulfide shuttle · d-p hybridization · sulfur redox kinetics</description>
+<category>single-atom catalyst</category>
+<category>metal-sulfur battery</category>
+<category>polysulfide shuttle</category>
+<category>d-p hybridization</category>
+<category>sulfur redox kinetics</category>
+</item>
+<item>
+<title>Role of 1D and 2D Materials in Achieving Transparent and Flexible Lithium‐Ion Batteries for Wearable Electronics</title>
+<link>https://doi.org/10.1002/smll.75846</link>
+<guid isPermaLink="false">10.1002/smll.75846</guid>
+<pubDate>Fri, 25 Sep 2026 20:05:39 GMT</pubDate>
+<description>این مرور، نقش مواد یک‌بعدی و دوبعدی و معماری‌های هیبریدی را در ساخت باتری‌های لیتیوم-یونی شفاف و انعطاف‌پذیر برای الکترونیک پوشیدنی و توازن میان شفافیت، انعطاف و عملکرد بررسی می‌کند.&lt;br&gt;Small | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely links 1D and 2D nanomaterial architectures to overcoming the transparency-flexibility-performance trade-off in transparent flexible lithium-ion batteries. Its significance lies in explaining how 1D-2D hybrids optimize ion and electron transport, while surveying solid-state electrolytes and fabrication strategies for wearable electronics, thereby guiding high-performance material design.&lt;br&gt;🏷 flexible lithium-ion battery · transparent battery · 1D-2D materials · solid electrolyte · wearable electronics</description>
+<category>flexible lithium-ion battery</category>
+<category>transparent battery</category>
+<category>1D-2D materials</category>
+<category>solid electrolyte</category>
+<category>wearable electronics</category>
+</item>
+<item>
+<title>Long-duration aqueous manganese metal anode by hydrogel solvation regulation</title>
+<link>https://doi.org/10.1126/sciadv.aeg1770</link>
+<guid isPermaLink="false">10.1126/sciadv.aeg1770</guid>
+<pubDate>Fri, 25 Sep 2026 20:04:55 GMT</pubDate>
+<description>هیدروژل حاوی 18-crown-6 با کاهش هیدراتاسیون Mn2+ از 5.51 به 1.39، واکنش‌های پارازیتی آب را مهار کرده و آند منگنز آبی با عمر طولانی را ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 This work introduces a hydrogel electrolyte with 18-crown-6 macrocycles that reshape Mn²⁺ solvation, cutting hydration from 5.51 to 1.39 and enabling water-repelling ion transport. It suppresses hydrogen evolution and Mn corrosion, delivering 95% Coulombic efficiency over 350 cycles, 1800-hour cycling, and durable pouch cells. This offers a promising solvation-regulation strategy for practical aqueous manganese metal batteries.&lt;br&gt;🏷 aqueous manganese battery · hydrogel electrolyte · solvation regulation · 18-crown-6 · Mn anode</description>
+<category>aqueous manganese battery</category>
+<category>hydrogel electrolyte</category>
+<category>solvation regulation</category>
+<category>18-crown-6</category>
+<category>Mn anode</category>
+</item>
 <item>
 <title>Long-Life Zinc–Bromine Flow Batteries with Low-Temperature Operation Enabled by Hydration Modulation of Complexing Agents</title>
 <link>https://doi.org/10.1021/jacs.6c14019</link>
