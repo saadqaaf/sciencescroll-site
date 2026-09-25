@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 17:02:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 18:03:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Phase‐Engineered Electronic Structure of ZrO 2 Regulates the Kinetic Thermodynamic Balance of Polyiodide Chemistry in Aqueous Zn–I 2 Batteries</title>
+<link>https://doi.org/10.1002/adfm.78723</link>
+<guid isPermaLink="false">10.1002/adfm.78723</guid>
+<pubDate>Fri, 25 Sep 2026 18:02:58 GMT</pubDate>
+<description>مهندسی فاز ZrO2 تتراگونال، تعادل جذب-تبدیل پلی‌یدید را در باتری آبی Zn-I2 تنظیم کرده و سینتیک تبدیل و ظرفیت را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Phase engineering of ZrO₂ (tetragonal vs. monoclinic) is the key novelty: tetragonal ZrO₂&amp;#x27;s oxygen vacancies and lower work function tune polyiodide adsorption–conversion balance. This suppresses shuttling while accelerating I₂/I⁻ kinetics, yielding 215 mAh g⁻¹ with 97% retention over 2000 cycles. It establishes crystal-phase engineering as a viable route to regulate interfacial electronic structure in aqueous conversion-type batteries.&lt;br&gt;🏷 Zn-I2 battery · ZrO2 · phase engineering · polyiodide conversion · oxygen vacancy</description>
+<category>Zn-I2 battery</category>
+<category>ZrO2</category>
+<category>phase engineering</category>
+<category>polyiodide conversion</category>
+<category>oxygen vacancy</category>
+</item>
+<item>
+<title>Coupling Ionic Network Reconstruction With Interfacial Electrostatics Shielding Resolves the Interphase Stability‐Transport Trade‐Off for High‐Temperature Durable Li‐SPAN Batteries</title>
+<link>https://doi.org/10.1002/adfm.78698</link>
+<guid isPermaLink="false">10.1002/adfm.78698</guid>
+<pubDate>Fri, 25 Sep 2026 18:02:50 GMT</pubDate>
+<description>با افزودن PY13FSI، بازسازی شبکه یونی و سپر الکترواستاتیکی، مبادله پایداری-انتقال در باتری Li-SPAN را حل کرده و چرخه‌پذیری دما بالا را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Introducing PY13FSI reconstructs the ionic network and shields interfacial electrostatics, breaking the stability-transport trade-off in Li-SPAN batteries. It forms LiF/Li₃N-rich interphases while achieving ~10 mS cm⁻¹ conductivity and a 0.71 Li⁺ transference number, enabling 94.1% retention over 1100 cycles and 60°C operation. This offers a design strategy for high-energy, durable electrolytes.&lt;br&gt;🏷 Li-SPAN battery · electrolyte engineering · ionic network · interphase stability · high temperature</description>
+<category>Li-SPAN battery</category>
+<category>electrolyte engineering</category>
+<category>ionic network</category>
+<category>interphase stability</category>
+<category>high temperature</category>
+</item>
+<item>
+<title>Lewis Acid‐Base Electrolyte Additive Mediates Zn Anode Interface Chemistry and Iodine Conversion for Advanced Four‐Electron Zn||I 2 Batteries</title>
+<link>https://doi.org/10.1002/adfm.78482</link>
+<guid isPermaLink="false">10.1002/adfm.78482</guid>
+<pubDate>Fri, 25 Sep 2026 18:02:34 GMT</pubDate>
+<description>افزودنی EMBr به‌عنوان اسید-باز لوویس، پایداری آند Zn و تبدیل ید را در باتری آبی Zn||I2 بهبود می‌دهد و چرخه‌پذیری طولانی‌مدت را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 EMBr acts as a Lewis acid-base additive in Zn||I₂ batteries, forming a water-poor Helmholtz layer to stabilize Zn and capturing polyiodides, while Br⁻ enables I⁻/I⁰/I⁺ conversion. With catalytic ZFeC host, batteries achieve 52,000 cycles at 324.3 mAh g⁻¹, offering a versatile strategy for high-valence aqueous zinc batteries.&lt;br&gt;🏷 Zn-I2 battery · electrolyte additive · Lewis acid-base · iodine conversion · Zn anode</description>
+<category>Zn-I2 battery</category>
+<category>electrolyte additive</category>
+<category>Lewis acid-base</category>
+<category>iodine conversion</category>
+<category>Zn anode</category>
+</item>
+<item>
+<title>Asymmetrically Coordinated Dysprosium (Dy) Single Atoms/Clusters Synergistic Catalysts Promote High‐Performance Aqueous Zn–I 2 Batteries</title>
+<link>https://doi.org/10.1002/adfm.78586</link>
+<guid isPermaLink="false">10.1002/adfm.78586</guid>
+<pubDate>Fri, 25 Sep 2026 18:02:10 GMT</pubDate>
+<description>این مقاله کاتالیزورهای تک‌اتم/خوشه دیسپروزیم با هم‌آرایی نامتقارن را برای مهار پلی‌یدیدها و بهبود عملکرد باتری آبی Zn-I2 طراحی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Asymmetrically coordinated Dy–N3O5 single atoms plus Dy clusters on N-doped carbon were synthesized for Zn–I2 cathodes. This dual-site catalyst synergistically confines polyiodides and accelerates iodine conversion, with Dy-5d/I-5p coupling and Dy-4f regulation enabling 200.46 mAh g⁻¹ after 25,000 cycles. It introduces rare-earth single-atom/cluster catalysts for durable aqueous zinc–iodine batteries.&lt;br&gt;🏷 Zn-I2 battery · dysprosium single atoms · polyiodide confinement · asymmetric coordination · iodine conversion</description>
+<category>Zn-I2 battery</category>
+<category>dysprosium single atoms</category>
+<category>polyiodide confinement</category>
+<category>asymmetric coordination</category>
+<category>iodine conversion</category>
+</item>
 <item>
 <title>Synthesis of Highly Active R‑ZIF-67 from Spent Lithium‑Ion Batteries for Peroxymonosulfate Activation: Distinct Roles of Ni and Li Impurities</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127562</link>
