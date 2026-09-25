@@ -5,8 +5,33 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 18:03:23 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 19:03:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Long-Life Zinc–Bromine Flow Batteries with Low-Temperature Operation Enabled by Hydration Modulation of Complexing Agents</title>
+<link>https://doi.org/10.1021/jacs.6c14019</link>
+<guid isPermaLink="false">10.1021/jacs.6c14019</guid>
+<pubDate>Fri, 25 Sep 2026 19:03:09 GMT</pubDate>
+<description>این مقاله با تنظیم هیدراتاسیون عوامل کمپلکس‌ساز، عمر چرخه و عملکرد دمای پایین باتری جریان روی-برم را به‌طور چشمگیری بهبود می‌بخشد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydration-modulation strategy for bromine complexing agents that improves polybromide retention and suppresses zinc dendrites. Using 1-[2-hydroxyethyl]-1-methylpyrrolidinium bromide enables zinc–bromine flow batteries to achieve over 4000 cycles at high current density and over 700 h operation at −20 °C, far exceeding traditional systems, advancing low-temperature, long-life grid storage.&lt;br&gt;🏷 zinc-bromine flow battery · hydration modulation · complexing agents · low-temperature operation · long cycle life</description>
+<category>zinc-bromine flow battery</category>
+<category>hydration modulation</category>
+<category>complexing agents</category>
+<category>low-temperature operation</category>
+<category>long cycle life</category>
+</item>
+<item>
+<title>Lattice distortion strain modulation of twin-defective noble-metal-free high-entropy alloy electrocatalyst for Li−O2 batteries</title>
+<link>https://doi.org/10.1038/s41467-026-77604-y</link>
+<guid isPermaLink="false">10.1038/s41467-026-77604-y</guid>
+<pubDate>Fri, 25 Sep 2026 19:02:22 GMT</pubDate>
+<description>تنش کرنش شبکه‌ای ناشی از نقص دوقلویی در آلیاژ با آنتروپی بالا بدون فلز نجیب، کاتالیزور مؤثری برای باتری Li−O2 فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes a lattice strain-twin formation energy rule to engineer twin defects in noble-metal-free high-entropy alloys. Ce doping into CuCoNiMnMo induces five-fold twinning, creating high-activity sites and a CeOx passivation layer that enhance Li–O2 battery performance (405 cycles, −20 to 80 °C), advancing defect engineering for energy electrocatalysis.&lt;br&gt;🏷 Li-O2 battery · high-entropy alloy · twin defects · lattice strain · electrocatalyst</description>
+<category>Li-O2 battery</category>
+<category>high-entropy alloy</category>
+<category>twin defects</category>
+<category>lattice strain</category>
+<category>electrocatalyst</category>
+</item>
 <item>
 <title>Phase‐Engineered Electronic Structure of ZrO 2 Regulates the Kinetic Thermodynamic Balance of Polyiodide Chemistry in Aqueous Zn–I 2 Batteries</title>
 <link>https://doi.org/10.1002/adfm.78723</link>
