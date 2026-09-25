@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Science Scroll · Battery Radar</title>
+<meta name="description" content="Newest papers from 100+ top journals, with one-line Persian summaries, keywords and Open Access badges. تازه‌ترین مقاله‌های ۱۰۰+ ژورنال برتر با خلاصه فارسی.">
+<meta name="theme-color" content="#f7f7f4">
+<meta property="og:title" content="Science Scroll · Battery Radar">
+<meta property="og:description" content="Newest papers from 100+ top journals, with Persian summaries, keywords and Open Access badges.">
+<meta property="og:type" content="website">
+<link rel="alternate" type="application/rss+xml" title="Science Scroll" href="rss.xml">
+<link rel="alternate" type="application/rss+xml" title="Battery Radar" href="battery.xml">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta property="og:image" content="https://sciencescroll.ir/assets/og.png">
+<meta property="og:url" content="https://sciencescroll.ir/">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="fonts/Vazirmatn-wght.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+/* Self-hosted fonts (SIL Open Font License) — no dependency on Google Fonts */
+@font-face{font-family:"Vazirmatn";font-style:normal;font-weight:100 900;font-display:swap;src:url("fonts/Vazirmatn-wght.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-style:normal;font-weight:400;font-display:swap;src:url("fonts/inter-400.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-style:normal;font-weight:500;font-display:swap;src:url("fonts/inter-500.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-style:normal;font-weight:600;font-display:swap;src:url("fonts/inter-600.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-style:normal;font-weight:700;font-display:swap;src:url("fonts/inter-700.woff2") format("woff2")}
+@font-face{font-family:"Inter";font-style:normal;font-weight:800;font-display:swap;src:url("fonts/inter-800.woff2") format("woff2")}
+:root{
+  --bg:#f7f7f4; --surface:#ffffff; --surface-2:#f1f1ec; --ink:#14161a; --ink-2:#2b2f36; --muted:#646b77; --line:#e5e5df;
+  --brand:#0a46a0; --brand-ink:#ffffff; --brand-soft:#e8effa;
+  --radar:#0b8a5e; --radar-soft:#e3f5ec;
+  --amber:#a86310; --amber-soft:#fcf1de;
+  --oa:#0b6f86; --oa-soft:#e2f3f6;
+  --violet:#7a3fb0; --violet-soft:#f3eafb;
+  --shadow:0 1px 2px rgba(20,22,26,.04),0 8px 24px -12px rgba(20,22,26,.12);
+  --shadow-lg:0 2px 4px rgba(20,22,26,.04),0 24px 48px -20px rgba(20,22,26,.22);
+  --radius:18px; --radius-sm:12px;
+  --maxw:1180px;
+  --font-en:"Inter",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --font-fa:"Vazirmatn","Inter",Tahoma,ui-sans-serif,system-ui,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0c0e12; --surface:#14171d; --surface-2:#1b1f27; --ink:#eceef2; --ink-2:#d3d7de; --muted:#98a1b0; --line:#262b35;
+    --brand:#7fa8ff; --brand-ink:#0c0e12; --brand-soft:#15244a;
+    --radar:#3fd49a; --radar-soft:#0f2a20;
+    --amber:#f2bd62; --amber-soft:#2a2112;
+    --oa:#5cc6dc; --oa-soft:#0e2830;
+    --violet:#c79bf2; --violet-soft:#261a33;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.6);
+    --shadow-lg:0 2px 4px rgba(0,0,0,.3),0 24px 48px -20px rgba(0,0,0,.7);
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0c0e12; --surface:#14171d; --surface-2:#1b1f27; --ink:#eceef2; --ink-2:#d3d7de; --muted:#98a1b0; --line:#262b35;
+  --brand:#7fa8ff; --brand-ink:#0c0e12; --brand-soft:#15244a;
+  --radar:#3fd49a; --radar-soft:#0f2a20;
+  --amber:#f2bd62; --amber-soft:#2a2112;
+  --oa:#5cc6dc; --oa-soft:#0e2830;
+  --violet:#c79bf2; --violet-soft:#261a33;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.6);
+  --shadow-lg:0 2px 4px rgba(0,0,0,.3),0 24px 48px -20px rgba(0,0,0,.7);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-fa);font-size:16px;line-height:1.65;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+html[lang="en"] body{font-family:var(--font-en)}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer}
+img,svg{display:block}
+.wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:20px}
+.ltr{direction:ltr;unicode-bidi:isolate;font-family:var(--font-en)}
+.rtl{direction:rtl;unicode-bidi:isolate;font-family:var(--font-fa)}
+:focus-visible{outline:2px solid var(--brand);outline-offset:3px;border-radius:8px}
+[hidden]{display:none!important}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* ---------- Header ---------- */
+.header{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 82%,transparent);backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid transparent;transition:border-color .2s}
+.header.scrolled{border-bottom-color:var(--line)}
+.header .wrap{display:flex;align-items:center;gap:16px;height:64px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:-.01em;font-family:var(--font-en);direction:ltr}
+.brand-logo{width:34px;height:34px;border-radius:50%;flex:none}
+.brand small{display:block;font-weight:500;color:var(--muted);font-size:11px;letter-spacing:.02em;line-height:1}
+.nav{display:flex;gap:4px;margin-inline-start:auto}
+.nav a{padding:8px 12px;border-radius:10px;color:var(--muted);font-size:14px;font-weight:500}
+.nav a:hover{color:var(--ink);background:var(--surface-2)}
+.tools{display:flex;align-items:center;gap:8px}
+.seg{display:flex;background:var(--surface-2);border:1px solid var(--line);border-radius:999px;padding:3px}
+.seg button{border:0;background:transparent;padding:5px 11px;border-radius:999px;font-size:13px;font-weight:600;color:var(--muted);line-height:1.2}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.icon-btn{width:36px;height:36px;border-radius:999px;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;color:var(--ink-2)}
+.icon-btn svg{width:17px;height:17px}
+.icon-btn:hover{background:var(--surface-2)}
+
+/* ---------- Buttons ---------- */
+.btn{display:inline-flex;align-items:center;gap:9px;padding:12px 18px;border-radius:14px;font-weight:600;font-size:15px;border:1px solid transparent;transition:transform .15s,box-shadow .15s,background .15s;white-space:nowrap}
+.btn svg{width:18px;height:18px;flex:none}
+.btn:hover{transform:translateY(-1px)}
+.btn-primary{background:var(--brand);color:var(--brand-ink);box-shadow:0 6px 18px -8px color-mix(in srgb,var(--brand) 70%,transparent)}
+.btn-radar{background:var(--radar);color:var(--brand-ink);box-shadow:0 6px 18px -8px color-mix(in srgb,var(--radar) 70%,transparent)}
+.btn-ghost{background:var(--surface);border-color:var(--line);color:var(--ink)}
+.btn-ghost:hover{background:var(--surface-2)}
+.btn-sm{padding:8px 13px;font-size:13.5px;border-radius:11px}
+
+/* ---------- Hero ---------- */
+.hero{padding:56px 0 40px}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:56px;align-items:center}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;padding:6px 12px 6px 8px;border:1px solid var(--line);background:var(--surface);border-radius:999px;font-size:13px;color:var(--muted);font-weight:500}
+.live-dot{width:8px;height:8px;border-radius:50%;background:var(--radar);box-shadow:0 0 0 0 color-mix(in srgb,var(--radar) 60%,transparent);animation:pulse 2s infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 8px transparent}100%{box-shadow:0 0 0 0 transparent}}
+.hero h1{font-size:clamp(34px,5.2vw,58px);line-height:1.12;letter-spacing:-.025em;margin:18px 0 16px;font-weight:800}
+html[lang="fa"] .hero h1{letter-spacing:0;line-height:1.35}
+.hero h1 .accent{background:linear-gradient(100deg,var(--brand),var(--radar));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p.lead{font-size:clamp(16px,1.6vw,19px);color:var(--muted);max-width:560px;margin:0 0 28px}
+.cta{display:flex;flex-wrap:wrap;gap:10px}
+.stats{display:grid;grid-template-columns:repeat(4,auto);justify-content:start;gap:28px;margin-top:36px;padding-top:24px;border-top:1px solid var(--line)}
+.stat b{display:block;font-size:22px;font-weight:800;letter-spacing:-.01em}
+.stat span{font-size:13px;color:var(--muted)}
+
+/* Hero preview card */
+.preview{position:relative;padding:18px}
+.preview::before{content:"";position:absolute;inset:0;border-radius:28px;background:radial-gradient(60% 60% at 30% 20%,color-mix(in srgb,var(--brand) 16%,transparent),transparent 70%),radial-gradient(50% 50% at 80% 90%,color-mix(in srgb,var(--radar) 16%,transparent),transparent 70%);z-index:0}
+.preview .post{position:relative;z-index:1;box-shadow:var(--shadow-lg)}
+.legend{position:relative;z-index:1;display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:16px}
+.legend span{font-size:12.5px;font-weight:600;padding:6px 11px;border-radius:999px;background:var(--surface);border:1px solid var(--line);color:var(--ink-2);white-space:nowrap}
+.legend i{font-style:normal;margin-inline-end:5px}
+
+/* ---------- Marquee ---------- */
+.marquee{border-block:1px solid var(--line);background:var(--surface);overflow:hidden;direction:ltr}
+.marquee-track{display:flex;gap:40px;width:max-content;padding:16px 0;animation:scroll 60s linear infinite;font-family:var(--font-en);font-weight:600;color:var(--muted);font-size:15px;white-space:nowrap}
+.marquee-track span{display:inline-flex;align-items:center;gap:40px}
+.marquee-track span::after{content:"";width:4px;height:4px;border-radius:50%;background:var(--line)}
+.marquee:hover .marquee-track{animation-play-state:paused}
+@keyframes scroll{to{transform:translateX(-50%)}}
+
+/* ---------- Sections ---------- */
+section{scroll-margin-top:80px}
+.section{padding:72px 0}
+.section-head{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:28px;flex-wrap:wrap}
+.kicker{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--brand)}
+html[lang="fa"] .kicker{letter-spacing:0}
+.section h2{font-size:clamp(26px,3.2vw,36px);letter-spacing:-.02em;line-height:1.2;margin:6px 0 0;font-weight:800}
+html[lang="fa"] .section h2{letter-spacing:0;line-height:1.45}
+.section-sub{color:var(--muted);max-width:560px;margin:10px 0 0}
+
+/* ---------- Channel cards ---------- */
+.channels{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+.channel{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:24px;padding:28px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column}
+.channel::after{content:"";position:absolute;inset-inline-end:-80px;top:-80px;width:220px;height:220px;border-radius:50%;background:var(--glow);opacity:.14;filter:blur(8px)}
+.channel.main{--glow:var(--brand);--c:var(--brand);--c-soft:var(--brand-soft)}
+.channel.radar{--glow:var(--radar);--c:var(--radar);--c-soft:var(--radar-soft)}
+.channel-top{display:flex;align-items:center;gap:14px}
+.avatar{width:56px;height:56px;border-radius:50%;flex:none;box-shadow:0 4px 14px -6px rgba(0,0,0,.35)}
+.channel h3{margin:0;font-size:22px;font-family:var(--font-en);letter-spacing:-.01em;direction:ltr;text-align:start}
+.channel .handle{font-size:13.5px;color:var(--muted);font-family:var(--font-en);direction:ltr;display:inline-block}
+.channel p.desc{color:var(--ink-2);margin:18px 0 16px}
+.features{list-style:none;padding:0;margin:0 0 24px;display:grid;gap:10px}
+.features li{display:flex;gap:10px;align-items:flex-start;font-size:14.5px;color:var(--ink-2)}
+.features li svg{width:18px;height:18px;flex:none;margin-top:3px;color:var(--c)}
+.channel .actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto}
+.tags-row{display:flex;flex-wrap:wrap;gap:6px;margin:-4px 0 20px}
+.tag{font-family:var(--font-en);font-size:12px;font-weight:600;padding:4px 9px;border-radius:999px;background:var(--c-soft);color:var(--c);direction:ltr}
+
+/* ---------- How it works ---------- */
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:8px}
+.step{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:22px}
+.step .num{width:32px;height:32px;border-radius:10px;background:var(--surface-2);display:grid;place-items:center;font-weight:800;font-size:14px;margin-bottom:14px;color:var(--brand);font-family:var(--font-en)}
+.step h4{margin:0 0 6px;font-size:16.5px}
+.step p{margin:0;color:var(--muted);font-size:14.5px}
+
+/* ---------- Feed ---------- */
+.feed-layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:28px;align-items:start}
+.controls{position:sticky;top:64px;z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);padding:12px 0;margin-bottom:6px;display:grid;gap:10px}
+.tabs{display:flex;gap:6px;background:var(--surface);border:1px solid var(--line);padding:4px;border-radius:14px;width:fit-content}
+.tabs button{border:0;background:transparent;padding:8px 14px;border-radius:10px;font-weight:600;font-size:14px;color:var(--muted);display:inline-flex;align-items:center;gap:7px}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--bg)}
+.tabs .count{font-size:11.5px;padding:1px 7px;border-radius:999px;background:var(--surface-2);color:var(--muted);font-family:var(--font-en)}
+.tabs button[aria-selected="true"] .count{background:color-mix(in srgb,var(--bg) 20%,transparent);color:var(--bg)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.search{flex:1 1 220px;display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:0 12px;min-width:0}
+.search svg{width:16px;height:16px;color:var(--muted);flex:none}
+.search input{border:0;background:transparent;outline:0;padding:10px 0;width:100%;font:inherit;font-size:14.5px;color:var(--ink);min-width:0}
+.chip{border:1px solid var(--line);background:var(--surface);padding:8px 12px;border-radius:12px;font-size:13.5px;font-weight:600;color:var(--muted);display:inline-flex;align-items:center;gap:6px}
+.chip[aria-pressed="true"]{border-color:var(--ink);color:var(--ink);background:var(--surface-2)}
+.active-kw{display:none;align-items:center;gap:6px;font-size:13px;color:var(--muted)}
+.active-kw.on{display:flex}
+.active-kw button{border:0;background:var(--brand-soft);color:var(--brand);padding:4px 10px;border-radius:999px;font-weight:600;font-size:12.5px;font-family:var(--font-en)}
+
+.feed{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
+.post{min-width:0}
+.post{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;transition:border-color .15s,box-shadow .15s}
+.post:hover{border-color:color-mix(in srgb,var(--ink) 18%,var(--line));box-shadow:var(--shadow)}
+.post-head{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted);min-width:0}
+.post-av{width:36px;height:36px;border-radius:50%;flex:none}
+.post-meta{display:flex;flex-direction:column;min-width:0;line-height:1.35}
+.post-meta b{color:var(--ink);font-size:13.5px;font-family:var(--font-en);direction:ltr;text-align:start;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.post-meta span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.post-time{margin-inline-start:auto;white-space:nowrap;font-size:12.5px}
+.post-title{display:block;margin:12px 0 0;font-size:17px;line-height:1.45;font-weight:700;letter-spacing:-.005em;color:var(--ink);text-align:left}
+.post-title:hover{color:var(--brand)}
+.post-fa{margin:10px 0 0;font-size:15px;line-height:1.85;color:var(--ink-2);text-align:right}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.badge{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;padding:4px 9px;border-radius:8px;font-family:var(--font-en);direction:ltr}
+.badge svg{width:13px;height:13px}
+.b-research{background:var(--surface-2);color:var(--ink-2)}
+.b-review{background:var(--amber-soft);color:var(--amber)}
+.b-perspective{background:var(--violet-soft);color:var(--violet)}
+.b-oa{background:var(--oa-soft);color:var(--oa)}
+.b-radar{background:var(--radar-soft);color:var(--radar)}
+a.badge:hover{filter:brightness(.95)}
+.kws{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px;direction:ltr}
+.kw{border:1px solid var(--line);background:transparent;padding:3px 9px;border-radius:999px;font-size:12px;color:var(--muted);font-family:var(--font-en);line-height:1.5}
+.kw:hover{color:var(--brand);border-color:color-mix(in srgb,var(--brand) 40%,var(--line))}
+details.digest{margin-top:12px;background:var(--radar-soft);border-radius:12px;padding:10px 14px}
+details.digest summary{cursor:pointer;font-size:13px;font-weight:700;color:var(--radar);list-style:none;display:flex;align-items:center;gap:6px}
+details.digest summary::-webkit-details-marker{display:none}
+details.digest summary::after{content:"+";margin-inline-start:auto;font-size:16px}
+details.digest[open] summary::after{content:"−"}
+details.digest p{margin:8px 0 2px;font-size:14px;color:var(--ink-2);font-family:var(--font-en);direction:ltr;text-align:left;line-height:1.6}
+.post-foot{display:flex;align-items:center;gap:14px;margin-top:14px;padding-top:12px;border-top:1px dashed var(--line);font-size:12.5px;color:var(--muted)}
+.post-foot a{display:inline-flex;align-items:center;gap:5px;font-family:var(--font-en);direction:ltr}
+.post-foot a:hover{color:var(--brand)}
+.post-foot svg{width:14px;height:14px}
+.post-foot .doi{margin-inline-start:auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:50%}
+.empty{text-align:center;color:var(--muted);padding:48px 16px;border:1px dashed var(--line);border-radius:var(--radius)}
+.more{display:flex;justify-content:center;margin-top:18px}
+.skeleton{height:170px;border-radius:var(--radius);background:linear-gradient(90deg,var(--surface) 0%,var(--surface-2) 50%,var(--surface) 100%);background-size:200% 100%;animation:shimmer 1.4s infinite;border:1px solid var(--line)}
+@keyframes shimmer{to{background-position:-200% 0}}
+
+/* Sidebar */
+.side{position:sticky;top:84px;display:grid;grid-template-columns:minmax(0,1fr);gap:14px;min-width:0}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px}
+.panel h4{margin:0 0 14px;font-size:14px;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.panel h4 small{font-weight:500;color:var(--muted);font-size:12px}
+.glance{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.glance div{background:var(--surface-2);border-radius:12px;padding:10px 12px}
+.glance b{display:block;font-size:22px;font-weight:800;line-height:1.2}
+.glance span{font-size:12px;color:var(--muted)}
+.topkws{display:flex;flex-wrap:wrap;gap:6px}
+.topkws button{border:1px solid var(--line);background:var(--surface);padding:5px 10px;border-radius:999px;font-size:12.5px;font-family:var(--font-en);color:var(--ink-2);direction:ltr}
+.topkws button:hover{border-color:var(--brand);color:var(--brand)}
+.topkws button em{font-style:normal;color:var(--muted);margin-left:4px}
+.toplist{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.toplist li{display:flex;justify-content:space-between;gap:10px;font-size:13.5px}
+.toplist li span{font-family:var(--font-en);direction:ltr;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.toplist li b{font-family:var(--font-en);color:var(--muted);font-weight:600}
+.rss-links{display:grid;gap:8px}
+.rss-links a{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:12px;background:var(--surface-2);font-size:13.5px;font-weight:600}
+.rss-links a svg{width:16px;height:16px;color:var(--amber);flex:none}
+.rss-links a span{margin-inline-start:auto;font-size:11.5px;color:var(--muted);font-family:var(--font-en);font-weight:500}
+.updated{font-size:12.5px;color:var(--muted);display:flex;align-items:center;gap:8px}
+.demo-pill{display:none;font-size:11.5px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--amber-soft);color:var(--amber)}
+.demo .demo-pill{display:inline-block}
+
+/* ---------- Join band ---------- */
+.join{margin:0 0 72px;border-radius:28px;padding:40px;background:linear-gradient(120deg,var(--brand),color-mix(in srgb,var(--brand) 55%,var(--radar)));color:#fff;display:grid;grid-template-columns:1.2fr 1fr;gap:24px;align-items:center;position:relative;overflow:hidden}
+:root[data-theme="dark"] .join{color:#0c0e12}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .join{color:#0c0e12}}
+.join h2{margin:0 0 8px;font-size:clamp(24px,3vw,32px);line-height:1.3}
+.join p{margin:0;opacity:.85}
+.join .actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-end}
+.btn-white{background:#fff;color:#14161a}
+.btn-outline-white{border-color:rgba(255,255,255,.5);color:inherit;background:rgba(255,255,255,.08)}
+:root[data-theme="dark"] .btn-outline-white{border-color:rgba(12,14,18,.35);background:rgba(12,14,18,.06)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .btn-outline-white{border-color:rgba(12,14,18,.35);background:rgba(12,14,18,.06)}}
+
+/* ---------- Footer ---------- */
+footer{border-top:1px solid var(--line);padding:32px 0 40px;color:var(--muted);font-size:13.5px}
+footer .wrap{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}
+footer nav{display:flex;flex-wrap:wrap;gap:18px}
+footer nav a:hover{color:var(--ink)}
+
+/* ---------- Responsive ---------- */
+@media (max-width:1020px){
+  .hero-grid{grid-template-columns:minmax(0,1fr);gap:40px}
+  .preview{max-width:560px}
+  .feed-layout{grid-template-columns:minmax(0,1fr)}
+  .side{position:static;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  .side .panel.rss{grid-column:1/-1}
+  .join{grid-template-columns:1fr}
+  .join .actions{justify-content:flex-start}
+}
+@media (max-width:760px){
+  .nav{display:none}
+  .tools{margin-inline-start:auto}
+  .hero{padding:36px 0 28px}
+  .stats{grid-template-columns:repeat(2,1fr);gap:18px}
+  .channels,.steps{grid-template-columns:minmax(0,1fr)}
+  .side{grid-template-columns:minmax(0,1fr)}
+  .section{padding:52px 0}
+  .preview{padding:0}
+  .preview::before{inset:-12px -12px 40px}
+  .channel{padding:22px}
+  .join{padding:28px 22px;border-radius:22px;margin-bottom:52px}
+  .post{padding:16px}
+  .post-title{font-size:16px}
+  .tabs{width:100%}
+  .tabs button{flex:1 1 0;min-width:0;justify-content:center;padding:8px 6px;font-size:13px}
+  .tabs button span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .chip{padding:8px 10px}
+  .btn{padding:11px 15px}
+  .cta .btn{flex:1 1 auto;justify-content:center}
+}
+@media (max-width:380px){
+  .brand small{display:none}
+  .seg button{padding:5px 8px}
+}
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-scroll" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 6h14M5 12h14M5 18h9"/></symbol>
+    <symbol id="i-radar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="15" height="10" rx="2.5"/><path d="M21 10.5v3"/><path d="M9.5 9 7.5 12.5h4L9.5 15.5"/></symbol>
+    <symbol id="i-tg" viewBox="0 0 24 24" fill="currentColor"><path d="M21.9 4.3 18.7 19.4c-.2 1.1-.9 1.3-1.8.8l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9-8.2c.4-.4-.1-.6-.6-.2L6.3 13 1.5 11.5c-1-.3-1.1-1 .2-1.5L20.5 2.8c.9-.3 1.7.2 1.4 1.5z"/></symbol>
+    <symbol id="i-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 0 1-11.6 7.1L4 20l.9-4.4A8 8 0 1 1 20 12z"/></symbol>
+    <symbol id="i-rss" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 11a8 8 0 0 1 8 8M5 5a14 14 0 0 1 14 14"/><circle cx="6" cy="18" r="1.6" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.5 4.5 4.5L19 7.5"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></symbol>
+    <symbol id="i-ext" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
+    <symbol id="i-pdf" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M5 20h14"/></symbol>
+    <symbol id="i-unlock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 0 1 7.5-2"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24" fill="currentColor"><path d="m12 3 2.7 5.6 6.1.8-4.5 4.2 1.1 6-5.4-2.9-5.4 2.9 1.1-6L3.2 9.4l6.1-.8z"/></symbol>
+    <symbol id="i-flask" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3h6M10 3v6L4.5 18.5A1.7 1.7 0 0 0 6 21h12a1.7 1.7 0 0 0 1.5-2.5L14 9V3"/></symbol>
+    <symbol id="i-bulb" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></symbol>
+    <symbol id="i-bolt" viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 4.5 13.5H11L10 22l8.5-11.5H12z"/></symbol>
+  </defs>
+</svg>
+
+<header class="header" id="top">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Science Scroll">
+      <img class="brand-logo" src="assets/science-scroll.webp" width="34" height="34" alt="">
+      <span>Science Scroll<small>+ Battery Radar</small></span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#channels" data-i18n="nav_channels"></a>
+      <a href="#how" data-i18n="nav_how"></a>
+      <a href="#feed" data-i18n="nav_feed"></a>
+    </nav>
+    <div class="tools">
+      <div class="seg" role="group" aria-label="Language">
+        <button type="button" data-lang="fa" aria-pressed="true">فا</button>
+        <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      </div>
+      <button class="icon-btn" id="themeBtn" type="button" aria-label="Toggle dark mode"><svg><use href="#i-moon"/></svg></button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow"><span class="live-dot"></span><span data-i18n="eyebrow"></span></span>
+        <h1 data-i18n-html="hero_title"></h1>
+        <p class="lead" data-i18n="hero_lead"></p>
+        <div class="cta">
+          <a class="btn btn-primary" data-link="mainTelegram" target="_blank" rel="noopener"><svg><use href="#i-tg"/></svg><span data-i18n="join_main"></span></a>
+          <a class="btn btn-radar" data-link="radarTelegram" target="_blank" rel="noopener"><svg><use href="#i-tg"/></svg><span data-i18n="join_radar"></span></a>
+          <a class="btn btn-ghost" href="#feed"><span data-i18n="see_feed"></span></a>
+        </div>
+        <div class="stats">
+          <div class="stat"><b data-num="100" data-suffix="+"></b><span data-i18n="stat_journals"></span></div>
+          <div class="stat"><b data-i18n="stat_hourly_v"></b><span data-i18n="stat_hourly"></span></div>
+          <div class="stat"><b data-num="2"></b><span data-i18n="stat_channels"></span></div>
+          <div class="stat"><b data-i18n="stat_fa_v"></b><span data-i18n="stat_fa"></span></div>
+        </div>
+      </div>
+      <div class="preview" aria-hidden="true">
+        <div id="heroPost"></div>
+        <div class="legend">
+          <span><i>📝</i><b data-i18n="call_fa" style="font-weight:600"></b></span>
+          <span><i>🔬</i><b data-i18n="call_type" style="font-weight:600"></b></span>
+          <span><i>🔓</i><b data-i18n="call_oa" style="font-weight:600"></b></span>
+          <span><i>🏷</i><b data-i18n="call_kw" style="font-weight:600"></b></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- JOURNAL MARQUEE -->
+  <div class="marquee" aria-label="Tracked journals"><div class="marquee-track" id="marquee"></div></div>
+
+  <!-- CHANNELS -->
+  <section class="section" id="channels">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="kicker" data-i18n="ch_kicker"></div>
+          <h2 data-i18n="ch_title"></h2>
+          <p class="section-sub" data-i18n="ch_sub"></p>
+        </div>
+      </div>
+      <div class="channels">
+        <article class="channel main">
+          <div class="channel-top">
+            <img class="avatar" src="assets/science-scroll.webp" width="56" height="56" alt="Science Scroll logo">
+            <div><h3>Science Scroll</h3><span class="handle" data-handle="mainTelegram"></span></div>
+          </div>
+          <p class="desc" data-i18n="main_desc"></p>
+          <div class="tags-row"><span class="tag">Materials</span><span class="tag">Energy</span><span class="tag">Chemistry</span><span class="tag">Physics</span><span class="tag">Bio</span></div>
+          <ul class="features">
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_fa"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_type"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_oa"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_report"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_clean"></span></li>
+          </ul>
+          <div class="actions">
+            <a class="btn btn-primary btn-sm" data-link="mainTelegram" target="_blank" rel="noopener"><svg><use href="#i-tg"/></svg><span data-i18n="on_telegram"></span></a>
+            <a class="btn btn-ghost btn-sm" data-link="mainBale" target="_blank" rel="noopener"><svg><use href="#i-chat"/></svg><span data-i18n="on_bale"></span></a>
+            <a class="btn btn-ghost btn-sm" href="#feed" data-goto-tab="all"><span data-i18n="latest_posts"></span></a>
+          </div>
+        </article>
+        <article class="channel radar">
+          <div class="channel-top">
+            <img class="avatar" src="assets/battery-radar.webp" width="56" height="56" alt="Battery Radar logo">
+            <div><h3>Battery Radar</h3><span class="handle" data-handle="radarTelegram"></span></div>
+          </div>
+          <p class="desc" data-i18n="radar_desc"></p>
+          <div class="tags-row"><span class="tag">Li-ion</span><span class="tag">Li-S</span><span class="tag">Na-ion</span><span class="tag">Solid-state</span><span class="tag">Zn</span><span class="tag">Supercaps</span></div>
+          <ul class="features">
+            <li><svg><use href="#i-check"/></svg><span data-i18n="r_digest"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_fa"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="r_only"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="f_oa"></span></li>
+            <li><svg><use href="#i-check"/></svg><span data-i18n="r_report"></span></li>
+          </ul>
+          <div class="actions">
+            <a class="btn btn-radar btn-sm" data-link="radarTelegram" target="_blank" rel="noopener"><svg><use href="#i-tg"/></svg><span data-i18n="on_telegram"></span></a>
+            <a class="btn btn-ghost btn-sm" href="#feed" data-goto-tab="radar"><span data-i18n="latest_posts"></span></a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section class="section" id="how" style="padding-top:0">
+    <div class="wrap">
+      <div class="section-head"><div>
+        <div class="kicker" data-i18n="how_kicker"></div>
+        <h2 data-i18n="how_title"></h2>
+      </div></div>
+      <div class="steps">
+        <div class="step"><div class="num">1</div><h4 data-i18n="s1_t"></h4><p data-i18n="s1_d"></p></div>
+        <div class="step"><div class="num">2</div><h4 data-i18n="s2_t"></h4><p data-i18n="s2_d"></p></div>
+        <div class="step"><div class="num">3</div><h4 data-i18n="s3_t"></h4><p data-i18n="s3_d"></p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LIVE FEED -->
+  <section class="section" id="feed" style="padding-top:0">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <div class="kicker" data-i18n="feed_kicker"></div>
+          <h2 data-i18n="feed_title"></h2>
+        </div>
+        <div class="updated" id="updatedBox"><span class="demo-pill" data-i18n="demo"></span><span id="updatedText"></span></div>
+      </div>
+
+      <div class="feed-layout">
+        <div>
+          <div class="controls">
+            <div class="tabs" role="tablist">
+              <button role="tab" aria-selected="true" data-tab="all"><span>Science Scroll</span><span class="count" id="cntAll">0</span></button>
+              <button role="tab" aria-selected="false" data-tab="radar"><span>Battery Radar</span><span class="count" id="cntRadar">0</span></button>
+            </div>
+            <div class="filters">
+              <label class="search"><svg><use href="#i-search"/></svg><span class="sr-only" data-i18n="search_ph"></span><input id="q" type="search" autocomplete="off" data-i18n-ph="search_ph"></label>
+              <button class="chip" aria-pressed="false" data-filter="review"><svg width="13" height="13" style="color:var(--amber)"><use href="#i-star"/></svg><span data-i18n="flt_review"></span></button>
+              <button class="chip" aria-pressed="false" data-filter="oa"><svg width="13" height="13" style="color:var(--oa)"><use href="#i-unlock"/></svg><span data-i18n="flt_oa"></span></button>
+            </div>
+            <div class="active-kw" id="activeKw"><span data-i18n="kw_filter"></span><button type="button" id="kwClear"></button></div>
+          </div>
+          <div class="feed" id="feedList" aria-live="polite">
+            <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+          </div>
+          <div class="more"><button class="btn btn-ghost" id="moreBtn" hidden><span data-i18n="load_more"></span></button></div>
+        </div>
+
+        <aside class="side">
+          <div class="panel">
+            <h4><span data-i18n="glance"></span><small data-i18n="last24"></small></h4>
+            <div class="glance">
+              <div><b id="gTotal">–</b><span data-i18n="g_papers"></span></div>
+              <div><b id="gBattery">–</b><span data-i18n="g_battery"></span></div>
+              <div><b id="gReview">–</b><span data-i18n="g_reviews"></span></div>
+              <div><b id="gOa">–</b><span data-i18n="g_oa"></span></div>
+            </div>
+          </div>
+          <div class="panel">
+            <h4 data-i18n="hot_topics"></h4>
+            <div class="topkws" id="topKws"></div>
+          </div>
+          <div class="panel">
+            <h4 data-i18n="top_journals"></h4>
+            <ul class="toplist" id="topJournals"></ul>
+          </div>
+          <div class="panel rss">
+            <h4 data-i18n="rss_title"></h4>
+            <div class="rss-links">
+              <a data-rss="main" target="_blank" rel="noopener"><svg><use href="#i-rss"/></svg>Science Scroll<span>RSS</span></a>
+              <a data-rss="radar" target="_blank" rel="noopener"><svg><use href="#i-rss"/></svg>Battery Radar<span>RSS</span></a>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- JOIN BAND -->
+  <div class="wrap">
+    <div class="join">
+      <div>
+        <h2 data-i18n="join_title"></h2>
+        <p data-i18n="join_sub"></p>
+      </div>
+      <div class="actions">
+        <a class="btn btn-white" data-link="mainTelegram" target="_blank" rel="noopener"><svg><use href="#i-tg"/></svg>Science Scroll</a>
+        <a class="btn btn-white" data-link="radarTelegram" target="_blank" rel="noopener"><svg><use href="#i-tg"/></svg>Battery Radar</a>
+        <a class="btn btn-outline-white" data-link="mainBale" target="_blank" rel="noopener"><svg><use href="#i-chat"/></svg><span data-i18n="on_bale"></span></a>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div><span class="ltr">© <span id="year"></span> Science Scroll</span> · <span data-i18n="footer_note"></span></div>
+    <nav>
+      <a data-link="mainTelegram" target="_blank" rel="noopener">Telegram</a>
+      <a data-link="mainBale" target="_blank" rel="noopener" data-i18n="bale"></a>
+      <a data-rss="main" target="_blank" rel="noopener">RSS</a>
+      <a href="#top" data-i18n="back_top"></a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+/* =========================================================
+   CONFIG — edit these before publishing
+   ========================================================= */
+const CONFIG = {
+  feedUrl: "feed.json",                         // written by the bot (next step)
+  links: {
+    mainTelegram:  "https://t.me/ScienceScroll", // ← replace with the real channel link
+    radarTelegram: "https://t.me/BatteryRadar",  // ← replace with the real channel link
+    mainBale:      "https://ble.ir/sciencescroll" // ← replace with the real Bale link
+  },
+  rss: { main: "rss.xml", radar: "battery.xml" },
+  pageSize: matchMedia("(max-width:760px)").matches ? 6 : 10
+};
+
+const JOURNALS = ["Nature","Science","Cell","Nature Energy","Joule","JACS","Advanced Materials","Angewandte Chemie","Nature Materials","Energy & Environmental Science","ACS Nano","Nano Letters","Chemical Reviews","Nature Catalysis","Advanced Energy Materials","Energy Storage Materials","ACS Energy Letters","Nature Communications","Science Advances","Nano Energy","Matter","Chem","Nature Nanotechnology","Chem Soc Rev"];
+
+/* =========================================================
+   TEXT (English + Persian)
+   ========================================================= */
+const T = {
+  en:{
+    nav_channels:"Channels", nav_how:"How it works", nav_feed:"Live feed",
+    eyebrow:"Updated every hour · Telegram & Bale",
+    hero_title:'New research from <span class="accent">100+ top journals</span>, in one clean scroll.',
+    hero_lead:"Science Scroll and Battery Radar track Nature, Science, Cell, JACS, Joule and more, and post every new paper with a one-line Persian summary, keywords and Open Access badges.",
+    join_main:"Join Science Scroll", join_radar:"Join Battery Radar", see_feed:"See the live feed",
+    stat_journals:"top journals", stat_hourly_v:"Hourly", stat_hourly:"updates", stat_channels:"focused channels", stat_fa_v:"FA + EN", stat_fa:"summaries & keywords",
+    call_type:"Article type", call_fa:"Persian summary", call_oa:"Open Access + PDF", call_kw:"5 keywords",
+    ch_kicker:"Two channels", ch_title:"Pick your stream, or follow both.", ch_sub:"One channel for the whole landscape, one built for battery researchers. Both come from the same automated scanner.",
+    main_desc:"Every new paper from 100+ high-impact journals across materials science, energy, chemistry, physics and biology, cleaned up and easy to skim.",
+    radar_desc:"Only battery and energy-storage papers, picked out by AI from the same 100+ journals, each with a short digest of what is new and why it matters.",
+    f_fa:"One-line Persian summary of every paper", f_type:"Article type at a glance: Research, Review, Perspective", f_oa:"Open Access badge and a free PDF link when available", f_report:"Nightly report: hot topics, active journals, new reviews", f_clean:"No noise: corrections, errata and cover pages filtered out",
+    r_digest:"AI digest of each paper's novelty and significance", r_only:"Battery papers only: Li-ion, Li-S, Na-ion, solid-state and more", r_report:"Nightly battery report with the day's hot topics",
+    on_telegram:"Telegram", on_bale:"Bale", bale:"Bale", latest_posts:"Latest posts ↓",
+    how_kicker:"How it works", how_title:"From journal to your phone, automatically.",
+    s1_t:"Scan", s1_d:"Every hour, a bot checks the newest records of 100+ top journals through Crossref.",
+    s2_t:"Clean & understand", s2_d:"Corrections and cover pages are dropped. AI adds keywords, the article type and a one-line Persian summary.",
+    s3_t:"Deliver", s3_d:"Papers go to Telegram and Bale; battery papers also go to Battery Radar. The same feed appears on this page.",
+    feed_kicker:"Live feed", feed_title:"Latest papers",
+    demo:"Demo data", updated:"Updated", search_ph:"Search titles, journals, keywords…",
+    flt_review:"Reviews", flt_oa:"Open Access", kw_filter:"Keyword:", load_more:"Show more",
+    glance:"At a glance", last24:"last 24 h", g_papers:"papers", g_battery:"battery", g_reviews:"reviews", g_oa:"open access",
+    hot_topics:"Hot topics", top_journals:"Most active journals", rss_title:"Follow by RSS",
+    empty:"No papers match these filters.", read:"Read paper", pdf:"Free PDF", digest:"Novelty & significance",
+    join_title:"Never miss an important paper again.", join_sub:"Join the channels and get new papers from 100+ top journals every hour.",
+    footer_note:"Summaries are AI-generated. Always check the original paper.", back_top:"Back to top",
+    type_research:"Research", type_review:"Review", type_perspective:"Perspective", oa:"Open Access", battery:"Battery"
+  },
+  fa:{
+    nav_channels:"کانال‌ها", nav_how:"چطور کار می‌کند", nav_feed:"فید زنده",
+    eyebrow:"به‌روزرسانی ساعتی · تلگرام و بله",
+    hero_title:'پژوهش‌های تازه‌ی <span class="accent">۱۰۰+ ژورنال برتر</span>، در یک فید تمیز.',
+    hero_lead:"Science Scroll و Battery Radar ژورنال‌هایی مثل Nature، Science، Cell، JACS و Joule را دنبال می‌کنند و هر مقاله‌ی تازه را با خلاصه‌ی یک‌خطی فارسی، کلیدواژه و نشان دسترسی آزاد منتشر می‌کنند.",
+    join_main:"عضویت در Science Scroll", join_radar:"عضویت در Battery Radar", see_feed:"دیدن فید زنده",
+    stat_journals:"ژورنال برتر", stat_hourly_v:"ساعتی", stat_hourly:"به‌روزرسانی", stat_channels:"کانال تخصصی", stat_fa_v:"فا + EN", stat_fa:"خلاصه و کلیدواژه",
+    call_type:"نوع مقاله", call_fa:"خلاصه فارسی", call_oa:"دسترسی آزاد + PDF", call_kw:"۵ کلیدواژه",
+    ch_kicker:"دو کانال", ch_title:"کانال خودتان را انتخاب کنید، یا هر دو را.", ch_sub:"یک کانال برای تصویر کامل پژوهش، و یک کانال مخصوص پژوهشگران باتری. هر دو از یک سامانه‌ی خودکار تغذیه می‌شوند.",
+    main_desc:"همه‌ی مقاله‌های تازه‌ی ۱۰۰+ ژورنال معتبر در حوزه‌های مواد، انرژی، شیمی، فیزیک و زیستی؛ مرتب، تمیز و سریع‌خوان.",
+    radar_desc:"فقط مقاله‌های باتری و ذخیره‌سازی انرژی، که هوش مصنوعی از همان ۱۰۰+ ژورنال جدا می‌کند؛ هر کدام با خلاصه‌ای کوتاه از نوآوری و اهمیتش.",
+    f_fa:"خلاصه‌ی یک‌خطی فارسی برای هر مقاله", f_type:"نوع مقاله در یک نگاه: Research، Review، Perspective", f_oa:"نشان دسترسی آزاد و لینک PDF رایگان در صورت وجود", f_report:"گزارش شبانه: موضوعات داغ، ژورنال‌های فعال، Reviewهای تازه", f_clean:"بدون شلوغی: اصلاحیه‌ها، Erratumها و کاورها حذف می‌شوند",
+    r_digest:"خلاصه‌ی نوآوری و اهمیت هر مقاله با هوش مصنوعی", r_only:"فقط مقاله‌های باتری: Li-ion، Li-S، Na-ion، حالت جامد و…", r_report:"گزارش شبانه‌ی باتری با موضوعات داغ روز",
+    on_telegram:"تلگرام", on_bale:"بله", bale:"بله", latest_posts:"آخرین پست‌ها ↓",
+    how_kicker:"چطور کار می‌کند", how_title:"از ژورنال تا گوشی شما، کاملاً خودکار.",
+    s1_t:"جستجو", s1_d:"هر ساعت یک ربات تازه‌ترین رکوردهای ۱۰۰+ ژورنال برتر را از Crossref بررسی می‌کند.",
+    s2_t:"پالایش و تحلیل", s2_d:"اصلاحیه‌ها و کاورها حذف می‌شوند. هوش مصنوعی کلیدواژه، نوع مقاله و خلاصه‌ی یک‌خطی فارسی اضافه می‌کند.",
+    s3_t:"ارسال", s3_d:"مقاله‌ها به تلگرام و بله می‌روند و مقاله‌های باتری به Battery Radar هم. همین فید در این صفحه هم دیده می‌شود.",
+    feed_kicker:"فید زنده", feed_title:"آخرین مقاله‌ها",
+    demo:"داده‌ی نمونه", updated:"به‌روزرسانی", search_ph:"جستجو در عنوان، ژورنال، کلیدواژه…",
+    flt_review:"Review", flt_oa:"دسترسی آزاد", kw_filter:"کلیدواژه:", load_more:"نمایش بیشتر",
+    glance:"در یک نگاه", last24:"۲۴ ساعت اخیر", g_papers:"مقاله", g_battery:"باتری", g_reviews:"Review", g_oa:"دسترسی آزاد",
+    hot_topics:"موضوعات داغ", top_journals:"پرکارترین ژورنال‌ها", rss_title:"دنبال کردن با RSS",
+    empty:"مقاله‌ای با این فیلترها پیدا نشد.", read:"مطالعه مقاله", pdf:"PDF رایگان", digest:"نوآوری و اهمیت",
+    join_title:"هیچ مقاله‌ی مهمی را از دست ندهید.", join_sub:"عضو کانال‌ها شوید و هر ساعت مقاله‌های تازه‌ی ۱۰۰+ ژورنال برتر را دریافت کنید.",
+    footer_note:"خلاصه‌ها با هوش مصنوعی ساخته می‌شوند؛ همیشه به مقاله‌ی اصلی مراجعه کنید.", back_top:"بازگشت به بالا",
+    type_research:"Research", type_review:"Review", type_perspective:"Perspective", oa:"Open Access", battery:"Battery"
+  }
+};
+
+/* =========================================================
+   DEMO DATA — shown only until feed.json exists
+   ========================================================= */
+function demoData(){
+  const now = Date.now(), m = 60000;
+  const P = (min, o) => Object.assign({posted_at:new Date(now - min*m).toISOString(), doi:"10.0000/demo-"+min, pdf_url:null, digest:""}, o);
+  return { updated_at:new Date(now - 7*m).toISOString(), demo:true, papers:[
+    P(12,{title:"Single-atom cobalt sites on Ti3C2Tx MXene accelerate polysulfide conversion in lean-electrolyte lithium–sulfur batteries", journal:"Advanced Energy Materials", article_type:"research", open_access:true, is_battery:true,
+      keywords:["lithium-sulfur battery","MXene","single-atom catalyst","polysulfide conversion","lean electrolyte"],
+      fa_summary:"اتم‌های منفرد کبالت روی MXene تبدیل پلی‌سولفیدها را تسریع می‌کنند و عملکرد باتری Li-S را در الکترولیت کم بهبود می‌دهند.",
+      digest:"Demo digest: atomically dispersed Co on MXene lowers the conversion barrier of polysulfides, enabling stable cycling under lean-electrolyte conditions."}),
+    P(35,{title:"Tin halide perovskite solar cells with suppressed Sn2+ oxidation through reductive surface passivation", journal:"Nature Energy", article_type:"research", open_access:false, is_battery:false,
+      keywords:["tin perovskite","solar cells","surface passivation","Sn2+ oxidation","stability"],
+      fa_summary:"یک لایه‌ی محافظ کاهنده، اکسید شدن قلع را در سلول‌های خورشیدی پروسکایتی قلعی کم می‌کند و پایداری را افزایش می‌دهد."}),
+    P(58,{title:"Anode-free sodium metal batteries: interphase design, current collectors and practical outlook", journal:"Chemical Society Reviews", article_type:"review", open_access:true, is_battery:true,
+      keywords:["sodium metal battery","anode-free","solid electrolyte interphase","current collector","energy density"],
+      fa_summary:"این مقاله‌ی مروری راهبردهای طراحی فصل مشترک و جمع‌کننده‌ی جریان را در باتری‌های سدیمی بدون آند بررسی می‌کند.",
+      digest:"Demo digest: a critical review of interphase chemistry and current-collector engineering for anode-free sodium cells."}),
+    P(84,{title:"Deep generative models for inverse design of metal–organic frameworks for carbon capture", journal:"Nature Computational Science", article_type:"research", open_access:true, is_battery:false,
+      keywords:["metal-organic frameworks","generative models","inverse design","carbon capture","machine learning"],
+      fa_summary:"مدل‌های مولد یادگیری عمیق برای طراحی معکوس چارچوب‌های فلز-آلی با ظرفیت بالای جذب CO2 به کار رفته‌اند."}),
+    P(120,{title:"Halide solid electrolytes with high oxidative stability for 4.8 V all-solid-state batteries", journal:"Joule", article_type:"research", open_access:false, is_battery:true,
+      keywords:["solid-state battery","halide electrolyte","high voltage","oxidative stability","cathode interface"],
+      fa_summary:"الکترولیت‌های جامد هالیدی با پایداری اکسایشی بالا امکان کار باتری تمام‌جامد را تا ۴٫۸ ولت فراهم می‌کنند.",
+      digest:""}),
+    P(160,{title:"What the next decade of electrocatalysis needs from operando spectroscopy", journal:"Nature Catalysis", article_type:"perspective", open_access:false, is_battery:false,
+      keywords:["electrocatalysis","operando spectroscopy","reaction mechanisms","catalyst design","outlook"],
+      fa_summary:"این دیدگاه نیازهای کلیدی طیف‌سنجی حین کار را برای پیشرفت الکتروکاتالیز در دهه‌ی آینده مطرح می‌کند."}),
+    P(210,{title:"Programmable lipid nanoparticles for targeted mRNA delivery to the lung endothelium", journal:"Nature Biotechnology", article_type:"research", open_access:false, is_battery:false,
+      keywords:["lipid nanoparticles","mRNA delivery","lung endothelium","targeted delivery","gene therapy"],
+      fa_summary:"نانوذرات لیپیدی قابل برنامه‌ریزی، mRNA را به‌صورت هدفمند به اندوتلیوم ریه می‌رسانند."}),
+    P(260,{title:"Aqueous zinc batteries enabled by a hydrogen-bond-anchored electrolyte additive", journal:"Angewandte Chemie International Edition", article_type:"research", open_access:true, is_battery:true,
+      keywords:["zinc battery","aqueous electrolyte","electrolyte additive","dendrite suppression","hydrogen bonding"],
+      fa_summary:"یک افزودنی الکترولیت با پیوند هیدروژنی، رشد دندریت روی را مهار و عمر باتری آبی روی را افزایش می‌دهد.",
+      digest:"Demo digest: an additive that reshapes the Zn2+ solvation sheath suppresses dendrites and side reactions."}),
+    P(330,{title:"Moiré engineering of flat bands in twisted transition-metal dichalcogenide bilayers", journal:"Nature Physics", article_type:"research", open_access:false, is_battery:false,
+      keywords:["moiré materials","flat bands","twisted bilayers","TMDs","correlated states"],
+      fa_summary:"مهندسی الگوی موآره در دولایه‌های پیچ‌خورده‌ی TMD باندهای تخت و حالت‌های همبسته ایجاد می‌کند."}),
+    P(400,{title:"Recycling spent lithium-ion cathodes: from hydrometallurgy to direct regeneration", journal:"Energy & Environmental Science", article_type:"review", open_access:false, is_battery:true,
+      keywords:["battery recycling","lithium-ion battery","direct regeneration","hydrometallurgy","sustainability"],
+      fa_summary:"این مرور روش‌های بازیافت کاتد باتری لیتیوم-یون، از هیدرومتالورژی تا بازسازی مستقیم، را مقایسه می‌کند.",
+      digest:""}),
+    P(470,{title:"High-entropy oxide nanocrystals as durable catalysts for acidic oxygen evolution", journal:"Journal of the American Chemical Society", article_type:"research", open_access:false, is_battery:false,
+      keywords:["high-entropy oxides","oxygen evolution","acidic electrolysis","electrocatalyst","durability"],
+      fa_summary:"نانوبلورهای اکسید پرآنتروپی کاتالیزورهایی پایدار برای واکنش تولید اکسیژن در محیط اسیدی هستند."}),
+    P(540,{title:"Photothermal MXene hydrogels for wearable sweat sensing and wound monitoring", journal:"Advanced Materials", article_type:"research", open_access:true, is_battery:false,
+      keywords:["MXene","hydrogel","wearable sensor","sweat sensing","wound monitoring"],
+      fa_summary:"هیدروژل‌های MXene با خاصیت فوتوترمال برای حسگری عرق و پایش زخم در ابزارهای پوشیدنی ساخته شده‌اند."})
+  ]};
+}
+
+/* =========================================================
+   APP
+   ========================================================= */
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const store = { get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}} };
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const state = { lang:"fa", tab:"all", review:false, oa:false, q:"", kw:"", shown:CONFIG.pageSize, data:null };
+
+function t(k){ return (T[state.lang] && T[state.lang][k]) ?? T.en[k] ?? k; }
+function num(n){ return Number(n).toLocaleString(state.lang === "fa" ? "fa-IR" : "en-US"); }
+function ago(iso){
+  const d = (new Date(iso) - Date.now())/1000;
+  const rtf = new Intl.RelativeTimeFormat(state.lang === "fa" ? "fa" : "en", {numeric:"auto", style:"short"});
+  const a = Math.abs(d);
+  if (a < 3600) return rtf.format(Math.round(d/60), "minute");
+  if (a < 86400) return rtf.format(Math.round(d/3600), "hour");
+  return rtf.format(Math.round(d/86400), "day");
+}
+function paperLink(p){ return state.data && state.data.demo ? "#feed" : "https://doi.org/" + encodeURI(p.doi); }
+
+/* ---- language ---- */
+function applyLang(lang){
+  state.lang = lang;
+  document.documentElement.lang = lang;
+  document.documentElement.dir = lang === "fa" ? "rtl" : "ltr";
+  $$("[data-i18n]").forEach(el => el.textContent = t(el.dataset.i18n));
+  $$("[data-i18n-html]").forEach(el => el.innerHTML = t(el.dataset.i18nHtml));
+  $$("[data-i18n-ph]").forEach(el => el.placeholder = t(el.dataset.i18nPh));
+  $$("[data-num]").forEach(el => el.textContent = num(el.dataset.num) + (el.dataset.suffix || ""));
+  $$(".seg button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
+  store.set("ss-lang", lang);
+  render();
+}
+
+/* ---- theme ---- */
+function currentTheme(){
+  const forced = document.documentElement.dataset.theme;
+  if (forced) return forced;
+  return matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+function setThemeIcon(){ $("#themeBtn use").setAttribute("href", currentTheme() === "dark" ? "#i-sun" : "#i-moon"); }
+$("#themeBtn").addEventListener("click", () => {
+  const next = currentTheme() === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next; store.set("ss-theme", next); setThemeIcon();
+});
+
+/* ---- links ---- */
+function applyLinks(){
+  $$("[data-link]").forEach(a => a.href = CONFIG.links[a.dataset.link]);
+  $$("[data-handle]").forEach(el => { const u = CONFIG.links[el.dataset.handle]; el.textContent = "@" + u.split("/").pop(); });
+  $$("[data-rss]").forEach(a => a.href = CONFIG.rss[a.dataset.rss]);
+}
+
+/* ---- post card ---- */
+const TYPE_BADGE = {
+  research:["b-research","#i-flask","type_research"],
+  review:["b-review","#i-star","type_review"],
+  perspective:["b-perspective","#i-bulb","type_perspective"]
+};
+function postHTML(p, opts = {}){
+  const radar = p.is_battery && (state.tab === "radar" || opts.forceRadar);
+  const [cls, icon, key] = TYPE_BADGE[p.article_type] || TYPE_BADGE.research;
+  const link = paperLink(p);
+  const badges = [
+    `<span class="badge ${cls}"><svg><use href="${icon}"/></svg>${esc(t(key))}</span>`,
+    p.open_access ? `<span class="badge b-oa"><svg><use href="#i-unlock"/></svg>${esc(t("oa"))}</span>` : "",
+    p.open_access && p.pdf_url ? `<a class="badge b-oa" href="${esc(p.pdf_url)}" target="_blank" rel="noopener"><svg><use href="#i-pdf"/></svg>PDF</a>` : "",
+    p.is_battery && !radar ? `<span class="badge b-radar"><svg><use href="#i-bolt"/></svg>${esc(t("battery"))}</span>` : ""
+  ].join("");
+  const kws = (p.keywords || []).map(k => `<button class="kw" type="button" data-kw="${esc(k)}">${esc(k)}</button>`).join("");
+  const digest = radar && p.digest ? `<details class="digest"><summary>💡 ${esc(t("digest"))}</summary><p>${esc(p.digest)}</p></details>` : "";
+  return `<article class="post">
+    <div class="post-head">
+      <img class="post-av" src="assets/${radar ? "battery-radar" : "science-scroll"}.webp" width="36" height="36" alt="">
+      <div class="post-meta"><b>${radar ? "Battery Radar" : "Science Scroll"}</b><span class="ltr">${esc(p.journal)}</span></div>
+      <span class="post-time">${esc(ago(p.posted_at))}</span>
+    </div>
+    <a class="post-title ltr" href="${link}" ${link.startsWith("http") ? 'target="_blank" rel="noopener"' : ""}>${esc(p.title)}</a>
+    ${p.fa_summary ? `<p class="post-fa rtl">${esc(p.fa_summary)}</p>` : ""}
+    <div class="badges">${badges}</div>
+    ${digest}
+    ${kws ? `<div class="kws">${kws}</div>` : ""}
+    <div class="post-foot">
+      <a href="${link}" ${link.startsWith("http") ? 'target="_blank" rel="noopener"' : ""}><svg><use href="#i-ext"/></svg>${esc(t("read"))}</a>
+      ${p.open_access && p.pdf_url ? `<a href="${esc(p.pdf_url)}" target="_blank" rel="noopener"><svg><use href="#i-pdf"/></svg>${esc(t("pdf"))}</a>` : ""}
+      <span class="doi ltr">${esc(p.doi)}</span>
+    </div>
+  </article>`;
+}
+
+/* ---- filtering & render ---- */
+function filtered(){
+  const d = state.data; if (!d) return [];
+  const q = state.q.trim().toLowerCase();
+  return d.papers.filter(p =>
+    (state.tab === "all" || p.is_battery) &&
+    (!state.review || p.article_type === "review") &&
+    (!state.oa || p.open_access) &&
+    (!state.kw || (p.keywords || []).some(k => k.toLowerCase() === state.kw.toLowerCase())) &&
+    (!q || [p.title, p.journal, p.fa_summary, ...(p.keywords || [])].join(" ").toLowerCase().includes(q))
+  );
+}
+function render(){
+  const d = state.data; if (!d) return;
+  document.body.classList.toggle("demo", !!d.demo);
+  $("#updatedText").textContent = d.updated_at ? `${t("updated")} ${ago(d.updated_at)}` : "";
+  $("#cntAll").textContent = num(d.papers.length);
+  $("#cntRadar").textContent = num(d.papers.filter(p => p.is_battery).length);
+
+  const list = filtered();
+  $("#feedList").innerHTML = list.length ? list.slice(0, state.shown).map(p => postHTML(p)).join("") : `<div class="empty">${esc(t("empty"))}</div>`;
+  $("#moreBtn").hidden = list.length <= state.shown;
+  $("#activeKw").classList.toggle("on", !!state.kw);
+  $("#kwClear").textContent = state.kw ? state.kw + "  ✕" : "";
+
+  // hero preview: newest battery paper with a summary
+  const hero = d.papers.find(p => p.is_battery && p.fa_summary) || d.papers[0];
+  if (hero) $("#heroPost").innerHTML = postHTML(hero, {forceRadar:false});
+
+  // at a glance (last 24 h) — the bot sends exact stats; otherwise compute from the papers in the feed
+  const st = d.stats || computeStats(d.papers);
+  $("#gTotal").textContent = num(st.total);
+  $("#gBattery").textContent = num(st.battery);
+  $("#gReview").textContent = num(st.review);
+  $("#gOa").textContent = num(st.oa);
+  $("#topKws").innerHTML = (st.keywords || []).map(e => `<button type="button" data-kw="${esc(e.k)}">${esc(e.k)}${e.n > 1 ? `<em>${num(e.n)}</em>` : ""}</button>`).join("");
+  $("#topJournals").innerHTML = (st.journals || []).map(([j, n]) => `<li><span>${esc(j)}</span><b>${num(n)}</b></li>`).join("");
+}
+function computeStats(papers){
+  const day = papers.filter(p => Date.now() - new Date(p.posted_at) < 864e5);
+  const kc = new Map(), jc = new Map();
+  day.forEach(p => {
+    (p.keywords || []).forEach(k => { const key = k.toLowerCase(); const e = kc.get(key) || {k, n:0}; e.n++; kc.set(key, e); });
+    jc.set(p.journal, (jc.get(p.journal) || 0) + 1);
+  });
+  return {
+    total: day.length, battery: day.filter(p => p.is_battery).length,
+    review: day.filter(p => p.article_type === "review").length, oa: day.filter(p => p.open_access).length,
+    keywords: [...kc.values()].sort((a, b) => b.n - a.n).slice(0, 12),
+    journals: [...jc.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5)
+  };
+}
+
+/* ---- events ---- */
+$$(".seg button").forEach(b => b.addEventListener("click", () => applyLang(b.dataset.lang)));
+function setTab(tab){
+  state.tab = tab; state.shown = CONFIG.pageSize;
+  $$(".tabs button").forEach(b => b.setAttribute("aria-selected", String(b.dataset.tab === tab)));
+  render();
+}
+$$(".tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
+$$("[data-goto-tab]").forEach(a => a.addEventListener("click", () => setTab(a.dataset.gotoTab)));
+$$("[data-filter]").forEach(b => b.addEventListener("click", () => {
+  const f = b.dataset.filter; state[f] = !state[f]; state.shown = CONFIG.pageSize;
+  b.setAttribute("aria-pressed", String(state[f])); render();
+}));
+let qTimer; $("#q").addEventListener("input", e => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; state.shown = CONFIG.pageSize; render(); }, 150); });
+document.addEventListener("click", e => {
+  const k = e.target.closest("[data-kw]"); if (!k) return;
+  state.kw = k.dataset.kw; state.shown = CONFIG.pageSize; render();
+  if (!k.closest("#feed")) $("#feed").scrollIntoView({behavior:"smooth"});
+});
+$("#kwClear").addEventListener("click", () => { state.kw = ""; render(); });
+$("#moreBtn").addEventListener("click", () => { state.shown += CONFIG.pageSize; render(); });
+addEventListener("scroll", () => $(".header").classList.toggle("scrolled", scrollY > 8), {passive:true});
+
+/* ---- boot ---- */
+(function init(){
+  const th = store.get("ss-theme"); if (th === "dark" || th === "light") document.documentElement.dataset.theme = th;
+  setThemeIcon();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", setThemeIcon);
+  $("#year").textContent = new Date().getFullYear();
+  $("#marquee").innerHTML = [...JOURNALS, ...JOURNALS].map(j => `<span>${esc(j)}</span>`).join("");
+  applyLinks();
+  const saved = store.get("ss-lang");
+  const lang = saved || "fa"; // Persian first; visitors can switch to English and the choice is remembered
+  applyLang(lang === "en" ? "en" : "fa");
+
+  fetch(CONFIG.feedUrl, {cache:"no-store"})
+    .then(r => { if (!r.ok) throw 0; return r.json(); })
+    .then(d => { if (!d || !Array.isArray(d.papers) || !d.papers.length) throw 0; state.data = d; })
+    .catch(() => { state.data = demoData(); })
+    .finally(render);
+  setInterval(render, 60000); // keep "x min ago" fresh
+})();
+</script>
+</body>
+</html>
