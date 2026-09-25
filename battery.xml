@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 14:01:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 15:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Repairability and Active Defect Utilization in Direct Regeneration of Lithium‐Ion Battery Cathodes</title>
+<link>https://doi.org/10.1002/adma.75073</link>
+<guid isPermaLink="false">10.1002/adma.75073</guid>
+<pubDate>Fri, 25 Sep 2026 15:01:46 GMT</pubDate>
+<description>این مرور مفهوم قابلیت ترمیم را به‌عنوان توصیف‌گر پیونددهنده تخریب و بازتولید کاتدهای باتری لیتیوم-یونی معرفی می‌کند و استفاده فعال از نقص‌ها را پیشنهاد می‌دهد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review reframes cathode degradation defects as exploitable structural resources rather than mere damage, introducing &amp;quot;repairability&amp;quot; as a descriptor linking failure mechanisms to regeneration strategies. It reclassifies regeneration into relithiation, structural restoration, and surface reconstruction within a barrier-engineering framework, and highlights defect-mediated heteroepitaxy, single-crystal reconstruction, and bulk doping for upgrading cathodes beyond pristine performance—advancing sustainable closed-loop battery recycling.&lt;br&gt;🏷 direct regeneration · cathode defects · repairability · battery recycling · defect utilization</description>
+<category>direct regeneration</category>
+<category>cathode defects</category>
+<category>repairability</category>
+<category>battery recycling</category>
+<category>defect utilization</category>
+</item>
+<item>
+<title>Hierarchical Confinement and Oxygen‐Vacancy Catalysis for Highly Reversible Room‐Temperature Sodium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/adma.75129</link>
+<guid isPermaLink="false">10.1002/adma.75129</guid>
+<pubDate>Fri, 25 Sep 2026 15:01:41 GMT</pubDate>
+<description>این مقاله با محدودسازی سلسله‌مراتبی و کاتالیز نقص اکسیژن در CeO2-x، باتری سدیم-گوگرد دمای اتاق با ظرفیت ۱۱۶۷ mAh/g و پایداری ۹۰۰۰ چرخه می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molten-salt strategy confining oxygen-deficient CeO₂₋ₓ nanoparticles within hierarchically porous carbon and graphene-like nanosheets, unifying spatial confinement with oxygen-vacancy catalysis. This enables reversible solid–liquid–solid sulfur conversion, suppresses polysulfide shuttling, and delivers 1167 mAh g⁻¹ with 86.2% retention over 9000 cycles, establishing a confinement-catalysis paradigm for long-life room-temperature sodium-sulfur batteries.&lt;br&gt;🏷 sodium-sulfur battery · oxygen vacancy · CeO2-x · confinement catalysis · polysulfide shuttle</description>
+<category>sodium-sulfur battery</category>
+<category>oxygen vacancy</category>
+<category>CeO2-x</category>
+<category>confinement catalysis</category>
+<category>polysulfide shuttle</category>
+</item>
+<item>
+<title>Degradation-Informed Surface Coating Strategies for Recycled Lithium-Ion Battery Materials</title>
+<link>https://doi.org/10.1039/d6ee04456e</link>
+<guid isPermaLink="false">10.1039/d6ee04456e</guid>
+<pubDate>Fri, 25 Sep 2026 15:01:25 GMT</pubDate>
+<description>این مقاله راهبردهای پوشش سطحی مبتنی بر شناخت تخریب را برای مواد باتری لیتیوم-یونی بازیافتی بررسی می‌کند تا چرخه عمر پایدار باتری ممکن شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review&lt;br&gt;💡 The novelty lies in linking specific degradation modes of recycled lithium-ion battery materials to tailored surface coating strategies, rather than applying virgin-material coatings indiscriminately. Its significance is enabling direct, hydrometallurgical, and pyrometallurgical recycling routes to restore electrochemical performance and durability, thereby advancing sustainable battery lifecycles and critical resource recovery.&lt;br&gt;🏷 battery recycling · surface coating · cathode degradation · direct recycling · hydrometallurgy</description>
+<category>battery recycling</category>
+<category>surface coating</category>
+<category>cathode degradation</category>
+<category>direct recycling</category>
+<category>hydrometallurgy</category>
+</item>
 <item>
 <title>Cu/Ti/Al tripartite synergistic O3-typeNaNi 0.3 Fe 0.2 Mn 0.5 O 2 for sodium-ion batteries with high energy-density and cyclic-stability</title>
 <link>https://doi.org/10.1039/d6ta05746b</link>
