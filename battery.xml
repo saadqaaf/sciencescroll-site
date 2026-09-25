@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Battery Radar</title>
+<link>https://sciencescroll.ir/</link>
+<description>New battery and energy-storage papers from 100+ top journals.</description>
+<language>en</language>
+<lastBuildDate>Fri, 25 Sep 2026 06:32:45 GMT</lastBuildDate>
+<atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Research progress, challenges, and trends of sensing materials for thermal hazard monitoring in lithium-ion batteries: A review</title>
+<link>https://doi.org/10.1016/j.est.2026.124731</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124731</guid>
+<pubDate>Fri, 25 Sep 2026 04:46:16 GMT</pubDate>
+<description>این مرور، پیشرفت‌ها، چالش‌ها و روندهای مواد حسگر برای پایش خطر حرارتی در باتری‌های لیتیوم-یون را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery · thermal hazard · sensing materials · monitoring · safety</description>
+<category>lithium-ion battery</category>
+<category>thermal hazard</category>
+<category>sensing materials</category>
+<category>monitoring</category>
+<category>safety</category>
+</item>
+<item>
+<title>Real-world electric vehicle battery health characterization and robust degradation trajectory prediction under heterogeneous operating conditions</title>
+<link>https://doi.org/10.1016/j.est.2026.124846</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124846</guid>
+<pubDate>Fri, 25 Sep 2026 04:46:12 GMT</pubDate>
+<description>این مقاله سلامت باتری خودروهای برقی را در شرایط واقعی و heterogeneous بررسی کرده و یک روش مقاوم برای پیش‌بینی مسیر تخریب ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric vehicle battery · battery health · degradation prediction · heterogeneous conditions · robust modeling</description>
+<category>electric vehicle battery</category>
+<category>battery health</category>
+<category>degradation prediction</category>
+<category>heterogeneous conditions</category>
+<category>robust modeling</category>
+</item>
+<item>
+<title>Non-destructive in-situ/operando characterization of sulfide-based all-solid-state batteries: A multiscale perspective</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.029</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.029</guid>
+<pubDate>Fri, 25 Sep 2026 04:28:30 GMT</pubDate>
+<description>این مرور، روش‌های مشخصه‌یابی درجای غیرمخرب چندمقیاسی برای بررسی ساختار و واسط‌های باتری‌های تمام‌حالت‌جامد سولفیدی را جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 AllSolidStateBattery · SulfideElectrolyte · OperandoCharacterization · MultiscaleAnalysis · InterfaceDegradation</description>
+<category>AllSolidStateBattery</category>
+<category>SulfideElectrolyte</category>
+<category>OperandoCharacterization</category>
+<category>MultiscaleAnalysis</category>
+<category>InterfaceDegradation</category>
+</item>
+</channel>
+</rss>
