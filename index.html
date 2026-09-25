@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<html lang="en" dir="ltr" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Science Scroll · Battery Radar</title>
 <meta name="description" content="Newest papers from 100+ top journals, with one-line Persian summaries, keywords and Open Access badges. تازه‌ترین مقاله‌های ۱۰۰+ ژورنال برتر با خلاصه فارسی.">
-<meta name="theme-color" content="#f7f7f4">
+<meta name="theme-color" content="#0c0e12">
 <meta property="og:title" content="Science Scroll · Battery Radar">
 <meta property="og:description" content="Newest papers from 100+ top journals, with Persian summaries, keywords and Open Access badges.">
 <meta property="og:type" content="website">
@@ -856,7 +856,7 @@ addEventListener("scroll", () => $(".header").classList.toggle("scrolled", scrol
   $("#marquee").innerHTML = [...JOURNALS, ...JOURNALS].map(j => `<span>${esc(j)}</span>`).join("");
   applyLinks();
   const saved = store.get("ss-lang");
-  const lang = saved || "fa"; // Persian first; visitors can switch to English and the choice is remembered
+  const lang = saved || "en"; // Persian first; visitors can switch to English and the choice is remembered
   applyLang(lang === "en" ? "en" : "fa");
 
   fetch(CONFIG.feedUrl, {cache:"no-store"})
