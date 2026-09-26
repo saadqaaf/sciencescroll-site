@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 16:03:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 17:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Physics-informed unsupervised battery state-of-charge estimation via temperature-conditioned Mamba and parallel Bayesian inference</title>
+<link>https://doi.org/10.1016/j.est.2026.124571</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124571</guid>
+<pubDate>Sat, 26 Sep 2026 17:02:01 GMT</pubDate>
+<description>این مقاله یک روش یادگیری فیزیک‌محور و بدون نظارت با Mamba شرطی‌شده بر دما و استنتاج بیزی موازی برای تخمین وضعیت شارژ باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · physics-informed learning · Mamba model · Bayesian inference · temperature conditioning</description>
+<category>state of charge</category>
+<category>physics-informed learning</category>
+<category>Mamba model</category>
+<category>Bayesian inference</category>
+<category>temperature conditioning</category>
+</item>
+<item>
+<title>Preparation and performance study of novel polyurethane-based composite phase change materials for battery thermal management</title>
+<link>https://doi.org/10.1016/j.est.2026.124890</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124890</guid>
+<pubDate>Sat, 26 Sep 2026 17:01:57 GMT</pubDate>
+<description>این پژوهش مواد تغییر فاز دهنده کامپوزیتی بر پایه polyurethane را برای مدیریت حرارتی باتری تهیه و عملکرد حرارتی آن را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · polyurethane composite · battery thermal management · thermal conductivity · latent heat</description>
+<category>phase change material</category>
+<category>polyurethane composite</category>
+<category>battery thermal management</category>
+<category>thermal conductivity</category>
+<category>latent heat</category>
+</item>
+<item>
+<title>Comprehensive experimental and computational fluid mechanics analysis of flow channel designs for optimizing zinc–bromine redox flow battery performance</title>
+<link>https://doi.org/10.1016/j.est.2026.124813</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124813</guid>
+<pubDate>Sat, 26 Sep 2026 17:01:53 GMT</pubDate>
+<description>این مقاله با تحلیل تجربی و شبیه‌سازی CFD، طراحی کانال جریان را برای بهبود عملکرد باتری جریان ردوکس zinc-bromine بهینه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-bromine battery · redox flow battery · flow channel design · CFD simulation · mass transport</description>
+<category>zinc-bromine battery</category>
+<category>redox flow battery</category>
+<category>flow channel design</category>
+<category>CFD simulation</category>
+<category>mass transport</category>
+</item>
+<item>
+<title>Explosion characteristics of thermal runaway gases from nickel cobalt manganese (NCM) and lithium iron phosphate (LFP) batteries under elevated temperatures and pressures: Experiments and chemical kinetic analysis</title>
+<link>https://doi.org/10.1016/j.est.2026.124852</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124852</guid>
+<pubDate>Sat, 26 Sep 2026 17:01:49 GMT</pubDate>
+<description>ویژگی‌های انفجار گازهای فرار حرارتی باتری‌های NCM و LFP در دما و فشار بالا با آزمایش و تحلیل سینتیک شیمیایی بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway gas · NCM battery · LFP battery · explosion characteristics · chemical kinetics</description>
+<category>thermal runaway gas</category>
+<category>NCM battery</category>
+<category>LFP battery</category>
+<category>explosion characteristics</category>
+<category>chemical kinetics</category>
+</item>
+<item>
+<title>Path-dependent degradation diagnosis of commercial NCA/graphite 18650 cells under coupled cycle-calendar aging via dual-tank model identification and differential voltage analysis</title>
+<link>https://doi.org/10.1016/j.est.2026.124612</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124612</guid>
+<pubDate>Sat, 26 Sep 2026 17:01:41 GMT</pubDate>
+<description>تخریب وابسته به مسیر سلول‌های تجاری NCA/graphite 18650 تحت پیری توأم چرخه‌ای-تقویمی با مدل دومخزنی و تحلیل ولتاژ تفاضلی تشخیص داده شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NCA/graphite cell · cycle-calendar aging · degradation diagnosis · dual-tank model · differential voltage analysis</description>
+<category>NCA/graphite cell</category>
+<category>cycle-calendar aging</category>
+<category>degradation diagnosis</category>
+<category>dual-tank model</category>
+<category>differential voltage analysis</category>
+</item>
+<item>
+<title>A quick solution algorithm for online prediction of three-dimensional temperature distribution in lithium-ion battery based on thermal resistance network and influence of network parameters on calculation performance</title>
+<link>https://doi.org/10.1016/j.est.2026.124870</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124870</guid>
+<pubDate>Sat, 26 Sep 2026 17:01:34 GMT</pubDate>
+<description>الگوریتم سریع مبتنی بر شبکه مقاومت حرارتی برای پیش‌بینی برخط توزیع دمای سه‌بعدی باتری لیتیوم-یون ارائه و اثر پارامترهای شبکه بر دقت بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · thermal resistance network · temperature distribution · online prediction · network parameters</description>
+<category>lithium-ion battery</category>
+<category>thermal resistance network</category>
+<category>temperature distribution</category>
+<category>online prediction</category>
+<category>network parameters</category>
+</item>
 <item>
 <title>From Brittle to Damage‐Tolerant: Particle‐Level Mechanical Reinforcement Enables High‐Voltage Stability in Ni‐Rich Cathodes</title>
 <link>https://doi.org/10.1002/smll.75984</link>
@@ -656,78 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydratio
 <category>reversible capacity loss</category>
 <category>temperature</category>
 <category>C-rate</category>
-</item>
-<item>
-<title>Unveiling high functional group utilization in trace-level electrolyte additives for stable zinc anodes in aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124833</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124833</guid>
-<pubDate>Fri, 25 Sep 2026 11:01:32 GMT</pubDate>
-<description>این مقاله استفاده بالای گروه‌های عاملی در افزودنی‌های الکترولیت در سطح کم برای پایدارسازی آند روی در باتری‌های آبی روی-یون را نشان می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion battery · zinc anode · electrolyte additive · functional group · aqueous electrolyte</description>
-<category>zinc-ion battery</category>
-<category>zinc anode</category>
-<category>electrolyte additive</category>
-<category>functional group</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Stability-constrained adaptive recurrent network with fractional memory for lithium-ion battery state-of-health prediction</title>
-<link>https://doi.org/10.1016/j.est.2026.124738</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124738</guid>
-<pubDate>Fri, 25 Sep 2026 11:01:28 GMT</pubDate>
-<description>این مقاله یک شبکه بازگشتی تطبیقی با حافظه کسری و محدودیت پایداری برای پیش‌بینی وضعیت سلامت باتری لیتیوم-یونی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · recurrent neural network · fractional memory · stability constraint</description>
-<category>lithium-ion battery</category>
-<category>state of health</category>
-<category>recurrent neural network</category>
-<category>fractional memory</category>
-<category>stability constraint</category>
-</item>
-<item>
-<title>Attention-based deep learning framework for battery charge, health, and lifetime estimation in lithium-ion batteries for electric vehicles</title>
-<link>https://doi.org/10.1016/j.esr.2026.102359</link>
-<guid isPermaLink="false">10.1016/j.esr.2026.102359</guid>
-<pubDate>Fri, 25 Sep 2026 11:01:24 GMT</pubDate>
-<description>این مقاله یک چارچوب یادگیری عمیق مبتنی بر توجه برای تخمین شارژ، سلامت و عمر باتری‌های لیتیوم-یونی خودروهای برقی ارائه می‌دهد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery · deep learning · attention mechanism · state of health · electric vehicles</description>
-<category>lithium-ion battery</category>
-<category>deep learning</category>
-<category>attention mechanism</category>
-<category>state of health</category>
-<category>electric vehicles</category>
-</item>
-<item>
-<title>Dynamic‐Coupling Axial Chloride on Dual‐Heteroatom Sites for Highly Anti‐Chloride Oxygen Reduction in Seawater</title>
-<link>https://doi.org/10.1002/anie.3482426</link>
-<guid isPermaLink="false">10.1002/anie.3482426</guid>
-<pubDate>Fri, 25 Sep 2026 09:02:01 GMT</pubDate>
-<description>کاتالیزورهای دو-هترواتمی FeMn با کوئوردیناسیون محوری کلر، فعالیت ORR در آب دریا را با پتانسیل نیم‌موج ۰.۹۴۱ V و پایداری بالا در باتری Zn-air بهبود می‌دهند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers a dynamic axial Cl coordination strategy using O-bridged FeMn dual-heteroatom catalysts to overcome chloride poisoning in seawater ORR. The Cl−FeN3−O1−MnN3 structure enables fast four-electron kinetics and suppresses Fe corrosion, achieving 0.941 V half-wave potential and 30,000-cycle stability. The approach is generalizable to Co, Ni, and Cu systems, advancing sustainable seawater energy conversion.&lt;br&gt;🏷 seawater ORR · dual-heteroatom catalysts · axial chloride · Zn-air battery · anti-chloride poisoning</description>
-<category>seawater ORR</category>
-<category>dual-heteroatom catalysts</category>
-<category>axial chloride</category>
-<category>Zn-air battery</category>
-<category>anti-chloride poisoning</category>
-</item>
-<item>
-<title>Polymer Side‐Chain Electronic Effects Regulating Solvation Sheath for Low‐Temperature and High‐Voltage Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78605</link>
-<guid isPermaLink="false">10.1002/adfm.78605</guid>
-<pubDate>Fri, 25 Sep 2026 08:01:12 GMT</pubDate>
-<description>زنجیره‌های جانبی الکترون‌کشنده تری‌فلورومتیل در GPE با کاهش سد بی‌حلال‌شدن Li+ و تشکیل LiF، باتری لیتیوم-فلز را در دمای پایین و ولتاژ بالا پایدار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers tuning polymer side-chain electronic effects to regulate Li⁺ solvation in gel electrolytes. Electron-withdrawing trifluoromethyl chains weaken polymer-Li⁺ binding, lowering desolvation barriers and forming LiF-rich interphases. The resulting electrolyte enables stable cycling at −20°C and high voltage, offering a new design paradigm for safe, high-energy-density lithium metal batteries in extreme environments.&lt;br&gt;🏷 gel polymer electrolyte · lithium metal battery · side-chain electronic effect · desolvation barrier · low-temperature electrolyte</description>
-<category>gel polymer electrolyte</category>
-<category>lithium metal battery</category>
-<category>side-chain electronic effect</category>
-<category>desolvation barrier</category>
-<category>low-temperature electrolyte</category>
-</item>
-<item>
-<title>Research progress, challenges, and trends of sensing materials for thermal hazard monitoring in lithium-ion batteries: A review</title>
-<link>https://doi.org/10.1016/j.est.2026.124731</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124731</guid>
-<pubDate>Fri, 25 Sep 2026 04:46:16 GMT</pubDate>
-<description>این مرور، پیشرفت‌ها، چالش‌ها و روندهای مواد حسگر برای پایش خطر حرارتی در باتری‌های لیتیوم-یون را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery · thermal hazard · sensing materials · monitoring · safety</description>
-<category>lithium-ion battery</category>
-<category>thermal hazard</category>
-<category>sensing materials</category>
-<category>monitoring</category>
-<category>safety</category>
 </item>
 </channel>
 </rss>
