@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 21:01:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 22:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Lanthanide MAX phases derived from M2A sublayer: synthesis, thermal properties and magnetic properties</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103522</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103522</guid>
+<pubDate>Sat, 26 Sep 2026 22:01:16 GMT</pubDate>
+<description>این مقاله سنتز فازهای MAX لانتانیدی مشتق از زیرلایه M2A و بررسی خواص حرارتی و مغناطیسی آن‌ها را گزارش می‌کند.&lt;br&gt;Materials Today | 🔬 Research Article&lt;br&gt;🏷 MAX phases · lanthanide · M2A sublayer · thermal properties · magnetic properties</description>
+<category>MAX phases</category>
+<category>lanthanide</category>
+<category>M2A sublayer</category>
+<category>thermal properties</category>
+<category>magnetic properties</category>
+</item>
+<item>
+<title>Designing PEDOT:PSS hydrogels for bioelectronic interfaces</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103521</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103521</guid>
+<pubDate>Sat, 26 Sep 2026 22:01:11 GMT</pubDate>
+<description>این مقاله به طراحی هیدروژل‌های PEDOT:PSS برای واسط‌های بیوالکترونیکی می‌پردازد و راهبردهای بهبود خواص الکتریکی و زیست‌سازگاری را مرور می‌کند.&lt;br&gt;Materials Today | ⭐ Review&lt;br&gt;🏷 PEDOT:PSS · hydrogels · bioelectronic interfaces · conducting polymers · biocompatibility</description>
+<category>PEDOT:PSS</category>
+<category>hydrogels</category>
+<category>bioelectronic interfaces</category>
+<category>conducting polymers</category>
+<category>biocompatibility</category>
+</item>
 <item>
 <title>Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c02409</link>
@@ -704,30 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>photoredox catalysis</category>
 <category>chromium catalysis</category>
 <category>allylchromium</category>
-</item>
-<item>
-<title>Interfacial Dipole Engineering of Single‐Atom Co–N–C and Ru Nanoparticles for Enhanced Hydrogenation of Levulinic Acid to γ ‐Valerolactone</title>
-<link>https://doi.org/10.1002/anie.8734241</link>
-<guid isPermaLink="false">10.1002/anie.8734241</guid>
-<pubDate>Sat, 26 Sep 2026 15:02:25 GMT</pubDate>
-<description>کاتالیزور Ru NPs/Co1-N-C با اثر دوقطبی بین‌سطحی، هیدروژناسیون لوولینیک اسید به γ-والرولاکتون را با تبدیل تقریباً کامل و انتخاب‌پذیری ۱۰۰٪ در شرایط محیطی انجام می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 single-atom catalyst · Co-N-C · Ru nanoparticles · levulinic acid hydrogenation · interfacial dipole</description>
-<category>single-atom catalyst</category>
-<category>Co-N-C</category>
-<category>Ru nanoparticles</category>
-<category>levulinic acid hydrogenation</category>
-<category>interfacial dipole</category>
-</item>
-<item>
-<title>Rare‐Earth Multivariate Metal–Organic Frameworks: Cationic Radius Biased Compositional Control and Property Tuning</title>
-<link>https://doi.org/10.1002/anie.5287849</link>
-<guid isPermaLink="false">10.1002/anie.5287849</guid>
-<pubDate>Sat, 26 Sep 2026 15:02:22 GMT</pubDate>
-<description>سنتز خانواده MOF چندمتغیره با ۱۵ فلز خاکی کمیاب نشان می‌دهد ترکیب و خواص تخلخل، مغناطیس و جذب UV-visible با شعاع کاتیونی قابل تنظیم است.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metal-organic framework · rare-earth · multivariate MOF · cationic radius · property tuning</description>
-<category>metal-organic framework</category>
-<category>rare-earth</category>
-<category>multivariate MOF</category>
-<category>cationic radius</category>
-<category>property tuning</category>
 </item>
 </channel>
 </rss>
