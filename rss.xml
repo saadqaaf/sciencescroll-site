@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 03:01:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 04:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Passivation-Induced Interfacial Fields Reshape Carrier-Extraction Landscapes in Perovskite Solar Cells</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02149</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02149</guid>
+<pubDate>Sat, 26 Sep 2026 04:01:01 GMT</pubDate>
+<description>پسیواسیون با PEAI و OAI در سلول‌های خورشیدی پروسکایتی، میدان‌های بین‌سطحی را تغییر داده و مسیرهای استخراج حامل را به سمت لایه انتقال الکترون جابه‌جا می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · passivation · carrier extraction · interfacial field · transient reflection spectroscopy</description>
+<category>perovskite solar cells</category>
+<category>passivation</category>
+<category>carrier extraction</category>
+<category>interfacial field</category>
+<category>transient reflection spectroscopy</category>
+</item>
 <item>
 <title>Photon-engineered nanoplatforms for biophotonics: A comparative review of upconversion and perovskite nanomaterials</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218586</link>
@@ -714,18 +726,6 @@
 <category>C-O activation</category>
 <category>organoboron</category>
 <category>late-stage functionalization</category>
-</item>
-<item>
-<title>TRAF7 mutations stabilize K/NRAS and hyperactivate MAPK signaling to cause CAFDADD neurodevelopmental defects</title>
-<link>https://doi.org/10.1126/sciadv.adw8672</link>
-<guid isPermaLink="false">10.1126/sciadv.adw8672</guid>
-<pubDate>Fri, 25 Sep 2026 20:04:10 GMT</pubDate>
-<description>جهش‌های TRAF7 با تثبیت KRAS و NRAS و هایپراکتیواسیون MAPK، نقص‌های نوروتوسعه‌ای CAFDADD را ایجاد می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 TRAF7 · KRAS/NRAS · MAPK signaling · neurodevelopment · CAFDADD</description>
-<category>TRAF7</category>
-<category>KRAS/NRAS</category>
-<category>MAPK signaling</category>
-<category>neurodevelopment</category>
-<category>CAFDADD</category>
 </item>
 </channel>
 </rss>
