@@ -5,8 +5,45 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 14:02:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 15:03:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Chemical-Delithiation-Induced Surface Reconstruction in Layered Oxide Cathodes for High-Performance All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c11457</link>
+<guid isPermaLink="false">10.1021/jacs.6c11457</guid>
+<pubDate>Sat, 26 Sep 2026 15:03:23 GMT</pubDate>
+<description>بازسازی سطحی ناشی از حذف شیمیایی لیتیوم در کاتدهای لایهای اکسیدی، تخریب سطح مشترک را حذف و عملکرد باتری تمامحالت را بهبود میدهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation with NO2BF4 reconstructs Li-rich layered oxide surfaces into a cation-disordered, fluorine-incorporating subsurface layer, passivating the oxidative interface and eliminating cathode–solid electrolyte degradation. This enables ~300.3 mAh g–1 capacity and 82.3% retention over 1500 cycles in all-solid-state batteries, and the strategy extends to Ni-rich oxides, offering a universal interfacial design route for high-energy ASSBs.&lt;br&gt;🏷 all-solid-state battery · Li-rich cathode · surface reconstruction · chemical delithiation · interfacial degradation</description>
+<category>all-solid-state battery</category>
+<category>Li-rich cathode</category>
+<category>surface reconstruction</category>
+<category>chemical delithiation</category>
+<category>interfacial degradation</category>
+</item>
+<item>
+<title>Synthesis of Ladder and Flexible Polysulfonimides Directly From Anionic Monomers: Investigating Structure–Property Convergence in Succinonitrile–Polymer Electrolyte Blends</title>
+<link>https://doi.org/10.1002/anie.8257644</link>
+<guid isPermaLink="false">10.1002/anie.8257644</guid>
+<pubDate>Sat, 26 Sep 2026 15:02:40 GMT</pubDate>
+<description>سنتز پلی‌سولفونیمیدهای نردبانی و انعطاف‌پذیر و بررسی آمیخته‌های آن‌ها با سوکسینونیتریل نشان می‌دهد ساختارهای متخلخل و غیرمتخلخل به رسانایی و خواص مشابه می‌رسند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces the first sulfonimide-based polymer of intrinsic microporosity (FAS-PIM) and directly compares it with flexible, non-microporous polysulfonimide analogs. Adding succinonitrile drives both architectures toward similar conductivity, thermomechanical properties, and reprocessability, despite differing conduction mechanisms. This establishes convergence between permanently microporous and transiently porous single-ion conducting electrolytes, offering design guidance for next-generation materials.&lt;br&gt;🏷 polymer electrolyte · sulfonimide · microporosity · succinonitrile · ion transport</description>
+<category>polymer electrolyte</category>
+<category>sulfonimide</category>
+<category>microporosity</category>
+<category>succinonitrile</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Hofmeister‐Regulated Amide‐Protonated Hydrogel Enables Organo‐Interhalogen Conversion‐Type Quasi‐Solid‐State Zn Batteries With Practical Iodine Loadings</title>
+<link>https://doi.org/10.1002/anie.5159694</link>
+<guid isPermaLink="false">10.1002/anie.5159694</guid>
+<pubDate>Sat, 26 Sep 2026 15:02:05 GMT</pubDate>
+<description>الکترولیت هیدروژل پلی‌آکریل‌آمید پروتونه‌شده با تنظیم هافمایستر دوگانه‌آنیونی، سرگردانی پلی‌یدید و هیدرولیز I+ را سرکوب کرده و باتری Zn-ید چهارالکترونی شبه‌جامد با بارگذاری عملی ید ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces a Hofmeister-regulated amide-protonated pPAM hydrogel electrolyte that suppresses polyiodide shuttling and I⁺ hydrolysis in organo-interhalogen-mediated four-electron Zn–iodine batteries. It enables practical iodine loadings (28.3 mg cm⁻², 9.95 mAh cm⁻²), over 2000 cycles, and Ah-level pouch cells (305 Wh kg⁻¹), establishing a design principle for high-loading quasi-solid-state 4eZIBs.&lt;br&gt;🏷 Zn battery · iodine conversion · Hofmeister effect · hydrogel electrolyte · polyiodide shuttling</description>
+<category>Zn battery</category>
+<category>iodine conversion</category>
+<category>Hofmeister effect</category>
+<category>hydrogel electrolyte</category>
+<category>polyiodide shuttling</category>
+</item>
 <item>
 <title>Facet‐Induced Electron‐Bridge Enables Enhanced LiO 2 ‐Mediated Reaction Kinetics for Stable Lithium‐Oxygen Batteries</title>
 <link>https://doi.org/10.1002/adfm.78644</link>
