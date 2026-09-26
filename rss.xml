@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 08:00:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 09:01:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Zr-Au Dual-Active-Sites Enable Oxidative Cleavage of Lignin to Aromatic Monomers</title>
+<link>https://doi.org/10.1039/d6ta03293a</link>
+<guid isPermaLink="false">10.1039/d6ta03293a</guid>
+<pubDate>Sat, 26 Sep 2026 09:01:40 GMT</pubDate>
+<description>این پژوهش با سایت‌های فعال دوگانه Zr-Au، شکست اکسایشی پیوند Cβ-O لیگنین را برای تولید مونومرهای آروماتیک به‌صورت هم‌افزا انجام می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 lignin valorization · Zr-Au catalysts · oxidative cleavage · aromatic monomers · Cβ-O bond</description>
+<category>lignin valorization</category>
+<category>Zr-Au catalysts</category>
+<category>oxidative cleavage</category>
+<category>aromatic monomers</category>
+<category>Cβ-O bond</category>
+</item>
+<item>
+<title>High-Entropy Materials for Electrochemical Nitrogen Conversion: A New Frontier in Sustainable Catalysis</title>
+<link>https://doi.org/10.1039/d6ta04042j</link>
+<guid isPermaLink="false">10.1039/d6ta04042j</guid>
+<pubDate>Sat, 26 Sep 2026 09:01:36 GMT</pubDate>
+<description>این مقاله مروری، کاربرد مواد با آنتروپی بالا را به عنوان مرزی نوین در کاتالیز پایدار برای تبدیل الکتروشیمیایی نیتروژن و تولید آمونیاک بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;🏷 high-entropy materials · electrochemical nitrogen conversion · ammonia synthesis · electrocatalysis · sustainable catalysis</description>
+<category>high-entropy materials</category>
+<category>electrochemical nitrogen conversion</category>
+<category>ammonia synthesis</category>
+<category>electrocatalysis</category>
+<category>sustainable catalysis</category>
+</item>
 <item>
 <title>Cu-dominant CuMoO4@CoMoO4 flower-like heterostructure as a high-capacity battery-type electrode for hybrid supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.124836</link>
@@ -704,30 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 imidazolium amino acids �
 <category>pyrolysis</category>
 <category>activation</category>
 <category>water treatment</category>
-</item>
-<item>
-<title>Topology-aware E(3)-equivariant learning for physically consistent piezoelectric tensor prediction</title>
-<link>https://doi.org/10.1038/s41524-026-02331-3</link>
-<guid isPermaLink="false">10.1038/s41524-026-02331-3</guid>
-<pubDate>Fri, 25 Sep 2026 20:06:19 GMT</pubDate>
-<description>این مقاله یک روش یادگیری E(3)-equivariant و آگاه از توپولوژی برای پیش‌بینی تانسور پیزوالکتریک با سازگاری فیزیکی ارائه می‌دهد.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 piezoelectric tensor · E(3)-equivariant learning · topology-aware model · physical consistency · machine learning</description>
-<category>piezoelectric tensor</category>
-<category>E(3)-equivariant learning</category>
-<category>topology-aware model</category>
-<category>physical consistency</category>
-<category>machine learning</category>
-</item>
-<item>
-<title>Concealable Physically Unclonable Functions via Wetting‐Driven Tunable Opacity in Smart Nanofibrous Mats</title>
-<link>https://doi.org/10.1002/smll.75907</link>
-<guid isPermaLink="false">10.1002/smll.75907</guid>
-<pubDate>Fri, 25 Sep 2026 20:06:13 GMT</pubDate>
-<description>این مطالعه یک PUF نوری پنهان‌شونده بر پایه نانوالیاف پاسخ‌گو به ترشوندگی و نقاط کوانتومی معرفی می‌کند که با تغییر شفافیت ناشی از خیس شدن، کلید رمزنگاری 256 بیتی یکتا و غیرقابل کلون تولید می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 physically unclonable function · electrospinning · quantum dots · wetting-induced transparency · anti-counterfeiting</description>
-<category>physically unclonable function</category>
-<category>electrospinning</category>
-<category>quantum dots</category>
-<category>wetting-induced transparency</category>
-<category>anti-counterfeiting</category>
 </item>
 </channel>
 </rss>
