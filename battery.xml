@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 10:00:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 11:01:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Asymmetric Sulfonated Nanofibrous Separator for Simultaneously Stabilizing Zn Anodes and Accelerating Cathode Kinetics</title>
+<link>https://doi.org/10.1002/adma.75145</link>
+<guid isPermaLink="false">10.1002/adma.75145</guid>
+<pubDate>Sat, 26 Sep 2026 11:01:29 GMT</pubDate>
+<description>جداکننده نامتقارن نانوالیاف سولفونه با تنظیم آب در دو سمت، آند Zn را پایدار کرده و سینتیک کاتد را در باتری آبی روی تسریع می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an asymmetric sulfonated nanofibrous separator that creates distinct water-poor and water-rich interfaces, simultaneously suppressing Zn dendrites and accelerating cathode kinetics. Its significance is enabling stable Zn anodes (6850 h) and high-capacity pouch cells (98.2% retention after 250 cycles), advancing practical aqueous zinc battery deployment.&lt;br&gt;🏷 zinc metal battery · asymmetric separator · sulfonated nanofiber · desolvation · Zn anode</description>
+<category>zinc metal battery</category>
+<category>asymmetric separator</category>
+<category>sulfonated nanofiber</category>
+<category>desolvation</category>
+<category>Zn anode</category>
+</item>
+<item>
+<title>Central‐Atom‐Differentiated Solvent Chemistry Enables Anion‐Reinforced Solvation for Ultra‐Long Cycling Ah‐Level Sodium‐Ion Pouch Cells</title>
+<link>https://doi.org/10.1002/adma.75170</link>
+<guid isPermaLink="false">10.1002/adma.75170</guid>
+<pubDate>Sat, 26 Sep 2026 11:01:21 GMT</pubDate>
+<description>افزودن ethylene sulfite به الکترولیت کربناته، سولواسیون تقویت‌شده با آنیون را ایجاد کرده و پوچ سل سدیم-یون با 81.29% ظرفیت پس از 3500 چرخه می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Introducing ethylene sulfite into carbonate electrolytes differentiates solvent central-atom chemistry (sulfur vs. carbon), rebalancing solvent-anion competition to reinforce PF₆⁻ in Na⁺ solvation. This lowers desolvation barriers and forms inorganic-rich interphases on both electrodes, enabling a 2.34 Ah pouch cell to retain 81.29% capacity after 3500 cycles and operate from −20°C to 50°C.&lt;br&gt;🏷 sodium-ion battery · ethylene sulfite · solvation structure · pouch cell · interphase</description>
+<category>sodium-ion battery</category>
+<category>ethylene sulfite</category>
+<category>solvation structure</category>
+<category>pouch cell</category>
+<category>interphase</category>
+</item>
+<item>
+<title>Desolvation Kinetics Governs Propylene Carbonate Co‐Intercalation in Graphite Anodes</title>
+<link>https://doi.org/10.1002/adma.75125</link>
+<guid isPermaLink="false">10.1002/adma.75125</guid>
+<pubDate>Sat, 26 Sep 2026 11:01:13 GMT</pubDate>
+<description>هم‌درآمیزی پروپیلن کربنات در آند گرافیتی به‌عنوان نتیجه سینتیکی سیستمی ناشی از رقابت بین درآمیزی Li+ و حلال گزارش می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work reframes PC co-intercalation in graphite as a system-level kinetic competition, not a fixed EC–PC disparity. It introduces the &amp;quot;lowest achievable potential&amp;quot; descriptor linking solvation, interphase, and operating conditions. Significance: a unified kinetic framework enabling rational electrolyte, binder, and graphite design to suppress solvent co-intercalation and stabilize graphite anodes.&lt;br&gt;🏷 graphite anode · propylene carbonate · solvent co-intercalation · desolvation kinetics · lithium-ion battery</description>
+<category>graphite anode</category>
+<category>propylene carbonate</category>
+<category>solvent co-intercalation</category>
+<category>desolvation kinetics</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Cu-dominant CuMoO4@CoMoO4 flower-like heterostructure as a high-capacity battery-type electrode for hybrid supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.124836</link>
