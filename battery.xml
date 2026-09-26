@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 15:03:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 16:03:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From Brittle to Damage‐Tolerant: Particle‐Level Mechanical Reinforcement Enables High‐Voltage Stability in Ni‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/smll.75984</link>
+<guid isPermaLink="false">10.1002/smll.75984</guid>
+<pubDate>Sat, 26 Sep 2026 16:02:37 GMT</pubDate>
+<description>تقویت مکانیکی در سطح ذره، کاتد غنی از نیکل را از ترد به مقاوم به آسیب تبدیل کرده و پایداری چرخه در ولتاژ بالا را به‌شدت بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers particle-level mechanical reinforcement of Ni-rich cathodes, achieving a fivefold crushing-strength increase and reduced stress accumulation, which suppresses fracture during high-voltage cycling. The strategy enables 81% capacity retention over 400 cycles versus 36.5% undoped, establishing mechanics-informed design as a generalizable principle for damage-tolerant high-voltage cathodes.&lt;br&gt;🏷 Ni-rich cathode · particle fracture · mechanical reinforcement · high-voltage cycling · H2-H3 transition</description>
+<category>Ni-rich cathode</category>
+<category>particle fracture</category>
+<category>mechanical reinforcement</category>
+<category>high-voltage cycling</category>
+<category>H2-H3 transition</category>
+</item>
+<item>
+<title>Sulfonated‐ TiO 2 Nanorod–Reinforced PEO Composite Solid Electrolytes for High‐Voltage Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/eem2.70467</link>
+<guid isPermaLink="false">10.1002/eem2.70467</guid>
+<pubDate>Sat, 26 Sep 2026 16:01:51 GMT</pubDate>
+<description>الکترولیت جامد کامپوزیتی PEO تقویت‌شده با نانومیله‌های TiO2 سولفونه، رسانایی یونی و پایداری اکسیدی بالای 5 ولت را برای باتری لیتیوم-فلز حالت جامد فراهم می‌کند.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Sulfonated TiO₂ nanorods actively promote LiTFSI dissociation via Lewis base sites, unlike passive fillers. This raises free Li⁺ from 55.27% to 61.27%, enabling 1.5×10⁻⁴ S cm⁻¹ conductivity, &amp;gt;5 V stability, and 1000 h dendrite-free cycling. The work establishes coupled 1D morphology and surface chemistry as a viable strategy for high-voltage solid-state lithium batteries.&lt;br&gt;🏷 solid electrolyte · PEO · sulfonated TiO2 · lithium metal battery · high voltage</description>
+<category>solid electrolyte</category>
+<category>PEO</category>
+<category>sulfonated TiO2</category>
+<category>lithium metal battery</category>
+<category>high voltage</category>
+</item>
 <item>
 <title>Chemical-Delithiation-Induced Surface Reconstruction in Layered Oxide Cathodes for High-Performance All-Solid-State Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c11457</link>
@@ -704,30 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydratio
 <category>sensing materials</category>
 <category>monitoring</category>
 <category>safety</category>
-</item>
-<item>
-<title>Real-world electric vehicle battery health characterization and robust degradation trajectory prediction under heterogeneous operating conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.124846</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124846</guid>
-<pubDate>Fri, 25 Sep 2026 04:46:12 GMT</pubDate>
-<description>این مقاله سلامت باتری خودروهای برقی را در شرایط واقعی و heterogeneous بررسی کرده و یک روش مقاوم برای پیش‌بینی مسیر تخریب ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric vehicle battery · battery health · degradation prediction · heterogeneous conditions · robust modeling</description>
-<category>electric vehicle battery</category>
-<category>battery health</category>
-<category>degradation prediction</category>
-<category>heterogeneous conditions</category>
-<category>robust modeling</category>
-</item>
-<item>
-<title>Non-destructive in-situ/operando characterization of sulfide-based all-solid-state batteries: A multiscale perspective</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.029</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.029</guid>
-<pubDate>Fri, 25 Sep 2026 04:28:30 GMT</pubDate>
-<description>این مرور، روش‌های مشخصه‌یابی درجای غیرمخرب چندمقیاسی برای بررسی ساختار و واسط‌های باتری‌های تمام‌حالت‌جامد سولفیدی را جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 AllSolidStateBattery · SulfideElectrolyte · OperandoCharacterization · MultiscaleAnalysis · InterfaceDegradation</description>
-<category>AllSolidStateBattery</category>
-<category>SulfideElectrolyte</category>
-<category>OperandoCharacterization</category>
-<category>MultiscaleAnalysis</category>
-<category>InterfaceDegradation</category>
 </item>
 </channel>
 </rss>
