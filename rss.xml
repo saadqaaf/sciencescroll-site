@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 17:02:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 18:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Embodied Sensing for Closed-Loop Manipulation in an Integrated Magnetic Soft Robot</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02409</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02409</guid>
+<pubDate>Sat, 26 Sep 2026 18:01:00 GMT</pubDate>
+<description>یک ربات نرم مغناطیسی یکپارچه با سنسورهای خمشی و فشار داخلی، از طریق حس embodied و actuation مغناطیسی، دستکاری حلقه‌بسته و دقیق را ممکن می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 magnetic soft robot · embodied sensing · closed-loop manipulation · flexible sensors · magnetic actuation</description>
+<category>magnetic soft robot</category>
+<category>embodied sensing</category>
+<category>closed-loop manipulation</category>
+<category>flexible sensors</category>
+<category>magnetic actuation</category>
+</item>
+<item>
+<title>Edible Metal–Phenolic Nanoarchitecture with pH-Responsive GI Transit and Mucoadhesive Retention for Oral Vitamin Delivery</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02488</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02488</guid>
+<pubDate>Sat, 26 Sep 2026 18:00:57 GMT</pubDate>
+<description>نانوarchitecture خوراکی مبتنی بر شبکه فلز-فنولی با پاسخ pH و چسبندگی مخاطی برای تحویل دهانی ویتامین‌ها طراحی شده و جذب سیستمیک ویتامین C را ۱.۸ برابر افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 metal-phenolic network · oral vitamin delivery · mucoadhesion · pH-responsive · alginate</description>
+<category>metal-phenolic network</category>
+<category>oral vitamin delivery</category>
+<category>mucoadhesion</category>
+<category>pH-responsive</category>
+<category>alginate</category>
+</item>
 <item>
 <title>Physics-informed unsupervised battery state-of-charge estimation via temperature-conditioned Mamba and parallel Bayesian inference</title>
 <link>https://doi.org/10.1016/j.est.2026.124571</link>
@@ -704,30 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>multivariate MOF</category>
 <category>cationic radius</category>
 <category>property tuning</category>
-</item>
-<item>
-<title>Functionalization and Metal Ion Encapsulation Within a Triaxial Supramolecular Weave</title>
-<link>https://doi.org/10.1002/anie.5300884</link>
-<guid isPermaLink="false">10.1002/anie.5300884</guid>
-<pubDate>Sat, 26 Sep 2026 15:02:11 GMT</pubDate>
-<description>بافتن مولکولی سه‌محوره با الیگوپرولین-پریلن مونوایمید امکان عامل‌دارسازی و به‌دام‌انداختن یون‌های فلزی سمی و نجیب را در حفرات خود فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 supramolecular weave · oligoproline · perylene monoimide · metal ion encapsulation · self-assembly</description>
-<category>supramolecular weave</category>
-<category>oligoproline</category>
-<category>perylene monoimide</category>
-<category>metal ion encapsulation</category>
-<category>self-assembly</category>
-</item>
-<item>
-<title>PCN‐700: A Model Platform for Crystallographic Probing of Coordination Behavior in Metal–Organic Frameworks</title>
-<link>https://doi.org/10.1002/anie.9641173</link>
-<guid isPermaLink="false">10.1002/anie.9641173</guid>
-<pubDate>Sat, 26 Sep 2026 15:02:08 GMT</pubDate>
-<description>این مرور، PCN-700 را به عنوان بستری برای بررسی کریستالوگرافی رفتار کوئوردیناسیون در MOFها معرفی می‌کند و مسیرهای نصب لینکر و برهم‌کنش‌های میزبان-میهمان را بحث می‌کند.&lt;br&gt;Angewandte Chemie International Edition | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 PCN-700 · linker installation · coordination chemistry · MOF · post-synthetic modification</description>
-<category>PCN-700</category>
-<category>linker installation</category>
-<category>coordination chemistry</category>
-<category>MOF</category>
-<category>post-synthetic modification</category>
 </item>
 </channel>
 </rss>
