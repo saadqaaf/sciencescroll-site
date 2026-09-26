@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 22:01:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 23:01:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spatiotemporal Regulation of Anode-Free Metal Batteries from Lithium to Beyond</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105560</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105560</guid>
+<pubDate>Sat, 26 Sep 2026 23:01:21 GMT</pubDate>
+<description>مروری بر تنظیم فضایی-زمانی باتری‌های بدون آند از لیتیوم تا فراتر از آن.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 anode-free batteries · lithium metal · spatiotemporal regulation · beyond lithium · solid electrolyte interphase</description>
+<category>anode-free batteries</category>
+<category>lithium metal</category>
+<category>spatiotemporal regulation</category>
+<category>beyond lithium</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Physics-informed unsupervised battery state-of-charge estimation via temperature-conditioned Mamba and parallel Bayesian inference</title>
 <link>https://doi.org/10.1016/j.est.2026.124571</link>
@@ -716,18 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydratio
 <category>hydrogen-bond network</category>
 <category>flexible battery</category>
 <category>wide-temperature</category>
-</item>
-<item>
-<title>Isolation and quantification of charge- and discharge-induced reversible capacity loss in commercial lithium-ion and sodium-ion batteries under coupled temperature–C-rate conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.124778</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124778</guid>
-<pubDate>Fri, 25 Sep 2026 11:01:41 GMT</pubDate>
-<description>این مقاله جداسازی و کمّی‌سازی تلفات ظرفیت برگشت‌پذیر ناشی از شارژ و دشارژ در باتری‌های تجاری لیتیوم-یون و سدیم-یون تحت شرایط دما و نرخ C را انجام می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · sodium-ion battery · reversible capacity loss · temperature · C-rate</description>
-<category>lithium-ion battery</category>
-<category>sodium-ion battery</category>
-<category>reversible capacity loss</category>
-<category>temperature</category>
-<category>C-rate</category>
 </item>
 </channel>
 </rss>
