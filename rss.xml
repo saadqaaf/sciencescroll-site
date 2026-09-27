@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 02:01:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 03:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ceria-doped biochar hybrid fillers for improved thermal behavior of phase change material</title>
+<link>https://doi.org/10.1016/j.est.2026.124878</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124878</guid>
+<pubDate>Sun, 27 Sep 2026 03:01:00 GMT</pubDate>
+<description>این پژوهش پرکننده‌های هیبریدی بیوچار دوپ‌شده با Ceria را برای بهبود رفتار حرارتی مواد تغییر فاز دهنده به کار می‌برد و خواص حرارتی را ارتقا می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · ceria-doped biochar · thermal conductivity · latent heat · thermal energy storage</description>
+<category>phase change material</category>
+<category>ceria-doped biochar</category>
+<category>thermal conductivity</category>
+<category>latent heat</category>
+<category>thermal energy storage</category>
+</item>
 <item>
 <title>Tightly Coupled FeNi Alloy/NiO Interface Derived from an LDH Precursor Promotes Deep Hydrodeoxygenation of p -Cresol</title>
 <link>https://doi.org/10.1021/acscatal.6c06421</link>
@@ -722,18 +734,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce r
 <category>spatiotemporal regulation</category>
 <category>beyond lithium</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Regulating Proton-Coupled Electron Transfer via Synergistic Cu Single-Atom/Cluster Sites for Efficient Nitrate Reduction</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127566</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127566</guid>
-<pubDate>Sat, 26 Sep 2026 23:01:17 GMT</pubDate>
-<description>تنظیم انتقال الکترون-پروتون کوپل‌شده با سایت‌های هم‌افزای تک‌اتم/خوشه Cu برای احیای کارآمد نیترات.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Cu single-atom · nitrate reduction · proton-coupled electron transfer · ammonia synthesis · synergistic catalysis</description>
-<category>Cu single-atom</category>
-<category>nitrate reduction</category>
-<category>proton-coupled electron transfer</category>
-<category>ammonia synthesis</category>
-<category>synergistic catalysis</category>
 </item>
 </channel>
 </rss>
