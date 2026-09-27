@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 26 Sep 2026 23:01:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 00:02:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Phosphoric Acid Cross-linking Regulates Closed Pores for Scalable Hard Carbon Anodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01963</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01963</guid>
+<pubDate>Sun, 27 Sep 2026 00:02:42 GMT</pubDate>
+<description>استراتژی اتصال عرضی با اسید فسفریک، حفرات بسته کربن سخت مشتق از نشاسته را تنظیم کرده و ظرفیت ۳۹۵.۸ mAh g−1 در آند باتری سدیم-یون ایجاد می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This work introduces phosphoric acid-induced cross-linking as a novel strategy to precisely regulate closed pores in starch-derived hard carbon. It boosts carbon yield from 14.0% to 31.7% and delivers 395.8 mAh g⁻¹ with 89.4% initial Coulombic efficiency. The 3.5 Ah cylindrical cell retains 96.5% capacity after 500 cycles, offering a scalable, cost-effective route for practical Na-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · closed pores · phosphoric acid · cross-linking</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>closed pores</category>
+<category>phosphoric acid</category>
+<category>cross-linking</category>
+</item>
+<item>
+<title>Rewriting Precursor Information into Working Structures and Interfaces: MOF‐Derived Electrodes for Rechargeable Batteries</title>
+<link>https://doi.org/10.1002/adfm.78738</link>
+<guid isPermaLink="false">10.1002/adfm.78738</guid>
+<pubDate>Sun, 27 Sep 2026 00:02:08 GMT</pubDate>
+<description>این مقاله مروری، چارچوبی برای درک تبدیل پیش‌ماده‌های MOF به ساختارها و فصل مشترک‌های الکترود باتری‌های قابل شارژ ارائه می‌دهد و نقش حفظ، بازسازی و حذف اطلاعات پیش‌ماده را بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This Review reframes MOF-derived battery electrodes around how conversion rewrites precursor information into working structures and interfaces, distinguishing retention, reconstruction, erasure, and emergence. Its novelty lies in this material-centered, function-oriented framework linking precursor chemistry to interfacial continuity and reversible reaction, rather than cataloguing products. It matters because it guides predictive design, operando characterization, and practical deployment balancing performance against inactive mass, complexity, and cost.&lt;br&gt;🏷 MOF-derived electrodes · rechargeable batteries · precursor conversion · interfaces · structure reconstruction</description>
+<category>MOF-derived electrodes</category>
+<category>rechargeable batteries</category>
+<category>precursor conversion</category>
+<category>interfaces</category>
+<category>structure reconstruction</category>
+</item>
 <item>
 <title>Spatiotemporal Regulation of Anode-Free Metal Batteries from Lithium to Beyond</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105560</link>
@@ -704,30 +728,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydratio
 <category>pyridoxal phosphate</category>
 <category>solvation regulation</category>
 <category>Zn (002) deposition</category>
-</item>
-<item>
-<title>Synergistic engineering of smart electrolytes and ultrathin coatings for adaptive interphase formation in advanced batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124834</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124834</guid>
-<pubDate>Fri, 25 Sep 2026 11:01:57 GMT</pubDate>
-<description>این مقاله مروری به مهندسی هم‌افزای الکترولیت‌های هوشمند و پوشش‌های فوق‌نازک برای تشکیل بین‌سطح تطبیقی در باتری‌های پیشرفته می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 smart electrolyte · ultrathin coating · interphase · advanced battery · synergistic engineering</description>
-<category>smart electrolyte</category>
-<category>ultrathin coating</category>
-<category>interphase</category>
-<category>advanced battery</category>
-<category>synergistic engineering</category>
-</item>
-<item>
-<title>ZnO-modulated interfacial and hydrogen-bond networks for wide-temperature flexible Zn–air batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124850</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124850</guid>
-<pubDate>Fri, 25 Sep 2026 11:01:45 GMT</pubDate>
-<description>این مقاله با تنظیم شبکه‌های بین‌سطحی و پیوند هیدروژنی توسط ZnO، باتری‌های انعطاف‌پذیر Zn-air در دمای گسترده را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Zn-air battery · ZnO · hydrogen-bond network · flexible battery · wide-temperature</description>
-<category>Zn-air battery</category>
-<category>ZnO</category>
-<category>hydrogen-bond network</category>
-<category>flexible battery</category>
-<category>wide-temperature</category>
 </item>
 </channel>
 </rss>
