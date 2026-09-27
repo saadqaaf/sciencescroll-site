@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 21:00:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 22:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecular Intercalation Regulation of Solid-State Reaction Enables Thermally Evaporated FASnI3 Light-Emitting Diodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04013</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04013</guid>
+<pubDate>Sun, 27 Sep 2026 22:01:10 GMT</pubDate>
+<description>این مقاله با استراتژی میان‌لایه‌ای تریپتوفان، واکنش حالت جامد و تبلور FASnI3 را در LEDهای پروسکایتی تبخیر حرارتی کنترل کرده و درخشندگی بالا و دستگاه‌های بزرگ‌مقیاس را نشان می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 FASnI3 · perovskite LED · thermal evaporation · molecular intercalation · tryptophan</description>
+<category>FASnI3</category>
+<category>perovskite LED</category>
+<category>thermal evaporation</category>
+<category>molecular intercalation</category>
+<category>tryptophan</category>
+</item>
+<item>
+<title>Triboelectric Topological Ion Effect for Highly Sensitive Tactile Sensing</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03710</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03710</guid>
+<pubDate>Sun, 27 Sep 2026 22:01:06 GMT</pubDate>
+<description>این مقاله با مهندسی رابط توپولوژیکی در هیدروژل، یک حسگر لمسی تریبوالکتریک خودتوان با حساسیت بالا و پاسخ سریع برای تعامل انسان-ماشین می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 tactile sensor · triboelectric effect · topological hydrogel · ion migration · self-powered</description>
+<category>tactile sensor</category>
+<category>triboelectric effect</category>
+<category>topological hydrogel</category>
+<category>ion migration</category>
+<category>self-powered</category>
+</item>
+<item>
+<title>Discovery and Manipulation of a Single Polaron in a Monolayer Mott Insulator</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04363</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04363</guid>
+<pubDate>Sun, 27 Sep 2026 22:01:03 GMT</pubDate>
+<description>این مقاله با STM و محاسبات اصول اولیه، کشف و دستکاری یک پولارون منفرد در مونولایه Mott insulator 1T-TaSe2 را گزارش می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 polaron · Mott insulator · 1T-TaSe2 · scanning tunneling microscopy · Hubbard band</description>
+<category>polaron</category>
+<category>Mott insulator</category>
+<category>1T-TaSe2</category>
+<category>scanning tunneling microscopy</category>
+<category>Hubbard band</category>
+</item>
+<item>
+<title>Temporally Locked Exceptional Points for an Ultrasensitive Metasurface Biosensor</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03151</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03151</guid>
+<pubDate>Sun, 27 Sep 2026 22:01:00 GMT</pubDate>
+<description>این مقاله با قفل‌کردن نقاط استثنایی در حوزه زمان، یک حسگر فراسطحی فوق‌حساس برای تشخیص زیست‌نشانگرها با تغییرات سیگنال بزرگ‌تر نسبت به روش‌های طیفی ارائه می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 exceptional points · metasurface biosensor · non-Hermitian photonics · temporal locking · chirality</description>
+<category>exceptional points</category>
+<category>metasurface biosensor</category>
+<category>non-Hermitian photonics</category>
+<category>temporal locking</category>
+<category>chirality</category>
+</item>
+<item>
+<title>Machine Learning-Enabled Meta-Analysis of Bioengineering Micro- and Nanorobots</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02258</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02258</guid>
+<pubDate>Sun, 27 Sep 2026 22:00:56 GMT</pubDate>
+<description>این مقاله با یادگیری ماشین و تحلیل فراتحلیلی، داده‌های پراکنده میکرو/نانوروبات‌ها را یکپارچه کرده و الگوهای طراحی و محدودیت‌های پیش‌بینی سرعت را نشان می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 micro/nanorobots · machine learning · meta-analysis · actuation mechanisms · velocity prediction</description>
+<category>micro/nanorobots</category>
+<category>machine learning</category>
+<category>meta-analysis</category>
+<category>actuation mechanisms</category>
+<category>velocity prediction</category>
+</item>
 <item>
 <title>Synergistic Spatiotemporal Regulation of Li + ‐Flux During Formation Enables Stable Solid‐Electrolyte Interphase for Ah‐Level Si/C Anode‐Based Quasi‐Solid‐State Lithium Batteries</title>
 <link>https://doi.org/10.1002/smll.76038</link>
@@ -666,66 +726,6 @@
 <category>G-quadruplex</category>
 <category>Pla2g4a</category>
 <category>prostaglandin</category>
-</item>
-<item>
-<title>Continuous Molecular Monitoring Using Electrochemical Aptamer‐Based Sensors: Remaining Challenges for Long‐Term In Vivo Deployment</title>
-<link>https://doi.org/10.1002/advs.77896</link>
-<guid isPermaLink="false">10.1002/advs.77896</guid>
-<pubDate>Sun, 27 Sep 2026 20:02:53 GMT</pubDate>
-<description>این مرور، اصول حس‌گری آپتامری الکتروشیمیایی، مکانیزم‌های تخریب سیگنال و راهبردهای نوین مانند کالیبراسیون رانش‌زدایی و پوشش‌های ضدچسبندگی را برای پایش طولانی‌مدت درون‌تنی بررسی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 aptamer biosensor · continuous monitoring · in vivo sensing · signal drift · antifouling coatings</description>
-<category>aptamer biosensor</category>
-<category>continuous monitoring</category>
-<category>in vivo sensing</category>
-<category>signal drift</category>
-<category>antifouling coatings</category>
-</item>
-<item>
-<title>Detaching Photosensitive Nanoparticles from Cells Prevents Them from Remaining in Cells after Photoporation</title>
-<link>https://doi.org/10.1002/advs.77816</link>
-<guid isPermaLink="false">10.1002/advs.77816</guid>
-<pubDate>Sun, 27 Sep 2026 20:02:50 GMT</pubDate>
-<description>نانوذرات طلا عامل‌دار شده با PBA برای فوتوپوریشن به غشای سلول متصل و با افزودن ATP جدا می‌شوند تا تحویل ماکرومولکول‌ها بدون باقی‌ماندن ایمن‌تر شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photoporation · detachable photosensitizer · gold nanoparticles · intracellular delivery · cell engineering</description>
-<category>photoporation</category>
-<category>detachable photosensitizer</category>
-<category>gold nanoparticles</category>
-<category>intracellular delivery</category>
-<category>cell engineering</category>
-</item>
-<item>
-<title>Compound Abrus cantoniensis Extract Alleviates AFB 1 ‐Induced Liver Injury by Regulating PI3K‐AKT Pathway and Gut Microbiota/Butyrate Metabolism</title>
-<link>https://doi.org/10.1002/advs.77889</link>
-<guid isPermaLink="false">10.1002/advs.77889</guid>
-<pubDate>Sun, 27 Sep 2026 20:02:47 GMT</pubDate>
-<description>عصاره ترکیبی Abrus cantoniensis با تنظیم مسیر PI3K-AKT و میکروبیوتای روده و متابولیت بوتیرات، آسیب کبدی ناشی از AFB1 را در موش و سلول‌های HepG2 کاهش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Abrus cantoniensis · AFB1 hepatotoxicity · PI3K-AKT pathway · gut microbiota · butyrate</description>
-<category>Abrus cantoniensis</category>
-<category>AFB1 hepatotoxicity</category>
-<category>PI3K-AKT pathway</category>
-<category>gut microbiota</category>
-<category>butyrate</category>
-</item>
-<item>
-<title>DUET‐seq: An Open‐Source Droplet Platform for High‐Fidelity Joint Chromatin and Transcriptome Profiling Reveals Temporal Regulatory Decoupling in Single Cells</title>
-<link>https://doi.org/10.1002/advs.77986</link>
-<guid isPermaLink="false">10.1002/advs.77986</guid>
-<pubDate>Sun, 27 Sep 2026 20:02:43 GMT</pubDate>
-<description>پلتفرم منبع‌باز DUET-seq برای پروفایل‌گیری همزمان کروماتین و ترانسکریپتوم در تک‌هسته معرفی شد که با کشف دو حالت جداسازی تنظیمی در اسپرماتوژنز، دسترسی‌پذیری چندomics را فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-cell multi-omics · chromatin accessibility · transcriptome · droplet microfluidics · regulatory decoupling</description>
-<category>single-cell multi-omics</category>
-<category>chromatin accessibility</category>
-<category>transcriptome</category>
-<category>droplet microfluidics</category>
-<category>regulatory decoupling</category>
-</item>
-<item>
-<title>The In Situ Electrochemical−Chemical Cascade Strategy for Pyruvic Acid Synthesis</title>
-<link>https://doi.org/10.1002/advs.77880</link>
-<guid isPermaLink="false">10.1002/advs.77880</guid>
-<pubDate>Sun, 27 Sep 2026 20:02:39 GMT</pubDate>
-<description>کاتالیزور Ni-CeO2 برای تولید درجای H2O2 و تبدیل α-هیدروکسی‌اسیدها به پیروات توسعه یافت که با تنظیم نقص اکسیژن، نرخ 19.9 mmol g−1 h−1 و بازده فارادیک 55.3% را به دست می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 pyruvic acid synthesis · H2O2 electrosynthesis · Ni-doped CeO2 · electrochemical-chemical cascade · hydroxyl radicals</description>
-<category>pyruvic acid synthesis</category>
-<category>H2O2 electrosynthesis</category>
-<category>Ni-doped CeO2</category>
-<category>electrochemical-chemical cascade</category>
-<category>hydroxyl radicals</category>
 </item>
 </channel>
 </rss>
