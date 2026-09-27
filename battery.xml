@@ -5,8 +5,70 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 00:02:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 01:03:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Direct Light Storage with Controlled Dark Release in a Bipyridine-Based Covalent Triazine Framework</title>
+<link>https://doi.org/10.1021/jacs.6c09757</link>
+<guid isPermaLink="false">10.1021/jacs.6c09757</guid>
+<pubDate>Sun, 27 Sep 2026 01:02:41 GMT</pubDate>
+<description>چارچوب تریازین کووالانسی مبتنی بر بی‌پیریدین الکترون‌های نوری را ذخیره کرده و در تاریکی به‌صورت کنترل‌شده آزاد می‌کند و برای باتری خورشیدی آبی به کار می‌رود.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 CTF-Bpy is the first photochargeable covalent organic framework storing electrons reducing enough to drive dark H2 evolution. It achieves the most negative photo-OCP (−0.92 V) for an organic bifunctional material, enabling controlled dark release via discharge or O2 reduction. This establishes fully organic frameworks for dark photocatalysis and guides rational optoionic material design.&lt;br&gt;🏷 covalent triazine framework · light storage · bipyridine · solar battery · photocharging</description>
+<category>covalent triazine framework</category>
+<category>light storage</category>
+<category>bipyridine</category>
+<category>solar battery</category>
+<category>photocharging</category>
+</item>
+<item>
+<title>Single-Atom Ce Enables Interfacial Pathway Regulation of Fe2 Atomic Pairs in Alkaline Oxygen Reduction</title>
+<link>https://doi.org/10.1021/jacs.6c07837</link>
+<guid isPermaLink="false">10.1021/jacs.6c07837</guid>
+<pubDate>Sun, 27 Sep 2026 01:02:36 GMT</pubDate>
+<description>افزودن Ce تک‌اتمی به جفت‌های Fe2 در کاتالیزور Fe-N-C مسیر 4e- واکنش اکسیژن را تقویت کرده و پایداری و عملکرد باتری Zn-air را بهبود می‌بخشد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce regulates the interfacial water/proton environment around Fe2 atomic pairs, suppressing the competing 2e– peroxide pathway and enabling the 4e– route. This decouples the activity–stability trade-off, yielding 0.92 V half-wave potential, 1.6% peroxide, 96% current retention over 50,000 s, and 1100 h Zn–air cycling—establishing interfacial pathway regulation as a design strategy for alkaline ORR catalysis.&lt;br&gt;🏷 oxygen reduction · Fe2 atomic pairs · single-atom Ce · Zn-air battery · interfacial water</description>
+<category>oxygen reduction</category>
+<category>Fe2 atomic pairs</category>
+<category>single-atom Ce</category>
+<category>Zn-air battery</category>
+<category>interfacial water</category>
+</item>
+<item>
+<title>Enhancing cycling stability by promoting high-voltage structural reversibility in high-nickel positive electrode materials</title>
+<link>https://doi.org/10.1038/s41467-026-78069-9</link>
+<guid isPermaLink="false">10.1038/s41467-026-78069-9</guid>
+<pubDate>Sun, 27 Sep 2026 01:02:04 GMT</pubDate>
+<description>مواد نانومیله‌ای نیکل بالا با برگشت‌پذیری ساختاری بهبودیافته، پایداری چرخه‌ای در ولتاژ بالا تا 4.95 V را در باتری لیتیوم-یون افزایش می‌دهند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Nanorod high-nickel cathodes (including LiNiO₂) achieve stable cycling up to 4.95 V, unlike microcrystal counterparts. The novelty is that bulk structural reversibility, enabled by the nanorod morphology tolerating H2–H3 interphase lattice mismatch, allows full H3-to-H2 recovery on discharge. This enables high-voltage operation without sacrificing energy density, offering a design principle for durable high-energy lithium-ion batteries.&lt;br&gt;🏷 high-nickel cathode · lithium-ion battery · cycling stability · structural reversibility · nanorod</description>
+<category>high-nickel cathode</category>
+<category>lithium-ion battery</category>
+<category>cycling stability</category>
+<category>structural reversibility</category>
+<category>nanorod</category>
+</item>
+<item>
+<title>Tailored sp 2 ‐C─F Bonding for Reversible Oxygen‐Peroxide Electrocatalysis</title>
+<link>https://doi.org/10.1002/anie.9423554</link>
+<guid isPermaLink="false">10.1002/anie.9423554</guid>
+<pubDate>Sun, 27 Sep 2026 01:01:49 GMT</pubDate>
+<description>گرافن دوپ‌شده با فلوئور با پیوند sp2-C-F، الکتروکاتالیز برگشت‌پذیر O2-H2O2 را برای باتری‌های زینک-هوا با توان بالا و دوام طولانی تنظیم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Fluorine-doped graphene with tailored sp²-C─F bonding enables reversible O₂–H₂O₂ interconversion by tuning OOH* binding. This replaces sluggish 4e⁻ zinc-air chemistry with faster 2e⁻ pathways, yielding durable, high-power batteries. The work establishes a structure-property principle linking fluorine-induced polarization to oxygen-peroxide kinetics, advancing fluorinated carbons for reversible energy storage.&lt;br&gt;🏷 zinc-air battery · oxygen-peroxide electrocatalysis · fluorine-doped graphene · sp2-C-F bonding · OOH* intermediate</description>
+<category>zinc-air battery</category>
+<category>oxygen-peroxide electrocatalysis</category>
+<category>fluorine-doped graphene</category>
+<category>sp2-C-F bonding</category>
+<category>OOH* intermediate</category>
+</item>
+<item>
+<title>Molecular Synergic Effect of Multifunctional Siliceous Additive Induces Stable Electrode-Electrolyte Interphase for High-Voltage (&amp;gt;4.5 V) NCM523||Graphite Pouch Cells</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112423</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112423</guid>
+<pubDate>Sun, 27 Sep 2026 01:01:25 GMT</pubDate>
+<description>افزودنی سیلیکاته چندکاره با اثر هم‌افزایی مولکولی، اینترفاز پایدار الکترود-الکترولیت را برای سلول‌های کیسه‌ای NCM523||گرافیت در ولتاژ بالا (&amp;gt;4.5 V) القا می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 siliceous additive · electrode-electrolyte interphase · high-voltage NCM523 · graphite pouch cell · molecular synergy</description>
+<category>siliceous additive</category>
+<category>electrode-electrolyte interphase</category>
+<category>high-voltage NCM523</category>
+<category>graphite pouch cell</category>
+<category>molecular synergy</category>
+</item>
 <item>
 <title>Phosphoric Acid Cross-linking Regulates Closed Pores for Scalable Hard Carbon Anodes</title>
 <link>https://doi.org/10.1021/acsenergylett.6c01963</link>
@@ -668,66 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydratio
 <category>repairability</category>
 <category>battery recycling</category>
 <category>defect utilization</category>
-</item>
-<item>
-<title>Hierarchical Confinement and Oxygen‐Vacancy Catalysis for Highly Reversible Room‐Temperature Sodium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adma.75129</link>
-<guid isPermaLink="false">10.1002/adma.75129</guid>
-<pubDate>Fri, 25 Sep 2026 15:01:41 GMT</pubDate>
-<description>این مقاله با محدودسازی سلسله‌مراتبی و کاتالیز نقص اکسیژن در CeO2-x، باتری سدیم-گوگرد دمای اتاق با ظرفیت ۱۱۶۷ mAh/g و پایداری ۹۰۰۰ چرخه می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molten-salt strategy confining oxygen-deficient CeO₂₋ₓ nanoparticles within hierarchically porous carbon and graphene-like nanosheets, unifying spatial confinement with oxygen-vacancy catalysis. This enables reversible solid–liquid–solid sulfur conversion, suppresses polysulfide shuttling, and delivers 1167 mAh g⁻¹ with 86.2% retention over 9000 cycles, establishing a confinement-catalysis paradigm for long-life room-temperature sodium-sulfur batteries.&lt;br&gt;🏷 sodium-sulfur battery · oxygen vacancy · CeO2-x · confinement catalysis · polysulfide shuttle</description>
-<category>sodium-sulfur battery</category>
-<category>oxygen vacancy</category>
-<category>CeO2-x</category>
-<category>confinement catalysis</category>
-<category>polysulfide shuttle</category>
-</item>
-<item>
-<title>Degradation-Informed Surface Coating Strategies for Recycled Lithium-Ion Battery Materials</title>
-<link>https://doi.org/10.1039/d6ee04456e</link>
-<guid isPermaLink="false">10.1039/d6ee04456e</guid>
-<pubDate>Fri, 25 Sep 2026 15:01:25 GMT</pubDate>
-<description>این مقاله راهبردهای پوشش سطحی مبتنی بر شناخت تخریب را برای مواد باتری لیتیوم-یونی بازیافتی بررسی می‌کند تا چرخه عمر پایدار باتری ممکن شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review&lt;br&gt;💡 The novelty lies in linking specific degradation modes of recycled lithium-ion battery materials to tailored surface coating strategies, rather than applying virgin-material coatings indiscriminately. Its significance is enabling direct, hydrometallurgical, and pyrometallurgical recycling routes to restore electrochemical performance and durability, thereby advancing sustainable battery lifecycles and critical resource recovery.&lt;br&gt;🏷 battery recycling · surface coating · cathode degradation · direct recycling · hydrometallurgy</description>
-<category>battery recycling</category>
-<category>surface coating</category>
-<category>cathode degradation</category>
-<category>direct recycling</category>
-<category>hydrometallurgy</category>
-</item>
-<item>
-<title>Cu/Ti/Al tripartite synergistic O3-typeNaNi 0.3 Fe 0.2 Mn 0.5 O 2 for sodium-ion batteries with high energy-density and cyclic-stability</title>
-<link>https://doi.org/10.1039/d6ta05746b</link>
-<guid isPermaLink="false">10.1039/d6ta05746b</guid>
-<pubDate>Fri, 25 Sep 2026 13:01:49 GMT</pubDate>
-<description>کاتدهای لایه‌ای O3-type در مقیاس کیلوگرمی با زینتر حالت جامد ساخته می‌شوند و هم‌افزایی Cu/Ti/Al استحکام ساختاری و پایداری چرخه‌ای باتری یون-سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Cu/Ti/Al tripartite synergy in O3-type NaNi0.3Fe0.2Mn0.5O2 enables kilogram-scale synthesis of a cathode with enhanced structural robustness, high energy density, and stable cycling. This advances practical sodium-ion batteries by combining scalable solid-state production with improved performance, addressing key barriers to commercialization.&lt;br&gt;🏷 sodium-ion battery · O3-type cathode · layered oxide · Cu/Ti/Al doping · cycling stability</description>
-<category>sodium-ion battery</category>
-<category>O3-type cathode</category>
-<category>layered oxide</category>
-<category>Cu/Ti/Al doping</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Homogeneous regeneration of spent LiFePO 4 via in situ Al/F impurity introduction: tailoring Li–Fe anti-sites for great cycling stability</title>
-<link>https://doi.org/10.1039/d6ta05623g</link>
-<guid isPermaLink="false">10.1039/d6ta05623g</guid>
-<pubDate>Fri, 25 Sep 2026 13:01:44 GMT</pubDate>
-<description>هم‌آمیزی جزئی Al/F در LiFePO4 مستعمل نقص‌های آنتی‌سایت را تنظیم و نفوذ Li+ را تسریع می‌کند؛ کاتد بازتولیدشده 141.78 mAh g−1 در 1.0C و پایداری چرخه‌ای بالا می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Trace Al/F co-doping during spent LiFePO4 regeneration tailors Li–Fe antisite defects, lowering charge-transfer resistance and boosting Li+ diffusion. This in situ impurity-introduction strategy enables homogeneous regeneration, delivering 141.78 mAh g−1 at 1.0C with &amp;gt;90% capacity retention over 500 cycles, offering a scalable, low-cost route to high-performance recycled cathodes.&lt;br&gt;🏷 LiFePO4 regeneration · spent cathode · Al/F co-doping · antisite defects · cycling stability</description>
-<category>LiFePO4 regeneration</category>
-<category>spent cathode</category>
-<category>Al/F co-doping</category>
-<category>antisite defects</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Pyridoxal phosphate-mediated organic–inorganic hybrid interphase for highly stable aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1039/d6ta05681d</link>
-<guid isPermaLink="false">10.1039/d6ta05681d</guid>
-<pubDate>Fri, 25 Sep 2026 13:01:24 GMT</pubDate>
-<description>افزودنی PLP با تنظیم سولواتاسیون Zn2+ و جذب ترجیحی روی سطح Zn (002)، رسوب یکنواخت و عمر چرخه‌ای طولانی آند روی در باتری آبی یون-روی را ممکن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 PLP uniquely combines solvation regulation with facet-selective adsorption on Zn(002), forming an organic–inorganic hybrid interphase. This dual mechanism suppresses dendrites and side reactions, enabling highly stable, long-cycle-life aqueous zinc-ion batteries—advancing sustainable energy storage.&lt;br&gt;🏷 zinc-ion battery · zinc anode · pyridoxal phosphate · solvation regulation · Zn (002) deposition</description>
-<category>zinc-ion battery</category>
-<category>zinc anode</category>
-<category>pyridoxal phosphate</category>
-<category>solvation regulation</category>
-<category>Zn (002) deposition</category>
 </item>
 </channel>
 </rss>
