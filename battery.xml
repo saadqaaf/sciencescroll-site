@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 16:01:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 17:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Soft-Acid-Triggered Water Speciation Engineering: Reconfiguring the Aqueous Microenvironment in Prussian Blue Cathodes for High-Performance Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105559</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105559</guid>
+<pubDate>Sun, 27 Sep 2026 17:01:57 GMT</pubDate>
+<description>این مقاله با مهندسی گونه‌های آب توسط اسید نرم، ریز محیط آبی در کاتدهای Prussian blue را برای باتری‌های سدیم-یون با عملکرد بالا بازآرایی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Prussian blue cathode · sodium-ion battery · water speciation · soft acid · aqueous microenvironment</description>
+<category>Prussian blue cathode</category>
+<category>sodium-ion battery</category>
+<category>water speciation</category>
+<category>soft acid</category>
+<category>aqueous microenvironment</category>
+</item>
+<item>
+<title>Interfacial Failure Analysis and LiTaO3-Mediated Dual-Filler Stabilization of LiTa2PO8-Based Composite Solid Electrolytes for Solid-State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105561</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105561</guid>
+<pubDate>Sun, 27 Sep 2026 17:01:44 GMT</pubDate>
+<description>این مقاله شکست بین‌سطحی و تثبیت دوگانه پرکننده با LiTaO3 در الکترولیت جامد کامپوزیتی بر پایه LiTa2PO8 را برای باتری‌های لیتیوم-فلز حالت جامد بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 composite solid electrolyte · LiTa2PO8 · LiTaO3 · interfacial failure · solid-state lithium battery</description>
+<category>composite solid electrolyte</category>
+<category>LiTa2PO8</category>
+<category>LiTaO3</category>
+<category>interfacial failure</category>
+<category>solid-state lithium battery</category>
+</item>
 <item>
 <title>Decoding performance breakthroughs of non-aqueous calcium-based batteries: Recent developments and future perspectives</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218597</link>
@@ -706,30 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydratio
 <category>polyiodide confinement</category>
 <category>asymmetric coordination</category>
 <category>iodine conversion</category>
-</item>
-<item>
-<title>Synthesis of Highly Active R‑ZIF-67 from Spent Lithium‑Ion Batteries for Peroxymonosulfate Activation: Distinct Roles of Ni and Li Impurities</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127562</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127562</guid>
-<pubDate>Fri, 25 Sep 2026 17:02:10 GMT</pubDate>
-<description>R-ZIF-67 فعال از باتری‌های لیتیوم-یونی مستعمل سنتز شده و نقش متمایز ناخالصی‌های Ni و Li در فعال‌سازی peroxymonosulfate بررسی می‌شود.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 spent lithium-ion batteries · R-ZIF-67 · peroxymonosulfate activation · Ni and Li impurities · cobalt catalyst</description>
-<category>spent lithium-ion batteries</category>
-<category>R-ZIF-67</category>
-<category>peroxymonosulfate activation</category>
-<category>Ni and Li impurities</category>
-<category>cobalt catalyst</category>
-</item>
-<item>
-<title>Site-specific self-protection of stacking faults enables durable Li–gas batteries</title>
-<link>https://doi.org/10.1016/j.scib.2026.09.071</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.09.071</guid>
-<pubDate>Fri, 25 Sep 2026 17:01:38 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که خودمحافظتی مکان‌ویژه عیوب چیدمانی، باتری‌های Li-gas بادوام را ممکن می‌سازد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 Li-gas battery · stacking fault · self-protection · site-specific · durability</description>
-<category>Li-gas battery</category>
-<category>stacking fault</category>
-<category>self-protection</category>
-<category>site-specific</category>
-<category>durability</category>
 </item>
 </channel>
 </rss>
