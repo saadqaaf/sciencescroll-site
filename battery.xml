@@ -5,8 +5,116 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 19:02:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 20:06:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Spatiotemporal Regulation of Li + ‐Flux During Formation Enables Stable Solid‐Electrolyte Interphase for Ah‐Level Si/C Anode‐Based Quasi‐Solid‐State Lithium Batteries</title>
+<link>https://doi.org/10.1002/smll.76038</link>
+<guid isPermaLink="false">10.1002/smll.76038</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:38 GMT</pubDate>
+<description>تنظیم هم‌افزای فضایی-زمانی شار Li+ در مرحله formation با الکترولیت ژلی پیزوالکتریک BaTiO3 و پروتکل پالس دوقطبی، SEI پایدار و عملکرد چرخه‌ای باتری لیتیومی شبه‌جامد Si/C را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work uniquely combines a piezoelectric BaTiO₃/PVDF-b-PTFE gel electrolyte with bipolar pulse formation to spatiotemporally regulate Li⁺-flux during SEI growth. This synergy yields a dense, high-modulus SEI, enabling Ah-level NCM811||Si/C quasi-solid-state cells with enhanced interfacial stability and cycling. It establishes formation-process engineering as a practical route to high-performance batteries.&lt;br&gt;🏷 solid-electrolyte interphase · Li+ flux regulation · Si/C anode · quasi-solid-state battery · bipolar pulse formation</description>
+<category>solid-electrolyte interphase</category>
+<category>Li+ flux regulation</category>
+<category>Si/C anode</category>
+<category>quasi-solid-state battery</category>
+<category>bipolar pulse formation</category>
+</item>
+<item>
+<title>Extremophile‐Inspired Hydroxyectoine Reconstructs Water Networks and Stabilizes Zinc Interfaces in Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1002/smll.76007</link>
+<guid isPermaLink="false">10.1002/smll.76007</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:55 GMT</pubDate>
+<description>افزودنی هیدروکسی‌اکتویین با بازسازی شبکه آب و پایدارسازی سطح روی، عمر چرخه‌ای باتری آبی روی را به‌شدت افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work first introduces hydroxyectoine, an extremophile-derived solute, as a multifunctional additive for aqueous zinc batteries. It uniquely dual-regulates the water hydrogen-bonding network and zinc interface, suppressing hydrogen evolution and dendrites. The result is ultralong cycling (7300 h) and high efficiency, offering a bio-inspired route to durable, high-performance energy storage.&lt;br&gt;🏷 zinc battery · hydroxyectoine · electrolyte additive · zinc anode · hydrogen evolution</description>
+<category>zinc battery</category>
+<category>hydroxyectoine</category>
+<category>electrolyte additive</category>
+<category>zinc anode</category>
+<category>hydrogen evolution</category>
+</item>
+<item>
+<title>The Host‐Guest Assemblies of Metal–Organic Frameworks and Protic Ionic Liquids With ZIF‐8 and [Dema][TfO] – Structural Response and Ionic Conductivity</title>
+<link>https://doi.org/10.1002/smll.76019</link>
+<guid isPermaLink="false">10.1002/smll.76019</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:46 GMT</pubDate>
+<description>ترکیب مایع یونی پروتیک [Dema][TfO] در حفرات ZIF-8، رسانایی یونی بالایی در حالت بی‌آب ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study pioneers the encapsulation of protic ionic liquid [Dema][TfO] into ZIF-8, revealing unique host-guest interactions: pore expansion, hydrogen bond disruption, and reduced thermal stability. The fully saturated composite achieves superior ionic conductivity (1.09 mS·cm⁻¹ at 160°C), outperforming other IL@MOF conductors. This demonstrates protic IL@MOF hybrids as promising solid electrolytes, advancing anhydrous proton-conducting materials design.&lt;br&gt;🏷 MOF · ionic liquid · solid electrolyte · ionic conductivity · ZIF-8</description>
+<category>MOF</category>
+<category>ionic liquid</category>
+<category>solid electrolyte</category>
+<category>ionic conductivity</category>
+<category>ZIF-8</category>
+</item>
+<item>
+<title>Bridging Molecular Precision and Device Functionality With Triazole Based Cobalt Catalyst for Cross‐Platform Rechargeable Metal‐Air Batteries</title>
+<link>https://doi.org/10.1002/smll.76028</link>
+<guid isPermaLink="false">10.1002/smll.76028</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:29 GMT</pubDate>
+<description>کمپلکس کبالت تریازولی برای کاتالیز دوجهته ORR/OER در باتری‌های فلز-هوا به کار رفت و عملکرد پایدار در باتری‌های Zn-air و Li-air نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work bridges molecular and device levels by designing a triazole-based cobalt catalyst (CoTzN) for bifunctional ORR/OER. Covalent anchoring on carbon nanotubes yields a stable, selective four-electron catalyst operating across pH 7–14. It enables cross-platform rechargeable metal–air batteries, powering quasi-solid-state Zn-air (&amp;gt;450 cycles) and non-aqueous Li-air (80 cycles) devices, demonstrating translation of coordination-level design into robust hybrid electrodes.&lt;br&gt;🏷 metal-air battery · cobalt catalyst · triazole complex · bifunctional ORR/OER · Zn-air battery</description>
+<category>metal-air battery</category>
+<category>cobalt catalyst</category>
+<category>triazole complex</category>
+<category>bifunctional ORR/OER</category>
+<category>Zn-air battery</category>
+</item>
+<item>
+<title>Unveiling the Structural Advantages in PTFE‐Based Dry‐Processed Electrodes for Sulfide‐Based All‐Solid‐State Batteries via 3D Microstructure‐Resolved Analysis</title>
+<link>https://doi.org/10.1002/smll.75974</link>
+<guid isPermaLink="false">10.1002/smll.75974</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:24 GMT</pubDate>
+<description>تحلیل سه‌بعدی ریزساختار الکترودهای خشک PTFE در باتری تمام‌حالت‌جامد سولفیدی، پوشش بهتر الکترولیت و مسیرهای انتقال یون/الکترون را نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study provides the first 3D microstructure-resolved quantitative analysis of PTFE-based dry-processed electrodes for sulfide ASSBs. It reveals that 0.2 wt.% PTFE induces SE coating on cathode particles, raising surface coverage from 35% to 59% and improving component homogeneity and transport pathways, enabling high areal capacity (6.42 mAh cm⁻²) at high loading—advancing practical high-energy-density ASSB commercialization.&lt;br&gt;🏷 all-solid-state battery · dry-processed electrode · PTFE binder · FIB-SEM tomography · sulfide electrolyte</description>
+<category>all-solid-state battery</category>
+<category>dry-processed electrode</category>
+<category>PTFE binder</category>
+<category>FIB-SEM tomography</category>
+<category>sulfide electrolyte</category>
+</item>
+<item>
+<title>Synergistic Texture Engineering and Grain‐Boundary Stabilization for Aqueous Zinc‐Ion Batteries With Ultralong Cycling Life Under Extreme Conditions</title>
+<link>https://doi.org/10.1002/smll.75954</link>
+<guid isPermaLink="false">10.1002/smll.75954</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:16 GMT</pubDate>
+<description>آلیاژ SnPb برای تقویت مرزدانه‌های آند روی در باتری یون-روی آبی به کار رفت و چرخه‌پذیری فوق‌طولانی در شرایط سخت را ممکن ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work introduces a SnPb alloy for synergistic grain-boundary reinforcement in zinc anodes, simultaneously regulating local electronic structure and mechanical stability. Unlike single-element modifications, it enables ultralong cycling (5270 h at 40 mA cm⁻², 105 Ah cm⁻²) under extreme conditions, offering a practical grain-boundary engineering strategy for stable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · grain-boundary stabilization · SnPb alloy · dendrite suppression · ultralong cycling</description>
+<category>zinc-ion battery</category>
+<category>grain-boundary stabilization</category>
+<category>SnPb alloy</category>
+<category>dendrite suppression</category>
+<category>ultralong cycling</category>
+</item>
+<item>
+<title>Bimetallic Sulfides for Next‐Generation Energy Systems: Structure‐Performance Correlations, Multidimensional Regulation, and Controllable Synthesis</title>
+<link>https://doi.org/10.1002/smll.75911</link>
+<guid isPermaLink="false">10.1002/smll.75911</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:11 GMT</pubDate>
+<description>این مرور، ارتباط ساختار-عملکرد سولفیدهای دومفلزی را برای کاربردهای ذخیره و تبدیل انرژی بررسی و راهبردهای طراحی و سنتز آن‌ها را ارائه می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges BMS structure, synthesis, and application via a systematic roadmap. It integrates multidimensional regulation strategies—interface, surface, and interlayer coupling—with tailored synthesis, establishing clear structure-performance correlations. By evaluating energy applications and outlining challenges, it offers a definitive guide to accelerate rational design and practical deployment of next-generation bimetallic sulfide electrodes.&lt;br&gt;🏷 bimetallic sulfides · energy storage · structure-performance · synthesis strategies · electrochemical energy</description>
+<category>bimetallic sulfides</category>
+<category>energy storage</category>
+<category>structure-performance</category>
+<category>synthesis strategies</category>
+<category>electrochemical energy</category>
+</item>
+<item>
+<title>Biosynthesis of Spatially Differentiated Cellulose for Flexible All‐in‐one Supercapacitors</title>
+<link>https://doi.org/10.1002/advs.77603</link>
+<guid isPermaLink="false">10.1002/advs.77603</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:24 GMT</pubDate>
+<description>بیوسنتز هدایت‌شده با اکسیژن، سلولز با تمایز فضایی را برای supercapacitor همه‌کاره انعطاف‌پذیر ایجاد کرده و رسانایی و ظرفیت بالایی فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Oxygen-guided biosynthesis creates spatially differentiated bacterial cellulose with dense surface layers and an open interlayer in one step, enabling monolithic all-in-one supercapacitors. This bottom-up approach integrates distinct functional regions—polyaniline loading and ion transport—within a continuous scaffold, achieving high conductivity, toughness, capacitance, and energy density, offering a sustainable platform for flexible energy storage.&lt;br&gt;🏷 bacterial cellulose · supercapacitor · spatial differentiation · polyaniline · flexible energy storage</description>
+<category>bacterial cellulose</category>
+<category>supercapacitor</category>
+<category>spatial differentiation</category>
+<category>polyaniline</category>
+<category>flexible energy storage</category>
+</item>
+<item>
+<title>A Conduction‐Nucleation‐Competition‐Guided 3D Adaptive Gradient Buffer for Dendrite‐Free All‐Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/advs.77775</link>
+<guid isPermaLink="false">10.1002/advs.77775</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:25 GMT</pubDate>
+<description>یک بافر گرادیانی خودتنظیم از کربن نرم و Mg3N2 برای باتری لیتیوم-فلز تمام‌جامد طراحی شد که با مکانیزم رقابت رسانش-هسته‌زایی، رشد دندریت را مهار کرده و چرخه‌پذیری پایدار را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work first proposes a conduction-nucleation competition mechanism governing Li deposition, then designs a self-adaptive soft carbon/Mg₃N₂ gradient buffer that converts in situ into Li₃N and Li-C/Li-Mg alloys. It enables bottom-top deposition without volume expansion, achieving 1600 h cycling at low pressure and 98.5% retention, offering a mechanism-driven paradigm for high-energy ASSLMBs.&lt;br&gt;🏷 all-solid-state battery · lithium metal anode · gradient buffer · dendrite suppression · conduction-nucleation competition</description>
+<category>all-solid-state battery</category>
+<category>lithium metal anode</category>
+<category>gradient buffer</category>
+<category>dendrite suppression</category>
+<category>conduction-nucleation competition</category>
+</item>
 <item>
 <title>Soft-Acid-Triggered Water Speciation Engineering: Reconfiguring the Aqueous Microenvironment in Prussian Blue Cathodes for High-Performance Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105559</link>
@@ -621,115 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>crystallinity regulation</category>
 <category>flexible transparent battery</category>
 <category>PMMA</category>
-</item>
-<item>
-<title>Recent Progress of Single‐Atom Catalysts for High‐Performance Metal‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/smll.75895</link>
-<guid isPermaLink="false">10.1002/smll.75895</guid>
-<pubDate>Fri, 25 Sep 2026 20:05:56 GMT</pubDate>
-<description>این مرور پیشرفت‌های اخیر کاتالیزورهای تک‌اتمی را برای باتری‌های فلز-گوگرد بررسی می‌کند و نقش هیبریداسیون اوربیتال d–p در بهبود سینتیک ردوکس گوگرد و مهار shuttle پلی‌سولفیدها را برجسته می‌سازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges fundamental electrochemistry and rational design of single-atom catalysts (SACs) across diverse metal-sulfur batteries, from Li-S to emerging Na-S, Al-S, K-S, Zn-S, and Mg-S systems. It highlights d–p orbital hybridization mechanisms governing bidirectional sulfur redox kinetics, offering critical insights and future directions for high-energy-density, long-lifespan M-S electrochemistry.&lt;br&gt;🏷 single-atom catalyst · metal-sulfur battery · polysulfide shuttle · d-p hybridization · sulfur redox kinetics</description>
-<category>single-atom catalyst</category>
-<category>metal-sulfur battery</category>
-<category>polysulfide shuttle</category>
-<category>d-p hybridization</category>
-<category>sulfur redox kinetics</category>
-</item>
-<item>
-<title>Role of 1D and 2D Materials in Achieving Transparent and Flexible Lithium‐Ion Batteries for Wearable Electronics</title>
-<link>https://doi.org/10.1002/smll.75846</link>
-<guid isPermaLink="false">10.1002/smll.75846</guid>
-<pubDate>Fri, 25 Sep 2026 20:05:39 GMT</pubDate>
-<description>این مرور، نقش مواد یک‌بعدی و دوبعدی و معماری‌های هیبریدی را در ساخت باتری‌های لیتیوم-یونی شفاف و انعطاف‌پذیر برای الکترونیک پوشیدنی و توازن میان شفافیت، انعطاف و عملکرد بررسی می‌کند.&lt;br&gt;Small | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely links 1D and 2D nanomaterial architectures to overcoming the transparency-flexibility-performance trade-off in transparent flexible lithium-ion batteries. Its significance lies in explaining how 1D-2D hybrids optimize ion and electron transport, while surveying solid-state electrolytes and fabrication strategies for wearable electronics, thereby guiding high-performance material design.&lt;br&gt;🏷 flexible lithium-ion battery · transparent battery · 1D-2D materials · solid electrolyte · wearable electronics</description>
-<category>flexible lithium-ion battery</category>
-<category>transparent battery</category>
-<category>1D-2D materials</category>
-<category>solid electrolyte</category>
-<category>wearable electronics</category>
-</item>
-<item>
-<title>Long-duration aqueous manganese metal anode by hydrogel solvation regulation</title>
-<link>https://doi.org/10.1126/sciadv.aeg1770</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg1770</guid>
-<pubDate>Fri, 25 Sep 2026 20:04:55 GMT</pubDate>
-<description>هیدروژل حاوی 18-crown-6 با کاهش هیدراتاسیون Mn2+ از 5.51 به 1.39، واکنش‌های پارازیتی آب را مهار کرده و آند منگنز آبی با عمر طولانی را ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 This work introduces a hydrogel electrolyte with 18-crown-6 macrocycles that reshape Mn²⁺ solvation, cutting hydration from 5.51 to 1.39 and enabling water-repelling ion transport. It suppresses hydrogen evolution and Mn corrosion, delivering 95% Coulombic efficiency over 350 cycles, 1800-hour cycling, and durable pouch cells. This offers a promising solvation-regulation strategy for practical aqueous manganese metal batteries.&lt;br&gt;🏷 aqueous manganese battery · hydrogel electrolyte · solvation regulation · 18-crown-6 · Mn anode</description>
-<category>aqueous manganese battery</category>
-<category>hydrogel electrolyte</category>
-<category>solvation regulation</category>
-<category>18-crown-6</category>
-<category>Mn anode</category>
-</item>
-<item>
-<title>Long-Life Zinc–Bromine Flow Batteries with Low-Temperature Operation Enabled by Hydration Modulation of Complexing Agents</title>
-<link>https://doi.org/10.1021/jacs.6c14019</link>
-<guid isPermaLink="false">10.1021/jacs.6c14019</guid>
-<pubDate>Fri, 25 Sep 2026 19:03:09 GMT</pubDate>
-<description>این مقاله با تنظیم هیدراتاسیون عوامل کمپلکس‌ساز، عمر چرخه و عملکرد دمای پایین باتری جریان روی-برم را به‌طور چشمگیری بهبود می‌بخشد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is a hydration-modulation strategy for bromine complexing agents that improves polybromide retention and suppresses zinc dendrites. Using 1-[2-hydroxyethyl]-1-methylpyrrolidinium bromide enables zinc–bromine flow batteries to achieve over 4000 cycles at high current density and over 700 h operation at −20 °C, far exceeding traditional systems, advancing low-temperature, long-life grid storage.&lt;br&gt;🏷 zinc-bromine flow battery · hydration modulation · complexing agents · low-temperature operation · long cycle life</description>
-<category>zinc-bromine flow battery</category>
-<category>hydration modulation</category>
-<category>complexing agents</category>
-<category>low-temperature operation</category>
-<category>long cycle life</category>
-</item>
-<item>
-<title>Lattice distortion strain modulation of twin-defective noble-metal-free high-entropy alloy electrocatalyst for Li−O2 batteries</title>
-<link>https://doi.org/10.1038/s41467-026-77604-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-77604-y</guid>
-<pubDate>Fri, 25 Sep 2026 19:02:22 GMT</pubDate>
-<description>تنش کرنش شبکه‌ای ناشی از نقص دوقلویی در آلیاژ با آنتروپی بالا بدون فلز نجیب، کاتالیزور مؤثری برای باتری Li−O2 فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes a lattice strain-twin formation energy rule to engineer twin defects in noble-metal-free high-entropy alloys. Ce doping into CuCoNiMnMo induces five-fold twinning, creating high-activity sites and a CeOx passivation layer that enhance Li–O2 battery performance (405 cycles, −20 to 80 °C), advancing defect engineering for energy electrocatalysis.&lt;br&gt;🏷 Li-O2 battery · high-entropy alloy · twin defects · lattice strain · electrocatalyst</description>
-<category>Li-O2 battery</category>
-<category>high-entropy alloy</category>
-<category>twin defects</category>
-<category>lattice strain</category>
-<category>electrocatalyst</category>
-</item>
-<item>
-<title>Phase‐Engineered Electronic Structure of ZrO 2 Regulates the Kinetic Thermodynamic Balance of Polyiodide Chemistry in Aqueous Zn–I 2 Batteries</title>
-<link>https://doi.org/10.1002/adfm.78723</link>
-<guid isPermaLink="false">10.1002/adfm.78723</guid>
-<pubDate>Fri, 25 Sep 2026 18:02:58 GMT</pubDate>
-<description>مهندسی فاز ZrO2 تتراگونال، تعادل جذب-تبدیل پلی‌یدید را در باتری آبی Zn-I2 تنظیم کرده و سینتیک تبدیل و ظرفیت را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Phase engineering of ZrO₂ (tetragonal vs. monoclinic) is the key novelty: tetragonal ZrO₂&amp;#x27;s oxygen vacancies and lower work function tune polyiodide adsorption–conversion balance. This suppresses shuttling while accelerating I₂/I⁻ kinetics, yielding 215 mAh g⁻¹ with 97% retention over 2000 cycles. It establishes crystal-phase engineering as a viable route to regulate interfacial electronic structure in aqueous conversion-type batteries.&lt;br&gt;🏷 Zn-I2 battery · ZrO2 · phase engineering · polyiodide conversion · oxygen vacancy</description>
-<category>Zn-I2 battery</category>
-<category>ZrO2</category>
-<category>phase engineering</category>
-<category>polyiodide conversion</category>
-<category>oxygen vacancy</category>
-</item>
-<item>
-<title>Coupling Ionic Network Reconstruction With Interfacial Electrostatics Shielding Resolves the Interphase Stability‐Transport Trade‐Off for High‐Temperature Durable Li‐SPAN Batteries</title>
-<link>https://doi.org/10.1002/adfm.78698</link>
-<guid isPermaLink="false">10.1002/adfm.78698</guid>
-<pubDate>Fri, 25 Sep 2026 18:02:50 GMT</pubDate>
-<description>با افزودن PY13FSI، بازسازی شبکه یونی و سپر الکترواستاتیکی، مبادله پایداری-انتقال در باتری Li-SPAN را حل کرده و چرخه‌پذیری دما بالا را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Introducing PY13FSI reconstructs the ionic network and shields interfacial electrostatics, breaking the stability-transport trade-off in Li-SPAN batteries. It forms LiF/Li₃N-rich interphases while achieving ~10 mS cm⁻¹ conductivity and a 0.71 Li⁺ transference number, enabling 94.1% retention over 1100 cycles and 60°C operation. This offers a design strategy for high-energy, durable electrolytes.&lt;br&gt;🏷 Li-SPAN battery · electrolyte engineering · ionic network · interphase stability · high temperature</description>
-<category>Li-SPAN battery</category>
-<category>electrolyte engineering</category>
-<category>ionic network</category>
-<category>interphase stability</category>
-<category>high temperature</category>
-</item>
-<item>
-<title>Lewis Acid‐Base Electrolyte Additive Mediates Zn Anode Interface Chemistry and Iodine Conversion for Advanced Four‐Electron Zn||I 2 Batteries</title>
-<link>https://doi.org/10.1002/adfm.78482</link>
-<guid isPermaLink="false">10.1002/adfm.78482</guid>
-<pubDate>Fri, 25 Sep 2026 18:02:34 GMT</pubDate>
-<description>افزودنی EMBr به‌عنوان اسید-باز لوویس، پایداری آند Zn و تبدیل ید را در باتری آبی Zn||I2 بهبود می‌دهد و چرخه‌پذیری طولانی‌مدت را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 EMBr acts as a Lewis acid-base additive in Zn||I₂ batteries, forming a water-poor Helmholtz layer to stabilize Zn and capturing polyiodides, while Br⁻ enables I⁻/I⁰/I⁺ conversion. With catalytic ZFeC host, batteries achieve 52,000 cycles at 324.3 mAh g⁻¹, offering a versatile strategy for high-valence aqueous zinc batteries.&lt;br&gt;🏷 Zn-I2 battery · electrolyte additive · Lewis acid-base · iodine conversion · Zn anode</description>
-<category>Zn-I2 battery</category>
-<category>electrolyte additive</category>
-<category>Lewis acid-base</category>
-<category>iodine conversion</category>
-<category>Zn anode</category>
-</item>
-<item>
-<title>Asymmetrically Coordinated Dysprosium (Dy) Single Atoms/Clusters Synergistic Catalysts Promote High‐Performance Aqueous Zn–I 2 Batteries</title>
-<link>https://doi.org/10.1002/adfm.78586</link>
-<guid isPermaLink="false">10.1002/adfm.78586</guid>
-<pubDate>Fri, 25 Sep 2026 18:02:10 GMT</pubDate>
-<description>این مقاله کاتالیزورهای تک‌اتم/خوشه دیسپروزیم با هم‌آرایی نامتقارن را برای مهار پلی‌یدیدها و بهبود عملکرد باتری آبی Zn-I2 طراحی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Asymmetrically coordinated Dy–N3O5 single atoms plus Dy clusters on N-doped carbon were synthesized for Zn–I2 cathodes. This dual-site catalyst synergistically confines polyiodides and accelerates iodine conversion, with Dy-5d/I-5p coupling and Dy-4f regulation enabling 200.46 mAh g⁻¹ after 25,000 cycles. It introduces rare-earth single-atom/cluster catalysts for durable aqueous zinc–iodine batteries.&lt;br&gt;🏷 Zn-I2 battery · dysprosium single atoms · polyiodide confinement · asymmetric coordination · iodine conversion</description>
-<category>Zn-I2 battery</category>
-<category>dysprosium single atoms</category>
-<category>polyiodide confinement</category>
-<category>asymmetric coordination</category>
-<category>iodine conversion</category>
 </item>
 </channel>
 </rss>

@@ -5,734 +5,727 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 19:02:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 20:06:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Absolute Primary Nanothermometry Using Individual Stark Sublevels of Rare-Earth-Doped Crystals</title>
-<link>https://doi.org/10.1021/jacs.6c17449</link>
-<guid isPermaLink="false">10.1021/jacs.6c17449</guid>
-<pubDate>Sun, 27 Sep 2026 19:02:19 GMT</pubDate>
-<description>دو روش نوری برای دماسنجی اولیه مطلق با نانوذرات Y2O3:Yb3+/Er3+ بر پایه توزیع بولتزمن بین زیرترازهای Stark یون Er3+ در ناحیه سبز و نزدیک‌فروسرخ ارائه شده است.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nanothermometry · rare-earth nanoparticles · Stark sublevels · Y2O3:Yb3+/Er3+ · primary thermometry</description>
-<category>nanothermometry</category>
-<category>rare-earth nanoparticles</category>
-<category>Stark sublevels</category>
-<category>Y2O3:Yb3+/Er3+</category>
-<category>primary thermometry</category>
+<title>Synergistic Spatiotemporal Regulation of Li + ‐Flux During Formation Enables Stable Solid‐Electrolyte Interphase for Ah‐Level Si/C Anode‐Based Quasi‐Solid‐State Lithium Batteries</title>
+<link>https://doi.org/10.1002/smll.76038</link>
+<guid isPermaLink="false">10.1002/smll.76038</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:38 GMT</pubDate>
+<description>تنظیم هم‌افزای فضایی-زمانی شار Li+ در مرحله formation با الکترولیت ژلی پیزوالکتریک BaTiO3 و پروتکل پالس دوقطبی، SEI پایدار و عملکرد چرخه‌ای باتری لیتیومی شبه‌جامد Si/C را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work uniquely combines a piezoelectric BaTiO₃/PVDF-b-PTFE gel electrolyte with bipolar pulse formation to spatiotemporally regulate Li⁺-flux during SEI growth. This synergy yields a dense, high-modulus SEI, enabling Ah-level NCM811||Si/C quasi-solid-state cells with enhanced interfacial stability and cycling. It establishes formation-process engineering as a practical route to high-performance batteries.&lt;br&gt;🏷 solid-electrolyte interphase · Li+ flux regulation · Si/C anode · quasi-solid-state battery · bipolar pulse formation</description>
+<category>solid-electrolyte interphase</category>
+<category>Li+ flux regulation</category>
+<category>Si/C anode</category>
+<category>quasi-solid-state battery</category>
+<category>bipolar pulse formation</category>
 </item>
 <item>
-<title>Siderophore-Enabled Delivery of Carbapenem and Metallo-β-Lactamase Inhibitor: A Promising Strategy against Multidrug-Resistant Pseudomonas aeruginosa</title>
-<link>https://doi.org/10.1021/jacs.6c08350</link>
-<guid isPermaLink="false">10.1021/jacs.6c08350</guid>
-<pubDate>Sun, 27 Sep 2026 19:02:16 GMT</pubDate>
-<description>کانژوگه‌های سیدروفور-مروپنم و سیدروفور-مهارکننده InC، مقاومت غیرآنزیمی و آنزیمی Pseudomonas aeruginosa را در شرایط آزمایشگاهی و مدل Galleria mellonella معکوس می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 siderophore conjugate · carbapenem resistance · metallo-beta-lactamase · Pseudomonas aeruginosa · indole carboxylate</description>
-<category>siderophore conjugate</category>
-<category>carbapenem resistance</category>
-<category>metallo-beta-lactamase</category>
-<category>Pseudomonas aeruginosa</category>
-<category>indole carboxylate</category>
+<title>Magneto‐Photoactivated Gold Plasmonic Nano‐Islands and Quantum Dot Assemblies for ppt‐Level NO 2 Detection</title>
+<link>https://doi.org/10.1002/smll.75971</link>
+<guid isPermaLink="false">10.1002/smll.75971</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:32 GMT</pubDate>
+<description>حسگر chemiresistive مبتنی بر جزایر نانویی طلا و quantum dotها روی شیشه واکنش‌پذیر، با فعال‌سازی مغناطیسی-نوری، تشخیص NO2 را تا حد ppt در دمای پایین ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 gold nano-islands · quantum dots · NO2 sensor · chemiresistive gas sensing · magnetophotoactivation</description>
+<category>gold nano-islands</category>
+<category>quantum dots</category>
+<category>NO2 sensor</category>
+<category>chemiresistive gas sensing</category>
+<category>magnetophotoactivation</category>
 </item>
 <item>
-<title>Composition-Tuned PdPt–WO3 Yolk–Shell Heterostructures with Engineered Catalytic Interfaces for Selective Isoprene Detection</title>
-<link>https://doi.org/10.1021/acsnano.6c10822</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10822</guid>
-<pubDate>Sun, 27 Sep 2026 19:02:10 GMT</pubDate>
-<description>سنتز یک‌مرحله‌ای PdPt-WO3 با ساختار yolk-shell و تنظیم نسبت Pd/Pt، حسگری ایزوپرن با گزینش‌پذیری بالا و سیستم پایش بی‌سیم هوشمند بر پایه یادگیری عمیق ارائه می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 isoprene sensor · PdPt-WO3 · yolk-shell · oxygen vacancy · deep learning</description>
-<category>isoprene sensor</category>
-<category>PdPt-WO3</category>
-<category>yolk-shell</category>
-<category>oxygen vacancy</category>
-<category>deep learning</category>
+<title>Ultrasoft, Stretchable, and Adhesive Conducting Polymer Ionogels for Reliable Wearable Sensors</title>
+<link>https://doi.org/10.1002/smll.75989</link>
+<guid isPermaLink="false">10.1002/smll.75989</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:27 GMT</pubDate>
+<description>یک ionogel رسانای پلیمری فوق‌نرم، کشسان و چسبنده با پلیمریزاسیون درجا در مایع یونی ساخته شد که برای حسگرهای پوشیدنی و ثبت سیگنال‌های الکتروفیزیولوژیکی با کارایی بالا مناسب است.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 conducting polymer ionogel · polypyrrole · wearable sensor · stretchable conductor · bioelectrode</description>
+<category>conducting polymer ionogel</category>
+<category>polypyrrole</category>
+<category>wearable sensor</category>
+<category>stretchable conductor</category>
+<category>bioelectrode</category>
 </item>
 <item>
-<title>Nanoplastics Mitigate 6PPD-Induced Zebrafish Cardiac Ferroptosis Mediated by the GRK5/p53/SLC7A11 Pathway</title>
-<link>https://doi.org/10.1021/acsnano.6c11399</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11399</guid>
-<pubDate>Sun, 27 Sep 2026 19:02:05 GMT</pubDate>
-<description>مطالعه نشان می‌دهد نانوپلاستیک‌های PS با تغییر رفتار 6PPD، تجمع قلبی آن را کاهش داده و فرروپتوز ناشی از مسیر GRK5/p53/SLC7A11 را در قلب zebrafish تضعیف می‌کنند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 6PPD · nanoplastics · cardiac ferroptosis · GRK5/p53/SLC7A11 · zebrafish</description>
-<category>6PPD</category>
-<category>nanoplastics</category>
-<category>cardiac ferroptosis</category>
-<category>GRK5/p53/SLC7A11</category>
-<category>zebrafish</category>
+<title>Basal Plane Passivation of Ti 3 C 2 T x MXenes Through Prussian Blue Analogue Nanoparticles Anchoring for Efficient and Selective Electrochemical Ammonia Synthesis</title>
+<link>https://doi.org/10.1002/smll.75799</link>
+<guid isPermaLink="false">10.1002/smll.75799</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:24 GMT</pubDate>
+<description>فعال‌سازی صفحه پایه Ti3C2Tx MXene با نانوذرات Prussian blue analogue باعث بهبود جذب N2، سرکوب HER و دستیابی به بازده بالای NH3 و Faradaic efficiency 95% در سنتز الکتروشیمیایی آمونیاک می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 MXene · Prussian blue analogue · electrocatalytic nitrogen reduction · basal plane activation · ammonia synthesis</description>
+<category>MXene</category>
+<category>Prussian blue analogue</category>
+<category>electrocatalytic nitrogen reduction</category>
+<category>basal plane activation</category>
+<category>ammonia synthesis</category>
 </item>
 <item>
-<title>Molecular Recognition by Halogen Bonding With Atomic Precision in a Covalent Organic Cage</title>
-<link>https://doi.org/10.1002/anie.5640364</link>
-<guid isPermaLink="false">10.1002/anie.5640364</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:57 GMT</pubDate>
-<description>قفس آلی کووالانسی حاوی پیوند P-Cl، DMMP را با دقت اتمی از طریق پیوند هالوژنی شناسایی می‌کند و جایگزینی کلر با هیدروژن شناسایی را از بین می‌برد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 halogen bonding · covalent organic cage · molecular recognition · DMMP · hemicryptophane</description>
-<category>halogen bonding</category>
-<category>covalent organic cage</category>
-<category>molecular recognition</category>
-<category>DMMP</category>
-<category>hemicryptophane</category>
+<title>Quantitative Characteristics and Microscopic Mechanism of Direct Reduction of CaCO 3 with CH 4 for Syngas Production</title>
+<link>https://doi.org/10.1002/smll.76015</link>
+<guid isPermaLink="false">10.1002/smll.76015</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:20 GMT</pubDate>
+<description>احیای مستقیم CaCO3 با CH4 در حضور کاتالیزور، دمای تجزیه و انرژی فعال‌سازی را کاهش داده و مسیر واکنش فرمات‌محور را پیشنهاد می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 CaCO3 reduction · CH4 · syngas · DFT · reaction mechanism</description>
+<category>CaCO3 reduction</category>
+<category>CH4</category>
+<category>syngas</category>
+<category>DFT</category>
+<category>reaction mechanism</category>
 </item>
 <item>
-<title>Catalytic Enantioselective Remote Transannular Desymmetrization of Calix[4]Arenes to Inherently Chiral Double‐Macrocycles</title>
-<link>https://doi.org/10.1002/anie.7110885</link>
-<guid isPermaLink="false">10.1002/anie.7110885</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:53 GMT</pubDate>
-<description>واکنش جفت‌شدن سوزوکی-میائورا نامتقارن درون‌مولکولی، ماکروسیکل‌های دوگانه کایرال ذاتی از کالیکس[4]آرن‌ها با بازده و ee بالا تولید می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 calix[4]arene · inherently chiral macrocycle · desymmetrization · Suzuki-Miyaura coupling · enantioselective catalysis</description>
-<category>calix[4]arene</category>
-<category>inherently chiral macrocycle</category>
-<category>desymmetrization</category>
-<category>Suzuki-Miyaura coupling</category>
-<category>enantioselective catalysis</category>
-</item>
-<item>
-<title>Inducing Orientation Polarisation via Regional Isomerisation in Covalent Organic Frameworks for Enhanced O 2 Photoactivation</title>
-<link>https://doi.org/10.1002/anie.2540246</link>
-<guid isPermaLink="false">10.1002/anie.2540246</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:39 GMT</pubDate>
-<description>تنظیم ایزومری ناحیه‌ای در COFهای تیوفنی، قطبش جهت‌دار و میدان الکتریکی داخلی را تقویت کرده و فتوسنتز H2O2 را از طریق فعال‌سازی O2 بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · regioisomerism · orientation polarisation · O2 photoactivation · H2O2 photosynthesis</description>
-<category>covalent organic framework</category>
-<category>regioisomerism</category>
-<category>orientation polarisation</category>
-<category>O2 photoactivation</category>
-<category>H2O2 photosynthesis</category>
-</item>
-<item>
-<title>Local Coordination and Electronic Coupling Governs Charge Dynamics in BiVO 4 Photoanodes</title>
-<link>https://doi.org/10.1002/anie.3499350</link>
-<guid isPermaLink="false">10.1002/anie.3499350</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:35 GMT</pubDate>
-<description>طیف‌سنجی اشعه ایکس و اندازه‌گیری‌های فمتوثانیه نشان می‌دهد که محیط کوئوردیناسیون موضعی Ni در BiVO4 با جفت‌شدگی الکترونی قوی، دینامیک بار و اکسیداسیون آب را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 BiVO4 photoanode · transition-metal doping · charge dynamics · water oxidation · electronic coupling</description>
-<category>BiVO4 photoanode</category>
-<category>transition-metal doping</category>
-<category>charge dynamics</category>
-<category>water oxidation</category>
-<category>electronic coupling</category>
-</item>
-<item>
-<title>Anion‐Doped Manganese Oxides Enabling Relay Catalysis for Aerobic Alcohol Ammoxidation</title>
-<link>https://doi.org/10.1002/anie.5879363</link>
-<guid isPermaLink="false">10.1002/anie.5879363</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:32 GMT</pubDate>
-<description>دوپینگ آنیونی C/N در MnOx با کاتالیز رله‌ای، آمموکسیداسیون هوازی الکل‌ها به نیتریل‌ها را در دمای اتاق و بدون فلز نجیب ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 manganese oxide · anion doping · relay catalysis · aerobic ammoxidation · nitrile synthesis</description>
-<category>manganese oxide</category>
-<category>anion doping</category>
-<category>relay catalysis</category>
-<category>aerobic ammoxidation</category>
-<category>nitrile synthesis</category>
-</item>
-<item>
-<title>Ultrastable Hydrogen‐Bonded Organic Framework for Efficient CO 2 /CH 4 Separation in Humid Environments</title>
-<link>https://doi.org/10.1002/anie.2076718</link>
-<guid isPermaLink="false">10.1002/anie.2076718</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:27 GMT</pubDate>
-<description>ساخت HOF جدید با پیوند هیدروژنی آلدهیدی، جداسازی CO2/CH4 با انتخاب‌پذیری بالا و پایداری فوق‌العاده در محیط مرطوب را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 hydrogen-bonded organic framework · CO2/CH4 separation · moisture resistance · aldehyde linker · breakthrough experiment</description>
-<category>hydrogen-bonded organic framework</category>
-<category>CO2/CH4 separation</category>
-<category>moisture resistance</category>
-<category>aldehyde linker</category>
-<category>breakthrough experiment</category>
-</item>
-<item>
-<title>Recognition Mechanism of Serotonin by a G‐Quadruplex–Duplex Hybrid Aptamer</title>
-<link>https://doi.org/10.1002/anie.8380078</link>
-<guid isPermaLink="false">10.1002/anie.8380078</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:24 GMT</pubDate>
-<description>ساختار NMR آپتامر Apt38 در حالت آزاد و متصل به سروتونین، مکانیزم شناسایی و سنجش را در محل اتصال G-quadruplex-duplex روشن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 serotonin aptamer · G-quadruplex · NMR structure · molecular recognition · biosensing</description>
-<category>serotonin aptamer</category>
-<category>G-quadruplex</category>
-<category>NMR structure</category>
-<category>molecular recognition</category>
-<category>biosensing</category>
-</item>
-<item>
-<title>Radical Negative‐Feedback in High Entropy UiO‐67 to Break the Activity–Stability Trade‐Off in Photocatalytic Oxygenation of CH 4</title>
-<link>https://doi.org/10.1002/anie.2967863</link>
-<guid isPermaLink="false">10.1002/anie.2967863</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:20 GMT</pubDate>
-<description>ساخت UiO-67 با آنتروپی بالا و مکانیزم بازخورد منفی رادیکال، مبادله فعالیت-پایداری را در اکسیداسیون نوری متان با H2O2 می‌شکند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 high-entropy MOF · UiO-67 · methane oxygenation · radical negative-feedback · photocatalysis</description>
-<category>high-entropy MOF</category>
-<category>UiO-67</category>
-<category>methane oxygenation</category>
-<category>radical negative-feedback</category>
-<category>photocatalysis</category>
-</item>
-<item>
-<title>The Strong Electronic Metal–Support Interactions Mediated Direct Three‐Electron Oxygen Reduction for Enhanced Hydroxyl Radical Generation</title>
-<link>https://doi.org/10.1002/anie.8484914</link>
-<guid isPermaLink="false">10.1002/anie.8484914</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:16 GMT</pubDate>
-<description>برهم‌کنش قوی الکترونی فلز-حامل در FeOCl/GC مسیر 3e- ORR را هدایت کرده و تولید رادیکال هیدروکسیل را برای تصفیه آب به‌شدت افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 electro-Fenton · 3e- ORR · hydroxyl radical · FeOCl · metal-support interaction</description>
-<category>electro-Fenton</category>
-<category>3e- ORR</category>
-<category>hydroxyl radical</category>
-<category>FeOCl</category>
-<category>metal-support interaction</category>
-</item>
-<item>
-<title>Water Helicity‐Modulated Hierarchical Inverse Chirality Transfer in Supramolecular Assembly</title>
-<link>https://doi.org/10.1002/anie.3329596</link>
-<guid isPermaLink="false">10.1002/anie.3329596</guid>
-<pubDate>Sun, 27 Sep 2026 19:01:12 GMT</pubDate>
-<description>مقاله با طراحی مشتق L-phenylalanine، انتقال معکوس کایرالیته با واسطه آب مارپیچ را نشان می‌دهد که نانوالیاف P-هلیکال و تغییر انتخاب‌پذیری اسپینی را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 water helicity · chirality transfer · supramolecular assembly · L-phenylalanine · spin selectivity</description>
-<category>water helicity</category>
-<category>chirality transfer</category>
-<category>supramolecular assembly</category>
-<category>L-phenylalanine</category>
-<category>spin selectivity</category>
-</item>
-<item>
-<title>Enhanced Operational Stability in Tin-Based Perovskite Solar Cells via a Natural Antioxidant</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01792</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01792</guid>
-<pubDate>Sun, 27 Sep 2026 18:01:09 GMT</pubDate>
-<description>این مقاله با افزودن آنتی‌اکسیدان طبیعی ellagic acid به پروسکایت قلع، بازده سلول خورشیدی را از ۹.۳ به ۱۰.۲٪ و پایداری عملیاتی را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 tin perovskite solar cell · ellagic acid · natural antioxidant · operational stability · Sn(II) oxidation</description>
-<category>tin perovskite solar cell</category>
-<category>ellagic acid</category>
-<category>natural antioxidant</category>
-<category>operational stability</category>
-<category>Sn(II) oxidation</category>
-</item>
-<item>
-<title>Selective Photoelectrochemical Water Oxidation to Hydrogen Peroxide via Tip-Induced Interfacial Regulation</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02324</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02324</guid>
-<pubDate>Sun, 27 Sep 2026 18:01:06 GMT</pubDate>
-<description>این مقاله با ساخت فوتوآند BiVO4 نانو مخروطی و تنظیم سطح مشترک ناشی از نوک، بازده فارادایی تولید H2O2 را به ۷۲٪ در اکسیداسیون فوتوالکتروشیمیایی آب می‌رساند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 BiVO4 nanocone · photoelectrochemical water oxidation · hydrogen peroxide · tip-induced regulation · faradaic efficiency</description>
-<category>BiVO4 nanocone</category>
-<category>photoelectrochemical water oxidation</category>
-<category>hydrogen peroxide</category>
-<category>tip-induced regulation</category>
-<category>faradaic efficiency</category>
-</item>
-<item>
-<title>Advanced fruits postharvest coatings/films technologies: from simple matrix restructuring to intelligent microenvironment engineering</title>
-<link>https://doi.org/10.1016/j.cis.2026.104063</link>
-<guid isPermaLink="false">10.1016/j.cis.2026.104063</guid>
-<pubDate>Sun, 27 Sep 2026 18:01:02 GMT</pubDate>
-<description>این مقاله فناوری‌های پیشرفته پوشش و فیلم پس از برداشت میوه را از بازآرایی ساده ماتریس تا مهندسی هوشمند ریز محیط مرور می‌کند.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 postharvest coating · fruit preservation · intelligent packaging · microenvironment engineering · edible film</description>
-<category>postharvest coating</category>
-<category>fruit preservation</category>
-<category>intelligent packaging</category>
-<category>microenvironment engineering</category>
-<category>edible film</category>
-</item>
-<item>
-<title>Recent advances in desulfurized rubber modified asphalt from interfacial engineering to colloidal stability and sustainable applications</title>
-<link>https://doi.org/10.1016/j.cis.2026.104064</link>
-<guid isPermaLink="false">10.1016/j.cis.2026.104064</guid>
-<pubDate>Sun, 27 Sep 2026 18:00:55 GMT</pubDate>
-<description>این مقاله پیشرفت‌های اخیر در آسفالت اصلاح‌شده با لاستیک گوگردزدایی‌شده را از مهندسی سطح مشترک تا پایداری کلوئیدی و کاربردهای پایدار مرور می‌کند.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 desulfurized rubber · modified asphalt · interfacial engineering · colloidal stability · sustainable pavement</description>
-<category>desulfurized rubber</category>
-<category>modified asphalt</category>
-<category>interfacial engineering</category>
-<category>colloidal stability</category>
-<category>sustainable pavement</category>
-</item>
-<item>
-<title>Soft-Acid-Triggered Water Speciation Engineering: Reconfiguring the Aqueous Microenvironment in Prussian Blue Cathodes for High-Performance Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105559</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105559</guid>
-<pubDate>Sun, 27 Sep 2026 17:01:57 GMT</pubDate>
-<description>این مقاله با مهندسی گونه‌های آب توسط اسید نرم، ریز محیط آبی در کاتدهای Prussian blue را برای باتری‌های سدیم-یون با عملکرد بالا بازآرایی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Prussian blue cathode · sodium-ion battery · water speciation · soft acid · aqueous microenvironment</description>
-<category>Prussian blue cathode</category>
-<category>sodium-ion battery</category>
-<category>water speciation</category>
-<category>soft acid</category>
-<category>aqueous microenvironment</category>
-</item>
-<item>
-<title>Interfacial Failure Analysis and LiTaO3-Mediated Dual-Filler Stabilization of LiTa2PO8-Based Composite Solid Electrolytes for Solid-State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105561</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105561</guid>
-<pubDate>Sun, 27 Sep 2026 17:01:44 GMT</pubDate>
-<description>این مقاله شکست بین‌سطحی و تثبیت دوگانه پرکننده با LiTaO3 در الکترولیت جامد کامپوزیتی بر پایه LiTa2PO8 را برای باتری‌های لیتیوم-فلز حالت جامد بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 composite solid electrolyte · LiTa2PO8 · LiTaO3 · interfacial failure · solid-state lithium battery</description>
-<category>composite solid electrolyte</category>
-<category>LiTa2PO8</category>
-<category>LiTaO3</category>
-<category>interfacial failure</category>
-<category>solid-state lithium battery</category>
-</item>
-<item>
-<title>From Traditional Depolymerization to Value-Added Upgrading: Upcycling of PET Fibers with Sustainable Chemistry and Renewable Energy</title>
-<link>https://doi.org/10.1007/s42765-026-00779-y</link>
-<guid isPermaLink="false">10.1007/s42765-026-00779-y</guid>
-<pubDate>Sun, 27 Sep 2026 17:01:29 GMT</pubDate>
-<description>این مقاله مروری به ارتقای بازیافت الیاف PET از تخریب سنتی به تولید محصولات با ارزش افزوده با شیمی پایدار و انرژی تجدیدپذیر می‌پردازد.&lt;br&gt;Advanced Fiber Materials | ⭐ Review&lt;br&gt;🏷 PET upcycling · depolymerization · sustainable chemistry · renewable energy · value-added products</description>
-<category>PET upcycling</category>
-<category>depolymerization</category>
-<category>sustainable chemistry</category>
-<category>renewable energy</category>
-<category>value-added products</category>
-</item>
-<item>
-<title>Electrical Fibers for Intelligent Textiles: From Conductivity–Flexibility Trade-offs to Scalable Systems</title>
-<link>https://doi.org/10.1007/s42765-026-00780-5</link>
-<guid isPermaLink="false">10.1007/s42765-026-00780-5</guid>
-<pubDate>Sun, 27 Sep 2026 17:01:18 GMT</pubDate>
-<description>این مقاله مروری به بررسی الیاف رسانا برای منسوجات هوشمند می‌پردازد و چالش‌های توازن رسانایی-انعطاف‌پذیری و مسیرهای تولید مقیاس‌پذیر را تحلیل می‌کند.&lt;br&gt;Advanced Fiber Materials | ⭐ Review&lt;br&gt;🏷 conductive fibers · smart textiles · flexibility · scalable manufacturing · wearable electronics</description>
-<category>conductive fibers</category>
-<category>smart textiles</category>
-<category>flexibility</category>
-<category>scalable manufacturing</category>
-<category>wearable electronics</category>
-</item>
-<item>
-<title>Decoding performance breakthroughs of non-aqueous calcium-based batteries: Recent developments and future perspectives</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218597</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218597</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:40 GMT</pubDate>
-<description>این مرور، پیشرفت‌های اخیر و چشم‌اندازهای باتری‌های کلسیم‌محور غیرآبی را برای رمزگشایی جهش‌های عملکردی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 calcium-based battery · non-aqueous electrolyte · performance breakthrough · recent developments · perspectives</description>
-<category>calcium-based battery</category>
-<category>non-aqueous electrolyte</category>
-<category>performance breakthrough</category>
-<category>recent developments</category>
-<category>perspectives</category>
-</item>
-<item>
-<title>Carbon-based materials coupled with metal oxide semiconductors for hydrogen sensors: linking mechanisms and dimensions</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218587</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218587</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:35 GMT</pubDate>
-<description>این مرور، مواد کربنی جفت‌شده با نیمه‌هادی‌های اکسید فلزی را برای حسگرهای هیدروژن بررسی کرده و مکانیسم‌ها و ابعاد را به هم مرتبط می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 hydrogen sensor · carbon materials · metal oxide · mechanisms · dimensions</description>
-<category>hydrogen sensor</category>
-<category>carbon materials</category>
-<category>metal oxide</category>
-<category>mechanisms</category>
-<category>dimensions</category>
-</item>
-<item>
-<title>Pillararene-based framework materials: from design and structural regulation to emerging functions</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218590</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218590</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:32 GMT</pubDate>
-<description>این مرور به طراحی، تنظیم ساختاری و کارکردهای نوظهور مواد چارچوبی مبتنی بر پیلارارن می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 pillararene · framework materials · structural regulation · emerging functions · design</description>
-<category>pillararene</category>
-<category>framework materials</category>
-<category>structural regulation</category>
-<category>emerging functions</category>
-<category>design</category>
-</item>
-<item>
-<title>Coordination chemistry governing practical aqueous zinc batteries: From solvation-Shell reconstruction and interfacial complexation to failure-aware cell design</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218602</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218602</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:29 GMT</pubDate>
-<description>این مرور، شیمی کوئوردیناسیون را برای باتری‌های آبی روی از بازسازی پوسته حل‌شوندگی و کمپلکس‌شدن سطحی تا طراحی سلول آگاه از خرابی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 aqueous zinc battery · coordination chemistry · solvation shell · interfacial complexation · failure-aware design</description>
-<category>aqueous zinc battery</category>
-<category>coordination chemistry</category>
-<category>solvation shell</category>
-<category>interfacial complexation</category>
-<category>failure-aware design</category>
-</item>
-<item>
-<title>Chain‐Networked Micro‐Silicon Electrodes Inducing Internal Isostatic Compressive Stress for High‐Energy and High‐Power Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/aenm.71650</link>
-<guid isPermaLink="false">10.1002/aenm.71650</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:22 GMT</pubDate>
-<description>الکترود میکروسیلیکون با شبکه زنجیره‌ای CNT تنش فشاری درونی ایجاد کرده و باتری حالت جامد با انرژی و توان بالا و پایداری چرخه‌ای عالی را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is a chain-networked micro-silicon electrode using CNT wrapping to induce internal isostatic compressive stress, mimicking Prince Rupert&amp;#x27;s drop. This prevents cracking without solid electrolyte, enabling 78% capacity retention at 3C and 78.8% after 3000 cycles at 5C in full cells. It significantly advances high-energy, high-power solid-state batteries.&lt;br&gt;🏷 micro-silicon anode · solid-state battery · carbon nanotube · compressive stress · high-power</description>
-<category>micro-silicon anode</category>
-<category>solid-state battery</category>
+<title>Dual‐Confinement Structure Design Enables Synergistic Modulation of Local Microenvironment and Electronic Structure for Enhanced CO 2 Electroreduction to CO</title>
+<link>https://doi.org/10.1002/smll.75992</link>
+<guid isPermaLink="false">10.1002/smll.75992</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:15 GMT</pubDate>
+<description>ساختار دوگانه محدودکننده با نانولوله کربنی و نیکل در کربن دوپ‌شده، بازده فارادی CO را به ۹۹٪ در احیای CO2 می‌رساند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · dual confinement · nickel nanoparticle · carbon nanotube · Faradaic efficiency</description>
+<category>CO2 electroreduction</category>
+<category>dual confinement</category>
+<category>nickel nanoparticle</category>
 <category>carbon nanotube</category>
-<category>compressive stress</category>
-<category>high-power</category>
+<category>Faradaic efficiency</category>
 </item>
 <item>
-<title>Fluorination‐Tuned Covalent Organic Framework Interphases for Controllable LiF Content in Dendrite‐Free Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71635</link>
-<guid isPermaLink="false">10.1002/aenm.71635</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:18 GMT</pubDate>
-<description>طراحی گرادیان فلوئوراسیون در COF به عنوان SEI مصنوعی، محتوای LiF را کنترل کرده و باتری لیتیوم-فلز بدون دندریت با پایداری بالا ایجاد می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a fluorination-gradient COF artificial SEI strategy to precisely tune LiF content in lithium metal batteries. By controlling fluorine substitution (0F–4F), it reveals how electron-withdrawing F groups enhance LiPF₆ dissociation and oxidation stability (5.4 V), enabling 6000 h dendrite-free cycling and high-rate performance. This establishes COF fluorination as a new design paradigm for safe, high-energy LMBs.&lt;br&gt;🏷 lithium metal battery · covalent organic framework · LiF-rich SEI · fluorination · dendrite-free</description>
-<category>lithium metal battery</category>
-<category>covalent organic framework</category>
-<category>LiF-rich SEI</category>
-<category>fluorination</category>
-<category>dendrite-free</category>
+<title>Reversible Electromagnetic Regime Transition in Defect‐Programmed Carbon Textiles Toward Ultrabroadband Microwave Absorption</title>
+<link>https://doi.org/10.1002/smll.76026</link>
+<guid isPermaLink="false">10.1002/smll.76026</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:11 GMT</pubDate>
+<description>منسوج کربنی برنامه‌ریزی‌شده با نقص، گذار برگشت‌پذیر بین سپر الکترومغناطیسی و جذب مایکروویو فوق‌پهن‌باند را نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 carbon textile · microwave absorption · EMI shielding · defect engineering · conductivity window</description>
+<category>carbon textile</category>
+<category>microwave absorption</category>
+<category>EMI shielding</category>
+<category>defect engineering</category>
+<category>conductivity window</category>
 </item>
 <item>
-<title>CO‐Tolerant Ethylene Glycol Oxidation on p–d Hybridized Platinum Ditelluride for Seawater Artificial Leaves</title>
-<link>https://doi.org/10.1002/aenm.71637</link>
-<guid isPermaLink="false">10.1002/aenm.71637</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:13 GMT</pubDate>
-<description>PtTe2 مقاوم به CO برای اکسیداسیون اتیلن گلیکول در برگ مصنوعی seawater استفاده شد و تولید بدون بایاس هیدروژن و گلیکولات را ممکن ساخت.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 seawater artificial leaves · ethylene glycol oxidation · platinum ditelluride · CO tolerance · photoelectrochemical</description>
-<category>seawater artificial leaves</category>
-<category>ethylene glycol oxidation</category>
-<category>platinum ditelluride</category>
-<category>CO tolerance</category>
-<category>photoelectrochemical</category>
+<title>Reticular Engineering of Multiscale MOF‐Cellulose Nanofiber Aerogels for Sustainable Bicarbonate Capture From Water</title>
+<link>https://doi.org/10.1002/smll.75980</link>
+<guid isPermaLink="false">10.1002/smll.75980</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:07 GMT</pubDate>
+<description>آئروژل‌های MOF-سلولز با مهندسی شبکه‌ای، جذب بی‌کربنات از آب را با ظرفیت بالا و اثر زیست‌محیطی کم ممکن می‌سازند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 MOF aerogel · bicarbonate capture · cellulose nanofiber · UiO-66 · life cycle assessment</description>
+<category>MOF aerogel</category>
+<category>bicarbonate capture</category>
+<category>cellulose nanofiber</category>
+<category>UiO-66</category>
+<category>life cycle assessment</category>
 </item>
 <item>
-<title>Physics‐Informed Machine Learning for Solid Oxide Cell Materials and Microstructures Under Operando Constraints</title>
-<link>https://doi.org/10.1002/aenm.71608</link>
-<guid isPermaLink="false">10.1002/aenm.71608</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:09 GMT</pubDate>
-<description>این مرور، یادگیری ماشین آگاه از فیزیک را برای مواد و ریزساختارهای سلول سوختی اکسید جامد تحت شرایط عملیاتی و پیری بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;🏷 solid oxide cells · physics-informed machine learning · operando constraints · microstructure · defect chemistry</description>
-<category>solid oxide cells</category>
-<category>physics-informed machine learning</category>
-<category>operando constraints</category>
-<category>microstructure</category>
-<category>defect chemistry</category>
+<title>In Situ‐Grown Graphdiyne Interfaces on Cu‐Retained CoCuFe Phosphide‐Like Octahedra for Overall Water Splitting</title>
+<link>https://doi.org/10.1002/smll.76022</link>
+<guid isPermaLink="false">10.1002/smll.76022</guid>
+<pubDate>Sun, 27 Sep 2026 20:06:04 GMT</pubDate>
+<description>رشد درجای گراف‌دایین بر فسفید CoCuFe، الکتروکاتالیست دوعملکردی کارآمد و پایدار برای تجزیه آب قلیایی فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 graphdiyne · water splitting · phosphide · electrocatalyst · heterostructure</description>
+<category>graphdiyne</category>
+<category>water splitting</category>
+<category>phosphide</category>
+<category>electrocatalyst</category>
+<category>heterostructure</category>
 </item>
 <item>
-<title>“Lithium‐Free” Anode Solid‐State Batteries Enabled by 3D Structured Miec Garnet</title>
-<link>https://doi.org/10.1002/aenm.71648</link>
-<guid isPermaLink="false">10.1002/aenm.71648</guid>
-<pubDate>Sun, 27 Sep 2026 16:01:05 GMT</pubDate>
-<description>باتری حالت جامد بدون لیتیوم با اسکلت گارنت MIEC سه‌بعدی ساخته شد که جوانه‌زنی یکنواخت لیتیوم و بازدهی کولنی 99.95% را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using a 3D MIEC garnet scaffold to enable uniform lithium nucleation within its pores, eliminating interfacial instability in “lithium-free” solid-state batteries. This yields 99.95% Coulombic efficiency and stable room-temperature cycling without pressure. The work reframes lithium nucleation as a percolation-governed transport process, guiding next-generation solid-state battery design.&lt;br&gt;🏷 solid-state battery · lithium-free anode · MIEC garnet · lithium nucleation · percolation</description>
-<category>solid-state battery</category>
-<category>lithium-free anode</category>
-<category>MIEC garnet</category>
-<category>lithium nucleation</category>
-<category>percolation</category>
-</item>
-<item>
-<title>Percolation‐Driven β ‐Relaxation Enables Resonant Acceleration of Crystallization in Amorphous Phase‐Change Materials</title>
-<link>https://doi.org/10.1002/adma.75151</link>
-<guid isPermaLink="false">10.1002/adma.75151</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:34 GMT</pubDate>
-<description>در Ge2Sb2Te5، پرکولاسیون شبکه‌های اتمی متحرک مرتبط با β-relaxation مسیر تبلور را تعیین می‌کند و تحریک فراصوت رزونانسی نزدیک این فرکانس، تبلور را تسریع می‌نماید.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 phase-change materials · crystallization · beta-relaxation · percolation · ultrasonic excitation</description>
-<category>phase-change materials</category>
-<category>crystallization</category>
-<category>beta-relaxation</category>
-<category>percolation</category>
-<category>ultrasonic excitation</category>
-</item>
-<item>
-<title>Bare‐Die Antiferromagnetic Computing</title>
-<link>https://doi.org/10.1002/adma.75126</link>
-<guid isPermaLink="false">10.1002/adma.75126</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:31 GMT</pubDate>
-<description>یک پردازنده لبه‌ای آنتی‌فرومغناطیسی MnIr/PMN-PT با مکانیزم رمزگذاری خودتازه‌شونده، در دما، میدان مغناطیسی و تابش شدید پایدار مانده و محاسبات آنالوگ کم‌مصرف را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 antiferromagnetic computing · MnIr/PMN-PT · strain-mediated · edge processor · radiation hardness</description>
-<category>antiferromagnetic computing</category>
-<category>MnIr/PMN-PT</category>
-<category>strain-mediated</category>
-<category>edge processor</category>
-<category>radiation hardness</category>
-</item>
-<item>
-<title>Atmosphere‐Controlled Valence Engineering of Eu in Aluminate Crystals Enabling High‐Performance Temperature Sensing and Flexible X‐Ray Imaging</title>
-<link>https://doi.org/10.1002/adma.75153</link>
-<guid isPermaLink="false">10.1002/adma.75153</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:27 GMT</pubDate>
-<description>با کنترل اتمسفر و دفن کربن، والانس Eu در بلور SrMgAl10O17 تنظیم شده و سوسوزن انعطاف‌پذیر با بازده نوری بالا برای تصویربرداری X-ray و دماسنجی نوری چندحالته حاصل شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 scintillator · Eu valence · aluminate · X-ray imaging · optical thermometry</description>
-<category>scintillator</category>
-<category>Eu valence</category>
-<category>aluminate</category>
-<category>X-ray imaging</category>
-<category>optical thermometry</category>
-</item>
-<item>
-<title>Precursor‐Level Molecular Coupling Enables High‐Fill‐Factor Wide‐Bandgap Perovskite Solar Cells and 29.63% All‐Perovskite Tandems</title>
-<link>https://doi.org/10.1002/adma.75165</link>
-<guid isPermaLink="false">10.1002/adma.75165</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:24 GMT</pubDate>
-<description>با استفاده از CGBA به‌عنوان تنظیم‌کننده پیش‌ماده، سلول‌های پروسکایتی wide-bandgap با فاکتور پرشدگی 85.89% و تاندم تمام‌پروسکایتی با بازده 29.63% ساخته شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 wide-bandgap perovskite · all-perovskite tandem · precursor engineering · fill factor · halide segregation</description>
-<category>wide-bandgap perovskite</category>
-<category>all-perovskite tandem</category>
-<category>precursor engineering</category>
-<category>fill factor</category>
-<category>halide segregation</category>
-</item>
-<item>
-<title>Locally Water‐Rich Interfacial Microenvironment Enables Self‐Powered High‐Current Ammonia Electrosynthesis</title>
-<link>https://doi.org/10.1002/adma.75146</link>
-<guid isPermaLink="false">10.1002/adma.75146</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:20 GMT</pubDate>
-<description>کاتالیزور CoP با جای خالی فسفر و میدان الکتریکی اتمی، آب میان‌سطحی را غنی کرده و با جایگزینی OER با اکسایش هیدرازین، تولید خودتوان آمونیاک را در چگالی جریان بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 ammonia electrosynthesis · nitrate reduction · hydrazine oxidation · phosphorus vacancies · interfacial water</description>
-<category>ammonia electrosynthesis</category>
-<category>nitrate reduction</category>
-<category>hydrazine oxidation</category>
-<category>phosphorus vacancies</category>
-<category>interfacial water</category>
-</item>
-<item>
-<title>Over 20% Efficiency in As–Cast Organic Solar Cells Enabled by Flory–Huggins Parameter Engineering</title>
-<link>https://doi.org/10.1002/adma.75152</link>
-<guid isPermaLink="false">10.1002/adma.75152</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:17 GMT</pubDate>
-<description>با مهندسی پارامتر Flory-Huggins و حلال مخلوط CF:CS2، سلول‌های خورشیدی آلی as-cast با بازده 20.11% و پایداری نوری بهبودیافته ساخته شدند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 organic solar cells · as-cast · Flory-Huggins parameter · miscibility · power conversion efficiency</description>
-<category>organic solar cells</category>
-<category>as-cast</category>
-<category>Flory-Huggins parameter</category>
-<category>miscibility</category>
-<category>power conversion efficiency</category>
-</item>
-<item>
-<title>Fiber‐Format Flexible Linear Electrostatic Motors</title>
-<link>https://doi.org/10.1002/adma.75156</link>
-<guid isPermaLink="false">10.1002/adma.75156</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:13 GMT</pubDate>
-<description>یک موتور الکترواستاتیک خطی در قالب الیاف نازک با الکترودهای مارپیچ هم‌محور ساخته شده که حرکت پله‌ای دوطرفه، نیروی مستقل از جابه‌جایی و قابلیت بازگردانی ذاتی را برای رباتیک نرم فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 linear electrostatic motor · fiber actuator · soft robotics · wearable assistive devices · helical electrodes</description>
-<category>linear electrostatic motor</category>
-<category>fiber actuator</category>
-<category>soft robotics</category>
-<category>wearable assistive devices</category>
-<category>helical electrodes</category>
-</item>
-<item>
-<title>Bone‐Targeted Engineered Exosomes Delivering Betaine Alleviate Osteoporosis via Autophagy‐Driven Osteogenesis</title>
-<link>https://doi.org/10.1002/adma.75185</link>
-<guid isPermaLink="false">10.1002/adma.75185</guid>
-<pubDate>Sun, 27 Sep 2026 15:01:10 GMT</pubDate>
-<description>نانوذرات هیبریدی از exosomeهای مهندسی‌شده و ZIF-8 حاوی betaine با هدف‌گیری استخوان، از طریق القای autophagy در BMSCهای پیر، استئوژنز را تقویت و پوکی استخوان را در موش‌های اواریکتومی‌شده بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 osteoporosis · engineered exosomes · betaine · autophagy · bone targeting</description>
-<category>osteoporosis</category>
-<category>engineered exosomes</category>
-<category>betaine</category>
-<category>autophagy</category>
-<category>bone targeting</category>
-</item>
-<item>
-<title>Interfacial Mn‐Carbon Nitride Synergy Enables Selective Photocatalytic C─H Chlorination via Single‐Atom Catalysis</title>
-<link>https://doi.org/10.1002/anie.5772245</link>
-<guid isPermaLink="false">10.1002/anie.5772245</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:38 GMT</pubDate>
-<description>این مقاله کاتالیزور نوری تک‌اتمی Mn@f-g-C3N4 را برای کلریناسیون انتخابی C-H آرن‌ها با مسیر دوگانه Mn و بستر معرفی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-atom photocatalyst · Mn@f-g-C3N4 · C-H chlorination · carbon nitride · selective photocatalysis</description>
-<category>single-atom photocatalyst</category>
-<category>Mn@f-g-C3N4</category>
-<category>C-H chlorination</category>
+<title>Regioselective C‐H Oxyfunctionalization of Aliphatic Acids Through a Consecutive Biosolar Cascade</title>
+<link>https://doi.org/10.1002/smll.75979</link>
+<guid isPermaLink="false">10.1002/smll.75979</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:58 GMT</pubDate>
+<description>آبشار بیوسولار متشکل از نیترید کربن دوپ‌شده و آنزیم P450، هیدروکسیل‌دار کردن منطقه‌گزین اسیدهای چرب را با فعالیت بالا انجام می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 biosolar cascade · carbon nitride · P450 · oxyfunctionalization · H2O2</description>
+<category>biosolar cascade</category>
 <category>carbon nitride</category>
-<category>selective photocatalysis</category>
+<category>P450</category>
+<category>oxyfunctionalization</category>
+<category>H2O2</category>
 </item>
 <item>
-<title>Catalyst‐Controlled Divergent Strain‐Release Amination and Skeletal Remodeling of Bicyclo[1.1.0]Butanes</title>
-<link>https://doi.org/10.1002/anie.3256942</link>
-<guid isPermaLink="false">10.1002/anie.3256942</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:34 GMT</pubDate>
-<description>این مقاله آمین‌دار کردن واگرای بی‌سیکلو[1.1.0]بوتان‌ها را با کنترل کاتالیزور و از طریق آزادسازی تنش یا بازآرایی اسکلتی انجام می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 bicyclo[1.1.0]butanes · strain-release amination · skeletal remodeling · nitrene transfer · catalyst-controlled divergence</description>
-<category>bicyclo[1.1.0]butanes</category>
-<category>strain-release amination</category>
-<category>skeletal remodeling</category>
-<category>nitrene transfer</category>
-<category>catalyst-controlled divergence</category>
+<title>Extremophile‐Inspired Hydroxyectoine Reconstructs Water Networks and Stabilizes Zinc Interfaces in Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1002/smll.76007</link>
+<guid isPermaLink="false">10.1002/smll.76007</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:55 GMT</pubDate>
+<description>افزودنی هیدروکسی‌اکتویین با بازسازی شبکه آب و پایدارسازی سطح روی، عمر چرخه‌ای باتری آبی روی را به‌شدت افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work first introduces hydroxyectoine, an extremophile-derived solute, as a multifunctional additive for aqueous zinc batteries. It uniquely dual-regulates the water hydrogen-bonding network and zinc interface, suppressing hydrogen evolution and dendrites. The result is ultralong cycling (7300 h) and high efficiency, offering a bio-inspired route to durable, high-performance energy storage.&lt;br&gt;🏷 zinc battery · hydroxyectoine · electrolyte additive · zinc anode · hydrogen evolution</description>
+<category>zinc battery</category>
+<category>hydroxyectoine</category>
+<category>electrolyte additive</category>
+<category>zinc anode</category>
+<category>hydrogen evolution</category>
 </item>
 <item>
-<title>The Nature of Cell‐Penetrating Poly(disulfide)s</title>
-<link>https://doi.org/10.1002/anie.7902673</link>
-<guid isPermaLink="false">10.1002/anie.7902673</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:31 GMT</pubDate>
-<description>این مقاله مکانیسم ورود سلولی پلی‌دی‌سولفیدهای نافذ سلول را با تبادل دی‌سولفید، بازآرایی غشا و تشکیل کواسروات‌ها روشن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cell-penetrating poly(disulfide)s · thiol-mediated uptake · coacervates · membrane remodeling · drug delivery</description>
-<category>cell-penetrating poly(disulfide)s</category>
-<category>thiol-mediated uptake</category>
-<category>coacervates</category>
-<category>membrane remodeling</category>
+<title>Nanoscale Surface Roughness Induces Long‐Range Ordering of Interfacial Water Over Tens of Molecular Layers</title>
+<link>https://doi.org/10.1002/smll.76003</link>
+<guid isPermaLink="false">10.1002/smll.76003</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:50 GMT</pubDate>
+<description>زبری نانومقیاس سطح TiO2 باعث نظم‌یافتگی آب میان‌سطحی تا ده‌ها لایه مولکولی و شبکه پیوند هیدروژنی یخ‌مانند می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 interfacial water · surface roughness · ATR-FTIR · TiO2 · hydrogen bonding</description>
+<category>interfacial water</category>
+<category>surface roughness</category>
+<category>ATR-FTIR</category>
+<category>TiO2</category>
+<category>hydrogen bonding</category>
+</item>
+<item>
+<title>The Host‐Guest Assemblies of Metal–Organic Frameworks and Protic Ionic Liquids With ZIF‐8 and [Dema][TfO] – Structural Response and Ionic Conductivity</title>
+<link>https://doi.org/10.1002/smll.76019</link>
+<guid isPermaLink="false">10.1002/smll.76019</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:46 GMT</pubDate>
+<description>ترکیب مایع یونی پروتیک [Dema][TfO] در حفرات ZIF-8، رسانایی یونی بالایی در حالت بی‌آب ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study pioneers the encapsulation of protic ionic liquid [Dema][TfO] into ZIF-8, revealing unique host-guest interactions: pore expansion, hydrogen bond disruption, and reduced thermal stability. The fully saturated composite achieves superior ionic conductivity (1.09 mS·cm⁻¹ at 160°C), outperforming other IL@MOF conductors. This demonstrates protic IL@MOF hybrids as promising solid electrolytes, advancing anhydrous proton-conducting materials design.&lt;br&gt;🏷 MOF · ionic liquid · solid electrolyte · ionic conductivity · ZIF-8</description>
+<category>MOF</category>
+<category>ionic liquid</category>
+<category>solid electrolyte</category>
+<category>ionic conductivity</category>
+<category>ZIF-8</category>
+</item>
+<item>
+<title>Coupling Light‐Heat Utilization in Hydrogel‐Encapsulated Ultrathin Defective Carbon Nitride Nanosheets for Scalable Continuous‐Flow H 2 O 2 Photosynthesis</title>
+<link>https://doi.org/10.1002/smll.75968</link>
+<guid isPermaLink="false">10.1002/smll.75968</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:41 GMT</pubDate>
+<description>مهندسی نقص در نیترید کربن فوق‌نازک با کپسوله‌سازی هیدروژل، تولید پیوسته H2O2 خالص را با نرخ بالا و پایداری طولانی ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 carbon nitride · H2O2 photosynthesis · hydrogel reactor · defect engineering · continuous flow</description>
+<category>carbon nitride</category>
+<category>H2O2 photosynthesis</category>
+<category>hydrogel reactor</category>
+<category>defect engineering</category>
+<category>continuous flow</category>
+</item>
+<item>
+<title>Cryo‐EM Structures of Sunflower Amyloid Fibrils Reveal Two Distinct Disulfide‑Linked Assembly Modes</title>
+<link>https://doi.org/10.1002/smll.75987</link>
+<guid isPermaLink="false">10.1002/smll.75987</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:37 GMT</pubDate>
+<description>ساختارهای کرایو-EM فیبریل‌های آمیلوئیدی آفتابگردان دو پلی‌مورف با پیچش و دست‌سانی متفاوت و اتصالات دی‌سولفیدی متمایز را نشان می‌دهند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 sunflower amyloid fibrils · cryo-EM · disulfide-linked assembly · polymorphs · 11S globulin</description>
+<category>sunflower amyloid fibrils</category>
+<category>cryo-EM</category>
+<category>disulfide-linked assembly</category>
+<category>polymorphs</category>
+<category>11S globulin</category>
+</item>
+<item>
+<title>Scalable and Durable Symmetric Electrochromic Devices via Zinc–Iodine Electrodeposition for Smart Window Applications</title>
+<link>https://doi.org/10.1002/smll.76024</link>
+<guid isPermaLink="false">10.1002/smll.76024</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:33 GMT</pubDate>
+<description>دستگاه الکتروکرومیک متقارن مبتنی بر رسوب‌گذاری روی-ید، مدولاسیون نوری ۸۵٪ و پایداری ۳۰۰۰۰ چرخه را برای پنجره‌های هوشمند فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 electrochromic device · zinc-iodine electrodeposition · smart window · optical modulation · scalability</description>
+<category>electrochromic device</category>
+<category>zinc-iodine electrodeposition</category>
+<category>smart window</category>
+<category>optical modulation</category>
+<category>scalability</category>
+</item>
+<item>
+<title>Bridging Molecular Precision and Device Functionality With Triazole Based Cobalt Catalyst for Cross‐Platform Rechargeable Metal‐Air Batteries</title>
+<link>https://doi.org/10.1002/smll.76028</link>
+<guid isPermaLink="false">10.1002/smll.76028</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:29 GMT</pubDate>
+<description>کمپلکس کبالت تریازولی برای کاتالیز دوجهته ORR/OER در باتری‌های فلز-هوا به کار رفت و عملکرد پایدار در باتری‌های Zn-air و Li-air نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work bridges molecular and device levels by designing a triazole-based cobalt catalyst (CoTzN) for bifunctional ORR/OER. Covalent anchoring on carbon nanotubes yields a stable, selective four-electron catalyst operating across pH 7–14. It enables cross-platform rechargeable metal–air batteries, powering quasi-solid-state Zn-air (&amp;gt;450 cycles) and non-aqueous Li-air (80 cycles) devices, demonstrating translation of coordination-level design into robust hybrid electrodes.&lt;br&gt;🏷 metal-air battery · cobalt catalyst · triazole complex · bifunctional ORR/OER · Zn-air battery</description>
+<category>metal-air battery</category>
+<category>cobalt catalyst</category>
+<category>triazole complex</category>
+<category>bifunctional ORR/OER</category>
+<category>Zn-air battery</category>
+</item>
+<item>
+<title>Unveiling the Structural Advantages in PTFE‐Based Dry‐Processed Electrodes for Sulfide‐Based All‐Solid‐State Batteries via 3D Microstructure‐Resolved Analysis</title>
+<link>https://doi.org/10.1002/smll.75974</link>
+<guid isPermaLink="false">10.1002/smll.75974</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:24 GMT</pubDate>
+<description>تحلیل سه‌بعدی ریزساختار الکترودهای خشک PTFE در باتری تمام‌حالت‌جامد سولفیدی، پوشش بهتر الکترولیت و مسیرهای انتقال یون/الکترون را نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study provides the first 3D microstructure-resolved quantitative analysis of PTFE-based dry-processed electrodes for sulfide ASSBs. It reveals that 0.2 wt.% PTFE induces SE coating on cathode particles, raising surface coverage from 35% to 59% and improving component homogeneity and transport pathways, enabling high areal capacity (6.42 mAh cm⁻²) at high loading—advancing practical high-energy-density ASSB commercialization.&lt;br&gt;🏷 all-solid-state battery · dry-processed electrode · PTFE binder · FIB-SEM tomography · sulfide electrolyte</description>
+<category>all-solid-state battery</category>
+<category>dry-processed electrode</category>
+<category>PTFE binder</category>
+<category>FIB-SEM tomography</category>
+<category>sulfide electrolyte</category>
+</item>
+<item>
+<title>M2 Macrophage‐Mimetic Metal‐Organic Framework Nanozyme With Visible‐Light‐Driven Hydrogen Evolution for Uveitis Therapy</title>
+<link>https://doi.org/10.1002/smll.75929</link>
+<guid isPermaLink="false">10.1002/smll.75929</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:19 GMT</pubDate>
+<description>نانوزیم MOF حاوی Pt با تولید هیدروژن نورمرئی و فعالیت آنتی‌اکسیدانی چندگانه، استرس اکسیداتیو یووئیت را در مدل موش کاهش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 MOF nanozyme · hydrogen evolution · uveitis therapy · M2 macrophage · ROS scavenging</description>
+<category>MOF nanozyme</category>
+<category>hydrogen evolution</category>
+<category>uveitis therapy</category>
+<category>M2 macrophage</category>
+<category>ROS scavenging</category>
+</item>
+<item>
+<title>Synergistic Texture Engineering and Grain‐Boundary Stabilization for Aqueous Zinc‐Ion Batteries With Ultralong Cycling Life Under Extreme Conditions</title>
+<link>https://doi.org/10.1002/smll.75954</link>
+<guid isPermaLink="false">10.1002/smll.75954</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:16 GMT</pubDate>
+<description>آلیاژ SnPb برای تقویت مرزدانه‌های آند روی در باتری یون-روی آبی به کار رفت و چرخه‌پذیری فوق‌طولانی در شرایط سخت را ممکن ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work introduces a SnPb alloy for synergistic grain-boundary reinforcement in zinc anodes, simultaneously regulating local electronic structure and mechanical stability. Unlike single-element modifications, it enables ultralong cycling (5270 h at 40 mA cm⁻², 105 Ah cm⁻²) under extreme conditions, offering a practical grain-boundary engineering strategy for stable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · grain-boundary stabilization · SnPb alloy · dendrite suppression · ultralong cycling</description>
+<category>zinc-ion battery</category>
+<category>grain-boundary stabilization</category>
+<category>SnPb alloy</category>
+<category>dendrite suppression</category>
+<category>ultralong cycling</category>
+</item>
+<item>
+<title>Bimetallic Sulfides for Next‐Generation Energy Systems: Structure‐Performance Correlations, Multidimensional Regulation, and Controllable Synthesis</title>
+<link>https://doi.org/10.1002/smll.75911</link>
+<guid isPermaLink="false">10.1002/smll.75911</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:11 GMT</pubDate>
+<description>این مرور، ارتباط ساختار-عملکرد سولفیدهای دومفلزی را برای کاربردهای ذخیره و تبدیل انرژی بررسی و راهبردهای طراحی و سنتز آن‌ها را ارائه می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges BMS structure, synthesis, and application via a systematic roadmap. It integrates multidimensional regulation strategies—interface, surface, and interlayer coupling—with tailored synthesis, establishing clear structure-performance correlations. By evaluating energy applications and outlining challenges, it offers a definitive guide to accelerate rational design and practical deployment of next-generation bimetallic sulfide electrodes.&lt;br&gt;🏷 bimetallic sulfides · energy storage · structure-performance · synthesis strategies · electrochemical energy</description>
+<category>bimetallic sulfides</category>
+<category>energy storage</category>
+<category>structure-performance</category>
+<category>synthesis strategies</category>
+<category>electrochemical energy</category>
+</item>
+<item>
+<title>Multielectron Charge Storage Enables Cascade Electrochemiluminescence in an Atomically Precise Silver Nanocluster</title>
+<link>https://doi.org/10.1002/smll.76035</link>
+<guid isPermaLink="false">10.1002/smll.76035</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:05 GMT</pubDate>
+<description>ذخیره‌سازی چندالکترونی در نانوخوشه نقره Ag6PL6 منجر به الکتروشیمی‌تابناکی آبشاری با بازده ۴۶۰ برابر و جابه‌جایی قرمز ۶۰ نانومتری می‌شود.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silver nanocluster · electrochemiluminescence · multielectron storage · cascade ECL · charge-state emission</description>
+<category>silver nanocluster</category>
+<category>electrochemiluminescence</category>
+<category>multielectron storage</category>
+<category>cascade ECL</category>
+<category>charge-state emission</category>
+</item>
+<item>
+<title>Machine Learning‐Driven Rational Design of Organic Electro‐Oxidation Catalysts: A Mechanism‐Embedded Approach to Selectivity Engineering</title>
+<link>https://doi.org/10.1002/smll.75939</link>
+<guid isPermaLink="false">10.1002/smll.75939</guid>
+<pubDate>Sun, 27 Sep 2026 20:05:02 GMT</pubDate>
+<description>این مرور، رویکرد یادگیری ماشین مکانیزم‌محور را برای طراحی کاتالیزورهای الکترواکسیداسیون آلی و مهندسی گزینش‌پذیری در واکنش‌های چندمسیره ارائه می‌دهد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 organic electro-oxidation · machine learning · selectivity engineering · mechanism-embedded ML · electrocatalysis</description>
+<category>organic electro-oxidation</category>
+<category>machine learning</category>
+<category>selectivity engineering</category>
+<category>mechanism-embedded ML</category>
+<category>electrocatalysis</category>
+</item>
+<item>
+<title>3D Nanoprinted Structures Promote Robust Integration of Brain Organoids into Topography‐Guided Neuronal Networks</title>
+<link>https://doi.org/10.1002/smll.75936</link>
+<guid isPermaLink="false">10.1002/smll.75936</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:58 GMT</pubDate>
+<description>ساختارهای سه‌بعدی نانوچاپ‌شده برای هدایت ارگانوئیدهای مغزی و رشد نوریت‌ها طراحی شدند و زیست‌سازگاری و عملکرد الکتریکی آن‌ها تأیید شد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 brain organoids · 3D nanoprinting · neuronal networks · two-photon polymerization · topography-guided growth</description>
+<category>brain organoids</category>
+<category>3D nanoprinting</category>
+<category>neuronal networks</category>
+<category>two-photon polymerization</category>
+<category>topography-guided growth</category>
+</item>
+<item>
+<title>Mitochondria‐Targeted Nanotherapeutics: A Promising Strategy in Modulating Mitochondrial Function, Transfer, and Transplantation</title>
+<link>https://doi.org/10.1002/advs.77713</link>
+<guid isPermaLink="false">10.1002/advs.77713</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:55 GMT</pubDate>
+<description>این مرور، کاربرد نانومواد در درمان هدفمند میتوکندری، تعدیل عملکرد و انتقال/پیوند میتوکندری را به‌صورت ساختاریافته بررسی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 mitochondria-targeted therapy · nanomaterials · mitochondrial transfer · mitochondrial transplantation · gene editing</description>
+<category>mitochondria-targeted therapy</category>
+<category>nanomaterials</category>
+<category>mitochondrial transfer</category>
+<category>mitochondrial transplantation</category>
+<category>gene editing</category>
+</item>
+<item>
+<title>Engineering an Artificial Metalloenzyme for Efficient Photo‐Enzymatic CO 2 Conversion</title>
+<link>https://doi.org/10.1002/advs.78027</link>
+<guid isPermaLink="false">10.1002/advs.78027</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:52 GMT</pubDate>
+<description>آنزیم فلزی مصنوعی Rh-L6-FDH با اتصال کووالانسی، بازتولید NADH و تبدیل CO2 به فرمات را تسریع می‌کند و با تثبیت در ZIF-67 بازده را به 98.4% می‌رساند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 artificial metalloenzyme · CO2 conversion · NADH regeneration · formate dehydrogenase · ZIF-67</description>
+<category>artificial metalloenzyme</category>
+<category>CO2 conversion</category>
+<category>NADH regeneration</category>
+<category>formate dehydrogenase</category>
+<category>ZIF-67</category>
+</item>
+<item>
+<title>Architected Spatially Deterministic Multiscale Phase Segregation in Block Copolymer Composites for Augmented Radiative Cooling</title>
+<link>https://doi.org/10.1002/advs.77913</link>
+<guid isPermaLink="false">10.1002/advs.77913</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:48 GMT</pubDate>
+<description>کامپوزیت کوپلیمر بلوکی با جدایش فاز چندمقیاسی، بازتاب خورشیدی 97.2% و گسیل فروسرخ 95.5% را همزمان فراهم کرده و سرمایش زیرمحیطی 8.1 درجه را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 radiative cooling · block copolymer · phase segregation · solar reflectivity · infrared emissivity</description>
+<category>radiative cooling</category>
+<category>block copolymer</category>
+<category>phase segregation</category>
+<category>solar reflectivity</category>
+<category>infrared emissivity</category>
+</item>
+<item>
+<title>Gm26550 Modulates Learning and Memory by Increasing IGF1 mRNA Expression and Stability in Nrf2 −/− Mice</title>
+<link>https://doi.org/10.1002/advs.202524087</link>
+<guid isPermaLink="false">10.1002/advs.202524087</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:44 GMT</pubDate>
+<description>lncRNA Gm26550 با افزایش بیان و پایداری mRNA IGF1 از طریق miR-26a-5p و KHSRP، نقص یادگیری و حافظه در موش‌های Nrf2-/- را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Gm26550 · Nrf2 · IGF1 · learning and memory · lncRNA</description>
+<category>Gm26550</category>
+<category>Nrf2</category>
+<category>IGF1</category>
+<category>learning and memory</category>
+<category>lncRNA</category>
+</item>
+<item>
+<title>Developing Metal–Polyphenol Network‐Based Single‐Protein Particle Encapsulation System for Sustained Release of Whey Protein to Mitigate Sarcopenia</title>
+<link>https://doi.org/10.1002/advs.77951</link>
+<guid isPermaLink="false">10.1002/advs.77951</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:40 GMT</pubDate>
+<description>سیستم کپسوله‌سازی تک‌پروتئینی با شبکه فلز-پلی‌فنول، رهایش پایدار پروتئین وی را کنترل کرده و با فعال‌سازی PI3K/AKT/mTOR به کاهش سارکوپنیا کمک می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 whey protein · metal-polyphenol network · sustained release · sarcopenia · encapsulation</description>
+<category>whey protein</category>
+<category>metal-polyphenol network</category>
+<category>sustained release</category>
+<category>sarcopenia</category>
+<category>encapsulation</category>
+</item>
+<item>
+<title>Advances in Aptamer Drug Delivery Systems for Treatment of Glioblastoma</title>
+<link>https://doi.org/10.1002/advs.77811</link>
+<guid isPermaLink="false">10.1002/advs.77811</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:37 GMT</pubDate>
+<description>این مرور جامع، سیستم‌های دارورسانی مبتنی بر آپتامر برای درمان گلیوبلاستوما را بررسی می‌کند و بر غلبه بر موانع تحویل دارو تمرکز دارد.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 aptamer · drug delivery · glioblastoma · blood-brain barrier · targeted therapy</description>
+<category>aptamer</category>
 <category>drug delivery</category>
+<category>glioblastoma</category>
+<category>blood-brain barrier</category>
+<category>targeted therapy</category>
 </item>
 <item>
-<title>Stereocontrolled Access to ( Z )‐Heteroatom‐Substituted Fluoroalkenes Through Fluorine‐Directed, Hydrogen‐Bond‐Assisted Elimination</title>
-<link>https://doi.org/10.1002/anie.7450551</link>
-<guid isPermaLink="false">10.1002/anie.7450551</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:26 GMT</pubDate>
-<description>این مقاله روشی عمومی برای سنتز استریوکنترل‌شده (Z)-مونوفلوروآلکن‌های هترواتم‌دار از طریق حذف کمک‌شده با پیوند هیدروژنی ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 fluoroalkenes · stereocontrolled synthesis · hydrogen-bond-assisted elimination · Michael addition · sulfonium ylide</description>
-<category>fluoroalkenes</category>
-<category>stereocontrolled synthesis</category>
-<category>hydrogen-bond-assisted elimination</category>
-<category>Michael addition</category>
-<category>sulfonium ylide</category>
+<title>Robust, Breathable and Stretchable Liquid Metal Composite Nanofibre for Physiological Electrical Signal Monitoring</title>
+<link>https://doi.org/10.1002/advs.78053</link>
+<guid isPermaLink="false">10.1002/advs.78053</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:33 GMT</pubDate>
+<description>نانوالیاف کامپوزیتی فلز مایع با الکتروریسی، پوست الکترونیکی کشسان، تنفس‌پذیر و ضدآب برای پایش پایدار سیگنال‌های الکتریکی فیزیولوژیکی می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 liquid metal · electrospinning · electronic skin · physiological monitoring · stretchable composite</description>
+<category>liquid metal</category>
+<category>electrospinning</category>
+<category>electronic skin</category>
+<category>physiological monitoring</category>
+<category>stretchable composite</category>
 </item>
 <item>
-<title>Agostic Hydridoborate Complexes as Masked Coinage‐Metal Hydrides: Hydride Migration Between Boron and Gold Unlocks CO 2 Reactivity</title>
-<link>https://doi.org/10.1002/anie.6128076</link>
-<guid isPermaLink="false">10.1002/anie.6128076</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:23 GMT</pubDate>
-<description>این مقاله کمپلکس‌های هیدریدوبورات مس، نقره و طلا را سنتز کرده و نشان می‌دهد کمپلکس طلا به‌صورت برگشت‌پذیر CO2 را تثبیت و کاتالیز می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hydridoborate complexes · coinage metals · CO2 reactivity · gold hydride · agostic interaction</description>
-<category>hydridoborate complexes</category>
-<category>coinage metals</category>
-<category>CO2 reactivity</category>
-<category>gold hydride</category>
-<category>agostic interaction</category>
+<title>Dipolar Coupling Errors in Nuclear Spin Qubits</title>
+<link>https://doi.org/10.1002/advs.77080</link>
+<guid isPermaLink="false">10.1002/advs.77080</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:29 GMT</pubDate>
+<description>خطاهای جفت‌شدگی دوقطبی و جفت‌شدگی فوق‌ریز ناهمسانگرد در کیوبیت‌های اسپین هسته‌ای سیلیکون مشخص و راهکارهای کاهش آن‌ها ارائه می‌شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nuclear spin qubit · dipolar coupling · hyperfine interaction · silicon · quantum computing</description>
+<category>nuclear spin qubit</category>
+<category>dipolar coupling</category>
+<category>hyperfine interaction</category>
+<category>silicon</category>
+<category>quantum computing</category>
 </item>
 <item>
-<title>Operando Attenuated Total Reflectance Far‐Ultraviolet Spectroscopic Analysis at the Cathode/Electrolyte Interface</title>
-<link>https://doi.org/10.1002/anie.6529709</link>
-<guid isPermaLink="false">10.1002/anie.6529709</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:17 GMT</pubDate>
-<description>این مقاله با روش طیف‌سنجی operando ATR-FUV، تشکیل CEI را در فصل مشترک کاتد/الکترولیت باتری لیتیوم-یون بررسی و مسیر پروتون‌زدایی را شناسایی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Operando ATR-FUV spectroscopy enables direct probing of cathode/electrolyte interfaces, revealing a chemically driven proton-abstraction pathway forming dehydrogenated EC and VC at ~3.9 V—below electrochemical oxidation onset. This identifies a distinct, voltage-driven yet chemically initiated CEI formation mechanism, providing molecular-level insights for designing stable high-voltage Li-ion batteries.&lt;br&gt;🏷 cathode-electrolyte interface · operando ATR-FUV · CEI formation · Li-ion battery · high-voltage</description>
-<category>cathode-electrolyte interface</category>
-<category>operando ATR-FUV</category>
-<category>CEI formation</category>
-<category>Li-ion battery</category>
-<category>high-voltage</category>
+<title>Integrating Genetics With Epidemiological Measurements Identifies Burden QTLs of Inflammatory Bowel Disease across 20 Countries</title>
+<link>https://doi.org/10.1002/advs.202519007</link>
+<guid isPermaLink="false">10.1002/advs.202519007</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:25 GMT</pubDate>
+<description>تحلیل bQTL با ادغام داده‌های اپیدمیولوژیک و ژنومی، 1074 جایگاه مرتبط با بار بیماری IBD را شناسایی می‌کند و rs7633471 را به‌عنوان قوی‌ترین واریانت معرفی می‌نماید.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 inflammatory bowel disease · burden QTL · GWAS · epidemiology · genetic architecture</description>
+<category>inflammatory bowel disease</category>
+<category>burden QTL</category>
+<category>GWAS</category>
+<category>epidemiology</category>
+<category>genetic architecture</category>
 </item>
 <item>
-<title>Unraveling the Decoupled Roles of Synergistic Li/F dual-site Co-Doping in P2/O3 Biphasic Cathodes for Advanced Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112439</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112439</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:12 GMT</pubDate>
-<description>این مقاله نقش جداگانه و هم‌افزای دوپینگ همزمان Li و F را در کاتدهای دوفازی P2/O3 برای باتری‌های یون سدیم بررسی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · P2/O3 biphasic cathode · Li/F co-doping · synergistic dual-site · cathode</description>
-<category>sodium-ion battery</category>
-<category>P2/O3 biphasic cathode</category>
-<category>Li/F co-doping</category>
-<category>synergistic dual-site</category>
-<category>cathode</category>
+<title>Enhancing Quasi‐Two‐Dimensional Electronic Structure in Bi 2 O 2 Se via Chlorine Substitution</title>
+<link>https://doi.org/10.1002/advs.77919</link>
+<guid isPermaLink="false">10.1002/advs.77919</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:22 GMT</pubDate>
+<description>جایگزینی کلر در Bi2O2Se شکاف‌های واندروالس و ساختار الکترونی شبه‌دوبعدی را تقویت می‌کند و مهندسی باندگپ گسترده 0.8 تا 3.5 eV را نشان می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Bi2O2Se · chlorine substitution · ARPES · bandgap engineering · van der Waals gap</description>
+<category>Bi2O2Se</category>
+<category>chlorine substitution</category>
+<category>ARPES</category>
+<category>bandgap engineering</category>
+<category>van der Waals gap</category>
 </item>
 <item>
-<title>Ceria-doped biochar hybrid fillers for improved thermal behavior of phase change material</title>
-<link>https://doi.org/10.1016/j.est.2026.124878</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124878</guid>
-<pubDate>Sun, 27 Sep 2026 03:01:00 GMT</pubDate>
-<description>این پژوهش پرکننده‌های هیبریدی بیوچار دوپ‌شده با Ceria را برای بهبود رفتار حرارتی مواد تغییر فاز دهنده به کار می‌برد و خواص حرارتی را ارتقا می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · ceria-doped biochar · thermal conductivity · latent heat · thermal energy storage</description>
-<category>phase change material</category>
-<category>ceria-doped biochar</category>
-<category>thermal conductivity</category>
-<category>latent heat</category>
-<category>thermal energy storage</category>
+<title>A Scalable Droplet Microfluidic Platform That Overcomes Large‐Cell Constraints for Long‐Term Plant Cell Culture and Embryogenesis Analysis</title>
+<link>https://doi.org/10.1002/advs.77936</link>
+<guid isPermaLink="false">10.1002/advs.77936</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:18 GMT</pubDate>
+<description>پلتفرم میکروفلوئیدیک قطره‌ای مقیاس‌پذیر برای کشت طولانی‌مدت سلول‌های گیاهی بزرگ و تحلیل جنین‌زایی میکروسپور ذرت با زنده‌مانی بیش از دو هفته ارائه می‌شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 droplet microfluidics · plant cell culture · embryogenesis · microspore · high-throughput</description>
+<category>droplet microfluidics</category>
+<category>plant cell culture</category>
+<category>embryogenesis</category>
+<category>microspore</category>
+<category>high-throughput</category>
 </item>
 <item>
-<title>Tightly Coupled FeNi Alloy/NiO Interface Derived from an LDH Precursor Promotes Deep Hydrodeoxygenation of p -Cresol</title>
-<link>https://doi.org/10.1021/acscatal.6c06421</link>
-<guid isPermaLink="false">10.1021/acscatal.6c06421</guid>
-<pubDate>Sun, 27 Sep 2026 02:01:28 GMT</pubDate>
-<description>کاتالیزور FeNi-Cop با فصل مشترک tightly coupled بین آلیاژ FeNi و NiO از پیش‌ماده هیدروتالسیت سنتز شد و با فعال‌سازی هیدروژن و تنظیم الکترونی، هیدروداکسیژناسیون عمیق p-cresol به methylcyclohexane را با بازده بالا و پایداری پس از 10 چرخه ممکن می‌سازد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 FeNi alloy · NiO interface · hydrodeoxygenation · p-cresol · LDH precursor</description>
-<category>FeNi alloy</category>
-<category>NiO interface</category>
-<category>hydrodeoxygenation</category>
-<category>p-cresol</category>
-<category>LDH precursor</category>
+<title>NS1‐Induced PARP1 Phase Transitions Prolongs Host Transcriptional Pausing to Promote Influenza A Virus Replication</title>
+<link>https://doi.org/10.1002/advs.77883</link>
+<guid isPermaLink="false">10.1002/advs.77883</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:14 GMT</pubDate>
+<description>پروتئین NS1 ویروس آنفلوانزا با هدایت گذار فازی PARP1، توقف رونویسی میزبان را طولانی کرده و همانندسازی ویروس را افزایش می‌دهد؛ tectochrysin و isoferulic acid این فرآیند را مهار می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 influenza A virus · PARP1 · phase separation · transcriptional pausing · NS1</description>
+<category>influenza A virus</category>
+<category>PARP1</category>
+<category>phase separation</category>
+<category>transcriptional pausing</category>
+<category>NS1</category>
 </item>
 <item>
-<title>Oxygen Management in Ruthenium–Cerium Anode Facilitates Water Adsorption and Bubble Desorption for Oxygen Evolution at High Current Densities</title>
-<link>https://doi.org/10.1021/acscatal.6c04063</link>
-<guid isPermaLink="false">10.1021/acscatal.6c04063</guid>
-<pubDate>Sun, 27 Sep 2026 02:01:25 GMT</pubDate>
-<description>کاتالیزور RuOx-CeOx با مدیریت اکسیژن و ایجاد جای خالی اکسیژن سطحی، جذب آب و جدایش حباب را در چگالی جریان بالا بهبود می‌دهد و در الکترولایزر PEM کاهش 0.1 ولتی پتانسیل سلول در 1 A·cm⁻² را نشان می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 RuOx-CeOx · oxygen evolution · oxygen vacancies · bubble desorption · PEM electrolyzer</description>
-<category>RuOx-CeOx</category>
-<category>oxygen evolution</category>
-<category>oxygen vacancies</category>
-<category>bubble desorption</category>
-<category>PEM electrolyzer</category>
+<title>Developmental Environmental Chronotoxicity by Polystyrene Nanoplastics Exacerbates High‐Fat Diet‐Induced Pediatric MAFLD Through Circadian Disruption and Mitochondrial Dysfunction</title>
+<link>https://doi.org/10.1002/advs.77840</link>
+<guid isPermaLink="false">10.1002/advs.77840</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:10 GMT</pubDate>
+<description>نانوپلاستیک‌های پلی‌استایرن با اختلال در محور شبانه‌روزی-میتوکندری، استئاتوز کبدی ناشی از رژیم پرچرب را در موش‌های نابالغ تشدید می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polystyrene nanoplastics · MAFLD · circadian disruption · mitochondrial dysfunction · developmental toxicity</description>
+<category>polystyrene nanoplastics</category>
+<category>MAFLD</category>
+<category>circadian disruption</category>
+<category>mitochondrial dysfunction</category>
+<category>developmental toxicity</category>
 </item>
 <item>
-<title>Cu/TEMPO-Catalyzed Direct C2-Quaternization of Pyridines with Aldehydes via Sequential N–N Bond Formation and Cleavage</title>
-<link>https://doi.org/10.1021/acscatal.6c05861</link>
-<guid isPermaLink="false">10.1021/acscatal.6c05861</guid>
-<pubDate>Sun, 27 Sep 2026 02:01:22 GMT</pubDate>
-<description>واکنش کواترنیزاسیون C2 پیریدین‌ها با آلدهیدها به کمک کاتالیزور Cu/TEMPO از طریق تشکیل و شکست پیوند N-N انجام می‌شود و محصولات کواترنر C2 با گزینش‌پذیری بالا و دامنه وسیع سوبسترا به دست می‌آیند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 pyridine C2-quaternization · Cu/TEMPO catalysis · N-N bond cleavage · regioselectivity · aldehydes</description>
-<category>pyridine C2-quaternization</category>
-<category>Cu/TEMPO catalysis</category>
-<category>N-N bond cleavage</category>
-<category>regioselectivity</category>
-<category>aldehydes</category>
+<title>A BSCB‐Penetrating Nanoplatform for Enhanced Luteolin Delivery in PRMT2‐Targeted Epigenetic Therapy of Spinal Cord Injury</title>
+<link>https://doi.org/10.1002/advs.77460</link>
+<guid isPermaLink="false">10.1002/advs.77460</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:06 GMT</pubDate>
+<description>نانوذرات مزوپور سیلیکا اصلاح‌شده با بورنئول، تحویل لوتئولین به نخاع را افزایش داده و با هدف‌گیری PRMT2 التهاب عصبی و آسیب نخاعی را کاهش می‌دهند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 spinal cord injury · luteolin · mesoporous silica · borneol · PRMT2</description>
+<category>spinal cord injury</category>
+<category>luteolin</category>
+<category>mesoporous silica</category>
+<category>borneol</category>
+<category>PRMT2</category>
 </item>
 <item>
-<title>Localized Surface Plasmon Resonance-Induced Interfacial Dynamic Charge Circulation in Plasmonic Ohmic Heterojunctions for Optimizing Hydrogen Evolution Kinetics</title>
-<link>https://doi.org/10.1021/acscatal.6c04688</link>
-<guid isPermaLink="false">10.1021/acscatal.6c04688</guid>
-<pubDate>Sun, 27 Sep 2026 02:01:19 GMT</pubDate>
-<description>طراحی هتروجانکشن اهمی پلاسمونی V2C MXene/ZnS با اثر LSPR، گردش بار دینامیکی در فصل مشترک ایجاد کرده و با افزایش عمر حامل‌ها و تنظیم ساختار الکترونی، سینتیک واکنش آزادسازی هیدروژن را بهبود می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 V2C MXene · ZnS heterojunction · LSPR · charge circulation · hydrogen evolution</description>
-<category>V2C MXene</category>
-<category>ZnS heterojunction</category>
-<category>LSPR</category>
-<category>charge circulation</category>
-<category>hydrogen evolution</category>
+<title>Atomically Dispersed Fe‐Modified SnS for Sn‐Centered Peroxymonosulfate Activation Toward Acetaminophen Degradation</title>
+<link>https://doi.org/10.1002/advs.78025</link>
+<guid isPermaLink="false">10.1002/advs.78025</guid>
+<pubDate>Sun, 27 Sep 2026 20:04:03 GMT</pubDate>
+<description>آهن اتمی پراکنده در SnS با فعال‌سازی مؤثر peroxymonosulfate، تخریب استامینوفن را با مکانیسم رادیکال سولفات و هیدروکسیل تسریع می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Fe-SnS · peroxymonosulfate activation · acetaminophen degradation · single-atom · piezocatalysis</description>
+<category>Fe-SnS</category>
+<category>peroxymonosulfate activation</category>
+<category>acetaminophen degradation</category>
+<category>single-atom</category>
+<category>piezocatalysis</category>
 </item>
 <item>
-<title>What Drives the Selectivity of 5-(Hydroxymethyl)furfural Electroreduction over Copper in Mildly Basic Medium?</title>
-<link>https://doi.org/10.1021/acscatal.6c05142</link>
-<guid isPermaLink="false">10.1021/acscatal.6c05142</guid>
-<pubDate>Sun, 27 Sep 2026 02:01:16 GMT</pubDate>
-<description>ترکیب آزمایش‌های الکتروشیمیایی و GC-DFT نشان می‌دهد که در احیای الکتروشیمیایی HMF روی کاتالیزور مسی در pH 9.2، افزایش سطح فعال Cu با رسوب‌دهی نانوذرات، گزینش‌پذیری BHMF را از 40% به 58% می‌رساند و الیگومریزاسیون را سرکوب می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 HMF electroreduction · copper electrocatalyst · BHMF selectivity · hydrodimerization · GC-DFT</description>
-<category>HMF electroreduction</category>
-<category>copper electrocatalyst</category>
-<category>BHMF selectivity</category>
-<category>hydrodimerization</category>
-<category>GC-DFT</category>
+<title>Hierarchical Nanoplatform Integrating Oxidative–Acidic Microenvironment Remodeling and Bone Homeostasis Modulation for Diabetic Bone Defect Therapy</title>
+<link>https://doi.org/10.1002/advs.77841</link>
+<guid isPermaLink="false">10.1002/advs.77841</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:59 GMT</pubDate>
+<description>نانوپلتفرم سلسله‌مراتبی CM/LDH با اصلاح ریز محیط اکسیداتیو-اسیدی و تنظیم هومئوستاز استخوان، ترمیم نقص استخوان دیابتی را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 diabetic bone defect · Ce-MOF nanozyme · LDH · oxidative stress · osteogenesis</description>
+<category>diabetic bone defect</category>
+<category>Ce-MOF nanozyme</category>
+<category>LDH</category>
+<category>oxidative stress</category>
+<category>osteogenesis</category>
 </item>
 <item>
-<title>Non-innocent Bromide Redirects Sulfur Oxygenation through O–O Bond Cleavage in a Nonheme Fe(III)–Superoxo System</title>
-<link>https://doi.org/10.1021/acscatal.6c05295</link>
-<guid isPermaLink="false">10.1021/acscatal.6c05295</guid>
-<pubDate>Sun, 27 Sep 2026 02:01:12 GMT</pubDate>
-<description>محاسبات DFT نشان می‌دهد که در سامانه Fe(III)-superoxo شبیه‌سازی‌شده، برومید بیرونی مسیر شکست پیوند O-O را تقویت کرده و گونه FeIV=O(OBr) را به‌عنوان عامل اکسیژن‌دهنده مؤثر به گوگرد معرفی می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 nonheme iron · Fe-superoxo · O-O cleavage · sulfur oxygenation · DFT</description>
-<category>nonheme iron</category>
-<category>Fe-superoxo</category>
-<category>O-O cleavage</category>
-<category>sulfur oxygenation</category>
-<category>DFT</category>
+<title>Real‐Time Monitoring of Mass and Mechanical Properties in Single Cells and Multicellular Spheroids</title>
+<link>https://doi.org/10.1002/advs.77926</link>
+<guid isPermaLink="false">10.1002/advs.77926</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:55 GMT</pubDate>
+<description>روش مبتنی بر میکروکانتیلور فوتوترمال، جرم و خواص مکانیکی تک‌سلول‌ها و اسفروئیدها را با تفکیک زمانی میلی‌ثانیه به صورت همزمان پایش می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 microcantilever · cell mass · mechanical properties · Q-factor · spheroids</description>
+<category>microcantilever</category>
+<category>cell mass</category>
+<category>mechanical properties</category>
+<category>Q-factor</category>
+<category>spheroids</category>
 </item>
 <item>
-<title>DC Arc Plasma Jet CVD of Diamond Materials: A Journey from Laboratory to Industrial Applications</title>
-<link>https://doi.org/10.1021/accountsmr.6c00163</link>
-<guid isPermaLink="false">10.1021/accountsmr.6c00163</guid>
-<pubDate>Sun, 27 Sep 2026 01:03:07 GMT</pubDate>
-<description>این مرور پیشرفت روش CVD با جت پلاسمای قوس DC برای رشد فیلم‌های الماس باکیفیت و بزرگ‌مقیاس و انتقال آن از آزمایشگاه به کاربرد صنعتی را شرح می‌دهد.&lt;br&gt;Accounts of Materials Research | ⭐ Review&lt;br&gt;🏷 diamond · DC arc plasma jet · CVD · free-standing film · industrial scale</description>
-<category>diamond</category>
-<category>DC arc plasma jet</category>
-<category>CVD</category>
-<category>free-standing film</category>
-<category>industrial scale</category>
+<title>Extracellular Vesicle Packaged TDP43 Derived From ECs Exacerbates Cigarette Tar‐Related Atherosclerosis Progression via Enhancing Macrophage Extracellular Traps</title>
+<link>https://doi.org/10.1002/advs.78001</link>
+<guid isPermaLink="false">10.1002/advs.78001</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:49 GMT</pubDate>
+<description>TDP43 بسته‌بندی‌شده در وزیکول‌های خارج سلولی سلول‌های اندوتلیال با اتصال به VDAC1 ماکروفاژها، تشکیل تله‌های خارج سلولی و پیشرفت آترواسکلروز ناشی از قطران سیگار را تشدید می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 atherosclerosis · extracellular vesicles · TDP43 · macrophage extracellular traps · cigarette tar</description>
+<category>atherosclerosis</category>
+<category>extracellular vesicles</category>
+<category>TDP43</category>
+<category>macrophage extracellular traps</category>
+<category>cigarette tar</category>
 </item>
 <item>
-<title>Hierarchically architected self-supported/powder-type hybrid NiMoRu catalyst layers for efficient and durable anion exchange membrane water electrolysis</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.038</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.038</guid>
-<pubDate>Sun, 27 Sep 2026 01:03:04 GMT</pubDate>
-<description>لایه‌های کاتالیزوری هیبریدی NiMoRu با ساختار سلسله‌مراتبی برای الکترولیز آب با غشای تبادل آنیون، کارایی و پایداری بالا ارائه می‌دهند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 anion exchange membrane · water electrolysis · NiMoRu catalyst · self-supported · hydrogen evolution</description>
-<category>anion exchange membrane</category>
-<category>water electrolysis</category>
-<category>NiMoRu catalyst</category>
-<category>self-supported</category>
-<category>hydrogen evolution</category>
+<title>Pt‐Regulated Dynamic Cu(0) Regeneration in CuPt Alloy Enables High‐Efficiency Self‐Driven Formaldehyde Fuel Cells for Potassium Formate Production</title>
+<link>https://doi.org/10.1002/advs.77928</link>
+<guid isPermaLink="false">10.1002/advs.77928</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:46 GMT</pubDate>
+<description>پیل سوختی فرمالدهید خودران با آند CuPt/CF، تولید همزمان الکتریسیته و پتاسیم فرمات با بازده فارادی نزدیک ۱۰۰٪ را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 formaldehyde fuel cell · CuPt alloy · potassium formate · electrocatalysis · Cu(0) regeneration</description>
+<category>formaldehyde fuel cell</category>
+<category>CuPt alloy</category>
+<category>potassium formate</category>
+<category>electrocatalysis</category>
+<category>Cu(0) regeneration</category>
 </item>
 <item>
-<title>Heme-Mediated Charge Transport Modulation: Coupling Biological Recognition to Solid-State Protein Electronics</title>
-<link>https://doi.org/10.1021/jacs.6c11008</link>
-<guid isPermaLink="false">10.1021/jacs.6c11008</guid>
-<pubDate>Sun, 27 Sep 2026 01:03:00 GMT</pubDate>
-<description>هم در میوگلوبین داخل اتصالات نانوگپ طلا انتقال الکترون را تسهیل کرده و اتصال O2 به Fe رسانایی را تا حدود ۱۰ برابر تغییر می‌دهد و شناسایی زیستی را به الکترونیک حالت جامد متصل می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 myoglobin · heme · charge transport · protein electronics · oxygen sensing</description>
-<category>myoglobin</category>
-<category>heme</category>
-<category>charge transport</category>
-<category>protein electronics</category>
-<category>oxygen sensing</category>
+<title>Strengthening Constitutive Motifs in Isotropic Fibrous Hydrogel for Exceptional Damage Resistance</title>
+<link>https://doi.org/10.1002/advs.77852</link>
+<guid isPermaLink="false">10.1002/advs.77852</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:42 GMT</pubDate>
+<description>هیدروژل نانوالیاف ایزوتروپیک با تقویت موتیف‌های سازنده از طریق کوئنچینگ غیرحلالی و نمک‌زدایی ساخته شد که استحکام و چقرمگی بالایی در همه جهات دارد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 fibrous hydrogel · isotropic nanofiber · damage resistance · nonsolvent quenching · salting-out</description>
+<category>fibrous hydrogel</category>
+<category>isotropic nanofiber</category>
+<category>damage resistance</category>
+<category>nonsolvent quenching</category>
+<category>salting-out</category>
 </item>
 <item>
-<title>Linking Oxygen Evolution Selectivity to Water Oxidation Reaction Order on Hematite Photoanodes by Operando Photoelectrochemical Mass Spectrometry</title>
-<link>https://doi.org/10.1021/jacs.6c11949</link>
-<guid isPermaLink="false">10.1021/jacs.6c11949</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:57 GMT</pubDate>
-<description>طیف‌سنجی جرمی فوتوالکتروشیمیایی درجا نشان می‌دهد انتخاب‌پذیری تولید O2 روی هماتیت به چگالی حفره سطحی و گذار از سینتیک مرتبه اول به مرتبه سوم وابسته است.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 oxygen evolution · hematite photoanode · water oxidation · mass spectrometry · reaction order</description>
-<category>oxygen evolution</category>
-<category>hematite photoanode</category>
-<category>water oxidation</category>
-<category>mass spectrometry</category>
-<category>reaction order</category>
+<title>Nascent Extracellular Matrix Converts Biomaterial Cues into Cell Fate Decisions</title>
+<link>https://doi.org/10.1002/advs.77895</link>
+<guid isPermaLink="false">10.1002/advs.77895</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:39 GMT</pubDate>
+<description>ماتریکس خارج سلولی نوظهور، نشانه‌های شیمیایی هیدروژل را به تصمیمات سرنوشت سلولی تبدیل کرده و تمایز یا تکثیر را تنظیم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nascent ECM · hydrogel · cell fate · chemical modification · cell-ECM interaction</description>
+<category>nascent ECM</category>
+<category>hydrogel</category>
+<category>cell fate</category>
+<category>chemical modification</category>
+<category>cell-ECM interaction</category>
 </item>
 <item>
-<title>Discovery and Mechanistic Investigation of a Bacteria-Derived Sesquiterpene Ether Synthase AceS Catalyzing Syn -Protoetherification</title>
-<link>https://doi.org/10.1021/jacs.6c13500</link>
-<guid isPermaLink="false">10.1021/jacs.6c13500</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:54 GMT</pubDate>
-<description>آنزیم AceS باکتریایی فازنزیل دی‌فسفات را از طریق syn-protoetherification به اتر آکورنول تبدیل می‌کند و مکانیسم آن با نشان‌دارسازی دوتریوم و DFT روشن می‌شود.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 sesquiterpene synthase · protoetherification · acorenol ether · deuterium scanning · DFT</description>
-<category>sesquiterpene synthase</category>
-<category>protoetherification</category>
-<category>acorenol ether</category>
-<category>deuterium scanning</category>
-<category>DFT</category>
+<title>Retrospective Grid Cells in the Medial Entorhinal Cortex Encode Past Paths During Spatial Navigation</title>
+<link>https://doi.org/10.1002/advs.77884</link>
+<guid isPermaLink="false">10.1002/advs.77884</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:35 GMT</pubDate>
+<description>سلول‌های شبکه‌ای پس‌نگر در قشر انتورینال میانی مسیرهای گذشته را رمزگذاری کرده و در مدل مسیریابی خطای موقعیت را کاهش می‌دهند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 grid cells · retrospective coding · medial entorhinal cortex · spatial navigation · two-photon imaging</description>
+<category>grid cells</category>
+<category>retrospective coding</category>
+<category>medial entorhinal cortex</category>
+<category>spatial navigation</category>
+<category>two-photon imaging</category>
 </item>
 <item>
-<title>A Two-Step Synthesis of Covalent Genetically Encoded Libraries of Peptide-Derived Macrocycles Enables the Use of Electrophiles with Diverse Reactivity</title>
-<link>https://doi.org/10.1021/jacs.6c12299</link>
-<guid isPermaLink="false">10.1021/jacs.6c12299</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:50 GMT</pubDate>
-<description>سنتز دو مرحله‌ای کتابخانه‌های ماکروسیکل پپتیدی کدشده ژنتیکی با روش Knorr-pyrazole امکان استفاده از الکتروفیل‌های متنوع را فراهم کرده و لیگاند کووالانسی برای PKM2 شناسایی می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 genetically encoded library · peptide macrocycle · covalent ligand · Knorr-pyrazole · PKM2</description>
-<category>genetically encoded library</category>
-<category>peptide macrocycle</category>
-<category>covalent ligand</category>
-<category>Knorr-pyrazole</category>
-<category>PKM2</category>
+<title>Sulfur–Oxygen Competitive Coordination Allosteric Hydrogel for Triboelectric Nanogenerator‐Based Intelligent Tactile Recognition</title>
+<link>https://doi.org/10.1002/advs.77707</link>
+<guid isPermaLink="false">10.1002/advs.77707</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:31 GMT</pubDate>
+<description>هیدروژل با هماهنگی رقابتی گوگرد-اکسیژن و شبکه عصبی، دستکش هوشمند را قادر به تشخیص لمسی با دقت بالا در شرایط واقعی می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 triboelectric nanogenerator · hydrogel · tactile recognition · machine learning · coordination</description>
+<category>triboelectric nanogenerator</category>
+<category>hydrogel</category>
+<category>tactile recognition</category>
+<category>machine learning</category>
+<category>coordination</category>
 </item>
 <item>
-<title>Nonmonotonic Charging, Overscreening, and Ion Competition in the Electric Double Layer of Platinum Quantified by X-ray Spectroscopy</title>
-<link>https://doi.org/10.1021/jacs.6c14786</link>
-<guid isPermaLink="false">10.1021/jacs.6c14786</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:47 GMT</pubDate>
-<description>طیف‌بینی فلورسانس پرتو ایکس درجا نشان می‌دهد لایه دوگانه الکتریکی Pt رفتار شارژ غیریکنوا و overscreening دارد و کاتیون‌ها و پروتون‌ها برای پوشش سطح رقابت می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electric double layer · platinum · X-ray fluorescence · overscreening · ion competition</description>
-<category>electric double layer</category>
-<category>platinum</category>
-<category>X-ray fluorescence</category>
-<category>overscreening</category>
-<category>ion competition</category>
+<title>Matrix Rigidity Mechanoprimes Microglia for Inflammation Through Cytoskeletal‐to‐Nuclear Signaling and 3D Spatio‐Epigenomic Remodeling</title>
+<link>https://doi.org/10.1002/advs.77736</link>
+<guid isPermaLink="false">10.1002/advs.77736</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:28 GMT</pubDate>
+<description>سختی ماتریکس از طریق بازآرایی اپي‌ژنومی سه‌بعدی و سیگنالینگ اسکلت سلولی، میکروگلیا را برای التهاب آماده می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 matrix rigidity · microglia · mechanotransduction · chromatin accessibility · inflammation</description>
+<category>matrix rigidity</category>
+<category>microglia</category>
+<category>mechanotransduction</category>
+<category>chromatin accessibility</category>
+<category>inflammation</category>
+</item>
+<item>
+<title>Biosynthesis of Spatially Differentiated Cellulose for Flexible All‐in‐one Supercapacitors</title>
+<link>https://doi.org/10.1002/advs.77603</link>
+<guid isPermaLink="false">10.1002/advs.77603</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:24 GMT</pubDate>
+<description>بیوسنتز هدایت‌شده با اکسیژن، سلولز با تمایز فضایی را برای supercapacitor همه‌کاره انعطاف‌پذیر ایجاد کرده و رسانایی و ظرفیت بالایی فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Oxygen-guided biosynthesis creates spatially differentiated bacterial cellulose with dense surface layers and an open interlayer in one step, enabling monolithic all-in-one supercapacitors. This bottom-up approach integrates distinct functional regions—polyaniline loading and ion transport—within a continuous scaffold, achieving high conductivity, toughness, capacitance, and energy density, offering a sustainable platform for flexible energy storage.&lt;br&gt;🏷 bacterial cellulose · supercapacitor · spatial differentiation · polyaniline · flexible energy storage</description>
+<category>bacterial cellulose</category>
+<category>supercapacitor</category>
+<category>spatial differentiation</category>
+<category>polyaniline</category>
+<category>flexible energy storage</category>
+</item>
+<item>
+<title>Beyond Probiotics: Postbiotics for Healthy Aquaculture</title>
+<link>https://doi.org/10.1002/advs.77737</link>
+<guid isPermaLink="false">10.1002/advs.77737</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:19 GMT</pubDate>
+<description>این مرور، محدودیت‌های پروبیوتیک‌ها را بررسی کرده و postbiotics را با مدل تحلیلی مبتنی بر نشانگرهای شیمیایی برای آبزی‌پروری پایدار پیشنهاد می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 postbiotics · aquaculture · probiotics · biomarkers · quality control</description>
+<category>postbiotics</category>
+<category>aquaculture</category>
+<category>probiotics</category>
+<category>biomarkers</category>
+<category>quality control</category>
+</item>
+<item>
+<title>A Versatile DNA‐Encoded Library Platform for the Discovery of Highly Cooperative Chemical Inducers of Proximity</title>
+<link>https://doi.org/10.1002/advs.77819</link>
+<guid isPermaLink="false">10.1002/advs.77819</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:13 GMT</pubDate>
+<description>پلتفرم DEL با کتابخانه allene cycloaddition، ترکیب B67b را به‌عنوان القاکننده مجاورت شیمیایی قوی بین CRBN و BRD9 شناسایی می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 DNA-encoded library · chemical inducers of proximity · molecular glue · CRBN · BRD9</description>
+<category>DNA-encoded library</category>
+<category>chemical inducers of proximity</category>
+<category>molecular glue</category>
+<category>CRBN</category>
+<category>BRD9</category>
+</item>
+<item>
+<title>Programmable Self‐Heating Microneedle Patch for on‐Demand Postprandial Glucose Management</title>
+<link>https://doi.org/10.1002/advs.77887</link>
+<guid isPermaLink="false">10.1002/advs.77887</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:09 GMT</pubDate>
+<description>پچ microneedle خودگرم‌شونده برنامه‌پذیر با CaO و PCM، آزادسازی انسولین را به‌صورت متوالی کنترل کرده و قند خون را در موش دیابتی تنظیم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 microneedle patch · insulin delivery · self-heating · phase-change material · glucose management</description>
+<category>microneedle patch</category>
+<category>insulin delivery</category>
+<category>self-heating</category>
+<category>phase-change material</category>
+<category>glucose management</category>
+</item>
+<item>
+<title>Multimodal Imaging of Hypoxia, Metabolism and pH in Feline Sarcoma Using Hyperpolarized 13 C MRI and PET</title>
+<link>https://doi.org/10.1002/advs.77830</link>
+<guid isPermaLink="false">10.1002/advs.77830</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:06 GMT</pubDate>
+<description>پروتکل همزمان PET/MRI با hyperpolarized 13C، hypoxia و pH و متابولیسم سارکوم گربه را نقشه‌برداری کرده و ناهمگونی تومور را نشان می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hyperpolarized 13C MRI · PET/MRI · tumor hypoxia · extracellular pH · sarcoma metabolism</description>
+<category>hyperpolarized 13C MRI</category>
+<category>PET/MRI</category>
+<category>tumor hypoxia</category>
+<category>extracellular pH</category>
+<category>sarcoma metabolism</category>
+</item>
+<item>
+<title>Ilexoside K Ameliorates Atherosclerosis by Suppressing CD72 hi Macrophages and Blocking CXCL12–CXCR4 Axis to Inhibit Endothelial Pyroptosis</title>
+<link>https://doi.org/10.1002/advs.77982</link>
+<guid isPermaLink="false">10.1002/advs.77982</guid>
+<pubDate>Sun, 27 Sep 2026 20:03:02 GMT</pubDate>
+<description>Ilexoside K با مهار ماکروفاژهای CD72hi و محور CXCL12–CXCR4، pyroptosis اندوتلیالی را کاهش داده و آترواسکلروز را در موش‌های ApoE−/− بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Ilexoside K · CD72hi macrophages · CXCL12-CXCR4 axis · endothelial pyroptosis · atherosclerosis</description>
+<category>Ilexoside K</category>
+<category>CD72hi macrophages</category>
+<category>CXCL12-CXCR4 axis</category>
+<category>endothelial pyroptosis</category>
+<category>atherosclerosis</category>
+</item>
+<item>
+<title>Oral Recombinant Human Collagen III Protects Gastric Mucosa via G‐Quadruplex‐Mediated Activation of the Pla2g4a‐Prostaglandin Axis</title>
+<link>https://doi.org/10.1002/advs.77964</link>
+<guid isPermaLink="false">10.1002/advs.77964</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:57 GMT</pubDate>
+<description>کلاژن نوع III نوترکیب خوراکی با پپتید GPAEF، G-quadruplex پروموتر Pla2g4a را تثبیت کرده و از طریق محور پروستاگلاندین، آسیب حاد مخاط معده را در موش کاهش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 recombinant collagen III · gastric mucosal injury · G-quadruplex · Pla2g4a · prostaglandin</description>
+<category>recombinant collagen III</category>
+<category>gastric mucosal injury</category>
+<category>G-quadruplex</category>
+<category>Pla2g4a</category>
+<category>prostaglandin</category>
+</item>
+<item>
+<title>Continuous Molecular Monitoring Using Electrochemical Aptamer‐Based Sensors: Remaining Challenges for Long‐Term In Vivo Deployment</title>
+<link>https://doi.org/10.1002/advs.77896</link>
+<guid isPermaLink="false">10.1002/advs.77896</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:53 GMT</pubDate>
+<description>این مرور، اصول حس‌گری آپتامری الکتروشیمیایی، مکانیزم‌های تخریب سیگنال و راهبردهای نوین مانند کالیبراسیون رانش‌زدایی و پوشش‌های ضدچسبندگی را برای پایش طولانی‌مدت درون‌تنی بررسی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 aptamer biosensor · continuous monitoring · in vivo sensing · signal drift · antifouling coatings</description>
+<category>aptamer biosensor</category>
+<category>continuous monitoring</category>
+<category>in vivo sensing</category>
+<category>signal drift</category>
+<category>antifouling coatings</category>
+</item>
+<item>
+<title>Detaching Photosensitive Nanoparticles from Cells Prevents Them from Remaining in Cells after Photoporation</title>
+<link>https://doi.org/10.1002/advs.77816</link>
+<guid isPermaLink="false">10.1002/advs.77816</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:50 GMT</pubDate>
+<description>نانوذرات طلا عامل‌دار شده با PBA برای فوتوپوریشن به غشای سلول متصل و با افزودن ATP جدا می‌شوند تا تحویل ماکرومولکول‌ها بدون باقی‌ماندن ایمن‌تر شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photoporation · detachable photosensitizer · gold nanoparticles · intracellular delivery · cell engineering</description>
+<category>photoporation</category>
+<category>detachable photosensitizer</category>
+<category>gold nanoparticles</category>
+<category>intracellular delivery</category>
+<category>cell engineering</category>
+</item>
+<item>
+<title>Compound Abrus cantoniensis Extract Alleviates AFB 1 ‐Induced Liver Injury by Regulating PI3K‐AKT Pathway and Gut Microbiota/Butyrate Metabolism</title>
+<link>https://doi.org/10.1002/advs.77889</link>
+<guid isPermaLink="false">10.1002/advs.77889</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:47 GMT</pubDate>
+<description>عصاره ترکیبی Abrus cantoniensis با تنظیم مسیر PI3K-AKT و میکروبیوتای روده و متابولیت بوتیرات، آسیب کبدی ناشی از AFB1 را در موش و سلول‌های HepG2 کاهش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Abrus cantoniensis · AFB1 hepatotoxicity · PI3K-AKT pathway · gut microbiota · butyrate</description>
+<category>Abrus cantoniensis</category>
+<category>AFB1 hepatotoxicity</category>
+<category>PI3K-AKT pathway</category>
+<category>gut microbiota</category>
+<category>butyrate</category>
+</item>
+<item>
+<title>DUET‐seq: An Open‐Source Droplet Platform for High‐Fidelity Joint Chromatin and Transcriptome Profiling Reveals Temporal Regulatory Decoupling in Single Cells</title>
+<link>https://doi.org/10.1002/advs.77986</link>
+<guid isPermaLink="false">10.1002/advs.77986</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:43 GMT</pubDate>
+<description>پلتفرم منبع‌باز DUET-seq برای پروفایل‌گیری همزمان کروماتین و ترانسکریپتوم در تک‌هسته معرفی شد که با کشف دو حالت جداسازی تنظیمی در اسپرماتوژنز، دسترسی‌پذیری چندomics را فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-cell multi-omics · chromatin accessibility · transcriptome · droplet microfluidics · regulatory decoupling</description>
+<category>single-cell multi-omics</category>
+<category>chromatin accessibility</category>
+<category>transcriptome</category>
+<category>droplet microfluidics</category>
+<category>regulatory decoupling</category>
+</item>
+<item>
+<title>The In Situ Electrochemical−Chemical Cascade Strategy for Pyruvic Acid Synthesis</title>
+<link>https://doi.org/10.1002/advs.77880</link>
+<guid isPermaLink="false">10.1002/advs.77880</guid>
+<pubDate>Sun, 27 Sep 2026 20:02:39 GMT</pubDate>
+<description>کاتالیزور Ni-CeO2 برای تولید درجای H2O2 و تبدیل α-هیدروکسی‌اسیدها به پیروات توسعه یافت که با تنظیم نقص اکسیژن، نرخ 19.9 mmol g−1 h−1 و بازده فارادیک 55.3% را به دست می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 pyruvic acid synthesis · H2O2 electrosynthesis · Ni-doped CeO2 · electrochemical-chemical cascade · hydroxyl radicals</description>
+<category>pyruvic acid synthesis</category>
+<category>H2O2 electrosynthesis</category>
+<category>Ni-doped CeO2</category>
+<category>electrochemical-chemical cascade</category>
+<category>hydroxyl radicals</category>
 </item>
 </channel>
 </rss>
