@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 05:01:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 06:04:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In Situ Generation of Gel Foam via Heat‐Accelerated Calcium Ion Release From Nano‐CaCO 3 for Lithium‐Ion Battery Fire Suppression and Prevention</title>
+<link>https://doi.org/10.1002/advs.77882</link>
+<guid isPermaLink="false">10.1002/advs.77882</guid>
+<pubDate>Mon, 28 Sep 2026 06:03:02 GMT</pubDate>
+<description>فوم ژل آلژینات با آزادسازی سریع Ca2+ از نانو-CaCO3 در اثر گرما، آتش باتری لیتیوم-یون را خاموش کرده و از گسترش فرار حرارتی در ماژول‌های چندسلولی جلوگیری می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a thermally triggered in situ gelling foam using nano-CaCO3 and GDL, enabling alginate crosslinking only upon battery fire exposure. The strategy combines low-viscosity foamability with fire-activated gelation, forming a stable adhesive barrier that outperforms water mist, spray, and AFFF in suppressing single-cell fires and preventing thermal runaway propagation, offering a promising safety solution for lithium-ion battery systems.&lt;br&gt;🏷 lithium-ion battery · fire suppression · gel foam · nano-CaCO3 · thermal runaway</description>
+<category>lithium-ion battery</category>
+<category>fire suppression</category>
+<category>gel foam</category>
+<category>nano-CaCO3</category>
+<category>thermal runaway</category>
+</item>
+<item>
+<title>Depth‐to‐Areal Staging Heterogeneity Preceding Lithium Plating in Graphite Anodes Revealed by Operando Imaging</title>
+<link>https://doi.org/10.1002/advs.77918</link>
+<guid isPermaLink="false">10.1002/advs.77918</guid>
+<pubDate>Mon, 28 Sep 2026 06:02:16 GMT</pubDate>
+<description>تصویربرداری operando نشان می‌دهد که ناهمگنی staging در آند گرافیت تحت کنترل سینتیک شارژ، مکان‌های شروع پلاتینگ لیتیوم را تعیین می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely resolves how graphite staging heterogeneity evolves in 3D and scales with charging kinetics, revealing that lithium plating is spatially templated by pre-existing staging non-uniformity rather than random nucleation. It establishes staging heterogeneity as a kinetically controlled precursor to plating and provides a general operando framework for diagnosing heterogeneity-driven behavior in insertion electrodes.&lt;br&gt;🏷 graphite anode · lithium plating · staging heterogeneity · operando imaging · charging kinetics</description>
+<category>graphite anode</category>
+<category>lithium plating</category>
+<category>staging heterogeneity</category>
+<category>operando imaging</category>
+<category>charging kinetics</category>
+</item>
 <item>
 <title>Aqueous zinc metal anodes: coupled degradation, landmark advances, and multiscale materials design</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101847</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>dynamic simulation</category>
 <category>constant power</category>
 <category>module design</category>
-</item>
-<item>
-<title>Recent advances and future developments of lithium manganese iron phosphate (LMFP) cathode materials for lithium-ion batteries: Synthesis, modification, and recycling</title>
-<link>https://doi.org/10.1016/j.est.2026.124855</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124855</guid>
-<pubDate>Fri, 25 Sep 2026 21:01:28 GMT</pubDate>
-<description>این مرور به پیشرفت‌های اخیر در مواد کاتدی LMFP برای باتری‌های لیتیوم-یون، شامل سنتز، اصلاح و بازیافت، و چشم‌انداز آینده آن می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 LMFP cathode · lithium-ion battery · synthesis modification · recycling · energy density</description>
-<category>LMFP cathode</category>
-<category>lithium-ion battery</category>
-<category>synthesis modification</category>
-<category>recycling</category>
-<category>energy density</category>
-</item>
-<item>
-<title>Particle Size Dictates Transport Mechanism and Performance in Li 6 PS 5 Cl Conversion Cathodes for All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/smll.75953</link>
-<guid isPermaLink="false">10.1002/smll.75953</guid>
-<pubDate>Fri, 25 Sep 2026 20:06:10 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد اندازه ذرات Li6PS5Cl در کاتدهای تبدیل، ظرفیت دسترس‌پذیر و سازوکار انتقال لیتیوم را تعیین می‌کند و کاتد بهینه چگالی انرژی 1096 Wh kg−1 با پایداری چرخه عالی ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Particle size non-monotonically governs Li transport in Li₆PS₅Cl conversion cathodes: rate capability first drops, then recovers in the ultrafine regime, alongside cycling stability. This reveals an interfacial job-sharing mechanism adding coupled ion/electron transport, distinct from degrading bulk pathways. The optimized cathode achieves 1096 Wh kg⁻¹ with ~100% capacity retention over 100 cycles, resolving whether LPSCl conversion enables high-capacity all-solid-state energy storage.&lt;br&gt;🏷 all-solid-state battery · Li6PS5Cl · conversion cathode · particle size · ion transport</description>
-<category>all-solid-state battery</category>
-<category>Li6PS5Cl</category>
-<category>conversion cathode</category>
-<category>particle size</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
