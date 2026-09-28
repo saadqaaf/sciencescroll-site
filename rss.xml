@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 19:02:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 20:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Adaptive integration of bioelectronics</title>
+<link>https://doi.org/10.1038/s41563-026-02771-8</link>
+<guid isPermaLink="false">10.1038/s41563-026-02771-8</guid>
+<pubDate>Mon, 28 Sep 2026 20:01:19 GMT</pubDate>
+<description>این مقاله به بررسی یکپارچه‌سازی تطبیقی در بیوالکترونیک می‌پردازد و راهبردهای طراحی برای بهبود سازگاری و عملکرد در فصل مشترک بافت-دستگاه را تحلیل می‌کند.&lt;br&gt;Nature Materials | ⭐ Review&lt;br&gt;🏷 bioelectronics · adaptive integration · tissue interface · soft materials · implantable devices</description>
+<category>bioelectronics</category>
+<category>adaptive integration</category>
+<category>tissue interface</category>
+<category>soft materials</category>
+<category>implantable devices</category>
+</item>
+<item>
+<title>Trustworthy artificial intelligence in advanced manufacturing</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101846</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101846</guid>
+<pubDate>Mon, 28 Sep 2026 20:01:16 GMT</pubDate>
+<description>این مقاله به بررسی هوش مصنوعی قابل اعتماد در تولید پیشرفته می‌پردازد و چارچوب‌ها و چالش‌های کلیدی برای تضمین قابلیت اطمینان و شفافیت را تحلیل می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 trustworthy AI · advanced manufacturing · explainable AI · uncertainty quantification · industrial AI</description>
+<category>trustworthy AI</category>
+<category>advanced manufacturing</category>
+<category>explainable AI</category>
+<category>uncertainty quantification</category>
+<category>industrial AI</category>
+</item>
 <item>
 <title>Moving quantum computing from engineered advantage to practical utility</title>
 <link>https://doi.org/10.1038/s41928-026-01717-x</link>
@@ -702,30 +726,6 @@
 <category>curvature</category>
 <category>MDCK cysts</category>
 <category>morphogenesis</category>
-</item>
-<item>
-<title>Targeting LDHA Palmitoylation Sensitizes GBM to Chemoradiotherapy via Suppressing Palmitic Acid Induced Glycolytic Reprogramming</title>
-<link>https://doi.org/10.1002/advs.77536</link>
-<guid isPermaLink="false">10.1002/advs.77536</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:06 GMT</pubDate>
-<description>هدف‌گیری پالمیتویلاسیون LDHA با Rutin، گلیکولیزی و مقاومت GBM به شیمی‌پرتو‌درمانی را کاهش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 glioblastoma · LDHA palmitoylation · glycolytic reprogramming · chemoradiotherapy · Rutin</description>
-<category>glioblastoma</category>
-<category>LDHA palmitoylation</category>
-<category>glycolytic reprogramming</category>
-<category>chemoradiotherapy</category>
-<category>Rutin</category>
-</item>
-<item>
-<title>MN•CS•IO System: Cross‐Species Study for HBB Function in High‐Altitude Hypoxia Adaptation</title>
-<link>https://doi.org/10.1002/advs.78002</link>
-<guid isPermaLink="false">10.1002/advs.78002</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:03 GMT</pubDate>
-<description>سیستم MN•CS•IO نقش HBB را در سازگاری با هیپوکسی ارتفاع بالا در میان گونه‌ها نشان می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 HBB · high-altitude hypoxia · gene delivery · cell sorting · adaptation</description>
-<category>HBB</category>
-<category>high-altitude hypoxia</category>
-<category>gene delivery</category>
-<category>cell sorting</category>
-<category>adaptation</category>
 </item>
 </channel>
 </rss>
