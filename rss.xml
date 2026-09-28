@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 21:01:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 22:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Metal-based photosensitizers for organelle-targeted photodynamic therapy: From ligand design principles to antitumor immunity</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218606</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218606</guid>
+<pubDate>Mon, 28 Sep 2026 22:01:07 GMT</pubDate>
+<description>این مقاله مروری به طراحی لیگاندی حساس‌کننده‌های نوری فلزی برای هدف‌گیری اندامک‌ها در درمان فوتودینامیک و القای ایمنی ضدتوموری می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal photosensitizers · organelle targeting · photodynamic therapy · antitumor immunity · ligand design</description>
+<category>metal photosensitizers</category>
+<category>organelle targeting</category>
+<category>photodynamic therapy</category>
+<category>antitumor immunity</category>
+<category>ligand design</category>
+</item>
 <item>
 <title>Engineering biomimetic extracellular matrix platforms: Material designs, dynamic cues, and translational perspectives</title>
 <link>https://doi.org/10.1016/j.mser.2026.101298</link>
@@ -714,18 +726,6 @@
 <category>ECM dynamics</category>
 <category>septal remodeling</category>
 <category>EndoMT</category>
-</item>
-<item>
-<title>Water‐Soluble Luminescent Trityl Radical for Fluorescence/Magnetic Resonance Dual‐Modal Imaging Probe</title>
-<link>https://doi.org/10.1002/advs.77710</link>
-<guid isPermaLink="false">10.1002/advs.77710</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:17 GMT</pubDate>
-<description>رادیکال‌های TTM محلول در آب با گسیل هیبریدی LE/CT سنتز شدند که به‌عنوان اولین پروب‌های دوگانه FI/MRI بدون سورفکتانت و فلز، تصویربرداری سلولی و کنتراست T1-weighted MRI را فراهم می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 trityl radical · dual-modal imaging · fluorescence imaging · MRI contrast · water-soluble probe</description>
-<category>trityl radical</category>
-<category>dual-modal imaging</category>
-<category>fluorescence imaging</category>
-<category>MRI contrast</category>
-<category>water-soluble probe</category>
 </item>
 </channel>
 </rss>
