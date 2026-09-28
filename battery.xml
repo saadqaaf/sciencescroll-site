@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 18:02:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 19:02:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Emerging Conversion Chemistry for High-Energy Electrolytic Zinc–Manganese Batteries: Beyond Intercalation</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00438</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.6c00438</guid>
+<pubDate>Mon, 28 Sep 2026 19:02:20 GMT</pubDate>
+<description>این مرور، شیمی تبدیل دوالکترونی Mn2+/MnO2 را برای باتری‌های آبی روی-منگنز پرانرژی بررسی و چارچوب طراحی یکپارچه‌ای ارائه می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely contrasts intercalation and electrolytic zinc–manganese batteries, highlighting the two-electron Mn2+/MnO2 chemistry that enables high voltage and capacity. Its significance lies in synthesizing cathode, anode, and electrolyte advances into a unified design framework, offering systematic guidance for next-generation high-energy, long-life aqueous batteries.&lt;br&gt;🏷 zinc-manganese battery · conversion chemistry · aqueous battery · cathode modification · electrolyte engineering</description>
+<category>zinc-manganese battery</category>
+<category>conversion chemistry</category>
+<category>aqueous battery</category>
+<category>cathode modification</category>
+<category>electrolyte engineering</category>
+</item>
+<item>
+<title>Insights into the MoS 2 Lithium-Ion Battery Lithiation Mechanism via Big Data Electrochemical Analysis</title>
+<link>https://doi.org/10.1039/d6ta03464k</link>
+<guid isPermaLink="false">10.1039/d6ta03464k</guid>
+<pubDate>Mon, 28 Sep 2026 19:01:34 GMT</pubDate>
+<description>مکانیسم لیتیوم‌یون‌شدن آند MoS2 در باتری لیتیوم-یون با تحلیل داده‌های بزرگ الکتروشیمیایی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study applies big data electrochemical analysis to uncover MoS₂&amp;#x27;s lithiation mechanism, addressing its complex, poorly understood reaction pathways. By mining large-scale cycling data, it reveals key insights into conversion and intercalation processes, offering a data-driven framework to optimize MoS₂ anodes and advance high-capacity, earth-abundant alternatives to graphite in lithium-ion batteries.&lt;br&gt;🏷 MoS2 anode · lithium-ion battery · lithiation mechanism · big data analysis · electrochemical analysis</description>
+<category>MoS2 anode</category>
+<category>lithium-ion battery</category>
+<category>lithiation mechanism</category>
+<category>big data analysis</category>
+<category>electrochemical analysis</category>
+</item>
 <item>
 <title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>Hofmeister effect</category>
 <category>hydrogel electrolyte</category>
 <category>polyiodide shuttling</category>
-</item>
-<item>
-<title>Facet‐Induced Electron‐Bridge Enables Enhanced LiO 2 ‐Mediated Reaction Kinetics for Stable Lithium‐Oxygen Batteries</title>
-<link>https://doi.org/10.1002/adfm.78644</link>
-<guid isPermaLink="false">10.1002/adfm.78644</guid>
-<pubDate>Sat, 26 Sep 2026 14:02:00 GMT</pubDate>
-<description>مهندسی پل الکترونی القا شده توسط وجه کریستالی با میدان داخلی Mott-Schottky، سینتیک واکنش LiO2 را بهبود داده و چرخهپذیری باتری لیتیوم-اکسیژن را با اضافهولتاژ کاهشیافته افزایش میدهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces facet-induced electron-bridge engineering via a Mott–Schottky built-in electric field to enhance LiO₂-mediated kinetics in Li–O₂ batteries. By tailoring electron density and sorption microenvironments, it precisely controls Li₂O₂ nucleation, growth, and decomposition, enabling extended cycle life and reduced overpotential. The strategy offers a general principle for accelerating electron transfer and regulating intermediates through crystal-plane and interfacial engineering.&lt;br&gt;🏷 lithium-oxygen battery · LiO2 intermediate · electron bridge · Mott-Schottky · facet engineering</description>
-<category>lithium-oxygen battery</category>
-<category>LiO2 intermediate</category>
-<category>electron bridge</category>
-<category>Mott-Schottky</category>
-<category>facet engineering</category>
-</item>
-<item>
-<title>Spatially Orchestrated Ion‐Electron‐Thermal Transport in an Ultralight Fibrous Copper Current Collector for Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78695</link>
-<guid isPermaLink="false">10.1002/adfm.78695</guid>
-<pubDate>Sat, 26 Sep 2026 14:01:52 GMT</pubDate>
-<description>جمعکننده جریان فیبری فوقسبک با گرادیان مس، انتقال یون-الکترون-گرما را هماهنگ کرده و پایداری چرخهای بیش از ۲۰۰۰ ساعت را در باتری لیتیوم-فلز فراهم میکند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ultralight, conductive-gradient fibrous copper current collector that spatially orchestrates ion, electron, and thermal transport via asymmetric Cu deposition on a porous nanofiber membrane. This design suppresses dendrites and volume swings, enabling 2000 h cycling and 82.66% capacity retention after 300 cycles, offering a mass-efficient platform for high-energy lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · current collector · fibrous architecture · ion-electron-thermal transport · Li deposition</description>
-<category>lithium metal battery</category>
-<category>current collector</category>
-<category>fibrous architecture</category>
-<category>ion-electron-thermal transport</category>
-<category>Li deposition</category>
 </item>
 </channel>
 </rss>
