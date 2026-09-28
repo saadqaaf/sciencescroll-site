@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 17:01:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 18:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Silicon-Deposited Porous Carbon Anodes: A Design Paradigm for Next-Generation High-Energy-Density Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03725</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03725</guid>
+<pubDate>Mon, 28 Sep 2026 18:01:39 GMT</pubDate>
+<description>این مرور، معماری‌های سیلیکون-کربن متخلخل را برای آندهای سیلیکونی با چگالی انرژی بالا در باتری‌های لیتیوم-یون، با تمرکز بر مدیریت حجم و SEI بررسی می‌کند.&lt;br&gt;Nano Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This mini-review uniquely frames silicon-deposited porous carbon (SiDPC) as a distinct structural paradigm beyond blended Si–C composites, emphasizing its evolution from passive buffering to active structural regulation. It highlights synergistic control of volume expansion, stress, transport, and SEI formation, offering mechanistic insights and design guidelines for scalable, programmable SiDPC anodes advancing practical high-energy-density lithium-ion batteries.&lt;br&gt;🏷 silicon anode · porous carbon · lithium-ion battery · volume expansion · SEI</description>
+<category>silicon anode</category>
+<category>porous carbon</category>
+<category>lithium-ion battery</category>
+<category>volume expansion</category>
+<category>SEI</category>
+</item>
+<item>
+<title>Near-Theoretical-Density Zinc Plating Enabled by an Ordered Janus Interphase for High-Energy Zinc Pouch Cells</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03595</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03595</guid>
+<pubDate>Mon, 28 Sep 2026 18:01:26 GMT</pubDate>
+<description>لایه میانی Janus آلی-معدنی CF-LaF3، آبکاری روی بدون دندریت با چگالی نزدیک به حد نظری و باتری جیبی Zn||I2 با انرژی بالا را ممکن می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty is a nanometer-thin organic–inorganic Janus bilayer (CF-LaF3) that pre-engineers the zinc interface, combining desolvation, water blocking, and uniform Zn2+ flux. It enables near-theoretical-density plating (8.60 vs 8.54 μm) at 5 mAh cm–2, dendrite-free, and 109 Wh L–1 Ah-level Zn||I2 pouch cells, offering a scalable route to practical high-energy aqueous zinc batteries.&lt;br&gt;🏷 zinc metal battery · Janus interphase · dendrite-free plating · pouch cell · LaF3</description>
+<category>zinc metal battery</category>
+<category>Janus interphase</category>
+<category>dendrite-free plating</category>
+<category>pouch cell</category>
+<category>LaF3</category>
+</item>
 <item>
 <title>Theoretical investigation on potassium storage performance of MoSe₂ with single/dual-element doping of vanadium and niobium</title>
 <link>https://doi.org/10.1016/j.est.2026.124849</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>fibrous architecture</category>
 <category>ion-electron-thermal transport</category>
 <category>Li deposition</category>
-</item>
-<item>
-<title>Defect‐Free Transfer Principles for Scalable, Thin Garnet‐Based Hybrid Solid Electrolytes in Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/adfm.78679</link>
-<guid isPermaLink="false">10.1002/adfm.78679</guid>
-<pubDate>Sat, 26 Sep 2026 14:01:47 GMT</pubDate>
-<description>با تعیین معیارهای ترمودینامیکی بر پایه پارامترهای حلالیت هانسن، الکترولیتهای هیبریدی نازک و بدون نقص LLZTO با ضخامت ۱۵ میکرومتر و مساحت ۱۲۰ سانتیمتر مربع برای باتریهای حالت جامد ساخته شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes thermodynamic design principles using Hansen solubility parameters to guide defect-free fabrication of thin garnet-based hybrid solid electrolytes. The criteria enable scalable 15 µm-thin, 120 cm² transfer-printed electrolytes with enhanced Li+ transport, cycling stability, and thermal stability in coin and pouch cells. This provides a generalizable framework for scalable manufacturing of high-performance solid-state batteries.&lt;br&gt;🏷 garnet solid electrolyte · hybrid solid electrolyte · transfer printing · Hansen solubility parameters · solid-state battery</description>
-<category>garnet solid electrolyte</category>
-<category>hybrid solid electrolyte</category>
-<category>transfer printing</category>
-<category>Hansen solubility parameters</category>
-<category>solid-state battery</category>
-</item>
-<item>
-<title>Dual‐Functional PDA/CMC‐Li Supramolecular Bridging Networks Unlock Trans‐Phase Li + Conduction in Composite Solid Electrolytes for High‐Performance Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78716</link>
-<guid isPermaLink="false">10.1002/adfm.78716</guid>
-<pubDate>Sat, 26 Sep 2026 14:01:42 GMT</pubDate>
-<description>شبکههای پلساز فوقمولکولی دوگانه PDA/CMC-Li با اتصال ذرات LLZAO، مسیر انتقال Li+ از فاز سرامیکی را فعال کرده و چرخهپذیری پایدار بالای ۱۴۰۰ ساعت را در باتری لیتیوم-فلز فراهم میکند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces dual-functional CMC-Li supramolecular bridges linking PDA-modified LLZAO fillers in PVDF-HFP, simultaneously dispersing fillers and regulating ion solvation. This mitigates space-charge layers, enabling trans-phase Li⁺ conduction through ceramic bulk rather than sluggish interfaces. The result is dendrite suppression, 1400 h cycling stability, and high-capacity retention, offering a generalizable paradigm for advanced composite solid electrolytes.&lt;br&gt;🏷 composite solid electrolyte · lithium metal battery · supramolecular bridging · LLZAO filler · trans-phase Li+ conduction</description>
-<category>composite solid electrolyte</category>
-<category>lithium metal battery</category>
-<category>supramolecular bridging</category>
-<category>LLZAO filler</category>
-<category>trans-phase Li+ conduction</category>
 </item>
 </channel>
 </rss>
