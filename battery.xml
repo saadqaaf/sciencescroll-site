@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 10:01:42 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 11:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multi‐Li + Coordination for Superior Room‐Temperature Ionic Conductivity in PEO Solid Electrolytes</title>
+<link>https://doi.org/10.1002/adma.75158</link>
+<guid isPermaLink="false">10.1002/adma.75158</guid>
+<pubDate>Mon, 28 Sep 2026 11:01:33 GMT</pubDate>
+<description>افزودن PCE فسفونات‌دار به الکترولیت جامد PEO با مکانیزم هم‌آرایی چند-Li+ رسانایی یونی را به 1.7×10−4 S cm−1 در ۳۰°C افزایش داده و عملکرد باتری حالت جامد Li||LiFePO4 را بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Phosphonate-functionalized PCE overcomes tight Li⁺-PEO chelation and poor salt dissociation via multi-Li⁺ coordination, where electrostatic repulsion destabilizes solvation and enables rapid Li⁺ hopping. This yields high ionic conductivity (1.7×10⁻⁴ S cm⁻¹, 30°C) without liquid plasticizers, plus high-capacity Li||LiFePO₄ cells. It offers a simple strategy and molecular-level insights for high-performance solid-state batteries.&lt;br&gt;🏷 PEO solid electrolyte · multi-Li+ coordination · phosphonate PCE · ionic conductivity · solid-state battery</description>
+<category>PEO solid electrolyte</category>
+<category>multi-Li+ coordination</category>
+<category>phosphonate PCE</category>
+<category>ionic conductivity</category>
+<category>solid-state battery</category>
+</item>
 <item>
 <title>Quantitative tracking of sodium plating in hard carbon anodes</title>
 <link>https://doi.org/10.1016/j.esci.2026.100649</link>
@@ -717,18 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>electric-field deformation</category>
 <category>bilayer electrolyte</category>
 <category>interfacial contact</category>
-</item>
-<item>
-<title>Modification strategies for Mn3O4-based cathode materials: Multi-factor synergistic design towards high-performance and sustainable energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124688</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124688</guid>
-<pubDate>Fri, 25 Sep 2026 21:02:18 GMT</pubDate>
-<description>مروری بر استراتژی‌های اصلاح مواد کاتدی بر پایه Mn3O4 با طراحی هم‌افزایی چندعاملی برای ذخیره انرژی پایدار و高性能.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 Mn3O4 · cathode material · modification strategies · energy storage · synergistic design</description>
-<category>Mn3O4</category>
-<category>cathode material</category>
-<category>modification strategies</category>
-<category>energy storage</category>
-<category>synergistic design</category>
 </item>
 </channel>
 </rss>
