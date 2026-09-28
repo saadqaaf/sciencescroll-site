@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 08:01:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 09:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transplanted hearts adjust their biological age to that of their host</title>
+<link>https://doi.org/10.1038/d41586-026-03043-w</link>
+<guid isPermaLink="false">10.1038/d41586-026-03043-w</guid>
+<pubDate>Mon, 28 Sep 2026 09:01:12 GMT</pubDate>
+<description>پژوهش نشان می‌دهد قلب‌های پیوندی سن بیولوژیکی خود را با سن میزبان هماهنگ می‌کنند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 heart transplantation · biological age · epigenetic clock · cardiac aging · transplant biology</description>
+<category>heart transplantation</category>
+<category>biological age</category>
+<category>epigenetic clock</category>
+<category>cardiac aging</category>
+<category>transplant biology</category>
+</item>
 <item>
 <title>Deep Learning-Enhanced All-Nanofiber Sensors for Pressure–Temperature Sensing and Stimulus Discrimination</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03538</link>
@@ -714,18 +726,6 @@
 <category>electrocatalytic nitrogen reduction</category>
 <category>basal plane activation</category>
 <category>ammonia synthesis</category>
-</item>
-<item>
-<title>Quantitative Characteristics and Microscopic Mechanism of Direct Reduction of CaCO 3 with CH 4 for Syngas Production</title>
-<link>https://doi.org/10.1002/smll.76015</link>
-<guid isPermaLink="false">10.1002/smll.76015</guid>
-<pubDate>Sun, 27 Sep 2026 20:06:20 GMT</pubDate>
-<description>احیای مستقیم CaCO3 با CH4 در حضور کاتالیزور، دمای تجزیه و انرژی فعال‌سازی را کاهش داده و مسیر واکنش فرمات‌محور را پیشنهاد می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 CaCO3 reduction · CH4 · syngas · DFT · reaction mechanism</description>
-<category>CaCO3 reduction</category>
-<category>CH4</category>
-<category>syngas</category>
-<category>DFT</category>
-<category>reaction mechanism</category>
 </item>
 </channel>
 </rss>
