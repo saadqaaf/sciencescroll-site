@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 06:04:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 07:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Aqueous zinc-ion battery energy storage performance reinforced by small-molecule organic electrolyte additives through multifunctional synergistic regulation mechanisms</title>
+<link>https://doi.org/10.1016/j.est.2026.124875</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124875</guid>
+<pubDate>Mon, 28 Sep 2026 07:01:47 GMT</pubDate>
+<description>افزودنی‌های الکترولیت آلی مولکول کوچک با تنظیم هم‌افزایانه چندکاره، عملکرد ذخیره‌سازی انرژی باتری آبی یون روی را تقویت می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · organic electrolyte additive · small molecule · synergistic regulation · energy storage</description>
+<category>aqueous zinc-ion battery</category>
+<category>organic electrolyte additive</category>
+<category>small molecule</category>
+<category>synergistic regulation</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Experimental investigation and simulation of thermal and electrical performance of laser welded aluminium-based busbars for electric vehicle batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124821</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124821</guid>
+<pubDate>Mon, 28 Sep 2026 07:01:39 GMT</pubDate>
+<description>عملکرد حرارتی و الکتریکی باسبارهای آلومینیومی جوش‌کاری‌شده با لیزر برای باتری‌های خودروهای برقی به صورت تجربی و شبیه‌سازی بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 laser welding · aluminium busbars · electric vehicle batteries · thermal performance · electrical performance</description>
+<category>laser welding</category>
+<category>aluminium busbars</category>
+<category>electric vehicle batteries</category>
+<category>thermal performance</category>
+<category>electrical performance</category>
+</item>
+<item>
+<title>Humidity-modulated synthesis of surface-oxidized nickel phosphide‑carbon nanofibers as multi-functional sulfur hosts for lithium‑sulfur batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124869</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124869</guid>
+<pubDate>Mon, 28 Sep 2026 07:01:29 GMT</pubDate>
+<description>نانوالیاف کربنی نیکل فسفید اکسیدشده سطحی با تنظیم رطوبت ساخته شده و به عنوان میزبان گوگرد چندکاره برای باتری‌های لیتیوم-گوگرد به کار می‌رود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · nickel phosphide · carbon nanofibers · sulfur host · humidity-modulated synthesis</description>
+<category>lithium-sulfur battery</category>
+<category>nickel phosphide</category>
+<category>carbon nanofibers</category>
+<category>sulfur host</category>
+<category>humidity-modulated synthesis</category>
+</item>
 <item>
 <title>In Situ Generation of Gel Foam via Heat‐Accelerated Calcium Ion Release From Nano‐CaCO 3 for Lithium‐Ion Battery Fire Suppression and Prevention</title>
 <link>https://doi.org/10.1002/advs.77882</link>
@@ -693,42 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>sodium-ion capacitor</category>
 <category>sea urchin-like</category>
 <category>hybrid capacitor</category>
-</item>
-<item>
-<title>Boosting the supercapacitive performance of NiCo metal-organic frameworks via the synergistic effect of oxygen vacancies and bismuth decoration</title>
-<link>https://doi.org/10.1016/j.est.2026.124775</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124775</guid>
-<pubDate>Fri, 25 Sep 2026 21:02:01 GMT</pubDate>
-<description>این مقاله با استفاده از اثر هم‌افزایی نقص‌های اکسیژن و تزئین بیسموت، عملکرد ابرخازنی چارچوب‌های فلز-آلی NiCo را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NiCo-MOF · oxygen vacancies · bismuth decoration · supercapacitor · synergistic effect</description>
-<category>NiCo-MOF</category>
-<category>oxygen vacancies</category>
-<category>bismuth decoration</category>
-<category>supercapacitor</category>
-<category>synergistic effect</category>
-</item>
-<item>
-<title>Reinforcement learning-based adaptive coordination of solar energy for load, battery, electric vehicle, and hydrogen storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124744</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124744</guid>
-<pubDate>Fri, 25 Sep 2026 21:01:53 GMT</pubDate>
-<description>هماهنگی تطبیقی انرژی خورشیدی برای بار، باتری، خودروی برقی و ذخیره‌سازی هیدروژن با یادگیری تقویتی انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 reinforcement learning · solar energy · battery · electric vehicle · hydrogen storage</description>
-<category>reinforcement learning</category>
-<category>solar energy</category>
-<category>battery</category>
-<category>electric vehicle</category>
-<category>hydrogen storage</category>
-</item>
-<item>
-<title>Shunt-current-aware dynamic simulation of hundreds-kilowatt scale vanadium flow battery modules under constant power operation mode</title>
-<link>https://doi.org/10.1016/j.est.2026.124874</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124874</guid>
-<pubDate>Fri, 25 Sep 2026 21:01:33 GMT</pubDate>
-<description>شبیه‌سازی دینامیکی آگاه از جریان سرگردان برای ماژول‌های باتری جریان وانادیوم در مقیاس صدها کیلووات تحت حالت توان ثابت انجام شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium flow battery · shunt current · dynamic simulation · constant power · module design</description>
-<category>vanadium flow battery</category>
-<category>shunt current</category>
-<category>dynamic simulation</category>
-<category>constant power</category>
-<category>module design</category>
 </item>
 </channel>
 </rss>
