@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 16:03:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 17:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Theoretical investigation on potassium storage performance of MoSe₂ with single/dual-element doping of vanadium and niobium</title>
+<link>https://doi.org/10.1016/j.est.2026.124849</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124849</guid>
+<pubDate>Mon, 28 Sep 2026 17:01:31 GMT</pubDate>
+<description>این مطالعه نظری با DFT عملکرد ذخیره‌سازی پتاسیم در MoSe2 آلایش‌یافته با وانادیم و نیوبیم تک‌عنصری و دوگانه را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 potassium-ion battery · MoSe2 · vanadium doping · niobium doping · DFT</description>
+<category>potassium-ion battery</category>
+<category>MoSe2</category>
+<category>vanadium doping</category>
+<category>niobium doping</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Assessment of energy storage systems using a linguistic spherical fuzzy Hamacher aggregation operators-based group decision making model</title>
+<link>https://doi.org/10.1016/j.est.2026.124601</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124601</guid>
+<pubDate>Mon, 28 Sep 2026 17:01:27 GMT</pubDate>
+<description>این مقاله با مدل تصمیم‌گیری گروهی مبتنی بر عملگرهای تجمیع Hamacher فازی کروی زبانی، سیستم‌های ذخیره انرژی را ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy storage systems · spherical fuzzy sets · Hamacher aggregation · group decision making · linguistic assessment</description>
+<category>energy storage systems</category>
+<category>spherical fuzzy sets</category>
+<category>Hamacher aggregation</category>
+<category>group decision making</category>
+<category>linguistic assessment</category>
+</item>
 <item>
 <title>Recent Progress in High‐Entropy Li‐Rich Cathodes for Advanced Lithium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/smll.75733</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>supramolecular bridging</category>
 <category>LLZAO filler</category>
 <category>trans-phase Li+ conduction</category>
-</item>
-<item>
-<title>Ultra‐Stable Vanadium‐Based Zinc‐Ion Batteries via Complete Confinement of Free Water Into Bound Water by an Organic–Inorganic Viscoelastic Solid Electrolyte</title>
-<link>https://doi.org/10.1002/adfm.78650</link>
-<guid isPermaLink="false">10.1002/adfm.78650</guid>
-<pubDate>Sat, 26 Sep 2026 14:01:32 GMT</pubDate>
-<description>الکترولیت جامد ویسکوالاستیک آلی-معدنی با تبدیل آب آزاد به آب پیوندی، انحلال وانادیم را سرکوب کرده و چرخهپذیری فوقپایدار بیش از ۸۵۰۰ ساعت را در باتری یون-روی وانادیمی فراهم میکند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a viscoelastic organic–inorganic solid electrolyte that converts free water to bound water, suppressing vanadium dissolution and stabilizing zinc anodes. Its significance is enabling ultra-stable vanadium-based zinc-ion batteries with 8500 h symmetric cycling and over 8000 cycles at 1.0 A g⁻¹, offering a practical “water confinement” strategy for durable energy storage.&lt;br&gt;🏷 zinc-ion battery · solid electrolyte · vanadium dissolution · water confinement · bound water</description>
-<category>zinc-ion battery</category>
-<category>solid electrolyte</category>
-<category>vanadium dissolution</category>
-<category>water confinement</category>
-<category>bound water</category>
-</item>
-<item>
-<title>Fluorine from mine to lithium-ion battery: resource, chemistry, and industrial transformation for energy storage</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105558</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105558</guid>
-<pubDate>Sat, 26 Sep 2026 13:01:16 GMT</pubDate>
-<description>این مقاله مروری به بررسی منبع، شیمی و تحول صنعتی فلوئور از معدن تا باتری لیتیوم-یون برای ذخیره انرژی می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 fluorine · lithium-ion battery · resource · chemistry · industrial transformation</description>
-<category>fluorine</category>
-<category>lithium-ion battery</category>
-<category>resource</category>
-<category>chemistry</category>
-<category>industrial transformation</category>
 </item>
 </channel>
 </rss>
