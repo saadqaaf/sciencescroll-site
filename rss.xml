@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 20:01:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 21:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering biomimetic extracellular matrix platforms: Material designs, dynamic cues, and translational perspectives</title>
+<link>https://doi.org/10.1016/j.mser.2026.101298</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101298</guid>
+<pubDate>Mon, 28 Sep 2026 21:01:15 GMT</pubDate>
+<description>این مقاله به مهندسی پلتفرم‌های بیومیمتیک ماتریکس خارج سلولی با طراحی مواد و نشانه‌های دینامیک و چشم‌اندازهای ترجمه‌ای می‌پردازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 biomimetic ECM · material design · dynamic cues · tissue engineering · translational medicine</description>
+<category>biomimetic ECM</category>
+<category>material design</category>
+<category>dynamic cues</category>
+<category>tissue engineering</category>
+<category>translational medicine</category>
+</item>
 <item>
 <title>Adaptive integration of bioelectronics</title>
 <link>https://doi.org/10.1038/s41563-026-02771-8</link>
@@ -714,18 +726,6 @@
 <category>fluorescence imaging</category>
 <category>MRI contrast</category>
 <category>water-soluble probe</category>
-</item>
-<item>
-<title>The Interplay of Curvature, Geometry, and Topology Shapes Tissue Organisation in Epithelial Shells</title>
-<link>https://doi.org/10.1002/advs.77487</link>
-<guid isPermaLink="false">10.1002/advs.77487</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:14 GMT</pubDate>
-<description>مدل‌سازی محاسباتی و تحلیل MDCK cysts نشان می‌دهد که محدودیت‌های هندسی و انحنای پوسته‌های اپیتلیال، سازمان‌یابی سه‌بعدی و آرایش چندضلعی سلول‌ها را در جنین پستانداران هدایت می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 epithelial shells · tissue organization · curvature · MDCK cysts · morphogenesis</description>
-<category>epithelial shells</category>
-<category>tissue organization</category>
-<category>curvature</category>
-<category>MDCK cysts</category>
-<category>morphogenesis</category>
 </item>
 </channel>
 </rss>
