@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 09:01:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 10:01:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Quantitative tracking of sodium plating in hard carbon anodes</title>
+<link>https://doi.org/10.1016/j.esci.2026.100649</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100649</guid>
+<pubDate>Mon, 28 Sep 2026 10:01:19 GMT</pubDate>
+<description>این مقاله به ردیابی کمی آبکاری سدیم در آندهای کربن سخت می‌پردازد و بینش‌هایی برای باتری‌های یون-سدیم ارائه می‌دهد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium plating · hard carbon · anode · quantitative tracking · sodium-ion battery</description>
+<category>sodium plating</category>
+<category>hard carbon</category>
+<category>anode</category>
+<category>quantitative tracking</category>
+<category>sodium-ion battery</category>
+</item>
+<item>
+<title>Toward practical all-solid-state lithium–sulfur batteries: from reaction mechanisms to engineering strategies</title>
+<link>https://doi.org/10.1039/d6cs00312e</link>
+<guid isPermaLink="false">10.1039/d6cs00312e</guid>
+<pubDate>Mon, 28 Sep 2026 10:01:15 GMT</pubDate>
+<description>این مرور چارچوبی جامع برای باتری‌های لیتیوم-سولفور تمام‌حالت‌جامد عملی ارائه می‌دهد و مکانیزم‌های واکنش سولفور، چالش‌های سطح مشترک و راهبردهای مهندسی را به هم مرتبط می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely bridges fundamental sulfur reaction mechanisms with practical engineering strategies for all-solid-state lithium–sulfur batteries. Its significance lies in providing an integrated framework that connects interfacial challenges to scalable design solutions, guiding the field toward high-performance, commercially viable solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur battery · reaction mechanism · interfacial challenge · engineering strategy</description>
+<category>all-solid-state battery</category>
+<category>lithium-sulfur battery</category>
+<category>reaction mechanism</category>
+<category>interfacial challenge</category>
+<category>engineering strategy</category>
+</item>
 <item>
 <title>Aqueous zinc-ion battery energy storage performance reinforced by small-molecule organic electrolyte additives through multifunctional synergistic regulation mechanisms</title>
 <link>https://doi.org/10.1016/j.est.2026.124875</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>modification strategies</category>
 <category>energy storage</category>
 <category>synergistic design</category>
-</item>
-<item>
-<title>Interpretable physics-guided neural networks for state of health estimation of lithium-ion battery</title>
-<link>https://doi.org/10.1016/j.est.2026.124768</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124768</guid>
-<pubDate>Fri, 25 Sep 2026 21:02:13 GMT</pubDate>
-<description>توسعه شبکه‌های عصبی هدایت‌شده با فیزیک و تفسیرپذیر برای تخمین وضعیت سلامت باتری لیتیوم-یون.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · physics-guided neural network · interpretable model · battery degradation</description>
-<category>lithium-ion battery</category>
-<category>state of health</category>
-<category>physics-guided neural network</category>
-<category>interpretable model</category>
-<category>battery degradation</category>
-</item>
-<item>
-<title>Construction of sea urchin-like NiCo-bimetallic selenide/N-dope carbon composite for high-performance sodium ion hybrid capacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.124882</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124882</guid>
-<pubDate>Fri, 25 Sep 2026 21:02:07 GMT</pubDate>
-<description>ساخت کامپوزیت NiCo-bimetallic selenide/N-doped carbon با مورفولوژی خارپشت دریایی برای ابرخازن‌های هیبریدی یون سدیم با عملکرد بالا.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NiCo selenide · N-doped carbon · sodium-ion capacitor · sea urchin-like · hybrid capacitor</description>
-<category>NiCo selenide</category>
-<category>N-doped carbon</category>
-<category>sodium-ion capacitor</category>
-<category>sea urchin-like</category>
-<category>hybrid capacitor</category>
 </item>
 </channel>
 </rss>
