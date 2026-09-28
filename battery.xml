@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:05:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 16:03:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Recent Progress in High‐Entropy Li‐Rich Cathodes for Advanced Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.75733</link>
+<guid isPermaLink="false">10.1002/smll.75733</guid>
+<pubDate>Mon, 28 Sep 2026 16:03:11 GMT</pubDate>
+<description>این مرور، پیشرفت کاتدهای غنی از لیتیوم با آنتروپی بالا را در باتری‌های لیتیوم-یون، شامل ساختار، استراتژی‌های طراحی و نقش یادگیری ماشین، جمع‌بندی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates recent progress in high-entropy Li-rich cathodes, addressing gaps in design principles, entropy-driven mechanisms, and structure–performance relationships. It highlights emerging strategies like multi-element doping, entropy-assisted surface engineering, and machine learning acceleration, positioning entropy engineering as a general paradigm for next-generation high-energy-density lithium-ion batteries.&lt;br&gt;🏷 high-entropy cathode · Li-rich cathode · lithium-ion battery · entropy engineering · machine learning</description>
+<category>high-entropy cathode</category>
+<category>Li-rich cathode</category>
+<category>lithium-ion battery</category>
+<category>entropy engineering</category>
+<category>machine learning</category>
+</item>
 <item>
 <title>Self-adaptive layered oxide cathodes driven by charge reconfiguration for sodium-ion batteries</title>
 <link>https://doi.org/10.1038/s41467-026-78040-8</link>
@@ -717,18 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>resource</category>
 <category>chemistry</category>
 <category>industrial transformation</category>
-</item>
-<item>
-<title>Asymmetric Sulfonated Nanofibrous Separator for Simultaneously Stabilizing Zn Anodes and Accelerating Cathode Kinetics</title>
-<link>https://doi.org/10.1002/adma.75145</link>
-<guid isPermaLink="false">10.1002/adma.75145</guid>
-<pubDate>Sat, 26 Sep 2026 11:01:29 GMT</pubDate>
-<description>جداکننده نامتقارن نانوالیاف سولفونه با تنظیم آب در دو سمت، آند Zn را پایدار کرده و سینتیک کاتد را در باتری آبی روی تسریع می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an asymmetric sulfonated nanofibrous separator that creates distinct water-poor and water-rich interfaces, simultaneously suppressing Zn dendrites and accelerating cathode kinetics. Its significance is enabling stable Zn anodes (6850 h) and high-capacity pouch cells (98.2% retention after 250 cycles), advancing practical aqueous zinc battery deployment.&lt;br&gt;🏷 zinc metal battery · asymmetric separator · sulfonated nanofiber · desolvation · Zn anode</description>
-<category>zinc metal battery</category>
-<category>asymmetric separator</category>
-<category>sulfonated nanofiber</category>
-<category>desolvation</category>
-<category>Zn anode</category>
 </item>
 </channel>
 </rss>
