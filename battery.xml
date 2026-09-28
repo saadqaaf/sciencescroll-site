@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 13:01:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 14:02:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Escaping the Polymerization-Kinetics Trap in Ether Electrolytes for Durable Silicon Interphases</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01885</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01885</guid>
+<pubDate>Mon, 28 Sep 2026 14:02:23 GMT</pubDate>
+<description>افزودن ۰٫۲ مولار LiNO3 به الکترولیت اتری، تله سینتیک پلیمریزاسیون تری‌اکسان را مهار کرده و با پایدارسازی اینترفاز، حفظ ۸۱٫۱٪ ظرفیت آند Si/C پس از ۴۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying a polymerization-kinetics trap: stronger polymerization in trioxane electrolytes worsens silicon interphase durability by depleting species prematurely. Adding LiNO3 suppresses early trioxane activation while enabling nitrate-derived passivation, yielding a thinner, coherent interphase. This kinetic regulation significantly improves cycling stability, offering a new design principle for durable silicon anodes.&lt;br&gt;🏷 silicon anode · ether electrolyte · solid electrolyte interphase · LiNO3 · polymerization kinetics</description>
+<category>silicon anode</category>
+<category>ether electrolyte</category>
+<category>solid electrolyte interphase</category>
+<category>LiNO3</category>
+<category>polymerization kinetics</category>
+</item>
+<item>
+<title>Low‐Concentration Hydrated Eutectic Electrolyte Design for High‐Performance Aqueous K‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.78783</link>
+<guid isPermaLink="false">10.1002/adfm.78783</guid>
+<pubDate>Mon, 28 Sep 2026 14:02:03 GMT</pubDate>
+<description>الکترولیت اوتکتیک هیدراته کم‌غلظت 2.45 m KFSI-Bds-H2O با پنجره پایداری ۳.۷ ولت، باتری یون پتاسیم آبی با چگالی انرژی ۱۰۰ وات‌ساعت بر کیلوگرم و پایداری ۲۰۰۰ چرخه ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a low-concentration hydrated eutectic electrolyte (2.45 m KFSI-Bds-H₂O) for aqueous K-ion batteries, achieving a wide 3.7 V stability window, low viscosity, high conductivity, and non-flammability. Bds regulates hydrogen bonding and K⁺ solvation, enabling 100 Wh kg⁻¹ energy density, 75.1% retention over 2000 cycles, and operation from −20 to 60°C—offering a low-cost, safe, long-life strategy.&lt;br&gt;🏷 aqueous K-ion battery · eutectic electrolyte · KFSI · electrochemical stability window · energy storage</description>
+<category>aqueous K-ion battery</category>
+<category>eutectic electrolyte</category>
+<category>KFSI</category>
+<category>electrochemical stability window</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>A Fluidic and Sodiophilic Liquid Metal Current Collector for Dendrite‐Free and Stable Anode‐Free Sodium Metal Batteries</title>
 <link>https://doi.org/10.1002/aenm.71640</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>battery-type electrode</category>
 <category>hybrid supercapacitor</category>
 <category>flower-like</category>
-</item>
-<item>
-<title>A comprehensive review of reconfigurable battery systems: Architecture, control, and reliability perspectives</title>
-<link>https://doi.org/10.1016/j.est.2026.124551</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124551</guid>
-<pubDate>Sat, 26 Sep 2026 07:01:29 GMT</pubDate>
-<description>این مرور جامع، سیستم‌های باتری قابل بازآرایی را از منظر معماری، کنترل و قابلیت اطمینان بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 reconfigurable battery · battery architecture · control strategy · reliability · battery management</description>
-<category>reconfigurable battery</category>
-<category>battery architecture</category>
-<category>control strategy</category>
-<category>reliability</category>
-<category>battery management</category>
-</item>
-<item>
-<title>Periodic gradient flow fields intensify mass transfer in vanadium redox flow batteries through enhanced under-rib convection</title>
-<link>https://doi.org/10.1016/j.est.2026.124832</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124832</guid>
-<pubDate>Sat, 26 Sep 2026 07:01:18 GMT</pubDate>
-<description>این مقاله نشان می‌دهد میدان‌های جریان گرادیانی دوره‌ای با تقویت همرفت زیر-ریب، انتقال جرم را در باتری‌های جریان ردوکس وانادیوم تشدید می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · gradient flow field · under-rib convection · mass transfer · flow field design</description>
-<category>vanadium redox flow battery</category>
-<category>gradient flow field</category>
-<category>under-rib convection</category>
-<category>mass transfer</category>
-<category>flow field design</category>
 </item>
 </channel>
 </rss>
