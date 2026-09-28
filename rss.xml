@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 02:01:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 03:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electronegativity-guided construction of bimetallic centers on black phosphorus for CO2-to-C2 electroreduction: A DFT study</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127568</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127568</guid>
+<pubDate>Mon, 28 Sep 2026 03:01:08 GMT</pubDate>
+<description>مطالعه DFT نشان می‌دهد که الکترونگاتیویته در ساخت مراکز دو فلزی روی فسفر سیاه، الکتروکاهش CO2 به C2 را هدایت می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 black phosphorus · bimetallic centers · CO2 electroreduction · C2 products · DFT</description>
+<category>black phosphorus</category>
+<category>bimetallic centers</category>
+<category>CO2 electroreduction</category>
+<category>C2 products</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Fe7Se8/Cu3Se2 Heterostructure Regulates Active Hydrogen Generation for Efficient Electrocatalytic Nitrate Reduction to Ammonia</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127567</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127567</guid>
+<pubDate>Mon, 28 Sep 2026 03:01:05 GMT</pubDate>
+<description>ساختار ناهمگون Fe7Se8/Cu3Se2 با تنظیم تولید هیدروژن فعال، احیای الکتروکاتالیستی نیترات به آمونیاک را کارآمد می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · Fe7Se8/Cu3Se2 · heterostructure · active hydrogen</description>
+<category>nitrate reduction</category>
+<category>ammonia synthesis</category>
+<category>Fe7Se8/Cu3Se2</category>
+<category>heterostructure</category>
+<category>active hydrogen</category>
+</item>
 <item>
 <title>Aqueous zinc metal anodes: coupled degradation, landmark advances, and multiscale materials design</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101847</link>
@@ -702,30 +726,6 @@
 <category>self-heating</category>
 <category>phase-change material</category>
 <category>glucose management</category>
-</item>
-<item>
-<title>Multimodal Imaging of Hypoxia, Metabolism and pH in Feline Sarcoma Using Hyperpolarized 13 C MRI and PET</title>
-<link>https://doi.org/10.1002/advs.77830</link>
-<guid isPermaLink="false">10.1002/advs.77830</guid>
-<pubDate>Sun, 27 Sep 2026 20:03:06 GMT</pubDate>
-<description>پروتکل همزمان PET/MRI با hyperpolarized 13C، hypoxia و pH و متابولیسم سارکوم گربه را نقشه‌برداری کرده و ناهمگونی تومور را نشان می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hyperpolarized 13C MRI · PET/MRI · tumor hypoxia · extracellular pH · sarcoma metabolism</description>
-<category>hyperpolarized 13C MRI</category>
-<category>PET/MRI</category>
-<category>tumor hypoxia</category>
-<category>extracellular pH</category>
-<category>sarcoma metabolism</category>
-</item>
-<item>
-<title>Ilexoside K Ameliorates Atherosclerosis by Suppressing CD72 hi Macrophages and Blocking CXCL12–CXCR4 Axis to Inhibit Endothelial Pyroptosis</title>
-<link>https://doi.org/10.1002/advs.77982</link>
-<guid isPermaLink="false">10.1002/advs.77982</guid>
-<pubDate>Sun, 27 Sep 2026 20:03:02 GMT</pubDate>
-<description>Ilexoside K با مهار ماکروفاژهای CD72hi و محور CXCL12–CXCR4، pyroptosis اندوتلیالی را کاهش داده و آترواسکلروز را در موش‌های ApoE−/− بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Ilexoside K · CD72hi macrophages · CXCL12-CXCR4 axis · endothelial pyroptosis · atherosclerosis</description>
-<category>Ilexoside K</category>
-<category>CD72hi macrophages</category>
-<category>CXCL12-CXCR4 axis</category>
-<category>endothelial pyroptosis</category>
-<category>atherosclerosis</category>
 </item>
 </channel>
 </rss>
