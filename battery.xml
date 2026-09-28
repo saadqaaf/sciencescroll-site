@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 14:02:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 15:05:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Self-adaptive layered oxide cathodes driven by charge reconfiguration for sodium-ion batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78040-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-78040-8</guid>
+<pubDate>Mon, 28 Sep 2026 15:03:04 GMT</pubDate>
+<description>کاتد اکسید لایه‌ای خودتنظیم با بازآرایی بار برای باتری سدیم-یون، ظرفیت 82% را پس از 1000 چرخه حفظ می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a self-adaptive layered oxide cathode whose tunable interlayer distance buffers stress via charge reconfiguration, yielding 82% capacity retention after 1000 cycles at 2 C. It enables durable, high-rate sodium-ion batteries, offering a pathway to sustainable energy storage through mechanically robust, dynamically volume-adjusting cathode materials.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · charge reconfiguration · self-adaptive volume · cycling stability</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>charge reconfiguration</category>
+<category>self-adaptive volume</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Soft-Templated Carbon Models Elucidate the Anomalous Increase of Capacitance in Nanopores</title>
+<link>https://doi.org/10.1021/acsnano.6c11953</link>
+<guid isPermaLink="false">10.1021/acsnano.6c11953</guid>
+<pubDate>Mon, 28 Sep 2026 15:02:16 GMT</pubDate>
+<description>این مقاله با مدل‌سازی soft-templating و پتانسیل بین‌اتمی یادگیری ماشین نشان می‌دهد که در بی‌نظمی ثابت، کاهش اندازه حفره زیر ۱ نانومتر ظرفیت ابرخازن را افزایش می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a machine-learning-powered soft-templating protocol to generate disordered carbon models with controlled pore sizes, isolating confinement effects from disorder. Significance: constant-potential simulations show capacitance rises as pores shrink below 1 nm at fixed disorder, reconciling confinement- and disorder-based views and offering unified design principles for supercapacitors.&lt;br&gt;🏷 nanoporous carbon · supercapacitor · soft-templating · machine-learning potential · confinement capacitance</description>
+<category>nanoporous carbon</category>
+<category>supercapacitor</category>
+<category>soft-templating</category>
+<category>machine-learning potential</category>
+<category>confinement capacitance</category>
+</item>
+<item>
+<title>Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.1297472</link>
+<guid isPermaLink="false">10.1002/anie.1297472</guid>
+<pubDate>Mon, 28 Sep 2026 15:02:10 GMT</pubDate>
+<description>این مقاله با افزودنی TFPP و پروتکل تشکیل کنترل‌شده، تشکیل CEI غنی از LiF را در باتری لیتیوم-یونی با الکترولیت ژل پلیمری تقویت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work is novel in using tris(4-fluorophenyl)phosphine (TFPP) with a tailored formation protocol to control residual monomer degradation in in-situ gel polymer electrolytes. TFPP preferentially decomposes before monomer oxidation, forming a LiF-rich inner cathode–electrolyte interphase. This suppresses side reactions and enables a 2 Ah pouch cell with 303 Wh kg⁻¹ and 82.8% retention after 150 cycles under lean electrolyte.&lt;br&gt;🏷 gel polymer electrolyte · cathode-electrolyte interphase · lithium-ion battery · TFPP additive · high-nickel cathode</description>
+<category>gel polymer electrolyte</category>
+<category>cathode-electrolyte interphase</category>
+<category>lithium-ion battery</category>
+<category>TFPP additive</category>
+<category>high-nickel cathode</category>
+</item>
 <item>
 <title>Escaping the Polymerization-Kinetics Trap in Ether Electrolytes for Durable Silicon Interphases</title>
 <link>https://doi.org/10.1021/acsenergylett.6c01885</link>
@@ -693,42 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>sulfonated nanofiber</category>
 <category>desolvation</category>
 <category>Zn anode</category>
-</item>
-<item>
-<title>Central‐Atom‐Differentiated Solvent Chemistry Enables Anion‐Reinforced Solvation for Ultra‐Long Cycling Ah‐Level Sodium‐Ion Pouch Cells</title>
-<link>https://doi.org/10.1002/adma.75170</link>
-<guid isPermaLink="false">10.1002/adma.75170</guid>
-<pubDate>Sat, 26 Sep 2026 11:01:21 GMT</pubDate>
-<description>افزودن ethylene sulfite به الکترولیت کربناته، سولواسیون تقویت‌شده با آنیون را ایجاد کرده و پوچ سل سدیم-یون با 81.29% ظرفیت پس از 3500 چرخه می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Introducing ethylene sulfite into carbonate electrolytes differentiates solvent central-atom chemistry (sulfur vs. carbon), rebalancing solvent-anion competition to reinforce PF₆⁻ in Na⁺ solvation. This lowers desolvation barriers and forms inorganic-rich interphases on both electrodes, enabling a 2.34 Ah pouch cell to retain 81.29% capacity after 3500 cycles and operate from −20°C to 50°C.&lt;br&gt;🏷 sodium-ion battery · ethylene sulfite · solvation structure · pouch cell · interphase</description>
-<category>sodium-ion battery</category>
-<category>ethylene sulfite</category>
-<category>solvation structure</category>
-<category>pouch cell</category>
-<category>interphase</category>
-</item>
-<item>
-<title>Desolvation Kinetics Governs Propylene Carbonate Co‐Intercalation in Graphite Anodes</title>
-<link>https://doi.org/10.1002/adma.75125</link>
-<guid isPermaLink="false">10.1002/adma.75125</guid>
-<pubDate>Sat, 26 Sep 2026 11:01:13 GMT</pubDate>
-<description>هم‌درآمیزی پروپیلن کربنات در آند گرافیتی به‌عنوان نتیجه سینتیکی سیستمی ناشی از رقابت بین درآمیزی Li+ و حلال گزارش می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work reframes PC co-intercalation in graphite as a system-level kinetic competition, not a fixed EC–PC disparity. It introduces the &amp;quot;lowest achievable potential&amp;quot; descriptor linking solvation, interphase, and operating conditions. Significance: a unified kinetic framework enabling rational electrolyte, binder, and graphite design to suppress solvent co-intercalation and stabilize graphite anodes.&lt;br&gt;🏷 graphite anode · propylene carbonate · solvent co-intercalation · desolvation kinetics · lithium-ion battery</description>
-<category>graphite anode</category>
-<category>propylene carbonate</category>
-<category>solvent co-intercalation</category>
-<category>desolvation kinetics</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Cu-dominant CuMoO4@CoMoO4 flower-like heterostructure as a high-capacity battery-type electrode for hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.124836</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124836</guid>
-<pubDate>Sat, 26 Sep 2026 07:01:32 GMT</pubDate>
-<description>این مقاله یک ناهم‌ساختار گل‌مانند CuMoO4@CoMoO4 با غالبیت مس را به عنوان الکترود باتری‌گونه با ظرفیت بالا برای ابرخازن‌های هیبریدی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 CuMoO4@CoMoO4 · heterostructure · battery-type electrode · hybrid supercapacitor · flower-like</description>
-<category>CuMoO4@CoMoO4</category>
-<category>heterostructure</category>
-<category>battery-type electrode</category>
-<category>hybrid supercapacitor</category>
-<category>flower-like</category>
 </item>
 </channel>
 </rss>
