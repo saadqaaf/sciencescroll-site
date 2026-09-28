@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 07:01:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 08:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Deep Learning-Enhanced All-Nanofiber Sensors for Pressure–Temperature Sensing and Stimulus Discrimination</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03538</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03538</guid>
+<pubDate>Mon, 28 Sep 2026 08:01:01 GMT</pubDate>
+<description>سنسور تمام‌نانوالیاف با یادگیری عمیق برای جداسازی همزمان فشار و دما و تشخیص محرک‌ها در ربات‌های کمک‌کننده به سالمندان با دقت ۹۷.۷۸٪ ارائه شده است.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 all-nanofiber sensor · pressure-temperature sensing · deep learning · stimulus discrimination · elderly-assistive robotics</description>
+<category>all-nanofiber sensor</category>
+<category>pressure-temperature sensing</category>
+<category>deep learning</category>
+<category>stimulus discrimination</category>
+<category>elderly-assistive robotics</category>
+</item>
 <item>
 <title>A scalable phase-change bionanocarbon hybrid-bonded paper membrane for simultaneous hygroscopic buffering, high thermal effusivity, and ventilation energy management</title>
 <link>https://doi.org/10.1016/j.est.2026.124835</link>
@@ -714,18 +726,6 @@
 <category>syngas</category>
 <category>DFT</category>
 <category>reaction mechanism</category>
-</item>
-<item>
-<title>Dual‐Confinement Structure Design Enables Synergistic Modulation of Local Microenvironment and Electronic Structure for Enhanced CO 2 Electroreduction to CO</title>
-<link>https://doi.org/10.1002/smll.75992</link>
-<guid isPermaLink="false">10.1002/smll.75992</guid>
-<pubDate>Sun, 27 Sep 2026 20:06:15 GMT</pubDate>
-<description>ساختار دوگانه محدودکننده با نانولوله کربنی و نیکل در کربن دوپ‌شده، بازده فارادی CO را به ۹۹٪ در احیای CO2 می‌رساند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · dual confinement · nickel nanoparticle · carbon nanotube · Faradaic efficiency</description>
-<category>CO2 electroreduction</category>
-<category>dual confinement</category>
-<category>nickel nanoparticle</category>
-<category>carbon nanotube</category>
-<category>Faradaic efficiency</category>
 </item>
 </channel>
 </rss>
