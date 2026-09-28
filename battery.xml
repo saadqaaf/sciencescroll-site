@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 23:00:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 00:01:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Aqueous zinc metal anodes: coupled degradation, landmark advances, and multiscale materials design</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101847</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101847</guid>
+<pubDate>Mon, 28 Sep 2026 00:01:04 GMT</pubDate>
+<description>این مقاله مروری، تخریب جفت‌شده و پیشرفت‌های شاخص آندهای فلزی روی در باتری‌های آبی روی و طراحی مواد چندمقیاسی را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 zinc metal anode · aqueous zinc battery · dendrite growth · multiscale design · anode degradation</description>
+<category>zinc metal anode</category>
+<category>aqueous zinc battery</category>
+<category>dendrite growth</category>
+<category>multiscale design</category>
+<category>anode degradation</category>
+</item>
 <item>
 <title>Synergistic Spatiotemporal Regulation of Li + ‐Flux During Formation Enables Stable Solid‐Electrolyte Interphase for Ah‐Level Si/C Anode‐Based Quasi‐Solid‐State Lithium Batteries</title>
 <link>https://doi.org/10.1002/smll.76038</link>
@@ -717,18 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>conversion cathode</category>
 <category>particle size</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>Crystallinity Regulation of Ionic Liquid‐Based Quasi‐Solid‐State Polymer Electrolytes for Long‐Lifespan Flexible Transparent Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.75948</link>
-<guid isPermaLink="false">10.1002/smll.75948</guid>
-<pubDate>Fri, 25 Sep 2026 20:06:01 GMT</pubDate>
-<description>این پژوهش با تنظیم بلورینگی الکترولیت پلیمری شبه‌جامد بر پایه مایع یونی و PMMA/PVDF-HFP، باتری لیتیوم-یونی انعطاف‌پذیر و شفاف با شفافیت بالا و عمر چرخه طولانی می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers a crystallinity regulation strategy for ionic liquid-based quasi-solid polymer electrolytes, tuning PMMA/PVDF-HFP ratios to co-optimize transparency and ionic transport. The optimal membrane achieves 88.2% transmittance, 1.91×10⁻⁴ S cm⁻¹ conductivity, and 0.55 Li⁺ transference number, enabling flexible transparent lithium-ion batteries with 300-cycle lifespan, 61.2% transparency, and 44.8 µWh cm⁻² energy density—advancing high-performance flexible transparent energy storage.&lt;br&gt;🏷 quasi-solid electrolyte · ionic liquid · crystallinity regulation · flexible transparent battery · PMMA</description>
-<category>quasi-solid electrolyte</category>
-<category>ionic liquid</category>
-<category>crystallinity regulation</category>
-<category>flexible transparent battery</category>
-<category>PMMA</category>
 </item>
 </channel>
 </rss>
