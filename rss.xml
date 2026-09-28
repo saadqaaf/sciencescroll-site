@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 22:01:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An alkaline salting-out liquid membrane enabling ultra-stable alkaline zinc-iron flow battery</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105562</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105562</guid>
+<pubDate>Mon, 28 Sep 2026 23:01:16 GMT</pubDate>
+<description>این مقاله یک غشای مایع قلیایی بر پایه نمک‌زدایی را برای باتری جریانی روی-آهن قلیایی فوق‌پایدار ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-iron flow battery · alkaline membrane · salting-out · liquid membrane · ultra-stable</description>
+<category>zinc-iron flow battery</category>
+<category>alkaline membrane</category>
+<category>salting-out</category>
+<category>liquid membrane</category>
+<category>ultra-stable</category>
+</item>
+<item>
+<title>Tandem Catalysis of Al-Rich Cu/FAU-EMT Intergrowth Zeolites for Boosting the Selective Catalytic Reduction of NOx with Ammonia</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127571</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127571</guid>
+<pubDate>Mon, 28 Sep 2026 23:01:12 GMT</pubDate>
+<description>این مقاله کاتالیزوری دومرحله‌ای با زئولیت‌های درهم‌رشته Cu/FAU-EMT را برای کاهش انتخابی NOx با آمونیاک معرفی می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Cu/FAU-EMT zeolite · tandem catalysis · NH3-SCR · NOx reduction · intergrowth zeolite</description>
+<category>Cu/FAU-EMT zeolite</category>
+<category>tandem catalysis</category>
+<category>NH3-SCR</category>
+<category>NOx reduction</category>
+<category>intergrowth zeolite</category>
+</item>
+<item>
+<title>Pickering-enabled ice-templated self-floating photocatalysts for hydrogen evolution</title>
+<link>https://doi.org/10.1007/s42114-026-02098-7</link>
+<guid isPermaLink="false">10.1007/s42114-026-02098-7</guid>
+<pubDate>Mon, 28 Sep 2026 23:01:09 GMT</pubDate>
+<description>این مقاله با استفاده از امولسیون پیکرینگ و قالب‌گیری یخی، فتوکاتالیست‌های خودشناور برای تولید هیدروژن توسعه می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Pickering emulsion · ice templating · self-floating photocatalyst · hydrogen evolution · photocatalysis</description>
+<category>Pickering emulsion</category>
+<category>ice templating</category>
+<category>self-floating photocatalyst</category>
+<category>hydrogen evolution</category>
+<category>photocatalysis</category>
+</item>
 <item>
 <title>Metal-based photosensitizers for organelle-targeted photodynamic therapy: From ligand design principles to antitumor immunity</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218606</link>
@@ -690,42 +726,6 @@
 <category>La doping</category>
 <category>phonon scattering</category>
 <category>zT</category>
-</item>
-<item>
-<title>Bio‐Memristor Based on Clinical Bile Samples: A Proof‐of‐Concept Pilot Study for Detection of Gallbladder Cancer</title>
-<link>https://doi.org/10.1002/advs.77893</link>
-<guid isPermaLink="false">10.1002/advs.77893</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:26 GMT</pubDate>
-<description>یک bio-memristor مبتنی بر نمونه‌های بالینی صفرا با ساختار Ag/bile/FTO ساخته شد که رفتار resistive switching آن بین افراد سالم، سنگ کیسه صفرا و سرطان کیسه صفرا تفاوت سیستماتیک نشان می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 bio-memristor · gallbladder cancer · bile · resistive switching · cancer detection</description>
-<category>bio-memristor</category>
-<category>gallbladder cancer</category>
-<category>bile</category>
-<category>resistive switching</category>
-<category>cancer detection</category>
-</item>
-<item>
-<title>Assembled Hyaluronic Acid Therapeutics for Targeting M1 Macrophages and Regulating Immune Homeostasis for Ulcerative Colitis Treatment</title>
-<link>https://doi.org/10.1002/advs.77872</link>
-<guid isPermaLink="false">10.1002/advs.77872</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:23 GMT</pubDate>
-<description>نانوساختارهای خودآرا بر پایه hyaluronic acid بدون دارو، با پاکسازی ROS و مهار NF-κB، فعال‌سازی M1 ماکروفاژها را کاهش داده و هموستاز ایمنی را در کولیت اولسراتیو بازتنظیم می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hyaluronic acid · M1 macrophages · ulcerative colitis · ROS scavenging · immune homeostasis</description>
-<category>hyaluronic acid</category>
-<category>M1 macrophages</category>
-<category>ulcerative colitis</category>
-<category>ROS scavenging</category>
-<category>immune homeostasis</category>
-</item>
-<item>
-<title>A Spatiotemporal Single‐Cell Atlas Uncovers Dysregulated ECM Dynamics and Septal Remodeling Arrest in Human Ventricular Septal Defects</title>
-<link>https://doi.org/10.1002/advs.78016</link>
-<guid isPermaLink="false">10.1002/advs.78016</guid>
-<pubDate>Mon, 28 Sep 2026 16:02:20 GMT</pubDate>
-<description>اطلس تک‌سلولی و فضایی human VSD نشان می‌دهد که اختلال در شبکه ECM و کاهش سیگنالینگ THBS1-integrin، برنامه EndoMT را مختل کرده و منجر به توقف بازسازی سپتوم و نقص مادرزادی می‌شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ventricular septal defect · single-cell atlas · ECM dynamics · septal remodeling · EndoMT</description>
-<category>ventricular septal defect</category>
-<category>single-cell atlas</category>
-<category>ECM dynamics</category>
-<category>septal remodeling</category>
-<category>EndoMT</category>
 </item>
 </channel>
 </rss>

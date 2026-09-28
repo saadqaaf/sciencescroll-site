@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 22:01:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An alkaline salting-out liquid membrane enabling ultra-stable alkaline zinc-iron flow battery</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105562</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105562</guid>
+<pubDate>Mon, 28 Sep 2026 23:01:16 GMT</pubDate>
+<description>این مقاله یک غشای مایع قلیایی بر پایه نمک‌زدایی را برای باتری جریانی روی-آهن قلیایی فوق‌پایدار ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-iron flow battery · alkaline membrane · salting-out · liquid membrane · ultra-stable</description>
+<category>zinc-iron flow battery</category>
+<category>alkaline membrane</category>
+<category>salting-out</category>
+<category>liquid membrane</category>
+<category>ultra-stable</category>
+</item>
 <item>
 <title>Emerging Conversion Chemistry for High-Energy Electrolytic Zinc–Manganese Batteries: Beyond Intercalation</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00438</link>
@@ -717,18 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>microporosity</category>
 <category>succinonitrile</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>Hofmeister‐Regulated Amide‐Protonated Hydrogel Enables Organo‐Interhalogen Conversion‐Type Quasi‐Solid‐State Zn Batteries With Practical Iodine Loadings</title>
-<link>https://doi.org/10.1002/anie.5159694</link>
-<guid isPermaLink="false">10.1002/anie.5159694</guid>
-<pubDate>Sat, 26 Sep 2026 15:02:05 GMT</pubDate>
-<description>الکترولیت هیدروژل پلی‌آکریل‌آمید پروتونه‌شده با تنظیم هافمایستر دوگانه‌آنیونی، سرگردانی پلی‌یدید و هیدرولیز I+ را سرکوب کرده و باتری Zn-ید چهارالکترونی شبه‌جامد با بارگذاری عملی ید ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces a Hofmeister-regulated amide-protonated pPAM hydrogel electrolyte that suppresses polyiodide shuttling and I⁺ hydrolysis in organo-interhalogen-mediated four-electron Zn–iodine batteries. It enables practical iodine loadings (28.3 mg cm⁻², 9.95 mAh cm⁻²), over 2000 cycles, and Ah-level pouch cells (305 Wh kg⁻¹), establishing a design principle for high-loading quasi-solid-state 4eZIBs.&lt;br&gt;🏷 Zn battery · iodine conversion · Hofmeister effect · hydrogel electrolyte · polyiodide shuttling</description>
-<category>Zn battery</category>
-<category>iodine conversion</category>
-<category>Hofmeister effect</category>
-<category>hydrogel electrolyte</category>
-<category>polyiodide shuttling</category>
 </item>
 </channel>
 </rss>
