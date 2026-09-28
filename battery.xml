@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 11:01:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 12:01:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Fluidic and Sodiophilic Liquid Metal Current Collector for Dendrite‐Free and Stable Anode‐Free Sodium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71640</link>
+<guid isPermaLink="false">10.1002/aenm.71640</guid>
+<pubDate>Mon, 28 Sep 2026 12:01:32 GMT</pubDate>
+<description>کلکتور جریان مایع Ga-In-Sn سدیم‌دوست، رسوب بدون دندریت Na را ممکن کرده و باتری سدیم بدون آند با Na3V2(PO4)3 را پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a scalable Ga-In-Sn liquid metal-modified copper current collector (LM@Cu) that leverages intrinsic fluidity and sodiophilicity to lower Na nucleation barriers, enabling uniform, dendrite-free Na deposition in anode-free sodium batteries. It forms a stable NaF-rich interphase, achieving ~80% capacity retention after 100 cycles versus failure within 30 cycles for bare Cu, offering a promising strategy for stable, high-energy-density AFSMBs.&lt;br&gt;🏷 anode-free sodium battery · liquid metal current collector · dendrite-free deposition · sodiophilic Ga-In-Sn · NaF-rich SEI</description>
+<category>anode-free sodium battery</category>
+<category>liquid metal current collector</category>
+<category>dendrite-free deposition</category>
+<category>sodiophilic Ga-In-Sn</category>
+<category>NaF-rich SEI</category>
+</item>
+<item>
+<title>Synergetic Regulation of Enthalpy‐Entropy via Dipole Interactions Enabling Textured and Low‐Temperature Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71655</link>
+<guid isPermaLink="false">10.1002/aenm.71655</guid>
+<pubDate>Mon, 28 Sep 2026 12:01:23 GMT</pubDate>
+<description>الکترولیت اوتکتیک آبی با اثرات آنتالپی-آنتروپی هم‌افزا، رسوب Zn (002) و باتری‌های یون روی آبی را در دمای پایین تا -50°C پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a hydrated eutectic high-entropy electrolyte coupling diverse solvation with interfacial dipole regulation, synergistically tuning enthalpy and entropy. It enables organic-rich gradient interphases, suppresses water activity, and induces Zn(002) deposition, achieving ultra-stable cycling from 25°C to −50°C. This offers a promising strategy for durable wide-temperature aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · high-entropy electrolyte · dipole interactions · Zn (002) deposition · low-temperature electrolyte</description>
+<category>aqueous zinc-ion battery</category>
+<category>high-entropy electrolyte</category>
+<category>dipole interactions</category>
+<category>Zn (002) deposition</category>
+<category>low-temperature electrolyte</category>
+</item>
 <item>
 <title>Multi‐Li + Coordination for Superior Room‐Temperature Ionic Conductivity in PEO Solid Electrolytes</title>
 <link>https://doi.org/10.1002/adma.75158</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>under-rib convection</category>
 <category>mass transfer</category>
 <category>flow field design</category>
-</item>
-<item>
-<title>Hydrogel Electrolytes for Solvation and Interfacial Regulation in Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/sstr.70608</link>
-<guid isPermaLink="false">10.1002/sstr.70608</guid>
-<pubDate>Sat, 26 Sep 2026 07:01:07 GMT</pubDate>
-<description>این مرور، نقش الکترولیت‌های هیدروژلی در تنظیم دینامیکی سولواتاسیون Zn2+ و پایداری سطح مشترک در باتری‌های آبی یون-روی را بررسی می‌کند.&lt;br&gt;Small Structures | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely reframes hydrogel electrolytes as dynamic regulators of Zn²⁺ solvation, ion transport, and interfacial chemistry, not merely mechanical quasi-solid separators. It synthesizes advances in confined water chemistry, polymer-ion coordination, and interphase engineering, highlighting operando characterization and emerging architectures to guide next-generation hydrogel design for highly reversible, durable aqueous zinc-ion batteries.&lt;br&gt;🏷 hydrogel electrolyte · zinc-ion battery · solvation regulation · interfacial stabilization · operando characterization</description>
-<category>hydrogel electrolyte</category>
-<category>zinc-ion battery</category>
-<category>solvation regulation</category>
-<category>interfacial stabilization</category>
-<category>operando characterization</category>
-</item>
-<item>
-<title>Bilayer Hydrogel Electrolytes Regulate Electric‐Field‐Induced Deformation in Zinc–Sodium Hybrid Batteries</title>
-<link>https://doi.org/10.1002/adma.75127</link>
-<guid isPermaLink="false">10.1002/adma.75127</guid>
-<pubDate>Sat, 26 Sep 2026 01:01:26 GMT</pubDate>
-<description>این مقاله تغییرشکل القایی میدان الکتریکی در الکترولیت هیدروژل PAM را بررسی و با ساخت الکترولیت دولایه PAM/PANa، پایداری فصل مشترک و ظرفیت باتری هیبریدی روی-سدیم را بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals electric-field-induced deformation in PAM hydrogel electrolytes via Zn–O/Zn–N adhesion, causing interfacial separation and reduced battery life. A bilayer electrolyte coupling PAM with PANa counteracts contraction, maintains contact, and boosts zinc-sodium hybrid battery performance: 117 mAh g⁻¹ initial capacity (20% higher) and 81.6% retention after 1000 cycles.&lt;br&gt;🏷 hydrogel electrolyte · zinc-sodium battery · electric-field deformation · bilayer electrolyte · interfacial contact</description>
-<category>hydrogel electrolyte</category>
-<category>zinc-sodium battery</category>
-<category>electric-field deformation</category>
-<category>bilayer electrolyte</category>
-<category>interfacial contact</category>
 </item>
 </channel>
 </rss>
