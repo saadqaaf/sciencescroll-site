@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 19:02:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 20:02:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering a Fluorinated AlPO 4 Interface: Toward High Initial Coulombic Efficiency and Stable Oxygen Redox in Li‐Rich Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/adfm.78762</link>
+<guid isPermaLink="false">10.1002/adfm.78762</guid>
+<pubDate>Tue, 29 Sep 2026 20:02:16 GMT</pubDate>
+<description>پوشش AlPO4-F روی کاتد لایه‌ای غنی از لیتیوم، بازدهی کولنی اولیه و پایداری چرخه را با تثبیت اکسایش اکسیژن بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Fluorinated AlPO4 surface coating on Li-rich layered oxides uniquely combines oxygen-framework stabilization with interfacial charge redistribution, enhancing Li affinity and structural reversibility. This yields 95.9% initial Coulombic efficiency, 244-cycle stability versus 57 for pristine, and reduced voltage decay (0.23 V), offering a multifunctional strategy for high-capacity anionic-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · AlPO4-F coating · oxygen redox · coulombic efficiency · voltage decay</description>
+<category>Li-rich layered oxide</category>
+<category>AlPO4-F coating</category>
+<category>oxygen redox</category>
+<category>coulombic efficiency</category>
+<category>voltage decay</category>
+</item>
 <item>
 <title>Strain buffer of a dual-phase P2/P′2 heterostructure enables cycling stability in Mn-based cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105565</link>
@@ -717,18 +729,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>staging heterogeneity</category>
 <category>operando imaging</category>
 <category>charging kinetics</category>
-</item>
-<item>
-<title>Aqueous zinc metal anodes: coupled degradation, landmark advances, and multiscale materials design</title>
-<link>https://doi.org/10.1016/j.pmatsci.2026.101847</link>
-<guid isPermaLink="false">10.1016/j.pmatsci.2026.101847</guid>
-<pubDate>Mon, 28 Sep 2026 00:01:04 GMT</pubDate>
-<description>این مقاله مروری، تخریب جفت‌شده و پیشرفت‌های شاخص آندهای فلزی روی در باتری‌های آبی روی و طراحی مواد چندمقیاسی را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 zinc metal anode · aqueous zinc battery · dendrite growth · multiscale design · anode degradation</description>
-<category>zinc metal anode</category>
-<category>aqueous zinc battery</category>
-<category>dendrite growth</category>
-<category>multiscale design</category>
-<category>anode degradation</category>
 </item>
 </channel>
 </rss>
