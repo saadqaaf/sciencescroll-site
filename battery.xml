@@ -5,8 +5,70 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 00:02:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 01:03:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Competitive Coordination Decouples Charge Transport from Viscous Relaxation in Water-in-Salt Electrolytes</title>
+<link>https://doi.org/10.1021/jacs.6c11585</link>
+<guid isPermaLink="false">10.1021/jacs.6c11585</guid>
+<pubDate>Tue, 29 Sep 2026 01:02:42 GMT</pubDate>
+<description>افزودنی‌های زویتریونی در الکترولیت غلیظ LiTFSI با هماهنگی رقابتی، انتقال بار را از واهلش ویسکوز جدا کرده و رفتار سوپرآیونی ایجاد می‌کنند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Zwitterionic additives in water-in-salt electrolytes decouple conductivity from viscosity, shifting them from subionic to superionic Walden behavior. This arises from competitive coordination: zwitterions bind Li⁺ yet weaken Li⁺–TFSI⁻ association, redistributing water. The work reveals a design route to independently tune solvation, ion correlations, and transport in concentrated electrolytes.&lt;br&gt;🏷 water-in-salt electrolyte · zwitterionic additive · LiTFSI · ion transport · Walden behavior</description>
+<category>water-in-salt electrolyte</category>
+<category>zwitterionic additive</category>
+<category>LiTFSI</category>
+<category>ion transport</category>
+<category>Walden behavior</category>
+</item>
+<item>
+<title>Multi-Step Oxygen Redox Mechanism in the Polyanionic Lithium-Rich Cathode Li2FeSiO4</title>
+<link>https://doi.org/10.1021/jacs.6c02850</link>
+<guid isPermaLink="false">10.1021/jacs.6c02850</guid>
+<pubDate>Tue, 29 Sep 2026 01:02:37 GMT</pubDate>
+<description>محاسبات DFT نشان می‌دهد در کاتد غنی از لیتیوم Li2FeSiO4، اکسیژن redox با مهاجرت Fe و تشکیل O2 همراه است و چارچوب پلی‌آنیونی مانع آن نمی‌شود.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study overturns the assumption that polyanionic frameworks prevent O2 formation in lithium-rich cathodes. It reveals FeSiO4 decomposes via a multistep oxygen redox mechanism involving Fe migration, disproportionation, and O2 release, showing previously proposed mechanisms can act as steps in one process. This advances understanding of silicate cathode stability and guides design of durable lithium-rich materials.&lt;br&gt;🏷 Li2FeSiO4 · oxygen redox · lithium-rich cathode · DFT · O2 formation</description>
+<category>Li2FeSiO4</category>
+<category>oxygen redox</category>
+<category>lithium-rich cathode</category>
+<category>DFT</category>
+<category>O2 formation</category>
+</item>
+<item>
+<title>Stress-adaptive conductive network and ion-segregated polymeric-inorganic interphases enable durable room-temperature silicon-based solid-state batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78184-7</link>
+<guid isPermaLink="false">10.1038/s41467-026-78184-7</guid>
+<pubDate>Tue, 29 Sep 2026 01:02:06 GMT</pubDate>
+<description>این مقاله با شبکه رسانای تنش‌تطبیق‌پذیر و میان‌فازهای پلیمری-معدنی جداشده یونی، باتری‌های حالت جامد سیلیکونی پایدار در دمای اتاق را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The work integrates a stress-adaptive Si-Zn-amorphous carbon anode with a salt-segregated PVDF-HFP electrolyte, creating a polymeric-inorganic bilayer interphase. This design decouples Si expansion, preserves electrical connectivity, and enables fast ion transfer, achieving 337 Wh kg−1 and long cycling (2000/800 cycles) at room temperature—advancing practical, durable silicon-based solid-state batteries.&lt;br&gt;🏷 solid-state battery · silicon anode · conductive network · ion-segregated interphase · room temperature</description>
+<category>solid-state battery</category>
+<category>silicon anode</category>
+<category>conductive network</category>
+<category>ion-segregated interphase</category>
+<category>room temperature</category>
+</item>
+<item>
+<title>Anion-Entropy Engineered MoSSeTe Anodes with Fast Kinetics for Durable Sodium-Ion Storage</title>
+<link>https://doi.org/10.34133/energymatadv.0648</link>
+<guid isPermaLink="false">10.34133/energymatadv.0648</guid>
+<pubDate>Tue, 29 Sep 2026 01:01:47 GMT</pubDate>
+<description>این مقاله آندهای MoSSeTe مهندسی‌شده با آنیون-آنتروپی را با سینتیک سریع برای ذخیره‌سازی پایدار سدیم-یون معرفی می‌کند.&lt;br&gt;Energy Material Advances | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · MoSSeTe · anode · anion entropy · fast kinetics</description>
+<category>sodium-ion battery</category>
+<category>MoSSeTe</category>
+<category>anode</category>
+<category>anion entropy</category>
+<category>fast kinetics</category>
+</item>
+<item>
+<title>Directional Li+ Flux Control via Liquid-Crystalline Polymer Separators for Fast-Charging Lithium Metal Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c09591</link>
+<guid isPermaLink="false">10.1021/acsnano.6c09591</guid>
+<pubDate>Tue, 29 Sep 2026 01:01:38 GMT</pubDate>
+<description>این مقاله با جداکننده‌های پلیمری بلور مایع، شارش Li+ را هدایت و رشد دندریتی را در باتری‌های لیتیوم-فلز سریع‌شارژ سرکوب می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work pioneers liquid-crystalline polymer separators with vertically aligned nanoporous channels that directionally control Li+ flux. By reducing tortuosity 2.5-fold, they achieve high ionic conductivity and suppress dendrite growth, enabling fast-charging Li metal batteries with 94% capacity retention over 100 cycles at 4 C. This establishes a design principle for low-tortuosity ion transport in energy storage.&lt;br&gt;🏷 lithium metal battery · liquid-crystalline polymer · separator · fast charging · Li+ flux</description>
+<category>lithium metal battery</category>
+<category>liquid-crystalline polymer</category>
+<category>separator</category>
+<category>fast charging</category>
+<category>Li+ flux</category>
+</item>
 <item>
 <title>Substrate-Enhanced Atomic Layer Deposition of Lithium Niobate on NMC Cathodes for Sulfide-Based All-Solid-State Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c01988</link>
@@ -668,67 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce r
 <category>LFP battery</category>
 <category>explosion characteristics</category>
 <category>chemical kinetics</category>
-</item>
-<item>
-<title>Path-dependent degradation diagnosis of commercial NCA/graphite 18650 cells under coupled cycle-calendar aging via dual-tank model identification and differential voltage analysis</title>
-<link>https://doi.org/10.1016/j.est.2026.124612</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124612</guid>
-<pubDate>Sat, 26 Sep 2026 17:01:41 GMT</pubDate>
-<description>تخریب وابسته به مسیر سلول‌های تجاری NCA/graphite 18650 تحت پیری توأم چرخه‌ای-تقویمی با مدل دومخزنی و تحلیل ولتاژ تفاضلی تشخیص داده شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NCA/graphite cell · cycle-calendar aging · degradation diagnosis · dual-tank model · differential voltage analysis</description>
-<category>NCA/graphite cell</category>
-<category>cycle-calendar aging</category>
-<category>degradation diagnosis</category>
-<category>dual-tank model</category>
-<category>differential voltage analysis</category>
-</item>
-<item>
-<title>A quick solution algorithm for online prediction of three-dimensional temperature distribution in lithium-ion battery based on thermal resistance network and influence of network parameters on calculation performance</title>
-<link>https://doi.org/10.1016/j.est.2026.124870</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124870</guid>
-<pubDate>Sat, 26 Sep 2026 17:01:34 GMT</pubDate>
-<description>الگوریتم سریع مبتنی بر شبکه مقاومت حرارتی برای پیش‌بینی برخط توزیع دمای سه‌بعدی باتری لیتیوم-یون ارائه و اثر پارامترهای شبکه بر دقت بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · thermal resistance network · temperature distribution · online prediction · network parameters</description>
-<category>lithium-ion battery</category>
-<category>thermal resistance network</category>
-<category>temperature distribution</category>
-<category>online prediction</category>
-<category>network parameters</category>
-</item>
-<item>
-<title>From Brittle to Damage‐Tolerant: Particle‐Level Mechanical Reinforcement Enables High‐Voltage Stability in Ni‐Rich Cathodes</title>
-<link>https://doi.org/10.1002/smll.75984</link>
-<guid isPermaLink="false">10.1002/smll.75984</guid>
-<pubDate>Sat, 26 Sep 2026 16:02:37 GMT</pubDate>
-<description>تقویت مکانیکی در سطح ذره، کاتد غنی از نیکل را از ترد به مقاوم به آسیب تبدیل کرده و پایداری چرخه در ولتاژ بالا را به‌شدت بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers particle-level mechanical reinforcement of Ni-rich cathodes, achieving a fivefold crushing-strength increase and reduced stress accumulation, which suppresses fracture during high-voltage cycling. The strategy enables 81% capacity retention over 400 cycles versus 36.5% undoped, establishing mechanics-informed design as a generalizable principle for damage-tolerant high-voltage cathodes.&lt;br&gt;🏷 Ni-rich cathode · particle fracture · mechanical reinforcement · high-voltage cycling · H2-H3 transition</description>
-<category>Ni-rich cathode</category>
-<category>particle fracture</category>
-<category>mechanical reinforcement</category>
-<category>high-voltage cycling</category>
-<category>H2-H3 transition</category>
-</item>
-<item>
-<title>Sulfonated‐ TiO 2 Nanorod–Reinforced PEO Composite Solid Electrolytes for High‐Voltage Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/eem2.70467</link>
-<guid isPermaLink="false">10.1002/eem2.70467</guid>
-<pubDate>Sat, 26 Sep 2026 16:01:51 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی PEO تقویت‌شده با نانومیله‌های TiO2 سولفونه، رسانایی یونی و پایداری اکسیدی بالای 5 ولت را برای باتری لیتیوم-فلز حالت جامد فراهم می‌کند.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Sulfonated TiO₂ nanorods actively promote LiTFSI dissociation via Lewis base sites, unlike passive fillers. This raises free Li⁺ from 55.27% to 61.27%, enabling 1.5×10⁻⁴ S cm⁻¹ conductivity, &amp;gt;5 V stability, and 1000 h dendrite-free cycling. The work establishes coupled 1D morphology and surface chemistry as a viable strategy for high-voltage solid-state lithium batteries.&lt;br&gt;🏷 solid electrolyte · PEO · sulfonated TiO2 · lithium metal battery · high voltage</description>
-<category>solid electrolyte</category>
-<category>PEO</category>
-<category>sulfonated TiO2</category>
-<category>lithium metal battery</category>
-<category>high voltage</category>
-</item>
-<item>
-<title>Chemical-Delithiation-Induced Surface Reconstruction in Layered Oxide Cathodes for High-Performance All-Solid-State Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c11457</link>
-<guid isPermaLink="false">10.1021/jacs.6c11457</guid>
-<pubDate>Sat, 26 Sep 2026 15:03:23 GMT</pubDate>
-<description>بازسازی سطحی ناشی از حذف شیمیایی لیتیوم در کاتدهای لایهای اکسیدی، تخریب سطح مشترک را حذف و عملکرد باتری تمامحالت را بهبود میدهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation with NO2BF4 reconstructs Li-rich layered oxide surfaces into a cation-disordered, fluorine-incorporating subsurface layer, passivating the oxidative interface and eliminating cathode–solid electrolyte degradation. This enables ~300.3 mAh g–1 capacity and 82.3% retention over 1500 cycles in all-solid-state batteries, and the strategy extends to Ni-rich oxides, offering a universal interfacial design route for high-energy ASSBs.&lt;br&gt;🏷 all-solid-state battery · Li-rich cathode · surface reconstruction · chemical delithiation · interfacial degradation</description>
-<category>all-solid-state battery</category>
-<category>Li-rich cathode</category>
-<category>surface reconstruction</category>
-<category>chemical delithiation</category>
-<category>interfacial degradation</category>
 </item>
 </channel>
 </rss>
