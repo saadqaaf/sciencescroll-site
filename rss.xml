@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 07:01:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 08:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic adsorption-transformation-immobilization effects and Electron transfer in graphene-based materials: Functional strategies for efficient chromium and arsenic stabilization</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218582</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218582</guid>
+<pubDate>Tue, 29 Sep 2026 08:01:34 GMT</pubDate>
+<description>این مقاله مروری اثرات هم‌افزای جذب-تبدیل-تثبیت و انتقال الکترون در مواد بر پایه گرافن را برای تثبیت کارآمد کروم و آرسنیک بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 graphene-based materials · chromium stabilization · arsenic stabilization · adsorption-transformation-immobilization · electron transfer</description>
+<category>graphene-based materials</category>
+<category>chromium stabilization</category>
+<category>arsenic stabilization</category>
+<category>adsorption-transformation-immobilization</category>
+<category>electron transfer</category>
+</item>
+<item>
+<title>Recent advances in TPT-based crystalline hybrid materials: from structural design to functional applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218585</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218585</guid>
+<pubDate>Tue, 29 Sep 2026 08:01:30 GMT</pubDate>
+<description>این مقاله مروری پیشرفت‌های اخیر در مواد هیبریدی بلوری بر پایه TPT را از طراحی ساختاری تا کاربردهای عملکردی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 TPT · crystalline hybrid materials · structural design · functional applications · porous materials</description>
+<category>TPT</category>
+<category>crystalline hybrid materials</category>
+<category>structural design</category>
+<category>functional applications</category>
+<category>porous materials</category>
+</item>
+<item>
+<title>Ruthenium-catalyzed ammonia decomposition: from interfacial microenvironment design to standardized performance benchmarking</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218604</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218604</guid>
+<pubDate>Tue, 29 Sep 2026 08:01:24 GMT</pubDate>
+<description>این مقاله مروری به طراحی ریز محیط سطحی کاتالیزورهای روتنیوم برای تجزیه آمونیاک و استانداردسازی ارزیابی عملکرد آن‌ها می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 ammonia decomposition · ruthenium catalyst · interfacial microenvironment · performance benchmarking · hydrogen production</description>
+<category>ammonia decomposition</category>
+<category>ruthenium catalyst</category>
+<category>interfacial microenvironment</category>
+<category>performance benchmarking</category>
+<category>hydrogen production</category>
+</item>
 <item>
 <title>Reduced Electron Delocalization via Symmetry Breaking at Single‐Atom Cobalt Sites for Efficient Photocatalytic Plastic Upcycling</title>
 <link>https://doi.org/10.1002/adma.75166</link>
@@ -698,42 +734,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 covalent organic framewor
 <category>THz confinement</category>
 <category>nanophotonics</category>
 <category>ferroelastic domains</category>
-</item>
-<item>
-<title>Spatial control of karyopherin binding avidity within NPC mimics revealed by designer FG-nucleoporins</title>
-<link>https://doi.org/10.1038/s41467-026-77818-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-77818-0</guid>
-<pubDate>Tue, 29 Sep 2026 01:02:09 GMT</pubDate>
-<description>طراحی FG-Nups مصنوعی نشان می‌دهد فاصله FG و نسبت بار به آب‌گریزی، جذب Kap95 و گزینش‌پذیری انتقال را در NPC کنترل می‌کنند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 FG-nucleoporins · nuclear pore complex · karyopherin · molecular dynamics · phase separation</description>
-<category>FG-nucleoporins</category>
-<category>nuclear pore complex</category>
-<category>karyopherin</category>
-<category>molecular dynamics</category>
-<category>phase separation</category>
-</item>
-<item>
-<title>Stress-adaptive conductive network and ion-segregated polymeric-inorganic interphases enable durable room-temperature silicon-based solid-state batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78184-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78184-7</guid>
-<pubDate>Tue, 29 Sep 2026 01:02:06 GMT</pubDate>
-<description>این مقاله با شبکه رسانای تنش‌تطبیق‌پذیر و میان‌فازهای پلیمری-معدنی جداشده یونی، باتری‌های حالت جامد سیلیکونی پایدار در دمای اتاق را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The work integrates a stress-adaptive Si-Zn-amorphous carbon anode with a salt-segregated PVDF-HFP electrolyte, creating a polymeric-inorganic bilayer interphase. This design decouples Si expansion, preserves electrical connectivity, and enables fast ion transfer, achieving 337 Wh kg−1 and long cycling (2000/800 cycles) at room temperature—advancing practical, durable silicon-based solid-state batteries.&lt;br&gt;🏷 solid-state battery · silicon anode · conductive network · ion-segregated interphase · room temperature</description>
-<category>solid-state battery</category>
-<category>silicon anode</category>
-<category>conductive network</category>
-<category>ion-segregated interphase</category>
-<category>room temperature</category>
-</item>
-<item>
-<title>The plasma protease inhibitor ITIH4 forms oligomeric complexes and senses broader proteolytic activity</title>
-<link>https://doi.org/10.1038/s41467-026-78173-w</link>
-<guid isPermaLink="false">10.1038/s41467-026-78173-w</guid>
-<pubDate>Tue, 29 Sep 2026 01:01:58 GMT</pubDate>
-<description>این مقاله نشان می‌دهد مهارکننده پروتئاز پلاسمایی ITIH4 کمپلکس‌های الیگومری تشکیل می‌دهد و فعالیت پروتئولیتیکی گسترده‌تری را حس می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ITIH4 · plasma protease inhibitor · oligomeric complexes · proteolytic activity · sensor</description>
-<category>ITIH4</category>
-<category>plasma protease inhibitor</category>
-<category>oligomeric complexes</category>
-<category>proteolytic activity</category>
-<category>sensor</category>
 </item>
 </channel>
 </rss>
