@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 04:01:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 05:02:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Solvent-solvent dipole engineering of a low-concentration electrolyte for high-performance wide-temperature sodium-ion batteries</title>
+<link>https://doi.org/10.1039/d6ta05645h</link>
+<guid isPermaLink="false">10.1039/d6ta05645h</guid>
+<pubDate>Tue, 29 Sep 2026 05:01:47 GMT</pubDate>
+<description>این مقاله با مهندسی دوقطبی حلال-حلال در الکترولیت کم‌غلظت، باتری‌های یون سدیم با عملکرد گسترده دمایی بالا ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work pioneers solvent-solvent dipole engineering in low-concentration electrolytes, a strategy not previously applied to sodium-ion batteries. By tuning dipole interactions, it simultaneously overcomes poor low-temperature conductivity and high-temperature interfacial instability, enabling wide-temperature operation while cutting salt use and cost—advancing practical, sustainable sodium-ion battery deployment.&lt;br&gt;🏷 sodium-ion battery · low-concentration electrolyte · solvent-solvent dipole · wide-temperature · interfacial stability</description>
+<category>sodium-ion battery</category>
+<category>low-concentration electrolyte</category>
+<category>solvent-solvent dipole</category>
+<category>wide-temperature</category>
+<category>interfacial stability</category>
+</item>
+<item>
+<title>Chaotropic anion-mediated ionic coordination structure and dynamic interface enabling stable alkaline zinc–nickel batteries with ultra-low N/P under high DOD</title>
+<link>https://doi.org/10.1039/d6ta06353e</link>
+<guid isPermaLink="false">10.1039/d6ta06353e</guid>
+<pubDate>Tue, 29 Sep 2026 05:01:42 GMT</pubDate>
+<description>این مقاله با واسطه‌گری آنیون کائوتروپیک، ساختار کوئوردیناسیون یونی و رابط دینامیکی را برای باتری‌های قلیایی روی-نیکل پایدار با N/P فوق‌پایین تنظیم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using chaotropic anions to tune ionic coordination and the dynamic electrode–electrolyte interface, suppressing zinc dendrites and hydrogen evolution. This enables stable alkaline zinc–nickel batteries with ultra-low negative-to-positive capacity ratio under high depth of discharge, advancing practical, low-cost aqueous energy storage.&lt;br&gt;🏷 zinc-nickel battery · chaotropic anion · ionic coordination · dynamic interface · low N/P ratio</description>
+<category>zinc-nickel battery</category>
+<category>chaotropic anion</category>
+<category>ionic coordination</category>
+<category>dynamic interface</category>
+<category>low N/P ratio</category>
+</item>
+<item>
+<title>Chaotropic Anions Unlock the Zn-ion Redox in Vanadium Carbide MXene</title>
+<link>https://doi.org/10.1039/d6ta06520a</link>
+<guid isPermaLink="false">10.1039/d6ta06520a</guid>
+<pubDate>Tue, 29 Sep 2026 05:01:35 GMT</pubDate>
+<description>این مقاله نشان می‌دهد آنیون‌های کائوتروپیک قفل redox یون روی را در MXene کاربید وانادیم V2CTx باز می‌کنند و ذخیره بار را تقویت می‌کنند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Chaotropic anions enable Zn-ion redox in V2CTx MXene, overcoming its limited capacity and narrow anodic window in dilute electrolytes. This reveals anion-driven control of charge storage, linking electrolyte chemistry to MXene redox activity and offering a design principle for high-voltage, high-capacity aqueous Zn-ion energy storage.&lt;br&gt;🏷 vanadium carbide MXene · Zn-ion redox · chaotropic anions · water-in-salt electrolyte · pseudocapacitance</description>
+<category>vanadium carbide MXene</category>
+<category>Zn-ion redox</category>
+<category>chaotropic anions</category>
+<category>water-in-salt electrolyte</category>
+<category>pseudocapacitance</category>
+</item>
+<item>
+<title>Joule-Heat-Driven Synthesis of Hierarchically Porous Carbon Nanofibers/CoCr Alloy as a Self-Supporting Cathode for Li-CO 2 Batteries</title>
+<link>https://doi.org/10.1039/d6ta07308e</link>
+<guid isPermaLink="false">10.1039/d6ta07308e</guid>
+<pubDate>Tue, 29 Sep 2026 05:01:30 GMT</pubDate>
+<description>این مقاله با سنتز ژول‌حرارتی نانوالیاف کربنی متخلخل/آلیاژ CoCr به‌عنوان کاتد خودایستا، عملکرد باتری Li-CO2 را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Joule-heating synthesizes hierarchically porous carbon nanofibers/CoCr alloy as a self-supporting Li-CO2 battery cathode. This binder-free, conductive architecture enhances CO2 diffusion and catalytic kinetics, lowering charge overpotential and improving cycling stability. The approach offers a scalable route to efficient CO2 utilization and high-energy-density storage.&lt;br&gt;🏷 Li-CO2 battery · carbon nanofibers · CoCr alloy · self-supporting cathode · Joule-heat synthesis</description>
+<category>Li-CO2 battery</category>
+<category>carbon nanofibers</category>
+<category>CoCr alloy</category>
+<category>self-supporting cathode</category>
+<category>Joule-heat synthesis</category>
+</item>
 <item>
 <title>Thermal decomposition behavior and thermal stability of dimethyl carbonate-based electrolyte systems: A reactive molecular dynamics study</title>
 <link>https://doi.org/10.1016/j.est.2026.124844</link>
@@ -682,54 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce r
 <category>fluorine-doped graphene</category>
 <category>sp2-C-F bonding</category>
 <category>OOH* intermediate</category>
-</item>
-<item>
-<title>Molecular Synergic Effect of Multifunctional Siliceous Additive Induces Stable Electrode-Electrolyte Interphase for High-Voltage (&amp;gt;4.5 V) NCM523||Graphite Pouch Cells</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112423</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112423</guid>
-<pubDate>Sun, 27 Sep 2026 01:01:25 GMT</pubDate>
-<description>افزودنی سیلیکاته چندکاره با اثر هم‌افزایی مولکولی، اینترفاز پایدار الکترود-الکترولیت را برای سلول‌های کیسه‌ای NCM523||گرافیت در ولتاژ بالا (&amp;gt;4.5 V) القا می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 siliceous additive · electrode-electrolyte interphase · high-voltage NCM523 · graphite pouch cell · molecular synergy</description>
-<category>siliceous additive</category>
-<category>electrode-electrolyte interphase</category>
-<category>high-voltage NCM523</category>
-<category>graphite pouch cell</category>
-<category>molecular synergy</category>
-</item>
-<item>
-<title>Phosphoric Acid Cross-linking Regulates Closed Pores for Scalable Hard Carbon Anodes</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01963</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01963</guid>
-<pubDate>Sun, 27 Sep 2026 00:02:42 GMT</pubDate>
-<description>استراتژی اتصال عرضی با اسید فسفریک، حفرات بسته کربن سخت مشتق از نشاسته را تنظیم کرده و ظرفیت ۳۹۵.۸ mAh g−1 در آند باتری سدیم-یون ایجاد می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This work introduces phosphoric acid-induced cross-linking as a novel strategy to precisely regulate closed pores in starch-derived hard carbon. It boosts carbon yield from 14.0% to 31.7% and delivers 395.8 mAh g⁻¹ with 89.4% initial Coulombic efficiency. The 3.5 Ah cylindrical cell retains 96.5% capacity after 500 cycles, offering a scalable, cost-effective route for practical Na-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · closed pores · phosphoric acid · cross-linking</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>closed pores</category>
-<category>phosphoric acid</category>
-<category>cross-linking</category>
-</item>
-<item>
-<title>Rewriting Precursor Information into Working Structures and Interfaces: MOF‐Derived Electrodes for Rechargeable Batteries</title>
-<link>https://doi.org/10.1002/adfm.78738</link>
-<guid isPermaLink="false">10.1002/adfm.78738</guid>
-<pubDate>Sun, 27 Sep 2026 00:02:08 GMT</pubDate>
-<description>این مقاله مروری، چارچوبی برای درک تبدیل پیش‌ماده‌های MOF به ساختارها و فصل مشترک‌های الکترود باتری‌های قابل شارژ ارائه می‌دهد و نقش حفظ، بازسازی و حذف اطلاعات پیش‌ماده را بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This Review reframes MOF-derived battery electrodes around how conversion rewrites precursor information into working structures and interfaces, distinguishing retention, reconstruction, erasure, and emergence. Its novelty lies in this material-centered, function-oriented framework linking precursor chemistry to interfacial continuity and reversible reaction, rather than cataloguing products. It matters because it guides predictive design, operando characterization, and practical deployment balancing performance against inactive mass, complexity, and cost.&lt;br&gt;🏷 MOF-derived electrodes · rechargeable batteries · precursor conversion · interfaces · structure reconstruction</description>
-<category>MOF-derived electrodes</category>
-<category>rechargeable batteries</category>
-<category>precursor conversion</category>
-<category>interfaces</category>
-<category>structure reconstruction</category>
-</item>
-<item>
-<title>Spatiotemporal Regulation of Anode-Free Metal Batteries from Lithium to Beyond</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105560</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105560</guid>
-<pubDate>Sat, 26 Sep 2026 23:01:21 GMT</pubDate>
-<description>مروری بر تنظیم فضایی-زمانی باتری‌های بدون آند از لیتیوم تا فراتر از آن.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 anode-free batteries · lithium metal · spatiotemporal regulation · beyond lithium · solid electrolyte interphase</description>
-<category>anode-free batteries</category>
-<category>lithium metal</category>
-<category>spatiotemporal regulation</category>
-<category>beyond lithium</category>
-<category>solid electrolyte interphase</category>
 </item>
 </channel>
 </rss>
