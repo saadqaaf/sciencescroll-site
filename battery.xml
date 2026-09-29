@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 23:01:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 00:02:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Substrate-Enhanced Atomic Layer Deposition of Lithium Niobate on NMC Cathodes for Sulfide-Based All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01988</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01988</guid>
+<pubDate>Tue, 29 Sep 2026 00:02:36 GMT</pubDate>
+<description>پوشش نازک LiNbO3 با ALD تقویت‌شده توسط زیرلایه روی کاتد NMC، ظرفیت باتری تمام‌جامد با الکترولیت Li6PS5Cl را تا ۲۰٪ افزایش داده و تخریب الکترولیت را سرکوب می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work reveals substrate-enhanced ALD growth of ultrathin (&amp;lt;8 nm) lithium niobate on NMC cathodes using commercial precursors, achieving complete encapsulation. These coatings boost all-solid-state battery capacity by 20% by suppressing Li6PS5Cl electrolyte decomposition. The findings highlight controlling early-stage ALD growth and offer a scalable route to stable sulfide–cathode interfaces.&lt;br&gt;🏷 all-solid-state battery · lithium niobate · atomic layer deposition · NMC cathode · sulfide electrolyte</description>
+<category>all-solid-state battery</category>
+<category>lithium niobate</category>
+<category>atomic layer deposition</category>
+<category>NMC cathode</category>
+<category>sulfide electrolyte</category>
+</item>
 <item>
 <title>An alkaline salting-out liquid membrane enabling ultra-stable alkaline zinc-iron flow battery</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105562</link>
@@ -717,18 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Chemical delithiation wit
 <category>surface reconstruction</category>
 <category>chemical delithiation</category>
 <category>interfacial degradation</category>
-</item>
-<item>
-<title>Synthesis of Ladder and Flexible Polysulfonimides Directly From Anionic Monomers: Investigating Structure–Property Convergence in Succinonitrile–Polymer Electrolyte Blends</title>
-<link>https://doi.org/10.1002/anie.8257644</link>
-<guid isPermaLink="false">10.1002/anie.8257644</guid>
-<pubDate>Sat, 26 Sep 2026 15:02:40 GMT</pubDate>
-<description>سنتز پلی‌سولفونیمیدهای نردبانی و انعطاف‌پذیر و بررسی آمیخته‌های آن‌ها با سوکسینونیتریل نشان می‌دهد ساختارهای متخلخل و غیرمتخلخل به رسانایی و خواص مشابه می‌رسند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces the first sulfonimide-based polymer of intrinsic microporosity (FAS-PIM) and directly compares it with flexible, non-microporous polysulfonimide analogs. Adding succinonitrile drives both architectures toward similar conductivity, thermomechanical properties, and reprocessability, despite differing conduction mechanisms. This establishes convergence between permanently microporous and transiently porous single-ion conducting electrolytes, offering design guidance for next-generation materials.&lt;br&gt;🏷 polymer electrolyte · sulfonimide · microporosity · succinonitrile · ion transport</description>
-<category>polymer electrolyte</category>
-<category>sulfonimide</category>
-<category>microporosity</category>
-<category>succinonitrile</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
