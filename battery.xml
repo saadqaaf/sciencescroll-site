@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 11:04:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 12:03:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2D Vermiculite Nanosheets Encapsulated in Hydrogel Electrolyte for Shuttle‐Free and Dendrite‐Inhibited Zinc‐Iodine Batteries</title>
+<link>https://doi.org/10.1002/advs.78083</link>
+<guid isPermaLink="false">10.1002/advs.78083</guid>
+<pubDate>Tue, 29 Sep 2026 12:02:20 GMT</pubDate>
+<description>الکترولیت هیدروژل PAM/CS/VN با نانوصفحات ورمیکولیت برای مهار شاتل پلی‌یدید و دندریت روی در باتری‌های Zn-I2 با حفظ ظرفیت ۹۷.۴٪ پس از ۱۰۰۰۰ چرخه استفاده شد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a dual-network hydrogel electrolyte combining polyacrylamide, chitosan, and 2D vermiculite nanosheets to simultaneously tackle polyiodide shuttling and zinc dendrites. Its significance is enabling shuttle-free, dendrite-inhibited Zn–I₂ batteries with 97.4% retention over 10,000 cycles and stable pouch cells, offering a promising strategy for durable aqueous energy storage.&lt;br&gt;🏷 zinc-iodine battery · hydrogel electrolyte · vermiculite nanosheet · shuttle effect · zinc dendrite</description>
+<category>zinc-iodine battery</category>
+<category>hydrogel electrolyte</category>
+<category>vermiculite nanosheet</category>
+<category>shuttle effect</category>
+<category>zinc dendrite</category>
+</item>
+<item>
+<title>Supercapacitor Safety: Overcharge‐Induced Failure Mechanisms in Electrochemical Double‐Layer Capacitors</title>
+<link>https://doi.org/10.1002/advs.77470</link>
+<guid isPermaLink="false">10.1002/advs.77470</guid>
+<pubDate>Tue, 29 Sep 2026 12:01:44 GMT</pubDate>
+<description>این پژوهش با رادیوگرافی همزمانی سنکروترونی، مسیر شکست EDLC در اثر اضافهشارژ را بهصورت حرارتی و متفاوت از فرار حرارتی باتری لیتیوم-یون نشان میدهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work provides the first direct, time-resolved visualization of EDLC overcharge failure, revealing a thermally driven pathway distinct from lithium-ion thermal runaway. By linking internal structural dynamics to external signatures, it identifies electrolyte decomposition, gas accumulation, and toxic vented species, exposing underappreciated fire and chemical hazards. This mechanistic insight is critical for safer high-power, high-reliability supercapacitor system design.&lt;br&gt;🏷 EDLC · overcharge failure · synchrotron radiography · electrode delamination · gas evolution</description>
+<category>EDLC</category>
+<category>overcharge failure</category>
+<category>synchrotron radiography</category>
+<category>electrode delamination</category>
+<category>gas evolution</category>
+</item>
 <item>
 <title>Revealing the Proton Slingshot Mechanism in Solid Acid Electrolytes through Machine-Learning Molecular Dynamics</title>
 <link>https://doi.org/10.1021/jacs.5c21965</link>
@@ -705,32 +729,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>Li/F co-doping</category>
 <category>synergistic dual-site</category>
 <category>cathode</category>
-</item>
-<item>
-<title>Direct Light Storage with Controlled Dark Release in a Bipyridine-Based Covalent Triazine Framework</title>
-<link>https://doi.org/10.1021/jacs.6c09757</link>
-<guid isPermaLink="false">10.1021/jacs.6c09757</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:41 GMT</pubDate>
-<description>چارچوب تریازین کووالانسی مبتنی بر بی‌پیریدین الکترون‌های نوری را ذخیره کرده و در تاریکی به‌صورت کنترل‌شده آزاد می‌کند و برای باتری خورشیدی آبی به کار می‌رود.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 CTF-Bpy is the first photochargeable covalent organic framework storing electrons reducing enough to drive dark H2 evolution. It achieves the most negative photo-OCP (−0.92 V) for an organic bifunctional material, enabling controlled dark release via discharge or O2 reduction. This establishes fully organic frameworks for dark photocatalysis and guides rational optoionic material design.&lt;br&gt;🏷 covalent triazine framework · light storage · bipyridine · solar battery · photocharging</description>
-<category>covalent triazine framework</category>
-<category>light storage</category>
-<category>bipyridine</category>
-<category>solar battery</category>
-<category>photocharging</category>
-</item>
-<item>
-<title>Single-Atom Ce Enables Interfacial Pathway Regulation of Fe2 Atomic Pairs in Alkaline Oxygen Reduction</title>
-<link>https://doi.org/10.1021/jacs.6c07837</link>
-<guid isPermaLink="false">10.1021/jacs.6c07837</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:36 GMT</pubDate>
-<description>افزودن Ce تک‌اتمی به جفت‌های Fe2 در کاتالیزور Fe-N-C مسیر 4e- واکنش اکسیژن را تقویت کرده و پایداری و عملکرد باتری Zn-air را بهبود می‌بخشد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce regulates the interfacial water/proton environment around Fe2 atomic pairs, suppressing the competing 2e– peroxide pathway and enabling the 4e– route. This decouples the activity–stability trade-off, yielding 0.92 V half-wave potential, 1.6% peroxide, 96% current retention over 50,000 s, and 1100 h Zn–air cycling—establishing interfacial pathway regulation as a design strategy for alkaline ORR catalysis.&lt;br&gt;🏷 oxygen reduction · Fe2 atomic pairs · single-atom Ce · Zn-air battery · interfacial water</description>
-<category>oxygen reduction</category>
-<category>Fe2 atomic pairs</category>
-<category>single-atom Ce</category>
-<category>Zn-air battery</category>
-<category>interfacial water</category>
 </item>
 </channel>
 </rss>
