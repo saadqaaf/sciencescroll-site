@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 18:01:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 19:02:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Strain buffer of a dual-phase P2/P′2 heterostructure enables cycling stability in Mn-based cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105565</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105565</guid>
+<pubDate>Tue, 29 Sep 2026 19:02:30 GMT</pubDate>
+<description>بافر کرنش ناشی از ناهم‌ساختار دوگانه P2/P′2، پایداری چرخه‌ای کاتدهای منگنزدار را در باتری‌های یون-سدیم بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Mn-based cathode · P2/P&amp;#x27;2 heterostructure · strain buffer · cycling stability · sodium-ion battery</description>
+<category>Mn-based cathode</category>
+<category>P2/P&#x27;2 heterostructure</category>
+<category>strain buffer</category>
+<category>cycling stability</category>
+<category>sodium-ion battery</category>
+</item>
+<item>
+<title>Chelation-tamed electrolytes for durable and wide-temperature potassium-ion batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105563</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105563</guid>
+<pubDate>Tue, 29 Sep 2026 19:02:23 GMT</pubDate>
+<description>الکترولیت‌های مهارشده با کلات‌سازی، باتری‌های یون-پتاسیم بادوام و پایدار در دماهای گسترده را ممکن می‌سازند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 potassium-ion battery · chelation · electrolyte · wide-temperature · cycling stability</description>
+<category>potassium-ion battery</category>
+<category>chelation</category>
+<category>electrolyte</category>
+<category>wide-temperature</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Fluorinated ether cosolvents to prevent aluminum current collector corrosion for high-voltage sodium metal batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105566</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105566</guid>
+<pubDate>Tue, 29 Sep 2026 19:02:19 GMT</pubDate>
+<description>هم‌حلال‌های اتری فلوئوردار از خوردگی کلکتور جریان آلومینیومی در باتری‌های سدیم-فلز ولتاژ بالا جلوگیری می‌کنند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium metal battery · aluminum corrosion · fluorinated ether · cosolvent · high-voltage electrolyte</description>
+<category>sodium metal battery</category>
+<category>aluminum corrosion</category>
+<category>fluorinated ether</category>
+<category>cosolvent</category>
+<category>high-voltage electrolyte</category>
+</item>
 <item>
 <title>Cellulose-based solid-state electrolytes for high energy density lithium batteries: insight from ion transport mechanism to coordination structural design</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218598</link>
@@ -693,42 +729,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>dendrite growth</category>
 <category>multiscale design</category>
 <category>anode degradation</category>
-</item>
-<item>
-<title>Synergistic Spatiotemporal Regulation of Li + ‐Flux During Formation Enables Stable Solid‐Electrolyte Interphase for Ah‐Level Si/C Anode‐Based Quasi‐Solid‐State Lithium Batteries</title>
-<link>https://doi.org/10.1002/smll.76038</link>
-<guid isPermaLink="false">10.1002/smll.76038</guid>
-<pubDate>Sun, 27 Sep 2026 20:06:38 GMT</pubDate>
-<description>تنظیم هم‌افزای فضایی-زمانی شار Li+ در مرحله formation با الکترولیت ژلی پیزوالکتریک BaTiO3 و پروتکل پالس دوقطبی، SEI پایدار و عملکرد چرخه‌ای باتری لیتیومی شبه‌جامد Si/C را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work uniquely combines a piezoelectric BaTiO₃/PVDF-b-PTFE gel electrolyte with bipolar pulse formation to spatiotemporally regulate Li⁺-flux during SEI growth. This synergy yields a dense, high-modulus SEI, enabling Ah-level NCM811||Si/C quasi-solid-state cells with enhanced interfacial stability and cycling. It establishes formation-process engineering as a practical route to high-performance batteries.&lt;br&gt;🏷 solid-electrolyte interphase · Li+ flux regulation · Si/C anode · quasi-solid-state battery · bipolar pulse formation</description>
-<category>solid-electrolyte interphase</category>
-<category>Li+ flux regulation</category>
-<category>Si/C anode</category>
-<category>quasi-solid-state battery</category>
-<category>bipolar pulse formation</category>
-</item>
-<item>
-<title>Extremophile‐Inspired Hydroxyectoine Reconstructs Water Networks and Stabilizes Zinc Interfaces in Aqueous Zinc Batteries</title>
-<link>https://doi.org/10.1002/smll.76007</link>
-<guid isPermaLink="false">10.1002/smll.76007</guid>
-<pubDate>Sun, 27 Sep 2026 20:05:55 GMT</pubDate>
-<description>افزودنی هیدروکسی‌اکتویین با بازسازی شبکه آب و پایدارسازی سطح روی، عمر چرخه‌ای باتری آبی روی را به‌شدت افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work first introduces hydroxyectoine, an extremophile-derived solute, as a multifunctional additive for aqueous zinc batteries. It uniquely dual-regulates the water hydrogen-bonding network and zinc interface, suppressing hydrogen evolution and dendrites. The result is ultralong cycling (7300 h) and high efficiency, offering a bio-inspired route to durable, high-performance energy storage.&lt;br&gt;🏷 zinc battery · hydroxyectoine · electrolyte additive · zinc anode · hydrogen evolution</description>
-<category>zinc battery</category>
-<category>hydroxyectoine</category>
-<category>electrolyte additive</category>
-<category>zinc anode</category>
-<category>hydrogen evolution</category>
-</item>
-<item>
-<title>The Host‐Guest Assemblies of Metal–Organic Frameworks and Protic Ionic Liquids With ZIF‐8 and [Dema][TfO] – Structural Response and Ionic Conductivity</title>
-<link>https://doi.org/10.1002/smll.76019</link>
-<guid isPermaLink="false">10.1002/smll.76019</guid>
-<pubDate>Sun, 27 Sep 2026 20:05:46 GMT</pubDate>
-<description>ترکیب مایع یونی پروتیک [Dema][TfO] در حفرات ZIF-8، رسانایی یونی بالایی در حالت بی‌آب ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study pioneers the encapsulation of protic ionic liquid [Dema][TfO] into ZIF-8, revealing unique host-guest interactions: pore expansion, hydrogen bond disruption, and reduced thermal stability. The fully saturated composite achieves superior ionic conductivity (1.09 mS·cm⁻¹ at 160°C), outperforming other IL@MOF conductors. This demonstrates protic IL@MOF hybrids as promising solid electrolytes, advancing anhydrous proton-conducting materials design.&lt;br&gt;🏷 MOF · ionic liquid · solid electrolyte · ionic conductivity · ZIF-8</description>
-<category>MOF</category>
-<category>ionic liquid</category>
-<category>solid electrolyte</category>
-<category>ionic conductivity</category>
-<category>ZIF-8</category>
 </item>
 </channel>
 </rss>
