@@ -5,8 +5,140 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 02:01:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 03:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Real-time flexibility of air-conditioning integrated with thermal energy storage for demand-side photovoltaic tracking: Physics-informed prediction and field investigation</title>
+<link>https://doi.org/10.1016/j.est.2026.124820</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124820</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:51 GMT</pubDate>
+<description>این مقاله انعطاف‌پذیری لحظه‌ای تهویه مطبوع مجهز به ذخیره‌سازی انرژی حرارتی را برای دنبال‌کردن فتوولتائیک سمت تقاضا با پیش‌بینی فیزیک‌محور و بررسی میدانی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal energy storage · air-conditioning · demand-side management · photovoltaic tracking · physics-informed prediction</description>
+<category>thermal energy storage</category>
+<category>air-conditioning</category>
+<category>demand-side management</category>
+<category>photovoltaic tracking</category>
+<category>physics-informed prediction</category>
+</item>
+<item>
+<title>Thermal decomposition behavior and thermal stability of dimethyl carbonate-based electrolyte systems: A reactive molecular dynamics study</title>
+<link>https://doi.org/10.1016/j.est.2026.124844</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124844</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:48 GMT</pubDate>
+<description>این مقاله رفتار تجزیه حرارتی و پایداری حرارتی سیستم‌های الکترولیت بر پایه دی‌متیل کربنات را با شبیه‌سازی دینامیک مولکولی واکنشی مطالعه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 dimethyl carbonate · electrolyte · thermal decomposition · reactive molecular dynamics · thermal stability</description>
+<category>dimethyl carbonate</category>
+<category>electrolyte</category>
+<category>thermal decomposition</category>
+<category>reactive molecular dynamics</category>
+<category>thermal stability</category>
+</item>
+<item>
+<title>Cross-condition state-of-charge estimation in CFRP-embedded structural batteries via voltage and dual-path ultrasonic fusion</title>
+<link>https://doi.org/10.1016/j.est.2026.124876</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124876</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:44 GMT</pubDate>
+<description>این مقاله تخمین وضعیت شارژ در باتری‌های ساختاری جاسازی‌شده در CFRP را از طریق ادغام ولتاژ و اولتراسونیک دو مسیره در شرایط مختلف بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 structural battery · state of charge · ultrasonic fusion · CFRP · cross-condition</description>
+<category>structural battery</category>
+<category>state of charge</category>
+<category>ultrasonic fusion</category>
+<category>CFRP</category>
+<category>cross-condition</category>
+</item>
+<item>
+<title>A degradation-aware bidirectional long short-term memory network for explainable and generalizable state-of-health estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.124864</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124864</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:40 GMT</pubDate>
+<description>این مقاله یک شبکه BiLSTM آگاه از تخریب را برای تخمین قابل توضیح و تعمیم‌پذیر وضعیت سلامت باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · BiLSTM · degradation-aware · explainable AI · battery</description>
+<category>state of health</category>
+<category>BiLSTM</category>
+<category>degradation-aware</category>
+<category>explainable AI</category>
+<category>battery</category>
+</item>
+<item>
+<title>Thermal management performance of finned photovoltaic/phase change material systems with thermal storage stepped enclosures</title>
+<link>https://doi.org/10.1016/j.est.2026.124521</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124521</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:36 GMT</pubDate>
+<description>این مقاله عملکرد مدیریت حرارتی سیستم‌های فتوولتائیک/مواد تغییر فاز با پره‌ها و محفظه‌های پله‌ای ذخیره‌سازی حرارتی را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 photovoltaic · phase change material · thermal management · finned system · stepped enclosure</description>
+<category>photovoltaic</category>
+<category>phase change material</category>
+<category>thermal management</category>
+<category>finned system</category>
+<category>stepped enclosure</category>
+</item>
+<item>
+<title>A physics-guided transformer for robust state of health estimation in real-world electric vehicles</title>
+<link>https://doi.org/10.1016/j.est.2026.124747</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124747</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:33 GMT</pubDate>
+<description>این مقاله یک ترانسفورماتور فیزیک‌محور را برای تخمین مقاوم وضعیت سلامت در خودروهای الکتریکی واقعی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · transformer · electric vehicles · physics-guided</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>transformer</category>
+<category>electric vehicles</category>
+<category>physics-guided</category>
+</item>
+<item>
+<title>Cyclic thermal management of electronics using phase change materials with thermoelectric-assisted active regeneration</title>
+<link>https://doi.org/10.1016/j.est.2026.124541</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124541</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:29 GMT</pubDate>
+<description>این مقاله مدیریت حرارتی چرخه‌ای الکترونیک را با استفاده از مواد تغییر فاز و بازسازی فعال ترموالکتریک بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change materials · thermal management · thermoelectric · active regeneration · electronics cooling</description>
+<category>phase change materials</category>
+<category>thermal management</category>
+<category>thermoelectric</category>
+<category>active regeneration</category>
+<category>electronics cooling</category>
+</item>
+<item>
+<title>Universal Robustness of Bound Magnetic Polaron Scaling and Enhancement of Ferromagnetism in Amorphous Gallium Oxide via Aliovalent Sn Doping over Oxygen Vacancies</title>
+<link>https://doi.org/10.1039/d6mh01453d</link>
+<guid isPermaLink="false">10.1039/d6mh01453d</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:26 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که دوپینگ Sn در اکسید گالیم آمورف از طریق جایگزینی آلویوالانتی و vacancies اکسیژن، مقیاس‌بندی جهانی BMP و فرومغناطیس را تقویت می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 bound magnetic polaron · gallium oxide · Sn doping · ferromagnetism · oxygen vacancies</description>
+<category>bound magnetic polaron</category>
+<category>gallium oxide</category>
+<category>Sn doping</category>
+<category>ferromagnetism</category>
+<category>oxygen vacancies</category>
+</item>
+<item>
+<title>Nanoprogrammed TCR macrophages for sustained antitumor immunoresponse</title>
+<link>https://doi.org/10.1016/j.nantod.2026.103199</link>
+<guid isPermaLink="false">10.1016/j.nantod.2026.103199</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:23 GMT</pubDate>
+<description>این مقاله ماکروفاژهای TCR نانوبرنامه‌ریزی‌شده را برای ایجاد پاسخ ایمنی ضدتوموری پایدار معرفی می‌کند.&lt;br&gt;Nano Today | 🔬 Research Article&lt;br&gt;🏷 TCR macrophages · nanoprogramming · antitumor immunity · immunotherapy · sustained response</description>
+<category>TCR macrophages</category>
+<category>nanoprogramming</category>
+<category>antitumor immunity</category>
+<category>immunotherapy</category>
+<category>sustained response</category>
+</item>
+<item>
+<title>Advances in the treatment of Alzheimer&#x27;s disease upon nanozymes</title>
+<link>https://doi.org/10.1016/j.nantod.2026.103197</link>
+<guid isPermaLink="false">10.1016/j.nantod.2026.103197</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:20 GMT</pubDate>
+<description>این مرور به پیشرفت‌های درمان بیماری آلزایمر با استفاده از نانوآنزیم‌ها می‌پردازد و پتانسیل آن‌ها را در کاهش استرس اکسیداتیو و پلاک‌های آمیلوئید بتا بررسی می‌کند.&lt;br&gt;Nano Today | ⭐ Review&lt;br&gt;🏷 Alzheimer&amp;#x27;s disease · nanozymes · oxidative stress · amyloid-beta · neuroprotection</description>
+<category>Alzheimer&#x27;s disease</category>
+<category>nanozymes</category>
+<category>oxidative stress</category>
+<category>amyloid-beta</category>
+<category>neuroprotection</category>
+</item>
+<item>
+<title>Beyond the efficiency trap: Regional AI exposure, AI knowledge, and the asymmetric governance of data-driven value propositions</title>
+<link>https://doi.org/10.1016/j.technovation.2026.103730</link>
+<guid isPermaLink="false">10.1016/j.technovation.2026.103730</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:16 GMT</pubDate>
+<description>این مقاله به بررسی رابطه بین مواجهه منطقه‌ای با هوش مصنوعی، دانش هوش مصنوعی و حاکمیت نامتقارن ارزش‌های داده‌محور می‌پردازد.&lt;br&gt;Technovation | 🔬 Research Article&lt;br&gt;🏷 AI exposure · data-driven value · regional governance · AI knowledge · asymmetric governance</description>
+<category>AI exposure</category>
+<category>data-driven value</category>
+<category>regional governance</category>
+<category>AI knowledge</category>
+<category>asymmetric governance</category>
+</item>
 <item>
 <title>Gold-Triggered Restructuring of Interfacial Water on Ir Nanoclusters Switches Oxygen Evolution Pathways toward Stable Acidic Electrocatalysis</title>
 <link>https://doi.org/10.1021/acscatal.6c04010</link>
@@ -602,138 +734,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 covalent organic framewor
 <category>crystalline-amorphous interface</category>
 <category>singlet oxygen</category>
 <category>DFT</category>
-</item>
-<item>
-<title>Soft Confinement Couples Shape Morphing With Persistent Phosphorescence in Liquid Crystal Networks</title>
-<link>https://doi.org/10.1002/adfm.78768</link>
-<guid isPermaLink="false">10.1002/adfm.78768</guid>
-<pubDate>Tue, 29 Sep 2026 00:01:52 GMT</pubDate>
-<description>شبکه کریستال مایع با محدودیت نرم، فسفرسانس پایدار اتاقی و تغییر شکل ماکروسکوپی را همزمان برای رمزنگاری اطلاعات و نوشتن فوتونیک تنظیم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 liquid crystal network · phosphorescence · shape morphing · soft confinement · information encryption</description>
-<category>liquid crystal network</category>
-<category>phosphorescence</category>
-<category>shape morphing</category>
-<category>soft confinement</category>
-<category>information encryption</category>
-</item>
-<item>
-<title>2D Skeletal Muscle Thin Film Actuators Enhance Efficiency of Biohybrid Robots</title>
-<link>https://doi.org/10.1002/adfm.78065</link>
-<guid isPermaLink="false">10.1002/adfm.78065</guid>
-<pubDate>Tue, 29 Sep 2026 00:01:49 GMT</pubDate>
-<description>لایه‌های نازک عضله اسکلتی دوبعدی روی اسکلت هیدروژلی، نیرو و کورس بالاتر و عمر بدون اتصال طولانی‌تری برای ربات‌های بیوهیبرید فراهم می‌کنند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 biohybrid robot · skeletal muscle · thin film actuator · hydrogel · locomotion</description>
-<category>biohybrid robot</category>
-<category>skeletal muscle</category>
-<category>thin film actuator</category>
-<category>hydrogel</category>
-<category>locomotion</category>
-</item>
-<item>
-<title>Dynamic Matrix Competition Enables Host‐to‐Guest Reversal for Tailoring Carbon Dots Afterglow From Time‐Dependent Color to White Emission</title>
-<link>https://doi.org/10.1002/adfm.78686</link>
-<guid isPermaLink="false">10.1002/adfm.78686</guid>
-<pubDate>Tue, 29 Sep 2026 00:01:45 GMT</pubDate>
-<description>سیستم دوگانه اسید بوریک/NaOH با رقابت ماتریسی، پس‌تاب‌ناپذیری نقاط کربنی را از تغییر رنگ وابسته به زمان تا گسیل سفید تنظیم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 carbon dots · afterglow · matrix competition · white emission · phosphorescence</description>
-<category>carbon dots</category>
-<category>afterglow</category>
-<category>matrix competition</category>
-<category>white emission</category>
-<category>phosphorescence</category>
-</item>
-<item>
-<title>A Dragon‐Fruit‐Like Nanoplatform Containing Polydopamine‐Wrapped Selenium Quantum Dots Boosts Synergistic Chemo‐Photothermal Therapy for Triple‐Negative Breast Cancer</title>
-<link>https://doi.org/10.1002/adfm.78713</link>
-<guid isPermaLink="false">10.1002/adfm.78713</guid>
-<pubDate>Tue, 29 Sep 2026 00:01:42 GMT</pubDate>
-<description>نانوپلتفرم شبیه میوه اژدها با نقاط کوانتومی سلنیوم و جمسیتابین در پلی‌دوپامین، درمان ترکیبی شیمی‌گرمایی را برای سرطان پستان سه‌گانه منفی تقویت می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 triple-negative breast cancer · selenium quantum dots · photothermal therapy · chemotherapy · polydopamine</description>
-<category>triple-negative breast cancer</category>
-<category>selenium quantum dots</category>
-<category>photothermal therapy</category>
-<category>chemotherapy</category>
-<category>polydopamine</category>
-</item>
-<item>
-<title>Synergistic Dual‐Photoreaction Crosslinking Enables High Phosphoric Acid Retention in High‐Temperature Proton Exchange Membranes</title>
-<link>https://doi.org/10.1002/adfm.78684</link>
-<guid isPermaLink="false">10.1002/adfm.78684</guid>
-<pubDate>Tue, 29 Sep 2026 00:01:38 GMT</pubDate>
-<description>غشای تبادل پروتون دما بالا با اتصال عرضی دوگانه فوتوشیمیایی، حفظ اسید فسفریک و رسانایی پروتون بالا را برای پیل سوختی بدون رطوبت فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 proton exchange membrane · phosphoric acid · photocrosslinking · fuel cell · proton conductivity</description>
-<category>proton exchange membrane</category>
-<category>phosphoric acid</category>
-<category>photocrosslinking</category>
-<category>fuel cell</category>
-<category>proton conductivity</category>
-</item>
-<item>
-<title>Intratracheal Extracellular Matrix‐Mimetic Hydrogel Modulates Immune Homeostasis for Asthma Therapy</title>
-<link>https://doi.org/10.1002/adfm.78725</link>
-<guid isPermaLink="false">10.1002/adfm.78725</guid>
-<pubDate>Tue, 29 Sep 2026 00:01:35 GMT</pubDate>
-<description>هیدروژل مشتق از ماتریکس خارج سلولی ریه برای کو-دلیوری متیل پردنیزولون و رسوراترول، با تعدیل ایمنی و کاهش التهاب و بازمدل‌سازی راه‌های هوایی در آسم.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 asthma · hydrogel · dECM · immunomodulation · drug delivery</description>
-<category>asthma</category>
-<category>hydrogel</category>
-<category>dECM</category>
-<category>immunomodulation</category>
-<category>drug delivery</category>
-</item>
-<item>
-<title>An alkaline salting-out liquid membrane enabling ultra-stable alkaline zinc-iron flow battery</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105562</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105562</guid>
-<pubDate>Mon, 28 Sep 2026 23:01:16 GMT</pubDate>
-<description>این مقاله یک غشای مایع قلیایی بر پایه نمک‌زدایی را برای باتری جریانی روی-آهن قلیایی فوق‌پایدار ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-iron flow battery · alkaline membrane · salting-out · liquid membrane · ultra-stable</description>
-<category>zinc-iron flow battery</category>
-<category>alkaline membrane</category>
-<category>salting-out</category>
-<category>liquid membrane</category>
-<category>ultra-stable</category>
-</item>
-<item>
-<title>Tandem Catalysis of Al-Rich Cu/FAU-EMT Intergrowth Zeolites for Boosting the Selective Catalytic Reduction of NOx with Ammonia</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127571</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127571</guid>
-<pubDate>Mon, 28 Sep 2026 23:01:12 GMT</pubDate>
-<description>این مقاله کاتالیزوری دومرحله‌ای با زئولیت‌های درهم‌رشته Cu/FAU-EMT را برای کاهش انتخابی NOx با آمونیاک معرفی می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Cu/FAU-EMT zeolite · tandem catalysis · NH3-SCR · NOx reduction · intergrowth zeolite</description>
-<category>Cu/FAU-EMT zeolite</category>
-<category>tandem catalysis</category>
-<category>NH3-SCR</category>
-<category>NOx reduction</category>
-<category>intergrowth zeolite</category>
-</item>
-<item>
-<title>Pickering-enabled ice-templated self-floating photocatalysts for hydrogen evolution</title>
-<link>https://doi.org/10.1007/s42114-026-02098-7</link>
-<guid isPermaLink="false">10.1007/s42114-026-02098-7</guid>
-<pubDate>Mon, 28 Sep 2026 23:01:09 GMT</pubDate>
-<description>این مقاله با استفاده از امولسیون پیکرینگ و قالب‌گیری یخی، فتوکاتالیست‌های خودشناور برای تولید هیدروژن توسعه می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Pickering emulsion · ice templating · self-floating photocatalyst · hydrogen evolution · photocatalysis</description>
-<category>Pickering emulsion</category>
-<category>ice templating</category>
-<category>self-floating photocatalyst</category>
-<category>hydrogen evolution</category>
-<category>photocatalysis</category>
-</item>
-<item>
-<title>Metal-based photosensitizers for organelle-targeted photodynamic therapy: From ligand design principles to antitumor immunity</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218606</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218606</guid>
-<pubDate>Mon, 28 Sep 2026 22:01:07 GMT</pubDate>
-<description>این مقاله مروری به طراحی لیگاندی حساس‌کننده‌های نوری فلزی برای هدف‌گیری اندامک‌ها در درمان فوتودینامیک و القای ایمنی ضدتوموری می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal photosensitizers · organelle targeting · photodynamic therapy · antitumor immunity · ligand design</description>
-<category>metal photosensitizers</category>
-<category>organelle targeting</category>
-<category>photodynamic therapy</category>
-<category>antitumor immunity</category>
-<category>ligand design</category>
-</item>
-<item>
-<title>Engineering biomimetic extracellular matrix platforms: Material designs, dynamic cues, and translational perspectives</title>
-<link>https://doi.org/10.1016/j.mser.2026.101298</link>
-<guid isPermaLink="false">10.1016/j.mser.2026.101298</guid>
-<pubDate>Mon, 28 Sep 2026 21:01:15 GMT</pubDate>
-<description>این مقاله به مهندسی پلتفرم‌های بیومیمتیک ماتریکس خارج سلولی با طراحی مواد و نشانه‌های دینامیک و چشم‌اندازهای ترجمه‌ای می‌پردازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 biomimetic ECM · material design · dynamic cues · tissue engineering · translational medicine</description>
-<category>biomimetic ECM</category>
-<category>material design</category>
-<category>dynamic cues</category>
-<category>tissue engineering</category>
-<category>translational medicine</category>
 </item>
 </channel>
 </rss>

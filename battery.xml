@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 02:01:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 03:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermal decomposition behavior and thermal stability of dimethyl carbonate-based electrolyte systems: A reactive molecular dynamics study</title>
+<link>https://doi.org/10.1016/j.est.2026.124844</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124844</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:48 GMT</pubDate>
+<description>این مقاله رفتار تجزیه حرارتی و پایداری حرارتی سیستم‌های الکترولیت بر پایه دی‌متیل کربنات را با شبیه‌سازی دینامیک مولکولی واکنشی مطالعه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 dimethyl carbonate · electrolyte · thermal decomposition · reactive molecular dynamics · thermal stability</description>
+<category>dimethyl carbonate</category>
+<category>electrolyte</category>
+<category>thermal decomposition</category>
+<category>reactive molecular dynamics</category>
+<category>thermal stability</category>
+</item>
+<item>
+<title>Cross-condition state-of-charge estimation in CFRP-embedded structural batteries via voltage and dual-path ultrasonic fusion</title>
+<link>https://doi.org/10.1016/j.est.2026.124876</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124876</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:44 GMT</pubDate>
+<description>این مقاله تخمین وضعیت شارژ در باتری‌های ساختاری جاسازی‌شده در CFRP را از طریق ادغام ولتاژ و اولتراسونیک دو مسیره در شرایط مختلف بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 structural battery · state of charge · ultrasonic fusion · CFRP · cross-condition</description>
+<category>structural battery</category>
+<category>state of charge</category>
+<category>ultrasonic fusion</category>
+<category>CFRP</category>
+<category>cross-condition</category>
+</item>
+<item>
+<title>A degradation-aware bidirectional long short-term memory network for explainable and generalizable state-of-health estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.124864</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124864</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:40 GMT</pubDate>
+<description>این مقاله یک شبکه BiLSTM آگاه از تخریب را برای تخمین قابل توضیح و تعمیم‌پذیر وضعیت سلامت باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · BiLSTM · degradation-aware · explainable AI · battery</description>
+<category>state of health</category>
+<category>BiLSTM</category>
+<category>degradation-aware</category>
+<category>explainable AI</category>
+<category>battery</category>
+</item>
+<item>
+<title>A physics-guided transformer for robust state of health estimation in real-world electric vehicles</title>
+<link>https://doi.org/10.1016/j.est.2026.124747</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124747</guid>
+<pubDate>Tue, 29 Sep 2026 03:01:33 GMT</pubDate>
+<description>این مقاله یک ترانسفورماتور فیزیک‌محور را برای تخمین مقاوم وضعیت سلامت در خودروهای الکتریکی واقعی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · transformer · electric vehicles · physics-guided</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>transformer</category>
+<category>electric vehicles</category>
+<category>physics-guided</category>
+</item>
 <item>
 <title>Competitive Coordination Decouples Charge Transport from Viscous Relaxation in Water-in-Salt Electrolytes</title>
 <link>https://doi.org/10.1021/jacs.6c11585</link>
@@ -682,54 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce r
 <category>spatiotemporal regulation</category>
 <category>beyond lithium</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Physics-informed unsupervised battery state-of-charge estimation via temperature-conditioned Mamba and parallel Bayesian inference</title>
-<link>https://doi.org/10.1016/j.est.2026.124571</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124571</guid>
-<pubDate>Sat, 26 Sep 2026 17:02:01 GMT</pubDate>
-<description>این مقاله یک روش یادگیری فیزیک‌محور و بدون نظارت با Mamba شرطی‌شده بر دما و استنتاج بیزی موازی برای تخمین وضعیت شارژ باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · physics-informed learning · Mamba model · Bayesian inference · temperature conditioning</description>
-<category>state of charge</category>
-<category>physics-informed learning</category>
-<category>Mamba model</category>
-<category>Bayesian inference</category>
-<category>temperature conditioning</category>
-</item>
-<item>
-<title>Preparation and performance study of novel polyurethane-based composite phase change materials for battery thermal management</title>
-<link>https://doi.org/10.1016/j.est.2026.124890</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124890</guid>
-<pubDate>Sat, 26 Sep 2026 17:01:57 GMT</pubDate>
-<description>این پژوهش مواد تغییر فاز دهنده کامپوزیتی بر پایه polyurethane را برای مدیریت حرارتی باتری تهیه و عملکرد حرارتی آن را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · polyurethane composite · battery thermal management · thermal conductivity · latent heat</description>
-<category>phase change material</category>
-<category>polyurethane composite</category>
-<category>battery thermal management</category>
-<category>thermal conductivity</category>
-<category>latent heat</category>
-</item>
-<item>
-<title>Comprehensive experimental and computational fluid mechanics analysis of flow channel designs for optimizing zinc–bromine redox flow battery performance</title>
-<link>https://doi.org/10.1016/j.est.2026.124813</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124813</guid>
-<pubDate>Sat, 26 Sep 2026 17:01:53 GMT</pubDate>
-<description>این مقاله با تحلیل تجربی و شبیه‌سازی CFD، طراحی کانال جریان را برای بهبود عملکرد باتری جریان ردوکس zinc-bromine بهینه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-bromine battery · redox flow battery · flow channel design · CFD simulation · mass transport</description>
-<category>zinc-bromine battery</category>
-<category>redox flow battery</category>
-<category>flow channel design</category>
-<category>CFD simulation</category>
-<category>mass transport</category>
-</item>
-<item>
-<title>Explosion characteristics of thermal runaway gases from nickel cobalt manganese (NCM) and lithium iron phosphate (LFP) batteries under elevated temperatures and pressures: Experiments and chemical kinetic analysis</title>
-<link>https://doi.org/10.1016/j.est.2026.124852</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124852</guid>
-<pubDate>Sat, 26 Sep 2026 17:01:49 GMT</pubDate>
-<description>ویژگی‌های انفجار گازهای فرار حرارتی باتری‌های NCM و LFP در دما و فشار بالا با آزمایش و تحلیل سینتیک شیمیایی بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway gas · NCM battery · LFP battery · explosion characteristics · chemical kinetics</description>
-<category>thermal runaway gas</category>
-<category>NCM battery</category>
-<category>LFP battery</category>
-<category>explosion characteristics</category>
-<category>chemical kinetics</category>
 </item>
 </channel>
 </rss>
