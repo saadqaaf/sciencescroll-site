@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 06:01:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 07:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reduced Electron Delocalization via Symmetry Breaking at Single‐Atom Cobalt Sites for Efficient Photocatalytic Plastic Upcycling</title>
+<link>https://doi.org/10.1002/adma.75166</link>
+<guid isPermaLink="false">10.1002/adma.75166</guid>
+<pubDate>Tue, 29 Sep 2026 07:01:13 GMT</pubDate>
+<description>شکست تقارن در سایت‌های تک‌اتمی Co بر PCN با ایجاد Co─N3 نامتقارن، جداسازی بار و فعال‌سازی O2 را تقویت کرده و تبدیل نوری پلی‌استایرن به بنزوئیک اسید را در شرایط ملایم ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 single-atom catalyst · photocatalytic upcycling · carbon nitride · symmetry breaking · polystyrene</description>
+<category>single-atom catalyst</category>
+<category>photocatalytic upcycling</category>
+<category>carbon nitride</category>
+<category>symmetry breaking</category>
+<category>polystyrene</category>
+</item>
+<item>
+<title>Phase‐Confined Ring‐Opening Polymerization Enables Adaptive Wet Adhesion with Dynamic Mechanical Reinforcement</title>
+<link>https://doi.org/10.1002/adma.75175</link>
+<guid isPermaLink="false">10.1002/adma.75175</guid>
+<pubDate>Tue, 29 Sep 2026 07:01:10 GMT</pubDate>
+<description>چسب مرطوب تطبیقی با پلیمریزاسیون بازحلقه‌ای محدودشده در فاز و تقویت دوگانه شبکه ساخته شد که چسبندگی مرطوب سریع و سختی‌شوندگی ناشی از آب‌زدایی مشابه مخاط حلزون دارد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 wet adhesive · coacervate · ring-opening polymerization · phase separation · dynamic reinforcement</description>
+<category>wet adhesive</category>
+<category>coacervate</category>
+<category>ring-opening polymerization</category>
+<category>phase separation</category>
+<category>dynamic reinforcement</category>
+</item>
 <item>
 <title>Free Radical Multiphase Chemistry on Tropospheric Photoreactive Particles</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00549</link>
@@ -710,30 +734,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 covalent organic framewor
 <category>oligomeric complexes</category>
 <category>proteolytic activity</category>
 <category>sensor</category>
-</item>
-<item>
-<title>Tall adhesions overcome cell surface steric interference and rescue antibody-dependent phagocytosis in macrophages</title>
-<link>https://doi.org/10.1038/s41467-026-78095-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78095-7</guid>
-<pubDate>Tue, 29 Sep 2026 01:01:54 GMT</pubDate>
-<description>این مقاله نشان می‌دهد چسبندگی‌های بلند با غلبه بر ممانعت فضایی، فاگوسیتوز وابسته به آنتی‌بادی را در ماکروفاژها بازیابی می‌کنند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 phagocytosis · macrophage · steric interference · tall adhesion · kinetic enhancement</description>
-<category>phagocytosis</category>
-<category>macrophage</category>
-<category>steric interference</category>
-<category>tall adhesion</category>
-<category>kinetic enhancement</category>
-</item>
-<item>
-<title>Aerogel-Stabilized Perovskite Nanocrystals as Robust and Efficient Emitters</title>
-<link>https://doi.org/10.34133/energymatadv.0578</link>
-<guid isPermaLink="false">10.34133/energymatadv.0578</guid>
-<pubDate>Tue, 29 Sep 2026 01:01:50 GMT</pubDate>
-<description>این مقاله نانوکریستال‌های پروسکایتی تثبیت‌شده در آئروژل را به عنوان گسیلنده‌های پایدار و کارآمد معرفی می‌کند.&lt;br&gt;Energy Material Advances | 🔬 Research Article&lt;br&gt;🏷 perovskite nanocrystals · aerogel · emitters · stability · photoluminescence</description>
-<category>perovskite nanocrystals</category>
-<category>aerogel</category>
-<category>emitters</category>
-<category>stability</category>
-<category>photoluminescence</category>
 </item>
 </channel>
 </rss>
