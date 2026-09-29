@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 21:04:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:04:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Simultaneous Bulk Doping and Surface reconstruction Engineering by SeS 2 Treatment Enable Stable High‐Voltage Performance of LiCoO 2 at 4.6 V</title>
+<link>https://doi.org/10.1002/smll.76053</link>
+<guid isPermaLink="false">10.1002/smll.76053</guid>
+<pubDate>Tue, 29 Sep 2026 22:04:06 GMT</pubDate>
+<description>اصلاح LiCoO2 با SeS2 از طریق دوپینگ و بازسازی سطح، ظرفیت ۸۰.۶٪ را پس از ۴۰۰ چرخه در ۴.۶ ولت حفظ می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 SeS₂ treatment simultaneously bulk-dopes LiCoO₂ with Se and reconstructs its surface, forming a Li₂SO₃/Li₂SO₄/Li₂SeO₄ heterojunction coating. This stabilizes lattice oxygen, suppresses phase transitions and interfacial reactions, and builds an inorganic-rich CEI layer. The synergy enables 80.6% capacity retention at 4.6 V after 400 cycles versus 37.8% for pristine, offering a general bulk–surface strategy for high-voltage cathodes.&lt;br&gt;🏷 LiCoO2 · high-voltage cathode · surface reconstruction · SeS2 treatment · bulk doping</description>
+<category>LiCoO2</category>
+<category>high-voltage cathode</category>
+<category>surface reconstruction</category>
+<category>SeS2 treatment</category>
+<category>bulk doping</category>
+</item>
+<item>
+<title>Mitigating the Cooperative Distortion and Phase Transition of P′2 Phase to Prepare Stable Fast‐Charghing Layered Cathode</title>
+<link>https://doi.org/10.1002/smll.75783</link>
+<guid isPermaLink="false">10.1002/smll.75783</guid>
+<pubDate>Tue, 29 Sep 2026 22:03:45 GMT</pubDate>
+<description>کاتد لایه‌ای P′2 با هم‌دوپینگ Cu/Ti، گذار فازی را کاهش داده و شارژ فوق‌سریع پایدار با ظرفیت بالا در باتری یون-سدیم فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting P2 to P′2 Na₀.₆₇Fe₀.₂Mn₀.₈O₂ via oxygen-free re-sintering, plus trace Cu/Ti co-doping. This mitigates cooperative distortion and P′2–P2–OP4 phase transitions, enabling 197.76 mAh g⁻¹ at 0.2C and 99.35% retention after 100 cycles at 20C. It offers a structural design strategy for fast-charging, stable sodium-ion layered cathodes.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · P2 phase · fast charging · co-doping</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>P2 phase</category>
+<category>fast charging</category>
+<category>co-doping</category>
+</item>
+<item>
+<title>Electrochemically Boosting Redox Kinetics of Polysulfides via Heterostructure of MoN‐ZnS</title>
+<link>https://doi.org/10.1002/smll.76050</link>
+<guid isPermaLink="false">10.1002/smll.76050</guid>
+<pubDate>Tue, 29 Sep 2026 22:03:33 GMT</pubDate>
+<description>هترواستراتژی MoN-ZnS توخالی با تسریع انتقال بار و تثبیت پلی‌سولفیدها، عملکرد الکتروشیمیایی باتری لیتیوم-گوگرد را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 MoN‐ZnS heterostructure with hollow polyhedral architecture is novel for Li‐S batteries, combining MoN&amp;#x27;s conductive network with ZnS&amp;#x27;s polar polysulfide anchoring. DFT reveals enhanced charge transfer and redox kinetics via energy‐level modulation. Delivering 922 mAh g⁻¹ at 0.1 C, it effectively suppresses shuttle effects, offering a promising design strategy for high‐performance lithium‐sulfur batteries.&lt;br&gt;🏷 lithium-sulfur battery · MoN-ZnS heterostructure · polysulfide shuttle · redox kinetics · hollow polyhedron</description>
+<category>lithium-sulfur battery</category>
+<category>MoN-ZnS heterostructure</category>
+<category>polysulfide shuttle</category>
+<category>redox kinetics</category>
+<category>hollow polyhedron</category>
+</item>
+<item>
+<title>Spatially Decoupled Polysulfide Trapping and Catalytic Conversion in Pyridine‐Rich Covalent Organic Framework for Li‐S Batteries</title>
+<link>https://doi.org/10.1002/smll.76041</link>
+<guid isPermaLink="false">10.1002/smll.76041</guid>
+<pubDate>Tue, 29 Sep 2026 22:03:25 GMT</pubDate>
+<description>COF غنی از پیریدین با کبالت اتمی به‌عنوان میزبان دوکاره، جداسازی فضایی تله‌اندازی پلی‌سولفید و تبدیل کاتالیستی را در باتری Li-S ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pyridine-rich covalent organic framework (PCOF) that spatially decouples polysulfide trapping from catalytic conversion via separate PCOF and Co@PCOF sites. This design enhances binding, lowers the Li₂S₂→Li₂S barrier, and boosts redox kinetics, enabling high capacity (952 mAh g⁻¹), superior efficiency, and stable cycling—offering a rational strategy for high-performance Li-S batteries.&lt;br&gt;🏷 Li-S battery · covalent organic framework · polysulfide trapping · cobalt catalysis · pyridine</description>
+<category>Li-S battery</category>
+<category>covalent organic framework</category>
+<category>polysulfide trapping</category>
+<category>cobalt catalysis</category>
+<category>pyridine</category>
+</item>
+<item>
+<title>Enhancing Na-ion conduction in Na3Zr2Si2PO12 electrolyte for solid-state sodium batteries via Na/Si/P ratio regulation strategy</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.050</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.050</guid>
+<pubDate>Tue, 29 Sep 2026 22:01:45 GMT</pubDate>
+<description>تنظیم نسبت Na/Si/P در الکترولیت Na3Zr2Si2PO12، رسانش یون سدیم را برای باتری‌های حالت جامد سدیم تقویت می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · Na3Zr2Si2PO12 · sodium-ion conduction · Na/Si/P ratio · solid electrolyte</description>
+<category>solid-state battery</category>
+<category>Na3Zr2Si2PO12</category>
+<category>sodium-ion conduction</category>
+<category>Na/Si/P ratio</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Synergistic electrode/electrolyte optimization enables efficient dissolution-deposition chemistry in Zn-MnO2 batteries</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.051</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.051</guid>
+<pubDate>Tue, 29 Sep 2026 22:01:41 GMT</pubDate>
+<description>بهینه‌سازی هم‌افزای الکترود و الکترولیت، شیمی انحلال-رسوب را در باتری‌های Zn-MnO2 کارآمد می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 Zn-MnO2 battery · electrode optimization · electrolyte optimization · dissolution-deposition · energy storage</description>
+<category>Zn-MnO2 battery</category>
+<category>electrode optimization</category>
+<category>electrolyte optimization</category>
+<category>dissolution-deposition</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Breaking the limitations of ZnSe anodes: Boosting sodium-ion kinetics via electronic structure regulation and morphology design</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.053</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.053</guid>
+<pubDate>Tue, 29 Sep 2026 22:01:37 GMT</pubDate>
+<description>با تنظیم ساختار الکترونی و طراحی مورفولوژی، سینتیک آندی ZnSe در باتری یون سدیم بهبود می‌یابد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 ZnSe anode · sodium-ion battery · electronic structure · morphology design · reaction kinetics</description>
+<category>ZnSe anode</category>
+<category>sodium-ion battery</category>
+<category>electronic structure</category>
+<category>morphology design</category>
+<category>reaction kinetics</category>
+</item>
 <item>
 <title>Weak-Solvation Molecular Ion Gates Enabling Multipath Li + Hopping and Air Stability in Garnet/Poly(ethylene oxide) Electrolytes</title>
 <link>https://doi.org/10.1021/jacs.6c15811</link>
@@ -649,90 +733,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>charge reconfiguration</category>
 <category>self-adaptive volume</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Soft-Templated Carbon Models Elucidate the Anomalous Increase of Capacitance in Nanopores</title>
-<link>https://doi.org/10.1021/acsnano.6c11953</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11953</guid>
-<pubDate>Mon, 28 Sep 2026 15:02:16 GMT</pubDate>
-<description>این مقاله با مدل‌سازی soft-templating و پتانسیل بین‌اتمی یادگیری ماشین نشان می‌دهد که در بی‌نظمی ثابت، کاهش اندازه حفره زیر ۱ نانومتر ظرفیت ابرخازن را افزایش می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a machine-learning-powered soft-templating protocol to generate disordered carbon models with controlled pore sizes, isolating confinement effects from disorder. Significance: constant-potential simulations show capacitance rises as pores shrink below 1 nm at fixed disorder, reconciling confinement- and disorder-based views and offering unified design principles for supercapacitors.&lt;br&gt;🏷 nanoporous carbon · supercapacitor · soft-templating · machine-learning potential · confinement capacitance</description>
-<category>nanoporous carbon</category>
-<category>supercapacitor</category>
-<category>soft-templating</category>
-<category>machine-learning potential</category>
-<category>confinement capacitance</category>
-</item>
-<item>
-<title>Mechanistic Control of Cathode–Electrolyte Interphase Formation in Gel Polymer Electrolyte for Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/anie.1297472</link>
-<guid isPermaLink="false">10.1002/anie.1297472</guid>
-<pubDate>Mon, 28 Sep 2026 15:02:10 GMT</pubDate>
-<description>این مقاله با افزودنی TFPP و پروتکل تشکیل کنترل‌شده، تشکیل CEI غنی از LiF را در باتری لیتیوم-یونی با الکترولیت ژل پلیمری تقویت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work is novel in using tris(4-fluorophenyl)phosphine (TFPP) with a tailored formation protocol to control residual monomer degradation in in-situ gel polymer electrolytes. TFPP preferentially decomposes before monomer oxidation, forming a LiF-rich inner cathode–electrolyte interphase. This suppresses side reactions and enables a 2 Ah pouch cell with 303 Wh kg⁻¹ and 82.8% retention after 150 cycles under lean electrolyte.&lt;br&gt;🏷 gel polymer electrolyte · cathode-electrolyte interphase · lithium-ion battery · TFPP additive · high-nickel cathode</description>
-<category>gel polymer electrolyte</category>
-<category>cathode-electrolyte interphase</category>
-<category>lithium-ion battery</category>
-<category>TFPP additive</category>
-<category>high-nickel cathode</category>
-</item>
-<item>
-<title>Escaping the Polymerization-Kinetics Trap in Ether Electrolytes for Durable Silicon Interphases</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01885</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01885</guid>
-<pubDate>Mon, 28 Sep 2026 14:02:23 GMT</pubDate>
-<description>افزودن ۰٫۲ مولار LiNO3 به الکترولیت اتری، تله سینتیک پلیمریزاسیون تری‌اکسان را مهار کرده و با پایدارسازی اینترفاز، حفظ ۸۱٫۱٪ ظرفیت آند Si/C پس از ۴۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying a polymerization-kinetics trap: stronger polymerization in trioxane electrolytes worsens silicon interphase durability by depleting species prematurely. Adding LiNO3 suppresses early trioxane activation while enabling nitrate-derived passivation, yielding a thinner, coherent interphase. This kinetic regulation significantly improves cycling stability, offering a new design principle for durable silicon anodes.&lt;br&gt;🏷 silicon anode · ether electrolyte · solid electrolyte interphase · LiNO3 · polymerization kinetics</description>
-<category>silicon anode</category>
-<category>ether electrolyte</category>
-<category>solid electrolyte interphase</category>
-<category>LiNO3</category>
-<category>polymerization kinetics</category>
-</item>
-<item>
-<title>Low‐Concentration Hydrated Eutectic Electrolyte Design for High‐Performance Aqueous K‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.78783</link>
-<guid isPermaLink="false">10.1002/adfm.78783</guid>
-<pubDate>Mon, 28 Sep 2026 14:02:03 GMT</pubDate>
-<description>الکترولیت اوتکتیک هیدراته کم‌غلظت 2.45 m KFSI-Bds-H2O با پنجره پایداری ۳.۷ ولت، باتری یون پتاسیم آبی با چگالی انرژی ۱۰۰ وات‌ساعت بر کیلوگرم و پایداری ۲۰۰۰ چرخه ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a low-concentration hydrated eutectic electrolyte (2.45 m KFSI-Bds-H₂O) for aqueous K-ion batteries, achieving a wide 3.7 V stability window, low viscosity, high conductivity, and non-flammability. Bds regulates hydrogen bonding and K⁺ solvation, enabling 100 Wh kg⁻¹ energy density, 75.1% retention over 2000 cycles, and operation from −20 to 60°C—offering a low-cost, safe, long-life strategy.&lt;br&gt;🏷 aqueous K-ion battery · eutectic electrolyte · KFSI · electrochemical stability window · energy storage</description>
-<category>aqueous K-ion battery</category>
-<category>eutectic electrolyte</category>
-<category>KFSI</category>
-<category>electrochemical stability window</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>A Fluidic and Sodiophilic Liquid Metal Current Collector for Dendrite‐Free and Stable Anode‐Free Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71640</link>
-<guid isPermaLink="false">10.1002/aenm.71640</guid>
-<pubDate>Mon, 28 Sep 2026 12:01:32 GMT</pubDate>
-<description>کلکتور جریان مایع Ga-In-Sn سدیم‌دوست، رسوب بدون دندریت Na را ممکن کرده و باتری سدیم بدون آند با Na3V2(PO4)3 را پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a scalable Ga-In-Sn liquid metal-modified copper current collector (LM@Cu) that leverages intrinsic fluidity and sodiophilicity to lower Na nucleation barriers, enabling uniform, dendrite-free Na deposition in anode-free sodium batteries. It forms a stable NaF-rich interphase, achieving ~80% capacity retention after 100 cycles versus failure within 30 cycles for bare Cu, offering a promising strategy for stable, high-energy-density AFSMBs.&lt;br&gt;🏷 anode-free sodium battery · liquid metal current collector · dendrite-free deposition · sodiophilic Ga-In-Sn · NaF-rich SEI</description>
-<category>anode-free sodium battery</category>
-<category>liquid metal current collector</category>
-<category>dendrite-free deposition</category>
-<category>sodiophilic Ga-In-Sn</category>
-<category>NaF-rich SEI</category>
-</item>
-<item>
-<title>Synergetic Regulation of Enthalpy‐Entropy via Dipole Interactions Enabling Textured and Low‐Temperature Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71655</link>
-<guid isPermaLink="false">10.1002/aenm.71655</guid>
-<pubDate>Mon, 28 Sep 2026 12:01:23 GMT</pubDate>
-<description>الکترولیت اوتکتیک آبی با اثرات آنتالپی-آنتروپی هم‌افزا، رسوب Zn (002) و باتری‌های یون روی آبی را در دمای پایین تا -50°C پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a hydrated eutectic high-entropy electrolyte coupling diverse solvation with interfacial dipole regulation, synergistically tuning enthalpy and entropy. It enables organic-rich gradient interphases, suppresses water activity, and induces Zn(002) deposition, achieving ultra-stable cycling from 25°C to −50°C. This offers a promising strategy for durable wide-temperature aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · high-entropy electrolyte · dipole interactions · Zn (002) deposition · low-temperature electrolyte</description>
-<category>aqueous zinc-ion battery</category>
-<category>high-entropy electrolyte</category>
-<category>dipole interactions</category>
-<category>Zn (002) deposition</category>
-<category>low-temperature electrolyte</category>
-</item>
-<item>
-<title>Multi‐Li + Coordination for Superior Room‐Temperature Ionic Conductivity in PEO Solid Electrolytes</title>
-<link>https://doi.org/10.1002/adma.75158</link>
-<guid isPermaLink="false">10.1002/adma.75158</guid>
-<pubDate>Mon, 28 Sep 2026 11:01:33 GMT</pubDate>
-<description>افزودن PCE فسفونات‌دار به الکترولیت جامد PEO با مکانیزم هم‌آرایی چند-Li+ رسانایی یونی را به 1.7×10−4 S cm−1 در ۳۰°C افزایش داده و عملکرد باتری حالت جامد Li||LiFePO4 را بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Phosphonate-functionalized PCE overcomes tight Li⁺-PEO chelation and poor salt dissociation via multi-Li⁺ coordination, where electrostatic repulsion destabilizes solvation and enables rapid Li⁺ hopping. This yields high ionic conductivity (1.7×10⁻⁴ S cm⁻¹, 30°C) without liquid plasticizers, plus high-capacity Li||LiFePO₄ cells. It offers a simple strategy and molecular-level insights for high-performance solid-state batteries.&lt;br&gt;🏷 PEO solid electrolyte · multi-Li+ coordination · phosphonate PCE · ionic conductivity · solid-state battery</description>
-<category>PEO solid electrolyte</category>
-<category>multi-Li+ coordination</category>
-<category>phosphonate PCE</category>
-<category>ionic conductivity</category>
-<category>solid-state battery</category>
 </item>
 </channel>
 </rss>
