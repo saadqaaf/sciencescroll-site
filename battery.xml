@@ -5,8 +5,96 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 20:02:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 21:04:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Weak-Solvation Molecular Ion Gates Enabling Multipath Li + Hopping and Air Stability in Garnet/Poly(ethylene oxide) Electrolytes</title>
+<link>https://doi.org/10.1021/jacs.6c15811</link>
+<guid isPermaLink="false">10.1021/jacs.6c15811</guid>
+<pubDate>Tue, 29 Sep 2026 21:04:44 GMT</pubDate>
+<description>استراتژی دروازه یونی مولکولی با پیوند شیمیایی به LLZTO، پایداری هوا و انتقال Li+ را در الکترولیت کامپوزیت PEO بهبود می‌بخشد و باتری‌های لیتیومی پایدار ارائه می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a weak-solvation molecular ion gate (WSMI) that chemically anchors 4-methoxy-2-(trifluoromethyl)benzoic acid onto LLZTO, removing Li2CO3 and enabling multipath Li+ hopping. It simultaneously boosts air stability, Li+ transference (0.622), and cycling life, offering a new interfacial design principle for garnet/PEO solid-state batteries.&lt;br&gt;🏷 composite polymer electrolyte · LLZTO · PEO · weak solvation · air stability</description>
+<category>composite polymer electrolyte</category>
+<category>LLZTO</category>
+<category>PEO</category>
+<category>weak solvation</category>
+<category>air stability</category>
+</item>
+<item>
+<title>High-Performance Rechargeable Anionic Zn–Cu Batteries with Facile Recyclability</title>
+<link>https://doi.org/10.1021/jacs.6c10655</link>
+<guid isPermaLink="false">10.1021/jacs.6c10655</guid>
+<pubDate>Tue, 29 Sep 2026 21:04:34 GMT</pubDate>
+<description>باتری آبی روی-مس با آنولیت و کاتولیت کمپلکس آنیونی برومید، ظرفیت ۴ mAh/cm2، بازدهی ۹۰٪ و بازیافت‌پذیری ۹۷٪ روی و ۱۰۰٪ مس را نشان می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using bromide-complexed anionic Zn–Cu chemistry with a cation exchange membrane, enabling high areal capacity, long cycling, low self-discharge, and Ah-scale scalability. Its significance is exceptional recyclability (~97% Zn, ~100% Cu) via simple, low-cost processes, making AZC batteries promising for sustainable, low-cost, high-performance large-scale energy storage.&lt;br&gt;🏷 zinc-copper battery · anionic electrolyte · recyclability · aqueous battery · cation exchange membrane</description>
+<category>zinc-copper battery</category>
+<category>anionic electrolyte</category>
+<category>recyclability</category>
+<category>aqueous battery</category>
+<category>cation exchange membrane</category>
+</item>
+<item>
+<title>Molecular-Level Cleavage and Kinetics Optimization in PVDF Electrolytes for Anode-Lean Ultrastable Solid-State Sodium Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c03378</link>
+<guid isPermaLink="false">10.1021/jacs.6c03378</guid>
+<pubDate>Tue, 29 Sep 2026 21:04:09 GMT</pubDate>
+<description>الکترولیت PVDF با Na3P به عنوان نانوفیلر دوکاره، رسانایی یونی را افزایش و سد انرژی را کاهش می‌دهد و باتری سدیم حالت جامد با افت ظرفیت ۰٫۰۰۲٪ در هر چرخه را ممکن می‌سازد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Na3P in PVDF electrolytes cleaves C–F bonds, lowering crystallinity and releasing F– to form a NaF-rich interphase. It also acts as a fast-ion conductor, cutting desolvation and F– migration barriers, boosting conductivity to 6.93×10–4 S cm–1. This enables anode-lean solid-state sodium batteries with ultralong cycling stability and practical pouch-cell performance.&lt;br&gt;🏷 solid-state sodium battery · PVDF electrolyte · Na3P nanofiller · anode-lean · NaF-rich SEI</description>
+<category>solid-state sodium battery</category>
+<category>PVDF electrolyte</category>
+<category>Na3P nanofiller</category>
+<category>anode-lean</category>
+<category>NaF-rich SEI</category>
+</item>
+<item>
+<title>Electrostatically Coupled High-Modulus Interphase with Synergistic Anion–Cation Regulation for Stable Zn Anodes</title>
+<link>https://doi.org/10.1021/jacs.6c14681</link>
+<guid isPermaLink="false">10.1021/jacs.6c14681</guid>
+<pubDate>Tue, 29 Sep 2026 21:03:45 GMT</pubDate>
+<description>یک لایه بین‌سطحی با مدول بالا و بار غنی از طریق جفت‌شدگی الکترواستاتیک، آندهای Zn را برای باتری‌های آبی روی پایدار می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an electrostatically coupled PAMPS–PB interphase combining high modulus with synergistic anion–cation regulation. It accelerates Zn2+ desolvation, homogenizes ion flux, and suppresses dendrites and side reactions, enabling 2200 h symmetric-cell cycling and 3500 cycles in full cells. This offers a robust interfacial design strategy for stable, high-performance aqueous zinc batteries.&lt;br&gt;🏷 Zn anode · aqueous zinc battery · interfacial layer · dendrite suppression · electrostatic coupling</description>
+<category>Zn anode</category>
+<category>aqueous zinc battery</category>
+<category>interfacial layer</category>
+<category>dendrite suppression</category>
+<category>electrostatic coupling</category>
+</item>
+<item>
+<title>Dynamically Constructing Lanthanum Oxide on Ruthenium to Enhance Lithium‐Oxygen Interfacial Reactions</title>
+<link>https://doi.org/10.1002/anie.1656625</link>
+<guid isPermaLink="false">10.1002/anie.1656625</guid>
+<pubDate>Tue, 29 Sep 2026 21:02:15 GMT</pubDate>
+<description>این کار با ساخت نانوکریستال‌های La2O3 روی Ru، کاتالیست کاتدی بازتولیدپذیری برای باتری لیتیوم-اکسیژن ارائه می‌دهد که ظرفیت و پایداری چرخه‌ای را بهبود می‌بخشد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a charge/discharge-regulated, reversible La₂O₃ formation–decomposition on Ru, creating an adaptive heterojunction catalyst. This resolves the trade-off between capacity and cycling stability in lithium-oxygen batteries, enabling 5000 mAh g⁻¹ over 46 cycles with low overpotential and improved reversibility, offering a paradigm for durable, high-capacity adaptive catalysts.&lt;br&gt;🏷 lithium-oxygen battery · La2O3-Ru · cathode catalyst · heterojunction · oxygen evolution</description>
+<category>lithium-oxygen battery</category>
+<category>La2O3-Ru</category>
+<category>cathode catalyst</category>
+<category>heterojunction</category>
+<category>oxygen evolution</category>
+</item>
+<item>
+<title>Electronic spatialization induced boron-rich interphase for `high-energy ether-based sodium metal batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112452</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112452</guid>
+<pubDate>Tue, 29 Sep 2026 21:01:56 GMT</pubDate>
+<description>فضایی‌سازی الکترونی، فاز میانی غنی از بور را برای باتری‌های سدیم-فلز اتری پرانرژی القا می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium metal battery · ether electrolyte · boron-rich interphase · electronic spatialization · high-energy</description>
+<category>sodium metal battery</category>
+<category>ether electrolyte</category>
+<category>boron-rich interphase</category>
+<category>electronic spatialization</category>
+<category>high-energy</category>
+</item>
+<item>
+<title>Coupling Charge-Trap Engineering with Self-Crosslinking in Poly(4-methyl-1-pentene) Dielectrics for High-Temperature Capacitive Energy Storage</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112451</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112451</guid>
+<pubDate>Tue, 29 Sep 2026 21:01:52 GMT</pubDate>
+<description>مهندسی تله‌بار همراه با خوداتصال‌دهی در دی‌الکتریک پلی(۴-متیل-۱-پنتن) برای ذخیره‌سازی انرژی خازنی دمای بالا به کار رفته است.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 capacitive energy storage · charge-trap engineering · self-crosslinking · poly(4-methyl-1-pentene) · high-temperature dielectrics</description>
+<category>capacitive energy storage</category>
+<category>charge-trap engineering</category>
+<category>self-crosslinking</category>
+<category>poly(4-methyl-1-pentene)</category>
+<category>high-temperature dielectrics</category>
+</item>
 <item>
 <title>Engineering a Fluorinated AlPO 4 Interface: Toward High Initial Coulombic Efficiency and Stable Oxygen Redox in Li‐Rich Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1002/adfm.78762</link>
@@ -645,90 +733,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>phosphonate PCE</category>
 <category>ionic conductivity</category>
 <category>solid-state battery</category>
-</item>
-<item>
-<title>Quantitative tracking of sodium plating in hard carbon anodes</title>
-<link>https://doi.org/10.1016/j.esci.2026.100649</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100649</guid>
-<pubDate>Mon, 28 Sep 2026 10:01:19 GMT</pubDate>
-<description>این مقاله به ردیابی کمی آبکاری سدیم در آندهای کربن سخت می‌پردازد و بینش‌هایی برای باتری‌های یون-سدیم ارائه می‌دهد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium plating · hard carbon · anode · quantitative tracking · sodium-ion battery</description>
-<category>sodium plating</category>
-<category>hard carbon</category>
-<category>anode</category>
-<category>quantitative tracking</category>
-<category>sodium-ion battery</category>
-</item>
-<item>
-<title>Toward practical all-solid-state lithium–sulfur batteries: from reaction mechanisms to engineering strategies</title>
-<link>https://doi.org/10.1039/d6cs00312e</link>
-<guid isPermaLink="false">10.1039/d6cs00312e</guid>
-<pubDate>Mon, 28 Sep 2026 10:01:15 GMT</pubDate>
-<description>این مرور چارچوبی جامع برای باتری‌های لیتیوم-سولفور تمام‌حالت‌جامد عملی ارائه می‌دهد و مکانیزم‌های واکنش سولفور، چالش‌های سطح مشترک و راهبردهای مهندسی را به هم مرتبط می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely bridges fundamental sulfur reaction mechanisms with practical engineering strategies for all-solid-state lithium–sulfur batteries. Its significance lies in providing an integrated framework that connects interfacial challenges to scalable design solutions, guiding the field toward high-performance, commercially viable solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur battery · reaction mechanism · interfacial challenge · engineering strategy</description>
-<category>all-solid-state battery</category>
-<category>lithium-sulfur battery</category>
-<category>reaction mechanism</category>
-<category>interfacial challenge</category>
-<category>engineering strategy</category>
-</item>
-<item>
-<title>Aqueous zinc-ion battery energy storage performance reinforced by small-molecule organic electrolyte additives through multifunctional synergistic regulation mechanisms</title>
-<link>https://doi.org/10.1016/j.est.2026.124875</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124875</guid>
-<pubDate>Mon, 28 Sep 2026 07:01:47 GMT</pubDate>
-<description>افزودنی‌های الکترولیت آلی مولکول کوچک با تنظیم هم‌افزایانه چندکاره، عملکرد ذخیره‌سازی انرژی باتری آبی یون روی را تقویت می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · organic electrolyte additive · small molecule · synergistic regulation · energy storage</description>
-<category>aqueous zinc-ion battery</category>
-<category>organic electrolyte additive</category>
-<category>small molecule</category>
-<category>synergistic regulation</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Experimental investigation and simulation of thermal and electrical performance of laser welded aluminium-based busbars for electric vehicle batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124821</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124821</guid>
-<pubDate>Mon, 28 Sep 2026 07:01:39 GMT</pubDate>
-<description>عملکرد حرارتی و الکتریکی باسبارهای آلومینیومی جوش‌کاری‌شده با لیزر برای باتری‌های خودروهای برقی به صورت تجربی و شبیه‌سازی بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 laser welding · aluminium busbars · electric vehicle batteries · thermal performance · electrical performance</description>
-<category>laser welding</category>
-<category>aluminium busbars</category>
-<category>electric vehicle batteries</category>
-<category>thermal performance</category>
-<category>electrical performance</category>
-</item>
-<item>
-<title>Humidity-modulated synthesis of surface-oxidized nickel phosphide‑carbon nanofibers as multi-functional sulfur hosts for lithium‑sulfur batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124869</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124869</guid>
-<pubDate>Mon, 28 Sep 2026 07:01:29 GMT</pubDate>
-<description>نانوالیاف کربنی نیکل فسفید اکسیدشده سطحی با تنظیم رطوبت ساخته شده و به عنوان میزبان گوگرد چندکاره برای باتری‌های لیتیوم-گوگرد به کار می‌رود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · nickel phosphide · carbon nanofibers · sulfur host · humidity-modulated synthesis</description>
-<category>lithium-sulfur battery</category>
-<category>nickel phosphide</category>
-<category>carbon nanofibers</category>
-<category>sulfur host</category>
-<category>humidity-modulated synthesis</category>
-</item>
-<item>
-<title>In Situ Generation of Gel Foam via Heat‐Accelerated Calcium Ion Release From Nano‐CaCO 3 for Lithium‐Ion Battery Fire Suppression and Prevention</title>
-<link>https://doi.org/10.1002/advs.77882</link>
-<guid isPermaLink="false">10.1002/advs.77882</guid>
-<pubDate>Mon, 28 Sep 2026 06:03:02 GMT</pubDate>
-<description>فوم ژل آلژینات با آزادسازی سریع Ca2+ از نانو-CaCO3 در اثر گرما، آتش باتری لیتیوم-یون را خاموش کرده و از گسترش فرار حرارتی در ماژول‌های چندسلولی جلوگیری می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a thermally triggered in situ gelling foam using nano-CaCO3 and GDL, enabling alginate crosslinking only upon battery fire exposure. The strategy combines low-viscosity foamability with fire-activated gelation, forming a stable adhesive barrier that outperforms water mist, spray, and AFFF in suppressing single-cell fires and preventing thermal runaway propagation, offering a promising safety solution for lithium-ion battery systems.&lt;br&gt;🏷 lithium-ion battery · fire suppression · gel foam · nano-CaCO3 · thermal runaway</description>
-<category>lithium-ion battery</category>
-<category>fire suppression</category>
-<category>gel foam</category>
-<category>nano-CaCO3</category>
-<category>thermal runaway</category>
-</item>
-<item>
-<title>Depth‐to‐Areal Staging Heterogeneity Preceding Lithium Plating in Graphite Anodes Revealed by Operando Imaging</title>
-<link>https://doi.org/10.1002/advs.77918</link>
-<guid isPermaLink="false">10.1002/advs.77918</guid>
-<pubDate>Mon, 28 Sep 2026 06:02:16 GMT</pubDate>
-<description>تصویربرداری operando نشان می‌دهد که ناهمگنی staging در آند گرافیت تحت کنترل سینتیک شارژ، مکان‌های شروع پلاتینگ لیتیوم را تعیین می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely resolves how graphite staging heterogeneity evolves in 3D and scales with charging kinetics, revealing that lithium plating is spatially templated by pre-existing staging non-uniformity rather than random nucleation. It establishes staging heterogeneity as a kinetically controlled precursor to plating and provides a general operando framework for diagnosing heterogeneity-driven behavior in insertion electrodes.&lt;br&gt;🏷 graphite anode · lithium plating · staging heterogeneity · operando imaging · charging kinetics</description>
-<category>graphite anode</category>
-<category>lithium plating</category>
-<category>staging heterogeneity</category>
-<category>operando imaging</category>
-<category>charging kinetics</category>
 </item>
 </channel>
 </rss>
