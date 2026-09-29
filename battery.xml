@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 12:03:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 13:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Programming the Electrostatic Landscape for Fast Na+ Transport in NASICON Solid Electrolytes</title>
+<link>https://doi.org/10.1039/d6mh01373b</link>
+<guid isPermaLink="false">10.1039/d6mh01373b</guid>
+<pubDate>Tue, 29 Sep 2026 13:01:32 GMT</pubDate>
+<description>برنامه‌ریزی چشم‌انداز الکترواستاتیکی، انتقال سریع یون سدیم را در الکترولیت جامد NASICON ممکن می‌سازد.&lt;br&gt;Materials Horizons | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work reveals that the electrostatic energy landscape, not just geometry or carrier concentration, governs fast Na+ transport in NASICON solid electrolytes. By programming this landscape, the authors establish a new design principle for optimizing ionic conductivity, offering significant potential for advancing solid-state batteries.&lt;br&gt;🏷 solid electrolyte · NASICON · sodium ion transport · electrostatic landscape · ionic conductivity</description>
+<category>solid electrolyte</category>
+<category>NASICON</category>
+<category>sodium ion transport</category>
+<category>electrostatic landscape</category>
+<category>ionic conductivity</category>
+</item>
+<item>
+<title>Medium‐Entropy Doping Stimulated Multielectron Redox for Ultrastable High‐Capacity Na 3 V 2 (PO 4 ) 3</title>
+<link>https://doi.org/10.1002/sstr.70614</link>
+<guid isPermaLink="false">10.1002/sstr.70614</guid>
+<pubDate>Tue, 29 Sep 2026 13:01:21 GMT</pubDate>
+<description>دوپینگ آنتروپی متوسط در کاتد NASICON ظرفیت ۱۶۰٫۱ mAh/g و پایداری ۱۰۰٪ پس از ۴۰۰۰ چرخه را با فعال‌سازی جفت V4+/V5+ فراهم می‌کند.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Medium-entropy doping of NASICON Na₃V₂(PO₄)₃ activates the V⁴⁺/V⁵⁺ couple, enabling stepwise multielectron redox (Ti, Fe, V) over 1.5–4.6 V. This yields 160.1 mAh g⁻¹, 475 Wh kg⁻¹, and 100% capacity retention after 4000 cycles at 20 C, while reducing vanadium content. It establishes medium-entropy engineering as a viable strategy for high-performance polyanion cathodes.&lt;br&gt;🏷 sodium-ion battery · NASICON cathode · medium-entropy doping · multielectron redox · cycling stability</description>
+<category>sodium-ion battery</category>
+<category>NASICON cathode</category>
+<category>medium-entropy doping</category>
+<category>multielectron redox</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>2D Vermiculite Nanosheets Encapsulated in Hydrogel Electrolyte for Shuttle‐Free and Dendrite‐Inhibited Zinc‐Iodine Batteries</title>
 <link>https://doi.org/10.1002/advs.78083</link>
@@ -705,30 +729,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>MIEC garnet</category>
 <category>lithium nucleation</category>
 <category>percolation</category>
-</item>
-<item>
-<title>Operando Attenuated Total Reflectance Far‐Ultraviolet Spectroscopic Analysis at the Cathode/Electrolyte Interface</title>
-<link>https://doi.org/10.1002/anie.6529709</link>
-<guid isPermaLink="false">10.1002/anie.6529709</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:17 GMT</pubDate>
-<description>این مقاله با روش طیف‌سنجی operando ATR-FUV، تشکیل CEI را در فصل مشترک کاتد/الکترولیت باتری لیتیوم-یون بررسی و مسیر پروتون‌زدایی را شناسایی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Operando ATR-FUV spectroscopy enables direct probing of cathode/electrolyte interfaces, revealing a chemically driven proton-abstraction pathway forming dehydrogenated EC and VC at ~3.9 V—below electrochemical oxidation onset. This identifies a distinct, voltage-driven yet chemically initiated CEI formation mechanism, providing molecular-level insights for designing stable high-voltage Li-ion batteries.&lt;br&gt;🏷 cathode-electrolyte interface · operando ATR-FUV · CEI formation · Li-ion battery · high-voltage</description>
-<category>cathode-electrolyte interface</category>
-<category>operando ATR-FUV</category>
-<category>CEI formation</category>
-<category>Li-ion battery</category>
-<category>high-voltage</category>
-</item>
-<item>
-<title>Unraveling the Decoupled Roles of Synergistic Li/F dual-site Co-Doping in P2/O3 Biphasic Cathodes for Advanced Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112439</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112439</guid>
-<pubDate>Sun, 27 Sep 2026 09:01:12 GMT</pubDate>
-<description>این مقاله نقش جداگانه و هم‌افزای دوپینگ همزمان Li و F را در کاتدهای دوفازی P2/O3 برای باتری‌های یون سدیم بررسی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · P2/O3 biphasic cathode · Li/F co-doping · synergistic dual-site · cathode</description>
-<category>sodium-ion battery</category>
-<category>P2/O3 biphasic cathode</category>
-<category>Li/F co-doping</category>
-<category>synergistic dual-site</category>
-<category>cathode</category>
 </item>
 </channel>
 </rss>
