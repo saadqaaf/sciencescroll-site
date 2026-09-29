@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 16:01:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 17:02:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rechargeable Seawater Battery Coupled to Solar Seawater Desalination With a Mutual Enhancement Effect</title>
+<link>https://doi.org/10.1002/adma.75173</link>
+<guid isPermaLink="false">10.1002/adma.75173</guid>
+<pubDate>Tue, 29 Sep 2026 17:01:47 GMT</pubDate>
+<description>باتری آب دریا با ε-MnO2 و نمک‌زدایی خورشیدی یکپارچه شده و اثر تقویت متقابل نشان می‌دهند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 ε-MnO₂ acts as both an ion-storage cathode for rechargeable seawater batteries and a photothermal material for solar desalination. Integrating the two yields a mutual enhancement effect: battery capacity and seawater evaporation both increase during charge/discharge, unlike traditional integrations. This bifunctional coupling offers a new strategy for combined energy storage and clean water production.&lt;br&gt;🏷 seawater battery · solar desalination · epsilon-MnO2 · mutual enhancement · photothermal</description>
+<category>seawater battery</category>
+<category>solar desalination</category>
+<category>epsilon-MnO2</category>
+<category>mutual enhancement</category>
+<category>photothermal</category>
+</item>
+<item>
+<title>Medium‐Entropy‐Vacancy Engineering Unlocks Energy‐Power Trade‐Off Reconciliation in Sodium‐Ion Hybrid Capacitors</title>
+<link>https://doi.org/10.1002/adma.75186</link>
+<guid isPermaLink="false">10.1002/adma.75186</guid>
+<pubDate>Tue, 29 Sep 2026 17:01:31 GMT</pubDate>
+<description>مهندسی آنتروپی-تهی‌جای متوسط در کاتد Na3Fe0.6Al0.4V(PO4)3، مبادله انرژی-توان در خازن‌های هیبریدی سدیم-یون را حل می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers medium-entropy-vacancy engineering in sodium-ion hybrid capacitors, using a Na3Fe0.6Al0.4V(PO4)3 cathode to reconcile the energy-power trade-off. It activates V4+/V5+ redox, creates oxygen vacancies for fast Na+ diffusion, and achieves 223 Wh/kg, 5940 W/kg, and 10,000-cycle stability. This offers a thermodynamic design blueprint for high-performance sodium energy storage.&lt;br&gt;🏷 sodium-ion capacitor · medium entropy · vacancy engineering · Na3Fe0.6Al0.4V(PO4)3 · energy-power trade-off</description>
+<category>sodium-ion capacitor</category>
+<category>medium entropy</category>
+<category>vacancy engineering</category>
+<category>Na3Fe0.6Al0.4V(PO4)3</category>
+<category>energy-power trade-off</category>
+</item>
+<item>
+<title>Asymmetric Calcium Single-Atom Accelerates Iodide Species Conversion for Robust Zn-I2 Aqueous Battery</title>
+<link>https://doi.org/10.1039/d6ee05690c</link>
+<guid isPermaLink="false">10.1039/d6ee05690c</guid>
+<pubDate>Tue, 29 Sep 2026 17:01:18 GMT</pubDate>
+<description>کاتالیزور تک‌اتمی کلسیم نامتقارن برای تسریع تبدیل گونه‌های یدید و بهبود باتری آبی Zn-I2 طراحی شده است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Asymmetric calcium single-atom catalysts break conventional symmetric d-block M-N4 geometry, strengthening iodide adsorption and accelerating iodide conversion kinetics. This enables robust Zn-I2 aqueous batteries with enhanced performance, offering a new main-group metal SAC design strategy for high-efficiency energy storage.&lt;br&gt;🏷 Zn-I2 battery · single-atom catalyst · calcium · iodide conversion · asymmetric coordination</description>
+<category>Zn-I2 battery</category>
+<category>single-atom catalyst</category>
+<category>calcium</category>
+<category>iodide conversion</category>
+<category>asymmetric coordination</category>
+</item>
 <item>
 <title>Operando and multiscale insights into the solid electrolyte interphase in lithium-mediated nitrogen reduction</title>
 <link>https://doi.org/10.1038/s41570-026-00878-9</link>
@@ -693,42 +729,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>structure-performance</category>
 <category>synthesis strategies</category>
 <category>electrochemical energy</category>
-</item>
-<item>
-<title>Biosynthesis of Spatially Differentiated Cellulose for Flexible All‐in‐one Supercapacitors</title>
-<link>https://doi.org/10.1002/advs.77603</link>
-<guid isPermaLink="false">10.1002/advs.77603</guid>
-<pubDate>Sun, 27 Sep 2026 20:03:24 GMT</pubDate>
-<description>بیوسنتز هدایت‌شده با اکسیژن، سلولز با تمایز فضایی را برای supercapacitor همه‌کاره انعطاف‌پذیر ایجاد کرده و رسانایی و ظرفیت بالایی فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Oxygen-guided biosynthesis creates spatially differentiated bacterial cellulose with dense surface layers and an open interlayer in one step, enabling monolithic all-in-one supercapacitors. This bottom-up approach integrates distinct functional regions—polyaniline loading and ion transport—within a continuous scaffold, achieving high conductivity, toughness, capacitance, and energy density, offering a sustainable platform for flexible energy storage.&lt;br&gt;🏷 bacterial cellulose · supercapacitor · spatial differentiation · polyaniline · flexible energy storage</description>
-<category>bacterial cellulose</category>
-<category>supercapacitor</category>
-<category>spatial differentiation</category>
-<category>polyaniline</category>
-<category>flexible energy storage</category>
-</item>
-<item>
-<title>A Conduction‐Nucleation‐Competition‐Guided 3D Adaptive Gradient Buffer for Dendrite‐Free All‐Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/advs.77775</link>
-<guid isPermaLink="false">10.1002/advs.77775</guid>
-<pubDate>Sun, 27 Sep 2026 20:02:25 GMT</pubDate>
-<description>یک بافر گرادیانی خودتنظیم از کربن نرم و Mg3N2 برای باتری لیتیوم-فلز تمام‌جامد طراحی شد که با مکانیزم رقابت رسانش-هسته‌زایی، رشد دندریت را مهار کرده و چرخه‌پذیری پایدار را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work first proposes a conduction-nucleation competition mechanism governing Li deposition, then designs a self-adaptive soft carbon/Mg₃N₂ gradient buffer that converts in situ into Li₃N and Li-C/Li-Mg alloys. It enables bottom-top deposition without volume expansion, achieving 1600 h cycling at low pressure and 98.5% retention, offering a mechanism-driven paradigm for high-energy ASSLMBs.&lt;br&gt;🏷 all-solid-state battery · lithium metal anode · gradient buffer · dendrite suppression · conduction-nucleation competition</description>
-<category>all-solid-state battery</category>
-<category>lithium metal anode</category>
-<category>gradient buffer</category>
-<category>dendrite suppression</category>
-<category>conduction-nucleation competition</category>
-</item>
-<item>
-<title>Soft-Acid-Triggered Water Speciation Engineering: Reconfiguring the Aqueous Microenvironment in Prussian Blue Cathodes for High-Performance Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105559</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105559</guid>
-<pubDate>Sun, 27 Sep 2026 17:01:57 GMT</pubDate>
-<description>این مقاله با مهندسی گونه‌های آب توسط اسید نرم، ریز محیط آبی در کاتدهای Prussian blue را برای باتری‌های سدیم-یون با عملکرد بالا بازآرایی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Prussian blue cathode · sodium-ion battery · water speciation · soft acid · aqueous microenvironment</description>
-<category>Prussian blue cathode</category>
-<category>sodium-ion battery</category>
-<category>water speciation</category>
-<category>soft acid</category>
-<category>aqueous microenvironment</category>
 </item>
 </channel>
 </rss>
