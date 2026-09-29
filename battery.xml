@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 17:02:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 18:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cellulose-based solid-state electrolytes for high energy density lithium batteries: insight from ion transport mechanism to coordination structural design</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218598</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218598</guid>
+<pubDate>Tue, 29 Sep 2026 18:01:50 GMT</pubDate>
+<description>این مرور، الکترولیتهای حالت جامد سلولزی برای باتریهای لیتیومی پرانرژی را از سازوکار انتقال یون تا طراحی ساختار کوئوردیناسیونی بررسی میکند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 cellulose electrolyte · solid-state electrolyte · lithium battery · ion transport · coordination structure</description>
+<category>cellulose electrolyte</category>
+<category>solid-state electrolyte</category>
+<category>lithium battery</category>
+<category>ion transport</category>
+<category>coordination structure</category>
+</item>
+<item>
+<title>Covalent organic frameworks enabled solid/quasi-solid state electrolytes for rechargeable batteries: Synthesis, progress, challenges and perspectives</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218600</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218600</guid>
+<pubDate>Tue, 29 Sep 2026 18:01:46 GMT</pubDate>
+<description>این مرور به سنتز، پیشرفت، چالشها و چشمانداز الکترولیتهای حالت جامد/شبهجامد مبتنی بر چارچوبهای آلی کووالانسی برای باتریهای قابل شارژ میپردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 covalent organic frameworks · solid-state electrolyte · rechargeable batteries · quasi-solid electrolyte · ion transport</description>
+<category>covalent organic frameworks</category>
+<category>solid-state electrolyte</category>
+<category>rechargeable batteries</category>
+<category>quasi-solid electrolyte</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Unveiling the Mechanism of V 6 O 13 /MnO 2 Heterojunction for High‐Performance Aqueous Zinc‐Ion Batteries via Combined Experiments, DFT, and Deep Learning</title>
+<link>https://doi.org/10.1002/cey2.70316</link>
+<guid isPermaLink="false">10.1002/cey2.70316</guid>
+<pubDate>Tue, 29 Sep 2026 18:01:35 GMT</pubDate>
+<description>هتروجانکشن V6O13/MnO2 با میدان الکتریکی داخلی، سد انتشار Zn2+ را کاهش و ظرفیت و پایداری باتری آبی روی-یون را بهطور چشمگیری بهبود میدهد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in constructing a V6O13/MnO2 heterojunction with a built-in electric field, combining experiments, DFT, and deep learning. It significantly lowers Zn2+ diffusion barrier (0.55 to 0.38 eV), boosts conductivity, and achieves 97.8% retention over 10,000 cycles. This offers a high-performance, stable AZIB cathode.&lt;br&gt;🏷 aqueous zinc-ion battery · V6O13/MnO2 heterojunction · DFT · deep learning · Zn2+ diffusion</description>
+<category>aqueous zinc-ion battery</category>
+<category>V6O13/MnO2 heterojunction</category>
+<category>DFT</category>
+<category>deep learning</category>
+<category>Zn2+ diffusion</category>
+</item>
+<item>
+<title>Functional‐Group Engineering for Durable Solid Electrolyte Interphase Toward Aqueous Copper Batteries</title>
+<link>https://doi.org/10.1002/aenm.71593</link>
+<guid isPermaLink="false">10.1002/aenm.71593</guid>
+<pubDate>Tue, 29 Sep 2026 18:01:17 GMT</pubDate>
+<description>با مهندسی گروههای عاملی، یک SEI هیبریدی آلی-معدنی روی الکترود Cu ساخته شد که برگشتپذیری Cu2+ و پایداری باتری آبی مس را بهشدت بهبود میدهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers functional-group engineering of an organic-inorganic hybrid SEI on Cu electrodes for aqueous copper batteries. By combining fluorine and sulfur additives, it achieves high modulus (54.7 GPa) and fast Cu²⁺ transport, enabling 2000 h cycling and 2200-cycle full cells. This establishes a structure-function relationship guiding durable SEI design, advancing practical aqueous copper battery deployment.&lt;br&gt;🏷 aqueous copper battery · solid electrolyte interphase · functional-group engineering · Cu2+ reversibility · fluorinated additives</description>
+<category>aqueous copper battery</category>
+<category>solid electrolyte interphase</category>
+<category>functional-group engineering</category>
+<category>Cu2+ reversibility</category>
+<category>fluorinated additives</category>
+</item>
 <item>
 <title>Rechargeable Seawater Battery Coupled to Solar Seawater Desalination With a Mutual Enhancement Effect</title>
 <link>https://doi.org/10.1002/adma.75173</link>
@@ -681,54 +729,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>solid electrolyte</category>
 <category>ionic conductivity</category>
 <category>ZIF-8</category>
-</item>
-<item>
-<title>Bridging Molecular Precision and Device Functionality With Triazole Based Cobalt Catalyst for Cross‐Platform Rechargeable Metal‐Air Batteries</title>
-<link>https://doi.org/10.1002/smll.76028</link>
-<guid isPermaLink="false">10.1002/smll.76028</guid>
-<pubDate>Sun, 27 Sep 2026 20:05:29 GMT</pubDate>
-<description>کمپلکس کبالت تریازولی برای کاتالیز دوجهته ORR/OER در باتری‌های فلز-هوا به کار رفت و عملکرد پایدار در باتری‌های Zn-air و Li-air نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work bridges molecular and device levels by designing a triazole-based cobalt catalyst (CoTzN) for bifunctional ORR/OER. Covalent anchoring on carbon nanotubes yields a stable, selective four-electron catalyst operating across pH 7–14. It enables cross-platform rechargeable metal–air batteries, powering quasi-solid-state Zn-air (&amp;gt;450 cycles) and non-aqueous Li-air (80 cycles) devices, demonstrating translation of coordination-level design into robust hybrid electrodes.&lt;br&gt;🏷 metal-air battery · cobalt catalyst · triazole complex · bifunctional ORR/OER · Zn-air battery</description>
-<category>metal-air battery</category>
-<category>cobalt catalyst</category>
-<category>triazole complex</category>
-<category>bifunctional ORR/OER</category>
-<category>Zn-air battery</category>
-</item>
-<item>
-<title>Unveiling the Structural Advantages in PTFE‐Based Dry‐Processed Electrodes for Sulfide‐Based All‐Solid‐State Batteries via 3D Microstructure‐Resolved Analysis</title>
-<link>https://doi.org/10.1002/smll.75974</link>
-<guid isPermaLink="false">10.1002/smll.75974</guid>
-<pubDate>Sun, 27 Sep 2026 20:05:24 GMT</pubDate>
-<description>تحلیل سه‌بعدی ریزساختار الکترودهای خشک PTFE در باتری تمام‌حالت‌جامد سولفیدی، پوشش بهتر الکترولیت و مسیرهای انتقال یون/الکترون را نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study provides the first 3D microstructure-resolved quantitative analysis of PTFE-based dry-processed electrodes for sulfide ASSBs. It reveals that 0.2 wt.% PTFE induces SE coating on cathode particles, raising surface coverage from 35% to 59% and improving component homogeneity and transport pathways, enabling high areal capacity (6.42 mAh cm⁻²) at high loading—advancing practical high-energy-density ASSB commercialization.&lt;br&gt;🏷 all-solid-state battery · dry-processed electrode · PTFE binder · FIB-SEM tomography · sulfide electrolyte</description>
-<category>all-solid-state battery</category>
-<category>dry-processed electrode</category>
-<category>PTFE binder</category>
-<category>FIB-SEM tomography</category>
-<category>sulfide electrolyte</category>
-</item>
-<item>
-<title>Synergistic Texture Engineering and Grain‐Boundary Stabilization for Aqueous Zinc‐Ion Batteries With Ultralong Cycling Life Under Extreme Conditions</title>
-<link>https://doi.org/10.1002/smll.75954</link>
-<guid isPermaLink="false">10.1002/smll.75954</guid>
-<pubDate>Sun, 27 Sep 2026 20:05:16 GMT</pubDate>
-<description>آلیاژ SnPb برای تقویت مرزدانه‌های آند روی در باتری یون-روی آبی به کار رفت و چرخه‌پذیری فوق‌طولانی در شرایط سخت را ممکن ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work introduces a SnPb alloy for synergistic grain-boundary reinforcement in zinc anodes, simultaneously regulating local electronic structure and mechanical stability. Unlike single-element modifications, it enables ultralong cycling (5270 h at 40 mA cm⁻², 105 Ah cm⁻²) under extreme conditions, offering a practical grain-boundary engineering strategy for stable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · grain-boundary stabilization · SnPb alloy · dendrite suppression · ultralong cycling</description>
-<category>zinc-ion battery</category>
-<category>grain-boundary stabilization</category>
-<category>SnPb alloy</category>
-<category>dendrite suppression</category>
-<category>ultralong cycling</category>
-</item>
-<item>
-<title>Bimetallic Sulfides for Next‐Generation Energy Systems: Structure‐Performance Correlations, Multidimensional Regulation, and Controllable Synthesis</title>
-<link>https://doi.org/10.1002/smll.75911</link>
-<guid isPermaLink="false">10.1002/smll.75911</guid>
-<pubDate>Sun, 27 Sep 2026 20:05:11 GMT</pubDate>
-<description>این مرور، ارتباط ساختار-عملکرد سولفیدهای دومفلزی را برای کاربردهای ذخیره و تبدیل انرژی بررسی و راهبردهای طراحی و سنتز آن‌ها را ارائه می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges BMS structure, synthesis, and application via a systematic roadmap. It integrates multidimensional regulation strategies—interface, surface, and interlayer coupling—with tailored synthesis, establishing clear structure-performance correlations. By evaluating energy applications and outlining challenges, it offers a definitive guide to accelerate rational design and practical deployment of next-generation bimetallic sulfide electrodes.&lt;br&gt;🏷 bimetallic sulfides · energy storage · structure-performance · synthesis strategies · electrochemical energy</description>
-<category>bimetallic sulfides</category>
-<category>energy storage</category>
-<category>structure-performance</category>
-<category>synthesis strategies</category>
-<category>electrochemical energy</category>
 </item>
 </channel>
 </rss>
