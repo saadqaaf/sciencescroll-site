@@ -5,8 +5,33 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 10:02:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 11:04:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Revealing the Proton Slingshot Mechanism in Solid Acid Electrolytes through Machine-Learning Molecular Dynamics</title>
+<link>https://doi.org/10.1021/jacs.5c21965</link>
+<guid isPermaLink="false">10.1021/jacs.5c21965</guid>
+<pubDate>Tue, 29 Sep 2026 11:04:29 GMT</pubDate>
+<description>شبیه‌سازی‌های دینامیک مولکولی با میدان نیروی شبکه عصبی، مکانیسم «فلاخن پروتون» را در الکترولیت‌های اسید جامد CsH2PO4 و CsHSO4 نشان می‌دهند که چرخش پلی‌آنیون و بازآرایی پیوند O–H را ترکیب می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Machine-learning molecular dynamics reveals a proton slingshot mechanism in solid acids: limited polyanion rotation plus O–H reorientation enables long-range proton jumps, refining the Grotthuss picture. It links polyanion rotation, proton coordination, and transport, showing proton concentration controls rotational frustration and conductivity—offering a design principle for faster solid electrolytes.&lt;br&gt;🏷 solid acid electrolyte · proton conduction · machine-learning MD · polyanion rotation · proton slingshot</description>
+<category>solid acid electrolyte</category>
+<category>proton conduction</category>
+<category>machine-learning MD</category>
+<category>polyanion rotation</category>
+<category>proton slingshot</category>
+</item>
+<item>
+<title>Monomer Molecule Reconstruction Engineered Heterogeneous Lithium‐Ion Solvation for High‐Performance Lithium‐Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.5513729</link>
+<guid isPermaLink="false">10.1002/anie.5513729</guid>
+<pubDate>Tue, 29 Sep 2026 11:02:01 GMT</pubDate>
+<description>بازسازی مونومر IBMA با افزایش ممانعت فضایی، سولواسیون Li+ را به سمت آنیون‌غنی هدایت کرده و الکترولیت ژلی DEE-PIBMA با هدایت 1.77 mS/cm و پایداری تا 4.7 V ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 In situ polymerization of IBMA amplifies steric hindrance, weakening Li⁺–polymer coordination and enabling anion-rich solvation at low salt concentrations. This molecule-reconstruction strategy, aided by TTE as a molecular lubricant, yields a gel electrolyte with 1.77 mS cm⁻¹ conductivity, 4.7 V stability, and 386.1 Wh kg⁻¹ pouch cells, establishing macromolecular backbone engineering as a general design principle for high-energy lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · solvation structure · gel electrolyte · polymerization · high voltage</description>
+<category>lithium-metal battery</category>
+<category>solvation structure</category>
+<category>gel electrolyte</category>
+<category>polymerization</category>
+<category>high voltage</category>
+</item>
 <item>
 <title>Solvent-solvent dipole engineering of a low-concentration electrolyte for high-performance wide-temperature sodium-ion batteries</title>
 <link>https://doi.org/10.1039/d6ta05645h</link>
@@ -706,30 +731,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Atomically dispersed Ce r
 <category>single-atom Ce</category>
 <category>Zn-air battery</category>
 <category>interfacial water</category>
-</item>
-<item>
-<title>Enhancing cycling stability by promoting high-voltage structural reversibility in high-nickel positive electrode materials</title>
-<link>https://doi.org/10.1038/s41467-026-78069-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-78069-9</guid>
-<pubDate>Sun, 27 Sep 2026 01:02:04 GMT</pubDate>
-<description>مواد نانومیله‌ای نیکل بالا با برگشت‌پذیری ساختاری بهبودیافته، پایداری چرخه‌ای در ولتاژ بالا تا 4.95 V را در باتری لیتیوم-یون افزایش می‌دهند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Nanorod high-nickel cathodes (including LiNiO₂) achieve stable cycling up to 4.95 V, unlike microcrystal counterparts. The novelty is that bulk structural reversibility, enabled by the nanorod morphology tolerating H2–H3 interphase lattice mismatch, allows full H3-to-H2 recovery on discharge. This enables high-voltage operation without sacrificing energy density, offering a design principle for durable high-energy lithium-ion batteries.&lt;br&gt;🏷 high-nickel cathode · lithium-ion battery · cycling stability · structural reversibility · nanorod</description>
-<category>high-nickel cathode</category>
-<category>lithium-ion battery</category>
-<category>cycling stability</category>
-<category>structural reversibility</category>
-<category>nanorod</category>
-</item>
-<item>
-<title>Tailored sp 2 ‐C─F Bonding for Reversible Oxygen‐Peroxide Electrocatalysis</title>
-<link>https://doi.org/10.1002/anie.9423554</link>
-<guid isPermaLink="false">10.1002/anie.9423554</guid>
-<pubDate>Sun, 27 Sep 2026 01:01:49 GMT</pubDate>
-<description>گرافن دوپ‌شده با فلوئور با پیوند sp2-C-F، الکتروکاتالیز برگشت‌پذیر O2-H2O2 را برای باتری‌های زینک-هوا با توان بالا و دوام طولانی تنظیم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Fluorine-doped graphene with tailored sp²-C─F bonding enables reversible O₂–H₂O₂ interconversion by tuning OOH* binding. This replaces sluggish 4e⁻ zinc-air chemistry with faster 2e⁻ pathways, yielding durable, high-power batteries. The work establishes a structure-property principle linking fluorine-induced polarization to oxygen-peroxide kinetics, advancing fluorinated carbons for reversible energy storage.&lt;br&gt;🏷 zinc-air battery · oxygen-peroxide electrocatalysis · fluorine-doped graphene · sp2-C-F bonding · OOH* intermediate</description>
-<category>zinc-air battery</category>
-<category>oxygen-peroxide electrocatalysis</category>
-<category>fluorine-doped graphene</category>
-<category>sp2-C-F bonding</category>
-<category>OOH* intermediate</category>
 </item>
 </channel>
 </rss>
