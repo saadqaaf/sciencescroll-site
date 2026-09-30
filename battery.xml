@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 15:01:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 16:01:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tandem Catalysis Sites in Co‐NO/C for Efficient and Scalable Electrocatalytic Nitrate to Ammonia Conversion</title>
+<link>https://doi.org/10.1002/adfm.78831</link>
+<guid isPermaLink="false">10.1002/adfm.78831</guid>
+<pubDate>Wed, 30 Sep 2026 16:01:32 GMT</pubDate>
+<description>این پژوهش کاتالیزور Co-NO/C با سایت‌های تاندم Co3O4/Co4N را برای تبدیل الکتروکاتالیستی نیترات به آمونیاک با بازدهی فارادیک ۹۹.۷٪ و کاربرد در باتری Zn-NO3 معرفی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Co-NO/C introduces tandem Co₃O₄/Co₄N sites for electrocatalytic nitrate-to-ammonia conversion, separating nitrate activation from hydrogenation. This design achieves 99.7% Faradaic efficiency and high NH₃ yield, validated by in situ spectroscopy, DEMS, DFT, and MD. Demonstrations in Zn–NO₃⁻ batteries and MEA reactors highlight practical scalability, offering a promising route for nitrate remediation coupled with ammonia production.&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · tandem catalysis · Co3O4/Co4N · Zn-NO3 battery</description>
+<category>nitrate reduction</category>
+<category>ammonia synthesis</category>
+<category>tandem catalysis</category>
+<category>Co3O4/Co4N</category>
+<category>Zn-NO3 battery</category>
+</item>
 <item>
 <title>Wide-temperature electrolyte for advanced Mn metal batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105569</link>
@@ -718,18 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>self-crosslinking</category>
 <category>poly(4-methyl-1-pentene)</category>
 <category>high-temperature dielectrics</category>
-</item>
-<item>
-<title>Engineering a Fluorinated AlPO 4 Interface: Toward High Initial Coulombic Efficiency and Stable Oxygen Redox in Li‐Rich Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/adfm.78762</link>
-<guid isPermaLink="false">10.1002/adfm.78762</guid>
-<pubDate>Tue, 29 Sep 2026 20:02:16 GMT</pubDate>
-<description>پوشش AlPO4-F روی کاتد لایه‌ای غنی از لیتیوم، بازدهی کولنی اولیه و پایداری چرخه را با تثبیت اکسایش اکسیژن بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Fluorinated AlPO4 surface coating on Li-rich layered oxides uniquely combines oxygen-framework stabilization with interfacial charge redistribution, enhancing Li affinity and structural reversibility. This yields 95.9% initial Coulombic efficiency, 244-cycle stability versus 57 for pristine, and reduced voltage decay (0.23 V), offering a multifunctional strategy for high-capacity anionic-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · AlPO4-F coating · oxygen redox · coulombic efficiency · voltage decay</description>
-<category>Li-rich layered oxide</category>
-<category>AlPO4-F coating</category>
-<category>oxygen redox</category>
-<category>coulombic efficiency</category>
-<category>voltage decay</category>
 </item>
 </channel>
 </rss>
