@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 06:02:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 07:03:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Calorimetric and Quasielastic Neutron Scattering Studies on a Mg-Ion Conductor Using a Metal–Organic Framework MIL-101 Involving Acetonitrile</title>
+<link>https://doi.org/10.1021/jacs.6c11926</link>
+<guid isPermaLink="false">10.1021/jacs.6c11926</guid>
+<pubDate>Wed, 30 Sep 2026 07:03:22 GMT</pubDate>
+<description>مطالعه کالری‌سنجی و QENS دینامیک مولکول‌های استونیتریل و گذار فاز در رسانای Mg2+ بر پایه MOF MIL-101 را روشن می‌کند.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study reveals how acetonitrile dynamics in MIL-101/Mg(TFSI)2 enable high Mg2+ conductivity. Novelty lies in linking calorimetric glass transitions and QENS-derived jump diffusion to Mg2+-AN coordination. Significance: demonstrates that AN coordination shields electrostatic interactions, enhancing Mg2+ mobility, offering design principles for solid Mg conductors.&lt;br&gt;🏷 Mg-ion conductor · MOF MIL-101 · quasielastic neutron scattering · acetonitrile dynamics · heat capacity</description>
+<category>Mg-ion conductor</category>
+<category>MOF MIL-101</category>
+<category>quasielastic neutron scattering</category>
+<category>acetonitrile dynamics</category>
+<category>heat capacity</category>
+</item>
+<item>
+<title>Exploring Li growth modes in Li metal electrodes using X-ray nano-tomography</title>
+<link>https://doi.org/10.1038/s41467-026-78182-9</link>
+<guid isPermaLink="false">10.1038/s41467-026-78182-9</guid>
+<pubDate>Wed, 30 Sep 2026 07:03:02 GMT</pubDate>
+<description>با نانوتوموگرافی اشعه ایکس درجا، حالت‌های رشد سوزنی و ورقه‌ای لیتیوم و ارتباط آن با SEI و دانه‌های جدید نشان داده شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work achieves time-resolved 3D imaging of lithium metal growth inside working cells using in situ X-ray nano-tomography at sub-micron resolution. It identifies distinct needle-like and sheet-like growth modes, with elongation at tips, bases, kinks, or edges and minimal coarsening. Linking these modes to grain nucleation and SEI evolution provides unprecedented mechanistic insight into Li deposition, advancing high-energy Li-metal battery development.&lt;br&gt;🏷 Li metal anode · X-ray nano-tomography · Li growth · solid electrolyte interphase · 3D morphology</description>
+<category>Li metal anode</category>
+<category>X-ray nano-tomography</category>
+<category>Li growth</category>
+<category>solid electrolyte interphase</category>
+<category>3D morphology</category>
+</item>
+<item>
+<title>Coupled Interfacial Degradation Driven by Dynamic Cell Balance Evolution from Kinetically Inaccessible Sodium Recovery in Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.etran.2026.100641</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100641</guid>
+<pubDate>Wed, 30 Sep 2026 07:02:44 GMT</pubDate>
+<description>تخریب بین‌سطحی جفت شده ناشی از تکامل تعادل دینامیکی سلول از بازیابی سدیم با سینتیک غیرقابل دسترس در باتری‌های یون سدیم بررسی شد.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 sodium-ion batteries · interfacial degradation · sodium recovery · cell balance · kinetics</description>
+<category>sodium-ion batteries</category>
+<category>interfacial degradation</category>
+<category>sodium recovery</category>
+<category>cell balance</category>
+<category>kinetics</category>
+</item>
+<item>
+<title>Role‐Differentiated Solvation Directs Interfacial Chemistry in Wide‐Temperature Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.5489997</link>
+<guid isPermaLink="false">10.1002/anie.5489997</guid>
+<pubDate>Wed, 30 Sep 2026 07:02:15 GMT</pubDate>
+<description>جداسازی حلال‌پوشی-واکنش‌پذیری از طریق تمایز نقش مولکولی، شیمی سطح مشترک را در باتری‌های لیتیوم-فلز دمای گسترده هدایت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work decouples solvation from reactivity by assigning distinct molecular roles in a quaternary ester–ether electrolyte, excluding methyl propionate from Li+ coordination while an ether–anion network builds a PDOL–LiF heteromatrix interphase. This enables dense Li deposition and wide-temperature operation (−30 to 70°C), offering a general design principle to resolve the transport–stability trade-off in all-climate lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · solvation structure · wide-temperature electrolyte · interfacial chemistry · LiF-rich interphase</description>
+<category>lithium metal battery</category>
+<category>solvation structure</category>
+<category>wide-temperature electrolyte</category>
+<category>interfacial chemistry</category>
+<category>LiF-rich interphase</category>
+</item>
+<item>
+<title>Latent Solvation Chemistry with Low Electrostatic Stickiness Enables Wide‐Temperature Fast‐Charging Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.3947346</link>
+<guid isPermaLink="false">10.1002/anie.3947346</guid>
+<pubDate>Wed, 30 Sep 2026 07:01:49 GMT</pubDate>
+<description>شیمی حلال‌پوشی نهفته با رقیق‌کننده کم‌چسبندگی الکترواستاتیکی، باتری‌های لیتیوم-یون را قادر به شارژ سریع در دمای گسترده می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces latent solvation chemistry, where a weakly coordinating diluent is recruited into the Li+ solvation shell upon cooling, dynamically adapting the electrolyte. This enables 5 C fast charging at −20°C, stable cycling at −50°C, and long pouch-cell life, offering a molecular design strategy for wide-temperature fast-charging lithium-ion batteries.&lt;br&gt;🏷 lithium-ion battery · solvation chemistry · wide-temperature electrolyte · fast charging · LiF-rich interphase</description>
+<category>lithium-ion battery</category>
+<category>solvation chemistry</category>
+<category>wide-temperature electrolyte</category>
+<category>fast charging</category>
+<category>LiF-rich interphase</category>
+</item>
+<item>
+<title>Composition-controlled co-evaporated LiF–Li hybrid artificial interlayer for high-current-tolerant all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112456</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112456</guid>
+<pubDate>Wed, 30 Sep 2026 07:01:41 GMT</pubDate>
+<description>یک لایه میانی مصنوعی LiF-Li با ترکیب کنترل‌شده به روش هم‌تبخیری برای باتری‌های حالت جامد لیتیوم-فلز با تحمل جریان بالا ساخته شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · lithium metal anode · LiF-Li interlayer · co-evaporation · high current density</description>
+<category>all-solid-state battery</category>
+<category>lithium metal anode</category>
+<category>LiF-Li interlayer</category>
+<category>co-evaporation</category>
+<category>high current density</category>
+</item>
 <item>
 <title>Lamination Pressure Governs the Effectiveness of Sn Buffer Layers in Low-Pressure All-Solid-State Lithium Metal Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02381</link>
@@ -658,79 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>vermiculite nanosheet</category>
 <category>shuttle effect</category>
 <category>zinc dendrite</category>
-</item>
-<item>
-<title>Supercapacitor Safety: Overcharge‐Induced Failure Mechanisms in Electrochemical Double‐Layer Capacitors</title>
-<link>https://doi.org/10.1002/advs.77470</link>
-<guid isPermaLink="false">10.1002/advs.77470</guid>
-<pubDate>Tue, 29 Sep 2026 12:01:44 GMT</pubDate>
-<description>این پژوهش با رادیوگرافی همزمانی سنکروترونی، مسیر شکست EDLC در اثر اضافهشارژ را بهصورت حرارتی و متفاوت از فرار حرارتی باتری لیتیوم-یون نشان میدهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work provides the first direct, time-resolved visualization of EDLC overcharge failure, revealing a thermally driven pathway distinct from lithium-ion thermal runaway. By linking internal structural dynamics to external signatures, it identifies electrolyte decomposition, gas accumulation, and toxic vented species, exposing underappreciated fire and chemical hazards. This mechanistic insight is critical for safer high-power, high-reliability supercapacitor system design.&lt;br&gt;🏷 EDLC · overcharge failure · synchrotron radiography · electrode delamination · gas evolution</description>
-<category>EDLC</category>
-<category>overcharge failure</category>
-<category>synchrotron radiography</category>
-<category>electrode delamination</category>
-<category>gas evolution</category>
-</item>
-<item>
-<title>Revealing the Proton Slingshot Mechanism in Solid Acid Electrolytes through Machine-Learning Molecular Dynamics</title>
-<link>https://doi.org/10.1021/jacs.5c21965</link>
-<guid isPermaLink="false">10.1021/jacs.5c21965</guid>
-<pubDate>Tue, 29 Sep 2026 11:04:29 GMT</pubDate>
-<description>شبیه‌سازی‌های دینامیک مولکولی با میدان نیروی شبکه عصبی، مکانیسم «فلاخن پروتون» را در الکترولیت‌های اسید جامد CsH2PO4 و CsHSO4 نشان می‌دهند که چرخش پلی‌آنیون و بازآرایی پیوند O–H را ترکیب می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Machine-learning molecular dynamics reveals a proton slingshot mechanism in solid acids: limited polyanion rotation plus O–H reorientation enables long-range proton jumps, refining the Grotthuss picture. It links polyanion rotation, proton coordination, and transport, showing proton concentration controls rotational frustration and conductivity—offering a design principle for faster solid electrolytes.&lt;br&gt;🏷 solid acid electrolyte · proton conduction · machine-learning MD · polyanion rotation · proton slingshot</description>
-<category>solid acid electrolyte</category>
-<category>proton conduction</category>
-<category>machine-learning MD</category>
-<category>polyanion rotation</category>
-<category>proton slingshot</category>
-</item>
-<item>
-<title>Monomer Molecule Reconstruction Engineered Heterogeneous Lithium‐Ion Solvation for High‐Performance Lithium‐Metal Batteries</title>
-<link>https://doi.org/10.1002/anie.5513729</link>
-<guid isPermaLink="false">10.1002/anie.5513729</guid>
-<pubDate>Tue, 29 Sep 2026 11:02:01 GMT</pubDate>
-<description>بازسازی مونومر IBMA با افزایش ممانعت فضایی، سولواسیون Li+ را به سمت آنیون‌غنی هدایت کرده و الکترولیت ژلی DEE-PIBMA با هدایت 1.77 mS/cm و پایداری تا 4.7 V ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 In situ polymerization of IBMA amplifies steric hindrance, weakening Li⁺–polymer coordination and enabling anion-rich solvation at low salt concentrations. This molecule-reconstruction strategy, aided by TTE as a molecular lubricant, yields a gel electrolyte with 1.77 mS cm⁻¹ conductivity, 4.7 V stability, and 386.1 Wh kg⁻¹ pouch cells, establishing macromolecular backbone engineering as a general design principle for high-energy lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · solvation structure · gel electrolyte · polymerization · high voltage</description>
-<category>lithium-metal battery</category>
-<category>solvation structure</category>
-<category>gel electrolyte</category>
-<category>polymerization</category>
-<category>high voltage</category>
-</item>
-<item>
-<title>Solvent-solvent dipole engineering of a low-concentration electrolyte for high-performance wide-temperature sodium-ion batteries</title>
-<link>https://doi.org/10.1039/d6ta05645h</link>
-<guid isPermaLink="false">10.1039/d6ta05645h</guid>
-<pubDate>Tue, 29 Sep 2026 05:01:47 GMT</pubDate>
-<description>این مقاله با مهندسی دوقطبی حلال-حلال در الکترولیت کم‌غلظت، باتری‌های یون سدیم با عملکرد گسترده دمایی بالا ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work pioneers solvent-solvent dipole engineering in low-concentration electrolytes, a strategy not previously applied to sodium-ion batteries. By tuning dipole interactions, it simultaneously overcomes poor low-temperature conductivity and high-temperature interfacial instability, enabling wide-temperature operation while cutting salt use and cost—advancing practical, sustainable sodium-ion battery deployment.&lt;br&gt;🏷 sodium-ion battery · low-concentration electrolyte · solvent-solvent dipole · wide-temperature · interfacial stability</description>
-<category>sodium-ion battery</category>
-<category>low-concentration electrolyte</category>
-<category>solvent-solvent dipole</category>
-<category>wide-temperature</category>
-<category>interfacial stability</category>
-</item>
-<item>
-<title>Chaotropic anion-mediated ionic coordination structure and dynamic interface enabling stable alkaline zinc–nickel batteries with ultra-low N/P under high DOD</title>
-<link>https://doi.org/10.1039/d6ta06353e</link>
-<guid isPermaLink="false">10.1039/d6ta06353e</guid>
-<pubDate>Tue, 29 Sep 2026 05:01:42 GMT</pubDate>
-<description>این مقاله با واسطه‌گری آنیون کائوتروپیک، ساختار کوئوردیناسیون یونی و رابط دینامیکی را برای باتری‌های قلیایی روی-نیکل پایدار با N/P فوق‌پایین تنظیم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using chaotropic anions to tune ionic coordination and the dynamic electrode–electrolyte interface, suppressing zinc dendrites and hydrogen evolution. This enables stable alkaline zinc–nickel batteries with ultra-low negative-to-positive capacity ratio under high depth of discharge, advancing practical, low-cost aqueous energy storage.&lt;br&gt;🏷 zinc-nickel battery · chaotropic anion · ionic coordination · dynamic interface · low N/P ratio</description>
-<category>zinc-nickel battery</category>
-<category>chaotropic anion</category>
-<category>ionic coordination</category>
-<category>dynamic interface</category>
-<category>low N/P ratio</category>
-</item>
-<item>
-<title>Chaotropic Anions Unlock the Zn-ion Redox in Vanadium Carbide MXene</title>
-<link>https://doi.org/10.1039/d6ta06520a</link>
-<guid isPermaLink="false">10.1039/d6ta06520a</guid>
-<pubDate>Tue, 29 Sep 2026 05:01:35 GMT</pubDate>
-<description>این مقاله نشان می‌دهد آنیون‌های کائوتروپیک قفل redox یون روی را در MXene کاربید وانادیم V2CTx باز می‌کنند و ذخیره بار را تقویت می‌کنند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Chaotropic anions enable Zn-ion redox in V2CTx MXene, overcoming its limited capacity and narrow anodic window in dilute electrolytes. This reveals anion-driven control of charge storage, linking electrolyte chemistry to MXene redox activity and offering a design principle for high-voltage, high-capacity aqueous Zn-ion energy storage.&lt;br&gt;🏷 vanadium carbide MXene · Zn-ion redox · chaotropic anions · water-in-salt electrolyte · pseudocapacitance</description>
-<category>vanadium carbide MXene</category>
-<category>Zn-ion redox</category>
-<category>chaotropic anions</category>
-<category>water-in-salt electrolyte</category>
-<category>pseudocapacitance</category>
 </item>
 </channel>
 </rss>
