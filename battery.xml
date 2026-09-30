@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 14:02:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 15:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Wide-temperature electrolyte for advanced Mn metal batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105569</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105569</guid>
+<pubDate>Wed, 30 Sep 2026 15:01:17 GMT</pubDate>
+<description>این مقاله یک الکترولیت دما-گسترده برای باتری‌های فلزی منگنز پیشرفته ارائه می‌دهد که پایداری چرخه‌ای را در دماهای بالا و پایین بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Mn metal batteries · wide-temperature electrolyte · electrolyte design · Mn plating · cycling stability</description>
+<category>Mn metal batteries</category>
+<category>wide-temperature electrolyte</category>
+<category>electrolyte design</category>
+<category>Mn plating</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Advancing iron-based polyanionic cathodes for sodium-ion batteries: unravelling Fe-induced structural failure and targeted mitigation</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218607</link>
@@ -718,18 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>oxygen redox</category>
 <category>coulombic efficiency</category>
 <category>voltage decay</category>
-</item>
-<item>
-<title>Strain buffer of a dual-phase P2/P′2 heterostructure enables cycling stability in Mn-based cathodes</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105565</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105565</guid>
-<pubDate>Tue, 29 Sep 2026 19:02:30 GMT</pubDate>
-<description>بافر کرنش ناشی از ناهم‌ساختار دوگانه P2/P′2، پایداری چرخه‌ای کاتدهای منگنزدار را در باتری‌های یون-سدیم بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Mn-based cathode · P2/P&amp;#x27;2 heterostructure · strain buffer · cycling stability · sodium-ion battery</description>
-<category>Mn-based cathode</category>
-<category>P2/P&#x27;2 heterostructure</category>
-<category>strain buffer</category>
-<category>cycling stability</category>
-<category>sodium-ion battery</category>
 </item>
 </channel>
 </rss>
