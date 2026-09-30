@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 00:01:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 01:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Internal operando monitoring of lithium-ion batteries using a wireless, powerless inductor–capacitor resonant sensor</title>
+<link>https://doi.org/10.1039/d6ta05881g</link>
+<guid isPermaLink="false">10.1039/d6ta05881g</guid>
+<pubDate>Wed, 30 Sep 2026 01:01:09 GMT</pubDate>
+<description>یک حسگر تشدیدگر LC بی‌سیم و بدون منبع توان، دینامیک الکتروشیمیایی باتری لیتیوم-یونی را به‌صورت operando رمزگشایی و پایش داخلی و تشخیص خطا را ممکن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a wireless, powerless LC resonant sensor implanted inside lithium-ion cells for operando monitoring. Its significance: decoding electrochemical dynamics and linking them to macroscopic performance under varied conditions, enabling real-time internal fault diagnosis without wired power or invasive instrumentation.&lt;br&gt;🏷 lithium-ion battery · operando monitoring · LC resonant sensor · wireless sensor · fault diagnosis</description>
+<category>lithium-ion battery</category>
+<category>operando monitoring</category>
+<category>LC resonant sensor</category>
+<category>wireless sensor</category>
+<category>fault diagnosis</category>
+</item>
 <item>
 <title>Experimental study and performance evaluation of direct refrigerant cooling/heating thermal management systems for full-scale commercial battery packs</title>
 <link>https://doi.org/10.1016/j.est.2026.124816</link>
@@ -721,18 +733,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>conductive network</category>
 <category>ion-segregated interphase</category>
 <category>room temperature</category>
-</item>
-<item>
-<title>Anion-Entropy Engineered MoSSeTe Anodes with Fast Kinetics for Durable Sodium-Ion Storage</title>
-<link>https://doi.org/10.34133/energymatadv.0648</link>
-<guid isPermaLink="false">10.34133/energymatadv.0648</guid>
-<pubDate>Tue, 29 Sep 2026 01:01:47 GMT</pubDate>
-<description>این مقاله آندهای MoSSeTe مهندسی‌شده با آنیون-آنتروپی را با سینتیک سریع برای ذخیره‌سازی پایدار سدیم-یون معرفی می‌کند.&lt;br&gt;Energy Material Advances | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · MoSSeTe · anode · anion entropy · fast kinetics</description>
-<category>sodium-ion battery</category>
-<category>MoSSeTe</category>
-<category>anode</category>
-<category>anion entropy</category>
-<category>fast kinetics</category>
 </item>
 </channel>
 </rss>
