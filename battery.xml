@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 05:01:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 06:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Lamination Pressure Governs the Effectiveness of Sn Buffer Layers in Low-Pressure All-Solid-State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02381</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02381</guid>
+<pubDate>Wed, 30 Sep 2026 06:02:42 GMT</pubDate>
+<description>فشار لمینت بالا در باتری‌های تمام‌حالت‌جامد لیتیم-فلز، تماس بین لایه بافر Sn لیتیم‌شده و الکترولیت جامد را بهبود داده و استفاده از لیتیم و پایداری را افزایش می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 High-pressure lamination is shown to be decisive for Sn buffer layers in low-pressure all-solid-state Li batteries. Decoupling lamination from stack pressure reveals that good Sn–solid electrolyte contact enables Li⁺ transport and deposition beneath the buffer, improving Li utilization, lowering overpotential, and suppressing voids and short circuits at 1 MPa.&lt;br&gt;🏷 all-solid-state battery · lithium metal anode · Sn buffer layer · lamination pressure · interfacial stability</description>
+<category>all-solid-state battery</category>
+<category>lithium metal anode</category>
+<category>Sn buffer layer</category>
+<category>lamination pressure</category>
+<category>interfacial stability</category>
+</item>
+<item>
+<title>Impact of Solvent Impurities from Upscaled Synthesis and Their Purification in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02137</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02137</guid>
+<pubDate>Wed, 30 Sep 2026 06:02:34 GMT</pubDate>
+<description>ناخالصی‌های حلال F5DEE در سنتز بزرگ‌مقیاس، مانند رطوبت و ترکیبات آلی، بازده کولمبی لیتیم را کاهش می‌دهند و فرآیندهای purification بیش‌ازحد ناخالصی‌های ثانویه ایجاد می‌کنند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uniquely links solvent impurity origins to battery performance during electrolyte scale-up, classifying impurities by synthesis pathway. It reveals a critical removal–generation trade-off in purification and identifies water, alkoxides, and amines as key degraders. The transferable qualification framework enables reliable upscaling of fluorinated ether electrolytes for lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · solvent impurities · electrolyte purification · upscaled synthesis · fluorinated ether</description>
+<category>lithium metal battery</category>
+<category>solvent impurities</category>
+<category>electrolyte purification</category>
+<category>upscaled synthesis</category>
+<category>fluorinated ether</category>
+</item>
+<item>
+<title>A Decade in the Evolving Landscape of Energy Research (Part II): Storage Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02326</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02326</guid>
+<pubDate>Wed, 30 Sep 2026 06:02:28 GMT</pubDate>
+<description>این مقاله مروری به بررسی تحولات یک دهه اخیر در حوزه تحقیقات انرژی با تمرکز بر باتری‌های ذخیره‌سازی می‌پردازد.&lt;br&gt;ACS Energy Letters | ⭐ Review&lt;br&gt;🏷 energy storage · batteries · decade review · research landscape · storage technologies</description>
+<category>energy storage</category>
+<category>batteries</category>
+<category>decade review</category>
+<category>research landscape</category>
+<category>storage technologies</category>
+</item>
+<item>
+<title>Particle‐Level ZrO 2 Atomic Layer Deposition Enables Fast‐Cycling and Long‐Life Graphite Cathodes for Dual‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.78750</link>
+<guid isPermaLink="false">10.1002/adfm.78750</guid>
+<pubDate>Wed, 30 Sep 2026 06:01:35 GMT</pubDate>
+<description>این مطالعه نشان می‌دهد که پوشش ZrO2 به روش ALD در سطح ذرات گرافیت، کاتد باتری دو-یونی را برای ۴۰۰۰ چرخه در نرخ 5C پایدار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Particle-level ZrO₂ ALD on graphite particles, rather than electrode-level coating, is the key novelty. It improves cohesion, preserves electronic connectivity, enriches PF₆⁻, and facilitates anion transport, enabling 4000 stable cycles at 5 C. This establishes coating spatial location as a decisive design principle for durable, fast-cycling dual-ion battery cathodes.&lt;br&gt;🏷 dual-ion battery · graphite cathode · atomic layer deposition · ZrO2 coating · fast charging</description>
+<category>dual-ion battery</category>
+<category>graphite cathode</category>
+<category>atomic layer deposition</category>
+<category>ZrO2 coating</category>
+<category>fast charging</category>
+</item>
 <item>
 <title>Cathode-localized dual-salt chemistry for coupled interphase stabilization in high-voltage all-solid-state lithium metal batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105568</link>
@@ -683,54 +731,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Machine-learning molecula
 <category>chaotropic anions</category>
 <category>water-in-salt electrolyte</category>
 <category>pseudocapacitance</category>
-</item>
-<item>
-<title>Joule-Heat-Driven Synthesis of Hierarchically Porous Carbon Nanofibers/CoCr Alloy as a Self-Supporting Cathode for Li-CO 2 Batteries</title>
-<link>https://doi.org/10.1039/d6ta07308e</link>
-<guid isPermaLink="false">10.1039/d6ta07308e</guid>
-<pubDate>Tue, 29 Sep 2026 05:01:30 GMT</pubDate>
-<description>این مقاله با سنتز ژول‌حرارتی نانوالیاف کربنی متخلخل/آلیاژ CoCr به‌عنوان کاتد خودایستا، عملکرد باتری Li-CO2 را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Joule-heating synthesizes hierarchically porous carbon nanofibers/CoCr alloy as a self-supporting Li-CO2 battery cathode. This binder-free, conductive architecture enhances CO2 diffusion and catalytic kinetics, lowering charge overpotential and improving cycling stability. The approach offers a scalable route to efficient CO2 utilization and high-energy-density storage.&lt;br&gt;🏷 Li-CO2 battery · carbon nanofibers · CoCr alloy · self-supporting cathode · Joule-heat synthesis</description>
-<category>Li-CO2 battery</category>
-<category>carbon nanofibers</category>
-<category>CoCr alloy</category>
-<category>self-supporting cathode</category>
-<category>Joule-heat synthesis</category>
-</item>
-<item>
-<title>Thermal decomposition behavior and thermal stability of dimethyl carbonate-based electrolyte systems: A reactive molecular dynamics study</title>
-<link>https://doi.org/10.1016/j.est.2026.124844</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124844</guid>
-<pubDate>Tue, 29 Sep 2026 03:01:48 GMT</pubDate>
-<description>این مقاله رفتار تجزیه حرارتی و پایداری حرارتی سیستم‌های الکترولیت بر پایه دی‌متیل کربنات را با شبیه‌سازی دینامیک مولکولی واکنشی مطالعه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 dimethyl carbonate · electrolyte · thermal decomposition · reactive molecular dynamics · thermal stability</description>
-<category>dimethyl carbonate</category>
-<category>electrolyte</category>
-<category>thermal decomposition</category>
-<category>reactive molecular dynamics</category>
-<category>thermal stability</category>
-</item>
-<item>
-<title>Cross-condition state-of-charge estimation in CFRP-embedded structural batteries via voltage and dual-path ultrasonic fusion</title>
-<link>https://doi.org/10.1016/j.est.2026.124876</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124876</guid>
-<pubDate>Tue, 29 Sep 2026 03:01:44 GMT</pubDate>
-<description>این مقاله تخمین وضعیت شارژ در باتری‌های ساختاری جاسازی‌شده در CFRP را از طریق ادغام ولتاژ و اولتراسونیک دو مسیره در شرایط مختلف بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 structural battery · state of charge · ultrasonic fusion · CFRP · cross-condition</description>
-<category>structural battery</category>
-<category>state of charge</category>
-<category>ultrasonic fusion</category>
-<category>CFRP</category>
-<category>cross-condition</category>
-</item>
-<item>
-<title>A degradation-aware bidirectional long short-term memory network for explainable and generalizable state-of-health estimation</title>
-<link>https://doi.org/10.1016/j.est.2026.124864</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124864</guid>
-<pubDate>Tue, 29 Sep 2026 03:01:40 GMT</pubDate>
-<description>این مقاله یک شبکه BiLSTM آگاه از تخریب را برای تخمین قابل توضیح و تعمیم‌پذیر وضعیت سلامت باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · BiLSTM · degradation-aware · explainable AI · battery</description>
-<category>state of health</category>
-<category>BiLSTM</category>
-<category>degradation-aware</category>
-<category>explainable AI</category>
-<category>battery</category>
 </item>
 </channel>
 </rss>
