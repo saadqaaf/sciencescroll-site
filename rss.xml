@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 02:01:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 03:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Parton distribution functions and strong coupling constant: MSHT</title>
+<link>https://doi.org/10.1016/j.physrep.2026.09.006</link>
+<guid isPermaLink="false">10.1016/j.physrep.2026.09.006</guid>
+<pubDate>Wed, 30 Sep 2026 03:01:08 GMT</pubDate>
+<description>این مقاله به بررسی توابع توزیع پارتونی و ثابت جفت‌شدگی قوی در چارچوب MSHT می‌پردازد و آخرین تحولات را مرور می‌کند.&lt;br&gt;Physics Reports | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 parton distribution functions · strong coupling constant · MSHT · QCD analysis · global fit</description>
+<category>parton distribution functions</category>
+<category>strong coupling constant</category>
+<category>MSHT</category>
+<category>QCD analysis</category>
+<category>global fit</category>
+</item>
 <item>
 <title>Additive-free ester-based electrolyte for fast-charging and wide-temperature sodium-ion full batteries</title>
 <link>https://doi.org/10.1016/j.esci.2026.100650</link>
@@ -714,18 +726,6 @@
 <category>aerogel</category>
 <category>salt resistance</category>
 <category>desalination</category>
-</item>
-<item>
-<title>Bimetallic Zn/Cu Metal–Organic Framework (MOF)/ Two‐Dimensional i ‐MBene Hybrid Electrodes for Enhanced Supercapacitor Performance</title>
-<link>https://doi.org/10.1002/smll.75965</link>
-<guid isPermaLink="false">10.1002/smll.75965</guid>
-<pubDate>Tue, 29 Sep 2026 22:03:07 GMT</pubDate>
-<description>این پژوهش الکترود هیبریدی Zn/Cu MOF و i-MBene را برای ابرخازن نامتقارن معرفی می‌کند که ظرفیت ویژه و پایداری چرخه‌ای را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 supercapacitor · MOF · i-MBene · bimetallic Zn/Cu · energy storage</description>
-<category>supercapacitor</category>
-<category>MOF</category>
-<category>i-MBene</category>
-<category>bimetallic Zn/Cu</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
