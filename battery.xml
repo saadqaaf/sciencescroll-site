@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 04:01:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 05:01:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cathode-localized dual-salt chemistry for coupled interphase stabilization in high-voltage all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105568</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105568</guid>
+<pubDate>Wed, 30 Sep 2026 05:01:31 GMT</pubDate>
+<description>شیمی دوگانه نمکی در کاتد، پایداری فاز میانی را در باتری‌های تمام‌حالت‌جامد لیتیوم-فلز ولتاژ بالا بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · lithium metal · dual-salt chemistry · interphase stabilization · high voltage</description>
+<category>all-solid-state battery</category>
+<category>lithium metal</category>
+<category>dual-salt chemistry</category>
+<category>interphase stabilization</category>
+<category>high voltage</category>
+</item>
+<item>
+<title>Symmetry-Resolved d-p Coupling Regulates Sulfur Redox Reactions in Room-Temperature Na-S Battery</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105567</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105567</guid>
+<pubDate>Wed, 30 Sep 2026 05:01:28 GMT</pubDate>
+<description>جفت‌شدگی d-p با تفکیک تقارن، واکنش‌های ردوکس گوگرد را در باتری سدیم-گوگرد دمای اتاق تنظیم می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Na-S battery · d-p coupling · sulfur redox · symmetry resolution · room temperature</description>
+<category>Na-S battery</category>
+<category>d-p coupling</category>
+<category>sulfur redox</category>
+<category>symmetry resolution</category>
+<category>room temperature</category>
+</item>
+<item>
+<title>In situ visualization of natural convection-driven concentration stratification in aqueous zinc batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105564</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105564</guid>
+<pubDate>Wed, 30 Sep 2026 05:01:24 GMT</pubDate>
+<description>مشاهده درجای باتری آبی روی نشان می‌دهد که همرفت طبیعی باعث لایه‌بندی غلظت الکترولیت می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc battery · natural convection · concentration stratification · in situ visualization · electrolyte transport</description>
+<category>zinc battery</category>
+<category>natural convection</category>
+<category>concentration stratification</category>
+<category>in situ visualization</category>
+<category>electrolyte transport</category>
+</item>
 <item>
 <title>Additive-free ester-based electrolyte for fast-charging and wide-temperature sodium-ion full batteries</title>
 <link>https://doi.org/10.1016/j.esci.2026.100650</link>
@@ -695,44 +731,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Machine-learning molecula
 <category>degradation-aware</category>
 <category>explainable AI</category>
 <category>battery</category>
-</item>
-<item>
-<title>A physics-guided transformer for robust state of health estimation in real-world electric vehicles</title>
-<link>https://doi.org/10.1016/j.est.2026.124747</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124747</guid>
-<pubDate>Tue, 29 Sep 2026 03:01:33 GMT</pubDate>
-<description>این مقاله یک ترانسفورماتور فیزیک‌محور را برای تخمین مقاوم وضعیت سلامت در خودروهای الکتریکی واقعی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · transformer · electric vehicles · physics-guided</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>transformer</category>
-<category>electric vehicles</category>
-<category>physics-guided</category>
-</item>
-<item>
-<title>Competitive Coordination Decouples Charge Transport from Viscous Relaxation in Water-in-Salt Electrolytes</title>
-<link>https://doi.org/10.1021/jacs.6c11585</link>
-<guid isPermaLink="false">10.1021/jacs.6c11585</guid>
-<pubDate>Tue, 29 Sep 2026 01:02:42 GMT</pubDate>
-<description>افزودنی‌های زویتریونی در الکترولیت غلیظ LiTFSI با هماهنگی رقابتی، انتقال بار را از واهلش ویسکوز جدا کرده و رفتار سوپرآیونی ایجاد می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Zwitterionic additives in water-in-salt electrolytes decouple conductivity from viscosity, shifting them from subionic to superionic Walden behavior. This arises from competitive coordination: zwitterions bind Li⁺ yet weaken Li⁺–TFSI⁻ association, redistributing water. The work reveals a design route to independently tune solvation, ion correlations, and transport in concentrated electrolytes.&lt;br&gt;🏷 water-in-salt electrolyte · zwitterionic additive · LiTFSI · ion transport · Walden behavior</description>
-<category>water-in-salt electrolyte</category>
-<category>zwitterionic additive</category>
-<category>LiTFSI</category>
-<category>ion transport</category>
-<category>Walden behavior</category>
-</item>
-<item>
-<title>Multi-Step Oxygen Redox Mechanism in the Polyanionic Lithium-Rich Cathode Li2FeSiO4</title>
-<link>https://doi.org/10.1021/jacs.6c02850</link>
-<guid isPermaLink="false">10.1021/jacs.6c02850</guid>
-<pubDate>Tue, 29 Sep 2026 01:02:37 GMT</pubDate>
-<description>محاسبات DFT نشان می‌دهد در کاتد غنی از لیتیوم Li2FeSiO4، اکسیژن redox با مهاجرت Fe و تشکیل O2 همراه است و چارچوب پلی‌آنیونی مانع آن نمی‌شود.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study overturns the assumption that polyanionic frameworks prevent O2 formation in lithium-rich cathodes. It reveals FeSiO4 decomposes via a multistep oxygen redox mechanism involving Fe migration, disproportionation, and O2 release, showing previously proposed mechanisms can act as steps in one process. This advances understanding of silicate cathode stability and guides design of durable lithium-rich materials.&lt;br&gt;🏷 Li2FeSiO4 · oxygen redox · lithium-rich cathode · DFT · O2 formation</description>
-<category>Li2FeSiO4</category>
-<category>oxygen redox</category>
-<category>lithium-rich cathode</category>
-<category>DFT</category>
-<category>O2 formation</category>
 </item>
 </channel>
 </rss>
