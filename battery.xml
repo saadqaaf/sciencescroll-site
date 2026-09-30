@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 12:01:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 13:02:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tannic Acid–Fe 3+ Complex‑Sulfonate Coupled Hydrogel Electrolyte for Stable Zinc Anodes</title>
+<link>https://doi.org/10.1002/adma.75206</link>
+<guid isPermaLink="false">10.1002/adma.75206</guid>
+<pubDate>Wed, 30 Sep 2026 13:02:22 GMT</pubDate>
+<description>الکترولیت هیدروژلی تاننیک اسید-آهن/سولفونات با رسانایی بالا و عدد انتقال یون روی 0.91، آند روی را در باتری آبی پایدار می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tannic acid–Fe³⁺–sulfonate coupled hydrogel electrolyte that enables a three-tier defense against zinc corrosion, dendrites, and stress. Its significance is exceptional stability: 600 h cycling at 99.7% depth of discharge and 5200 full-cell cycles, offering a viable strategy for high-performance aqueous zinc batteries.&lt;br&gt;🏷 zinc anode · hydrogel electrolyte · tannic acid · dendrite suppression · aqueous battery</description>
+<category>zinc anode</category>
+<category>hydrogel electrolyte</category>
+<category>tannic acid</category>
+<category>dendrite suppression</category>
+<category>aqueous battery</category>
+</item>
+<item>
+<title>Pre-quenching chemistry for engineering solid electrolytes with high Li reversibility</title>
+<link>https://doi.org/10.1039/d6ee04129a</link>
+<guid isPermaLink="false">10.1039/d6ee04129a</guid>
+<pubDate>Wed, 30 Sep 2026 13:01:37 GMT</pubDate>
+<description>این مقاله یک شیمی پیش‌خاموشی برای مهندسی الکترولیت‌های جامد با برگشت‌پذیری بالای لیتیوم معرفی می‌کند که حاشیه اضافه‌ولتاژ کافی در برابر نفوذ Li فراهم می‌آورد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in pre-quenching chemistry that programmably tunes electrophile reactivity toward sulfide electrolytes, creating a protective interphase. This secures a sufficient overpotential margin against lithium intrusion, enabling high Li reversibility. It offers a rational design strategy for engineering durable solid electrolytes, advancing safe, high-energy solid-state batteries.&lt;br&gt;🏷 solid electrolyte · pre-quenching chemistry · lithium reversibility · sulfide electrolyte · overpotential</description>
+<category>solid electrolyte</category>
+<category>pre-quenching chemistry</category>
+<category>lithium reversibility</category>
+<category>sulfide electrolyte</category>
+<category>overpotential</category>
+</item>
+<item>
+<title>Visualizing Degradation in Anode-Free High-Capacity Aqueous Tin Metal Batteries Across Cell Lifetime</title>
+<link>https://doi.org/10.1039/d6ee04917f</link>
+<guid isPermaLink="false">10.1039/d6ee04917f</guid>
+<pubDate>Wed, 30 Sep 2026 13:01:29 GMT</pubDate>
+<description>این مقاله تخریب را در باتری‌های آبی بدون آند با ظرفیت بالا بر پایه قلع در طول عمر سلول تجسم می‌کند و رشد دندریتی و تکامل هیدروژن را بررسی می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This work uniquely visualizes how anode-free aqueous tin metal batteries degrade across their entire lifetime, linking operando imaging to capacity fade. It reveals that dendritic tin growth and parasitic hydrogen evolution jointly drive failure, offering critical mechanistic insight. The findings guide design strategies for high-energy-density aqueous batteries, advancing stable anode-free architectures.&lt;br&gt;🏷 anode-free battery · aqueous tin battery · electrodeposition · dendrite growth · hydrogen evolution</description>
+<category>anode-free battery</category>
+<category>aqueous tin battery</category>
+<category>electrodeposition</category>
+<category>dendrite growth</category>
+<category>hydrogen evolution</category>
+</item>
 <item>
 <title>Rare-Earth-Mediated High-Entropy Engineering Enables Ultra-Stable High-Rate Layered Oxide Cathodes for Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1039/d6ta05112j</link>
@@ -694,42 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>DFT</category>
 <category>deep learning</category>
 <category>Zn2+ diffusion</category>
-</item>
-<item>
-<title>Functional‐Group Engineering for Durable Solid Electrolyte Interphase Toward Aqueous Copper Batteries</title>
-<link>https://doi.org/10.1002/aenm.71593</link>
-<guid isPermaLink="false">10.1002/aenm.71593</guid>
-<pubDate>Tue, 29 Sep 2026 18:01:17 GMT</pubDate>
-<description>با مهندسی گروههای عاملی، یک SEI هیبریدی آلی-معدنی روی الکترود Cu ساخته شد که برگشتپذیری Cu2+ و پایداری باتری آبی مس را بهشدت بهبود میدهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers functional-group engineering of an organic-inorganic hybrid SEI on Cu electrodes for aqueous copper batteries. By combining fluorine and sulfur additives, it achieves high modulus (54.7 GPa) and fast Cu²⁺ transport, enabling 2000 h cycling and 2200-cycle full cells. This establishes a structure-function relationship guiding durable SEI design, advancing practical aqueous copper battery deployment.&lt;br&gt;🏷 aqueous copper battery · solid electrolyte interphase · functional-group engineering · Cu2+ reversibility · fluorinated additives</description>
-<category>aqueous copper battery</category>
-<category>solid electrolyte interphase</category>
-<category>functional-group engineering</category>
-<category>Cu2+ reversibility</category>
-<category>fluorinated additives</category>
-</item>
-<item>
-<title>Rechargeable Seawater Battery Coupled to Solar Seawater Desalination With a Mutual Enhancement Effect</title>
-<link>https://doi.org/10.1002/adma.75173</link>
-<guid isPermaLink="false">10.1002/adma.75173</guid>
-<pubDate>Tue, 29 Sep 2026 17:01:47 GMT</pubDate>
-<description>باتری آب دریا با ε-MnO2 و نمک‌زدایی خورشیدی یکپارچه شده و اثر تقویت متقابل نشان می‌دهند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 ε-MnO₂ acts as both an ion-storage cathode for rechargeable seawater batteries and a photothermal material for solar desalination. Integrating the two yields a mutual enhancement effect: battery capacity and seawater evaporation both increase during charge/discharge, unlike traditional integrations. This bifunctional coupling offers a new strategy for combined energy storage and clean water production.&lt;br&gt;🏷 seawater battery · solar desalination · epsilon-MnO2 · mutual enhancement · photothermal</description>
-<category>seawater battery</category>
-<category>solar desalination</category>
-<category>epsilon-MnO2</category>
-<category>mutual enhancement</category>
-<category>photothermal</category>
-</item>
-<item>
-<title>Medium‐Entropy‐Vacancy Engineering Unlocks Energy‐Power Trade‐Off Reconciliation in Sodium‐Ion Hybrid Capacitors</title>
-<link>https://doi.org/10.1002/adma.75186</link>
-<guid isPermaLink="false">10.1002/adma.75186</guid>
-<pubDate>Tue, 29 Sep 2026 17:01:31 GMT</pubDate>
-<description>مهندسی آنتروپی-تهی‌جای متوسط در کاتد Na3Fe0.6Al0.4V(PO4)3، مبادله انرژی-توان در خازن‌های هیبریدی سدیم-یون را حل می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers medium-entropy-vacancy engineering in sodium-ion hybrid capacitors, using a Na3Fe0.6Al0.4V(PO4)3 cathode to reconcile the energy-power trade-off. It activates V4+/V5+ redox, creates oxygen vacancies for fast Na+ diffusion, and achieves 223 Wh/kg, 5940 W/kg, and 10,000-cycle stability. This offers a thermodynamic design blueprint for high-performance sodium energy storage.&lt;br&gt;🏷 sodium-ion capacitor · medium entropy · vacancy engineering · Na3Fe0.6Al0.4V(PO4)3 · energy-power trade-off</description>
-<category>sodium-ion capacitor</category>
-<category>medium entropy</category>
-<category>vacancy engineering</category>
-<category>Na3Fe0.6Al0.4V(PO4)3</category>
-<category>energy-power trade-off</category>
 </item>
 </channel>
 </rss>
