@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 11:01:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 12:01:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>CytoVI: deep generative modeling of antibody-based single cell data</title>
+<link>https://doi.org/10.1038/s41592-026-03224-5</link>
+<guid isPermaLink="false">10.1038/s41592-026-03224-5</guid>
+<pubDate>Wed, 30 Sep 2026 12:01:36 GMT</pubDate>
+<description>این مقاله مدل مولد عمیق CytoVI را برای داده‌های تک‌سلولی مبتنی بر آنتی‌بادی معرفی می‌کند که امکان تحلیل و یکپارچه‌سازی این داده‌ها را فراهم می‌آورد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-cell data · antibody-based · deep generative model · CytoVI · variational inference</description>
+<category>single-cell data</category>
+<category>antibody-based</category>
+<category>deep generative model</category>
+<category>CytoVI</category>
+<category>variational inference</category>
+</item>
+<item>
+<title>Microchip Nd:YAG laser with master-oscillator–power-amplifier architecture</title>
+<link>https://doi.org/10.1038/s41566-026-01984-2</link>
+<guid isPermaLink="false">10.1038/s41566-026-01984-2</guid>
+<pubDate>Wed, 30 Sep 2026 12:01:33 GMT</pubDate>
+<description>این مقاله یک لیزر میکروچیپ Nd:YAG با معماری نوسان‌ساز اصلی-تقویت‌کننده توان ارائه می‌دهد که عملکرد لیزری را بهبود می‌بخشد.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 Nd:YAG laser · microchip laser · master-oscillator power-amplifier · solid-state laser · laser architecture</description>
+<category>Nd:YAG laser</category>
+<category>microchip laser</category>
+<category>master-oscillator power-amplifier</category>
+<category>solid-state laser</category>
+<category>laser architecture</category>
+</item>
+<item>
+<title>Attosecond current control and timing in a scanning tunnelling microscope</title>
+<link>https://doi.org/10.1038/s41566-026-02021-y</link>
+<guid isPermaLink="false">10.1038/s41566-026-02021-y</guid>
+<pubDate>Wed, 30 Sep 2026 12:01:29 GMT</pubDate>
+<description>این مقاله کنترل و زمان‌بندی جریان آتوثانیه‌ای را در میکروسکوپ تونل‌زنی روبشی نشان می‌دهد و امکان مطالعه دینامیک الکترونی فوق‌سریع را فراهم می‌کند.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 attosecond current control · scanning tunnelling microscope · timing · electron dynamics · ultrafast spectroscopy</description>
+<category>attosecond current control</category>
+<category>scanning tunnelling microscope</category>
+<category>timing</category>
+<category>electron dynamics</category>
+<category>ultrafast spectroscopy</category>
+</item>
+<item>
+<title>Amplitude-controllable event-driven organic photosensors based on ionic-mediated inhibition</title>
+<link>https://doi.org/10.1038/s41563-026-02747-8</link>
+<guid isPermaLink="false">10.1038/s41563-026-02747-8</guid>
+<pubDate>Wed, 30 Sep 2026 12:01:25 GMT</pubDate>
+<description>این مقاله یک فوتوسنسور آلی رویدادمحور مبتنی بر هادی مخلوط یونی-الکترونی گزارش می‌کند که با کنترل بازدارنده یونی، دامنه اسپایک را تنظیم کرده و کدگذاری دامنه-زمانی در حسگر را ممکن می‌سازد.&lt;br&gt;Nature Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 organic photosensor · mixed ionic-electronic conductor · spike amplitude modulation · neuromorphic vision · bulk heterojunction</description>
+<category>organic photosensor</category>
+<category>mixed ionic-electronic conductor</category>
+<category>spike amplitude modulation</category>
+<category>neuromorphic vision</category>
+<category>bulk heterojunction</category>
+</item>
+<item>
+<title>Ionic feedback enables programmable event-driven organic photosensing</title>
+<link>https://doi.org/10.1038/s41563-026-02762-9</link>
+<guid isPermaLink="false">10.1038/s41563-026-02762-9</guid>
+<pubDate>Wed, 30 Sep 2026 12:01:22 GMT</pubDate>
+<description>این مقاله یک فوتوسنسور آلی رویدادمحور با بازخورد یونی معرفی می‌کند که امکان برنامه‌ریزی پاسخ نوری را برای بینایی نورومورفیک فراهم می‌آورد.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 organic photosensor · ionic feedback · event-driven sensing · neuromorphic vision · programmable photoresponse</description>
+<category>organic photosensor</category>
+<category>ionic feedback</category>
+<category>event-driven sensing</category>
+<category>neuromorphic vision</category>
+<category>programmable photoresponse</category>
+</item>
 <item>
 <title>The super El Niño is cooking coral reefs — can lullabies and probiotics save them?</title>
 <link>https://doi.org/10.1038/d41586-026-02965-9</link>
@@ -666,66 +726,6 @@
 <category>carbon partitioning</category>
 <category>13C tracing</category>
 <category>agroecosystems</category>
-</item>
-<item>
-<title>Context‐Dependent Inverse Association of Glucose–Lipid Metabolic Status With Anemia: Evidence From Multinational Multicohort Analyses</title>
-<link>https://doi.org/10.1002/advs.78037</link>
-<guid isPermaLink="false">10.1002/advs.78037</guid>
-<pubDate>Wed, 30 Sep 2026 08:02:32 GMT</pubDate>
-<description>وضعیت متابولیک گلوکز-لیپید بالاتر به‌طور معکوس با کم‌خونی در چندین کوهورت بین‌المللی مرتبط است، اما این رابطه بسته به التهاب، بیماری قلبی و عملکرد کلیه تغییر می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 anemia · glucose-lipid metabolism · multicohort · inflammation · renal function</description>
-<category>anemia</category>
-<category>glucose-lipid metabolism</category>
-<category>multicohort</category>
-<category>inflammation</category>
-<category>renal function</category>
-</item>
-<item>
-<title>Oxygen Partial Pressure as a Kinetic Descriptor for Single‐Crystal Morphology in Mid‐Nickel Layered Cathodes</title>
-<link>https://doi.org/10.1002/advs.78080</link>
-<guid isPermaLink="false">10.1002/advs.78080</guid>
-<pubDate>Wed, 30 Sep 2026 08:02:29 GMT</pubDate>
-<description>فشار جزئی اکسیژن به‌عنوان توصیفگر سینتیکی، رشد دانه را در کاتدهای لایه‌ای نیکل متوسط کنترل کرده و با کلسیناسیون متوالی هوا-اکسیژن، پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes oxygen partial pressure as a quantitative kinetic descriptor governing densification versus grain-growth competition in mid-nickel layered cathodes. By coupling calcination experiments with phase-field modeling, it proposes an air–oxygen sequential process that overcomes single-atmosphere trade-offs, enabling time-efficient single-crystal formation with improved cycling stability (83.04% retention versus ~77%). This offers a scalable, predictive route for durable single-crystal cathode synthesis.&lt;br&gt;🏷 single-crystal cathode · oxygen partial pressure · grain growth · calcination · lithium-ion battery</description>
-<category>single-crystal cathode</category>
-<category>oxygen partial pressure</category>
-<category>grain growth</category>
-<category>calcination</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>A Generalizable Multimodal Model for Treatment‐Stratified Risk and Survival Assessment under Real‐World Constraints: A Multi‐Center Study of Colorectal Cancer</title>
-<link>https://doi.org/10.1002/advs.78019</link>
-<guid isPermaLink="false">10.1002/advs.78019</guid>
-<pubDate>Wed, 30 Sep 2026 08:02:24 GMT</pubDate>
-<description>چارچوب DAIMS با یادگیری چندوجهی و انطباق دامنه، بقا و خطر سرطان کولورکتال را حتی با داده‌های ناقص و تنها بر پایه هیستوپاتولوژی پیش‌بینی می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 colorectal cancer · multimodal learning · histopathology · domain adaptation · survival analysis</description>
-<category>colorectal cancer</category>
-<category>multimodal learning</category>
-<category>histopathology</category>
-<category>domain adaptation</category>
-<category>survival analysis</category>
-</item>
-<item>
-<title>Trap‐Programmable Ruddlesden–Popper Perovskite Nanocrystals for Persistent Optoelectronic Memory and Photonic Synapses</title>
-<link>https://doi.org/10.1002/advs.78101</link>
-<guid isPermaLink="false">10.1002/advs.78101</guid>
-<pubDate>Wed, 30 Sep 2026 08:02:19 GMT</pubDate>
-<description>نانوکریستال‌های پروسکایت Ruddlesden-Popper دوپ‌شده با Sb، با تنظیم تله‌ها، حافظه نوری ماندگار و سیناپس فوتونیکی فوق‌طولانی ایجاد می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Ruddlesden-Popper perovskite · persistent luminescence · optoelectronic memory · photonic synapse · trap states</description>
-<category>Ruddlesden-Popper perovskite</category>
-<category>persistent luminescence</category>
-<category>optoelectronic memory</category>
-<category>photonic synapse</category>
-<category>trap states</category>
-</item>
-<item>
-<title>Electronic‐State Programming of Ultrasmall CeO 2 Switches H 2 O 2 Activation From Radical to Bio‐Inspired Nonradical 1 O 2 Generation for Combating Antibiotic Resistance</title>
-<link>https://doi.org/10.1002/advs.78122</link>
-<guid isPermaLink="false">10.1002/advs.78122</guid>
-<pubDate>Wed, 30 Sep 2026 08:02:13 GMT</pubDate>
-<description>نانوذرات CeO2 فوق‌کوچک با برنامه‌ریزی حالت الکترونی، فعال‌سازی H2O2 را از مسیر رادیکالی به تولید غیررادیکالی 1O2 برای مقابله با مقاومت آنتی‌بیوتیکی تغییر می‌دهند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CeO2 nanoparticles · singlet oxygen · nonradical pathway · antibiotic resistance · H2O2 activation</description>
-<category>CeO2 nanoparticles</category>
-<category>singlet oxygen</category>
-<category>nonradical pathway</category>
-<category>antibiotic resistance</category>
-<category>H2O2 activation</category>
 </item>
 </channel>
 </rss>
