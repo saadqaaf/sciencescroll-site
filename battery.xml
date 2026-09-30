@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 07:03:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 08:04:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anion Engineering of Sulfide Solid Electrolytes: From Fundamentals to High‐Performance All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/smll.76005</link>
+<guid isPermaLink="false">10.1002/smll.76005</guid>
+<pubDate>Wed, 30 Sep 2026 08:04:42 GMT</pubDate>
+<description>مرور جامع مهندسی آنیونی الکترولیت‌های جامد سولفیدی، نقش زیرشبکه آنیونی در رسانش یون لیتیم و راهبردهای جانشینی و اصلاح آنیون برای باتری‌های تمام‌جامد کارآمد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates anion engineering strategies for sulfide solid electrolytes, linking anionic sublattice design to ionic transport, stability, and interfacial behavior. Its significance lies in systematically bridging fundamental conduction mechanisms with practical battery performance, offering a roadmap for scalable, high-performance all-solid-state batteries.&lt;br&gt;🏷 sulfide solid electrolytes · anion engineering · all-solid-state batteries · lithium-ion conduction · interfacial compatibility</description>
+<category>sulfide solid electrolytes</category>
+<category>anion engineering</category>
+<category>all-solid-state batteries</category>
+<category>lithium-ion conduction</category>
+<category>interfacial compatibility</category>
+</item>
+<item>
+<title>Fe/Ce Dual‐Atom Engineering to Break the Activity‐Stability Trade‐Off for Ultra‐Stable Zinc‐Air Batteries</title>
+<link>https://doi.org/10.1002/smll.76029</link>
+<guid isPermaLink="false">10.1002/smll.76029</guid>
+<pubDate>Wed, 30 Sep 2026 08:04:37 GMT</pubDate>
+<description>کاتالیزور دواتمی Fe/Ce روی الیاف کربنی توخالی با پاک‌سازی ROS و تجزیه H2O2، مبادله فعالیت-پایداری را می‌شکند و باتری روی-هوا را 2300 چرخه پایدار نگه می‌دارد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 FeCe dual-atom catalyst co-anchored on hollow carbon fibers breaks the activity-stability trade-off in zinc-air batteries. Ce sites scavenge ROS and decompose H₂O₂ while modulating Fe centers, boosting ORR activity and preventing carbon degradation. It delivers 2300 cycles (~1100 h) of stable operation, offering a new pathway for ultra-durable zinc-air batteries.&lt;br&gt;🏷 zinc-air batteries · dual-atom catalyst · Fe-Ce sites · ORR stability · ROS scavenging</description>
+<category>zinc-air batteries</category>
+<category>dual-atom catalyst</category>
+<category>Fe-Ce sites</category>
+<category>ORR stability</category>
+<category>ROS scavenging</category>
+</item>
+<item>
+<title>Recent Advances in Presodiation Strategies for Hard Carbon in Sodium‐Ion Batteries: Mechanisms of SEI Regulation and Electrochemical Performance</title>
+<link>https://doi.org/10.1002/smll.75966</link>
+<guid isPermaLink="false">10.1002/smll.75966</guid>
+<pubDate>Wed, 30 Sep 2026 08:04:25 GMT</pubDate>
+<description>مرور راهبردهای پیش‌سدیم‌گذاری فیزیکی، شیمیایی، الکتروشیمیایی و افزودنی فداشونده برای آند کربن سخت باتری‌های یون‌سدیم با تمرکز بر تنظیم و تکامل SEI و بهبود ICE.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely examines presodiation strategies through the lens of SEI formation and evolution in hard carbon anodes, linking interphase timing, composition, morphology, and spatial distribution to electrochemical performance. By connecting interfacial features with ICE, resistance, rate capability, and cycling stability, it identifies how presodiation conditions govern SEI development, offering guidance for practical sodium-ion battery design.&lt;br&gt;🏷 sodium-ion batteries · hard carbon anode · presodiation · solid electrolyte interphase · initial coulombic efficiency</description>
+<category>sodium-ion batteries</category>
+<category>hard carbon anode</category>
+<category>presodiation</category>
+<category>solid electrolyte interphase</category>
+<category>initial coulombic efficiency</category>
+</item>
+<item>
+<title>Plasma‐Assisted Amine‐Functionalized BNNT Stabilizing the Ni–CoTe@Ti 3 C 2 T x MXene Electrode for Flexible Supercapacitor</title>
+<link>https://doi.org/10.1002/smll.76040</link>
+<guid isPermaLink="false">10.1002/smll.76040</guid>
+<pubDate>Wed, 30 Sep 2026 08:03:49 GMT</pubDate>
+<description>الکترود Ni–CoTe/f-BNNT@MXene با پلاسمای Ar/NH3 برای ابرخازن نامتقارن انعطاف‌پذیر ساخته شد و چگالی انرژی 44 Wh/kg و پایداری 91% پس از 30000 چرخه نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in Ar/NH₃ plasma-functionalized BNNTs stabilizing Ni–CoTe heterostructures on MXene, preventing aggregation and restacking. This multidimensional design enables synergistic Faradaic and surface-controlled storage, yielding 44 Wh/kg, 5400 W/kg, and ~91% retention over 30,000 cycles. It significantly advances durable, high-performance flexible supercapacitors.&lt;br&gt;🏷 supercapacitor · MXene · BNNT · plasma functionalization · Ni-CoTe</description>
+<category>supercapacitor</category>
+<category>MXene</category>
+<category>BNNT</category>
+<category>plasma functionalization</category>
+<category>Ni-CoTe</category>
+</item>
+<item>
+<title>Reprogramming Interfacial Hydrogen-Bond Networks via Asymmetric Single-Atom Catalysts</title>
+<link>https://doi.org/10.1021/acscatal.6c04933</link>
+<guid isPermaLink="false">10.1021/acscatal.6c04933</guid>
+<pubDate>Wed, 30 Sep 2026 08:03:32 GMT</pubDate>
+<description>کاتالیزور تک‌اتمی نامتقارن Co-N3O1 با بازبرنامه‌ریزی شبکه پیوند هیدروژنی بین‌سطحی، احیای اکسیژن و عملکرد باتری روی-هوا را بهبود می‌بخشد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;💡 Asymmetric Co-N3O1 single-atom sites, formed via rapid Joule heating, break local symmetry to reprogram interfacial hydrogen-bond networks, weakening over-connected water networks and boosting proton transfer. This yields superior four-electron oxygen reduction (0.866 V half-wave) and high-performance zinc-air batteries, establishing asymmetric single-atom modulation as a new paradigm for catalyst-water interface engineering.&lt;br&gt;🏷 single-atom catalyst · hydrogen-bond network · oxygen reduction · zinc-air battery · Co-N3O1</description>
+<category>single-atom catalyst</category>
+<category>hydrogen-bond network</category>
+<category>oxygen reduction</category>
+<category>zinc-air battery</category>
+<category>Co-N3O1</category>
+</item>
+<item>
+<title>Oxygen Partial Pressure as a Kinetic Descriptor for Single‐Crystal Morphology in Mid‐Nickel Layered Cathodes</title>
+<link>https://doi.org/10.1002/advs.78080</link>
+<guid isPermaLink="false">10.1002/advs.78080</guid>
+<pubDate>Wed, 30 Sep 2026 08:02:29 GMT</pubDate>
+<description>فشار جزئی اکسیژن به‌عنوان توصیفگر سینتیکی، رشد دانه را در کاتدهای لایه‌ای نیکل متوسط کنترل کرده و با کلسیناسیون متوالی هوا-اکسیژن، پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes oxygen partial pressure as a quantitative kinetic descriptor governing densification versus grain-growth competition in mid-nickel layered cathodes. By coupling calcination experiments with phase-field modeling, it proposes an air–oxygen sequential process that overcomes single-atmosphere trade-offs, enabling time-efficient single-crystal formation with improved cycling stability (83.04% retention versus ~77%). This offers a scalable, predictive route for durable single-crystal cathode synthesis.&lt;br&gt;🏷 single-crystal cathode · oxygen partial pressure · grain growth · calcination · lithium-ion battery</description>
+<category>single-crystal cathode</category>
+<category>oxygen partial pressure</category>
+<category>grain growth</category>
+<category>calcination</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Calorimetric and Quasielastic Neutron Scattering Studies on a Mg-Ion Conductor Using a Metal–Organic Framework MIL-101 Involving Acetonitrile</title>
 <link>https://doi.org/10.1021/jacs.6c11926</link>
@@ -658,78 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>phase engineering</category>
 <category>boundary precipitation</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Soft coral-inspired hyperbranched binders enabling stress adaptability and rapid lithium-ion transport for silicon anodes</title>
-<link>https://doi.org/10.1039/d6ta05814k</link>
-<guid isPermaLink="false">10.1039/d6ta05814k</guid>
-<pubDate>Tue, 29 Sep 2026 15:01:40 GMT</pubDate>
-<description>بایندر هایپربانچ LiPAA-TG با الهام از مرجان نرم، شبکه‌ای سخت-انعطاف‌پذیر برای انتقال سریع Li-ion تشکیل می‌دهد و سلول‌های کیسه‌ای NCM613-Si/C@graphite را به 1049 چرخه با حفظ ظرفیت 80% می‌رساند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a soft coral-inspired hyperbranched LiPAA-TG binder creating a rigid-flexible network that combines stress adaptability with rapid lithium-ion transport. Its significance is enabling silicon anodes to achieve 1049 cycles at 80% capacity retention in NCM613-Si/C@graphite pouch cells, addressing silicon&amp;#x27;s pulverization and slow kinetics for practical high-energy batteries.&lt;br&gt;🏷 silicon anode · hyperbranched binder · Li-ion transport · stress adaptability · pouch cell</description>
-<category>silicon anode</category>
-<category>hyperbranched binder</category>
-<category>Li-ion transport</category>
-<category>stress adaptability</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Achieving high rate capacity and cyclability of LiMn 0.6 Fe 0.4 PO 4 cathode through crystal-facet modulation and Mg-doping engineering</title>
-<link>https://doi.org/10.1039/d6ta04214g</link>
-<guid isPermaLink="false">10.1039/d6ta04214g</guid>
-<pubDate>Tue, 29 Sep 2026 15:01:35 GMT</pubDate>
-<description>این مقاله با راهبرد هم‌افزای تنظیم وجه بلوری و دوپینگ Mg، ظرفیت بالا، نرخ‌پذیری عالی و پایداری چرخه طولانی را در کاتد LiMn0.6Fe0.4PO4 به دست می‌آورد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work uniquely combines crystal-facet modulation with Mg doping in LiMn0.6Fe0.4PO4 cathodes, a dual-engineering approach not previously reported. The synergy enhances lithium-ion transport and structural stability, delivering high capacity, superior rate capability, and long cyclability. It offers a promising design strategy for advanced olivine cathode materials in high-performance lithium-ion batteries.&lt;br&gt;🏷 LiMn0.6Fe0.4PO4 · crystal-facet modulation · Mg doping · cathode · rate capability</description>
-<category>LiMn0.6Fe0.4PO4</category>
-<category>crystal-facet modulation</category>
-<category>Mg doping</category>
-<category>cathode</category>
-<category>rate capability</category>
-</item>
-<item>
-<title>Scalable Dual-Side LiAlF4 Nano-Coating by Fluidized Electron-Beam Evaporation for High-Voltage, Air-Stable Sulfide All-Solid-State Batteries</title>
-<link>https://doi.org/10.1039/d6ta06042k</link>
-<guid isPermaLink="false">10.1039/d6ta06042k</guid>
-<pubDate>Tue, 29 Sep 2026 15:01:27 GMT</pubDate>
-<description>این مقاله یک راهبرد مقیاس‌پذیر و بدون حلال با تبخیر پرتوی الکترونی بستر سیال برای پوشش نانو LiAlF4 دوطرفه ارائه می‌دهد که باتری‌های تمام‌حالت‌جامد سولفیدی را در ولتاژ بالا و پایدار در هوا ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using fluidized electron-beam evaporation to apply a scalable, solvent-free, dual-side LiAlF4 nano-coating on sulfide electrolytes. This addresses high-voltage cathode interfacial decomposition and air instability simultaneously. Its significance is enabling high-voltage, air-stable sulfide all-solid-state batteries with a manufacturable coating process, advancing practical commercialization of high-energy-density ASSBs.&lt;br&gt;🏷 all-solid-state battery · sulfide electrolyte · LiAlF4 coating · electron-beam evaporation · high-voltage cathode</description>
-<category>all-solid-state battery</category>
-<category>sulfide electrolyte</category>
-<category>LiAlF4 coating</category>
-<category>electron-beam evaporation</category>
-<category>high-voltage cathode</category>
-</item>
-<item>
-<title>Programming the Electrostatic Landscape for Fast Na+ Transport in NASICON Solid Electrolytes</title>
-<link>https://doi.org/10.1039/d6mh01373b</link>
-<guid isPermaLink="false">10.1039/d6mh01373b</guid>
-<pubDate>Tue, 29 Sep 2026 13:01:32 GMT</pubDate>
-<description>برنامه‌ریزی چشم‌انداز الکترواستاتیکی، انتقال سریع یون سدیم را در الکترولیت جامد NASICON ممکن می‌سازد.&lt;br&gt;Materials Horizons | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work reveals that the electrostatic energy landscape, not just geometry or carrier concentration, governs fast Na+ transport in NASICON solid electrolytes. By programming this landscape, the authors establish a new design principle for optimizing ionic conductivity, offering significant potential for advancing solid-state batteries.&lt;br&gt;🏷 solid electrolyte · NASICON · sodium ion transport · electrostatic landscape · ionic conductivity</description>
-<category>solid electrolyte</category>
-<category>NASICON</category>
-<category>sodium ion transport</category>
-<category>electrostatic landscape</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Medium‐Entropy Doping Stimulated Multielectron Redox for Ultrastable High‐Capacity Na 3 V 2 (PO 4 ) 3</title>
-<link>https://doi.org/10.1002/sstr.70614</link>
-<guid isPermaLink="false">10.1002/sstr.70614</guid>
-<pubDate>Tue, 29 Sep 2026 13:01:21 GMT</pubDate>
-<description>دوپینگ آنتروپی متوسط در کاتد NASICON ظرفیت ۱۶۰٫۱ mAh/g و پایداری ۱۰۰٪ پس از ۴۰۰۰ چرخه را با فعال‌سازی جفت V4+/V5+ فراهم می‌کند.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Medium-entropy doping of NASICON Na₃V₂(PO₄)₃ activates the V⁴⁺/V⁵⁺ couple, enabling stepwise multielectron redox (Ti, Fe, V) over 1.5–4.6 V. This yields 160.1 mAh g⁻¹, 475 Wh kg⁻¹, and 100% capacity retention after 4000 cycles at 20 C, while reducing vanadium content. It establishes medium-entropy engineering as a viable strategy for high-performance polyanion cathodes.&lt;br&gt;🏷 sodium-ion battery · NASICON cathode · medium-entropy doping · multielectron redox · cycling stability</description>
-<category>sodium-ion battery</category>
-<category>NASICON cathode</category>
-<category>medium-entropy doping</category>
-<category>multielectron redox</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>2D Vermiculite Nanosheets Encapsulated in Hydrogel Electrolyte for Shuttle‐Free and Dendrite‐Inhibited Zinc‐Iodine Batteries</title>
-<link>https://doi.org/10.1002/advs.78083</link>
-<guid isPermaLink="false">10.1002/advs.78083</guid>
-<pubDate>Tue, 29 Sep 2026 12:02:20 GMT</pubDate>
-<description>الکترولیت هیدروژل PAM/CS/VN با نانوصفحات ورمیکولیت برای مهار شاتل پلی‌یدید و دندریت روی در باتری‌های Zn-I2 با حفظ ظرفیت ۹۷.۴٪ پس از ۱۰۰۰۰ چرخه استفاده شد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a dual-network hydrogel electrolyte combining polyacrylamide, chitosan, and 2D vermiculite nanosheets to simultaneously tackle polyiodide shuttling and zinc dendrites. Its significance is enabling shuttle-free, dendrite-inhibited Zn–I₂ batteries with 97.4% retention over 10,000 cycles and stable pouch cells, offering a promising strategy for durable aqueous energy storage.&lt;br&gt;🏷 zinc-iodine battery · hydrogel electrolyte · vermiculite nanosheet · shuttle effect · zinc dendrite</description>
-<category>zinc-iodine battery</category>
-<category>hydrogel electrolyte</category>
-<category>vermiculite nanosheet</category>
-<category>shuttle effect</category>
-<category>zinc dendrite</category>
 </item>
 </channel>
 </rss>
