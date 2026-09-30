@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 01:01:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 02:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Additive-free ester-based electrolyte for fast-charging and wide-temperature sodium-ion full batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100650</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100650</guid>
+<pubDate>Wed, 30 Sep 2026 02:01:12 GMT</pubDate>
+<description>این پژوهش یک الکترولیت استری بدون افزودنی برای باتری‌های کامل سدیم-یون معرفی می‌کند که شارژ سریع و عملکرد در دمای گسترده را ممکن می‌سازد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium-ion battery · ester-based electrolyte · fast charging · wide-temperature · additive-free</description>
+<category>sodium-ion battery</category>
+<category>ester-based electrolyte</category>
+<category>fast charging</category>
+<category>wide-temperature</category>
+<category>additive-free</category>
+</item>
 <item>
 <title>Internal operando monitoring of lithium-ion batteries using a wireless, powerless inductor–capacitor resonant sensor</title>
 <link>https://doi.org/10.1039/d6ta05881g</link>
@@ -721,18 +733,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This s
 <category>lithium-rich cathode</category>
 <category>DFT</category>
 <category>O2 formation</category>
-</item>
-<item>
-<title>Stress-adaptive conductive network and ion-segregated polymeric-inorganic interphases enable durable room-temperature silicon-based solid-state batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78184-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78184-7</guid>
-<pubDate>Tue, 29 Sep 2026 01:02:06 GMT</pubDate>
-<description>این مقاله با شبکه رسانای تنش‌تطبیق‌پذیر و میان‌فازهای پلیمری-معدنی جداشده یونی، باتری‌های حالت جامد سیلیکونی پایدار در دمای اتاق را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The work integrates a stress-adaptive Si-Zn-amorphous carbon anode with a salt-segregated PVDF-HFP electrolyte, creating a polymeric-inorganic bilayer interphase. This design decouples Si expansion, preserves electrical connectivity, and enables fast ion transfer, achieving 337 Wh kg−1 and long cycling (2000/800 cycles) at room temperature—advancing practical, durable silicon-based solid-state batteries.&lt;br&gt;🏷 solid-state battery · silicon anode · conductive network · ion-segregated interphase · room temperature</description>
-<category>solid-state battery</category>
-<category>silicon anode</category>
-<category>conductive network</category>
-<category>ion-segregated interphase</category>
-<category>room temperature</category>
 </item>
 </channel>
 </rss>

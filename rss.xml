@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 01:01:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 02:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Additive-free ester-based electrolyte for fast-charging and wide-temperature sodium-ion full batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100650</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100650</guid>
+<pubDate>Wed, 30 Sep 2026 02:01:12 GMT</pubDate>
+<description>این پژوهش یک الکترولیت استری بدون افزودنی برای باتری‌های کامل سدیم-یون معرفی می‌کند که شارژ سریع و عملکرد در دمای گسترده را ممکن می‌سازد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium-ion battery · ester-based electrolyte · fast charging · wide-temperature · additive-free</description>
+<category>sodium-ion battery</category>
+<category>ester-based electrolyte</category>
+<category>fast charging</category>
+<category>wide-temperature</category>
+<category>additive-free</category>
+</item>
+<item>
+<title>Coupled carrier–phonon–ion transport in binary copper-based superionic conductors: thermoelectric performance, stability, and devices</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101848</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101848</guid>
+<pubDate>Wed, 30 Sep 2026 02:01:07 GMT</pubDate>
+<description>این مقاله مروری، انتقال جفت‌شده حامل-فونون-یون را در رساناهای فوق‌یونی مس‌پایه بررسی می‌کند و عملکرد ترموالکتریک، پایداری و دستگاه‌های آن‌ها را تحلیل می‌نماید.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 copper superionic conductors · thermoelectric performance · carrier-phonon-ion transport · thermoelectric devices · stability</description>
+<category>copper superionic conductors</category>
+<category>thermoelectric performance</category>
+<category>carrier-phonon-ion transport</category>
+<category>thermoelectric devices</category>
+<category>stability</category>
+</item>
 <item>
 <title>Emissions after the Paris accord made Europe’s heatwaves more severe</title>
 <link>https://doi.org/10.1038/d41586-026-03035-w</link>
@@ -702,30 +726,6 @@
 <category>i-MBene</category>
 <category>bimetallic Zn/Cu</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Coordination Nanosheets‐Mediated Crystallization and Light Management for Efficient and Operationally Durable Methylammonium/Bromide‐Free Perovskite Solar Cells</title>
-<link>https://doi.org/10.1002/smll.76016</link>
-<guid isPermaLink="false">10.1002/smll.76016</guid>
-<pubDate>Tue, 29 Sep 2026 22:03:04 GMT</pubDate>
-<description>این مقاله با افزودن نانوصفحات کوئوردیناسیونی ZnTPY، بلورینگی و پایداری سلول‌های خورشیدی پروسکایتی بدون متیل‌آمونیوم/برمید را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 perovskite solar cells · coordination nanosheets · crystallization · down-conversion · stability</description>
-<category>perovskite solar cells</category>
-<category>coordination nanosheets</category>
-<category>crystallization</category>
-<category>down-conversion</category>
-<category>stability</category>
-</item>
-<item>
-<title>Crystallinity Effects on Near‐Infrared Photoresponse in Y6‐Based Organic Phototransistors</title>
-<link>https://doi.org/10.1002/smll.75942</link>
-<guid isPermaLink="false">10.1002/smll.75942</guid>
-<pubDate>Tue, 29 Sep 2026 22:02:59 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که بلورینگی فیلم‌های Y6 در ترانزیستورهای نوری آلی، پاسخ‌دهی نوری نزدیک به فروسرخ را به‌طور قابل‌توجهی افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 organic phototransistors · Y6 acceptor · near-infrared · crystallinity · photoresponsivity</description>
-<category>organic phototransistors</category>
-<category>Y6 acceptor</category>
-<category>near-infrared</category>
-<category>crystallinity</category>
-<category>photoresponsivity</category>
 </item>
 </channel>
 </rss>
