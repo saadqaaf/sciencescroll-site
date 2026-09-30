@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 22:01:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 23:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hierarchical heterostructure engineering of eutectic alloy for dendrite-free and ultralong-lifespan anode in low-temperature aqueous zinc-metal battery</title>
+<link>https://doi.org/10.1016/j.mser.2026.101311</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101311</guid>
+<pubDate>Wed, 30 Sep 2026 23:01:41 GMT</pubDate>
+<description>مهندسی ناهم‌ساختار سلسله‌مراتبی آلیاژ یوتکتیک برای آند باتری آبی روی-فلز، رشد دندریتی را سرکوب کرده و عمر چرخه فوق‌العاده طولانی در دمای پایین را ممکن می‌سازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 aqueous zinc-metal battery · eutectic alloy anode · hierarchical heterostructure · dendrite-free · low-temperature</description>
+<category>aqueous zinc-metal battery</category>
+<category>eutectic alloy anode</category>
+<category>hierarchical heterostructure</category>
+<category>dendrite-free</category>
+<category>low-temperature</category>
+</item>
+<item>
+<title>Low‐Pressure All‐Solid‐State Lithium–Sulfur Batteries: Challenges and Design Principles</title>
+<link>https://doi.org/10.1002/idm2.70086</link>
+<guid isPermaLink="false">10.1002/idm2.70086</guid>
+<pubDate>Wed, 30 Sep 2026 23:01:12 GMT</pubDate>
+<description>این مقاله با دیدگاه فشارمحور نشان می‌دهد که افت عملکرد باتری‌های تمام‌جامد Li-S در فشار پایین ناشی از عدم‌تطابق شیمیایی-مکانیکی است و اصول طراحی بدون فشار را ارائه می‌کند.&lt;br&gt;Interdisciplinary Materials | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This perspective reframes pressure as a compensatory crutch, not a solution, and identifies chemo-mechanical mismatch as the root cause of low-pressure ASSLSB degradation. It proposes design principles—reaction accessibility, adaptive ion-conducting phases, and stable interfaces—shifting focus from accommodating pressure to eliminating pressure dependence, a critical step for practical high-energy solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur · low-pressure operation · chemo-mechanical mismatch · solid-solid interface</description>
+<category>all-solid-state battery</category>
+<category>lithium-sulfur</category>
+<category>low-pressure operation</category>
+<category>chemo-mechanical mismatch</category>
+<category>solid-solid interface</category>
+</item>
 <item>
 <title>From cationic to anionic redox in layered oxide cathodes for Sodium-ion batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.124848</link>
@@ -702,30 +726,6 @@
 <category>parameterization</category>
 <category>high-frequency model</category>
 <category>impedance</category>
-</item>
-<item>
-<title>Ternary-synergistic heterostructured Nb2C@FeS2@CTAB anode with enhanced lithium kinetics and stability</title>
-<link>https://doi.org/10.1016/j.est.2026.124785</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124785</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:54 GMT</pubDate>
-<description>آند سه‌جزئی Nb2C@FeS2@CTAB با ساختار ناهمگون، سینتیک و پایداری لیتیوم‌یون را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Nb2C MXene · FeS2 anode · lithium-ion battery · heterostructure · CTAB</description>
-<category>Nb2C MXene</category>
-<category>FeS2 anode</category>
-<category>lithium-ion battery</category>
-<category>heterostructure</category>
-<category>CTAB</category>
-</item>
-<item>
-<title>Stochastic operational comparison of PV-integrated vanadium redox flow and lithium-ion battery systems for tropical remote microgrids: A GA-LP-MC framework applied to Thursday Island</title>
-<link>https://doi.org/10.1016/j.est.2026.124871</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124871</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:50 GMT</pubDate>
-<description>این مقاله با چارچوب GA-LP-MC، عملکرد تصادفی سیستم‌های باتری جریان ردوکس وانادیوم و لیتیوم-یونی مجتمع با PV را برای ریزشبکه‌های دورافتاده گرمسیری در جزیره Thursday مقایسه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 vanadium redox flow battery · lithium-ion battery · PV integration · remote microgrid · stochastic optimization</description>
-<category>vanadium redox flow battery</category>
-<category>lithium-ion battery</category>
-<category>PV integration</category>
-<category>remote microgrid</category>
-<category>stochastic optimization</category>
 </item>
 </channel>
 </rss>
