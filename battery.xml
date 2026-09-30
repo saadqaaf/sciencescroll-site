@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 08:04:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 09:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic effects of electrolyte additives and electrode compression on vanadium redox flow battery performance</title>
+<link>https://doi.org/10.1016/j.est.2026.124824</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124824</guid>
+<pubDate>Wed, 30 Sep 2026 09:01:53 GMT</pubDate>
+<description>اثرات هم‌افزای افزودنی‌های الکترولیت و فشردگی الکترود بر عملکرد باتری جریان ردوکس وانادیوم بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · electrolyte additives · electrode compression · synergistic effects · performance</description>
+<category>vanadium redox flow battery</category>
+<category>electrolyte additives</category>
+<category>electrode compression</category>
+<category>synergistic effects</category>
+<category>performance</category>
+</item>
+<item>
+<title>Informative experiment design for parameter estimation of the Doyle–Fuller–Newman battery model</title>
+<link>https://doi.org/10.1016/j.est.2026.124858</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124858</guid>
+<pubDate>Wed, 30 Sep 2026 09:01:43 GMT</pubDate>
+<description>این مقاله یک روش طراحی آزمایش اطلاعاتی برای تخمین پارامترهای مدل باتری Doyle-Fuller-Newman ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 DFN model · parameter estimation · experiment design · battery modeling · identifiability</description>
+<category>DFN model</category>
+<category>parameter estimation</category>
+<category>experiment design</category>
+<category>battery modeling</category>
+<category>identifiability</category>
+</item>
+<item>
+<title>Manipulating Zn2+/H+ migration kinetics and anode interfacial stability via bio-derived gelatin toward robust aqueous Zn metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124939</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124939</guid>
+<pubDate>Wed, 30 Sep 2026 09:01:34 GMT</pubDate>
+<description>با استفاده از ژلاتین زیست‌مشتق، سینتیک مهاجرت Zn2+/H+ و پایداری سطح آند در باتری‌های آبی روی بهبود می‌یابد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous Zn battery · gelatin additive · Zn2+/H+ migration · anode interface · dendrite suppression</description>
+<category>aqueous Zn battery</category>
+<category>gelatin additive</category>
+<category>Zn2+/H+ migration</category>
+<category>anode interface</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Anion Engineering of Sulfide Solid Electrolytes: From Fundamentals to High‐Performance All‐Solid‐State Batteries</title>
 <link>https://doi.org/10.1002/smll.76005</link>
@@ -694,42 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>calcium</category>
 <category>iodide conversion</category>
 <category>asymmetric coordination</category>
-</item>
-<item>
-<title>Operando and multiscale insights into the solid electrolyte interphase in lithium-mediated nitrogen reduction</title>
-<link>https://doi.org/10.1038/s41570-026-00878-9</link>
-<guid isPermaLink="false">10.1038/s41570-026-00878-9</guid>
-<pubDate>Tue, 29 Sep 2026 15:02:02 GMT</pubDate>
-<description>این مقاله با روش‌های operando و چندمقیاسی، بینش‌هایی درباره فصل مشترک الکترولیت جامد در احیای نیتروژن با واسطه لیتیوم ارائه می‌دهد.&lt;br&gt;Nature Reviews Chemistry | ⭐ Review&lt;br&gt;💡 This Review is the first to frame the solid electrolyte interphase as a dynamic regulator—not passive layer—governing Li+ transport, N2 access, and proton delivery in lithium-mediated nitrogen reduction. Its novelty lies in proposing an integrated operando, in situ, and multiscale characterization framework, combining complementary techniques to resolve SEI composition, structure, and evolution, thereby guiding rational SEI design for efficient, selective, durable ammonia electrosynthesis.&lt;br&gt;🏷 solid electrolyte interphase · lithium-mediated nitrogen reduction · operando · multiscale · SEI</description>
-<category>solid electrolyte interphase</category>
-<category>lithium-mediated nitrogen reduction</category>
-<category>operando</category>
-<category>multiscale</category>
-<category>SEI</category>
-</item>
-<item>
-<title>Hidden Solid-Liquid Interfacial Failure Governs Fast-Charging Degradation in Large-Capacity Semi-Solid-State Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta05518d</link>
-<guid isPermaLink="false">10.1039/d6ta05518d</guid>
-<pubDate>Tue, 29 Sep 2026 15:01:49 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که شکست پنهان در فصل مشترک جامد-مایع، تخریب باتری‌های لیتیوم-یونی نیمه‌حالت‌جامد بزرگ‌ظرفیت را در شارژ سریع کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This study reveals that hidden solid-liquid interfacial failure, not bulk degradation, drives fast-charging aging in large-capacity semi-solid-state lithium-ion batteries. By uncovering this interfacial mechanism, it provides critical insight for designing durable high-rate batteries, advancing practical fast-charging deployment of high-energy semi-solid-state systems.&lt;br&gt;🏷 semi-solid-state battery · fast charging · interfacial failure · degradation mechanism · large-capacity</description>
-<category>semi-solid-state battery</category>
-<category>fast charging</category>
-<category>interfacial failure</category>
-<category>degradation mechanism</category>
-<category>large-capacity</category>
-</item>
-<item>
-<title>Phase Engineering and Boundary Precipitation for NaNbO3-Based Ceramics with Enhanced Energy Storage Performance</title>
-<link>https://doi.org/10.1039/d6ta06246f</link>
-<guid isPermaLink="false">10.1039/d6ta06246f</guid>
-<pubDate>Tue, 29 Sep 2026 15:01:44 GMT</pubDate>
-<description>این مقاله با راهبرد هم‌افزای مهندسی فاز پارالکتریک و رسوب مرزی، عملکرد ذخیره انرژی سرامیک‌های مبتنی بر NaNbO3 را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in synergistically coupling paraelectric phase engineering with boundary precipitation in NaNbO3-based ceramics. This dual strategy simultaneously enhances energy efficiency and dielectric breakdown strength, overcoming a key trade-off in dielectric capacitors. The work offers a promising design route for high-performance, lead-free energy storage materials.&lt;br&gt;🏷 NaNbO3 · dielectric capacitor · phase engineering · boundary precipitation · energy storage</description>
-<category>NaNbO3</category>
-<category>dielectric capacitor</category>
-<category>phase engineering</category>
-<category>boundary precipitation</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
