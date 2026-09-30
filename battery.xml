@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 10:01:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 11:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rare-Earth-Mediated High-Entropy Engineering Enables Ultra-Stable High-Rate Layered Oxide Cathodes for Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta05112j</link>
+<guid isPermaLink="false">10.1039/d6ta05112j</guid>
+<pubDate>Wed, 30 Sep 2026 11:01:23 GMT</pubDate>
+<description>مهندسی آنتروپی بالا با واسطه عناصر خاکی کمیاب، کاتدهای اکسید لایه‌ای پایدار برای باتری‌های سدیم-یون را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Rare-earth-mediated high-entropy engineering stabilizes O3-type layered oxide cathodes, suppressing phase transitions and enabling ultra-stable high-rate sodium-ion battery performance. This advances practical SIB cathodes.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · high-entropy engineering · rare-earth doping · cycling stability</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>high-entropy engineering</category>
+<category>rare-earth doping</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Synergistic effects of electrolyte additives and electrode compression on vanadium redox flow battery performance</title>
 <link>https://doi.org/10.1016/j.est.2026.124824</link>
@@ -718,18 +730,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>vacancy engineering</category>
 <category>Na3Fe0.6Al0.4V(PO4)3</category>
 <category>energy-power trade-off</category>
-</item>
-<item>
-<title>Asymmetric Calcium Single-Atom Accelerates Iodide Species Conversion for Robust Zn-I2 Aqueous Battery</title>
-<link>https://doi.org/10.1039/d6ee05690c</link>
-<guid isPermaLink="false">10.1039/d6ee05690c</guid>
-<pubDate>Tue, 29 Sep 2026 17:01:18 GMT</pubDate>
-<description>کاتالیزور تک‌اتمی کلسیم نامتقارن برای تسریع تبدیل گونه‌های یدید و بهبود باتری آبی Zn-I2 طراحی شده است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Asymmetric calcium single-atom catalysts break conventional symmetric d-block M-N4 geometry, strengthening iodide adsorption and accelerating iodide conversion kinetics. This enables robust Zn-I2 aqueous batteries with enhanced performance, offering a new main-group metal SAC design strategy for high-efficiency energy storage.&lt;br&gt;🏷 Zn-I2 battery · single-atom catalyst · calcium · iodide conversion · asymmetric coordination</description>
-<category>Zn-I2 battery</category>
-<category>single-atom catalyst</category>
-<category>calcium</category>
-<category>iodide conversion</category>
-<category>asymmetric coordination</category>
 </item>
 </channel>
 </rss>
