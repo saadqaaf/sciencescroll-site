@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 16:01:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 17:04:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reversible six-electron tellurium redox enabled by selenium-modulated hypervalent activation in aqueous sodium/zinc hybrid batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78167-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-78167-8</guid>
+<pubDate>Wed, 30 Sep 2026 17:03:34 GMT</pubDate>
+<description>ردوکس شش‌الکترونی تلوریم با تعدیل سلنیوم در باتری آبی سدیم/روی، ظرفیت و برگشت‌پذیری بالا را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work unlocks reversible six-electron tellurium redox in aqueous sodium/zinc hybrid batteries via selenium modulation, enabling hypervalent Te4O92– ↔ Te ↔ Te2– chemistry. Te0.85Se0.15 achieves 95.8% utilization (~1217 mAh g–1) and 2000 cycles, with a pouch cell reaching ~114.3 Wh kg–1, offering a practical route to high-energy, safe grid-scale storage.&lt;br&gt;🏷 tellurium redox · selenium modulation · aqueous battery · sodium-zinc · six-electron transfer</description>
+<category>tellurium redox</category>
+<category>selenium modulation</category>
+<category>aqueous battery</category>
+<category>sodium-zinc</category>
+<category>six-electron transfer</category>
+</item>
+<item>
+<title>Ligand engineering enables an alkaline iron-chromium redox flow battery</title>
+<link>https://doi.org/10.1038/s41467-026-77810-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-77810-8</guid>
+<pubDate>Wed, 30 Sep 2026 17:02:57 GMT</pubDate>
+<description>با مهندسی لیگاند، باتری جریان ردوکس آهن-کروم قلیایی با سینتیک سریع، سرکوب آزادسازی هیدروژن و پایداری 500 چرخه ساخته شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers chelation-driven ligand engineering to re-engineer iron-chromium redox chemistry, unlocking an unconventional chromium(III/IV) couple that bypasses Jahn-Teller limitations. The alkaline battery achieves 99.0% coulombic efficiency over 500 cycles, suppressed hydrogen evolution, and low projected cost ($17.02 kWh⁻¹), offering a scalable, cost-effective strategy for grid-scale long-duration energy storage.&lt;br&gt;🏷 redox flow battery · iron-chromium · ligand engineering · alkaline electrolyte · energy storage</description>
+<category>redox flow battery</category>
+<category>iron-chromium</category>
+<category>ligand engineering</category>
+<category>alkaline electrolyte</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Stress homogenization enabled by a layered composite electrolyte for high-performance all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78129-0</link>
+<guid isPermaLink="false">10.1038/s41467-026-78129-0</guid>
+<pubDate>Wed, 30 Sep 2026 17:02:37 GMT</pubDate>
+<description>یک الکترولیت کامپوزیت لایه‌ای برای همگن‌سازی تنش در باتری‌های لیتیوم-فلز تمام‌حالت‌جامد با عملکرد بالا معرفی شده است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a layered composite solid electrolyte that simultaneously provides continuous ion-conduction pathways and homogenizes stress distribution, enabling uniform Li deposition. Guided by in-situ stress imaging and multiphysics simulations, it achieves 3000 h stable cycling and 84.3% capacity retention over 400 cycles. The study establishes mechanical–electrochemical coupling as a design principle for durable all-solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state battery · lithium metal anode · composite electrolyte · stress homogenization · layered electrolyte</description>
+<category>solid-state battery</category>
+<category>lithium metal anode</category>
+<category>composite electrolyte</category>
+<category>stress homogenization</category>
+<category>layered electrolyte</category>
+</item>
+<item>
+<title>Tuning Crosslinked Network Structures of Elastomeric Protective Layers for Stable Operation of Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112457</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112457</guid>
+<pubDate>Wed, 30 Sep 2026 17:01:44 GMT</pubDate>
+<description>تنظیم ساختار شبکه‌ای لایه‌های محافظ الاستومری برای عملکرد پایدار باتری‌های لیتیوم فلزی انجام شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · elastomeric protective layer · crosslinked network · polymer electrolyte · dendrite suppression</description>
+<category>lithium metal battery</category>
+<category>elastomeric protective layer</category>
+<category>crosslinked network</category>
+<category>polymer electrolyte</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Tandem Catalysis Sites in Co‐NO/C for Efficient and Scalable Electrocatalytic Nitrate to Ammonia Conversion</title>
 <link>https://doi.org/10.1002/adfm.78831</link>
@@ -681,55 +729,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Na3P in PVDF electrolytes
 <category>Na3P nanofiller</category>
 <category>anode-lean</category>
 <category>NaF-rich SEI</category>
-</item>
-<item>
-<title>Electrostatically Coupled High-Modulus Interphase with Synergistic Anion–Cation Regulation for Stable Zn Anodes</title>
-<link>https://doi.org/10.1021/jacs.6c14681</link>
-<guid isPermaLink="false">10.1021/jacs.6c14681</guid>
-<pubDate>Tue, 29 Sep 2026 21:03:45 GMT</pubDate>
-<description>یک لایه بین‌سطحی با مدول بالا و بار غنی از طریق جفت‌شدگی الکترواستاتیک، آندهای Zn را برای باتری‌های آبی روی پایدار می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an electrostatically coupled PAMPS–PB interphase combining high modulus with synergistic anion–cation regulation. It accelerates Zn2+ desolvation, homogenizes ion flux, and suppresses dendrites and side reactions, enabling 2200 h symmetric-cell cycling and 3500 cycles in full cells. This offers a robust interfacial design strategy for stable, high-performance aqueous zinc batteries.&lt;br&gt;🏷 Zn anode · aqueous zinc battery · interfacial layer · dendrite suppression · electrostatic coupling</description>
-<category>Zn anode</category>
-<category>aqueous zinc battery</category>
-<category>interfacial layer</category>
-<category>dendrite suppression</category>
-<category>electrostatic coupling</category>
-</item>
-<item>
-<title>Dynamically Constructing Lanthanum Oxide on Ruthenium to Enhance Lithium‐Oxygen Interfacial Reactions</title>
-<link>https://doi.org/10.1002/anie.1656625</link>
-<guid isPermaLink="false">10.1002/anie.1656625</guid>
-<pubDate>Tue, 29 Sep 2026 21:02:15 GMT</pubDate>
-<description>این کار با ساخت نانوکریستال‌های La2O3 روی Ru، کاتالیست کاتدی بازتولیدپذیری برای باتری لیتیوم-اکسیژن ارائه می‌دهد که ظرفیت و پایداری چرخه‌ای را بهبود می‌بخشد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a charge/discharge-regulated, reversible La₂O₃ formation–decomposition on Ru, creating an adaptive heterojunction catalyst. This resolves the trade-off between capacity and cycling stability in lithium-oxygen batteries, enabling 5000 mAh g⁻¹ over 46 cycles with low overpotential and improved reversibility, offering a paradigm for durable, high-capacity adaptive catalysts.&lt;br&gt;🏷 lithium-oxygen battery · La2O3-Ru · cathode catalyst · heterojunction · oxygen evolution</description>
-<category>lithium-oxygen battery</category>
-<category>La2O3-Ru</category>
-<category>cathode catalyst</category>
-<category>heterojunction</category>
-<category>oxygen evolution</category>
-</item>
-<item>
-<title>Electronic spatialization induced boron-rich interphase for `high-energy ether-based sodium metal batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112452</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112452</guid>
-<pubDate>Tue, 29 Sep 2026 21:01:56 GMT</pubDate>
-<description>فضایی‌سازی الکترونی، فاز میانی غنی از بور را برای باتری‌های سدیم-فلز اتری پرانرژی القا می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium metal battery · ether electrolyte · boron-rich interphase · electronic spatialization · high-energy</description>
-<category>sodium metal battery</category>
-<category>ether electrolyte</category>
-<category>boron-rich interphase</category>
-<category>electronic spatialization</category>
-<category>high-energy</category>
-</item>
-<item>
-<title>Coupling Charge-Trap Engineering with Self-Crosslinking in Poly(4-methyl-1-pentene) Dielectrics for High-Temperature Capacitive Energy Storage</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112451</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112451</guid>
-<pubDate>Tue, 29 Sep 2026 21:01:52 GMT</pubDate>
-<description>مهندسی تله‌بار همراه با خوداتصال‌دهی در دی‌الکتریک پلی(۴-متیل-۱-پنتن) برای ذخیره‌سازی انرژی خازنی دمای بالا به کار رفته است.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 capacitive energy storage · charge-trap engineering · self-crosslinking · poly(4-methyl-1-pentene) · high-temperature dielectrics</description>
-<category>capacitive energy storage</category>
-<category>charge-trap engineering</category>
-<category>self-crosslinking</category>
-<category>poly(4-methyl-1-pentene)</category>
-<category>high-temperature dielectrics</category>
 </item>
 </channel>
 </rss>
