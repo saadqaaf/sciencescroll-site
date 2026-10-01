@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 13:03:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 14:02:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Antiferroelectric phase-field simulations via scale-invariant physics-informed neural operators</title>
+<link>https://doi.org/10.1038/s41524-026-02344-y</link>
+<guid isPermaLink="false">10.1038/s41524-026-02344-y</guid>
+<pubDate>Thu, 01 Oct 2026 14:02:52 GMT</pubDate>
+<description>یک اپراتور عصبی فیزیک‌محور چندشبکه‌ای، شبیه‌سازی میدان فاز آنتی‌فروالکتریک را با حفظ دقت و کاهش زمان از ساعت به ثانیه ممکن می‌سازد.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 PI-MgNO is a physics-informed multigrid neural operator that surrogates antiferroelectric phase-field simulations. Its novelty lies in Landau free-energy constraints enabling drift-free autoregressive tracking and a thermodynamic error-healing mechanism. This yields scale-invariant, seconds-long simulations of double hysteresis loops with R² &amp;gt; 0.96, bypassing the quasi-static relaxation bottleneck and making high-throughput polycrystalline energy-storage microstructure optimization feasible.&lt;br&gt;🏷 antiferroelectric · phase-field simulation · neural operator · energy storage · hysteresis loop</description>
+<category>antiferroelectric</category>
+<category>phase-field simulation</category>
+<category>neural operator</category>
+<category>energy storage</category>
+<category>hysteresis loop</category>
+</item>
+<item>
+<title>Cationic Imidazolium Sites: An Efficiency Strategy for Stabilizing High‐Capacity Cathodes in Zinc‐Iodine and Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/smll.76068</link>
+<guid isPermaLink="false">10.1002/smll.76068</guid>
+<pubDate>Thu, 01 Oct 2026 14:02:31 GMT</pubDate>
+<description>چارچوب تریازین کووالانسی کاتیونی حاوی ایمیدازولیوم به‌عنوان میزبان دوکاره برای باتری‌های زینک-ید و لیتیوم-گوگرد، اثر شاتل را مهار کرده و پایداری چرخه‌ای فوق‌العاده‌ای ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using an imidazolium-based cationic covalent triazine framework as a bifunctional host/catalyst for both zinc-iodine and lithium-sulfur batteries. Its cationic sites regulate intermediate adsorption and conversion, suppressing shuttle effects. Significance: ultra-long 100,000-cycle life in ZIBs and high 1275 mAh g⁻¹ capacity in LSBs, demonstrating a common strategy for stabilizing high-capacity cathodes.&lt;br&gt;🏷 zinc-iodine battery · lithium-sulfur battery · imidazolium · covalent triazine framework · shuttle effect</description>
+<category>zinc-iodine battery</category>
+<category>lithium-sulfur battery</category>
+<category>imidazolium</category>
+<category>covalent triazine framework</category>
+<category>shuttle effect</category>
+</item>
+<item>
+<title>Advanced Materials and Architecture Design for Efficient Hybrid Zinc‐Air Batteries</title>
+<link>https://doi.org/10.1002/smll.75789</link>
+<guid isPermaLink="false">10.1002/smll.75789</guid>
+<pubDate>Thu, 01 Oct 2026 14:02:19 GMT</pubDate>
+<description>این مرور به بررسی باتری‌های هیبریدی زینک-هوا با واکنش‌های اکسیداسیون کوچک‌مولکول مانند اوره، ید و اتانول برای بهبود بازده انرژی و پایداری چرخه می‌پردازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates hybrid zinc-air batteries that replace sluggish OER with low-overpotential urea, iodine, and ethanol oxidation, addressing catalytic bottlenecks, shuttle effects, and novel architectures. It further assesses economic feasibility for waste treatment and value-added chemical production, offering solutions and emerging trends, thereby advancing efficient, sustainable energy storage.&lt;br&gt;🏷 zinc-air battery · hybrid battery · oxygen evolution reaction · urea oxidation · ethanol oxidation</description>
+<category>zinc-air battery</category>
+<category>hybrid battery</category>
+<category>oxygen evolution reaction</category>
+<category>urea oxidation</category>
+<category>ethanol oxidation</category>
+</item>
+<item>
+<title>Stabilizing Li 5 FeO 4 Against Air Corrosion by In‐Situ Polymerization Engineering for High‐Performance Prelithiation</title>
+<link>https://doi.org/10.1002/smm2.70112</link>
+<guid isPermaLink="false">10.1002/smm2.70112</guid>
+<pubDate>Thu, 01 Oct 2026 14:02:14 GMT</pubDate>
+<description>پوشش پلیمری درجا بر روی Li5FeO4 از خوردگی هوا جلوگیری کرده و ظرفیت ۵۸۰ mAh/g را پس از ۱۰۰ ساعت حفظ می‌کند و چگالی انرژی را در سلول کامل افزایش می‌دهد.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 In-situ polymerized 10 nm organic coating stabilizes air-sensitive Li5FeO4, blocking H2O/CO2 corrosion and enhancing Li+ kinetics. Coated Li5FeO4 retains 580 mAh/g after 100 h versus 171 mAh/g after 6 h uncoated. As a 5% additive, it boosts cathode utilization by 15% and energy density by 18%, offering a practical solution for air-sensitive prelithiation materials.&lt;br&gt;🏷 Li5FeO4 · prelithiation · air stability · in-situ polymerization · surface coating</description>
+<category>Li5FeO4</category>
+<category>prelithiation</category>
+<category>air stability</category>
+<category>in-situ polymerization</category>
+<category>surface coating</category>
+</item>
+<item>
+<title>Single Crystals of a Two‐Dimensional Interpenetrated Covalent Organic Framework for Stabilizing Lithium Metal Anodes</title>
+<link>https://doi.org/10.1002/smm2.70113</link>
+<guid isPermaLink="false">10.1002/smm2.70113</guid>
+<pubDate>Thu, 01 Oct 2026 14:02:09 GMT</pubDate>
+<description>سنتز تک‌کریستال‌های COF دوپوش‌شده CityU-64 با پیوند B←N و استفاده از آن به‌عنوان ASEI برای آند لیتیوم فلزی، بهبود عملکرد الکتروشیمیایی را نشان می‌دهد.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Single crystals of a twofold interpenetrated 2D covalent organic framework (CityU-64) were synthesized via dative B←N bonds, combining intra-layer interpenetration with inter-layer interdigitation for exceptional stability. Its lithiophilic ether sites enable uniform lithium deposition, making it an effective artificial solid-electrolyte interphase that markedly improves lithium metal anode performance.&lt;br&gt;🏷 covalent organic framework · lithium metal anode · interpenetration · artificial SEI · single crystal</description>
+<category>covalent organic framework</category>
+<category>lithium metal anode</category>
+<category>interpenetration</category>
+<category>artificial SEI</category>
+<category>single crystal</category>
+</item>
 <item>
 <title>Molecularly engineered zwitterionic‑fluorinated hydrogel electrolyte for durable Ah-level zinc-ion batteries</title>
 <link>https://doi.org/10.1038/s41467-026-77562-5</link>
@@ -1147,66 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>lithium-ion battery</category>
 <category>heterostructure</category>
 <category>CTAB</category>
-</item>
-<item>
-<title>Stochastic operational comparison of PV-integrated vanadium redox flow and lithium-ion battery systems for tropical remote microgrids: A GA-LP-MC framework applied to Thursday Island</title>
-<link>https://doi.org/10.1016/j.est.2026.124871</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124871</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:50 GMT</pubDate>
-<description>این مقاله با چارچوب GA-LP-MC، عملکرد تصادفی سیستم‌های باتری جریان ردوکس وانادیوم و لیتیوم-یونی مجتمع با PV را برای ریزشبکه‌های دورافتاده گرمسیری در جزیره Thursday مقایسه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 vanadium redox flow battery · lithium-ion battery · PV integration · remote microgrid · stochastic optimization</description>
-<category>vanadium redox flow battery</category>
-<category>lithium-ion battery</category>
-<category>PV integration</category>
-<category>remote microgrid</category>
-<category>stochastic optimization</category>
-</item>
-<item>
-<title>Low-temperature solid-phase calcination: Potassium persulfate oxidation enables efficient and selective separation of waste lithium iron phosphate and lithium iron</title>
-<link>https://doi.org/10.1016/j.est.2026.124893</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124893</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:46 GMT</pubDate>
-<description>این پژوهش با اکسیداسیون پتاسیم پرسولفات و کلسیناسیون فاز جامد کم‌دما، جداسازی کارآمد و انتخابی لیتیوم آهن فسفات و آهن لیتیوم از باتری مستعمل را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium iron phosphate · potassium persulfate · selective separation · spent battery recycling · low-temperature calcination</description>
-<category>lithium iron phosphate</category>
-<category>potassium persulfate</category>
-<category>selective separation</category>
-<category>spent battery recycling</category>
-<category>low-temperature calcination</category>
-</item>
-<item>
-<title>Recent advances in V2O5-based cathode materials for electrochemical energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124899</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124899</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:41 GMT</pubDate>
-<description>این مقاله پیشرفت‌های اخیر در مواد کاتدی بر پایه V2O5 برای ذخیره‌سازی انرژی الکتروشیمیایی را مرور می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 V2O5 cathode · electrochemical energy storage · vanadium pentoxide · cathode materials · battery</description>
-<category>V2O5 cathode</category>
-<category>electrochemical energy storage</category>
-<category>vanadium pentoxide</category>
-<category>cathode materials</category>
-<category>battery</category>
-</item>
-<item>
-<title>Safety challenges and discharge pretreatment strategies for spent lithium-ion batteries: A critical review</title>
-<link>https://doi.org/10.1016/j.est.2026.124896</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124896</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:37 GMT</pubDate>
-<description>این مرور انتقادی چالش‌های ایمنی و راهبردهای پیش‌تیمار تخلیه برای باتری‌های لیتیوم-یونی مستعمل را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 spent lithium-ion batteries · discharge pretreatment · safety challenges · recycling · thermal runaway</description>
-<category>spent lithium-ion batteries</category>
-<category>discharge pretreatment</category>
-<category>safety challenges</category>
-<category>recycling</category>
-<category>thermal runaway</category>
-</item>
-<item>
-<title>Simultaneous Bulk Doping and Surface reconstruction Engineering by SeS 2 Treatment Enable Stable High‐Voltage Performance of LiCoO 2 at 4.6 V</title>
-<link>https://doi.org/10.1002/smll.76053</link>
-<guid isPermaLink="false">10.1002/smll.76053</guid>
-<pubDate>Tue, 29 Sep 2026 22:04:06 GMT</pubDate>
-<description>اصلاح LiCoO2 با SeS2 از طریق دوپینگ و بازسازی سطح، ظرفیت ۸۰.۶٪ را پس از ۴۰۰ چرخه در ۴.۶ ولت حفظ می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 SeS₂ treatment simultaneously bulk-dopes LiCoO₂ with Se and reconstructs its surface, forming a Li₂SO₃/Li₂SO₄/Li₂SeO₄ heterojunction coating. This stabilizes lattice oxygen, suppresses phase transitions and interfacial reactions, and builds an inorganic-rich CEI layer. The synergy enables 80.6% capacity retention at 4.6 V after 400 cycles versus 37.8% for pristine, offering a general bulk–surface strategy for high-voltage cathodes.&lt;br&gt;🏷 LiCoO2 · high-voltage cathode · surface reconstruction · SeS2 treatment · bulk doping</description>
-<category>LiCoO2</category>
-<category>high-voltage cathode</category>
-<category>surface reconstruction</category>
-<category>SeS2 treatment</category>
-<category>bulk doping</category>
 </item>
 </channel>
 </rss>
