@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 22:01:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 23:02:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Head-to-tail assembled borphyrins for solid-state lithium extraction</title>
+<link>https://doi.org/10.1038/s41467-026-78080-0</link>
+<guid isPermaLink="false">10.1038/s41467-026-78080-0</guid>
+<pubDate>Thu, 01 Oct 2026 23:02:23 GMT</pubDate>
+<description>این مقاله یک ماکروسیکل borphyrin با حفره شبه 16-crown-4 معرفی می‌کند که لی‌یوم را با گزینش‌پذیری بالا از ماتریس‌های نمکی جامد استخراج می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Borphyrin introduces a dioxaborole-linked, head-to-tail macrocycle with a rigid 16-crown-4-like cavity, enabling strong Li⁺ affinity and high selectivity over competing cations in dry solid-liquid extraction. It uniquely extracts lithium from crystalline ether-insoluble salts and dried mixed-salt matrices, establishing a new molecular platform for selective lithium recognition and solid-state extraction.&lt;br&gt;🏷 lithium extraction · borphyrin · solid-liquid extraction · selective recognition · macrocycle</description>
+<category>lithium extraction</category>
+<category>borphyrin</category>
+<category>solid-liquid extraction</category>
+<category>selective recognition</category>
+<category>macrocycle</category>
+</item>
 <item>
 <title>Boron Ester Mediating Interface to Accelerate Ion Transport for Long-Cycling Solid-State Sodium Metal Batteries</title>
 <link>https://doi.org/10.1039/d6ee02682f</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>sulfur redox</category>
 <category>symmetry resolution</category>
 <category>room temperature</category>
-</item>
-<item>
-<title>In situ visualization of natural convection-driven concentration stratification in aqueous zinc batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105564</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105564</guid>
-<pubDate>Wed, 30 Sep 2026 05:01:24 GMT</pubDate>
-<description>مشاهده درجای باتری آبی روی نشان می‌دهد که همرفت طبیعی باعث لایه‌بندی غلظت الکترولیت می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc battery · natural convection · concentration stratification · in situ visualization · electrolyte transport</description>
-<category>zinc battery</category>
-<category>natural convection</category>
-<category>concentration stratification</category>
-<category>in situ visualization</category>
-<category>electrolyte transport</category>
 </item>
 </channel>
 </rss>
