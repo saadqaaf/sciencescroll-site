@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 10:02:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 11:02:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Descriptor-informed multi-component doping enables high-performance Co-free Ni-rich cathodes</title>
+<link>https://doi.org/10.1038/s44160-026-01152-y</link>
+<guid isPermaLink="false">10.1038/s44160-026-01152-y</guid>
+<pubDate>Thu, 01 Oct 2026 11:01:58 GMT</pubDate>
+<description>دوپینگ چندجزئی مبتنی بر توصیفگر، کاتدهای غنی از نیکل بدون کبالت با عملکرد بالا را ممکن می‌سازد.&lt;br&gt;Nature Synthesis | 🔬 Research Article&lt;br&gt;💡 This work replaces empirical dopant screening with a descriptor-informed strategy using charge density and metal–oxygen bond strength to select multi-component dopants for Co-free Ni-rich cathodes. It simultaneously boosts Li+ kinetics and lattice stability, enabling 130.9 mAh g−1 at 25 C, 82.4% retention after 350 cycles, and −20 °C operation, advancing rational cathode design.&lt;br&gt;🏷 Co-free cathodes · Ni-rich cathodes · multi-component doping · descriptor · lithium-ion battery</description>
+<category>Co-free cathodes</category>
+<category>Ni-rich cathodes</category>
+<category>multi-component doping</category>
+<category>descriptor</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Upcycling Spent Graphite via Interlayer-Force Weakening Boosts Fast and Durable Anion Storage</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105572</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105572</guid>
+<pubDate>Thu, 01 Oct 2026 11:01:39 GMT</pubDate>
+<description>گرافیت مستعمل با تضعیف نیروی بین‌لایه‌ای برای ذخیره‌سازی سریع و پایدار آنیون بازیافت می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 spent graphite · anion storage · upcycling · interlayer force · fast charging</description>
+<category>spent graphite</category>
+<category>anion storage</category>
+<category>upcycling</category>
+<category>interlayer force</category>
+<category>fast charging</category>
+</item>
 <item>
 <title>Electrolyte Interfacial Reactivity Regulates Alloying Anode Pulverization</title>
 <link>https://doi.org/10.1002/aenm.71596</link>
@@ -1184,32 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a we
 <category>PEO</category>
 <category>weak solvation</category>
 <category>air stability</category>
-</item>
-<item>
-<title>High-Performance Rechargeable Anionic Zn–Cu Batteries with Facile Recyclability</title>
-<link>https://doi.org/10.1021/jacs.6c10655</link>
-<guid isPermaLink="false">10.1021/jacs.6c10655</guid>
-<pubDate>Tue, 29 Sep 2026 21:04:34 GMT</pubDate>
-<description>باتری آبی روی-مس با آنولیت و کاتولیت کمپلکس آنیونی برومید، ظرفیت ۴ mAh/cm2، بازدهی ۹۰٪ و بازیافت‌پذیری ۹۷٪ روی و ۱۰۰٪ مس را نشان می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using bromide-complexed anionic Zn–Cu chemistry with a cation exchange membrane, enabling high areal capacity, long cycling, low self-discharge, and Ah-scale scalability. Its significance is exceptional recyclability (~97% Zn, ~100% Cu) via simple, low-cost processes, making AZC batteries promising for sustainable, low-cost, high-performance large-scale energy storage.&lt;br&gt;🏷 zinc-copper battery · anionic electrolyte · recyclability · aqueous battery · cation exchange membrane</description>
-<category>zinc-copper battery</category>
-<category>anionic electrolyte</category>
-<category>recyclability</category>
-<category>aqueous battery</category>
-<category>cation exchange membrane</category>
-</item>
-<item>
-<title>Molecular-Level Cleavage and Kinetics Optimization in PVDF Electrolytes for Anode-Lean Ultrastable Solid-State Sodium Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c03378</link>
-<guid isPermaLink="false">10.1021/jacs.6c03378</guid>
-<pubDate>Tue, 29 Sep 2026 21:04:09 GMT</pubDate>
-<description>الکترولیت PVDF با Na3P به عنوان نانوفیلر دوکاره، رسانایی یونی را افزایش و سد انرژی را کاهش می‌دهد و باتری سدیم حالت جامد با افت ظرفیت ۰٫۰۰۲٪ در هر چرخه را ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Na3P in PVDF electrolytes cleaves C–F bonds, lowering crystallinity and releasing F– to form a NaF-rich interphase. It also acts as a fast-ion conductor, cutting desolvation and F– migration barriers, boosting conductivity to 6.93×10–4 S cm–1. This enables anode-lean solid-state sodium batteries with ultralong cycling stability and practical pouch-cell performance.&lt;br&gt;🏷 solid-state sodium battery · PVDF electrolyte · Na3P nanofiller · anode-lean · NaF-rich SEI</description>
-<category>solid-state sodium battery</category>
-<category>PVDF electrolyte</category>
-<category>Na3P nanofiller</category>
-<category>anode-lean</category>
-<category>NaF-rich SEI</category>
 </item>
 </channel>
 </rss>
