@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 23:01:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 00:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In Situ Substitution Strategy with High‐Valence Cation for Ultra‐Stable Aqueous K‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71675</link>
+<guid isPermaLink="false">10.1002/aenm.71675</guid>
+<pubDate>Thu, 01 Oct 2026 00:01:14 GMT</pubDate>
+<description>جایگزینی درجای کاتیون Al3+ در کاتد KMnPBA باتری آبی K-ion، انحلال Mn را کاهش داده و پایداری چرخهای فوقطولانی و ظرفیت بالا را فراهم میکند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Al³⁺ in situ substitution in a concentrated electrolyte to fill Mn dissolution vacancies and form stable Al–N bonds, creating a gradient KMnPBA cathode. This enables ultra-stable aqueous K-ion batteries with 97.1% retention over 500 cycles, 90.3% over 30,000 cycles, and a pouch cell retaining 87.8% after 6,000 cycles, advancing large-scale energy storage.&lt;br&gt;🏷 aqueous K-ion battery · Prussian blue analogue · high-valence cation substitution · Mn dissolution · ultra-long cycling</description>
+<category>aqueous K-ion battery</category>
+<category>Prussian blue analogue</category>
+<category>high-valence cation substitution</category>
+<category>Mn dissolution</category>
+<category>ultra-long cycling</category>
+</item>
 <item>
 <title>Hierarchical heterostructure engineering of eutectic alloy for dendrite-free and ultralong-lifespan anode in low-temperature aqueous zinc-metal battery</title>
 <link>https://doi.org/10.1016/j.mser.2026.101311</link>
@@ -714,18 +726,6 @@
 <category>thermal management</category>
 <category>dynamic stress test</category>
 <category>multi-objective</category>
-</item>
-<item>
-<title>Improved pulse-fitting method for parameterization of a high-frequency equivalent circuit model for batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124441</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124441</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:06 GMT</pubDate>
-<description>روش برازش پالس بهبودیافته برای پارامتردهی مدل مدار معادل فرکانس بالای باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery equivalent circuit · pulse fitting · parameterization · high-frequency model · impedance</description>
-<category>battery equivalent circuit</category>
-<category>pulse fitting</category>
-<category>parameterization</category>
-<category>high-frequency model</category>
-<category>impedance</category>
 </item>
 </channel>
 </rss>
