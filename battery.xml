@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 08:01:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 09:02:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hofmeister‐Type Anion Regulation Suppresses Electrochemical Acidification for Long‐Life TEMPO‐Based Aqueous Flow Batteries</title>
+<link>https://doi.org/10.1002/adma.75077</link>
+<guid isPermaLink="false">10.1002/adma.75077</guid>
+<pubDate>Thu, 01 Oct 2026 09:02:22 GMT</pubDate>
+<description>تنظیم آنیونی هافمایستر با جایگزینی کلرید با سولفات، اسیدی شدن الکتروشیمیایی را سرکوب و عمر باتری جریان آبی TEMPO را افزایش میدهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This study reveals that TEMPO catholyte acidification proceeds via chloride oxidation and reversible proton release, independent of substituents. It identifies Hofmeister-type anion regulation as the key control, showing kosmotropic sulfate suppresses acidification versus chaotropic chloride. This enables 97.6% capacity retention over 300 cycles and broad lifetime gains, establishing electrolyte engineering for durable aqueous flow batteries.&lt;br&gt;🏷 aqueous flow battery · TEMPO · Hofmeister anion · acidification · cycling stability</description>
+<category>aqueous flow battery</category>
+<category>TEMPO</category>
+<category>Hofmeister anion</category>
+<category>acidification</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Micro–Nano Hierarchical Structure From In Situ Functionalized MOFs Enables High‐Performance High‐Voltage Electrolytes</title>
+<link>https://doi.org/10.1002/adma.75227</link>
+<guid isPermaLink="false">10.1002/adma.75227</guid>
+<pubDate>Thu, 01 Oct 2026 09:01:58 GMT</pubDate>
+<description>این مقاله یک الکترولیت جامد کامپوزیتی سلسله‌مراتبی با رشد درجای MOF دوعاملی بر بستر استات سلولز را گزارش می‌کند که رسانایی یونی بالا و پنجره پایداری ۵.۵ ولت را فراهم می‌آورد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Inspired by lotus-leaf hierarchies, this work grows bifunctional MOF crystals in situ on cellulose acetate, combining micro-sized mechanical support with nano-sized polar sites for Li⁺ transport. The resulting solid electrolyte achieves 2.9×10⁻³ S cm⁻¹ conductivity, 0.61 transference number, 5.5 V stability, and 80.9% capacity retention after 300 cycles at 4.6 V, offering a practical route to upgrade commercial membranes.&lt;br&gt;🏷 solid-state electrolyte · MOF · lithium battery · high-voltage · hierarchical structure</description>
+<category>solid-state electrolyte</category>
+<category>MOF</category>
+<category>lithium battery</category>
+<category>high-voltage</category>
+<category>hierarchical structure</category>
+</item>
 <item>
 <title>Defect-driven subsurface phase transformation kinetically enables extended solid-solution pathway in high-voltage spinel cathodes</title>
 <link>https://doi.org/10.1039/d6ta06412d</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>interfacial layer</category>
 <category>dendrite suppression</category>
 <category>electrostatic coupling</category>
-</item>
-<item>
-<title>Dynamically Constructing Lanthanum Oxide on Ruthenium to Enhance Lithium‐Oxygen Interfacial Reactions</title>
-<link>https://doi.org/10.1002/anie.1656625</link>
-<guid isPermaLink="false">10.1002/anie.1656625</guid>
-<pubDate>Tue, 29 Sep 2026 21:02:15 GMT</pubDate>
-<description>این کار با ساخت نانوکریستال‌های La2O3 روی Ru، کاتالیست کاتدی بازتولیدپذیری برای باتری لیتیوم-اکسیژن ارائه می‌دهد که ظرفیت و پایداری چرخه‌ای را بهبود می‌بخشد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a charge/discharge-regulated, reversible La₂O₃ formation–decomposition on Ru, creating an adaptive heterojunction catalyst. This resolves the trade-off between capacity and cycling stability in lithium-oxygen batteries, enabling 5000 mAh g⁻¹ over 46 cycles with low overpotential and improved reversibility, offering a paradigm for durable, high-capacity adaptive catalysts.&lt;br&gt;🏷 lithium-oxygen battery · La2O3-Ru · cathode catalyst · heterojunction · oxygen evolution</description>
-<category>lithium-oxygen battery</category>
-<category>La2O3-Ru</category>
-<category>cathode catalyst</category>
-<category>heterojunction</category>
-<category>oxygen evolution</category>
-</item>
-<item>
-<title>Electronic spatialization induced boron-rich interphase for `high-energy ether-based sodium metal batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112452</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112452</guid>
-<pubDate>Tue, 29 Sep 2026 21:01:56 GMT</pubDate>
-<description>فضایی‌سازی الکترونی، فاز میانی غنی از بور را برای باتری‌های سدیم-فلز اتری پرانرژی القا می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium metal battery · ether electrolyte · boron-rich interphase · electronic spatialization · high-energy</description>
-<category>sodium metal battery</category>
-<category>ether electrolyte</category>
-<category>boron-rich interphase</category>
-<category>electronic spatialization</category>
-<category>high-energy</category>
 </item>
 </channel>
 </rss>
