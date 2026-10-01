@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 17:01:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 18:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Advances in biomimetic ion channel based charged interface regulation and ion transport for electrochemical energy storage</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101853</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101853</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:26 GMT</pubDate>
+<description>این مقاله مروری به پیشرفت‌های تنظیم سطح باردار و انتقال یون مبتنی بر کانال یونی زیست‌الگویی برای ذخیره‌سازی انرژی الکتروشیمیایی می‌پردازد.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 biomimetic ion channel · charged interface · ion transport · electrochemical energy storage · interface regulation</description>
+<category>biomimetic ion channel</category>
+<category>charged interface</category>
+<category>ion transport</category>
+<category>electrochemical energy storage</category>
+<category>interface regulation</category>
+</item>
+<item>
+<title>From framework chemistry to device performance: UiO-66-NH2 as a multifunctional platform for energy storage and sensing</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101852</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101852</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:21 GMT</pubDate>
+<description>این مقاله مروری، UiO-66-NH2 را به عنوان یک سکو چندکاره برای ذخیره‌سازی انرژی و حسگری از شیمی چارچوب تا عملکرد دستگاه بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 UiO-66-NH2 · metal-organic framework · energy storage · sensing · device performance</description>
+<category>UiO-66-NH2</category>
+<category>metal-organic framework</category>
+<category>energy storage</category>
+<category>sensing</category>
+<category>device performance</category>
+</item>
+<item>
+<title>Perspective on the commercialization progress of silicon-based anode materials</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101851</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101851</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:16 GMT</pubDate>
+<description>این مقاله چشم‌اندازی بر پیشرفت تجاری‌سازی مواد آندی بر پایه سیلیکون ارائه می‌دهد و چالش‌ها و راهکارهای اصلی را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | 💭 Perspective&lt;br&gt;🏷 silicon anode · lithium-ion battery · commercialization · volume expansion · solid electrolyte interphase</description>
+<category>silicon anode</category>
+<category>lithium-ion battery</category>
+<category>commercialization</category>
+<category>volume expansion</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Spray-deposited SOG/MoS₂ hybrid coatings on carbon fiber electrodes for quasi-solid-state supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.124938</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>structural stability</category>
 <category>sustainable polymer</category>
 <category>lithium battery</category>
-</item>
-<item>
-<title>Lithium-ion battery state of health estimation based on a hybrid kernel adaptive selective state-space model</title>
-<link>https://doi.org/10.1016/j.est.2026.124512</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124512</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:19 GMT</pubDate>
-<description>تخمین وضعیت سلامت باتری لیتیوم‌یونی با مدل فضای حالت انتخابی تطبیقی هسته ترکیبی انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · state-space model · kernel adaptive · estimation</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>state-space model</category>
-<category>kernel adaptive</category>
-<category>estimation</category>
-</item>
-<item>
-<title>Optimization of the N/P ratio in mixed NMC-NCA/graphite-N2 pouch cells for high-rate lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124877</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124877</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:15 GMT</pubDate>
-<description>نسبت N/P در سلول‌های کیسه‌ای مخلوط NMC-NCA/graphite-N2 برای باتری‌های لیتیوم‌یونی پرتوان بهینه‌سازی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 N/P ratio · NMC-NCA · graphite-N2 · pouch cell · high-rate lithium-ion</description>
-<category>N/P ratio</category>
-<category>NMC-NCA</category>
-<category>graphite-N2</category>
-<category>pouch cell</category>
-<category>high-rate lithium-ion</category>
-</item>
-<item>
-<title>Active design of large-scale cooling plates based on multi-objective topology optimization for thermal management applications under Dynamic Stress Test conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.124892</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124892</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:10 GMT</pubDate>
-<description>طراحی فعال صفحات خنک‌کننده بزرگ‌مقیاس با بهینه‌سازی توپولوژی چندهدفه برای مدیریت حرارتی تحت آزمون تنش دینامیکی انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cooling plate · topology optimization · thermal management · dynamic stress test · multi-objective</description>
-<category>cooling plate</category>
-<category>topology optimization</category>
-<category>thermal management</category>
-<category>dynamic stress test</category>
-<category>multi-objective</category>
 </item>
 </channel>
 </rss>

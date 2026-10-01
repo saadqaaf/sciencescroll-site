@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 17:01:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 18:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Times are changing but order matters: transferable prediction of small-molecule liquid chromatography retention times</title>
+<link>https://doi.org/10.1038/s41592-026-03243-2</link>
+<guid isPermaLink="false">10.1038/s41592-026-03243-2</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:52 GMT</pubDate>
+<description>روش دو مرحله‌ای 2-step با یادگیری ماشین، پیش‌بینی زمان بازداری کروماتوگرافی مایع را بدون داده آموزشی سیستم هدف ممکن می‌سازد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 retention time prediction · liquid chromatography · machine learning · transferable prediction · retention order</description>
+<category>retention time prediction</category>
+<category>liquid chromatography</category>
+<category>machine learning</category>
+<category>transferable prediction</category>
+<category>retention order</category>
+</item>
+<item>
+<title>Designing for effective heat transfer in a solid thermal energy storage system</title>
+<link>https://doi.org/10.1016/j.joule.2026.102684</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102684</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:49 GMT</pubDate>
+<description>این مقاله طراحی انتقال حرارت مؤثر در یک سیستم ذخیره‌سازی انرژی حرارتی جامد را بررسی می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 thermal energy storage · heat transfer · solid storage · system design · thermal conductivity</description>
+<category>thermal energy storage</category>
+<category>heat transfer</category>
+<category>solid storage</category>
+<category>system design</category>
+<category>thermal conductivity</category>
+</item>
+<item>
+<title>Toward a future space-based, highly scalable AI infrastructure system design</title>
+<link>https://doi.org/10.1016/j.joule.2026.102678</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102678</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:45 GMT</pubDate>
+<description>این مقاله به طراحی یک زیرساخت هوش مصنوعی بسیار مقیاس‌پذیر و مبتنی بر فضا برای آینده می‌پردازد.&lt;br&gt;Joule | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 space computing · AI infrastructure · scalable system · orbital data center · system design</description>
+<category>space computing</category>
+<category>AI infrastructure</category>
+<category>scalable system</category>
+<category>orbital data center</category>
+<category>system design</category>
+</item>
+<item>
+<title>α-Lipoic acid: from a mitochondrial cofactor to a versatile platform for dynamic biomaterials and translational biomedicine</title>
+<link>https://doi.org/10.1039/d6cs00825a</link>
+<guid isPermaLink="false">10.1039/d6cs00825a</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:42 GMT</pubDate>
+<description>این مقاله مروری، α-lipoic acid را به عنوان پلی بین زیست‌فعالی و شیمی پلیمر دینامیک معرفی می‌کند و کاربردهای زیست‌پزشکی آن را پوشش می‌دهد.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;🏷 α-lipoic acid · dynamic biomaterials · redox regulation · polymerization · translational biomedicine</description>
+<category>α-lipoic acid</category>
+<category>dynamic biomaterials</category>
+<category>redox regulation</category>
+<category>polymerization</category>
+<category>translational biomedicine</category>
+</item>
+<item>
+<title>Advances in biomimetic ion channel based charged interface regulation and ion transport for electrochemical energy storage</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101853</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101853</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:26 GMT</pubDate>
+<description>این مقاله مروری به پیشرفت‌های تنظیم سطح باردار و انتقال یون مبتنی بر کانال یونی زیست‌الگویی برای ذخیره‌سازی انرژی الکتروشیمیایی می‌پردازد.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 biomimetic ion channel · charged interface · ion transport · electrochemical energy storage · interface regulation</description>
+<category>biomimetic ion channel</category>
+<category>charged interface</category>
+<category>ion transport</category>
+<category>electrochemical energy storage</category>
+<category>interface regulation</category>
+</item>
+<item>
+<title>From framework chemistry to device performance: UiO-66-NH2 as a multifunctional platform for energy storage and sensing</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101852</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101852</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:21 GMT</pubDate>
+<description>این مقاله مروری، UiO-66-NH2 را به عنوان یک سکو چندکاره برای ذخیره‌سازی انرژی و حسگری از شیمی چارچوب تا عملکرد دستگاه بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 UiO-66-NH2 · metal-organic framework · energy storage · sensing · device performance</description>
+<category>UiO-66-NH2</category>
+<category>metal-organic framework</category>
+<category>energy storage</category>
+<category>sensing</category>
+<category>device performance</category>
+</item>
+<item>
+<title>Perspective on the commercialization progress of silicon-based anode materials</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101851</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101851</guid>
+<pubDate>Thu, 01 Oct 2026 18:01:16 GMT</pubDate>
+<description>این مقاله چشم‌اندازی بر پیشرفت تجاری‌سازی مواد آندی بر پایه سیلیکون ارائه می‌دهد و چالش‌ها و راهکارهای اصلی را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | 💭 Perspective&lt;br&gt;🏷 silicon anode · lithium-ion battery · commercialization · volume expansion · solid electrolyte interphase</description>
+<category>silicon anode</category>
+<category>lithium-ion battery</category>
+<category>commercialization</category>
+<category>volume expansion</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Deep learning perturbation models can outperform baselines on calibrated metrics</title>
 <link>https://doi.org/10.1038/s41587-026-03307-w</link>
@@ -1127,90 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 perylene diimide · π-as
 <category>viscoelastic dissipation</category>
 <category>debonding</category>
 <category>reusability</category>
-</item>
-<item>
-<title>Mineralized Collagen‐Inspired Strong and Stiff MXene Fibers Enabled by Multiscale Interfacial Reconstruction</title>
-<link>https://doi.org/10.1002/adfm.78829</link>
-<guid isPermaLink="false">10.1002/adfm.78829</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:25 GMT</pubDate>
-<description>بازسازی چندمقیاسی رابط با Zn2+ و نانوالیاف سلولز باکتریایی، الیاف MXene قوی و سخت با رسانایی بالا و خواص حفاظ الکترومغناطیسی و حسگری کرنش ایجاد می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 MXene fiber · bacterial cellulose · interfacial reconstruction · electromagnetic shielding · strain sensing</description>
-<category>MXene fiber</category>
-<category>bacterial cellulose</category>
-<category>interfacial reconstruction</category>
-<category>electromagnetic shielding</category>
-<category>strain sensing</category>
-</item>
-<item>
-<title>Interfacial‐Electronically‐Regulated Core–Shell Co@Cu Catalyst for Reversible Ammonia/Nitrate Electrocatalysis</title>
-<link>https://doi.org/10.1002/adfm.78836</link>
-<guid isPermaLink="false">10.1002/adfm.78836</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:21 GMT</pubDate>
-<description>کاتالیزور هسته-پوسته Co@Cu با تنظیم الکترونیکی، اکسیداسیون آمونیاک و کاهش نیترات را برگشت‌پذیر کرده و باتری Zn-NO3-/NH4+ با توان 57.5 mW cm-2 می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a Co@Cu core–shell catalyst enabling reversible ammonia oxidation and nitrate reduction via interfacial electronic regulation, where the Co core tunes Cu&amp;#x27;s surface electronics and the Cu shell suppresses N─N coupling. It achieves high Faradaic efficiencies (92.6% AOR, 98.2% NO₃RR) and powers a rechargeable Zn–NO₃⁻/NH₄⁺ battery, offering a design strategy for bifunctional nitrogen-based energy systems.&lt;br&gt;🏷 Co@Cu catalyst · ammonia oxidation · nitrate reduction · Zn-NO3- battery · core-shell catalyst</description>
-<category>Co@Cu catalyst</category>
-<category>ammonia oxidation</category>
-<category>nitrate reduction</category>
-<category>Zn-NO3- battery</category>
-<category>core-shell catalyst</category>
-</item>
-<item>
-<title>Reversible Calcium Alloying on Bulk and Indium (Sub)‐Micro Negative Electrodes for Calcium‐Based Batteries</title>
-<link>https://doi.org/10.1002/adfm.78722</link>
-<guid isPermaLink="false">10.1002/adfm.78722</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:15 GMT</pubDate>
-<description>آلیاژسازی برگشت‌پذیر کلسیم-ایندیم در الکترودهای In، با بیش از 1000 چرخه و بازده کولنی &amp;gt;99%، الکترود منفی پایدار برای باتری‌های کلسیمی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes reversible Ca–In alloying as a durable negative electrode strategy for calcium batteries, achieving &amp;gt;1000 cycles with &amp;gt;99% efficiency. It identifies a surface-localized CaIn₂ phase and introduces a novel synthesis of indium (sub)microparticles via disproportionation of electrogenerated In(I), enabling self-welded networks. Despite low active-material utilization, these findings advance stable, high-cycle-life calcium-based battery anodes.&lt;br&gt;🏷 calcium batteries · indium electrode · Ca-In alloying · reversible cycling · negative electrode</description>
-<category>calcium batteries</category>
-<category>indium electrode</category>
-<category>Ca-In alloying</category>
-<category>reversible cycling</category>
-<category>negative electrode</category>
-</item>
-<item>
-<title>Quantum Coherent Control of Giant Injection Photocurrent from Destructive Interference of Second‐Order Nonlinear Optical Responses</title>
-<link>https://doi.org/10.1002/adfm.78730</link>
-<guid isPermaLink="false">10.1002/adfm.78730</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:10 GMT</pubDate>
-<description>تداخل ویرانگر پاسخ‌های نوری مرتبه دوم در Sb2Se3، جریان نوری تزریقی غول‌آسا را آشکار می‌کند که برای دستگاه‌های فوتونیک کوانتومی فوق‌سریع کاربرد دارد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 injection photocurrent · quantum interference · Sb2Se3 · THz emission · nonlinear optics</description>
-<category>injection photocurrent</category>
-<category>quantum interference</category>
-<category>Sb2Se3</category>
-<category>THz emission</category>
-<category>nonlinear optics</category>
-</item>
-<item>
-<title>Sulfur‐Regulated Adaptive Reconstruction of Sn@SnO x Interfaces via Inducing Buffered Hydroxyl Radical Microenvironment for Enhanced Oxime Electrosynthesis</title>
-<link>https://doi.org/10.1002/adfm.78813</link>
-<guid isPermaLink="false">10.1002/adfm.78813</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:05 GMT</pubDate>
-<description>کاتالیزور Sn@SnOx اصلاح‌شده با گوگرد، با بازسازی تطبیقی و ریز محیط •OH بافری، اکسیم‌سازی الکتروکاتالیستی را با بازده فارادی 84.4% انجام می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 Sn@SnOx catalyst · oxime electrosynthesis · sulfur regulation · hydroxyl radical · adaptive reconstruction</description>
-<category>Sn@SnOx catalyst</category>
-<category>oxime electrosynthesis</category>
-<category>sulfur regulation</category>
-<category>hydroxyl radical</category>
-<category>adaptive reconstruction</category>
-</item>
-<item>
-<title>An Asymmetric D–A–D&#x27; Decoupling Strategy Enables Organic Scintillator‐Photocatalyst Integration for Temperature‐Adaptive and Conformal X‐Ray Imaging</title>
-<link>https://doi.org/10.1002/adfm.78845</link>
-<guid isPermaLink="false">10.1002/adfm.78845</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:01 GMT</pubDate>
-<description>استراتژی نامتقارن D-A-D&amp;#x27; با تنظیم ISC/RISC، سوسوزن آلی را برای تصویربرداری پرتو ایکس تطبیقی دما و منطبق، با حد تشخیص 2.11 µGy s-1 فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 organic scintillator · D-A-D&amp;#x27; strategy · X-ray imaging · TADF · photocatalyst integration</description>
-<category>organic scintillator</category>
-<category>D-A-D&#x27; strategy</category>
-<category>X-ray imaging</category>
-<category>TADF</category>
-<category>photocatalyst integration</category>
-</item>
-<item>
-<title>Thermally Activated Rubidium Redistribution Limits Carrier Collection in Narrow‐Bandgap CIGS Solar Cells</title>
-<link>https://doi.org/10.1002/adfm.78774</link>
-<guid isPermaLink="false">10.1002/adfm.78774</guid>
-<pubDate>Thu, 01 Oct 2026 12:01:57 GMT</pubDate>
-<description>بازتوزیع حرارتی Rb در CIGS با باندگپ باریک، جمع‌آوری حامل را محدود می‌کند؛ کنترل آن بازده 20.09% و تاندم 30.21% را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 CIGS solar cells · RbF-PDT · Rb redistribution · carrier collection · tandem photovoltaics</description>
-<category>CIGS solar cells</category>
-<category>RbF-PDT</category>
-<category>Rb redistribution</category>
-<category>carrier collection</category>
-<category>tandem photovoltaics</category>
 </item>
 </channel>
 </rss>
