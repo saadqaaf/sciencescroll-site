@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 12:03:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 13:03:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecularly engineered zwitterionic‑fluorinated hydrogel electrolyte for durable Ah-level zinc-ion batteries</title>
+<link>https://doi.org/10.1038/s41467-026-77562-5</link>
+<guid isPermaLink="false">10.1038/s41467-026-77562-5</guid>
+<pubDate>Thu, 01 Oct 2026 13:03:11 GMT</pubDate>
+<description>الکترولیت هیدروژل زویتریونی-فلورینه مهندسی‌شده مولکولی، باتری‌های یون روی با ظرفیت آمپرساعت و دوام بالا را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in molecularly engineering a zwitterionic-fluorinated hydrogel electrolyte that combines hydrophobic –CH2CF3 groups to suppress water activity with zincophilic zwitterionic units for directional Zn2+ transport. This synergy enables an in-situ organic–inorganic interphase, achieving 900 h dendrite-free cycling and Ah-level pouch cells lasting over 700 h, advancing durable aqueous zinc-ion batteries for grid storage.&lt;br&gt;🏷 zinc-ion batteries · hydrogel electrolyte · zwitterionic · fluorinated · Ah-level</description>
+<category>zinc-ion batteries</category>
+<category>hydrogel electrolyte</category>
+<category>zwitterionic</category>
+<category>fluorinated</category>
+<category>Ah-level</category>
+</item>
+<item>
+<title>Interfacial Phase Transformation Enabled Crystallographic Selectivity for Efficient Li 2 CO 3 Decomposition Toward Long‐Cycling Li‐CO 2 Batteries</title>
+<link>https://doi.org/10.1002/anie.9049103</link>
+<guid isPermaLink="false">10.1002/anie.9049103</guid>
+<pubDate>Thu, 01 Oct 2026 13:02:05 GMT</pubDate>
+<description>گذار فاز 2H به 1T در ناهم‌ساختار MoS2@CuS رشد جهت‌دار Li2CO3 را هدایت کرده و باتری Li-CO2 با اضافه‌ولتاژ پایین و چرخه‌پذیری طولانی ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers facet-selective Li₂CO₃ growth in Li-CO₂ batteries via a MoS₂@CuS heterointerface that induces a 2H-to-1T phase transition. The 1T phase preferentially stabilizes Li₂CO₃ (−110) facets, lowering decomposition barriers and enabling oriented epitaxial growth. This yields low overpotential (0.46 V), ~92.4% efficiency, and &amp;gt;1800 h cycling, linking catalyst structure, interfacial interactions, and product crystallography.&lt;br&gt;🏷 Li-CO2 battery · Li2CO3 decomposition · MoS2 phase transition · facet-selective growth · heterointerface</description>
+<category>Li-CO2 battery</category>
+<category>Li2CO3 decomposition</category>
+<category>MoS2 phase transition</category>
+<category>facet-selective growth</category>
+<category>heterointerface</category>
+</item>
+<item>
+<title>Reconfiguring Electrolyte Solvation Chemistry via In Situ Solvent Polymerization for High‐Performance Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.4157238</link>
+<guid isPermaLink="false">10.1002/anie.4157238</guid>
+<pubDate>Thu, 01 Oct 2026 13:01:56 GMT</pubDate>
+<description>پلیمریزاسیون درجای حلال، ساختار حل‌شدگی Na+ را بازآرایی کرده و باتری یون‌سدیم با پایداری بالا و نگهداشت ظرفیت ۹۴.۷۶٪ پس از ۵۰۰ چرخه ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers in situ solvent polymerization in ether electrolytes, using trace LiPF₆ to trigger DOL ring-opening and form PDOL, which reconstructs Na⁺ solvation. This simultaneously enables fast ion transport and stable interphase, overcoming the traditional trade-off. The strategy yields high capacity retention in both coin and pouch sodium-ion cells, offering a viable design pathway for high-performance electrolytes.&lt;br&gt;🏷 sodium-ion battery · electrolyte solvation · in situ polymerization · solid electrolyte interphase · Na3Fe2(PO4)P2O7</description>
+<category>sodium-ion battery</category>
+<category>electrolyte solvation</category>
+<category>in situ polymerization</category>
+<category>solid electrolyte interphase</category>
+<category>Na3Fe2(PO4)P2O7</category>
+</item>
 <item>
 <title>Ion Association Dynamics Governs Low-Temperature Ion Transport of Sodium-Ion Battery Electrolytes</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02269</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>surface reconstruction</category>
 <category>SeS2 treatment</category>
 <category>bulk doping</category>
-</item>
-<item>
-<title>Mitigating the Cooperative Distortion and Phase Transition of P′2 Phase to Prepare Stable Fast‐Charghing Layered Cathode</title>
-<link>https://doi.org/10.1002/smll.75783</link>
-<guid isPermaLink="false">10.1002/smll.75783</guid>
-<pubDate>Tue, 29 Sep 2026 22:03:45 GMT</pubDate>
-<description>کاتد لایه‌ای P′2 با هم‌دوپینگ Cu/Ti، گذار فازی را کاهش داده و شارژ فوق‌سریع پایدار با ظرفیت بالا در باتری یون-سدیم فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting P2 to P′2 Na₀.₆₇Fe₀.₂Mn₀.₈O₂ via oxygen-free re-sintering, plus trace Cu/Ti co-doping. This mitigates cooperative distortion and P′2–P2–OP4 phase transitions, enabling 197.76 mAh g⁻¹ at 0.2C and 99.35% retention after 100 cycles at 20C. It offers a structural design strategy for fast-charging, stable sodium-ion layered cathodes.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · P2 phase · fast charging · co-doping</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>P2 phase</category>
-<category>fast charging</category>
-<category>co-doping</category>
-</item>
-<item>
-<title>Electrochemically Boosting Redox Kinetics of Polysulfides via Heterostructure of MoN‐ZnS</title>
-<link>https://doi.org/10.1002/smll.76050</link>
-<guid isPermaLink="false">10.1002/smll.76050</guid>
-<pubDate>Tue, 29 Sep 2026 22:03:33 GMT</pubDate>
-<description>هترواستراتژی MoN-ZnS توخالی با تسریع انتقال بار و تثبیت پلی‌سولفیدها، عملکرد الکتروشیمیایی باتری لیتیوم-گوگرد را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 MoN‐ZnS heterostructure with hollow polyhedral architecture is novel for Li‐S batteries, combining MoN&amp;#x27;s conductive network with ZnS&amp;#x27;s polar polysulfide anchoring. DFT reveals enhanced charge transfer and redox kinetics via energy‐level modulation. Delivering 922 mAh g⁻¹ at 0.1 C, it effectively suppresses shuttle effects, offering a promising design strategy for high‐performance lithium‐sulfur batteries.&lt;br&gt;🏷 lithium-sulfur battery · MoN-ZnS heterostructure · polysulfide shuttle · redox kinetics · hollow polyhedron</description>
-<category>lithium-sulfur battery</category>
-<category>MoN-ZnS heterostructure</category>
-<category>polysulfide shuttle</category>
-<category>redox kinetics</category>
-<category>hollow polyhedron</category>
-</item>
-<item>
-<title>Spatially Decoupled Polysulfide Trapping and Catalytic Conversion in Pyridine‐Rich Covalent Organic Framework for Li‐S Batteries</title>
-<link>https://doi.org/10.1002/smll.76041</link>
-<guid isPermaLink="false">10.1002/smll.76041</guid>
-<pubDate>Tue, 29 Sep 2026 22:03:25 GMT</pubDate>
-<description>COF غنی از پیریدین با کبالت اتمی به‌عنوان میزبان دوکاره، جداسازی فضایی تله‌اندازی پلی‌سولفید و تبدیل کاتالیستی را در باتری Li-S ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pyridine-rich covalent organic framework (PCOF) that spatially decouples polysulfide trapping from catalytic conversion via separate PCOF and Co@PCOF sites. This design enhances binding, lowers the Li₂S₂→Li₂S barrier, and boosts redox kinetics, enabling high capacity (952 mAh g⁻¹), superior efficiency, and stable cycling—offering a rational strategy for high-performance Li-S batteries.&lt;br&gt;🏷 Li-S battery · covalent organic framework · polysulfide trapping · cobalt catalysis · pyridine</description>
-<category>Li-S battery</category>
-<category>covalent organic framework</category>
-<category>polysulfide trapping</category>
-<category>cobalt catalysis</category>
-<category>pyridine</category>
 </item>
 </channel>
 </rss>
