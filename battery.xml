@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 18:01:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Boron Ester Mediating Interface to Accelerate Ion Transport for Long-Cycling Solid-State Sodium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ee02682f</link>
+<guid isPermaLink="false">10.1039/d6ee02682f</guid>
+<pubDate>Thu, 01 Oct 2026 19:01:37 GMT</pubDate>
+<description>واسطه استر بورونی رابط را برای تسریع انتقال یون و بهبود چرخه‌پذیری باتری‌های سدیم‌فلزی حالت‌جامد اصلاح می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Boron ester interface engineering is novel: it forms a stable, ion-conductive interphase between solid electrolytes and sodium electrodes, lowering interfacial resistance and accelerating Na⁺ transport. This enables dendrite suppression and long-cycling solid-state sodium metal batteries, offering a practical route to safer, high-energy storage.&lt;br&gt;🏷 solid-state sodium battery · boron ester · interface · ion transport · long cycling</description>
+<category>solid-state sodium battery</category>
+<category>boron ester</category>
+<category>interface</category>
+<category>ion transport</category>
+<category>long cycling</category>
+</item>
+<item>
+<title>Bio-inspired self-assembly of ordered interface topology for robust composite solid electrolytes</title>
+<link>https://doi.org/10.1039/d6ee04990g</link>
+<guid isPermaLink="false">10.1039/d6ee04990g</guid>
+<pubDate>Thu, 01 Oct 2026 19:01:28 GMT</pubDate>
+<description>خودآرایی الهام‌گرفته از زیست، الکترولیت جامد کامپوزیتی با انتقال یون سریع، رابط پایدار و سرکوب دندریت ایجاد می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This work introduces a bio-inspired self-assembly strategy to engineer ordered interface topology in composite solid electrolytes. Its novelty lies in mimicking biological assembly to simultaneously achieve fast ion transport, stable interfaces, and strong dendrite suppression. The significance is a robust electrolyte combining high conductivity, mechanical strength, and excellent cycling stability, advancing safe, high-performance solid-state batteries.&lt;br&gt;🏷 composite solid electrolyte · bio-inspired self-assembly · interface topology · ion transport · dendrite suppression</description>
+<category>composite solid electrolyte</category>
+<category>bio-inspired self-assembly</category>
+<category>interface topology</category>
+<category>ion transport</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Crystal-Water Regulation Governs Prussian Blue Cathodes in Liquid-Batteries and Halide Solid-State Batteries</title>
+<link>https://doi.org/10.1039/d6ee04837d</link>
+<guid isPermaLink="false">10.1039/d6ee04837d</guid>
+<pubDate>Thu, 01 Oct 2026 19:01:22 GMT</pubDate>
+<description>تنظیم آب کریستالی در کاتدهای Prussian blue برای باتری‌های سدیم‌یون مایع و حالت‌جامد هالیدی بررسی شده است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work reveals that residual crystal water in Prussian blue cathodes acts as a tunable regulator, not merely an impurity, governing electrochemical performance across liquid and halide solid-state sodium batteries. By clarifying this crystal-water regulation mechanism, it offers a unified design principle for stabilizing PB cathodes, advancing high-performance SIBs in both electrolyte systems.&lt;br&gt;🏷 Prussian blue · crystal water · sodium-ion battery · solid-state battery · cathode</description>
+<category>Prussian blue</category>
+<category>crystal water</category>
+<category>sodium-ion battery</category>
+<category>solid-state battery</category>
+<category>cathode</category>
+</item>
+<item>
+<title>High-entropy NiCoFeCrAlY alloy catalysts with multi-active sites for biomass upgrading and self-discharging batteries</title>
+<link>https://doi.org/10.1039/d6ee05546j</link>
+<guid isPermaLink="false">10.1039/d6ee05546j</guid>
+<pubDate>Thu, 01 Oct 2026 19:01:17 GMT</pubDate>
+<description>آلیاژ پرآنتروپی NiCoFeCrAlY با چند سایت فعال برای اکسیداسیون الکتروشیمیایی آلدهیدهای زیست‌توده و باتری‌های خودتخلیه معرفی شده است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multi-site high-entropy NiCoFeCrAlY alloy enabling concurrent biomass aldehyde electrooxidation and self-discharging battery operation. Its significance is combining multi-functional catalysis with energy recovery, offering a versatile, efficient route for biomass upgrading while generating power, advancing sustainable biorefining and multifunctional electrode design.&lt;br&gt;🏷 high-entropy alloy · biomass upgrading · self-discharging battery · electrooxidation · multi-active sites</description>
+<category>high-entropy alloy</category>
+<category>biomass upgrading</category>
+<category>self-discharging battery</category>
+<category>electrooxidation</category>
+<category>multi-active sites</category>
+</item>
 <item>
 <title>Advances in biomimetic ion channel based charged interface regulation and ion transport for electrochemical energy storage</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101853</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>concentration stratification</category>
 <category>in situ visualization</category>
 <category>electrolyte transport</category>
-</item>
-<item>
-<title>Additive-free ester-based electrolyte for fast-charging and wide-temperature sodium-ion full batteries</title>
-<link>https://doi.org/10.1016/j.esci.2026.100650</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100650</guid>
-<pubDate>Wed, 30 Sep 2026 02:01:12 GMT</pubDate>
-<description>این پژوهش یک الکترولیت استری بدون افزودنی برای باتری‌های کامل سدیم-یون معرفی می‌کند که شارژ سریع و عملکرد در دمای گسترده را ممکن می‌سازد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium-ion battery · ester-based electrolyte · fast charging · wide-temperature · additive-free</description>
-<category>sodium-ion battery</category>
-<category>ester-based electrolyte</category>
-<category>fast charging</category>
-<category>wide-temperature</category>
-<category>additive-free</category>
-</item>
-<item>
-<title>Internal operando monitoring of lithium-ion batteries using a wireless, powerless inductor–capacitor resonant sensor</title>
-<link>https://doi.org/10.1039/d6ta05881g</link>
-<guid isPermaLink="false">10.1039/d6ta05881g</guid>
-<pubDate>Wed, 30 Sep 2026 01:01:09 GMT</pubDate>
-<description>یک حسگر تشدیدگر LC بی‌سیم و بدون منبع توان، دینامیک الکتروشیمیایی باتری لیتیوم-یونی را به‌صورت operando رمزگشایی و پایش داخلی و تشخیص خطا را ممکن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a wireless, powerless LC resonant sensor implanted inside lithium-ion cells for operando monitoring. Its significance: decoding electrochemical dynamics and linking them to macroscopic performance under varied conditions, enabling real-time internal fault diagnosis without wired power or invasive instrumentation.&lt;br&gt;🏷 lithium-ion battery · operando monitoring · LC resonant sensor · wireless sensor · fault diagnosis</description>
-<category>lithium-ion battery</category>
-<category>operando monitoring</category>
-<category>LC resonant sensor</category>
-<category>wireless sensor</category>
-<category>fault diagnosis</category>
-</item>
-<item>
-<title>Experimental study and performance evaluation of direct refrigerant cooling/heating thermal management systems for full-scale commercial battery packs</title>
-<link>https://doi.org/10.1016/j.est.2026.124816</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124816</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:28 GMT</pubDate>
-<description>سیستم‌های خنک‌کننده/گرم‌کننده مستقیم مبرد برای مدیریت حرارتی بسته‌های باتری تجاری تمام‌مقیاس ارزیابی می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 direct refrigerant cooling · battery thermal management · commercial battery pack · heating · performance evaluation</description>
-<category>direct refrigerant cooling</category>
-<category>battery thermal management</category>
-<category>commercial battery pack</category>
-<category>heating</category>
-<category>performance evaluation</category>
-</item>
-<item>
-<title>Poly(lactic acid) - PLA as sustainable building block to enhance structural stability and performance of PEO-based electrolytes</title>
-<link>https://doi.org/10.1016/j.est.2026.124743</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124743</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:23 GMT</pubDate>
-<description>پلی‌لاکتیک اسید به عنوان بلوک سازنده پایدار برای بهبود پایداری ساختاری و عملکرد الکترولیت‌های PEO به کار می‌رود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 poly(lactic acid) · PEO electrolyte · structural stability · sustainable polymer · lithium battery</description>
-<category>poly(lactic acid)</category>
-<category>PEO electrolyte</category>
-<category>structural stability</category>
-<category>sustainable polymer</category>
-<category>lithium battery</category>
 </item>
 </channel>
 </rss>
