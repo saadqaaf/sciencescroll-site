@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 09:02:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 10:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cybersecurity and resiliency in agricultural and food systems</title>
+<link>https://doi.org/10.1038/s43016-026-01422-0</link>
+<guid isPermaLink="false">10.1038/s43016-026-01422-0</guid>
+<pubDate>Thu, 01 Oct 2026 10:02:06 GMT</pubDate>
+<description>این مقاله مروری به بررسی امنیت سایبری و تاب‌آوری در سیستم‌های کشاورزی و غذایی می‌پردازد.&lt;br&gt;Nature Food | ⭐ Review&lt;br&gt;🏷 cybersecurity · resiliency · agricultural systems · food systems · critical infrastructure</description>
+<category>cybersecurity</category>
+<category>resiliency</category>
+<category>agricultural systems</category>
+<category>food systems</category>
+<category>critical infrastructure</category>
+</item>
+<item>
+<title>Gallium‐assisted entropy engineering of high‐entropy oxide nanoparticles for solar/electrical dual‐mode thermal management textiles</title>
+<link>https://doi.org/10.1002/inf2.70192</link>
+<guid isPermaLink="false">10.1002/inf2.70192</guid>
+<pubDate>Thu, 01 Oct 2026 10:02:02 GMT</pubDate>
+<description>مهندسی آنتروپی با کمک گالیم، نانوذرات اکسید با آنتروپی بالا را برای منسوجات مدیریت حرارتی دوحالته خورشیدی/الکتریکی سنتز می‌کند.&lt;br&gt;InfoMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 high-entropy oxide · gallium-assisted synthesis · photothermal conversion · thermal management · textiles</description>
+<category>high-entropy oxide</category>
+<category>gallium-assisted synthesis</category>
+<category>photothermal conversion</category>
+<category>thermal management</category>
+<category>textiles</category>
+</item>
+<item>
+<title>Large language models discover complementary heuristics for combinatorial optimization</title>
+<link>https://doi.org/10.1038/s42256-026-01307-8</link>
+<guid isPermaLink="false">10.1038/s42256-026-01307-8</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:59 GMT</pubDate>
+<description>مدل‌های زبانی بزرگ، اکتشافی‌های مکمل برای بهینه‌سازی ترکیبیاتی را کشف می‌کنند.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article&lt;br&gt;🏷 large language models · combinatorial optimization · heuristics · discovery · algorithms</description>
+<category>large language models</category>
+<category>combinatorial optimization</category>
+<category>heuristics</category>
+<category>discovery</category>
+<category>algorithms</category>
+</item>
+<item>
+<title>Agentic Modeling Framework for Materials‐to‐Device Cross‐Scale Design of Perovskite Solar Cells</title>
+<link>https://doi.org/10.1002/aenm.71671</link>
+<guid isPermaLink="false">10.1002/aenm.71671</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:50 GMT</pubDate>
+<description>چارچوب عاملی مبتنی بر LLM، طراحی چندمقیاسی از مواد تا دستگاه سلول خورشیدی پروسکایتی را با نرخ موفقیت ۹۶.۷٪ خودکار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cell · large language model · cross-scale design · Bayesian optimization · DFT</description>
+<category>perovskite solar cell</category>
+<category>large language model</category>
+<category>cross-scale design</category>
+<category>Bayesian optimization</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Photon Tunneling Cascade to Enhance Solar Energy Concentrator in a Sheath/Core Polymer Sheet</title>
+<link>https://doi.org/10.1002/aenm.71656</link>
+<guid isPermaLink="false">10.1002/aenm.71656</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:45 GMT</pubDate>
+<description>استراتژی تونل‌زنی فوتون در ورقه پلیمری پوسته/هسته، بازده نوری متمرکزکننده خورشیدی را به ۱۹.۱۵٪ می‌رساند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 luminescent solar concentrator · photon tunneling · polymer sheet · Eu3+ complex · optical efficiency</description>
+<category>luminescent solar concentrator</category>
+<category>photon tunneling</category>
+<category>polymer sheet</category>
+<category>Eu3+ complex</category>
+<category>optical efficiency</category>
+</item>
+<item>
+<title>Electrolyte Interfacial Reactivity Regulates Alloying Anode Pulverization</title>
+<link>https://doi.org/10.1002/aenm.71596</link>
+<guid isPermaLink="false">10.1002/aenm.71596</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:42 GMT</pubDate>
+<description>واکنش‌پذیری سطح مشترک الکترولیت-آند، پودر شدن آند آلیاژی بیسموت را در باتری سدیم-یون کنترل می‌کند و ظرفیت ۹۹٪ را حفظ می‌نماید.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals that electrolyte interfacial reactivity, not SEI composition, governs alloying anode pulverization. Low-reactivity electrolytes yield porous micro-grained bismuth anodes with thin SEI and ~99% capacity retention over 250 cycles; high-reactivity electrolytes cause nanoparticle pulverization and rapid failure. Validated in Sn anodes, this offers a general design principle for durable high-energy alkali-ion batteries.&lt;br&gt;🏷 sodium-ion battery · alloying anode · bismuth anode · electrolyte reactivity · SEI</description>
+<category>sodium-ion battery</category>
+<category>alloying anode</category>
+<category>bismuth anode</category>
+<category>electrolyte reactivity</category>
+<category>SEI</category>
+</item>
+<item>
+<title>A Self‐Powered Ocean Energy Platform Enabling Green Hydrogen Production and Smart Ocean Monitoring From Irregular Wave Energy</title>
+<link>https://doi.org/10.1002/aenm.71674</link>
+<guid isPermaLink="false">10.1002/aenm.71674</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:36 GMT</pubDate>
+<description>یک نانوژنراتور تریبوالکتریک دو لایه برای برداشت انرژی موج اقیانوس و تولید هیدروژن سبز و پایش هوشمند دریا معرفی شده است.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 triboelectric nanogenerator · ocean wave energy · green hydrogen · self-powered sensing · MoS2/NiCo2O4</description>
+<category>triboelectric nanogenerator</category>
+<category>ocean wave energy</category>
+<category>green hydrogen</category>
+<category>self-powered sensing</category>
+<category>MoS2/NiCo2O4</category>
+</item>
 <item>
 <title>Concerted Steering of Interfacial Water and Hydrogen Spillover via Optimum Orbital Hybridization for Alkaline Water Electrocatalysis</title>
 <link>https://doi.org/10.1002/adma.75200</link>
@@ -1122,90 +1206,6 @@
 <category>Pt(111)</category>
 <category>molecular dynamics</category>
 <category>mixed plastics</category>
-</item>
-<item>
-<title>Elucidating the Synergistic Role of K-Co-Cu Ternary Interfaces in Selective CO2 Hydrogenation to Ethylene: A Combined DFT and Microkinetic Modeling Study</title>
-<link>https://doi.org/10.1021/acscatal.6c05494</link>
-<guid isPermaLink="false">10.1021/acscatal.6c05494</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:26 GMT</pubDate>
-<description>با DFT و مدل‌سازی میکروکینتیکی، سطح K/Cu-Co2C(int) با نسبت Co:Cu برابر ۱:۱ به‌عنوان بهترین کاتالیزور برای هیدروژناسیون CO2 به اتیلن با گزینش‌پذیری بالا معرفی می‌شود.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 CO2 hydrogenation · K-Co-Cu interface · ethylene selectivity · DFT · microkinetic modeling</description>
-<category>CO2 hydrogenation</category>
-<category>K-Co-Cu interface</category>
-<category>ethylene selectivity</category>
-<category>DFT</category>
-<category>microkinetic modeling</category>
-</item>
-<item>
-<title>The Cytoplasmic MicroRNA‐Production Complex Regulates MicroRNA Sorting to Extracellular Vesicles During Synaptogenesis</title>
-<link>https://doi.org/10.1002/advs.78067</link>
-<guid isPermaLink="false">10.1002/advs.78067</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:23 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که TRBP با اتصال به Syncrip در شبکه آندوپلاسمی، بارگذاری microRNAها در وزیکول‌های خارج سلولی را تنظیم کرده و بر تشکیل سیناپس اثر می‌گذارد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 extracellular vesicles · microRNA sorting · TRBP · Syncrip · synaptogenesis</description>
-<category>extracellular vesicles</category>
-<category>microRNA sorting</category>
-<category>TRBP</category>
-<category>Syncrip</category>
-<category>synaptogenesis</category>
-</item>
-<item>
-<title>Mitochondrial Localization of Cx26 Promotes Colorectal Cancer Malignancy and Exposes a Fatal Vulnerability to Drug Targeting</title>
-<link>https://doi.org/10.1002/advs.78117</link>
-<guid isPermaLink="false">10.1002/advs.78117</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:19 GMT</pubDate>
-<description>انتقال میتوکندریایی Cx26 متیله‌شده توسط PIMT باعث بدخیمی CRC می‌شود و bortezomib با هدف‌گیری محور PIMT-Cx26، اتوفاژی کشنده را در سلول‌های متاستاتیک القا می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 colorectal cancer · connexin 26 · PIMT methylation · bortezomib · mitochondrial translocation</description>
-<category>colorectal cancer</category>
-<category>connexin 26</category>
-<category>PIMT methylation</category>
-<category>bortezomib</category>
-<category>mitochondrial translocation</category>
-</item>
-<item>
-<title>Modulation of the TGF‐β/Smad Signaling Pathway by a Bioactive Oxidized Polygonati Rhizoma Polysaccharide Crosslinked Chitosan Hydrogel as Therapeutic Carrier for Parkinson&#x27;s Disease Treatment</title>
-<link>https://doi.org/10.1002/advs.77842</link>
-<guid isPermaLink="false">10.1002/advs.77842</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:15 GMT</pubDate>
-<description>هیدروژل خودترمیم COPRP از پلی‌ساکارید اکسیدشده Polygonati rhizoma و کیتوزان، با تنظیم مسیر TGF-β/Smad و حمل levodopa علائم پارکینسون را در موش بهبود داد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Parkinson&amp;#x27;s disease · chitosan hydrogel · Polygonati rhizoma polysaccharide · TGF-β/Smad · levodopa carrier</description>
-<category>Parkinson&#x27;s disease</category>
-<category>chitosan hydrogel</category>
-<category>Polygonati rhizoma polysaccharide</category>
-<category>TGF-β/Smad</category>
-<category>levodopa carrier</category>
-</item>
-<item>
-<title>Overcoming Out‐of‐Plane Conduction by Changing Nanosheet Morphology</title>
-<link>https://doi.org/10.1002/advs.78017</link>
-<guid isPermaLink="false">10.1002/advs.78017</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:12 GMT</pubDate>
-<description>غشای نانولوله‌ای HTaWO6 با غلتش خودبه‌خودی نانوصفحات، رسانش پروتون خارج‌صفحه‌ای ۱.۷ mS/cm و چگالی توان ۲۹۴ mW/cm² در پیل سوختی فراهم کرد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 proton conduction · oxide nanosheets · nanotube morphology · fuel cell · anisotropy</description>
-<category>proton conduction</category>
-<category>oxide nanosheets</category>
-<category>nanotube morphology</category>
-<category>fuel cell</category>
-<category>anisotropy</category>
-</item>
-<item>
-<title>Receptor‐Triggered Peptide Self‐Assembly Enables Multivalent Recruitment of Endogenous Antibodies for Cancer Immunotherapy</title>
-<link>https://doi.org/10.1002/advs.78074</link>
-<guid isPermaLink="false">10.1002/advs.78074</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:08 GMT</pubDate>
-<description>پپتید GE11-DNP با خودآرایی درجا روی سلول‌های EGFR+ نمایش چندظرفیتی hapten ایجاد کرده و با جذب آنتی‌بادی درون‌زا، CDC قوی و اثر ضدتوموری می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 peptide self-assembly · antibody recruitment · cancer immunotherapy · EGFR targeting · complement-dependent cytotoxicity</description>
-<category>peptide self-assembly</category>
-<category>antibody recruitment</category>
-<category>cancer immunotherapy</category>
-<category>EGFR targeting</category>
-<category>complement-dependent cytotoxicity</category>
-</item>
-<item>
-<title>Field‐Driven Active Colloids as Distributed Micromachines: Bridging Physics, Control, and Function Across Length Scales</title>
-<link>https://doi.org/10.1002/advs.78065</link>
-<guid isPermaLink="false">10.1002/advs.78065</guid>
-<pubDate>Thu, 01 Oct 2026 04:02:05 GMT</pubDate>
-<description>این Perspective، کلوئیدهای فعال تحت میدان را به‌عنوان میکروماشین‌های توزیع‌شده معرفی می‌کند و بر کنترل حلقه‌بسته با AI/ML برای وظایف هدف‌محور تأکید دارد.&lt;br&gt;Advanced Science | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 active colloids · electric field · magnetic field · micromachines · feedback control</description>
-<category>active colloids</category>
-<category>electric field</category>
-<category>magnetic field</category>
-<category>micromachines</category>
-<category>feedback control</category>
 </item>
 </channel>
 </rss>

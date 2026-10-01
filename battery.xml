@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 09:02:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 10:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrolyte Interfacial Reactivity Regulates Alloying Anode Pulverization</title>
+<link>https://doi.org/10.1002/aenm.71596</link>
+<guid isPermaLink="false">10.1002/aenm.71596</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:42 GMT</pubDate>
+<description>واکنش‌پذیری سطح مشترک الکترولیت-آند، پودر شدن آند آلیاژی بیسموت را در باتری سدیم-یون کنترل می‌کند و ظرفیت ۹۹٪ را حفظ می‌نماید.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals that electrolyte interfacial reactivity, not SEI composition, governs alloying anode pulverization. Low-reactivity electrolytes yield porous micro-grained bismuth anodes with thin SEI and ~99% capacity retention over 250 cycles; high-reactivity electrolytes cause nanoparticle pulverization and rapid failure. Validated in Sn anodes, this offers a general design principle for durable high-energy alkali-ion batteries.&lt;br&gt;🏷 sodium-ion battery · alloying anode · bismuth anode · electrolyte reactivity · SEI</description>
+<category>sodium-ion battery</category>
+<category>alloying anode</category>
+<category>bismuth anode</category>
+<category>electrolyte reactivity</category>
+<category>SEI</category>
+</item>
 <item>
 <title>Hofmeister‐Type Anion Regulation Suppresses Electrochemical Acidification for Long‐Life TEMPO‐Based Aqueous Flow Batteries</title>
 <link>https://doi.org/10.1002/adma.75077</link>
@@ -1198,19 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Na3P in PVDF electrolytes
 <category>Na3P nanofiller</category>
 <category>anode-lean</category>
 <category>NaF-rich SEI</category>
-</item>
-<item>
-<title>Electrostatically Coupled High-Modulus Interphase with Synergistic Anion–Cation Regulation for Stable Zn Anodes</title>
-<link>https://doi.org/10.1021/jacs.6c14681</link>
-<guid isPermaLink="false">10.1021/jacs.6c14681</guid>
-<pubDate>Tue, 29 Sep 2026 21:03:45 GMT</pubDate>
-<description>یک لایه بین‌سطحی با مدول بالا و بار غنی از طریق جفت‌شدگی الکترواستاتیک، آندهای Zn را برای باتری‌های آبی روی پایدار می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an electrostatically coupled PAMPS–PB interphase combining high modulus with synergistic anion–cation regulation. It accelerates Zn2+ desolvation, homogenizes ion flux, and suppresses dendrites and side reactions, enabling 2200 h symmetric-cell cycling and 3500 cycles in full cells. This offers a robust interfacial design strategy for stable, high-performance aqueous zinc batteries.&lt;br&gt;🏷 Zn anode · aqueous zinc battery · interfacial layer · dendrite suppression · electrostatic coupling</description>
-<category>Zn anode</category>
-<category>aqueous zinc battery</category>
-<category>interfacial layer</category>
-<category>dendrite suppression</category>
-<category>electrostatic coupling</category>
 </item>
 </channel>
 </rss>
