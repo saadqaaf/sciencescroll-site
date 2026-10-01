@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 14:02:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 15:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spray-deposited SOG/MoS₂ hybrid coatings on carbon fiber electrodes for quasi-solid-state supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.124938</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124938</guid>
+<pubDate>Thu, 01 Oct 2026 15:01:54 GMT</pubDate>
+<description>این پژوهش پوشش‌های هیبریدی SOG/MoS2 را با رسوب‌پاشی بر الکترودهای الیاف کربن برای ابرخازن‌های شبه‌حالت جامد بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor · MoS2 · carbon fiber · spray deposition · quasi-solid-state</description>
+<category>supercapacitor</category>
+<category>MoS2</category>
+<category>carbon fiber</category>
+<category>spray deposition</category>
+<category>quasi-solid-state</category>
+</item>
+<item>
+<title>Metal-nitrogen coordination catalysts for lithium/thionyl chloride batteries: Structure-activity relationships and practical challenges</title>
+<link>https://doi.org/10.1016/j.est.2026.124931</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124931</guid>
+<pubDate>Thu, 01 Oct 2026 15:01:47 GMT</pubDate>
+<description>این مرور کاتالیزورهای هم‌آرایی فلز-نیتروژن را برای باتری‌های لیتیوم/تیونیل کلراید و روابط ساختار-فعالیت و چالش‌های عملی آن‌ها را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium/thionyl chloride battery · metal-nitrogen coordination · catalysts · structure-activity relationships · practical challenges</description>
+<category>lithium/thionyl chloride battery</category>
+<category>metal-nitrogen coordination</category>
+<category>catalysts</category>
+<category>structure-activity relationships</category>
+<category>practical challenges</category>
+</item>
 <item>
 <title>Antiferroelectric phase-field simulations via scale-invariant physics-informed neural operators</title>
 <link>https://doi.org/10.1038/s41524-026-02344-y</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>thermal management</category>
 <category>dynamic stress test</category>
 <category>multi-objective</category>
-</item>
-<item>
-<title>Improved pulse-fitting method for parameterization of a high-frequency equivalent circuit model for batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124441</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124441</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:06 GMT</pubDate>
-<description>روش برازش پالس بهبودیافته برای پارامتردهی مدل مدار معادل فرکانس بالای باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery equivalent circuit · pulse fitting · parameterization · high-frequency model · impedance</description>
-<category>battery equivalent circuit</category>
-<category>pulse fitting</category>
-<category>parameterization</category>
-<category>high-frequency model</category>
-<category>impedance</category>
-</item>
-<item>
-<title>Ternary-synergistic heterostructured Nb2C@FeS2@CTAB anode with enhanced lithium kinetics and stability</title>
-<link>https://doi.org/10.1016/j.est.2026.124785</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124785</guid>
-<pubDate>Tue, 29 Sep 2026 23:01:54 GMT</pubDate>
-<description>آند سه‌جزئی Nb2C@FeS2@CTAB با ساختار ناهمگون، سینتیک و پایداری لیتیوم‌یون را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Nb2C MXene · FeS2 anode · lithium-ion battery · heterostructure · CTAB</description>
-<category>Nb2C MXene</category>
-<category>FeS2 anode</category>
-<category>lithium-ion battery</category>
-<category>heterostructure</category>
-<category>CTAB</category>
 </item>
 </channel>
 </rss>
