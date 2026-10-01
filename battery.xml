@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 01:02:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 02:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ion-Regulated Interfacial Solvation Enables Ether Electrolytes for 4.4 V Lithium Metal Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01870</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01870</guid>
+<pubDate>Thu, 01 Oct 2026 02:01:57 GMT</pubDate>
+<description>تنظیم سولواسیون بینسطحی با یونهای K+ و BH4- در الکترولیت اتری، پایداری آند لیتیوم و پنجره اکسیداسیون را افزایش داده و باتری Li-NCM811 با ولتاژ 4.4 V را ممکن میسازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using K+ and BH4– to selectively tailor interfacial solvation, rather than bulk solvation, enabling ether electrolytes for 4.4 V lithium metal batteries. This approach suppresses interfacial decomposition, extends Li plating/stripping to 160 cycles, raises oxidation onset to 5.00 V, and retains 85.7% capacity after 100 cycles in NCM811 full cells.&lt;br&gt;🏷 lithium metal battery · ether electrolyte · interfacial solvation · KBH4 additive · high-voltage NCM811</description>
+<category>lithium metal battery</category>
+<category>ether electrolyte</category>
+<category>interfacial solvation</category>
+<category>KBH4 additive</category>
+<category>high-voltage NCM811</category>
+</item>
+<item>
+<title>Lattice Reconstruction and Surface Engineering Enable High‐Voltage Operation of Regenerated LiCoO 2 Cathodes</title>
+<link>https://doi.org/10.1002/adfm.78773</link>
+<guid isPermaLink="false">10.1002/adfm.78773</guid>
+<pubDate>Thu, 01 Oct 2026 02:01:24 GMT</pubDate>
+<description>بازسازی شبکه و مهندسی سطح، عملکرد ولتاژ بالای کاتدهای LiCoO2 بازتولیدشده را تا 4.6 ولت ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work identifies intrinsic limits on spent LiCoO₂ recovery and uses lattice reconstruction plus a nanoscale rock-salt surface layer to regenerate high-voltage cathodes. The strategy restores layered structure and Li⁺ kinetics, enabling stable 4.6 V cycling (81% retention after 1500 cycles). It offers a scalable route for high-value battery recycling.&lt;br&gt;🏷 LiCoO2 cathode · lithium-ion battery · recycling · lattice reconstruction · high-voltage</description>
+<category>LiCoO2 cathode</category>
+<category>lithium-ion battery</category>
+<category>recycling</category>
+<category>lattice reconstruction</category>
+<category>high-voltage</category>
+</item>
 <item>
 <title>Heterostructure Engineering of Dual Tellurides Cathode and Stabilizing Li Anode: A Synergistic Strategy for High Air Stability in Li–Air Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105570</link>
@@ -702,30 +726,6 @@
 <category>fast charging</category>
 <category>wide-temperature</category>
 <category>additive-free</category>
-</item>
-<item>
-<title>Internal operando monitoring of lithium-ion batteries using a wireless, powerless inductor–capacitor resonant sensor</title>
-<link>https://doi.org/10.1039/d6ta05881g</link>
-<guid isPermaLink="false">10.1039/d6ta05881g</guid>
-<pubDate>Wed, 30 Sep 2026 01:01:09 GMT</pubDate>
-<description>یک حسگر تشدیدگر LC بی‌سیم و بدون منبع توان، دینامیک الکتروشیمیایی باتری لیتیوم-یونی را به‌صورت operando رمزگشایی و پایش داخلی و تشخیص خطا را ممکن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a wireless, powerless LC resonant sensor implanted inside lithium-ion cells for operando monitoring. Its significance: decoding electrochemical dynamics and linking them to macroscopic performance under varied conditions, enabling real-time internal fault diagnosis without wired power or invasive instrumentation.&lt;br&gt;🏷 lithium-ion battery · operando monitoring · LC resonant sensor · wireless sensor · fault diagnosis</description>
-<category>lithium-ion battery</category>
-<category>operando monitoring</category>
-<category>LC resonant sensor</category>
-<category>wireless sensor</category>
-<category>fault diagnosis</category>
-</item>
-<item>
-<title>Experimental study and performance evaluation of direct refrigerant cooling/heating thermal management systems for full-scale commercial battery packs</title>
-<link>https://doi.org/10.1016/j.est.2026.124816</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124816</guid>
-<pubDate>Tue, 29 Sep 2026 23:02:28 GMT</pubDate>
-<description>سیستم‌های خنک‌کننده/گرم‌کننده مستقیم مبرد برای مدیریت حرارتی بسته‌های باتری تجاری تمام‌مقیاس ارزیابی می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 direct refrigerant cooling · battery thermal management · commercial battery pack · heating · performance evaluation</description>
-<category>direct refrigerant cooling</category>
-<category>battery thermal management</category>
-<category>commercial battery pack</category>
-<category>heating</category>
-<category>performance evaluation</category>
 </item>
 </channel>
 </rss>
