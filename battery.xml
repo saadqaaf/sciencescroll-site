@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 11:02:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 12:03:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ion Association Dynamics Governs Low-Temperature Ion Transport of Sodium-Ion Battery Electrolytes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02269</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02269</guid>
+<pubDate>Thu, 01 Oct 2026 12:02:58 GMT</pubDate>
+<description>دینامیک مولکولی یادگیری ماشین و رامان درجا نشان می‌دهد که طول عمر و بازآرایی جفت‌یون‌ها، نه ساختار سولواسیون، عامل اصلی افت رسانایی الکترولیت باتری سدیم-یون در دمای پایین است.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This work reveals that low-temperature ion transport in sodium-ion battery electrolytes is governed by ion-association dynamics, not static solvation structures. By combining machine-learned molecular dynamics with variable-temperature Raman spectroscopy, it shows cooling prolongs ion-pair lifetimes and suppresses reorganization, reducing fast-migrating Na+. This mechanistic insight offers a new design principle for low-temperature electrolytes.&lt;br&gt;🏷 sodium-ion battery · electrolyte · ion association · low-temperature transport · molecular dynamics</description>
+<category>sodium-ion battery</category>
+<category>electrolyte</category>
+<category>ion association</category>
+<category>low-temperature transport</category>
+<category>molecular dynamics</category>
+</item>
+<item>
+<title>Mechanistic Origins of Chemo‐Mechanical Instability and Failure in Solid‐State Lithium‐Sulfur Electrodes</title>
+<link>https://doi.org/10.1002/adfm.78807</link>
+<guid isPermaLink="false">10.1002/adfm.78807</guid>
+<pubDate>Thu, 01 Oct 2026 12:02:35 GMT</pubDate>
+<description>چارچوب الکترو-شیمیایی-مکانیکی ریزساختاری نشان می‌دهد که ناهمگنی ریزساختاری و تمرکز تنش ناشی از انبساط تبدیل، جوانه‌زنی و انتشار ترک در کاتدهای Li-S حالت جامد را کنترل می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely links cathode microstructure to fracture in solid-state lithium-sulfur batteries via a resolved electro-chemo-mechanical framework. It reveals that constrained conversion expansion creates strain-energy hotspots governing crack morphology, and identifies sulfur particle size and packing density as key design levers. These insights expose an energy density–mechanical stability trade-off, offering a mechanistic basis for durable electrode design.&lt;br&gt;🏷 solid-state Li-S battery · chemo-mechanical instability · cathode fracture · microstructure · strain energy</description>
+<category>solid-state Li-S battery</category>
+<category>chemo-mechanical instability</category>
+<category>cathode fracture</category>
+<category>microstructure</category>
+<category>strain energy</category>
+</item>
+<item>
+<title>Interfacial‐Electronically‐Regulated Core–Shell Co@Cu Catalyst for Reversible Ammonia/Nitrate Electrocatalysis</title>
+<link>https://doi.org/10.1002/adfm.78836</link>
+<guid isPermaLink="false">10.1002/adfm.78836</guid>
+<pubDate>Thu, 01 Oct 2026 12:02:21 GMT</pubDate>
+<description>کاتالیزور هسته-پوسته Co@Cu با تنظیم الکترونیکی، اکسیداسیون آمونیاک و کاهش نیترات را برگشت‌پذیر کرده و باتری Zn-NO3-/NH4+ با توان 57.5 mW cm-2 می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a Co@Cu core–shell catalyst enabling reversible ammonia oxidation and nitrate reduction via interfacial electronic regulation, where the Co core tunes Cu&amp;#x27;s surface electronics and the Cu shell suppresses N─N coupling. It achieves high Faradaic efficiencies (92.6% AOR, 98.2% NO₃RR) and powers a rechargeable Zn–NO₃⁻/NH₄⁺ battery, offering a design strategy for bifunctional nitrogen-based energy systems.&lt;br&gt;🏷 Co@Cu catalyst · ammonia oxidation · nitrate reduction · Zn-NO3- battery · core-shell catalyst</description>
+<category>Co@Cu catalyst</category>
+<category>ammonia oxidation</category>
+<category>nitrate reduction</category>
+<category>Zn-NO3- battery</category>
+<category>core-shell catalyst</category>
+</item>
+<item>
+<title>Reversible Calcium Alloying on Bulk and Indium (Sub)‐Micro Negative Electrodes for Calcium‐Based Batteries</title>
+<link>https://doi.org/10.1002/adfm.78722</link>
+<guid isPermaLink="false">10.1002/adfm.78722</guid>
+<pubDate>Thu, 01 Oct 2026 12:02:15 GMT</pubDate>
+<description>آلیاژسازی برگشت‌پذیر کلسیم-ایندیم در الکترودهای In، با بیش از 1000 چرخه و بازده کولنی &amp;gt;99%، الکترود منفی پایدار برای باتری‌های کلسیمی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes reversible Ca–In alloying as a durable negative electrode strategy for calcium batteries, achieving &amp;gt;1000 cycles with &amp;gt;99% efficiency. It identifies a surface-localized CaIn₂ phase and introduces a novel synthesis of indium (sub)microparticles via disproportionation of electrogenerated In(I), enabling self-welded networks. Despite low active-material utilization, these findings advance stable, high-cycle-life calcium-based battery anodes.&lt;br&gt;🏷 calcium batteries · indium electrode · Ca-In alloying · reversible cycling · negative electrode</description>
+<category>calcium batteries</category>
+<category>indium electrode</category>
+<category>Ca-In alloying</category>
+<category>reversible cycling</category>
+<category>negative electrode</category>
+</item>
 <item>
 <title>Descriptor-informed multi-component doping enables high-performance Co-free Ni-rich cathodes</title>
 <link>https://doi.org/10.1038/s44160-026-01152-y</link>
@@ -1159,55 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>polysulfide trapping</category>
 <category>cobalt catalysis</category>
 <category>pyridine</category>
-</item>
-<item>
-<title>Enhancing Na-ion conduction in Na3Zr2Si2PO12 electrolyte for solid-state sodium batteries via Na/Si/P ratio regulation strategy</title>
-<link>https://doi.org/10.1016/j.jmst.2026.09.050</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.09.050</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:45 GMT</pubDate>
-<description>تنظیم نسبت Na/Si/P در الکترولیت Na3Zr2Si2PO12، رسانش یون سدیم را برای باتری‌های حالت جامد سدیم تقویت می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · Na3Zr2Si2PO12 · sodium-ion conduction · Na/Si/P ratio · solid electrolyte</description>
-<category>solid-state battery</category>
-<category>Na3Zr2Si2PO12</category>
-<category>sodium-ion conduction</category>
-<category>Na/Si/P ratio</category>
-<category>solid electrolyte</category>
-</item>
-<item>
-<title>Synergistic electrode/electrolyte optimization enables efficient dissolution-deposition chemistry in Zn-MnO2 batteries</title>
-<link>https://doi.org/10.1016/j.jmst.2026.09.051</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.09.051</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:41 GMT</pubDate>
-<description>بهینه‌سازی هم‌افزای الکترود و الکترولیت، شیمی انحلال-رسوب را در باتری‌های Zn-MnO2 کارآمد می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 Zn-MnO2 battery · electrode optimization · electrolyte optimization · dissolution-deposition · energy storage</description>
-<category>Zn-MnO2 battery</category>
-<category>electrode optimization</category>
-<category>electrolyte optimization</category>
-<category>dissolution-deposition</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Breaking the limitations of ZnSe anodes: Boosting sodium-ion kinetics via electronic structure regulation and morphology design</title>
-<link>https://doi.org/10.1016/j.jmst.2026.09.053</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.09.053</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:37 GMT</pubDate>
-<description>با تنظیم ساختار الکترونی و طراحی مورفولوژی، سینتیک آندی ZnSe در باتری یون سدیم بهبود می‌یابد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 ZnSe anode · sodium-ion battery · electronic structure · morphology design · reaction kinetics</description>
-<category>ZnSe anode</category>
-<category>sodium-ion battery</category>
-<category>electronic structure</category>
-<category>morphology design</category>
-<category>reaction kinetics</category>
-</item>
-<item>
-<title>Weak-Solvation Molecular Ion Gates Enabling Multipath Li + Hopping and Air Stability in Garnet/Poly(ethylene oxide) Electrolytes</title>
-<link>https://doi.org/10.1021/jacs.6c15811</link>
-<guid isPermaLink="false">10.1021/jacs.6c15811</guid>
-<pubDate>Tue, 29 Sep 2026 21:04:44 GMT</pubDate>
-<description>استراتژی دروازه یونی مولکولی با پیوند شیمیایی به LLZTO، پایداری هوا و انتقال Li+ را در الکترولیت کامپوزیت PEO بهبود می‌بخشد و باتری‌های لیتیومی پایدار ارائه می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a weak-solvation molecular ion gate (WSMI) that chemically anchors 4-methoxy-2-(trifluoromethyl)benzoic acid onto LLZTO, removing Li2CO3 and enabling multipath Li+ hopping. It simultaneously boosts air stability, Li+ transference (0.622), and cycling life, offering a new interfacial design principle for garnet/PEO solid-state batteries.&lt;br&gt;🏷 composite polymer electrolyte · LLZTO · PEO · weak solvation · air stability</description>
-<category>composite polymer electrolyte</category>
-<category>LLZTO</category>
-<category>PEO</category>
-<category>weak solvation</category>
-<category>air stability</category>
 </item>
 </channel>
 </rss>
