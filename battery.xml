@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 06:01:32 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 07:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Defect-driven subsurface phase transformation kinetically enables extended solid-solution pathway in high-voltage spinel cathodes</title>
+<link>https://doi.org/10.1039/d6ta06412d</link>
+<guid isPermaLink="false">10.1039/d6ta06412d</guid>
+<pubDate>Thu, 01 Oct 2026 07:01:49 GMT</pubDate>
+<description>تبدیل فاز زیرسطحی ناشی از نقص، مسیر محلول جامد را در کاتد اسپینلی ولتاژ بالا LiNi0.5Mn1.5O4 گسترش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Defect-driven subsurface phase transformation enables a kinetically stabilized extended solid-solution pathway in high-voltage LNMO spinel cathodes, resolving the ordering-versus-kinetics trade-off. This defect-engineering strategy suppresses phase transitions, improves rate capability and cycling stability, and offers a design principle for cobalt-free high-voltage cathodes.&lt;br&gt;🏷 LiNi0.5Mn1.5O4 · spinel cathode · subsurface phase transformation · solid-solution pathway · defect engineering</description>
+<category>LiNi0.5Mn1.5O4</category>
+<category>spinel cathode</category>
+<category>subsurface phase transformation</category>
+<category>solid-solution pathway</category>
+<category>defect engineering</category>
+</item>
+<item>
+<title>Influence of Organic Carbon Source on Precursor Chemistry, Crystallization Behavior, and Electrochemical Phase-Transformation Kinetics of Spray-Dried Na3V2(PO4)3</title>
+<link>https://doi.org/10.1039/d6ta06004h</link>
+<guid isPermaLink="false">10.1039/d6ta06004h</guid>
+<pubDate>Thu, 01 Oct 2026 07:01:44 GMT</pubDate>
+<description>تأثیر منبع کربن آلی بر شیمی پیش‌ماده، تبلور و سینتیک تبدیل فاز الکتروشیمیایی Na3V2(PO4)3 تولیدشده به روش خشک‌پاشی بررسی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals how different organic carbon sources govern precursor chemistry, crystallization, and electrochemical phase-transformation kinetics in spray-dried Na3V2(PO4)3. By linking carbon source choice to sodium-ion battery performance, it provides mechanistic insight beyond empirical carbon coating, enabling rational design of high-rate cathode materials.&lt;br&gt;🏷 Na3V2(PO4)3 · organic carbon source · spray drying · crystallization · phase transformation</description>
+<category>Na3V2(PO4)3</category>
+<category>organic carbon source</category>
+<category>spray drying</category>
+<category>crystallization</category>
+<category>phase transformation</category>
+</item>
 <item>
 <title>Techno-economic boundaries of hydrate-based cooling thermal energy storage</title>
 <link>https://doi.org/10.1016/j.est.2026.124907</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces an e
 <category>boron-rich interphase</category>
 <category>electronic spatialization</category>
 <category>high-energy</category>
-</item>
-<item>
-<title>Coupling Charge-Trap Engineering with Self-Crosslinking in Poly(4-methyl-1-pentene) Dielectrics for High-Temperature Capacitive Energy Storage</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112451</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112451</guid>
-<pubDate>Tue, 29 Sep 2026 21:01:52 GMT</pubDate>
-<description>مهندسی تله‌بار همراه با خوداتصال‌دهی در دی‌الکتریک پلی(۴-متیل-۱-پنتن) برای ذخیره‌سازی انرژی خازنی دمای بالا به کار رفته است.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 capacitive energy storage · charge-trap engineering · self-crosslinking · poly(4-methyl-1-pentene) · high-temperature dielectrics</description>
-<category>capacitive energy storage</category>
-<category>charge-trap engineering</category>
-<category>self-crosslinking</category>
-<category>poly(4-methyl-1-pentene)</category>
-<category>high-temperature dielectrics</category>
-</item>
-<item>
-<title>Engineering a Fluorinated AlPO 4 Interface: Toward High Initial Coulombic Efficiency and Stable Oxygen Redox in Li‐Rich Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/adfm.78762</link>
-<guid isPermaLink="false">10.1002/adfm.78762</guid>
-<pubDate>Tue, 29 Sep 2026 20:02:16 GMT</pubDate>
-<description>پوشش AlPO4-F روی کاتد لایه‌ای غنی از لیتیوم، بازدهی کولنی اولیه و پایداری چرخه را با تثبیت اکسایش اکسیژن بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Fluorinated AlPO4 surface coating on Li-rich layered oxides uniquely combines oxygen-framework stabilization with interfacial charge redistribution, enhancing Li affinity and structural reversibility. This yields 95.9% initial Coulombic efficiency, 244-cycle stability versus 57 for pristine, and reduced voltage decay (0.23 V), offering a multifunctional strategy for high-capacity anionic-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · AlPO4-F coating · oxygen redox · coulombic efficiency · voltage decay</description>
-<category>Li-rich layered oxide</category>
-<category>AlPO4-F coating</category>
-<category>oxygen redox</category>
-<category>coulombic efficiency</category>
-<category>voltage decay</category>
 </item>
 </channel>
 </rss>
