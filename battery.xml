@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 01:02:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 02:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Inhibition of Calendar Aging Induced Li Metal Corrosion Using Selected Area Insulating Layer Current Collectors</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02391</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02391</guid>
+<pubDate>Fri, 02 Oct 2026 02:01:05 GMT</pubDate>
+<description>خوردگی لیتیوم در پیری تقویمی به‌صورت مکانی ناهمگن رخ می‌دهد و لایه عایق ناحیه‌ای انتخابی روی کلکتور جریان، افت ظرفیت ناشی از خوردگی را ۹۴٪ کاهش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying spatially heterogeneous Li corrosion, with edge overhang areas losing five times more capacity than centers. The selected-area insulating layer (SAIL) prevents overhang Li plating, cutting corrosion-induced capacity loss by 94%. This reveals a previously overlooked degradation mechanism and offers a simple, scalable strategy to substantially improve calendar-life of Li metal anodes.&lt;br&gt;🏷 lithium metal anode · calendar aging · current collector · SEI · insulating layer</description>
+<category>lithium metal anode</category>
+<category>calendar aging</category>
+<category>current collector</category>
+<category>SEI</category>
+<category>insulating layer</category>
+</item>
 <item>
 <title>Electrochemical-thermal-aging coupled model for parallel lithium-ion battery packs: Evolution of thermal and aging inconsistency under cell-to-cell variations</title>
 <link>https://doi.org/10.1016/j.est.2026.124935</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>wide-temperature electrolyte</category>
 <category>fast charging</category>
 <category>LiF-rich interphase</category>
-</item>
-<item>
-<title>Composition-controlled co-evaporated LiF–Li hybrid artificial interlayer for high-current-tolerant all-solid-state lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112456</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112456</guid>
-<pubDate>Wed, 30 Sep 2026 07:01:41 GMT</pubDate>
-<description>یک لایه میانی مصنوعی LiF-Li با ترکیب کنترل‌شده به روش هم‌تبخیری برای باتری‌های حالت جامد لیتیوم-فلز با تحمل جریان بالا ساخته شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · lithium metal anode · LiF-Li interlayer · co-evaporation · high current density</description>
-<category>all-solid-state battery</category>
-<category>lithium metal anode</category>
-<category>LiF-Li interlayer</category>
-<category>co-evaporation</category>
-<category>high current density</category>
 </item>
 </channel>
 </rss>
