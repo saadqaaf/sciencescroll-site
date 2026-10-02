@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 10:01:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 11:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An organic additive strategy for high-performance and durable alkaline zinc/ferricyanide flow batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124889</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124889</guid>
+<pubDate>Fri, 02 Oct 2026 11:01:20 GMT</pubDate>
+<description>این تحقیق یک استراتژی افزودنی آلی را برای بهبود عملکرد و دوام باتری‌های جریان‌ی روی/فری‌سیانید قلیایی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc/ferricyanide flow battery · organic additive · alkaline electrolyte · durability · high performance</description>
+<category>zinc/ferricyanide flow battery</category>
+<category>organic additive</category>
+<category>alkaline electrolyte</category>
+<category>durability</category>
+<category>high performance</category>
+</item>
 <item>
 <title>Demarcating the Effects of Aliphatic Ester Chain Lengths and Molecular Weight on Electrode–Electrolyte Interphase Formation for Wide-Temperature Operation of Lithium-Ion Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c10537</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>all-solid-state batteries</category>
 <category>lithium-ion conduction</category>
 <category>interfacial compatibility</category>
-</item>
-<item>
-<title>Fe/Ce Dual‐Atom Engineering to Break the Activity‐Stability Trade‐Off for Ultra‐Stable Zinc‐Air Batteries</title>
-<link>https://doi.org/10.1002/smll.76029</link>
-<guid isPermaLink="false">10.1002/smll.76029</guid>
-<pubDate>Wed, 30 Sep 2026 08:04:37 GMT</pubDate>
-<description>کاتالیزور دواتمی Fe/Ce روی الیاف کربنی توخالی با پاک‌سازی ROS و تجزیه H2O2، مبادله فعالیت-پایداری را می‌شکند و باتری روی-هوا را 2300 چرخه پایدار نگه می‌دارد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 FeCe dual-atom catalyst co-anchored on hollow carbon fibers breaks the activity-stability trade-off in zinc-air batteries. Ce sites scavenge ROS and decompose H₂O₂ while modulating Fe centers, boosting ORR activity and preventing carbon degradation. It delivers 2300 cycles (~1100 h) of stable operation, offering a new pathway for ultra-durable zinc-air batteries.&lt;br&gt;🏷 zinc-air batteries · dual-atom catalyst · Fe-Ce sites · ORR stability · ROS scavenging</description>
-<category>zinc-air batteries</category>
-<category>dual-atom catalyst</category>
-<category>Fe-Ce sites</category>
-<category>ORR stability</category>
-<category>ROS scavenging</category>
 </item>
 </channel>
 </rss>
