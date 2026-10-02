@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 19:01:53 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 20:04:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Intramolecular charge redistribution of phosphate anions enabling ultrahigh-voltage lithium metal battery of 600 Wh kg −1</title>
+<link>https://doi.org/10.1126/sciadv.aei9659</link>
+<guid isPermaLink="false">10.1126/sciadv.aei9659</guid>
+<pubDate>Fri, 02 Oct 2026 20:03:40 GMT</pubDate>
+<description>با غربالگری یادگیری ماشین، افزودنی LiDPFP طراحی شد که با بازتوزیع بار درونی، باتری لیتیوم-فلزی ۴.۸ ولت با چگالی انرژی ۶۲۸ وات‌ساعت بر کیلوگرم را ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 This work pioneers machine learning-guided design of phosphate additives with intramolecular charge redistribution, identifying LiDPFP for ultrahigh-voltage lithium metal batteries. It enables stable 4.8 V cycling from −40° to 80°C and a 628 Wh kg⁻¹ pouch cell, offering a paradigm shift from trial-and-error toward rational electrolyte design for practical ultrahigh-energy-density batteries.&lt;br&gt;🏷 lithium metal battery · electrolyte additive · machine learning · high voltage · solid electrolyte interphase</description>
+<category>lithium metal battery</category>
+<category>electrolyte additive</category>
+<category>machine learning</category>
+<category>high voltage</category>
+<category>solid electrolyte interphase</category>
+</item>
+<item>
+<title>Ultrahigh discharge voltage plateau of 3.2 V achieved in Li-CO 2 batteries using iron polyphthalocyanine</title>
+<link>https://doi.org/10.1126/sciadv.aei5080</link>
+<guid isPermaLink="false">10.1126/sciadv.aei5080</guid>
+<pubDate>Fri, 02 Oct 2026 20:03:16 GMT</pubDate>
+<description>باتری Li-CO2 با واسطه ردوکس pFeIIPc به پلاتوی تخلیه 3.2 V و ظرفیت بالا و چرخه‌پذیری طولانی دست می‌یابد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 Iron polyphthalocyanine as a solid-state redox mediator redirects Li-CO₂ battery chemistry to form Li₂C₂O₄ instead of Li₂CO₃, enabling a 3.2 V discharge plateau beyond the theoretical limit, 28,790 mAh/g capacity, 1400-hour cycling, and −40 to 80°C adaptability. Pouch cells reach 678 Wh/kg, advancing practical high-efficiency Li-CO₂ batteries.&lt;br&gt;🏷 Li-CO2 battery · iron polyphthalocyanine · redox mediator · discharge plateau · Li2C2O4</description>
+<category>Li-CO2 battery</category>
+<category>iron polyphthalocyanine</category>
+<category>redox mediator</category>
+<category>discharge plateau</category>
+<category>Li2C2O4</category>
+</item>
+<item>
+<title>Harnessing interfacial kosmotropic effect for reversible quasi-solid-state zinc-iodine batteries</title>
+<link>https://doi.org/10.1126/sciadv.aeg8302</link>
+<guid isPermaLink="false">10.1126/sciadv.aeg8302</guid>
+<pubDate>Fri, 02 Oct 2026 20:02:52 GMT</pubDate>
+<description>اثر kosmotropic بین‌سطحی با CaSO4·2H2O برای باتری‌های zinc-iodine نیمه‌جامد، منجر به واکنش تک‌مرحله‌ای I−/I2 و پایداری بالا می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 This work introduces an interfacial kosmotropic effect using low-cost CaSO₄·2H₂O to reconstruct electric double-layer chemistry in quasi-solid-state Zn-I₂ batteries. It enables single-step I⁻/I₂ redox, suppresses polyiodides, and stabilizes Zn anodes over 1000 h. The strategy supports iodine-free cathodes and pouch-cell scaling, offering a paradigm shift toward safe, high-rate, durable batteries.&lt;br&gt;🏷 zinc-iodine battery · quasi-solid-state · kosmotropic effect · interfacial chemistry · single-step redox</description>
+<category>zinc-iodine battery</category>
+<category>quasi-solid-state</category>
+<category>kosmotropic effect</category>
+<category>interfacial chemistry</category>
+<category>single-step redox</category>
+</item>
 <item>
 <title>Cationic chain-anchored monolayer enables wide-temperature composite polymer electrolytes for lithium-metal batteries</title>
 <link>https://doi.org/10.1038/s41467-026-78048-0</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>localized high-concentration electrolyte</category>
 <category>polysulfide conversion</category>
 <category>solvation structure</category>
-</item>
-<item>
-<title>Tannic Acid–Fe 3+ Complex‑Sulfonate Coupled Hydrogel Electrolyte for Stable Zinc Anodes</title>
-<link>https://doi.org/10.1002/adma.75206</link>
-<guid isPermaLink="false">10.1002/adma.75206</guid>
-<pubDate>Wed, 30 Sep 2026 13:02:22 GMT</pubDate>
-<description>الکترولیت هیدروژلی تاننیک اسید-آهن/سولفونات با رسانایی بالا و عدد انتقال یون روی 0.91، آند روی را در باتری آبی پایدار می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tannic acid–Fe³⁺–sulfonate coupled hydrogel electrolyte that enables a three-tier defense against zinc corrosion, dendrites, and stress. Its significance is exceptional stability: 600 h cycling at 99.7% depth of discharge and 5200 full-cell cycles, offering a viable strategy for high-performance aqueous zinc batteries.&lt;br&gt;🏷 zinc anode · hydrogel electrolyte · tannic acid · dendrite suppression · aqueous battery</description>
-<category>zinc anode</category>
-<category>hydrogel electrolyte</category>
-<category>tannic acid</category>
-<category>dendrite suppression</category>
-<category>aqueous battery</category>
-</item>
-<item>
-<title>Pre-quenching chemistry for engineering solid electrolytes with high Li reversibility</title>
-<link>https://doi.org/10.1039/d6ee04129a</link>
-<guid isPermaLink="false">10.1039/d6ee04129a</guid>
-<pubDate>Wed, 30 Sep 2026 13:01:37 GMT</pubDate>
-<description>این مقاله یک شیمی پیش‌خاموشی برای مهندسی الکترولیت‌های جامد با برگشت‌پذیری بالای لیتیوم معرفی می‌کند که حاشیه اضافه‌ولتاژ کافی در برابر نفوذ Li فراهم می‌آورد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in pre-quenching chemistry that programmably tunes electrophile reactivity toward sulfide electrolytes, creating a protective interphase. This secures a sufficient overpotential margin against lithium intrusion, enabling high Li reversibility. It offers a rational design strategy for engineering durable solid electrolytes, advancing safe, high-energy solid-state batteries.&lt;br&gt;🏷 solid electrolyte · pre-quenching chemistry · lithium reversibility · sulfide electrolyte · overpotential</description>
-<category>solid electrolyte</category>
-<category>pre-quenching chemistry</category>
-<category>lithium reversibility</category>
-<category>sulfide electrolyte</category>
-<category>overpotential</category>
-</item>
-<item>
-<title>Visualizing Degradation in Anode-Free High-Capacity Aqueous Tin Metal Batteries Across Cell Lifetime</title>
-<link>https://doi.org/10.1039/d6ee04917f</link>
-<guid isPermaLink="false">10.1039/d6ee04917f</guid>
-<pubDate>Wed, 30 Sep 2026 13:01:29 GMT</pubDate>
-<description>این مقاله تخریب را در باتری‌های آبی بدون آند با ظرفیت بالا بر پایه قلع در طول عمر سلول تجسم می‌کند و رشد دندریتی و تکامل هیدروژن را بررسی می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This work uniquely visualizes how anode-free aqueous tin metal batteries degrade across their entire lifetime, linking operando imaging to capacity fade. It reveals that dendritic tin growth and parasitic hydrogen evolution jointly drive failure, offering critical mechanistic insight. The findings guide design strategies for high-energy-density aqueous batteries, advancing stable anode-free architectures.&lt;br&gt;🏷 anode-free battery · aqueous tin battery · electrodeposition · dendrite growth · hydrogen evolution</description>
-<category>anode-free battery</category>
-<category>aqueous tin battery</category>
-<category>electrodeposition</category>
-<category>dendrite growth</category>
-<category>hydrogen evolution</category>
 </item>
 </channel>
 </rss>
