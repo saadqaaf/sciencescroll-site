@@ -5,8 +5,45 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 08:01:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 09:03:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Demarcating the Effects of Aliphatic Ester Chain Lengths and Molecular Weight on Electrode–Electrolyte Interphase Formation for Wide-Temperature Operation of Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c10537</link>
+<guid isPermaLink="false">10.1021/jacs.6c10537</guid>
+<pubDate>Fri, 02 Oct 2026 09:02:37 GMT</pubDate>
+<description>اثر طول زنجیره استرهای آلیفاتیک بر تشکیل لایه بین‌سطحی الکترود-الکترولیت و عملکرد باتری لیتیوم-یون در دمای گسترده ۶۰- تا ۶۰+ درجه سانتی‌گراد بررسی شد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how aliphatic ester alkyl/alkoxy chain lengths govern electrolyte solvation, decomposition, and interphase formation in LIBs. It enables wide-temperature operation (−60 to +60 °C) via chain engineering, achieving 110 mAh g⁻¹ at −60 °C, and establishes a structure–property framework for designing tuned ester electrolytes, advancing wide-temperature battery performance.&lt;br&gt;🏷 lithium-ion battery · electrolyte · aliphatic ester · interphase · wide-temperature</description>
+<category>lithium-ion battery</category>
+<category>electrolyte</category>
+<category>aliphatic ester</category>
+<category>interphase</category>
+<category>wide-temperature</category>
+</item>
+<item>
+<title>Accelerated Electrolyte Engineering by Deep Learning: A Quaternary Ammonium Additive Enables Ultra-Stable Zinc Anodes</title>
+<link>https://doi.org/10.1021/acsnano.6c10344</link>
+<guid isPermaLink="false">10.1021/acsnano.6c10344</guid>
+<pubDate>Fri, 02 Oct 2026 09:02:08 GMT</pubDate>
+<description>چارچوب یادگیری عمیق برای غربالگری افزودنی‌های کواترنری آمونیوم، الکترولیت آبی روی با آند فوق‌پایدار و چرخه‌پذیری بیش از 1800 ساعت را معرفی می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work introduces GATGLP, a graph attention network predicting HOMO–LUMO gaps for scarce ionic molecules via transfer learning, enabling dual-descriptor screening of 378 quaternary ammonium additives. Validated [N8111]Br delivers ultra-stable zinc anodes (&amp;gt;1800 h), linking interfacial cation accumulation to uniform deposition. It pioneers deep-learning-guided electrolyte engineering, accelerating discovery beyond inefficient trial-and-error screening.&lt;br&gt;🏷 zinc anode · deep learning · electrolyte additive · quaternary ammonium · dendrite suppression</description>
+<category>zinc anode</category>
+<category>deep learning</category>
+<category>electrolyte additive</category>
+<category>quaternary ammonium</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Molecular Gating of the Reactive Water Topological Network for Stable Aqueous Zn Batteries</title>
+<link>https://doi.org/10.1002/anie.7342949</link>
+<guid isPermaLink="false">10.1002/anie.7342949</guid>
+<pubDate>Fri, 02 Oct 2026 09:01:47 GMT</pubDate>
+<description>HBN با تنظیم شبکه پیوند هیدروژنی آب، واکنش‌های جانبی را در باتری آبی Zn سرکوب کرده و چرخه‌پذیری و بازده کولنی بالا را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces molecular gating of water&amp;#x27;s hydrogen-bond network using 4-hydroxy-2-butanone as a dual-site modulator, fragmenting cooperative water domains and reshaping Zn2+ solvation. This topology-gated strategy suppresses proton-relay HER and alkaline passivation, enabling 99.12% Coulombic efficiency over 800 cycles and stable 1.0 Ah pouch cells, offering a new design principle for durable aqueous Zn batteries.&lt;br&gt;🏷 aqueous Zn battery · hydrogen-bond network · molecular gating · Zn deposition · electrolyte additive</description>
+<category>aqueous Zn battery</category>
+<category>hydrogen-bond network</category>
+<category>molecular gating</category>
+<category>Zn deposition</category>
+<category>electrolyte additive</category>
+</item>
 <item>
 <title>Adaptive Electrochemical Self‐Cleaning via Surface Reconstruction Enables Fluoride‐Free and Batch‐Consistent Cathode Regeneration</title>
 <link>https://doi.org/10.1002/adma.75182</link>
@@ -1171,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>Fe-Ce sites</category>
 <category>ORR stability</category>
 <category>ROS scavenging</category>
-</item>
-<item>
-<title>Recent Advances in Presodiation Strategies for Hard Carbon in Sodium‐Ion Batteries: Mechanisms of SEI Regulation and Electrochemical Performance</title>
-<link>https://doi.org/10.1002/smll.75966</link>
-<guid isPermaLink="false">10.1002/smll.75966</guid>
-<pubDate>Wed, 30 Sep 2026 08:04:25 GMT</pubDate>
-<description>مرور راهبردهای پیش‌سدیم‌گذاری فیزیکی، شیمیایی، الکتروشیمیایی و افزودنی فداشونده برای آند کربن سخت باتری‌های یون‌سدیم با تمرکز بر تنظیم و تکامل SEI و بهبود ICE.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely examines presodiation strategies through the lens of SEI formation and evolution in hard carbon anodes, linking interphase timing, composition, morphology, and spatial distribution to electrochemical performance. By connecting interfacial features with ICE, resistance, rate capability, and cycling stability, it identifies how presodiation conditions govern SEI development, offering guidance for practical sodium-ion battery design.&lt;br&gt;🏷 sodium-ion batteries · hard carbon anode · presodiation · solid electrolyte interphase · initial coulombic efficiency</description>
-<category>sodium-ion batteries</category>
-<category>hard carbon anode</category>
-<category>presodiation</category>
-<category>solid electrolyte interphase</category>
-<category>initial coulombic efficiency</category>
-</item>
-<item>
-<title>Plasma‐Assisted Amine‐Functionalized BNNT Stabilizing the Ni–CoTe@Ti 3 C 2 T x MXene Electrode for Flexible Supercapacitor</title>
-<link>https://doi.org/10.1002/smll.76040</link>
-<guid isPermaLink="false">10.1002/smll.76040</guid>
-<pubDate>Wed, 30 Sep 2026 08:03:49 GMT</pubDate>
-<description>الکترود Ni–CoTe/f-BNNT@MXene با پلاسمای Ar/NH3 برای ابرخازن نامتقارن انعطاف‌پذیر ساخته شد و چگالی انرژی 44 Wh/kg و پایداری 91% پس از 30000 چرخه نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in Ar/NH₃ plasma-functionalized BNNTs stabilizing Ni–CoTe heterostructures on MXene, preventing aggregation and restacking. This multidimensional design enables synergistic Faradaic and surface-controlled storage, yielding 44 Wh/kg, 5400 W/kg, and ~91% retention over 30,000 cycles. It significantly advances durable, high-performance flexible supercapacitors.&lt;br&gt;🏷 supercapacitor · MXene · BNNT · plasma functionalization · Ni-CoTe</description>
-<category>supercapacitor</category>
-<category>MXene</category>
-<category>BNNT</category>
-<category>plasma functionalization</category>
-<category>Ni-CoTe</category>
-</item>
-<item>
-<title>Reprogramming Interfacial Hydrogen-Bond Networks via Asymmetric Single-Atom Catalysts</title>
-<link>https://doi.org/10.1021/acscatal.6c04933</link>
-<guid isPermaLink="false">10.1021/acscatal.6c04933</guid>
-<pubDate>Wed, 30 Sep 2026 08:03:32 GMT</pubDate>
-<description>کاتالیزور تک‌اتمی نامتقارن Co-N3O1 با بازبرنامه‌ریزی شبکه پیوند هیدروژنی بین‌سطحی، احیای اکسیژن و عملکرد باتری روی-هوا را بهبود می‌بخشد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;💡 Asymmetric Co-N3O1 single-atom sites, formed via rapid Joule heating, break local symmetry to reprogram interfacial hydrogen-bond networks, weakening over-connected water networks and boosting proton transfer. This yields superior four-electron oxygen reduction (0.866 V half-wave) and high-performance zinc-air batteries, establishing asymmetric single-atom modulation as a new paradigm for catalyst-water interface engineering.&lt;br&gt;🏷 single-atom catalyst · hydrogen-bond network · oxygen reduction · zinc-air battery · Co-N3O1</description>
-<category>single-atom catalyst</category>
-<category>hydrogen-bond network</category>
-<category>oxygen reduction</category>
-<category>zinc-air battery</category>
-<category>Co-N3O1</category>
 </item>
 </channel>
 </rss>
