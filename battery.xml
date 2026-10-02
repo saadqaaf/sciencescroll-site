@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 14:01:23 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 15:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Construction and Regulation of Defect Electrocatalysts for Rechargeable Li–O 2 Batteries</title>
+<link>https://doi.org/10.1002/adma.75179</link>
+<guid isPermaLink="false">10.1002/adma.75179</guid>
+<pubDate>Fri, 02 Oct 2026 15:01:44 GMT</pubDate>
+<description>این مرور، پیشرفت‌های اخیر در الکتروکاتالیست‌های نقص‌دار برای باتری‌های Li-O2 قابل شارژ و نقش نقص‌ها در تنظیم ساختار الکترونی را جمع‌بندی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates defect engineering strategies for Li–O₂ battery cathodes, linking defect types to electronic structure modulation, interfacial synergy, and stability. It establishes clear structure–activity–performance relationships, offering rational design guidance. Its significance lies in advancing high-energy LOB technologies by addressing sluggish ORR/OER kinetics and outlining future catalyst systems and remaining challenges.&lt;br&gt;🏷 Li-O2 battery · defect electrocatalyst · oxygen reduction · oxygen evolution · electronic structure</description>
+<category>Li-O2 battery</category>
+<category>defect electrocatalyst</category>
+<category>oxygen reduction</category>
+<category>oxygen evolution</category>
+<category>electronic structure</category>
+</item>
+<item>
+<title>Elastic Ion‐Conducting Layer Enables Stable Si‐Based All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/adma.75157</link>
+<guid isPermaLink="false">10.1002/adma.75157</guid>
+<pubDate>Fri, 02 Oct 2026 15:01:29 GMT</pubDate>
+<description>لایه الاستیک رسانای یون روی Si، تماس الاستیک بازیابی‌پذیر ایجاد کرده و باتری تمام‌حالت‌جامد Si با ۱۰۰۰۰ چرخه پایدار را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is an elastic ion-conducting block copolymer layer on Si that converts the rigid Si/sulfide electrolyte interface into a conformal, recoverable contact while building a 3D ion network. This dual stress-buffering and ion-transport function enables 10,000-cycle full-cell stability and 91% capacity retention after 650 cycles in a 0.6 Ah pouch cell, advancing Si-based all-solid-state battery commercialization.&lt;br&gt;🏷 all-solid-state battery · silicon anode · elastic ion-conducting layer · sulfide electrolyte · interface stability</description>
+<category>all-solid-state battery</category>
+<category>silicon anode</category>
+<category>elastic ion-conducting layer</category>
+<category>sulfide electrolyte</category>
+<category>interface stability</category>
+</item>
 <item>
 <title>An organic additive strategy for high-performance and durable alkaline zinc/ferricyanide flow batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.124889</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>experiment design</category>
 <category>battery modeling</category>
 <category>identifiability</category>
-</item>
-<item>
-<title>Manipulating Zn2+/H+ migration kinetics and anode interfacial stability via bio-derived gelatin toward robust aqueous Zn metal batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124939</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124939</guid>
-<pubDate>Wed, 30 Sep 2026 09:01:34 GMT</pubDate>
-<description>با استفاده از ژلاتین زیست‌مشتق، سینتیک مهاجرت Zn2+/H+ و پایداری سطح آند در باتری‌های آبی روی بهبود می‌یابد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous Zn battery · gelatin additive · Zn2+/H+ migration · anode interface · dendrite suppression</description>
-<category>aqueous Zn battery</category>
-<category>gelatin additive</category>
-<category>Zn2+/H+ migration</category>
-<category>anode interface</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Anion Engineering of Sulfide Solid Electrolytes: From Fundamentals to High‐Performance All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/smll.76005</link>
-<guid isPermaLink="false">10.1002/smll.76005</guid>
-<pubDate>Wed, 30 Sep 2026 08:04:42 GMT</pubDate>
-<description>مرور جامع مهندسی آنیونی الکترولیت‌های جامد سولفیدی، نقش زیرشبکه آنیونی در رسانش یون لیتیم و راهبردهای جانشینی و اصلاح آنیون برای باتری‌های تمام‌جامد کارآمد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates anion engineering strategies for sulfide solid electrolytes, linking anionic sublattice design to ionic transport, stability, and interfacial behavior. Its significance lies in systematically bridging fundamental conduction mechanisms with practical battery performance, offering a roadmap for scalable, high-performance all-solid-state batteries.&lt;br&gt;🏷 sulfide solid electrolytes · anion engineering · all-solid-state batteries · lithium-ion conduction · interfacial compatibility</description>
-<category>sulfide solid electrolytes</category>
-<category>anion engineering</category>
-<category>all-solid-state batteries</category>
-<category>lithium-ion conduction</category>
-<category>interfacial compatibility</category>
 </item>
 </channel>
 </rss>
