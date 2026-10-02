@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 18:01:22 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 19:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cationic chain-anchored monolayer enables wide-temperature composite polymer electrolytes for lithium-metal batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78048-0</link>
+<guid isPermaLink="false">10.1038/s41467-026-78048-0</guid>
+<pubDate>Fri, 02 Oct 2026 19:01:20 GMT</pubDate>
+<description>الکترولیت پلیمری کامپوزیتی با مونولایه کاتیونی زنجیره‌ای برای باتری‌های لیتیوم-فلز در دمای گسترده عمل می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a cationic chain-anchored monolayer that creates single-ion-like, solvent-phobic transport channels in composite polymer electrolytes. This yields low activation energy (0.092 eV) and high Li⁺ transference (0.78), enabling stable cycling from −25 to 120 °C. It offers a significant strategy for wide-temperature solid-state lithium-metal batteries.&lt;br&gt;🏷 composite polymer electrolyte · lithium-metal battery · cationic chain-anchored monolayer · wide-temperature · solid electrolyte</description>
+<category>composite polymer electrolyte</category>
+<category>lithium-metal battery</category>
+<category>cationic chain-anchored monolayer</category>
+<category>wide-temperature</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Ultrahigh-Performance Implantable Sono-Piezoelectric Nanogenerators Based on Core@Dendritic Shell Ferroelectric Nanocomposites for Battery-Free and Wireless-Powered Bioelectronics</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112460</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112460</guid>
+<pubDate>Fri, 02 Oct 2026 19:01:09 GMT</pubDate>
+<description>نانوژنراتورهای کاشتنی سونو-پیزوالکتریک بر پایه نانوکامپوزیت‌های فروالکتریک با پوسته دندریتی برای الکترونیک زیستی بدون باتری و بی‌سیم ارائه شده است.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sono-piezoelectric nanogenerator · ferroelectric nanocomposite · implantable bioelectronics · battery-free · wireless power</description>
+<category>sono-piezoelectric nanogenerator</category>
+<category>ferroelectric nanocomposite</category>
+<category>implantable bioelectronics</category>
+<category>battery-free</category>
+<category>wireless power</category>
+</item>
 <item>
 <title>Modeling Approaches for Polymer-Based Electrolytes in Advanced Batteries: Bridging Processing, Structure, and Performance</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02246</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>electrodeposition</category>
 <category>dendrite growth</category>
 <category>hydrogen evolution</category>
-</item>
-<item>
-<title>Rare-Earth-Mediated High-Entropy Engineering Enables Ultra-Stable High-Rate Layered Oxide Cathodes for Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta05112j</link>
-<guid isPermaLink="false">10.1039/d6ta05112j</guid>
-<pubDate>Wed, 30 Sep 2026 11:01:23 GMT</pubDate>
-<description>مهندسی آنتروپی بالا با واسطه عناصر خاکی کمیاب، کاتدهای اکسید لایه‌ای پایدار برای باتری‌های سدیم-یون را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Rare-earth-mediated high-entropy engineering stabilizes O3-type layered oxide cathodes, suppressing phase transitions and enabling ultra-stable high-rate sodium-ion battery performance. This advances practical SIB cathodes.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · high-entropy engineering · rare-earth doping · cycling stability</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>high-entropy engineering</category>
-<category>rare-earth doping</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Synergistic effects of electrolyte additives and electrode compression on vanadium redox flow battery performance</title>
-<link>https://doi.org/10.1016/j.est.2026.124824</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124824</guid>
-<pubDate>Wed, 30 Sep 2026 09:01:53 GMT</pubDate>
-<description>اثرات هم‌افزای افزودنی‌های الکترولیت و فشردگی الکترود بر عملکرد باتری جریان ردوکس وانادیوم بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · electrolyte additives · electrode compression · synergistic effects · performance</description>
-<category>vanadium redox flow battery</category>
-<category>electrolyte additives</category>
-<category>electrode compression</category>
-<category>synergistic effects</category>
-<category>performance</category>
 </item>
 </channel>
 </rss>
