@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 20:04:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 21:01:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Degradation-informed feature-graph selective state-space network for state-of-health estimation of lithium-ion batteries under fast-charging conditions</title>
+<link>https://doi.org/10.1016/j.est.2026.124950</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124950</guid>
+<pubDate>Fri, 02 Oct 2026 21:01:46 GMT</pubDate>
+<description>این مقاله یک شبکه حالت-فضای گزینشی مبتنی بر گراف ویژگی و آگاه از تخریب را برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون در شرایط شارژ سریع ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state-of-health estimation · fast charging · state-space network · feature graph</description>
+<category>lithium-ion battery</category>
+<category>state-of-health estimation</category>
+<category>fast charging</category>
+<category>state-space network</category>
+<category>feature graph</category>
+</item>
 <item>
 <title>Intramolecular charge redistribution of phosphate anions enabling ultrahigh-voltage lithium metal battery of 600 Wh kg −1</title>
 <link>https://doi.org/10.1126/sciadv.aei9659</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>niobium doping</category>
 <category>high-voltage cycling</category>
 <category>pouch cell</category>
-</item>
-<item>
-<title>Decoupling Quasi‐Solid‐State Sulfur Conversion Mechanisms in Weakly Solvating and Locally High Concentration Electrolytes</title>
-<link>https://doi.org/10.1002/aenm.71651</link>
-<guid isPermaLink="false">10.1002/aenm.71651</guid>
-<pubDate>Wed, 30 Sep 2026 14:01:18 GMT</pubDate>
-<description>مقایسه الکترولیت‌های CME-TTE و G2-TTE در باتری Li-S نشان می‌دهد G2-TTE با انتقال یون و تبدیل بین‌سطحی مؤثرتر، ظرفیت بالای 900 mAh g-1 و بازده کولنی نزدیک 100% را حفظ می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study decouples quasi-solid-state sulfur conversion by comparing weakly solvating CME–TTE with locally high-concentration G2–TTE electrolytes. It links coordination connectivity, anion participation, and ion transport to electrochemical behavior, showing G2–TTE enables superior interfacial conversion, &amp;gt;900 mAh g⁻¹ over 200 cycles, and a lean-electrolyte pouch cell. These findings establish coupled coordination–transport design principles for practical Li–S batteries.&lt;br&gt;🏷 Li-S batteries · weakly solvating electrolyte · localized high-concentration electrolyte · polysulfide conversion · solvation structure</description>
-<category>Li-S batteries</category>
-<category>weakly solvating electrolyte</category>
-<category>localized high-concentration electrolyte</category>
-<category>polysulfide conversion</category>
-<category>solvation structure</category>
 </item>
 </channel>
 </rss>

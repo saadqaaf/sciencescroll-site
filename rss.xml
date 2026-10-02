@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 20:04:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 21:01:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Degradation-informed feature-graph selective state-space network for state-of-health estimation of lithium-ion batteries under fast-charging conditions</title>
+<link>https://doi.org/10.1016/j.est.2026.124950</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124950</guid>
+<pubDate>Fri, 02 Oct 2026 21:01:46 GMT</pubDate>
+<description>این مقاله یک شبکه حالت-فضای گزینشی مبتنی بر گراف ویژگی و آگاه از تخریب را برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون در شرایط شارژ سریع ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state-of-health estimation · fast charging · state-space network · feature graph</description>
+<category>lithium-ion battery</category>
+<category>state-of-health estimation</category>
+<category>fast charging</category>
+<category>state-space network</category>
+<category>feature graph</category>
+</item>
+<item>
+<title>A multifunctional Janus metamaterial with a tunable anisotropic layer for universal Laplacian field control</title>
+<link>https://doi.org/10.1039/d6mh01631f</link>
+<guid isPermaLink="false">10.1039/d6mh01631f</guid>
+<pubDate>Fri, 02 Oct 2026 21:01:40 GMT</pubDate>
+<description>یک متاماده Janus دوجزئی و قابل تنظیم، کنترل میدان‌های لاپلاسی مانند گرما و الکتریسیته را با قابلیت تغییر بین تمرکز، چرخش و شفافیت فراهم می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 Janus metamaterial · Laplacian field control · anisotropic layer · thermal-electric field · tunable bilayer</description>
+<category>Janus metamaterial</category>
+<category>Laplacian field control</category>
+<category>anisotropic layer</category>
+<category>thermal-electric field</category>
+<category>tunable bilayer</category>
+</item>
 <item>
 <title>Synergistic Carbon Core–Chromophore Architecture: From Broadband UV-Blue Light Shielding to Multifunctional Applications</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122183</link>
@@ -1182,30 +1206,6 @@
 <category>near-infrared emission</category>
 <category>operational stability</category>
 <category>crystallization control</category>
-</item>
-<item>
-<title>An organic additive strategy for high-performance and durable alkaline zinc/ferricyanide flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124889</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124889</guid>
-<pubDate>Fri, 02 Oct 2026 11:01:20 GMT</pubDate>
-<description>این تحقیق یک استراتژی افزودنی آلی را برای بهبود عملکرد و دوام باتری‌های جریان‌ی روی/فری‌سیانید قلیایی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc/ferricyanide flow battery · organic additive · alkaline electrolyte · durability · high performance</description>
-<category>zinc/ferricyanide flow battery</category>
-<category>organic additive</category>
-<category>alkaline electrolyte</category>
-<category>durability</category>
-<category>high performance</category>
-</item>
-<item>
-<title>Techno-economic assessment of converting a coal-fired power plant into a renewable solar power plant with thermal energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124913</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124913</guid>
-<pubDate>Fri, 02 Oct 2026 11:01:15 GMT</pubDate>
-<description>این مقاله ارزیابی فنی-اقتصادی تبدیل یک نیروگاه زغال‌سنگ به نیروگاه خورشیدی تجدیدپذیر با ذخیره‌سازی انرژی حرارتی را ارائه می‌دهد و امکان‌سنجی آن را تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 coal-fired power plant · solar power plant · thermal energy storage · techno-economic assessment · renewable energy</description>
-<category>coal-fired power plant</category>
-<category>solar power plant</category>
-<category>thermal energy storage</category>
-<category>techno-economic assessment</category>
-<category>renewable energy</category>
 </item>
 </channel>
 </rss>
