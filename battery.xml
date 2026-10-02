@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 17:01:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 18:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Modeling Approaches for Polymer-Based Electrolytes in Advanced Batteries: Bridging Processing, Structure, and Performance</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02246</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02246</guid>
+<pubDate>Fri, 02 Oct 2026 18:01:18 GMT</pubDate>
+<description>این Perspective چارچوبی برای مدل‌سازی الکترولیت‌های پلیمری در باتری‌ها ارائه می‌دهد و بر پیوند فرآوری، ساختار، انتقال یون و عملکرد تأکید می‌کند.&lt;br&gt;ACS Energy Letters | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This Perspective introduces a four-dimensional framework—objective, basis, scale, and process coupling—to classify modeling of polymer-based electrolytes. Using ionogels and composite electrodes, it exposes gaps in material-state definition, experiment-model transfer, structural representation, and process coupling. Its significance lies in advocating transparent, experimentally anchored workflows linking formulation, processing, structure, transport, and performance, rather than isolated models.&lt;br&gt;🏷 polymer electrolytes · batteries · modeling · processing-structure · ion transport</description>
+<category>polymer electrolytes</category>
+<category>batteries</category>
+<category>modeling</category>
+<category>processing-structure</category>
+<category>ion transport</category>
+</item>
 <item>
 <title>Construction and Regulation of Defect Electrocatalysts for Rechargeable Li–O 2 Batteries</title>
 <link>https://doi.org/10.1002/adma.75179</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>electrode compression</category>
 <category>synergistic effects</category>
 <category>performance</category>
-</item>
-<item>
-<title>Informative experiment design for parameter estimation of the Doyle–Fuller–Newman battery model</title>
-<link>https://doi.org/10.1016/j.est.2026.124858</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124858</guid>
-<pubDate>Wed, 30 Sep 2026 09:01:43 GMT</pubDate>
-<description>این مقاله یک روش طراحی آزمایش اطلاعاتی برای تخمین پارامترهای مدل باتری Doyle-Fuller-Newman ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 DFN model · parameter estimation · experiment design · battery modeling · identifiability</description>
-<category>DFN model</category>
-<category>parameter estimation</category>
-<category>experiment design</category>
-<category>battery modeling</category>
-<category>identifiability</category>
 </item>
 </channel>
 </rss>
