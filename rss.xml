@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 04:01:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Adaptive Electrochemical Self‐Cleaning via Surface Reconstruction Enables Fluoride‐Free and Batch‐Consistent Cathode Regeneration</title>
+<link>https://doi.org/10.1002/adma.75182</link>
+<guid isPermaLink="false">10.1002/adma.75182</guid>
+<pubDate>Fri, 02 Oct 2026 05:01:12 GMT</pubDate>
+<description>یک راهبرد خودتمیزکاری الکتروشیمیایی با بازسازی سطح، حذف آلاینده‌های فلوئوره و بازیافت مستقیم کاتد NMC532 را با ظرفیت ۱۴۵٫۱ mAh/g و یکنواختی بین‌دسته‌ای بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces electrochemically driven self-cleaning for direct cathode recycling, using anodic surface reconstruction to eliminate fluorinated impurities without fluoride reagents. It achieves fluoride-free NMC532 regeneration with commercial-grade capacity and under 1.3% batch variation, far surpassing conventional recycling. The strategy is scalable and applicable across cathode chemistries, enabling impurity-free, high-performance battery material regeneration.&lt;br&gt;🏷 direct recycling · NMC532 cathode · fluoride removal · surface reconstruction · electrochemical self-cleaning</description>
+<category>direct recycling</category>
+<category>NMC532 cathode</category>
+<category>fluoride removal</category>
+<category>surface reconstruction</category>
+<category>electrochemical self-cleaning</category>
+</item>
+<item>
+<title>Solid‐Solution Reactions in Layer‐Structured Oxide Cathodes Driven by Local Disorder and Electron Delocalization</title>
+<link>https://doi.org/10.1002/adma.75238</link>
+<guid isPermaLink="false">10.1002/adma.75238</guid>
+<pubDate>Fri, 02 Oct 2026 05:01:07 GMT</pubDate>
+<description>یک اکسید لایه‌ای با بی‌نظمی موضعی و دوپینگ بور از طریق کوئنچ ساخته شد که با بی‌نظمی موضعی و جابه‌جایی الکترون، واکنش محلول جامد برگشت‌پذیر و پایدار در کاتد باتری یون پتاسیم ایجاد می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a quenching-assisted boron incorporation strategy that creates local disorder and electron delocalization in layered oxide cathodes. By stabilizing the transition metal framework and suppressing destructive phase transitions, it enables a reversible solid-solution reaction pathway, offering new theoretical insights for designing long-life, high-performance cathode materials.&lt;br&gt;🏷 layered oxide cathode · solid-solution reaction · local disorder · electron delocalization · potassium-ion battery</description>
+<category>layered oxide cathode</category>
+<category>solid-solution reaction</category>
+<category>local disorder</category>
+<category>electron delocalization</category>
+<category>potassium-ion battery</category>
+</item>
+<item>
+<title>Dynamical Low-Rank Matrix and Tensor-Network Methods in Fluid Mechanics</title>
+<link>https://doi.org/10.1146/annurev-fluid-112823-115052</link>
+<guid isPermaLink="false">10.1146/annurev-fluid-112823-115052</guid>
+<pubDate>Fri, 02 Oct 2026 05:01:02 GMT</pubDate>
+<description>این مرور مبانی ریاضی، الگوریتم‌ها و کاربردهای تقریب دینامیکی کم‌رتبه، شبکه‌های تنسوری و درون‌یابی متقاطع را در مکانیک سیالات بررسی می‌کند.&lt;br&gt;Annual Review of Fluid Mechanics | ⭐ Review&lt;br&gt;🏷 dynamical low-rank approximation · tensor networks · cross interpolation · fluid mechanics · reduced-order models</description>
+<category>dynamical low-rank approximation</category>
+<category>tensor networks</category>
+<category>cross interpolation</category>
+<category>fluid mechanics</category>
+<category>reduced-order models</category>
+</item>
 <item>
 <title>Micro-nano biphasic conductive stress adaptive cathode for sodium ion batteries</title>
 <link>https://doi.org/10.1016/j.esci.2026.100651</link>
@@ -1174,27 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 dark-field microscopy · 
 <link>https://doi.org/10.1038/s41593-026-02476-w</link>
 <guid isPermaLink="false">10.1038/s41593-026-02476-w</guid>
 <pubDate>Thu, 01 Oct 2026 21:31:23 GMT</pubDate>
-<description>Nature Neuroscience | 🔬 Research Article</description>
-</item>
-<item>
-<title>In conversation with Grégoire Courtine</title>
-<link>https://doi.org/10.1038/s41593-026-02459-x</link>
-<guid isPermaLink="false">10.1038/s41593-026-02459-x</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:20 GMT</pubDate>
-<description>Nature Neuroscience | 🔬 Research Article</description>
-</item>
-<item>
-<title>Different functional connectivity gradients reflect aging and Alzheimer’s disease</title>
-<link>https://doi.org/10.1038/s41593-026-02402-0</link>
-<guid isPermaLink="false">10.1038/s41593-026-02402-0</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:16 GMT</pubDate>
-<description>Nature Neuroscience | 🔬 Research Article | 🔓 Open Access</description>
-</item>
-<item>
-<title>In conversation with Richard Andersen</title>
-<link>https://doi.org/10.1038/s41593-026-02450-6</link>
-<guid isPermaLink="false">10.1038/s41593-026-02450-6</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:13 GMT</pubDate>
 <description>Nature Neuroscience | 🔬 Research Article</description>
 </item>
 </channel>

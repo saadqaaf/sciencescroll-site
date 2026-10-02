@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 04:01:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Adaptive Electrochemical Self‐Cleaning via Surface Reconstruction Enables Fluoride‐Free and Batch‐Consistent Cathode Regeneration</title>
+<link>https://doi.org/10.1002/adma.75182</link>
+<guid isPermaLink="false">10.1002/adma.75182</guid>
+<pubDate>Fri, 02 Oct 2026 05:01:12 GMT</pubDate>
+<description>یک راهبرد خودتمیزکاری الکتروشیمیایی با بازسازی سطح، حذف آلاینده‌های فلوئوره و بازیافت مستقیم کاتد NMC532 را با ظرفیت ۱۴۵٫۱ mAh/g و یکنواختی بین‌دسته‌ای بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces electrochemically driven self-cleaning for direct cathode recycling, using anodic surface reconstruction to eliminate fluorinated impurities without fluoride reagents. It achieves fluoride-free NMC532 regeneration with commercial-grade capacity and under 1.3% batch variation, far surpassing conventional recycling. The strategy is scalable and applicable across cathode chemistries, enabling impurity-free, high-performance battery material regeneration.&lt;br&gt;🏷 direct recycling · NMC532 cathode · fluoride removal · surface reconstruction · electrochemical self-cleaning</description>
+<category>direct recycling</category>
+<category>NMC532 cathode</category>
+<category>fluoride removal</category>
+<category>surface reconstruction</category>
+<category>electrochemical self-cleaning</category>
+</item>
+<item>
+<title>Solid‐Solution Reactions in Layer‐Structured Oxide Cathodes Driven by Local Disorder and Electron Delocalization</title>
+<link>https://doi.org/10.1002/adma.75238</link>
+<guid isPermaLink="false">10.1002/adma.75238</guid>
+<pubDate>Fri, 02 Oct 2026 05:01:07 GMT</pubDate>
+<description>یک اکسید لایه‌ای با بی‌نظمی موضعی و دوپینگ بور از طریق کوئنچ ساخته شد که با بی‌نظمی موضعی و جابه‌جایی الکترون، واکنش محلول جامد برگشت‌پذیر و پایدار در کاتد باتری یون پتاسیم ایجاد می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a quenching-assisted boron incorporation strategy that creates local disorder and electron delocalization in layered oxide cathodes. By stabilizing the transition metal framework and suppressing destructive phase transitions, it enables a reversible solid-solution reaction pathway, offering new theoretical insights for designing long-life, high-performance cathode materials.&lt;br&gt;🏷 layered oxide cathode · solid-solution reaction · local disorder · electron delocalization · potassium-ion battery</description>
+<category>layered oxide cathode</category>
+<category>solid-solution reaction</category>
+<category>local disorder</category>
+<category>electron delocalization</category>
+<category>potassium-ion battery</category>
+</item>
 <item>
 <title>Micro-nano biphasic conductive stress adaptive cathode for sodium ion batteries</title>
 <link>https://doi.org/10.1016/j.esci.2026.100651</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>oxygen reduction</category>
 <category>zinc-air battery</category>
 <category>Co-N3O1</category>
-</item>
-<item>
-<title>Oxygen Partial Pressure as a Kinetic Descriptor for Single‐Crystal Morphology in Mid‐Nickel Layered Cathodes</title>
-<link>https://doi.org/10.1002/advs.78080</link>
-<guid isPermaLink="false">10.1002/advs.78080</guid>
-<pubDate>Wed, 30 Sep 2026 08:02:29 GMT</pubDate>
-<description>فشار جزئی اکسیژن به‌عنوان توصیفگر سینتیکی، رشد دانه را در کاتدهای لایه‌ای نیکل متوسط کنترل کرده و با کلسیناسیون متوالی هوا-اکسیژن، پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes oxygen partial pressure as a quantitative kinetic descriptor governing densification versus grain-growth competition in mid-nickel layered cathodes. By coupling calcination experiments with phase-field modeling, it proposes an air–oxygen sequential process that overcomes single-atmosphere trade-offs, enabling time-efficient single-crystal formation with improved cycling stability (83.04% retention versus ~77%). This offers a scalable, predictive route for durable single-crystal cathode synthesis.&lt;br&gt;🏷 single-crystal cathode · oxygen partial pressure · grain growth · calcination · lithium-ion battery</description>
-<category>single-crystal cathode</category>
-<category>oxygen partial pressure</category>
-<category>grain growth</category>
-<category>calcination</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Calorimetric and Quasielastic Neutron Scattering Studies on a Mg-Ion Conductor Using a Metal–Organic Framework MIL-101 Involving Acetonitrile</title>
-<link>https://doi.org/10.1021/jacs.6c11926</link>
-<guid isPermaLink="false">10.1021/jacs.6c11926</guid>
-<pubDate>Wed, 30 Sep 2026 07:03:22 GMT</pubDate>
-<description>مطالعه کالری‌سنجی و QENS دینامیک مولکول‌های استونیتریل و گذار فاز در رسانای Mg2+ بر پایه MOF MIL-101 را روشن می‌کند.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study reveals how acetonitrile dynamics in MIL-101/Mg(TFSI)2 enable high Mg2+ conductivity. Novelty lies in linking calorimetric glass transitions and QENS-derived jump diffusion to Mg2+-AN coordination. Significance: demonstrates that AN coordination shields electrostatic interactions, enhancing Mg2+ mobility, offering design principles for solid Mg conductors.&lt;br&gt;🏷 Mg-ion conductor · MOF MIL-101 · quasielastic neutron scattering · acetonitrile dynamics · heat capacity</description>
-<category>Mg-ion conductor</category>
-<category>MOF MIL-101</category>
-<category>quasielastic neutron scattering</category>
-<category>acetonitrile dynamics</category>
-<category>heat capacity</category>
 </item>
 </channel>
 </rss>
