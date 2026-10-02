@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 06:01:08 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 07:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Identifying priorities for advancing SDGs in Africa</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.002</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.002</guid>
+<pubDate>Fri, 02 Oct 2026 07:01:12 GMT</pubDate>
+<description>این مقاله اولویت‌های پیشبرد اهداف توسعه پایدار (SDGs) در آفریقا را شناسایی می‌کند.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 SDGs · Africa · priorities · sustainable development · policy</description>
+<category>SDGs</category>
+<category>Africa</category>
+<category>priorities</category>
+<category>sustainable development</category>
+<category>policy</category>
+</item>
+<item>
+<title>Genomic evidence resolves diversification and fossil taxonomic ambiguities of endangered East Asian gazelles</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.001</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.001</guid>
+<pubDate>Fri, 02 Oct 2026 07:01:09 GMT</pubDate>
+<description>شواهد ژنومی، تنوع‌زایی و ابهامات تاکسونومی فسیلی آهوهای در خطر انقراض شرق آسیا را روشن می‌کند.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 East Asian gazelles · genomic evidence · diversification · fossil taxonomy · conservation</description>
+<category>East Asian gazelles</category>
+<category>genomic evidence</category>
+<category>diversification</category>
+<category>fossil taxonomy</category>
+<category>conservation</category>
+</item>
 <item>
 <title>Correlative microscopy reveals chemical short-range order and native oxide in medium-entropy alloys</title>
 <link>https://doi.org/10.1016/j.mattod.2026.103524</link>
@@ -1192,30 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 dark-field microscopy · 
 <category>dyad preassembly</category>
 <category>transient radicals</category>
 <category>photoredox</category>
-</item>
-<item>
-<title>Brain stimulation boosts CSF flow</title>
-<link>https://doi.org/10.1038/s41593-026-02477-9</link>
-<guid isPermaLink="false">10.1038/s41593-026-02477-9</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:39 GMT</pubDate>
-<description>تحریک مغزی جریان مایع مغزی-نخاعی را افزایش می‌دهد و به پاکسازی مغز کمک می‌کند.&lt;br&gt;Nature Neuroscience | 🔬 Research Article&lt;br&gt;🏷 brain stimulation · CSF flow · glymphatic system · neural stimulation · fluid dynamics</description>
-<category>brain stimulation</category>
-<category>CSF flow</category>
-<category>glymphatic system</category>
-<category>neural stimulation</category>
-<category>fluid dynamics</category>
-</item>
-<item>
-<title>WHOLISTIC tracks the entire body</title>
-<link>https://doi.org/10.1038/s41593-026-02478-8</link>
-<guid isPermaLink="false">10.1038/s41593-026-02478-8</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:34 GMT</pubDate>
-<description>WHOLISTIC روشی برای ردیابی هم‌زمان کل بدن و سیگنال‌های عصبی ارائه می‌کند.&lt;br&gt;Nature Neuroscience | 🔬 Research Article&lt;br&gt;🏷 WHOLISTIC · whole-body imaging · neurotechnology · body tracking · neural interface</description>
-<category>WHOLISTIC</category>
-<category>whole-body imaging</category>
-<category>neurotechnology</category>
-<category>body tracking</category>
-<category>neural interface</category>
 </item>
 </channel>
 </rss>
