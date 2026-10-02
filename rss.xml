@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 22:00:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering magnetic soft materials for biomedical applications</title>
+<link>https://doi.org/10.1038/s41578-026-00963-x</link>
+<guid isPermaLink="false">10.1038/s41578-026-00963-x</guid>
+<pubDate>Fri, 02 Oct 2026 23:01:06 GMT</pubDate>
+<description>این مقاله مروری به مهندسی مواد نرم مغناطیسی برای کاربردهای زیست‌پزشکی مانند رباتیک نرم، دارورسانی و مهندسی بافت می‌پردازد.&lt;br&gt;Nature Reviews Materials | ⭐ Review&lt;br&gt;🏷 magnetic soft materials · biomedical applications · soft robotics · drug delivery · tissue engineering</description>
+<category>magnetic soft materials</category>
+<category>biomedical applications</category>
+<category>soft robotics</category>
+<category>drug delivery</category>
+<category>tissue engineering</category>
+</item>
+<item>
+<title>Dispersion-Free, Particle-Level CNT Networks via In Situ Growth on LiFePO₄ for Stable High-Loading Dry Electrodes</title>
+<link>https://doi.org/10.1039/d6ta04601k</link>
+<guid isPermaLink="false">10.1039/d6ta04601k</guid>
+<pubDate>Fri, 02 Oct 2026 23:01:03 GMT</pubDate>
+<description>الکترودهای خشک LiFePO4 با بارگذاری بالا از طریق رشد درجای شبکه‌های CNT در سطح ذرات، بدون پراکندگی، برای پایداری چرخه‌ای طولانی ساخته شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 In situ growth of carbon nanotubes directly on LiFePO₄ eliminates dispersion steps, creating particle-level conductive networks for solvent-free dry electrodes. This enables thick, high-loading electrodes with stable cycling by simultaneously addressing electronic connectivity and mechanical integrity without solvent processing, offering a scalable route to sustainable, high-energy-density lithium-ion batteries.&lt;br&gt;🏷 dry electrode · LiFePO4 · carbon nanotube · high loading · cycling stability</description>
+<category>dry electrode</category>
+<category>LiFePO4</category>
+<category>carbon nanotube</category>
+<category>high loading</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Interfacial engineering of cellulose acetate mixed matrix membranes via a CoNi-ZIF-67@Fe-MIL-100 heterostructure for highly selective and stable CO2 separation</title>
+<link>https://doi.org/10.1039/d6ta06597j</link>
+<guid isPermaLink="false">10.1039/d6ta06597j</guid>
+<pubDate>Fri, 02 Oct 2026 23:00:58 GMT</pubDate>
+<description>مهندسی سطحی غشاهای ماتریس مختلط استات سلولز با هتروساختار CoNi-ZIF-67@Fe-MIL-100 برای جداسازی CO2 با گزینش‌پذیری بالا و پایداری انجام شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 mixed matrix membrane · CO2 separation · CoNi-ZIF-67 · Fe-MIL-100 · interfacial engineering</description>
+<category>mixed matrix membrane</category>
+<category>CO2 separation</category>
+<category>CoNi-ZIF-67</category>
+<category>Fe-MIL-100</category>
+<category>interfacial engineering</category>
+</item>
 <item>
 <title>Disordered Near-Field Metasurfaces for On-Chip Wavelength Demultiplexing</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03564</link>
@@ -1170,42 +1206,6 @@
 <category>interpretable machine learning</category>
 <category>PEC water splitting</category>
 <category>performance optimization</category>
-</item>
-<item>
-<title>Multi-oxirane additives as property modifiers for DGEBA-based structural electrolytes</title>
-<link>https://doi.org/10.1039/d6ta02802k</link>
-<guid isPermaLink="false">10.1039/d6ta02802k</guid>
-<pubDate>Fri, 02 Oct 2026 13:01:08 GMT</pubDate>
-<description>افزودن افزودنی‌های اپوکسی چندحلقه‌ای به الکترولیت‌های ساختاری بر پایه DGEBA ریزساختار، خواص مکانیکی و رسانایی یونی را تغییر می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 structural electrolytes · DGEBA · multi-oxirane additives · ionic conductivity · mechanical properties</description>
-<category>structural electrolytes</category>
-<category>DGEBA</category>
-<category>multi-oxirane additives</category>
-<category>ionic conductivity</category>
-<category>mechanical properties</category>
-</item>
-<item>
-<title>EMBEDDED LAYER WITH PIEZOELECTRIC SENSORS FOR IMPACT DAMAGE EVALUATION IN COMPOSITE STRUCTURES</title>
-<link>https://doi.org/10.1016/j.compositesb.2026.114263</link>
-<guid isPermaLink="false">10.1016/j.compositesb.2026.114263</guid>
-<pubDate>Fri, 02 Oct 2026 12:01:08 GMT</pubDate>
-<description>یک لایه جاسازی‌شده با سنسورهای پیزوالکتریک برای ارزیابی آسیب ضربه‌ای در ساختارهای کامپوزیتی ارائه و بررسی می‌شود.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 piezoelectric sensors · impact damage · composite structures · embedded layer · structural health monitoring</description>
-<category>piezoelectric sensors</category>
-<category>impact damage</category>
-<category>composite structures</category>
-<category>embedded layer</category>
-<category>structural health monitoring</category>
-</item>
-<item>
-<title>Multidisciplinary Investigation of the Stability and Functional Performance of Sustainable Advanced Coating</title>
-<link>https://doi.org/10.1016/j.compositesb.2026.114253</link>
-<guid isPermaLink="false">10.1016/j.compositesb.2026.114253</guid>
-<pubDate>Fri, 02 Oct 2026 12:01:04 GMT</pubDate>
-<description>این مقاله پایداری و عملکرد عملکردی یک پوشش پیشرفته پایدار را با رویکردی چندرشته‌ای بررسی می‌کند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 advanced coating · sustainable coating · functional performance · stability · multidisciplinary investigation</description>
-<category>advanced coating</category>
-<category>sustainable coating</category>
-<category>functional performance</category>
-<category>stability</category>
-<category>multidisciplinary investigation</category>
 </item>
 </channel>
 </rss>

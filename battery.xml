@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 22:00:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dispersion-Free, Particle-Level CNT Networks via In Situ Growth on LiFePO₄ for Stable High-Loading Dry Electrodes</title>
+<link>https://doi.org/10.1039/d6ta04601k</link>
+<guid isPermaLink="false">10.1039/d6ta04601k</guid>
+<pubDate>Fri, 02 Oct 2026 23:01:03 GMT</pubDate>
+<description>الکترودهای خشک LiFePO4 با بارگذاری بالا از طریق رشد درجای شبکه‌های CNT در سطح ذرات، بدون پراکندگی، برای پایداری چرخه‌ای طولانی ساخته شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 In situ growth of carbon nanotubes directly on LiFePO₄ eliminates dispersion steps, creating particle-level conductive networks for solvent-free dry electrodes. This enables thick, high-loading electrodes with stable cycling by simultaneously addressing electronic connectivity and mechanical integrity without solvent processing, offering a scalable route to sustainable, high-energy-density lithium-ion batteries.&lt;br&gt;🏷 dry electrode · LiFePO4 · carbon nanotube · high loading · cycling stability</description>
+<category>dry electrode</category>
+<category>LiFePO4</category>
+<category>carbon nanotube</category>
+<category>high loading</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Degradation-informed feature-graph selective state-space network for state-of-health estimation of lithium-ion batteries under fast-charging conditions</title>
 <link>https://doi.org/10.1016/j.est.2026.124950</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>laponite nanosheets</category>
 <category>high-voltage lithium-ion battery</category>
 <category>solvation regulation</category>
-</item>
-<item>
-<title>Bulk/Surface Coengineering in Layered Oxides via Selective Niobium Doping to Enable Durable High‐Energy Sodium‐Ion Pouch Cells</title>
-<link>https://doi.org/10.1002/aenm.71662</link>
-<guid isPermaLink="false">10.1002/aenm.71662</guid>
-<pubDate>Wed, 30 Sep 2026 14:01:23 GMT</pubDate>
-<description>دوپینگ انتخابی Nb در کاتد لایه‌ای Na0.85Mn0.58Ni0.29Zn0.04Li0.08Nb0.01O2 با مهندسی همزمان توده و سطح، پایداری 600 چرخه در 4.3 V و چگالی انرژی 154 Wh kg-1 را در پاکت Ah-level فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Selective Nb doping in layered Na-ion cathodes drives Nb to P2 surface interstitial sites, boosting P2 fraction from 25% to 54% and forming a protective layer against transition-metal dissolution. Combined with bulk Li/Zn co-doping, this enables 600-cycle stability at 4.3 V, 154 Wh kg⁻¹ Ah-level pouch cells, reduced gassing, and nail-penetration safety—advancing durable, high-voltage sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · niobium doping · high-voltage cycling · pouch cell</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>niobium doping</category>
-<category>high-voltage cycling</category>
-<category>pouch cell</category>
 </item>
 </channel>
 </rss>
