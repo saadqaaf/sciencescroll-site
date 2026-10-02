@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 03:03:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 04:01:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Micro-nano biphasic conductive stress adaptive cathode for sodium ion batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100651</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100651</guid>
+<pubDate>Fri, 02 Oct 2026 04:01:04 GMT</pubDate>
+<description>این مقاله یک کاتد رسانای دو فازی میکرو-نانو با سازگاری تنشی برای باتری‌های یون سدیم ارائه می‌دهد که پایداری و عملکرد الکتروشیمیایی را بهبود می‌بخشد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium-ion battery · biphasic cathode · conductive network · stress adaptation · micro-nano structure</description>
+<category>sodium-ion battery</category>
+<category>biphasic cathode</category>
+<category>conductive network</category>
+<category>stress adaptation</category>
+<category>micro-nano structure</category>
+</item>
 <item>
 <title>Crystallographic Orientation Engineering Enables Passivation-Resistant Pure Titanium Anodes for Energy-Efficient Manganese Dioxide Electrocrystallization</title>
 <link>https://doi.org/10.1039/d6ta06538d</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>quasielastic neutron scattering</category>
 <category>acetonitrile dynamics</category>
 <category>heat capacity</category>
-</item>
-<item>
-<title>Exploring Li growth modes in Li metal electrodes using X-ray nano-tomography</title>
-<link>https://doi.org/10.1038/s41467-026-78182-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-78182-9</guid>
-<pubDate>Wed, 30 Sep 2026 07:03:02 GMT</pubDate>
-<description>با نانوتوموگرافی اشعه ایکس درجا، حالت‌های رشد سوزنی و ورقه‌ای لیتیوم و ارتباط آن با SEI و دانه‌های جدید نشان داده شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work achieves time-resolved 3D imaging of lithium metal growth inside working cells using in situ X-ray nano-tomography at sub-micron resolution. It identifies distinct needle-like and sheet-like growth modes, with elongation at tips, bases, kinks, or edges and minimal coarsening. Linking these modes to grain nucleation and SEI evolution provides unprecedented mechanistic insight into Li deposition, advancing high-energy Li-metal battery development.&lt;br&gt;🏷 Li metal anode · X-ray nano-tomography · Li growth · solid electrolyte interphase · 3D morphology</description>
-<category>Li metal anode</category>
-<category>X-ray nano-tomography</category>
-<category>Li growth</category>
-<category>solid electrolyte interphase</category>
-<category>3D morphology</category>
 </item>
 </channel>
 </rss>
