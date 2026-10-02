@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 21:01:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:00:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Disordered Near-Field Metasurfaces for On-Chip Wavelength Demultiplexing</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03564</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03564</guid>
+<pubDate>Fri, 02 Oct 2026 22:00:55 GMT</pubDate>
+<description>این مقاله متاسطوح بی‌نظم برای شکل‌دهی میدان نزدیک معرفی می‌کند که با تداخل surface plasmon، نور را هدایت، متمرکز و demultiplex می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 near-field metasurface · surface plasmon · wavelength demultiplexing · disordered scatterers · on-chip photonics</description>
+<category>near-field metasurface</category>
+<category>surface plasmon</category>
+<category>wavelength demultiplexing</category>
+<category>disordered scatterers</category>
+<category>on-chip photonics</category>
+</item>
 <item>
 <title>Degradation-informed feature-graph selective state-space network for state-of-health estimation of lithium-ion batteries under fast-charging conditions</title>
 <link>https://doi.org/10.1016/j.est.2026.124950</link>
@@ -1194,18 +1206,6 @@
 <category>functional performance</category>
 <category>stability</category>
 <category>multidisciplinary investigation</category>
-</item>
-<item>
-<title>Manipulating Crystallization and Deprotonation Reaction through Surface Engineering of ZnO for Bright and Stable Near-Infrared Perovskite LEDs</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03636</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03636</guid>
-<pubDate>Fri, 02 Oct 2026 12:01:00 GMT</pubDate>
-<description>با مهندسی سطح ZnO توسط پلیمر اتری، تبلور پروسکایت و واکنش پروتون‌زدایی کنترل شده و LEDهای پروسکایتی NIR با EQE ۲۴٪ و پایداری بهبودیافته ساخته شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 perovskite LED · ZnO surface engineering · near-infrared emission · operational stability · crystallization control</description>
-<category>perovskite LED</category>
-<category>ZnO surface engineering</category>
-<category>near-infrared emission</category>
-<category>operational stability</category>
-<category>crystallization control</category>
 </item>
 </channel>
 </rss>
