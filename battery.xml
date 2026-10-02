@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 01 Oct 2026 23:02:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 00:01:39 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecular engineering of electrolytes via nitrile–ether hybridization for stable lithium-metal batteries</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.058</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.058</guid>
+<pubDate>Fri, 02 Oct 2026 00:01:18 GMT</pubDate>
+<description>مهندسی مولکولی الکترولیت‌ها با هیبریداسیون نیتریل-اتر برای باتری‌های لیتیوم-فلز پایدار ارائه می‌شود.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium-metal battery · electrolyte engineering · nitrile-ether hybridization · molecular engineering · stable cycling</description>
+<category>lithium-metal battery</category>
+<category>electrolyte engineering</category>
+<category>nitrile-ether hybridization</category>
+<category>molecular engineering</category>
+<category>stable cycling</category>
+</item>
 <item>
 <title>Head-to-tail assembled borphyrins for solid-state lithium extraction</title>
 <link>https://doi.org/10.1038/s41467-026-78080-0</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>dual-salt chemistry</category>
 <category>interphase stabilization</category>
 <category>high voltage</category>
-</item>
-<item>
-<title>Symmetry-Resolved d-p Coupling Regulates Sulfur Redox Reactions in Room-Temperature Na-S Battery</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105567</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105567</guid>
-<pubDate>Wed, 30 Sep 2026 05:01:28 GMT</pubDate>
-<description>جفت‌شدگی d-p با تفکیک تقارن، واکنش‌های ردوکس گوگرد را در باتری سدیم-گوگرد دمای اتاق تنظیم می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Na-S battery · d-p coupling · sulfur redox · symmetry resolution · room temperature</description>
-<category>Na-S battery</category>
-<category>d-p coupling</category>
-<category>sulfur redox</category>
-<category>symmetry resolution</category>
-<category>room temperature</category>
 </item>
 </channel>
 </rss>
