@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 05:01:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 06:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Correlative microscopy reveals chemical short-range order and native oxide in medium-entropy alloys</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103524</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103524</guid>
+<pubDate>Fri, 02 Oct 2026 06:01:06 GMT</pubDate>
+<description>میکروسکوپی همبسته نظم کوتاه‌برد شیمیایی و اکسید بومی را در آلیاژهای میان‌آنتروپی آشکار می‌کند.&lt;br&gt;Materials Today | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 medium-entropy alloys · short-range order · native oxide · correlative microscopy · chemical ordering</description>
+<category>medium-entropy alloys</category>
+<category>short-range order</category>
+<category>native oxide</category>
+<category>correlative microscopy</category>
+<category>chemical ordering</category>
+</item>
+<item>
+<title>Magnetically engineered MXenes: interfacial design, coordination chemistry, and emerging opportunities for sustainable water remediation</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218580</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218580</guid>
+<pubDate>Fri, 02 Oct 2026 06:01:03 GMT</pubDate>
+<description>این مقاله مروری به طراحی مغناطیسی MXeneها، شیمی کوئوردیناسیون و کاربردهای نوظهور آنها در تصفیه پایدار آب می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 MXene · magnetic properties · water remediation · interfacial design · coordination chemistry</description>
+<category>MXene</category>
+<category>magnetic properties</category>
+<category>water remediation</category>
+<category>interfacial design</category>
+<category>coordination chemistry</category>
+</item>
 <item>
 <title>Adaptive Electrochemical Self‐Cleaning via Surface Reconstruction Enables Fluoride‐Free and Batch‐Consistent Cathode Regeneration</title>
 <link>https://doi.org/10.1002/adma.75182</link>
@@ -1192,25 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 dark-field microscopy · 
 <category>neurotechnology</category>
 <category>body tracking</category>
 <category>neural interface</category>
-</item>
-<item>
-<title>The many interfaces of neurotechnology</title>
-<link>https://doi.org/10.1038/s41593-026-02483-x</link>
-<guid isPermaLink="false">10.1038/s41593-026-02483-x</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:30 GMT</pubDate>
-<description>مروری بر واسط‌های گوناگون فناوری عصبی و کاربردهای آن‌ها در ارتباط مغز و دستگاه.&lt;br&gt;Nature Neuroscience | 💭 Perspective&lt;br&gt;🏷 neurotechnology · brain-computer interface · neural interfaces · neuroscience · bioelectronics</description>
-<category>neurotechnology</category>
-<category>brain-computer interface</category>
-<category>neural interfaces</category>
-<category>neuroscience</category>
-<category>bioelectronics</category>
-</item>
-<item>
-<title>Embeddedness under psilocybin</title>
-<link>https://doi.org/10.1038/s41593-026-02476-w</link>
-<guid isPermaLink="false">10.1038/s41593-026-02476-w</guid>
-<pubDate>Thu, 01 Oct 2026 21:31:23 GMT</pubDate>
-<description>Nature Neuroscience | 🔬 Research Article</description>
 </item>
 </channel>
 </rss>
