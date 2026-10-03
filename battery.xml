@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 02:00:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 03:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermo-electrical coupling-induced thermal runaway evolution, multphysical failure and dynamic warning strategy of large-format LiFePO4 batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105573</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105573</guid>
+<pubDate>Sat, 03 Oct 2026 03:01:08 GMT</pubDate>
+<description>این مقاله تکامل فرار حرارتی ناشی از جفت‌شدگی ترموالکتریکی، خرابی چندفیزیکی و راهبرد هشدار دینامیکی را در باتری‌های بزرگ LiFePO4 بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 battery · thermal runaway · thermo-electrical coupling · multiphysical failure · dynamic warning</description>
+<category>LiFePO4 battery</category>
+<category>thermal runaway</category>
+<category>thermo-electrical coupling</category>
+<category>multiphysical failure</category>
+<category>dynamic warning</category>
+</item>
 <item>
 <title>Dispersion-Free, Particle-Level CNT Networks via In Situ Growth on LiFePO₄ for Stable High-Loading Dry Electrodes</title>
 <link>https://doi.org/10.1039/d6ta04601k</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>lithium-ion battery</category>
 <category>operando imaging</category>
 <category>lithiation dynamics</category>
-</item>
-<item>
-<title>Nano‐Crosslinked Polyether‐Based Gel Polymer Electrolytes for Interface‐Stable High‐Voltage Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71663</link>
-<guid isPermaLink="false">10.1002/aenm.71663</guid>
-<pubDate>Wed, 30 Sep 2026 14:01:29 GMT</pubDate>
-<description>الکترولیت ژل پلیمری نانو-شبکه‌ای بر پایه PEG و LAP با تنظیم سولواتاسیون، فصل مشترک پایدار و چرخه‌پذیری فوق‌العاده طولانی در باتری‌های لیتیوم-یون ولتاژ بالا ایجاد می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Nano-crosslinked gel polymer electrolyte via PEG triethoxysilylation and laponite coupling creates a 3D network with continuous Li⁺ pathways. Laponite anchors solvent molecules, weakening Li⁺-solvent coordination and enabling anion-rich solvation for LiF-rich interphases. This suppresses interfacial side reactions, yielding 6600 h symmetric cycling, 1300 cycles LiFePO₄/Li, and 450 cycles high-voltage NCM/Li.&lt;br&gt;🏷 gel polymer electrolyte · nano-crosslinked polyether · laponite nanosheets · high-voltage lithium-ion battery · solvation regulation</description>
-<category>gel polymer electrolyte</category>
-<category>nano-crosslinked polyether</category>
-<category>laponite nanosheets</category>
-<category>high-voltage lithium-ion battery</category>
-<category>solvation regulation</category>
 </item>
 </channel>
 </rss>
