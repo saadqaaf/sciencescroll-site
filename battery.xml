@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 11:01:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 12:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Infiltrating Metal Adhesive Layer for Mechanically Integrated Dry Electrodes</title>
+<link>https://doi.org/10.1002/aenm.71661</link>
+<guid isPermaLink="false">10.1002/aenm.71661</guid>
+<pubDate>Sat, 03 Oct 2026 12:01:13 GMT</pubDate>
+<description>لایه چسبنده فلزی ایندیم با نفوذ در الکترود خشک، اتصال مکانیکی را تقویت کرده و پایداری چرخه‌ای باتری لیتیوم-یونی با بارگذاری بالا را بهبود می‌بخشد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is a sputter-coated indium metal adhesive layer enabling all-solvent-free dry electrode manufacturing. It infiltrates graphite film pores and entangles with PTFE fibrils, strengthening interfacial contact. This yields 91.3% capacity retention after 150 cycles and stable pouch-cell cycling without delamination, offering a route to mechanically robust, high-loading dry electrodes for high-energy lithium-ion batteries.&lt;br&gt;🏷 dry electrodes · indium adhesive layer · lithium-ion batteries · PTFE fibrils · mechanical integrity</description>
+<category>dry electrodes</category>
+<category>indium adhesive layer</category>
+<category>lithium-ion batteries</category>
+<category>PTFE fibrils</category>
+<category>mechanical integrity</category>
+</item>
 <item>
 <title>Understanding the Role of Lithium Metal Microstructure in Chemo-Mechanical Instability of Solid-State Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02372</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>electrolyte design</category>
 <category>Mn plating</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Advancing iron-based polyanionic cathodes for sodium-ion batteries: unravelling Fe-induced structural failure and targeted mitigation</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218607</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218607</guid>
-<pubDate>Wed, 30 Sep 2026 14:01:57 GMT</pubDate>
-<description>این مرور، شکست ساختاری ناشی از Fe در کاتدهای پلی‌آنیونی آهن‌دار برای باتری‌های سدیم-یون و راهبردهای کاهش هدفمند آن را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 sodium-ion battery · iron-based polyanionic cathode · structural failure · Fe dissolution · mitigation strategies</description>
-<category>sodium-ion battery</category>
-<category>iron-based polyanionic cathode</category>
-<category>structural failure</category>
-<category>Fe dissolution</category>
-<category>mitigation strategies</category>
 </item>
 </channel>
 </rss>
