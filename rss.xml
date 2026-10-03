@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 00:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 01:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Carbodiimide-Mediated Conjugation of Chitosan: From Conventional Acidic Solutions to a Water-Based Complexation Platform Enabled by Coupling Additives</title>
+<link>https://doi.org/10.1016/j.progpolymsci.2026.102190</link>
+<guid isPermaLink="false">10.1016/j.progpolymsci.2026.102190</guid>
+<pubDate>Sat, 03 Oct 2026 01:01:06 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که افزودنی‌های جفت‌کننده carbodiimide امکان کونژوگه‌کردن chitosan را در محلول آبی فراهم می‌کنند و جایگزینی برای محیط‌های اسیدی سنتی ارائه می‌دهند.&lt;br&gt;Progress in Polymer Science | ⭐ Review&lt;br&gt;🏷 chitosan · carbodiimide coupling · aqueous complexation · bioconjugation · EDC/NHS</description>
+<category>chitosan</category>
+<category>carbodiimide coupling</category>
+<category>aqueous complexation</category>
+<category>bioconjugation</category>
+<category>EDC/NHS</category>
+</item>
 <item>
 <title>Engineering magnetic soft materials for biomedical applications</title>
 <link>https://doi.org/10.1038/s41578-026-00963-x</link>
@@ -1194,18 +1206,6 @@
 <category>memristor</category>
 <category>selector devices</category>
 <category>2D materials</category>
-</item>
-<item>
-<title>Interpretable Machine Learning Reveals the Role of NiFeOOH Overlayer, Limiting Factors across PEC Performance States, and Optimization Directions in Hematite(α-Fe 2 O 3 ) Photoanodes</title>
-<link>https://doi.org/10.1039/d6ta06701h</link>
-<guid isPermaLink="false">10.1039/d6ta06701h</guid>
-<pubDate>Fri, 02 Oct 2026 13:01:13 GMT</pubDate>
-<description>یادگیری ماشین تفسیرپذیر نقش لایه NiFeOOH و عوامل محدودکننده را در فوتوآندهای هماتیت برای شکافت آب فوتوالکتروشیمیایی روشن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 hematite photoanode · NiFeOOH overlayer · interpretable machine learning · PEC water splitting · performance optimization</description>
-<category>hematite photoanode</category>
-<category>NiFeOOH overlayer</category>
-<category>interpretable machine learning</category>
-<category>PEC water splitting</category>
-<category>performance optimization</category>
 </item>
 </channel>
 </rss>
