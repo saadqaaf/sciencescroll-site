@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 01:01:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 02:00:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Piezocatalysis and piezo-photocatalysis of metal-organic frameworks: from symmetry- and mechanism-based classification, design to applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218611</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218611</guid>
+<pubDate>Sat, 03 Oct 2026 02:00:56 GMT</pubDate>
+<description>این مقاله مروری، طبقه‌بندی مبتنی بر تقارن و مکانیسم، طراحی و کاربردهای MOFها را در piezocatalysis و piezo-photocatalysis بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal-organic frameworks · piezocatalysis · piezo-photocatalysis · symmetry classification · mechanism design</description>
+<category>metal-organic frameworks</category>
+<category>piezocatalysis</category>
+<category>piezo-photocatalysis</category>
+<category>symmetry classification</category>
+<category>mechanism design</category>
+</item>
 <item>
 <title>Carbodiimide-Mediated Conjugation of Chitosan: From Conventional Acidic Solutions to a Water-Based Complexation Platform Enabled by Coupling Additives</title>
 <link>https://doi.org/10.1016/j.progpolymsci.2026.102190</link>
@@ -1194,18 +1206,6 @@
 <category>attojoule</category>
 <category>two-terminal device</category>
 <category>in-sensor computing</category>
-</item>
-<item>
-<title>Universal selectors from two-dimensional materials</title>
-<link>https://doi.org/10.1038/s41928-026-01723-z</link>
-<guid isPermaLink="false">10.1038/s41928-026-01723-z</guid>
-<pubDate>Fri, 02 Oct 2026 13:01:18 GMT</pubDate>
-<description>مواد دوبعدی برای ساخت سلکتورهای جهانی در حافظه‌های مقاومتی مورد بررسی قرار می‌گیرند.&lt;br&gt;Nature Electronics | 🔬 Research Article&lt;br&gt;🏷 two-dimensional materials · universal selectors · memristor · selector devices · 2D materials</description>
-<category>two-dimensional materials</category>
-<category>universal selectors</category>
-<category>memristor</category>
-<category>selector devices</category>
-<category>2D materials</category>
 </item>
 </channel>
 </rss>
