@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 05:01:31 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 06:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unsupervised machine learning for automated crystal orientation mapping on noisy 4D-STEM data</title>
+<link>https://doi.org/10.1038/s41524-026-02337-x</link>
+<guid isPermaLink="false">10.1038/s41524-026-02337-x</guid>
+<pubDate>Sat, 03 Oct 2026 06:01:08 GMT</pubDate>
+<description>این مطالعه یک خط لوله خودکار با حذف نویز و تحلیل بدون نظارت برای نقشه‌برداری جهت‌گیری کریستالی از داده‌های پرنویز 4D-STEM ارائه می‌دهد.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 4D-STEM · unsupervised learning · denoising · crystal orientation · diffraction pattern</description>
+<category>4D-STEM</category>
+<category>unsupervised learning</category>
+<category>denoising</category>
+<category>crystal orientation</category>
+<category>diffraction pattern</category>
+</item>
+<item>
+<title>Self‐Assembling Peptide‐Adjuvant Conjugate (SaPAC) Platform for Precision Cancer Immunotherapy</title>
+<link>https://doi.org/10.1002/advs.77632</link>
+<guid isPermaLink="false">10.1002/advs.77632</guid>
+<pubDate>Sat, 03 Oct 2026 06:01:04 GMT</pubDate>
+<description>پلتفرم SaPAC با اتصال کووالان آنتی‌ژن‌های نئوآنتی‌ژن به آگونیست TLR7، نانوذرات خودآرا تشکیل داده و پاسخ CD8+ T را تقویت می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 peptide vaccine · TLR7 agonist · self-assembly · cancer immunotherapy · nanoparticle</description>
+<category>peptide vaccine</category>
+<category>TLR7 agonist</category>
+<category>self-assembly</category>
+<category>cancer immunotherapy</category>
+<category>nanoparticle</category>
+</item>
 <item>
 <title>Adaptive Cinchona Alkaloid-Derived Organoboron Crystalline Sponges Enable Enantioseparation of Weakly Interacting Molecules</title>
 <link>https://doi.org/10.1021/jacs.6c09766</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 four-p
 <category>metamaterial grating</category>
 <category>micro-laser</category>
 <category>nonlinear optics</category>
-</item>
-<item>
-<title>Construction and Regulation of Defect Electrocatalysts for Rechargeable Li–O 2 Batteries</title>
-<link>https://doi.org/10.1002/adma.75179</link>
-<guid isPermaLink="false">10.1002/adma.75179</guid>
-<pubDate>Fri, 02 Oct 2026 15:01:44 GMT</pubDate>
-<description>این مرور، پیشرفت‌های اخیر در الکتروکاتالیست‌های نقص‌دار برای باتری‌های Li-O2 قابل شارژ و نقش نقص‌ها در تنظیم ساختار الکترونی را جمع‌بندی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates defect engineering strategies for Li–O₂ battery cathodes, linking defect types to electronic structure modulation, interfacial synergy, and stability. It establishes clear structure–activity–performance relationships, offering rational design guidance. Its significance lies in advancing high-energy LOB technologies by addressing sluggish ORR/OER kinetics and outlining future catalyst systems and remaining challenges.&lt;br&gt;🏷 Li-O2 battery · defect electrocatalyst · oxygen reduction · oxygen evolution · electronic structure</description>
-<category>Li-O2 battery</category>
-<category>defect electrocatalyst</category>
-<category>oxygen reduction</category>
-<category>oxygen evolution</category>
-<category>electronic structure</category>
-</item>
-<item>
-<title>Sunlight‐Driven Gram‐Scale Nitrate Reduction to Ammonia by an In Situ Formed Fe 3 + 1‐x Fe 2+ x OOH/CdSeS Photocatalyst</title>
-<link>https://doi.org/10.1002/adma.75249</link>
-<guid isPermaLink="false">10.1002/adma.75249</guid>
-<pubDate>Fri, 02 Oct 2026 15:01:40 GMT</pubDate>
-<description>فوتوکاتالیست Fe3+1-xFe2+xOOH/CdSeS به‌صورت درجا تشکیل‌شده، احیای نیترات به آمونیاک در مقیاس گرم با بازده خورشیدی ۰.۶۶۴٪ را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 photocatalytic ammonia synthesis · nitrate reduction · FeOOH/CdSeS · oxygen vacancy · solar-to-ammonia</description>
-<category>photocatalytic ammonia synthesis</category>
-<category>nitrate reduction</category>
-<category>FeOOH/CdSeS</category>
-<category>oxygen vacancy</category>
-<category>solar-to-ammonia</category>
 </item>
 </channel>
 </rss>
