@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 15:01:59 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 16:01:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Binder-regulated interfacial carbonization and pore evolution in coal/sucrose-microsphere-derived hard carbons for sodium storage</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122185</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122185</guid>
+<pubDate>Sat, 03 Oct 2026 16:01:28 GMT</pubDate>
+<description>این مقاله تأثیر بایندر بر کربن‌زایی بین‌سطحی و تکامل حفرات در کربن‌های سخت مشتق از زغال/ساکارز را برای ذخیره‌سازی سدیم بررسی می‌کند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium storage · binder · interfacial carbonization · pore evolution</description>
+<category>hard carbon</category>
+<category>sodium storage</category>
+<category>binder</category>
+<category>interfacial carbonization</category>
+<category>pore evolution</category>
+</item>
 <item>
 <title>Ni‐Regulated Partial Reconstruction of Hydrated Vanadium Oxide for Fast and Durable Aqueous Zinc‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adfm.78757</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>crosslinked network</category>
 <category>polymer electrolyte</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Tandem Catalysis Sites in Co‐NO/C for Efficient and Scalable Electrocatalytic Nitrate to Ammonia Conversion</title>
-<link>https://doi.org/10.1002/adfm.78831</link>
-<guid isPermaLink="false">10.1002/adfm.78831</guid>
-<pubDate>Wed, 30 Sep 2026 16:01:32 GMT</pubDate>
-<description>این پژوهش کاتالیزور Co-NO/C با سایت‌های تاندم Co3O4/Co4N را برای تبدیل الکتروکاتالیستی نیترات به آمونیاک با بازدهی فارادیک ۹۹.۷٪ و کاربرد در باتری Zn-NO3 معرفی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Co-NO/C introduces tandem Co₃O₄/Co₄N sites for electrocatalytic nitrate-to-ammonia conversion, separating nitrate activation from hydrogenation. This design achieves 99.7% Faradaic efficiency and high NH₃ yield, validated by in situ spectroscopy, DEMS, DFT, and MD. Demonstrations in Zn–NO₃⁻ batteries and MEA reactors highlight practical scalability, offering a promising route for nitrate remediation coupled with ammonia production.&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · tandem catalysis · Co3O4/Co4N · Zn-NO3 battery</description>
-<category>nitrate reduction</category>
-<category>ammonia synthesis</category>
-<category>tandem catalysis</category>
-<category>Co3O4/Co4N</category>
-<category>Zn-NO3 battery</category>
 </item>
 </channel>
 </rss>
