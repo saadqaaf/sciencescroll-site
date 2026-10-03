@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 13:01:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 14:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ni‐Regulated Partial Reconstruction of Hydrated Vanadium Oxide for Fast and Durable Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.78757</link>
+<guid isPermaLink="false">10.1002/adfm.78757</guid>
+<pubDate>Sat, 03 Oct 2026 14:01:54 GMT</pubDate>
+<description>بازسازی احیایی V2O5 با ورود Ni2+ در روش هیدروترمال سریع، کاتد NiVOH را با موانع مهاجرت Zn2+ پایین و پایداری چرخه‌ای بالا برای باتری آبی روی-یون فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a one-step hydrothermal route coupling glucose-induced reductive reconstruction with Ni²⁺ incorporation, creating Ni-regulated hydrated vanadium oxide with coexisting H₂V₃O₈ and Ni-containing domains. DFT screening identifies Ni²⁺ for lowest Zn²⁺ migration barriers. The domain-balanced architecture enables 433.4 mAh g⁻¹ at 0.1 A g⁻¹ and 282.6 mAh g⁻¹ after 6000 cycles, establishing coupled reconstruction and guest-ion regulation for durable aqueous zinc-ion cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · vanadium oxide cathode · Ni regulation · structural reconstruction · cycling stability</description>
+<category>aqueous zinc-ion battery</category>
+<category>vanadium oxide cathode</category>
+<category>Ni regulation</category>
+<category>structural reconstruction</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Infiltrating Metal Adhesive Layer for Mechanically Integrated Dry Electrodes</title>
 <link>https://doi.org/10.1002/aenm.71661</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>tandem catalysis</category>
 <category>Co3O4/Co4N</category>
 <category>Zn-NO3 battery</category>
-</item>
-<item>
-<title>Wide-temperature electrolyte for advanced Mn metal batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105569</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105569</guid>
-<pubDate>Wed, 30 Sep 2026 15:01:17 GMT</pubDate>
-<description>این مقاله یک الکترولیت دما-گسترده برای باتری‌های فلزی منگنز پیشرفته ارائه می‌دهد که پایداری چرخه‌ای را در دماهای بالا و پایین بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Mn metal batteries · wide-temperature electrolyte · electrolyte design · Mn plating · cycling stability</description>
-<category>Mn metal batteries</category>
-<category>wide-temperature electrolyte</category>
-<category>electrolyte design</category>
-<category>Mn plating</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
