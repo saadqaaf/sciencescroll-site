@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 20:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 21:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring Alkyl Chain Length to Customize Dual‐Electrode Interface for Reversible Four‐Electron Iodine Chemistry in Zn–I 2 Pouch Batteries</title>
+<link>https://doi.org/10.1002/adma.75298</link>
+<guid isPermaLink="false">10.1002/adma.75298</guid>
+<pubDate>Sat, 03 Oct 2026 21:01:15 GMT</pubDate>
+<description>تنظیم طول زنجیر آلکیلی نمک‌های آمونیوم برومید، ریزمحیط دوگانه الکترود را در باتری Zn-I2 مهندسی کرده و شیمی برگشت‌پذیر چهارالکترونی I−/I+ را فعال می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work customizes dual-electrode interfaces via quaternary ammonium bromides with tuned alkyl chains, enabling reversible four-electron I⁻/I⁺ chemistry in Zn–I₂ batteries. TEAB suppresses hydrogen evolution and iodine shuttling, achieving 8000-cycle stability and Ah-scale pouch cells under high iodine loading, offering a molecular design paradigm for practical high-energy aqueous batteries.&lt;br&gt;🏷 Zn-I2 battery · four-electron iodine · dual-electrode interface · quaternary ammonium bromide · pouch cell</description>
+<category>Zn-I2 battery</category>
+<category>four-electron iodine</category>
+<category>dual-electrode interface</category>
+<category>quaternary ammonium bromide</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>Binder-regulated interfacial carbonization and pore evolution in coal/sucrose-microsphere-derived hard carbons for sodium storage</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122185</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>composite electrolyte</category>
 <category>stress homogenization</category>
 <category>layered electrolyte</category>
-</item>
-<item>
-<title>Tuning Crosslinked Network Structures of Elastomeric Protective Layers for Stable Operation of Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112457</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112457</guid>
-<pubDate>Wed, 30 Sep 2026 17:01:44 GMT</pubDate>
-<description>تنظیم ساختار شبکه‌ای لایه‌های محافظ الاستومری برای عملکرد پایدار باتری‌های لیتیوم فلزی انجام شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · elastomeric protective layer · crosslinked network · polymer electrolyte · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>elastomeric protective layer</category>
-<category>crosslinked network</category>
-<category>polymer electrolyte</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
