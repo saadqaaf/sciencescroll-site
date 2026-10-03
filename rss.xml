@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 03:01:11 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 04:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Understanding the Role of Lithium Metal Microstructure in Chemo-Mechanical Instability of Solid-State Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02372</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02372</guid>
+<pubDate>Sat, 03 Oct 2026 04:01:10 GMT</pubDate>
+<description>مدلسازی مزو-مقیاس نشان میدهد ریزساختار آند لیتیوم، بهویژه اندازه دانه، بر تشکیل حفره و از دست رفتن تماس در فصل مشترک لیتیوم-الکترولیت جامد در حین دشارژ تأثیر میگذارد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uniquely links polycrystalline Li anode microstructure to void-driven interfacial contact loss in solid-state batteries via a mesoscale model informed by atomics. It shows small grains promote self-diffusion healing, and quantifies how pressure, current, and temperature affect stripping across microstructures. Significance: incorporating microstructure is essential for predicting anode–electrolyte contact evolution and enabling practical areal capacities.&lt;br&gt;🏷 solid-state battery · lithium metal anode · void formation · microstructure · chemo-mechanical instability</description>
+<category>solid-state battery</category>
+<category>lithium metal anode</category>
+<category>void formation</category>
+<category>microstructure</category>
+<category>chemo-mechanical instability</category>
+</item>
 <item>
 <title>Thermo-electrical coupling-induced thermal runaway evolution, multphysical failure and dynamic warning strategy of large-format LiFePO4 batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105573</link>
@@ -1194,18 +1206,6 @@
 <category>magnetic order</category>
 <category>bilayer spin dynamics</category>
 <category>nickelate</category>
-</item>
-<item>
-<title>Pure-silica zeolites: advances in synthesis, atomic-scale structural determination, and applications</title>
-<link>https://doi.org/10.1039/d6cs01013j</link>
-<guid isPermaLink="false">10.1039/d6cs01013j</guid>
-<pubDate>Fri, 02 Oct 2026 14:01:14 GMT</pubDate>
-<description>این مرور پیشرفت‌های اخیر در سنتز، تعیین ساختار اتمی و کاربردهای زئولیت‌های سیلیکای خالص را پوشش می‌دهد و روابط سنتز-ساختار-عملکرد را روشن می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;🏷 pure-silica zeolites · synthesis · atomic-scale structure · applications · structure-performance relationship</description>
-<category>pure-silica zeolites</category>
-<category>synthesis</category>
-<category>atomic-scale structure</category>
-<category>applications</category>
-<category>structure-performance relationship</category>
 </item>
 </channel>
 </rss>
