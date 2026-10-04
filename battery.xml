@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 10:01:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 11:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Microstructured Metal Electrodeposition at a Micellar Brush‐Decorated Interface</title>
+<link>https://doi.org/10.1002/anie.5308557</link>
+<guid isPermaLink="false">10.1002/anie.5308557</guid>
+<pubDate>Sun, 04 Oct 2026 11:01:47 GMT</pubDate>
+<description>این مقاله با برس میسلی پلیمری، الکتروانباشت روی را به‌صورت عمودی و ریزساختاری کنترل کرده و آند روی با هسته‌زایی کم و پایداری چرخه‌ای بالا در باتری Zn-V2O5 ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Surface-emanated micellar brushes enable soft-confined zinc electrodeposition, yielding vertically aligned blades instead of flat films. This micellar-brush interface couples ion funneling with oriented nanoconfinement, achieving low overpotential (21 mV), high transference (0.79), and 3000 h stability. The work offers a general route to tailored metal microstructures via chemically associating polymer self-assembly interfaces.&lt;br&gt;🏷 zinc anode · micellar brush · metal electrodeposition · Zn2+ transference · V2O5 cathode</description>
+<category>zinc anode</category>
+<category>micellar brush</category>
+<category>metal electrodeposition</category>
+<category>Zn2+ transference</category>
+<category>V2O5 cathode</category>
+</item>
 <item>
 <title>High-Ductility Metallic Adhesive Additives to Mitigate Inter-Particle Cracks of Silicon Anode in Solid-State Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105574</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>Bacillus subtilis spores</category>
 <category>villi-inspired architecture</category>
 <category>bioelectrocatalysis</category>
-</item>
-<item>
-<title>Solvation‐Regulated Ultrafast Formation of Organohydrogel Electrolytes for Subzero Flexible Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76067</link>
-<guid isPermaLink="false">10.1002/smll.76067</guid>
-<pubDate>Wed, 30 Sep 2026 18:03:23 GMT</pubDate>
-<description>تنظیم solvation، تشکیل سریع organohydrogel الکترولیت را در دمای اتاق ممکن کرده و باتری‌های یون-روی انعطاف‌پذیر با عملکرد پایدار در دمای زیر صفر را ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers a solvation regulation strategy enabling spontaneous, sub-minute formation of organohydrogel electrolytes at room temperature, eliminating energy-intensive initiation. The synergy of Zn²⁺, BF₄⁻, and formamide lowers freezing point to −54°C and suppresses radical quenching. This yields ultrastable subzero zinc-ion batteries, offering an energy-efficient, scalable route for extreme-condition aqueous energy storage.&lt;br&gt;🏷 zinc-ion battery · organohydrogel electrolyte · solvation regulation · subzero operation · flexible battery</description>
-<category>zinc-ion battery</category>
-<category>organohydrogel electrolyte</category>
-<category>solvation regulation</category>
-<category>subzero operation</category>
-<category>flexible battery</category>
 </item>
 </channel>
 </rss>
