@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 06:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 07:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Universal performance improvements in CuSCN-based devices enabled by CuBr2 doping: Transistors, solar cells, and photodetectors</title>
+<link>https://doi.org/10.1016/j.mser.2026.101314</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101314</guid>
+<pubDate>Sun, 04 Oct 2026 07:01:19 GMT</pubDate>
+<description>این مقاله نشان می‌دهد دوپینگ CuBr2 در CuSCN عملکرد ترانزیستورها، سلول‌های خورشیدی و آشکارسازهای نوری را به‌طور جهانی بهبود می‌بخشد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 CuSCN · CuBr2 doping · transistor · solar cell · photodetector</description>
+<category>CuSCN</category>
+<category>CuBr2 doping</category>
+<category>transistor</category>
+<category>solar cell</category>
+<category>photodetector</category>
+</item>
+<item>
+<title>Scalable fabrication methods of 1D fibre and 2D fabric electrodes in textile supercapacitors</title>
+<link>https://doi.org/10.1016/j.mser.2026.101309</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101309</guid>
+<pubDate>Sun, 04 Oct 2026 07:01:16 GMT</pubDate>
+<description>این مقاله روش‌های مقیاس‌پذیر ساخت الکترودهای الیاف یک‌بعدی و پارچه‌ای دوبعدی را برای ابرخازن‌های نساجی مرور می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 textile supercapacitor · fibre electrode · fabric electrode · scalable fabrication · wearable energy storage</description>
+<category>textile supercapacitor</category>
+<category>fibre electrode</category>
+<category>fabric electrode</category>
+<category>scalable fabrication</category>
+<category>wearable energy storage</category>
+</item>
 <item>
 <title>Interlayer-Confined BT@Liquid Metal/PVDF Nanofibrous Composites for Flexible Self-Powered Acoustic Sensing</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114271</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 four-p
 <category>carbon nanotube</category>
 <category>high loading</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Interfacial engineering of cellulose acetate mixed matrix membranes via a CoNi-ZIF-67@Fe-MIL-100 heterostructure for highly selective and stable CO2 separation</title>
-<link>https://doi.org/10.1039/d6ta06597j</link>
-<guid isPermaLink="false">10.1039/d6ta06597j</guid>
-<pubDate>Fri, 02 Oct 2026 23:00:58 GMT</pubDate>
-<description>مهندسی سطحی غشاهای ماتریس مختلط استات سلولز با هتروساختار CoNi-ZIF-67@Fe-MIL-100 برای جداسازی CO2 با گزینش‌پذیری بالا و پایداری انجام شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 mixed matrix membrane · CO2 separation · CoNi-ZIF-67 · Fe-MIL-100 · interfacial engineering</description>
-<category>mixed matrix membrane</category>
-<category>CO2 separation</category>
-<category>CoNi-ZIF-67</category>
-<category>Fe-MIL-100</category>
-<category>interfacial engineering</category>
-</item>
-<item>
-<title>Disordered Near-Field Metasurfaces for On-Chip Wavelength Demultiplexing</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03564</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03564</guid>
-<pubDate>Fri, 02 Oct 2026 22:00:55 GMT</pubDate>
-<description>این مقاله متاسطوح بی‌نظم برای شکل‌دهی میدان نزدیک معرفی می‌کند که با تداخل surface plasmon، نور را هدایت، متمرکز و demultiplex می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 near-field metasurface · surface plasmon · wavelength demultiplexing · disordered scatterers · on-chip photonics</description>
-<category>near-field metasurface</category>
-<category>surface plasmon</category>
-<category>wavelength demultiplexing</category>
-<category>disordered scatterers</category>
-<category>on-chip photonics</category>
 </item>
 </channel>
 </rss>
