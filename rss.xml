@@ -5,8 +5,34 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 20:01:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 21:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanical Flipping of [1]Rotaxanes Toughens Polymer Networks</title>
+<link>https://doi.org/10.1021/jacs.6c15261</link>
+<guid isPermaLink="false">10.1021/jacs.6c15261</guid>
+<pubDate>Sun, 04 Oct 2026 21:01:14 GMT</pubDate>
+<description>رفتار مکانیکی دو [1]rotaxane مبتنی بر اتر تاجی بررسی شد و نشان داده شد که flipping مولکولی با سد انرژی مناسب، چقرمگی و کشش‌پذیری شبکه پلیمری را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 [1]rotaxane · polymer networks · mechanical properties · molecular flipping · toughness</description>
+<category>[1]rotaxane</category>
+<category>polymer networks</category>
+<category>mechanical properties</category>
+<category>molecular flipping</category>
+<category>toughness</category>
+</item>
+<item>
+<title>Complex Fragment Coupling via O -Mesyl Hydroxylamines: Direct Conversion of Primary Amines to Electrophilic Aminating Agents</title>
+<link>https://doi.org/10.1021/jacs.6c14811</link>
+<guid isPermaLink="false">10.1021/jacs.6c14811</guid>
+<pubDate>Sun, 04 Oct 2026 21:01:10 GMT</pubDate>
+<description>تبدیل مستقیم آمین‌های نوع اول به N-alkyl-O-mesyl hydroxylamines با MPO انجام شد که امکان آمین‌دار کردن الکتروفیلی قطعات آمینی پیچیده و کایرال را فراهم می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electrophilic amination · O-mesyl hydroxylamines · C-N bond formation · primary amines · umpolung</description>
+<category>electrophilic amination</category>
+<category>O-mesyl hydroxylamines</category>
+<category>C-N bond formation</category>
+<category>primary amines</category>
+<category>umpolung</category>
+</item>
 <item>
 <title>Stabilizing Water Molecules in Hydrogel Electrolytes Enables 2.8 V‐Class Purely Aqueous Zn–Li Hybrid Batteries</title>
 <link>https://doi.org/10.1002/adma.75221</link>
@@ -1182,30 +1208,6 @@
 <category>coordination chemistry</category>
 <category>reactivity</category>
 <category>catalysis</category>
-</item>
-<item>
-<title>Semitransparent Organic Photovoltaic Achieving 12.98% Efficiency and 33.95% Average Visible Light Transmittance by Employing PPT‐3 With Large Bandgap and Narrow Photon Harvesting Range</title>
-<link>https://doi.org/10.1002/aenm.71679</link>
-<guid isPermaLink="false">10.1002/aenm.71679</guid>
-<pubDate>Sat, 03 Oct 2026 12:01:16 GMT</pubDate>
-<description>با انتخاب پلیمر PPT-3 با باندگپ پهن و جذب فوتون باریک، فتوولتائیک آلی نیمه‌شفاف با بازده 12.98% و شفافیت 33.95% ساخته شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 semitransparent OPV · wide-bandgap polymer · PPT-3 · BTP-eC9 · light utilization efficiency</description>
-<category>semitransparent OPV</category>
-<category>wide-bandgap polymer</category>
-<category>PPT-3</category>
-<category>BTP-eC9</category>
-<category>light utilization efficiency</category>
-</item>
-<item>
-<title>Infiltrating Metal Adhesive Layer for Mechanically Integrated Dry Electrodes</title>
-<link>https://doi.org/10.1002/aenm.71661</link>
-<guid isPermaLink="false">10.1002/aenm.71661</guid>
-<pubDate>Sat, 03 Oct 2026 12:01:13 GMT</pubDate>
-<description>لایه چسبنده فلزی ایندیم با نفوذ در الکترود خشک، اتصال مکانیکی را تقویت کرده و پایداری چرخه‌ای باتری لیتیوم-یونی با بارگذاری بالا را بهبود می‌بخشد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is a sputter-coated indium metal adhesive layer enabling all-solvent-free dry electrode manufacturing. It infiltrates graphite film pores and entangles with PTFE fibrils, strengthening interfacial contact. This yields 91.3% capacity retention after 150 cycles and stable pouch-cell cycling without delamination, offering a route to mechanically robust, high-loading dry electrodes for high-energy lithium-ion batteries.&lt;br&gt;🏷 dry electrodes · indium adhesive layer · lithium-ion batteries · PTFE fibrils · mechanical integrity</description>
-<category>dry electrodes</category>
-<category>indium adhesive layer</category>
-<category>lithium-ion batteries</category>
-<category>PTFE fibrils</category>
-<category>mechanical integrity</category>
 </item>
 </channel>
 </rss>
