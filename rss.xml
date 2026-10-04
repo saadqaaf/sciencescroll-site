@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 03:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 04:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interlayer-Confined BT@Liquid Metal/PVDF Nanofibrous Composites for Flexible Self-Powered Acoustic Sensing</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114271</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114271</guid>
+<pubDate>Sun, 04 Oct 2026 04:01:01 GMT</pubDate>
+<description>این مقاله کامپوزیت‌های نانولیفی BT@Liquid Metal/PVDF را برای حس‌گری صوتی انعطاف‌پذیر خودتوان طراحی کرده و عملکرد آن را نشان می‌دهد.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 PVDF nanofibers · liquid metal · BT nanoparticles · flexible acoustic sensor · self-powered sensing</description>
+<category>PVDF nanofibers</category>
+<category>liquid metal</category>
+<category>BT nanoparticles</category>
+<category>flexible acoustic sensor</category>
+<category>self-powered sensing</category>
+</item>
+<item>
+<title>MODELLING THE CYCLE-MIX EFFECT ON TRANSVERSE CRACKING IN COMPOSITE LAMINATES UNDER TENSION-TENSION SPECTRUM LOADINGS</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114269</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114269</guid>
+<pubDate>Sun, 04 Oct 2026 04:00:58 GMT</pubDate>
+<description>این مقاله اثر ترکیب چرخه‌ها را بر ترک‌خوردگی عرضی در لمینت‌های کامپوزیتی تحت بارگذاری طیفی کشش-کشش مدل‌سازی می‌کند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 composite laminates · transverse cracking · cycle-mix effect · spectrum loading · damage modelling</description>
+<category>composite laminates</category>
+<category>transverse cracking</category>
+<category>cycle-mix effect</category>
+<category>spectrum loading</category>
+<category>damage modelling</category>
+</item>
 <item>
 <title>Trajectory-dependent electronic stopping in simulations of self-ion ranges in elemental semiconductors</title>
 <link>https://doi.org/10.1038/s41524-026-02347-9</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 four-p
 <category>wavelength demultiplexing</category>
 <category>disordered scatterers</category>
 <category>on-chip photonics</category>
-</item>
-<item>
-<title>Degradation-informed feature-graph selective state-space network for state-of-health estimation of lithium-ion batteries under fast-charging conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.124950</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124950</guid>
-<pubDate>Fri, 02 Oct 2026 21:01:46 GMT</pubDate>
-<description>این مقاله یک شبکه حالت-فضای گزینشی مبتنی بر گراف ویژگی و آگاه از تخریب را برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون در شرایط شارژ سریع ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state-of-health estimation · fast charging · state-space network · feature graph</description>
-<category>lithium-ion battery</category>
-<category>state-of-health estimation</category>
-<category>fast charging</category>
-<category>state-space network</category>
-<category>feature graph</category>
-</item>
-<item>
-<title>A multifunctional Janus metamaterial with a tunable anisotropic layer for universal Laplacian field control</title>
-<link>https://doi.org/10.1039/d6mh01631f</link>
-<guid isPermaLink="false">10.1039/d6mh01631f</guid>
-<pubDate>Fri, 02 Oct 2026 21:01:40 GMT</pubDate>
-<description>یک متاماده Janus دوجزئی و قابل تنظیم، کنترل میدان‌های لاپلاسی مانند گرما و الکتریسیته را با قابلیت تغییر بین تمرکز، چرخش و شفافیت فراهم می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 Janus metamaterial · Laplacian field control · anisotropic layer · thermal-electric field · tunable bilayer</description>
-<category>Janus metamaterial</category>
-<category>Laplacian field control</category>
-<category>anisotropic layer</category>
-<category>thermal-electric field</category>
-<category>tunable bilayer</category>
 </item>
 </channel>
 </rss>
