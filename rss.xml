@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 08:01:08 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 09:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cu/Ni Co-doping Enhances Solar-Driven CO2-to-CH4 Conversion in Semiconductor-Methanogen Biohybrids</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127598</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127598</guid>
+<pubDate>Sun, 04 Oct 2026 09:01:15 GMT</pubDate>
+<description>هم‌دوپینگ Cu/Ni در بیوهیبریدهای نیمه‌هادی-متانوژن، تبدیل خورشیدی CO2 به CH4 را تقویت می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 biohybrid · CO2 methanation · Cu/Ni co-doping · semiconductor-methanogen · solar-driven conversion</description>
+<category>biohybrid</category>
+<category>CO2 methanation</category>
+<category>Cu/Ni co-doping</category>
+<category>semiconductor-methanogen</category>
+<category>solar-driven conversion</category>
+</item>
 <item>
 <title>Defect engineering and functional modulation of nickel oxide for electronic and energy devices</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218595</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 four-p
 <category>aqueous complexation</category>
 <category>bioconjugation</category>
 <category>EDC/NHS</category>
-</item>
-<item>
-<title>Engineering magnetic soft materials for biomedical applications</title>
-<link>https://doi.org/10.1038/s41578-026-00963-x</link>
-<guid isPermaLink="false">10.1038/s41578-026-00963-x</guid>
-<pubDate>Fri, 02 Oct 2026 23:01:06 GMT</pubDate>
-<description>این مقاله مروری به مهندسی مواد نرم مغناطیسی برای کاربردهای زیست‌پزشکی مانند رباتیک نرم، دارورسانی و مهندسی بافت می‌پردازد.&lt;br&gt;Nature Reviews Materials | ⭐ Review&lt;br&gt;🏷 magnetic soft materials · biomedical applications · soft robotics · drug delivery · tissue engineering</description>
-<category>magnetic soft materials</category>
-<category>biomedical applications</category>
-<category>soft robotics</category>
-<category>drug delivery</category>
-<category>tissue engineering</category>
 </item>
 </channel>
 </rss>
