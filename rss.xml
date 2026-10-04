@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 22:05:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 23:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High tensile strength across large temperature range in a CrCoNi composite produced by additive manufacturing</title>
+<link>https://doi.org/10.1016/j.addma.2026.105391</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105391</guid>
+<pubDate>Sun, 04 Oct 2026 23:01:20 GMT</pubDate>
+<description>کامپوزیت CrCoNi تولیدشده با ساخت افزودنی در گستره دمایی وسیع استحکام کششی بالایی نشان می‌دهد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 CrCoNi · additive manufacturing · high-entropy alloy · tensile strength · temperature range</description>
+<category>CrCoNi</category>
+<category>additive manufacturing</category>
+<category>high-entropy alloy</category>
+<category>tensile strength</category>
+<category>temperature range</category>
+</item>
 <item>
 <title>A Semi‐Interpenetrating Network Hydrogel With Synergistic Ionic‐Electronic Dual‐Conduction for High‐Performance Wearable Sensing</title>
 <link>https://doi.org/10.1002/smll.76122</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electr
 <category>furfuryl alcohol</category>
 <category>sulfide additive</category>
 <category>selectivity</category>
-</item>
-<item>
-<title>Sidechain Modulation of Responsive Metal‐Organic Framework Pore Chirality for Enhanced Enantioseparation</title>
-<link>https://doi.org/10.1002/anie.3686104</link>
-<guid isPermaLink="false">10.1002/anie.3686104</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:08 GMT</pubDate>
-<description>یک MOF کایرال با زنجیره جانبی والین برای جداسازی انانتیومری طراحی شد که با انعطاف‌پذیری کانال‌ها عملکرد جداسازی بهتری نسبت به زنجیره متیل کوتاه‌تر نشان می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chiral MOF · enantioseparation · sidechain modulation · pore chirality · chromatography</description>
-<category>chiral MOF</category>
-<category>enantioseparation</category>
-<category>sidechain modulation</category>
-<category>pore chirality</category>
-<category>chromatography</category>
 </item>
 </channel>
 </rss>
