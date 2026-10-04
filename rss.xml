@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 01:01:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 02:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Trajectory-dependent electronic stopping in simulations of self-ion ranges in elemental semiconductors</title>
+<link>https://doi.org/10.1038/s41524-026-02347-9</link>
+<guid isPermaLink="false">10.1038/s41524-026-02347-9</guid>
+<pubDate>Sun, 04 Oct 2026 02:01:17 GMT</pubDate>
+<description>پارامتری‌سازی مدل دو-دمایی برای خودیون‌ها در نیمه‌هادی‌ها، توقف الکترونی و پروفایل‌های نفوذ را مطابق با داده‌های تجربی و rt-TDDFT پیش‌بینی می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electronic stopping · semiconductors · ion ranges · rt-TDDFT · channeling</description>
+<category>electronic stopping</category>
+<category>semiconductors</category>
+<category>ion ranges</category>
+<category>rt-TDDFT</category>
+<category>channeling</category>
+</item>
+<item>
+<title>Geometric Response of Silanol-Anchored Co(II) Site Regulates Propane C–H Activation Barrier in Silicalite-1</title>
+<link>https://doi.org/10.1021/acscatal.6c04632</link>
+<guid isPermaLink="false">10.1021/acscatal.6c04632</guid>
+<pubDate>Sun, 04 Oct 2026 02:01:14 GMT</pubDate>
+<description>فاصله بین سیلانول‌های لنگرگاه، زاویه O–Co–O را تنظیم کرده و سد فعال‌سازی C–H پروپان را در کاتالیزور Co/S-1 کنترل می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 cobalt sites · silicalite-1 · propane dehydrogenation · C–H activation · silanol anchoring</description>
+<category>cobalt sites</category>
+<category>silicalite-1</category>
+<category>propane dehydrogenation</category>
+<category>C–H activation</category>
+<category>silanol anchoring</category>
+</item>
+<item>
+<title>Influence of Ligand Denticity and Nuclearity on the Catalytic Activity and Product Selectivity in Oxygen Reduction Reaction Catalyzed by Copper(II) Complexes</title>
+<link>https://doi.org/10.1021/acscatal.6c05458</link>
+<guid isPermaLink="false">10.1021/acscatal.6c05458</guid>
+<pubDate>Sun, 04 Oct 2026 02:01:11 GMT</pubDate>
+<description>کمپلکس‌های Cu(II) با لیگاندهای پنتا و تترادندیت، نقش دندانیسیتی را در فعالیت و گزینش‌پذیری واکنش کاهش اکسیژن نشان می‌دهند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 copper complexes · oxygen reduction · ligand denticity · PCET · selectivity</description>
+<category>copper complexes</category>
+<category>oxygen reduction</category>
+<category>ligand denticity</category>
+<category>PCET</category>
+<category>selectivity</category>
+</item>
+<item>
+<title>Embrace the Mess: Theory for Disordered Surfaces of Working Catalysts</title>
+<link>https://doi.org/10.1021/acscatal.6c06690</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06690</guid>
+<pubDate>Sun, 04 Oct 2026 02:01:07 GMT</pubDate>
+<description>این مقاله دیدگاهی نظری برای درک سطوح بی‌نظم کاتالیزورهای فعال ارائه می‌دهد و بر لزوم پذیرش پیچیدگی ساختاری تأکید دارد.&lt;br&gt;ACS Catalysis | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 disordered surfaces · working catalysts · theory · surface reconstruction · catalysis</description>
+<category>disordered surfaces</category>
+<category>working catalysts</category>
+<category>theory</category>
+<category>surface reconstruction</category>
+<category>catalysis</category>
+</item>
+<item>
+<title>Damage-tolerant Cu/Cu2TiAl heterostructure enabled by Al-modified interlayer design for Ti6Al4V/CoCrFeNi dissimilar metals</title>
+<link>https://doi.org/10.1016/j.jmst.2026.08.108</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.08.108</guid>
+<pubDate>Sun, 04 Oct 2026 02:01:03 GMT</pubDate>
+<description>طراحی لایه میانی اصلاح‌شده با Al برای اتصال Ti6Al4V به CoCrFeNi، ریزساختار Cu/Cu2TiAl مقاوم به آسیب ایجاد می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 Ti6Al4V/CoCrFeNi · heterostructure · interlayer design · damage tolerance · dissimilar metals</description>
+<category>Ti6Al4V/CoCrFeNi</category>
+<category>heterostructure</category>
+<category>interlayer design</category>
+<category>damage tolerance</category>
+<category>dissimilar metals</category>
+</item>
 <item>
 <title>Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation</title>
 <link>https://doi.org/10.1038/s41467-026-78050-6</link>
@@ -1152,66 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 four-p
 <category>anisotropic layer</category>
 <category>thermal-electric field</category>
 <category>tunable bilayer</category>
-</item>
-<item>
-<title>Synergistic Carbon Core–Chromophore Architecture: From Broadband UV-Blue Light Shielding to Multifunctional Applications</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122183</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122183</guid>
-<pubDate>Fri, 02 Oct 2026 20:04:34 GMT</pubDate>
-<description>معماری هم‌افزای هسته کربنی-کروموفور برای محافظت پهن‌باند UV-آبی طراحی شده و کاربردهای چندمنظوره فراتر از جذب نور ارائه می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 carbon core · chromophore · UV-blue shielding · broadband absorption · multifunctional materials</description>
-<category>carbon core</category>
-<category>chromophore</category>
-<category>UV-blue shielding</category>
-<category>broadband absorption</category>
-<category>multifunctional materials</category>
-</item>
-<item>
-<title>Systematic fine-tuning of MACE interatomic potentials for catalysis</title>
-<link>https://doi.org/10.1038/s41524-026-02335-z</link>
-<guid isPermaLink="false">10.1038/s41524-026-02335-z</guid>
-<pubDate>Fri, 02 Oct 2026 20:04:31 GMT</pubDate>
-<description>مقایسه نه پتانسیل بین‌اتمی MACE نشان می‌دهد مدل‌های fine-tuned نسبت به طراحی مجموعه آموزش حساسیت کمتری داشته و به شیمی خارج از توزیع بهتر تعمیم می‌یابند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 MACE interatomic potentials · fine-tuning · catalysis · reaction barriers · training set design</description>
-<category>MACE interatomic potentials</category>
-<category>fine-tuning</category>
-<category>catalysis</category>
-<category>reaction barriers</category>
-<category>training set design</category>
-</item>
-<item>
-<title>Trans-Eurasian steppe herder and barley farmer migrations shaped paternal genomic dynamics in Northwest China and Hui evolution</title>
-<link>https://doi.org/10.1126/sciadv.aeg8897</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg8897</guid>
-<pubDate>Fri, 02 Oct 2026 20:04:27 GMT</pubDate>
-<description>تحلیل گسترده کروموزوم Y نشان می‌دهد مهاجرت‌های چوپانان استپ و کشاورزان جو در اوراسیا، دینامیک پدری شمال‌غرب چین و تکامل هوئی را شکل داده است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Y-chromosome phylogeny · steppe herders · barley farmers · Northwest China · Hui substructures</description>
-<category>Y-chromosome phylogeny</category>
-<category>steppe herders</category>
-<category>barley farmers</category>
-<category>Northwest China</category>
-<category>Hui substructures</category>
-</item>
-<item>
-<title>Chip-scale modulation-free laser stabilization using vacuum-gap micro-Fabry–Pérot cavity</title>
-<link>https://doi.org/10.1126/sciadv.aed9945</link>
-<guid isPermaLink="false">10.1126/sciadv.aed9945</guid>
-<pubDate>Fri, 02 Oct 2026 20:04:24 GMT</pubDate>
-<description>یک تکنیک تثبیت لیزری بدون مدولاسیون روی تراشه سیلیکونی با حفره میکرو-Fabry-Pérot خلأ، پهنای خط را ۳۸ برابر کاهش و نویز فرکانسی را ۳۰ دسی‌بل کم می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 laser stabilization · micro-Fabry-Pérot cavity · silicon photonics · vacuum-gap cavity · frequency noise</description>
-<category>laser stabilization</category>
-<category>micro-Fabry-Pérot cavity</category>
-<category>silicon photonics</category>
-<category>vacuum-gap cavity</category>
-<category>frequency noise</category>
-</item>
-<item>
-<title>An anoxygenic photosynthesis-inspired dual biohybrid for light-enhanced chemical production</title>
-<link>https://doi.org/10.1126/sciadv.aef4504</link>
-<guid isPermaLink="false">10.1126/sciadv.aef4504</guid>
-<pubDate>Fri, 02 Oct 2026 20:04:20 GMT</pubDate>
-<description>یک سیستم دوگانه زیست‌ترکیبی با پلیمر مزدوج خارج‌سلولی و CdS داخل‌سلولی، تولید مالئات را در E. coli زیر نور حدود ۳۰ برابر افزایش می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 biohybrid · anoxygenic photosynthesis · CdS nanoparticles · conjugated polymer · malate production</description>
-<category>biohybrid</category>
-<category>anoxygenic photosynthesis</category>
-<category>CdS nanoparticles</category>
-<category>conjugated polymer</category>
-<category>malate production</category>
 </item>
 </channel>
 </rss>
