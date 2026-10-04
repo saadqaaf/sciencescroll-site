@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 16:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 17:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stabilizing Water Molecules in Hydrogel Electrolytes Enables 2.8 V‐Class Purely Aqueous Zn–Li Hybrid Batteries</title>
+<link>https://doi.org/10.1002/adma.75221</link>
+<guid isPermaLink="false">10.1002/adma.75221</guid>
+<pubDate>Sun, 04 Oct 2026 17:01:30 GMT</pubDate>
+<description>استراتژی محدودسازی شدید آب در هیدروژل، پتانسیل آزادسازی اکسیژن را به 2.85 V می‌رساند و باتری آبی Zn-Li با ولتاژ متوسط 2.35 V را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers an extreme water-confinement hydrogel electrolyte that raises water&amp;#x27;s oxygen evolution potential to 2.85 V, enabling a 2.8 V-class purely aqueous Zn–Li hybrid battery with a record 2.35 V average voltage. It breaks the longstanding 2.0 V ceiling for aqueous zinc batteries, offering a viable path toward ultrahigh-voltage, wearable, and intelligent electronics.&lt;br&gt;🏷 aqueous zinc battery · hydrogel electrolyte · water confinement · high voltage · Zn-Li hybrid</description>
+<category>aqueous zinc battery</category>
+<category>hydrogel electrolyte</category>
+<category>water confinement</category>
+<category>high voltage</category>
+<category>Zn-Li hybrid</category>
+</item>
+<item>
+<title>Nano‐Stabilizer Engineering of Rare‐Earth Metal Single‐Atom Site for Boosted Oxygen Electroreduction and Metal‐Air Batteries</title>
+<link>https://doi.org/10.1002/adma.75283</link>
+<guid isPermaLink="false">10.1002/adma.75283</guid>
+<pubDate>Sun, 04 Oct 2026 17:01:24 GMT</pubDate>
+<description>مهندسی نانو-تثبیت‌کننده تک‌اتمی Pr برای پایدارسازی سایت‌های Fe-N4O، فعالیت ORR و عملکرد باتری فلز-هوا را بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Rare-earth Pr single-atom nano-stabilizers stabilize Fe-N4O sites by anchoring axial O, downshifting Fe d-band center and easing *OH desorption. FePr-ISAS/CN achieves 0.921 V half-wave potential, surpassing Fe-ISAS/CN and Pt/C, and 360 mW cm⁻² in Al-air batteries. This demonstrates rare-earth nano-stabilizer engineering as a novel route to durable, highly active oxygen reduction electrocatalysts.&lt;br&gt;🏷 single-atom catalyst · rare-earth Pr · oxygen reduction reaction · metal-air battery · Fe-N4O site</description>
+<category>single-atom catalyst</category>
+<category>rare-earth Pr</category>
+<category>oxygen reduction reaction</category>
+<category>metal-air battery</category>
+<category>Fe-N4O site</category>
+</item>
+<item>
+<title>Vacancy‐Mediated Sulfur Exchange Between Catalysts and Polysulfides Accelerates Sulfur Redox Kinetics in Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/adma.75210</link>
+<guid isPermaLink="false">10.1002/adma.75210</guid>
+<pubDate>Sun, 04 Oct 2026 17:01:16 GMT</pubDate>
+<description>مکانیسم تبادل گوگرد با واسطه جای خالی در Bi2S3، سینتیک ردوکس گوگرد را در باتری لیتیوم-گوگرد تسریع کرده و به چگالی انرژی بالا در پاکت سل می‌رسد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Vacancy-mediated sulfur exchange is identified as a new mechanism accelerating sulfur redox in Li–S batteries. Using ³⁴S labeling on Bi₂S₃, sulfur vacancies act as exchange centers enabling lattice incorporation and reconstruction. Vacancy density directly correlates with exchange extent and catalysis; it doubles interfacial area and lowers the Li₂S barrier from 0.352 to 0.179 eV, enabling a 504 Wh kg⁻¹ pouch cell.&lt;br&gt;🏷 lithium-sulfur battery · sulfur vacancy · sulfur exchange · Bi2S3 catalyst · polysulfide conversion</description>
+<category>lithium-sulfur battery</category>
+<category>sulfur vacancy</category>
+<category>sulfur exchange</category>
+<category>Bi2S3 catalyst</category>
+<category>polysulfide conversion</category>
+</item>
 <item>
 <title>Microstructured Metal Electrodeposition at a Micellar Brush‐Decorated Interface</title>
 <link>https://doi.org/10.1002/anie.5308557</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>FeCoNi alloy</category>
 <category>nitrogen-doped carbon</category>
 <category>cycling performance</category>
-</item>
-<item>
-<title>A cloud-fuzzy multi-objective optimization framework for allocation of bidirectional energy storage based electric bus charging station and renewable resources in distribution network incorporating carbon trading and technical-operational flexibility</title>
-<link>https://doi.org/10.1016/j.est.2026.124597</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124597</guid>
-<pubDate>Wed, 30 Sep 2026 19:01:39 GMT</pubDate>
-<description>یک چارچوب بهینه‌سازی چندهدفه ابری-فازی برای تخصیص ذخیره‌سازی انرژی دوطرفه و منابع تجدیدپذیر در شبکه توزیع با تجارت کربن ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy storage · electric bus charging · renewable resources · carbon trading · multi-objective optimization</description>
-<category>energy storage</category>
-<category>electric bus charging</category>
-<category>renewable resources</category>
-<category>carbon trading</category>
-<category>multi-objective optimization</category>
-</item>
-<item>
-<title>Bacteria and spent media introduced tri-doping in bacterial cellulose-derived micro-mesoporous carbon nanofibers for Li-S battery cathodes</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122173</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122173</guid>
-<pubDate>Wed, 30 Sep 2026 18:04:03 GMT</pubDate>
-<description>این پژوهش با استفاده از باکتری و محیط مصرف‌شده، نانوالیاف کربنی میکرو-مزوپور متخلخل سه‌گانه‌دوپ‌شده از سلولز باکتریایی را برای کاتد باتری لیتیوم-گوگرد سنتز می‌کند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 Li-S battery · bacterial cellulose · tri-doped carbon · micro-mesoporous carbon · cathode</description>
-<category>Li-S battery</category>
-<category>bacterial cellulose</category>
-<category>tri-doped carbon</category>
-<category>micro-mesoporous carbon</category>
-<category>cathode</category>
-</item>
-<item>
-<title>Intestinal Villi‐Inspired Living Biobatteries via Habitat‐Engineered Conductive Hydrogel Architectures</title>
-<link>https://doi.org/10.1002/smll.76091</link>
-<guid isPermaLink="false">10.1002/smll.76091</guid>
-<pubDate>Wed, 30 Sep 2026 18:03:45 GMT</pubDate>
-<description>این پژوهش با الهام از پرزهای روده، آرایه‌های هیدروژل رسانا با اسپورهای Bacillus subtilis را برای ساخت biobattery زنده طراحی می‌کند که چگالی توان حجمی را ۸.۳ برابر نسبت به نمونه مسطح افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers &amp;quot;living habitat engineering&amp;quot; for microbial biobatteries, mimicking intestinal villi via spore-programmed conductive hydrogel pillar arrays. The architecture boosts volumetric power density 8.3-fold over planar controls, reveals a radius–height design rule, and enables nutrient-triggered, shelf-stable, self-powered sensing—establishing a transformative paradigm for activatable, architecture-programmed biobatteries.&lt;br&gt;🏷 microbial biobattery · conductive hydrogel · Bacillus subtilis spores · villi-inspired architecture · bioelectrocatalysis</description>
-<category>microbial biobattery</category>
-<category>conductive hydrogel</category>
-<category>Bacillus subtilis spores</category>
-<category>villi-inspired architecture</category>
-<category>bioelectrocatalysis</category>
 </item>
 </channel>
 </rss>
