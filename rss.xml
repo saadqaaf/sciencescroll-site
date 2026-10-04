@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 04 Oct 2026 07:01:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 08:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Defect engineering and functional modulation of nickel oxide for electronic and energy devices</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218595</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218595</guid>
+<pubDate>Sun, 04 Oct 2026 08:01:05 GMT</pubDate>
+<description>این مقاله مروری به مهندسی نقص و تنظیم عملکردی اکسید نیکل برای کاربرد در دستگاه‌های الکترونیکی و انرژی می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 nickel oxide · defect engineering · electronic devices · energy devices · functional modulation</description>
+<category>nickel oxide</category>
+<category>defect engineering</category>
+<category>electronic devices</category>
+<category>energy devices</category>
+<category>functional modulation</category>
+</item>
 <item>
 <title>Universal performance improvements in CuSCN-based devices enabled by CuBr2 doping: Transistors, solar cells, and photodetectors</title>
 <link>https://doi.org/10.1016/j.mser.2026.101314</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 four-p
 <category>soft robotics</category>
 <category>drug delivery</category>
 <category>tissue engineering</category>
-</item>
-<item>
-<title>Dispersion-Free, Particle-Level CNT Networks via In Situ Growth on LiFePO₄ for Stable High-Loading Dry Electrodes</title>
-<link>https://doi.org/10.1039/d6ta04601k</link>
-<guid isPermaLink="false">10.1039/d6ta04601k</guid>
-<pubDate>Fri, 02 Oct 2026 23:01:03 GMT</pubDate>
-<description>الکترودهای خشک LiFePO4 با بارگذاری بالا از طریق رشد درجای شبکه‌های CNT در سطح ذرات، بدون پراکندگی، برای پایداری چرخه‌ای طولانی ساخته شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 In situ growth of carbon nanotubes directly on LiFePO₄ eliminates dispersion steps, creating particle-level conductive networks for solvent-free dry electrodes. This enables thick, high-loading electrodes with stable cycling by simultaneously addressing electronic connectivity and mechanical integrity without solvent processing, offering a scalable route to sustainable, high-energy-density lithium-ion batteries.&lt;br&gt;🏷 dry electrode · LiFePO4 · carbon nanotube · high loading · cycling stability</description>
-<category>dry electrode</category>
-<category>LiFePO4</category>
-<category>carbon nanotube</category>
-<category>high loading</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
