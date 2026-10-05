@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 04:01:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 05:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Per- and poly-fluoroalkyl substances in bottled water samples from France, Italy, Belgium, Romania, Portugal, Lithuania, Georgia, Morocco, United States, Mexico, and China</title>
+<link>https://doi.org/10.1007/s10311-026-01929-9</link>
+<guid isPermaLink="false">10.1007/s10311-026-01929-9</guid>
+<pubDate>Mon, 05 Oct 2026 05:01:41 GMT</pubDate>
+<description>غلظت PFAS در نمونه‌های آب بطری از چندین کشور جهان اندازه‌گیری و آلودگی گسترده گزارش شده است.&lt;br&gt;Environmental Chemistry Letters | 🔬 Research Article&lt;br&gt;🏷 PFAS · bottled water · contamination · LC-MS/MS · global survey</description>
+<category>PFAS</category>
+<category>bottled water</category>
+<category>contamination</category>
+<category>LC-MS/MS</category>
+<category>global survey</category>
+</item>
+<item>
+<title>A Perfluorooctanol Functionalization Strategy Boosting CO2 Electroreduction to Ethylene</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127592</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127592</guid>
+<pubDate>Mon, 05 Oct 2026 05:01:38 GMT</pubDate>
+<description>یک استراتژی عامل‌دار کردن با perfluorooctanol برای بهبود الکتروکاهش CO2 به ethylene ارائه شده است.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · ethylene · perfluorooctanol · functionalization · copper electrode</description>
+<category>CO2 electroreduction</category>
+<category>ethylene</category>
+<category>perfluorooctanol</category>
+<category>functionalization</category>
+<category>copper electrode</category>
+</item>
 <item>
 <title>Recent progress on ZIF-derived iron single-atom catalysts for electrocatalytic oxygen reduction</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218614</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electr
 <category>NSCLC</category>
 <category>phase I trial</category>
 <category>T cell infiltration</category>
-</item>
-<item>
-<title>Multivalent antiviral conjugates enhance activity against Influenza via cross-linking viruses</title>
-<link>https://doi.org/10.1038/s41467-026-78126-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-78126-3</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:25 GMT</pubDate>
-<description>کانژوگه‌های چندظرفیتی ضدویروسی با کلیک شیمی ساخته شدند و کانژوگه سه‌ظرفیتی زانامیویر-Fc با اتصال عرضی ویروس‌ها فعالیت ضدآنفلوانزا را افزایش داد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 antiviral conjugates · influenza · multivalency · Fc conjugation · cross-linking</description>
-<category>antiviral conjugates</category>
-<category>influenza</category>
-<category>multivalency</category>
-<category>Fc conjugation</category>
-<category>cross-linking</category>
-</item>
-<item>
-<title>A family of small proteins links c-di-GMP riboswitch signaling with sporulation in Clostridioides difficile</title>
-<link>https://doi.org/10.1038/s41467-026-78452-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-78452-6</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:22 GMT</pubDate>
-<description>خانواده‌ای از پروتئین‌های کوچک تنظیم‌شده توسط ریبوسوئیچ c-di-GMP در C. difficile شناسایی شدند که با مهار اسپورزایی مرتبط هستند و بیان آن‌ها اسپورزایی را فعال می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 c-di-GMP · riboswitch · sporulation · Clostridioides difficile · small proteins</description>
-<category>c-di-GMP</category>
-<category>riboswitch</category>
-<category>sporulation</category>
-<category>Clostridioides difficile</category>
-<category>small proteins</category>
 </item>
 </channel>
 </rss>
