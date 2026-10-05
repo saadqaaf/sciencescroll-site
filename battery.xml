@@ -5,7 +5,7 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 14:01:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 15:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Bonding‐chemistry‐guided design of carbon frameworks for rechargeable‐ion batteries</title>
@@ -823,90 +823,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>commercialization</category>
 <category>volume expansion</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Spray-deposited SOG/MoS₂ hybrid coatings on carbon fiber electrodes for quasi-solid-state supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.124938</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124938</guid>
-<pubDate>Thu, 01 Oct 2026 15:01:54 GMT</pubDate>
-<description>این پژوهش پوشش‌های هیبریدی SOG/MoS2 را با رسوب‌پاشی بر الکترودهای الیاف کربن برای ابرخازن‌های شبه‌حالت جامد بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor · MoS2 · carbon fiber · spray deposition · quasi-solid-state</description>
-<category>supercapacitor</category>
-<category>MoS2</category>
-<category>carbon fiber</category>
-<category>spray deposition</category>
-<category>quasi-solid-state</category>
-</item>
-<item>
-<title>Metal-nitrogen coordination catalysts for lithium/thionyl chloride batteries: Structure-activity relationships and practical challenges</title>
-<link>https://doi.org/10.1016/j.est.2026.124931</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124931</guid>
-<pubDate>Thu, 01 Oct 2026 15:01:47 GMT</pubDate>
-<description>این مرور کاتالیزورهای هم‌آرایی فلز-نیتروژن را برای باتری‌های لیتیوم/تیونیل کلراید و روابط ساختار-فعالیت و چالش‌های عملی آن‌ها را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium/thionyl chloride battery · metal-nitrogen coordination · catalysts · structure-activity relationships · practical challenges</description>
-<category>lithium/thionyl chloride battery</category>
-<category>metal-nitrogen coordination</category>
-<category>catalysts</category>
-<category>structure-activity relationships</category>
-<category>practical challenges</category>
-</item>
-<item>
-<title>Antiferroelectric phase-field simulations via scale-invariant physics-informed neural operators</title>
-<link>https://doi.org/10.1038/s41524-026-02344-y</link>
-<guid isPermaLink="false">10.1038/s41524-026-02344-y</guid>
-<pubDate>Thu, 01 Oct 2026 14:02:52 GMT</pubDate>
-<description>یک اپراتور عصبی فیزیک‌محور چندشبکه‌ای، شبیه‌سازی میدان فاز آنتی‌فروالکتریک را با حفظ دقت و کاهش زمان از ساعت به ثانیه ممکن می‌سازد.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 PI-MgNO is a physics-informed multigrid neural operator that surrogates antiferroelectric phase-field simulations. Its novelty lies in Landau free-energy constraints enabling drift-free autoregressive tracking and a thermodynamic error-healing mechanism. This yields scale-invariant, seconds-long simulations of double hysteresis loops with R² &amp;gt; 0.96, bypassing the quasi-static relaxation bottleneck and making high-throughput polycrystalline energy-storage microstructure optimization feasible.&lt;br&gt;🏷 antiferroelectric · phase-field simulation · neural operator · energy storage · hysteresis loop</description>
-<category>antiferroelectric</category>
-<category>phase-field simulation</category>
-<category>neural operator</category>
-<category>energy storage</category>
-<category>hysteresis loop</category>
-</item>
-<item>
-<title>Cationic Imidazolium Sites: An Efficiency Strategy for Stabilizing High‐Capacity Cathodes in Zinc‐Iodine and Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/smll.76068</link>
-<guid isPermaLink="false">10.1002/smll.76068</guid>
-<pubDate>Thu, 01 Oct 2026 14:02:31 GMT</pubDate>
-<description>چارچوب تریازین کووالانسی کاتیونی حاوی ایمیدازولیوم به‌عنوان میزبان دوکاره برای باتری‌های زینک-ید و لیتیوم-گوگرد، اثر شاتل را مهار کرده و پایداری چرخه‌ای فوق‌العاده‌ای ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using an imidazolium-based cationic covalent triazine framework as a bifunctional host/catalyst for both zinc-iodine and lithium-sulfur batteries. Its cationic sites regulate intermediate adsorption and conversion, suppressing shuttle effects. Significance: ultra-long 100,000-cycle life in ZIBs and high 1275 mAh g⁻¹ capacity in LSBs, demonstrating a common strategy for stabilizing high-capacity cathodes.&lt;br&gt;🏷 zinc-iodine battery · lithium-sulfur battery · imidazolium · covalent triazine framework · shuttle effect</description>
-<category>zinc-iodine battery</category>
-<category>lithium-sulfur battery</category>
-<category>imidazolium</category>
-<category>covalent triazine framework</category>
-<category>shuttle effect</category>
-</item>
-<item>
-<title>Advanced Materials and Architecture Design for Efficient Hybrid Zinc‐Air Batteries</title>
-<link>https://doi.org/10.1002/smll.75789</link>
-<guid isPermaLink="false">10.1002/smll.75789</guid>
-<pubDate>Thu, 01 Oct 2026 14:02:19 GMT</pubDate>
-<description>این مرور به بررسی باتری‌های هیبریدی زینک-هوا با واکنش‌های اکسیداسیون کوچک‌مولکول مانند اوره، ید و اتانول برای بهبود بازده انرژی و پایداری چرخه می‌پردازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates hybrid zinc-air batteries that replace sluggish OER with low-overpotential urea, iodine, and ethanol oxidation, addressing catalytic bottlenecks, shuttle effects, and novel architectures. It further assesses economic feasibility for waste treatment and value-added chemical production, offering solutions and emerging trends, thereby advancing efficient, sustainable energy storage.&lt;br&gt;🏷 zinc-air battery · hybrid battery · oxygen evolution reaction · urea oxidation · ethanol oxidation</description>
-<category>zinc-air battery</category>
-<category>hybrid battery</category>
-<category>oxygen evolution reaction</category>
-<category>urea oxidation</category>
-<category>ethanol oxidation</category>
-</item>
-<item>
-<title>Stabilizing Li 5 FeO 4 Against Air Corrosion by In‐Situ Polymerization Engineering for High‐Performance Prelithiation</title>
-<link>https://doi.org/10.1002/smm2.70112</link>
-<guid isPermaLink="false">10.1002/smm2.70112</guid>
-<pubDate>Thu, 01 Oct 2026 14:02:14 GMT</pubDate>
-<description>پوشش پلیمری درجا بر روی Li5FeO4 از خوردگی هوا جلوگیری کرده و ظرفیت ۵۸۰ mAh/g را پس از ۱۰۰ ساعت حفظ می‌کند و چگالی انرژی را در سلول کامل افزایش می‌دهد.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 In-situ polymerized 10 nm organic coating stabilizes air-sensitive Li5FeO4, blocking H2O/CO2 corrosion and enhancing Li+ kinetics. Coated Li5FeO4 retains 580 mAh/g after 100 h versus 171 mAh/g after 6 h uncoated. As a 5% additive, it boosts cathode utilization by 15% and energy density by 18%, offering a practical solution for air-sensitive prelithiation materials.&lt;br&gt;🏷 Li5FeO4 · prelithiation · air stability · in-situ polymerization · surface coating</description>
-<category>Li5FeO4</category>
-<category>prelithiation</category>
-<category>air stability</category>
-<category>in-situ polymerization</category>
-<category>surface coating</category>
-</item>
-<item>
-<title>Single Crystals of a Two‐Dimensional Interpenetrated Covalent Organic Framework for Stabilizing Lithium Metal Anodes</title>
-<link>https://doi.org/10.1002/smm2.70113</link>
-<guid isPermaLink="false">10.1002/smm2.70113</guid>
-<pubDate>Thu, 01 Oct 2026 14:02:09 GMT</pubDate>
-<description>سنتز تک‌کریستال‌های COF دوپوش‌شده CityU-64 با پیوند B←N و استفاده از آن به‌عنوان ASEI برای آند لیتیوم فلزی، بهبود عملکرد الکتروشیمیایی را نشان می‌دهد.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Single crystals of a twofold interpenetrated 2D covalent organic framework (CityU-64) were synthesized via dative B←N bonds, combining intra-layer interpenetration with inter-layer interdigitation for exceptional stability. Its lithiophilic ether sites enable uniform lithium deposition, making it an effective artificial solid-electrolyte interphase that markedly improves lithium metal anode performance.&lt;br&gt;🏷 covalent organic framework · lithium metal anode · interpenetration · artificial SEI · single crystal</description>
-<category>covalent organic framework</category>
-<category>lithium metal anode</category>
-<category>interpenetration</category>
-<category>artificial SEI</category>
-<category>single crystal</category>
 </item>
 </channel>
 </rss>
