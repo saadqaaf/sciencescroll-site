@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 09:01:26 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 10:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tuning the d-Band Center via High-Entropy-Induced Lattice Strain Enables Reversible Nanosheet-like Li2O2 Electrocatalysis</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03851</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03851</guid>
+<pubDate>Mon, 05 Oct 2026 10:01:39 GMT</pubDate>
+<description>کاتالیزور سولفید با آنتروپی بالا (CoFeNiMnZn)3S4 با کرنش شبکه‌ای، مرکز نوار d را تنظیم کرده و تشکیل برگشت‌پذیر نانوصفحه‌های Li2O2 را در باتری Li-O2 ممکن می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 High-entropy sulfide (CoFeNiMnZn)₃S₄ introduces lattice strain that tunes the d-band center, optimizing intermediate adsorption. This yields nanosheet-like Li₂O₂ instead of film/toroid products, enabling reversible Li–O₂ batteries with 17874 mAh g⁻¹ capacity, 0.57 V overpotential, and 420+ cycles. It establishes a new paradigm for high-entropy electrocatalyst design.&lt;br&gt;🏷 Li-O2 battery · high-entropy sulfide · d-band center · lattice strain · Li2O2 nanosheets</description>
+<category>Li-O2 battery</category>
+<category>high-entropy sulfide</category>
+<category>d-band center</category>
+<category>lattice strain</category>
+<category>Li2O2 nanosheets</category>
+</item>
 <item>
 <title>Direct Integration of Calcium Nitrate Tetrahydrate PCM Into an Oscillating Heat Pipe for Passive Lithium‐Ion Battery Thermal Management</title>
 <link>https://doi.org/10.1002/bte2.70153</link>
@@ -907,42 +919,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>upcycling</category>
 <category>interlayer force</category>
 <category>fast charging</category>
-</item>
-<item>
-<title>Electrolyte Interfacial Reactivity Regulates Alloying Anode Pulverization</title>
-<link>https://doi.org/10.1002/aenm.71596</link>
-<guid isPermaLink="false">10.1002/aenm.71596</guid>
-<pubDate>Thu, 01 Oct 2026 10:01:42 GMT</pubDate>
-<description>واکنش‌پذیری سطح مشترک الکترولیت-آند، پودر شدن آند آلیاژی بیسموت را در باتری سدیم-یون کنترل می‌کند و ظرفیت ۹۹٪ را حفظ می‌نماید.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals that electrolyte interfacial reactivity, not SEI composition, governs alloying anode pulverization. Low-reactivity electrolytes yield porous micro-grained bismuth anodes with thin SEI and ~99% capacity retention over 250 cycles; high-reactivity electrolytes cause nanoparticle pulverization and rapid failure. Validated in Sn anodes, this offers a general design principle for durable high-energy alkali-ion batteries.&lt;br&gt;🏷 sodium-ion battery · alloying anode · bismuth anode · electrolyte reactivity · SEI</description>
-<category>sodium-ion battery</category>
-<category>alloying anode</category>
-<category>bismuth anode</category>
-<category>electrolyte reactivity</category>
-<category>SEI</category>
-</item>
-<item>
-<title>Hofmeister‐Type Anion Regulation Suppresses Electrochemical Acidification for Long‐Life TEMPO‐Based Aqueous Flow Batteries</title>
-<link>https://doi.org/10.1002/adma.75077</link>
-<guid isPermaLink="false">10.1002/adma.75077</guid>
-<pubDate>Thu, 01 Oct 2026 09:02:22 GMT</pubDate>
-<description>تنظیم آنیونی هافمایستر با جایگزینی کلرید با سولفات، اسیدی شدن الکتروشیمیایی را سرکوب و عمر باتری جریان آبی TEMPO را افزایش میدهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This study reveals that TEMPO catholyte acidification proceeds via chloride oxidation and reversible proton release, independent of substituents. It identifies Hofmeister-type anion regulation as the key control, showing kosmotropic sulfate suppresses acidification versus chaotropic chloride. This enables 97.6% capacity retention over 300 cycles and broad lifetime gains, establishing electrolyte engineering for durable aqueous flow batteries.&lt;br&gt;🏷 aqueous flow battery · TEMPO · Hofmeister anion · acidification · cycling stability</description>
-<category>aqueous flow battery</category>
-<category>TEMPO</category>
-<category>Hofmeister anion</category>
-<category>acidification</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Micro–Nano Hierarchical Structure From In Situ Functionalized MOFs Enables High‐Performance High‐Voltage Electrolytes</title>
-<link>https://doi.org/10.1002/adma.75227</link>
-<guid isPermaLink="false">10.1002/adma.75227</guid>
-<pubDate>Thu, 01 Oct 2026 09:01:58 GMT</pubDate>
-<description>این مقاله یک الکترولیت جامد کامپوزیتی سلسله‌مراتبی با رشد درجای MOF دوعاملی بر بستر استات سلولز را گزارش می‌کند که رسانایی یونی بالا و پنجره پایداری ۵.۵ ولت را فراهم می‌آورد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Inspired by lotus-leaf hierarchies, this work grows bifunctional MOF crystals in situ on cellulose acetate, combining micro-sized mechanical support with nano-sized polar sites for Li⁺ transport. The resulting solid electrolyte achieves 2.9×10⁻³ S cm⁻¹ conductivity, 0.61 transference number, 5.5 V stability, and 80.9% capacity retention after 300 cycles at 4.6 V, offering a practical route to upgrade commercial membranes.&lt;br&gt;🏷 solid-state electrolyte · MOF · lithium battery · high-voltage · hierarchical structure</description>
-<category>solid-state electrolyte</category>
-<category>MOF</category>
-<category>lithium battery</category>
-<category>high-voltage</category>
-<category>hierarchical structure</category>
 </item>
 </channel>
 </rss>
