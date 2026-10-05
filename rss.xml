@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 07:01:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 08:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Atomic‐Scale Control of Substrate‐Spin Coupling Via Vertical Manipulation of a 2D Metal‐Organic Framework</title>
+<link>https://doi.org/10.1002/smll.75928</link>
+<guid isPermaLink="false">10.1002/smll.75928</guid>
+<pubDate>Mon, 05 Oct 2026 08:01:11 GMT</pubDate>
+<description>با جابه‌جایی عمودی یک MOF دوبعدی Mott روی Ag(111) توسط STM، کوپلاژ Kondo بین اسپین‌های موضعی و الکترون‌های بستر به‌طور برگشت‌پذیر کنترل می‌شود.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 2D MOF · Kondo coupling · scanning tunneling microscopy · spin coupling · Mott insulator</description>
+<category>2D MOF</category>
+<category>Kondo coupling</category>
+<category>scanning tunneling microscopy</category>
+<category>spin coupling</category>
+<category>Mott insulator</category>
+</item>
+<item>
+<title>Polarization Holographic 4D Phenotyping Reveals Nanoplastic Induced Dysfunction in Zooplankton</title>
+<link>https://doi.org/10.1002/advs.77832</link>
+<guid isPermaLink="false">10.1002/advs.77832</guid>
+<pubDate>Mon, 05 Oct 2026 08:01:08 GMT</pubDate>
+<description>روش هولوگرافی قطبشی چهاربعدی، تغییرات حرکتی و ساختاری زئوپلانکتون‌ها را در اثر نانوپلاستیک‌های پلی‌استایرن بدون برچسب آشکار می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polarization holography · nanoplastic toxicity · zooplankton · 4D phenotyping · label-free imaging</description>
+<category>polarization holography</category>
+<category>nanoplastic toxicity</category>
+<category>zooplankton</category>
+<category>4D phenotyping</category>
+<category>label-free imaging</category>
+</item>
 <item>
 <title>A Radical Addition–Diradical Coupling Switch Unifies Cytochrome P450-Catalyzed Diketopiperazine Dimerization</title>
 <link>https://doi.org/10.1021/jacs.6c16809</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electr
 <category>ion ranges</category>
 <category>rt-TDDFT</category>
 <category>channeling</category>
-</item>
-<item>
-<title>Geometric Response of Silanol-Anchored Co(II) Site Regulates Propane C–H Activation Barrier in Silicalite-1</title>
-<link>https://doi.org/10.1021/acscatal.6c04632</link>
-<guid isPermaLink="false">10.1021/acscatal.6c04632</guid>
-<pubDate>Sun, 04 Oct 2026 02:01:14 GMT</pubDate>
-<description>فاصله بین سیلانول‌های لنگرگاه، زاویه O–Co–O را تنظیم کرده و سد فعال‌سازی C–H پروپان را در کاتالیزور Co/S-1 کنترل می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 cobalt sites · silicalite-1 · propane dehydrogenation · C–H activation · silanol anchoring</description>
-<category>cobalt sites</category>
-<category>silicalite-1</category>
-<category>propane dehydrogenation</category>
-<category>C–H activation</category>
-<category>silanol anchoring</category>
-</item>
-<item>
-<title>Influence of Ligand Denticity and Nuclearity on the Catalytic Activity and Product Selectivity in Oxygen Reduction Reaction Catalyzed by Copper(II) Complexes</title>
-<link>https://doi.org/10.1021/acscatal.6c05458</link>
-<guid isPermaLink="false">10.1021/acscatal.6c05458</guid>
-<pubDate>Sun, 04 Oct 2026 02:01:11 GMT</pubDate>
-<description>کمپلکس‌های Cu(II) با لیگاندهای پنتا و تترادندیت، نقش دندانیسیتی را در فعالیت و گزینش‌پذیری واکنش کاهش اکسیژن نشان می‌دهند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 copper complexes · oxygen reduction · ligand denticity · PCET · selectivity</description>
-<category>copper complexes</category>
-<category>oxygen reduction</category>
-<category>ligand denticity</category>
-<category>PCET</category>
-<category>selectivity</category>
 </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 07:01:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 08:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>High-Conductivity and Moisture-Tolerant Sulfide Electrolyte Enabled by Bifunctional Coating for Practical All-Solid-State Lithium Batteries</title>
@@ -931,30 +931,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>lithium battery</category>
 <category>high-voltage</category>
 <category>hierarchical structure</category>
-</item>
-<item>
-<title>Defect-driven subsurface phase transformation kinetically enables extended solid-solution pathway in high-voltage spinel cathodes</title>
-<link>https://doi.org/10.1039/d6ta06412d</link>
-<guid isPermaLink="false">10.1039/d6ta06412d</guid>
-<pubDate>Thu, 01 Oct 2026 07:01:49 GMT</pubDate>
-<description>تبدیل فاز زیرسطحی ناشی از نقص، مسیر محلول جامد را در کاتد اسپینلی ولتاژ بالا LiNi0.5Mn1.5O4 گسترش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Defect-driven subsurface phase transformation enables a kinetically stabilized extended solid-solution pathway in high-voltage LNMO spinel cathodes, resolving the ordering-versus-kinetics trade-off. This defect-engineering strategy suppresses phase transitions, improves rate capability and cycling stability, and offers a design principle for cobalt-free high-voltage cathodes.&lt;br&gt;🏷 LiNi0.5Mn1.5O4 · spinel cathode · subsurface phase transformation · solid-solution pathway · defect engineering</description>
-<category>LiNi0.5Mn1.5O4</category>
-<category>spinel cathode</category>
-<category>subsurface phase transformation</category>
-<category>solid-solution pathway</category>
-<category>defect engineering</category>
-</item>
-<item>
-<title>Influence of Organic Carbon Source on Precursor Chemistry, Crystallization Behavior, and Electrochemical Phase-Transformation Kinetics of Spray-Dried Na3V2(PO4)3</title>
-<link>https://doi.org/10.1039/d6ta06004h</link>
-<guid isPermaLink="false">10.1039/d6ta06004h</guid>
-<pubDate>Thu, 01 Oct 2026 07:01:44 GMT</pubDate>
-<description>تأثیر منبع کربن آلی بر شیمی پیش‌ماده، تبلور و سینتیک تبدیل فاز الکتروشیمیایی Na3V2(PO4)3 تولیدشده به روش خشک‌پاشی بررسی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals how different organic carbon sources govern precursor chemistry, crystallization, and electrochemical phase-transformation kinetics in spray-dried Na3V2(PO4)3. By linking carbon source choice to sodium-ion battery performance, it provides mechanistic insight beyond empirical carbon coating, enabling rational design of high-rate cathode materials.&lt;br&gt;🏷 Na3V2(PO4)3 · organic carbon source · spray drying · crystallization · phase transformation</description>
-<category>Na3V2(PO4)3</category>
-<category>organic carbon source</category>
-<category>spray drying</category>
-<category>crystallization</category>
-<category>phase transformation</category>
 </item>
 </channel>
 </rss>
