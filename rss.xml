@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 13:02:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bonding‐chemistry‐guided design of carbon frameworks for rechargeable‐ion batteries</title>
+<link>https://doi.org/10.1002/inf2.70183</link>
+<guid isPermaLink="false">10.1002/inf2.70183</guid>
+<pubDate>Mon, 05 Oct 2026 14:01:19 GMT</pubDate>
+<description>این مقاله با رویکرد شیمی پیوند، چارچوبی اتمی برای طراحی چارچوبهای کربنی باتریهای قابل شارژ ارائه میدهد و ساختار کربن را به رفتار الکتروشیمیایی مرتبط میکند.&lt;br&gt;InfoMat | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This perspective introduces bonding chemistry as a unified, atom-level framework linking carbon structure to electrochemical behavior in rechargeable-ion batteries. It uniquely integrates C/C hybridization, carbon-heteroatom interactions, and dynamic ion-framework bonding, establishing bond-descriptor-based design principles that connect synthesis to storage thermodynamics, kinetics, and reversibility—enabling more systematic, predictive carbon framework engineering.&lt;br&gt;🏷 carbon framework · bonding chemistry · rechargeable-ion battery · ion storage · structure-property relationship</description>
+<category>carbon framework</category>
+<category>bonding chemistry</category>
+<category>rechargeable-ion battery</category>
+<category>ion storage</category>
+<category>structure-property relationship</category>
+</item>
+<item>
+<title>Air Sensitivity and Surface Residual Alkali in Sodium‐Ion Layered Oxide Cathodes: A Review</title>
+<link>https://doi.org/10.1002/aenm.71659</link>
+<guid isPermaLink="false">10.1002/aenm.71659</guid>
+<pubDate>Mon, 05 Oct 2026 14:01:13 GMT</pubDate>
+<description>این مرور به مسئله آلکالی باقیمانده و حساسیت به هوا در کاتدهای اکسید لایهای باتریهای سدیم-یون میپردازد و تفاوتهای شیمیایی ویژه سدیم مانند NaHCO3 را برجسته میکند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely addresses air sensitivity and residual alkali in sodium-ion layered oxide cathodes, highlighting sodium-specific challenges absent in lithium-ion systems: NaHCO₃ formation, severe Na⁺/H⁺ exchange, and narrow processing windows. It bridges formation mechanisms, characterization, and modification strategies, offering future perspectives to guide practical, air-stable, high-performance cathode development.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · residual alkali · air sensitivity · surface degradation</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>residual alkali</category>
+<category>air sensitivity</category>
+<category>surface degradation</category>
+</item>
 <item>
 <title>Wafer‐Scale Multidimensional‐Topology COFs for Highly Reliable Neuromorphic Electronics</title>
 <link>https://doi.org/10.1002/adma.75275</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cytochrome P450 · diketo
 <category>NELDI-MS</category>
 <category>nicotinamide</category>
 <category>diagnosis</category>
-</item>
-<item>
-<title>CD112 Lactylation Drives Dual Immune Evasion From CD8+ T Cells and NK Cells</title>
-<link>https://doi.org/10.1002/advs.78088</link>
-<guid isPermaLink="false">10.1002/advs.78088</guid>
-<pubDate>Sun, 04 Oct 2026 22:03:01 GMT</pubDate>
-<description>لاکتیلاسیون CD112 توسط AARS2 در لیзин 412، پایداری آن را افزایش داده و فرار ایمنی دوگانه از سلول‌های T CD8+ و NK را از طریق مسیر TIGIT/CD112R ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CD112 lactylation · immune evasion · NK cells · TIGIT · AARS2</description>
-<category>CD112 lactylation</category>
-<category>immune evasion</category>
-<category>NK cells</category>
-<category>TIGIT</category>
-<category>AARS2</category>
-</item>
-<item>
-<title>Fire‐Safe Hierarchical Solid Polymer Electrolytes Enabled by Dual‐Functional Microcapsules for Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/advs.78034</link>
-<guid isPermaLink="false">10.1002/advs.78034</guid>
-<pubDate>Sun, 04 Oct 2026 22:02:58 GMT</pubDate>
-<description>الکترولیت پلیمری جامد سلسله‌مراتبی با میکروکپسول‌های دوکاره برای باتری لیتیوم فلزی، با رهایش عامل آتش‌خاموش‌کننده و تشکیل لایه محافظ، ایمنی حرارتی و رسانایی یونی 0.64 mS cm−1 را فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces dual-functional microcapsules that integrate fire suppression into solid polymer electrolytes. Upon heating, they release a fire-extinguishing agent and form a protective char layer, while maintaining high ionic conductivity (0.64 mS cm⁻¹) and a 4.6 V stability window. This offers a viable strategy for safer lithium metal batteries with thermally triggered fire suppression.&lt;br&gt;🏷 solid polymer electrolyte · lithium metal battery · fire-safe microcapsule · dendrite suppression · thermal runaway</description>
-<category>solid polymer electrolyte</category>
-<category>lithium metal battery</category>
-<category>fire-safe microcapsule</category>
-<category>dendrite suppression</category>
-<category>thermal runaway</category>
 </item>
 </channel>
 </rss>

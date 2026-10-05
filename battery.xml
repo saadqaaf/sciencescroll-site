@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 13:02:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bonding‐chemistry‐guided design of carbon frameworks for rechargeable‐ion batteries</title>
+<link>https://doi.org/10.1002/inf2.70183</link>
+<guid isPermaLink="false">10.1002/inf2.70183</guid>
+<pubDate>Mon, 05 Oct 2026 14:01:19 GMT</pubDate>
+<description>این مقاله با رویکرد شیمی پیوند، چارچوبی اتمی برای طراحی چارچوبهای کربنی باتریهای قابل شارژ ارائه میدهد و ساختار کربن را به رفتار الکتروشیمیایی مرتبط میکند.&lt;br&gt;InfoMat | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This perspective introduces bonding chemistry as a unified, atom-level framework linking carbon structure to electrochemical behavior in rechargeable-ion batteries. It uniquely integrates C/C hybridization, carbon-heteroatom interactions, and dynamic ion-framework bonding, establishing bond-descriptor-based design principles that connect synthesis to storage thermodynamics, kinetics, and reversibility—enabling more systematic, predictive carbon framework engineering.&lt;br&gt;🏷 carbon framework · bonding chemistry · rechargeable-ion battery · ion storage · structure-property relationship</description>
+<category>carbon framework</category>
+<category>bonding chemistry</category>
+<category>rechargeable-ion battery</category>
+<category>ion storage</category>
+<category>structure-property relationship</category>
+</item>
+<item>
+<title>Air Sensitivity and Surface Residual Alkali in Sodium‐Ion Layered Oxide Cathodes: A Review</title>
+<link>https://doi.org/10.1002/aenm.71659</link>
+<guid isPermaLink="false">10.1002/aenm.71659</guid>
+<pubDate>Mon, 05 Oct 2026 14:01:13 GMT</pubDate>
+<description>این مرور به مسئله آلکالی باقیمانده و حساسیت به هوا در کاتدهای اکسید لایهای باتریهای سدیم-یون میپردازد و تفاوتهای شیمیایی ویژه سدیم مانند NaHCO3 را برجسته میکند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely addresses air sensitivity and residual alkali in sodium-ion layered oxide cathodes, highlighting sodium-specific challenges absent in lithium-ion systems: NaHCO₃ formation, severe Na⁺/H⁺ exchange, and narrow processing windows. It bridges formation mechanisms, characterization, and modification strategies, offering future perspectives to guide practical, air-stable, high-performance cathode development.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · residual alkali · air sensitivity · surface degradation</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>residual alkali</category>
+<category>air sensitivity</category>
+<category>surface degradation</category>
+</item>
 <item>
 <title>Engineering Residual Rock‐Salt Reconstruction through Near‐Surface Fluorine Regulation for Stable 4.6 V Cycling of Regenerated Spent Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1002/adma.75244</link>
@@ -883,18 +907,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>interpenetration</category>
 <category>artificial SEI</category>
 <category>single crystal</category>
-</item>
-<item>
-<title>Molecularly engineered zwitterionic‑fluorinated hydrogel electrolyte for durable Ah-level zinc-ion batteries</title>
-<link>https://doi.org/10.1038/s41467-026-77562-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-77562-5</guid>
-<pubDate>Thu, 01 Oct 2026 13:03:11 GMT</pubDate>
-<description>الکترولیت هیدروژل زویتریونی-فلورینه مهندسی‌شده مولکولی، باتری‌های یون روی با ظرفیت آمپرساعت و دوام بالا را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in molecularly engineering a zwitterionic-fluorinated hydrogel electrolyte that combines hydrophobic –CH2CF3 groups to suppress water activity with zincophilic zwitterionic units for directional Zn2+ transport. This synergy enables an in-situ organic–inorganic interphase, achieving 900 h dendrite-free cycling and Ah-level pouch cells lasting over 700 h, advancing durable aqueous zinc-ion batteries for grid storage.&lt;br&gt;🏷 zinc-ion batteries · hydrogel electrolyte · zwitterionic · fluorinated · Ah-level</description>
-<category>zinc-ion batteries</category>
-<category>hydrogel electrolyte</category>
-<category>zwitterionic</category>
-<category>fluorinated</category>
-<category>Ah-level</category>
 </item>
 </channel>
 </rss>
