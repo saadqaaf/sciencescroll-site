@@ -5,8 +5,69 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 06:01:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 07:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Radical Addition–Diradical Coupling Switch Unifies Cytochrome P450-Catalyzed Diketopiperazine Dimerization</title>
+<link>https://doi.org/10.1021/jacs.6c16809</link>
+<guid isPermaLink="false">10.1021/jacs.6c16809</guid>
+<pubDate>Mon, 05 Oct 2026 07:01:16 GMT</pubDate>
+<description>این پژوهش مکانیسم جفت‌شدن دیرادیکالی را برای دیمریزاسیون DKP کاتالیزشده توسط P450 روشن کرده و چهار حالت اتصال متفاوت را بازبرنامه‌ریزی می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cytochrome P450 · diketopiperazine dimerization · diradical coupling · protein engineering · QM/MM</description>
+<category>cytochrome P450</category>
+<category>diketopiperazine dimerization</category>
+<category>diradical coupling</category>
+<category>protein engineering</category>
+<category>QM/MM</category>
+</item>
+<item>
+<title>Transmembrane PhoxID: photoproximity labelling across the plasma membrane in vivo</title>
+<link>https://doi.org/10.1038/s41467-026-78135-2</link>
+<guid isPermaLink="false">10.1038/s41467-026-78135-2</guid>
+<pubDate>Mon, 05 Oct 2026 07:01:12 GMT</pubDate>
+<description>این مقاله روش PhoxID را برای نشان‌دار کردن مجاورتی نوری پروتئین‌ها در سراسر غشای پلاسمایی در شرایط in vivo معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photoproximity labelling · plasma membrane · transmembrane protein · in vivo · PhoxID</description>
+<category>photoproximity labelling</category>
+<category>plasma membrane</category>
+<category>transmembrane protein</category>
+<category>in vivo</category>
+<category>PhoxID</category>
+</item>
+<item>
+<title>Reconfiguring interfacial hydrogen-bond networks to enhance anodic oxidation for efficient wastewater treatment</title>
+<link>https://doi.org/10.1038/s41467-026-78208-2</link>
+<guid isPermaLink="false">10.1038/s41467-026-78208-2</guid>
+<pubDate>Mon, 05 Oct 2026 07:01:09 GMT</pubDate>
+<description>این مطالعه با بازآرایی شبکه پیوند هیدروژنی سطحی توسط Fe3+ تشکیل •OH را تقویت کرده و اکسیداسیون آندی را برای تصفیه فاضلاب کارآمدتر می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 anodic oxidation · hydrogen-bond network · hydroxyl radical · wastewater treatment · Fe3+ mediation</description>
+<category>anodic oxidation</category>
+<category>hydrogen-bond network</category>
+<category>hydroxyl radical</category>
+<category>wastewater treatment</category>
+<category>Fe3+ mediation</category>
+</item>
+<item>
+<title>Aridity regulates scale-dependent effects of multiple resource additions on productivity stability in Eurasian grasslands</title>
+<link>https://doi.org/10.1038/s41467-026-78043-5</link>
+<guid isPermaLink="false">10.1038/s41467-026-78043-5</guid>
+<pubDate>Mon, 05 Oct 2026 07:01:06 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد خشکی اثر مقیاس‌وابسته افزودن چندگانه منابع بر پایداری بهره‌وری مراتع اوراسیا را تنظیم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 grassland productivity · productivity stability · resource addition · aridity gradient · Eurasian grasslands</description>
+<category>grassland productivity</category>
+<category>productivity stability</category>
+<category>resource addition</category>
+<category>aridity gradient</category>
+<category>Eurasian grasslands</category>
+</item>
+<item>
+<title>Hierarchically Programmed Microarchitected Origami with Mechanically Intelligent Triboelectric Outputs</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112455</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112455</guid>
+<pubDate>Mon, 05 Oct 2026 07:01:03 GMT</pubDate>
+<description>این مقاله ساختارهای اوریگامی برنامه‌ریزی‌شده سلسله‌مراتبی را برای تولید خروجی تریبوالکتریک هوشمند مکانیکی طراحی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 origami metamaterial · triboelectric nanogenerator · mechanical metamaterial · energy harvesting · microarchitecture</description>
+<category>origami metamaterial</category>
+<category>triboelectric nanogenerator</category>
+<category>mechanical metamaterial</category>
+<category>energy harvesting</category>
+<category>microarchitecture</category>
+</item>
 <item>
 <title>Asymmetric Ion Regulation for Stabilising Acidic CO2 Electrolysis and Chlorine Evolution in Zero-Gap Electrolysers</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02502</link>
@@ -1148,66 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electr
 <category>ligand denticity</category>
 <category>PCET</category>
 <category>selectivity</category>
-</item>
-<item>
-<title>Embrace the Mess: Theory for Disordered Surfaces of Working Catalysts</title>
-<link>https://doi.org/10.1021/acscatal.6c06690</link>
-<guid isPermaLink="false">10.1021/acscatal.6c06690</guid>
-<pubDate>Sun, 04 Oct 2026 02:01:07 GMT</pubDate>
-<description>این مقاله دیدگاهی نظری برای درک سطوح بی‌نظم کاتالیزورهای فعال ارائه می‌دهد و بر لزوم پذیرش پیچیدگی ساختاری تأکید دارد.&lt;br&gt;ACS Catalysis | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 disordered surfaces · working catalysts · theory · surface reconstruction · catalysis</description>
-<category>disordered surfaces</category>
-<category>working catalysts</category>
-<category>theory</category>
-<category>surface reconstruction</category>
-<category>catalysis</category>
-</item>
-<item>
-<title>Damage-tolerant Cu/Cu2TiAl heterostructure enabled by Al-modified interlayer design for Ti6Al4V/CoCrFeNi dissimilar metals</title>
-<link>https://doi.org/10.1016/j.jmst.2026.08.108</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.08.108</guid>
-<pubDate>Sun, 04 Oct 2026 02:01:03 GMT</pubDate>
-<description>طراحی لایه میانی اصلاح‌شده با Al برای اتصال Ti6Al4V به CoCrFeNi، ریزساختار Cu/Cu2TiAl مقاوم به آسیب ایجاد می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 Ti6Al4V/CoCrFeNi · heterostructure · interlayer design · damage tolerance · dissimilar metals</description>
-<category>Ti6Al4V/CoCrFeNi</category>
-<category>heterostructure</category>
-<category>interlayer design</category>
-<category>damage tolerance</category>
-<category>dissimilar metals</category>
-</item>
-<item>
-<title>Near-atomistic simulations reveal the molecular principles that control chromatin structure and phase separation</title>
-<link>https://doi.org/10.1038/s41467-026-78050-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-78050-6</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:39 GMT</pubDate>
-<description>مدل OpenCGChromatin با شبیه‌سازی نزدیک‌اتمی نشان می‌دهد طول linker DNA و استیلاسیون هیستون‌ها چگونه ساختار و جدایش فازی کروماتین را کنترل می‌کنند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chromatin condensates · coarse-grained simulation · histone tails · linker DNA · acetylation</description>
-<category>chromatin condensates</category>
-<category>coarse-grained simulation</category>
-<category>histone tails</category>
-<category>linker DNA</category>
-<category>acetylation</category>
-</item>
-<item>
-<title>Sustainability cost of defect engineering in color centers for quantum communications</title>
-<link>https://doi.org/10.1038/s41467-026-78261-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-78261-x</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:36 GMT</pubDate>
-<description>هزینه پایداری مهندسی نقص در مراکز رنگ برای ارتباطات کوانتومی ارزیابی می‌شود و چالش‌های زیست‌محیطی و اقتصادی آن بررسی می‌گردد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 defect engineering · color centers · quantum communications · sustainability cost · quantum defects</description>
-<category>defect engineering</category>
-<category>color centers</category>
-<category>quantum communications</category>
-<category>sustainability cost</category>
-<category>quantum defects</category>
-</item>
-<item>
-<title>Saturation mutagenesis enables RAD51D clinical variant interpretation and identifies distinct biochemical functions</title>
-<link>https://doi.org/10.1038/s41467-026-77941-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-77941-y</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:32 GMT</pubDate>
-<description>با جهش‌زایی اشباعی، تفسیر واریانت‌های بالینی RAD51D امکان‌پذیر شد و عملکردهای بیوشیمیایی متمایز آن شناسایی گردید.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 RAD51D · saturation mutagenesis · variant interpretation · biochemical functions · clinical variants</description>
-<category>RAD51D</category>
-<category>saturation mutagenesis</category>
-<category>variant interpretation</category>
-<category>biochemical functions</category>
-<category>clinical variants</category>
 </item>
 </channel>
 </rss>
