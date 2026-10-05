@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 10:02:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 11:02:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Deconvoluting Fast Ion Conduction in Glassy Antiperovskite Li2OHBr0.5Cl0.5 via Machine-Learning Potentials: Lattice Compliance and the Partial Paddlewheel Mechanism</title>
+<link>https://doi.org/10.1039/d6ta05828k</link>
+<guid isPermaLink="false">10.1039/d6ta05828k</guid>
+<pubDate>Mon, 05 Oct 2026 11:02:06 GMT</pubDate>
+<description>هدایت یونی سریع در الکترولیت جامد آنتی‌پروسکایت شیشه‌ای Li2OHBr0.5Cl0.5 با پتانسیل‌های یادگیری ماشین و مکانیسم چرخ‌پارویی جزئی رمزگشایی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This study first applies machine-learning potentials to glassy antiperovskite Li2OHBr0.5Cl0.5, revealing fast ion conduction mechanisms inaccessible to prior methods. It identifies lattice compliance and a partial paddlewheel mechanism as key drivers, linking amorphization to enhanced ionic transport. This advances rational design of superionic solid electrolytes for next-generation batteries.&lt;br&gt;🏷 antiperovskite electrolytes · Li2OHBr0.5Cl0.5 · machine-learning potentials · ion conduction · paddlewheel mechanism</description>
+<category>antiperovskite electrolytes</category>
+<category>Li2OHBr0.5Cl0.5</category>
+<category>machine-learning potentials</category>
+<category>ion conduction</category>
+<category>paddlewheel mechanism</category>
+</item>
+<item>
+<title>Reversible mechanical changes at high voltage enable single-crystal mid-Ni layered oxides with high electrochemical performance</title>
+<link>https://doi.org/10.1039/d6ta05227d</link>
+<guid isPermaLink="false">10.1039/d6ta05227d</guid>
+<pubDate>Mon, 05 Oct 2026 11:01:39 GMT</pubDate>
+<description>تغییرات مکانیکی برگشت‌پذیر در ولتاژ بالا، اکسیدهای لایه‌ای تک‌کریستالی با نیکل متوسط را قادر به ارائه چگالی انرژی بالا و چرخه‌پذیری پایدار می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in leveraging reversible mechanical changes at high voltage in single-crystal mid-Ni layered oxides. This enables high energy density and stable long-term cycling, addressing the trade-off between capacity and durability. The significance is a viable route to high-performance, long-life cathodes for next-generation lithium-ion batteries.&lt;br&gt;🏷 single-crystal layered oxides · high-voltage cycling · mechanical changes · mid-Ni cathodes · lithium-ion batteries</description>
+<category>single-crystal layered oxides</category>
+<category>high-voltage cycling</category>
+<category>mechanical changes</category>
+<category>mid-Ni cathodes</category>
+<category>lithium-ion batteries</category>
+</item>
+<item>
+<title>Redefining anodes: the paradigm shift of spinel ferrites in energy storage science</title>
+<link>https://doi.org/10.1039/d6ta00892e</link>
+<guid isPermaLink="false">10.1039/d6ta00892e</guid>
+<pubDate>Mon, 05 Oct 2026 11:01:30 GMT</pubDate>
+<description>این مقاله به بررسی نقش اسپینل فریت‌ها به عنوان آند در ذخیره‌سازی انرژی و تغییر پارادایم در این زمینه می‌پردازد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 Spinel ferrites are redefining anodes by merging magnetic and electrochemical functionality. Their tunable redox chemistry, structural stability, and earth abundance enable high-capacity, durable energy storage beyond conventional materials. This paradigm shift positions them as versatile, sustainable alternatives for next-generation batteries and supercapacitors, bridging magnetism and electrochemistry for multifunctional device design.&lt;br&gt;🏷 spinel ferrites · energy storage · anode materials · electrochemical properties · magnetic properties</description>
+<category>spinel ferrites</category>
+<category>energy storage</category>
+<category>anode materials</category>
+<category>electrochemical properties</category>
+<category>magnetic properties</category>
+</item>
 <item>
 <title>Tuning the d-Band Center via High-Entropy-Induced Lattice Strain Enables Reversible Nanosheet-like Li2O2 Electrocatalysis</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03851</link>
@@ -895,30 +931,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>Ca-In alloying</category>
 <category>reversible cycling</category>
 <category>negative electrode</category>
-</item>
-<item>
-<title>Descriptor-informed multi-component doping enables high-performance Co-free Ni-rich cathodes</title>
-<link>https://doi.org/10.1038/s44160-026-01152-y</link>
-<guid isPermaLink="false">10.1038/s44160-026-01152-y</guid>
-<pubDate>Thu, 01 Oct 2026 11:01:58 GMT</pubDate>
-<description>دوپینگ چندجزئی مبتنی بر توصیفگر، کاتدهای غنی از نیکل بدون کبالت با عملکرد بالا را ممکن می‌سازد.&lt;br&gt;Nature Synthesis | 🔬 Research Article&lt;br&gt;💡 This work replaces empirical dopant screening with a descriptor-informed strategy using charge density and metal–oxygen bond strength to select multi-component dopants for Co-free Ni-rich cathodes. It simultaneously boosts Li+ kinetics and lattice stability, enabling 130.9 mAh g−1 at 25 C, 82.4% retention after 350 cycles, and −20 °C operation, advancing rational cathode design.&lt;br&gt;🏷 Co-free cathodes · Ni-rich cathodes · multi-component doping · descriptor · lithium-ion battery</description>
-<category>Co-free cathodes</category>
-<category>Ni-rich cathodes</category>
-<category>multi-component doping</category>
-<category>descriptor</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Upcycling Spent Graphite via Interlayer-Force Weakening Boosts Fast and Durable Anion Storage</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105572</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105572</guid>
-<pubDate>Thu, 01 Oct 2026 11:01:39 GMT</pubDate>
-<description>گرافیت مستعمل با تضعیف نیروی بین‌لایه‌ای برای ذخیره‌سازی سریع و پایدار آنیون بازیافت می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 spent graphite · anion storage · upcycling · interlayer force · fast charging</description>
-<category>spent graphite</category>
-<category>anion storage</category>
-<category>upcycling</category>
-<category>interlayer force</category>
-<category>fast charging</category>
 </item>
 </channel>
 </rss>
