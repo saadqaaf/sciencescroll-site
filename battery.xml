@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 12:01:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 13:02:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering Residual Rock‐Salt Reconstruction through Near‐Surface Fluorine Regulation for Stable 4.6 V Cycling of Regenerated Spent Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/adma.75244</link>
+<guid isPermaLink="false">10.1002/adma.75244</guid>
+<pubDate>Mon, 05 Oct 2026 13:02:08 GMT</pubDate>
+<description>این مقاله با تنظیم فلوئور در نزدیکی سطح، لایه سنگ‌نمک باقی‌مانده را به فاز محافظ تبدیل کرده و پایداری چرخه‌ای کاتد NCM بازیافتی را در ولتاژ بالا بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work uniquely converts residual rock-salt reconstruction on spent NCM cathodes into a protective F-enriched interphase via molten-salt relithiation and fluorine treatment. It enables stable 4.6 V cycling (80.28% retention after 400 cycles) by strengthening Ni─O bonds and raising oxygen-vacancy formation energy, offering a high-value upcycling route for spent layered oxide cathodes.&lt;br&gt;🏷 spent NCM cathode · fluorine regulation · rock-salt interphase · high-voltage cycling · direct regeneration</description>
+<category>spent NCM cathode</category>
+<category>fluorine regulation</category>
+<category>rock-salt interphase</category>
+<category>high-voltage cycling</category>
+<category>direct regeneration</category>
+</item>
+<item>
+<title>Unveiling Phase Synergy and Heterogeneity in Biphasic Sodium Layered Oxide</title>
+<link>https://doi.org/10.1039/d6ee05141c</link>
+<guid isPermaLink="false">10.1039/d6ee05141c</guid>
+<pubDate>Mon, 05 Oct 2026 13:01:33 GMT</pubDate>
+<description>این مقاله هم‌افزایی فازی و ناهمگنی را در اکسید لایه‌ای دو فازی سدیم برای کاتد باتری یون‌سدیم بررسی می‌کند و پایداری بلندمدت را بهبود می‌بخشد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This study unveils phase synergy and heterogeneity in biphasic sodium layered oxide cathodes, addressing the poor long-term stability that hinders commercial adoption of low-cost Ni–Mn–Fe oxide sodium-ion batteries. By revealing how coexisting phases interact, it provides mechanistic insight to guide rational design of durable, sustainable cathodes, advancing sodium-ion technology as a viable alternative to lithium-ion systems.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · biphasic structure · phase synergy · heterogeneity</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>biphasic structure</category>
+<category>phase synergy</category>
+<category>heterogeneity</category>
+</item>
 <item>
 <title>Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes</title>
 <link>https://doi.org/10.1038/s41565-026-02301-2</link>
@@ -871,78 +895,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>zwitterionic</category>
 <category>fluorinated</category>
 <category>Ah-level</category>
-</item>
-<item>
-<title>Interfacial Phase Transformation Enabled Crystallographic Selectivity for Efficient Li 2 CO 3 Decomposition Toward Long‐Cycling Li‐CO 2 Batteries</title>
-<link>https://doi.org/10.1002/anie.9049103</link>
-<guid isPermaLink="false">10.1002/anie.9049103</guid>
-<pubDate>Thu, 01 Oct 2026 13:02:05 GMT</pubDate>
-<description>گذار فاز 2H به 1T در ناهم‌ساختار MoS2@CuS رشد جهت‌دار Li2CO3 را هدایت کرده و باتری Li-CO2 با اضافه‌ولتاژ پایین و چرخه‌پذیری طولانی ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers facet-selective Li₂CO₃ growth in Li-CO₂ batteries via a MoS₂@CuS heterointerface that induces a 2H-to-1T phase transition. The 1T phase preferentially stabilizes Li₂CO₃ (−110) facets, lowering decomposition barriers and enabling oriented epitaxial growth. This yields low overpotential (0.46 V), ~92.4% efficiency, and &amp;gt;1800 h cycling, linking catalyst structure, interfacial interactions, and product crystallography.&lt;br&gt;🏷 Li-CO2 battery · Li2CO3 decomposition · MoS2 phase transition · facet-selective growth · heterointerface</description>
-<category>Li-CO2 battery</category>
-<category>Li2CO3 decomposition</category>
-<category>MoS2 phase transition</category>
-<category>facet-selective growth</category>
-<category>heterointerface</category>
-</item>
-<item>
-<title>Reconfiguring Electrolyte Solvation Chemistry via In Situ Solvent Polymerization for High‐Performance Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/anie.4157238</link>
-<guid isPermaLink="false">10.1002/anie.4157238</guid>
-<pubDate>Thu, 01 Oct 2026 13:01:56 GMT</pubDate>
-<description>پلیمریزاسیون درجای حلال، ساختار حل‌شدگی Na+ را بازآرایی کرده و باتری یون‌سدیم با پایداری بالا و نگهداشت ظرفیت ۹۴.۷۶٪ پس از ۵۰۰ چرخه ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers in situ solvent polymerization in ether electrolytes, using trace LiPF₆ to trigger DOL ring-opening and form PDOL, which reconstructs Na⁺ solvation. This simultaneously enables fast ion transport and stable interphase, overcoming the traditional trade-off. The strategy yields high capacity retention in both coin and pouch sodium-ion cells, offering a viable design pathway for high-performance electrolytes.&lt;br&gt;🏷 sodium-ion battery · electrolyte solvation · in situ polymerization · solid electrolyte interphase · Na3Fe2(PO4)P2O7</description>
-<category>sodium-ion battery</category>
-<category>electrolyte solvation</category>
-<category>in situ polymerization</category>
-<category>solid electrolyte interphase</category>
-<category>Na3Fe2(PO4)P2O7</category>
-</item>
-<item>
-<title>Ion Association Dynamics Governs Low-Temperature Ion Transport of Sodium-Ion Battery Electrolytes</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02269</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02269</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:58 GMT</pubDate>
-<description>دینامیک مولکولی یادگیری ماشین و رامان درجا نشان می‌دهد که طول عمر و بازآرایی جفت‌یون‌ها، نه ساختار سولواسیون، عامل اصلی افت رسانایی الکترولیت باتری سدیم-یون در دمای پایین است.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This work reveals that low-temperature ion transport in sodium-ion battery electrolytes is governed by ion-association dynamics, not static solvation structures. By combining machine-learned molecular dynamics with variable-temperature Raman spectroscopy, it shows cooling prolongs ion-pair lifetimes and suppresses reorganization, reducing fast-migrating Na+. This mechanistic insight offers a new design principle for low-temperature electrolytes.&lt;br&gt;🏷 sodium-ion battery · electrolyte · ion association · low-temperature transport · molecular dynamics</description>
-<category>sodium-ion battery</category>
-<category>electrolyte</category>
-<category>ion association</category>
-<category>low-temperature transport</category>
-<category>molecular dynamics</category>
-</item>
-<item>
-<title>Mechanistic Origins of Chemo‐Mechanical Instability and Failure in Solid‐State Lithium‐Sulfur Electrodes</title>
-<link>https://doi.org/10.1002/adfm.78807</link>
-<guid isPermaLink="false">10.1002/adfm.78807</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:35 GMT</pubDate>
-<description>چارچوب الکترو-شیمیایی-مکانیکی ریزساختاری نشان می‌دهد که ناهمگنی ریزساختاری و تمرکز تنش ناشی از انبساط تبدیل، جوانه‌زنی و انتشار ترک در کاتدهای Li-S حالت جامد را کنترل می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely links cathode microstructure to fracture in solid-state lithium-sulfur batteries via a resolved electro-chemo-mechanical framework. It reveals that constrained conversion expansion creates strain-energy hotspots governing crack morphology, and identifies sulfur particle size and packing density as key design levers. These insights expose an energy density–mechanical stability trade-off, offering a mechanistic basis for durable electrode design.&lt;br&gt;🏷 solid-state Li-S battery · chemo-mechanical instability · cathode fracture · microstructure · strain energy</description>
-<category>solid-state Li-S battery</category>
-<category>chemo-mechanical instability</category>
-<category>cathode fracture</category>
-<category>microstructure</category>
-<category>strain energy</category>
-</item>
-<item>
-<title>Interfacial‐Electronically‐Regulated Core–Shell Co@Cu Catalyst for Reversible Ammonia/Nitrate Electrocatalysis</title>
-<link>https://doi.org/10.1002/adfm.78836</link>
-<guid isPermaLink="false">10.1002/adfm.78836</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:21 GMT</pubDate>
-<description>کاتالیزور هسته-پوسته Co@Cu با تنظیم الکترونیکی، اکسیداسیون آمونیاک و کاهش نیترات را برگشت‌پذیر کرده و باتری Zn-NO3-/NH4+ با توان 57.5 mW cm-2 می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a Co@Cu core–shell catalyst enabling reversible ammonia oxidation and nitrate reduction via interfacial electronic regulation, where the Co core tunes Cu&amp;#x27;s surface electronics and the Cu shell suppresses N─N coupling. It achieves high Faradaic efficiencies (92.6% AOR, 98.2% NO₃RR) and powers a rechargeable Zn–NO₃⁻/NH₄⁺ battery, offering a design strategy for bifunctional nitrogen-based energy systems.&lt;br&gt;🏷 Co@Cu catalyst · ammonia oxidation · nitrate reduction · Zn-NO3- battery · core-shell catalyst</description>
-<category>Co@Cu catalyst</category>
-<category>ammonia oxidation</category>
-<category>nitrate reduction</category>
-<category>Zn-NO3- battery</category>
-<category>core-shell catalyst</category>
-</item>
-<item>
-<title>Reversible Calcium Alloying on Bulk and Indium (Sub)‐Micro Negative Electrodes for Calcium‐Based Batteries</title>
-<link>https://doi.org/10.1002/adfm.78722</link>
-<guid isPermaLink="false">10.1002/adfm.78722</guid>
-<pubDate>Thu, 01 Oct 2026 12:02:15 GMT</pubDate>
-<description>آلیاژسازی برگشت‌پذیر کلسیم-ایندیم در الکترودهای In، با بیش از 1000 چرخه و بازده کولنی &amp;gt;99%، الکترود منفی پایدار برای باتری‌های کلسیمی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work establishes reversible Ca–In alloying as a durable negative electrode strategy for calcium batteries, achieving &amp;gt;1000 cycles with &amp;gt;99% efficiency. It identifies a surface-localized CaIn₂ phase and introduces a novel synthesis of indium (sub)microparticles via disproportionation of electrogenerated In(I), enabling self-welded networks. Despite low active-material utilization, these findings advance stable, high-cycle-life calcium-based battery anodes.&lt;br&gt;🏷 calcium batteries · indium electrode · Ca-In alloying · reversible cycling · negative electrode</description>
-<category>calcium batteries</category>
-<category>indium electrode</category>
-<category>Ca-In alloying</category>
-<category>reversible cycling</category>
-<category>negative electrode</category>
 </item>
 </channel>
 </rss>
