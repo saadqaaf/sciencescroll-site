@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 11:02:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 12:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes</title>
+<link>https://doi.org/10.1038/s41565-026-02301-2</link>
+<guid isPermaLink="false">10.1038/s41565-026-02301-2</guid>
+<pubDate>Mon, 05 Oct 2026 12:01:17 GMT</pubDate>
+<description>این مقاله منشأ استریوشیمیایی هیسترزیس بالقوه در باتری‌های لیتیوم-فلز با الکترودهای مثبت راکسالت بی‌نظم غنی از لیتیوم را بررسی می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;💡 This study reveals that multiscale stereochemistry—atomic-scale distortion and nanoscale short-range ordering—governs potential hysteresis in Li||DRX cells. Redox-inactive d0 transition metals, via the pseudo Jahn–Teller effect, weaken Ni–O charge transfer and enhance lattice oxygen redox reversibility. This insight enables rational design of DRX electrodes with reduced hysteresis and improved energy efficiency.&lt;br&gt;🏷 lithium metal battery · cation-disordered rocksalt · hysteresis · stereochemistry · positive electrode</description>
+<category>lithium metal battery</category>
+<category>cation-disordered rocksalt</category>
+<category>hysteresis</category>
+<category>stereochemistry</category>
+<category>positive electrode</category>
+</item>
 <item>
 <title>Deconvoluting Fast Ion Conduction in Glassy Antiperovskite Li2OHBr0.5Cl0.5 via Machine-Learning Potentials: Lattice Compliance and the Partial Paddlewheel Mechanism</title>
 <link>https://doi.org/10.1039/d6ta05828k</link>

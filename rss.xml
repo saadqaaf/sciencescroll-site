@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 11:02:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 12:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Resolving cell–cell interaction networks and their molecular logic in complex tissues</title>
+<link>https://doi.org/10.1038/s41592-026-03237-0</link>
+<guid isPermaLink="false">10.1038/s41592-026-03237-0</guid>
+<pubDate>Mon, 05 Oct 2026 12:01:20 GMT</pubDate>
+<description>این مقاله به بررسی شبکه‌های برهم‌کنش سلول-سلول و منطق مولکولی آن‌ها در بافت‌های پیچیده می‌پردازد.&lt;br&gt;Nature Methods | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 cell-cell interaction · tissue networks · molecular logic · single-cell analysis · spatial transcriptomics</description>
+<category>cell-cell interaction</category>
+<category>tissue networks</category>
+<category>molecular logic</category>
+<category>single-cell analysis</category>
+<category>spatial transcriptomics</category>
+</item>
+<item>
+<title>Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes</title>
+<link>https://doi.org/10.1038/s41565-026-02301-2</link>
+<guid isPermaLink="false">10.1038/s41565-026-02301-2</guid>
+<pubDate>Mon, 05 Oct 2026 12:01:17 GMT</pubDate>
+<description>این مقاله منشأ استریوشیمیایی هیسترزیس بالقوه در باتری‌های لیتیوم-فلز با الکترودهای مثبت راکسالت بی‌نظم غنی از لیتیوم را بررسی می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;💡 This study reveals that multiscale stereochemistry—atomic-scale distortion and nanoscale short-range ordering—governs potential hysteresis in Li||DRX cells. Redox-inactive d0 transition metals, via the pseudo Jahn–Teller effect, weaken Ni–O charge transfer and enhance lattice oxygen redox reversibility. This insight enables rational design of DRX electrodes with reduced hysteresis and improved energy efficiency.&lt;br&gt;🏷 lithium metal battery · cation-disordered rocksalt · hysteresis · stereochemistry · positive electrode</description>
+<category>lithium metal battery</category>
+<category>cation-disordered rocksalt</category>
+<category>hysteresis</category>
+<category>stereochemistry</category>
+<category>positive electrode</category>
+</item>
+<item>
+<title>How a molecule can become a useful quantum sensor</title>
+<link>https://doi.org/10.1038/s42254-026-00989-8</link>
+<guid isPermaLink="false">10.1038/s42254-026-00989-8</guid>
+<pubDate>Mon, 05 Oct 2026 12:01:08 GMT</pubDate>
+<description>این مقاله توضیح می‌دهد که چگونه یک مولکول می‌تواند به یک حسگر کوانتومی مفید تبدیل شود و بر طراحی مولکولی و همدوسی اسپین تمرکز دارد.&lt;br&gt;Nature Reviews Physics | 💭 Perspective&lt;br&gt;🏷 quantum sensor · molecular spin · quantum sensing · spin coherence · molecular design</description>
+<category>quantum sensor</category>
+<category>molecular spin</category>
+<category>quantum sensing</category>
+<category>spin coherence</category>
+<category>molecular design</category>
+</item>
 <item>
 <title>Detectrons convert transient RNA sequences into stable DNA barcodes for high-throughput analysis of RNA-dependent processes</title>
 <link>https://doi.org/10.1038/s41587-026-03334-7</link>
@@ -1171,43 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cytochrome P450 · diketo
 <category>antiferromagnetism</category>
 <category>intercalation</category>
 <category>DFT</category>
-</item>
-<item>
-<title>Engineering Spatially Localized Bioactive Microenvironments in Assembly Implants for Spatially Extended Bone Ingrowth</title>
-<link>https://doi.org/10.1002/advs.78161</link>
-<guid isPermaLink="false">10.1002/advs.78161</guid>
-<pubDate>Sun, 04 Oct 2026 22:01:45 GMT</pubDate>
-<description>ایمپلنت ماژولار تیتانیوم متخلخل با ماژول‌های β-TCP برای بازسازی استخوان قطعه‌ای بزرگ، رشد استخوانی گسترده را در مدل خرگوش بهبود داد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 bone ingrowth · porous titanium · β-TCP · GelMA · Wnt/β-catenin</description>
-<category>bone ingrowth</category>
-<category>porous titanium</category>
-<category>β-TCP</category>
-<category>GelMA</category>
-<category>Wnt/β-catenin</category>
-</item>
-<item>
-<title>Suppressing Photothermal Artifacts in Flexible Fluorescent Fiber‐Optic Sensors for Accurate and Precise In Situ Temperature Monitoring</title>
-<link>https://doi.org/10.1002/advs.78130</link>
-<guid isPermaLink="false">10.1002/advs.78130</guid>
-<pubDate>Sun, 04 Oct 2026 22:01:42 GMT</pubDate>
-<description>سنسور فیبر نوری فلورسنت با پوشش داخلی جزئی برای حذف اثر فوتوترمال و پایش دقیق دما در باتری‌های سدیم-یون ساخته شد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a partial-inner-cladding optical fiber that suppresses photothermal artifacts by isolating the sensing layer from the self-heating coupling interface. This extends excitation power tolerance and signal-to-noise ratio, achieving record accuracy (0.104°C), precision (0.05°C), and resolution (0.2°C). It enables reliable battery thermal warning and in situ Bárány caloric test diagnostics.&lt;br&gt;🏷 fiber-optic sensor · photothermal artifact · temperature monitoring · sodium-ion battery · LuVO4:Yb/Er</description>
-<category>fiber-optic sensor</category>
-<category>photothermal artifact</category>
-<category>temperature monitoring</category>
-<category>sodium-ion battery</category>
-<category>LuVO4:Yb/Er</category>
-</item>
-<item>
-<title>Mechanical Flipping of [1]Rotaxanes Toughens Polymer Networks</title>
-<link>https://doi.org/10.1021/jacs.6c15261</link>
-<guid isPermaLink="false">10.1021/jacs.6c15261</guid>
-<pubDate>Sun, 04 Oct 2026 21:01:14 GMT</pubDate>
-<description>رفتار مکانیکی دو [1]rotaxane مبتنی بر اتر تاجی بررسی شد و نشان داده شد که flipping مولکولی با سد انرژی مناسب، چقرمگی و کشش‌پذیری شبکه پلیمری را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 [1]rotaxane · polymer networks · mechanical properties · molecular flipping · toughness</description>
-<category>[1]rotaxane</category>
-<category>polymer networks</category>
-<category>mechanical properties</category>
-<category>molecular flipping</category>
-<category>toughness</category>
 </item>
 </channel>
 </rss>
