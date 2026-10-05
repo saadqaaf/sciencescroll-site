@@ -5,7 +5,7 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 05:01:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 06:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>High-Conductivity and Moisture-Tolerant Sulfide Electrolyte Enabled by Bifunctional Coating for Practical All-Solid-State Lithium Batteries</title>
@@ -955,30 +955,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>spray drying</category>
 <category>crystallization</category>
 <category>phase transformation</category>
-</item>
-<item>
-<title>Techno-economic boundaries of hydrate-based cooling thermal energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124907</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124907</guid>
-<pubDate>Thu, 01 Oct 2026 05:01:50 GMT</pubDate>
-<description>این مقاله مرزهای فنی-اقتصادی ذخیره‌سازی انرژی حرارتی سرمایشی بر پایه هیدرات را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hydrate · cooling thermal energy storage · techno-economic · boundaries · energy storage</description>
-<category>hydrate</category>
-<category>cooling thermal energy storage</category>
-<category>techno-economic</category>
-<category>boundaries</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Research on state of health prediction of lithium-ion batteries based on sparrow algorithm and dynamic physical constraint neural network</title>
-<link>https://doi.org/10.1016/j.est.2026.124823</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124823</guid>
-<pubDate>Thu, 01 Oct 2026 05:01:47 GMT</pubDate>
-<description>این مقاله روشی برای پیش‌بینی وضعیت سلامت باتری لیتیوم-یون بر اساس الگوریتم گنجشک و شبکه عصبی با محدودیت فیزیکی پویا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · sparrow algorithm · physical constraint · neural network</description>
-<category>lithium-ion battery</category>
-<category>state of health</category>
-<category>sparrow algorithm</category>
-<category>physical constraint</category>
-<category>neural network</category>
 </item>
 </channel>
 </rss>

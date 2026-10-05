@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 05:01:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 06:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Asymmetric Ion Regulation for Stabilising Acidic CO2 Electrolysis and Chlorine Evolution in Zero-Gap Electrolysers</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02502</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02502</guid>
+<pubDate>Mon, 05 Oct 2026 06:01:15 GMT</pubDate>
+<description>استراتژی تنظیم نامتقارن یون با پلی‌دی‌آلیل‌دی‌متیل‌آمونیوم کلراید، بازده فارادایی حدود ۹۰٪ برای CO و Cl2 و پایداری بیش از ۲۰۰ ساعت در الکترولایزر MEA صفر-گپ فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 CO2 electrolysis · chlorine evolution · zero-gap MEA · ion regulation · cation crossover</description>
+<category>CO2 electrolysis</category>
+<category>chlorine evolution</category>
+<category>zero-gap MEA</category>
+<category>ion regulation</category>
+<category>cation crossover</category>
+</item>
 <item>
 <title>Per- and poly-fluoroalkyl substances in bottled water samples from France, Italy, Belgium, Romania, Portugal, Lithuania, Georgia, Morocco, United States, Mexico, and China</title>
 <link>https://doi.org/10.1007/s10311-026-01929-9</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electr
 <category>variant interpretation</category>
 <category>biochemical functions</category>
 <category>clinical variants</category>
-</item>
-<item>
-<title>A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial</title>
-<link>https://doi.org/10.1038/s41467-026-78130-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78130-7</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:28 GMT</pubDate>
-<description>در کارآزمایی فاز I، واکسن سلول دندریتیک CCL21 همراه پمبرولیزوماب در NSCLC پیشرفته بی‌خطر بود و نفوذ سلول‌های T را افزایش داد اما پاسخ عینی مشاهده نشد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CCL21-DC vaccine · pembrolizumab · NSCLC · phase I trial · T cell infiltration</description>
-<category>CCL21-DC vaccine</category>
-<category>pembrolizumab</category>
-<category>NSCLC</category>
-<category>phase I trial</category>
-<category>T cell infiltration</category>
 </item>
 </channel>
 </rss>
