@@ -5,7 +5,7 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 00:00:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 01:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Pristine Poly(3‐hexylthiophene) as an On‐Demand Conductive Binder and Redox Mediator for Carbon‐Additive‐Free, High‐Volumetric‐Energy‐Density, LiFePO 4 Cathodes without Calendaring</title>
@@ -1172,18 +1172,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>700 Wh kg-1</category>
 <category>high-energy</category>
 <category>strategies</category>
-</item>
-<item>
-<title>In Situ Substitution Strategy with High‐Valence Cation for Ultra‐Stable Aqueous K‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71675</link>
-<guid isPermaLink="false">10.1002/aenm.71675</guid>
-<pubDate>Thu, 01 Oct 2026 00:01:14 GMT</pubDate>
-<description>جایگزینی درجای کاتیون Al3+ در کاتد KMnPBA باتری آبی K-ion، انحلال Mn را کاهش داده و پایداری چرخهای فوقطولانی و ظرفیت بالا را فراهم میکند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Al³⁺ in situ substitution in a concentrated electrolyte to fill Mn dissolution vacancies and form stable Al–N bonds, creating a gradient KMnPBA cathode. This enables ultra-stable aqueous K-ion batteries with 97.1% retention over 500 cycles, 90.3% over 30,000 cycles, and a pouch cell retaining 87.8% after 6,000 cycles, advancing large-scale energy storage.&lt;br&gt;🏷 aqueous K-ion battery · Prussian blue analogue · high-valence cation substitution · Mn dissolution · ultra-long cycling</description>
-<category>aqueous K-ion battery</category>
-<category>Prussian blue analogue</category>
-<category>high-valence cation substitution</category>
-<category>Mn dissolution</category>
-<category>ultra-long cycling</category>
 </item>
 </channel>
 </rss>
