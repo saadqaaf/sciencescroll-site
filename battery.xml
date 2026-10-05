@@ -5,7 +5,7 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 02:01:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 03:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>High-Conductivity and Moisture-Tolerant Sulfide Electrolyte Enabled by Bifunctional Coating for Practical All-Solid-State Lithium Batteries</title>
@@ -1112,30 +1112,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introducing p-block Bi ad
 <category>solar-powered</category>
 <category>olivine iron phosphate</category>
 <category>brine</category>
-</item>
-<item>
-<title>Ion-Regulated Interfacial Solvation Enables Ether Electrolytes for 4.4 V Lithium Metal Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01870</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01870</guid>
-<pubDate>Thu, 01 Oct 2026 02:01:57 GMT</pubDate>
-<description>تنظیم سولواسیون بینسطحی با یونهای K+ و BH4- در الکترولیت اتری، پایداری آند لیتیوم و پنجره اکسیداسیون را افزایش داده و باتری Li-NCM811 با ولتاژ 4.4 V را ممکن میسازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using K+ and BH4– to selectively tailor interfacial solvation, rather than bulk solvation, enabling ether electrolytes for 4.4 V lithium metal batteries. This approach suppresses interfacial decomposition, extends Li plating/stripping to 160 cycles, raises oxidation onset to 5.00 V, and retains 85.7% capacity after 100 cycles in NCM811 full cells.&lt;br&gt;🏷 lithium metal battery · ether electrolyte · interfacial solvation · KBH4 additive · high-voltage NCM811</description>
-<category>lithium metal battery</category>
-<category>ether electrolyte</category>
-<category>interfacial solvation</category>
-<category>KBH4 additive</category>
-<category>high-voltage NCM811</category>
-</item>
-<item>
-<title>Lattice Reconstruction and Surface Engineering Enable High‐Voltage Operation of Regenerated LiCoO 2 Cathodes</title>
-<link>https://doi.org/10.1002/adfm.78773</link>
-<guid isPermaLink="false">10.1002/adfm.78773</guid>
-<pubDate>Thu, 01 Oct 2026 02:01:24 GMT</pubDate>
-<description>بازسازی شبکه و مهندسی سطح، عملکرد ولتاژ بالای کاتدهای LiCoO2 بازتولیدشده را تا 4.6 ولت ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work identifies intrinsic limits on spent LiCoO₂ recovery and uses lattice reconstruction plus a nanoscale rock-salt surface layer to regenerate high-voltage cathodes. The strategy restores layered structure and Li⁺ kinetics, enabling stable 4.6 V cycling (81% retention after 1500 cycles). It offers a scalable route for high-value battery recycling.&lt;br&gt;🏷 LiCoO2 cathode · lithium-ion battery · recycling · lattice reconstruction · high-voltage</description>
-<category>LiCoO2 cathode</category>
-<category>lithium-ion battery</category>
-<category>recycling</category>
-<category>lattice reconstruction</category>
-<category>high-voltage</category>
 </item>
 </channel>
 </rss>
