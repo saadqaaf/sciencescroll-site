@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 17:05:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 18:02:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond Cathode Hosts: The Multifaceted Utility of MoS 2 in Next‐Generation Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.75927</link>
+<guid isPermaLink="false">10.1002/smll.75927</guid>
+<pubDate>Mon, 05 Oct 2026 18:01:38 GMT</pubDate>
+<description>این مرور، کاربردهای چندگانه MoS2 در کاتد، الکترولیت و آند باتری‌های آبی یون روی و مکانیسم‌های بهبود آن را جمع‌بندی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely positions MoS₂ beyond its conventional cathode role, highlighting its multifunctional utility across cathodes, anodes, and electrolytes in aqueous zinc-ion batteries. It systematically links modification strategies—defect, interlayer, and composite engineering—to mechanisms regulating electronic structure, ion transport, and interfacial stability, offering integrated design principles to overcome dendrites, side reactions, and sluggish kinetics.&lt;br&gt;🏷 aqueous zinc-ion battery · MoS2 · cathode host · interfacial modifier · dendrite suppression</description>
+<category>aqueous zinc-ion battery</category>
+<category>MoS2</category>
+<category>cathode host</category>
+<category>interfacial modifier</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Microwave-thermo-electrical energy recycling via thermally conductive absorbing network and entropy-amplified ionic thermoelectrics</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.056</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.056</guid>
+<pubDate>Mon, 05 Oct 2026 18:01:21 GMT</pubDate>
+<description>این مقاله با استفاده از شبکه جاذب رسانای حرارتی و ترموالکتریک یونی تقویت‌شده با آنتروپی، بازیافت انرژی گرمایی-الکتریکی مایکروویو را ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 ionic thermoelectrics · thermal energy harvesting · thermally conductive network · entropy amplification · energy recycling</description>
+<category>ionic thermoelectrics</category>
+<category>thermal energy harvesting</category>
+<category>thermally conductive network</category>
+<category>entropy amplification</category>
+<category>energy recycling</category>
+</item>
 <item>
 <title>Bamboo-derived hard carbon for sodium-ion batteries: Precursor-to-structure evolution, sodium-storage mechanisms, and practical design</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.048</link>
@@ -1016,42 +1040,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>self-discharging battery</category>
 <category>electrooxidation</category>
 <category>multi-active sites</category>
-</item>
-<item>
-<title>Advances in biomimetic ion channel based charged interface regulation and ion transport for electrochemical energy storage</title>
-<link>https://doi.org/10.1016/j.pmatsci.2026.101853</link>
-<guid isPermaLink="false">10.1016/j.pmatsci.2026.101853</guid>
-<pubDate>Thu, 01 Oct 2026 18:01:26 GMT</pubDate>
-<description>این مقاله مروری به پیشرفت‌های تنظیم سطح باردار و انتقال یون مبتنی بر کانال یونی زیست‌الگویی برای ذخیره‌سازی انرژی الکتروشیمیایی می‌پردازد.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 biomimetic ion channel · charged interface · ion transport · electrochemical energy storage · interface regulation</description>
-<category>biomimetic ion channel</category>
-<category>charged interface</category>
-<category>ion transport</category>
-<category>electrochemical energy storage</category>
-<category>interface regulation</category>
-</item>
-<item>
-<title>From framework chemistry to device performance: UiO-66-NH2 as a multifunctional platform for energy storage and sensing</title>
-<link>https://doi.org/10.1016/j.pmatsci.2026.101852</link>
-<guid isPermaLink="false">10.1016/j.pmatsci.2026.101852</guid>
-<pubDate>Thu, 01 Oct 2026 18:01:21 GMT</pubDate>
-<description>این مقاله مروری، UiO-66-NH2 را به عنوان یک سکو چندکاره برای ذخیره‌سازی انرژی و حسگری از شیمی چارچوب تا عملکرد دستگاه بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 UiO-66-NH2 · metal-organic framework · energy storage · sensing · device performance</description>
-<category>UiO-66-NH2</category>
-<category>metal-organic framework</category>
-<category>energy storage</category>
-<category>sensing</category>
-<category>device performance</category>
-</item>
-<item>
-<title>Perspective on the commercialization progress of silicon-based anode materials</title>
-<link>https://doi.org/10.1016/j.pmatsci.2026.101851</link>
-<guid isPermaLink="false">10.1016/j.pmatsci.2026.101851</guid>
-<pubDate>Thu, 01 Oct 2026 18:01:16 GMT</pubDate>
-<description>این مقاله چشم‌اندازی بر پیشرفت تجاری‌سازی مواد آندی بر پایه سیلیکون ارائه می‌دهد و چالش‌ها و راهکارهای اصلی را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | 💭 Perspective&lt;br&gt;🏷 silicon anode · lithium-ion battery · commercialization · volume expansion · solid electrolyte interphase</description>
-<category>silicon anode</category>
-<category>lithium-ion battery</category>
-<category>commercialization</category>
-<category>volume expansion</category>
-<category>solid electrolyte interphase</category>
 </item>
 </channel>
 </rss>
