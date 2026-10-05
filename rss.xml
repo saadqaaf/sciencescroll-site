@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 03:01:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 04:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Recent progress on ZIF-derived iron single-atom catalysts for electrocatalytic oxygen reduction</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218614</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218614</guid>
+<pubDate>Mon, 05 Oct 2026 04:01:01 GMT</pubDate>
+<description>این مقاله پیشرفت‌های اخیر در کاتالیزورهای تک‌اتمی آهن مشتق‌شده از ZIF را برای واکنش کاهش اکسیژن الکتروکاتالیستی مرور می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 ZIF-derived catalysts · iron single-atom · oxygen reduction reaction · electrocatalysis · Fe-N-C</description>
+<category>ZIF-derived catalysts</category>
+<category>iron single-atom</category>
+<category>oxygen reduction reaction</category>
+<category>electrocatalysis</category>
+<category>Fe-N-C</category>
+</item>
 <item>
 <title>High-Conductivity and Moisture-Tolerant Sulfide Electrolyte Enabled by Bifunctional Coating for Practical All-Solid-State Lithium Batteries</title>
 <link>https://doi.org/10.1007/s40820-026-02353-y</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electr
 <category>sporulation</category>
 <category>Clostridioides difficile</category>
 <category>small proteins</category>
-</item>
-<item>
-<title>Scalable Independently Tunable MoS2 Memtransistor via Contact-Engineering for Cardiac Signal Processing</title>
-<link>https://doi.org/10.1021/acsnano.6c10356</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10356</guid>
-<pubDate>Sun, 04 Oct 2026 01:01:18 GMT</pubDate>
-<description>یک ممریستور MoS2 با مهندسی تماس برای تنظیم‌پذیری مستقل و پایدار ساخته شد و برای پردازش سیگنال قلبی و طبقه‌بندی آریتمی ECG به کار رفت.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 MoS2 memtransistor · contact engineering · neuromorphic computing · cardiac signal processing · resistive switching</description>
-<category>MoS2 memtransistor</category>
-<category>contact engineering</category>
-<category>neuromorphic computing</category>
-<category>cardiac signal processing</category>
-<category>resistive switching</category>
 </item>
 </channel>
 </rss>
