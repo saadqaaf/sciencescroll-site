@@ -5,8 +5,176 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 15:02:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 16:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>CellART: a unified framework for extracting single-cell information from high-resolution spatial transcriptomics</title>
+<link>https://doi.org/10.1038/s43588-026-01054-1</link>
+<guid isPermaLink="false">10.1038/s43588-026-01054-1</guid>
+<pubDate>Mon, 05 Oct 2026 16:02:09 GMT</pubDate>
+<description>CellART چارچوبی یکپارچه برای استخراج اطلاعات تک‌سلولی از داده‌های ترانسکریپتومیکس فضایی با وضوح بالا ارائه می‌دهد.&lt;br&gt;Nature Computational Science | 🔬 Research Article&lt;br&gt;🏷 spatial transcriptomics · single-cell analysis · CellART framework · high-resolution imaging · cell segmentation</description>
+<category>spatial transcriptomics</category>
+<category>single-cell analysis</category>
+<category>CellART framework</category>
+<category>high-resolution imaging</category>
+<category>cell segmentation</category>
+</item>
+<item>
+<title>Photonic neuromorphic learning via generalized in situ physical gradient descent</title>
+<link>https://doi.org/10.1038/s43588-026-01057-y</link>
+<guid isPermaLink="false">10.1038/s43588-026-01057-y</guid>
+<pubDate>Mon, 05 Oct 2026 16:02:06 GMT</pubDate>
+<description>یادگیری نورومورفیک فوتونیکی از طریق گرادیان نزولی فیزیکی درجا تعمیم‌یافته، امکان آموزش درجای شبکه‌های نوری را فراهم می‌کند.&lt;br&gt;Nature Computational Science | 🔬 Research Article&lt;br&gt;🏷 photonic neuromorphic · gradient descent · in situ learning · optical computing · physical learning</description>
+<category>photonic neuromorphic</category>
+<category>gradient descent</category>
+<category>in situ learning</category>
+<category>optical computing</category>
+<category>physical learning</category>
+</item>
+<item>
+<title>Single‐Atom Active Sites in Polymeric Phthalocyanine Hybrid Electrocatalysis for High‐Efficiency Lithium–Carbon Dioxide Batteries</title>
+<link>https://doi.org/10.1002/adfm.78821</link>
+<guid isPermaLink="false">10.1002/adfm.78821</guid>
+<pubDate>Mon, 05 Oct 2026 16:02:03 GMT</pubDate>
+<description>کاتالیزور CuPPc@CNT با سایت‌های تک‌اتمی Cu–N4 برای باتری Li–CO2، اضافه‌ولتاژ را به 1.06 V کاهش داده و چرخه‌پذیری را تا 120 چرخه بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 CuPPc@CNT introduces atomically dispersed Cu–N4 single-atom sites in a polymerized phthalocyanine–CNT hybrid, enabling noble-metal-free Li–CO2 batteries. It lowers overpotential to 1.06 V, sustains 120 cycles, and ensures reversible Li2CO3 formation/decomposition. This establishes polymeric metal phthalocyanine–CNT hybrids as a promising electrocatalyst platform for next-generation Li–CO2 batteries.&lt;br&gt;🏷 Li-CO2 battery · single-atom catalyst · copper phthalocyanine · Cu-N4 sites · Li2CO3 reversibility</description>
+<category>Li-CO2 battery</category>
+<category>single-atom catalyst</category>
+<category>copper phthalocyanine</category>
+<category>Cu-N4 sites</category>
+<category>Li2CO3 reversibility</category>
+</item>
+<item>
+<title>Shape‐Adaptive Flexible 3D Air‐Gap Phased‐Array Antennas via Mechanically Guided Assembly</title>
+<link>https://doi.org/10.1002/adfm.78806</link>
+<guid isPermaLink="false">10.1002/adfm.78806</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:58 GMT</pubDate>
+<description>ساخت آرایه‌های فازی سه‌بعدی انعطاف‌پذیر با هوا-فاصله از طریق مونتاژ مکانیکی هدایت‌شده که عملکرد الکترومغناطیسی پایدار در برابر تغییرشکل را حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 flexible antenna · phased array · buckling assembly · air-gap dielectric · beamforming</description>
+<category>flexible antenna</category>
+<category>phased array</category>
+<category>buckling assembly</category>
+<category>air-gap dielectric</category>
+<category>beamforming</category>
+</item>
+<item>
+<title>Crystal Pre‐Dissolved Method Fabricates Diverse Phase‐Pure Q‐2D and FA‐3D Tin‐Based Perovskite Heterojunctions</title>
+<link>https://doi.org/10.1002/adfm.78828</link>
+<guid isPermaLink="false">10.1002/adfm.78828</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:55 GMT</pubDate>
+<description>روش پیش‌حل‌سازی کریستال، ناهم‌ساخت‌های فاز-خالص Q-2D/FA-3D پروسکایت قلع را برای سلول‌های خورشیدی پایدار می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 tin perovskite · quasi-2D · heterojunction · phase-pure · solar cells</description>
+<category>tin perovskite</category>
+<category>quasi-2D</category>
+<category>heterojunction</category>
+<category>phase-pure</category>
+<category>solar cells</category>
+</item>
+<item>
+<title>In Situ Probing of Lithiation Dynamics Enabled by Strain‐Sensing Current Collector</title>
+<link>https://doi.org/10.1002/adfm.78814</link>
+<guid isPermaLink="false">10.1002/adfm.78814</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:52 GMT</pubDate>
+<description>جمع‌کننده جریان حس‌گر کرنش، پویایی لیتیوم‌دهی و کرنش برگشت‌ناپذیر را در باتری لیتیوم-یون به‌صورت درجا ردیابی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a strain-sensing current collector integrating Constantan sensors into copper via transfer printing and electroplating, preserving cell function. It enables operando probing of graphite lithiation, rate-dependent and low-temperature degradation strains, and decouples reversible from irreversible strain. This offers a practical strategy for studying electrochemical-mechanical coupling in operating lithium-ion batteries without disrupting cell structure.&lt;br&gt;🏷 lithiation dynamics · strain sensing · current collector · operando · lithium-ion battery</description>
+<category>lithiation dynamics</category>
+<category>strain sensing</category>
+<category>current collector</category>
+<category>operando</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>3D‐Printed Dual‐Gradient Gel Electrodes Synchronize Ion Transport and Active‐Site Utilization for High‐Energy Zinc‐Ion Hybrid Supercapacitors</title>
+<link>https://doi.org/10.1002/adfm.78804</link>
+<guid isPermaLink="false">10.1002/adfm.78804</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:47 GMT</pubDate>
+<description>الکترود ژلی دو‌گرادیانی چاپ‌شده سه‌بعدی، انتقال یون و استفاده از سایت فعال را برای ابرخازن روی‌یون هماهنگ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a stepwise multi-ink 3D-printed dual-gradient MXene/polypyrrole@CNT gel electrode, coupling microlattice spacing and pore-structure gradients to synchronize ion transport with active-site utilization. This suppresses polarization and homogenizes reaction current, enabling high-mass-loading zinc-ion hybrid supercapacitors with 6.2 F cm⁻² and 0.86 mWh cm⁻², offering a scalable framework for high-energy flexible storage.&lt;br&gt;🏷 zinc-ion supercapacitor · 3D printing · MXene · gel electrode · dual-gradient</description>
+<category>zinc-ion supercapacitor</category>
+<category>3D printing</category>
+<category>MXene</category>
+<category>gel electrode</category>
+<category>dual-gradient</category>
+</item>
+<item>
+<title>Bio‐Inspired Multifunctional Superhydrophilic Coatings With Remarkably Fast Self‐Healing Abilities</title>
+<link>https://doi.org/10.1002/adfm.78826</link>
+<guid isPermaLink="false">10.1002/adfm.78826</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:42 GMT</pubDate>
+<description>پوشش‌های فوق‌آب‌دوست الهام‌گرفته از طبیعت با خودترمیمی سریع و ضد‌مه‌گرفتگی پایدار ساخته شدند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 superhydrophilic coating · self-healing · bio-inspired · anti-fogging · hydrogel</description>
+<category>superhydrophilic coating</category>
+<category>self-healing</category>
+<category>bio-inspired</category>
+<category>anti-fogging</category>
+<category>hydrogel</category>
+</item>
+<item>
+<title>A Zero‐Dimensional Hybrid Tin Halide with Efficient Near‐Infrared Luminescence for Intelligent Defect Inspection</title>
+<link>https://doi.org/10.1002/adfm.78761</link>
+<guid isPermaLink="false">10.1002/adfm.78761</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:39 GMT</pubDate>
+<description>هالید قلع صفر‌بعدی با لومینسانس NIR کارآمد، برای بازرسی هوشمند عیوب با دقت بالا به کار می‌رود.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 tin halide · near-infrared luminescence · defect inspection · deep learning · zero-dimensional</description>
+<category>tin halide</category>
+<category>near-infrared luminescence</category>
+<category>defect inspection</category>
+<category>deep learning</category>
+<category>zero-dimensional</category>
+</item>
+<item>
+<title>Bioinspired Photosynthetic Bacterial Dormancy Modulates Gut Microbiota to Potentiate Colorectal Cancer Immunotherapy</title>
+<link>https://doi.org/10.1002/adfm.78744</link>
+<guid isPermaLink="false">10.1002/adfm.78744</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:35 GMT</pubDate>
+<description>باکتری‌های فتوسنتزی خفته، میکروبیوتای روده را تعدیل و ایمونوتراپی سرطان کولورکتال را تقویت می‌کنند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 photosynthetic bacteria · dormancy · gut microbiota · colorectal cancer · immunotherapy</description>
+<category>photosynthetic bacteria</category>
+<category>dormancy</category>
+<category>gut microbiota</category>
+<category>colorectal cancer</category>
+<category>immunotherapy</category>
+</item>
+<item>
+<title>The Interface Science Data Repository: A (meta)data framework and platform for FAIR data reporting in experimental fluid interface science</title>
+<link>https://doi.org/10.1016/j.cis.2026.104066</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104066</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:32 GMT</pubDate>
+<description>مخزن داده علم سطح مشترک، چارچوبی برای گزارش داده‌های FAIR در علم سطح مشترک سیال ارائه می‌دهد.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 interface science · data repository · FAIR data · fluid interfaces · metadata framework</description>
+<category>interface science</category>
+<category>data repository</category>
+<category>FAIR data</category>
+<category>fluid interfaces</category>
+<category>metadata framework</category>
+</item>
+<item>
+<title>Thiamine cross-feeding drives microbial coexistence in the leaf microbiome</title>
+<link>https://doi.org/10.1038/s41564-026-02499-w</link>
+<guid isPermaLink="false">10.1038/s41564-026-02499-w</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:29 GMT</pubDate>
+<description>تغذیه متقابل تیامین بین Dioszegia و Albugo، همزیستی میکروبی را در میکروبیوم برگ تسهیل می‌کند.&lt;br&gt;Nature Microbiology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 thiamine cross-feeding · microbial coexistence · leaf microbiome · Dioszegia · Albugo</description>
+<category>thiamine cross-feeding</category>
+<category>microbial coexistence</category>
+<category>leaf microbiome</category>
+<category>Dioszegia</category>
+<category>Albugo</category>
+</item>
+<item>
+<title>Global and specific mechanisms stimulate mistranslation in cancer</title>
+<link>https://doi.org/10.1038/s41556-026-02088-3</link>
+<guid isPermaLink="false">10.1038/s41556-026-02088-3</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:26 GMT</pubDate>
+<description>مکانیسم‌های جهانی و اختصاصی، ترجمه نادرست را در سرطان تحریک می‌کنند.&lt;br&gt;Nature Cell Biology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mistranslation · cancer · global mechanisms · specific mechanisms · translation fidelity</description>
+<category>mistranslation</category>
+<category>cancer</category>
+<category>global mechanisms</category>
+<category>specific mechanisms</category>
+<category>translation fidelity</category>
+</item>
+<item>
+<title>Decline of chaperone-mediated autophagy in aging impairs macrophage clearance of senescent cells</title>
+<link>https://doi.org/10.1038/s43587-026-01240-w</link>
+<guid isPermaLink="false">10.1038/s43587-026-01240-w</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:22 GMT</pubDate>
+<description>کاهش اتوفاژی وابسته به چاپرون در پیری، پاکسازی سلول‌های پیر توسط ماکروفاژها را مختل می‌کند.&lt;br&gt;Nature Aging | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chaperone-mediated autophagy · aging · macrophage · senescent cells · clearance</description>
+<category>chaperone-mediated autophagy</category>
+<category>aging</category>
+<category>macrophage</category>
+<category>senescent cells</category>
+<category>clearance</category>
+</item>
 <item>
 <title>The radical-radical cross-coupling of alkyl carboxylic acids and organoborons</title>
 <link>https://doi.org/10.1038/s41557-026-02237-z</link>
@@ -1039,174 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cytochrome P450 · diketo
 <category>nucleation thermodynamics</category>
 <category>dendrite-free deposition</category>
 <category>porous carbon nanofiber</category>
-</item>
-<item>
-<title>Dual‐Templated Carbon Aerogel Beads: Preparation, Structure and Applications in Physiological Health Monitoring</title>
-<link>https://doi.org/10.1002/smll.75969</link>
-<guid isPermaLink="false">10.1002/smll.75969</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:36 GMT</pubDate>
-<description>مهره‌های آئروژل کربنی با روش دوگانه-قالب‌سازی و بهینه‌سازی RSM ساخته شدند و حسگر رطوبت با زمان پاسخ/بازیابی ۲۲/۶ ثانیه و حساسیت ۱.۲۷٪ RH−۱ برای پایش سلامت ارائه کردند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 carbon aerogel beads · dual-templating · humidity sensor · response surface methodology · health monitoring</description>
-<category>carbon aerogel beads</category>
-<category>dual-templating</category>
-<category>humidity sensor</category>
-<category>response surface methodology</category>
-<category>health monitoring</category>
-</item>
-<item>
-<title>SnO‐Based Mesh‐Island Architecture Stabilizes PtCoSn Alloy Catalysts for Durable Hydrogen Fuel Cells</title>
-<link>https://doi.org/10.1002/smll.76107</link>
-<guid isPermaLink="false">10.1002/smll.76107</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:33 GMT</pubDate>
-<description>کاتالیزور آلیاژی PtCoSn با معماری مش-جزیره و SnO، فعالیت و پایداری واکنش کاهش اکسیژن را در پیل سوختی بهبود می‌بخشد؛ چگالی توان ۱.۴۶ وات بر سانتی‌مترمربع و افت ۱۴.۴٪ پس از ۳۰۰۰۰ چرخه.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a mesh-island confinement strategy using alternating atomic layer deposition to create ternary PtCoSn catalysts, with SnO-based mesh and support-confined islands stabilizing the alloy. This suppresses metal dissolution and nanoparticle migration, overcoming the activity-stability trade-off. Significance: achieves 1.46 W cm⁻² peak power and only 14.4% degradation after 30,000 cycles, offering a general route to durable fuel cell electrocatalysts.&lt;br&gt;🏷 PtCoSn alloy · oxygen reduction reaction · fuel cells · mesh-island confinement · atomic layer deposition</description>
-<category>PtCoSn alloy</category>
-<category>oxygen reduction reaction</category>
-<category>fuel cells</category>
-<category>mesh-island confinement</category>
-<category>atomic layer deposition</category>
-</item>
-<item>
-<title>MoS 2 ‐Based Thermoelectric Materials: Current Advances and Future Prospects in Micro‐Thermoelectric Devices</title>
-<link>https://doi.org/10.1002/smll.76042</link>
-<guid isPermaLink="false">10.1002/smll.76042</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:27 GMT</pubDate>
-<description>مروری بر مواد ترموالکتریک مبتنی بر MoS2 و راهبردهای دوپینگ، میان‌لایه‌گذاری و ناهم‌ساختاردهی برای بهبود zT و کاربرد در میکروترموالکتریک‌های سازگار با CMOS.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 MoS2 · thermoelectric materials · micro-thermoelectric devices · zT · CMOS compatibility</description>
-<category>MoS2</category>
-<category>thermoelectric materials</category>
-<category>micro-thermoelectric devices</category>
-<category>zT</category>
-<category>CMOS compatibility</category>
-</item>
-<item>
-<title>Photo‐Induced Electrochromism: Toward a Self‐Coloring Smart Window</title>
-<link>https://doi.org/10.1002/smll.76081</link>
-<guid isPermaLink="false">10.1002/smll.76081</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:24 GMT</pubDate>
-<description>پنجره هوشمند با مکانیزم الکتروکرومیسم القاشده نوری و کاتد WO3-x، تنظیم سه‌باندی و کاهش دمای داخلی ۷ تا ۱۰ درجه سلسیوس و صرفه‌جویی انرژی ۴۴٪ را نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 photo-induced electrochromism · smart window · WO3-x · tri-band regulation · energy saving</description>
-<category>photo-induced electrochromism</category>
-<category>smart window</category>
-<category>WO3-x</category>
-<category>tri-band regulation</category>
-<category>energy saving</category>
-</item>
-<item>
-<title>Regulating the Local Coordination of Cd‐Glutamate Through Ligand Chirality for Efficient Alkaline Hydrogen Evolution</title>
-<link>https://doi.org/10.1002/smll.76010</link>
-<guid isPermaLink="false">10.1002/smll.76010</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:21 GMT</pubDate>
-<description>کمپلکس‌های کادمیوم-گلوتامات با کایرالیته لیگاند، فعالیت HER قلیایی را تنظیم می‌کنند؛ کمپلکس D با اضافه‌ولتاژ ۱۸۸ میلی‌ولت در ۱۰ میلی‌آمپر بر سانتی‌مترمربع بهترین عملکرد را دارد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 Cd-glutamate · ligand chirality · hydrogen evolution reaction · local coordination · DFT</description>
-<category>Cd-glutamate</category>
-<category>ligand chirality</category>
-<category>hydrogen evolution reaction</category>
-<category>local coordination</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Cardiomyocyte Membrane‐Camouflaged Spinach Nano‐Thylakoids Enhance Myocardial Energy Metabolism and Ameliorate Heart Failure</title>
-<link>https://doi.org/10.1002/smll.76087</link>
-<guid isPermaLink="false">10.1002/smll.76087</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:18 GMT</pubDate>
-<description>نانوتیلاکوئیدهای اسفناج پوشش‌دار با غشای کاردیومیوسیت، تولید ATP و متابولیسم انرژی میوکارد را بهبود و نارسایی قلبی را در مدل موش TAC کاهش می‌دهند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nano-thylakoids · heart failure · cardiomyocyte membrane · myocardial energy metabolism · ATP production</description>
-<category>nano-thylakoids</category>
-<category>heart failure</category>
-<category>cardiomyocyte membrane</category>
-<category>myocardial energy metabolism</category>
-<category>ATP production</category>
-</item>
-<item>
-<title>Atomic‐Layer Materials for Energy Storage Systems</title>
-<link>https://doi.org/10.1002/smll.76048</link>
-<guid isPermaLink="false">10.1002/smll.76048</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:15 GMT</pubDate>
-<description>مروری بر مواد لایه‌اتمی برای ذخیره‌سازی انرژی الکتروشیمیایی، با تمرکز بر طراحی سطح اتمی، پایداری بین‌سطحی و کاربرد هوش مصنوعی در بهینه‌سازی پوشش‌های ALD/MLD.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges atomic-scale design of 2D materials and ALD/MLD-engineered coatings to device-level performance, degradation, and manufacturability in batteries and supercapacitors. It highlights AI/ML for optimizing coating chemistry, addresses techno-economic and scalability barriers, and provides a manufacturing framework, positioning interfacial modification and micro-energy-storage devices as near-term commercialization opportunities.&lt;br&gt;🏷 atomic-layer materials · energy storage · atomic layer deposition · interfacial engineering · machine learning</description>
-<category>atomic-layer materials</category>
-<category>energy storage</category>
-<category>atomic layer deposition</category>
-<category>interfacial engineering</category>
-<category>machine learning</category>
-</item>
-<item>
-<title>Upcycling Disposable Mask Straps Into Asymmetric PEDOT:PSS‐Based Triboelectric Nanogenerators Enabled by Saline‐Induced Power Enhancement</title>
-<link>https://doi.org/10.1002/smll.76115</link>
-<guid isPermaLink="false">10.1002/smll.76115</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:11 GMT</pubDate>
-<description>بازیافت بند ماسک دورانداخته‌شده به نانوژنراتور تریبوالکتریک DC با اصلاح NaCl، دستیابی به ولتاژ ۱ ولت، جریان ۱۸۰ میکروآمپر و چگالی توان ۰.۵ وات بر مترمربع.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 triboelectric nanogenerator · PEDOT:PSS · mask strap upcycling · NaCl modification · wearable energy harvesting</description>
-<category>triboelectric nanogenerator</category>
-<category>PEDOT:PSS</category>
-<category>mask strap upcycling</category>
-<category>NaCl modification</category>
-<category>wearable energy harvesting</category>
-</item>
-<item>
-<title>Surface Locomotion of Cell‐Sized Microrobots Subject to Adhesive Heterogeneity</title>
-<link>https://doi.org/10.1002/smll.76039</link>
-<guid isPermaLink="false">10.1002/smll.76039</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:08 GMT</pubDate>
-<description>بررسی حرکت سطحی میکروربات‌های خودران با اندازه سلولی روی بسترهای با شرایط سطحی متفاوت و ارائه مدل سینماتیکی کاهش‌یافته برای توصیف مسیرهای انتقالی، دایره‌ای و مارپیچ.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 microrobots · surface locomotion · adhesive heterogeneity · self-phoretic propulsion · kinematic model</description>
-<category>microrobots</category>
-<category>surface locomotion</category>
-<category>adhesive heterogeneity</category>
-<category>self-phoretic propulsion</category>
-<category>kinematic model</category>
-</item>
-<item>
-<title>Internal Electric Field‐Regulated Dual‐Site Fe–Re Supramolecular Assembly for Photocatalytic CO 2 Reduction Toward Multicarbon Products</title>
-<link>https://doi.org/10.1002/smll.76055</link>
-<guid isPermaLink="false">10.1002/smll.76055</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:04 GMT</pubDate>
-<description>ساختار سوپرمولکولی Fe-Re با میدان الکتریکی داخلی برای کاهش فوتوکاتالیستی CO2 به محصولات چندکربنی، با نرخ تولید C2H4 برابر 4967 µmol g−1 h−1 و گزینش‌پذیری کل C2 57.2%.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 photocatalytic CO2 reduction · Fe-Re supramolecular assembly · internal electric field · C-C coupling · multicarbon products</description>
-<category>photocatalytic CO2 reduction</category>
-<category>Fe-Re supramolecular assembly</category>
-<category>internal electric field</category>
-<category>C-C coupling</category>
-<category>multicarbon products</category>
-</item>
-<item>
-<title>Engineering Nanoparticles to Navigate Biological Barriers for Deep Tumor Penetration</title>
-<link>https://doi.org/10.1002/smll.75972</link>
-<guid isPermaLink="false">10.1002/smll.75972</guid>
-<pubDate>Sun, 04 Oct 2026 22:03:59 GMT</pubDate>
-<description>این مرور راهبردهای مهندسی نانوذرات برای عبور از سدهای زیستی و نفوذ عمیق در تومور شامل طراحی نانوحامل، تعدیل عروقی-استرومایی و انتقال فعال را جمع‌بندی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 tumor penetration · nanoparticle engineering · biological barriers · extracellular matrix · drug delivery</description>
-<category>tumor penetration</category>
-<category>nanoparticle engineering</category>
-<category>biological barriers</category>
-<category>extracellular matrix</category>
-<category>drug delivery</category>
-</item>
-<item>
-<title>Covalent Organic Polymers Beyond the Shadows: Synthetic Strategies, Functional Attributes, and Emerging Applications</title>
-<link>https://doi.org/10.1002/smll.75901</link>
-<guid isPermaLink="false">10.1002/smll.75901</guid>
-<pubDate>Sun, 04 Oct 2026 22:03:56 GMT</pubDate>
-<description>این مرور راهبردهای سنتز، ویژگی‌های ساختاری و کاربردهای نوظهور پلیمرهای آلی کووالانسی را در حذف آلاینده، جداسازی و تبدیل انرژی بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 covalent organic polymers · porous materials · post-synthetic modification · synthetic strategy · gas conversion</description>
-<category>covalent organic polymers</category>
-<category>porous materials</category>
-<category>post-synthetic modification</category>
-<category>synthetic strategy</category>
-<category>gas conversion</category>
-</item>
-<item>
-<title>Aqueous Zinc‐Sulfur Batteries From Sulfur Conversion to Device Integration</title>
-<link>https://doi.org/10.1002/smll.75961</link>
-<guid isPermaLink="false">10.1002/smll.75961</guid>
-<pubDate>Sun, 04 Oct 2026 22:03:53 GMT</pubDate>
-<description>این مرور چارچوبی از واکنش تا دستگاه برای باتری‌های آبی روی-گوگرد ارائه می‌دهد و طراحی کاتد، الکترولیت، جداکننده و آند را یکپارچه می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This Review introduces a reaction-to-device framework for aqueous zinc-sulfur batteries, linking sulfur conversion chemistry to system-level integration. It evaluates cathodes, electrolytes, mediators, membranes, and zinc interfaces collectively, plus flexible and pouch configurations. This holistic perspective establishes design and benchmarking principles, addressing component interdependence that isolated optimization misses, thereby advancing zinc-sulfur batteries toward safe, economical, scalable energy storage.&lt;br&gt;🏷 zinc-sulfur battery · aqueous electrolyte · sulfur conversion · device integration · redox mediator</description>
-<category>zinc-sulfur battery</category>
-<category>aqueous electrolyte</category>
-<category>sulfur conversion</category>
-<category>device integration</category>
-<category>redox mediator</category>
-</item>
-<item>
-<title>Low‐Temperature Demulsification‐Induced Gelation Coupled With Gel‐Confined Freeze Casting for Highly Elastic Conductive Aerogels in Wireless Gait Monitoring</title>
-<link>https://doi.org/10.1002/smll.76056</link>
-<guid isPermaLink="false">10.1002/smll.76056</guid>
-<pubDate>Sun, 04 Oct 2026 22:03:48 GMT</pubDate>
-<description>آئروژل APTS/CNTs/WPU با ژل‌شدن القایی دمای پایین و قالب‌ریزی انجمادی کشسان و رسانا برای پایش بی‌سیم راه‌رفتن ساخته می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 conductive aerogel · piezoresistive sensor · freeze casting · carbon nanotube · gait monitoring</description>
-<category>conductive aerogel</category>
-<category>piezoresistive sensor</category>
-<category>freeze casting</category>
-<category>carbon nanotube</category>
-<category>gait monitoring</category>
 </item>
 </channel>
 </rss>

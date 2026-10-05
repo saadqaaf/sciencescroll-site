@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 05 Oct 2026 15:02:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 16:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Single‐Atom Active Sites in Polymeric Phthalocyanine Hybrid Electrocatalysis for High‐Efficiency Lithium–Carbon Dioxide Batteries</title>
+<link>https://doi.org/10.1002/adfm.78821</link>
+<guid isPermaLink="false">10.1002/adfm.78821</guid>
+<pubDate>Mon, 05 Oct 2026 16:02:03 GMT</pubDate>
+<description>کاتالیزور CuPPc@CNT با سایت‌های تک‌اتمی Cu–N4 برای باتری Li–CO2، اضافه‌ولتاژ را به 1.06 V کاهش داده و چرخه‌پذیری را تا 120 چرخه بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 CuPPc@CNT introduces atomically dispersed Cu–N4 single-atom sites in a polymerized phthalocyanine–CNT hybrid, enabling noble-metal-free Li–CO2 batteries. It lowers overpotential to 1.06 V, sustains 120 cycles, and ensures reversible Li2CO3 formation/decomposition. This establishes polymeric metal phthalocyanine–CNT hybrids as a promising electrocatalyst platform for next-generation Li–CO2 batteries.&lt;br&gt;🏷 Li-CO2 battery · single-atom catalyst · copper phthalocyanine · Cu-N4 sites · Li2CO3 reversibility</description>
+<category>Li-CO2 battery</category>
+<category>single-atom catalyst</category>
+<category>copper phthalocyanine</category>
+<category>Cu-N4 sites</category>
+<category>Li2CO3 reversibility</category>
+</item>
+<item>
+<title>In Situ Probing of Lithiation Dynamics Enabled by Strain‐Sensing Current Collector</title>
+<link>https://doi.org/10.1002/adfm.78814</link>
+<guid isPermaLink="false">10.1002/adfm.78814</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:52 GMT</pubDate>
+<description>جمع‌کننده جریان حس‌گر کرنش، پویایی لیتیوم‌دهی و کرنش برگشت‌ناپذیر را در باتری لیتیوم-یون به‌صورت درجا ردیابی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a strain-sensing current collector integrating Constantan sensors into copper via transfer printing and electroplating, preserving cell function. It enables operando probing of graphite lithiation, rate-dependent and low-temperature degradation strains, and decouples reversible from irreversible strain. This offers a practical strategy for studying electrochemical-mechanical coupling in operating lithium-ion batteries without disrupting cell structure.&lt;br&gt;🏷 lithiation dynamics · strain sensing · current collector · operando · lithium-ion battery</description>
+<category>lithiation dynamics</category>
+<category>strain sensing</category>
+<category>current collector</category>
+<category>operando</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>3D‐Printed Dual‐Gradient Gel Electrodes Synchronize Ion Transport and Active‐Site Utilization for High‐Energy Zinc‐Ion Hybrid Supercapacitors</title>
+<link>https://doi.org/10.1002/adfm.78804</link>
+<guid isPermaLink="false">10.1002/adfm.78804</guid>
+<pubDate>Mon, 05 Oct 2026 16:01:47 GMT</pubDate>
+<description>الکترود ژلی دو‌گرادیانی چاپ‌شده سه‌بعدی، انتقال یون و استفاده از سایت فعال را برای ابرخازن روی‌یون هماهنگ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a stepwise multi-ink 3D-printed dual-gradient MXene/polypyrrole@CNT gel electrode, coupling microlattice spacing and pore-structure gradients to synchronize ion transport with active-site utilization. This suppresses polarization and homogenizes reaction current, enabling high-mass-loading zinc-ion hybrid supercapacitors with 6.2 F cm⁻² and 0.86 mWh cm⁻², offering a scalable framework for high-energy flexible storage.&lt;br&gt;🏷 zinc-ion supercapacitor · 3D printing · MXene · gel electrode · dual-gradient</description>
+<category>zinc-ion supercapacitor</category>
+<category>3D printing</category>
+<category>MXene</category>
+<category>gel electrode</category>
+<category>dual-gradient</category>
+</item>
 <item>
 <title>Bonding‐chemistry‐guided design of carbon frameworks for rechargeable‐ion batteries</title>
 <link>https://doi.org/10.1002/inf2.70183</link>
