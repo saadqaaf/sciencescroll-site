@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 13:04:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 14:02:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrostatic Regulation of Sulfur Spatial Evolution for Dimensionally Stable Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1002/smll.75698</link>
+<guid isPermaLink="false">10.1002/smll.75698</guid>
+<pubDate>Tue, 06 Oct 2026 14:02:23 GMT</pubDate>
+<description>تنظیم الکترواستاتیکی تکامل فضایی گوگرد با ناهم‌ساختار BN/CNT برای باتری لیتیوم-گوگرد پایدار با ظرفیت ۱۱۵۰ mAh/g پس از ۵۰۰ چرخه.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces electrostatic regulation of sulfur spatial evolution via BN/CNT heterostructures, separating polar and conductive domains to control polysulfide interactions. Amine functionalization tailors interfacial charge, enabling homogeneous sulfur redistribution and near-zero cathode swelling. The design achieves 1150 mAh g⁻¹ over 500 cycles, establishing a new principle for dimensionally stable Li–S batteries beyond adsorption-centric strategies.&lt;br&gt;🏷 lithium-sulfur battery · BN/CNT heterostructure · polysulfide regulation · cathode swelling · electrostatic regulation</description>
+<category>lithium-sulfur battery</category>
+<category>BN/CNT heterostructure</category>
+<category>polysulfide regulation</category>
+<category>cathode swelling</category>
+<category>electrostatic regulation</category>
+</item>
+<item>
+<title>Self‐Reconstructing, Conductive Bismuth Organic Framework Enables Effective Alloying and High‐Capacity Potassium‐Ion Anodes</title>
+<link>https://doi.org/10.1002/smll.76139</link>
+<guid isPermaLink="false">10.1002/smll.76139</guid>
+<pubDate>Tue, 06 Oct 2026 14:02:14 GMT</pubDate>
+<description>آند باتری یون پتاسیم بر پایه MOF بیسموت رسانا با لیگاند HHTP، با آلیاژسازی برگشت‌پذیر و ظرفیت بالا و کاهش چهاربرابری انبساط الکترود.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Conductive 2D Bi-HHTP MOF enables confined K–Bi alloying with reversible framework disassembly/reassembly, buffering strain and cutting expansion fourfold versus Bi powder. Its intrinsic conductivity avoids carbon additives, delivering high capacity and outperforming 3D Bi-MOFs and Cu/Ni/Co analogues, establishing design guidelines for alloy-type potassium-ion anodes.&lt;br&gt;🏷 potassium-ion battery · bismuth MOF · alloying anode · conductive framework · self-reconstruction</description>
+<category>potassium-ion battery</category>
+<category>bismuth MOF</category>
+<category>alloying anode</category>
+<category>conductive framework</category>
+<category>self-reconstruction</category>
+</item>
+<item>
+<title>A Molecular Capsule to Confine Redox‐Active Metal Acetylacetonate Complex for Long‐Lifetime Non‐Aqueous Redox Flow Battery</title>
+<link>https://doi.org/10.1002/smll.76120</link>
+<guid isPermaLink="false">10.1002/smll.76120</guid>
+<pubDate>Tue, 06 Oct 2026 14:02:02 GMT</pubDate>
+<description>کپسول مولکولی TBC8 با محصور کردن کمپلکس‌های استیل‌استونات فلزی، حلالیت و پایداری الکترولیت را افزایش داده و عمر باتری جریان ردوکس غیرآبی را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty is using a dimeric 4-tert-butylcalix[8]arene molecular capsule to encapsulate metal acetylacetonate redox species, boosting solubility and stability. This significantly advances non-aqueous redox flow batteries, achieving 90.41% capacity retention after 1000 cycles versus 52.2% after 400 cycles without capsules, offering a promising strategy for long-lifetime, high-performance grid-scale energy storage.&lt;br&gt;🏷 redox flow battery · molecular capsule · metal acetylacetonate · non-aqueous electrolyte · capacity retention</description>
+<category>redox flow battery</category>
+<category>molecular capsule</category>
+<category>metal acetylacetonate</category>
+<category>non-aqueous electrolyte</category>
+<category>capacity retention</category>
+</item>
+<item>
+<title>Endogenous Functional Group Engineering Enables High‐Efficiency Hard Carbon Anodes for Sodium‐ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76134</link>
+<guid isPermaLink="false">10.1002/smll.76134</guid>
+<pubDate>Tue, 06 Oct 2026 14:01:57 GMT</pubDate>
+<description>مهندسی گروه‌های عاملی درون‌زا در پیش‌ماده کربن سخت، شیمی SEI و عملکرد آند باتری یون-سدیم را با بازدهی کولمبی اولیه ۸۷.۹٪ بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers molecular precursor engineering to tune endogenous functional groups in hard carbon anodes, directly controlling SEI chemistry. It reveals that ‐COOH groups yield a thin NaF-rich SEI, enabling 87.9% initial Coulombic efficiency and 95.7% capacity retention after 200 cycles. This provides a generalizable design principle linking precursor chemistry to interfacial control for high-performance sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · solid electrolyte interphase · functional groups · initial Coulombic efficiency</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>solid electrolyte interphase</category>
+<category>functional groups</category>
+<category>initial Coulombic efficiency</category>
+</item>
+<item>
+<title>Interface and Substrate Design Enhance the Stability of Sodium Metal Anodes</title>
+<link>https://doi.org/10.1002/smll.76113</link>
+<guid isPermaLink="false">10.1002/smll.76113</guid>
+<pubDate>Tue, 06 Oct 2026 14:01:43 GMT</pubDate>
+<description>طراحی SEI و اصلاح جمع‌کننده جریان با کربن سخت، پایداری آند فلز سدیم را در باتری بدون آند با الکترولیت ژلی بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work uniquely combines SnF₂-initiated THF polymerization, forming a fluoride/NaₓSnᵧ-rich SEI, with a micron-sized hard carbon current collector. This dual strategy yields a high Na⁺ transference number (0.88), a 4.5 V window, and 1700 h symmetric-cell cycling. The resulting anode-less sodium battery retains 80% capacity after 180 cycles at room temperature and 84% after 200 cycles at −10°C, advancing practical sodium metal batteries.&lt;br&gt;🏷 sodium metal anode · solid electrolyte interphase · hard carbon · gel electrolyte · anode-less battery</description>
+<category>sodium metal anode</category>
+<category>solid electrolyte interphase</category>
+<category>hard carbon</category>
+<category>gel electrolyte</category>
+<category>anode-less battery</category>
+</item>
+<item>
+<title>Schottky Barrier and Interfacial Oxygen Vacancies Engineering Enable Low‐Barrier‐Potential Electron Injection and Polysulfide Catalysis</title>
+<link>https://doi.org/10.1002/smll.76105</link>
+<guid isPermaLink="false">10.1002/smll.76105</guid>
+<pubDate>Tue, 06 Oct 2026 14:01:35 GMT</pubDate>
+<description>یک هتروساختار نیمه‌هادی-فلزی با نقص اکسیژن، تزریق الکترون کم‌سد و کاتالیز پلی‌سولفیدها را ممکن کرده و عملکرد باتری لیتیوم-گوگرد را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling oxygen-deficient In₂O₃₋ₓ catalytic sites with metallic In via a Schottky barrier, lowering electron-injection barrier potential. This dual engineering enables timely electron supply for polysulfide catalysis, accelerating sulfur redox kinetics and suppressing shuttling. Significance: 998 mAh g⁻¹ at 1 C, 0.038% decay per cycle, and 507.5 Wh kg⁻¹ pouch-cell energy density.&lt;br&gt;🏷 lithium-sulfur battery · Schottky barrier · oxygen vacancies · polysulfide catalysis · electron injection</description>
+<category>lithium-sulfur battery</category>
+<category>Schottky barrier</category>
+<category>oxygen vacancies</category>
+<category>polysulfide catalysis</category>
+<category>electron injection</category>
+</item>
 <item>
 <title>Single-atom Bi-N4 sites enable synergistic interface and closed-pore engineering of hard carbon anodes for superior sodium storage</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.062</link>
@@ -1136,78 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers an iso
 <category>d-band center</category>
 <category>lattice strain</category>
 <category>Li2O2 nanosheets</category>
-</item>
-<item>
-<title>Direct Integration of Calcium Nitrate Tetrahydrate PCM Into an Oscillating Heat Pipe for Passive Lithium‐Ion Battery Thermal Management</title>
-<link>https://doi.org/10.1002/bte2.70153</link>
-<guid isPermaLink="false">10.1002/bte2.70153</guid>
-<pubDate>Mon, 05 Oct 2026 09:01:18 GMT</pubDate>
-<description>این مطالعه یک سیستم مدیریت حرارتی غیرفعال باتری لیتیوم-یون را با ادغام PCM کلسیم نیترات تتراهیدرات در لوله حرارتی نوسانی معرفی می‌کند که مقاومت حرارتی را تا ۳۰٪ کاهش می‌دهد.&lt;br&gt;Battery Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Directly integrating calcium nitrate tetrahydrate PCM as both latent-heat medium and working fluid inside an oscillating heat pipe creates a fully passive battery thermal management system. It cuts thermal resistance 30%, keeps cell temperature differences under 4.2°C, lowers exergy losses, and raises predicted ROI to 48.4%, offering an energy-efficient, economically attractive solution for fast-charging lithium-ion batteries.&lt;br&gt;🏷 lithium-ion battery · battery thermal management · oscillating heat pipe · phase change material · calcium nitrate tetrahydrate</description>
-<category>lithium-ion battery</category>
-<category>battery thermal management</category>
-<category>oscillating heat pipe</category>
-<category>phase change material</category>
-<category>calcium nitrate tetrahydrate</category>
-</item>
-<item>
-<title>High-Conductivity and Moisture-Tolerant Sulfide Electrolyte Enabled by Bifunctional Coating for Practical All-Solid-State Lithium Batteries</title>
-<link>https://doi.org/10.1007/s40820-026-02353-y</link>
-<guid isPermaLink="false">10.1007/s40820-026-02353-y</guid>
-<pubDate>Mon, 05 Oct 2026 02:01:09 GMT</pubDate>
-<description>پوشش دوعملکردی MPTMS روی الکترولیت سولفیدی LPSCBr رطوبت‌پذیری و رسانایی یونی بالا را حفظ کرده و انتشار H2S را ۹۳٪ کاهش می‌دهد و در باتری تمام‌جامد Li-NCM عملکرد پایداری نشان می‌دهد.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 MPTMS bifunctional coating forms a ~10 nm hydrophobic barrier on LPSCBr sulfide electrolyte, cutting H₂S emission by 93% while retaining 83.1% ionic conductivity. This enables ambient-air processing of sulfide electrolytes without sacrificing performance, delivering 84.6% capacity retention over 1000 cycles in all-solid-state cells—advancing scalable, cost-effective ASSLB manufacturing.&lt;br&gt;🏷 sulfide electrolyte · all-solid-state battery · MPTMS coating · moisture tolerance · ionic conductivity</description>
-<category>sulfide electrolyte</category>
-<category>all-solid-state battery</category>
-<category>MPTMS coating</category>
-<category>moisture tolerance</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Pristine Poly(3‐hexylthiophene) as an On‐Demand Conductive Binder and Redox Mediator for Carbon‐Additive‐Free, High‐Volumetric‐Energy‐Density, LiFePO 4 Cathodes without Calendaring</title>
-<link>https://doi.org/10.1002/smll.76059</link>
-<guid isPermaLink="false">10.1002/smll.76059</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:55 GMT</pubDate>
-<description>استفاده از P3HT به عنوان بایندر رسانا و واسطه ردوکس در کاتد LiFePO4 بدون کربن، چگالی انرژی حجمی بالا و پایداری چرخه‌ای را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 P3HT is introduced as a dual-function conductive binder and redox mediator for carbon-free LiFePO₄ cathodes, eliminating Super P and calendaring. It forms an internal percolating network via electrochemical doping, enabling 2.70 g cm⁻³ packing and 1402 Wh L⁻¹ volumetric energy density—far exceeding conventional SP:PVDF systems—while maintaining cycling stability and rate capability. This integrates conductivity, redox mediation, and interfacial stabilization for next-generation high-density LFP cathodes.&lt;br&gt;🏷 LiFePO4 cathode · P3HT binder · volumetric energy density · redox mediator · carbon-free electrode</description>
-<category>LiFePO4 cathode</category>
-<category>P3HT binder</category>
-<category>volumetric energy density</category>
-<category>redox mediator</category>
-<category>carbon-free electrode</category>
-</item>
-<item>
-<title>Electronic‐Structure Engineering Coordinates Na Nucleation Thermodynamics and Deposition Kinetics for Stable Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76108</link>
-<guid isPermaLink="false">10.1002/smll.76108</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:41 GMT</pubDate>
-<description>طراحی چارچوب کربنی نانوالیاف با VN برای هماهنگی ترمودینامیک هسته‌زنی و سینتیک رسوب Na، منجر به آند بدون دندریت با سیکل پایدار می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers VN nanoparticles in lotus-root-like porous carbon nanofibers to synergistically coordinate Na nucleation thermodynamics and deposition kinetics. Electronic-structure engineering creates sodiophilic N/V sites lowering nucleation barriers, while hierarchical porosity homogenizes ion/electric fields. The result—dendrite-free cycling over 1000 h with 99.86% CE—establishes electronic-structure-induced sodiophilicity as a decisive design descriptor for stable alkali-metal anodes.&lt;br&gt;🏷 sodium metal battery · vanadium nitride · nucleation thermodynamics · dendrite-free deposition · porous carbon nanofiber</description>
-<category>sodium metal battery</category>
-<category>vanadium nitride</category>
-<category>nucleation thermodynamics</category>
-<category>dendrite-free deposition</category>
-<category>porous carbon nanofiber</category>
-</item>
-<item>
-<title>SnO‐Based Mesh‐Island Architecture Stabilizes PtCoSn Alloy Catalysts for Durable Hydrogen Fuel Cells</title>
-<link>https://doi.org/10.1002/smll.76107</link>
-<guid isPermaLink="false">10.1002/smll.76107</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:33 GMT</pubDate>
-<description>کاتالیزور آلیاژی PtCoSn با معماری مش-جزیره و SnO، فعالیت و پایداری واکنش کاهش اکسیژن را در پیل سوختی بهبود می‌بخشد؛ چگالی توان ۱.۴۶ وات بر سانتی‌مترمربع و افت ۱۴.۴٪ پس از ۳۰۰۰۰ چرخه.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a mesh-island confinement strategy using alternating atomic layer deposition to create ternary PtCoSn catalysts, with SnO-based mesh and support-confined islands stabilizing the alloy. This suppresses metal dissolution and nanoparticle migration, overcoming the activity-stability trade-off. Significance: achieves 1.46 W cm⁻² peak power and only 14.4% degradation after 30,000 cycles, offering a general route to durable fuel cell electrocatalysts.&lt;br&gt;🏷 PtCoSn alloy · oxygen reduction reaction · fuel cells · mesh-island confinement · atomic layer deposition</description>
-<category>PtCoSn alloy</category>
-<category>oxygen reduction reaction</category>
-<category>fuel cells</category>
-<category>mesh-island confinement</category>
-<category>atomic layer deposition</category>
-</item>
-<item>
-<title>Atomic‐Layer Materials for Energy Storage Systems</title>
-<link>https://doi.org/10.1002/smll.76048</link>
-<guid isPermaLink="false">10.1002/smll.76048</guid>
-<pubDate>Sun, 04 Oct 2026 22:04:15 GMT</pubDate>
-<description>مروری بر مواد لایه‌اتمی برای ذخیره‌سازی انرژی الکتروشیمیایی، با تمرکز بر طراحی سطح اتمی، پایداری بین‌سطحی و کاربرد هوش مصنوعی در بهینه‌سازی پوشش‌های ALD/MLD.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges atomic-scale design of 2D materials and ALD/MLD-engineered coatings to device-level performance, degradation, and manufacturability in batteries and supercapacitors. It highlights AI/ML for optimizing coating chemistry, addresses techno-economic and scalability barriers, and provides a manufacturing framework, positioning interfacial modification and micro-energy-storage devices as near-term commercialization opportunities.&lt;br&gt;🏷 atomic-layer materials · energy storage · atomic layer deposition · interfacial engineering · machine learning</description>
-<category>atomic-layer materials</category>
-<category>energy storage</category>
-<category>atomic layer deposition</category>
-<category>interfacial engineering</category>
-<category>machine learning</category>
 </item>
 </channel>
 </rss>
