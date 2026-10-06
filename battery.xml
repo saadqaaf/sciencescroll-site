@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 16:01:32 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 17:03:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Temperature-stable high-κ oxides for miniaturized capacitors</title>
+<link>https://doi.org/10.1038/s41928-026-01721-1</link>
+<guid isPermaLink="false">10.1038/s41928-026-01721-1</guid>
+<pubDate>Tue, 06 Oct 2026 17:03:04 GMT</pubDate>
+<description>این پژوهش اکسیدهای high-κ پایدار در دما را برای خازن‌های مینیاتوری معرفی می‌کند که عملکرد الکتریکی را در دماهای بالا حفظ می‌کنند.&lt;br&gt;Nature Electronics | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Machine learning-guided design identified tungsten bronze oxides with Bi/Ge co-substitution, yielding a ceramic with high permittivity (~185), ultra-low loss (&amp;lt;0.0005), and near-zero temperature coefficient (≤±30 ppm/°C). Strong Ge–O bonds sustain polar displacements during thermal expansion. Prototype capacitors exceed commercial benchmarks, demonstrating how ML can navigate vast compositional spaces to discover temperature-stable, low-loss, high-κ dielectrics for miniaturized electronics.&lt;br&gt;🏷 high-κ oxides · capacitors · temperature stability · miniaturization · dielectrics</description>
+<category>high-κ oxides</category>
+<category>capacitors</category>
+<category>temperature stability</category>
+<category>miniaturization</category>
+<category>dielectrics</category>
+</item>
+<item>
+<title>Lotus-thread derived porous carbon frameworks with tailored Fe–N x active centres for enhanced charge storage in zinc ion hybrid supercapacitors</title>
+<link>https://doi.org/10.1039/d6ta02510b</link>
+<guid isPermaLink="false">10.1039/d6ta02510b</guid>
+<pubDate>Tue, 06 Oct 2026 17:02:09 GMT</pubDate>
+<description>کربن متخلخل مشتق از الیاف نیلوفر با مراکز فعال Fe-Nx جداگانه، ظرفیت ویژه ابرخازن هیبریدی یون روی را به طور چشمگیری افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Lotus-thread biomass is converted into porous carbon hosting isolated Fe–Nₓ sites, a new electrode design for zinc-ion hybrid supercapacitors. This dual strategy couples biomass-derived porosity with atomically dispersed catalytic centres, boosting specific capacitance and charge storage. It advances sustainable, high-performance ZIHSC cathodes and demonstrates tailoring single-atom sites in waste-derived carbons.&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · porous carbon · Fe-Nx active sites · lotus-thread · charge storage</description>
+<category>zinc-ion hybrid supercapacitor</category>
+<category>porous carbon</category>
+<category>Fe-Nx active sites</category>
+<category>lotus-thread</category>
+<category>charge storage</category>
+</item>
+<item>
+<title>In-situ-Constructed Interpenetrating Network Polymer Electrolyte with Shape-Memory Functionality</title>
+<link>https://doi.org/10.1039/d6ta04178g</link>
+<guid isPermaLink="false">10.1039/d6ta04178g</guid>
+<pubDate>Tue, 06 Oct 2026 17:01:57 GMT</pubDate>
+<description>الکترولیت پلیمری شبکه درهم‌نفوذی با خاصیت حافظه‌شکل درجا ساخته شد تا تغییرشکل برگشت‌ناپذیر ابرخازن‌های پوشیدنی را برطرف کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work introduces an in-situ-constructed interpenetrating network polymer electrolyte with shape-memory functionality, enabling supercapacitors to recover from deformation. The novelty lies in combining dynamic covalent networks with ionic conductivity, while significance rests on enhancing durability and lifespan for wearable energy storage, addressing irreversible stress-induced damage.&lt;br&gt;🏷 polymer electrolyte · shape memory · supercapacitor · interpenetrating network · wearable energy storage</description>
+<category>polymer electrolyte</category>
+<category>shape memory</category>
+<category>supercapacitor</category>
+<category>interpenetrating network</category>
+<category>wearable energy storage</category>
+</item>
+<item>
+<title>Coupling Reaction Pathways and Interfacial Transport in Practical All-Solid-State Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1039/d6ta06854e</link>
+<guid isPermaLink="false">10.1039/d6ta06854e</guid>
+<pubDate>Tue, 06 Oct 2026 17:01:51 GMT</pubDate>
+<description>جفت‌شدن مسیرهای واکنش و انتقال بین‌سطحی در باتری‌های لیتیوم-گوگرد تمام‌حالت‌جامد عملی، چالش‌های جایگزینی الکترولیت مایع را بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work decouples coupled reaction pathways and interfacial transport in practical all-solid-state Li–S batteries, revealing how solid electrolyte interfaces govern sulfur redox kinetics and rate limitations. Its novelty lies in linking interfacial ion/charge transport to reaction mechanisms under realistic conditions, guiding rational design of high-energy, shuttle-free solid-state Li–S cells.&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur · interfacial transport · reaction pathways · solid electrolyte</description>
+<category>all-solid-state battery</category>
+<category>lithium-sulfur</category>
+<category>interfacial transport</category>
+<category>reaction pathways</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Amorphous TiZr bimetallic MOFs with in situ formed Ti 3+ sites and oxygen vacancies for enhanced MgH 2 hydrogen storage</title>
+<link>https://doi.org/10.1039/d6ta06405a</link>
+<guid isPermaLink="false">10.1039/d6ta06405a</guid>
+<pubDate>Tue, 06 Oct 2026 17:01:42 GMT</pubDate>
+<description>MOFهای دوفلزی TiZr آمورف با سایت‌های Ti3+ و جای خالی اکسیژن درجا، خواص ذخیره‌سازی هیدروژن MgH2 را تقویت می‌کنند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 TiZr bimetallic MOFs are amorphous and form Ti³⁺ sites plus oxygen vacancies in situ, a combination not previously reported for MgH₂ catalysis. These defects enhance MgH₂ hydrogen storage kinetics and reversibility, offering a new design strategy for high-performance solid-state hydrogen storage materials.&lt;br&gt;🏷 MgH2 · hydrogen storage · TiZr MOF · oxygen vacancies · Ti3+ sites</description>
+<category>MgH2</category>
+<category>hydrogen storage</category>
+<category>TiZr MOF</category>
+<category>oxygen vacancies</category>
+<category>Ti3+ sites</category>
+</item>
 <item>
 <title>Comprehensive comparison of different structural thermal management systems for lithium-ion battery module based on electrochemical–thermal–aging and conjugate heat transfer coupled model</title>
 <link>https://doi.org/10.1016/j.est.2026.124943</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers an iso
 <category>rock-salt interphase</category>
 <category>high-voltage cycling</category>
 <category>direct regeneration</category>
-</item>
-<item>
-<title>Unveiling Phase Synergy and Heterogeneity in Biphasic Sodium Layered Oxide</title>
-<link>https://doi.org/10.1039/d6ee05141c</link>
-<guid isPermaLink="false">10.1039/d6ee05141c</guid>
-<pubDate>Mon, 05 Oct 2026 13:01:33 GMT</pubDate>
-<description>این مقاله هم‌افزایی فازی و ناهمگنی را در اکسید لایه‌ای دو فازی سدیم برای کاتد باتری یون‌سدیم بررسی می‌کند و پایداری بلندمدت را بهبود می‌بخشد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This study unveils phase synergy and heterogeneity in biphasic sodium layered oxide cathodes, addressing the poor long-term stability that hinders commercial adoption of low-cost Ni–Mn–Fe oxide sodium-ion batteries. By revealing how coexisting phases interact, it provides mechanistic insight to guide rational design of durable, sustainable cathodes, advancing sodium-ion technology as a viable alternative to lithium-ion systems.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · biphasic structure · phase synergy · heterogeneity</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>biphasic structure</category>
-<category>phase synergy</category>
-<category>heterogeneity</category>
-</item>
-<item>
-<title>Stereochemical origin of potential hysteresis in lithium metal batteries with lithium-rich cation-disordered rocksalt positive electrodes</title>
-<link>https://doi.org/10.1038/s41565-026-02301-2</link>
-<guid isPermaLink="false">10.1038/s41565-026-02301-2</guid>
-<pubDate>Mon, 05 Oct 2026 12:01:17 GMT</pubDate>
-<description>این مقاله منشأ استریوشیمیایی هیسترزیس بالقوه در باتری‌های لیتیوم-فلز با الکترودهای مثبت راکسالت بی‌نظم غنی از لیتیوم را بررسی می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;💡 This study reveals that multiscale stereochemistry—atomic-scale distortion and nanoscale short-range ordering—governs potential hysteresis in Li||DRX cells. Redox-inactive d0 transition metals, via the pseudo Jahn–Teller effect, weaken Ni–O charge transfer and enhance lattice oxygen redox reversibility. This insight enables rational design of DRX electrodes with reduced hysteresis and improved energy efficiency.&lt;br&gt;🏷 lithium metal battery · cation-disordered rocksalt · hysteresis · stereochemistry · positive electrode</description>
-<category>lithium metal battery</category>
-<category>cation-disordered rocksalt</category>
-<category>hysteresis</category>
-<category>stereochemistry</category>
-<category>positive electrode</category>
-</item>
-<item>
-<title>Deconvoluting Fast Ion Conduction in Glassy Antiperovskite Li2OHBr0.5Cl0.5 via Machine-Learning Potentials: Lattice Compliance and the Partial Paddlewheel Mechanism</title>
-<link>https://doi.org/10.1039/d6ta05828k</link>
-<guid isPermaLink="false">10.1039/d6ta05828k</guid>
-<pubDate>Mon, 05 Oct 2026 11:02:06 GMT</pubDate>
-<description>هدایت یونی سریع در الکترولیت جامد آنتی‌پروسکایت شیشه‌ای Li2OHBr0.5Cl0.5 با پتانسیل‌های یادگیری ماشین و مکانیسم چرخ‌پارویی جزئی رمزگشایی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This study first applies machine-learning potentials to glassy antiperovskite Li2OHBr0.5Cl0.5, revealing fast ion conduction mechanisms inaccessible to prior methods. It identifies lattice compliance and a partial paddlewheel mechanism as key drivers, linking amorphization to enhanced ionic transport. This advances rational design of superionic solid electrolytes for next-generation batteries.&lt;br&gt;🏷 antiperovskite electrolytes · Li2OHBr0.5Cl0.5 · machine-learning potentials · ion conduction · paddlewheel mechanism</description>
-<category>antiperovskite electrolytes</category>
-<category>Li2OHBr0.5Cl0.5</category>
-<category>machine-learning potentials</category>
-<category>ion conduction</category>
-<category>paddlewheel mechanism</category>
-</item>
-<item>
-<title>Reversible mechanical changes at high voltage enable single-crystal mid-Ni layered oxides with high electrochemical performance</title>
-<link>https://doi.org/10.1039/d6ta05227d</link>
-<guid isPermaLink="false">10.1039/d6ta05227d</guid>
-<pubDate>Mon, 05 Oct 2026 11:01:39 GMT</pubDate>
-<description>تغییرات مکانیکی برگشت‌پذیر در ولتاژ بالا، اکسیدهای لایه‌ای تک‌کریستالی با نیکل متوسط را قادر به ارائه چگالی انرژی بالا و چرخه‌پذیری پایدار می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in leveraging reversible mechanical changes at high voltage in single-crystal mid-Ni layered oxides. This enables high energy density and stable long-term cycling, addressing the trade-off between capacity and durability. The significance is a viable route to high-performance, long-life cathodes for next-generation lithium-ion batteries.&lt;br&gt;🏷 single-crystal layered oxides · high-voltage cycling · mechanical changes · mid-Ni cathodes · lithium-ion batteries</description>
-<category>single-crystal layered oxides</category>
-<category>high-voltage cycling</category>
-<category>mechanical changes</category>
-<category>mid-Ni cathodes</category>
-<category>lithium-ion batteries</category>
-</item>
-<item>
-<title>Redefining anodes: the paradigm shift of spinel ferrites in energy storage science</title>
-<link>https://doi.org/10.1039/d6ta00892e</link>
-<guid isPermaLink="false">10.1039/d6ta00892e</guid>
-<pubDate>Mon, 05 Oct 2026 11:01:30 GMT</pubDate>
-<description>این مقاله به بررسی نقش اسپینل فریت‌ها به عنوان آند در ذخیره‌سازی انرژی و تغییر پارادایم در این زمینه می‌پردازد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 Spinel ferrites are redefining anodes by merging magnetic and electrochemical functionality. Their tunable redox chemistry, structural stability, and earth abundance enable high-capacity, durable energy storage beyond conventional materials. This paradigm shift positions them as versatile, sustainable alternatives for next-generation batteries and supercapacitors, bridging magnetism and electrochemistry for multifunctional device design.&lt;br&gt;🏷 spinel ferrites · energy storage · anode materials · electrochemical properties · magnetic properties</description>
-<category>spinel ferrites</category>
-<category>energy storage</category>
-<category>anode materials</category>
-<category>electrochemical properties</category>
-<category>magnetic properties</category>
 </item>
 </channel>
 </rss>
