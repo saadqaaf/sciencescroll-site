@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 02:01:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 03:02:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Strain Coupled (110)-Oriented Lithium Anodes for High-Rate and High-Capacity Epitaxial Growth</title>
+<link>https://doi.org/10.1021/acsnano.6c09189</link>
+<guid isPermaLink="false">10.1021/acsnano.6c09189</guid>
+<pubDate>Tue, 06 Oct 2026 03:01:36 GMT</pubDate>
+<description>این پژوهش با مهندسی کرنش کششی ۴٪ در آند لیتیم (110) جهت‌دار، رشد اپیتاکسیال پایدار تا ظرفیت ۳۰ mAh cm⁻² و چگالی جریان ۲۵ mA cm⁻² را در باتری‌های پرانرژی ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work introduces strain-engineered (110)-oriented lithium anodes with a conductive polymer scaffold, using 4% tensile strain to sustain epitaxial growth at 30 mAh cm–2 and 25 mA cm–2. It enables 509.8 Wh kg–1 pouch cells and 1600-cycle sulfide all-solid-state batteries, establishing strain as a key design parameter for high-rate, high-energy lithium metal anodes.&lt;br&gt;🏷 lithium metal anode · epitaxial growth · strain engineering · solid-state battery · high energy density</description>
+<category>lithium metal anode</category>
+<category>epitaxial growth</category>
+<category>strain engineering</category>
+<category>solid-state battery</category>
+<category>high energy density</category>
+</item>
 <item>
 <title>A Wurster-Type Branched Polymer Design Breaks the Voltage-Capacity Trade-Off in p-Type Organic Cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105580</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>fluoride removal</category>
 <category>surface reconstruction</category>
 <category>electrochemical self-cleaning</category>
-</item>
-<item>
-<title>Solid‐Solution Reactions in Layer‐Structured Oxide Cathodes Driven by Local Disorder and Electron Delocalization</title>
-<link>https://doi.org/10.1002/adma.75238</link>
-<guid isPermaLink="false">10.1002/adma.75238</guid>
-<pubDate>Fri, 02 Oct 2026 05:01:07 GMT</pubDate>
-<description>یک اکسید لایه‌ای با بی‌نظمی موضعی و دوپینگ بور از طریق کوئنچ ساخته شد که با بی‌نظمی موضعی و جابه‌جایی الکترون، واکنش محلول جامد برگشت‌پذیر و پایدار در کاتد باتری یون پتاسیم ایجاد می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a quenching-assisted boron incorporation strategy that creates local disorder and electron delocalization in layered oxide cathodes. By stabilizing the transition metal framework and suppressing destructive phase transitions, it enables a reversible solid-solution reaction pathway, offering new theoretical insights for designing long-life, high-performance cathode materials.&lt;br&gt;🏷 layered oxide cathode · solid-solution reaction · local disorder · electron delocalization · potassium-ion battery</description>
-<category>layered oxide cathode</category>
-<category>solid-solution reaction</category>
-<category>local disorder</category>
-<category>electron delocalization</category>
-<category>potassium-ion battery</category>
 </item>
 </channel>
 </rss>
