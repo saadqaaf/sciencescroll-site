@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 07:03:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 08:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Artificial intelligence for constitutive modelling of materials across scales</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101854</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101854</guid>
+<pubDate>Tue, 06 Oct 2026 08:01:19 GMT</pubDate>
+<description>این مقاله مروری به بررسی کاربرد هوش مصنوعی در مدل‌سازی ساختاری مواد در مقیاس‌های مختلف می‌پردازد و پیشرفت‌ها و چالش‌های این حوزه را جمع‌بندی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 constitutive modelling · machine learning · multiscale materials · neural networks · material modeling</description>
+<category>constitutive modelling</category>
+<category>machine learning</category>
+<category>multiscale materials</category>
+<category>neural networks</category>
+<category>material modeling</category>
+</item>
 <item>
 <title>Location, location, location: how to edit genes only in the cells you want</title>
 <link>https://doi.org/10.1038/d41586-026-03037-8</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 decarboxylative aromatiza
 <category>lithium-ion battery pack</category>
 <category>multiphysics modeling</category>
 <category>propagation</category>
-</item>
-<item>
-<title>A Domain-Knowledge Guided Grey Wolf Optimized Random Forest framework for state of charge estimation under dynamic thermal and loading conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.124912</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124912</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:20 GMT</pubDate>
-<description>این مقاله یک چارچوب جنگل تصادفی بهینه‌شده با الگوریتم گرگ خاکستری و هدایت دانش حوزه را برای تخمین وضعیت شارژ باتری تحت شرایط دینامیکی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · grey wolf optimizer · random forest · domain knowledge · dynamic conditions</description>
-<category>state of charge</category>
-<category>grey wolf optimizer</category>
-<category>random forest</category>
-<category>domain knowledge</category>
-<category>dynamic conditions</category>
 </item>
 </channel>
 </rss>
