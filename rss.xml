@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 09:03:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 10:01:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Selective synthesis of hydrogen peroxide via the two − electron water oxidation reaction</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218618</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218618</guid>
+<pubDate>Tue, 06 Oct 2026 10:01:24 GMT</pubDate>
+<description>این مقاله سنتز انتخابی H2O2 را از طریق واکنش دو الکترونی اکسیداسیون آب بررسی می‌کند و به گزینش‌پذیری بالا دست می‌یابد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 hydrogen peroxide · water oxidation · two-electron WOR · electrocatalysis · selectivity</description>
+<category>hydrogen peroxide</category>
+<category>water oxidation</category>
+<category>two-electron WOR</category>
+<category>electrocatalysis</category>
+<category>selectivity</category>
+</item>
 <item>
 <title>Descriptor‐Informed Screening of Interface‐Active Molecules for Efficient Magnesium Metal Anodes</title>
 <link>https://doi.org/10.1002/adma.75285</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 decarboxylative aromatiza
 <category>coordination shell</category>
 <category>electronic push-pull</category>
 <category>electrocatalysis</category>
-</item>
-<item>
-<title>s-orbital modulated d-band center of Cu1−δ active site via interfacial electron spillover effect for nitrate reduction to ammonia</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127604</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127604</guid>
-<pubDate>Tue, 06 Oct 2026 01:01:27 GMT</pubDate>
-<description>این مقاله با تنظیم مرکز باند d سایت فعال Cu1-δ از طریق اثر سرریز الکترون بین‌سطحی، کاهش نیترات به آمونیاک را بهبود می‌بخشد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammonia · Cu1-δ · d-band center · electron spillover</description>
-<category>nitrate reduction</category>
-<category>ammonia</category>
-<category>Cu1-δ</category>
-<category>d-band center</category>
-<category>electron spillover</category>
 </item>
 </channel>
 </rss>
