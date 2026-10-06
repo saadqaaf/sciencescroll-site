@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 00:01:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 01:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Wurster-Type Branched Polymer Design Breaks the Voltage-Capacity Trade-Off in p-Type Organic Cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105580</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105580</guid>
+<pubDate>Tue, 06 Oct 2026 01:01:43 GMT</pubDate>
+<description>این مقاله با طراحی پلیمر شاخه‌ای نوع Wurster، مبادله ولتاژ-ظرفیت را در کاتدهای آلی نوع p می‌شکند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 organic cathode · p-type · Wurster polymer · voltage-capacity trade-off · branched polymer</description>
+<category>organic cathode</category>
+<category>p-type</category>
+<category>Wurster polymer</category>
+<category>voltage-capacity trade-off</category>
+<category>branched polymer</category>
+</item>
+<item>
+<title>Mechanical-Electrochemical Coupling Enabled by a Customized Bilayer Solid Electrolyte for High-Voltage and High-Rate Lithium-Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105581</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105581</guid>
+<pubDate>Tue, 06 Oct 2026 01:01:39 GMT</pubDate>
+<description>این مقاله با یک الکترولیت جامد دولایه سفارشی، جفت‌شدگی مکانیکی-الکتروشیمیایی را برای باتری‌های لیتیوم-فلز ولتاژ بالا و نرخ بالا ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 solid electrolyte · lithium-metal battery · bilayer · high-voltage · mechanical-electrochemical coupling</description>
+<category>solid electrolyte</category>
+<category>lithium-metal battery</category>
+<category>bilayer</category>
+<category>high-voltage</category>
+<category>mechanical-electrochemical coupling</category>
+</item>
 <item>
 <title>Synergistic interfacial engineering of sandwich-structured polypyrrole@MXene composite films for high-performance flexible all-solid-state supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125037</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>local disorder</category>
 <category>electron delocalization</category>
 <category>potassium-ion battery</category>
-</item>
-<item>
-<title>Micro-nano biphasic conductive stress adaptive cathode for sodium ion batteries</title>
-<link>https://doi.org/10.1016/j.esci.2026.100651</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100651</guid>
-<pubDate>Fri, 02 Oct 2026 04:01:04 GMT</pubDate>
-<description>این مقاله یک کاتد رسانای دو فازی میکرو-نانو با سازگاری تنشی برای باتری‌های یون سدیم ارائه می‌دهد که پایداری و عملکرد الکتروشیمیایی را بهبود می‌بخشد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sodium-ion battery · biphasic cathode · conductive network · stress adaptation · micro-nano structure</description>
-<category>sodium-ion battery</category>
-<category>biphasic cathode</category>
-<category>conductive network</category>
-<category>stress adaptation</category>
-<category>micro-nano structure</category>
-</item>
-<item>
-<title>Crystallographic Orientation Engineering Enables Passivation-Resistant Pure Titanium Anodes for Energy-Efficient Manganese Dioxide Electrocrystallization</title>
-<link>https://doi.org/10.1039/d6ta06538d</link>
-<guid isPermaLink="false">10.1039/d6ta06538d</guid>
-<pubDate>Fri, 02 Oct 2026 03:01:42 GMT</pubDate>
-<description>مهندسی جهت‌گیری بلوری، آندهای تیتانیوم خالص مقاوم به پسیواسیون را برای الکتروکریستالیزاسیون کارآمد دی‌اکسید منگنز فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using crystallographic orientation engineering to create passivation-resistant pure Ti anodes, overcoming a key barrier in hot acidic MnSO4–H2SO4 electrolytes. This enables energy-efficient MnO2 electrocrystallization for EMD production, offering a cost-effective, sustainable alternative to coated or alloy anodes and advancing alkaline and aqueous Zn–Mn battery materials.&lt;br&gt;🏷 titanium anode · crystallographic orientation · manganese dioxide · electrocrystallization · passivation</description>
-<category>titanium anode</category>
-<category>crystallographic orientation</category>
-<category>manganese dioxide</category>
-<category>electrocrystallization</category>
-<category>passivation</category>
 </item>
 </channel>
 </rss>
