@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 17:03:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 18:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanical atomic-scale defects enable stable Ni-rich single-crystal cathodes</title>
+<link>https://doi.org/10.1016/j.joule.2026.102686</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102686</guid>
+<pubDate>Tue, 06 Oct 2026 18:01:13 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که نقص‌های مکانیکی در مقیاس اتمی پایداری کاتدهای تک‌کریستالی غنی از Ni را در باتری‌های لیتیوم-یون بهبود می‌بخشد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · single-crystal · atomic-scale defects · mechanical stability · lithium-ion battery</description>
+<category>Ni-rich cathode</category>
+<category>single-crystal</category>
+<category>atomic-scale defects</category>
+<category>mechanical stability</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Temperature-stable high-κ oxides for miniaturized capacitors</title>
 <link>https://doi.org/10.1038/s41928-026-01721-1</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers an iso
 <category>residual alkali</category>
 <category>air sensitivity</category>
 <category>surface degradation</category>
-</item>
-<item>
-<title>Engineering Residual Rock‐Salt Reconstruction through Near‐Surface Fluorine Regulation for Stable 4.6 V Cycling of Regenerated Spent Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/adma.75244</link>
-<guid isPermaLink="false">10.1002/adma.75244</guid>
-<pubDate>Mon, 05 Oct 2026 13:02:08 GMT</pubDate>
-<description>این مقاله با تنظیم فلوئور در نزدیکی سطح، لایه سنگ‌نمک باقی‌مانده را به فاز محافظ تبدیل کرده و پایداری چرخه‌ای کاتد NCM بازیافتی را در ولتاژ بالا بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work uniquely converts residual rock-salt reconstruction on spent NCM cathodes into a protective F-enriched interphase via molten-salt relithiation and fluorine treatment. It enables stable 4.6 V cycling (80.28% retention after 400 cycles) by strengthening Ni─O bonds and raising oxygen-vacancy formation energy, offering a high-value upcycling route for spent layered oxide cathodes.&lt;br&gt;🏷 spent NCM cathode · fluorine regulation · rock-salt interphase · high-voltage cycling · direct regeneration</description>
-<category>spent NCM cathode</category>
-<category>fluorine regulation</category>
-<category>rock-salt interphase</category>
-<category>high-voltage cycling</category>
-<category>direct regeneration</category>
 </item>
 </channel>
 </rss>
