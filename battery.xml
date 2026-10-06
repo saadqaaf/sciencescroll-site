@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 21:01:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 22:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Hybrid Phosphate–Ether Electrolyte for High-Temperature and High-Safety 18650 Cylindrical Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02299</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02299</guid>
+<pubDate>Tue, 06 Oct 2026 22:01:53 GMT</pubDate>
+<description>الکترولیت هیبریدی TEP/THF غیرقابل اشتعال برای باتری‌های سدیم-یون دما بالا طراحی شد که پایداری چرخه‌ای و ایمنی عالی در سلول‌های 18650 نشان می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a nonflammable TEP/THF hybrid electrolyte where weakly coordinating THF boosts anion-derived inorganic interphases and fast Na+ transport. Significance: 18650 cylindrical SIBs achieve 80.6% capacity retention after 300 cycles at 80 °C, pass nail penetration without combustion (peak 88.9 °C), and support layered oxide cathodes, enabling high-temperature, high-safety grid storage.&lt;br&gt;🏷 sodium-ion battery · phosphate-ether electrolyte · high-temperature · safety · solvation structure</description>
+<category>sodium-ion battery</category>
+<category>phosphate-ether electrolyte</category>
+<category>high-temperature</category>
+<category>safety</category>
+<category>solvation structure</category>
+</item>
+<item>
+<title>Microenvironment‐Regulated Interfacial Reconstruction Enables High‐Performance Direct Regeneration of Spent LiFePO 4 Cathodes</title>
+<link>https://doi.org/10.1002/adfm.78704</link>
+<guid isPermaLink="false">10.1002/adfm.78704</guid>
+<pubDate>Tue, 06 Oct 2026 22:01:31 GMT</pubDate>
+<description>این مقاله با تنظیم ریزمحیط و بازسازی بین‌سطحی، بازتولید مستقیم کارآمد کاتدهای LiFePO4 مستعمل را با پایداری چرخه‌ای عالی ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a microenvironment regulation strategy using dicyandiamide and lithium orotate to synergistically remove surface impurities and reconstruct interfaces during direct regeneration of spent LiFePO₄. It enables efficient relithiation with in situ nitrogen-doped carbon layers, achieving 90.9% capacity retention after 1000 cycles at 5 C, offering a techno-economically viable route for closed-loop battery recycling.&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · spent batteries · interfacial reconstruction · nitrogen doping</description>
+<category>LiFePO4 cathode</category>
+<category>direct regeneration</category>
+<category>spent batteries</category>
+<category>interfacial reconstruction</category>
+<category>nitrogen doping</category>
+</item>
+<item>
+<title>Interlayer Atomic Stitching in Multilevel Interlayer Spacings Superstructures Unlocks Ultrafast Na‐Ion Storage Over 90,000 Cycles</title>
+<link>https://doi.org/10.1002/adfm.78780</link>
+<guid isPermaLink="false">10.1002/adfm.78780</guid>
+<pubDate>Tue, 06 Oct 2026 22:01:22 GMT</pubDate>
+<description>این مقاله با اتصال اتمی بین‌لایه‌ای در ابرساختارهای چندسطحی، ذخیره‌سازی فوق‌سریع Na-ion با پایداری عالی در ۹۰٬۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Interlayer atomic stitching creates multilevel interlayer-spacing superstructures from 2D building blocks, combining fast ion migration, structural stability, and sufficient storage. This overcomes the capacity–fast-charging–cycle-life trade-off, enabling 364 mAh g⁻¹, 90,000-cycle stability at 30 A g⁻¹, and ~11 s charging, advancing practical 2D-material electrodes for ultrafast Na-ion storage.&lt;br&gt;🏷 sodium-ion battery · interlayer stitching · 2D superstructures · ultrafast charging · long cycle life</description>
+<category>sodium-ion battery</category>
+<category>interlayer stitching</category>
+<category>2D superstructures</category>
+<category>ultrafast charging</category>
+<category>long cycle life</category>
+</item>
 <item>
 <title>Atomic-Scale Interfacial Welding Unlocks the Electrochemical Potential of Chemically Robust Proton-Conducting Electrolytes</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127609</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers an iso
 <category>copper phthalocyanine</category>
 <category>Cu-N4 sites</category>
 <category>Li2CO3 reversibility</category>
-</item>
-<item>
-<title>In Situ Probing of Lithiation Dynamics Enabled by Strain‐Sensing Current Collector</title>
-<link>https://doi.org/10.1002/adfm.78814</link>
-<guid isPermaLink="false">10.1002/adfm.78814</guid>
-<pubDate>Mon, 05 Oct 2026 16:01:52 GMT</pubDate>
-<description>جمع‌کننده جریان حس‌گر کرنش، پویایی لیتیوم‌دهی و کرنش برگشت‌ناپذیر را در باتری لیتیوم-یون به‌صورت درجا ردیابی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a strain-sensing current collector integrating Constantan sensors into copper via transfer printing and electroplating, preserving cell function. It enables operando probing of graphite lithiation, rate-dependent and low-temperature degradation strains, and decouples reversible from irreversible strain. This offers a practical strategy for studying electrochemical-mechanical coupling in operating lithium-ion batteries without disrupting cell structure.&lt;br&gt;🏷 lithiation dynamics · strain sensing · current collector · operando · lithium-ion battery</description>
-<category>lithiation dynamics</category>
-<category>strain sensing</category>
-<category>current collector</category>
-<category>operando</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>3D‐Printed Dual‐Gradient Gel Electrodes Synchronize Ion Transport and Active‐Site Utilization for High‐Energy Zinc‐Ion Hybrid Supercapacitors</title>
-<link>https://doi.org/10.1002/adfm.78804</link>
-<guid isPermaLink="false">10.1002/adfm.78804</guid>
-<pubDate>Mon, 05 Oct 2026 16:01:47 GMT</pubDate>
-<description>الکترود ژلی دو‌گرادیانی چاپ‌شده سه‌بعدی، انتقال یون و استفاده از سایت فعال را برای ابرخازن روی‌یون هماهنگ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a stepwise multi-ink 3D-printed dual-gradient MXene/polypyrrole@CNT gel electrode, coupling microlattice spacing and pore-structure gradients to synchronize ion transport with active-site utilization. This suppresses polarization and homogenizes reaction current, enabling high-mass-loading zinc-ion hybrid supercapacitors with 6.2 F cm⁻² and 0.86 mWh cm⁻², offering a scalable framework for high-energy flexible storage.&lt;br&gt;🏷 zinc-ion supercapacitor · 3D printing · MXene · gel electrode · dual-gradient</description>
-<category>zinc-ion supercapacitor</category>
-<category>3D printing</category>
-<category>MXene</category>
-<category>gel electrode</category>
-<category>dual-gradient</category>
-</item>
-<item>
-<title>Bonding‐chemistry‐guided design of carbon frameworks for rechargeable‐ion batteries</title>
-<link>https://doi.org/10.1002/inf2.70183</link>
-<guid isPermaLink="false">10.1002/inf2.70183</guid>
-<pubDate>Mon, 05 Oct 2026 14:01:19 GMT</pubDate>
-<description>این مقاله با رویکرد شیمی پیوند، چارچوبی اتمی برای طراحی چارچوبهای کربنی باتریهای قابل شارژ ارائه میدهد و ساختار کربن را به رفتار الکتروشیمیایی مرتبط میکند.&lt;br&gt;InfoMat | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This perspective introduces bonding chemistry as a unified, atom-level framework linking carbon structure to electrochemical behavior in rechargeable-ion batteries. It uniquely integrates C/C hybridization, carbon-heteroatom interactions, and dynamic ion-framework bonding, establishing bond-descriptor-based design principles that connect synthesis to storage thermodynamics, kinetics, and reversibility—enabling more systematic, predictive carbon framework engineering.&lt;br&gt;🏷 carbon framework · bonding chemistry · rechargeable-ion battery · ion storage · structure-property relationship</description>
-<category>carbon framework</category>
-<category>bonding chemistry</category>
-<category>rechargeable-ion battery</category>
-<category>ion storage</category>
-<category>structure-property relationship</category>
 </item>
 </channel>
 </rss>
