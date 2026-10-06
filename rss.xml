@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 01:01:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 02:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Wireless Monolithic Tandem Leaf for Semi-Artificial Photosynthesis</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01999</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01999</guid>
+<pubDate>Tue, 06 Oct 2026 02:01:13 GMT</pubDate>
+<description>یک برگ مصنوعی بی‌سیم و یکپارچه با فوتوآند PEG:BiVO4 و سلول Si برای تولید H2O2 و اکسی‌فانکشنالیزاسیون آنزیمی با اعداد چرخش بالا ارائه شده است.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 semi-artificial photosynthesis · BiVO4 photoanode · H2O2 biocatalysis · peroxygenase · wireless tandem device</description>
+<category>semi-artificial photosynthesis</category>
+<category>BiVO4 photoanode</category>
+<category>H2O2 biocatalysis</category>
+<category>peroxygenase</category>
+<category>wireless tandem device</category>
+</item>
 <item>
 <title>A Wurster-Type Branched Polymer Design Breaks the Voltage-Capacity Trade-Off in p-Type Organic Cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105580</link>
@@ -1204,18 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 molecular motion · fluor
 <category>energy storage</category>
 <category>capacitor</category>
 <category>lead-free</category>
-</item>
-<item>
-<title>Benchmarking imputation methods on real-world clinical time series with simulated spatio-temporal missingness</title>
-<link>https://doi.org/10.1038/s41467-026-77303-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-77303-8</guid>
-<pubDate>Mon, 05 Oct 2026 17:03:35 GMT</pubDate>
-<description>این مطالعه با شبیه‌سازی گمشدگی فضایی-زمانی در داده‌های بالینی، نشان می‌دهد درون‌یابی خطی برای الگوهای ساختارمند و autoencoder فضایی-زمانی برای الگوهای بدون ساختار بهتر عمل می‌کنند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 imputation methods · clinical time series · spatio-temporal missingness · autoencoder · benchmark</description>
-<category>imputation methods</category>
-<category>clinical time series</category>
-<category>spatio-temporal missingness</category>
-<category>autoencoder</category>
-<category>benchmark</category>
 </item>
 </channel>
 </rss>
