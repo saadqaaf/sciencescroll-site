@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 03:02:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 04:02:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Influence of Different Pitch on Electrochemical Performance of Carbon-Coated Microcrystalline Graphite</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122182</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122182</guid>
+<pubDate>Tue, 06 Oct 2026 04:02:04 GMT</pubDate>
+<description>تأثیر انواع قیر بر عملکرد الکتروشیمیایی گرافیت میکروکریستالی پوشش‌داده‌شده با کربن به عنوان آند باتری لیتیوم-یون بررسی شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 microcrystalline graphite · carbon coating · pitch · electrochemical performance · lithium-ion battery</description>
+<category>microcrystalline graphite</category>
+<category>carbon coating</category>
+<category>pitch</category>
+<category>electrochemical performance</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Strain Coupled (110)-Oriented Lithium Anodes for High-Rate and High-Capacity Epitaxial Growth</title>
 <link>https://doi.org/10.1021/acsnano.6c09189</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work reveals how ali
 <category>molecular gating</category>
 <category>Zn deposition</category>
 <category>electrolyte additive</category>
-</item>
-<item>
-<title>Adaptive Electrochemical Self‐Cleaning via Surface Reconstruction Enables Fluoride‐Free and Batch‐Consistent Cathode Regeneration</title>
-<link>https://doi.org/10.1002/adma.75182</link>
-<guid isPermaLink="false">10.1002/adma.75182</guid>
-<pubDate>Fri, 02 Oct 2026 05:01:12 GMT</pubDate>
-<description>یک راهبرد خودتمیزکاری الکتروشیمیایی با بازسازی سطح، حذف آلاینده‌های فلوئوره و بازیافت مستقیم کاتد NMC532 را با ظرفیت ۱۴۵٫۱ mAh/g و یکنواختی بین‌دسته‌ای بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces electrochemically driven self-cleaning for direct cathode recycling, using anodic surface reconstruction to eliminate fluorinated impurities without fluoride reagents. It achieves fluoride-free NMC532 regeneration with commercial-grade capacity and under 1.3% batch variation, far surpassing conventional recycling. The strategy is scalable and applicable across cathode chemistries, enabling impurity-free, high-performance battery material regeneration.&lt;br&gt;🏷 direct recycling · NMC532 cathode · fluoride removal · surface reconstruction · electrochemical self-cleaning</description>
-<category>direct recycling</category>
-<category>NMC532 cathode</category>
-<category>fluoride removal</category>
-<category>surface reconstruction</category>
-<category>electrochemical self-cleaning</category>
 </item>
 </channel>
 </rss>
