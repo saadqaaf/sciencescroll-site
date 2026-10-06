@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 11:01:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 12:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spatially Selective Substitution Enabled [001]‐Oriented Li 1.2 Ni 0.2 Mn 0.6 O 2 Cathodes With Coupled Regulation of Li + Transport and Oxygen Stability</title>
+<link>https://doi.org/10.1002/adfm.78726</link>
+<guid isPermaLink="false">10.1002/adfm.78726</guid>
+<pubDate>Tue, 06 Oct 2026 12:01:57 GMT</pubDate>
+<description>این مقاله با دوپینگ انتخابی Mo6+ و Sr2+، کاتدهای غنی از لیتیوم Li1.2Ni0.2Mn0.6O2 با جهت‌گیری [001] و بهبود همزمان انتقال Li+ و پایداری اکسیژن را ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers selective Mo6+/Sr2+ doping to tune facet energetics, enabling [001]-oriented quasi-single-crystal Li-rich cathodes. The spatially differentiated dopants couple enhanced Li+ transport with suppressed oxygen release, reducing lattice strain by 47.2% and boosting 5C capacity from 133.6 to 163.1 mAh g−1. This dual-regulation strategy significantly advances high-energy, stable Li-rich battery cathodes.&lt;br&gt;🏷 lithium-rich cathode · Li1.2Ni0.2Mn0.6O2 · facet engineering · oxygen stability · Li+ transport</description>
+<category>lithium-rich cathode</category>
+<category>Li1.2Ni0.2Mn0.6O2</category>
+<category>facet engineering</category>
+<category>oxygen stability</category>
+<category>Li+ transport</category>
+</item>
 <item>
 <title>Electron Capturing Regulation on Nonflammable Phosphate Electrolytes for High Performance Layered Oxide Cathodes in Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105582</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers an iso
 <category>oxygen reduction reaction</category>
 <category>metal-air battery</category>
 <category>Fe-N4O site</category>
-</item>
-<item>
-<title>Vacancy‐Mediated Sulfur Exchange Between Catalysts and Polysulfides Accelerates Sulfur Redox Kinetics in Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adma.75210</link>
-<guid isPermaLink="false">10.1002/adma.75210</guid>
-<pubDate>Sun, 04 Oct 2026 17:01:16 GMT</pubDate>
-<description>مکانیسم تبادل گوگرد با واسطه جای خالی در Bi2S3، سینتیک ردوکس گوگرد را در باتری لیتیوم-گوگرد تسریع کرده و به چگالی انرژی بالا در پاکت سل می‌رسد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Vacancy-mediated sulfur exchange is identified as a new mechanism accelerating sulfur redox in Li–S batteries. Using ³⁴S labeling on Bi₂S₃, sulfur vacancies act as exchange centers enabling lattice incorporation and reconstruction. Vacancy density directly correlates with exchange extent and catalysis; it doubles interfacial area and lowers the Li₂S barrier from 0.352 to 0.179 eV, enabling a 504 Wh kg⁻¹ pouch cell.&lt;br&gt;🏷 lithium-sulfur battery · sulfur vacancy · sulfur exchange · Bi2S3 catalyst · polysulfide conversion</description>
-<category>lithium-sulfur battery</category>
-<category>sulfur vacancy</category>
-<category>sulfur exchange</category>
-<category>Bi2S3 catalyst</category>
-<category>polysulfide conversion</category>
 </item>
 </channel>
 </rss>
