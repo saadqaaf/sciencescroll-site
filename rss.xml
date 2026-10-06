@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 19:01:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 20:01:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination chemistry of Sb(III)-based optical crystals: from lone-pair-induced distortion to birefringence and second-harmonic generation</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218609</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218609</guid>
+<pubDate>Tue, 06 Oct 2026 20:01:04 GMT</pubDate>
+<description>این مقاله مروری به شیمی کوئوردیناسیون بلورهای نوری Sb(III) از اعوجاج ناشی از جفت‌تنها تا دوشکستی و تولید هارمونیک دوم می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Sb(III) coordination · optical crystals · lone-pair distortion · birefringence · second-harmonic generation</description>
+<category>Sb(III) coordination</category>
+<category>optical crystals</category>
+<category>lone-pair distortion</category>
+<category>birefringence</category>
+<category>second-harmonic generation</category>
+</item>
 <item>
 <title>Perfecting densification in fusion-based additive manufacturing of metals: Current research status, challenges and perspectives</title>
 <link>https://doi.org/10.1016/j.mser.2026.101308</link>
@@ -1203,18 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 DNA multilayer · thresho
 <category>surface passivation</category>
 <category>space applications</category>
 <category>trap states</category>
-</item>
-<item>
-<title>Chiral Phosphoserine Reconfigures the Energy Conversion Pathway for Efficient and Stable Sequentially Deposited Perovskite Solar Cells</title>
-<link>https://doi.org/10.1002/adfm.78827</link>
-<guid isPermaLink="false">10.1002/adfm.78827</guid>
-<pubDate>Tue, 06 Oct 2026 12:02:00 GMT</pubDate>
-<description>این تحقیق با افزودن فسفوسرین کایرال به پیش‌ماده PbI2، مسیر تبدیل انرژی را در سلول‌های خورشیدی پروسکایتی بازآرایی کرده و بازده ۲۶.۰۴٪ و پایداری بالا را به دست می‌آورد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · chiral phosphoserine · sequential deposition · energy conversion pathway · stability</description>
-<category>perovskite solar cells</category>
-<category>chiral phosphoserine</category>
-<category>sequential deposition</category>
-<category>energy conversion pathway</category>
-<category>stability</category>
 </item>
 </channel>
 </rss>
