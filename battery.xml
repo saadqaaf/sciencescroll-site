@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 06 Oct 2026 10:01:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 11:01:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electron Capturing Regulation on Nonflammable Phosphate Electrolytes for High Performance Layered Oxide Cathodes in Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105582</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105582</guid>
+<pubDate>Tue, 06 Oct 2026 11:01:26 GMT</pubDate>
+<description>تنظیم الکترون‌گیرنده در الکترولیت فسفات غیرقابل اشتعال، عملکرد کاتد لایه‌ای اکسیدی را در باتری یون سدیم بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · phosphate electrolyte · layered oxide cathode · nonflammable · electron capturing</description>
+<category>sodium-ion battery</category>
+<category>phosphate electrolyte</category>
+<category>layered oxide cathode</category>
+<category>nonflammable</category>
+<category>electron capturing</category>
+</item>
 <item>
 <title>Descriptor‐Informed Screening of Interface‐Active Molecules for Efficient Magnesium Metal Anodes</title>
 <link>https://doi.org/10.1002/adma.75285</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers an iso
 <category>sulfur exchange</category>
 <category>Bi2S3 catalyst</category>
 <category>polysulfide conversion</category>
-</item>
-<item>
-<title>Microstructured Metal Electrodeposition at a Micellar Brush‐Decorated Interface</title>
-<link>https://doi.org/10.1002/anie.5308557</link>
-<guid isPermaLink="false">10.1002/anie.5308557</guid>
-<pubDate>Sun, 04 Oct 2026 11:01:47 GMT</pubDate>
-<description>این مقاله با برس میسلی پلیمری، الکتروانباشت روی را به‌صورت عمودی و ریزساختاری کنترل کرده و آند روی با هسته‌زایی کم و پایداری چرخه‌ای بالا در باتری Zn-V2O5 ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Surface-emanated micellar brushes enable soft-confined zinc electrodeposition, yielding vertically aligned blades instead of flat films. This micellar-brush interface couples ion funneling with oriented nanoconfinement, achieving low overpotential (21 mV), high transference (0.79), and 3000 h stability. The work offers a general route to tailored metal microstructures via chemically associating polymer self-assembly interfaces.&lt;br&gt;🏷 zinc anode · micellar brush · metal electrodeposition · Zn2+ transference · V2O5 cathode</description>
-<category>zinc anode</category>
-<category>micellar brush</category>
-<category>metal electrodeposition</category>
-<category>Zn2+ transference</category>
-<category>V2O5 cathode</category>
 </item>
 </channel>
 </rss>
