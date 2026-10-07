@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 09:02:30 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 10:04:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Regulating Oxygen‐Mediated Reconstruction during Cooling: A New Design Principle for High‐Capacity Sodium Manganese Oxide Cathodes</title>
+<link>https://doi.org/10.1002/advs.78064</link>
+<guid isPermaLink="false">10.1002/advs.78064</guid>
+<pubDate>Wed, 07 Oct 2026 10:01:54 GMT</pubDate>
+<description>ردیابی زمان‌واقعی نشان می‌دهد بازسازی اکسیژنی در حین سرد شدن، نقص‌های انباشتی و جای خالی منگنز ایجاد کرده و پایداری ردواکس اکسیژن را در کاتد سدیم-منگنز اکسید بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in identifying cooling-driven oxygen-mediated reconstruction as a key synthetic lever controlling manganese vacancies and stacking faults in sodium manganese oxide cathodes. This challenges prior focus on pre-formed motifs. Its significance: kinetically regulating cooling enables a stacking-fault-rich architecture that suppresses Mn migration and irreversible oxygen release, establishing a general design principle for stabilizing oxygen-redox cathodes.&lt;br&gt;🏷 sodium manganese oxide · oxygen redox · cooling reconstruction · stacking faults · sodium-ion cathode</description>
+<category>sodium manganese oxide</category>
+<category>oxygen redox</category>
+<category>cooling reconstruction</category>
+<category>stacking faults</category>
+<category>sodium-ion cathode</category>
+</item>
 <item>
 <title>Dynamic Solvent Participation Drives Sodium Storage in Oxygen Engineered Hard Carbon</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02029</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>pouch cell</category>
 <category>interfacial growth</category>
 <category>energy density</category>
-</item>
-<item>
-<title>Enhancing lithium-ion battery fire suppression via xanthan gum-induced drainage delay of firefighting foam</title>
-<link>https://doi.org/10.1016/j.est.2026.124887</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124887</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:04 GMT</pubDate>
-<description>این مقاله با استفاده از زانتان گام برای تأخیر در تخلیه فوم آتش‌نشانی، خاموش‌سازی آتش باتری لیتیوم-یون را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · fire suppression · xanthan gum · firefighting foam · drainage delay</description>
-<category>lithium-ion battery</category>
-<category>fire suppression</category>
-<category>xanthan gum</category>
-<category>firefighting foam</category>
-<category>drainage delay</category>
 </item>
 </channel>
 </rss>
