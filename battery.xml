@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 14:01:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 15:02:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermodynamic–Kinetic Coupling of Water Structure Enables Wide‐Temperature Zinc Batteries</title>
+<link>https://doi.org/10.1002/adma.75301</link>
+<guid isPermaLink="false">10.1002/adma.75301</guid>
+<pubDate>Wed, 07 Oct 2026 15:02:26 GMT</pubDate>
+<description>یک هیدروژل الکترولیت با تنظیم هم‌زمان ترمودینامیکی-سینتیکی آب، باتری‌های آبی روی را در دمای تا -۳۰ درجه پایدار و بدون آزادسازی هیدروژن نگه می‌دارد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling thermodynamic and kinetic regulation of water structure via a hydrogel electrolyte that disrupts hydrogen bonding while restricting molecular dynamics. This simultaneously suppresses ice nucleation and hydrogen evolution, enabling wide-temperature zinc batteries. Significance: over 8000 h symmetric-cell stability, 15,000 full-cell cycles, and reversible operation at −30°C, offering a design strategy for extreme-condition aqueous batteries.&lt;br&gt;🏷 zinc-ion battery · hydrogel electrolyte · wide temperature · hydrogen evolution · Zn deposition</description>
+<category>zinc-ion battery</category>
+<category>hydrogel electrolyte</category>
+<category>wide temperature</category>
+<category>hydrogen evolution</category>
+<category>Zn deposition</category>
+</item>
+<item>
+<title>Dual-regulation of chlorine coordination enables a ∼2 V zinc–chlorine battery at −60 °C</title>
+<link>https://doi.org/10.1039/d6ee03923e</link>
+<guid isPermaLink="false">10.1039/d6ee03923e</guid>
+<pubDate>Wed, 07 Oct 2026 15:01:43 GMT</pubDate>
+<description>با تنظیم دوگانه کوئوردیناسیون کلر، باتری روی-کلر با ولتاژ ~۲ ولت در دمای -۶۰ درجه سانتی‌گراد با ظرفیت بالا ساخته شد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dual-regulating chlorine coordination to suppress passivation and enable reversible Zn–Cl chemistry. This yields a ~2 V zinc–chlorine battery operating at −60 °C with elevated capacity, overcoming the freezing and sluggish kinetics limits of aqueous electrolytes. It advances ultra-low-temperature energy storage and offers a design strategy for high-voltage, high-capacity cryogenic batteries.&lt;br&gt;🏷 zinc-chlorine battery · chlorine coordination · low temperature · dual regulation · high voltage</description>
+<category>zinc-chlorine battery</category>
+<category>chlorine coordination</category>
+<category>low temperature</category>
+<category>dual regulation</category>
+<category>high voltage</category>
+</item>
 <item>
 <title>Microwave–Matter Interactions in Lithium‐Ion Battery Black Mass: Temperature‐Dependent Dielectric Properties and Carbothermal Reduction Pathways</title>
 <link>https://doi.org/10.1002/bte2.70154</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>composite design</category>
 <category>performance limits</category>
 <category>sustainability</category>
-</item>
-<item>
-<title>Design of fiber-nanorod-aerogel hierarchical composites for lithium-ion battery thermal runaway protection</title>
-<link>https://doi.org/10.1016/j.est.2026.124891</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124891</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:18 GMT</pubDate>
-<description>کامپوزیت‌های سلسله‌مراتبی الیاف-نانومیله-آیروژل برای محافظت در برابر فرار حرارتی باتری لیتیوم-یون طراحی شده و عملکرد حرارتی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · thermal runaway · fiber-nanorod-aerogel · hierarchical composite · thermal protection</description>
-<category>lithium-ion battery</category>
-<category>thermal runaway</category>
-<category>fiber-nanorod-aerogel</category>
-<category>hierarchical composite</category>
-<category>thermal protection</category>
-</item>
-<item>
-<title>PANI-anchored PbSO4 particles as multifunctional positive additive for lead‑carbon batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125028</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125028</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:13 GMT</pubDate>
-<description>ذرات PbSO4 پوشش‌داده‌شده با PANI به عنوان افزودنی مثبت چندکاره برای باتری‌های سرب-کربن طراحی شده و عملکرد الکتروشیمیایی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lead-carbon battery · PbSO4 · PANI · positive additive · electrochemical performance</description>
-<category>lead-carbon battery</category>
-<category>PbSO4</category>
-<category>PANI</category>
-<category>positive additive</category>
-<category>electrochemical performance</category>
 </item>
 </channel>
 </rss>
