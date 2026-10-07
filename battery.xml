@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 10:04:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 11:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Microwave–Matter Interactions in Lithium‐Ion Battery Black Mass: Temperature‐Dependent Dielectric Properties and Carbothermal Reduction Pathways</title>
+<link>https://doi.org/10.1002/bte2.70154</link>
+<guid isPermaLink="false">10.1002/bte2.70154</guid>
+<pubDate>Wed, 07 Oct 2026 11:01:26 GMT</pubDate>
+<description>برهم‌کنش مایکروویو با جرم سیاه باتری‌های لیتیوم-یونی LiCoO2 و NMC بررسی شد و افزایش تلفات دی‌الکتریک در ۵۰۰-۶۵۰ درجه سلسیوس با شروع احیای کربوترمی مرتبط است.&lt;br&gt;Battery Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study provides rare temperature-dependent dielectric data for real industrial LIB black mass, linking permittivity evolution to carbothermal reduction phases. It reveals that dielectric losses surge during layered-to-oxide transformation (500–650°C), with 910 MHz enabling uniform volumetric heating versus localized 2.45 GHz heating. These insights enable frequency-tuned microwave recycling optimization.&lt;br&gt;🏷 lithium-ion battery · black mass · microwave heating · dielectric properties · carbothermal reduction</description>
+<category>lithium-ion battery</category>
+<category>black mass</category>
+<category>microwave heating</category>
+<category>dielectric properties</category>
+<category>carbothermal reduction</category>
+</item>
 <item>
 <title>Regulating Oxygen‐Mediated Reconstruction during Cooling: A New Design Principle for High‐Capacity Sodium Manganese Oxide Cathodes</title>
 <link>https://doi.org/10.1002/advs.78064</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>PANI</category>
 <category>positive additive</category>
 <category>electrochemical performance</category>
-</item>
-<item>
-<title>Interfacially grown stacked metal-organic-framework platelets for high-energy pouch-cell hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125010</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125010</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:08 GMT</pubDate>
-<description>این مقاله با رشد بین‌سطحی صفحات انباشته MOF، ابرخازن هیبریدی کیسه‌ای با انرژی بالا را ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid supercapacitor · metal-organic framework · pouch cell · interfacial growth · energy density</description>
-<category>hybrid supercapacitor</category>
-<category>metal-organic framework</category>
-<category>pouch cell</category>
-<category>interfacial growth</category>
-<category>energy density</category>
 </item>
 </channel>
 </rss>
