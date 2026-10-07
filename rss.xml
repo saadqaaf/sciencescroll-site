@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 03:01:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 04:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Charge-Carrier Behavior and Molecular Interface Engineering in Perovskite Light-Emitting Diodes</title>
+<link>https://doi.org/10.1007/s40820-026-02348-9</link>
+<guid isPermaLink="false">10.1007/s40820-026-02348-9</guid>
+<pubDate>Wed, 07 Oct 2026 04:01:11 GMT</pubDate>
+<description>این مرور، رفتار حامل‌های بار و راهبردهای مهندسی مولکولی سطح مشترک مانند self-assembled monolayers را برای بهبود کارایی و پایداری perovskite light-emitting diodes بررسی می‌کند.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 perovskite LEDs · molecular interface engineering · charge-carrier behavior · self-assembled monolayers · interfacial recombination</description>
+<category>perovskite LEDs</category>
+<category>molecular interface engineering</category>
+<category>charge-carrier behavior</category>
+<category>self-assembled monolayers</category>
+<category>interfacial recombination</category>
+</item>
+<item>
+<title>Graded fibrillar adhesives: mechanics, mechanisms, fabrication and applications</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101855</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101855</guid>
+<pubDate>Wed, 07 Oct 2026 04:01:08 GMT</pubDate>
+<description>این مقاله مروری، مکانیک، سازوکارها، روش‌های ساخت و کاربردهای چسب‌های فیبری شیب‌دار را بررسی می‌کند و چارچوبی برای طراحی چسبندگی قوی و قابل‌کنترل ارائه می‌دهد.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 graded fibrillar adhesives · bioinspired adhesion · contact mechanics · fabrication methods · peeling mechanics</description>
+<category>graded fibrillar adhesives</category>
+<category>bioinspired adhesion</category>
+<category>contact mechanics</category>
+<category>fabrication methods</category>
+<category>peeling mechanics</category>
+</item>
 <item>
 <title>Coupling Radial Architecture with Interfacial Charge Redistribution in Sea-Urchin-Like CoNi@C Composites for Thin and Broadband Microwave Absorption</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114273</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 adapti
 <category>defect passivation</category>
 <category>crystallization control</category>
 <category>inverted structure</category>
-</item>
-<item>
-<title>A Polarization-Imaging-Based 100-Channel High-Throughput Detection System Accelerates the Screening of Hydrogen-Evolution Alloy Catalysts</title>
-<link>https://doi.org/10.1039/d6ta06612g</link>
-<guid isPermaLink="false">10.1039/d6ta06612g</guid>
-<pubDate>Tue, 06 Oct 2026 17:01:34 GMT</pubDate>
-<description>یک سیستم تشخیص ۱۰۰ کاناله مبتنی بر تصویربرداری قطبش، غربالگری سریع آلیاژهای کاتالیستی آزادسازی هیدروژن را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 hydrogen evolution · alloy catalysts · high-throughput screening · polarization imaging · electrocatalysis</description>
-<category>hydrogen evolution</category>
-<category>alloy catalysts</category>
-<category>high-throughput screening</category>
-<category>polarization imaging</category>
-<category>electrocatalysis</category>
-</item>
-<item>
-<title>Role of structural disorder and aggregation in shaping the redox and optical properties of the small molecular acceptor Y6 in the bulk phase</title>
-<link>https://doi.org/10.1039/d6ta06533c</link>
-<guid isPermaLink="false">10.1039/d6ta06533c</guid>
-<pubDate>Tue, 06 Oct 2026 17:01:31 GMT</pubDate>
-<description>مدل‌سازی چندمقیاسی Y6 نشان می‌دهد بی‌نظمی ساختاری و چیدمان مولکولی خواص الکترونیکی و انتقال بار بین‌مولکولی را در فاز توده‌ای کنترل می‌کنند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Y6 acceptor · structural disorder · molecular aggregation · charge transfer · multiscale modeling</description>
-<category>Y6 acceptor</category>
-<category>structural disorder</category>
-<category>molecular aggregation</category>
-<category>charge transfer</category>
-<category>multiscale modeling</category>
 </item>
 </channel>
 </rss>
