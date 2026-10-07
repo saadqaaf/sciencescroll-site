@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 18:02:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 19:03:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An Amphiphilic Proton Donor Decouples Acidity from Interfacial Reactivity for Lithium-Mediated Ammonia Synthesis</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02477</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02477</guid>
+<pubDate>Wed, 07 Oct 2026 19:02:55 GMT</pubDate>
+<description>دهنده پروتون آمفی‌فیلیک TFE با جداسازی اسیدیته از واکنش‌پذیری سطحی، بازده فارادی ۵۹٪ در سنتز آمونیاک لیتیومی-الکتروشیمیایی را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 TFE decouples acidity from interfacial reactivity in Li-NRR, suppressing parasitic hydrogen evolution despite high acidity via fluorinated interfacial passivation and a crystalline LiF-rich SEI. Blending with ethanol optimizes proton activity, achieving 59.0% Faradaic efficiency in flow and 82.8% at high pressure. This establishes proton-donor engineering as a strategy to tune SEI nanostructure for selective ammonia synthesis.&lt;br&gt;🏷 Li-NRR · ammonia synthesis · proton donor · SEI · TFE</description>
+<category>Li-NRR</category>
+<category>ammonia synthesis</category>
+<category>proton donor</category>
+<category>SEI</category>
+<category>TFE</category>
+</item>
+<item>
+<title>Electrolyte Engineering for Lithium Metal Batteries Under Extreme Operating Conditions</title>
+<link>https://doi.org/10.1002/adfm.78881</link>
+<guid isPermaLink="false">10.1002/adfm.78881</guid>
+<pubDate>Wed, 07 Oct 2026 19:02:40 GMT</pubDate>
+<description>این مرور، طراحی الکترولیت برای باتری‌های لیتیوم-فلزی در شرایط سخت مانند ولتاژ بالا، شارژ سریع و دماهای گسترده را بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely links condition-specific failure mechanisms in lithium metal batteries to tailored electrolyte design strategies, covering solvation, transport, interphase, and material consumption under extreme conditions. Its significance lies in proposing an integrated framework connecting application conditions, mechanisms, descriptors, engineering, and validation, guiding practical high-specific-energy battery development.&lt;br&gt;🏷 lithium metal battery · electrolyte engineering · extreme conditions · solvation regulation · interphase</description>
+<category>lithium metal battery</category>
+<category>electrolyte engineering</category>
+<category>extreme conditions</category>
+<category>solvation regulation</category>
+<category>interphase</category>
+</item>
+<item>
+<title>Role of Structural Disorder on Phonon Transport and Thermal Conductivity in Li 6 PS 5 Br</title>
+<link>https://doi.org/10.1002/adfm.78852</link>
+<guid isPermaLink="false">10.1002/adfm.78852</guid>
+<pubDate>Wed, 07 Oct 2026 19:02:15 GMT</pubDate>
+<description>بی‌نظمی آنیونی در Li6PS5Br رسانش یونی را افزایش می‌دهد اما رسانش حرارتی حدود ۰.۴ W/mK را تغییر نمی‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study uniquely links anion site disorder to ion dynamics versus thermal transport in Li₆PS₅Br, showing disorder enhances Li⁺ diffusion but leaves thermal conductivity unchanged at ~0.4 W·m⁻¹·K⁻¹. The finding that diffuson-like modes govern heat transport, validated by bridging molecular dynamics with mesoscale porosity modeling, advances understanding of thermal management in solid-state batteries.&lt;br&gt;🏷 Li6PS5Br · solid electrolyte · thermal conductivity · phonon transport · structural disorder</description>
+<category>Li6PS5Br</category>
+<category>solid electrolyte</category>
+<category>thermal conductivity</category>
+<category>phonon transport</category>
+<category>structural disorder</category>
+</item>
+<item>
+<title>Molecular‐Bridging Interfacial Engineering to Reinforce Li‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/adfm.78911</link>
+<guid isPermaLink="false">10.1002/adfm.78911</guid>
+<pubDate>Wed, 07 Oct 2026 19:01:59 GMT</pubDate>
+<description>این مقاله با مهندسی بین‌سطحی پل‌زنی مولکولی، پوشش یکنواخت و فشرده لیتیوم سیلیکات را روی کاتدهای غنی از لیتیوم ایجاد کرده و پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces in situ molecular-bridging interfacial engineering to form a uniform, compact ~2 nm lithium silicate layer on Li-rich cathodes via electrostatic self-assembly. The bridges homogenize surface electric fields and reinforce interfacial stability, yielding 22.7% better capacity retention after 200 cycles and superior rate capability. It offers a rational design strategy for high-energy-density cathodes.&lt;br&gt;🏷 Li-rich cathode · interfacial engineering · molecular bridging · lithium silicate coating · cycling stability</description>
+<category>Li-rich cathode</category>
+<category>interfacial engineering</category>
+<category>molecular bridging</category>
+<category>lithium silicate coating</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Interaction‐Matched Protonated Aminopyridine Additives for Highly Reversible Aqueous Zinc Metal Anodes and Zn–I 2 Batteries</title>
+<link>https://doi.org/10.1002/adfm.78875</link>
+<guid isPermaLink="false">10.1002/adfm.78875</guid>
+<pubDate>Wed, 07 Oct 2026 19:01:53 GMT</pubDate>
+<description>این مقاله با افزودنی‌های آمینوپیریدین پروتونه‌شده، رابطه ساختار-جذب-سینتیک را برای آندهای روی برگشت‌پذیر و باتری‌های Zn-I2 روشن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals that stronger additive adsorption does not always improve Zn reversibility; excessive adsorption impedes Zn²⁺ kinetics. Using protonated aminopyridines, it establishes an interaction-matching principle balancing interfacial protection and deposition kinetics, achieving 99.37% CE over 700 cycles and 96.63% capacity retention after 2000 cycles in Zn–I₂ batteries.&lt;br&gt;🏷 zinc metal anode · electrolyte additive · aminopyridine · Zn-I2 battery · interfacial adsorption</description>
+<category>zinc metal anode</category>
+<category>electrolyte additive</category>
+<category>aminopyridine</category>
+<category>Zn-I2 battery</category>
+<category>interfacial adsorption</category>
+</item>
+<item>
+<title>Targeted Modular Design of Rollable Polymer Dielectrics for High Efficiency Energy Storage Under Harsh Condition</title>
+<link>https://doi.org/10.1002/adfm.78879</link>
+<guid isPermaLink="false">10.1002/adfm.78879</guid>
+<pubDate>Wed, 07 Oct 2026 19:01:48 GMT</pubDate>
+<description>این مقاله با طراحی مدولار چهاربلوکی، دی‌الکتریک‌های پلیمری رول‌پذیر با چگالی انرژی بالا و کارایی بیش از ۹۰٪ در شرایط سخت دمایی و میدانی ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 A four-block modular polymer design balances thermal, mechanical, and electrical properties, overcoming longstanding trade-offs. It achieves 8.5 J/cm³ at 150°C and 6.4 J/cm³ at 200°C with &amp;gt;90% efficiency and 40% strain at break, enabling roll-to-roll large-area film fabrication without performance loss. This universal framework links molecular structure to macroscopic multifunctional requirements for harsh-condition energy storage.&lt;br&gt;🏷 polymer dielectric · capacitive energy storage · high temperature · roll-to-roll · modular design</description>
+<category>polymer dielectric</category>
+<category>capacitive energy storage</category>
+<category>high temperature</category>
+<category>roll-to-roll</category>
+<category>modular design</category>
+</item>
 <item>
 <title>Thermodynamic–Kinetic Coupling of Water Structure Enables Wide‐Temperature Zinc Batteries</title>
 <link>https://doi.org/10.1002/adma.75301</link>
@@ -1136,78 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>supercapacitors</category>
 <category>sustainable energy</category>
 <category>renewable resources</category>
-</item>
-<item>
-<title>Suppressing Jahn–Teller distortion in Mn2O3 via Ca2+ doping for aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125063</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125063</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:56 GMT</pubDate>
-<description>این مقاله با دوپینگ Ca2+ در Mn2O3، اعوجاج Jahn-Teller را سرکوب کرده و عملکرد الکتروشیمیایی باتری آبی یون روی را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Mn2O3 cathode · Ca2+ doping · aqueous zinc-ion battery · Jahn-Teller distortion · cycling stability</description>
-<category>Mn2O3 cathode</category>
-<category>Ca2+ doping</category>
-<category>aqueous zinc-ion battery</category>
-<category>Jahn-Teller distortion</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Thermal performance enhancement of lithium-ion battery modules through coolant selection and cold plate structural optimisation</title>
-<link>https://doi.org/10.1016/j.est.2026.124980</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124980</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:52 GMT</pubDate>
-<description>عملکرد حرارتی ماژول‌های باتری لیتیوم-یون از طریق انتخاب خنک‌کننده و بهینه‌سازی ساختار صفحه سرد بهبود یافته است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery · thermal management · coolant · cold plate · module</description>
-<category>lithium-ion battery</category>
-<category>thermal management</category>
-<category>coolant</category>
-<category>cold plate</category>
-<category>module</category>
-</item>
-<item>
-<title>Synergistic catalysis of quasi-metal-organic framework-derived CoO and Ti3C2 MXene for high-performance lithium‑sulfur batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124936</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124936</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:47 GMT</pubDate>
-<description>کاتالیز هم‌افزایی CoO مشتق از quasi-MOF و Ti3C2 MXene برای باتری‌های لیتیوم-سولفات با عملکرد بالا طراحی شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · MXene · CoO · quasi-MOF · synergistic catalysis</description>
-<category>lithium-sulfur battery</category>
-<category>MXene</category>
-<category>CoO</category>
-<category>quasi-MOF</category>
-<category>synergistic catalysis</category>
-</item>
-<item>
-<title>Entropy-enhanced multi-cation engineering of Na3V2(PO4)3 cathodes for accelerated sodium-ion transport and high-rate performance</title>
-<link>https://doi.org/10.1016/j.est.2026.124862</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124862</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:35 GMT</pubDate>
-<description>مهندسی چندکاتیونی تقویت‌شده با آنتروپی در کاتدهای Na3V2(PO4)3 انتقال سدیم را تسریع کرده و عملکرد نرخ بالا را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Na3V2(PO4)3 · multi-cation engineering · entropy · high-rate performance</description>
-<category>sodium-ion battery</category>
-<category>Na3V2(PO4)3</category>
-<category>multi-cation engineering</category>
-<category>entropy</category>
-<category>high-rate performance</category>
-</item>
-<item>
-<title>Structural, morphological, and electrochemical properties of novel Li2Mn0.975Mo0.025(Si1−xBx)O4/C cathode materials for solid-state lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124924</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124924</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:27 GMT</pubDate>
-<description>خواص ساختاری، مورفولوژیکی و الکتروشیمیایی مواد کاتدی جدید Li2Mn0.975Mo0.025(Si1−xBx)O4/C برای باتری‌های لیتیوم-یون حالت جامد بررسی شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · Li2Mn0.975Mo0.025(Si1−xBx)O4 · cathode material · electrochemical properties · lithium-ion</description>
-<category>solid-state battery</category>
-<category>Li2Mn0.975Mo0.025(Si1−xBx)O4</category>
-<category>cathode material</category>
-<category>electrochemical properties</category>
-<category>lithium-ion</category>
-</item>
-<item>
-<title>Vanadium carbide MXenes for electrochemical energy storage: Synthesis, composite design, performance limits, and sustainability considerations</title>
-<link>https://doi.org/10.1016/j.est.2026.124929</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124929</guid>
-<pubDate>Mon, 05 Oct 2026 19:02:23 GMT</pubDate>
-<description>این مقاله مروری به سنتز، طراحی کامپوزیت، محدودیت‌های عملکرد و پایداری MXeneهای کاربید وانادیم برای ذخیره‌سازی انرژی الکتروشیمیایی می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 vanadium carbide MXene · electrochemical energy storage · composite design · performance limits · sustainability</description>
-<category>vanadium carbide MXene</category>
-<category>electrochemical energy storage</category>
-<category>composite design</category>
-<category>performance limits</category>
-<category>sustainability</category>
 </item>
 </channel>
 </rss>
