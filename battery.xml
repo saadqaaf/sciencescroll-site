@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 20:06:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 21:05:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Imidazole‐Amine Synergistic Coordination Reconstructs H‐Bonds and Interface Engineering for Mg Metal Batteries at 60°C</title>
+<link>https://doi.org/10.1002/smll.76114</link>
+<guid isPermaLink="false">10.1002/smll.76114</guid>
+<pubDate>Wed, 07 Oct 2026 21:05:02 GMT</pubDate>
+<description>الکترولیت اوتکتیک عمیق بر پایه DMIm/Mg(TFSI)2/MEA با بازسازی ساختار حلال‌پوشی و SEI غنی از MgF2، باتری منیزیمی را در دمای ۶۰ درجه پایدار می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work introduces a deep eutectic electrolyte using imidazole-amine synergy to reconstruct Mg²⁺ solvation and hydrogen-bonding networks, lowering desolvation barriers. It forms a MgF₂-rich bilayer SEI enabling stable cycling at 60–80°C with 35 mV overpotential. This resolves Mg–eutectic incompatibility, advancing high-temperature, flame-retardant magnesium batteries.&lt;br&gt;🏷 magnesium battery · deep eutectic electrolyte · solvation structure · SEI · high temperature</description>
+<category>magnesium battery</category>
+<category>deep eutectic electrolyte</category>
+<category>solvation structure</category>
+<category>SEI</category>
+<category>high temperature</category>
+</item>
+<item>
+<title>Multisite Chelating N‐Heterocyclic Organic Quinone for Durable Aqueous Rechargeable Batteries</title>
+<link>https://doi.org/10.1002/smm2.70115</link>
+<guid isPermaLink="false">10.1002/smm2.70115</guid>
+<pubDate>Wed, 07 Oct 2026 21:02:05 GMT</pubDate>
+<description>کینون N-هتروسیکل DNQ-CA با کلات چندمرکزی، ظرفیت بالا و پایداری عالی در باتری‌های آبی روی و آمونیوم فراهم می‌کند.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 DNQ‐CA, a fused N‐heterocyclic quinone with extended π‐conjugation and ortho-chelation, enables durable aqueous Zn²⁺/NH₄⁺ batteries. It delivers 289.5 mAh/g, 90.7% retention over 10,000 cycles, and synergistic H⁺/Zn²⁺ co-insertion. This molecular design strategy advances high-performance organic electrodes for aqueous rechargeable batteries.&lt;br&gt;🏷 organic electrode · aqueous battery · N-heterocyclic quinone · zinc-ion battery · ammonium-ion battery</description>
+<category>organic electrode</category>
+<category>aqueous battery</category>
+<category>N-heterocyclic quinone</category>
+<category>zinc-ion battery</category>
+<category>ammonium-ion battery</category>
+</item>
 <item>
 <title>A Universal Class of Cubic Crystalline Alkali Organic–Inorganic Glyme-Based Halides</title>
 <link>https://doi.org/10.1021/jacs.6c14058</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lithium-ion battery pack</category>
 <category>multiphysics modeling</category>
 <category>propagation</category>
-</item>
-<item>
-<title>A Domain-Knowledge Guided Grey Wolf Optimized Random Forest framework for state of charge estimation under dynamic thermal and loading conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.124912</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124912</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:20 GMT</pubDate>
-<description>این مقاله یک چارچوب جنگل تصادفی بهینه‌شده با الگوریتم گرگ خاکستری و هدایت دانش حوزه را برای تخمین وضعیت شارژ باتری تحت شرایط دینامیکی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · grey wolf optimizer · random forest · domain knowledge · dynamic conditions</description>
-<category>state of charge</category>
-<category>grey wolf optimizer</category>
-<category>random forest</category>
-<category>domain knowledge</category>
-<category>dynamic conditions</category>
-</item>
-<item>
-<title>Transition metal nitrides: Unveiling active site engineering in bifunctional materials for next-generation energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125038</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125038</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:16 GMT</pubDate>
-<description>این مرور، مهندسی سایت فعال در نیتریدهای فلزات واسطه را به عنوان مواد دوعملکردی برای ذخیره‌سازی انرژی نسل بعدی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 transition metal nitrides · bifunctional materials · active site engineering · energy storage · electrocatalysis</description>
-<category>transition metal nitrides</category>
-<category>bifunctional materials</category>
-<category>active site engineering</category>
-<category>energy storage</category>
-<category>electrocatalysis</category>
 </item>
 </channel>
 </rss>
