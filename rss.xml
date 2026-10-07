@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 04:01:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 05:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stress fingerprints for electrochemical failure in lithium batteries</title>
+<link>https://doi.org/10.1039/d6ee05752g</link>
+<guid isPermaLink="false">10.1039/d6ee05752g</guid>
+<pubDate>Wed, 07 Oct 2026 05:01:17 GMT</pubDate>
+<description>این مقاله با استفاده از اثر انگشت تنش، مسیرهای تخریب الکتروشیمیایی باتری‌های لیتیوم-یون را که روش‌های پس‌مرگی متعارف قادر به ردیابی پیشرفت دینامیکی آن نیستند، بررسی می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This work introduces &amp;quot;stress fingerprints&amp;quot; as real-time indicators of electrochemical failure in lithium batteries, overcoming post-mortem diagnostic limits. By linking mechanical stress signatures to degradation pathways, it enables early failure prediction and deeper insight into dynamic aging mechanisms, advancing safer, more reliable energy storage systems.&lt;br&gt;🏷 lithium-ion battery · electrochemical failure · stress fingerprint · degradation pathway · diagnostics</description>
+<category>lithium-ion battery</category>
+<category>electrochemical failure</category>
+<category>stress fingerprint</category>
+<category>degradation pathway</category>
+<category>diagnostics</category>
+</item>
+<item>
+<title>Degradation Mechanism and Stabilization Strategies for Large‐Area Perovskite Solar Modules</title>
+<link>https://doi.org/10.1002/idm2.70092</link>
+<guid isPermaLink="false">10.1002/idm2.70092</guid>
+<pubDate>Wed, 07 Oct 2026 05:01:12 GMT</pubDate>
+<description>این مرور، سازوکارهای تخریب ویژه ماژول‌های فتوولتائیک پروسکایتی در مقیاس بزرگ و راهبردهای پایدارسازی آن‌ها مانند یکنواختی لایه، اتصال‌دهی و کپسوله‌سازی را بررسی می‌کند.&lt;br&gt;Interdisciplinary Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 perovskite solar modules · degradation mechanisms · encapsulation · interconnection · operational stability</description>
+<category>perovskite solar modules</category>
+<category>degradation mechanisms</category>
+<category>encapsulation</category>
+<category>interconnection</category>
+<category>operational stability</category>
+</item>
 <item>
 <title>Charge-Carrier Behavior and Molecular Interface Engineering in Perovskite Light-Emitting Diodes</title>
 <link>https://doi.org/10.1007/s40820-026-02348-9</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 adapti
 <category>carbon nanotubes</category>
 <category>pre-compression</category>
 <category>wearable electronics</category>
-</item>
-<item>
-<title>Amorphous TiZr bimetallic MOFs with in situ formed Ti 3+ sites and oxygen vacancies for enhanced MgH 2 hydrogen storage</title>
-<link>https://doi.org/10.1039/d6ta06405a</link>
-<guid isPermaLink="false">10.1039/d6ta06405a</guid>
-<pubDate>Tue, 06 Oct 2026 17:01:42 GMT</pubDate>
-<description>MOFهای دوفلزی TiZr آمورف با سایت‌های Ti3+ و جای خالی اکسیژن درجا، خواص ذخیره‌سازی هیدروژن MgH2 را تقویت می‌کنند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 TiZr bimetallic MOFs are amorphous and form Ti³⁺ sites plus oxygen vacancies in situ, a combination not previously reported for MgH₂ catalysis. These defects enhance MgH₂ hydrogen storage kinetics and reversibility, offering a new design strategy for high-performance solid-state hydrogen storage materials.&lt;br&gt;🏷 MgH2 · hydrogen storage · TiZr MOF · oxygen vacancies · Ti3+ sites</description>
-<category>MgH2</category>
-<category>hydrogen storage</category>
-<category>TiZr MOF</category>
-<category>oxygen vacancies</category>
-<category>Ti3+ sites</category>
-</item>
-<item>
-<title>Multifunctional Tetrafluoroisophthalamide Additive for Simultaneous Crystallization Control and Defect Passivation in Inverted Perovskite Solar Cells</title>
-<link>https://doi.org/10.1039/d6ta07128g</link>
-<guid isPermaLink="false">10.1039/d6ta07128g</guid>
-<pubDate>Tue, 06 Oct 2026 17:01:37 GMT</pubDate>
-<description>افزودنی تترافلوروایزوفتالامید با کنترل تبلور و غیرفعال‌سازی نقص، کارایی و پایداری سلول‌های خورشیدی پروسکایتی معکوس را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · tetrafluoroisophthalamide · defect passivation · crystallization control · inverted structure</description>
-<category>perovskite solar cells</category>
-<category>tetrafluoroisophthalamide</category>
-<category>defect passivation</category>
-<category>crystallization control</category>
-<category>inverted structure</category>
 </item>
 </channel>
 </rss>

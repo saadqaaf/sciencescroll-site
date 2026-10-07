@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 04:01:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 05:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stress fingerprints for electrochemical failure in lithium batteries</title>
+<link>https://doi.org/10.1039/d6ee05752g</link>
+<guid isPermaLink="false">10.1039/d6ee05752g</guid>
+<pubDate>Wed, 07 Oct 2026 05:01:17 GMT</pubDate>
+<description>این مقاله با استفاده از اثر انگشت تنش، مسیرهای تخریب الکتروشیمیایی باتری‌های لیتیوم-یون را که روش‌های پس‌مرگی متعارف قادر به ردیابی پیشرفت دینامیکی آن نیستند، بررسی می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 This work introduces &amp;quot;stress fingerprints&amp;quot; as real-time indicators of electrochemical failure in lithium batteries, overcoming post-mortem diagnostic limits. By linking mechanical stress signatures to degradation pathways, it enables early failure prediction and deeper insight into dynamic aging mechanisms, advancing safer, more reliable energy storage systems.&lt;br&gt;🏷 lithium-ion battery · electrochemical failure · stress fingerprint · degradation pathway · diagnostics</description>
+<category>lithium-ion battery</category>
+<category>electrochemical failure</category>
+<category>stress fingerprint</category>
+<category>degradation pathway</category>
+<category>diagnostics</category>
+</item>
 <item>
 <title>Single-Particle Nanoimpact Electrochemistry Reveals Zn2+ Storage Dynamics in CuMn Prussian Blue Analogues</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03207</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lithium-ion battery</category>
 <category>new energy devices</category>
 <category>circular economy</category>
-</item>
-<item>
-<title>Designing a hierarchical Li+ solvation shell by breaking electrolyte hydrolysis sites enabling stable wide-temperature lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.045</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.045</guid>
-<pubDate>Mon, 05 Oct 2026 17:05:25 GMT</pubDate>
-<description>این مقاله با طراحی پوسته حل‌شوندگی سلسله‌مراتبی Li+ و شکستن سایت‌های هیدرولیز الکترولیت، باتری‌های لیتیوم-یونی پایدار در دمای گسترده ارائه می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li+ solvation shell · electrolyte hydrolysis · wide-temperature · lithium-ion battery · interface stability</description>
-<category>Li+ solvation shell</category>
-<category>electrolyte hydrolysis</category>
-<category>wide-temperature</category>
-<category>lithium-ion battery</category>
-<category>interface stability</category>
 </item>
 </channel>
 </rss>
