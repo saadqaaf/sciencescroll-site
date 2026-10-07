@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 11:01:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 12:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Skin-Inspired Monolithic Multimodal Optical Fibers via Thermochromic Microcapsule-Doped Elastomers</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03593</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03593</guid>
+<pubDate>Wed, 07 Oct 2026 12:01:08 GMT</pubDate>
+<description>سنسور فیبر نوری مونولیتیک با میکروکپسول‌های ترموکرومیک در PDMS ساخته شد که دما، فشار و خمش را به‌صورت همزمان و تفکیک‌پذیر تشخیص می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 thermochromic microcapsules · polymer optical fiber · multimodal sensor · wearable sensing · PDMS elastomer</description>
+<category>thermochromic microcapsules</category>
+<category>polymer optical fiber</category>
+<category>multimodal sensor</category>
+<category>wearable sensing</category>
+<category>PDMS elastomer</category>
+</item>
 <item>
 <title>Microwave–Matter Interactions in Lithium‐Ion Battery Black Mass: Temperature‐Dependent Dielectric Properties and Carbothermal Reduction Pathways</title>
 <link>https://doi.org/10.1002/bte2.70154</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 1,2-metalate rearrangemen
 <category>energy storage</category>
 <category>thermal energy storage</category>
 <category>multifunctional materials</category>
-</item>
-<item>
-<title>Designed for a secure transition – a systematic review of supply security in energy system models</title>
-<link>https://doi.org/10.1016/j.esr.2026.102370</link>
-<guid isPermaLink="false">10.1016/j.esr.2026.102370</guid>
-<pubDate>Wed, 07 Oct 2026 01:01:20 GMT</pubDate>
-<description>این مقاله مروری سیستماتیک بر امنیت عرضه در مدل‌های سیستم انرژی انجام می‌دهد و به طراحی گذار امن انرژی می‌پردازد.&lt;br&gt;Energy Strategy Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 energy system models · supply security · systematic review · energy transition · modeling</description>
-<category>energy system models</category>
-<category>supply security</category>
-<category>systematic review</category>
-<category>energy transition</category>
-<category>modeling</category>
 </item>
 </channel>
 </rss>
