@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 00:02:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 01:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Joint intra- and inter-cycle modeling for co-estimating state of health and remaining useful life of lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124898</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124898</guid>
+<pubDate>Wed, 07 Oct 2026 01:01:29 GMT</pubDate>
+<description>این پژوهش یک مدل‌سازی مشترک درون‌چرخه‌ای و بین‌چرخه‌ای برای هم‌تخمینی وضعیت سلامت و عمر مفید باقیمانده باتری‌های لیتیوم-یون ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion batteries · state of health · remaining useful life · intra-cycle modeling · inter-cycle modeling</description>
+<category>lithium-ion batteries</category>
+<category>state of health</category>
+<category>remaining useful life</category>
+<category>intra-cycle modeling</category>
+<category>inter-cycle modeling</category>
+</item>
+<item>
+<title>Multifunctional porous composite phase-change materials for energy storage applications: A review</title>
+<link>https://doi.org/10.1016/j.est.2026.124880</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124880</guid>
+<pubDate>Wed, 07 Oct 2026 01:01:25 GMT</pubDate>
+<description>این مقاله مروری به مواد تغییر فاز دهنده کامپوزیتی متخلخل چندمنظوره برای کاربردهای ذخیره‌سازی انرژی می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 phase-change materials · porous composites · energy storage · thermal energy storage · multifunctional materials</description>
+<category>phase-change materials</category>
+<category>porous composites</category>
+<category>energy storage</category>
+<category>thermal energy storage</category>
+<category>multifunctional materials</category>
+</item>
 <item>
 <title>Semi-Quantitative Evaluation of Turbostratic Disorder Reveals Its Role in Lithium Storage of Graphite Anodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122194</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lanthanide doping</category>
 <category>orbital occupancy</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Orbital matching-guided d-band regulation via Se-vacancy engineering for accelerated kinetics in lithium-sulfur batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.047</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.047</guid>
-<pubDate>Mon, 05 Oct 2026 17:05:17 GMT</pubDate>
-<description>تنظیم نوار d با مهندسی نقص Se برای تسریع سینتیک در باتری‌های لیتیوم-گوگرد انجام شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · Se-vacancy engineering · d-band regulation · orbital matching · kinetics</description>
-<category>lithium-sulfur battery</category>
-<category>Se-vacancy engineering</category>
-<category>d-band regulation</category>
-<category>orbital matching</category>
-<category>kinetics</category>
-</item>
-<item>
-<title>Chemo-mechanical dual stabilization of Ta5+ as a lattice pillar and interface passivator in a Ni-rich layered cathode</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.039</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.039</guid>
-<pubDate>Mon, 05 Oct 2026 17:05:09 GMT</pubDate>
-<description>تثبیت دوگانه شیمیایی-مکانیکی Ta5+ به عنوان ستون شبکه و غیرفعال‌کننده واسط در کاتد لایه‌ای غنی از Ni انجام شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · Ta5+ doping · lattice pillar · interface passivation · chemo-mechanical stabilization</description>
-<category>Ni-rich cathode</category>
-<category>Ta5+ doping</category>
-<category>lattice pillar</category>
-<category>interface passivation</category>
-<category>chemo-mechanical stabilization</category>
 </item>
 </channel>
 </rss>
