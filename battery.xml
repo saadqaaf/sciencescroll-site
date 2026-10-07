@@ -5,8 +5,45 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 19:03:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 20:06:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Universal Class of Cubic Crystalline Alkali Organic–Inorganic Glyme-Based Halides</title>
+<link>https://doi.org/10.1021/jacs.6c14058</link>
+<guid isPermaLink="false">10.1021/jacs.6c14058</guid>
+<pubDate>Wed, 07 Oct 2026 20:05:45 GMT</pubDate>
+<description>خانواده‌ای جهانی از هالیدهای قلیایی-گلایم با ساختار مکعبی CsClمانند ساخته شد؛ رسانایی یونی جامد پایین اما در حالت مایع 1–10 mS/cm است و در سلول‌های پتاسیم‌یون واکنش جابه‌جایی/درج رخ می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a universal self-assembly route to cubic alkali glyme-based halides (ABX6·mGn), a new crystalline family with CsCl-like structures. It reveals SSIP-to-CIP transformations, tunable ionic conductivity, and KTaCl6 electrochemical reactivity forming K2TaCl6. These findings expand glyme-halide coordination chemistry, offering a versatile platform for solid-state ionics and battery applications.&lt;br&gt;🏷 glyme halides · solid electrolyte · potassium-ion battery · ionic conductivity · self-assembly</description>
+<category>glyme halides</category>
+<category>solid electrolyte</category>
+<category>potassium-ion battery</category>
+<category>ionic conductivity</category>
+<category>self-assembly</category>
+</item>
+<item>
+<title>Site‐Selective Anion‐Cation Regulation of Sulfide Electrolyte Enables Low‐Pressure Dendrite‐Suppressed All‐Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.3893843</link>
+<guid isPermaLink="false">10.1002/anie.3893843</guid>
+<pubDate>Wed, 07 Oct 2026 20:02:59 GMT</pubDate>
+<description>این مقاله با تنظیم آنیون-کاتیون موضعی در الکترولیت سولفیدی Li6PS5Cl، باتری تمام‌حالت‌جامد لیتیوم-فلز با سرکوب دندریت در فشار پایین را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Site-selective Al³⁺/F⁻/Cl⁻ co-regulation of Li₆PS₅Cl stabilizes the sulfide framework and redirects interfacial decomposition toward a LiF/LiCl-rich, Li₂S-poor interphase with strong Li adhesion. This enables 7.22 mS cm⁻¹ conductivity, 8000 h dendrite-free cycling at 3 MPa, and stable NCM811/sulfur full cells at 30 MPa—advancing low-pressure all-solid-state Li metal batteries.&lt;br&gt;🏷 solid-state battery · sulfide electrolyte · dendrite suppression · low stack pressure · Li6PS5Cl</description>
+<category>solid-state battery</category>
+<category>sulfide electrolyte</category>
+<category>dendrite suppression</category>
+<category>low stack pressure</category>
+<category>Li6PS5Cl</category>
+</item>
+<item>
+<title>Biomimetic artificial interface layer-modified dendrite-free zinc anodes</title>
+<link>https://doi.org/10.1016/j.matt.2026.102964</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.102964</guid>
+<pubDate>Wed, 07 Oct 2026 20:02:29 GMT</pubDate>
+<description>این پژوهش با اصلاح آند روی توسط لایه واسط زیست‌الهام، رشد دندریت را سرکوب کرده و آند روی بدون دندریت را ممکن می‌سازد.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 zinc anode · dendrite-free · biomimetic interface · artificial layer · aqueous battery</description>
+<category>zinc anode</category>
+<category>dendrite-free</category>
+<category>biomimetic interface</category>
+<category>artificial layer</category>
+<category>aqueous battery</category>
+</item>
 <item>
 <title>An Amphiphilic Proton Donor Decouples Acidity from Interfacial Reactivity for Lithium-Mediated Ammonia Synthesis</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02477</link>
@@ -1172,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>active site engineering</category>
 <category>energy storage</category>
 <category>electrocatalysis</category>
-</item>
-<item>
-<title>A computational fluid dynamics based analysis of coupled thermal and electrochemical processes in lithium-ion battery cells</title>
-<link>https://doi.org/10.1016/j.est.2026.124901</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124901</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:11 GMT</pubDate>
-<description>این مقاله با دینامیک سیالات محاسباتی، فرآیندهای حرارتی و الکتروشیمیایی جفت‌شده در سلول‌های باتری لیتیوم-یون را تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · computational fluid dynamics · thermal analysis · electrochemical processes · coupled modeling</description>
-<category>lithium-ion battery</category>
-<category>computational fluid dynamics</category>
-<category>thermal analysis</category>
-<category>electrochemical processes</category>
-<category>coupled modeling</category>
-</item>
-<item>
-<title>A physics-informed method for joint forecasting of heat load and battery surface temperature in heating stations integrating photovoltaic generation, battery energy storage, and heat pumps</title>
-<link>https://doi.org/10.1016/j.est.2026.124916</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124916</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:07 GMT</pubDate>
-<description>این مقاله یک روش مبتنی بر فیزیک برای پیش‌بینی همزمان بار حرارتی و دمای سطح باتری در ایستگاه‌های گرمایشی با فتوولتائیک، ذخیره‌سازی باتری و پمپ حرارتی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 heat load forecasting · battery temperature · photovoltaic generation · heat pump · physics-informed method</description>
-<category>heat load forecasting</category>
-<category>battery temperature</category>
-<category>photovoltaic generation</category>
-<category>heat pump</category>
-<category>physics-informed method</category>
-</item>
-<item>
-<title>Bio-based materials for batteries and supercapacitors: Innovations in sustainable energy systems — A comprehensive review</title>
-<link>https://doi.org/10.1016/j.est.2026.125006</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125006</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:01 GMT</pubDate>
-<description>این مرور جامع، نوآوری‌های مواد زیست‌پایه را برای باتری‌ها و ابرخازن‌ها در سیستم‌های انرژی پایدار بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 bio-based materials · batteries · supercapacitors · sustainable energy · renewable resources</description>
-<category>bio-based materials</category>
-<category>batteries</category>
-<category>supercapacitors</category>
-<category>sustainable energy</category>
-<category>renewable resources</category>
 </item>
 </channel>
 </rss>
