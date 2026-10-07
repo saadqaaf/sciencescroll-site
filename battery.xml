@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 07 Oct 2026 01:01:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 02:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Single-Particle Nanoimpact Electrochemistry Reveals Zn2+ Storage Dynamics in CuMn Prussian Blue Analogues</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03207</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03207</guid>
+<pubDate>Wed, 07 Oct 2026 02:01:02 GMT</pubDate>
+<description>با نانوimpact الکتروشیمی، دینامیک ذخیره‌سازی Zn2+ در CuMn Prussian Blue Analogues در سطح تک‌ذره بررسی شد و ظرفیت 208.2 mAh g–1 با پایداری 2000 چرخه تأیید گردید.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 This work pioneers single-particle nanoimpact electrochemistry to directly observe Zn2+ insertion/extraction dynamics in CuMn Prussian blue analogues, linking stochastic particle collisions to bulk battery performance. It reveals particle-level charge-storage mechanisms, supported by in situ Raman spectroscopy, and demonstrates the technique&amp;#x27;s utility for advancing aqueous zinc-ion battery research.&lt;br&gt;🏷 nanoimpact electrochemistry · Prussian blue analogues · zinc-ion battery · single-particle · Zn2+ storage</description>
+<category>nanoimpact electrochemistry</category>
+<category>Prussian blue analogues</category>
+<category>zinc-ion battery</category>
+<category>single-particle</category>
+<category>Zn2+ storage</category>
+</item>
 <item>
 <title>Joint intra- and inter-cycle modeling for co-estimating state of health and remaining useful life of lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.124898</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>wide-temperature</category>
 <category>lithium-ion battery</category>
 <category>interface stability</category>
-</item>
-<item>
-<title>Suppressing Jahn-Teller distortion in LiNi0.5Mn1.5O4 cathodes via lanthanide-mediated orbital occupancy engineering</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.046</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.046</guid>
-<pubDate>Mon, 05 Oct 2026 17:05:22 GMT</pubDate>
-<description>این مقاله با مهندسی اشغال اوربیتال توسط لانتانیدها، اعوجاج Jahn-Teller را در کاتدهای LiNi0.5Mn1.5O4 سرکوب می‌کند و پایداری باتری لیتیوم-یونی را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 LiNi0.5Mn1.5O4 cathode · Jahn-Teller distortion · lanthanide doping · orbital occupancy · lithium-ion battery</description>
-<category>LiNi0.5Mn1.5O4 cathode</category>
-<category>Jahn-Teller distortion</category>
-<category>lanthanide doping</category>
-<category>orbital occupancy</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
