@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:04:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 21:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unraveling complexity: advances in metal-catalyzed sequential double hydrofunctionalization of alkynes</title>
+<link>https://doi.org/10.1039/d6cs00306k</link>
+<guid isPermaLink="false">10.1039/d6cs00306k</guid>
+<pubDate>Thu, 08 Oct 2026 21:01:22 GMT</pubDate>
+<description>این مرور، هیدروفانکشنالیزاسیون دوگانه متوالی آلکین‌ها با کاتالیز فلزی را خلاصه می‌کند و انواع واکنش‌ها، گزینش‌پذیری و کاربردهای سنتزی را پوشش می‌دهد.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;🏷 alkynes · hydrofunctionalization · metal catalysis · selectivity · synthetic applications</description>
+<category>alkynes</category>
+<category>hydrofunctionalization</category>
+<category>metal catalysis</category>
+<category>selectivity</category>
+<category>synthetic applications</category>
+</item>
+<item>
+<title>Excitonic order in quantum materials</title>
+<link>https://doi.org/10.1038/s42254-026-00986-x</link>
+<guid isPermaLink="false">10.1038/s42254-026-00986-x</guid>
+<pubDate>Thu, 08 Oct 2026 21:01:19 GMT</pubDate>
+<description>این مقاله به بررسی نظم اگزیتونی در مواد کوانتومی می‌پردازد و مکانیزم‌های بنیادی و پیامدهای آن را روشن می‌کند.&lt;br&gt;Nature Reviews Physics | ⭐ Review&lt;br&gt;🏷 excitonic order · quantum materials · excitons · phase transition · condensation</description>
+<category>excitonic order</category>
+<category>quantum materials</category>
+<category>excitons</category>
+<category>phase transition</category>
+<category>condensation</category>
+</item>
 <item>
 <title>An AI agent emailed hundreds of researchers for help. It told us why</title>
 <link>https://doi.org/10.1126/science.aen0169</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 Melt-React-Trap · Raman 
 <category>transition metal</category>
 <category>anionic transformations</category>
 <category>convergent synthesis</category>
-</item>
-<item>
-<title>Filovirus reactive antibodies in wildlife hunting communities suggest ongoing zoonotic spillover in forested Guinea</title>
-<link>https://doi.org/10.1038/s41467-026-77653-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-77653-3</guid>
-<pubDate>Thu, 08 Oct 2026 16:02:56 GMT</pubDate>
-<description>آنتی‌بادی‌های واکنشی فیلوویروس در جوامع شکارچی حیات‌وحش نشان‌دهنده سرریز زئونوتیک مداوم در گینه جنگلی است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 filovirus · zoonotic spillover · wildlife hunters · serology · Guinea</description>
-<category>filovirus</category>
-<category>zoonotic spillover</category>
-<category>wildlife hunters</category>
-<category>serology</category>
-<category>Guinea</category>
-</item>
-<item>
-<title>Generative diffusion surrogates with analytical variance schedule</title>
-<link>https://doi.org/10.1038/s41467-026-77769-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-77769-6</guid>
-<pubDate>Thu, 08 Oct 2026 16:02:53 GMT</pubDate>
-<description>مدل‌های انتشار مولد با برنامه واریانس تحلیلی برای شبیه‌سازی انتقال تصادفی در پلاسمای آشفته ارائه شده است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 generative diffusion · variance schedule · stochastic transport · surrogate modeling · turbulent plasmas</description>
-<category>generative diffusion</category>
-<category>variance schedule</category>
-<category>stochastic transport</category>
-<category>surrogate modeling</category>
-<category>turbulent plasmas</category>
 </item>
 </channel>
 </rss>
