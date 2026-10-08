@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 14:01:09 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 15:03:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Integration Framework for Multifunctional Hydrogel Electrolyte Modification Strategies in Aqueous Zinc‐Ion Batteries from Molecular Design to Device Application</title>
+<link>https://doi.org/10.1002/adfm.78885</link>
+<guid isPermaLink="false">10.1002/adfm.78885</guid>
+<pubDate>Thu, 08 Oct 2026 15:03:19 GMT</pubDate>
+<description>این مرور چارچوب طراحی چندمقیاسی برای الکترولیت‌های هیدروژلی چندکاره در باتری‌های آبی یون روی از طراحی مولکولی تا کاربرد دستگاه ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely frames hydrogel electrolytes as programmable, cross-scale platforms rather than passive quasi-solid media. Its novelty lies in a unified framework linking molecular interactions, network architecture, and interfacial engineering to nine regulation strategies. By bridging molecular design to wearable and bioelectronic applications, it charts a pathway from empirical optimization toward predictable, engineering-reliable hydrogel electrolytes for practical aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · hydrogel electrolyte · molecular design · device application · multifunctional regulation</description>
+<category>aqueous zinc-ion battery</category>
+<category>hydrogel electrolyte</category>
+<category>molecular design</category>
+<category>device application</category>
+<category>multifunctional regulation</category>
+</item>
+<item>
+<title>Tailoring Carbon Vacancies by Conformational Pre‐Organization Enables Hard Carbon Anodes Toward Ultra‐Long Cycle Life</title>
+<link>https://doi.org/10.1002/adfm.78870</link>
+<guid isPermaLink="false">10.1002/adfm.78870</guid>
+<pubDate>Thu, 08 Oct 2026 15:02:20 GMT</pubDate>
+<description>با تنظیم تهی‌جای کربن از طریق پیش‌سازماندهی کانفورماسیونی، آند کربن سخت برای باتری سدیم-یون با عمر چرخه فوق‌العاده طولانی و عملکرد دمای پایین به دست آمد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers tailoring carbon vacancies via conformational pre-organization of precursor architecture. These vacancies enable fast Na+ diffusion, homogenize interfacial electric fields, and exclude solvents, boosting interfacial stability. The optimized hard carbon anodes achieve ultra-long cycle life (16,000 cycles at 1.0 A g−1) and excellent low-temperature performance, establishing a new design paradigm for durable sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · carbon vacancies · cycling stability · low-temperature performance</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>carbon vacancies</category>
+<category>cycling stability</category>
+<category>low-temperature performance</category>
+</item>
+<item>
+<title>Dual‐Interface Electrolyte Engineering for Wide‐Temperature‐Adaptable High‐Voltage LiCoO 2 /Graphite Cells</title>
+<link>https://doi.org/10.1002/adfm.78708</link>
+<guid isPermaLink="false">10.1002/adfm.78708</guid>
+<pubDate>Thu, 08 Oct 2026 15:02:04 GMT</pubDate>
+<description>مهندسی الکترولیت دوسطحی با افزودنی TDTB، پایداری فصل‌مشترک LiCoO2/graphite را در ولتاژ بالا و دماهای مختلف بهبود می‌دهد و ظرفیت 90% پس از 800 چرخه را حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 A single multifunctional additive (TDTB) integrates B-O, Si-O, benzene, and -CF3 groups to simultaneously stabilize high-voltage LiCoO2 cathodes and graphite anodes via preferential decomposition, forming robust CEI/SEI layers. This dual-interface strategy enables 90% capacity retention over 800 cycles and wide-temperature adaptability, offering a molecular-design route toward long-life, high-energy-density lithium-ion batteries.&lt;br&gt;🏷 LiCoO2 · graphite · electrolyte additive · dual-interface engineering · high-voltage</description>
+<category>LiCoO2</category>
+<category>graphite</category>
+<category>electrolyte additive</category>
+<category>dual-interface engineering</category>
+<category>high-voltage</category>
+</item>
 <item>
 <title>Medium‐Concentration Electrolytes Balance Hydrogen‐Bond Disruption and Ion–Ion Interactions for Wide‐Temperature Aqueous Trivalent Indium Metal Batteries</title>
 <link>https://doi.org/10.1002/aenm.71678</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>stability assessment</category>
 <category>true triaxial test</category>
 <category>abandoned cavern</category>
-</item>
-<item>
-<title>Enhancing thermal safety of lithium-ion battery modules via optimized insulation layout and advanced composite phase change material</title>
-<link>https://doi.org/10.1016/j.est.2026.124952</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124952</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:34 GMT</pubDate>
-<description>این مقاله ایمنی حرارتی ماژول‌های باتری لیتیوم-یون را از طریق چیدمان عایق بهینه و ماده تغییر فاز کامپوزیتی پیشرفته بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery · thermal safety · phase change material · insulation layout · battery module</description>
-<category>lithium-ion battery</category>
-<category>thermal safety</category>
-<category>phase change material</category>
-<category>insulation layout</category>
-<category>battery module</category>
-</item>
-<item>
-<title>Defect-rich BiOCl nanosheets for ultrahigh-rate aqueous alkaline batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124932</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124932</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:30 GMT</pubDate>
-<description>این مقاله نانوصفحات BiOCl غنی از نقص را برای باتری‌های آبی قلیایی با نرخ فوق‌بالا معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 BiOCl nanosheets · aqueous alkaline battery · defect-rich · ultrahigh-rate · energy storage</description>
-<category>BiOCl nanosheets</category>
-<category>aqueous alkaline battery</category>
-<category>defect-rich</category>
-<category>ultrahigh-rate</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Mo2C-engineered coconut fiber-derived porous carbon with synergistic adsorption-catalysis interface for lithium-sulfur batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125070</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125070</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:26 GMT</pubDate>
-<description>این مقاله کربن متخلخل مشتق از الیاف نارگیل مهندسی‌شده با Mo2C را با رابط جذب-کاتالیز هم‌افزا برای باتری‌های لیتیوم-گوگرد ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · Mo2C · coconut fiber carbon · adsorption-catalysis · porous carbon</description>
-<category>lithium-sulfur battery</category>
-<category>Mo2C</category>
-<category>coconut fiber carbon</category>
-<category>adsorption-catalysis</category>
-<category>porous carbon</category>
 </item>
 </channel>
 </rss>
