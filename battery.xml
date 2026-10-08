@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 06:02:46 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 07:01:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring Cathode Interphase with Cyclic Ethers toward Stable Lithium‐Metal Batteries</title>
+<link>https://doi.org/10.1002/eem2.70522</link>
+<guid isPermaLink="false">10.1002/eem2.70522</guid>
+<pubDate>Thu, 08 Oct 2026 07:01:16 GMT</pubDate>
+<description>ساختار حلقه اترهای حلقوی، ترمودینامیک باز شدن حلقه و تشکیل CEI را در باتری‌های لیتیوم-فلز تنظیم می‌کند و DOL برای LiFePO4 و DOX برای NCM811 پایداری بهتری می‌دهد.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work reveals that cyclic ether ring structure controls ring-opening thermodynamics and cathode interphase chemistry in lithium-metal batteries. Comparing DOL and DOX shows distinct interfacial pathways: DOL enables stable LiFePO₄ cycling, while DOX stabilizes high-voltage NCM811. The findings establish interfacial reactivity matching as a design principle for tailoring ether electrolytes, advancing durable lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · cathode electrolyte interphase · cyclic ether electrolyte · LiFePO4 cathode · NCM811 cathode</description>
+<category>lithium-metal battery</category>
+<category>cathode electrolyte interphase</category>
+<category>cyclic ether electrolyte</category>
+<category>LiFePO4 cathode</category>
+<category>NCM811 cathode</category>
+</item>
 <item>
 <title>Probing position-dependent electrolyte concentration in lithium-ion batteries using lithium metal reference electrodes</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.053</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>multi-dimensional evaluation</category>
 <category>sustainability</category>
 <category>circular economy</category>
-</item>
-<item>
-<title>Interfacial engineering between hard carbon and solid electrolytes using perylene-based carbon layers for all-solid-state batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124921</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124921</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:56 GMT</pubDate>
-<description>این پژوهش با استفاده از لایه‌های کربنی مبتنی بر پریلن، مهندسی سطح مشترک بین کربن سخت و الکترولیت جامد را برای باتری‌های تمام‌جامد انجام می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · hard carbon · solid electrolyte · perylene-based carbon · interfacial engineering</description>
-<category>all-solid-state battery</category>
-<category>hard carbon</category>
-<category>solid electrolyte</category>
-<category>perylene-based carbon</category>
-<category>interfacial engineering</category>
 </item>
 </channel>
 </rss>
