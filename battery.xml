@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 11:01:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 12:02:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Aluminum Fuel Cells: Tackling Challenges and Unlocking Commercial Potentials</title>
+<link>https://doi.org/10.1002/adma.75310</link>
+<guid isPermaLink="false">10.1002/adma.75310</guid>
+<pubDate>Thu, 08 Oct 2026 12:02:21 GMT</pubDate>
+<description>این مرور جامع، پیشرفت مواد کلیدی، مدیریت چرخه الکترولیت و بازیافت آلومینیوم در پیل‌های سوختی آلومینیومی را بررسی کرده و آن‌ها را به‌عنوان حامل انرژی قابل بازیافت معرفی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely positions aluminum fuel cells as recyclable energy carriers, integrating material development, electrolyte lifecycle management, and closed-loop Al(OH)₃-to-Al regeneration using renewable electricity. Its significance lies in benchmarking against practical targets (≥99% anode utilization, ≥2000 h cathode life, ≥500 Wh kg⁻¹) and comparing system-level performance with hydrogen fuel cells and diesel generators, advancing sustainable long-duration energy storage.&lt;br&gt;🏷 aluminum fuel cells · Al anode · air cathode · electrolyte recycling · energy storage</description>
+<category>aluminum fuel cells</category>
+<category>Al anode</category>
+<category>air cathode</category>
+<category>electrolyte recycling</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Polypyrrole as Dissociation Promoter and Interface Stabilizer of Solid Polymer Electrolytes for Solid‐State Li Metal Batteries</title>
+<link>https://doi.org/10.1002/adma.75225</link>
+<guid isPermaLink="false">10.1002/adma.75225</guid>
+<pubDate>Thu, 08 Oct 2026 12:01:56 GMT</pubDate>
+<description>الکترولیت پلیمری جامد حاوی PPy با هماهنگی انتخابی Li+/آنیون، هدایت یونی 0.76 mS cm-1 و پایداری چرخهای طولانی در باتری لیتیوم-فلز جامد ایجاد میکند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 PPyPL introduces site-selective Li⁺/anion coordination in a solid polymer electrolyte: pyrrolic N binds Li⁺ while backbone hydrogen interacts with TFSI⁻, simultaneously boosting salt dissociation, Li⁺ transport (0.65), and LiF/Li₃N-rich interphase formation. This yields 0.76 mS cm⁻¹ conductivity, 8000 h cycling stability, and durable LFP/NCM811 full cells, offering a new design strategy for solid-state Li metal batteries.&lt;br&gt;🏷 solid polymer electrolyte · polypyrrole · lithium metal battery · ion solvation · interface stabilization</description>
+<category>solid polymer electrolyte</category>
+<category>polypyrrole</category>
+<category>lithium metal battery</category>
+<category>ion solvation</category>
+<category>interface stabilization</category>
+</item>
+<item>
+<title>Breaking Lithium Embrittlement in Alloy Anodes Enables Low‐Stack‐Pressure All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/adma.75337</link>
+<guid isPermaLink="false">10.1002/adma.75337</guid>
+<pubDate>Thu, 08 Oct 2026 12:01:35 GMT</pubDate>
+<description>ساختار آمورف نانومقیاس در آندهای آلیاژی In-Sn شکنندگی لیتیوم را کاهش داده و فشار پشته مورد نیاز باتری تمامحالت را به ≤5 MPa میرساند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using nanoscale amorphization during lithiation to overcome brittleness in alloy anodes by suppressing crystallization and enabling inter-unit sliding. This reduces stack pressure from ≥30 to ≤5 MPa, enabling high-loading all-solid-state cells with 84.3% retention over 2000 cycles. The strategy is generalizable to other alloy anodes, significantly advancing practical low-pressure ASSLIBs.&lt;br&gt;🏷 all-solid-state battery · alloy anode · lithium embrittlement · amorphization · stack pressure</description>
+<category>all-solid-state battery</category>
+<category>alloy anode</category>
+<category>lithium embrittlement</category>
+<category>amorphization</category>
+<category>stack pressure</category>
+</item>
+<item>
+<title>Dielectric superionic-conductor nanofibers for highly efficient multi-channel ion transport in solvent-lean PVDF-based electrolytes</title>
+<link>https://doi.org/10.1039/d6ee04568e</link>
+<guid isPermaLink="false">10.1039/d6ee04568e</guid>
+<pubDate>Thu, 08 Oct 2026 12:01:26 GMT</pubDate>
+<description>نانوالیاف LiSr-HA برای بهبود انتقال یون در الکترولیتهای پلیمری PVDF کمحلال سنتز شد و هدایت یونی و عملکرد باتری را افزایش داد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 LiSr-HA dielectric nanofibers enable multi-channel Li+ transport in solvent-lean PVDF electrolytes, overcoming sluggish polymer ion conduction and interfacial barriers. This design boosts ionic conductivity and interfacial kinetics, offering a significant route to high-performance solid-state batteries.&lt;br&gt;🏷 solid polymer electrolyte · hydroxyapatite nanofiber · ion transport · PVDF · lithium battery</description>
+<category>solid polymer electrolyte</category>
+<category>hydroxyapatite nanofiber</category>
+<category>ion transport</category>
+<category>PVDF</category>
+<category>lithium battery</category>
+</item>
 <item>
 <title>Bioinspired Bouligand-structured Hydrogel Electrolyte for Stabilizing Zinc Anodes</title>
 <link>https://doi.org/10.1039/d6ta06321g</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Wurster polymer</category>
 <category>voltage-capacity trade-off</category>
 <category>branched polymer</category>
-</item>
-<item>
-<title>Mechanical-Electrochemical Coupling Enabled by a Customized Bilayer Solid Electrolyte for High-Voltage and High-Rate Lithium-Metal Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105581</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105581</guid>
-<pubDate>Tue, 06 Oct 2026 01:01:39 GMT</pubDate>
-<description>این مقاله با یک الکترولیت جامد دولایه سفارشی، جفت‌شدگی مکانیکی-الکتروشیمیایی را برای باتری‌های لیتیوم-فلز ولتاژ بالا و نرخ بالا ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 solid electrolyte · lithium-metal battery · bilayer · high-voltage · mechanical-electrochemical coupling</description>
-<category>solid electrolyte</category>
-<category>lithium-metal battery</category>
-<category>bilayer</category>
-<category>high-voltage</category>
-<category>mechanical-electrochemical coupling</category>
-</item>
-<item>
-<title>Synergistic interfacial engineering of sandwich-structured polypyrrole@MXene composite films for high-performance flexible all-solid-state supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125037</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125037</guid>
-<pubDate>Mon, 05 Oct 2026 19:04:25 GMT</pubDate>
-<description>این مقاله با مهندسی سطح مشترک، فیلم‌های کامپوزیتی ساندویچی پلی‌پیرول@MXene را برای ابرخازن‌های تمام‌جامد انعطاف‌پذیر با عملکرد بالا می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 MXene · polypyrrole · flexible supercapacitor · all-solid-state · interfacial engineering</description>
-<category>MXene</category>
-<category>polypyrrole</category>
-<category>flexible supercapacitor</category>
-<category>all-solid-state</category>
-<category>interfacial engineering</category>
-</item>
-<item>
-<title>A novel water-soluble recyclable binder for green regeneration of active materials in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125012</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125012</guid>
-<pubDate>Mon, 05 Oct 2026 19:04:20 GMT</pubDate>
-<description>این پژوهش یک چسباننده قابل بازیافت محلول در آب را برای احیای سبز مواد فعال در باتری‌های لیتیوم-یون معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · recyclable binder · water-soluble binder · green regeneration · cathode material</description>
-<category>lithium-ion battery</category>
-<category>recyclable binder</category>
-<category>water-soluble binder</category>
-<category>green regeneration</category>
-<category>cathode material</category>
-</item>
-<item>
-<title>State of charge estimation for lithium-ion battery balancing systems considering branch current dynamics under non-ideal switching</title>
-<link>https://doi.org/10.1016/j.est.2026.124954</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124954</guid>
-<pubDate>Mon, 05 Oct 2026 19:04:15 GMT</pubDate>
-<description>این مقاله روشی برای تخمین وضعیت شارژ در سیستم‌های متعادل‌سازی باتری لیتیوم-یون با در نظر گرفتن دینامیک جریان شاخه تحت سوئیچینگ غیرایده‌آل ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of charge · battery balancing · branch current dynamics · non-ideal switching</description>
-<category>lithium-ion battery</category>
-<category>state of charge</category>
-<category>battery balancing</category>
-<category>branch current dynamics</category>
-<category>non-ideal switching</category>
 </item>
 </channel>
 </rss>
