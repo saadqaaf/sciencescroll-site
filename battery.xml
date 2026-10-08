@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 09:01:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 10:02:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bioinspired Bouligand-structured Hydrogel Electrolyte for Stabilizing Zinc Anodes</title>
+<link>https://doi.org/10.1039/d6ta06321g</link>
+<guid isPermaLink="false">10.1039/d6ta06321g</guid>
+<pubDate>Thu, 08 Oct 2026 10:01:39 GMT</pubDate>
+<description>یک الکترولیت هیدروژلی زیست‌الهام‌گرفته با ساختار Bouligand برای پایدارسازی آند روی در باتری روی طراحی و ساخته می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a bioinspired Bouligand-structured hydrogel electrolyte that mimics natural helicoidal architectures to simultaneously boost ionic conductivity and mechanical strength. Its significance is stabilizing zinc anodes by suppressing water-driven side reactions and dendrite growth, enabling safer, longer-lasting aqueous zinc batteries.&lt;br&gt;🏷 hydrogel electrolyte · zinc anode · Bouligand structure · bioinspired · zinc battery</description>
+<category>hydrogel electrolyte</category>
+<category>zinc anode</category>
+<category>Bouligand structure</category>
+<category>bioinspired</category>
+<category>zinc battery</category>
+</item>
+<item>
+<title>Methodologies for measuring solvation free energy in lithium and sodium battery electrolytes</title>
+<link>https://doi.org/10.1039/d6ta04068c</link>
+<guid isPermaLink="false">10.1039/d6ta04068c</guid>
+<pubDate>Thu, 08 Oct 2026 10:01:26 GMT</pubDate>
+<description>این مقاله مروری روش‌های اندازه‌گیری انرژی آزاد حلال‌پوشی در الکترولیت‌های باتری لیتیوم و سدیم را بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates methodologies for measuring solvation free energy in Li/Na battery electrolytes, bridging thermodynamic theory with practical electrolyte design. Its significance lies in linking accurate solvation measurements to ion transport, kinetics, and stability, offering a framework to guide electrolyte engineering for improved battery performance.&lt;br&gt;🏷 solvation free energy · battery electrolytes · lithium batteries · sodium batteries · measurement methods</description>
+<category>solvation free energy</category>
+<category>battery electrolytes</category>
+<category>lithium batteries</category>
+<category>sodium batteries</category>
+<category>measurement methods</category>
+</item>
 <item>
 <title>Ion-Electron Diffusion Interphase Enables Fast Kinetics toward Dendrite-Free Zinc Metal Anodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03750</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>battery balancing</category>
 <category>branch current dynamics</category>
 <category>non-ideal switching</category>
-</item>
-<item>
-<title>Application Progress of hydrogels in aqueous zinc batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124917</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124917</guid>
-<pubDate>Mon, 05 Oct 2026 19:04:11 GMT</pubDate>
-<description>این مقاله مروری، پیشرفت‌های کاربرد هیدروژل‌ها در باتری‌های آبی روی را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 aqueous zinc battery · hydrogel · zinc anode · electrolyte · flexible battery</description>
-<category>aqueous zinc battery</category>
-<category>hydrogel</category>
-<category>zinc anode</category>
-<category>electrolyte</category>
-<category>flexible battery</category>
-</item>
-<item>
-<title>Monolithic in situ assembly of seamless hydrogel interfaces for high-performance and mechanically adaptive flexible energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124918</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124918</guid>
-<pubDate>Mon, 05 Oct 2026 19:04:05 GMT</pubDate>
-<description>این پژوهش با مونتاژ درجای هیدروژل، رابط‌های هیدروژلی یکپارچه و بدون درز را برای ذخیره‌سازی انرژی انعطاف‌پذیر با عملکرد بالا و سازگاری مکانیکی ایجاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hydrogel interface · flexible energy storage · in situ assembly · mechanical adaptivity · monolithic hydrogel</description>
-<category>hydrogel interface</category>
-<category>flexible energy storage</category>
-<category>in situ assembly</category>
-<category>mechanical adaptivity</category>
-<category>monolithic hydrogel</category>
 </item>
 </channel>
 </rss>
