@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 16:03:53 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 17:03:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cathode Bulk Diffusion Dictates Low‐Temperature Performance in Li‐Ion Batteries: Beyond Electrolyte Engineering</title>
+<link>https://doi.org/10.1002/smll.76123</link>
+<guid isPermaLink="false">10.1002/smll.76123</guid>
+<pubDate>Thu, 08 Oct 2026 17:02:57 GMT</pubDate>
+<description>نفوذ توده‌ای Li+ در کاتد، نه الکترولیت، عامل اصلی افت عملکرد باتری لیتیوم-یون در دمای پایین است.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This study overturns the electrolyte-centric view of low-temperature Li-ion battery failure by decoupling half-cells across 36 electrolytes. It proves cathode bulk Li⁺ diffusion, not interfacial kinetics, is the rate-determining step, with LFP diffusion times surging to 104 h at −30°C. This redirects research toward intrinsic cathode structural engineering.&lt;br&gt;🏷 Li-ion battery · low temperature · cathode diffusion · NCM811 · LFP</description>
+<category>Li-ion battery</category>
+<category>low temperature</category>
+<category>cathode diffusion</category>
+<category>NCM811</category>
+<category>LFP</category>
+</item>
+<item>
+<title>Unlocking High‐Energy Sodium‐Ion Batteries via Chemically Engineered Closed Pores in Hard Carbon</title>
+<link>https://doi.org/10.1002/smll.76093</link>
+<guid isPermaLink="false">10.1002/smll.76093</guid>
+<pubDate>Thu, 08 Oct 2026 17:02:44 GMT</pubDate>
+<description>این مرور، استراتژی‌های مهندسی شیمیایی حفرات بسته در کربن سخت را برای بهبود ظرفیت پلاتو، ICE و چگالی انرژی باتری سدیم-یون بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely links hard carbon microstructure to sodium storage, highlighting chemically mediated closed-pore engineering via heteroatom doping, functional groups, and radical modulation. It establishes structure-property relationships that boost plateau capacity, initial Coulombic efficiency, and energy density, while outlining future integration of in situ spectroscopy, multiscale simulation, and machine learning for predictable, controllable closed-pore design toward practical sodium-ion batteries.&lt;br&gt;🏷 hard carbon · sodium-ion battery · closed pores · anode · pore-filling mechanism</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>closed pores</category>
+<category>anode</category>
+<category>pore-filling mechanism</category>
+</item>
+<item>
+<title>Automatic Generation of Inorganic Solid‐State Electrolytes via Unified Multi‐Modal Network</title>
+<link>https://doi.org/10.1002/smll.75978</link>
+<guid isPermaLink="false">10.1002/smll.75978</guid>
+<pubDate>Thu, 08 Oct 2026 17:02:28 GMT</pubDate>
+<description>شبکه عصبی چندوجهی USMNet با در نظر گرفتن ساختار، الکترولیت‌های جامد لیتیومی را پیش‌بینی و Li16ZnSiP2S16 را به‌صورت تجربی تأیید می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 USMNet unifies crystal-structure, compositional, and physical descriptors to predict Li-ion conductivity, overcoming sparse data and structure dependence. It outperforms composition-only and structure-based baselines, enabling data-efficient screening of 168,675 candidates and identifying 21 electrolytes. Experimental validation confirms Li₁₆ZnSiP₂S₁₆ delivers 80% capacity retention after 600 cycles, demonstrating a generalizable, closed-loop strategy for solid-state electrolyte discovery.&lt;br&gt;🏷 solid electrolyte · machine learning · ionic conductivity · materials discovery · all-solid-state battery</description>
+<category>solid electrolyte</category>
+<category>machine learning</category>
+<category>ionic conductivity</category>
+<category>materials discovery</category>
+<category>all-solid-state battery</category>
+</item>
+<item>
+<title>Harnessing Anion Perturbation for Self‐Limiting Decomposition for Durable Argyrodite‐Based Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76179</link>
+<guid isPermaLink="false">10.1002/smll.76179</guid>
+<pubDate>Thu, 08 Oct 2026 17:02:23 GMT</pubDate>
+<description>اختلال آنیونی در الکترولیت آرژیرودیت با فلوروزیرکونات، تشکیل SEI خودمحدودشونده را هدایت و چرخه‌پذیری باتری لیتیوم-فلز حالت جامد را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Fluorozirconate incorporation perturbs PS₄³⁻ anions in argyrodite electrolytes, deliberately triggering controlled decomposition to form a self-limiting, Li₂S/LiₓP- and F-rich SEI. This shifts the paradigm from suppressing to harnessing decomposition. The robust, insulating interphase enables 7000 h Li||Li cycling and 81.3% capacity retention after 1200 cycles, offering a facile strategy for durable solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state battery · argyrodite electrolyte · SEI · anion perturbation · lithium metal</description>
+<category>solid-state battery</category>
+<category>argyrodite electrolyte</category>
+<category>SEI</category>
+<category>anion perturbation</category>
+<category>lithium metal</category>
+</item>
+<item>
+<title>Polychalcogenides Induced Challenges in Transition Metal Chalcogenide Anodes for Alkali Metal Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76118</link>
+<guid isPermaLink="false">10.1002/smll.76118</guid>
+<pubDate>Thu, 08 Oct 2026 17:02:02 GMT</pubDate>
+<description>این مرور چالش‌های ناشی از تولید و شاتل پلی‌کالکوژنیدها را در آندهای کالکوژنید فلز واسطه برای باتری‌های یون فلز قلیایی و راهبردهای مهار آن را بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely highlights polychalcogenide generation and shuttling as a critical, overlooked degradation pathway in transition metal chalcogenide anodes for alkali metal ion batteries. It systematically links polychalcogenide formation to cascading failure mechanisms, elucidates governing factors and inhibition strategies, and offers design perspectives for anodes and electrolytes, advancing practical TMC anode development beyond classical volume expansion and kinetics issues.&lt;br&gt;🏷 transition metal chalcogenide · polychalcogenide shuttle · alkali metal ion batteries · anode degradation · conversion reaction</description>
+<category>transition metal chalcogenide</category>
+<category>polychalcogenide shuttle</category>
+<category>alkali metal ion batteries</category>
+<category>anode degradation</category>
+<category>conversion reaction</category>
+</item>
+<item>
+<title>Tailoring Piezoelectric Materials for High Energy Density Batteries: Fundamentals, Advances, and Perspectives</title>
+<link>https://doi.org/10.1002/smll.76138</link>
+<guid isPermaLink="false">10.1002/smll.76138</guid>
+<pubDate>Thu, 08 Oct 2026 17:01:53 GMT</pubDate>
+<description>این مرور، اصول و کاربرد مواد پیزوالکتریک را برای ایجاد میدان الکتریکی داخلی و بهبود عملکرد باتری‌های چگالی بالا از طریق تنظیم مهاجرت یون و سرکوب دندریت بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges piezoelectric physics and battery engineering, systematically mapping how piezoelectric built-in fields modulate ion transport, interfaces, and reaction kinetics across electrodes, anodes, electrolytes, and separators. Its significance lies in providing a unified framework guiding rational design of piezoelectric-enabled strategies to suppress dendrites, stabilize interfaces, and advance high-energy-density, safe, long-life rechargeable batteries.&lt;br&gt;🏷 piezoelectric materials · high energy density batteries · built-in electric field · dendrite suppression · ion migration</description>
+<category>piezoelectric materials</category>
+<category>high energy density batteries</category>
+<category>built-in electric field</category>
+<category>dendrite suppression</category>
+<category>ion migration</category>
+</item>
 <item>
 <title>Interface-Driven High Ionic Conductivities in Hydridoborate/Oxide Nanocomposite Electrolytes: A Pathway to High-Capacity All-Solid-State Batteries</title>
 <link>https://doi.org/10.1021/accountsmr.6c00180</link>
@@ -1138,78 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>fluorinated side chain</category>
 <category>ion selectivity</category>
 <category>proton conductivity</category>
-</item>
-<item>
-<title>Electrostatic assembly of amino-functionalized silicon nanoparticles in an oxidized cellulose nanofiber-derived carbon framework for stable lithium-ion anodes</title>
-<link>https://doi.org/10.1016/j.est.2026.124930</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124930</guid>
-<pubDate>Tue, 06 Oct 2026 05:02:04 GMT</pubDate>
-<description>نانوذرات سیلیکون آمین‌دار در چارچوب کربنی مشتق از نانوسلولز اکسیدشده، آند پایدار لیتیوم-یون را فراهم می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 silicon anode · cellulose nanofiber · amino-functionalization · electrostatic assembly · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>cellulose nanofiber</category>
-<category>amino-functionalization</category>
-<category>electrostatic assembly</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>A feature selection and model fusion framework for lithium-ion battery state of health estimation under capacity regeneration phenomena</title>
-<link>https://doi.org/10.1016/j.est.2026.125064</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125064</guid>
-<pubDate>Tue, 06 Oct 2026 05:02:00 GMT</pubDate>
-<description>چارچوب انتخاب ویژگی و ادغام مدل برای تخمین SOH باتری لیتیوم-یون در حضور پدیده بازتولید ظرفیت ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · capacity regeneration · feature selection · model fusion</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>capacity regeneration</category>
-<category>feature selection</category>
-<category>model fusion</category>
-</item>
-<item>
-<title>Melamine-reconstructed Co/N-doped mesoporous carbon hosts for kinetic stabilization of oxidation-based aluminum–sulfur batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125025</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125025</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:57 GMT</pubDate>
-<description>میزبان کربن مزوپور Co/N دوپ‌شده با ملامین، پایداری سینتیکی باتری آلومینیوم-گوگرد اکسیداسیونی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aluminum-sulfur battery · mesoporous carbon · Co/N doping · melamine · kinetic stabilization</description>
-<category>aluminum-sulfur battery</category>
-<category>mesoporous carbon</category>
-<category>Co/N doping</category>
-<category>melamine</category>
-<category>kinetic stabilization</category>
-</item>
-<item>
-<title>Physics-guided TimesNet with segmented constraints for state-of-charge estimation of lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125051</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125051</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:53 GMT</pubDate>
-<description>مدل TimesNet هدایت‌شده با فیزیک و محدودیت‌های قطعه‌ای، تخمین وضعیت شارژ باتری لیتیوم-یون را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · TimesNet · physics-guided · segmented constraints · lithium-ion battery</description>
-<category>state of charge</category>
-<category>TimesNet</category>
-<category>physics-guided</category>
-<category>segmented constraints</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Superfast and Lightweight SOH estimation using Attention-based feature selection within Bandwise Electrochemical Impedance Spectroscopy</title>
-<link>https://doi.org/10.1016/j.est.2026.124865</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124865</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:49 GMT</pubDate>
-<description>روش سبک و سریع مبتنی بر انتخاب ویژگی توجهی در طیف‌سنجی امپدانس الکتروشیمیایی باندی، تخمین SOH باتری را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 SOH estimation · electrochemical impedance spectroscopy · attention mechanism · feature selection · lightweight model</description>
-<category>SOH estimation</category>
-<category>electrochemical impedance spectroscopy</category>
-<category>attention mechanism</category>
-<category>feature selection</category>
-<category>lightweight model</category>
-</item>
-<item>
-<title>Interfacial NiM-regulated Zn2+ flux and multisite nucleation in flexible zinc Powder@Conductive fabric anodes for high-performance Zn-I2 batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125030</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125030</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:45 GMT</pubDate>
-<description>آند پارچه رسانای Zn@NiM برای باتری Zn-I2، با تنظیم شار Zn2+ و هسته‌زنی چندگانه، عملکرد بالا و انعطاف‌پذیری را فراهم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Zn-I2 battery · zinc anode · NiM interface · Zn2+ flux · flexible electrode</description>
-<category>Zn-I2 battery</category>
-<category>zinc anode</category>
-<category>NiM interface</category>
-<category>Zn2+ flux</category>
-<category>flexible electrode</category>
 </item>
 </channel>
 </rss>
