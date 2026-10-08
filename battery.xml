@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 19:02:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 20:04:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An electrolyte-versatile π–d conjugated coordination polymer cathode with multiple active sites for durable rechargeable aluminum batteries</title>
+<link>https://doi.org/10.1039/d6ta06073k</link>
+<guid isPermaLink="false">10.1039/d6ta06073k</guid>
+<pubDate>Thu, 08 Oct 2026 20:01:49 GMT</pubDate>
+<description>این مقاله یک کاتد پلیمر کوئوردیناسیون مزدوج π-d را برای باتری‌های آلومینیومی قابل شارژ معرفی می‌کند که چرخه‌پذیری طولانی و ظرفیت بالا دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a 3D π–d conjugated Fe₂(DHBQ)₃ cathode enabling electron delocalization, suppressed dissolution, and synergistic AlCl₂⁺ binding, Fe redox, and EMIm⁺ π-interactions. Its significance is exceptional durability—110.7 mAh g⁻¹ over 40,000 cycles at 2 A g⁻¹—and electrolyte versatility, supporting low-cost molten-salt electrolytes for practical rechargeable aluminum batteries.&lt;br&gt;🏷 aluminum battery · conjugated coordination polymer · cathode · multiple active sites · molten-salt electrolyte</description>
+<category>aluminum battery</category>
+<category>conjugated coordination polymer</category>
+<category>cathode</category>
+<category>multiple active sites</category>
+<category>molten-salt electrolyte</category>
+</item>
+<item>
+<title>Interfacial Electric Field Engineering via Electrostatic Self-Assembled Heterostructure-Modified Separator for Stable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ta06512k</link>
+<guid isPermaLink="false">10.1039/d6ta06512k</guid>
+<pubDate>Thu, 08 Oct 2026 20:01:38 GMT</pubDate>
+<description>این مقاله با مهندسی میدان الکتریکی بین‌سطحی از طریق جداکننده اصلاح‌شده با هترواستراتور خودآرا، پایداری باتری‌های لیتیوم فلزی را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using electrostatic self-assembly to build a heterostructure-modified separator that engineers the interfacial electric field. This regulates lithium-ion flux and suppresses dendrite growth, enabling stable lithium metal batteries. Its significance is providing a scalable, low-cost strategy to improve safety and cycling life, advancing high-energy-density LMBs toward practical deployment.&lt;br&gt;🏷 lithium metal battery · separator modification · heterostructure · interfacial electric field · self-assembly</description>
+<category>lithium metal battery</category>
+<category>separator modification</category>
+<category>heterostructure</category>
+<category>interfacial electric field</category>
+<category>self-assembly</category>
+</item>
+<item>
+<title>Tunable Nickel Sulfoselenides for Rechargeable Zn-Air Flow Batteries</title>
+<link>https://doi.org/10.1039/d6ta06200h</link>
+<guid isPermaLink="false">10.1039/d6ta06200h</guid>
+<pubDate>Thu, 08 Oct 2026 20:01:31 GMT</pubDate>
+<description>این مقاله نیکل سولفوسلنیدهای قابل تنظیم را برای باتری‌های جریان Zn-air معرفی می‌کند که می‌توانند ذخیره‌سازی انرژی در مقیاس شبکه را بهبود بخشند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Nickel sulfoselenides are tuned as bifunctional catalysts for rechargeable Zn-air flow batteries. By varying the S/Se ratio, the electronic structure and catalytic activity are optimized, enhancing oxygen reduction and evolution. This composition engineering yields improved round-trip efficiency and durability, offering a promising, earth-abundant electrode strategy for scalable grid-level energy storage.&lt;br&gt;🏷 Zn-air battery · nickel sulfoselenide · flow battery · oxygen electrocatalysis · grid storage</description>
+<category>Zn-air battery</category>
+<category>nickel sulfoselenide</category>
+<category>flow battery</category>
+<category>oxygen electrocatalysis</category>
+<category>grid storage</category>
+</item>
 <item>
 <title>Two Faces of the Same Oxide: How Crystal Phase Defines the Nature of Proton Storage in MoO3</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03300</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Cu1.81S/CoS2 heterostructure</category>
 <category>anode</category>
 <category>Na+ migration</category>
-</item>
-<item>
-<title>Waste cigarette butt-derived porous carbon frameworks for high-Si-content Si/C anodes: composition-dependent kinetics and structural evolution</title>
-<link>https://doi.org/10.1039/d6ta05769a</link>
-<guid isPermaLink="false">10.1039/d6ta05769a</guid>
-<pubDate>Tue, 06 Oct 2026 07:02:11 GMT</pubDate>
-<description>کربن متخلخل مشتق از ته‌سیگار به‌عنوان بستر پایدار برای آندهای Si/C با محتوای بالای سیلیسیم و سینتیک وابسته به ترکیب عمل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work pioneers upcycling waste cigarette butts into porous carbon scaffolds for high-Si-content Si/C anodes. The optimized Si/WCBC 3:1 composite uniquely balances capacity, ion/electron transport, and strain accommodation, revealing composition-dependent kinetics and structural evolution. It offers a sustainable, high-performance anode design, advancing both waste valorization and next-generation lithium-ion battery technology.&lt;br&gt;🏷 Si/C anode · cigarette butt carbon · porous carbon · lithium-ion battery · structural evolution</description>
-<category>Si/C anode</category>
-<category>cigarette butt carbon</category>
-<category>porous carbon</category>
-<category>lithium-ion battery</category>
-<category>structural evolution</category>
-</item>
-<item>
-<title>One-pot coupled sulfur doping and glycine intercalation enabling dual-interfacial modulation of layered NH 4 V 4 O 10 for durable aqueous zinc-ion battery cathodes</title>
-<link>https://doi.org/10.1039/d6ta05162f</link>
-<guid isPermaLink="false">10.1039/d6ta05162f</guid>
-<pubDate>Tue, 06 Oct 2026 07:02:05 GMT</pubDate>
-<description>دوپینگ گوگرد و میان‌لایه‌ای گلیسین به‌طور هم‌زمان رابط‌های NH4V4O10 را برای کاتد پایدار باتری یون روی آبی تنظیم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work introduces a one-pot hydrothermal method achieving simultaneous sulfur doping and glycine intercalation in NH4V4O10, enabling dual-interfacial modulation. Sulfur tunes the intralattice electronic structure while glycine reinforces the interlayer skeleton, synergistically enhancing structural stability and zinc-ion diffusion kinetics. This dual-regulation strategy offers a simple, scalable route to durable aqueous zinc-ion battery cathodes.&lt;br&gt;🏷 zinc-ion battery · NH4V4O10 · sulfur doping · glycine intercalation · cathode</description>
-<category>zinc-ion battery</category>
-<category>NH4V4O10</category>
-<category>sulfur doping</category>
-<category>glycine intercalation</category>
-<category>cathode</category>
-</item>
-<item>
-<title>Invoking classical metallurgical phenomenon of ‘precipitation strengthening’ to develop highly stable nanoscaled/hard carbon buffer-free Sn-based anodes for Na-ion batteries</title>
-<link>https://doi.org/10.1039/d6ta05860d</link>
-<guid isPermaLink="false">10.1039/d6ta05860d</guid>
-<pubDate>Tue, 06 Oct 2026 07:01:48 GMT</pubDate>
-<description>با الهام از استحکام‌بخشی رسوبی، آندهای قلعی نانومقیاس بدون بافر برای باتری‌های یون سدیم با پایداری بالا توسعه یافته‌اند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work uniquely applies classical precipitation strengthening to design buffer-free Sn-based anodes, eliminating the need for carbon matrices. By forming stable nanoscale precipitates, it suppresses pulverization and enhances cycling stability. This metallurgical approach offers a novel, scalable strategy for high-volumetric-energy, thermally stable Na-ion battery anodes.&lt;br&gt;🏷 sodium-ion battery · tin anode · precipitation strengthening · hard carbon · buffer-free anode</description>
-<category>sodium-ion battery</category>
-<category>tin anode</category>
-<category>precipitation strengthening</category>
-<category>hard carbon</category>
-<category>buffer-free anode</category>
 </item>
 </channel>
 </rss>
