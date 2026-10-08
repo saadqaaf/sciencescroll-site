@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 05:01:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 06:02:46 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Probing position-dependent electrolyte concentration in lithium-ion batteries using lithium metal reference electrodes</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.053</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.053</guid>
+<pubDate>Thu, 08 Oct 2026 06:02:44 GMT</pubDate>
+<description>این مقاله با استفاده از الکترود مرجع لیتیوم فلزی، غلظت الکترولیت را در موقعیت‌های مختلف باتری لیتیوم-یون بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · reference electrode · electrolyte concentration · lithium metal · position-dependent</description>
+<category>lithium-ion battery</category>
+<category>reference electrode</category>
+<category>electrolyte concentration</category>
+<category>lithium metal</category>
+<category>position-dependent</category>
+</item>
+<item>
+<title>Beyond Phase Selectivity in Conversion Copper Selenides Cathode through Activated Anionic Redox</title>
+<link>https://doi.org/10.1021/jacs.6c14588</link>
+<guid isPermaLink="false">10.1021/jacs.6c14588</guid>
+<pubDate>Thu, 08 Oct 2026 06:02:26 GMT</pubDate>
+<description>فعال‌سازی ردوکس آنیونی در کاتد سلنید مس، ظرفیت CuSe را از ۴ به ۴۱۳ mAh g–1 افزایش داد و باتری روی با عمر ۴۰۰۰ چرخه را ممکن ساخت.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work shows that activating selenium anionic redox overcomes phase-selectivity limits in copper selenide cathodes, converting zincophobic CuSe into a high-capacity electrode (4 to 413 mAh g⁻¹, doubled voltage, 4000-cycle life). It enables the whole CuySe family as stable zinc-battery cathodes and generalizes to other nucleophilic additives, revitalizing a dormant material class.&lt;br&gt;🏷 copper selenide cathode · anionic redox · zinc battery · phase selectivity · selenium redox</description>
+<category>copper selenide cathode</category>
+<category>anionic redox</category>
+<category>zinc battery</category>
+<category>phase selectivity</category>
+<category>selenium redox</category>
+</item>
+<item>
+<title>Elucidating Polymer–Cathode Interfacial Interactions in Pyrolytic Pretreatment of Spent Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c15783</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15783</guid>
+<pubDate>Thu, 08 Oct 2026 06:01:39 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که برهم‌کنش‌های بین‌سطحی پلیمر و کاتد در پیش‌تیمار پیرولیز باتری‌های لیتیوم-یون مستعمل، با تشکیل پوشش‌های کربنی، مهاجرت لیتیم را در بازیابی بعدی مختل می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This study overturns the assumption that pyrolysis pretreatment is inert to spent battery cathodes. It reveals that carbonaceous residues from PVDF/separator interact with NCM surfaces, forming oxygen-rich coatings along grain boundaries that block lithium diffusion and cut recovery below 80%. Raising oxygen partial pressure removes these barriers, restoring 96.88% efficiency—highlighting pyrolysis&amp;#x27;s critical, previously overlooked role in recycling.&lt;br&gt;🏷 spent lithium-ion batteries · pyrolysis · cathode interface · PVDF · lithium recovery</description>
+<category>spent lithium-ion batteries</category>
+<category>pyrolysis</category>
+<category>cathode interface</category>
+<category>PVDF</category>
+<category>lithium recovery</category>
+</item>
 <item>
 <title>Truly three-dimensional lithium-sulfur battery cathodes: A review of materials chemistry, fabrication strategies, and device integration</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101859</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>solid electrolyte</category>
 <category>perylene-based carbon</category>
 <category>interfacial engineering</category>
-</item>
-<item>
-<title>A switching high-gain observer approach for estimating the state of charge of metal hydride storage tanks</title>
-<link>https://doi.org/10.1016/j.est.2026.124863</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124863</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:51 GMT</pubDate>
-<description>این مقاله یک رویکرد مشاهده‌گر سوئیچینگ با بهره بالا برای تخمین وضعیت شارژ مخازن ذخیره‌سازی هیدرید فلزی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metal hydride tank · state of charge · high-gain observer · switching observer · hydrogen storage</description>
-<category>metal hydride tank</category>
-<category>state of charge</category>
-<category>high-gain observer</category>
-<category>switching observer</category>
-<category>hydrogen storage</category>
-</item>
-<item>
-<title>Machine learning-assisted engineering of dual-metal chalcogenide-MXene based composite for enhanced supercapacitor application</title>
-<link>https://doi.org/10.1016/j.est.2026.124995</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124995</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:36 GMT</pubDate>
-<description>این مقاله با کمک یادگیری ماشین، کامپوزیت دیکالکوژنید دو فلزی-MXene را برای کاربرد ابرخازنی بهبودیافته مهندسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 dual-metal chalcogenide · MXene · supercapacitor · machine learning · composite</description>
-<category>dual-metal chalcogenide</category>
-<category>MXene</category>
-<category>supercapacitor</category>
-<category>machine learning</category>
-<category>composite</category>
-</item>
-<item>
-<title>Oriented composite phase change material with high thermal conductivity at low filler loading for battery thermal management</title>
-<link>https://doi.org/10.1016/j.est.2026.124944</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124944</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:28 GMT</pubDate>
-<description>این مقاله یک ماده تغییر فاز کامپوزیتی جهت‌دار با رسانایی حرارتی بالا در بارگذاری کم پرکننده را برای مدیریت حرارتی باتری معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · thermal conductivity · battery thermal management · oriented composite · low filler loading</description>
-<category>phase change material</category>
-<category>thermal conductivity</category>
-<category>battery thermal management</category>
-<category>oriented composite</category>
-<category>low filler loading</category>
 </item>
 </channel>
 </rss>
