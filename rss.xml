@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 07:01:38 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 08:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tube-in-tube hollow RuCrMn oxide nanofibers for noble-metal-efficient oxygen evolution via Cr/Mn-regulated Ru active sites</title>
+<link>https://doi.org/10.1186/s40580-026-00582-w</link>
+<guid isPermaLink="false">10.1186/s40580-026-00582-w</guid>
+<pubDate>Thu, 08 Oct 2026 08:01:14 GMT</pubDate>
+<description>نانو الیاف توخالی تو‌در‌تو RuCrMn oxide با تنظیم سایت‌های فعال Ru توسط Cr/Mn، برای واکنش آزادسازی اکسیژن با مصرف کم فلز نجیب طراحی شدند.&lt;br&gt;Nano Convergence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 oxygen evolution reaction · RuCrMn oxide · hollow nanofibers · electrocatalysis · active sites</description>
+<category>oxygen evolution reaction</category>
+<category>RuCrMn oxide</category>
+<category>hollow nanofibers</category>
+<category>electrocatalysis</category>
+<category>active sites</category>
+</item>
+<item>
+<title>In Situ Dielectric Heterophase Engineering of Ternary Chelate Nanowire‐Derived CoFe/MnO@C Nanorods for High‐Efficiency Electromagnetic Wave Absorption</title>
+<link>https://doi.org/10.1002/sstr.70635</link>
+<guid isPermaLink="false">10.1002/sstr.70635</guid>
+<pubDate>Thu, 08 Oct 2026 08:01:10 GMT</pubDate>
+<description>نانومیله‌های CoFe/MnO@C از کلات سه‌گانه ساخته شدند و با مهندسی ناهمگون دی‌الکتریک، جذب موج الکترومغناطیسی با RL برابر −52.42 dB و پهنای باند 7.36 GHz به دست آمد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electromagnetic wave absorption · CoFe/MnO@C · heterophase engineering · metal-organic framework · radar cross-section</description>
+<category>electromagnetic wave absorption</category>
+<category>CoFe/MnO@C</category>
+<category>heterophase engineering</category>
+<category>metal-organic framework</category>
+<category>radar cross-section</category>
+</item>
 <item>
 <title>Deciphering the qualitative and quantitative evolution of nitrogen functionalities in porous carbon materials: A TPO-FTIR study on polyimide-derived carbonaceous fibers</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122195</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 hyperbranched poly(ionic 
 <category>electrospinning</category>
 <category>breathability</category>
 <category>deep learning</category>
-</item>
-<item>
-<title>Accelerated Crystallization via Phase‐Formation Promoters for Rapid‐Annealed High‐Efficiency Perovskite Solar Cells</title>
-<link>https://doi.org/10.1002/smll.76017</link>
-<guid isPermaLink="false">10.1002/smll.76017</guid>
-<pubDate>Wed, 07 Oct 2026 21:04:48 GMT</pubDate>
-<description>افزودنی NH4PbBr3 تبلور فازهای شبه‌سه‌بعدی را در پروسکایت‌های شبه‌دوبعدی تقویت کرده و بازده سلول خورشیدی را به بیش از ۲۲٪ با پایداری بالا می‌رساند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · 2D perovskites · crystallization · phase additive · rapid annealing</description>
-<category>perovskite solar cells</category>
-<category>2D perovskites</category>
-<category>crystallization</category>
-<category>phase additive</category>
-<category>rapid annealing</category>
-</item>
-<item>
-<title>Multi‐Scenario Adaptive High‐Fidelity Self‐Healing Elastomer Based on Poly(Ionic Liquid) Containing Polyurethane for Temperature‐Pressure Sensing and Human‐Machine Interaction</title>
-<link>https://doi.org/10.1002/smll.76141</link>
-<guid isPermaLink="false">10.1002/smll.76141</guid>
-<pubDate>Wed, 07 Oct 2026 21:04:45 GMT</pubDate>
-<description>یک الاستومر خودترمیم‌شونده بر پایه پلی(مایع یونی) و پلی‌اورتان با خواص مکانیکی و رسانایی بالا برای حسگری دما-فشار و تعامل انسان-ماشین ساخته شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 ionogel · poly(ionic liquid) · self-healing · wearable sensor · human-machine interaction</description>
-<category>ionogel</category>
-<category>poly(ionic liquid)</category>
-<category>self-healing</category>
-<category>wearable sensor</category>
-<category>human-machine interaction</category>
 </item>
 </channel>
 </rss>
