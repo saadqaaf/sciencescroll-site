@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 08:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 09:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ion-Electron Diffusion Interphase Enables Fast Kinetics toward Dendrite-Free Zinc Metal Anodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03750</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03750</guid>
+<pubDate>Thu, 08 Oct 2026 09:01:00 GMT</pubDate>
+<description>ساخت لایه میانی Ag/Bi بر روی آند Zn با فرآیند غوطه‌وری، مسیر Zn2+ را تنظیم کرده و رشد دندریتی و HER را سرکوب می‌کند و چرخه‌پذیری طولانی را بهبود می‌بخشد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a room-temperature co-deposited Ag/Bi interphase (DRIVE@Zn) that simultaneously regulates Zn2+ transport, desolvation, and electron flux. This dual-functional design suppresses dendrites and hydrogen evolution, enabling 99.65% Coulombic efficiency, 3100 h cycling, and 25,000-cycle full cells, offering a scalable route to durable aqueous zinc metal anodes.&lt;br&gt;🏷 zinc metal anode · aqueous zinc battery · interphase · dendrite-free · fast kinetics</description>
+<category>zinc metal anode</category>
+<category>aqueous zinc battery</category>
+<category>interphase</category>
+<category>dendrite-free</category>
+<category>fast kinetics</category>
+</item>
 <item>
 <title>Tube-in-tube hollow RuCrMn oxide nanofibers for noble-metal-efficient oxygen evolution via Cr/Mn-regulated Ru active sites</title>
 <link>https://doi.org/10.1186/s40580-026-00582-w</link>
@@ -1203,18 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 hyperbranched poly(ionic 
 <category>photoacoustic imaging</category>
 <category>TNBC</category>
 <category>abscopal effect</category>
-</item>
-<item>
-<title>Asymmetric Heterostructured Breathable Janus Nanofibrous Membranes for Deep Learning‐Assisted Wearable Sensing</title>
-<link>https://doi.org/10.1002/smll.76150</link>
-<guid isPermaLink="false">10.1002/smll.76150</guid>
-<pubDate>Wed, 07 Oct 2026 21:04:51 GMT</pubDate>
-<description>غشای نانولیفی Janus نامتقارن و تنفس‌پذیر با شبکه رسانای MWCNT/AgNW برای حسگری پوشیدنی و تشخیص کد مورس با دقت ۹۸٪ توسط یادگیری عمیق ساخته شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 Janus membrane · wearable sensing · electrospinning · breathability · deep learning</description>
-<category>Janus membrane</category>
-<category>wearable sensing</category>
-<category>electrospinning</category>
-<category>breathability</category>
-<category>deep learning</category>
 </item>
 </channel>
 </rss>
