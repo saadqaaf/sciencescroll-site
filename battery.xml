@@ -5,8 +5,33 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 15:03:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 16:03:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interface-Driven High Ionic Conductivities in Hydridoborate/Oxide Nanocomposite Electrolytes: A Pathway to High-Capacity All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/accountsmr.6c00180</link>
+<guid isPermaLink="false">10.1021/accountsmr.6c00180</guid>
+<pubDate>Thu, 08 Oct 2026 16:03:51 GMT</pubDate>
+<description>این مقاله مروری نشان می‌دهد که مهندسی رابط در نانوکامپوزیت‌های هیدریدوبورات/اکسید، رسانایی یونی را تا چند مرتبه بزرگی افزایش داده و مسیری برای باتری‌های تمام‌جامد پرظرفیت فراهم می‌کند.&lt;br&gt;Accounts of Materials Research | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 Hydridoborate/oxide nanocomposites achieve 3–4 orders of magnitude higher ionic conductivity via interface engineering, enabling room-temperature all-solid-state batteries. Spectroscopic studies reveal B–O bond formation and weakened M–BH4 bonds as key mechanisms. This approach yields electrochemically stable, high-capacity solid electrolytes, particularly [B12H12]2– compounds compatible with high-voltage cathodes, advancing safe, high-energy-density battery technology.&lt;br&gt;🏷 hydridoborate electrolyte · all-solid-state battery · nanocomposite · interface engineering · ionic conductivity</description>
+<category>hydridoborate electrolyte</category>
+<category>all-solid-state battery</category>
+<category>nanocomposite</category>
+<category>interface engineering</category>
+<category>ionic conductivity</category>
+</item>
+<item>
+<title>Redox-Programmed Bipolar Membranes from Electronically Wired Ion-Insertion Hosts for Selective Ion Transport</title>
+<link>https://doi.org/10.1021/jacs.6c11960</link>
+<guid isPermaLink="false">10.1021/jacs.6c11960</guid>
+<pubDate>Thu, 08 Oct 2026 16:03:23 GMT</pubDate>
+<description>این کار با اتصال الکترونیکی میزبان‌های درج یون، غشاهای دوقطبی برنامه‌ریزی‌شده با ردوکس می‌سازد که Li+ را از آب‌نمک غنی از Na+ با ضریب جداسازی Li+/Na+ حدود ۲۰۰۰ انتقال می‌دهند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers redox-programmed bipolar membranes using electronically wired ion-insertion hosts, enabling selective transmembrane Li+ transport via coupled insertion/deinsertion reactions. It achieves a Li+/Na+ separation factor of ~2000 and demonstrates modular selectivity by swapping insertion chemistry. This bridges inorganic insertion materials with membrane separations, offering a new paradigm for selective ion transport beyond conventional polymer design.&lt;br&gt;🏷 bipolar membrane · Li+ separation · LiMn2O4 · redox ion insertion · selective ion transport</description>
+<category>bipolar membrane</category>
+<category>Li+ separation</category>
+<category>LiMn2O4</category>
+<category>redox ion insertion</category>
+<category>selective ion transport</category>
+</item>
 <item>
 <title>Integration Framework for Multifunctional Hydrogel Electrolyte Modification Strategies in Aqueous Zinc‐Ion Batteries from Molecular Design to Device Application</title>
 <link>https://doi.org/10.1002/adfm.78885</link>
@@ -1185,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>NiM interface</category>
 <category>Zn2+ flux</category>
 <category>flexible electrode</category>
-</item>
-<item>
-<title>An empirical analysis of degradation aware machine learning models for early life prediction of lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124920</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124920</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:41 GMT</pubDate>
-<description>این مقاله مدل‌های یادگیری ماشین آگاه از تخریب را برای پیش‌بینی عمر اولیه باتری‌های لیتیوم-یون به‌صورت تجربی تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · degradation aware · machine learning · early life prediction · empirical analysis</description>
-<category>lithium-ion battery</category>
-<category>degradation aware</category>
-<category>machine learning</category>
-<category>early life prediction</category>
-<category>empirical analysis</category>
-</item>
-<item>
-<title>Stability assessment of abandoned salt caverns for compressed air energy storage – a study based on true triaxial mechanical test</title>
-<link>https://doi.org/10.1016/j.est.2026.124937</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124937</guid>
-<pubDate>Tue, 06 Oct 2026 05:01:38 GMT</pubDate>
-<description>این مقاله پایداری غارهای نمکی متروکه را برای ذخیره‌سازی انرژی هوای فشرده بر اساس آزمون مکانیکی سه‌محوری حقیقی ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · salt cavern · stability assessment · true triaxial test · abandoned cavern</description>
-<category>compressed air energy storage</category>
-<category>salt cavern</category>
-<category>stability assessment</category>
-<category>true triaxial test</category>
-<category>abandoned cavern</category>
 </item>
 </channel>
 </rss>
