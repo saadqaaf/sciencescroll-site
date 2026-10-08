@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 22:01:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Standardizable Laboratory‑Scale Device for the Harmonization of Photoelectrochemical Experimental Procedures in Solar Redox Flow Cells</title>
+<link>https://doi.org/10.1002/cey2.70269</link>
+<guid isPermaLink="false">10.1002/cey2.70269</guid>
+<pubDate>Thu, 08 Oct 2026 23:01:14 GMT</pubDate>
+<description>یک دستگاه آزمایشگاهی استانداردپذیر برای هماهنگ‌سازی آزمون‌های سلول جریان ردوکس خورشیدی معرفی می‌کند که با فوتوالکترود هماتیت، چگالی جریان ۰٫۴۵ mA/cm² را در ۱۰۰۰ ساعت حفظ کرد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in proposing the UniFlow Cell, a compact, standardizable laboratory device designed to harmonize photoelectrochemical testing protocols for solar redox flow cells, addressing the lack of benchmarking standards. Its significance is demonstrated by sustained photocurrent over 1000 hours, establishing a reference for reliable, comparable SRFC research.&lt;br&gt;🏷 solar redox flow cell · photoelectrochemical device · hematite photoelectrode · standardization · long-term stability</description>
+<category>solar redox flow cell</category>
+<category>photoelectrochemical device</category>
+<category>hematite photoelectrode</category>
+<category>standardization</category>
+<category>long-term stability</category>
+</item>
 <item>
 <title>An electrolyte-versatile π–d conjugated coordination polymer cathode with multiple active sites for durable rechargeable aluminum batteries</title>
 <link>https://doi.org/10.1039/d6ta06073k</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>molecular configuration</category>
 <category>zinc anode</category>
 <category>sulfur redox</category>
-</item>
-<item>
-<title>Cu 1.81 S/CoS 2 heterostructure confined by MXenes for high capacity sodium-ion battery anodes</title>
-<link>https://doi.org/10.1039/d6ta03378d</link>
-<guid isPermaLink="false">10.1039/d6ta03378d</guid>
-<pubDate>Tue, 06 Oct 2026 07:02:19 GMT</pubDate>
-<description>هتروساختار Cu1.81S/CoS2 محدودشده در MXene با تسریع مهاجرت Na+ و کاهش انبساط حجمی، عملکرد الکتروشیمیایی برجسته‌ای در آند باتری یون سدیم ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 MXene-confined Cu1.81S/CoS2 heterojunctions are novel, combining optimized interface states for fast Na+ migration with structural buffering against volume expansion. This design yields high-capacity, stable sodium-ion battery anodes, offering a significant advance in durable, high-performance energy storage.&lt;br&gt;🏷 sodium-ion battery · MXene · Cu1.81S/CoS2 heterostructure · anode · Na+ migration</description>
-<category>sodium-ion battery</category>
-<category>MXene</category>
-<category>Cu1.81S/CoS2 heterostructure</category>
-<category>anode</category>
-<category>Na+ migration</category>
 </item>
 </channel>
 </rss>
