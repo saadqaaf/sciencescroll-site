@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 00:03:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 01:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Designing rhodamine-binding proteins from scratch</title>
+<link>https://doi.org/10.1038/s41592-026-03259-8</link>
+<guid isPermaLink="false">10.1038/s41592-026-03259-8</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:22 GMT</pubDate>
+<description>این مقاله طراحی از ابتدا پروتئین‌های متصل‌شونده به رودامین را ارائه می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 rhodamine-binding proteins · de novo design · protein engineering · fluorescent dyes · computational design</description>
+<category>rhodamine-binding proteins</category>
+<category>de novo design</category>
+<category>protein engineering</category>
+<category>fluorescent dyes</category>
+<category>computational design</category>
+</item>
+<item>
+<title>Extracting brain-wide interactions with CURBD</title>
+<link>https://doi.org/10.1038/s41592-026-03258-9</link>
+<guid isPermaLink="false">10.1038/s41592-026-03258-9</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:19 GMT</pubDate>
+<description>این مقاله روش CURBD را برای استخراج تعاملات در سراسر مغز ارائه می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 CURBD · brain-wide interactions · neural dynamics · dimensionality reduction · computational neuroscience</description>
+<category>CURBD</category>
+<category>brain-wide interactions</category>
+<category>neural dynamics</category>
+<category>dimensionality reduction</category>
+<category>computational neuroscience</category>
+</item>
+<item>
+<title>Recording time via brain organoids</title>
+<link>https://doi.org/10.1038/s41592-026-03257-w</link>
+<guid isPermaLink="false">10.1038/s41592-026-03257-w</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:14 GMT</pubDate>
+<description>این مقاله با استفاده از ارگانوئیدهای مغزی و ثبت زمان، زمان‌بندی رشد و تکامل را بررسی می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 brain organoids · time recording · developmental clock · CRISPR · lineage tracing</description>
+<category>brain organoids</category>
+<category>time recording</category>
+<category>developmental clock</category>
+<category>CRISPR</category>
+<category>lineage tracing</category>
+</item>
+<item>
+<title>Generalizable perturbation prediction</title>
+<link>https://doi.org/10.1038/s41592-026-03260-1</link>
+<guid isPermaLink="false">10.1038/s41592-026-03260-1</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:11 GMT</pubDate>
+<description>این مقاله روشی قابل تعمیم برای پیش‌بینی اثر اغتشاشات بر بیان ژن ارائه می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 perturbation prediction · generalizability · machine learning · single-cell · gene expression</description>
+<category>perturbation prediction</category>
+<category>generalizability</category>
+<category>machine learning</category>
+<category>single-cell</category>
+<category>gene expression</category>
+</item>
+<item>
+<title>Porphyrinoids for up- and down-conversion</title>
+<link>https://doi.org/10.1039/d6cs00775a</link>
+<guid isPermaLink="false">10.1039/d6cs00775a</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:07 GMT</pubDate>
+<description>این مرور کاربرد پورفیرینوئیدها را در تبدیل پایین‌رونده و بالا‌رونده مولکولی از طریق شکافت تک‌تایی و هم‌افزایی سه‌گانه-سه‌گانه خلاصه می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 porphyrinoids · upconversion · downconversion · singlet fission · triplet-triplet annihilation</description>
+<category>porphyrinoids</category>
+<category>upconversion</category>
+<category>downconversion</category>
+<category>singlet fission</category>
+<category>triplet-triplet annihilation</category>
+</item>
+<item>
+<title>Truly three-dimensional lithium-sulfur battery cathodes: A review of materials chemistry, fabrication strategies, and device integration</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101859</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101859</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:04 GMT</pubDate>
+<description>این مرور به بررسی شیمی مواد، روش‌های ساخت و یکپارچه‌سازی دستگاه در کاتدهای سه‌بعدی باتری لیتیوم-گوگرد می‌پردازد.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 lithium-sulfur battery · 3D cathode · materials chemistry · fabrication strategies · device integration</description>
+<category>lithium-sulfur battery</category>
+<category>3D cathode</category>
+<category>materials chemistry</category>
+<category>fabrication strategies</category>
+<category>device integration</category>
+</item>
 <item>
 <title>Nuclear clocks tick for the first time</title>
 <link>https://doi.org/10.1038/d41586-026-03060-9</link>
@@ -1134,78 +1206,6 @@
 <category>plasmonic resonance</category>
 <category>PRET</category>
 <category>gold nanoparticles</category>
-</item>
-<item>
-<title>Predicting regional gray swans via translocation: AI weather models and Dubai’s unprecedented 2024 rainfall</title>
-<link>https://doi.org/10.1126/sciadv.ady9406</link>
-<guid isPermaLink="false">10.1126/sciadv.ady9406</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:45 GMT</pubDate>
-<description>مدل‌های هواشناسی مبتنی بر هوش مصنوعی مانند GraphCast و AIFS طوفان بی‌سابقه دبی ۲۰۲۴ را تا ۸ روز قبل پیش‌بینی کردند و مکانیزم translocation در موفقیت آن‌ها نقش دارد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 AI weather models · gray swans · translocation · Dubai rainfall · GraphCast</description>
-<category>AI weather models</category>
-<category>gray swans</category>
-<category>translocation</category>
-<category>Dubai rainfall</category>
-<category>GraphCast</category>
-</item>
-<item>
-<title>Rise and spread of lead-silver metallurgy deciphered from peatland archives</title>
-<link>https://doi.org/10.1126/sciadv.aec1413</link>
-<guid isPermaLink="false">10.1126/sciadv.aec1413</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:42 GMT</pubDate>
-<description>شاخص EMII بر پایه ایزوتوپ‌های سرب در تورب‌زارها، الگوهای متالورژی سرب-نقره در شش هزاره و سازمان‌یابی چندمرکزی معدن‌کاری اروپا را بازسازی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 lead-silver metallurgy · peat archives · Pb isotopes · EMII index · ancient mining</description>
-<category>lead-silver metallurgy</category>
-<category>peat archives</category>
-<category>Pb isotopes</category>
-<category>EMII index</category>
-<category>ancient mining</category>
-</item>
-<item>
-<title>Escalating soil CO 2 degassing correlates with ground uplift and seismicity during the ongoing unrest of Campi Flegrei (2005–2025)</title>
-<link>https://doi.org/10.1126/sciadv.aei8075</link>
-<guid isPermaLink="false">10.1126/sciadv.aei8075</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:39 GMT</pubDate>
-<description>داده‌های دو دهه‌ای ژئوشیمیایی نشان می‌دهد افزایش شار CO2 خاک در Campi Flegrei با بالاآمدگی کالدرا و فشار سیالات ماگمایی در عمق ۳ تا ۴ کیلومتری مرتبط است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Campi Flegrei · soil CO2 flux · caldera uplift · magmatic degassing · eruption risk</description>
-<category>Campi Flegrei</category>
-<category>soil CO2 flux</category>
-<category>caldera uplift</category>
-<category>magmatic degassing</category>
-<category>eruption risk</category>
-</item>
-<item>
-<title>Exposure route, not dose, is the primary driver of infection patterns for a respiratory virus</title>
-<link>https://doi.org/10.1126/sciadv.aei4853</link>
-<guid isPermaLink="false">10.1126/sciadv.aei4853</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:35 GMT</pubDate>
-<description>تحلیل ۱۰۷ مطالعه چالش پستانداران غیرانسان نشان داد مسیر مواجهه بیش از دوز، سن، جنس یا گونه، سینتیک عفونت SARS-CoV-2 را تعیین می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 exposure route · SARS-CoV-2 · infection kinetics · nonhuman primates · aerosol inoculation</description>
-<category>exposure route</category>
-<category>SARS-CoV-2</category>
-<category>infection kinetics</category>
-<category>nonhuman primates</category>
-<category>aerosol inoculation</category>
-</item>
-<item>
-<title>Rod photoreceptors have a dual dependency on both aerobic glycolysis and OXPHOS and diverge metabolically from other retinal neurons</title>
-<link>https://doi.org/10.1126/sciadv.aeg8687</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg8687</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:32 GMT</pubDate>
-<description>تصویربرداری طول عمر فلورسانس دوفوتونی نشان داد سلول‌های استوانه‌ای شبکیه به گلیکولیز هوازی و OXPHOS وابسته‌اند و پروفایل متابولیکی آن‌ها با سایر نورون‌های شبکیه متفاوت است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 rod photoreceptors · aerobic glycolysis · OXPHOS · retinal neurons · retinitis pigmentosa</description>
-<category>rod photoreceptors</category>
-<category>aerobic glycolysis</category>
-<category>OXPHOS</category>
-<category>retinal neurons</category>
-<category>retinitis pigmentosa</category>
-</item>
-<item>
-<title>Packing-accelerated consecutive NIR excitation (PACE) enables high energy photocatalysis and antitumor immunity in vivo</title>
-<link>https://doi.org/10.1126/sciadv.aeg3842</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg3842</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:29 GMT</pubDate>
-<description>مکانیزم PACE با جذب متوالی فوتون‌های NIR توسط نانوذرات Ru-3، واکنش‌های انتقال الکترون پرانرژی و ایمنی ضدتوموری درون‌تنی را فعال می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 NIR photocatalysis · consecutive excitation · ruthenium complex · cGAS-STING pyroptosis · antitumor immunity</description>
-<category>NIR photocatalysis</category>
-<category>consecutive excitation</category>
-<category>ruthenium complex</category>
-<category>cGAS-STING pyroptosis</category>
-<category>antitumor immunity</category>
 </item>
 </channel>
 </rss>

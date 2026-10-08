@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 00:03:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 01:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Truly three-dimensional lithium-sulfur battery cathodes: A review of materials chemistry, fabrication strategies, and device integration</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101859</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101859</guid>
+<pubDate>Thu, 08 Oct 2026 01:01:04 GMT</pubDate>
+<description>این مرور به بررسی شیمی مواد، روش‌های ساخت و یکپارچه‌سازی دستگاه در کاتدهای سه‌بعدی باتری لیتیوم-گوگرد می‌پردازد.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 lithium-sulfur battery · 3D cathode · materials chemistry · fabrication strategies · device integration</description>
+<category>lithium-sulfur battery</category>
+<category>3D cathode</category>
+<category>materials chemistry</category>
+<category>fabrication strategies</category>
+<category>device integration</category>
+</item>
 <item>
 <title>Imidazole‐Amine Synergistic Coordination Reconstructs H‐Bonds and Interface Engineering for Mg Metal Batteries at 60°C</title>
 <link>https://doi.org/10.1002/smll.76114</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>battery thermal management</category>
 <category>oriented composite</category>
 <category>low filler loading</category>
-</item>
-<item>
-<title>A multiphysics framework for modeling expansion force during thermal runaway propagation in lithium-ion battery packs</title>
-<link>https://doi.org/10.1016/j.est.2026.124922</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124922</guid>
-<pubDate>Mon, 05 Oct 2026 19:03:24 GMT</pubDate>
-<description>این مقاله یک چارچوب چندفیزیکی برای مدل‌سازی نیروی انبساط در حین انتشار فرار حرارتی در بسته‌های باتری لیتیوم-یون ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · expansion force · lithium-ion battery pack · multiphysics modeling · propagation</description>
-<category>thermal runaway</category>
-<category>expansion force</category>
-<category>lithium-ion battery pack</category>
-<category>multiphysics modeling</category>
-<category>propagation</category>
 </item>
 </channel>
 </rss>
