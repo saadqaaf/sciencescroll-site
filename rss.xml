@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 03:01:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 04:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Constructing Lewis acid-base pairs on S-scheme Al-BiOBr/Bi2O3 heterojunctions for highly efficient photocatalytic nitrogen fixation</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127618</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127618</guid>
+<pubDate>Thu, 08 Oct 2026 04:01:00 GMT</pubDate>
+<description>ساخت جفت‌های اسید-باز لوویس روی ناهم‌پیوند S-scheme Al-BiOBr/Bi2O3 برای تثبیت نوری نیتروژن با کارایی بالا انجام شد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 photocatalytic nitrogen fixation · S-scheme heterojunction · Al-BiOBr/Bi2O3 · Lewis acid-base pairs · ammonia synthesis</description>
+<category>photocatalytic nitrogen fixation</category>
+<category>S-scheme heterojunction</category>
+<category>Al-BiOBr/Bi2O3</category>
+<category>Lewis acid-base pairs</category>
+<category>ammonia synthesis</category>
+</item>
 <item>
 <title>Recent advances of high-entropy alloys in CO2 catalytic conversion</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218625</link>
@@ -1194,18 +1206,6 @@
 <category>Jialing fish</category>
 <category>cis-regulatory evolution</category>
 <category>vdrb enhancer</category>
-</item>
-<item>
-<title>Rapid protamine evolution suppresses meiotic drive in Drosophila</title>
-<link>https://doi.org/10.1126/sciadv.aeb5514</link>
-<guid isPermaLink="false">10.1126/sciadv.aeb5514</guid>
-<pubDate>Wed, 07 Oct 2026 21:02:55 GMT</pubDate>
-<description>تکامل سریع پروتامین Mst77F در Drosophila برای سرکوب سیستم meiotic drive کروموزوم X و حفظ نسبت جنسیتی ضروری است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 protamine evolution · meiotic drive · Drosophila · spermatogenesis · sex chromosome</description>
-<category>protamine evolution</category>
-<category>meiotic drive</category>
-<category>Drosophila</category>
-<category>spermatogenesis</category>
-<category>sex chromosome</category>
 </item>
 </channel>
 </rss>
