@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 20:02:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 21:02:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pioneering MOF-303 in Lithium–Sulfur Batteries: Coordination Defect Engineering Enables Accelerated Sulfur Redox and Dendrite-Free Plating</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02763</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02763</guid>
+<pubDate>Fri, 09 Oct 2026 21:01:31 GMT</pubDate>
+<description>این مقاله با مهندسی نقص در MOF-303 روی جداکننده، شاتل پلی‌سولفید و رشد دندریت لیتیوم را در باتری Li-S همزمان مهار می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 First application of MOF-303 in Li–S batteries, using ball-milling to create coordination defects (ligand defects, oxygen vacancies) in D-MOF-303. This defect engineering yields hierarchical porosity, smaller particles, and enhanced Lewis acidity, enabling strong polysulfide chemisorption, faster redox kinetics, and dendrite-free lithium plating. The modified separator delivers high capacity retention, rate capability, and humidity resilience, advancing practical high-energy Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · MOF-303 · defect engineering · polysulfide shuttle · dendrite-free plating</description>
+<category>lithium-sulfur battery</category>
+<category>MOF-303</category>
+<category>defect engineering</category>
+<category>polysulfide shuttle</category>
+<category>dendrite-free plating</category>
+</item>
 <item>
 <title>Targeted Trifunctional Regulation via Bimetal-Oxide Hollow Spheres Boosts PVDF-HFP-Based Polymer-in-Salt Electrolyte for Stable Solid-State Lithium Metal Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105587</link>
@@ -1194,18 +1206,6 @@
 <category>closed pores</category>
 <category>anode</category>
 <category>pore-filling mechanism</category>
-</item>
-<item>
-<title>Automatic Generation of Inorganic Solid‐State Electrolytes via Unified Multi‐Modal Network</title>
-<link>https://doi.org/10.1002/smll.75978</link>
-<guid isPermaLink="false">10.1002/smll.75978</guid>
-<pubDate>Thu, 08 Oct 2026 17:02:28 GMT</pubDate>
-<description>شبکه عصبی چندوجهی USMNet با در نظر گرفتن ساختار، الکترولیت‌های جامد لیتیومی را پیش‌بینی و Li16ZnSiP2S16 را به‌صورت تجربی تأیید می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 USMNet unifies crystal-structure, compositional, and physical descriptors to predict Li-ion conductivity, overcoming sparse data and structure dependence. It outperforms composition-only and structure-based baselines, enabling data-efficient screening of 168,675 candidates and identifying 21 electrolytes. Experimental validation confirms Li₁₆ZnSiP₂S₁₆ delivers 80% capacity retention after 600 cycles, demonstrating a generalizable, closed-loop strategy for solid-state electrolyte discovery.&lt;br&gt;🏷 solid electrolyte · machine learning · ionic conductivity · materials discovery · all-solid-state battery</description>
-<category>solid electrolyte</category>
-<category>machine learning</category>
-<category>ionic conductivity</category>
-<category>materials discovery</category>
-<category>all-solid-state battery</category>
 </item>
 </channel>
 </rss>
