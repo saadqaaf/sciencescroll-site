@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 11:03:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 12:03:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fluorine-free polymer binder enables circular manufacturing and recycling of lithium-ion batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78215-3</link>
+<guid isPermaLink="false">10.1038/s41467-026-78215-3</guid>
+<pubDate>Fri, 09 Oct 2026 12:03:09 GMT</pubDate>
+<description>بایندر بدون فلوئور و قابل‌پردازش در آب، ساخت و بازیافت چرخشی باتری‌های لیتیوم-یون را با کارایی بالا ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is a fluorine-free, water-processable binder (polyacrylic acid/carboxymethyl cellulose crosslinked by citric acid) using combined hydrogen, covalent, and ionic bonding. It matches polyvinylidene fluoride performance, improves cycle stability, enables direct recycling without fluorinated residue, and cuts energy and emissions. This offers a scalable, sustainable route to circular lithium-ion battery manufacturing.&lt;br&gt;🏷 fluorine-free binder · lithium-ion battery · direct recycling · aqueous processing · polyacrylic acid</description>
+<category>fluorine-free binder</category>
+<category>lithium-ion battery</category>
+<category>direct recycling</category>
+<category>aqueous processing</category>
+<category>polyacrylic acid</category>
+</item>
+<item>
+<title>Fast-charging and durable all-solid-state lithium-sulfur batteries enabled by pre-embedded solid-solid redox mediator</title>
+<link>https://doi.org/10.1038/s41467-026-78042-6</link>
+<guid isPermaLink="false">10.1038/s41467-026-78042-6</guid>
+<pubDate>Fri, 09 Oct 2026 12:02:42 GMT</pubDate>
+<description>واسطه ردوکس جامد-جامد پیش‌جاسازی‌شده، باتری‌های تمام‌جامد لیتیوم-گوگرد را با شارژ سریع و پایداری بالا ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using an iodine-based solid-solid redox mediator pre-embedded in an amorphous sulfur/iodine nano-eutectic cathode. Iodine forms a percolating I2/I− nano-network that accelerates solid-solid sulfur redox and electron transfer. This enables fast charging (851.9 mAh g−1 at 10 C) and exceptional durability (9,000 cycles over 9 months), offering a design strategy for sluggish solid-state conversion electrodes.&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur battery · redox mediator · fast charging · solid electrolyte</description>
+<category>all-solid-state battery</category>
+<category>lithium-sulfur battery</category>
+<category>redox mediator</category>
+<category>fast charging</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Crown Ether‐Engineered Porous Liquid‐Based Electrolytes Decouple Redox Kinetics and Stability in Zinc–Sulfur Batteries</title>
+<link>https://doi.org/10.1002/anie.7425389</link>
+<guid isPermaLink="false">10.1002/anie.7425389</guid>
+<pubDate>Fri, 09 Oct 2026 12:02:08 GMT</pubDate>
+<description>الکترولیت مایع متخلخل مهندسی‌شده با اتر تاجی، سینتیک ردوکس و پایداری را در باتری آبی Zn-S با کاهش شاتل پلی‌یدید و افزایش ظرفیت جدا می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces a crown ether-engineered porous liquid electrolyte that decouples catalytic activity from parasitic side reactions in aqueous zinc–sulfur batteries. By modulating Zn²⁺ solvation and sterically blocking polyiodide shuttling, it enables reversible S↔ZnS conversion, higher discharge voltage, reduced polarization, and 89% capacity retention over 1000 cycles—advancing safe, sustainable metal-chalcogen battery design.&lt;br&gt;🏷 zinc-sulfur battery · porous liquid electrolyte · crown ether · redox kinetics · polysulfide shuttling</description>
+<category>zinc-sulfur battery</category>
+<category>porous liquid electrolyte</category>
+<category>crown ether</category>
+<category>redox kinetics</category>
+<category>polysulfide shuttling</category>
+</item>
+<item>
+<title>Anion‐Dipole Catalytic Decomposition Enables Robust Solid Electrolyte Interfaces for Ah‐Level Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1002/anie.7075150</link>
+<guid isPermaLink="false">10.1002/anie.7075150</guid>
+<pubDate>Fri, 09 Oct 2026 12:01:42 GMT</pubDate>
+<description>استراتژی تجزیه کاتالیستی آنیون-دوقطبی با افزودنی استوفنون، SEI غنی از مواد معدنی ایجاد کرده و باتری آبی روی با پایداری ۷۲۰۰ ساعته و ظرفیت Ah-level را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces an anion-dipole catalytic decomposition strategy using trace acetophenone additives to engineer inorganic-rich SEIs in aqueous zinc batteries. By identifying double descriptors for additive screening, it enables high Zn²⁺ transference, planar deposition, and exceptional stability, achieving Ah-level pouch cells with 88.9% capacity retention after 100 cycles.&lt;br&gt;🏷 aqueous zinc battery · solid electrolyte interphase · anion-dipole interaction · acetophenone additive · zinc deposition</description>
+<category>aqueous zinc battery</category>
+<category>solid electrolyte interphase</category>
+<category>anion-dipole interaction</category>
+<category>acetophenone additive</category>
+<category>zinc deposition</category>
+</item>
 <item>
 <title>A Durable and Adaptive Interfacial Ion Rectification Layer Empowering Reversible Zinc Metal in Seawater Batteries</title>
 <link>https://doi.org/10.1002/adfm.78923</link>
@@ -1160,55 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a un
 <category>irreversible aging</category>
 <category>operando study</category>
 <category>atmosphere control</category>
-</item>
-<item>
-<title>Plating-Induced Stress Heterogeneity Dictates Zinc Dendrite Growth</title>
-<link>https://doi.org/10.1021/jacs.6c15035</link>
-<guid isPermaLink="false">10.1021/jacs.6c15035</guid>
-<pubDate>Tue, 06 Oct 2026 23:03:11 GMT</pubDate>
-<description>این کار نشان می‌دهد که ناهمگنی تنش ناشی از پوشش‌دهی، رشد دندریت روی را در باتری آبی یون-روی تعیین می‌کند و با افزودنی تنش‌زدا، عمر چرخه آند روی به ۳۵۰۰ ساعت می‌رسد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work first links plating-induced stress heterogeneity to Zn dendrite initiation via chemical-potential gradients. A stress-relieving additive enables (100)-textured Zn, homogenizing compressive stress and suppressing dendrites, yielding 3500 h symmetric-cell cycling and over 10,000 cycles in Zn||I2 cells. It offers a stress-regulation strategy for dendrite-free metal anodes.&lt;br&gt;🏷 zinc dendrite · plating-induced stress · zinc anode · aqueous zinc-ion battery · stress-relieving additive</description>
-<category>zinc dendrite</category>
-<category>plating-induced stress</category>
-<category>zinc anode</category>
-<category>aqueous zinc-ion battery</category>
-<category>stress-relieving additive</category>
-</item>
-<item>
-<title>Quantitative Analysis of Inconsistency Evolution in Commercial Fuel Cell Stacks Under Oxygen Starvation Based on Time-Frequency Multi-Dimensional Parameters</title>
-<link>https://doi.org/10.1016/j.etran.2026.100642</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100642</guid>
-<pubDate>Tue, 06 Oct 2026 23:01:52 GMT</pubDate>
-<description>این مقاله ناهمگونی در پشته‌های تجاری پیل سوختی تحت کمبود اکسیژن را با پارامترهای چندبعدی زمان-فرکانس به‌صورت کمّی تحلیل می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 fuel cell stack · oxygen starvation · inconsistency evolution · time-frequency analysis · multi-dimensional parameters</description>
-<category>fuel cell stack</category>
-<category>oxygen starvation</category>
-<category>inconsistency evolution</category>
-<category>time-frequency analysis</category>
-<category>multi-dimensional parameters</category>
-</item>
-<item>
-<title>Sulfurized polyacrylonitrile cathodes for Li batteries: from structure and reaction mechanism to cathode and electrolyte engineering</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112461</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112461</guid>
-<pubDate>Tue, 06 Oct 2026 23:01:38 GMT</pubDate>
-<description>این مرور به کاتدهای پلی‌آکریلونیتریل سولفوره‌شده برای باتری‌های لیتیومی می‌پردازد و از ساختار و مکانیسم واکنش تا مهندسی کاتد و الکترولیت را پوشش می‌دهد.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 sulfurized polyacrylonitrile · Li batteries · cathode · electrolyte engineering · reaction mechanism</description>
-<category>sulfurized polyacrylonitrile</category>
-<category>Li batteries</category>
-<category>cathode</category>
-<category>electrolyte engineering</category>
-<category>reaction mechanism</category>
-</item>
-<item>
-<title>A Hybrid Phosphate–Ether Electrolyte for High-Temperature and High-Safety 18650 Cylindrical Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02299</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02299</guid>
-<pubDate>Tue, 06 Oct 2026 22:01:53 GMT</pubDate>
-<description>الکترولیت هیبریدی TEP/THF غیرقابل اشتعال برای باتری‌های سدیم-یون دما بالا طراحی شد که پایداری چرخه‌ای و ایمنی عالی در سلول‌های 18650 نشان می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a nonflammable TEP/THF hybrid electrolyte where weakly coordinating THF boosts anion-derived inorganic interphases and fast Na+ transport. Significance: 18650 cylindrical SIBs achieve 80.6% capacity retention after 300 cycles at 80 °C, pass nail penetration without combustion (peak 88.9 °C), and support layered oxide cathodes, enabling high-temperature, high-safety grid storage.&lt;br&gt;🏷 sodium-ion battery · phosphate-ether electrolyte · high-temperature · safety · solvation structure</description>
-<category>sodium-ion battery</category>
-<category>phosphate-ether electrolyte</category>
-<category>high-temperature</category>
-<category>safety</category>
-<category>solvation structure</category>
 </item>
 </channel>
 </rss>
