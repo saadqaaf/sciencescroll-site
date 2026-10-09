@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 02:02:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 03:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fast reduction of electron-beam-activated graphene oxide by an infrared laser pulse</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122198</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122198</guid>
+<pubDate>Fri, 09 Oct 2026 03:01:17 GMT</pubDate>
+<description>این مقاله کاهش سریع گرافن اکسید فعال‌شده با پرتو الکترونی را با یک پالس لیزر مادون قرمز گزارش می‌کند.&lt;br&gt;Carbon | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene oxide · infrared laser · electron-beam activation · reduction · pulse</description>
+<category>graphene oxide</category>
+<category>infrared laser</category>
+<category>electron-beam activation</category>
+<category>reduction</category>
+<category>pulse</category>
+</item>
+<item>
+<title>Varying Mechanisms Dominate Formate Formation in Electrochemical CO2 Reduction on Cu, Au, and Pb: A Constant Potential DFT-Based Microkinetic Analysis</title>
+<link>https://doi.org/10.1021/acscatal.6c05103</link>
+<guid isPermaLink="false">10.1021/acscatal.6c05103</guid>
+<pubDate>Fri, 09 Oct 2026 03:01:14 GMT</pubDate>
+<description>با DFT پتانسیل ثابت و شبیه‌سازی میکروکینتیکی، مسیرهای متفاوت تشکیل فرمات روی Cu، Au و Pb شناسایی شده و نقش ساختار الکترونی Pb برجسته می‌شود.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 CO2 reduction · formate · constant potential DFT · microkinetics · Cu Au Pb</description>
+<category>CO2 reduction</category>
+<category>formate</category>
+<category>constant potential DFT</category>
+<category>microkinetics</category>
+<category>Cu Au Pb</category>
+</item>
+<item>
+<title>Efficient Photocatalytic H2O2 Formation by a Porphyrin-TiO2 Hybrid Catalyst in Pure Water</title>
+<link>https://doi.org/10.1021/acscatal.6c05247</link>
+<guid isPermaLink="false">10.1021/acscatal.6c05247</guid>
+<pubDate>Fri, 09 Oct 2026 03:01:11 GMT</pubDate>
+<description>فوتوکاتالیست هیبریدی پورفیرین-TiO2 در آب خالص، H2O2 را با نرخ ۲۹ mmol g–1 h–1 و بازده کوانتومی ۲۷٪ تولید می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 H2O2 production · porphyrin-TiO2 · photocatalysis · pure water · O2 reduction</description>
+<category>H2O2 production</category>
+<category>porphyrin-TiO2</category>
+<category>photocatalysis</category>
+<category>pure water</category>
+<category>O2 reduction</category>
+</item>
+<item>
+<title>Directed Electrocatalytic Nitrate Conversion via H-Bond Network Fortification</title>
+<link>https://doi.org/10.1021/acscatal.6c06173</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06173</guid>
+<pubDate>Fri, 09 Oct 2026 03:01:07 GMT</pubDate>
+<description>افزودن اسید اگزالیک به الکترولیت با تقویت شبکه پیوند هیدروژنی، احیای الکتروکاتالیستی نیترات را به سمت تولید NH2OH با بازده ۷۸.۲٪ هدایت می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · H-bond network · oxalic acid · selectivity · electrocatalysis</description>
+<category>nitrate reduction</category>
+<category>H-bond network</category>
+<category>oxalic acid</category>
+<category>selectivity</category>
+<category>electrocatalysis</category>
+</item>
+<item>
+<title>Spin Polarization Enables Spin-Conserved Intermediate Migration for Selective C–N Coupling toward Urea Electrosynthesis</title>
+<link>https://doi.org/10.1021/acscatal.6c04649</link>
+<guid isPermaLink="false">10.1021/acscatal.6c04649</guid>
+<pubDate>Fri, 09 Oct 2026 03:01:04 GMT</pubDate>
+<description>این مقاله با تنظیم اسپین در Cu-FeSe2، مهاجرت واسطه‌های نیتروژنی و جفت‌شدن C-N را تقویت کرده و بازده فارادایی اوره را به ۵۴.۱٪ می‌رساند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 urea electrosynthesis · spin polarization · C-N coupling · Cu-FeSe2 · DFT</description>
+<category>urea electrosynthesis</category>
+<category>spin polarization</category>
+<category>C-N coupling</category>
+<category>Cu-FeSe2</category>
+<category>DFT</category>
+</item>
 <item>
 <title>Tiny Pores, Big Stories: Perforating MXenes for Through-Sheet Transport in Energy and Environmental Applications</title>
 <link>https://doi.org/10.1021/accountsmr.6c00209</link>
@@ -1154,66 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 alkaline hydrogen evoluti
 <category>engineered bacteria</category>
 <category>programmable platforms</category>
 <category>drug delivery</category>
-</item>
-<item>
-<title>Advances in Optical Nanoprobes for Bacterial Infection Diagnosis</title>
-<link>https://doi.org/10.34133/research.1466</link>
-<guid isPermaLink="false">10.34133/research.1466</guid>
-<pubDate>Thu, 08 Oct 2026 18:01:16 GMT</pubDate>
-<description>پیشرفت‌های نانوکاوشگرهای نوری برای تشخیص عفونت‌های باکتریایی مرور می‌شود و قابلیت‌های تصویربرداری و حسگری آن‌ها بررسی می‌گردد.&lt;br&gt;Research | ⭐ Review&lt;br&gt;🏷 optical nanoprobes · bacterial infection · diagnosis · fluorescence imaging · biosensors</description>
-<category>optical nanoprobes</category>
-<category>bacterial infection</category>
-<category>diagnosis</category>
-<category>fluorescence imaging</category>
-<category>biosensors</category>
-</item>
-<item>
-<title>AI capability and product innovation intensity: Driving B2B marketing innovation under varying levels of market turbulence</title>
-<link>https://doi.org/10.1016/j.technovation.2026.103737</link>
-<guid isPermaLink="false">10.1016/j.technovation.2026.103737</guid>
-<pubDate>Thu, 08 Oct 2026 18:01:13 GMT</pubDate>
-<description>نقش قابلیت هوش مصنوعی در شدت نوآوری محصول و نوآوری بازاریابی B2B تحت سطوح مختلف آشفتگی بازار بررسی می‌شود.&lt;br&gt;Technovation | 🔬 Research Article&lt;br&gt;🏷 AI capability · product innovation · B2B marketing · market turbulence · innovation intensity</description>
-<category>AI capability</category>
-<category>product innovation</category>
-<category>B2B marketing</category>
-<category>market turbulence</category>
-<category>innovation intensity</category>
-</item>
-<item>
-<title>Mechanics of Corners in Material Extrusion Additive Manufacturing</title>
-<link>https://doi.org/10.1016/j.addma.2026.105393</link>
-<guid isPermaLink="false">10.1016/j.addma.2026.105393</guid>
-<pubDate>Thu, 08 Oct 2026 18:01:10 GMT</pubDate>
-<description>مکانیک گوشه‌ها در ساخت افزایشی بر پایه اکستروژن مواد بررسی می‌شود تا دقت هندسی و کیفیت چاپ بهبود یابد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 material extrusion · additive manufacturing · corner mechanics · print path · geometric accuracy</description>
-<category>material extrusion</category>
-<category>additive manufacturing</category>
-<category>corner mechanics</category>
-<category>print path</category>
-<category>geometric accuracy</category>
-</item>
-<item>
-<title>Chromium-directed surface reconstruction in Hofmann MOFs for efficient oxygen evolution and anion-exchange membrane water electrolysis</title>
-<link>https://doi.org/10.1016/j.checat.2026.101898</link>
-<guid isPermaLink="false">10.1016/j.checat.2026.101898</guid>
-<pubDate>Thu, 08 Oct 2026 18:01:07 GMT</pubDate>
-<description>بازسازی سطحی هدایت‌شده با کروم در MOFهای هوفمان برای واکنش آزادسازی اکسیژن و الکترولیز آب با غشای تبادل آنیون بررسی می‌شود.&lt;br&gt;Chem Catalysis | 🔬 Research Article&lt;br&gt;🏷 Hofmann MOF · oxygen evolution · surface reconstruction · chromium doping · AEM electrolysis</description>
-<category>Hofmann MOF</category>
-<category>oxygen evolution</category>
-<category>surface reconstruction</category>
-<category>chromium doping</category>
-<category>AEM electrolysis</category>
-</item>
-<item>
-<title>A method for the automatic generation of a minimal basis set of structural templates for material phase-space exploration</title>
-<link>https://doi.org/10.1038/s41524-026-02310-8</link>
-<guid isPermaLink="false">10.1038/s41524-026-02310-8</guid>
-<pubDate>Thu, 08 Oct 2026 17:03:12 GMT</pubDate>
-<description>روشی برای تولید خودکار قالب‌های ساختاری حداقلی جهت پیش‌بینی سریع هال محدب دوتایی با کاهش ۱۵ برابری محاسبات DFT.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 structural templates · convex hull · high-throughput screening · DFT · phase-space exploration</description>
-<category>structural templates</category>
-<category>convex hull</category>
-<category>high-throughput screening</category>
-<category>DFT</category>
-<category>phase-space exploration</category>
 </item>
 </channel>
 </rss>
