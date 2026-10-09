@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 07:01:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 08:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Polymer‐Immobilized Organic Salt Anions Enable Enhanced Anode Kinetics and Interfacial Stability in Sodium‐Ion Capacitors</title>
+<link>https://doi.org/10.1002/adma.75333</link>
+<guid isPermaLink="false">10.1002/adma.75333</guid>
+<pubDate>Fri, 09 Oct 2026 08:01:26 GMT</pubDate>
+<description>الکترولیت ژل پلیمری با آنیون‌های نمک آلی، سینتیک آند و پایداری سطح مشترک را در خازن‌های یون سدیم بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in situ polymerized gel electrolyte using AMPSNa, whose anchored anions dual-regulate Na⁺ desolvation and form a stable, ion-conductive SEI. This enables enhanced anode kinetics and interfacial stability in sodium-ion capacitors, achieving 171.2 Wh kg⁻¹ and 96.1% retention over 10,000 cycles—offering a viable route to high-performance, leak-free SICs.&lt;br&gt;🏷 sodium-ion capacitors · gel polymer electrolyte · anode kinetics · SEI stability · organic salt anions</description>
+<category>sodium-ion capacitors</category>
+<category>gel polymer electrolyte</category>
+<category>anode kinetics</category>
+<category>SEI stability</category>
+<category>organic salt anions</category>
+</item>
+<item>
+<title>Spatially Selective Carbonization Programs Surface-Bulk Ordering in Hard Carbon Anodes</title>
+<link>https://doi.org/10.1039/d6ee05272j</link>
+<guid isPermaLink="false">10.1039/d6ee05272j</guid>
+<pubDate>Fri, 09 Oct 2026 08:01:14 GMT</pubDate>
+<description>کربن‌سازی فضایی‌انتخابی برای کنترل نظم سطح-حجم در آندهای کربن سخت و بهبود عملکرد باتری‌های یون سدیم ارائه شده است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in spatially selective carbonization that programs surface-bulk ordering in hard carbon anodes, moving beyond global temperature-time control. This enables precise nanostructure engineering, potentially improving sodium storage capacity, rate performance, and cycling stability while reducing energy costs versus conventional &amp;gt;1400 °C, &amp;gt;2 h treatments.&lt;br&gt;🏷 hard carbon · carbonization · sodium-ion battery · anode · surface-bulk ordering</description>
+<category>hard carbon</category>
+<category>carbonization</category>
+<category>sodium-ion battery</category>
+<category>anode</category>
+<category>surface-bulk ordering</category>
+</item>
 <item>
 <title>Joint parameter identification in lithium-ion battery models: Real-time single-step approach</title>
 <link>https://doi.org/10.1016/j.est.2026.125039</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work first links pla
 <category>alloying anode</category>
 <category>conductive framework</category>
 <category>self-reconstruction</category>
-</item>
-<item>
-<title>A Molecular Capsule to Confine Redox‐Active Metal Acetylacetonate Complex for Long‐Lifetime Non‐Aqueous Redox Flow Battery</title>
-<link>https://doi.org/10.1002/smll.76120</link>
-<guid isPermaLink="false">10.1002/smll.76120</guid>
-<pubDate>Tue, 06 Oct 2026 14:02:02 GMT</pubDate>
-<description>کپسول مولکولی TBC8 با محصور کردن کمپلکس‌های استیل‌استونات فلزی، حلالیت و پایداری الکترولیت را افزایش داده و عمر باتری جریان ردوکس غیرآبی را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty is using a dimeric 4-tert-butylcalix[8]arene molecular capsule to encapsulate metal acetylacetonate redox species, boosting solubility and stability. This significantly advances non-aqueous redox flow batteries, achieving 90.41% capacity retention after 1000 cycles versus 52.2% after 400 cycles without capsules, offering a promising strategy for long-lifetime, high-performance grid-scale energy storage.&lt;br&gt;🏷 redox flow battery · molecular capsule · metal acetylacetonate · non-aqueous electrolyte · capacity retention</description>
-<category>redox flow battery</category>
-<category>molecular capsule</category>
-<category>metal acetylacetonate</category>
-<category>non-aqueous electrolyte</category>
-<category>capacity retention</category>
-</item>
-<item>
-<title>Endogenous Functional Group Engineering Enables High‐Efficiency Hard Carbon Anodes for Sodium‐ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76134</link>
-<guid isPermaLink="false">10.1002/smll.76134</guid>
-<pubDate>Tue, 06 Oct 2026 14:01:57 GMT</pubDate>
-<description>مهندسی گروه‌های عاملی درون‌زا در پیش‌ماده کربن سخت، شیمی SEI و عملکرد آند باتری یون-سدیم را با بازدهی کولمبی اولیه ۸۷.۹٪ بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers molecular precursor engineering to tune endogenous functional groups in hard carbon anodes, directly controlling SEI chemistry. It reveals that ‐COOH groups yield a thin NaF-rich SEI, enabling 87.9% initial Coulombic efficiency and 95.7% capacity retention after 200 cycles. This provides a generalizable design principle linking precursor chemistry to interfacial control for high-performance sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · solid electrolyte interphase · functional groups · initial Coulombic efficiency</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>solid electrolyte interphase</category>
-<category>functional groups</category>
-<category>initial Coulombic efficiency</category>
 </item>
 </channel>
 </rss>
