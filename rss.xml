@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 06:01:13 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 07:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering electrostatic energy landscapes in functional materials: Unifying polarization, interfaces, and charge transport from nanoelectronics to sustainable energy</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101858</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101858</guid>
+<pubDate>Fri, 09 Oct 2026 07:01:07 GMT</pubDate>
+<description>این مقاله مروری به مهندسی مناظر انرژی الکترواستاتیک در مواد функسیونال می‌پردازد و قطبش، فصل مشترک‌ها و انتقال بار را از نانوالکترونیک تا انرژی پایدار یکپارچه می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 electrostatic energy landscape · polarization · interfaces · charge transport · nanoelectronics</description>
+<category>electrostatic energy landscape</category>
+<category>polarization</category>
+<category>interfaces</category>
+<category>charge transport</category>
+<category>nanoelectronics</category>
+</item>
 <item>
 <title>A Novel 5-(Dinitromethyl)tetrazole Dihydroxylammonium-Hydroxylamine Cocrystal Explosive: Solvent-Mediated Ionic Conversion toward High Energy-Low Sensitivity Balance</title>
 <link>https://doi.org/10.1039/d6ta08090a</link>
@@ -1202,18 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 alkaline hydrogen evoluti
 <category>multi-omics</category>
 <category>infant growth</category>
 <category>biomarkers</category>
-</item>
-<item>
-<title>A DNA Typewriter records the cell lineage history of a mouse, from zygote to late organogenesis</title>
-<link>https://doi.org/10.1126/science.ael0508</link>
-<guid isPermaLink="false">10.1126/science.ael0508</guid>
-<pubDate>Thu, 08 Oct 2026 20:02:15 GMT</pubDate>
-<description>با DNA Typewriter، تبار سلولی موش از زیگوت تا اندام‌زایی پسین بازسازی شد و درخت تبارزایی ۱.۲۸ میلیون سلول ترسیم گردید.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 DNA Typewriter · cell lineage · mouse development · phylogeny · organogenesis</description>
-<category>DNA Typewriter</category>
-<category>cell lineage</category>
-<category>mouse development</category>
-<category>phylogeny</category>
-<category>organogenesis</category>
 </item>
 </channel>
 </rss>
