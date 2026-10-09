@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 01:01:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 02:02:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tiny Pores, Big Stories: Perforating MXenes for Through-Sheet Transport in Energy and Environmental Applications</title>
+<link>https://doi.org/10.1021/accountsmr.6c00209</link>
+<guid isPermaLink="false">10.1021/accountsmr.6c00209</guid>
+<pubDate>Fri, 09 Oct 2026 02:02:57 GMT</pubDate>
+<description>این مقاله مروری استدلال میکند که ایجاد حفرههای درونصفحهای در MXene مسیرهای عرضی انتقال یون و مولکول را کوتاه کرده و عملکرد الکترودها و غشاهای متراکم را بهبود میدهد.&lt;br&gt;Accounts of Materials Research | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This Account establishes in-plane perforation as a design principle converting lamellar MXenes into through-sheet transport platforms. It unifies oxidative perforation routes, reveals a common oxidation-driven pore-formation pathway, and links transverse transport to gains in supercapacitors, batteries, deionization, and membranes. It also flags the stability–transport trade-off, positioning holey MXenes as transport-engineered 2D materials.&lt;br&gt;🏷 MXene · in-plane pores · through-sheet transport · holey MXene · ion diffusion</description>
+<category>MXene</category>
+<category>in-plane pores</category>
+<category>through-sheet transport</category>
+<category>holey MXene</category>
+<category>ion diffusion</category>
+</item>
+<item>
+<title>Interfacial Engineering-Induced Mechanically Robust LiF/Li2O Hybrid SEI Enables Stable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112482</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112482</guid>
+<pubDate>Fri, 09 Oct 2026 02:01:31 GMT</pubDate>
+<description>این پژوهش با مهندسی بین‌سطحی، لایه SEI هیبریدی LiF/Li2O با استحکام مکانیکی بالا ایجاد می‌کند که باتری‌های لیتیوم-فلز پایدار را ممکن می‌سازد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · solid electrolyte interphase · LiF/Li2O hybrid · interfacial engineering · mechanical robustness</description>
+<category>lithium metal battery</category>
+<category>solid electrolyte interphase</category>
+<category>LiF/Li2O hybrid</category>
+<category>interfacial engineering</category>
+<category>mechanical robustness</category>
+</item>
+<item>
+<title>Organic acid hydrometallurgy for recycling spent lithium-ion batteries from cell phones: A critical review of leaching performance, process parameters, and applications of recovered materials</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112471</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112471</guid>
+<pubDate>Fri, 09 Oct 2026 02:01:22 GMT</pubDate>
+<description>این مقاله مروری، بازیافت باتری‌های لیتیوم-یونی مستعمل گوشی‌های همراه با هیدرومتالورژی اسیدهای آلی را از نظر عملکرد لیچینگ، پارامترهای فرآیند و کاربرد مواد بازیافتی بررسی می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 lithium-ion battery recycling · organic acid leaching · hydrometallurgy · spent batteries · recovered materials</description>
+<category>lithium-ion battery recycling</category>
+<category>organic acid leaching</category>
+<category>hydrometallurgy</category>
+<category>spent batteries</category>
+<category>recovered materials</category>
+</item>
 <item>
 <title>Electromagnetic-Field Regulation of Sulfur Redox Chemistry in Lithium-Sulfur Batteries: From Mass Transport to Orbital and Spin States</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105585</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>NiSx</category>
 <category>SEI</category>
 <category>microdomains</category>
-</item>
-<item>
-<title>High‐Performance Lithium‐Sulfur All‐Solid–State Batteries Enabled by Chemically Synthesized Lithium Polysulfide Cathodes</title>
-<link>https://doi.org/10.1002/adma.75274</link>
-<guid isPermaLink="false">10.1002/adma.75274</guid>
-<pubDate>Tue, 06 Oct 2026 09:02:24 GMT</pubDate>
-<description>سنتز کاتد S@Li2S با پلی‌سولفیدهای لیتیوم پایدار در حالت جامد، ظرفیت ۷۸۰ mAh g−۱ و پایداری چرخه‌ای بالا در باتری‌های Li-S تمام‌جامد فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Chemically synthesized lithium polysulfide (S@Li₂S) cathodes enable high-performance Li-S all-solid-state batteries. The novelty lies in stabilizing polysulfide species at room temperature in solid state, contradicting prior assumptions. These cathodes show faster kinetics, minimal volume change, and deliver 780 mAh g⁻¹ with 85% retention over 500 cycles—more than double sulfur&amp;#x27;s capacity—advancing next-generation energy storage.&lt;br&gt;🏷 Li-S ASSB · lithium polysulfide · solid-state battery · S@Li2S cathode · volume change</description>
-<category>Li-S ASSB</category>
-<category>lithium polysulfide</category>
-<category>solid-state battery</category>
-<category>S@Li2S cathode</category>
-<category>volume change</category>
-</item>
-<item>
-<title>Strain‐Tolerant Layered Oxide Cathode for Sodium‐Ion Batteries Enabled by a Coherent Perovskite Phase</title>
-<link>https://doi.org/10.1002/adma.75266</link>
-<guid isPermaLink="false">10.1002/adma.75266</guid>
-<pubDate>Tue, 06 Oct 2026 09:02:11 GMT</pubDate>
-<description>فاز پروسکایتی هم‌دوساخت در کاتد اکسید لایه‌ای، کرنش شبکه‌ای را در باتری‌های سدیم-یون با نرخ بالا کاهش می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coherently intergrowing a perovskite Ca2MnO4 phase into layered NaNi1/3Fe1/3Mn1/3O2, creating an intrinsic strain-tolerant architecture. This perovskite buffer constrains lattice strain during rapid Na+ deintercalation, stabilizing structural evolution. It offers a structure-level strategy beyond compositional or surface tuning, enabling high-rate, long-life sodium-ion batteries.&lt;br&gt;🏷 sodium-ion batteries · layered oxide cathode · strain tolerance · coherent perovskite phase · lattice strain</description>
-<category>sodium-ion batteries</category>
-<category>layered oxide cathode</category>
-<category>strain tolerance</category>
-<category>coherent perovskite phase</category>
-<category>lattice strain</category>
-</item>
-<item>
-<title>Random‐Matrix Discontinuous Sodiophilic Interfaces Enabling Ultralight Current Collector for Lean‐Electrolyte and Fast‐Charging Anode‐Free Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75231</link>
-<guid isPermaLink="false">10.1002/adma.75231</guid>
-<pubDate>Tue, 06 Oct 2026 09:02:06 GMT</pubDate>
-<description>رابط‌های سدیم‌دوست ناپیوسته با ماتریس تصادفی، کلکتور جریان فوق‌سبک را برای باتری‌های سدیمی بدون آند با الکترولیت کم و شارژ سریع فعال می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a discontinuous, spray-coated Bi0.4Sb1.6Te3 sodiophilic interface on ultralight Al foil, contrasting dense coatings. This enables uniform Na nucleation, fast lean-electrolyte wetting, and stable anode-free sodium batteries. Significance: 5C charging over 400 cycles and a 2.75-Ah pouch cell achieving 205 Wh kg−1 with lean electrolyte, advancing practical high-energy sodium metal batteries.&lt;br&gt;🏷 anode-free sodium batteries · sodiophilic interface · ultralight current collector · lean electrolyte · fast charging</description>
-<category>anode-free sodium batteries</category>
-<category>sodiophilic interface</category>
-<category>ultralight current collector</category>
-<category>lean electrolyte</category>
-<category>fast charging</category>
 </item>
 </channel>
 </rss>
