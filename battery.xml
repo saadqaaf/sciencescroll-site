@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 15:01:22 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 16:02:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Polyoxometalates Enable the Fabrication of Homogeneous High-Entropy Oxide for Lithium-Ion Battery Anodes</title>
+<link>https://doi.org/10.1039/d6ta05251g</link>
+<guid isPermaLink="false">10.1039/d6ta05251g</guid>
+<pubDate>Fri, 09 Oct 2026 16:01:55 GMT</pubDate>
+<description>پلی‌اکسومتالات‌ها ساخت اکسید با آنتروپی بالا همگن را در دمای پایین برای آند باتری لیتیم-یون امکان‌پذیر می‌سازند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Polyoxometalates act as single-source molecular precursors, enabling low-temperature synthesis of homogeneous high-entropy oxides despite differing metal salt behaviors. This yields uniform phase structure for lithium-ion battery anodes, offering a general strategy to overcome inhomogeneity in HEO fabrication and potentially improving electrochemical performance.&lt;br&gt;🏷 high-entropy oxide · polyoxometalate · lithium-ion battery · anode · low-temperature synthesis</description>
+<category>high-entropy oxide</category>
+<category>polyoxometalate</category>
+<category>lithium-ion battery</category>
+<category>anode</category>
+<category>low-temperature synthesis</category>
+</item>
+<item>
+<title>Neural network potentials explain ionic conductivity enhancement in alumina and lithium aluminate coated Li 6 PS 5 Cl electrolytes</title>
+<link>https://doi.org/10.1039/d6ta04678a</link>
+<guid isPermaLink="false">10.1039/d6ta04678a</guid>
+<pubDate>Fri, 09 Oct 2026 16:01:46 GMT</pubDate>
+<description>پتانسیل‌های شبکه عصبی نشان می‌دهند که بازتوزیع لیتیم در فصل مشترک، علت افزایش رسانایی یونی در الکترولیت Li6PS5Cl پوشش‌داده‌شده با آلومینا و لیتیم آلومینات است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Neural network potentials reveal that interfacial Li redistribution, not coating chemistry alone, drives ionic conductivity enhancement in alumina- and lithium aluminate-coated Li₆PS₅Cl solid electrolytes. This atomistic insight resolves a long-standing ambiguity about coating mechanisms, enabling rational interface design for high-performance solid-state batteries.&lt;br&gt;🏷 Li6PS5Cl · solid electrolyte · neural network potential · ionic conductivity · alumina coating</description>
+<category>Li6PS5Cl</category>
+<category>solid electrolyte</category>
+<category>neural network potential</category>
+<category>ionic conductivity</category>
+<category>alumina coating</category>
+</item>
+<item>
+<title>Interfacial engineering of MOF-derived MoZnS microflowers on MXene nanosheets for high-performance flexible zinc-ion hybrid supercapacitors with balanced charge storage kinetics</title>
+<link>https://doi.org/10.1039/d6ta05312b</link>
+<guid isPermaLink="false">10.1039/d6ta05312b</guid>
+<pubDate>Fri, 09 Oct 2026 16:01:40 GMT</pubDate>
+<description>ساختارهای ناهمگون MoZnS/MXene مشتق از MOF با جفت‌شدگی بین‌سطحی قوی، ذخیره بار متعادل و ظرفیت 989.4 F g−1 در ابرخازن هیبریدی روی-یون انعطاف‌پذیر را ممکن می‌سازند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 MOF-derived MoZnS microflowers grown on MXene nanosheets create strongly coupled heterointerfaces, balancing capacitive and diffusive charge storage. This interfacial engineering yields a flexible zinc-ion hybrid supercapacitor with 989.4 F g⁻¹ at 8 mA, demonstrating a rational design strategy for high-performance, bendable energy storage devices.&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · MXene · MoZnS · MOF-derived · flexible device</description>
+<category>zinc-ion hybrid supercapacitor</category>
+<category>MXene</category>
+<category>MoZnS</category>
+<category>MOF-derived</category>
+<category>flexible device</category>
+</item>
 <item>
 <title>Ammonium intercalated and oxygen vacancy-modulated vanadium pentoxide for high-performance aqueous zinc-ion batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125059</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers redox-
 <category>Janus separator</category>
 <category>Ag nanoskin</category>
 <category>polyimide</category>
-</item>
-<item>
-<title>In Situ Formation of a Hybrid Alloy‐Fluoride Interphase for Stable High‐Capacity Phosphorus Anodes</title>
-<link>https://doi.org/10.1002/aenm.71682</link>
-<guid isPermaLink="false">10.1002/aenm.71682</guid>
-<pubDate>Thu, 08 Oct 2026 13:01:32 GMT</pubDate>
-<description>دوپینگ SbF3 در کامپوزیت فسفر-کربن، فاز میانی هیبریدی Li3Sb/LiF را درجا تشکیل می‌دهد که پایداری و سینتیک آند فسفر در باتری لیتیوم-یون را بهبود می‌بخشد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Trace SbF3 doping in P/C anodes forms an in situ Li3Sb-LiF hybrid interphase during lithiation, simultaneously suppressing polyphosphide shuttling and combining fast ion/electron transport with mechanical rigidity. This resolves the stability-transport trade-off, delivering 970 mAh g⁻¹ after 500 cycles and 893 mAh g⁻¹ at 15 A g⁻¹, with practical pouch-cell validation.&lt;br&gt;🏷 phosphorus anode · lithium-ion battery · hybrid interphase · Li3Sb · LiF</description>
-<category>phosphorus anode</category>
-<category>lithium-ion battery</category>
-<category>hybrid interphase</category>
-<category>Li3Sb</category>
-<category>LiF</category>
-</item>
-<item>
-<title>Integrated d‐p Orbital Coupling Within High‐Entropy Oxide/Halloysite Accelerates Sulfur Reduction Kinetics in Sodium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/aenm.71654</link>
-<guid isPermaLink="false">10.1002/aenm.71654</guid>
-<pubDate>Thu, 08 Oct 2026 13:01:23 GMT</pubDate>
-<description>کامپوزیت اکسید با آنتروپی بالا و هالویزیت نانولوله با جفت‌شدگی اوربیتالی d-p، سینتیک کاهش پلی‌سولفیدها را در باتری سدیم-گوگرد بهبود می‌دهد و ظرفیت پایدار بالا ارائه می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating high-entropy oxide with halloysite nanotubes, creating d-p orbital coupling that enhances polysulfide adsorption and conversion. This hybrid host suppresses shuttling and boosts kinetics, enabling ultrastable, high-rate sodium-sulfur batteries with 0.008% capacity fade per cycle. It offers a scalable, durable cathode design using natural clay.&lt;br&gt;🏷 sodium-sulfur battery · high-entropy oxide · halloysite nanotube · d-p orbital coupling · polysulfide conversion</description>
-<category>sodium-sulfur battery</category>
-<category>high-entropy oxide</category>
-<category>halloysite nanotube</category>
-<category>d-p orbital coupling</category>
-<category>polysulfide conversion</category>
-</item>
-<item>
-<title>Aluminum Fuel Cells: Tackling Challenges and Unlocking Commercial Potentials</title>
-<link>https://doi.org/10.1002/adma.75310</link>
-<guid isPermaLink="false">10.1002/adma.75310</guid>
-<pubDate>Thu, 08 Oct 2026 12:02:21 GMT</pubDate>
-<description>این مرور جامع، پیشرفت مواد کلیدی، مدیریت چرخه الکترولیت و بازیافت آلومینیوم در پیل‌های سوختی آلومینیومی را بررسی کرده و آن‌ها را به‌عنوان حامل انرژی قابل بازیافت معرفی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely positions aluminum fuel cells as recyclable energy carriers, integrating material development, electrolyte lifecycle management, and closed-loop Al(OH)₃-to-Al regeneration using renewable electricity. Its significance lies in benchmarking against practical targets (≥99% anode utilization, ≥2000 h cathode life, ≥500 Wh kg⁻¹) and comparing system-level performance with hydrogen fuel cells and diesel generators, advancing sustainable long-duration energy storage.&lt;br&gt;🏷 aluminum fuel cells · Al anode · air cathode · electrolyte recycling · energy storage</description>
-<category>aluminum fuel cells</category>
-<category>Al anode</category>
-<category>air cathode</category>
-<category>electrolyte recycling</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
