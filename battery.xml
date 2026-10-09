@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 12:03:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 13:04:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Lightweight Catalyst-Decorated Carbon Nanotube Framework as a Bifunctional Current Collector for High-Energy and Long-Life Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122203</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122203</guid>
+<pubDate>Fri, 09 Oct 2026 13:03:58 GMT</pubDate>
+<description>چارچوب سبک نانولوله کربنی تزئین‌شده با کاتالیزور به عنوان جمع‌کننده جریان دوعملکردی، باتری لیتیوم-گوگرد با انرژی بالا و عمر طولانی ارائه می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · carbon nanotube · bifunctional current collector · catalyst decoration · long-life</description>
+<category>lithium-sulfur battery</category>
+<category>carbon nanotube</category>
+<category>bifunctional current collector</category>
+<category>catalyst decoration</category>
+<category>long-life</category>
+</item>
+<item>
+<title>Revealing Temperature‐Driven Interfacial Reactions of Succinonitrile in PEO‒LiTFSI Electrolytes and Suppressing Them via Dual PEDOT‐Based Interfacial Layers</title>
+<link>https://doi.org/10.1002/advs.78096</link>
+<guid isPermaLink="false">10.1002/advs.78096</guid>
+<pubDate>Fri, 09 Oct 2026 13:02:49 GMT</pubDate>
+<description>واکنش‌های بین‌سطحی ناشی از دما در الکترولیت PEO-LiTFSI حاوی سوکسینونیتریل شناسایی و با لایه‌های محافظ PEDOT دوطرفه سرکوب شد و چرخه‌پذیری پایدار فراهم گردید.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work first reveals temperature-driven succinonitrile interfacial reactions at both lithium and cathode sides in PEO–LiTFSI electrolytes, identifying cathode-side degradation as dominant. A dual PEDOT-based protection strategy suppresses these reactions, enabling over 500 stable cycles with &amp;gt;70% capacity retention at 50°C and wide-temperature (10–50°C) solid-state battery operation.&lt;br&gt;🏷 solid polymer electrolyte · succinonitrile · PEO-LiTFSI · PEDOT interlayer · interfacial reactions</description>
+<category>solid polymer electrolyte</category>
+<category>succinonitrile</category>
+<category>PEO-LiTFSI</category>
+<category>PEDOT interlayer</category>
+<category>interfacial reactions</category>
+</item>
+<item>
+<title>Triple‐Coupling Regulation Enables Dendrite‐Free Subzero Aqueous Zn‐Ion Batteries</title>
+<link>https://doi.org/10.1002/advs.78147</link>
+<guid isPermaLink="false">10.1002/advs.78147</guid>
+<pubDate>Fri, 09 Oct 2026 13:02:09 GMT</pubDate>
+<description>این کار با الکترولیت eutectic عمیق فرمامید-اتانول ساختار حل‌شوندگی، شیمی سطح مشترک و جهت‌گیری بلوری را هم‌زمان تنظیم کرده و باتری آبی Zn-ion بدون دندریت با پایداری 1400 ساعت در −20°C می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a triple-coupling strategy—solvation, interfacial chemistry, and crystallographic orientation—via a formamide-ethanol deep eutectic electrolyte. It enables dendrite-free Zn deposition along the (101) facet, achieving 1400 h cycling at −20°C and 99.78% Coulombic efficiency. This molecular-to-interfacial design offers a promising route for temperature-resilient aqueous Zn-ion batteries.&lt;br&gt;🏷 aqueous Zn-ion battery · deep eutectic electrolyte · dendrite-free Zn · subzero operation · solvation regulation</description>
+<category>aqueous Zn-ion battery</category>
+<category>deep eutectic electrolyte</category>
+<category>dendrite-free Zn</category>
+<category>subzero operation</category>
+<category>solvation regulation</category>
+</item>
 <item>
 <title>Fluorine-free polymer binder enables circular manufacturing and recycling of lithium-ion batteries</title>
 <link>https://doi.org/10.1038/s41467-026-78215-3</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a un
 <category>closed-pore engineering</category>
 <category>flash Joule heating</category>
 <category>anode</category>
-</item>
-<item>
-<title>Catalytic Low-Temperature N-Doped Carbon Modification of Spent Graphite Enabling Li3N-Rich SEI for High-Stability Lithium-Ion Anodes</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122188</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122188</guid>
-<pubDate>Wed, 07 Oct 2026 00:01:47 GMT</pubDate>
-<description>گرافیت مستعمل با کربن دوپه‌شده با نیتروژن در دمای پایین اصلاح شد و لایه SEI غنی از Li3N را برای آندهای لیتیوم-یونی با پایداری بالا ایجاد کرد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 lithium-ion anode · spent graphite · N-doped carbon · Li3N-rich SEI · catalytic modification</description>
-<category>lithium-ion anode</category>
-<category>spent graphite</category>
-<category>N-doped carbon</category>
-<category>Li3N-rich SEI</category>
-<category>catalytic modification</category>
-</item>
-<item>
-<title>Hierarchically porous graphene architectures embedded in carbon nanofibers via in situ engineering for superior sodium-ion storage</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122190</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122190</guid>
-<pubDate>Wed, 07 Oct 2026 00:01:40 GMT</pubDate>
-<description>ساختارهای گرافنی با تخلخل سلسله‌مراتبی درون نانوالیاف کربنی به روش درجا مهندسی شدند و ذخیره‌سازی برتر یون سدیم را نشان دادند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 sodium-ion storage · graphene · carbon nanofibers · hierarchical porosity · in situ engineering</description>
-<category>sodium-ion storage</category>
-<category>graphene</category>
-<category>carbon nanofibers</category>
-<category>hierarchical porosity</category>
-<category>in situ engineering</category>
-</item>
-<item>
-<title>Irreversible aging of graphite anodes triggered by ambient moisture: mechanistic insights from atmosphere-controlled operando studies</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.056</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.056</guid>
-<pubDate>Tue, 06 Oct 2026 23:03:26 GMT</pubDate>
-<description>مطالعات operando در اتمسفر کنترلشده نشان داد رطوبت محیطی پیرشدن برگشتناپذیر آند گرافیتی را از طریق مکانیسمهای خاص القا میکند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 graphite anode · ambient moisture · irreversible aging · operando study · atmosphere control</description>
-<category>graphite anode</category>
-<category>ambient moisture</category>
-<category>irreversible aging</category>
-<category>operando study</category>
-<category>atmosphere control</category>
 </item>
 </channel>
 </rss>
