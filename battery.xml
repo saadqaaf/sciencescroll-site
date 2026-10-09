@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 22:03:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 23:05:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Electrostatic and Mechanical Anchoring at Cathode–Current Collector Junctions for Durable Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.75852</link>
+<guid isPermaLink="false">10.1002/smll.75852</guid>
+<pubDate>Fri, 09 Oct 2026 23:04:40 GMT</pubDate>
+<description>پرایمر کربنی در اتصال کاتد-جمع‌کننده جریان باتری سدیم-یون، با لنگراندازی الکترواستاتیکی و مکانیکی هم‌افزا، پایداری چرخه‌ای و یکنواختی سدیم‌دارشدن را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work reveals three synergistic mechanisms—mechanical interlocking, strain-accommodating interlayer, and electrostatic bridging—by which carbon primers reinforce cathode–current collector junctions in sodium-ion batteries. It identifies the junction, not bulk conductivity, as the performance bottleneck, and achieves 88.7% capacity retention over 300 cycles, providing a design framework for durable polyanion-based energy storage.&lt;br&gt;🏷 sodium-ion battery · current collector · carbon primer · NVP cathode · interface anchoring</description>
+<category>sodium-ion battery</category>
+<category>current collector</category>
+<category>carbon primer</category>
+<category>NVP cathode</category>
+<category>interface anchoring</category>
+</item>
 <item>
 <title>Graphene-Like-Armored Nanosheet Assemblies toward Fast and Stable High-Mass-Loading Sodium Storage</title>
 <link>https://doi.org/10.1021/jacs.6c13892</link>
@@ -1194,18 +1206,6 @@
 <category>hematite photoelectrode</category>
 <category>standardization</category>
 <category>long-term stability</category>
-</item>
-<item>
-<title>An electrolyte-versatile π–d conjugated coordination polymer cathode with multiple active sites for durable rechargeable aluminum batteries</title>
-<link>https://doi.org/10.1039/d6ta06073k</link>
-<guid isPermaLink="false">10.1039/d6ta06073k</guid>
-<pubDate>Thu, 08 Oct 2026 20:01:49 GMT</pubDate>
-<description>این مقاله یک کاتد پلیمر کوئوردیناسیون مزدوج π-d را برای باتری‌های آلومینیومی قابل شارژ معرفی می‌کند که چرخه‌پذیری طولانی و ظرفیت بالا دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a 3D π–d conjugated Fe₂(DHBQ)₃ cathode enabling electron delocalization, suppressed dissolution, and synergistic AlCl₂⁺ binding, Fe redox, and EMIm⁺ π-interactions. Its significance is exceptional durability—110.7 mAh g⁻¹ over 40,000 cycles at 2 A g⁻¹—and electrolyte versatility, supporting low-cost molten-salt electrolytes for practical rechargeable aluminum batteries.&lt;br&gt;🏷 aluminum battery · conjugated coordination polymer · cathode · multiple active sites · molten-salt electrolyte</description>
-<category>aluminum battery</category>
-<category>conjugated coordination polymer</category>
-<category>cathode</category>
-<category>multiple active sites</category>
-<category>molten-salt electrolyte</category>
 </item>
 </channel>
 </rss>
