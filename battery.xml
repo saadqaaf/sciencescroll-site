@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 17:01:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 18:02:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Heterogeneous Electric Double Layer with Ion‐Transport Pathways for Practical Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75267</link>
+<guid isPermaLink="false">10.1002/adma.75267</guid>
+<pubDate>Fri, 09 Oct 2026 18:01:57 GMT</pubDate>
+<description>ساخت لایه دوگانه الکتریکی ناهمگن با مسیرهای انتقال یون برای باتری‌های یون روی، که پایداری ترمودینامیکی و برگشت‌پذیری سینتیکی آند Zn را بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers heterogeneous EDL nanostructure engineering via cation-anion coordination, creating ion-transport pathways that stabilize Zn anodes. It achieves record Zn²⁺ transference (0.89), 30,000-cycle full-cell stability, and practical Ah-level pouch cells, offering a new paradigm for durable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · electric double layer · ion-transport pathways · Zn anode · cation-anion coordination</description>
+<category>zinc-ion battery</category>
+<category>electric double layer</category>
+<category>ion-transport pathways</category>
+<category>Zn anode</category>
+<category>cation-anion coordination</category>
+</item>
+<item>
+<title>Built‐In Electric Fields in Rechargeable Batteries: Formation Mechanisms, Functional Roles, and Design Principles</title>
+<link>https://doi.org/10.1002/adma.75315</link>
+<guid isPermaLink="false">10.1002/adma.75315</guid>
+<pubDate>Fri, 09 Oct 2026 18:01:50 GMT</pubDate>
+<description>این مرور، مکانیسم‌های تشکیل، نقش‌های عملکردی و اصول طراحی میدان الکتریکی داخلی را برای بهبود باتری‌های قابل شارژ مانند لیتیوم-یون، سدیم-یون و روی-یون بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely systematizes built-in electric fields (BIEFs) in rechargeable batteries, covering formation mechanisms, characterization, theoretical calculations, and roles in anodes, cathodes, and electrolytes. It bridges knowledge gaps by linking BIEF engineering strategies to design principles, offering actionable guidance for suppressing instability and enhancing kinetics in next-generation high-energy, long-life batteries.&lt;br&gt;🏷 built-in electric field · rechargeable batteries · heterointerfaces · ion transport · design principles</description>
+<category>built-in electric field</category>
+<category>rechargeable batteries</category>
+<category>heterointerfaces</category>
+<category>ion transport</category>
+<category>design principles</category>
+</item>
+<item>
+<title>Low‐Temperature‐Induced Interfacial Transformation of the Aluminum Anode in Alkaline Electrolyte</title>
+<link>https://doi.org/10.1002/adma.75290</link>
+<guid isPermaLink="false">10.1002/adma.75290</guid>
+<pubDate>Fri, 09 Oct 2026 18:01:42 GMT</pubDate>
+<description>این مطالعه با استفاده از EIS و DRT، تشکیل لایه غنی از Al2O3 در دمای پایین را به عنوان عامل افزایش امپدانس آند آلومینیوم در الکترولیت قلیایی شناسایی می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This study identifies a new low-temperature interfacial relaxation process in Al anodes via in situ EIS-DRT, revealing that impedance surge arises from a disordered Al₂O₃-rich layer, not reduced electrolyte conductivity. This mechanistic insight challenges conventional assumptions and provides a basis for interfacial engineering of low-temperature-adaptable aqueous Al batteries.&lt;br&gt;🏷 aluminum anode · alkaline electrolyte · low temperature · interfacial transformation · EIS-DRT</description>
+<category>aluminum anode</category>
+<category>alkaline electrolyte</category>
+<category>low temperature</category>
+<category>interfacial transformation</category>
+<category>EIS-DRT</category>
+</item>
+<item>
+<title>Host–Guest Engineering for Advanced Batteries</title>
+<link>https://doi.org/10.1002/adma.75341</link>
+<guid isPermaLink="false">10.1002/adma.75341</guid>
+<pubDate>Fri, 09 Oct 2026 18:01:33 GMT</pubDate>
+<description>این مرور، مهندسی میزبان-میهمان را برای تنظیم دقیق فرآیندهای مولکولی در باتری‌های پیشرفته، از جمله الکترولیت‌ها و رابط‌ها، سازمان‌دهی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This Review uniquely frames host–guest engineering as a molecular-level strategy to control transient ionic and reactive states across electrolytes, interfaces, and conversion cathodes. Its cross-scenario quantitative comparison reveals that optimal battery performance requires balancing guest-regulation effectiveness with dynamic flexibility, not maximal binding. It thereby unifies disparate battery chemistries and guides future adaptive host design.&lt;br&gt;🏷 host-guest engineering · batteries · electrolytes · interfaces · ion transport</description>
+<category>host-guest engineering</category>
+<category>batteries</category>
+<category>electrolytes</category>
+<category>interfaces</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Ni/NiO Heterointerface-Induced Built-In Electric Field Directs Charge Redistribution and LiF-Rich SEI for Stable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ee04156f</link>
+<guid isPermaLink="false">10.1039/d6ee04156f</guid>
+<pubDate>Fri, 09 Oct 2026 18:01:13 GMT</pubDate>
+<description>مهندسی هترواینترفیس Ni/NiO با ایجاد میدان الکتریکی داخلی، توزیع مجدد بار و تشکیل SEI غنی از LiF را برای آند لیتیوم فلزی پایدار هدایت می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Ni/NiO heterointerfaces to create a built-in electric field that redistributes charge and promotes a LiF-rich SEI. This dual mechanism suppresses dendritic Li growth and stabilizes the solid electrolyte interphase, enabling stable lithium metal batteries. It offers a promising interface-engineering strategy for high-energy-density anode design.&lt;br&gt;🏷 lithium metal anode · Ni/NiO heterointerface · built-in electric field · LiF-rich SEI · dendrite suppression</description>
+<category>lithium metal anode</category>
+<category>Ni/NiO heterointerface</category>
+<category>built-in electric field</category>
+<category>LiF-rich SEI</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Polyoxometalates Enable the Fabrication of Homogeneous High-Entropy Oxide for Lithium-Ion Battery Anodes</title>
 <link>https://doi.org/10.1039/d6ta05251g</link>
@@ -1147,66 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers redox-
 <category>LiMn2O4</category>
 <category>redox ion insertion</category>
 <category>selective ion transport</category>
-</item>
-<item>
-<title>Integration Framework for Multifunctional Hydrogel Electrolyte Modification Strategies in Aqueous Zinc‐Ion Batteries from Molecular Design to Device Application</title>
-<link>https://doi.org/10.1002/adfm.78885</link>
-<guid isPermaLink="false">10.1002/adfm.78885</guid>
-<pubDate>Thu, 08 Oct 2026 15:03:19 GMT</pubDate>
-<description>این مرور چارچوب طراحی چندمقیاسی برای الکترولیت‌های هیدروژلی چندکاره در باتری‌های آبی یون روی از طراحی مولکولی تا کاربرد دستگاه ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely frames hydrogel electrolytes as programmable, cross-scale platforms rather than passive quasi-solid media. Its novelty lies in a unified framework linking molecular interactions, network architecture, and interfacial engineering to nine regulation strategies. By bridging molecular design to wearable and bioelectronic applications, it charts a pathway from empirical optimization toward predictable, engineering-reliable hydrogel electrolytes for practical aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · hydrogel electrolyte · molecular design · device application · multifunctional regulation</description>
-<category>aqueous zinc-ion battery</category>
-<category>hydrogel electrolyte</category>
-<category>molecular design</category>
-<category>device application</category>
-<category>multifunctional regulation</category>
-</item>
-<item>
-<title>Tailoring Carbon Vacancies by Conformational Pre‐Organization Enables Hard Carbon Anodes Toward Ultra‐Long Cycle Life</title>
-<link>https://doi.org/10.1002/adfm.78870</link>
-<guid isPermaLink="false">10.1002/adfm.78870</guid>
-<pubDate>Thu, 08 Oct 2026 15:02:20 GMT</pubDate>
-<description>با تنظیم تهی‌جای کربن از طریق پیش‌سازماندهی کانفورماسیونی، آند کربن سخت برای باتری سدیم-یون با عمر چرخه فوق‌العاده طولانی و عملکرد دمای پایین به دست آمد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers tailoring carbon vacancies via conformational pre-organization of precursor architecture. These vacancies enable fast Na+ diffusion, homogenize interfacial electric fields, and exclude solvents, boosting interfacial stability. The optimized hard carbon anodes achieve ultra-long cycle life (16,000 cycles at 1.0 A g−1) and excellent low-temperature performance, establishing a new design paradigm for durable sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · carbon vacancies · cycling stability · low-temperature performance</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>carbon vacancies</category>
-<category>cycling stability</category>
-<category>low-temperature performance</category>
-</item>
-<item>
-<title>Dual‐Interface Electrolyte Engineering for Wide‐Temperature‐Adaptable High‐Voltage LiCoO 2 /Graphite Cells</title>
-<link>https://doi.org/10.1002/adfm.78708</link>
-<guid isPermaLink="false">10.1002/adfm.78708</guid>
-<pubDate>Thu, 08 Oct 2026 15:02:04 GMT</pubDate>
-<description>مهندسی الکترولیت دوسطحی با افزودنی TDTB، پایداری فصل‌مشترک LiCoO2/graphite را در ولتاژ بالا و دماهای مختلف بهبود می‌دهد و ظرفیت 90% پس از 800 چرخه را حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 A single multifunctional additive (TDTB) integrates B-O, Si-O, benzene, and -CF3 groups to simultaneously stabilize high-voltage LiCoO2 cathodes and graphite anodes via preferential decomposition, forming robust CEI/SEI layers. This dual-interface strategy enables 90% capacity retention over 800 cycles and wide-temperature adaptability, offering a molecular-design route toward long-life, high-energy-density lithium-ion batteries.&lt;br&gt;🏷 LiCoO2 · graphite · electrolyte additive · dual-interface engineering · high-voltage</description>
-<category>LiCoO2</category>
-<category>graphite</category>
-<category>electrolyte additive</category>
-<category>dual-interface engineering</category>
-<category>high-voltage</category>
-</item>
-<item>
-<title>Medium‐Concentration Electrolytes Balance Hydrogen‐Bond Disruption and Ion–Ion Interactions for Wide‐Temperature Aqueous Trivalent Indium Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71678</link>
-<guid isPermaLink="false">10.1002/aenm.71678</guid>
-<pubDate>Thu, 08 Oct 2026 13:01:43 GMT</pubDate>
-<description>الکترولیت کلریدی با غلظت متوسط، ساختار حلال‌پوشی را تنظیم کرده و باتری آبی فلز ایندیم را در محدوده دمایی گسترده از ۷۰- تا ۶۵+ درجه سلسیوس پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work shows medium-concentration chloride electrolytes, not maximum concentration, optimally balance hydrogen-bond disruption and ion–ion interactions. The 1 m InCl₃ + 10 m LiCl electrolyte enables wide-temperature aqueous trivalent indium batteries (−70 to +65 °C) with high Coulombic efficiency (99–99.95%), suppressing freezing and water-induced side reactions. It establishes solvation-structure tuning as key to wide-temperature aqueous trivalent electrolytes.&lt;br&gt;🏷 aqueous battery · indium metal anode · medium-concentration electrolyte · wide-temperature · solvation structure</description>
-<category>aqueous battery</category>
-<category>indium metal anode</category>
-<category>medium-concentration electrolyte</category>
-<category>wide-temperature</category>
-<category>solvation structure</category>
-</item>
-<item>
-<title>Janus Ag Nanoskin‐Armored Polyimide Bilayer Separator Enables Efficient Li‐Nucleation Regulation for Dendrite‐Free Lithium Metal Battery</title>
-<link>https://doi.org/10.1002/aenm.71684</link>
-<guid isPermaLink="false">10.1002/aenm.71684</guid>
-<pubDate>Thu, 08 Oct 2026 13:01:38 GMT</pubDate>
-<description>جداکننده دولایه پلی‌آمید با پوسته نقره‌ای ژانوس، هسته‌زایی لیتیوم را تنظیم کرده و رشد دندریت را در باتری لیتیوم-فلز سرکوب می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The study introduces a Janus Ag nanoskin-armored polyimide bilayer separator that regulates lithium nucleation via a lithiophilic 3D host, suppressing dendrite growth. It achieves high Coulombic efficiency (98.9%), Li⁺ transference number (0.70), and 1600 h cycling stability. This universal strategy enables dendrite-free lithium metal batteries with improved safety and performance.&lt;br&gt;🏷 lithium metal battery · dendrite-free · Janus separator · Ag nanoskin · polyimide</description>
-<category>lithium metal battery</category>
-<category>dendrite-free</category>
-<category>Janus separator</category>
-<category>Ag nanoskin</category>
-<category>polyimide</category>
 </item>
 </channel>
 </rss>
