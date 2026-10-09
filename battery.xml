@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 19:01:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 20:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Targeted Trifunctional Regulation via Bimetal-Oxide Hollow Spheres Boosts PVDF-HFP-Based Polymer-in-Salt Electrolyte for Stable Solid-State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105587</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105587</guid>
+<pubDate>Fri, 09 Oct 2026 20:02:09 GMT</pubDate>
+<description>تنظیم سه‌گانه هدفمند با کره‌های توخالی اکسید دوفلزی، الکترولیت پلیمر-در-نمک بر پایه PVDF-HFP را برای باتری‌های لیتیوم فلزی حالت جامد پایدار تقویت می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · polymer-in-salt electrolyte · PVDF-HFP · bimetal-oxide hollow spheres · trifunctional regulation</description>
+<category>solid-state lithium battery</category>
+<category>polymer-in-salt electrolyte</category>
+<category>PVDF-HFP</category>
+<category>bimetal-oxide hollow spheres</category>
+<category>trifunctional regulation</category>
+</item>
+<item>
+<title>Bridging Bulk–Interfacial Chemistry and Regulation Boundaries: Advances and Challenges in Aqueous Zinc-Based Flow Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105586</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105586</guid>
+<pubDate>Fri, 09 Oct 2026 20:02:04 GMT</pubDate>
+<description>این مقاله مروری به پیشرفت‌ها و چالش‌های باتری‌های جریان‌ی روی-پایه آبی در پیوند شیمی توده-سطح و مرزهای تنظیم می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 zinc-based flow batteries · aqueous electrolyte · bulk-interfacial chemistry · regulation boundaries · energy storage</description>
+<category>zinc-based flow batteries</category>
+<category>aqueous electrolyte</category>
+<category>bulk-interfacial chemistry</category>
+<category>regulation boundaries</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Mn-Rich Olivine Cathode with Synergistic Lattice Strain Mitigation via Solid-Solution Pathway and Local-Structure Modulation for High-Rate and Stable Lithium Storage</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105588</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105588</guid>
+<pubDate>Fri, 09 Oct 2026 20:02:00 GMT</pubDate>
+<description>کاتد الیوین غنی از Mn با کاهش کرنش شبکه از طریق مسیر محلول جامد و تنظیم ساختار محلی برای ذخیره‌سازی لیتیوم پایدار و پرسرعت ارائه شده است.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Mn-rich olivine · lithium storage · solid-solution · lattice strain · local-structure modulation</description>
+<category>Mn-rich olivine</category>
+<category>lithium storage</category>
+<category>solid-solution</category>
+<category>lattice strain</category>
+<category>local-structure modulation</category>
+</item>
 <item>
 <title>Calendering‐Dependent Electrochemical and Cost‐Energy Tradeoffs in Layered – Olivine Blend Cathodes</title>
 <link>https://doi.org/10.1002/aenm.71694</link>
@@ -1170,42 +1206,6 @@
 <category>ionic conductivity</category>
 <category>materials discovery</category>
 <category>all-solid-state battery</category>
-</item>
-<item>
-<title>Harnessing Anion Perturbation for Self‐Limiting Decomposition for Durable Argyrodite‐Based Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76179</link>
-<guid isPermaLink="false">10.1002/smll.76179</guid>
-<pubDate>Thu, 08 Oct 2026 17:02:23 GMT</pubDate>
-<description>اختلال آنیونی در الکترولیت آرژیرودیت با فلوروزیرکونات، تشکیل SEI خودمحدودشونده را هدایت و چرخه‌پذیری باتری لیتیوم-فلز حالت جامد را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Fluorozirconate incorporation perturbs PS₄³⁻ anions in argyrodite electrolytes, deliberately triggering controlled decomposition to form a self-limiting, Li₂S/LiₓP- and F-rich SEI. This shifts the paradigm from suppressing to harnessing decomposition. The robust, insulating interphase enables 7000 h Li||Li cycling and 81.3% capacity retention after 1200 cycles, offering a facile strategy for durable solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state battery · argyrodite electrolyte · SEI · anion perturbation · lithium metal</description>
-<category>solid-state battery</category>
-<category>argyrodite electrolyte</category>
-<category>SEI</category>
-<category>anion perturbation</category>
-<category>lithium metal</category>
-</item>
-<item>
-<title>Polychalcogenides Induced Challenges in Transition Metal Chalcogenide Anodes for Alkali Metal Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76118</link>
-<guid isPermaLink="false">10.1002/smll.76118</guid>
-<pubDate>Thu, 08 Oct 2026 17:02:02 GMT</pubDate>
-<description>این مرور چالش‌های ناشی از تولید و شاتل پلی‌کالکوژنیدها را در آندهای کالکوژنید فلز واسطه برای باتری‌های یون فلز قلیایی و راهبردهای مهار آن را بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely highlights polychalcogenide generation and shuttling as a critical, overlooked degradation pathway in transition metal chalcogenide anodes for alkali metal ion batteries. It systematically links polychalcogenide formation to cascading failure mechanisms, elucidates governing factors and inhibition strategies, and offers design perspectives for anodes and electrolytes, advancing practical TMC anode development beyond classical volume expansion and kinetics issues.&lt;br&gt;🏷 transition metal chalcogenide · polychalcogenide shuttle · alkali metal ion batteries · anode degradation · conversion reaction</description>
-<category>transition metal chalcogenide</category>
-<category>polychalcogenide shuttle</category>
-<category>alkali metal ion batteries</category>
-<category>anode degradation</category>
-<category>conversion reaction</category>
-</item>
-<item>
-<title>Tailoring Piezoelectric Materials for High Energy Density Batteries: Fundamentals, Advances, and Perspectives</title>
-<link>https://doi.org/10.1002/smll.76138</link>
-<guid isPermaLink="false">10.1002/smll.76138</guid>
-<pubDate>Thu, 08 Oct 2026 17:01:53 GMT</pubDate>
-<description>این مرور، اصول و کاربرد مواد پیزوالکتریک را برای ایجاد میدان الکتریکی داخلی و بهبود عملکرد باتری‌های چگالی بالا از طریق تنظیم مهاجرت یون و سرکوب دندریت بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges piezoelectric physics and battery engineering, systematically mapping how piezoelectric built-in fields modulate ion transport, interfaces, and reaction kinetics across electrodes, anodes, electrolytes, and separators. Its significance lies in providing a unified framework guiding rational design of piezoelectric-enabled strategies to suppress dendrites, stabilize interfaces, and advance high-energy-density, safe, long-life rechargeable batteries.&lt;br&gt;🏷 piezoelectric materials · high energy density batteries · built-in electric field · dendrite suppression · ion migration</description>
-<category>piezoelectric materials</category>
-<category>high energy density batteries</category>
-<category>built-in electric field</category>
-<category>dendrite suppression</category>
-<category>ion migration</category>
 </item>
 </channel>
 </rss>
