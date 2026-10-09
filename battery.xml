@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 18:02:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 19:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Calendering‐Dependent Electrochemical and Cost‐Energy Tradeoffs in Layered – Olivine Blend Cathodes</title>
+<link>https://doi.org/10.1002/aenm.71694</link>
+<guid isPermaLink="false">10.1002/aenm.71694</guid>
+<pubDate>Fri, 09 Oct 2026 19:01:23 GMT</pubDate>
+<description>کالندرینگ کاتدهای مخلوط NMC/LMFP حد بهینه‌ای دارد؛ مخلوط ۷۰/۳۰ مزیت نرخ را حفظ می‌کند اما ۵۰/۵۰ با چگالش دچار محدودیت انتقال و افت چرخه‌پذیری می‌شود.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study uniquely links calendering intensity to electrochemical and cost-energy tradeoffs in NMC/LMFP blend cathodes, revealing composition-dependent densification limits absent in NMC alone. It shows moderate calendering preserves rate benefits in 70/30 blends, while hard calendering degrades both blends. Nb-stabilized NMC further improves cyclability and energy retention, offering a practical pathway to optimize microstructure, durability, and cost.&lt;br&gt;🏷 blended cathode · calendering · NMC · LMFP · lithium-ion battery</description>
+<category>blended cathode</category>
+<category>calendering</category>
+<category>NMC</category>
+<category>LMFP</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Ni‐MOFs Mediated Ni 2+/4+ Balancing and Enhanced Metal–Oxygen Covalency Unlocks Fast and Stable Sodium Storage in High‐Entropy Layered Cathode</title>
+<link>https://doi.org/10.1002/aenm.71686</link>
+<guid isPermaLink="false">10.1002/aenm.71686</guid>
+<pubDate>Fri, 09 Oct 2026 19:01:14 GMT</pubDate>
+<description>کاتد لایه‌ای پرآنتروپی مشتق از Ni-MOF با تنظیم نیکل فعال و کووالانسی Ni-O، ظرفیت ۱۳۰ میلی‌آمپرساعت بر گرم و پایداری چرخه‌ای بالا در باتری سدیم فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Ni-MOF precursors enable atomic-level control of active Ni²⁺ content and Ni–O covalency in high-entropy O3 cathodes. This balances capacity and stability, unlike conventional oxides with excess or insufficient Ni²⁺. The reinforced covalent network yields reversible phase transitions, thin CEI, fast Na⁺ kinetics, and stable cycling (~130 mAh g⁻¹, 92.6% ICE).&lt;br&gt;🏷 sodium-ion battery · high-entropy cathode · Ni-MOF · metal-oxygen covalency · layered oxide</description>
+<category>sodium-ion battery</category>
+<category>high-entropy cathode</category>
+<category>Ni-MOF</category>
+<category>metal-oxygen covalency</category>
+<category>layered oxide</category>
+</item>
 <item>
 <title>Heterogeneous Electric Double Layer with Ion‐Transport Pathways for Practical Zinc‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adma.75267</link>
@@ -1182,31 +1206,6 @@
 <category>built-in electric field</category>
 <category>dendrite suppression</category>
 <category>ion migration</category>
-</item>
-<item>
-<title>Interface-Driven High Ionic Conductivities in Hydridoborate/Oxide Nanocomposite Electrolytes: A Pathway to High-Capacity All-Solid-State Batteries</title>
-<link>https://doi.org/10.1021/accountsmr.6c00180</link>
-<guid isPermaLink="false">10.1021/accountsmr.6c00180</guid>
-<pubDate>Thu, 08 Oct 2026 16:03:51 GMT</pubDate>
-<description>این مقاله مروری نشان می‌دهد که مهندسی رابط در نانوکامپوزیت‌های هیدریدوبورات/اکسید، رسانایی یونی را تا چند مرتبه بزرگی افزایش داده و مسیری برای باتری‌های تمام‌جامد پرظرفیت فراهم می‌کند.&lt;br&gt;Accounts of Materials Research | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 Hydridoborate/oxide nanocomposites achieve 3–4 orders of magnitude higher ionic conductivity via interface engineering, enabling room-temperature all-solid-state batteries. Spectroscopic studies reveal B–O bond formation and weakened M–BH4 bonds as key mechanisms. This approach yields electrochemically stable, high-capacity solid electrolytes, particularly [B12H12]2– compounds compatible with high-voltage cathodes, advancing safe, high-energy-density battery technology.&lt;br&gt;🏷 hydridoborate electrolyte · all-solid-state battery · nanocomposite · interface engineering · ionic conductivity</description>
-<category>hydridoborate electrolyte</category>
-<category>all-solid-state battery</category>
-<category>nanocomposite</category>
-<category>interface engineering</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Redox-Programmed Bipolar Membranes from Electronically Wired Ion-Insertion Hosts for Selective Ion Transport</title>
-<link>https://doi.org/10.1021/jacs.6c11960</link>
-<guid isPermaLink="false">10.1021/jacs.6c11960</guid>
-<pubDate>Thu, 08 Oct 2026 16:03:23 GMT</pubDate>
-<description>این کار با اتصال الکترونیکی میزبان‌های درج یون، غشاهای دوقطبی برنامه‌ریزی‌شده با ردوکس می‌سازد که Li+ را از آب‌نمک غنی از Na+ با ضریب جداسازی Li+/Na+ حدود ۲۰۰۰ انتقال می‌دهند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers redox-programmed bipolar membranes using electronically wired ion-insertion hosts, enabling selective transmembrane Li+ transport via coupled insertion/deinsertion reactions. It achieves a Li+/Na+ separation factor of ~2000 and demonstrates modular selectivity by swapping insertion chemistry. This bridges inorganic insertion materials with membrane separations, offering a new paradigm for selective ion transport beyond conventional polymer design.&lt;br&gt;🏷 bipolar membrane · Li+ separation · LiMn2O4 · redox ion insertion · selective ion transport</description>
-<category>bipolar membrane</category>
-<category>Li+ separation</category>
-<category>LiMn2O4</category>
-<category>redox ion insertion</category>
-<category>selective ion transport</category>
 </item>
 </channel>
 </rss>
