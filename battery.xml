@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 23:01:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 00:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electromagnetic-Field Regulation of Sulfur Redox Chemistry in Lithium-Sulfur Batteries: From Mass Transport to Orbital and Spin States</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105585</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105585</guid>
+<pubDate>Fri, 09 Oct 2026 00:01:22 GMT</pubDate>
+<description>این مقاله مروری به تنظیم میدان الکترومغناطیسی شیمی ردوکس گوگرد در باتری‌های لیتیوم-گوگرد از انتقال جرم تا حالت‌های اوربیتالی و اسپینی می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 lithium-sulfur battery · electromagnetic field · sulfur redox · spin states · mass transport</description>
+<category>lithium-sulfur battery</category>
+<category>electromagnetic field</category>
+<category>sulfur redox</category>
+<category>spin states</category>
+<category>mass transport</category>
+</item>
 <item>
 <title>A Standardizable Laboratory‑Scale Device for the Harmonization of Photoelectrochemical Experimental Procedures in Solar Redox Flow Cells</title>
 <link>https://doi.org/10.1002/cey2.70269</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>ultralight current collector</category>
 <category>lean electrolyte</category>
 <category>fast charging</category>
-</item>
-<item>
-<title>Molecular Configuration Engineering of Electrolyte Additives Enables Adaptive Zinc Anodes and Highly Reversible Zn‐S Batteries</title>
-<link>https://doi.org/10.1002/adma.75233</link>
-<guid isPermaLink="false">10.1002/adma.75233</guid>
-<pubDate>Tue, 06 Oct 2026 09:02:01 GMT</pubDate>
-<description>مهندسی آرایش مولکولی افزودنی الکترولیت، آند روی سازگار و باتری‌های Zn-S بسیار برگشت‌پذیر با چرخه‌پذیری طولانی را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This study pioneers a spatial–electronic configuration strategy for electrolyte additives, revealing how molecular geometry governs interfacial adsorption. Benzyltrimethylammonium iodide forms a stable anode layer suppressing parasitic reactions while its iodide catalyzes sulfur redox. The dual-functional design enables 10,000 h Zn cycling and 4,000-cycle Zn–S batteries, offering a holistic pathway for reversible aqueous zinc–sulfur batteries.&lt;br&gt;🏷 zinc-sulfur batteries · electrolyte additive · molecular configuration · zinc anode · sulfur redox</description>
-<category>zinc-sulfur batteries</category>
-<category>electrolyte additive</category>
-<category>molecular configuration</category>
-<category>zinc anode</category>
-<category>sulfur redox</category>
 </item>
 </channel>
 </rss>
