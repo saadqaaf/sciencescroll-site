@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 21:02:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 22:03:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Graphene-Like-Armored Nanosheet Assemblies toward Fast and Stable High-Mass-Loading Sodium Storage</title>
+<link>https://doi.org/10.1021/jacs.6c13892</link>
+<guid isPermaLink="false">10.1021/jacs.6c13892</guid>
+<pubDate>Fri, 09 Oct 2026 22:03:54 GMT</pubDate>
+<description>آند TiO2 دولایه از نانوصفحات 2 نانومتری با زره گرافن‌مانند برای ذخیره سدیم سریع و پایدار در بارگذاری بالا با ظرفیت 2.13 mAh cm-2 ساخته شد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a double-shelled TiO2 anode of cross-distributed 2 nm nanosheets armored with graphene-like carbon, enabling surface-controlled sodium storage. It achieves 2.13 mAh cm–2, 121 mAh g–1 at 100 C, and &amp;gt;90% retention over 3,000 cycles at 10.5 mg cm–2 loading, overcoming the capacity–rate–lifespan trade-off for practical high-power sodium batteries.&lt;br&gt;🏷 sodium-ion battery · TiO2 nanosheets · graphene-like armor · high mass loading · surface-controlled storage</description>
+<category>sodium-ion battery</category>
+<category>TiO2 nanosheets</category>
+<category>graphene-like armor</category>
+<category>high mass loading</category>
+<category>surface-controlled storage</category>
+</item>
+<item>
+<title>Multi-model collaborative early warning for battery systems with integrated fiber optic sensors</title>
+<link>https://doi.org/10.1038/s41467-026-78461-5</link>
+<guid isPermaLink="false">10.1038/s41467-026-78461-5</guid>
+<pubDate>Fri, 09 Oct 2026 22:03:18 GMT</pubDate>
+<description>یک چارچوب هشدار زودهنگام چندمدلی با حسگرهای توزیع‌شده فیبر نوری، با افزایش نقاط دما و استفاده از آنتروپی شانون، زمان هشدار فرار حرارتی باتری را تا ۷۰۶ ثانیه افزایش می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers a multi-model collaborative early-warning framework using distributed fiber optic sensing, increasing temperature measurement points from 32 to 540 with minimal wiring. By linking Shannon entropy to temperature variation, it achieves dynamic warning boundaries, delivering up to 706 s lead time in labs and 554 s in real vehicles—significantly advancing proactive battery thermal-runaway detection.&lt;br&gt;🏷 battery thermal runaway · fiber optic sensors · early warning · distributed temperature sensing · Shannon entropy</description>
+<category>battery thermal runaway</category>
+<category>fiber optic sensors</category>
+<category>early warning</category>
+<category>distributed temperature sensing</category>
+<category>Shannon entropy</category>
+</item>
+<item>
+<title>Universal Ligand-Field Engineering of Layered Vanadium-Based Cathodes for High-Voltage Aqueous Zinc Ion Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c15858</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15858</guid>
+<pubDate>Fri, 09 Oct 2026 22:02:36 GMT</pubDate>
+<description>پیش‌درج‌شدن BMIM+ در اکسیدهای وانادیم لایه‌ای با تنظیم میدان لیگاند، ولتاژ عملیاتی و پایداری چرخه‌ای باتری آبی یون روی را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work pioneers universal ligand-field engineering via organic cation preintercalation to boost vanadium oxide cathode voltage in aqueous zinc batteries. BMIM+ optimally tunes [VO6] coordination, lowering the V 3d-band center to widen V-O energy separation and raise operating voltage, while achieving 505 mAh g–1 and 94% retention over 15,000 cycles. The strategy generalizes to V6O13 and KV3O8, offering broad design principles.&lt;br&gt;🏷 aqueous zinc ion battery · vanadium oxide cathode · ligand-field engineering · BMIM+ preintercalation · high operating voltage</description>
+<category>aqueous zinc ion battery</category>
+<category>vanadium oxide cathode</category>
+<category>ligand-field engineering</category>
+<category>BMIM+ preintercalation</category>
+<category>high operating voltage</category>
+</item>
+<item>
+<title>Electrostatic Adsorption-Driven Surface Reconstruction for Direct Regeneration of Spent LiFePO4 Cathodes</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112484</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112484</guid>
+<pubDate>Fri, 09 Oct 2026 22:01:59 GMT</pubDate>
+<description>این کار با بازسازی سطح القاشده توسط جذب الکترواستاتیک، روشی برای احیای مستقیم کاتدهای مستعمل LiFePO4 ارائه می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · spent battery · electrostatic adsorption · surface reconstruction</description>
+<category>LiFePO4 cathode</category>
+<category>direct regeneration</category>
+<category>spent battery</category>
+<category>electrostatic adsorption</category>
+<category>surface reconstruction</category>
+</item>
+<item>
+<title>Stabilizing Li- and Mn-Rich Layered Cathodes through Oxygen-Redox-Coupled Interphase Transformation</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112487</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112487</guid>
+<pubDate>Fri, 09 Oct 2026 22:01:52 GMT</pubDate>
+<description>این پژوهش با اتصال redox اکسیژن به تبدیل فاز بین‌سطحی، پایداری کاتدهای لایه‌ای غنی از Li و Mn را بهبود می‌بخشد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Li-rich cathode · oxygen redox · interphase transformation · layered oxide · cathode stability</description>
+<category>Li-rich cathode</category>
+<category>oxygen redox</category>
+<category>interphase transformation</category>
+<category>layered oxide</category>
+<category>cathode stability</category>
+</item>
 <item>
 <title>Pioneering MOF-303 in Lithium–Sulfur Batteries: Coordination Defect Engineering Enables Accelerated Sulfur Redox and Dendrite-Free Plating</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02763</link>
@@ -1146,66 +1206,6 @@
 <category>cathode</category>
 <category>multiple active sites</category>
 <category>molten-salt electrolyte</category>
-</item>
-<item>
-<title>Interfacial Electric Field Engineering via Electrostatic Self-Assembled Heterostructure-Modified Separator for Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ta06512k</link>
-<guid isPermaLink="false">10.1039/d6ta06512k</guid>
-<pubDate>Thu, 08 Oct 2026 20:01:38 GMT</pubDate>
-<description>این مقاله با مهندسی میدان الکتریکی بین‌سطحی از طریق جداکننده اصلاح‌شده با هترواستراتور خودآرا، پایداری باتری‌های لیتیوم فلزی را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using electrostatic self-assembly to build a heterostructure-modified separator that engineers the interfacial electric field. This regulates lithium-ion flux and suppresses dendrite growth, enabling stable lithium metal batteries. Its significance is providing a scalable, low-cost strategy to improve safety and cycling life, advancing high-energy-density LMBs toward practical deployment.&lt;br&gt;🏷 lithium metal battery · separator modification · heterostructure · interfacial electric field · self-assembly</description>
-<category>lithium metal battery</category>
-<category>separator modification</category>
-<category>heterostructure</category>
-<category>interfacial electric field</category>
-<category>self-assembly</category>
-</item>
-<item>
-<title>Tunable Nickel Sulfoselenides for Rechargeable Zn-Air Flow Batteries</title>
-<link>https://doi.org/10.1039/d6ta06200h</link>
-<guid isPermaLink="false">10.1039/d6ta06200h</guid>
-<pubDate>Thu, 08 Oct 2026 20:01:31 GMT</pubDate>
-<description>این مقاله نیکل سولفوسلنیدهای قابل تنظیم را برای باتری‌های جریان Zn-air معرفی می‌کند که می‌توانند ذخیره‌سازی انرژی در مقیاس شبکه را بهبود بخشند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Nickel sulfoselenides are tuned as bifunctional catalysts for rechargeable Zn-air flow batteries. By varying the S/Se ratio, the electronic structure and catalytic activity are optimized, enhancing oxygen reduction and evolution. This composition engineering yields improved round-trip efficiency and durability, offering a promising, earth-abundant electrode strategy for scalable grid-level energy storage.&lt;br&gt;🏷 Zn-air battery · nickel sulfoselenide · flow battery · oxygen electrocatalysis · grid storage</description>
-<category>Zn-air battery</category>
-<category>nickel sulfoselenide</category>
-<category>flow battery</category>
-<category>oxygen electrocatalysis</category>
-<category>grid storage</category>
-</item>
-<item>
-<title>Two Faces of the Same Oxide: How Crystal Phase Defines the Nature of Proton Storage in MoO3</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03300</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03300</guid>
-<pubDate>Thu, 08 Oct 2026 19:01:30 GMT</pubDate>
-<description>مقایسه α-MoO3 و h-MoO3 نشان می‌دهد فاز بلوری رفتار ذخیره پروتون را تعیین می‌کند؛ α-MoO3 رفتار باتری‌مانند و h-MoO3 ذخیره شبه‌خازنی غالب دارد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 This study reveals how MoO3 crystal phase dictates proton-storage mechanisms: α-MoO3 enables reversible lattice breathing and multivalent redox for battery-type storage, while h-MoO3 degrades into pseudocapacitive behavior. By linking structural/electronic coherence to performance, it establishes a new design criterion for high-performance proton storage materials.&lt;br&gt;🏷 MoO3 polymorphs · proton storage · crystal phase · pseudocapacitance · electron-proton coupling</description>
-<category>MoO3 polymorphs</category>
-<category>proton storage</category>
-<category>crystal phase</category>
-<category>pseudocapacitance</category>
-<category>electron-proton coupling</category>
-</item>
-<item>
-<title>Cathode Bulk Diffusion Dictates Low‐Temperature Performance in Li‐Ion Batteries: Beyond Electrolyte Engineering</title>
-<link>https://doi.org/10.1002/smll.76123</link>
-<guid isPermaLink="false">10.1002/smll.76123</guid>
-<pubDate>Thu, 08 Oct 2026 17:02:57 GMT</pubDate>
-<description>نفوذ توده‌ای Li+ در کاتد، نه الکترولیت، عامل اصلی افت عملکرد باتری لیتیوم-یون در دمای پایین است.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This study overturns the electrolyte-centric view of low-temperature Li-ion battery failure by decoupling half-cells across 36 electrolytes. It proves cathode bulk Li⁺ diffusion, not interfacial kinetics, is the rate-determining step, with LFP diffusion times surging to 104 h at −30°C. This redirects research toward intrinsic cathode structural engineering.&lt;br&gt;🏷 Li-ion battery · low temperature · cathode diffusion · NCM811 · LFP</description>
-<category>Li-ion battery</category>
-<category>low temperature</category>
-<category>cathode diffusion</category>
-<category>NCM811</category>
-<category>LFP</category>
-</item>
-<item>
-<title>Unlocking High‐Energy Sodium‐Ion Batteries via Chemically Engineered Closed Pores in Hard Carbon</title>
-<link>https://doi.org/10.1002/smll.76093</link>
-<guid isPermaLink="false">10.1002/smll.76093</guid>
-<pubDate>Thu, 08 Oct 2026 17:02:44 GMT</pubDate>
-<description>این مرور، استراتژی‌های مهندسی شیمیایی حفرات بسته در کربن سخت را برای بهبود ظرفیت پلاتو، ICE و چگالی انرژی باتری سدیم-یون بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely links hard carbon microstructure to sodium storage, highlighting chemically mediated closed-pore engineering via heteroatom doping, functional groups, and radical modulation. It establishes structure-property relationships that boost plateau capacity, initial Coulombic efficiency, and energy density, while outlining future integration of in situ spectroscopy, multiscale simulation, and machine learning for predictable, controllable closed-pore design toward practical sodium-ion batteries.&lt;br&gt;🏷 hard carbon · sodium-ion battery · closed pores · anode · pore-filling mechanism</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>closed pores</category>
-<category>anode</category>
-<category>pore-filling mechanism</category>
 </item>
 </channel>
 </rss>
