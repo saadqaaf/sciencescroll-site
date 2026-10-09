@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:02:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 10:01:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reversible Sn4+/Sn0 anode for high-energy-density flow batteries</title>
+<link>https://doi.org/10.1038/s41557-026-02275-7</link>
+<guid isPermaLink="false">10.1038/s41557-026-02275-7</guid>
+<pubDate>Fri, 09 Oct 2026 10:01:39 GMT</pubDate>
+<description>آند برگشت‌پذیر Sn4+/Sn0 برای باتری‌های جریانی با چگالی انرژی بالا معرفی می‌شود که امکان ذخیره‌سازی انرژی کارآمد را فراهم می‌کند.&lt;br&gt;Nature Chemistry | 🔬 Research Article&lt;br&gt;💡 The novelty is using iodide to form SnI62− intermediates that make the Sn4+/Sn2+ couple reversible, enabling a four-electron Sn4+/Sn0 anode. This yields a high-energy-density tin-based aqueous flow battery with 205 Wh l−1 anolyte energy density, 89% energy efficiency, and a kilowatt-scale stack stable over 1,000 hours.&lt;br&gt;🏷 tin anode · flow battery · Sn4+/Sn0 redox · high energy density · reversible anode</description>
+<category>tin anode</category>
+<category>flow battery</category>
+<category>Sn4+/Sn0 redox</category>
+<category>high energy density</category>
+<category>reversible anode</category>
+</item>
+<item>
+<title>A Coupled Electrolyte Design to Reconcile Multielectron Iodine Redox With Zn Anode Reversibility for Durable Aqueous Zinc‐Iodine Batteries</title>
+<link>https://doi.org/10.1002/sus2.70102</link>
+<guid isPermaLink="false">10.1002/sus2.70102</guid>
+<pubDate>Fri, 09 Oct 2026 10:01:17 GMT</pubDate>
+<description>طراحی الکترولیت کوپل شده با ChCl و AM در ZnSO4، احیای چندالکترونی ید و پایداری آند Zn را برای باتری‌های آبی Zn-I2 پایدار فراهم می‌کند.&lt;br&gt;SusMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work couples choline chloride and acrylamide in ZnSO₄ electrolyte to simultaneously enable high-valence iodine redox via stable ICl intermediates and in situ form a PAM-Ch⁺ SEI on Zn. It reconciles multielectron iodine conversion with Zn reversibility, achieving 5000 h Zn stability and 6000-cycle Zn||I₂ durability, offering a design strategy for high-energy aqueous batteries.&lt;br&gt;🏷 zinc-iodine battery · electrolyte design · multielectron redox · solid electrolyte interphase · Zn anode reversibility</description>
+<category>zinc-iodine battery</category>
+<category>electrolyte design</category>
+<category>multielectron redox</category>
+<category>solid electrolyte interphase</category>
+<category>Zn anode reversibility</category>
+</item>
 <item>
 <title>Hollow-structured materials for lithium–sulfur batteries: Design principles, mechanistic insights, and practical limitations</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218490</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work first links pla
 <category>temperature stability</category>
 <category>miniaturization</category>
 <category>dielectrics</category>
-</item>
-<item>
-<title>Lotus-thread derived porous carbon frameworks with tailored Fe–N x active centres for enhanced charge storage in zinc ion hybrid supercapacitors</title>
-<link>https://doi.org/10.1039/d6ta02510b</link>
-<guid isPermaLink="false">10.1039/d6ta02510b</guid>
-<pubDate>Tue, 06 Oct 2026 17:02:09 GMT</pubDate>
-<description>کربن متخلخل مشتق از الیاف نیلوفر با مراکز فعال Fe-Nx جداگانه، ظرفیت ویژه ابرخازن هیبریدی یون روی را به طور چشمگیری افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Lotus-thread biomass is converted into porous carbon hosting isolated Fe–Nₓ sites, a new electrode design for zinc-ion hybrid supercapacitors. This dual strategy couples biomass-derived porosity with atomically dispersed catalytic centres, boosting specific capacitance and charge storage. It advances sustainable, high-performance ZIHSC cathodes and demonstrates tailoring single-atom sites in waste-derived carbons.&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · porous carbon · Fe-Nx active sites · lotus-thread · charge storage</description>
-<category>zinc-ion hybrid supercapacitor</category>
-<category>porous carbon</category>
-<category>Fe-Nx active sites</category>
-<category>lotus-thread</category>
-<category>charge storage</category>
-</item>
-<item>
-<title>In-situ-Constructed Interpenetrating Network Polymer Electrolyte with Shape-Memory Functionality</title>
-<link>https://doi.org/10.1039/d6ta04178g</link>
-<guid isPermaLink="false">10.1039/d6ta04178g</guid>
-<pubDate>Tue, 06 Oct 2026 17:01:57 GMT</pubDate>
-<description>الکترولیت پلیمری شبکه درهم‌نفوذی با خاصیت حافظه‌شکل درجا ساخته شد تا تغییرشکل برگشت‌ناپذیر ابرخازن‌های پوشیدنی را برطرف کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work introduces an in-situ-constructed interpenetrating network polymer electrolyte with shape-memory functionality, enabling supercapacitors to recover from deformation. The novelty lies in combining dynamic covalent networks with ionic conductivity, while significance rests on enhancing durability and lifespan for wearable energy storage, addressing irreversible stress-induced damage.&lt;br&gt;🏷 polymer electrolyte · shape memory · supercapacitor · interpenetrating network · wearable energy storage</description>
-<category>polymer electrolyte</category>
-<category>shape memory</category>
-<category>supercapacitor</category>
-<category>interpenetrating network</category>
-<category>wearable energy storage</category>
 </item>
 </channel>
 </rss>
