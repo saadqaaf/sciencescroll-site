@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 08:02:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 09:01:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multiscale spatial engineering of freestanding Si/C nanofiber anodes: Architectural regulation of transport kinetics and structural stability</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122205</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122205</guid>
+<pubDate>Sat, 10 Oct 2026 09:01:34 GMT</pubDate>
+<description>مهندسی فضایی چندمقیاسی آندهای نانوالیاف Si/C خودایستا برای تنظیم سینتیک انتقال و پایداری ساختاری در باتری لیتیوم-یون انجام شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 Si/C nanofiber anodes · freestanding electrodes · lithium-ion battery · transport kinetics · structural stability</description>
+<category>Si/C nanofiber anodes</category>
+<category>freestanding electrodes</category>
+<category>lithium-ion battery</category>
+<category>transport kinetics</category>
+<category>structural stability</category>
+</item>
 <item>
 <title>Synergistic local electronic regulation and interfacial reconstruction toward high-voltage and long-life manganese-based Prussian blue cathodes for potassium-ion batteries</title>
 <link>https://doi.org/10.1016/j.nanoen.2026.112490</link>
@@ -1194,18 +1206,6 @@
 <category>real-time estimation</category>
 <category>single-step approach</category>
 <category>battery model</category>
-</item>
-<item>
-<title>Asymmetric electronic regulation of iron sites induced by axial sulfur coordination in the first sphere for enhanced oxygen reduction reaction in Mg-air and Zn-air batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125098</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125098</guid>
-<pubDate>Fri, 09 Oct 2026 04:02:00 GMT</pubDate>
-<description>تنظیم الکترونی نامتقارن سایت‌های آهن با کوئوردیناسیون محوری گوگرد برای بهبود واکنش کاهش اکسیژن در باتری‌های Mg-air و Zn-air بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 oxygen reduction reaction · iron single-atom · axial sulfur coordination · Mg-air battery · Zn-air battery</description>
-<category>oxygen reduction reaction</category>
-<category>iron single-atom</category>
-<category>axial sulfur coordination</category>
-<category>Mg-air battery</category>
-<category>Zn-air battery</category>
 </item>
 </channel>
 </rss>
