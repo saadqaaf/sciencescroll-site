@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 07:02:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 08:02:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic local electronic regulation and interfacial reconstruction toward high-voltage and long-life manganese-based Prussian blue cathodes for potassium-ion batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112490</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112490</guid>
+<pubDate>Sat, 10 Oct 2026 08:01:34 GMT</pubDate>
+<description>تنظیم الکترونیکی موضعی و بازسازی بین‌سطحی برای کاتدهای منگنز-پروسین بلو در باتری‌های پتاسیم-یون با ولتاژ بالا و عمر طولانی به کار رفت.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 potassium-ion batteries · Prussian blue cathodes · manganese-based · interfacial reconstruction · electronic regulation</description>
+<category>potassium-ion batteries</category>
+<category>Prussian blue cathodes</category>
+<category>manganese-based</category>
+<category>interfacial reconstruction</category>
+<category>electronic regulation</category>
+</item>
+<item>
+<title>Solvent-Coordination-Controlled Separation of Critical Metals from Spent Li-ion Batteries with Full Solvent Recovery</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112485</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112485</guid>
+<pubDate>Sat, 10 Oct 2026 08:01:25 GMT</pubDate>
+<description>جداسازی فلزات بحرانی از باتری‌های لیتیوم-یونی مستعمل با کنترل کوئوردیناسیون حلال و بازیابی کامل حلال انجام شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 spent Li-ion batteries · critical metal separation · solvent coordination · solvent recovery · recycling</description>
+<category>spent Li-ion batteries</category>
+<category>critical metal separation</category>
+<category>solvent coordination</category>
+<category>solvent recovery</category>
+<category>recycling</category>
+</item>
 <item>
 <title>Interfacial Instability of Halide Solid Electrolytes and Oxide Cathodes Under Low‐Humidity Dry‐Room Conditions</title>
 <link>https://doi.org/10.1002/adfm.78894</link>
@@ -1182,30 +1206,6 @@
 <category>axial sulfur coordination</category>
 <category>Mg-air battery</category>
 <category>Zn-air battery</category>
-</item>
-<item>
-<title>Triple synergy of anion immobilization continuous channels and segmental activation for high-performance polymer solid electrolytes</title>
-<link>https://doi.org/10.1016/j.est.2026.125114</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125114</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:56 GMT</pubDate>
-<description>هم‌افزایی تثبیت آنیون در کانال‌های پیوسته و فعال‌سازی قطعه‌ای برای الکترولیت جامد پلیمری با عملکرد بالا در باتری لیتیم ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 polymer solid electrolyte · anion immobilization · segmental activation · continuous channels · lithium battery</description>
-<category>polymer solid electrolyte</category>
-<category>anion immobilization</category>
-<category>segmental activation</category>
-<category>continuous channels</category>
-<category>lithium battery</category>
-</item>
-<item>
-<title>Recent advances in electrolyte engineering, electrode design, and separator optimization for lithium-ion batteries operating under extreme temperatures</title>
-<link>https://doi.org/10.1016/j.est.2026.125041</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125041</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:45 GMT</pubDate>
-<description>این مقاله مروری، پیشرفت‌های اخیر در مهندسی الکترولیت، طراحی الکترود و بهینه‌سازی جداکننده برای باتری‌های لیتیوم-یونی در دماهای حدی را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 extreme temperatures · electrolyte engineering · electrode design · separator optimization · lithium-ion battery</description>
-<category>extreme temperatures</category>
-<category>electrolyte engineering</category>
-<category>electrode design</category>
-<category>separator optimization</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
