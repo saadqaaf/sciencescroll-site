@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 16:01:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 17:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Improving the Calendar Life of Silicon Anodes with Inorganic Solid–Electrolyte Interphases</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02871</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02871</guid>
+<pubDate>Sat, 10 Oct 2026 17:01:27 GMT</pubDate>
+<description>الکترولیت LSCE با نمک مخلوط، SEI عمدتاً معدنی روی آند سیلیکونی تشکیل می‌دهد و پس از پنج ماه ۴۴٪ ظرفیت اولیه را حفظ می‌کند، در حالی که الکترولیت کربناته تنها ۱٪ باقی می‌ماند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uniquely contrasts calendar aging in single- and mixed-salt locally superconcentrated electrolytes versus carbonate electrolytes, showing mixed-salt LSCEs form predominantly inorganic SEIs that dramatically extend silicon anode calendar life (96% vs. 77% capacity after one month). It identifies SEI reinforcement via controlled anion/solvent redox as a key strategy, offering significant guidance for durable high-energy silicon anode batteries.&lt;br&gt;🏷 silicon anode · solid-electrolyte interphase · calendar life · localized superconcentrated electrolyte · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>solid-electrolyte interphase</category>
+<category>calendar life</category>
+<category>localized superconcentrated electrolyte</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>A physics-informed digital twin reveals the mechanistic threshold for knee-point onset in lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105589</link>
@@ -1194,18 +1206,6 @@
 <category>quaternary ammonium lignin</category>
 <category>NaF-rich SEI</category>
 <category>ionic conductivity</category>
-</item>
-<item>
-<title>Radical Passivation to Incubate Closed Pore Structure and Surface Functionalities of Hard Carbon for High‐Efficiency Sodium Storage</title>
-<link>https://doi.org/10.1002/adfm.78965</link>
-<guid isPermaLink="false">10.1002/adfm.78965</guid>
-<pubDate>Fri, 09 Oct 2026 11:02:18 GMT</pubDate>
-<description>استراتژی غیرفعالسازی رادیکالی برای ساخت کربن سخت با حفرات بسته و گروههای سطحی، ظرفیت سدیم را ۵۰٪ افزایش داده و بازدهی کولمبی اولیه را بهبود میبخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a radical passivation strategy using oxygen-rich species to passivate hydroxyl radicals, creating pseudographitic carbon microdomains with closed pores, expanded interlayer spacing, and C═O functionalities. This enables high sodium storage: 354.7 mAh g⁻¹, 85.8% initial Coulombic efficiency, and excellent cycling. It offers a design insight for regulating hard carbon architecture toward advanced sodium-ion batteries.&lt;br&gt;🏷 hard carbon · sodium-ion battery · radical passivation · closed pore · anode</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>radical passivation</category>
-<category>closed pore</category>
-<category>anode</category>
 </item>
 </channel>
 </rss>
