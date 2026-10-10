@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 01:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 02:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamic Lewis acid tuning and structural leverage in monoclinic strontium manganese oxides as bifunctional electrocatalysts for zinc–air batteries</title>
+<link>https://doi.org/10.1039/d6ta06757c</link>
+<guid isPermaLink="false">10.1039/d6ta06757c</guid>
+<pubDate>Sat, 10 Oct 2026 02:01:10 GMT</pubDate>
+<description>تنظیم دینامیک اسید لوویس و اهرم ساختاری در اکسیدهای منگنز استرانسیم مونوکلینیک به عنوان الکتروکاتالیست دوعملکردی برای باتری‌های روی-هوا.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work tunes Lewis acidity and structure in monoclinic strontium manganese oxides to boost bifunctional ORR/OER activity. The dynamic Lewis acid modulation and structural leverage strategy yields an efficient, durable electrocatalyst for zinc–air batteries, offering a promising route to overcome sluggish oxygen kinetics and advance sustainable energy storage.&lt;br&gt;🏷 zinc-air battery · strontium manganese oxide · bifunctional electrocatalyst · oxygen reduction · oxygen evolution</description>
+<category>zinc-air battery</category>
+<category>strontium manganese oxide</category>
+<category>bifunctional electrocatalyst</category>
+<category>oxygen reduction</category>
+<category>oxygen evolution</category>
+</item>
 <item>
 <title>Reconstructing long-time voltage relaxation from short pulse tests for faster battery testing and modeling</title>
 <link>https://doi.org/10.1016/j.est.2026.125004</link>
@@ -1194,18 +1206,6 @@
 <category>energy storage system</category>
 <category>deployment-aware</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>In-situ fabrication of an interface-integrated asymmetric bilayer composite solid electrolyte for high-performance lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125066</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125066</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:20 GMT</pubDate>
-<description>این پژوهش با ساخت درجای الکترولیت جامد کامپوزیتی نامتقارن دوجزئی، عملکرد باتری‌های فلز لیتیوم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 composite solid electrolyte · asymmetric bilayer · lithium metal battery · interface integration · in-situ fabrication</description>
-<category>composite solid electrolyte</category>
-<category>asymmetric bilayer</category>
-<category>lithium metal battery</category>
-<category>interface integration</category>
-<category>in-situ fabrication</category>
 </item>
 </channel>
 </rss>
