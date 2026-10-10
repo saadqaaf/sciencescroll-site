@@ -5,8 +5,104 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 23:05:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 00:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reconstructing long-time voltage relaxation from short pulse tests for faster battery testing and modeling</title>
+<link>https://doi.org/10.1016/j.est.2026.125004</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125004</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:53 GMT</pubDate>
+<description>روشی برای بازسازی آسایش ولتاژ بلندمدت از آزمون‌های پالس کوتاه ارائه می‌شود تا آزمون و مدل‌سازی باتری سریع‌تر شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 voltage relaxation · battery testing · pulse test · lithium-ion battery · battery modeling</description>
+<category>voltage relaxation</category>
+<category>battery testing</category>
+<category>pulse test</category>
+<category>lithium-ion battery</category>
+<category>battery modeling</category>
+</item>
+<item>
+<title>Phytoremediation-inspired biomass-derived hierarchical porous carbon embedded with binary metal sulfide for hybrid supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125026</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125026</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:49 GMT</pubDate>
+<description>کربن متخلخل سلسله‌مراتبی مشتق از زیست‌توده با الهام از گیاه‌پالایی و حاوی سولفید فلزی دوتایی برای ابرخازن‌های هیبریدی سنتز شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid supercapacitor · biomass-derived carbon · binary metal sulfide · hierarchical porous carbon · phytoremediation-inspired</description>
+<category>hybrid supercapacitor</category>
+<category>biomass-derived carbon</category>
+<category>binary metal sulfide</category>
+<category>hierarchical porous carbon</category>
+<category>phytoremediation-inspired</category>
+</item>
+<item>
+<title>Flexible interconnection of highway service-area multi-microgrids via mobile energy storage: A coordinated stochastic planning framework</title>
+<link>https://doi.org/10.1016/j.est.2026.125045</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125045</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:44 GMT</pubDate>
+<description>یک چارچوب برنامه‌ریزی تصادفی هماهنگ برای اتصال انعطاف‌پذیر چند ریزشبکه در مجتمع‌های خدماتی بزرگراه از طریق ذخیره‌سازی انرژی سیار ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 mobile energy storage · multi-microgrid interconnection · stochastic planning · highway service area · coordinated framework</description>
+<category>mobile energy storage</category>
+<category>multi-microgrid interconnection</category>
+<category>stochastic planning</category>
+<category>highway service area</category>
+<category>coordinated framework</category>
+</item>
+<item>
+<title>Numerical and experimental evaluation of cooling strategies for prismatic li-ion battery modules designed for containerised energy storage</title>
+<link>https://doi.org/10.1016/j.est.2026.124998</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124998</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:37 GMT</pubDate>
+<description>راهبردهای خنک‌کاری برای ماژول‌های باتری لیتیوم-یونی منشوری در ذخیره‌سازی انرژی کانتینری به‌صورت عددی و تجربی ارزیابی شدند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 prismatic Li-ion module · containerized energy storage · cooling strategies · thermal management · numerical simulation</description>
+<category>prismatic Li-ion module</category>
+<category>containerized energy storage</category>
+<category>cooling strategies</category>
+<category>thermal management</category>
+<category>numerical simulation</category>
+</item>
+<item>
+<title>Experimental investigation of cell arrangement, spacing, and airflow in a forced-air-cooled battery thermal management system for cylindrical lithium-ion cells</title>
+<link>https://doi.org/10.1016/j.est.2026.125116</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125116</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:33 GMT</pubDate>
+<description>اثر چیدمان، فاصله و جریان هوا بر خنک‌کاری اجباری هوایی باتری‌های لیتیوم-یونی استوانه‌ای به‌صورت تجربی بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · forced-air cooling · cylindrical lithium-ion · cell arrangement · airflow spacing</description>
+<category>battery thermal management</category>
+<category>forced-air cooling</category>
+<category>cylindrical lithium-ion</category>
+<category>cell arrangement</category>
+<category>airflow spacing</category>
+</item>
+<item>
+<title>Mapping the coupled degradation pathways of solid-state batteries through granular text mining</title>
+<link>https://doi.org/10.1016/j.est.2026.125002</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125002</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:25 GMT</pubDate>
+<description>با متن‌کاوی داده‌های دانه‌ای، مسیرهای تخریب جفت‌شده در باتری‌های حالت جامد ترسیم شد تا درک بهتری از افت عملکرد حاصل شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · degradation pathways · text mining · granular analysis · battery degradation</description>
+<category>solid-state battery</category>
+<category>degradation pathways</category>
+<category>text mining</category>
+<category>granular analysis</category>
+<category>battery degradation</category>
+</item>
+<item>
+<title>Uni-Mamba: A unified framework for cross-material and cross-condition battery state-of-health estimation via domain-adaptive state space models</title>
+<link>https://doi.org/10.1016/j.est.2026.125033</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125033</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:21 GMT</pubDate>
+<description>یک چارچوب یکپارچه Uni-Mamba با مدل‌های فضای حالت سازگار با دامنه، تخمین سلامت باتری را در مواد و شرایط مختلف ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery state-of-health · domain adaptation · state space model · cross-material estimation · Mamba</description>
+<category>battery state-of-health</category>
+<category>domain adaptation</category>
+<category>state space model</category>
+<category>cross-material estimation</category>
+<category>Mamba</category>
+</item>
+<item>
+<title>Metal organic framework derived cobalt phosphide nitrogen-doped carbon coated by cobalt-manganese oxide nanoflakes and two-dimensional MXene based electrodes for energy-dense quasi-solid-state supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.124894</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124894</guid>
+<pubDate>Sat, 10 Oct 2026 00:01:17 GMT</pubDate>
+<description>الکترودهای مبتنی بر کبالت فسفید/کربن دوپه‌شده با نیتروژن مشتق از MOF پوشیده با نانوصفحات اکسید کبالت-منگنز و MXene برای ابرخازن‌های شبه‌جامد پرانرژی ساخته شدند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 quasi-solid-state supercapacitor · MXene · cobalt phosphide · MOF-derived carbon · cobalt-manganese oxide</description>
+<category>quasi-solid-state supercapacitor</category>
+<category>MXene</category>
+<category>cobalt phosphide</category>
+<category>MOF-derived carbon</category>
+<category>cobalt-manganese oxide</category>
+</item>
 <item>
 <title>Synergistic Electrostatic and Mechanical Anchoring at Cathode–Current Collector Junctions for Durable Sodium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/smll.75852</link>
@@ -1110,102 +1206,6 @@
 <category>lithium metal battery</category>
 <category>interface integration</category>
 <category>in-situ fabrication</category>
-</item>
-<item>
-<title>Thermophysical characterization, kinetic analysis, and multi-response optimization of paraffin wax/eicosane binary mixtures for lithium-ion battery thermal management system</title>
-<link>https://doi.org/10.1016/j.est.2026.125081</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125081</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:16 GMT</pubDate>
-<description>این مقاله مشخصه‌های ترموفیزیکی و سینتیکی مخلوط‌های پارافین/ایکوزان را برای سیستم مدیریت حرارتی باتری لیتیوم-یونی بهینه‌سازی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 paraffin wax · eicosane · phase change material · battery thermal management · multi-response optimization</description>
-<category>paraffin wax</category>
-<category>eicosane</category>
-<category>phase change material</category>
-<category>battery thermal management</category>
-<category>multi-response optimization</category>
-</item>
-<item>
-<title>Suppression of thermal runaway in lithium-ion battery modules using zonal variable flow immersion cooling</title>
-<link>https://doi.org/10.1016/j.est.2026.125043</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125043</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:12 GMT</pubDate>
-<description>این پژوهش با خنک‌کاری غوطه‌وری جریان متغیر ناحیه‌ای، فرار حرارتی در ماژول‌های باتری لیتیوم-یونی را سرکوب می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway suppression · immersion cooling · zonal variable flow · Li-ion battery module · battery safety</description>
-<category>thermal runaway suppression</category>
-<category>immersion cooling</category>
-<category>zonal variable flow</category>
-<category>Li-ion battery module</category>
-<category>battery safety</category>
-</item>
-<item>
-<title>Enhancing the performance of cylindrical Li-ion batteries via mechanical preload and optimization of impedance</title>
-<link>https://doi.org/10.1016/j.est.2026.125016</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125016</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:07 GMT</pubDate>
-<description>این مقاله با اعمال پیش‌بار مکانیکی و بهینه‌سازی امپدانس، عملکرد باتری‌های لیتیوم-یونی استوانه‌ای را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cylindrical Li-ion battery · mechanical preload · impedance optimization · battery performance · cell compression</description>
-<category>cylindrical Li-ion battery</category>
-<category>mechanical preload</category>
-<category>impedance optimization</category>
-<category>battery performance</category>
-<category>cell compression</category>
-</item>
-<item>
-<title>Tiny Pores, Big Stories: Perforating MXenes for Through-Sheet Transport in Energy and Environmental Applications</title>
-<link>https://doi.org/10.1021/accountsmr.6c00209</link>
-<guid isPermaLink="false">10.1021/accountsmr.6c00209</guid>
-<pubDate>Fri, 09 Oct 2026 02:02:57 GMT</pubDate>
-<description>این مقاله مروری استدلال میکند که ایجاد حفرههای درونصفحهای در MXene مسیرهای عرضی انتقال یون و مولکول را کوتاه کرده و عملکرد الکترودها و غشاهای متراکم را بهبود میدهد.&lt;br&gt;Accounts of Materials Research | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This Account establishes in-plane perforation as a design principle converting lamellar MXenes into through-sheet transport platforms. It unifies oxidative perforation routes, reveals a common oxidation-driven pore-formation pathway, and links transverse transport to gains in supercapacitors, batteries, deionization, and membranes. It also flags the stability–transport trade-off, positioning holey MXenes as transport-engineered 2D materials.&lt;br&gt;🏷 MXene · in-plane pores · through-sheet transport · holey MXene · ion diffusion</description>
-<category>MXene</category>
-<category>in-plane pores</category>
-<category>through-sheet transport</category>
-<category>holey MXene</category>
-<category>ion diffusion</category>
-</item>
-<item>
-<title>Interfacial Engineering-Induced Mechanically Robust LiF/Li2O Hybrid SEI Enables Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112482</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112482</guid>
-<pubDate>Fri, 09 Oct 2026 02:01:31 GMT</pubDate>
-<description>این پژوهش با مهندسی بین‌سطحی، لایه SEI هیبریدی LiF/Li2O با استحکام مکانیکی بالا ایجاد می‌کند که باتری‌های لیتیوم-فلز پایدار را ممکن می‌سازد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · solid electrolyte interphase · LiF/Li2O hybrid · interfacial engineering · mechanical robustness</description>
-<category>lithium metal battery</category>
-<category>solid electrolyte interphase</category>
-<category>LiF/Li2O hybrid</category>
-<category>interfacial engineering</category>
-<category>mechanical robustness</category>
-</item>
-<item>
-<title>Organic acid hydrometallurgy for recycling spent lithium-ion batteries from cell phones: A critical review of leaching performance, process parameters, and applications of recovered materials</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112471</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112471</guid>
-<pubDate>Fri, 09 Oct 2026 02:01:22 GMT</pubDate>
-<description>این مقاله مروری، بازیافت باتری‌های لیتیوم-یونی مستعمل گوشی‌های همراه با هیدرومتالورژی اسیدهای آلی را از نظر عملکرد لیچینگ، پارامترهای فرآیند و کاربرد مواد بازیافتی بررسی می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 lithium-ion battery recycling · organic acid leaching · hydrometallurgy · spent batteries · recovered materials</description>
-<category>lithium-ion battery recycling</category>
-<category>organic acid leaching</category>
-<category>hydrometallurgy</category>
-<category>spent batteries</category>
-<category>recovered materials</category>
-</item>
-<item>
-<title>Electromagnetic-Field Regulation of Sulfur Redox Chemistry in Lithium-Sulfur Batteries: From Mass Transport to Orbital and Spin States</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105585</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105585</guid>
-<pubDate>Fri, 09 Oct 2026 00:01:22 GMT</pubDate>
-<description>این مقاله مروری به تنظیم میدان الکترومغناطیسی شیمی ردوکس گوگرد در باتری‌های لیتیوم-گوگرد از انتقال جرم تا حالت‌های اوربیتالی و اسپینی می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 lithium-sulfur battery · electromagnetic field · sulfur redox · spin states · mass transport</description>
-<category>lithium-sulfur battery</category>
-<category>electromagnetic field</category>
-<category>sulfur redox</category>
-<category>spin states</category>
-<category>mass transport</category>
-</item>
-<item>
-<title>A Standardizable Laboratory‑Scale Device for the Harmonization of Photoelectrochemical Experimental Procedures in Solar Redox Flow Cells</title>
-<link>https://doi.org/10.1002/cey2.70269</link>
-<guid isPermaLink="false">10.1002/cey2.70269</guid>
-<pubDate>Thu, 08 Oct 2026 23:01:14 GMT</pubDate>
-<description>یک دستگاه آزمایشگاهی استانداردپذیر برای هماهنگ‌سازی آزمون‌های سلول جریان ردوکس خورشیدی معرفی می‌کند که با فوتوالکترود هماتیت، چگالی جریان ۰٫۴۵ mA/cm² را در ۱۰۰۰ ساعت حفظ کرد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in proposing the UniFlow Cell, a compact, standardizable laboratory device designed to harmonize photoelectrochemical testing protocols for solar redox flow cells, addressing the lack of benchmarking standards. Its significance is demonstrated by sustained photocurrent over 1000 hours, establishing a reference for reliable, comparable SRFC research.&lt;br&gt;🏷 solar redox flow cell · photoelectrochemical device · hematite photoelectrode · standardization · long-term stability</description>
-<category>solar redox flow cell</category>
-<category>photoelectrochemical device</category>
-<category>hematite photoelectrode</category>
-<category>standardization</category>
-<category>long-term stability</category>
 </item>
 </channel>
 </rss>
