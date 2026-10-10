@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 20:01:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 21:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Competing Magnetic Configurations Enable Low-Field Magnetoresistance Switching in Cr3Te4</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02943</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02943</guid>
+<pubDate>Sat, 10 Oct 2026 21:01:35 GMT</pubDate>
+<description>در Cr3Te4، نزدیکی انرژی پیکربندی‌های مغناطیسی موازی و پادموازی امکان سوئیچینگ مقاومت مغناطیسی تا ۳۷.۶٪ را در میدان کم ۰.۲۵ تسلا فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 Cr3Te4 · magnetoresistance switching · competing magnetic configurations · Boltzmann transport · Co substitution</description>
+<category>Cr3Te4</category>
+<category>magnetoresistance switching</category>
+<category>competing magnetic configurations</category>
+<category>Boltzmann transport</category>
+<category>Co substitution</category>
+</item>
+<item>
+<title>Experimental Signature of Transient Symmetry Breaking in a Cavity Dirty-Limit Superconductor</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03749</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03749</guid>
+<pubDate>Sat, 10 Oct 2026 21:01:28 GMT</pubDate>
+<description>طیف‌سنجی تراهرتز پمپ-پروب در ابررسانای محدودیت آلوده نشان می‌دهد میدان تراهرتز قوی با تزریق ابرجریان پیکوثانیه‌ای، شکست تقارن گذرا ایجاد می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 transient symmetry breaking · dirty-limit superconductor · terahertz spectroscopy · split-ring resonator cavity · supercurrent</description>
+<category>transient symmetry breaking</category>
+<category>dirty-limit superconductor</category>
+<category>terahertz spectroscopy</category>
+<category>split-ring resonator cavity</category>
+<category>supercurrent</category>
+</item>
+<item>
+<title>Probing Valence Electron Distributions at Subatomic Resolution in a Charge Density Wave Material</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04038</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04038</guid>
+<pubDate>Sat, 10 Oct 2026 21:01:25 GMT</pubDate>
+<description>با CBED در 4D-STEM، توزیع الکترون‌های ظرفیت در ماده موج چگالی بار 1T-TaS2 در مقیاس زیراتمی بررسی و نارسایی مدل اتم مستقل نشان داده می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 charge density wave · 4D-STEM · convergent-beam electron diffraction · valence electron distribution · 1T-TaS2</description>
+<category>charge density wave</category>
+<category>4D-STEM</category>
+<category>convergent-beam electron diffraction</category>
+<category>valence electron distribution</category>
+<category>1T-TaS2</category>
+</item>
+<item>
+<title>Continuously Tunable Localized Surface Plasmon Resonance of Anisotropic Gold Nanopolyhedrons for Multiplexed Surface-Enhanced Raman Scattering Imaging</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03822</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03822</guid>
+<pubDate>Sat, 10 Oct 2026 21:01:21 GMT</pubDate>
+<description>تنظیم پیوسته نسبت ابعاد نانوچندوجهی‌های طلا، تشدید پلاسمون سطحی موضعی را برای تطبیق طیفی با طول‌موج‌های تحریک و رامان و تصویربرداری چندگانه SERS بهینه می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 gold nanopolyhedrons · surface-enhanced Raman scattering · localized surface plasmon resonance · multiplex bioimaging · aspect ratio tuning</description>
+<category>gold nanopolyhedrons</category>
+<category>surface-enhanced Raman scattering</category>
+<category>localized surface plasmon resonance</category>
+<category>multiplex bioimaging</category>
+<category>aspect ratio tuning</category>
+</item>
 <item>
 <title>Bio-inspired in-situ CO2 foaming opens up rapid Li+ transport channels in quasi-solid polymer electrolytes for lithium-metal batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125068</link>
@@ -1169,54 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 photocatalysis · carbazo
 <category>Dirac source</category>
 <category>linear IV</category>
 <category>low dark current</category>
-</item>
-<item>
-<title>Oceanic In Situ Power via Chaotic Multi‐Energy Harvesters</title>
-<link>https://doi.org/10.1002/adfm.78926</link>
-<guid isPermaLink="false">10.1002/adfm.78926</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:39 GMT</pubDate>
-<description>برداشت‌کننده چندانرژی با نانوژنراتورهای تریبوالکتریک باد-موج و ساختار پاندول آشوبی، چگالی توان ۴۸ W/m3 و بازده ۱۱.۷٪ را برای پایش رادیواکتیو دریایی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 triboelectric nanogenerator · ocean energy harvesting · chaotic pendulum · wind-wave energy · radioactive monitoring</description>
-<category>triboelectric nanogenerator</category>
-<category>ocean energy harvesting</category>
-<category>chaotic pendulum</category>
-<category>wind-wave energy</category>
-<category>radioactive monitoring</category>
-</item>
-<item>
-<title>Interfacial Multidentate Chelation Enabled Anti‐Aggregation Self‐Assembled Monolayers for High‐Performance Inverted Perovskite Solar Cells</title>
-<link>https://doi.org/10.1002/adfm.78980</link>
-<guid isPermaLink="false">10.1002/adfm.78980</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:35 GMT</pubDate>
-<description>استراتژی کیلیت چنددندانه‌ای بین‌سطحی با TERPY از تجمع SAM جلوگیری کرده و نقص‌های سطح مشترک مدفون را در سلول‌های خورشیدی پروسکایتی معکوس کاهش می‌دهد و بازده ۲۶.۲۳٪ را به دست می‌آورد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 inverted perovskite solar cell · self-assembled monolayer · anti-aggregation · multidentate chelation · buried interface</description>
-<category>inverted perovskite solar cell</category>
-<category>self-assembled monolayer</category>
-<category>anti-aggregation</category>
-<category>multidentate chelation</category>
-<category>buried interface</category>
-</item>
-<item>
-<title>Entropy‐Engineered Fluorite Surfaces for Oxygen Catalysis and Humidity Tolerance in Reversible Protonic Ceramic Cells</title>
-<link>https://doi.org/10.1002/adfm.78927</link>
-<guid isPermaLink="false">10.1002/adfm.78927</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:32 GMT</pubDate>
-<description>مهندسی آنتروپی سطح فلوریت با پوشش PNLSC بر PBCC، فعالیت ORR/OER و مقاومت رطوبتی الکترود هوا در سلول‌های سرامیکی پروتونی برگشت‌پذیر را بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 reversible protonic ceramic cell · entropy engineering · fluorite catalyst · oxygen catalysis · humidity tolerance</description>
-<category>reversible protonic ceramic cell</category>
-<category>entropy engineering</category>
-<category>fluorite catalyst</category>
-<category>oxygen catalysis</category>
-<category>humidity tolerance</category>
-</item>
-<item>
-<title>Synergistic Microphase Separation and Interfacial Microenvironment Regulation in Fluorinated Polybenzimidazole Membranes for Efficient Electrocatalytic CO 2 Reduction</title>
-<link>https://doi.org/10.1002/adfm.78973</link>
-<guid isPermaLink="false">10.1002/adfm.78973</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:29 GMT</pubDate>
-<description>غشای پلی‌بنزیمیدازول فلوئورینه با کاتیون‌های دوگانه برای احیای الکتروکاتالیستی CO2 طراحی شده که رسانایی OH- بالا، گزینش‌پذیری ۶۷٪ و پایداری ۱۰۰ ساعته را ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 anion exchange membrane · CO2 reduction · fluorinated polybenzimidazole · dual cations · microphase separation</description>
-<category>anion exchange membrane</category>
-<category>CO2 reduction</category>
-<category>fluorinated polybenzimidazole</category>
-<category>dual cations</category>
-<category>microphase separation</category>
 </item>
 </channel>
 </rss>
