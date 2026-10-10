@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 00:01:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 01:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Through-thickness Inductive Imaging for Monitoring of Features in Thin-Ply CFRP Unidirectional Tapes</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114275</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114275</guid>
+<pubDate>Sat, 10 Oct 2026 01:01:02 GMT</pubDate>
+<description>این مقاله روش تصویربرداری القایی در ضخامت را برای پایش عیوب و ویژگی‌های نوارهای تک‌جهته CFRP نازک‌لایه ارائه و ارزیابی می‌کند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CFRP tapes · inductive imaging · through-thickness · thin-ply · nondestructive evaluation</description>
+<category>CFRP tapes</category>
+<category>inductive imaging</category>
+<category>through-thickness</category>
+<category>thin-ply</category>
+<category>nondestructive evaluation</category>
+</item>
+<item>
+<title>In Situ Analysis of Chiral Gold Nanorod Growth by Nanofluidic Liquid-Phase Electron Microscopy</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03900</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03900</guid>
+<pubDate>Sat, 10 Oct 2026 01:00:59 GMT</pubDate>
+<description>رشد نانومیله‌های طلای کایرال با میکروفلوئیدیک و میکروسکوپ الکترونی فاز مایع بررسی شد و دسترسی به پیش‌ماده و سینتیک کاهش، طول چین‌ها و فعالیت کایرال نوری را تعیین می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 chiral gold nanorods · liquid-phase TEM · nanofluidic reactor · wrinkle growth · chiroptical activity</description>
+<category>chiral gold nanorods</category>
+<category>liquid-phase TEM</category>
+<category>nanofluidic reactor</category>
+<category>wrinkle growth</category>
+<category>chiroptical activity</category>
+</item>
 <item>
 <title>Reconstructing long-time voltage relaxation from short pulse tests for faster battery testing and modeling</title>
 <link>https://doi.org/10.1016/j.est.2026.125004</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 eigenstrain · strain eng
 <category>Ni-SH2 catalysis</category>
 <category>radical sorting</category>
 <category>C-C bond formation</category>
-</item>
-<item>
-<title>Switching ATP‐Forming Phosphoryl‐Transfer Chemistry With a Restricted Set of Amino Acids</title>
-<link>https://doi.org/10.1002/anie.2166480</link>
-<guid isPermaLink="false">10.1002/anie.2166480</guid>
-<pubDate>Fri, 09 Oct 2026 22:02:13 GMT</pubDate>
-<description>بازسازی NDK با مجموعه محدود اسیدهای آمینه نشان می‌دهد تشکیل ATP از طریق مکانیزمی غیرمتعارف و مستقل از هیستیدین ممکن است.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nucleoside diphosphate kinase · ATP formation · phosphoryl transfer · minimal amino acids · ancestral enzyme</description>
-<category>nucleoside diphosphate kinase</category>
-<category>ATP formation</category>
-<category>phosphoryl transfer</category>
-<category>minimal amino acids</category>
-<category>ancestral enzyme</category>
-</item>
-<item>
-<title>A Reconfigurable Neuromorphic Vision Sensor with Dual-Mode Capability for High-Quality Static and Dynamic Imaging</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112483</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112483</guid>
-<pubDate>Fri, 09 Oct 2026 22:02:10 GMT</pubDate>
-<description>این مقاله یک حسگر بینایی نورومورفیک قابل بازآرایی با قابلیت دوحالته برای تصویربرداری استاتیک و دینامیک با کیفیت بالا معرفی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 neuromorphic vision sensor · dual-mode imaging · reconfigurable sensor · static imaging · dynamic imaging</description>
-<category>neuromorphic vision sensor</category>
-<category>dual-mode imaging</category>
-<category>reconfigurable sensor</category>
-<category>static imaging</category>
-<category>dynamic imaging</category>
 </item>
 </channel>
 </rss>
