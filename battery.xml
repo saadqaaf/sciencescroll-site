@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 03:01:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 04:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Comprehensive Review and Future Prospects of Aluminum–Sulfur Batteries: From Material Design to Practical Challenges</title>
+<link>https://doi.org/10.1002/adma.202506181</link>
+<guid isPermaLink="false">10.1002/adma.202506181</guid>
+<pubDate>Sat, 10 Oct 2026 04:01:18 GMT</pubDate>
+<description>این مرور جامع، مکانیزم‌های دوگانه گوگرد، طراحی کاتد، مهندسی الکترولیت و چالش‌های سینتیک سولواتاسیون Al3+ در باتری‌های آلومینیوم-گوگرد را بررسی و نقشه راه تجاری‌سازی ارائه می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely compares Al–S battery mechanisms (S reduction vs. oxidation), linking cathode design, electrolyte engineering, and anode protection to the core challenge of sluggish Al³⁺ solvation. It emphasizes operando characterization and provides a phased commercialization roadmap, offering a comprehensive perspective to accelerate practical green energy storage.&lt;br&gt;🏷 aluminum-sulfur battery · cathode design · electrolyte engineering · Al3+ solvation · operando characterization</description>
+<category>aluminum-sulfur battery</category>
+<category>cathode design</category>
+<category>electrolyte engineering</category>
+<category>Al3+ solvation</category>
+<category>operando characterization</category>
+</item>
 <item>
 <title>Dynamic Lewis acid tuning and structural leverage in monoclinic strontium manganese oxides as bifunctional electrocatalysts for zinc–air batteries</title>
 <link>https://doi.org/10.1039/d6ta06757c</link>
@@ -1194,18 +1206,6 @@
 <category>feature interaction network</category>
 <category>omnidirectional</category>
 <category>adaptive prediction</category>
-</item>
-<item>
-<title>Deployment-aware early warning of thermal runaway in lithium-ion energy storage systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125101</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125101</guid>
-<pubDate>Fri, 09 Oct 2026 04:01:24 GMT</pubDate>
-<description>این مقاله یک روش هشدار زودهنگام آگاه از استقرار برای فرار حرارتی در سیستم‌های ذخیره انرژی لیتیوم-یونی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 thermal runaway · early warning · energy storage system · deployment-aware · lithium-ion battery</description>
-<category>thermal runaway</category>
-<category>early warning</category>
-<category>energy storage system</category>
-<category>deployment-aware</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>

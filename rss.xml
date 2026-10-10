@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 03:01:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 04:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Comprehensive Review and Future Prospects of Aluminum–Sulfur Batteries: From Material Design to Practical Challenges</title>
+<link>https://doi.org/10.1002/adma.202506181</link>
+<guid isPermaLink="false">10.1002/adma.202506181</guid>
+<pubDate>Sat, 10 Oct 2026 04:01:18 GMT</pubDate>
+<description>این مرور جامع، مکانیزم‌های دوگانه گوگرد، طراحی کاتد، مهندسی الکترولیت و چالش‌های سینتیک سولواتاسیون Al3+ در باتری‌های آلومینیوم-گوگرد را بررسی و نقشه راه تجاری‌سازی ارائه می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely compares Al–S battery mechanisms (S reduction vs. oxidation), linking cathode design, electrolyte engineering, and anode protection to the core challenge of sluggish Al³⁺ solvation. It emphasizes operando characterization and provides a phased commercialization roadmap, offering a comprehensive perspective to accelerate practical green energy storage.&lt;br&gt;🏷 aluminum-sulfur battery · cathode design · electrolyte engineering · Al3+ solvation · operando characterization</description>
+<category>aluminum-sulfur battery</category>
+<category>cathode design</category>
+<category>electrolyte engineering</category>
+<category>Al3+ solvation</category>
+<category>operando characterization</category>
+</item>
+<item>
+<title>Charge Storage and Dark Photocatalysis in Multivariate Ti‐Based Metal‐Organic Frameworks</title>
+<link>https://doi.org/10.1002/adma.75312</link>
+<guid isPermaLink="false">10.1002/adma.75312</guid>
+<pubDate>Sat, 10 Oct 2026 04:01:13 GMT</pubDate>
+<description>در سری MOF چندمتغیره COK-47، نسبت لیگاندهای biph و bipy ذخیره بار و فعالیت فتوکاتالیستی تاریک را تنظیم می‌کند و نمونه 50-50 بهترین تولید H2 و کاهش MV را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metal-organic frameworks · dark photocatalysis · charge storage · Ti3+ · hydrogen evolution</description>
+<category>metal-organic frameworks</category>
+<category>dark photocatalysis</category>
+<category>charge storage</category>
+<category>Ti3+</category>
+<category>hydrogen evolution</category>
+</item>
+<item>
+<title>Conductivity‐Engineered Polymeric Rear Contacts for Bifacial Sb 2 (S,Se) 3 Solar Cells and 4T Tandem Photovoltaics</title>
+<link>https://doi.org/10.1002/adma.75358</link>
+<guid isPermaLink="false">10.1002/adma.75358</guid>
+<pubDate>Sat, 10 Oct 2026 04:01:10 GMT</pubDate>
+<description>یک لایه پلیمری شفاف Spiro-OMeTAD/PEDOT:PSS به‌عنوان تماس پشتی برای سلول‌های خورشیدی دوطرفه Sb2(S,Se)3 و تاندم چهارترمیناله Sb2(S,Se)3/CuInSe2 با بازده 12.32% معرفی می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 Sb2(S,Se)3 solar cells · bifacial photovoltaics · PEDOT:PSS · transparent rear contact · 4T tandem</description>
+<category>Sb2(S,Se)3 solar cells</category>
+<category>bifacial photovoltaics</category>
+<category>PEDOT:PSS</category>
+<category>transparent rear contact</category>
+<category>4T tandem</category>
+</item>
 <item>
 <title>Breaking down nerve-cell scaffold relieves chronic pain in mice</title>
 <link>https://doi.org/10.1038/d41586-026-03159-z</link>
@@ -1177,42 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 eigenstrain · strain eng
 <category>solid-liquid microphase</category>
 <category>self-assembly</category>
 <category>functional nucleic acids</category>
-</item>
-<item>
-<title>CROSS: A cross-species chromosome substitution platform for dissecting chromosome architecture and activity</title>
-<link>https://doi.org/10.1038/s41467-026-78244-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-78244-y</guid>
-<pubDate>Fri, 09 Oct 2026 22:02:46 GMT</pubDate>
-<description>پلتفرم CROSS با جایگزینی کروموزوم بین گونه‌ای، ابزاری برای بررسی ساختار و فعالیت کروموزوم فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chromosome substitution · cross-species platform · chromosome architecture · CROSS · genome engineering</description>
-<category>chromosome substitution</category>
-<category>cross-species platform</category>
-<category>chromosome architecture</category>
-<category>CROSS</category>
-<category>genome engineering</category>
-</item>
-<item>
-<title>FtmOx1-catalyzed diverse C(sp3)-H oxyfunctionalization enables versatile late-stage diversification of phenethylamines and tetrahydroisoquinolines</title>
-<link>https://doi.org/10.1038/s41467-026-78405-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-78405-z</guid>
-<pubDate>Fri, 09 Oct 2026 22:02:43 GMT</pubDate>
-<description>آنزیم FtmOx1 اکسیداسیون متنوع پیوند C(sp3)-H را کاتالیز کرده و امکان اصلاح مرحله پایانی فن‌اتیل‌آمین‌ها و تتراهیدروایزوکینولین‌ها را فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 FtmOx1 · C-H oxyfunctionalization · phenethylamines · tetrahydroisoquinolines · late-stage diversification</description>
-<category>FtmOx1</category>
-<category>C-H oxyfunctionalization</category>
-<category>phenethylamines</category>
-<category>tetrahydroisoquinolines</category>
-<category>late-stage diversification</category>
-</item>
-<item>
-<title>Genotype-phenotype single-cell transcriptomics for massive parallel assessment of genetic variants</title>
-<link>https://doi.org/10.1038/s41467-026-77709-4</link>
-<guid isPermaLink="false">10.1038/s41467-026-77709-4</guid>
-<pubDate>Fri, 09 Oct 2026 22:02:40 GMT</pubDate>
-<description>این مقاله یک روش ترانسکریپتومیکس تک‌سلولی برای ارزیابی موازی و انبوه واریانت‌های ژنتیکی و ارتباط ژنوتیپ با فنوتیپ ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-cell transcriptomics · genotype-phenotype · genetic variants · massively parallel assay · cellular phenotyping</description>
-<category>single-cell transcriptomics</category>
-<category>genotype-phenotype</category>
-<category>genetic variants</category>
-<category>massively parallel assay</category>
-<category>cellular phenotyping</category>
 </item>
 </channel>
 </rss>
