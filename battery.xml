@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 17:01:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 18:02:39 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Overcoming the Spin Barrier of Oxygen Redox Chemistry in Lithium–Oxygen Batteries via Metal–Support Magnetic Interaction</title>
+<link>https://doi.org/10.1002/anie.6229772</link>
+<guid isPermaLink="false">10.1002/anie.6229772</guid>
+<pubDate>Sat, 10 Oct 2026 18:01:43 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد برهم‌کنش مغناطیسی فلز-پایه در Pd/CoFe2O4 سد اسپینی شیمی ردوکس اکسیژن را در باتری Li-O2 کاهش می‌دهد و اضافه‌ولتاژ شارژ ۰٫۰۵ ولت را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Metal–support magnetic interaction is used to overcome the spin barrier in Li–O₂ batteries. Interfacial magnetic coupling between Pd and ferrimagnetic CoFe₂O₄ restructures Pd spin states, promoting triplet O₂ conversion to peroxide while suppressing singlet O₂. This yields a 0.05 V charging overpotential and 91.2% energy efficiency, establishing a general design principle for spin-dependent oxygen electrocatalysis.&lt;br&gt;🏷 lithium-oxygen battery · spin barrier · metal-support interaction · oxygen redox · Pd/CoFe2O4</description>
+<category>lithium-oxygen battery</category>
+<category>spin barrier</category>
+<category>metal-support interaction</category>
+<category>oxygen redox</category>
+<category>Pd/CoFe2O4</category>
+</item>
 <item>
 <title>Improving the Calendar Life of Silicon Anodes with Inorganic Solid–Electrolyte Interphases</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02871</link>
@@ -1193,18 +1205,6 @@
 <category>PVDF</category>
 <category>LiFePO4</category>
 <category>lithium metal battery</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Quaternary Ammonium Lignin Enabling High‐Na + ‐Conductivity Gel Electrolyte and NaF‐Rich SEI Toward High‐Safety Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78944</link>
-<guid isPermaLink="false">10.1002/adfm.78944</guid>
-<pubDate>Fri, 09 Oct 2026 11:02:24 GMT</pubDate>
-<description>الکترولیت ژلی بر پایه لیگنین آمونیوم چهارتایی با رسانایی بالای Na+ و تشکیل SEI غنی از NaF، پایداری باتری سدیم فلزی را بهشدت بهبود میدهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Quaternary ammonium lignin (QAL) in a gel polymer electrolyte simultaneously boosts Na⁺ conductivity and enables a NaF-rich SEI. QAL&amp;#x27;s electron-deficient groups anchor anions and aid NaTFSI dissociation, while its π-conjugated backbone supplies charge for TFSI⁻ decomposition. This yields 5000 h symmetric-cell cycling, 96.9% retention after 4700 cycles, and safe pouch cells under abuse from −20°C to 60°C, advancing high-safety sodium metal batteries.&lt;br&gt;🏷 sodium metal battery · gel polymer electrolyte · quaternary ammonium lignin · NaF-rich SEI · ionic conductivity</description>
-<category>sodium metal battery</category>
-<category>gel polymer electrolyte</category>
-<category>quaternary ammonium lignin</category>
-<category>NaF-rich SEI</category>
 <category>ionic conductivity</category>
 </item>
 </channel>
