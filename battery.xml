@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 18:02:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 19:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Lattice-electron dual regulation enhances oxygen-redox reversibility and structural stability in cobalt-free lithium-rich manganese-based cathodes</title>
+<link>https://doi.org/10.1016/j.jmst.2026.08.112</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.08.112</guid>
+<pubDate>Sat, 10 Oct 2026 19:01:24 GMT</pubDate>
+<description>تنظیم دوگانه شبکه و الکترون، برگشت‌پذیری ردوکس اکسیژن و پایداری ساختاری را در کاتدهای غنی از لیتیوم و منگنز بدون کبالت بهبود می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium-rich cathode · cobalt-free · oxygen redox · lattice regulation · structural stability</description>
+<category>lithium-rich cathode</category>
+<category>cobalt-free</category>
+<category>oxygen redox</category>
+<category>lattice regulation</category>
+<category>structural stability</category>
+</item>
 <item>
 <title>Overcoming the Spin Barrier of Oxygen Redox Chemistry in Lithium–Oxygen Batteries via Metal–Support Magnetic Interaction</title>
 <link>https://doi.org/10.1002/anie.6229772</link>
@@ -1194,18 +1206,6 @@
 <category>interfacial ion rectification</category>
 <category>FDCA</category>
 <category>DMSO</category>
-</item>
-<item>
-<title>A PVDF‐Based Composite Solid Electrolyte Enabled by Carbon‐Free LiFePO 4 for Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78932</link>
-<guid isPermaLink="false">10.1002/adfm.78932</guid>
-<pubDate>Fri, 09 Oct 2026 11:02:33 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی LFP/PVDF بدون کربن با رسانایی یونی بالا و پایداری اکسیدی، باتری لیتیوم فلزی پایدار با بازدهی بالا را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Carbon-free LiFePO₄ is repurposed as an electronically insulating filler in PVDF, converting its low conductivity from a cathode limitation into an electrolyte advantage. This enables high ionic conductivity, a wide stability window, and stable Li-metal interfaces, plus lithium compensation via partial delithiation. The strategy advances practical, pressure-free solid-state lithium-metal batteries.&lt;br&gt;🏷 solid electrolyte · PVDF · LiFePO4 · lithium metal battery · ionic conductivity</description>
-<category>solid electrolyte</category>
-<category>PVDF</category>
-<category>LiFePO4</category>
-<category>lithium metal battery</category>
-<category>ionic conductivity</category>
 </item>
 </channel>
 </rss>
