@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 15:00:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 16:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A physics-informed digital twin reveals the mechanistic threshold for knee-point onset in lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105589</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105589</guid>
+<pubDate>Sat, 10 Oct 2026 16:01:19 GMT</pubDate>
+<description>یک دوقلوی دیجیتال آگاه از فیزیک آستانه مکانیکی شروع نقطه زانو در باتری‌های لیتیوم-یون را آشکار می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · digital twin · knee-point onset · physics-informed · degradation</description>
+<category>lithium-ion battery</category>
+<category>digital twin</category>
+<category>knee-point onset</category>
+<category>physics-informed</category>
+<category>degradation</category>
+</item>
 <item>
 <title>Successive Redox Mediation Supported by Pnictogen Chalcohalide Enables High‐Performance Zinc–Sulfur Batteries</title>
 <link>https://doi.org/10.1002/adma.75303</link>
@@ -1194,18 +1206,6 @@
 <category>radical passivation</category>
 <category>closed pore</category>
 <category>anode</category>
-</item>
-<item>
-<title>Pore‐Wall Defect‐Mediated Sodium Cluster Nucleation in Hard Carbons Engineered by Misaligned Stacking of Carbon Dots</title>
-<link>https://doi.org/10.1002/adfm.78957</link>
-<guid isPermaLink="false">10.1002/adfm.78957</guid>
-<pubDate>Fri, 09 Oct 2026 11:02:07 GMT</pubDate>
-<description>کربن سخت غنی از حفره بسته با چینش ناهم‌راستای نقاط کربنی، ظرفیت ۳۶۵ mAh/g و ICE ۸۵٪ در آند باتری سدیم-یون با مکانیسم هسته‌زنی خوشه سدیم ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a bottom-up carbon-dot strategy to build defect-rich, closed-pore hard carbons, resolving the link between pore-wall defects and sodium storage. It unveils a &amp;quot;pore-wall defect-mediated sodium cluster nucleation&amp;quot; mechanism, achieving 365.0 mAh g⁻¹ and 85.06% ICE. This bridges defects, pores, adsorption, and filling stages, advancing rational design of sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon · sodium-ion battery · carbon dots · closed pores · sodium cluster nucleation</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>carbon dots</category>
-<category>closed pores</category>
-<category>sodium cluster nucleation</category>
 </item>
 </channel>
 </rss>
