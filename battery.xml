@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 19:01:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 20:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bio-inspired in-situ CO2 foaming opens up rapid Li+ transport channels in quasi-solid polymer electrolytes for lithium-metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125068</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125068</guid>
+<pubDate>Sat, 10 Oct 2026 20:01:20 GMT</pubDate>
+<description>این مقاله با استفاده از فوم‌سازی درجای CO2 الهام‌گرفته از طبیعت، کانال‌های سریع انتقال Li+ را در الکترولیت پلیمری شبه‌جامد برای باتری‌های لیتیوم-فلز ایجاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 quasi-solid polymer electrolyte · lithium-metal battery · CO2 foaming · Li+ transport · bio-inspired</description>
+<category>quasi-solid polymer electrolyte</category>
+<category>lithium-metal battery</category>
+<category>CO2 foaming</category>
+<category>Li+ transport</category>
+<category>bio-inspired</category>
+</item>
+<item>
+<title>Performance evaluation of solid-state lithium batteries for UAV applications: Endurance, temperature adaptability, and self-discharge</title>
+<link>https://doi.org/10.1016/j.est.2026.124949</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124949</guid>
+<pubDate>Sat, 10 Oct 2026 20:01:16 GMT</pubDate>
+<description>این مقاله عملکرد باتری‌های لیتیوم حالت جامد را برای کاربردهای پهپاد از نظر استقامت، سازگاری دمایی و خودتخلیه ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · UAV · endurance · temperature adaptability · self-discharge</description>
+<category>solid-state lithium battery</category>
+<category>UAV</category>
+<category>endurance</category>
+<category>temperature adaptability</category>
+<category>self-discharge</category>
+</item>
+<item>
+<title>A novel soft switching minimum phase electric vehicle charger for wide range operating voltage/current</title>
+<link>https://doi.org/10.1016/j.est.2026.125054</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125054</guid>
+<pubDate>Sat, 10 Oct 2026 20:01:12 GMT</pubDate>
+<description>این مقاله یک شارژر خودروی برقی جدید با کلیدزنی نرم و فاز مینیمم برای محدوده وسیع ولتاژ و جریان ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric vehicle charger · soft switching · minimum phase · wide voltage range · wide current range</description>
+<category>electric vehicle charger</category>
+<category>soft switching</category>
+<category>minimum phase</category>
+<category>wide voltage range</category>
+<category>wide current range</category>
+</item>
+<item>
+<title>Physics-informed learning of health-aware equivalent circuit parameter evolution for lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125097</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125097</guid>
+<pubDate>Sat, 10 Oct 2026 20:01:08 GMT</pubDate>
+<description>این مقاله با یادگیری آگاه از فیزیک، تکامل پارامترهای مدار معادل آگاه از سلامت را برای باتری‌های لیتیوم-یون مدل‌سازی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · equivalent circuit model · physics-informed learning · health-aware · parameter evolution</description>
+<category>lithium-ion battery</category>
+<category>equivalent circuit model</category>
+<category>physics-informed learning</category>
+<category>health-aware</category>
+<category>parameter evolution</category>
+</item>
 <item>
 <title>Lattice-electron dual regulation enhances oxygen-redox reversibility and structural stability in cobalt-free lithium-rich manganese-based cathodes</title>
 <link>https://doi.org/10.1016/j.jmst.2026.08.112</link>
@@ -1158,54 +1206,6 @@
 <category>direct recycling</category>
 <category>aqueous processing</category>
 <category>polyacrylic acid</category>
-</item>
-<item>
-<title>Fast-charging and durable all-solid-state lithium-sulfur batteries enabled by pre-embedded solid-solid redox mediator</title>
-<link>https://doi.org/10.1038/s41467-026-78042-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-78042-6</guid>
-<pubDate>Fri, 09 Oct 2026 12:02:42 GMT</pubDate>
-<description>واسطه ردوکس جامد-جامد پیش‌جاسازی‌شده، باتری‌های تمام‌جامد لیتیوم-گوگرد را با شارژ سریع و پایداری بالا ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using an iodine-based solid-solid redox mediator pre-embedded in an amorphous sulfur/iodine nano-eutectic cathode. Iodine forms a percolating I2/I− nano-network that accelerates solid-solid sulfur redox and electron transfer. This enables fast charging (851.9 mAh g−1 at 10 C) and exceptional durability (9,000 cycles over 9 months), offering a design strategy for sluggish solid-state conversion electrodes.&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur battery · redox mediator · fast charging · solid electrolyte</description>
-<category>all-solid-state battery</category>
-<category>lithium-sulfur battery</category>
-<category>redox mediator</category>
-<category>fast charging</category>
-<category>solid electrolyte</category>
-</item>
-<item>
-<title>Crown Ether‐Engineered Porous Liquid‐Based Electrolytes Decouple Redox Kinetics and Stability in Zinc–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/anie.7425389</link>
-<guid isPermaLink="false">10.1002/anie.7425389</guid>
-<pubDate>Fri, 09 Oct 2026 12:02:08 GMT</pubDate>
-<description>الکترولیت مایع متخلخل مهندسی‌شده با اتر تاجی، سینتیک ردوکس و پایداری را در باتری آبی Zn-S با کاهش شاتل پلی‌یدید و افزایش ظرفیت جدا می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces a crown ether-engineered porous liquid electrolyte that decouples catalytic activity from parasitic side reactions in aqueous zinc–sulfur batteries. By modulating Zn²⁺ solvation and sterically blocking polyiodide shuttling, it enables reversible S↔ZnS conversion, higher discharge voltage, reduced polarization, and 89% capacity retention over 1000 cycles—advancing safe, sustainable metal-chalcogen battery design.&lt;br&gt;🏷 zinc-sulfur battery · porous liquid electrolyte · crown ether · redox kinetics · polysulfide shuttling</description>
-<category>zinc-sulfur battery</category>
-<category>porous liquid electrolyte</category>
-<category>crown ether</category>
-<category>redox kinetics</category>
-<category>polysulfide shuttling</category>
-</item>
-<item>
-<title>Anion‐Dipole Catalytic Decomposition Enables Robust Solid Electrolyte Interfaces for Ah‐Level Aqueous Zinc Batteries</title>
-<link>https://doi.org/10.1002/anie.7075150</link>
-<guid isPermaLink="false">10.1002/anie.7075150</guid>
-<pubDate>Fri, 09 Oct 2026 12:01:42 GMT</pubDate>
-<description>استراتژی تجزیه کاتالیستی آنیون-دوقطبی با افزودنی استوفنون، SEI غنی از مواد معدنی ایجاد کرده و باتری آبی روی با پایداری ۷۲۰۰ ساعته و ظرفیت Ah-level را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces an anion-dipole catalytic decomposition strategy using trace acetophenone additives to engineer inorganic-rich SEIs in aqueous zinc batteries. By identifying double descriptors for additive screening, it enables high Zn²⁺ transference, planar deposition, and exceptional stability, achieving Ah-level pouch cells with 88.9% capacity retention after 100 cycles.&lt;br&gt;🏷 aqueous zinc battery · solid electrolyte interphase · anion-dipole interaction · acetophenone additive · zinc deposition</description>
-<category>aqueous zinc battery</category>
-<category>solid electrolyte interphase</category>
-<category>anion-dipole interaction</category>
-<category>acetophenone additive</category>
-<category>zinc deposition</category>
-</item>
-<item>
-<title>A Durable and Adaptive Interfacial Ion Rectification Layer Empowering Reversible Zinc Metal in Seawater Batteries</title>
-<link>https://doi.org/10.1002/adfm.78923</link>
-<guid isPermaLink="false">10.1002/adfm.78923</guid>
-<pubDate>Fri, 09 Oct 2026 11:02:49 GMT</pubDate>
-<description>لایه اصلاح یونی درجا از FDCA و DMSO روی آند Zn، خوردگی کلریدی را در باتری آب دریا مهار کرده و چرخهپذیری بیش از ۳۴۰۰ ساعت را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a binary FDCA/DMSO additive that in situ forms an ion rectification layer on Zn, tuning solvation and repelling Cl⁻. This enables 3400 h cycling in simulated seawater and 3.5 Ah cm⁻² in natural seawater, offering a viable path to sustainable seawater-based Zn batteries.&lt;br&gt;🏷 zinc metal anode · seawater battery · interfacial ion rectification · FDCA · DMSO</description>
-<category>zinc metal anode</category>
-<category>seawater battery</category>
-<category>interfacial ion rectification</category>
-<category>FDCA</category>
-<category>DMSO</category>
 </item>
 </channel>
 </rss>
