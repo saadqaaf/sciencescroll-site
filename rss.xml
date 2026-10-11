@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 22:00:59 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 23:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Phospholipids as natural emulsifiers in foods and beverages: Structure, interfacial properties, and applications</title>
+<link>https://doi.org/10.1016/j.cis.2026.104069</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104069</guid>
+<pubDate>Sun, 11 Oct 2026 23:01:01 GMT</pubDate>
+<description>این مقاله مروری به ساختار، خواص بین‌سطحی و کاربردهای فسفولیپیدها به‌عنوان امولسیفایرهای طبیعی در غذاها و نوشیدنی‌ها می‌پردازد.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 phospholipids · natural emulsifiers · oil-water interface · food emulsions · interfacial properties</description>
+<category>phospholipids</category>
+<category>natural emulsifiers</category>
+<category>oil-water interface</category>
+<category>food emulsions</category>
+<category>interfacial properties</category>
+</item>
 <item>
 <title>The Evolution of Vinyl Acetate Monomer Catalysis: From Feedstock Transitions to Active Site Engineering</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127628</link>
@@ -1202,18 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 transmembrane receptor ·
 <category>metal-support interaction</category>
 <category>oxygen redox</category>
 <category>Pd/CoFe2O4</category>
-</item>
-<item>
-<title>Biomarker and Bioorthogonality Dual‐Locked Chemiluminescent Probes for Cancer Urine Test</title>
-<link>https://doi.org/10.1002/anie.6875075</link>
-<guid isPermaLink="false">10.1002/anie.6875075</guid>
-<pubDate>Sat, 10 Oct 2026 18:01:37 GMT</pubDate>
-<description>این پژوهش پروب‌های شیمی‌تابی تترازینی با قفل دوگانه بیومارکر و بیوارتوگونال را برای تشخیص سرطان از طریق ادرار طراحی می‌کند و متاستاز ریوی را با حساسیت بالا شناسایی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 chemiluminescent probes · bioorthogonality · cancer urine test · tetrazine · dual-locked activation</description>
-<category>chemiluminescent probes</category>
-<category>bioorthogonality</category>
-<category>cancer urine test</category>
-<category>tetrazine</category>
-<category>dual-locked activation</category>
 </item>
 </channel>
 </rss>
