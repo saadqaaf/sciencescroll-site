@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 02:01:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 03:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Formamidinium-Solvent Intermediates Mediate Self-Seeding Crystallization for Efficient Inverted α-FAPbI3 Perovskite Solar Cells</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01690</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01690</guid>
+<pubDate>Sun, 11 Oct 2026 03:01:10 GMT</pubDate>
+<description>با واسطه‌های FA-حلال و خودبذری، بلورسازی α-FAPbI3 در سلول‌های معکوس بهبود یافت و بازده ۲۶.۵۶٪ با پایداری بالا حاصل شد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 FAPbI3 perovskite · inverted solar cells · self-seeding crystallization · formamidinium-solvent intermediate · N-formylmorpholine</description>
+<category>FAPbI3 perovskite</category>
+<category>inverted solar cells</category>
+<category>self-seeding crystallization</category>
+<category>formamidinium-solvent intermediate</category>
+<category>N-formylmorpholine</category>
+</item>
 <item>
 <title>Skin Barrier Repair-Inspired Ultralight Interlayer for Practical Anode-Free Lithium Metal Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105590</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 photocatalysis · carbazo
 <category>monitoring</category>
 <category>modelling</category>
 <category>air quality</category>
-</item>
-<item>
-<title>Bioorthogonal chemistries for theranostics and radioconjugates</title>
-<link>https://doi.org/10.1016/j.addr.2026.115978</link>
-<guid isPermaLink="false">10.1016/j.addr.2026.115978</guid>
-<pubDate>Sat, 10 Oct 2026 07:02:12 GMT</pubDate>
-<description>این مرور به بررسی شیمی‌های بیوارتوگونال برای ترانوستیک و رادیوکنژوگه‌ها می‌پردازد.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 bioorthogonal chemistry · theranostics · radioconjugates · pretargeting · click chemistry</description>
-<category>bioorthogonal chemistry</category>
-<category>theranostics</category>
-<category>radioconjugates</category>
-<category>pretargeting</category>
-<category>click chemistry</category>
 </item>
 </channel>
 </rss>
