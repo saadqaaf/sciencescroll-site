@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 03:01:13 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 04:02:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>V─O─Ti Bridge‐Bond Polarity Boosts Na + Migration in V‐Based Fluorophosphates for Fast Sodium Storage</title>
+<link>https://doi.org/10.1002/anie.6142534</link>
+<guid isPermaLink="false">10.1002/anie.6142534</guid>
+<pubDate>Sun, 11 Oct 2026 04:01:17 GMT</pubDate>
+<description>دوپینگ Ti4+ در کاتد فلوروفسفات وانادیومی با ایجاد پیوند پلی V─O─Ti، قطبیت و انتقال Na+ را بهبود می‌بخشد و ظرفیت و پایداری بالایی در باتری سدیم-یون فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Ti4+ doping in V-based fluorophosphates creates polar V─O─Ti bridge bonds that reshape V electronic structure, enhancing V─O electron exchange and expanding Na+ transport channels. This suppresses high-voltage polarization and boosts Na+ migration, enabling 121.8 mAh g−1 at 0.1C and 62.1 mAh g−1 at 50C, with 154 Wh kg−1 at 9 Ah pouch-cell scale—advancing fast-charging, high-power sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · fluorophosphate cathode · Ti doping · Na+ migration · bridge-bond polarity</description>
+<category>sodium-ion battery</category>
+<category>fluorophosphate cathode</category>
+<category>Ti doping</category>
+<category>Na+ migration</category>
+<category>bridge-bond polarity</category>
+</item>
 <item>
 <title>Skin Barrier Repair-Inspired Ultralight Interlayer for Practical Anode-Free Lithium Metal Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105590</link>
@@ -1194,18 +1206,6 @@
 <category>PEO-LiTFSI</category>
 <category>PEDOT interlayer</category>
 <category>interfacial reactions</category>
-</item>
-<item>
-<title>Triple‐Coupling Regulation Enables Dendrite‐Free Subzero Aqueous Zn‐Ion Batteries</title>
-<link>https://doi.org/10.1002/advs.78147</link>
-<guid isPermaLink="false">10.1002/advs.78147</guid>
-<pubDate>Fri, 09 Oct 2026 13:02:09 GMT</pubDate>
-<description>این کار با الکترولیت eutectic عمیق فرمامید-اتانول ساختار حل‌شوندگی، شیمی سطح مشترک و جهت‌گیری بلوری را هم‌زمان تنظیم کرده و باتری آبی Zn-ion بدون دندریت با پایداری 1400 ساعت در −20°C می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a triple-coupling strategy—solvation, interfacial chemistry, and crystallographic orientation—via a formamide-ethanol deep eutectic electrolyte. It enables dendrite-free Zn deposition along the (101) facet, achieving 1400 h cycling at −20°C and 99.78% Coulombic efficiency. This molecular-to-interfacial design offers a promising route for temperature-resilient aqueous Zn-ion batteries.&lt;br&gt;🏷 aqueous Zn-ion battery · deep eutectic electrolyte · dendrite-free Zn · subzero operation · solvation regulation</description>
-<category>aqueous Zn-ion battery</category>
-<category>deep eutectic electrolyte</category>
-<category>dendrite-free Zn</category>
-<category>subzero operation</category>
-<category>solvation regulation</category>
 </item>
 </channel>
 </rss>
