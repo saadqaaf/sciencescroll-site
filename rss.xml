@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 16:01:13 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 17:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Experimentally Constrained Radial Oxidation Damage Modeling and Residual Flexural Strength Assessment of Unidirectional C/SiOC Mini-Composites</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114292</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114292</guid>
+<pubDate>Sun, 11 Oct 2026 17:01:08 GMT</pubDate>
+<description>مدل‌سازی آسیب اکسیداسیون شعاعی با قید تجربی و ارزیابی استحکام خمشی باقیمانده در مینی‌کامپوزیت‌های تک‌جهته C/SiOC انجام شده است.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 C/SiOC composite · oxidation damage · flexural strength · radial modeling · polymer-derived ceramic</description>
+<category>C/SiOC composite</category>
+<category>oxidation damage</category>
+<category>flexural strength</category>
+<category>radial modeling</category>
+<category>polymer-derived ceramic</category>
+</item>
 <item>
 <title>GRIDS: An integrated sustainability framework for the net-zero transition</title>
 <link>https://doi.org/10.1016/j.esr.2026.102368</link>
@@ -1202,18 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 transmembrane receptor ·
 <category>multicolor emission</category>
 <category>crown ether</category>
 <category>structural softness-rigidity</category>
-</item>
-<item>
-<title>Metal-organic frameworks for separation of organic compounds in liquid phase</title>
-<link>https://doi.org/10.1093/nsr/nwag633</link>
-<guid isPermaLink="false">10.1093/nsr/nwag633</guid>
-<pubDate>Sat, 10 Oct 2026 18:01:13 GMT</pubDate>
-<description>این مرور، پیشرفت‌های اخیر MOFها را برای جداسازی انتخابی ترکیبات آلی در فاز مایع بررسی می‌کند و مکانیسم‌های گزینش‌پذیری و طراحی هوشمند را برجسته می‌سازد.&lt;br&gt;National Science Review | ⭐ Review&lt;br&gt;🏷 metal-organic frameworks · liquid-phase separation · selectivity mechanism · organic compounds · AI-guided discovery</description>
-<category>metal-organic frameworks</category>
-<category>liquid-phase separation</category>
-<category>selectivity mechanism</category>
-<category>organic compounds</category>
-<category>AI-guided discovery</category>
 </item>
 </channel>
 </rss>
