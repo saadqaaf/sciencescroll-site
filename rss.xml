@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 00:01:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 01:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pd-containing UiO-66-NH2 catalysts in organic synthesis</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218629</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218629</guid>
+<pubDate>Sun, 11 Oct 2026 01:01:01 GMT</pubDate>
+<description>این مقاله مروری به بررسی کاتالیزورهای Pd/UiO-66-NH2 در سنتز آلی می‌پردازد و نقش نانوذرات Pd و چارچوب MOF را در واکنش‌های کاتالیستی نشان می‌دهد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Pd nanoparticles · UiO-66-NH2 · MOF catalysis · organic synthesis · heterogeneous catalyst</description>
+<category>Pd nanoparticles</category>
+<category>UiO-66-NH2</category>
+<category>MOF catalysis</category>
+<category>organic synthesis</category>
+<category>heterogeneous catalyst</category>
+</item>
 <item>
 <title>From organic photodetectors to monolithic skin-conformal photoplethysmography systems</title>
 <link>https://doi.org/10.1016/j.mser.2026.101313</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 photocatalysis · carbazo
 <category>interfacial instability</category>
 <category>dry-room processing</category>
 <category>all-solid-state battery</category>
-</item>
-<item>
-<title>A Phosphazene‐Polyphenol Network Binder Enables Catalytic Polysulfide Conversion and Intrinsic Flame Retardancy for Practical Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adfm.78936</link>
-<guid isPermaLink="false">10.1002/adfm.78936</guid>
-<pubDate>Sat, 10 Oct 2026 07:02:00 GMT</pubDate>
-<description>بایندر شبکه‌ای فسفازن-پلی‌فنول با سایت‌های فعال ناهمگون، تبدیل پلی‌سولفید و بازدارندگی شعله ذاتی را برای باتری‌های Li-S عملی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a cross-linked phosphazene-polyphenol binder (HTP) integrating tannic acid, polyethyleneimine, and a phosphorus/nitrogen-rich framework. It simultaneously catalyzes polysulfide conversion, accommodates cathode swelling, and imparts intrinsic flame retardancy. Significance: exceptional cycling stability (0.025% fade/cycle over 2000 cycles), high areal capacity (7.5 mAh cm⁻²) under practical conditions, offering a multifunctional binder paradigm for safe, high-energy Li-S batteries.&lt;br&gt;🏷 lithium-sulfur battery · phosphazene binder · polysulfide conversion · flame retardancy · tannic acid</description>
-<category>lithium-sulfur battery</category>
-<category>phosphazene binder</category>
-<category>polysulfide conversion</category>
-<category>flame retardancy</category>
-<category>tannic acid</category>
 </item>
 </channel>
 </rss>
