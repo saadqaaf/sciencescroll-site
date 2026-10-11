@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 01:01:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 02:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Skin Barrier Repair-Inspired Ultralight Interlayer for Practical Anode-Free Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105590</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105590</guid>
+<pubDate>Sun, 11 Oct 2026 02:01:09 GMT</pubDate>
+<description>این پژوهش با الهام از ترمیم سد پوستی، یک لایه میانی فوق‌سبک برای باتری‌های لیتیوم-فلزی بدون آند طراحی کرده که پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anode-free lithium metal battery · ultralight interlayer · skin barrier repair · lithium deposition · cycling stability</description>
+<category>anode-free lithium metal battery</category>
+<category>ultralight interlayer</category>
+<category>skin barrier repair</category>
+<category>lithium deposition</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Bio-inspired in-situ CO2 foaming opens up rapid Li+ transport channels in quasi-solid polymer electrolytes for lithium-metal batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125068</link>
@@ -1194,18 +1206,6 @@
 <category>dendrite-free Zn</category>
 <category>subzero operation</category>
 <category>solvation regulation</category>
-</item>
-<item>
-<title>Fluorine-free polymer binder enables circular manufacturing and recycling of lithium-ion batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78215-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-78215-3</guid>
-<pubDate>Fri, 09 Oct 2026 12:03:09 GMT</pubDate>
-<description>بایندر بدون فلوئور و قابل‌پردازش در آب، ساخت و بازیافت چرخشی باتری‌های لیتیوم-یون را با کارایی بالا ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is a fluorine-free, water-processable binder (polyacrylic acid/carboxymethyl cellulose crosslinked by citric acid) using combined hydrogen, covalent, and ionic bonding. It matches polyvinylidene fluoride performance, improves cycle stability, enables direct recycling without fluorinated residue, and cuts energy and emissions. This offers a scalable, sustainable route to circular lithium-ion battery manufacturing.&lt;br&gt;🏷 fluorine-free binder · lithium-ion battery · direct recycling · aqueous processing · polyacrylic acid</description>
-<category>fluorine-free binder</category>
-<category>lithium-ion battery</category>
-<category>direct recycling</category>
-<category>aqueous processing</category>
-<category>polyacrylic acid</category>
 </item>
 </channel>
 </rss>

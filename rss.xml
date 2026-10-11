@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 01:01:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 02:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Skin Barrier Repair-Inspired Ultralight Interlayer for Practical Anode-Free Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105590</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105590</guid>
+<pubDate>Sun, 11 Oct 2026 02:01:09 GMT</pubDate>
+<description>این پژوهش با الهام از ترمیم سد پوستی، یک لایه میانی فوق‌سبک برای باتری‌های لیتیوم-فلزی بدون آند طراحی کرده که پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anode-free lithium metal battery · ultralight interlayer · skin barrier repair · lithium deposition · cycling stability</description>
+<category>anode-free lithium metal battery</category>
+<category>ultralight interlayer</category>
+<category>skin barrier repair</category>
+<category>lithium deposition</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Bio-inspired flexible pressure sensors: morphology-guided structure–function relationships, reliability, and future perspectives</title>
+<link>https://doi.org/10.1007/s42114-026-02119-5</link>
+<guid isPermaLink="false">10.1007/s42114-026-02119-5</guid>
+<pubDate>Sun, 11 Oct 2026 02:01:04 GMT</pubDate>
+<description>این مقاله مروری، روابط ساختار-عملکرد در حسگرهای فشار انعطاف‌پذیر الهام‌گرفته از طبیعت را بررسی کرده و چالش‌های قابلیت اطمینان و چشم‌اندازهای آینده را تحلیل می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 flexible pressure sensors · bio-inspired structures · structure-function relationships · reliability · wearable electronics</description>
+<category>flexible pressure sensors</category>
+<category>bio-inspired structures</category>
+<category>structure-function relationships</category>
+<category>reliability</category>
+<category>wearable electronics</category>
+</item>
 <item>
 <title>Pd-containing UiO-66-NH2 catalysts in organic synthesis</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218629</link>
@@ -1193,30 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 photocatalysis · carbazo
 <category>radioconjugates</category>
 <category>pretargeting</category>
 <category>click chemistry</category>
-</item>
-<item>
-<title>Molecular Coordination–Driven Photothermally Stable FACs‐based Perovskite Solar Cells with Efficiency Over 25% via Dicarbonyl‐Functionalized Thienoacene Small Molecule</title>
-<link>https://doi.org/10.1002/adfm.78760</link>
-<guid isPermaLink="false">10.1002/adfm.78760</guid>
-<pubDate>Sat, 10 Oct 2026 07:02:09 GMT</pubDate>
-<description>پسیواتور تینوآسن دارای گروه‌های دی‌کربونیل با پیوندهای Pb-O و Pb-S، بازده سلول‌های خورشیدی پروسکایتی FACs را به بیش از 25% رسانده و پایداری حرارتی را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cell · thienoacene passivator · surface passivation · thermal stability · Pb-O coordination</description>
-<category>perovskite solar cell</category>
-<category>thienoacene passivator</category>
-<category>surface passivation</category>
-<category>thermal stability</category>
-<category>Pb-O coordination</category>
-</item>
-<item>
-<title>Interfacial Instability of Halide Solid Electrolytes and Oxide Cathodes Under Low‐Humidity Dry‐Room Conditions</title>
-<link>https://doi.org/10.1002/adfm.78894</link>
-<guid isPermaLink="false">10.1002/adfm.78894</guid>
-<pubDate>Sat, 10 Oct 2026 07:02:05 GMT</pubDate>
-<description>این مقاله نشان می‌دهد الکترولیت‌های جامد هالیدی و کاتدهای اکسیدی حتی در اتاق خشک با نقطه شبنم -40 درجه سانتی‌گراد دچار تخریب بین‌سطحی و افت عملکرد الکتروشیمیایی می‌شوند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This study reveals that halide solid electrolyte/oxide cathode composites degrade severely under low-humidity dry-room conditions (dew point −40°C), not just inert gloveboxes. Dry-room exposure forms a passivation layer hindering Li+ transport, worsening electrochemical performance across multiple halide/oxide pairs. This identifies a previously overlooked processing-induced interfacial challenge, highlighting the need to prioritize composite-cathode stability under realistic manufacturing conditions.&lt;br&gt;🏷 halide solid electrolyte · oxide cathode · interfacial instability · dry-room processing · all-solid-state battery</description>
-<category>halide solid electrolyte</category>
-<category>oxide cathode</category>
-<category>interfacial instability</category>
-<category>dry-room processing</category>
-<category>all-solid-state battery</category>
 </item>
 </channel>
 </rss>
