@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 23:01:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 00:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From organic photodetectors to monolithic skin-conformal photoplethysmography systems</title>
+<link>https://doi.org/10.1016/j.mser.2026.101313</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101313</guid>
+<pubDate>Sun, 11 Oct 2026 00:01:03 GMT</pubDate>
+<description>این مقاله مروری به بررسی تبدیل فوتودتکتورهای آلی به سیستم‌های مونولیتیک فوتوپلتیسموگرافی منطبق با پوست می‌پردازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 organic photodetector · photoplethysmography · skin-conformal · monolithic integration · wearable sensor</description>
+<category>organic photodetector</category>
+<category>photoplethysmography</category>
+<category>skin-conformal</category>
+<category>monolithic integration</category>
+<category>wearable sensor</category>
+</item>
 <item>
 <title>Biodegradable electronic materials and devices</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101862</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 photocatalysis · carbazo
 <category>polysulfide conversion</category>
 <category>flame retardancy</category>
 <category>tannic acid</category>
-</item>
-<item>
-<title>Proton/Oxygen Dual‐Ion Gated Control of Skyrmion Nucleation via Tuning Orbital Asymmetry</title>
-<link>https://doi.org/10.1002/adfm.78963</link>
-<guid isPermaLink="false">10.1002/adfm.78963</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:55 GMT</pubDate>
-<description>گیت‌کردن مایع یونی با مهاجرت H+/O2− در چندلایه Pt/Co/Al2O3، هسته‌زایی و نابودی اسکیرمیون‌ها را به‌صورت برگشت‌پذیر و غیرفرار با تنظیم عدم‌تقارن اوربیتالی کنترل می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 skyrmion nucleation · ionic-liquid gating · magnetoionic effect · orbital asymmetry · Dzyaloshinskii-Moriya interaction</description>
-<category>skyrmion nucleation</category>
-<category>ionic-liquid gating</category>
-<category>magnetoionic effect</category>
-<category>orbital asymmetry</category>
-<category>Dzyaloshinskii-Moriya interaction</category>
 </item>
 </channel>
 </rss>
