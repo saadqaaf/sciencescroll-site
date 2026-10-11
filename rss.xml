@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 15:01:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 16:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>GRIDS: An integrated sustainability framework for the net-zero transition</title>
+<link>https://doi.org/10.1016/j.esr.2026.102368</link>
+<guid isPermaLink="false">10.1016/j.esr.2026.102368</guid>
+<pubDate>Sun, 11 Oct 2026 16:01:11 GMT</pubDate>
+<description>این مقاله چارچوب یکپارچه GRIDS را برای ارزیابی پایداری گذار به انتشار خالص صفر معرفی می‌کند و کاربرد آن را در سیستم‌های انرژی نشان می‌دهد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 net-zero transition · sustainability framework · energy systems · GRIDS model · decarbonization</description>
+<category>net-zero transition</category>
+<category>sustainability framework</category>
+<category>energy systems</category>
+<category>GRIDS model</category>
+<category>decarbonization</category>
+</item>
 <item>
 <title>Polysilazane adhesive phase-mediated TiO2 photocatalytic interlayer for low-roughness copper-ceramic integration with optimized bond strength and reduced signal loss</title>
 <link>https://doi.org/10.1016/j.jmst.2026.09.070</link>
@@ -1202,18 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 transmembrane receptor ·
 <category>selectivity mechanism</category>
 <category>organic compounds</category>
 <category>AI-guided discovery</category>
-</item>
-<item>
-<title>Redox-responsive peptide assemblies for precision theranostic</title>
-<link>https://doi.org/10.1016/j.addr.2026.115977</link>
-<guid isPermaLink="false">10.1016/j.addr.2026.115977</guid>
-<pubDate>Sat, 10 Oct 2026 17:01:31 GMT</pubDate>
-<description>این مقاله به طراحی و کاربرد مجموعه‌های پپتیدی پاسخ‌دهنده به redox برای تشخیص و درمان دقیق (theranostic) می‌پردازد.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 redox-responsive peptide · peptide assembly · theranostics · precision medicine · stimuli-responsive</description>
-<category>redox-responsive peptide</category>
-<category>peptide assembly</category>
-<category>theranostics</category>
-<category>precision medicine</category>
-<category>stimuli-responsive</category>
 </item>
 </channel>
 </rss>
