@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 17:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 18:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unlocking the Longevity of Graphite-Based Batteries in Ether Electrolytes through Solvent-Co-Intercalation-Resistant Electrolyte Design</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105591</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105591</guid>
+<pubDate>Mon, 12 Oct 2026 18:01:48 GMT</pubDate>
+<description>طراحی الکترولیت مقاوم به هم‌میان‌لایه‌شدن حلال برای افزایش عمر باتری‌های گرافیتی در الکترولیت‌های اتری.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphite anode · ether electrolyte · solvent co-intercalation · battery longevity · electrolyte design</description>
+<category>graphite anode</category>
+<category>ether electrolyte</category>
+<category>solvent co-intercalation</category>
+<category>battery longevity</category>
+<category>electrolyte design</category>
+</item>
+<item>
+<title>Electric-field-responsive solvation: stabilizing high-voltage lithium metal batteries through adaptive interfacial chemistry</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.015</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.015</guid>
+<pubDate>Mon, 12 Oct 2026 18:01:34 GMT</pubDate>
+<description>طراحی سولواسیون پاسخ‌ده به میدان الکتریکی برای پایدارسازی باتری لیتیوم-فلز ولتاژ بالا از طریق شیمی سطحی تطبیقی.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · solvation structure · electric field · interfacial chemistry · high voltage</description>
+<category>lithium metal battery</category>
+<category>solvation structure</category>
+<category>electric field</category>
+<category>interfacial chemistry</category>
+<category>high voltage</category>
+</item>
 <item>
 <title>Dual Descriptor‐Guided Design of Hydrated Eutectic Electrolytes for Stable Zinc Batteries</title>
 <link>https://doi.org/10.1002/aenm.71695</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>large-format cell</category>
 <category>confined chamber</category>
 <category>structural early warning</category>
-</item>
-<item>
-<title>Thermodynamic matching mechanism and topological evolution for liquid natural gas integrated liquid air energy storage: A dual-stage refrigeration strategy with pre-cooling</title>
-<link>https://doi.org/10.1016/j.est.2026.125040</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125040</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:39 GMT</pubDate>
-<description>این مقاله مکانیزم تطبیق ترمودینامیکی و تحول توپولوژیکی را برای ذخیره‌سازی انرژی هوای مایع یکپارچه با LNG با استراتژی تبرید دو مرحله‌ای و پیش‌خنک‌سازی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 liquid air energy storage · LNG cold energy · dual-stage refrigeration · thermodynamic matching · topological evolution</description>
-<category>liquid air energy storage</category>
-<category>LNG cold energy</category>
-<category>dual-stage refrigeration</category>
-<category>thermodynamic matching</category>
-<category>topological evolution</category>
-</item>
-<item>
-<title>A novel polythiophene/WO3/SnO2 ternary nanocomposite as an electrode for flexible symmetric supercapacitor</title>
-<link>https://doi.org/10.1016/j.est.2026.125005</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125005</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:35 GMT</pubDate>
-<description>این مقاله یک نانوکامپوزیت سه‌تایی پلی‌تیوفن/WO3/SnO2 را به عنوان الکترود برای ابرخازن متقارن انعطاف‌پذیر معرفی و عملکرد آن را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 polythiophene · WO3/SnO2 nanocomposite · flexible supercapacitor · symmetric supercapacitor · ternary electrode</description>
-<category>polythiophene</category>
-<category>WO3/SnO2 nanocomposite</category>
-<category>flexible supercapacitor</category>
-<category>symmetric supercapacitor</category>
-<category>ternary electrode</category>
 </item>
 </channel>
 </rss>
