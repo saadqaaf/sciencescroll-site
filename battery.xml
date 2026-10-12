@@ -5,8 +5,21 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 09:03:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 10:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailored ZnO/Cellulose Separator Reconfigures Solvation Chemistry for Durable Magnesium Metal Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c15213</link>
+<guid isPermaLink="false">10.1021/jacs.6c15213</guid>
+<pubDate>Mon, 12 Oct 2026 10:02:02 GMT</pubDate>
+<description>جداکننده کامپوزیت ZnO/سلولز با بازآرایی پوسته حل‌پوشی Mg2+، تشکیل SEI معدنی متراکم را هدایت کرده و عمر چرخه‌ای بیش از ۲۰۰۰ ساعت را در باتری منیزیمی ممکن می‌سازد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a ZnO/cellulose composite separator that anchors solvent molecules via bidirectional charge transfer, reconfiguring Mg²⁺ solvation into a single-cluster structure. This enables a dense, inorganic-rich SEI, achieving over 2000 h cycling in Mg||Mg cells. The inorganic inter-reinforced organic strategy offers a generalizable route to durable, high-safety magnesium metal batteries.&lt;br&gt;🏷 magnesium metal battery · ZnO/cellulose separator · solvation chemistry · solid electrolyte interphase · Mg deposition</description>
+<category>magnesium metal battery</category>
+<category>ZnO/cellulose separator</category>
+<category>solvation chemistry</category>
+<category>solid electrolyte interphase</category>
+<category>Mg deposition</category>
+</item>
 <item>
 <title>A High‐Performance Flexible All‐Solid‐State Supercapacitor Integrating 3D Interpenetrating MXene/GNS@CC Electrodes and a Self‐Healing Hydrogel Electrolyte</title>
 <link>https://doi.org/10.1002/adfm.78953</link>
@@ -1194,18 +1207,6 @@
 <category>series-parallel pack</category>
 <category>electro-thermal coupling</category>
 <category>high discharge rate</category>
-</item>
-<item>
-<title>Distribution-aware multi-source domain adaptation for cross-domain lithium-ion battery state-of-health estimation</title>
-<link>https://doi.org/10.1016/j.est.2026.125069</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125069</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:18 GMT</pubDate>
-<description>تخمین وضعیت سلامت باتری لیتیوم-یون با تطبیق دامنه چندمنبعی آگاه از توزیع برای کاربردهای بین‌دامنه‌ای.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health estimation · domain adaptation · lithium-ion battery · cross-domain · multi-source</description>
-<category>state-of-health estimation</category>
-<category>domain adaptation</category>
-<category>lithium-ion battery</category>
-<category>cross-domain</category>
-<category>multi-source</category>
 </item>
 </channel>
 </rss>
