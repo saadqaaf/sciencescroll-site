@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 03:01:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 04:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Gene editing using large insertions</title>
+<link>https://doi.org/10.1038/s41587-026-03319-6</link>
+<guid isPermaLink="false">10.1038/s41587-026-03319-6</guid>
+<pubDate>Mon, 12 Oct 2026 04:01:08 GMT</pubDate>
+<description>این مقاله روش‌های ویرایش ژن با درج‌های بزرگ را بررسی می‌کند و مکانیسم‌ها و کاربردهای آن‌ها را در مهندسی ژنوم ارائه می‌دهد.&lt;br&gt;Nature Biotechnology | 🔬 Research Article&lt;br&gt;🏷 gene editing · large insertions · CRISPR · genome engineering · insertion mechanism</description>
+<category>gene editing</category>
+<category>large insertions</category>
+<category>CRISPR</category>
+<category>genome engineering</category>
+<category>insertion mechanism</category>
+</item>
 <item>
 <title>Mode I Delamination of a Constrained Double Cantilever Beam Specimen</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114298</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 magneto-optical diodes ·
 <category>localized surface plasmon resonance</category>
 <category>multiplex bioimaging</category>
 <category>aspect ratio tuning</category>
-</item>
-<item>
-<title>Bio-inspired in-situ CO2 foaming opens up rapid Li+ transport channels in quasi-solid polymer electrolytes for lithium-metal batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125068</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125068</guid>
-<pubDate>Sat, 10 Oct 2026 20:01:20 GMT</pubDate>
-<description>این مقاله با استفاده از فوم‌سازی درجای CO2 الهام‌گرفته از طبیعت، کانال‌های سریع انتقال Li+ را در الکترولیت پلیمری شبه‌جامد برای باتری‌های لیتیوم-فلز ایجاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 quasi-solid polymer electrolyte · lithium-metal battery · CO2 foaming · Li+ transport · bio-inspired</description>
-<category>quasi-solid polymer electrolyte</category>
-<category>lithium-metal battery</category>
-<category>CO2 foaming</category>
-<category>Li+ transport</category>
-<category>bio-inspired</category>
 </item>
 </channel>
 </rss>
