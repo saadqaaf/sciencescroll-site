@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 14:01:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 15:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High-frequency inductively heated molten salt bubbling beds for methane pyrolysis</title>
+<link>https://doi.org/10.1016/j.joule.2026.102704</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102704</guid>
+<pubDate>Mon, 12 Oct 2026 15:01:26 GMT</pubDate>
+<description>این پژوهش از بستر جوشان نمک مذاب با گرمایش القایی فرکانس بالا برای پیرولیز متان و تولید هیدروژن بدون انتشار کربن استفاده می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 methane pyrolysis · molten salt · inductive heating · bubbling bed · hydrogen production</description>
+<category>methane pyrolysis</category>
+<category>molten salt</category>
+<category>inductive heating</category>
+<category>bubbling bed</category>
+<category>hydrogen production</category>
+</item>
+<item>
+<title>Surface area determination of porous materials: the BET approach, its limitations, and alternatives</title>
+<link>https://doi.org/10.1039/d6cs00693k</link>
+<guid isPermaLink="false">10.1039/d6cs00693k</guid>
+<pubDate>Mon, 12 Oct 2026 15:01:23 GMT</pubDate>
+<description>این مقاله کاربرد و عدم‌قطعیت‌های روش BET برای تعیین سطح ویژه مواد متخلخل و جایگزین‌های نوظهور آن را بررسی می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 BET method · porous materials · surface area · gas adsorption · physisorption</description>
+<category>BET method</category>
+<category>porous materials</category>
+<category>surface area</category>
+<category>gas adsorption</category>
+<category>physisorption</category>
+</item>
 <item>
 <title>The Arctic carbon cycle response to changing root and rhizosphere processes amid greening and permafrost thaw</title>
 <link>https://doi.org/10.1038/s43017-026-00832-9</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 MXene · non-van der Waal
 <category>NIR-II imaging</category>
 <category>carbon monoxide</category>
 <category>synergistic therapy</category>
-</item>
-<item>
-<title>Spatially Complementary In‐Plane Lattice Strain Engineering for Reduced Contact Resistance and Enhanced Ferroelectric Switching in Van Der Waals α‐In 2 Se 3 Ferroelectric Semiconductor Field‐Effect Transistors</title>
-<link>https://doi.org/10.1002/adfm.78912</link>
-<guid isPermaLink="false">10.1002/adfm.78912</guid>
-<pubDate>Mon, 12 Oct 2026 09:02:00 GMT</pubDate>
-<description>مهندسی کرنش شبکه‌ای درون‌صفحه‌ای در α-In2Se3، مقاومت تماس را کاهش و سوئیچینگ فروالکتریک را در ترانزیستورهای FeS-FET تقویت می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 ferroelectric semiconductor · In2Se3 · strain engineering · contact resistance · FeS-FET</description>
-<category>ferroelectric semiconductor</category>
-<category>In2Se3</category>
-<category>strain engineering</category>
-<category>contact resistance</category>
-<category>FeS-FET</category>
-</item>
-<item>
-<title>Coordination‐Gated MOF@COF Functional Separators for Regulating Ion Flux in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78954</link>
-<guid isPermaLink="false">10.1002/adfm.78954</guid>
-<pubDate>Mon, 12 Oct 2026 09:01:57 GMT</pubDate>
-<description>جداکننده MOF@COF با دروازه‌بندی هم‌آرایی، شار یون را تنظیم کرده و عملکرد باتری لیتیوم-فلز را در نرخ و ولتاژ بالا بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a coordination-gated anion-sieving separator using a UiO-66@F-COF@Ni core–shell interlayer, where Ni²⁺ centers regulate PF₆⁻ migration and decomposition. Unlike prior affinity-focused designs, it controls anion behavior, enabling uniform Li deposition and inorganic-rich SEI. The result is stable, high-rate, high-voltage lithium metal batteries, offering a practical strategy for advanced separator engineering.&lt;br&gt;🏷 lithium metal battery · MOF@COF separator · ion flux regulation · anion sieving · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>MOF@COF separator</category>
-<category>ion flux regulation</category>
-<category>anion sieving</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
