@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 01:02:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 02:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic urea-assisted activation and nitrogen doping of biomass-derived porous carbon from coconut shell for high-performance supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125122</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125122</guid>
+<pubDate>Mon, 12 Oct 2026 02:01:07 GMT</pubDate>
+<description>فعال‌سازی هم‌افزای کربن متخلخل زیست‌توده پوسته نارگیل با اوره و دوپینگ نیتروژن برای ابرخازن با عملکرد بالا انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 coconut shell carbon · supercapacitor · nitrogen doping · urea activation · porous carbon</description>
+<category>coconut shell carbon</category>
+<category>supercapacitor</category>
+<category>nitrogen doping</category>
+<category>urea activation</category>
+<category>porous carbon</category>
+</item>
 <item>
 <title>Failure‐Guided Coupling of Interphase and Solvation Chemistry for Durable Aqueous Zn–S Batteries</title>
 <link>https://doi.org/10.1002/smll.76154</link>
@@ -1194,18 +1206,6 @@
 <category>deep reinforcement learning</category>
 <category>model predictive control</category>
 <category>expansion-force</category>
-</item>
-<item>
-<title>Research on solid-state battery information mining based on large language models and chain-of-thought reasoning</title>
-<link>https://doi.org/10.1016/j.est.2026.125065</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125065</guid>
-<pubDate>Fri, 09 Oct 2026 14:01:49 GMT</pubDate>
-<description>استخراج اطلاعات باتری حالت جامد با مدل‌های زبانی بزرگ و استدلال زنجیره تفکر بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · large language model · chain-of-thought · information mining · reasoning</description>
-<category>solid-state battery</category>
-<category>large language model</category>
-<category>chain-of-thought</category>
-<category>information mining</category>
-<category>reasoning</category>
 </item>
 </channel>
 </rss>
