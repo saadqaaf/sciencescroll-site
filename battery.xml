@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 12:01:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 13:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interface-Induced Crystallographic Orientation of Zinc Deposition Enabled by a Zwitterionic Dynamic Buffering Interface for Ultralong-Life Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03526</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03526</guid>
+<pubDate>Mon, 12 Oct 2026 13:01:22 GMT</pubDate>
+<description>این مقاله با ایجاد یک رابط بافر دینامیکی زویتریونی، رسوب‌گذاری جهت‌دار روی آند Zn را القا کرده و عمر چرخه‌ای باتری آبی روی را به بیش از 7800 ساعت می‌رساند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 A trace zwitterionic glufosinate ammonium additive forms a dynamic buffering interface on Zn, combining chemisorbed anions with mobile NH4+ shielding. This thickens the electric double layer, suppresses water splitting, and induces (101)-oriented deposition, enabling 7800 h cycling and 99.3% Coulombic efficiency. It offers a simple, effective strategy for stabilizing aqueous zinc battery interfaces.&lt;br&gt;🏷 aqueous zinc battery · zwitterionic interface · zinc anode · dendrite suppression · glufosinate ammonium</description>
+<category>aqueous zinc battery</category>
+<category>zwitterionic interface</category>
+<category>zinc anode</category>
+<category>dendrite suppression</category>
+<category>glufosinate ammonium</category>
+</item>
 <item>
 <title>Rapid dynamic electrochemical impedance spectroscopy reconstruction of lithium-ion batteries using generative adversarial network</title>
 <link>https://doi.org/10.1016/j.est.2026.125087</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>partial window</category>
 <category>multi-health indicators</category>
 <category>missing-aware ensemble</category>
-</item>
-<item>
-<title>Data-driven enhanced first-principles modeling for centrifugal compressor performance prediction in compressed air energy storage systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125014</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125014</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:57 GMT</pubDate>
-<description>این مقاله یک مدل داده‌محور مبتنی بر اصول اولیه را برای پیش‌بینی عملکرد کمپرسور گریز از مرکز در سیستم‌های ذخیره انرژی هوای فشرده توسعه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · centrifugal compressor · first-principles modeling · data-driven prediction · performance prediction</description>
-<category>compressed air energy storage</category>
-<category>centrifugal compressor</category>
-<category>first-principles modeling</category>
-<category>data-driven prediction</category>
-<category>performance prediction</category>
 </item>
 </channel>
 </rss>
