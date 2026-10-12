@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 18:02:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 19:02:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Addressing the Zinc Corrosion Conundrum: The Vital Role of Resting-State Kinetics</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02361</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02361</guid>
+<pubDate>Mon, 12 Oct 2026 19:02:11 GMT</pubDate>
+<description>این مقاله مکانیسم خوردگی گالوانیکی در باتری‌های آبی روی را بر پایه ترمودینامیک و سینتیک الکتروشیمیایی بررسی کرده و راهکارهایی برای کاهش آن ارائه می‌دهد.&lt;br&gt;ACS Energy Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This work uniquely frames zinc corrosion in AZMBs through electrochemical thermodynamics and kinetics, highlighting resting-state capacity loss often overlooked. It offers a unified mechanism linking galvanic corrosion to HER during plating/stripping, and proposes new directions for predicting and mitigating corrosion, advancing anode stability understanding.&lt;br&gt;🏷 zinc corrosion · aqueous zinc battery · resting-state kinetics · hydrogen evolution · anode performance</description>
+<category>zinc corrosion</category>
+<category>aqueous zinc battery</category>
+<category>resting-state kinetics</category>
+<category>hydrogen evolution</category>
+<category>anode performance</category>
+</item>
+<item>
+<title>Machine‐Learning‐Guided Dopant‐Class Design Enables Near‐Zero‐Strain P2‐Type Cathodes for High‐Voltage Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.78592</link>
+<guid isPermaLink="false">10.1002/adfm.78592</guid>
+<pubDate>Mon, 12 Oct 2026 19:02:03 GMT</pubDate>
+<description>طراحی دوپانت با یادگیری ماشین، کاتد P2 نوع Al-B-F با کرنش حجمی نزدیک صفر و ظرفیت ۱۴۲٫۸ mAh/g در باتری سدیم-یون ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Machine-learning-guided dopant-class design reveals metalloid doping best stabilizes high-voltage P2 cathodes. The Al─B─F co-doped cathode achieves 142.8 mAh g⁻¹ at 3.53 V, 98.19% retention after 300 cycles, and near-zero strain (0.025%), enabling durable high-voltage sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · P2 cathode · machine learning · dopant design · near-zero strain</description>
+<category>sodium-ion battery</category>
+<category>P2 cathode</category>
+<category>machine learning</category>
+<category>dopant design</category>
+<category>near-zero strain</category>
+</item>
+<item>
+<title>Dual‐Sided Regulation of Lithium Deposition for High‐Energy‐Density Anode‐Less Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.78958</link>
+<guid isPermaLink="false">10.1002/adfm.78958</guid>
+<pubDate>Mon, 12 Oct 2026 19:01:57 GMT</pubDate>
+<description>راهبرد تنظیم دوطرفه با لایه Pt و a-TaOx، رسوب Li را همگن کرده و باتری بدون آند با ظرفیت بالا و پایداری چرخه‌ای بهبودیافته ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces dual-sided regulation of Li deposition, combining a lithiophilic Pt bottom layer with a dewetting a-TaOx top layer to simultaneously control nucleation and suppress dendrite growth. This synergistic strategy enables anode-less batteries to cycle stably at high areal capacity, establishing a new paradigm for full-thickness Li stabilization.&lt;br&gt;🏷 anode-less battery · lithium metal · dendrite regulation · dual-sided interface · high energy density</description>
+<category>anode-less battery</category>
+<category>lithium metal</category>
+<category>dendrite regulation</category>
+<category>dual-sided interface</category>
+<category>high energy density</category>
+</item>
+<item>
+<title>Multifunctional and Near Zero‐Strain Li‐Rich In‐Li Intermetallic Anodes for Stable Cycling of Li‐S Batteries</title>
+<link>https://doi.org/10.1002/adfm.78972</link>
+<guid isPermaLink="false">10.1002/adfm.78972</guid>
+<pubDate>Mon, 12 Oct 2026 19:01:52 GMT</pubDate>
+<description>آند آلیاژی In3Li13 با ساختار سه‌بعدی، رشد دندریت و کرنش حجمی را در باتری Li-S کاهش داده و ۸۷٫۴٪ ظرفیت را پس از ۶۰۰ چرخه حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Li-rich In₃Li₁₃ intermetallic alloy anode made by simple roll-pressing, which simultaneously suppresses Li dendrites, minimizes volume change via a conductive 3D framework, and reduces polysulfide side reactions. Its significance is enabling stable Li-S batteries with 87.4% retention over 600 cycles, even in pouch cells, offering practical anode design insights.&lt;br&gt;🏷 Li-S battery · In-Li intermetallic · anode · dendrite suppression · near-zero strain</description>
+<category>Li-S battery</category>
+<category>In-Li intermetallic</category>
+<category>anode</category>
+<category>dendrite suppression</category>
+<category>near-zero strain</category>
+</item>
 <item>
 <title>Unlocking the Longevity of Graphite-Based Batteries in Ether Electrolytes through Solvent-Co-Intercalation-Resistant Electrolyte Design</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105591</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>cogeneration</category>
 <category>power plant</category>
 <category>thermal energy storage</category>
-</item>
-<item>
-<title>Nitrogen-doped MOF-derived carbon hosts for aluminum-sulfur batteries: Polysulfide confinement and sulfur-loading limitations</title>
-<link>https://doi.org/10.1016/j.est.2026.125073</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125073</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:55 GMT</pubDate>
-<description>این مقاله میزبان‌های کربنی مشتق از MOF دوپ‌شده با نیتروژن را برای باتری‌های آلومینیوم-گوگرد بررسی و محدودیت پلی‌سولفید و محدودیت‌های بارگذاری گوگرد را تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aluminum-sulfur battery · MOF-derived carbon · nitrogen doping · polysulfide confinement · sulfur loading</description>
-<category>aluminum-sulfur battery</category>
-<category>MOF-derived carbon</category>
-<category>nitrogen doping</category>
-<category>polysulfide confinement</category>
-<category>sulfur loading</category>
-</item>
-<item>
-<title>Extreme battery thermal management comprehensive optimization method based on pin fin heat transfer enhancement, minimum coolant predictive control and thermal fault early alarm</title>
-<link>https://doi.org/10.1016/j.est.2026.125062</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125062</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:51 GMT</pubDate>
-<description>این مقاله یک روش بهینه‌سازی جامع مدیریت حرارتی باتری بر پایه تقویت انتقال حرارت پین‌فین، کنترل پیش‌بین حداقل مایع خنک‌کننده و هشدار زودهنگام خطای حرارتی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · pin fin · predictive control · thermal fault alarm · coolant optimization</description>
-<category>battery thermal management</category>
-<category>pin fin</category>
-<category>predictive control</category>
-<category>thermal fault alarm</category>
-<category>coolant optimization</category>
-</item>
-<item>
-<title>Optimal short-term scheduling of a hybrid pumped storage system coupled with photovoltaic under reservoir-plan guidance</title>
-<link>https://doi.org/10.1016/j.est.2026.124994</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124994</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:48 GMT</pubDate>
-<description>این مقاله زمان‌بندی کوتاه‌مدت بهینه یک سیستم ذخیره‌سازی تلمبه‌ای ترکیبی جفت‌شده با فتوولتائیک را تحت راهنمایی برنامه مخزن ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pumped storage · photovoltaic · short-term scheduling · reservoir-plan guidance · hybrid system</description>
-<category>pumped storage</category>
-<category>photovoltaic</category>
-<category>short-term scheduling</category>
-<category>reservoir-plan guidance</category>
-<category>hybrid system</category>
-</item>
-<item>
-<title>Thermal runaway response and structural early warning of large-format sodium-ion batteries in a confined chamber under different triggering modes</title>
-<link>https://doi.org/10.1016/j.est.2026.125119</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125119</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:43 GMT</pubDate>
-<description>این مقاله پاسخ فرار حرارتی و هشدار زودهنگام ساختاری باتری‌های سدیم-یون بزرگ‌فرمت را در محفظه بسته تحت حالت‌های مختلف تحریک بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · thermal runaway · large-format cell · confined chamber · structural early warning</description>
-<category>sodium-ion battery</category>
-<category>thermal runaway</category>
-<category>large-format cell</category>
-<category>confined chamber</category>
-<category>structural early warning</category>
 </item>
 </channel>
 </rss>
