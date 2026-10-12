@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 19:02:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:04:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Performance of a 5 V-Class Thin-Film Li Battery at a High Current Density of ∼30 mA cm–2</title>
+<link>https://doi.org/10.1021/acsnano.6c13776</link>
+<guid isPermaLink="false">10.1021/acsnano.6c13776</guid>
+<pubDate>Mon, 12 Oct 2026 20:02:05 GMT</pubDate>
+<description>باتری تمام‌حالت Li با الکترولیت Li3PS4 و کاتد 5V LiNi0.5Mn1.5O4 با لایه‌های بافر Li3PO4 و Pt در چگالی جریان ۳۰ mA cm⁻² کار می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in achieving 30 mA cm–2 charge–discharge in a 5 V-class all-solid-state Li battery using Li3PO4 buffer layers, which cut interfacial resistance 45,000-fold, or a 5 nm Pt layer at the Li–Li3PS4 interface. This demonstrates that engineering electrochemically robust negative electrode–electrolyte interfaces is critical for high-power, rapid-charging solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · Li3PS4 · interfacial resistance · high current density · LiNi0.5Mn1.5O4</description>
+<category>all-solid-state battery</category>
+<category>Li3PS4</category>
+<category>interfacial resistance</category>
+<category>high current density</category>
+<category>LiNi0.5Mn1.5O4</category>
+</item>
 <item>
 <title>Addressing the Zinc Corrosion Conundrum: The Vital Role of Resting-State Kinetics</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02361</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>hierarchical pores</category>
 <category>supercapacitor</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Adding Carnot battery functionality to combined-cycle gas turbine power and cogeneration plants</title>
-<link>https://doi.org/10.1016/j.est.2026.124829</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124829</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:59 GMT</pubDate>
-<description>این مقاله افزودن قابلیت باتری کارنو به نیروگاه‌های توربین گاز سیکل ترکیبی و تولید همزمان را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Carnot battery · combined-cycle gas turbine · cogeneration · power plant · thermal energy storage</description>
-<category>Carnot battery</category>
-<category>combined-cycle gas turbine</category>
-<category>cogeneration</category>
-<category>power plant</category>
-<category>thermal energy storage</category>
 </item>
 </channel>
 </rss>
