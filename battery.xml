@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 16:01:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 17:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual Descriptor‐Guided Design of Hydrated Eutectic Electrolytes for Stable Zinc Batteries</title>
+<link>https://doi.org/10.1002/aenm.71695</link>
+<guid isPermaLink="false">10.1002/aenm.71695</guid>
+<pubDate>Mon, 12 Oct 2026 17:01:23 GMT</pubDate>
+<description>طراحی الکترولیت اوتکتیک هیدراته با توصیفگرهای EOD و MEP برای باتری روی، با اریتریتول که پایداری ۶۷۴۰ ساعت و ۱۱۴۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces two orthogonal descriptors—effective hydroxyl density and minimum electrostatic potential—to rationally screen polyol hydrogen-bond donors for hydrated eutectic electrolytes. Erythritol optimally balances interfacial adsorption and desolvation, enabling 6740 h symmetric cycling and 11,400 full-cell cycles. It shifts electrolyte design from empirical trial to quantitative molecular criteria.&lt;br&gt;🏷 zinc battery · eutectic electrolyte · polyol · descriptor · desolvation</description>
+<category>zinc battery</category>
+<category>eutectic electrolyte</category>
+<category>polyol</category>
+<category>descriptor</category>
+<category>desolvation</category>
+</item>
+<item>
+<title>Pore‐Stitching Engineering of Biomass‐Derived Hard Carbon for Enhanced Sodium‐Ion Storage</title>
+<link>https://doi.org/10.1002/aenm.71681</link>
+<guid isPermaLink="false">10.1002/aenm.71681</guid>
+<pubDate>Mon, 12 Oct 2026 17:01:17 GMT</pubDate>
+<description>استراتژی دوخت منافذ با هیدروکسی‌اتیل سلولز برای بازسازی کربن سخت مشتق از زیست‌توده، ظرفیت ۳۷۵.۳ mAh g−۱ و پایداری ۹۷.۸٪ پس از ۲۰۰ چرخه در باتری یون سدیم را نشان می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using hydroxyethyl cellulose to &amp;quot;stitch&amp;quot; pores in acid/alkali-purified biomass hard carbon, reconstructing the disrupted framework and reducing irreversible capacity loss. This yields 375.3 mAh g⁻¹ and a 150 Wh kg⁻¹ pouch cell with 97.8% retention after 200 cycles, offering a viable route to convert impurity-rich agricultural waste into practical sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon · sodium-ion battery · pore stitching · biomass · anode</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>pore stitching</category>
+<category>biomass</category>
+<category>anode</category>
+</item>
 <item>
 <title>Unlocking the Interfacial Activity of Insoluble Lithium Salts for Stable Lithium Batteries</title>
 <link>https://doi.org/10.1002/adma.75260</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>flexible supercapacitor</category>
 <category>symmetric supercapacitor</category>
 <category>ternary electrode</category>
-</item>
-<item>
-<title>Cross-layer coordinated optimization of integrated ultra-fast charging stations considering station-power module-charging port coupling</title>
-<link>https://doi.org/10.1016/j.est.2026.124934</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124934</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:31 GMT</pubDate>
-<description>این مقاله یک بهینه‌سازی هماهنگ چندلایه برای ایستگاه‌های شارژ فوق‌سریع یکپارچه با در نظر گرفتن کوپلینگ ایستگاه، ماژول قدرت و پورت شارژ ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ultra-fast charging station · cross-layer optimization · station-power module-port coupling · coordinated scheduling · electric vehicle charging</description>
-<category>ultra-fast charging station</category>
-<category>cross-layer optimization</category>
-<category>station-power module-port coupling</category>
-<category>coordinated scheduling</category>
-<category>electric vehicle charging</category>
-</item>
-<item>
-<title>Alloying strategy-induced oxygen vacancies for superior potassium storage kinetics</title>
-<link>https://doi.org/10.1016/j.est.2026.125061</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125061</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:27 GMT</pubDate>
-<description>این مقاله با استراتژی آلیاژسازی، نقص‌های اکسیژن را برای بهبود سینتیک ذخیره‌سازی پتاسیم ایجاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 potassium storage · oxygen vacancies · alloying strategy · anode kinetics · potassium-ion battery</description>
-<category>potassium storage</category>
-<category>oxygen vacancies</category>
-<category>alloying strategy</category>
-<category>anode kinetics</category>
-<category>potassium-ion battery</category>
 </item>
 </channel>
 </rss>
