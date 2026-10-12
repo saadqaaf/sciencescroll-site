@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 21:01:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 22:02:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In-situ polymerized fluorinated polyurethane-based gel polymer electrolyte for high-stability lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125109</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125109</guid>
+<pubDate>Mon, 12 Oct 2026 22:02:00 GMT</pubDate>
+<description>این مقاله یک الکترولیت ژل پلیمری بر پایه پلی‌یورتان فلورینه را با پلیمریزاسیون درجا برای باتری‌های لیتیوم فلزی با پایداری بالا سنتز و مشخصه‌یابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 gel polymer electrolyte · lithium metal battery · in-situ polymerization · fluorinated polyurethane · high stability</description>
+<category>gel polymer electrolyte</category>
+<category>lithium metal battery</category>
+<category>in-situ polymerization</category>
+<category>fluorinated polyurethane</category>
+<category>high stability</category>
+</item>
+<item>
+<title>Research progress on bionic enhanced heat transfer applications in batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125015</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125015</guid>
+<pubDate>Mon, 12 Oct 2026 22:01:55 GMT</pubDate>
+<description>این مقاله پیشرفت‌های پژوهشی در کاربردهای انتقال حرارت تقویت‌شده بیونیک در باتری‌ها را مرور می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 bionic enhanced heat transfer · batteries · thermal management · research progress · bionic structures</description>
+<category>bionic enhanced heat transfer</category>
+<category>batteries</category>
+<category>thermal management</category>
+<category>research progress</category>
+<category>bionic structures</category>
+</item>
+<item>
+<title>Remaining useful life prediction of lithium-ion batteries based on trend-residual decomposition and large-kernel attention Mamba model</title>
+<link>https://doi.org/10.1016/j.est.2026.124748</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124748</guid>
+<pubDate>Mon, 12 Oct 2026 22:01:51 GMT</pubDate>
+<description>پیش‌بینی عمر مفید باقیمانده باتری‌های لیتیوم-یون با تجزیه روند-باقیمانده و مدل Mamba با توجه هسته بزرگ انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion batteries · remaining useful life · trend-residual decomposition · large-kernel attention · Mamba model</description>
+<category>lithium-ion batteries</category>
+<category>remaining useful life</category>
+<category>trend-residual decomposition</category>
+<category>large-kernel attention</category>
+<category>Mamba model</category>
+</item>
+<item>
+<title>Electrostatic interfacial engineering of MXene@Cobalt niobate heterostructures with accelerated charge transport kinetics for ultra-long-life lithium-ion hybrid capacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125095</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125095</guid>
+<pubDate>Mon, 12 Oct 2026 22:01:41 GMT</pubDate>
+<description>مهندسی بین‌سطحی الکترواستاتیک در ناهم‌ساختارهای MXene@کبالت نیوبات، سینتیک انتقال بار را برای ابرخازن‌های هیبریدی لیتیوم-یون تسریع می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 MXene@cobalt niobate · lithium-ion hybrid capacitors · electrostatic interfacial engineering · charge transport kinetics · ultra-long-life</description>
+<category>MXene@cobalt niobate</category>
+<category>lithium-ion hybrid capacitors</category>
+<category>electrostatic interfacial engineering</category>
+<category>charge transport kinetics</category>
+<category>ultra-long-life</category>
+</item>
+<item>
+<title>Health-aware federated contrastive representation learning for generalizable state-of-health estimation of lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125103</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125103</guid>
+<pubDate>Mon, 12 Oct 2026 22:01:37 GMT</pubDate>
+<description>یک روش یادگیری نمایشی کنتراستی فدرال و آگاه از سلامت برای تخمین تعمیم‌پذیر وضعیت سلامت باتری‌های لیتیوم-یون ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion batteries · state-of-health estimation · federated learning · contrastive representation learning · health-aware</description>
+<category>lithium-ion batteries</category>
+<category>state-of-health estimation</category>
+<category>federated learning</category>
+<category>contrastive representation learning</category>
+<category>health-aware</category>
+</item>
 <item>
 <title>Performance of a 5 V-Class Thin-Film Li Battery at a High Current Density of ∼30 mA cm–2</title>
 <link>https://doi.org/10.1021/acsnano.6c13776</link>
@@ -1147,66 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>liquid immersion</category>
 <category>housing optimization</category>
 <category>propagation mitigation</category>
-</item>
-<item>
-<title>Optimized scandium doping in Al₂Mo₃O₁₂ with NP co-doped carbon coating for enhanced low-temperature lithium storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125031</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125031</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:19 GMT</pubDate>
-<description>دوپینگ بهینه اسکاندیم در Al2Mo3O12 همراه با پوشش کربن دوپ شده با NP، ذخیره‌سازی لیتیوم در دمای پایین را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Al2Mo3O12 · scandium doping · carbon coating · low-temperature · lithium storage</description>
-<category>Al2Mo3O12</category>
-<category>scandium doping</category>
-<category>carbon coating</category>
-<category>low-temperature</category>
-<category>lithium storage</category>
-</item>
-<item>
-<title>Synergistic cerium oxalate decahydrate-polyaniline nanocomposite fabricated by facile hydrothermal method for high performance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125001</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125001</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:15 GMT</pubDate>
-<description>نانوکامپوزیت سریم اگزالات ده‌آبه-پلی‌آنیلین با روش هیدروترمال سنتز شده و عملکرد بالایی به عنوان ابرخازن نشان می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor · cerium oxalate · polyaniline · nanocomposite · hydrothermal</description>
-<category>supercapacitor</category>
-<category>cerium oxalate</category>
-<category>polyaniline</category>
-<category>nanocomposite</category>
-<category>hydrothermal</category>
-</item>
-<item>
-<title>Machine learning based window agnostic state-of-health estimation of Li-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125032</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125032</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:11 GMT</pubDate>
-<description>این مقاله یک روش مبتنی بر یادگیری ماشین برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون ارائه می‌دهد که مستقل از پنجره داده‌های ورودی عمل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Li-ion battery · state-of-health · machine learning · window agnostic · estimation</description>
-<category>Li-ion battery</category>
-<category>state-of-health</category>
-<category>machine learning</category>
-<category>window agnostic</category>
-<category>estimation</category>
-</item>
-<item>
-<title>Hierarchical coral-like binder-free SbSnBi@Cu anode fabricated via pulsed reverse electrodeposition toward high-performance sodium storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125115</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125115</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:07 GMT</pubDate>
-<description>این مقاله آند بدون بایندر SbSnBi@Cu با ساختار مرجانی سلسله‌مراتبی را از طریق رسوب‌دهی الکتریکی معکوس پالسی برای ذخیره‌سازی سدیم با عملکرد بالا می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium storage · SbSnBi alloy · binder-free anode · pulsed reverse electrodeposition · coral-like structure</description>
-<category>sodium storage</category>
-<category>SbSnBi alloy</category>
-<category>binder-free anode</category>
-<category>pulsed reverse electrodeposition</category>
-<category>coral-like structure</category>
-</item>
-<item>
-<title>Synergistic effect of Se doping and hierarchical pore structure on enhancing the energy storage of biomass-derived carbon in supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125036</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125036</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:03 GMT</pubDate>
-<description>این مقاله اثر هم‌افزایی دوپینگ Se و ساختار حفره سلسله‌مراتبی را بر بهبود ذخیره‌سازی انرژی کربن مشتق از زیست‌توده در ابرخازن‌ها بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 biomass-derived carbon · selenium doping · hierarchical pores · supercapacitor · energy storage</description>
-<category>biomass-derived carbon</category>
-<category>selenium doping</category>
-<category>hierarchical pores</category>
-<category>supercapacitor</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
