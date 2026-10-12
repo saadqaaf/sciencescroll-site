@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 02:01:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 03:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mode I Delamination of a Constrained Double Cantilever Beam Specimen</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114298</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114298</guid>
+<pubDate>Mon, 12 Oct 2026 03:01:16 GMT</pubDate>
+<description>این مقاله به بررسی جدایش مود I در نمونه تیر دوسرگیردار مقید می‌پردازد و رفتار شکست را تحلیل می‌کند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 delamination · double cantilever beam · fracture mechanics · mode I · constrained specimen</description>
+<category>delamination</category>
+<category>double cantilever beam</category>
+<category>fracture mechanics</category>
+<category>mode I</category>
+<category>constrained specimen</category>
+</item>
 <item>
 <title>Synergistic urea-assisted activation and nitrogen doping of biomass-derived porous carbon from coconut shell for high-performance supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125122</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 magneto-optical diodes ·
 <category>CO2 foaming</category>
 <category>Li+ transport</category>
 <category>bio-inspired</category>
-</item>
-<item>
-<title>Performance evaluation of solid-state lithium batteries for UAV applications: Endurance, temperature adaptability, and self-discharge</title>
-<link>https://doi.org/10.1016/j.est.2026.124949</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124949</guid>
-<pubDate>Sat, 10 Oct 2026 20:01:16 GMT</pubDate>
-<description>این مقاله عملکرد باتری‌های لیتیوم حالت جامد را برای کاربردهای پهپاد از نظر استقامت، سازگاری دمایی و خودتخلیه ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · UAV · endurance · temperature adaptability · self-discharge</description>
-<category>solid-state lithium battery</category>
-<category>UAV</category>
-<category>endurance</category>
-<category>temperature adaptability</category>
-<category>self-discharge</category>
 </item>
 </channel>
 </rss>
