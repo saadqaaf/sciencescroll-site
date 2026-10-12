@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 08:01:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:03:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A High‐Performance Flexible All‐Solid‐State Supercapacitor Integrating 3D Interpenetrating MXene/GNS@CC Electrodes and a Self‐Healing Hydrogel Electrolyte</title>
+<link>https://doi.org/10.1002/adfm.78953</link>
+<guid isPermaLink="false">10.1002/adfm.78953</guid>
+<pubDate>Mon, 12 Oct 2026 09:02:32 GMT</pubDate>
+<description>ابرخازن تمام‌جامد انعطاف‌پذیر با الکترود MXene/GNS@CC و الکترولیت هیدروژل خودترمیم، چگالی انرژی 195.37 µWh·cm−2 و ظرفیت 1152.03 mF·cm−2 را ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a one-step electrophoretic deposition of a 3D interpenetrating MXene/graphene nanoscroll electrode combined with a self-healing PVA-PDA hydrogel electrolyte. This yields high areal capacitance (6880.60 mF·cm⁻²), energy density (195.37 µWh·cm⁻²), and 87.32% capacitance retention after four cutting/healing cycles, advancing flexible self-healing energy storage.&lt;br&gt;🏷 MXene electrode · self-healing supercapacitor · hydrogel electrolyte · graphene nanoscrolls · flexible device</description>
+<category>MXene electrode</category>
+<category>self-healing supercapacitor</category>
+<category>hydrogel electrolyte</category>
+<category>graphene nanoscrolls</category>
+<category>flexible device</category>
+</item>
+<item>
+<title>Coordination‐Gated MOF@COF Functional Separators for Regulating Ion Flux in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.78954</link>
+<guid isPermaLink="false">10.1002/adfm.78954</guid>
+<pubDate>Mon, 12 Oct 2026 09:01:57 GMT</pubDate>
+<description>جداکننده MOF@COF با دروازه‌بندی هم‌آرایی، شار یون را تنظیم کرده و عملکرد باتری لیتیوم-فلز را در نرخ و ولتاژ بالا بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a coordination-gated anion-sieving separator using a UiO-66@F-COF@Ni core–shell interlayer, where Ni²⁺ centers regulate PF₆⁻ migration and decomposition. Unlike prior affinity-focused designs, it controls anion behavior, enabling uniform Li deposition and inorganic-rich SEI. The result is stable, high-rate, high-voltage lithium metal batteries, offering a practical strategy for advanced separator engineering.&lt;br&gt;🏷 lithium metal battery · MOF@COF separator · ion flux regulation · anion sieving · dendrite suppression</description>
+<category>lithium metal battery</category>
+<category>MOF@COF separator</category>
+<category>ion flux regulation</category>
+<category>anion sieving</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Topochemical Engineering of Two‐Dimensional MXenes and Beyond</title>
 <link>https://doi.org/10.1002/adma.75353</link>
@@ -1182,30 +1206,6 @@
 <category>lithium-ion battery</category>
 <category>cross-domain</category>
 <category>multi-source</category>
-</item>
-<item>
-<title>Simulation-guided SiOx–graphite anode design for mitigating reaction heterogeneity and enhancing fast-charging performance in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125105</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125105</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:13 GMT</pubDate>
-<description>طراحی آند SiOx–گرافیت با راهنمایی شبیه‌سازی برای کاهش ناهمگنی واکنش و بهبود شارژ سریع در باتری‌های لیتیوم-یون.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 SiOx-graphite anode · fast charging · reaction heterogeneity · lithium-ion battery · simulation-guided design</description>
-<category>SiOx-graphite anode</category>
-<category>fast charging</category>
-<category>reaction heterogeneity</category>
-<category>lithium-ion battery</category>
-<category>simulation-guided design</category>
-</item>
-<item>
-<title>Sol-gel-driven nanoscale molecular reconstruction for the conversion of FePO4 into high-performance Na4Fe3(PO4)2P2O7 cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125071</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125071</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:09 GMT</pubDate>
-<description>بازسازی مولکولی نانومقیاس با سل-ژل برای تبدیل FePO4 به کاتدهای高性能 Na4Fe3(PO4)2P2O7 انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Na4Fe3(PO4)2P2O7 · FePO4 · sol-gel · cathode · sodium-ion battery</description>
-<category>Na4Fe3(PO4)2P2O7</category>
-<category>FePO4</category>
-<category>sol-gel</category>
-<category>cathode</category>
-<category>sodium-ion battery</category>
 </item>
 </channel>
 </rss>
