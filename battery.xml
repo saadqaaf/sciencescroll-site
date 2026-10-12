@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 10:02:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 11:04:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Enhancing the Electrical Performance of LiNi 0.65 Co 0.3 Al 0.05 O 2 Oxide Cathode by Substituting Mn for Co</title>
+<link>https://doi.org/10.1002/smll.76196</link>
+<guid isPermaLink="false">10.1002/smll.76196</guid>
+<pubDate>Mon, 12 Oct 2026 11:04:22 GMT</pubDate>
+<description>جانشینی Mn به جای Co در کاتد LiNi0.65Co0.3-xMnxAl0.05O2، با x=0.1، پایداری ساختاری و نگهداشت ظرفیت را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This study uniquely fine-tunes Mn substitution in low-Ni (0.65) Co-rich cathodes, a less explored regime. It reveals Mn surface enrichment and links structural changes to electrochemical performance. The optimal x=0.1 composition achieves 87% capacity retention after 100 cycles, offering a promising strategy for cobalt reduction and stable nickel-rich cathodes.&lt;br&gt;🏷 lithium-ion battery · Ni-rich cathode · Mn substitution · cation mixing · capacity retention</description>
+<category>lithium-ion battery</category>
+<category>Ni-rich cathode</category>
+<category>Mn substitution</category>
+<category>cation mixing</category>
+<category>capacity retention</category>
+</item>
+<item>
+<title>Interlayer‐Confined LiNO3 Reservoir Enables the Formation of a Li‐Containing Hybrid SEI for Robust Sodium Metal Anodes</title>
+<link>https://doi.org/10.1002/smll.75985</link>
+<guid isPermaLink="false">10.1002/smll.75985</guid>
+<pubDate>Mon, 12 Oct 2026 11:04:13 GMT</pubDate>
+<description>سپراتور مونتموریلونیت با مخزن LiNO3 در فضای بین‌لایه‌ای، SEI هیبریدی Li/Na غنی از LiF را برای آند سدیم پایدار تشکیل می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers an interlayer-confined LiNO3 reservoir in a montmorillonite-based separator, enabling sustained nitrate release to regulate solvation and form a Li/Na hybrid SEI. The Li-containing phases lower ion diffusion barriers, homogenizing Na deposition. This separator-engineering strategy achieves 4000 h cycling and 83.7% capacity retention after 2300 cycles, significantly advancing robust sodium metal batteries.&lt;br&gt;🏷 sodium metal battery · solid electrolyte interphase · LiNO3 reservoir · montmorillonite separator · sustained release</description>
+<category>sodium metal battery</category>
+<category>solid electrolyte interphase</category>
+<category>LiNO3 reservoir</category>
+<category>montmorillonite separator</category>
+<category>sustained release</category>
+</item>
+<item>
+<title>LLMs as Representation Generators for Gradient‐Free Scientific Optimization: A Case Study in Battery Fast Charging</title>
+<link>https://doi.org/10.1002/advs.78012</link>
+<guid isPermaLink="false">10.1002/advs.78012</guid>
+<pubDate>Mon, 12 Oct 2026 11:03:10 GMT</pubDate>
+<description>چارچوب بهینه‌سازی بدون گرادیان مبتنی بر LLM پروتکل‌های شارژ سریع باتری را تولید می‌کند و سلامت باتری را حدود ۴.۲٪ نسبت به خط پایه بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a gradient-free LLM framework for scientific optimization, with two paradigms: Prompt-to-Optimizer and Prompt-to-Protocol. Applied to battery fast charging, it outperforms predefined functional forms, improving state of health by ~4.2%. Its novelty lies in using LLMs as representation generators to expand hypothesis spaces, enabling efficient search where evaluations are costly and gradients unavailable.&lt;br&gt;🏷 fast charging · large language models · gradient-free optimization · battery health · control policy</description>
+<category>fast charging</category>
+<category>large language models</category>
+<category>gradient-free optimization</category>
+<category>battery health</category>
+<category>control policy</category>
+</item>
 <item>
 <title>Tailored ZnO/Cellulose Separator Reconfigures Solvation Chemistry for Durable Magnesium Metal Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c15213</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>enzymatic catalysis</category>
 <category>self-sustaining</category>
 <category>biofuel cell</category>
-</item>
-<item>
-<title>Cross-domain transferable few-shot learning for state-of-health estimation of lithium-ion batteries with physics-consistent neural network</title>
-<link>https://doi.org/10.1016/j.est.2026.125048</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125048</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:41 GMT</pubDate>
-<description>یادگیری چندشات قابل انتقال بین‌دامنه با شبکه عصبی سازگار با فیزیک برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health estimation · few-shot learning · physics-consistent neural network · cross-domain transfer · lithium-ion battery</description>
-<category>state-of-health estimation</category>
-<category>few-shot learning</category>
-<category>physics-consistent neural network</category>
-<category>cross-domain transfer</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Local structural modulation via sulfate substitution for high-performance NFPP-based sodium-ion battery cathode</title>
-<link>https://doi.org/10.1016/j.est.2026.125035</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125035</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:30 GMT</pubDate>
-<description>اصلاح ساختار محلی از طریق جانشینی سولفات برای کاتد NFPP با عملکرد بالا در باتری یون-سدیم.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · NFPP cathode · sulfate substitution · local structural modulation · high performance</description>
-<category>sodium-ion battery</category>
-<category>NFPP cathode</category>
-<category>sulfate substitution</category>
-<category>local structural modulation</category>
-<category>high performance</category>
-</item>
-<item>
-<title>Coupled electro-thermal investigation of series-parallel lithium-ion battery packs with phase change materials-based cooling at high discharge rates</title>
-<link>https://doi.org/10.1016/j.est.2026.125088</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125088</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:22 GMT</pubDate>
-<description>بررسی الکترو-حرارتی بسته‌های باتری لیتیوم-یون سری-موازی با خنک‌کاری مواد تغییر فاز در نرخ‌های تخلیه بالا.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · battery thermal management · series-parallel pack · electro-thermal coupling · high discharge rate</description>
-<category>phase change material</category>
-<category>battery thermal management</category>
-<category>series-parallel pack</category>
-<category>electro-thermal coupling</category>
-<category>high discharge rate</category>
 </item>
 </channel>
 </rss>
