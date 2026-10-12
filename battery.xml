@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 11:04:27 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 12:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rapid dynamic electrochemical impedance spectroscopy reconstruction of lithium-ion batteries using generative adversarial network</title>
+<link>https://doi.org/10.1016/j.est.2026.125087</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125087</guid>
+<pubDate>Mon, 12 Oct 2026 12:01:53 GMT</pubDate>
+<description>این مقاله روشی مبتنی بر شبکه مولد رقابتی برای بازسازی سریع طیف‌سنجی امپدانس الکتروشیمیایی دینامیکی باتری‌های لیتیوم-یون ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion batteries · electrochemical impedance spectroscopy · generative adversarial network · dynamic reconstruction · battery diagnostics</description>
+<category>lithium-ion batteries</category>
+<category>electrochemical impedance spectroscopy</category>
+<category>generative adversarial network</category>
+<category>dynamic reconstruction</category>
+<category>battery diagnostics</category>
+</item>
+<item>
+<title>CoFeNiCuMn layered double hydroxide as a bifunctional electrocatalyst for rechargeable zinc-air batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125034</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125034</guid>
+<pubDate>Mon, 12 Oct 2026 12:01:49 GMT</pubDate>
+<description>این مقاله یک هیدروکسید دوگانه لایه‌ای CoFeNiCuMn را به عنوان الکتروکاتالیست دوعملکردی برای باتری‌های روی-هوا قابل شارژ معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 layered double hydroxide · bifunctional electrocatalyst · zinc-air battery · CoFeNiCuMn · rechargeable battery</description>
+<category>layered double hydroxide</category>
+<category>bifunctional electrocatalyst</category>
+<category>zinc-air battery</category>
+<category>CoFeNiCuMn</category>
+<category>rechargeable battery</category>
+</item>
+<item>
+<title>Correlating grid scale battery operation with prices, emissions, and renewables in California and Texas</title>
+<link>https://doi.org/10.1016/j.est.2026.124812</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124812</guid>
+<pubDate>Mon, 12 Oct 2026 12:01:44 GMT</pubDate>
+<description>این مقاله عملیات باتری‌های مقیاس شبکه را با قیمت‌ها، انتشار گازهای گلخانه‌ای و انرژی‌های تجدیدپذیر در کالیفرنیا و تگزاس مرتبط می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 grid-scale batteries · battery operation · prices · emissions · renewables</description>
+<category>grid-scale batteries</category>
+<category>battery operation</category>
+<category>prices</category>
+<category>emissions</category>
+<category>renewables</category>
+</item>
 <item>
 <title>Enhancing the Electrical Performance of LiNi 0.65 Co 0.3 Al 0.05 O 2 Oxide Cathode by Substituting Mn for Co</title>
 <link>https://doi.org/10.1002/smll.76196</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>first-principles modeling</category>
 <category>data-driven prediction</category>
 <category>performance prediction</category>
-</item>
-<item>
-<title>Defect-rich three-dimensionally ordered macroporous magnesium cobalt oxide spinel coupled with graphite felt for vanadium redox flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.124867</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124867</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:53 GMT</pubDate>
-<description>این مقاله اسپینل MgCo2O4 سه‌بعدی منظم و غنی از نقص را با گرافیت نمدی برای باتری جریان ردوکس وانادیوم ترکیب کرده و عملکرد الکتروشیمیایی را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · magnesium cobalt oxide · graphite felt · defect-rich spinel · macroporous electrode</description>
-<category>vanadium redox flow battery</category>
-<category>magnesium cobalt oxide</category>
-<category>graphite felt</category>
-<category>defect-rich spinel</category>
-<category>macroporous electrode</category>
-</item>
-<item>
-<title>A resource-efficient in-situ thermal modeling method for second-life lithium-ion batteries for stationary applications</title>
-<link>https://doi.org/10.1016/j.est.2026.125009</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125009</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:49 GMT</pubDate>
-<description>روش مدل‌سازی حرارتی درجا و کم‌منبع برای باتری‌های لیتیوم-یون دوره دوم در کاربردهای ثابت.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 second-life battery · thermal modeling · stationary application · resource-efficient · lithium-ion battery</description>
-<category>second-life battery</category>
-<category>thermal modeling</category>
-<category>stationary application</category>
-<category>resource-efficient</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Self-sustaining microbattery fueled by pectin via enzymatic catalysis</title>
-<link>https://doi.org/10.1016/j.est.2026.125013</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125013</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:45 GMT</pubDate>
-<description>یک میکروباتری خودپایدار با سوخت پکتین از طریق کاتالیز آنزیمی.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 microbattery · pectin · enzymatic catalysis · self-sustaining · biofuel cell</description>
-<category>microbattery</category>
-<category>pectin</category>
-<category>enzymatic catalysis</category>
-<category>self-sustaining</category>
-<category>biofuel cell</category>
 </item>
 </channel>
 </rss>
