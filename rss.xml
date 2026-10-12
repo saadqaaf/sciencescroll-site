@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 05:01:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 06:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Topochemical Engineering of Two‐Dimensional MXenes and Beyond</title>
+<link>https://doi.org/10.1002/adma.75353</link>
+<guid isPermaLink="false">10.1002/adma.75353</guid>
+<pubDate>Mon, 12 Oct 2026 06:01:15 GMT</pubDate>
+<description>این مرور، مهندسی توپوشیمیایی MXenes و دیگر مواد دوبعدی را با چهار راهبرد تبدیل، پایانه‌گذاری، جانشینی و تبدیل ساختاری برای ذخیره‌سازی و تبدیل انرژی الکتروشیمیایی بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely systematizes topochemical engineering of MXenes and other 2D materials into four core strategies—conversion, termination, substitution, and transformation—establishing classification criteria and structure–performance correlations for electrochemical energy applications. It provides design principles and guidelines for atomic-level material tailoring, offering critical direction for rational development of next-generation 2D functional materials.&lt;br&gt;🏷 MXenes · topochemical engineering · 2D materials · energy storage · structure-performance correlation</description>
+<category>MXenes</category>
+<category>topochemical engineering</category>
+<category>2D materials</category>
+<category>energy storage</category>
+<category>structure-performance correlation</category>
+</item>
+<item>
+<title>Photonic Klein Tunnelling in Silicon Topological Materials for Terahertz 6G Interconnects</title>
+<link>https://doi.org/10.1002/adma.75322</link>
+<guid isPermaLink="false">10.1002/adma.75322</guid>
+<pubDate>Mon, 12 Oct 2026 06:01:10 GMT</pubDate>
+<description>تونل‌زنی کلاین فوتونی در بلور فوتونی سیلیکونی توپولوژیکی سازگار با CMOS در فرکانس تراهرتز نشان داده شده و انتقال داده تا 100 Gbit/s را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 Klein tunnelling · topological photonics · silicon photonic crystal · terahertz interconnects · valley pseudospin</description>
+<category>Klein tunnelling</category>
+<category>topological photonics</category>
+<category>silicon photonic crystal</category>
+<category>terahertz interconnects</category>
+<category>valley pseudospin</category>
+</item>
+<item>
+<title>Albumin Orchestrates Type‐I ROS Conversion for Efficient Intracellular Bacterial Clearance</title>
+<link>https://doi.org/10.1002/adma.75340</link>
+<guid isPermaLink="false">10.1002/adma.75340</guid>
+<pubDate>Mon, 12 Oct 2026 06:01:06 GMT</pubDate>
+<description>نانوذرات آلبومین با تبدیل ROS نوع-I برای ریشه‌کنی باکتری‌های داخل‌سلولی در سپسیس ناشی از S. aureus طراحی شده و هموستازی ردوکس و ایمنی را بدون سمیت آشکار بازیابی می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 photodynamic therapy · albumin nanoparticles · type-I ROS · intracellular bacteria · sepsis</description>
+<category>photodynamic therapy</category>
+<category>albumin nanoparticles</category>
+<category>type-I ROS</category>
+<category>intracellular bacteria</category>
+<category>sepsis</category>
+</item>
 <item>
 <title>Architecting Anode Current Collectors for Practical Anode-Free Alkali Metal Batteries</title>
 <link>https://doi.org/10.1007/s40820-026-02355-w</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 magneto-optical diodes ·
 <category>catalytic kinetics</category>
 <category>spin polarization</category>
 <category>reaction mechanism</category>
-</item>
-<item>
-<title>Competing Magnetic Configurations Enable Low-Field Magnetoresistance Switching in Cr3Te4</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c02943</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c02943</guid>
-<pubDate>Sat, 10 Oct 2026 21:01:35 GMT</pubDate>
-<description>در Cr3Te4، نزدیکی انرژی پیکربندی‌های مغناطیسی موازی و پادموازی امکان سوئیچینگ مقاومت مغناطیسی تا ۳۷.۶٪ را در میدان کم ۰.۲۵ تسلا فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 Cr3Te4 · magnetoresistance switching · competing magnetic configurations · Boltzmann transport · Co substitution</description>
-<category>Cr3Te4</category>
-<category>magnetoresistance switching</category>
-<category>competing magnetic configurations</category>
-<category>Boltzmann transport</category>
-<category>Co substitution</category>
-</item>
-<item>
-<title>Experimental Signature of Transient Symmetry Breaking in a Cavity Dirty-Limit Superconductor</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03749</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03749</guid>
-<pubDate>Sat, 10 Oct 2026 21:01:28 GMT</pubDate>
-<description>طیف‌سنجی تراهرتز پمپ-پروب در ابررسانای محدودیت آلوده نشان می‌دهد میدان تراهرتز قوی با تزریق ابرجریان پیکوثانیه‌ای، شکست تقارن گذرا ایجاد می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 transient symmetry breaking · dirty-limit superconductor · terahertz spectroscopy · split-ring resonator cavity · supercurrent</description>
-<category>transient symmetry breaking</category>
-<category>dirty-limit superconductor</category>
-<category>terahertz spectroscopy</category>
-<category>split-ring resonator cavity</category>
-<category>supercurrent</category>
-</item>
-<item>
-<title>Probing Valence Electron Distributions at Subatomic Resolution in a Charge Density Wave Material</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04038</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04038</guid>
-<pubDate>Sat, 10 Oct 2026 21:01:25 GMT</pubDate>
-<description>با CBED در 4D-STEM، توزیع الکترون‌های ظرفیت در ماده موج چگالی بار 1T-TaS2 در مقیاس زیراتمی بررسی و نارسایی مدل اتم مستقل نشان داده می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 charge density wave · 4D-STEM · convergent-beam electron diffraction · valence electron distribution · 1T-TaS2</description>
-<category>charge density wave</category>
-<category>4D-STEM</category>
-<category>convergent-beam electron diffraction</category>
-<category>valence electron distribution</category>
-<category>1T-TaS2</category>
 </item>
 </channel>
 </rss>

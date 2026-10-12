@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 05:01:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 06:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Topochemical Engineering of Two‐Dimensional MXenes and Beyond</title>
+<link>https://doi.org/10.1002/adma.75353</link>
+<guid isPermaLink="false">10.1002/adma.75353</guid>
+<pubDate>Mon, 12 Oct 2026 06:01:15 GMT</pubDate>
+<description>این مرور، مهندسی توپوشیمیایی MXenes و دیگر مواد دوبعدی را با چهار راهبرد تبدیل، پایانه‌گذاری، جانشینی و تبدیل ساختاری برای ذخیره‌سازی و تبدیل انرژی الکتروشیمیایی بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely systematizes topochemical engineering of MXenes and other 2D materials into four core strategies—conversion, termination, substitution, and transformation—establishing classification criteria and structure–performance correlations for electrochemical energy applications. It provides design principles and guidelines for atomic-level material tailoring, offering critical direction for rational development of next-generation 2D functional materials.&lt;br&gt;🏷 MXenes · topochemical engineering · 2D materials · energy storage · structure-performance correlation</description>
+<category>MXenes</category>
+<category>topochemical engineering</category>
+<category>2D materials</category>
+<category>energy storage</category>
+<category>structure-performance correlation</category>
+</item>
 <item>
 <title>Architecting Anode Current Collectors for Practical Anode-Free Alkali Metal Batteries</title>
 <link>https://doi.org/10.1007/s40820-026-02355-w</link>
@@ -1194,18 +1206,6 @@
 <category>sol-gel</category>
 <category>cathode</category>
 <category>sodium-ion battery</category>
-</item>
-<item>
-<title>Cooperative state of charge and state of health estimation for lithium-ion battery packs: An adaptively tuned dual extended Kalman filter enhanced by gated recurrent unit</title>
-<link>https://doi.org/10.1016/j.est.2026.125055</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125055</guid>
-<pubDate>Fri, 09 Oct 2026 14:02:05 GMT</pubDate>
-<description>تخمین هم‌زمان وضعیت شارژ و سلامت باتری لیتیوم-یون با فیلتر کالمن دوگانه تنظیم‌شده و واحد بازگشتی دروازه‌ای انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of charge · state of health · dual extended Kalman filter · gated recurrent unit</description>
-<category>lithium-ion battery</category>
-<category>state of charge</category>
-<category>state of health</category>
-<category>dual extended Kalman filter</category>
-<category>gated recurrent unit</category>
 </item>
 </channel>
 </rss>
