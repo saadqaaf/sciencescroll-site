@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 00:01:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 01:02:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Failure‐Guided Coupling of Interphase and Solvation Chemistry for Durable Aqueous Zn–S Batteries</title>
+<link>https://doi.org/10.1002/smll.76154</link>
+<guid isPermaLink="false">10.1002/smll.76154</guid>
+<pubDate>Mon, 12 Oct 2026 01:01:44 GMT</pubDate>
+<description>افزودنی IAM با تنظیم هم‌زمان بین‌فاز و حلال‌پوشی، پایداری آند Zn و عملکرد باتری آبی Zn-S را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work identifies Zn anode polarization and short-circuiting—not sulfur loss—as the dominant failure mode in iodine-mediated Zn–S batteries. Guided by this diagnosis, iodoacetamide couples interphase and solvation regulation, forming a gradient interphase and modulating Zn2+ coordination. The result is 2000-cycle Zn||Cu stability and 75.95% capacity retention over 550 cycles, offering a practical design principle for durable aqueous Zn–S batteries.&lt;br&gt;🏷 Zn-S battery · iodoacetamide additive · interphase · solvation regulation · Zn anode</description>
+<category>Zn-S battery</category>
+<category>iodoacetamide additive</category>
+<category>interphase</category>
+<category>solvation regulation</category>
+<category>Zn anode</category>
+</item>
+<item>
+<title>Diluent Conformational Flexibility Enhances Interfacial Kinetics in Safe High‐Voltage Potassium Batteries</title>
+<link>https://doi.org/10.1002/smll.76224</link>
+<guid isPermaLink="false">10.1002/smll.76224</guid>
+<pubDate>Mon, 12 Oct 2026 01:01:40 GMT</pubDate>
+<description>انعطاف‌پذیری کنفورماسیونی رقیق‌کننده در الکترولیت فسفات‌دار، سینتیک بین‌سطحی و عملکرد باتری پتاسیم ولتاژ بالا را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work reveals diluent conformational flexibility as a new molecular design dimension controlling instantaneous solvation-state distributions, beyond conventional coordination numbers. Flexible diluents create rich, uniform solvation states, boosting exchange current density and interfacial kinetics. This enables safe phosphate-based potassium batteries with 1400-cycle graphite stability, 4.5 V Prussian blue operation, and 93.6% retention over 900 cycles.&lt;br&gt;🏷 potassium battery · diluent flexibility · solvation state · interfacial kinetics · high voltage</description>
+<category>potassium battery</category>
+<category>diluent flexibility</category>
+<category>solvation state</category>
+<category>interfacial kinetics</category>
+<category>high voltage</category>
+</item>
+<item>
+<title>Enhanced High‐Voltage Fast‐Charging Capability for Lithium‐Ion Battery Cathodes via Multifunctional Biphasic Interfacial Engineering</title>
+<link>https://doi.org/10.1002/smll.76223</link>
+<guid isPermaLink="false">10.1002/smll.76223</guid>
+<pubDate>Mon, 12 Oct 2026 01:01:34 GMT</pubDate>
+<description>مهندسی بین‌سطحی دوفازی با هم‌دوپینگ B/Al در کاتد غنی از لیتیوم، شارژ سریع در ولتاژ بالا را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The work introduces a multifunctional biphasic shell—amorphous Li₂B₄O₇ over an in-situ spinel phase—combined with B/Al co-doping in Li-rich Mn-based cathodes. This dual interface/surface engineering simultaneously enhances Li⁺ kinetics, suppresses side reactions, and stabilizes structure, enabling 138 mAh g⁻¹ at 5 C and 90.07% retention after 300 cycles at 2.0–4.8 V, advancing high-voltage fast-charging battery design.&lt;br&gt;🏷 Li-rich cathode · biphasic interface · fast charging · high voltage · B/Al co-doping</description>
+<category>Li-rich cathode</category>
+<category>biphasic interface</category>
+<category>fast charging</category>
+<category>high voltage</category>
+<category>B/Al co-doping</category>
+</item>
 <item>
 <title>V─O─Ti Bridge‐Bond Polarity Boosts Na + Migration in V‐Based Fluorophosphates for Fast Sodium Storage</title>
 <link>https://doi.org/10.1002/anie.6142534</link>
@@ -1170,42 +1206,6 @@
 <category>chain-of-thought</category>
 <category>information mining</category>
 <category>reasoning</category>
-</item>
-<item>
-<title>Broadband electrochemical impedance spectroscopy of lithium-ion batteries based on a current-controlled DC–DC converter for energy storage systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125107</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125107</guid>
-<pubDate>Fri, 09 Oct 2026 14:01:45 GMT</pubDate>
-<description>طیف‌سنجی امپدانس الکتروشیمیایی پهن‌باند باتری لیتیوم-یون با مبدل DC-DC کنترل جریان برای سیستم‌های ذخیره انرژی انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · electrochemical impedance spectroscopy · DC-DC converter · energy storage · broadband</description>
-<category>lithium-ion battery</category>
-<category>electrochemical impedance spectroscopy</category>
-<category>DC-DC converter</category>
-<category>energy storage</category>
-<category>broadband</category>
-</item>
-<item>
-<title>Lightweight Catalyst-Decorated Carbon Nanotube Framework as a Bifunctional Current Collector for High-Energy and Long-Life Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122203</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122203</guid>
-<pubDate>Fri, 09 Oct 2026 13:03:58 GMT</pubDate>
-<description>چارچوب سبک نانولوله کربنی تزئین‌شده با کاتالیزور به عنوان جمع‌کننده جریان دوعملکردی، باتری لیتیوم-گوگرد با انرژی بالا و عمر طولانی ارائه می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · carbon nanotube · bifunctional current collector · catalyst decoration · long-life</description>
-<category>lithium-sulfur battery</category>
-<category>carbon nanotube</category>
-<category>bifunctional current collector</category>
-<category>catalyst decoration</category>
-<category>long-life</category>
-</item>
-<item>
-<title>Revealing Temperature‐Driven Interfacial Reactions of Succinonitrile in PEO‒LiTFSI Electrolytes and Suppressing Them via Dual PEDOT‐Based Interfacial Layers</title>
-<link>https://doi.org/10.1002/advs.78096</link>
-<guid isPermaLink="false">10.1002/advs.78096</guid>
-<pubDate>Fri, 09 Oct 2026 13:02:49 GMT</pubDate>
-<description>واکنش‌های بین‌سطحی ناشی از دما در الکترولیت PEO-LiTFSI حاوی سوکسینونیتریل شناسایی و با لایه‌های محافظ PEDOT دوطرفه سرکوب شد و چرخه‌پذیری پایدار فراهم گردید.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work first reveals temperature-driven succinonitrile interfacial reactions at both lithium and cathode sides in PEO–LiTFSI electrolytes, identifying cathode-side degradation as dominant. A dual PEDOT-based protection strategy suppresses these reactions, enabling over 500 stable cycles with &amp;gt;70% capacity retention at 50°C and wide-temperature (10–50°C) solid-state battery operation.&lt;br&gt;🏷 solid polymer electrolyte · succinonitrile · PEO-LiTFSI · PEDOT interlayer · interfacial reactions</description>
-<category>solid polymer electrolyte</category>
-<category>succinonitrile</category>
-<category>PEO-LiTFSI</category>
-<category>PEDOT interlayer</category>
-<category>interfacial reactions</category>
 </item>
 </channel>
 </rss>
