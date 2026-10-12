@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 13:01:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 14:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anion-Regulating Separator for Simultaneous Control of electrode–electrolyte and Li+ Transport in Stable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ta04595b</link>
+<guid isPermaLink="false">10.1039/d6ta04595b</guid>
+<pubDate>Mon, 12 Oct 2026 14:01:45 GMT</pubDate>
+<description>یک جداکننده تنظیم‌کننده آنیون برای کنترل همزمان الکترود-الکترولیت و انتقال Li+ در باتری‌های فلز لیتیوم پایدار با کاتد غنی از نیکل ارائه می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an anion-regulating separator that simultaneously controls electrode–electrolyte interactions and Li+ transport. This dual regulation suppresses parasitic reactions and dendrite growth, enabling stable lithium metal batteries with Ni-rich cathodes. The approach offers a promising, scalable strategy for high-energy-density LMBs.&lt;br&gt;🏷 lithium metal battery · separator · anion regulation · Li+ transport · Ni-rich cathode</description>
+<category>lithium metal battery</category>
+<category>separator</category>
+<category>anion regulation</category>
+<category>Li+ transport</category>
+<category>Ni-rich cathode</category>
+</item>
+<item>
+<title>LiSbCl6: A Missing Piece in the Framework Diversity of Lithium Halides with Limited Substitution Tolerance</title>
+<link>https://doi.org/10.1039/d6ta06558a</link>
+<guid isPermaLink="false">10.1039/d6ta06558a</guid>
+<pubDate>Mon, 12 Oct 2026 14:01:25 GMT</pubDate>
+<description>LiSbCl6 به عنوان یک هالید لیتیوم جدید معرفی می‌شود که تنوع ساختاری الکترولیت‌های جامد را گسترش می‌دهد و تحمل جانشینی محدودی دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 LiSbCl6 is identified as a previously missing structural member in lithium halide solid electrolytes, expanding framework diversity. Its limited substitution tolerance reveals narrow compositional windows for stabilizing such phases, offering new insight into design rules for fast-ion conductors and highlighting structural constraints that govern ionic transport in lithium halides.&lt;br&gt;🏷 lithium halide · solid electrolyte · ionic conductivity · LiSbCl6 · substitution tolerance</description>
+<category>lithium halide</category>
+<category>solid electrolyte</category>
+<category>ionic conductivity</category>
+<category>LiSbCl6</category>
+<category>substitution tolerance</category>
+</item>
 <item>
 <title>Interface-Induced Crystallographic Orientation of Zinc Deposition Enabled by a Zwitterionic Dynamic Buffering Interface for Ultralong-Life Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03526</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>biomass-derived carbon</category>
 <category>anode material</category>
 <category>ratio optimization</category>
-</item>
-<item>
-<title>Impact of mechanical stress on electrochemical performance of the lithium-ion battery</title>
-<link>https://doi.org/10.1016/j.est.2026.125019</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125019</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:09 GMT</pubDate>
-<description>این مقاله تأثیر تنش مکانیکی بر عملکرد الکتروشیمیایی باتری لیتیوم-یون را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery · mechanical stress · electrochemical performance · stress effect · battery degradation</description>
-<category>lithium-ion battery</category>
-<category>mechanical stress</category>
-<category>electrochemical performance</category>
-<category>stress effect</category>
-<category>battery degradation</category>
-</item>
-<item>
-<title>Robust partial-window state-of-health estimation for lithium-ion batteries using chemistry-aware multi-health indicators and missing-aware ensembles</title>
-<link>https://doi.org/10.1016/j.est.2026.124897</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124897</guid>
-<pubDate>Fri, 09 Oct 2026 14:03:02 GMT</pubDate>
-<description>این مقاله یک روش تخمین وضعیت سلامت مقاوم برای باتری‌های لیتیوم-یون با استفاده از شاخص‌های چندگانه سلامت آگاه از شیمی و مجموعه‌های آگاه از داده‌های گمشده ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state-of-health estimation · partial window · multi-health indicators · missing-aware ensemble</description>
-<category>lithium-ion battery</category>
-<category>state-of-health estimation</category>
-<category>partial window</category>
-<category>multi-health indicators</category>
-<category>missing-aware ensemble</category>
 </item>
 </channel>
 </rss>
