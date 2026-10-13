@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 07:02:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 08:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Joint design of cell layout and balancing circuit for uniform aging in unmanned aerial vehicle battery packs</title>
+<link>https://doi.org/10.1016/j.est.2026.125100</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125100</guid>
+<pubDate>Tue, 13 Oct 2026 08:01:50 GMT</pubDate>
+<description>طراحی همزمان چیدمان سلولها و مدار توازن برای یکنواختسازی پیرشدن بسته باتری پهپاد ارائه و ارزیابی میشود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery pack aging · cell layout · balancing circuit · unmanned aerial vehicle · uniform aging</description>
+<category>battery pack aging</category>
+<category>cell layout</category>
+<category>balancing circuit</category>
+<category>unmanned aerial vehicle</category>
+<category>uniform aging</category>
+</item>
+<item>
+<title>Electric vehicle battery fault detection and diagnosis agent: Descriptive text modeling of battery digital signals</title>
+<link>https://doi.org/10.1016/j.est.2026.124866</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124866</guid>
+<pubDate>Tue, 13 Oct 2026 08:01:43 GMT</pubDate>
+<description>یک عامل تشخیص و عیبیابی خطای باتری خودروی برقی با مدلسازی متنی توصیفی سیگنالهای دیجیتال باتری توسعه یافته است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery fault diagnosis · electric vehicle · digital signals · descriptive text modeling · detection agent</description>
+<category>battery fault diagnosis</category>
+<category>electric vehicle</category>
+<category>digital signals</category>
+<category>descriptive text modeling</category>
+<category>detection agent</category>
+</item>
+<item>
+<title>A hybrid time–frequency and cross-variable interactive Mamba network for accurate state-of-charge estimation of lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125058</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125058</guid>
+<pubDate>Tue, 13 Oct 2026 08:01:38 GMT</pubDate>
+<description>یک شبکه Mamba ترکیبی زمان-فرکانس و تعاملی بینمتغیری برای تخمین دقیق وضعیت شارژ باتریهای لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge estimation · lithium-ion battery · Mamba network · time-frequency analysis · cross-variable interaction</description>
+<category>state-of-charge estimation</category>
+<category>lithium-ion battery</category>
+<category>Mamba network</category>
+<category>time-frequency analysis</category>
+<category>cross-variable interaction</category>
+</item>
+<item>
+<title>Numerical study of digital twin-based control for reliable and sustainable battery–converter systems in electric vehicles</title>
+<link>https://doi.org/10.1016/j.est.2026.125079</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125079</guid>
+<pubDate>Tue, 13 Oct 2026 08:01:33 GMT</pubDate>
+<description>این مطالعه عددی، کنترل مبتنی بر دوقلوی دیجیتال را برای سیستمهای باتری-مبدل قابل اعتماد و پایدار در خودروهای برقی بررسی میکند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 digital twin · battery-converter system · electric vehicle · sustainable control · reliability</description>
+<category>digital twin</category>
+<category>battery-converter system</category>
+<category>electric vehicle</category>
+<category>sustainable control</category>
+<category>reliability</category>
+</item>
 <item>
 <title>Near‐Infrared Triggered Rechargeable Singlet Oxygen Battery for Sustained Phototherapy: Fast Charging and Long‐Lasting Discharging</title>
 <link>https://doi.org/10.1002/advs.78284</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>Ni-MOF</category>
 <category>metal-oxygen covalency</category>
 <category>layered oxide</category>
-</item>
-<item>
-<title>Heterogeneous Electric Double Layer with Ion‐Transport Pathways for Practical Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75267</link>
-<guid isPermaLink="false">10.1002/adma.75267</guid>
-<pubDate>Fri, 09 Oct 2026 18:01:57 GMT</pubDate>
-<description>ساخت لایه دوگانه الکتریکی ناهمگن با مسیرهای انتقال یون برای باتری‌های یون روی، که پایداری ترمودینامیکی و برگشت‌پذیری سینتیکی آند Zn را بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers heterogeneous EDL nanostructure engineering via cation-anion coordination, creating ion-transport pathways that stabilize Zn anodes. It achieves record Zn²⁺ transference (0.89), 30,000-cycle full-cell stability, and practical Ah-level pouch cells, offering a new paradigm for durable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · electric double layer · ion-transport pathways · Zn anode · cation-anion coordination</description>
-<category>zinc-ion battery</category>
-<category>electric double layer</category>
-<category>ion-transport pathways</category>
-<category>Zn anode</category>
-<category>cation-anion coordination</category>
-</item>
-<item>
-<title>Built‐In Electric Fields in Rechargeable Batteries: Formation Mechanisms, Functional Roles, and Design Principles</title>
-<link>https://doi.org/10.1002/adma.75315</link>
-<guid isPermaLink="false">10.1002/adma.75315</guid>
-<pubDate>Fri, 09 Oct 2026 18:01:50 GMT</pubDate>
-<description>این مرور، مکانیسم‌های تشکیل، نقش‌های عملکردی و اصول طراحی میدان الکتریکی داخلی را برای بهبود باتری‌های قابل شارژ مانند لیتیوم-یون، سدیم-یون و روی-یون بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely systematizes built-in electric fields (BIEFs) in rechargeable batteries, covering formation mechanisms, characterization, theoretical calculations, and roles in anodes, cathodes, and electrolytes. It bridges knowledge gaps by linking BIEF engineering strategies to design principles, offering actionable guidance for suppressing instability and enhancing kinetics in next-generation high-energy, long-life batteries.&lt;br&gt;🏷 built-in electric field · rechargeable batteries · heterointerfaces · ion transport · design principles</description>
-<category>built-in electric field</category>
-<category>rechargeable batteries</category>
-<category>heterointerfaces</category>
-<category>ion transport</category>
-<category>design principles</category>
-</item>
-<item>
-<title>Low‐Temperature‐Induced Interfacial Transformation of the Aluminum Anode in Alkaline Electrolyte</title>
-<link>https://doi.org/10.1002/adma.75290</link>
-<guid isPermaLink="false">10.1002/adma.75290</guid>
-<pubDate>Fri, 09 Oct 2026 18:01:42 GMT</pubDate>
-<description>این مطالعه با استفاده از EIS و DRT، تشکیل لایه غنی از Al2O3 در دمای پایین را به عنوان عامل افزایش امپدانس آند آلومینیوم در الکترولیت قلیایی شناسایی می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This study identifies a new low-temperature interfacial relaxation process in Al anodes via in situ EIS-DRT, revealing that impedance surge arises from a disordered Al₂O₃-rich layer, not reduced electrolyte conductivity. This mechanistic insight challenges conventional assumptions and provides a basis for interfacial engineering of low-temperature-adaptable aqueous Al batteries.&lt;br&gt;🏷 aluminum anode · alkaline electrolyte · low temperature · interfacial transformation · EIS-DRT</description>
-<category>aluminum anode</category>
-<category>alkaline electrolyte</category>
-<category>low temperature</category>
-<category>interfacial transformation</category>
-<category>EIS-DRT</category>
-</item>
-<item>
-<title>Host–Guest Engineering for Advanced Batteries</title>
-<link>https://doi.org/10.1002/adma.75341</link>
-<guid isPermaLink="false">10.1002/adma.75341</guid>
-<pubDate>Fri, 09 Oct 2026 18:01:33 GMT</pubDate>
-<description>این مرور، مهندسی میزبان-میهمان را برای تنظیم دقیق فرآیندهای مولکولی در باتری‌های پیشرفته، از جمله الکترولیت‌ها و رابط‌ها، سازمان‌دهی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This Review uniquely frames host–guest engineering as a molecular-level strategy to control transient ionic and reactive states across electrolytes, interfaces, and conversion cathodes. Its cross-scenario quantitative comparison reveals that optimal battery performance requires balancing guest-regulation effectiveness with dynamic flexibility, not maximal binding. It thereby unifies disparate battery chemistries and guides future adaptive host design.&lt;br&gt;🏷 host-guest engineering · batteries · electrolytes · interfaces · ion transport</description>
-<category>host-guest engineering</category>
-<category>batteries</category>
-<category>electrolytes</category>
-<category>interfaces</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
