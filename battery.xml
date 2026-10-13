@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 03:01:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 04:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Garnet-type LLZO solid electrolytes: Grain-boundary engineering, electro-chemo-mechanical failure, and manufacturability</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105595</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105595</guid>
+<pubDate>Tue, 13 Oct 2026 04:01:19 GMT</pubDate>
+<description>این مقاله مروری به مهندسی مرز دانه، شکست الکترو-شیمیایی-مکانیکی و قابلیت ساخت الکترولیت‌های جامد LLZO نوع گارنت می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 LLZO · solid electrolyte · grain boundary · electro-chemo-mechanics · manufacturability</description>
+<category>LLZO</category>
+<category>solid electrolyte</category>
+<category>grain boundary</category>
+<category>electro-chemo-mechanics</category>
+<category>manufacturability</category>
+</item>
+<item>
+<title>Gradient-Structured Janus Hydrogel Electrolyte via One-Pot Aqueous Copolymerization for Flexible Aqueous Zinc Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105596</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105596</guid>
+<pubDate>Tue, 13 Oct 2026 04:01:15 GMT</pubDate>
+<description>الکترولیت هیدروژل ژانوس با ساختار گرادیانی از طریق کوپلیمریزاسیون آبی یک‌مرحله‌ای برای باتری‌های فلزی روی آبی انعطاف‌پذیر ساخته شد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc metal battery · hydrogel electrolyte · Janus structure · gradient structure · copolymerization</description>
+<category>zinc metal battery</category>
+<category>hydrogel electrolyte</category>
+<category>Janus structure</category>
+<category>gradient structure</category>
+<category>copolymerization</category>
+</item>
 <item>
 <title>Advancing Sulfide Electrolyte/Silicon-Based Anode Systems in All-Solid-State Batteries: Interface Stability, Design, and Perspectives</title>
 <link>https://doi.org/10.1007/s41918-026-00285-0</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>MoZnS</category>
 <category>MOF-derived</category>
 <category>flexible device</category>
-</item>
-<item>
-<title>Ammonium intercalated and oxygen vacancy-modulated vanadium pentoxide for high-performance aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125059</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125059</guid>
-<pubDate>Fri, 09 Oct 2026 14:05:02 GMT</pubDate>
-<description>این مقاله V2O5 اصلاح‌شده با آمونیوم و نقص اکسیژن را برای باتری‌های آبی یون روی با عملکرد بالا معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium pentoxide · aqueous zinc-ion battery · ammonium intercalation · oxygen vacancy · cathode</description>
-<category>vanadium pentoxide</category>
-<category>aqueous zinc-ion battery</category>
-<category>ammonium intercalation</category>
-<category>oxygen vacancy</category>
-<category>cathode</category>
-</item>
-<item>
-<title>Efficient recycling strategy for spent graphite anodes via structural defect repair and interface construction</title>
-<link>https://doi.org/10.1016/j.est.2026.125067</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125067</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:58 GMT</pubDate>
-<description>این پژوهش یک استراتژی کارآمد برای بازیافت آندهای گرافیتی مستعمل از طریق ترمیم نقص ساختاری و ساخت رابط ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 spent graphite anode · recycling · defect repair · interface construction · lithium-ion battery</description>
-<category>spent graphite anode</category>
-<category>recycling</category>
-<category>defect repair</category>
-<category>interface construction</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
