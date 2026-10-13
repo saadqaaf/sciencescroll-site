@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 15:02:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 16:04:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Biomass-based Agar hydrogel interface enables selective ion transport for durable aqueous Zn-I2 batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.066</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.066</guid>
+<pubDate>Tue, 13 Oct 2026 16:04:46 GMT</pubDate>
+<description>این مقاله یک رابط هیدروژل آگار زیست‌توده‌ای را برای انتقال یون انتخابی در باتری‌های آبی Zn-I2 معرفی می‌کند که دوام و عملکرد باتری را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Zn-I2 battery · agar hydrogel · ion transport · biomass · aqueous electrolyte</description>
+<category>Zn-I2 battery</category>
+<category>agar hydrogel</category>
+<category>ion transport</category>
+<category>biomass</category>
+<category>aqueous electrolyte</category>
+</item>
+<item>
+<title>Controlled Presodiation of Sodium‐Ion Cathode via Electron Cloud Engineering</title>
+<link>https://doi.org/10.1002/anie.1913760</link>
+<guid isPermaLink="false">10.1002/anie.1913760</guid>
+<pubDate>Tue, 13 Oct 2026 16:03:21 GMT</pubDate>
+<description>پیشسودیشن کنترلشده کاتد Na0.44MnO2 با مهندسی ابر الکترونی و 1-ایندانون، بازدهی کولنی چرخه اول نزدیک ۱۰۰٪ و پایداری ۳۵۰ چرخه را فراهم میکند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using electron-cloud engineering—tuning π-conjugation and electron-withdrawing groups via Hückel&amp;#x27;s rule—to precisely control presodiation reagent potential, avoiding oversodiation. Identifying 1-indanone enables Na0.44MnO2 cathodes with ~100% first-cycle Coulombic efficiency and improved 350-cycle retention. This provides a versatile framework for chemical presodiation, advancing high-energy, stable sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · presodiation · Na0.44MnO2 cathode · electron cloud engineering · Coulombic efficiency</description>
+<category>sodium-ion battery</category>
+<category>presodiation</category>
+<category>Na0.44MnO2 cathode</category>
+<category>electron cloud engineering</category>
+<category>Coulombic efficiency</category>
+</item>
+<item>
+<title>Proximity‐Engineered Dual‐Atomic Cobalt Sites Enable Adaptive Spin Catalysis for Simultaneous Oxygen and Peroxide Reduction</title>
+<link>https://doi.org/10.1002/anie.3109429</link>
+<guid isPermaLink="false">10.1002/anie.3109429</guid>
+<pubDate>Tue, 13 Oct 2026 16:02:51 GMT</pubDate>
+<description>مهندسی مجاورت دو اتم کبالت در COF یک‌بعدی با اسپین تطبیقی، واکنش کاهش اکسیژن و پراکسید را همزمان بهبود می‌بخشد و عملکرد باتری روی-هوا را افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Proximity engineering of dual-atomic Co sites in a covalent organic framework tunes Co–Co separation, creating coexisting high-spin and low-spin configurations. These complementary spins resolve oxygen-intermediate adsorption conflicts, enabling adaptive spin catalysis. The catalyst achieves a 0.96 V half-wave potential, outperforming Pt/C, and boosts zinc–air and peroxide-assisted aluminum–air batteries, establishing spin-state complementarity as a design principle for atomic catalysts.&lt;br&gt;🏷 dual-atomic cobalt · spin catalysis · oxygen reduction · covalent organic framework · zinc-air battery</description>
+<category>dual-atomic cobalt</category>
+<category>spin catalysis</category>
+<category>oxygen reduction</category>
+<category>covalent organic framework</category>
+<category>zinc-air battery</category>
+</item>
+<item>
+<title>Breaking the Additive Paradox in Aqueous Aluminum‐Ion Batteries via Weak‐Coordination Asymmetric Electrolyte Chemistry</title>
+<link>https://doi.org/10.1002/anie.8801354</link>
+<guid isPermaLink="false">10.1002/anie.8801354</guid>
+<pubDate>Tue, 13 Oct 2026 16:02:16 GMT</pubDate>
+<description>الکترولیت نامتقارن با کوئوردیناسیون ضعیف، پارادوکس افزودنی را در باتری‌های آبی آلومینیوم-یون می‌شکند و پایداری چرخه را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces a weak-coordination asymmetric electrolyte (Al(OTF)₃/DMSO/FEC) that breaks the additive paradox in aqueous aluminum-ion batteries. DMSO disrupts Al³⁺ solvation while FEC compensates dielectric and interfacial failures, enabling 2000 h Al plating/stripping and 90.8% capacity retention over 2000 cycles. It reframes additive design as sequential identification and compensation of coupled failure mechanisms.&lt;br&gt;🏷 aqueous aluminum-ion battery · asymmetric electrolyte · weak coordination · SEI · vanadium oxide</description>
+<category>aqueous aluminum-ion battery</category>
+<category>asymmetric electrolyte</category>
+<category>weak coordination</category>
+<category>SEI</category>
+<category>vanadium oxide</category>
+</item>
+<item>
+<title>Spectral and Spatial Decoupling in a Photovoltaic–Electrochromic Energy-Storage Smart Window toward Net-Zero-Energy Buildings</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112494</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112494</guid>
+<pubDate>Tue, 13 Oct 2026 16:02:02 GMT</pubDate>
+<description>پنجره هوشمند فتوولتائیک-الکتروکرومیک با جداسازی طیفی و فضایی، ذخیره انرژی و بهره‌وری ساختمان را بهبود می‌بخشد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 smart window · electrochromic · energy storage · photovoltaic · net-zero buildings</description>
+<category>smart window</category>
+<category>electrochromic</category>
+<category>energy storage</category>
+<category>photovoltaic</category>
+<category>net-zero buildings</category>
+</item>
 <item>
 <title>Self-Healing Armor Enables Electrode Integrity and Interfacial Stability for Durable Silicon Anodes</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02225</link>
@@ -1147,66 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>solvent coordination</category>
 <category>solvent recovery</category>
 <category>recycling</category>
-</item>
-<item>
-<title>Interfacial Instability of Halide Solid Electrolytes and Oxide Cathodes Under Low‐Humidity Dry‐Room Conditions</title>
-<link>https://doi.org/10.1002/adfm.78894</link>
-<guid isPermaLink="false">10.1002/adfm.78894</guid>
-<pubDate>Sat, 10 Oct 2026 07:02:05 GMT</pubDate>
-<description>این مقاله نشان می‌دهد الکترولیت‌های جامد هالیدی و کاتدهای اکسیدی حتی در اتاق خشک با نقطه شبنم -40 درجه سانتی‌گراد دچار تخریب بین‌سطحی و افت عملکرد الکتروشیمیایی می‌شوند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This study reveals that halide solid electrolyte/oxide cathode composites degrade severely under low-humidity dry-room conditions (dew point −40°C), not just inert gloveboxes. Dry-room exposure forms a passivation layer hindering Li+ transport, worsening electrochemical performance across multiple halide/oxide pairs. This identifies a previously overlooked processing-induced interfacial challenge, highlighting the need to prioritize composite-cathode stability under realistic manufacturing conditions.&lt;br&gt;🏷 halide solid electrolyte · oxide cathode · interfacial instability · dry-room processing · all-solid-state battery</description>
-<category>halide solid electrolyte</category>
-<category>oxide cathode</category>
-<category>interfacial instability</category>
-<category>dry-room processing</category>
-<category>all-solid-state battery</category>
-</item>
-<item>
-<title>A Phosphazene‐Polyphenol Network Binder Enables Catalytic Polysulfide Conversion and Intrinsic Flame Retardancy for Practical Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adfm.78936</link>
-<guid isPermaLink="false">10.1002/adfm.78936</guid>
-<pubDate>Sat, 10 Oct 2026 07:02:00 GMT</pubDate>
-<description>بایندر شبکه‌ای فسفازن-پلی‌فنول با سایت‌های فعال ناهمگون، تبدیل پلی‌سولفید و بازدارندگی شعله ذاتی را برای باتری‌های Li-S عملی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a cross-linked phosphazene-polyphenol binder (HTP) integrating tannic acid, polyethyleneimine, and a phosphorus/nitrogen-rich framework. It simultaneously catalyzes polysulfide conversion, accommodates cathode swelling, and imparts intrinsic flame retardancy. Significance: exceptional cycling stability (0.025% fade/cycle over 2000 cycles), high areal capacity (7.5 mAh cm⁻²) under practical conditions, offering a multifunctional binder paradigm for safe, high-energy Li-S batteries.&lt;br&gt;🏷 lithium-sulfur battery · phosphazene binder · polysulfide conversion · flame retardancy · tannic acid</description>
-<category>lithium-sulfur battery</category>
-<category>phosphazene binder</category>
-<category>polysulfide conversion</category>
-<category>flame retardancy</category>
-<category>tannic acid</category>
-</item>
-<item>
-<title>Planar Macromolecular Semiconductors Enable Fast Electron‐Ion Transport Kinetics for High‐Performance Zinc‐Organic Batteries</title>
-<link>https://doi.org/10.1002/adfm.78990</link>
-<guid isPermaLink="false">10.1002/adfm.78990</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:51 GMT</pubDate>
-<description>نیمه‌رسانای ماکرومولکولی مسطح با ادغام پایرن-تتراون و تتراآمینوبنزوکینون، انتقال سریع الکترون-یون و ظرفیت بالا (۴۴۲ mAh/g) با عمر ۶۰٬۰۰۰ چرخه در باتری روی-آلی فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Planar macromolecular semiconductors (PMSs) are novel cathodes fusing pyrene-tetraone and tetraminobenzoquinone into π-extended conjugated skeletons. This design yields high electronic conductivity and the fastest ion diffusion among organic cathodes, enabling 98.4% active-site utilization, 442 mAh g⁻¹ capacity, and 60,000-cycle life. It advances zinc-organic batteries by overcoming insulating, sluggish transport in twisted polymers.&lt;br&gt;🏷 zinc-organic battery · planar macromolecular semiconductor · electron-ion transport · pyrene-tetraone · long lifespan</description>
-<category>zinc-organic battery</category>
-<category>planar macromolecular semiconductor</category>
-<category>electron-ion transport</category>
-<category>pyrene-tetraone</category>
-<category>long lifespan</category>
-</item>
-<item>
-<title>Decoupling Solvation From Interfacial Adsorption: Chiral‐Induced Low‐Polarization Interface for Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.78976</link>
-<guid isPermaLink="false">10.1002/adfm.78976</guid>
-<pubDate>Sat, 10 Oct 2026 07:01:25 GMT</pubDate>
-<description>اثر کایرالیته افزودنی‌های الکترولیت بر رابط آند Zn در باتری‌های آبی روی-یون بررسی شده و L-proline amide با جذب مسطح‌تر، رسوب بدون دندریت و پایداری بالا را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work decouples bulk solvation from interfacial adsorption by showing that proline amide enantiomers, despite identical solvation energetics, behave differently at the Zn interface. Chirality governs adsorption geometry, with L-proline amide enabling dendrite-free deposition, 2500 h cycling, and 99.39% Coulombic efficiency, establishing molecular stereostructure as a design descriptor for aqueous zinc battery electrolytes.&lt;br&gt;🏷 aqueous zinc-ion battery · chirality · electrolyte additive · proline amide · dendrite-free deposition</description>
-<category>aqueous zinc-ion battery</category>
-<category>chirality</category>
-<category>electrolyte additive</category>
-<category>proline amide</category>
-<category>dendrite-free deposition</category>
-</item>
-<item>
-<title>A Comprehensive Review and Future Prospects of Aluminum–Sulfur Batteries: From Material Design to Practical Challenges</title>
-<link>https://doi.org/10.1002/adma.202506181</link>
-<guid isPermaLink="false">10.1002/adma.202506181</guid>
-<pubDate>Sat, 10 Oct 2026 04:01:18 GMT</pubDate>
-<description>این مرور جامع، مکانیزم‌های دوگانه گوگرد، طراحی کاتد، مهندسی الکترولیت و چالش‌های سینتیک سولواتاسیون Al3+ در باتری‌های آلومینیوم-گوگرد را بررسی و نقشه راه تجاری‌سازی ارائه می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely compares Al–S battery mechanisms (S reduction vs. oxidation), linking cathode design, electrolyte engineering, and anode protection to the core challenge of sluggish Al³⁺ solvation. It emphasizes operando characterization and provides a phased commercialization roadmap, offering a comprehensive perspective to accelerate practical green energy storage.&lt;br&gt;🏷 aluminum-sulfur battery · cathode design · electrolyte engineering · Al3+ solvation · operando characterization</description>
-<category>aluminum-sulfur battery</category>
-<category>cathode design</category>
-<category>electrolyte engineering</category>
-<category>Al3+ solvation</category>
-<category>operando characterization</category>
 </item>
 </channel>
 </rss>
