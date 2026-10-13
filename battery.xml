@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 05:01:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 06:02:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From battery signals to mechanism-aware lifetime prediction: A descriptor framework across representative battery chemistries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.065</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.065</guid>
+<pubDate>Tue, 13 Oct 2026 06:02:17 GMT</pubDate>
+<description>این مقاله یک چارچوب توصیفگر برای پیش‌بینی عمر باتری مبتنی بر مکانیسم ارائه می‌دهد که سیگنال‌های باتری را به تخمین دقیق‌تر طول عمر در شیمی‌های مختلف باتری متصل می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 battery lifetime prediction · degradation mechanism · descriptor framework · battery chemistries · state of health</description>
+<category>battery lifetime prediction</category>
+<category>degradation mechanism</category>
+<category>descriptor framework</category>
+<category>battery chemistries</category>
+<category>state of health</category>
+</item>
 <item>
 <title>Garnet-type LLZO solid electrolytes: Grain-boundary engineering, electro-chemo-mechanical failure, and manufacturability</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105595</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>neural network potential</category>
 <category>ionic conductivity</category>
 <category>alumina coating</category>
-</item>
-<item>
-<title>Interfacial engineering of MOF-derived MoZnS microflowers on MXene nanosheets for high-performance flexible zinc-ion hybrid supercapacitors with balanced charge storage kinetics</title>
-<link>https://doi.org/10.1039/d6ta05312b</link>
-<guid isPermaLink="false">10.1039/d6ta05312b</guid>
-<pubDate>Fri, 09 Oct 2026 16:01:40 GMT</pubDate>
-<description>ساختارهای ناهمگون MoZnS/MXene مشتق از MOF با جفت‌شدگی بین‌سطحی قوی، ذخیره بار متعادل و ظرفیت 989.4 F g−1 در ابرخازن هیبریدی روی-یون انعطاف‌پذیر را ممکن می‌سازند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 MOF-derived MoZnS microflowers grown on MXene nanosheets create strongly coupled heterointerfaces, balancing capacitive and diffusive charge storage. This interfacial engineering yields a flexible zinc-ion hybrid supercapacitor with 989.4 F g⁻¹ at 8 mA, demonstrating a rational design strategy for high-performance, bendable energy storage devices.&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · MXene · MoZnS · MOF-derived · flexible device</description>
-<category>zinc-ion hybrid supercapacitor</category>
-<category>MXene</category>
-<category>MoZnS</category>
-<category>MOF-derived</category>
-<category>flexible device</category>
 </item>
 </channel>
 </rss>
