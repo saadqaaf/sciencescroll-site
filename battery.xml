@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 08:01:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 09:01:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Photobattery Architectures to Suppress Charge Recombination</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02373</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02373</guid>
+<pubDate>Tue, 13 Oct 2026 09:01:16 GMT</pubDate>
+<description>طراحی لایه‌به‌لایه فتو‌باتری Zn-ion با ادغام DSSC حالت جامد و کاتد اسپینل Zn-Mn oxide، فتوولتاژ را از حدود ۰٫۰۱ به ۱ ولت افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using a layer-by-layer photobattery design—integrating a solid-state DSSC with an optimized spinel Zn–Mn oxide cathode—instead of randomly dispersed electrodes. This suppresses charge recombination and boosts photovoltage from ~0.01 V to ~1 V under 1-sun illumination. It enables external-bias-free charging and provides an interface-engineering strategy for future compact solar-energy-storage devices.&lt;br&gt;🏷 photobattery · Zn-ion battery · dye-sensitized solar cell · charge recombination · spinel Zn-Mn oxide</description>
+<category>photobattery</category>
+<category>Zn-ion battery</category>
+<category>dye-sensitized solar cell</category>
+<category>charge recombination</category>
+<category>spinel Zn-Mn oxide</category>
+</item>
 <item>
 <title>Joint design of cell layout and balancing circuit for uniform aging in unmanned aerial vehicle battery packs</title>
 <link>https://doi.org/10.1016/j.est.2026.125100</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>NMC</category>
 <category>LMFP</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Ni‐MOFs Mediated Ni 2+/4+ Balancing and Enhanced Metal–Oxygen Covalency Unlocks Fast and Stable Sodium Storage in High‐Entropy Layered Cathode</title>
-<link>https://doi.org/10.1002/aenm.71686</link>
-<guid isPermaLink="false">10.1002/aenm.71686</guid>
-<pubDate>Fri, 09 Oct 2026 19:01:14 GMT</pubDate>
-<description>کاتد لایه‌ای پرآنتروپی مشتق از Ni-MOF با تنظیم نیکل فعال و کووالانسی Ni-O، ظرفیت ۱۳۰ میلی‌آمپرساعت بر گرم و پایداری چرخه‌ای بالا در باتری سدیم فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Ni-MOF precursors enable atomic-level control of active Ni²⁺ content and Ni–O covalency in high-entropy O3 cathodes. This balances capacity and stability, unlike conventional oxides with excess or insufficient Ni²⁺. The reinforced covalent network yields reversible phase transitions, thin CEI, fast Na⁺ kinetics, and stable cycling (~130 mAh g⁻¹, 92.6% ICE).&lt;br&gt;🏷 sodium-ion battery · high-entropy cathode · Ni-MOF · metal-oxygen covalency · layered oxide</description>
-<category>sodium-ion battery</category>
-<category>high-entropy cathode</category>
-<category>Ni-MOF</category>
-<category>metal-oxygen covalency</category>
-<category>layered oxide</category>
 </item>
 </channel>
 </rss>
