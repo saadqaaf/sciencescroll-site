@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 11:01:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 12:02:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking Bottlenecks in Solid Electrolyte Discovery With Large Artificial Intelligence Models</title>
+<link>https://doi.org/10.1002/adma.75354</link>
+<guid isPermaLink="false">10.1002/adma.75354</guid>
+<pubDate>Tue, 13 Oct 2026 12:02:38 GMT</pubDate>
+<description>این مقاله چارچوبی مبتنی بر مدل‌های بزرگ هوش مصنوعی مانند MLIP و LLM برای کشف خودکار الکترولیت‌های جامد و رفع موانع داده و شبیه‌سازی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This work proposes a framework for autonomous solid electrolyte discovery using large AI models—MLIPs and LLMs—integrated into closed-loop cycles spanning literature mining, hypothesis generation, multiscale simulation, and experimental validation. Its novelty lies in shifting SE research from intuition-guided exploration to self-improving, data-informed systems, addressing fragmented data and slow iteration. Significance: design principles for autonomous solid-state battery laboratories.&lt;br&gt;🏷 solid electrolyte · large AI models · machine learning potentials · autonomous discovery · solid-state batteries</description>
+<category>solid electrolyte</category>
+<category>large AI models</category>
+<category>machine learning potentials</category>
+<category>autonomous discovery</category>
+<category>solid-state batteries</category>
+</item>
+<item>
+<title>Bio‐Inspired Reconstruction of Wood‐Chip Electrolytes Enables Triple Zn 2+ Confinement for Durable and Sustainable Flexible Zinc‐Air Batteries</title>
+<link>https://doi.org/10.1002/adma.75386</link>
+<guid isPermaLink="false">10.1002/adma.75386</guid>
+<pubDate>Tue, 13 Oct 2026 12:02:19 GMT</pubDate>
+<description>الکترولیت هیدروژل بازسازی‌شده از تراشه چوب با حبس سه‌گانه Zn2+، باتری‌های روی-هوا انعطاف‌پذیر و پایدار را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work uniquely reconstructs wood-chip biomass into a cellulose-lignin hydrogel electrolyte mimicking plant fiber-bark architecture. Its novelty lies in triple Zn²⁺ confinement via phosphate chelators, Schiff-base coordination, and polymeric domains, enabling 600-hour flexible zinc-air battery cycling. It shifts the durability paradigm from water retention to hierarchical ion regulation, offering a sustainable, biodegradable energy storage solution.&lt;br&gt;🏷 flexible zinc-air battery · wood-chip electrolyte · Zn2+ confinement · bio-inspired hydrogel · durability</description>
+<category>flexible zinc-air battery</category>
+<category>wood-chip electrolyte</category>
+<category>Zn2+ confinement</category>
+<category>bio-inspired hydrogel</category>
+<category>durability</category>
+</item>
+<item>
+<title>Dynamic Proton‐Coordination Equilibrium Enables Nonfreezing Ion Transport for Ultralow‐Temperature Zinc Batteries</title>
+<link>https://doi.org/10.1002/adma.75379</link>
+<guid isPermaLink="false">10.1002/adma.75379</guid>
+<pubDate>Tue, 13 Oct 2026 12:02:14 GMT</pubDate>
+<description>تعادل هم‌آرایی پروتون-روی، انتقال یون غیرانجمادی را در الکترولیت هیدروژل برای باتری‌های روی در دمای فوق‌پایین فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces proton-mediated coordination equilibrium as a new mechanism enabling nonfreezing Zn2+ transport in hydrogel electrolytes. By balancing phytic acid and zinc phytate, it suppresses water crystallization and sustains hopping ion transport, achieving 2.4 mS cm−1 at −60°C and stable cycling. This offers a general design principle for ultralow-temperature aqueous batteries.&lt;br&gt;🏷 zinc battery · hydrogel electrolyte · proton coordination · low-temperature transport · nonfreezing</description>
+<category>zinc battery</category>
+<category>hydrogel electrolyte</category>
+<category>proton coordination</category>
+<category>low-temperature transport</category>
+<category>nonfreezing</category>
+</item>
+<item>
+<title>Empirical Understanding of Li‐Ion Transport Through Hetero‐Grain Boundaries Within Li‐Electrolyte Interface for Stable Li Metal Anodes</title>
+<link>https://doi.org/10.1002/adma.75383</link>
+<guid isPermaLink="false">10.1002/adma.75383</guid>
+<pubDate>Tue, 13 Oct 2026 12:02:08 GMT</pubDate>
+<description>مرزهای دانه ناهمگون MgO/MgF2 انتقال Li-ion را در رابط الکترولیت تقویت کرده و آندهای فلز Li را پایدار می‌کنند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This study provides the first experimental evidence that hetero-grain boundaries (h-GBs) in inorganic Li/electrolyte interphases enable favorable Li-ion transport. Using an MgO/MgF₂ heterostructure, it shows h-GB-rich Li₂O/LiF interphases plus Li–Mg alloy formation synergistically stabilize Li metal anodes, offering a design blueprint for high-stability Li-metal batteries.&lt;br&gt;🏷 Li metal anode · hetero-grain boundary · Li-ion transport · MgO/MgF2 heterostructure · solid electrolyte interphase</description>
+<category>Li metal anode</category>
+<category>hetero-grain boundary</category>
+<category>Li-ion transport</category>
+<category>MgO/MgF2 heterostructure</category>
+<category>solid electrolyte interphase</category>
+</item>
+<item>
+<title>Rethinking Sand&#x27;s Time as a Transport-Depletion Benchmark for Metal-Anode Batteries</title>
+<link>https://doi.org/10.1039/d6ee05007g</link>
+<guid isPermaLink="false">10.1039/d6ee05007g</guid>
+<pubDate>Tue, 13 Oct 2026 12:02:03 GMT</pubDate>
+<description>بازنگری زمان Sand به عنوان معیار تخلیه انتقالی برای باتری‌های فلز-آند، رشد دندریت و ناپایداری رابط را تحلیل می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in reframing Sand&amp;#x27;s time—traditionally a fixed depletion metric—as a transport-depletion benchmark that better captures nonuniform deposition and dendrite growth at metal anodes. Its significance is providing a more predictive, physically grounded criterion for interfacial instability, guiding electrolyte and current-density design to improve cycling stability and safety in high-energy-density metal-anode batteries.&lt;br&gt;🏷 Sand&amp;#x27;s time · metal anode · dendrite growth · transport depletion · battery safety</description>
+<category>Sand&#x27;s time</category>
+<category>metal anode</category>
+<category>dendrite growth</category>
+<category>transport depletion</category>
+<category>battery safety</category>
+</item>
+<item>
+<title>Br-tailored local polarity of Zn single-atom catalyst for shuttle-free Zn-I2 batteries with fast iodine redox kinetics</title>
+<link>https://doi.org/10.1039/d6ee06020j</link>
+<guid isPermaLink="false">10.1039/d6ee06020j</guid>
+<pubDate>Tue, 13 Oct 2026 12:01:57 GMT</pubDate>
+<description>کاتالیزور تک‌اتمی Zn با تنظیم Br، قطبیت موضعی را برای باتری‌های Zn-I2 بدون شاتل با سینتیک سریع ید تنظیم می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Br-tailored Zn single-atom catalysts create locally polarized Zn sites that accelerate iodine redox kinetics and suppress polyiodide shuttling in aqueous Zn-I2 batteries. This dual function enables shuttle-free operation with high rate capability and durable cycling, offering a rational design strategy for high-performance iodine-based energy storage.&lt;br&gt;🏷 Zn-I2 battery · single-atom catalyst · polyiodide shuttling · iodine redox kinetics · Br tailoring</description>
+<category>Zn-I2 battery</category>
+<category>single-atom catalyst</category>
+<category>polyiodide shuttling</category>
+<category>iodine redox kinetics</category>
+<category>Br tailoring</category>
+</item>
+<item>
+<title>Interfacial stress–electronic coupling in confined dual single-atom catalysts for record-performance zinc–air batteries</title>
+<link>https://doi.org/10.1039/d6ee05203g</link>
+<guid isPermaLink="false">10.1039/d6ee05203g</guid>
+<pubDate>Tue, 13 Oct 2026 12:01:52 GMT</pubDate>
+<description>کاتالیزور دوگانه تک‌اتمی FeN4/ZnN3S1 با کوپلینگ تنش-الکترونیکی، ORR را بهینه کرده و باتری‌های روی-هوا با عملکرد بالا را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using nanoparticle-induced local coordination compression to couple FeN₄ and ZnN₃S₁ dual single-atom sites, tuning interfacial stress and electronic structure. This optimizes oxygen reduction energetics, delivering record-performance liquid and quasi-solid-state zinc–air batteries. It advances dual-atom catalyst design by linking mechanical strain to catalytic activity.&lt;br&gt;🏷 zinc-air battery · dual single-atom catalyst · FeN4/ZnN3S1 · oxygen reduction reaction · interfacial stress coupling</description>
+<category>zinc-air battery</category>
+<category>dual single-atom catalyst</category>
+<category>FeN4/ZnN3S1</category>
+<category>oxygen reduction reaction</category>
+<category>interfacial stress coupling</category>
+</item>
 <item>
 <title>Ultra-efficient rechargeable liquid and flexible zinc-air batteries enabled by cooperative functions of NiFe-MOF and single FeN4 sites</title>
 <link>https://doi.org/10.1039/d6ta06861h</link>
@@ -1123,90 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>cobalt phosphide</category>
 <category>MOF-derived carbon</category>
 <category>cobalt-manganese oxide</category>
-</item>
-<item>
-<title>Synergistic Electrostatic and Mechanical Anchoring at Cathode–Current Collector Junctions for Durable Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.75852</link>
-<guid isPermaLink="false">10.1002/smll.75852</guid>
-<pubDate>Fri, 09 Oct 2026 23:04:40 GMT</pubDate>
-<description>پرایمر کربنی در اتصال کاتد-جمع‌کننده جریان باتری سدیم-یون، با لنگراندازی الکترواستاتیکی و مکانیکی هم‌افزا، پایداری چرخه‌ای و یکنواختی سدیم‌دارشدن را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work reveals three synergistic mechanisms—mechanical interlocking, strain-accommodating interlayer, and electrostatic bridging—by which carbon primers reinforce cathode–current collector junctions in sodium-ion batteries. It identifies the junction, not bulk conductivity, as the performance bottleneck, and achieves 88.7% capacity retention over 300 cycles, providing a design framework for durable polyanion-based energy storage.&lt;br&gt;🏷 sodium-ion battery · current collector · carbon primer · NVP cathode · interface anchoring</description>
-<category>sodium-ion battery</category>
-<category>current collector</category>
-<category>carbon primer</category>
-<category>NVP cathode</category>
-<category>interface anchoring</category>
-</item>
-<item>
-<title>Graphene-Like-Armored Nanosheet Assemblies toward Fast and Stable High-Mass-Loading Sodium Storage</title>
-<link>https://doi.org/10.1021/jacs.6c13892</link>
-<guid isPermaLink="false">10.1021/jacs.6c13892</guid>
-<pubDate>Fri, 09 Oct 2026 22:03:54 GMT</pubDate>
-<description>آند TiO2 دولایه از نانوصفحات 2 نانومتری با زره گرافن‌مانند برای ذخیره سدیم سریع و پایدار در بارگذاری بالا با ظرفیت 2.13 mAh cm-2 ساخته شد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a double-shelled TiO2 anode of cross-distributed 2 nm nanosheets armored with graphene-like carbon, enabling surface-controlled sodium storage. It achieves 2.13 mAh cm–2, 121 mAh g–1 at 100 C, and &amp;gt;90% retention over 3,000 cycles at 10.5 mg cm–2 loading, overcoming the capacity–rate–lifespan trade-off for practical high-power sodium batteries.&lt;br&gt;🏷 sodium-ion battery · TiO2 nanosheets · graphene-like armor · high mass loading · surface-controlled storage</description>
-<category>sodium-ion battery</category>
-<category>TiO2 nanosheets</category>
-<category>graphene-like armor</category>
-<category>high mass loading</category>
-<category>surface-controlled storage</category>
-</item>
-<item>
-<title>Multi-model collaborative early warning for battery systems with integrated fiber optic sensors</title>
-<link>https://doi.org/10.1038/s41467-026-78461-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-78461-5</guid>
-<pubDate>Fri, 09 Oct 2026 22:03:18 GMT</pubDate>
-<description>یک چارچوب هشدار زودهنگام چندمدلی با حسگرهای توزیع‌شده فیبر نوری، با افزایش نقاط دما و استفاده از آنتروپی شانون، زمان هشدار فرار حرارتی باتری را تا ۷۰۶ ثانیه افزایش می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers a multi-model collaborative early-warning framework using distributed fiber optic sensing, increasing temperature measurement points from 32 to 540 with minimal wiring. By linking Shannon entropy to temperature variation, it achieves dynamic warning boundaries, delivering up to 706 s lead time in labs and 554 s in real vehicles—significantly advancing proactive battery thermal-runaway detection.&lt;br&gt;🏷 battery thermal runaway · fiber optic sensors · early warning · distributed temperature sensing · Shannon entropy</description>
-<category>battery thermal runaway</category>
-<category>fiber optic sensors</category>
-<category>early warning</category>
-<category>distributed temperature sensing</category>
-<category>Shannon entropy</category>
-</item>
-<item>
-<title>Universal Ligand-Field Engineering of Layered Vanadium-Based Cathodes for High-Voltage Aqueous Zinc Ion Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c15858</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15858</guid>
-<pubDate>Fri, 09 Oct 2026 22:02:36 GMT</pubDate>
-<description>پیش‌درج‌شدن BMIM+ در اکسیدهای وانادیم لایه‌ای با تنظیم میدان لیگاند، ولتاژ عملیاتی و پایداری چرخه‌ای باتری آبی یون روی را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work pioneers universal ligand-field engineering via organic cation preintercalation to boost vanadium oxide cathode voltage in aqueous zinc batteries. BMIM+ optimally tunes [VO6] coordination, lowering the V 3d-band center to widen V-O energy separation and raise operating voltage, while achieving 505 mAh g–1 and 94% retention over 15,000 cycles. The strategy generalizes to V6O13 and KV3O8, offering broad design principles.&lt;br&gt;🏷 aqueous zinc ion battery · vanadium oxide cathode · ligand-field engineering · BMIM+ preintercalation · high operating voltage</description>
-<category>aqueous zinc ion battery</category>
-<category>vanadium oxide cathode</category>
-<category>ligand-field engineering</category>
-<category>BMIM+ preintercalation</category>
-<category>high operating voltage</category>
-</item>
-<item>
-<title>Electrostatic Adsorption-Driven Surface Reconstruction for Direct Regeneration of Spent LiFePO4 Cathodes</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112484</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112484</guid>
-<pubDate>Fri, 09 Oct 2026 22:01:59 GMT</pubDate>
-<description>این کار با بازسازی سطح القاشده توسط جذب الکترواستاتیک، روشی برای احیای مستقیم کاتدهای مستعمل LiFePO4 ارائه می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · spent battery · electrostatic adsorption · surface reconstruction</description>
-<category>LiFePO4 cathode</category>
-<category>direct regeneration</category>
-<category>spent battery</category>
-<category>electrostatic adsorption</category>
-<category>surface reconstruction</category>
-</item>
-<item>
-<title>Stabilizing Li- and Mn-Rich Layered Cathodes through Oxygen-Redox-Coupled Interphase Transformation</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112487</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112487</guid>
-<pubDate>Fri, 09 Oct 2026 22:01:52 GMT</pubDate>
-<description>این پژوهش با اتصال redox اکسیژن به تبدیل فاز بین‌سطحی، پایداری کاتدهای لایه‌ای غنی از Li و Mn را بهبود می‌بخشد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Li-rich cathode · oxygen redox · interphase transformation · layered oxide · cathode stability</description>
-<category>Li-rich cathode</category>
-<category>oxygen redox</category>
-<category>interphase transformation</category>
-<category>layered oxide</category>
-<category>cathode stability</category>
-</item>
-<item>
-<title>Pioneering MOF-303 in Lithium–Sulfur Batteries: Coordination Defect Engineering Enables Accelerated Sulfur Redox and Dendrite-Free Plating</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02763</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02763</guid>
-<pubDate>Fri, 09 Oct 2026 21:01:31 GMT</pubDate>
-<description>این مقاله با مهندسی نقص در MOF-303 روی جداکننده، شاتل پلی‌سولفید و رشد دندریت لیتیوم را در باتری Li-S همزمان مهار می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 First application of MOF-303 in Li–S batteries, using ball-milling to create coordination defects (ligand defects, oxygen vacancies) in D-MOF-303. This defect engineering yields hierarchical porosity, smaller particles, and enhanced Lewis acidity, enabling strong polysulfide chemisorption, faster redox kinetics, and dendrite-free lithium plating. The modified separator delivers high capacity retention, rate capability, and humidity resilience, advancing practical high-energy Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · MOF-303 · defect engineering · polysulfide shuttle · dendrite-free plating</description>
-<category>lithium-sulfur battery</category>
-<category>MOF-303</category>
-<category>defect engineering</category>
-<category>polysulfide shuttle</category>
-<category>dendrite-free plating</category>
 </item>
 </channel>
 </rss>
