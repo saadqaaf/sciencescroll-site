@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 09:01:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 10:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ultra-efficient rechargeable liquid and flexible zinc-air batteries enabled by cooperative functions of NiFe-MOF and single FeN4 sites</title>
+<link>https://doi.org/10.1039/d6ta06861h</link>
+<guid isPermaLink="false">10.1039/d6ta06861h</guid>
+<pubDate>Tue, 13 Oct 2026 10:01:43 GMT</pubDate>
+<description>این مقاله با همکاری NiFe-MOF و سایت‌های تک‌اتمی FeN4، الکتروکاتالیست دوعملکردی کارآمدی برای باتری‌های قابل‌شارژ و انعطاف‌پذیر روی-هوا ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining NiFe-MOF with single FeN4 sites to create a bifunctional oxygen electrocatalyst. This cooperative design enables ultra-efficient, flexible, rechargeable zinc-air batteries with low cost, high activity, and long-term durability, addressing a key challenge in sustainable energy storage.&lt;br&gt;🏷 zinc-air battery · NiFe-MOF · single FeN4 sites · bifunctional catalyst · oxygen electrocatalysis</description>
+<category>zinc-air battery</category>
+<category>NiFe-MOF</category>
+<category>single FeN4 sites</category>
+<category>bifunctional catalyst</category>
+<category>oxygen electrocatalysis</category>
+</item>
+<item>
+<title>Engineering a triple-enhanced graphite cathode from waste: holey, defective, and N-doped architectures for stable Li–O 2 batteries</title>
+<link>https://doi.org/10.1039/d6ta04966d</link>
+<guid isPermaLink="false">10.1039/d6ta04966d</guid>
+<pubDate>Tue, 13 Oct 2026 10:01:28 GMT</pubDate>
+<description>این مقاله با مهندسی گرافیت زائد باتری‌های لیتیوم-یون به ساختار حفره‌دار، نقص‌دار و دوپ‌شده با نیتروژن، ذخیره‌سازی لیتیوم را در باتری‌های Li-O2 بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in upcycling waste graphite into N-doped holey graphene, combining holes, defects, and nitrogen doping in one cathode. This triple architecture boosts Li–O₂ battery performance through ordered channels, high surface area, and tuned electronic structure, offering a sustainable, low-cost route to stable energy storage.&lt;br&gt;🏷 Li-O2 battery · graphite cathode · N-doped graphene · waste recycling · holey architecture</description>
+<category>Li-O2 battery</category>
+<category>graphite cathode</category>
+<category>N-doped graphene</category>
+<category>waste recycling</category>
+<category>holey architecture</category>
+</item>
+<item>
+<title>Synergistic Enhancement of Interfacial Stability of PEO -Based Solid -State Electrolytes via PVP -Mediated Amide-Bond-Regulated Li + Competitive Coordination and In Situ Interfacial Regulation by LiTDI Cyano Groups</title>
+<link>https://doi.org/10.1039/d6ta06841c</link>
+<guid isPermaLink="false">10.1039/d6ta06841c</guid>
+<pubDate>Tue, 13 Oct 2026 10:01:23 GMT</pubDate>
+<description>این مقاله با استفاده از PVP و گروه‌های سیانو LiTDI، هماهنگی رقابتی Li+ و پایداری بین‌سطحی الکترولیت جامد PEO را در باتری‌های لیتیوم-فلز تمام‌جامد بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 PVP-mediated amide bonds regulate Li⁺ competitive coordination in PEO electrolytes, while LiTDI cyano groups enable in situ interfacial regulation. This dual strategy synergistically stabilizes interfaces, addressing PEO&amp;#x27;s poor interfacial stability and advancing practical all-solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state electrolyte · PEO · PVP · LiTDI · interfacial stability</description>
+<category>solid-state electrolyte</category>
+<category>PEO</category>
+<category>PVP</category>
+<category>LiTDI</category>
+<category>interfacial stability</category>
+</item>
+<item>
+<title>Nitrogen-engineered covalent synergy in dual-layer encapsulated silicon anodes for superior initial coulombic efficiency</title>
+<link>https://doi.org/10.1039/d6ta06320a</link>
+<guid isPermaLink="false">10.1039/d6ta06320a</guid>
+<pubDate>Tue, 13 Oct 2026 10:01:18 GMT</pubDate>
+<description>این مقاله با طراحی کووالانسی مهندسی‌شده با نیتروژن در ساختار دولایه، پایداری ساختاری و کاهش تلفات لیتیوم را در آندهای سیلیکونی بهبود می‌بخشد و بازده کولمبی اولیه را افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Nitrogen-engineered covalent bonding within a dual-layer encapsulated silicon anode creates synergistic structural integrity, minimizing lithium loss and enabling high initial Coulombic efficiency. This design addresses silicon&amp;#x27;s poor ICE and volume expansion, offering a scalable strategy for next-generation high-capacity lithium-ion batteries.&lt;br&gt;🏷 silicon anode · initial coulombic efficiency · dual-layer encapsulation · nitrogen doping · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>initial coulombic efficiency</category>
+<category>dual-layer encapsulation</category>
+<category>nitrogen doping</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Photobattery Architectures to Suppress Charge Recombination</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c02373</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>defect engineering</category>
 <category>polysulfide shuttle</category>
 <category>dendrite-free plating</category>
-</item>
-<item>
-<title>Targeted Trifunctional Regulation via Bimetal-Oxide Hollow Spheres Boosts PVDF-HFP-Based Polymer-in-Salt Electrolyte for Stable Solid-State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105587</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105587</guid>
-<pubDate>Fri, 09 Oct 2026 20:02:09 GMT</pubDate>
-<description>تنظیم سه‌گانه هدفمند با کره‌های توخالی اکسید دوفلزی، الکترولیت پلیمر-در-نمک بر پایه PVDF-HFP را برای باتری‌های لیتیوم فلزی حالت جامد پایدار تقویت می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · polymer-in-salt electrolyte · PVDF-HFP · bimetal-oxide hollow spheres · trifunctional regulation</description>
-<category>solid-state lithium battery</category>
-<category>polymer-in-salt electrolyte</category>
-<category>PVDF-HFP</category>
-<category>bimetal-oxide hollow spheres</category>
-<category>trifunctional regulation</category>
-</item>
-<item>
-<title>Bridging Bulk–Interfacial Chemistry and Regulation Boundaries: Advances and Challenges in Aqueous Zinc-Based Flow Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105586</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105586</guid>
-<pubDate>Fri, 09 Oct 2026 20:02:04 GMT</pubDate>
-<description>این مقاله مروری به پیشرفت‌ها و چالش‌های باتری‌های جریان‌ی روی-پایه آبی در پیوند شیمی توده-سطح و مرزهای تنظیم می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 zinc-based flow batteries · aqueous electrolyte · bulk-interfacial chemistry · regulation boundaries · energy storage</description>
-<category>zinc-based flow batteries</category>
-<category>aqueous electrolyte</category>
-<category>bulk-interfacial chemistry</category>
-<category>regulation boundaries</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Mn-Rich Olivine Cathode with Synergistic Lattice Strain Mitigation via Solid-Solution Pathway and Local-Structure Modulation for High-Rate and Stable Lithium Storage</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105588</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105588</guid>
-<pubDate>Fri, 09 Oct 2026 20:02:00 GMT</pubDate>
-<description>کاتد الیوین غنی از Mn با کاهش کرنش شبکه از طریق مسیر محلول جامد و تنظیم ساختار محلی برای ذخیره‌سازی لیتیوم پایدار و پرسرعت ارائه شده است.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Mn-rich olivine · lithium storage · solid-solution · lattice strain · local-structure modulation</description>
-<category>Mn-rich olivine</category>
-<category>lithium storage</category>
-<category>solid-solution</category>
-<category>lattice strain</category>
-<category>local-structure modulation</category>
-</item>
-<item>
-<title>Calendering‐Dependent Electrochemical and Cost‐Energy Tradeoffs in Layered – Olivine Blend Cathodes</title>
-<link>https://doi.org/10.1002/aenm.71694</link>
-<guid isPermaLink="false">10.1002/aenm.71694</guid>
-<pubDate>Fri, 09 Oct 2026 19:01:23 GMT</pubDate>
-<description>کالندرینگ کاتدهای مخلوط NMC/LMFP حد بهینه‌ای دارد؛ مخلوط ۷۰/۳۰ مزیت نرخ را حفظ می‌کند اما ۵۰/۵۰ با چگالش دچار محدودیت انتقال و افت چرخه‌پذیری می‌شود.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study uniquely links calendering intensity to electrochemical and cost-energy tradeoffs in NMC/LMFP blend cathodes, revealing composition-dependent densification limits absent in NMC alone. It shows moderate calendering preserves rate benefits in 70/30 blends, while hard calendering degrades both blends. Nb-stabilized NMC further improves cyclability and energy retention, offering a practical pathway to optimize microstructure, durability, and cost.&lt;br&gt;🏷 blended cathode · calendering · NMC · LMFP · lithium-ion battery</description>
-<category>blended cathode</category>
-<category>calendering</category>
-<category>NMC</category>
-<category>LMFP</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
