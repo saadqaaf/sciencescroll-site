@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 00:03:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 01:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Advancing Sulfide Electrolyte/Silicon-Based Anode Systems in All-Solid-State Batteries: Interface Stability, Design, and Perspectives</title>
+<link>https://doi.org/10.1007/s41918-026-00285-0</link>
+<guid isPermaLink="false">10.1007/s41918-026-00285-0</guid>
+<pubDate>Tue, 13 Oct 2026 01:01:14 GMT</pubDate>
+<description>این مقاله مروری به پیشرفت سیستم‌های الکترولیت سولفیدی/آند سیلیکونی در باتری‌های تمام‌حالت‌جامد از نظر پایداری سطح مشترک، طراحی و چشم‌اندازها می‌پردازد.&lt;br&gt;Electrochemical Energy Reviews | ⭐ Review&lt;br&gt;🏷 all-solid-state batteries · sulfide electrolyte · silicon anode · interface stability · electrode design</description>
+<category>all-solid-state batteries</category>
+<category>sulfide electrolyte</category>
+<category>silicon anode</category>
+<category>interface stability</category>
+<category>electrode design</category>
+</item>
 <item>
 <title>Nonaqueous Redox Flow Batteries: Opportunities and Challenges for Sustainable Energy Storage</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00427</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>defect repair</category>
 <category>interface construction</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Intelligent optimization of hybrid energy storage systems for decarbonized power grids: A review</title>
-<link>https://doi.org/10.1016/j.est.2026.125021</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125021</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:53 GMT</pubDate>
-<description>این مقاله مروری به بررسی روش‌های هوشمند بهینه‌سازی سیستم‌های ذخیره‌سازی انرژی هیبریدی برای شبکه‌های برق کربن‌زدایی‌شده می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 hybrid energy storage · decarbonized power grids · intelligent optimization · renewable integration · energy management</description>
-<category>hybrid energy storage</category>
-<category>decarbonized power grids</category>
-<category>intelligent optimization</category>
-<category>renewable integration</category>
-<category>energy management</category>
 </item>
 </channel>
 </rss>
