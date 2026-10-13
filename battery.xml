@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 23:01:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:03:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nonaqueous Redox Flow Batteries: Opportunities and Challenges for Sustainable Energy Storage</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00427</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.6c00427</guid>
+<pubDate>Tue, 13 Oct 2026 00:02:15 GMT</pubDate>
+<description>این مرور به فرصت‌ها و چالش‌های باتری‌های جریان ردوکس غیرآبی برای ذخیره‌سازی انرژی پایدار با چگالی بالا می‌پردازد.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely synthesizes recent advances across all key nonaqueous redox flow battery components—solvents, electrolytes, membranes, electrodes, and redox-active molecules—while highlighting machine learning, advanced characterization, and life cycle assessment as accelerants. Its significance lies in comparing aqueous and nonaqueous systems from commercialization and sustainability perspectives, offering design principles to guide next-generation low-cost, high-energy-density flow batteries for long-duration and extreme-environment storage.&lt;br&gt;🏷 nonaqueous redox flow battery · energy storage · electrolyte · redox-active molecules · sustainability</description>
+<category>nonaqueous redox flow battery</category>
+<category>energy storage</category>
+<category>electrolyte</category>
+<category>redox-active molecules</category>
+<category>sustainability</category>
+</item>
+<item>
+<title>Influence of arylene diimide linker aromaticity on the electrochemical performance of redox-active metal–organic framework cathodes for lithium-ion storage</title>
+<link>https://doi.org/10.1039/d6ta05048d</link>
+<guid isPermaLink="false">10.1039/d6ta05048d</guid>
+<pubDate>Tue, 13 Oct 2026 00:02:03 GMT</pubDate>
+<description>افزایش آروماتیسیته در لیگاندهای دی‌ایمید آرایلن در MOFهای Zn-XDI باعث پایداری حالت کاهش‌یافته و بهبود ذخیره‌سازی لیتیوم می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study establishes linker aromaticity as a tunable design parameter for redox-active MOF cathodes, showing that PMDI, NDI, and PDI linkers in isoreticular Zn-XDI MOFs progressively stabilize reduced states and boost Li-ion storage. Zn-PDI and Zn-NDI achieve excellent cycling stability, offering a new strategy for engineering high-performance organic electrode materials.&lt;br&gt;🏷 metal-organic framework · arylene diimide · lithium-ion storage · aromaticity · cathode</description>
+<category>metal-organic framework</category>
+<category>arylene diimide</category>
+<category>lithium-ion storage</category>
+<category>aromaticity</category>
+<category>cathode</category>
+</item>
+<item>
+<title>Influence of Solid-State Battery Degradation on Direct Recycling of Li 6 PS 5 Cl: Structure, Transport, and Electrochemical Properties</title>
+<link>https://doi.org/10.1039/d6ta05507a</link>
+<guid isPermaLink="false">10.1039/d6ta05507a</guid>
+<pubDate>Tue, 13 Oct 2026 00:01:58 GMT</pubDate>
+<description>تأثیر تخریب باتری حالت جامد بر بازیافت مستقیم Li6PS5Cl و خواص ساختاری، انتقالی و الکتروشیمیایی آن بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study uniquely links solid-state battery degradation to direct recycling of Li6PS5Cl, revealing how aging alters structure, transport, and electrochemical properties. It advances sustainable recycling by showing degraded solid electrolytes can be directly reused, reducing critical material demand and guiding design of robust, recyclable solid-state batteries.&lt;br&gt;🏷 solid-state battery · Li6PS5Cl · direct recycling · degradation · ionic transport</description>
+<category>solid-state battery</category>
+<category>Li6PS5Cl</category>
+<category>direct recycling</category>
+<category>degradation</category>
+<category>ionic transport</category>
+</item>
+<item>
+<title>A Multistimuli-responsive Triazolyl-functionalized Terpyridyl based Mechanically Resilient Cu(II)-Metallogel as Platform for High Performance Intelligent Flexible Micro-supercapacitor</title>
+<link>https://doi.org/10.1039/d6ta06065j</link>
+<guid isPermaLink="false">10.1039/d6ta06065j</guid>
+<pubDate>Tue, 13 Oct 2026 00:01:50 GMT</pubDate>
+<description>یک متالوژل Cu(II) تری‌آزولیل-ترپیریدیل با پاسخ چندگانه و خودترمیمی به‌عنوان بستر ابرخازن ریز انعطاف‌پذیر با کارایی بالا ساخته شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work introduces a multistimuli-responsive, self-healable Cu(II)-metallogel from triazolyl-functionalized terpyridyl ligands. Its novelty lies in combining mechanical resilience with electrochemical function, enabling a high-performance intelligent flexible micro-supercapacitor. This advances next-generation adaptable energy storage.&lt;br&gt;🏷 metallogel · micro-supercapacitor · self-healing · terpyridyl · Cu(II)</description>
+<category>metallogel</category>
+<category>micro-supercapacitor</category>
+<category>self-healing</category>
+<category>terpyridyl</category>
+<category>Cu(II)</category>
+</item>
 <item>
 <title>From Micro to Nano: Boosting γ-MnO2 Cathode Performance through Particle Size Engineering</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04092</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>intelligent optimization</category>
 <category>renewable integration</category>
 <category>energy management</category>
-</item>
-<item>
-<title>Chemical vapor transport derived SnSe₂ nanowires within multi-walled carbon nanotubes as high-performance conversion-alloying anode for lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125060</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125060</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:45 GMT</pubDate>
-<description>نانوسیم‌های SnSe2 مشتق از انتقال بخار شیمیایی درون نانولوله‌های کربنی چنددیواره به عنوان آند تبدیل-آلیاژی با عملکرد بالا برای باتری‌های لیتیوم-یون استفاده شده‌اند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 SnSe2 nanowires · carbon nanotubes · conversion-alloying · anode · lithium-ion battery</description>
-<category>SnSe2 nanowires</category>
-<category>carbon nanotubes</category>
-<category>conversion-alloying</category>
-<category>anode</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>From industrial waste to energy storage: Si@C core-shell anodes derived from coal gasification fine slag for lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125111</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125111</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:41 GMT</pubDate>
-<description>آندهای هسته-پوسته Si@C از سرباره ریز گازی‌سازی زغال‌سنگ به عنوان ضایعات صنعتی برای باتری‌های لیتیوم-یون مشتق شده‌اند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Si@C anode · coal gasification slag · industrial waste · lithium-ion battery · core-shell</description>
-<category>Si@C anode</category>
-<category>coal gasification slag</category>
-<category>industrial waste</category>
-<category>lithium-ion battery</category>
-<category>core-shell</category>
-</item>
-<item>
-<title>Microwave driven cobalt metal organic framework catalyst activation for lithium-carbon dioxide battery</title>
-<link>https://doi.org/10.1016/j.est.2026.124993</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124993</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:38 GMT</pubDate>
-<description>فعال‌سازی کاتالیزور چارچوب فلز-آلی کبالت با مایکروویو برای باتری لیتیوم-دی‌اکسید کربن انجام شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Li-CO2 battery · cobalt MOF · microwave · catalyst activation · CO2 reduction</description>
-<category>Li-CO2 battery</category>
-<category>cobalt MOF</category>
-<category>microwave</category>
-<category>catalyst activation</category>
-<category>CO2 reduction</category>
-</item>
-<item>
-<title>Enhanced energy storage performance of Y2O3-MoS2 nanocomposites based aqueous psuedocapacitor</title>
-<link>https://doi.org/10.1016/j.est.2026.124991</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124991</guid>
-<pubDate>Fri, 09 Oct 2026 14:04:34 GMT</pubDate>
-<description>نانوکامپوزیت‌های Y2O3-MoS2 عملکرد ذخیره انرژی بهبودیافته‌ای در شبه‌خازن آبی از خود نشان می‌دهند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Y2O3-MoS2 · nanocomposite · pseudocapacitor · aqueous · energy storage</description>
-<category>Y2O3-MoS2</category>
-<category>nanocomposite</category>
-<category>pseudocapacitor</category>
-<category>aqueous</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
