@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 17:04:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 18:01:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Aging modeling of lithium-ion cells by integrating active material loss, electrolyte degradation, solid electrolyte interphase growth, and lithium plating</title>
+<link>https://doi.org/10.1016/j.est.2026.125113</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125113</guid>
+<pubDate>Tue, 13 Oct 2026 18:01:34 GMT</pubDate>
+<description>مدل‌سازی پیری سلول‌های لیتیوم-یون با تلفیق افت ماده فعال، تخریب الکترولیت، رشد SEI و آبکاری لیتیوم ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · aging modeling · SEI growth · lithium plating · active material loss</description>
+<category>lithium-ion battery</category>
+<category>aging modeling</category>
+<category>SEI growth</category>
+<category>lithium plating</category>
+<category>active material loss</category>
+</item>
+<item>
+<title>Neural surrogate-based model predictive control for compressed air energy storage</title>
+<link>https://doi.org/10.1016/j.est.2026.125126</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125126</guid>
+<pubDate>Tue, 13 Oct 2026 18:01:27 GMT</pubDate>
+<description>کنترل پیش‌بین مدل مبتنی بر جانشین عصبی برای ذخیره‌سازی انرژی هوای فشرده ارائه و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 compressed air energy storage · model predictive control · neural surrogate · optimal control · energy storage</description>
+<category>compressed air energy storage</category>
+<category>model predictive control</category>
+<category>neural surrogate</category>
+<category>optimal control</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Tripartite evolutionary game and dynamic governance of cloud energy storage innovation ecosystems under technological trust shocks</title>
+<link>https://doi.org/10.1016/j.est.2026.124981</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124981</guid>
+<pubDate>Tue, 13 Oct 2026 18:01:23 GMT</pubDate>
+<description>بازی تکاملی سه‌جانبه و حاکمیت پویا در بوم‌سازگان نوآوری ذخیره‌سازی انرژی ابری تحت شوک‌های اعتماد فناورانه تحلیل می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cloud energy storage · evolutionary game · dynamic governance · trust shocks · innovation ecosystem</description>
+<category>cloud energy storage</category>
+<category>evolutionary game</category>
+<category>dynamic governance</category>
+<category>trust shocks</category>
+<category>innovation ecosystem</category>
+</item>
+<item>
+<title>Multi-objective optimization design of a thermal management system for large-capacity energy storage batteries coupling liquid cooling, phase change material and bio-inspired fins</title>
+<link>https://doi.org/10.1016/j.est.2026.125090</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125090</guid>
+<pubDate>Tue, 13 Oct 2026 18:01:19 GMT</pubDate>
+<description>بهینه‌سازی چندهدفه سیستم مدیریت حرارتی باتری‌های ذخیره‌ساز بزرگ با ترکیب خنک‌کاری مایع، ماده تغییر فاز و پره‌های الهام‌گرفته از طبیعت انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · phase change material · liquid cooling · bio-inspired fins · multi-objective optimization</description>
+<category>battery thermal management</category>
+<category>phase change material</category>
+<category>liquid cooling</category>
+<category>bio-inspired fins</category>
+<category>multi-objective optimization</category>
+</item>
 <item>
 <title>Organic Electrodes With Excellent Rate Capability and Cycling Stability Enabled by Assembling Active Materials onto Conductive Agents</title>
 <link>https://doi.org/10.1002/smll.76200</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>pnictogen chalcohalide</category>
 <category>Bi-S-Br</category>
 <category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Regulated Co‐Solvation in Gel Polymer Electrolyte Enables Rapid and Selective Li + Ion Transport for High‐Rate Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75332</link>
-<guid isPermaLink="false">10.1002/adma.75332</guid>
-<pubDate>Sat, 10 Oct 2026 14:01:39 GMT</pubDate>
-<description>الکترولیت ژل پلیمری با هم‌حلالی تنظیم‌شده، انتقال سریع و انتخابی Li+ را ممکن و باتری لیتیوم-فلز با نرخ بالا و عمر طولانی را فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a matched polymer–electrolyte co-solvation state within a dual-regulated gel polymer electrolyte, combining a fluorinated backbone, amide crosslinker, and weakly solvating adiponitrile. This enables cooperative Li+ hopping and vehicular diffusion while suppressing anion migration, achieving 10,000 cycles at 6 C with 0.003% decay per cycle. It establishes co-solvation as a design framework for fast-charging lithium metal batteries.&lt;br&gt;🏷 gel polymer electrolyte · lithium metal battery · Li+ transport · co-solvation · high-rate</description>
-<category>gel polymer electrolyte</category>
-<category>lithium metal battery</category>
-<category>Li+ transport</category>
-<category>co-solvation</category>
-<category>high-rate</category>
-</item>
-<item>
-<title>Unlocking low overpotential and fast reaction kinetics for high-performance Li-CO2 batteries via single-atom-tailored MoN2</title>
-<link>https://doi.org/10.1016/j.est.2026.125052</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125052</guid>
-<pubDate>Sat, 10 Oct 2026 10:02:04 GMT</pubDate>
-<description>کاتالیزور تک‌اتمی بر پایه MoN2 برای باتری Li-CO2، اورپتانسیل پایین و سینتیک واکنش سریع را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Li-CO2 battery · single-atom catalyst · MoN2 · overpotential · reaction kinetics</description>
-<category>Li-CO2 battery</category>
-<category>single-atom catalyst</category>
-<category>MoN2</category>
-<category>overpotential</category>
-<category>reaction kinetics</category>
-</item>
-<item>
-<title>A thermally integrated Carnot battery incorporating a novel dual-pressure evaporation cycle for deep utilization of waste heat: Parameter analysis and working-fluid optimization</title>
-<link>https://doi.org/10.1016/j.est.2026.124572</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124572</guid>
-<pubDate>Sat, 10 Oct 2026 10:01:56 GMT</pubDate>
-<description>باتری کارنو یکپارچه حرارتی با چرخه تبخیر دو-فشاری برای استفاده عمیق از گرمای اتلافی تحلیل و سیال کاری آن بهینه‌سازی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Carnot battery · dual-pressure evaporation · waste heat utilization · working fluid optimization · thermal integration</description>
-<category>Carnot battery</category>
-<category>dual-pressure evaporation</category>
-<category>waste heat utilization</category>
-<category>working fluid optimization</category>
-<category>thermal integration</category>
-</item>
-<item>
-<title>Effect of thermal treatment on electrochemical performance of diesel particle-based electrodes for supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125092</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125092</guid>
-<pubDate>Sat, 10 Oct 2026 10:01:52 GMT</pubDate>
-<description>اثر تیمار حرارتی بر عملکرد الکتروشیمیایی الکترودهای مبتنی بر ذرات دیزل برای ابرخازن‌ها بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 diesel particle · supercapacitor · thermal treatment · electrochemical performance · electrode</description>
-<category>diesel particle</category>
-<category>supercapacitor</category>
-<category>thermal treatment</category>
-<category>electrochemical performance</category>
-<category>electrode</category>
 </item>
 </channel>
 </rss>
