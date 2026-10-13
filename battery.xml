@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 06:02:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 07:02:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Near‐Infrared Triggered Rechargeable Singlet Oxygen Battery for Sustained Phototherapy: Fast Charging and Long‐Lasting Discharging</title>
+<link>https://doi.org/10.1002/advs.78284</link>
+<guid isPermaLink="false">10.1002/advs.78284</guid>
+<pubDate>Tue, 13 Oct 2026 07:02:08 GMT</pubDate>
+<description>باتری اکسیژن یکتایی قابل شارژ با نور NIR بر پایه aza-BODIPY، با ذخیره و رهاسازی کنترل‌شده 1O2، فوتوتراپی پایدار و چرخه‌ای را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a rechargeable singlet oxygen battery using aza-BODIPY nanoparticles that reversibly store ¹O₂ via cycloaddition and release it thermally for up to 1 hour. It enables cyclic, NIR-triggered phototherapy with fast charging, sustained discharge, and negligible decay, achieving synergistic PDT/PTT and significant tumor suppression—offering a durable strategy for deep-tumor treatment.&lt;br&gt;🏷 singlet oxygen battery · aza-BODIPY · photodynamic therapy · photothermal therapy · NIR-triggered</description>
+<category>singlet oxygen battery</category>
+<category>aza-BODIPY</category>
+<category>photodynamic therapy</category>
+<category>photothermal therapy</category>
+<category>NIR-triggered</category>
+</item>
+<item>
+<title>Microstructure Evolution in Dry‑Coated Sulfidic All‐Solid‐State Battery Cathodes: Investigating Core–Shell Particle Morphology</title>
+<link>https://doi.org/10.1002/advs.78248</link>
+<guid isPermaLink="false">10.1002/advs.78248</guid>
+<pubDate>Tue, 13 Oct 2026 07:01:56 GMT</pubDate>
+<description>مورفولوژی هسته-پوسته و ریزساختار کاتدهای خشک‌پوشش‌شده باتری تمام‌حالت‌جامد سولفیدی با اختلاط اکستروژن و دسته‌ای بررسی می‌شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study pioneers continuous extrusion for dry-coated sulfidic all-solid-state cathodes, achieving core–shell-like PTFE coatings on NCM85. Unlike batch mixing, extrusion yields superior microstructure, ionic conductivity, and electrochemical performance. It establishes a scalable route for engineering electrode interfaces, advancing practical all-solid-state battery manufacturing.&lt;br&gt;🏷 all-solid-state battery · dry coating · sulfidic electrolyte · core-shell morphology · extrusion mixing</description>
+<category>all-solid-state battery</category>
+<category>dry coating</category>
+<category>sulfidic electrolyte</category>
+<category>core-shell morphology</category>
+<category>extrusion mixing</category>
+</item>
+<item>
+<title>Multifunctional Oleylamine Enables Direct Regeneration of Spent Lithium Iron Phosphate Cathodes through Coupled Lattice and Interface Repair</title>
+<link>https://doi.org/10.1002/eem2.70526</link>
+<guid isPermaLink="false">10.1002/eem2.70526</guid>
+<pubDate>Tue, 13 Oct 2026 07:01:37 GMT</pubDate>
+<description>اولئیل‌آمین با ترمیم همزمان شبکه و سطح، کاتد LiFePO4 مستعمل را بازتولید کرده و ظرفیت و پایداری چرخه‌ای آن را بهبود می‌بخشد.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Oleylamine enables one-step solvothermal regeneration of spent LiFePO₄, simultaneously reducing Fe³⁺, repairing lattice defects, suppressing Li-Fe antisite disorder, and stabilizing morphology, then forming an N-doped carbon coating. This multifunctional approach restores capacity (155.2 mAh g⁻¹) and cycling stability, offering a scalable, high-value direct recycling route for spent batteries.&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · oleylamine · spent batteries · N-doped carbon</description>
+<category>LiFePO4 cathode</category>
+<category>direct regeneration</category>
+<category>oleylamine</category>
+<category>spent batteries</category>
+<category>N-doped carbon</category>
+</item>
 <item>
 <title>From battery signals to mechanism-aware lifetime prediction: A descriptor framework across representative battery chemistries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.065</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>electrolytes</category>
 <category>interfaces</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>Ni/NiO Heterointerface-Induced Built-In Electric Field Directs Charge Redistribution and LiF-Rich SEI for Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ee04156f</link>
-<guid isPermaLink="false">10.1039/d6ee04156f</guid>
-<pubDate>Fri, 09 Oct 2026 18:01:13 GMT</pubDate>
-<description>مهندسی هترواینترفیس Ni/NiO با ایجاد میدان الکتریکی داخلی، توزیع مجدد بار و تشکیل SEI غنی از LiF را برای آند لیتیوم فلزی پایدار هدایت می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Ni/NiO heterointerfaces to create a built-in electric field that redistributes charge and promotes a LiF-rich SEI. This dual mechanism suppresses dendritic Li growth and stabilizes the solid electrolyte interphase, enabling stable lithium metal batteries. It offers a promising interface-engineering strategy for high-energy-density anode design.&lt;br&gt;🏷 lithium metal anode · Ni/NiO heterointerface · built-in electric field · LiF-rich SEI · dendrite suppression</description>
-<category>lithium metal anode</category>
-<category>Ni/NiO heterointerface</category>
-<category>built-in electric field</category>
-<category>LiF-rich SEI</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Polyoxometalates Enable the Fabrication of Homogeneous High-Entropy Oxide for Lithium-Ion Battery Anodes</title>
-<link>https://doi.org/10.1039/d6ta05251g</link>
-<guid isPermaLink="false">10.1039/d6ta05251g</guid>
-<pubDate>Fri, 09 Oct 2026 16:01:55 GMT</pubDate>
-<description>پلی‌اکسومتالات‌ها ساخت اکسید با آنتروپی بالا همگن را در دمای پایین برای آند باتری لیتیم-یون امکان‌پذیر می‌سازند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Polyoxometalates act as single-source molecular precursors, enabling low-temperature synthesis of homogeneous high-entropy oxides despite differing metal salt behaviors. This yields uniform phase structure for lithium-ion battery anodes, offering a general strategy to overcome inhomogeneity in HEO fabrication and potentially improving electrochemical performance.&lt;br&gt;🏷 high-entropy oxide · polyoxometalate · lithium-ion battery · anode · low-temperature synthesis</description>
-<category>high-entropy oxide</category>
-<category>polyoxometalate</category>
-<category>lithium-ion battery</category>
-<category>anode</category>
-<category>low-temperature synthesis</category>
-</item>
-<item>
-<title>Neural network potentials explain ionic conductivity enhancement in alumina and lithium aluminate coated Li 6 PS 5 Cl electrolytes</title>
-<link>https://doi.org/10.1039/d6ta04678a</link>
-<guid isPermaLink="false">10.1039/d6ta04678a</guid>
-<pubDate>Fri, 09 Oct 2026 16:01:46 GMT</pubDate>
-<description>پتانسیل‌های شبکه عصبی نشان می‌دهند که بازتوزیع لیتیم در فصل مشترک، علت افزایش رسانایی یونی در الکترولیت Li6PS5Cl پوشش‌داده‌شده با آلومینا و لیتیم آلومینات است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Neural network potentials reveal that interfacial Li redistribution, not coating chemistry alone, drives ionic conductivity enhancement in alumina- and lithium aluminate-coated Li₆PS₅Cl solid electrolytes. This atomistic insight resolves a long-standing ambiguity about coating mechanisms, enabling rational interface design for high-performance solid-state batteries.&lt;br&gt;🏷 Li6PS5Cl · solid electrolyte · neural network potential · ionic conductivity · alumina coating</description>
-<category>Li6PS5Cl</category>
-<category>solid electrolyte</category>
-<category>neural network potential</category>
-<category>ionic conductivity</category>
-<category>alumina coating</category>
 </item>
 </channel>
 </rss>
