@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 20:01:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 21:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Near-infrared photochromic miniprotein enables photoacoustic molecular imaging of acute inflammation and intracellular antigens</title>
+<link>https://doi.org/10.1038/s41592-026-03255-y</link>
+<guid isPermaLink="false">10.1038/s41592-026-03255-y</guid>
+<pubDate>Tue, 13 Oct 2026 21:02:01 GMT</pubDate>
+<description>این مقاله یک مینی‌پروتئین فتوکرومیک مادون قرمز نزدیک به نام rsmiRFPnano را مهندسی می‌کند که تصویربرداری فوتوآکوستیک مولکولی از التهاب حاد و آنتی‌ژن‌های داخل‌سلولی را ممکن می‌سازد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photoacoustic imaging · photochromic miniprotein · inflammation · intracellular antigens · nanobody</description>
+<category>photoacoustic imaging</category>
+<category>photochromic miniprotein</category>
+<category>inflammation</category>
+<category>intracellular antigens</category>
+<category>nanobody</category>
+</item>
+<item>
+<title>Intermolecular decoupling of C60 suppresses interfacial recombination in perovskite solar cells</title>
+<link>https://doi.org/10.1038/s41566-026-02030-x</link>
+<guid isPermaLink="false">10.1038/s41566-026-02030-x</guid>
+<pubDate>Tue, 13 Oct 2026 21:01:51 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که جداسازی بین‌مولکولی C60 بازترکیب سطح مشترک را در سلول‌های خورشیدی پروسکایتی سرکوب می‌کند.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · C60 · interfacial recombination · decoupling · passivation</description>
+<category>perovskite solar cells</category>
+<category>C60</category>
+<category>interfacial recombination</category>
+<category>decoupling</category>
+<category>passivation</category>
+</item>
+<item>
+<title>Nonlinear circular dichroism reveals the local Berry curvature</title>
+<link>https://doi.org/10.1038/s41566-026-02025-8</link>
+<guid isPermaLink="false">10.1038/s41566-026-02025-8</guid>
+<pubDate>Tue, 13 Oct 2026 21:01:44 GMT</pubDate>
+<description>این مقاله با استفاده از دوشدت‌زایی در تک‌لایه WSe2 نشان می‌دهد که تغییر تکانه زاویه‌ای اسپین نور با خمیدگی موضعی بری متناسب است.&lt;br&gt;Nature Photonics | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nonlinear circular dichroism · Berry curvature · WSe2 monolayer · high-harmonic generation · valleytronics</description>
+<category>nonlinear circular dichroism</category>
+<category>Berry curvature</category>
+<category>WSe2 monolayer</category>
+<category>high-harmonic generation</category>
+<category>valleytronics</category>
+</item>
+<item>
+<title>Thermal conductance of atomic-scale glass reaches 40% of quantum limit</title>
+<link>https://doi.org/10.1038/s41565-026-02308-9</link>
+<guid isPermaLink="false">10.1038/s41565-026-02308-9</guid>
+<pubDate>Tue, 13 Oct 2026 21:01:39 GMT</pubDate>
+<description>این مقاله رسانش گرمایی شیشه‌های اتمی را بررسی می‌کند و نشان می‌دهد که به ۴۰٪ حد کوانتومی می‌رسد.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 atomic-scale glass · thermal conductance · quantum limit · phonon transport · disordered materials</description>
+<category>atomic-scale glass</category>
+<category>thermal conductance</category>
+<category>quantum limit</category>
+<category>phonon transport</category>
+<category>disordered materials</category>
+</item>
 <item>
 <title>Electroluminescent photoresists make LEDs easy to pattern</title>
 <link>https://doi.org/10.1038/s41928-026-01729-7</link>
@@ -1167,54 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 covalent organic framewor
 <category>iron catalyst</category>
 <category>hydroxyl regulation</category>
 <category>guar gum</category>
-</item>
-<item>
-<title>Proximity‐Engineered Dual‐Atomic Cobalt Sites Enable Adaptive Spin Catalysis for Simultaneous Oxygen and Peroxide Reduction</title>
-<link>https://doi.org/10.1002/anie.3109429</link>
-<guid isPermaLink="false">10.1002/anie.3109429</guid>
-<pubDate>Tue, 13 Oct 2026 16:02:51 GMT</pubDate>
-<description>مهندسی مجاورت دو اتم کبالت در COF یک‌بعدی با اسپین تطبیقی، واکنش کاهش اکسیژن و پراکسید را همزمان بهبود می‌بخشد و عملکرد باتری روی-هوا را افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Proximity engineering of dual-atomic Co sites in a covalent organic framework tunes Co–Co separation, creating coexisting high-spin and low-spin configurations. These complementary spins resolve oxygen-intermediate adsorption conflicts, enabling adaptive spin catalysis. The catalyst achieves a 0.96 V half-wave potential, outperforming Pt/C, and boosts zinc–air and peroxide-assisted aluminum–air batteries, establishing spin-state complementarity as a design principle for atomic catalysts.&lt;br&gt;🏷 dual-atomic cobalt · spin catalysis · oxygen reduction · covalent organic framework · zinc-air battery</description>
-<category>dual-atomic cobalt</category>
-<category>spin catalysis</category>
-<category>oxygen reduction</category>
-<category>covalent organic framework</category>
-<category>zinc-air battery</category>
-</item>
-<item>
-<title>Tris(4‐Halo‐2,6‐Difluorophenyl)Methyl Radicals Exhibiting Green Doublet Emission</title>
-<link>https://doi.org/10.1002/anie.7145285</link>
-<guid isPermaLink="false">10.1002/anie.7145285</guid>
-<pubDate>Tue, 13 Oct 2026 16:02:39 GMT</pubDate>
-<description>دو رادیکال تریتیل فلوئورینه شده با گسیل دوگانه سبز در ۵۲۷ و ۵۲۹ نانومتر سنتز شدند و کاربرد آن‌ها به عنوان گسیل‌گر دوگانه در دستگاه الکترولومینسانس نشان داده شد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 organic radicals · doublet emission · fluorination · trityl radicals · electroluminescence</description>
-<category>organic radicals</category>
-<category>doublet emission</category>
-<category>fluorination</category>
-<category>trityl radicals</category>
-<category>electroluminescence</category>
-</item>
-<item>
-<title>Photo‐Promoted Thermocatalysis: Low‐Temperature Methanol Steam Reforming Toward Hydrogen Production</title>
-<link>https://doi.org/10.1002/anie.4099867</link>
-<guid isPermaLink="false">10.1002/anie.4099867</guid>
-<pubDate>Tue, 13 Oct 2026 16:02:33 GMT</pubDate>
-<description>کاتالیزور نوری-حرارتی Cu/CeZrOx برای تولید هیدروژن از متانول در دمای پایین ۱۹۹ درجه سانتیگراد با نرخ بالا و انتخاب‌پذیری CO کمتر از ۰.۲٪ ارائه شده است.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 methanol steam reforming · photothermal catalysis · Cu/CeZrOx · hydrogen production · hot electron</description>
-<category>methanol steam reforming</category>
-<category>photothermal catalysis</category>
-<category>Cu/CeZrOx</category>
-<category>hydrogen production</category>
-<category>hot electron</category>
-</item>
-<item>
-<title>Magnetic‐Field‐Assisted Photocatalytic H 2 O 2 Production From Ambient Air via Spin‐Matching‐Mediated Dual Charge Transfer</title>
-<link>https://doi.org/10.1002/anie.9920959</link>
-<guid isPermaLink="false">10.1002/anie.9920959</guid>
-<pubDate>Tue, 13 Oct 2026 16:02:30 GMT</pubDate>
-<description>میدان مغناطیسی تولید فوتوکاتالیستی H2O2 از هوا را از طریق انتقال بار دوگانه با تطبیق اسپین در Fe-PDI تقویت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 photocatalytic H2O2 · magnetic field · spin matching · dual charge transfer · Fe-PDI</description>
-<category>photocatalytic H2O2</category>
-<category>magnetic field</category>
-<category>spin matching</category>
-<category>dual charge transfer</category>
-<category>Fe-PDI</category>
 </item>
 </channel>
 </rss>
