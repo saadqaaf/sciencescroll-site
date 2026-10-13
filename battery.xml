@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 14:01:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 15:02:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Self-Healing Armor Enables Electrode Integrity and Interfacial Stability for Durable Silicon Anodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02225</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02225</guid>
+<pubDate>Tue, 13 Oct 2026 15:02:54 GMT</pubDate>
+<description>پوشش خودترمیم کوپلیمر فلورینه بر پایه HFBA و MPS با ترمیم میکروترک‌ها و تثبیت SEI، پایداری چرخه‌ای آندهای سیلیکونی را در باتری لیتیوم-یون بهبود می‌بخشد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in situ UV-copolymerized self-healing fluorinated acrylate coating that repairs microcracks within one minute via reversible dipole-dipole interactions while acting as a fluorine reservoir to build a stable LiF-rich SEI. This dual mechanism enables durable silicon anodes, demonstrated in a 1.5 Ah pouch cell with 71.9% retention after 300 cycles and improved thermal safety.&lt;br&gt;🏷 silicon anode · self-healing coating · SEI · fluorinated copolymer · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>self-healing coating</category>
+<category>SEI</category>
+<category>fluorinated copolymer</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Large Language Model Directed Iteration for the Design of Ultra‐Stable Sodium‐Ion Battery</title>
+<link>https://doi.org/10.1002/adfm.79026</link>
+<guid isPermaLink="false">10.1002/adfm.79026</guid>
+<pubDate>Tue, 13 Oct 2026 15:02:37 GMT</pubDate>
+<description>با ترکیب مدل زبانی بزرگ و بهینه‌سازی بیزی، الکترولیت دوآنیونی برای باتری سدیم-یون طراحی شد که در پاکت‌سل Ah-level چگالی انرژی ۱۰۷.۷ وات‌ساعت بر کیلوگرم و حفظ ظرفیت ۹۴٪ پس از ۱۰۰ چرخه را نشان داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a literature-knowledge-directed LLM-Bayesian optimization workflow for electrolyte design under data scarcity. Its optimized dual-anion hybrid solvation electrolyte forms a robust inorganic-rich CEI, enabling Ah-level sodium-ion pouch cells with 107.7 Wh kg⁻¹ energy density and 94% retention after 100 cycles, offering a general human-agent collaborative framework for intelligent materials discovery.&lt;br&gt;🏷 sodium-ion battery · electrolyte design · large language model · Bayesian optimization · cathode electrolyte interphase</description>
+<category>sodium-ion battery</category>
+<category>electrolyte design</category>
+<category>large language model</category>
+<category>Bayesian optimization</category>
+<category>cathode electrolyte interphase</category>
+</item>
+<item>
+<title>Unveiling the Interfacial and Bulk‐Structural Failures of TiS 2 Anodes Under Deep Sodiation</title>
+<link>https://doi.org/10.1002/adfm.78935</link>
+<guid isPermaLink="false">10.1002/adfm.78935</guid>
+<pubDate>Tue, 13 Oct 2026 15:02:13 GMT</pubDate>
+<description>مکانیزم‌های تخریب TiS2 در سدیم‌دهی عمیق بررسی و با کپسوله‌کردن در کربن، ظرفیت کامل با حفظ ۹۸.۵٪ پس از ۱۸۰۰ چرخه به دست آمد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals how deep sodiation degrades TiS₂ anodes via reactive Ti precipitation causing electrolyte attack and internal stress-driven framework disintegration. Encapsulating TiS₂ nanosheets in dense carbon spheres buffers volume expansion and isolates active Ti, enabling 98.5% retention over 1800 cycles. It clarifies TMD failure mechanisms and offers a structural engineering strategy for stable conversion anodes.&lt;br&gt;🏷 TiS2 anode · deep sodiation · interfacial failure · carbon encapsulation · sodium-ion battery</description>
+<category>TiS2 anode</category>
+<category>deep sodiation</category>
+<category>interfacial failure</category>
+<category>carbon encapsulation</category>
+<category>sodium-ion battery</category>
+</item>
+<item>
+<title>Rest‐Pulse Interphase Reconstruction Enables Capacity Recovery in Aged Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79023</link>
+<guid isPermaLink="false">10.1002/adfm.79023</guid>
+<pubDate>Tue, 13 Oct 2026 15:02:02 GMT</pubDate>
+<description>پروتکل استراحت-پالس با بازسازی SEI، بازیابی ظرفیت حدود ۱۰٪ و بازده کولنی ۹۹٫۳٪ را در باتری‌های لیتیوم-یونی پیرشده LiFePO4/graphite ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Rest-Pulse protocol combining discharged-state rest with a short voltage pulse to reconstruct the graphite-side SEI, recovering inactive Li. It achieves 99.3% Coulombic efficiency and ~10% capacity recovery, exceeding rest alone (~6%). Significance: a non-destructive, proof-of-concept route for reviving aged lithium-ion batteries, though larger-format validation and chemistry-specific optimization remain.&lt;br&gt;🏷 capacity recovery · rest-pulse protocol · SEI reconstruction · aged Li-ion battery · LiFePO4/graphite</description>
+<category>capacity recovery</category>
+<category>rest-pulse protocol</category>
+<category>SEI reconstruction</category>
+<category>aged Li-ion battery</category>
+<category>LiFePO4/graphite</category>
+</item>
+<item>
+<title>Hard‐Acid High‐Entropy Stabilized Chloride Octahedra for Halide Solid Electrolytes at High‐Voltage of 4.8 V</title>
+<link>https://doi.org/10.1002/adfm.79022</link>
+<guid isPermaLink="false">10.1002/adfm.79022</guid>
+<pubDate>Tue, 13 Oct 2026 15:01:57 GMT</pubDate>
+<description>الکترولیت هالیدی آنتروپی‌بالای اسید سخت، اکتاهدرهای M-Cl را تثبیت کرده و باتری تمام‌حالت‌جامد را در ۴٫۸ ولت با حفظ ۸۰٪ ظرفیت پس از ۱۴۰۰ چرخه پایدار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Hard-acid high-entropy engineering stabilizes metal-chloride octahedra in halide solid electrolytes, suppressing Cl⁻ oxidation at 4.8 V while improving Li⁺ transport (2.38 mS cm⁻¹). The Li₂.₅In₀.₅Y₀.₁Al₀.₁Zr₀.₁Ta₀.₂Cl₆ electrolyte enables 1400 cycles at 10 C with &amp;gt;80% capacity retention and −20°C operation, offering a new crystal-chemistry design strategy for ultrahigh-voltage all-solid-state batteries.&lt;br&gt;🏷 halide solid electrolyte · high-entropy · hard-acid · all-solid-state battery · high voltage</description>
+<category>halide solid electrolyte</category>
+<category>high-entropy</category>
+<category>hard-acid</category>
+<category>all-solid-state battery</category>
+<category>high voltage</category>
+</item>
+<item>
+<title>Radical Bearing Solid Electrolyte Interface as an Active Ionic Reservoir for Fast Li + Storage in Coordination Confined Fe@C Anodes</title>
+<link>https://doi.org/10.1002/adfm.79050</link>
+<guid isPermaLink="false">10.1002/adfm.79050</guid>
+<pubDate>Tue, 13 Oct 2026 15:01:39 GMT</pubDate>
+<description>آند Fe@C با محدودسازی کوئوردیناسیونی، ذخیره‌سازی سریع Li+ را از طریق SEI پلیمری رادیکال‌دار به عنوان مخزن یونی فعال ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying a radical-bearing polymeric SEI that acts as an active ionic reservoir for space charge storage in Fe@C anodes. This links MOF-derived coordination confinement with Fe-catalyzed SEI reconstruction, enabling fast, strain-free Li+ storage (565 mAh g⁻¹ at 2C). It advances interfacial design by clarifying the SEI&amp;#x27;s ionic role, offering a pathway to durable, high-rate anodes.&lt;br&gt;🏷 Fe@C anode · solid electrolyte interphase · radical · Li+ storage · coordination confinement</description>
+<category>Fe@C anode</category>
+<category>solid electrolyte interphase</category>
+<category>radical</category>
+<category>Li+ storage</category>
+<category>coordination confinement</category>
+</item>
 <item>
 <title>Element-Division Catalysis in Defect-Rich High-Entropy Oxides for Circumventing the Activity-Stability Trade-off in Lithium-Sulfur Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105593</link>
@@ -1135,78 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>electrolyte engineering</category>
 <category>Al3+ solvation</category>
 <category>operando characterization</category>
-</item>
-<item>
-<title>Dynamic Lewis acid tuning and structural leverage in monoclinic strontium manganese oxides as bifunctional electrocatalysts for zinc–air batteries</title>
-<link>https://doi.org/10.1039/d6ta06757c</link>
-<guid isPermaLink="false">10.1039/d6ta06757c</guid>
-<pubDate>Sat, 10 Oct 2026 02:01:10 GMT</pubDate>
-<description>تنظیم دینامیک اسید لوویس و اهرم ساختاری در اکسیدهای منگنز استرانسیم مونوکلینیک به عنوان الکتروکاتالیست دوعملکردی برای باتری‌های روی-هوا.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work tunes Lewis acidity and structure in monoclinic strontium manganese oxides to boost bifunctional ORR/OER activity. The dynamic Lewis acid modulation and structural leverage strategy yields an efficient, durable electrocatalyst for zinc–air batteries, offering a promising route to overcome sluggish oxygen kinetics and advance sustainable energy storage.&lt;br&gt;🏷 zinc-air battery · strontium manganese oxide · bifunctional electrocatalyst · oxygen reduction · oxygen evolution</description>
-<category>zinc-air battery</category>
-<category>strontium manganese oxide</category>
-<category>bifunctional electrocatalyst</category>
-<category>oxygen reduction</category>
-<category>oxygen evolution</category>
-</item>
-<item>
-<title>Reconstructing long-time voltage relaxation from short pulse tests for faster battery testing and modeling</title>
-<link>https://doi.org/10.1016/j.est.2026.125004</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125004</guid>
-<pubDate>Sat, 10 Oct 2026 00:01:53 GMT</pubDate>
-<description>روشی برای بازسازی آسایش ولتاژ بلندمدت از آزمون‌های پالس کوتاه ارائه می‌شود تا آزمون و مدل‌سازی باتری سریع‌تر شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 voltage relaxation · battery testing · pulse test · lithium-ion battery · battery modeling</description>
-<category>voltage relaxation</category>
-<category>battery testing</category>
-<category>pulse test</category>
-<category>lithium-ion battery</category>
-<category>battery modeling</category>
-</item>
-<item>
-<title>Phytoremediation-inspired biomass-derived hierarchical porous carbon embedded with binary metal sulfide for hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125026</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125026</guid>
-<pubDate>Sat, 10 Oct 2026 00:01:49 GMT</pubDate>
-<description>کربن متخلخل سلسله‌مراتبی مشتق از زیست‌توده با الهام از گیاه‌پالایی و حاوی سولفید فلزی دوتایی برای ابرخازن‌های هیبریدی سنتز شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid supercapacitor · biomass-derived carbon · binary metal sulfide · hierarchical porous carbon · phytoremediation-inspired</description>
-<category>hybrid supercapacitor</category>
-<category>biomass-derived carbon</category>
-<category>binary metal sulfide</category>
-<category>hierarchical porous carbon</category>
-<category>phytoremediation-inspired</category>
-</item>
-<item>
-<title>Flexible interconnection of highway service-area multi-microgrids via mobile energy storage: A coordinated stochastic planning framework</title>
-<link>https://doi.org/10.1016/j.est.2026.125045</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125045</guid>
-<pubDate>Sat, 10 Oct 2026 00:01:44 GMT</pubDate>
-<description>یک چارچوب برنامه‌ریزی تصادفی هماهنگ برای اتصال انعطاف‌پذیر چند ریزشبکه در مجتمع‌های خدماتی بزرگراه از طریق ذخیره‌سازی انرژی سیار ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 mobile energy storage · multi-microgrid interconnection · stochastic planning · highway service area · coordinated framework</description>
-<category>mobile energy storage</category>
-<category>multi-microgrid interconnection</category>
-<category>stochastic planning</category>
-<category>highway service area</category>
-<category>coordinated framework</category>
-</item>
-<item>
-<title>Numerical and experimental evaluation of cooling strategies for prismatic li-ion battery modules designed for containerised energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.124998</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124998</guid>
-<pubDate>Sat, 10 Oct 2026 00:01:37 GMT</pubDate>
-<description>راهبردهای خنک‌کاری برای ماژول‌های باتری لیتیوم-یونی منشوری در ذخیره‌سازی انرژی کانتینری به‌صورت عددی و تجربی ارزیابی شدند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 prismatic Li-ion module · containerized energy storage · cooling strategies · thermal management · numerical simulation</description>
-<category>prismatic Li-ion module</category>
-<category>containerized energy storage</category>
-<category>cooling strategies</category>
-<category>thermal management</category>
-<category>numerical simulation</category>
-</item>
-<item>
-<title>Experimental investigation of cell arrangement, spacing, and airflow in a forced-air-cooled battery thermal management system for cylindrical lithium-ion cells</title>
-<link>https://doi.org/10.1016/j.est.2026.125116</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125116</guid>
-<pubDate>Sat, 10 Oct 2026 00:01:33 GMT</pubDate>
-<description>اثر چیدمان، فاصله و جریان هوا بر خنک‌کاری اجباری هوایی باتری‌های لیتیوم-یونی استوانه‌ای به‌صورت تجربی بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · forced-air cooling · cylindrical lithium-ion · cell arrangement · airflow spacing</description>
-<category>battery thermal management</category>
-<category>forced-air cooling</category>
-<category>cylindrical lithium-ion</category>
-<category>cell arrangement</category>
-<category>airflow spacing</category>
 </item>
 </channel>
 </rss>
