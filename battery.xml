@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 05:01:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 06:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Complete Encapsulation of Sulfur-Bridged Carbonyl Molecules in Graphene Oxide Matrix Enables Ultrastable Organic Cathodes for Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta05610e</link>
+<guid isPermaLink="false">10.1039/d6ta05610e</guid>
+<pubDate>Wed, 14 Oct 2026 06:01:16 GMT</pubDate>
+<description>کپسوله‌سازی کامل مولکول‌های کربونیل پل‌دار با گوگرد در ماتریس گرافن اکسید، کاتدهای آلی فوق‌پایدار برای باتری‌های لیتیوم-یون فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work achieves complete encapsulation of sulfur-bridged carbonyl molecules within a graphene oxide matrix, solving dissolution and cycling instability that plague small-molecule organic cathodes. The strategy enables ultrastable lithium-ion battery cathodes with high capacity and long life, offering a scalable, sustainable alternative to conventional inorganic cathodes and advancing practical organic energy storage.&lt;br&gt;🏷 organic cathode · lithium-ion battery · carbonyl molecules · graphene oxide · encapsulation</description>
+<category>organic cathode</category>
+<category>lithium-ion battery</category>
+<category>carbonyl molecules</category>
+<category>graphene oxide</category>
+<category>encapsulation</category>
+</item>
 <item>
 <title>Sulfur-functionalized binary transition metal Mo2Ti2C3 MXene for long-life hybrid sodium-ion capacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125076</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>alkali metal anode</category>
 <category>interphase stability</category>
 <category>nucleation</category>
-</item>
-<item>
-<title>Synergistic urea-assisted activation and nitrogen doping of biomass-derived porous carbon from coconut shell for high-performance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125122</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125122</guid>
-<pubDate>Mon, 12 Oct 2026 02:01:07 GMT</pubDate>
-<description>فعال‌سازی هم‌افزای کربن متخلخل زیست‌توده پوسته نارگیل با اوره و دوپینگ نیتروژن برای ابرخازن با عملکرد بالا انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 coconut shell carbon · supercapacitor · nitrogen doping · urea activation · porous carbon</description>
-<category>coconut shell carbon</category>
-<category>supercapacitor</category>
-<category>nitrogen doping</category>
-<category>urea activation</category>
-<category>porous carbon</category>
 </item>
 </channel>
 </rss>
