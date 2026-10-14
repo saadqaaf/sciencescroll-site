@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 19:02:30 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 20:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Research Progress on V 2 CT x MXene‐Based Composites: Synthetic Strategies, Structure Design, and Multifunctional Applications</title>
+<link>https://doi.org/10.1002/cey2.70288</link>
+<guid isPermaLink="false">10.1002/cey2.70288</guid>
+<pubDate>Wed, 14 Oct 2026 20:01:15 GMT</pubDate>
+<description>این مقاله مروری، ساخت، طراحی ساختاری و کاربردهای چندمنظوره کامپوزیت‌های V2CTx MXene را در ذخیره‌سازی انرژی و تبدیل و تخریب فوتوکاتالیستی بررسی می‌کند.&lt;br&gt;Carbon Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely links heterogeneous interfaces to V2CTx MXene composite properties through structural design strategies. It systematically covers synthesis, structural engineering, and multifunctional applications in energy storage, conversion, and photocatalysis, while elucidating charge storage and catalytic mechanisms. It provides critical insights and future directions, highlighting V2CTx composites&amp;#x27; broad potential.&lt;br&gt;🏷 V2CTx MXene · energy storage · composite design · electrochemical performance · photocatalysis</description>
+<category>V2CTx MXene</category>
+<category>energy storage</category>
+<category>composite design</category>
+<category>electrochemical performance</category>
+<category>photocatalysis</category>
+</item>
 <item>
 <title>Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors</title>
 <link>https://doi.org/10.1002/adma.75368</link>
@@ -1194,18 +1206,6 @@
 <category>electrostatic interfacial engineering</category>
 <category>charge transport kinetics</category>
 <category>ultra-long-life</category>
-</item>
-<item>
-<title>Health-aware federated contrastive representation learning for generalizable state-of-health estimation of lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125103</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125103</guid>
-<pubDate>Mon, 12 Oct 2026 22:01:37 GMT</pubDate>
-<description>یک روش یادگیری نمایشی کنتراستی فدرال و آگاه از سلامت برای تخمین تعمیم‌پذیر وضعیت سلامت باتری‌های لیتیوم-یون ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion batteries · state-of-health estimation · federated learning · contrastive representation learning · health-aware</description>
-<category>lithium-ion batteries</category>
-<category>state-of-health estimation</category>
-<category>federated learning</category>
-<category>contrastive representation learning</category>
-<category>health-aware</category>
 </item>
 </channel>
 </rss>
