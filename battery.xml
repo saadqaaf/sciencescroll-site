@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 12:03:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 13:02:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fluorinated Aromatic Diluent Enabling Stable and Non–flammable Phosphate Electrolytes for Sodium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76069</link>
+<guid isPermaLink="false">10.1002/smll.76069</guid>
+<pubDate>Wed, 14 Oct 2026 13:02:16 GMT</pubDate>
+<description>افزودن 1,2-difluorobenzene به الکترولیت فسفات غلیظ موضعی، با مشارکت در واکنش‌های بین‌سطحی و تشکیل SEI/CEI پایدار، باتری سدیم‌فلزی غیرقابل‌اشتعال با پایداری چرخه‌ای بالا فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 DFB is introduced as a non-inert diluent for phosphate electrolytes, forming a localized high-concentration system. Unlike conventional diluents, DFB participates in interfacial reactions, creating a bilayer SEI and compact CEI. This yields non-flammable, stable sodium metal batteries with 98.95% coulombic efficiency and 85% capacity retention over 250 cycles, advancing safe grid-scale energy storage.&lt;br&gt;🏷 sodium metal battery · phosphate electrolyte · fluorinated diluent · solid electrolyte interphase · non-flammable electrolyte</description>
+<category>sodium metal battery</category>
+<category>phosphate electrolyte</category>
+<category>fluorinated diluent</category>
+<category>solid electrolyte interphase</category>
+<category>non-flammable electrolyte</category>
+</item>
+<item>
+<title>Stabilizing the Localized O 2 n− for Enhanced Cycling Stability in Li‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/smll.75842</link>
+<guid isPermaLink="false">10.1002/smll.75842</guid>
+<pubDate>Wed, 14 Oct 2026 13:02:05 GMT</pubDate>
+<description>اصلاح هم‌افزاینده با نقص اکسیژن، فاز اسپینل و پوشش TiF4، پایداری چرخه‌ای کاتدهای غنی از لیتیوم را با تثبیت O2n− بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a synergistic strategy combining oxygen vacancies, spinel phase, and TiF₄ coating to stabilize localized O₂ⁿ⁻ in Li-rich cathodes. This interface reconstruction suppresses oxygen release and side reactions while enabling 3D Li⁺ diffusion. Significance: exceptional cycling stability (96% retention after 200 cycles at 2C/5C) and near-zero decay over 300 cycles at 1C, advancing practical Li-rich cathode applications.&lt;br&gt;🏷 Li-rich cathode · oxygen vacancies · spinel phase · TiF4 coating · cycling stability</description>
+<category>Li-rich cathode</category>
+<category>oxygen vacancies</category>
+<category>spinel phase</category>
+<category>TiF4 coating</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Facet‐Regulated MOF Nanosheets Enable Ion‐Selective Separators for Stable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smm2.70119</link>
+<guid isPermaLink="false">10.1002/smm2.70119</guid>
+<pubDate>Wed, 14 Oct 2026 13:02:00 GMT</pubDate>
+<description>نانوصفحات MOF با وجوه تنظیم‌شده، جداکننده یون‌گزین برای باتری لیتیوم-فلز ساخته و رشد دندریت را با انتقال انتخابی Li+ سرکوب می‌کند.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Facet engineering of MOF nanosheets yields ion-selective separators for lithium metal batteries. Gluconate anions adsorb on high-energy facets, suppressing vertical growth to form ultrathin Zn(bim)(OAc) nanosheets. Coated on polypropylene, they anchor anions and boost Li⁺ transference (0.73), suppressing dendrites over 1000 h and retaining 85% capacity after 500 cycles. This offers a general strategy for stable lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · MOF nanosheets · ion-selective separator · facet engineering · dendrite suppression</description>
+<category>lithium metal battery</category>
+<category>MOF nanosheets</category>
+<category>ion-selective separator</category>
+<category>facet engineering</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Breaking the High-Voltage Limit of Na2CO3 Presodiation: An Interfacial Engineering Approach to Ampere-Hour Sodium-Ion Devices</title>
 <link>https://doi.org/10.1021/acsnano.6c11812</link>
@@ -1170,42 +1206,6 @@
 <category>solid electrolyte interphase</category>
 <category>aramid separator</category>
 <category>interfacial solvation</category>
-</item>
-<item>
-<title>Pre‐Intercalated Cation Optimizing Proton Topochemistry for High‐Performance Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75300</link>
-<guid isPermaLink="false">10.1002/adma.75300</guid>
-<pubDate>Mon, 12 Oct 2026 16:01:25 GMT</pubDate>
-<description>پیش‌درج‌شدن K+ در K0.5V6O13 شبکه هیدروژنی را بهینه کرده و انتقال پروتون فوق‌سریع را در باتری آبی یون روی با ظرفیت بالا و پایداری چرخه‌ای عالی فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Pre-intercalated K⁺ in K₀.₅V₆O₁₃ reinforces the vanadium framework and optimizes the confined lattice-water hydrogen-bonded network, enabling ultrafast proton transport. This proton topochemistry optimization yields 462.9 mAh g⁻¹ at 0.2 A g⁻¹, 82.3% retention over 20000 cycles, and stable pouch-cell cycling at high mass loading, offering new design principles for high-performance aqueous zinc-ion battery cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · proton storage · pre-intercalated cation · K0.5V6O13 cathode · ultrafast proton transport</description>
-<category>aqueous zinc-ion battery</category>
-<category>proton storage</category>
-<category>pre-intercalated cation</category>
-<category>K0.5V6O13 cathode</category>
-<category>ultrafast proton transport</category>
-</item>
-<item>
-<title>Anion-Regulating Separator for Simultaneous Control of electrode–electrolyte and Li+ Transport in Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ta04595b</link>
-<guid isPermaLink="false">10.1039/d6ta04595b</guid>
-<pubDate>Mon, 12 Oct 2026 14:01:45 GMT</pubDate>
-<description>یک جداکننده تنظیم‌کننده آنیون برای کنترل همزمان الکترود-الکترولیت و انتقال Li+ در باتری‌های فلز لیتیوم پایدار با کاتد غنی از نیکل ارائه می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an anion-regulating separator that simultaneously controls electrode–electrolyte interactions and Li+ transport. This dual regulation suppresses parasitic reactions and dendrite growth, enabling stable lithium metal batteries with Ni-rich cathodes. The approach offers a promising, scalable strategy for high-energy-density LMBs.&lt;br&gt;🏷 lithium metal battery · separator · anion regulation · Li+ transport · Ni-rich cathode</description>
-<category>lithium metal battery</category>
-<category>separator</category>
-<category>anion regulation</category>
-<category>Li+ transport</category>
-<category>Ni-rich cathode</category>
-</item>
-<item>
-<title>LiSbCl6: A Missing Piece in the Framework Diversity of Lithium Halides with Limited Substitution Tolerance</title>
-<link>https://doi.org/10.1039/d6ta06558a</link>
-<guid isPermaLink="false">10.1039/d6ta06558a</guid>
-<pubDate>Mon, 12 Oct 2026 14:01:25 GMT</pubDate>
-<description>LiSbCl6 به عنوان یک هالید لیتیوم جدید معرفی می‌شود که تنوع ساختاری الکترولیت‌های جامد را گسترش می‌دهد و تحمل جانشینی محدودی دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 LiSbCl6 is identified as a previously missing structural member in lithium halide solid electrolytes, expanding framework diversity. Its limited substitution tolerance reveals narrow compositional windows for stabilizing such phases, offering new insight into design rules for fast-ion conductors and highlighting structural constraints that govern ionic transport in lithium halides.&lt;br&gt;🏷 lithium halide · solid electrolyte · ionic conductivity · LiSbCl6 · substitution tolerance</description>
-<category>lithium halide</category>
-<category>solid electrolyte</category>
-<category>ionic conductivity</category>
-<category>LiSbCl6</category>
-<category>substitution tolerance</category>
 </item>
 </channel>
 </rss>
