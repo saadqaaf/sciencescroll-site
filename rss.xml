@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 04:02:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 05:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Effect of Polymer Emulsion Impregnation on Fatigue Tensile Properties and Damage Evolution Mechanism of Carbon Fiber Bundles</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114289</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114289</guid>
+<pubDate>Wed, 14 Oct 2026 05:01:05 GMT</pubDate>
+<description>اثر اشباع با امولسیون پلیمری بر خواص کششی خستگی و سازوکار تکامل آسیب بسته‌های الیاف کربن بررسی می‌شود.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 carbon fiber bundle · polymer emulsion · fatigue tensile · damage evolution · impregnation</description>
+<category>carbon fiber bundle</category>
+<category>polymer emulsion</category>
+<category>fatigue tensile</category>
+<category>damage evolution</category>
+<category>impregnation</category>
+</item>
+<item>
+<title>A Skin-like Hydrogel with Multidimensional Fillers for Stable Human–Machine Interaction</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03665</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03665</guid>
+<pubDate>Wed, 14 Oct 2026 05:01:01 GMT</pubDate>
+<description>هیدروژل رسانای PVA/PVP با پرکننده‌های PDA، CNT و MXene به‌عنوان پوست الکترونیکی خودچسب و کشسان برای حسگری چندحالته و رابط انسان-ماشین غیرتماسی ساخته شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 hydrogel e-skin · MXene · carbon nanotubes · human-machine interface · strain sensor</description>
+<category>hydrogel e-skin</category>
+<category>MXene</category>
+<category>carbon nanotubes</category>
+<category>human-machine interface</category>
+<category>strain sensor</category>
+</item>
 <item>
 <title>A-site defect dipole design for enhanced polarization toward optimized energy storage performance in BaTiO3-based ceramics</title>
 <link>https://doi.org/10.1016/j.est.2026.125024</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 sulfoximines · C–H act
 <category>single-gene nanoscopy</category>
 <category>chromatin looping</category>
 <category>gene regulation</category>
-</item>
-<item>
-<title>PTPRS mediates invasion of tetanus neurotoxin into the central nervous system</title>
-<link>https://doi.org/10.1016/j.cell.2026.09.026</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.09.026</guid>
-<pubDate>Tue, 13 Oct 2026 19:01:19 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که گیرنده PTPRS در ورود توکسین کزاز به دستگاه عصبی مرکزی نقش واسطه‌ای دارد و مکانیسم تهاجم را روشن می‌کند.&lt;br&gt;Cell | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 tetanus neurotoxin · PTPRS · central nervous system · invasion mechanism · receptor</description>
-<category>tetanus neurotoxin</category>
-<category>PTPRS</category>
-<category>central nervous system</category>
-<category>invasion mechanism</category>
-<category>receptor</category>
-</item>
-<item>
-<title>Dielectric Interfaces Reshape Dynamic Single-Molecule Optical Fingerprints in Nanometer-Thick Polymer Films</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04137</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04137</guid>
-<pubDate>Tue, 13 Oct 2026 19:01:12 GMT</pubDate>
-<description>با ترکیب تصویربرداری قطبشی و شمارش تک‌فوتونی، جهت و عمر فلورسانس مولکول‌های PDI در فیلم‌های نازک پلیمری بررسی شد و ناهمگونی ناشی از موقعیت عمقی مولکول‌ها نشان داده شد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-molecule fluorescence · dielectric interfaces · polymer thin films · dipole orientation · fluorescence lifetime</description>
-<category>single-molecule fluorescence</category>
-<category>dielectric interfaces</category>
-<category>polymer thin films</category>
-<category>dipole orientation</category>
-<category>fluorescence lifetime</category>
 </item>
 </channel>
 </rss>
