@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 07:02:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Universal Spin‐Polarization‐Engineered Antibonding‐Orbital Modulation Paradigm for Accelerating Reaction Kinetics in Ultrahigh‐Rate Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75302</link>
+<guid isPermaLink="false">10.1002/adma.75302</guid>
+<pubDate>Wed, 14 Oct 2026 08:01:44 GMT</pubDate>
+<description>این مقاله با مهندسی قطبش اسپینی و تنظیم اوربیتال آنتیباندینگ، سینتیک واکنش آندهای تبدیل-type را تسریع و نرخ فوقبالای ذخیرهسازی سدیم را ممکن میکند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a universal spin-polarization-engineered antibonding-orbital modulation paradigm to weaken robust M─S bonds, overcoming intrinsic kinetic barriers in conversion anodes. Magnetic Mn doping induces a low-to-high spin transition, boosting antibonding electron occupancy. The resulting Mn-FeS₂/CoS₂ anode achieves 300 mAh g⁻¹ at 120 A g⁻¹ and 13,000-cycle stability, validating a general strategy for ultrahigh-rate sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · conversion anode · spin polarization · antibonding orbital · ultrahigh rate</description>
+<category>sodium-ion battery</category>
+<category>conversion anode</category>
+<category>spin polarization</category>
+<category>antibonding orbital</category>
+<category>ultrahigh rate</category>
+</item>
 <item>
 <title>Where is my graphene battery?</title>
 <link>https://doi.org/10.1038/s41565-026-02279-x</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>ion flux regulation</category>
 <category>anion sieving</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Topochemical Engineering of Two‐Dimensional MXenes and Beyond</title>
-<link>https://doi.org/10.1002/adma.75353</link>
-<guid isPermaLink="false">10.1002/adma.75353</guid>
-<pubDate>Mon, 12 Oct 2026 06:01:15 GMT</pubDate>
-<description>این مرور، مهندسی توپوشیمیایی MXenes و دیگر مواد دوبعدی را با چهار راهبرد تبدیل، پایانه‌گذاری، جانشینی و تبدیل ساختاری برای ذخیره‌سازی و تبدیل انرژی الکتروشیمیایی بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely systematizes topochemical engineering of MXenes and other 2D materials into four core strategies—conversion, termination, substitution, and transformation—establishing classification criteria and structure–performance correlations for electrochemical energy applications. It provides design principles and guidelines for atomic-level material tailoring, offering critical direction for rational development of next-generation 2D functional materials.&lt;br&gt;🏷 MXenes · topochemical engineering · 2D materials · energy storage · structure-performance correlation</description>
-<category>MXenes</category>
-<category>topochemical engineering</category>
-<category>2D materials</category>
-<category>energy storage</category>
-<category>structure-performance correlation</category>
 </item>
 </channel>
 </rss>
