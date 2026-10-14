@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 18:01:33 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 19:02:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors</title>
+<link>https://doi.org/10.1002/adma.75368</link>
+<guid isPermaLink="false">10.1002/adma.75368</guid>
+<pubDate>Wed, 14 Oct 2026 19:02:07 GMT</pubDate>
+<description>نانوذرات نابجایی در فویل مس تجاری، مکان‌های هسته‌زنی مطلوب برای لیتیوم فراهم کرده و رسوب یکنواخت لیتیوم را در باتری فلزی لیتیوم پایدار می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces dislocation-mediated nucleation as a new design principle for practical polycrystalline Cu collectors, beyond facet engineering. Dense geometrically necessary dislocations provide favorable Li adsorption and nucleation sites, while &amp;lt;110&amp;gt;/&amp;lt;111&amp;gt; textures promote lateral growth, enabling uniform Li deposition, 99.52% Coulombic efficiency over 1200 cycles, and improved N/P=0 full cells.&lt;br&gt;🏷 lithium metal battery · dislocation · nucleation · copper collector · dendrite suppression</description>
+<category>lithium metal battery</category>
+<category>dislocation</category>
+<category>nucleation</category>
+<category>copper collector</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Electrolyte design toward stable layered oxide cathodes of sodium-ion batteries</title>
+<link>https://doi.org/10.1039/d6ee03563a</link>
+<guid isPermaLink="false">10.1039/d6ee03563a</guid>
+<pubDate>Wed, 14 Oct 2026 19:01:34 GMT</pubDate>
+<description>این مرور، تخریب کاتدهای اکسید لایه‌ای در باتری‌های یون سدیم را از دیدگاه الکترولیت تحلیل کرده و اصول طراحی الکترولیت و سیستم‌های سنتی و نوظهور را ارائه می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review&lt;br&gt;💡 This review uniquely reframes layered oxide cathode degradation in sodium-ion batteries through an electrolyte-centric lens, rather than focusing solely on cathode modification. It proposes actionable electrolyte design principles and systematically compares traditional and emerging systems, offering a roadmap to stabilize high-energy cathodes and advance practical sodium-ion battery development.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · electrolyte design · cathode degradation · interfacial stability</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>electrolyte design</category>
+<category>cathode degradation</category>
+<category>interfacial stability</category>
+</item>
 <item>
 <title>Electrochemical energy conversion beyond Earth</title>
 <link>https://doi.org/10.1016/j.joule.2026.102708</link>
@@ -1182,30 +1206,6 @@
 <category>federated learning</category>
 <category>contrastive representation learning</category>
 <category>health-aware</category>
-</item>
-<item>
-<title>Performance of a 5 V-Class Thin-Film Li Battery at a High Current Density of ∼30 mA cm–2</title>
-<link>https://doi.org/10.1021/acsnano.6c13776</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13776</guid>
-<pubDate>Mon, 12 Oct 2026 20:02:05 GMT</pubDate>
-<description>باتری تمام‌حالت Li با الکترولیت Li3PS4 و کاتد 5V LiNi0.5Mn1.5O4 با لایه‌های بافر Li3PO4 و Pt در چگالی جریان ۳۰ mA cm⁻² کار می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in achieving 30 mA cm–2 charge–discharge in a 5 V-class all-solid-state Li battery using Li3PO4 buffer layers, which cut interfacial resistance 45,000-fold, or a 5 nm Pt layer at the Li–Li3PS4 interface. This demonstrates that engineering electrochemically robust negative electrode–electrolyte interfaces is critical for high-power, rapid-charging solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · Li3PS4 · interfacial resistance · high current density · LiNi0.5Mn1.5O4</description>
-<category>all-solid-state battery</category>
-<category>Li3PS4</category>
-<category>interfacial resistance</category>
-<category>high current density</category>
-<category>LiNi0.5Mn1.5O4</category>
-</item>
-<item>
-<title>Addressing the Zinc Corrosion Conundrum: The Vital Role of Resting-State Kinetics</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02361</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02361</guid>
-<pubDate>Mon, 12 Oct 2026 19:02:11 GMT</pubDate>
-<description>این مقاله مکانیسم خوردگی گالوانیکی در باتری‌های آبی روی را بر پایه ترمودینامیک و سینتیک الکتروشیمیایی بررسی کرده و راهکارهایی برای کاهش آن ارائه می‌دهد.&lt;br&gt;ACS Energy Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This work uniquely frames zinc corrosion in AZMBs through electrochemical thermodynamics and kinetics, highlighting resting-state capacity loss often overlooked. It offers a unified mechanism linking galvanic corrosion to HER during plating/stripping, and proposes new directions for predicting and mitigating corrosion, advancing anode stability understanding.&lt;br&gt;🏷 zinc corrosion · aqueous zinc battery · resting-state kinetics · hydrogen evolution · anode performance</description>
-<category>zinc corrosion</category>
-<category>aqueous zinc battery</category>
-<category>resting-state kinetics</category>
-<category>hydrogen evolution</category>
-<category>anode performance</category>
 </item>
 </channel>
 </rss>
