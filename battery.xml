@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 03:02:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sulfur-functionalized binary transition metal Mo2Ti2C3 MXene for long-life hybrid sodium-ion capacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125076</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125076</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:58 GMT</pubDate>
+<description>مکسین Mo2Ti2C3 دوگانه فلز واسطه عامل‌دار شده با گوگرد برای خازن‌های هیبریدی سدیم-یون با عمر طولانی طراحی شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion capacitor · MXene · sulfur functionalization · hybrid capacitor · long-life</description>
+<category>sodium-ion capacitor</category>
+<category>MXene</category>
+<category>sulfur functionalization</category>
+<category>hybrid capacitor</category>
+<category>long-life</category>
+</item>
+<item>
+<title>Coupling mechanism of internal polarization evolution and 3D thermal behavior in lithium-ion batteries under high-rate discharge</title>
+<link>https://doi.org/10.1016/j.est.2026.125084</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125084</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:49 GMT</pubDate>
+<description>این مقاله سازوکار جفت‌شدگی بین تحول قطبش داخلی و رفتار حرارتی سه‌بعدی در باتری‌های لیتیوم-یون را در تخلیه با نرخ بالا بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · internal polarization · thermal behavior · high-rate discharge · coupling mechanism</description>
+<category>lithium-ion battery</category>
+<category>internal polarization</category>
+<category>thermal behavior</category>
+<category>high-rate discharge</category>
+<category>coupling mechanism</category>
+</item>
+<item>
+<title>Synergistic co-intercalation of binary and ternary transition-metal cations in hydrated vanadium oxide nanosheets for high-performance aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124873</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124873</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:44 GMT</pubDate>
+<description>هم‌درآمیزی هم‌افزای کاتیون‌های فلزات واسطه دوگانه و سه‌گانه در نانوصفحات اکسید وانادیم آبدار، عملکرد باتری‌های آبی یون روی را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · vanadium oxide · co-intercalation · transition-metal cations · nanosheets</description>
+<category>aqueous zinc-ion battery</category>
+<category>vanadium oxide</category>
+<category>co-intercalation</category>
+<category>transition-metal cations</category>
+<category>nanosheets</category>
+</item>
 <item>
 <title>Unraveling dielectric properties regulated electric double layer for high-power lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.067</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>nitrogen doping</category>
 <category>urea activation</category>
 <category>porous carbon</category>
-</item>
-<item>
-<title>Failure‐Guided Coupling of Interphase and Solvation Chemistry for Durable Aqueous Zn–S Batteries</title>
-<link>https://doi.org/10.1002/smll.76154</link>
-<guid isPermaLink="false">10.1002/smll.76154</guid>
-<pubDate>Mon, 12 Oct 2026 01:01:44 GMT</pubDate>
-<description>افزودنی IAM با تنظیم هم‌زمان بین‌فاز و حلال‌پوشی، پایداری آند Zn و عملکرد باتری آبی Zn-S را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work identifies Zn anode polarization and short-circuiting—not sulfur loss—as the dominant failure mode in iodine-mediated Zn–S batteries. Guided by this diagnosis, iodoacetamide couples interphase and solvation regulation, forming a gradient interphase and modulating Zn2+ coordination. The result is 2000-cycle Zn||Cu stability and 75.95% capacity retention over 550 cycles, offering a practical design principle for durable aqueous Zn–S batteries.&lt;br&gt;🏷 Zn-S battery · iodoacetamide additive · interphase · solvation regulation · Zn anode</description>
-<category>Zn-S battery</category>
-<category>iodoacetamide additive</category>
-<category>interphase</category>
-<category>solvation regulation</category>
-<category>Zn anode</category>
-</item>
-<item>
-<title>Diluent Conformational Flexibility Enhances Interfacial Kinetics in Safe High‐Voltage Potassium Batteries</title>
-<link>https://doi.org/10.1002/smll.76224</link>
-<guid isPermaLink="false">10.1002/smll.76224</guid>
-<pubDate>Mon, 12 Oct 2026 01:01:40 GMT</pubDate>
-<description>انعطاف‌پذیری کنفورماسیونی رقیق‌کننده در الکترولیت فسفات‌دار، سینتیک بین‌سطحی و عملکرد باتری پتاسیم ولتاژ بالا را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work reveals diluent conformational flexibility as a new molecular design dimension controlling instantaneous solvation-state distributions, beyond conventional coordination numbers. Flexible diluents create rich, uniform solvation states, boosting exchange current density and interfacial kinetics. This enables safe phosphate-based potassium batteries with 1400-cycle graphite stability, 4.5 V Prussian blue operation, and 93.6% retention over 900 cycles.&lt;br&gt;🏷 potassium battery · diluent flexibility · solvation state · interfacial kinetics · high voltage</description>
-<category>potassium battery</category>
-<category>diluent flexibility</category>
-<category>solvation state</category>
-<category>interfacial kinetics</category>
-<category>high voltage</category>
-</item>
-<item>
-<title>Enhanced High‐Voltage Fast‐Charging Capability for Lithium‐Ion Battery Cathodes via Multifunctional Biphasic Interfacial Engineering</title>
-<link>https://doi.org/10.1002/smll.76223</link>
-<guid isPermaLink="false">10.1002/smll.76223</guid>
-<pubDate>Mon, 12 Oct 2026 01:01:34 GMT</pubDate>
-<description>مهندسی بین‌سطحی دوفازی با هم‌دوپینگ B/Al در کاتد غنی از لیتیوم، شارژ سریع در ولتاژ بالا را بهبود می‌بخشد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The work introduces a multifunctional biphasic shell—amorphous Li₂B₄O₇ over an in-situ spinel phase—combined with B/Al co-doping in Li-rich Mn-based cathodes. This dual interface/surface engineering simultaneously enhances Li⁺ kinetics, suppresses side reactions, and stabilizes structure, enabling 138 mAh g⁻¹ at 5 C and 90.07% retention after 300 cycles at 2.0–4.8 V, advancing high-voltage fast-charging battery design.&lt;br&gt;🏷 Li-rich cathode · biphasic interface · fast charging · high voltage · B/Al co-doping</description>
-<category>Li-rich cathode</category>
-<category>biphasic interface</category>
-<category>fast charging</category>
-<category>high voltage</category>
-<category>B/Al co-doping</category>
 </item>
 </channel>
 </rss>

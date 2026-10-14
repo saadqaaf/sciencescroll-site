@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 03:02:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A-site defect dipole design for enhanced polarization toward optimized energy storage performance in BaTiO3-based ceramics</title>
+<link>https://doi.org/10.1016/j.est.2026.125024</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125024</guid>
+<pubDate>Wed, 14 Oct 2026 04:02:01 GMT</pubDate>
+<description>طراحی دوقطبی نقص در جایگاه A برای افزایش قطبش و بهینه‌سازی عملکرد ذخیره انرژی در سرامیک‌های بر پایه BaTiO3 انجام شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 BaTiO3 ceramics · energy storage · defect dipole · polarization · A-site defect</description>
+<category>BaTiO3 ceramics</category>
+<category>energy storage</category>
+<category>defect dipole</category>
+<category>polarization</category>
+<category>A-site defect</category>
+</item>
+<item>
+<title>Sulfur-functionalized binary transition metal Mo2Ti2C3 MXene for long-life hybrid sodium-ion capacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125076</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125076</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:58 GMT</pubDate>
+<description>مکسین Mo2Ti2C3 دوگانه فلز واسطه عامل‌دار شده با گوگرد برای خازن‌های هیبریدی سدیم-یون با عمر طولانی طراحی شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion capacitor · MXene · sulfur functionalization · hybrid capacitor · long-life</description>
+<category>sodium-ion capacitor</category>
+<category>MXene</category>
+<category>sulfur functionalization</category>
+<category>hybrid capacitor</category>
+<category>long-life</category>
+</item>
+<item>
+<title>Coupling mechanism of internal polarization evolution and 3D thermal behavior in lithium-ion batteries under high-rate discharge</title>
+<link>https://doi.org/10.1016/j.est.2026.125084</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125084</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:49 GMT</pubDate>
+<description>این مقاله سازوکار جفت‌شدگی بین تحول قطبش داخلی و رفتار حرارتی سه‌بعدی در باتری‌های لیتیوم-یون را در تخلیه با نرخ بالا بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · internal polarization · thermal behavior · high-rate discharge · coupling mechanism</description>
+<category>lithium-ion battery</category>
+<category>internal polarization</category>
+<category>thermal behavior</category>
+<category>high-rate discharge</category>
+<category>coupling mechanism</category>
+</item>
+<item>
+<title>Synergistic co-intercalation of binary and ternary transition-metal cations in hydrated vanadium oxide nanosheets for high-performance aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124873</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124873</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:44 GMT</pubDate>
+<description>هم‌درآمیزی هم‌افزای کاتیون‌های فلزات واسطه دوگانه و سه‌گانه در نانوصفحات اکسید وانادیم آبدار، عملکرد باتری‌های آبی یون روی را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · vanadium oxide · co-intercalation · transition-metal cations · nanosheets</description>
+<category>aqueous zinc-ion battery</category>
+<category>vanadium oxide</category>
+<category>co-intercalation</category>
+<category>transition-metal cations</category>
+<category>nanosheets</category>
+</item>
+<item>
+<title>Superlinear increase in productivity of laser powder bed fusion through synchronized multi-laser scanning</title>
+<link>https://doi.org/10.1016/j.addma.2026.105396</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105396</guid>
+<pubDate>Wed, 14 Oct 2026 04:01:29 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که اسکن همزمان چند لیزر در فرآیند ذوب بستر پودری لیزری، به افزایش فوق‌خطی بهره‌وری منجر می‌شود.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 laser powder bed fusion · multi-laser scanning · additive manufacturing · productivity · superlinear increase</description>
+<category>laser powder bed fusion</category>
+<category>multi-laser scanning</category>
+<category>additive manufacturing</category>
+<category>productivity</category>
+<category>superlinear increase</category>
+</item>
 <item>
 <title>Alkaline-Oxidative Reconstruction-Mediated Ultramicropore Engineering of Reed Straw-Derived Porous Carbons for Efficient CO2 Capture</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122199</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 sulfoximines · C–H act
 <category>polymer thin films</category>
 <category>dipole orientation</category>
 <category>fluorescence lifetime</category>
-</item>
-<item>
-<title>Aging modeling of lithium-ion cells by integrating active material loss, electrolyte degradation, solid electrolyte interphase growth, and lithium plating</title>
-<link>https://doi.org/10.1016/j.est.2026.125113</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125113</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:34 GMT</pubDate>
-<description>مدل‌سازی پیری سلول‌های لیتیوم-یون با تلفیق افت ماده فعال، تخریب الکترولیت، رشد SEI و آبکاری لیتیوم ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · aging modeling · SEI growth · lithium plating · active material loss</description>
-<category>lithium-ion battery</category>
-<category>aging modeling</category>
-<category>SEI growth</category>
-<category>lithium plating</category>
-<category>active material loss</category>
-</item>
-<item>
-<title>Unveiling the effect of precursor concentration on pseudocapacitive performance of hydrothermally grown binder-free zinc cobalt oxide films</title>
-<link>https://doi.org/10.1016/j.est.2026.124914</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124914</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:31 GMT</pubDate>
-<description>اثر غلظت پیش‌ماده بر عملکرد شبه‌خازنی فیلم‌های بدون چسبنده اکسید روی-کبالت رشد یافته به روش هیدروترمال بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc cobalt oxide · pseudocapacitance · hydrothermal growth · binder-free films · precursor concentration</description>
-<category>zinc cobalt oxide</category>
-<category>pseudocapacitance</category>
-<category>hydrothermal growth</category>
-<category>binder-free films</category>
-<category>precursor concentration</category>
-</item>
-<item>
-<title>Neural surrogate-based model predictive control for compressed air energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125126</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125126</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:27 GMT</pubDate>
-<description>کنترل پیش‌بین مدل مبتنی بر جانشین عصبی برای ذخیره‌سازی انرژی هوای فشرده ارائه و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 compressed air energy storage · model predictive control · neural surrogate · optimal control · energy storage</description>
-<category>compressed air energy storage</category>
-<category>model predictive control</category>
-<category>neural surrogate</category>
-<category>optimal control</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Tripartite evolutionary game and dynamic governance of cloud energy storage innovation ecosystems under technological trust shocks</title>
-<link>https://doi.org/10.1016/j.est.2026.124981</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124981</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:23 GMT</pubDate>
-<description>بازی تکاملی سه‌جانبه و حاکمیت پویا در بوم‌سازگان نوآوری ذخیره‌سازی انرژی ابری تحت شوک‌های اعتماد فناورانه تحلیل می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cloud energy storage · evolutionary game · dynamic governance · trust shocks · innovation ecosystem</description>
-<category>cloud energy storage</category>
-<category>evolutionary game</category>
-<category>dynamic governance</category>
-<category>trust shocks</category>
-<category>innovation ecosystem</category>
-</item>
-<item>
-<title>Multi-objective optimization design of a thermal management system for large-capacity energy storage batteries coupling liquid cooling, phase change material and bio-inspired fins</title>
-<link>https://doi.org/10.1016/j.est.2026.125090</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125090</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:19 GMT</pubDate>
-<description>بهینه‌سازی چندهدفه سیستم مدیریت حرارتی باتری‌های ذخیره‌ساز بزرگ با ترکیب خنک‌کاری مایع، ماده تغییر فاز و پره‌های الهام‌گرفته از طبیعت انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · phase change material · liquid cooling · bio-inspired fins · multi-objective optimization</description>
-<category>battery thermal management</category>
-<category>phase change material</category>
-<category>liquid cooling</category>
-<category>bio-inspired fins</category>
-<category>multi-objective optimization</category>
 </item>
 </channel>
 </rss>
