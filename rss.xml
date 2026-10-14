@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 09:01:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 10:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>‘Topological Defects in Carbon Catalysts for Electron Transfer in Non-radical Peroxydisulfate Oxidation</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127639</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127639</guid>
+<pubDate>Wed, 14 Oct 2026 10:01:21 GMT</pubDate>
+<description>این مقاله نقش نقص‌های توپولوژیکی در کاتالیزورهای کربنی را برای انتقال الکترون در اکسیداسیون غیررادیکالی peroxydisulfate بررسی می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 topological defects · carbon catalysts · peroxydisulfate oxidation · electron transfer · non-radical pathway</description>
+<category>topological defects</category>
+<category>carbon catalysts</category>
+<category>peroxydisulfate oxidation</category>
+<category>electron transfer</category>
+<category>non-radical pathway</category>
+</item>
+<item>
+<title>Thermo‐Catalytic Routes and the Emerging Potential of Photo‐Enhanced Strategies for Sustainable Aviation Fuel Production</title>
+<link>https://doi.org/10.1002/sus2.70101</link>
+<guid isPermaLink="false">10.1002/sus2.70101</guid>
+<pubDate>Wed, 14 Oct 2026 10:01:18 GMT</pubDate>
+<description>این مرور، مسیرهای ترموکاتالیستی و استراتژی‌های فوتوکاتالیستی و فوتوالکتروکاتالیستی برای تولید سوخت هوانوردی پایدار از CO2 و H2 را بررسی می‌کند.&lt;br&gt;SusMat | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 sustainable aviation fuel · thermo-catalytic conversion · CO2 hydrogenation · Fischer-Tropsch · photocatalysis</description>
+<category>sustainable aviation fuel</category>
+<category>thermo-catalytic conversion</category>
+<category>CO2 hydrogenation</category>
+<category>Fischer-Tropsch</category>
+<category>photocatalysis</category>
+</item>
 <item>
 <title>Unveiling Structure‐Activity Relationship With Structurally Defined and Stabilized Cu‐Based Molecular Hybrid Electrocatalysts in CO 2 Electroreduction</title>
 <link>https://doi.org/10.1002/exp2.70231</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 sulfoximines · C–H act
 <category>VOC interception</category>
 <category>solar evaporation</category>
 <category>single-atom catalyst</category>
-</item>
-<item>
-<title>Nanointerface engineering of leach-resistant hybrid graphene oxide-metal oxide-sand composites for sustainable removal of emerging pollutants</title>
-<link>https://doi.org/10.1007/s42114-026-02094-x</link>
-<guid isPermaLink="false">10.1007/s42114-026-02094-x</guid>
-<pubDate>Wed, 14 Oct 2026 00:01:23 GMT</pubDate>
-<description>این پژوهش با مهندسی نانوواسط، کامپوزیت‌های هیبریدی گرافن اکسید-اکسید فلز-شن مقاوم به شستشو برای حذف پایدار آلاینده‌های نوظهور می‌سازد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene oxide · metal oxide · sand composite · emerging pollutants · leach resistance</description>
-<category>graphene oxide</category>
-<category>metal oxide</category>
-<category>sand composite</category>
-<category>emerging pollutants</category>
-<category>leach resistance</category>
-</item>
-<item>
-<title>A systematic survey on iron-oxo clusters’ structure and function</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218560</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218560</guid>
-<pubDate>Tue, 13 Oct 2026 23:01:57 GMT</pubDate>
-<description>این مرور سیستماتیک، ساختار و عملکرد خوشه‌های آهن-اکسو و کاربردهای آن‌ها را جمع‌بندی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 iron-oxo clusters · structure-function · polyoxometalates · magnetic properties · catalysis</description>
-<category>iron-oxo clusters</category>
-<category>structure-function</category>
-<category>polyoxometalates</category>
-<category>magnetic properties</category>
-<category>catalysis</category>
 </item>
 </channel>
 </rss>
