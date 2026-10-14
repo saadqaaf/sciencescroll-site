@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 08:01:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 09:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sodium‐Ion Battery Technology: Advances and Challenges</title>
+<link>https://doi.org/10.1002/aenm.71689</link>
+<guid isPermaLink="false">10.1002/aenm.71689</guid>
+<pubDate>Wed, 14 Oct 2026 09:01:47 GMT</pubDate>
+<description>این مقاله مروری به پیشرفت‌ها و چالش‌های فناوری باتری یون-سدیم می‌پردازد و وضعیت فعلی مواد و عملکرد آن را بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;🏷 sodium-ion battery · energy storage · electrode materials · electrolytes · challenges</description>
+<category>sodium-ion battery</category>
+<category>energy storage</category>
+<category>electrode materials</category>
+<category>electrolytes</category>
+<category>challenges</category>
+</item>
+<item>
+<title>Molecular Design of Fluorinated Ester Electrolytes via Skeleton Regulation Enables Aggressive Cathode Chemistries in 5V‐Class Fast‐Charging Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71705</link>
+<guid isPermaLink="false">10.1002/aenm.71705</guid>
+<pubDate>Wed, 14 Oct 2026 09:01:42 GMT</pubDate>
+<description>طراحی استرهای تری‌فلورومتیل‌دار با تنظیم اسکلت مولکولی، الکترولیتی برای باتری لیتیوم-یونی 5V کلاس با شارژ سریع فراهم می‌کند که در سلول‌های LNMO||Gr ظرفیت 78% در نرخ 6C را حفظ می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals that the position of ‐CF3 relative to the carbonyl in fluorinated ester solvents dictates solvation structure, ionic conductivity, and oxidation resistance. β-substitution (MTFP) uniquely balances high-voltage stability and fast charging, enabling Ah-level LNMO||Gr pouch cells with 78% retention at 6C and 300 stable cycles at 3C.&lt;br&gt;🏷 lithium-ion battery · fluorinated ester electrolyte · high-voltage cathode · fast charging · LNMO</description>
+<category>lithium-ion battery</category>
+<category>fluorinated ester electrolyte</category>
+<category>high-voltage cathode</category>
+<category>fast charging</category>
+<category>LNMO</category>
+</item>
 <item>
 <title>A Universal Spin‐Polarization‐Engineered Antibonding‐Orbital Modulation Paradigm for Accelerating Reaction Kinetics in Ultrahigh‐Rate Sodium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adma.75302</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>solvation chemistry</category>
 <category>solid electrolyte interphase</category>
 <category>Mg deposition</category>
-</item>
-<item>
-<title>A High‐Performance Flexible All‐Solid‐State Supercapacitor Integrating 3D Interpenetrating MXene/GNS@CC Electrodes and a Self‐Healing Hydrogel Electrolyte</title>
-<link>https://doi.org/10.1002/adfm.78953</link>
-<guid isPermaLink="false">10.1002/adfm.78953</guid>
-<pubDate>Mon, 12 Oct 2026 09:02:32 GMT</pubDate>
-<description>ابرخازن تمام‌جامد انعطاف‌پذیر با الکترود MXene/GNS@CC و الکترولیت هیدروژل خودترمیم، چگالی انرژی 195.37 µWh·cm−2 و ظرفیت 1152.03 mF·cm−2 را ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a one-step electrophoretic deposition of a 3D interpenetrating MXene/graphene nanoscroll electrode combined with a self-healing PVA-PDA hydrogel electrolyte. This yields high areal capacitance (6880.60 mF·cm⁻²), energy density (195.37 µWh·cm⁻²), and 87.32% capacitance retention after four cutting/healing cycles, advancing flexible self-healing energy storage.&lt;br&gt;🏷 MXene electrode · self-healing supercapacitor · hydrogel electrolyte · graphene nanoscrolls · flexible device</description>
-<category>MXene electrode</category>
-<category>self-healing supercapacitor</category>
-<category>hydrogel electrolyte</category>
-<category>graphene nanoscrolls</category>
-<category>flexible device</category>
-</item>
-<item>
-<title>Coordination‐Gated MOF@COF Functional Separators for Regulating Ion Flux in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78954</link>
-<guid isPermaLink="false">10.1002/adfm.78954</guid>
-<pubDate>Mon, 12 Oct 2026 09:01:57 GMT</pubDate>
-<description>جداکننده MOF@COF با دروازه‌بندی هم‌آرایی، شار یون را تنظیم کرده و عملکرد باتری لیتیوم-فلز را در نرخ و ولتاژ بالا بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a coordination-gated anion-sieving separator using a UiO-66@F-COF@Ni core–shell interlayer, where Ni²⁺ centers regulate PF₆⁻ migration and decomposition. Unlike prior affinity-focused designs, it controls anion behavior, enabling uniform Li deposition and inorganic-rich SEI. The result is stable, high-rate, high-voltage lithium metal batteries, offering a practical strategy for advanced separator engineering.&lt;br&gt;🏷 lithium metal battery · MOF@COF separator · ion flux regulation · anion sieving · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>MOF@COF separator</category>
-<category>ion flux regulation</category>
-<category>anion sieving</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
