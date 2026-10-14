@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 14:02:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 16:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Regulating Chemomechanical Interactions in a High-Compaction Na4Fe3(PO4)2P2O7 Cathode for Durable Sodium Storage</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04139</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04139</guid>
+<pubDate>Wed, 14 Oct 2026 16:01:38 GMT</pubDate>
+<description>دوپینگ La در کاتد NFPP تنش مکانیکی و کرنش شبکه را کاهش داده و ظرفیت 90.4 mAh g–1 با پایداری 5000 چرخه را ممکن می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 This work regulates chemomechanical failure in high-compaction Na4Fe3(PO4)2P2O7 by La doping, which refines grains, strengthens Fe–O bonds, and suppresses microcracks and lattice strain. The optimized cathode delivers 90.4 mAh g–1 at 10 C with 92.2% retention over 5000 cycles, plus wide-temperature pouch-cell stability, offering a practical route to durable, high-energy sodium-ion batteries.&lt;br&gt;🏷 Na4Fe3(PO4)2P2O7 · sodium-ion battery · cathode · chemomechanical · La doping</description>
+<category>Na4Fe3(PO4)2P2O7</category>
+<category>sodium-ion battery</category>
+<category>cathode</category>
+<category>chemomechanical</category>
+<category>La doping</category>
+</item>
 <item>
 <title>Disturbance-responsive online lithium-ion battery SOH estimation and analytical knee-point tracking with a Dual-Weibull Physics-Inspired Model</title>
 <link>https://doi.org/10.1016/j.est.2026.125129</link>
@@ -1194,18 +1206,6 @@
 <category>dendrite regulation</category>
 <category>dual-sided interface</category>
 <category>high energy density</category>
-</item>
-<item>
-<title>Multifunctional and Near Zero‐Strain Li‐Rich In‐Li Intermetallic Anodes for Stable Cycling of Li‐S Batteries</title>
-<link>https://doi.org/10.1002/adfm.78972</link>
-<guid isPermaLink="false">10.1002/adfm.78972</guid>
-<pubDate>Mon, 12 Oct 2026 19:01:52 GMT</pubDate>
-<description>آند آلیاژی In3Li13 با ساختار سه‌بعدی، رشد دندریت و کرنش حجمی را در باتری Li-S کاهش داده و ۸۷٫۴٪ ظرفیت را پس از ۶۰۰ چرخه حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Li-rich In₃Li₁₃ intermetallic alloy anode made by simple roll-pressing, which simultaneously suppresses Li dendrites, minimizes volume change via a conductive 3D framework, and reduces polysulfide side reactions. Its significance is enabling stable Li-S batteries with 87.4% retention over 600 cycles, even in pouch cells, offering practical anode design insights.&lt;br&gt;🏷 Li-S battery · In-Li intermetallic · anode · dendrite suppression · near-zero strain</description>
-<category>Li-S battery</category>
-<category>In-Li intermetallic</category>
-<category>anode</category>
-<category>dendrite suppression</category>
-<category>near-zero strain</category>
 </item>
 </channel>
 </rss>
