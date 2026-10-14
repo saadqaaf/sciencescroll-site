@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 00:01:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>HIP: Hessian Interatomic Potentials without derivatives</title>
+<link>https://doi.org/10.1038/s43588-026-01066-x</link>
+<guid isPermaLink="false">10.1038/s43588-026-01066-x</guid>
+<pubDate>Wed, 14 Oct 2026 01:01:26 GMT</pubDate>
+<description>این مقاله روش HIP را برای ساخت پتانسیل‌های بین‌اتمی هسیان بدون نیاز به مشتقات معرفی می‌کند.&lt;br&gt;Nature Computational Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Hessian · interatomic potentials · machine learning · derivative-free · molecular dynamics</description>
+<category>Hessian</category>
+<category>interatomic potentials</category>
+<category>machine learning</category>
+<category>derivative-free</category>
+<category>molecular dynamics</category>
+</item>
+<item>
+<title>LLMs predict material properties based on atom types and not atom positions</title>
+<link>https://doi.org/10.1038/s43588-026-01044-3</link>
+<guid isPermaLink="false">10.1038/s43588-026-01044-3</guid>
+<pubDate>Wed, 14 Oct 2026 01:01:22 GMT</pubDate>
+<description>این مطالعه نشان می‌دهد که مدل‌های زبانی بزرگ برای پیش‌بینی خواص مواد عمدتاً بر نوع اتم‌ها تکیه می‌کنند و نه موقعیت اتم‌ها.&lt;br&gt;Nature Computational Science | 🔬 Research Article&lt;br&gt;🏷 large language models · material property prediction · atom types · atom positions · interpretability</description>
+<category>large language models</category>
+<category>material property prediction</category>
+<category>atom types</category>
+<category>atom positions</category>
+<category>interpretability</category>
+</item>
+<item>
+<title>Facet-Dependent Plating/Stripping Behavior and Crystallographic Evolution during Cycling on Zn Metal Anodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01934</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01934</guid>
+<pubDate>Wed, 14 Oct 2026 01:01:17 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که رفتار آبکاری/جدایش روی در آندهای تک‌کریستال Zn به شدت به وجه‌های بلوری (002)، (100) و (101) وابسته است و سیکل‌های مکرر منجر به رشد دندریتی و از دست رفتن برگشت‌پذیری اپیتاکسیال می‌شود.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uses Zn single crystals to isolate crystallographic effects on plating/stripping. It reveals facet-dependent growth morphologies, edge/corner-initiated growth, and facet-preserved dissolution pits that are not refilled, causing epitaxial reversibility loss. The work establishes that controlling both oriented deposition and post-stripping surface reconstruction is essential for reversible Zn anodes.&lt;br&gt;🏷 zinc metal anode · crystallographic facets · plating stripping · dendrite growth · single crystal electrode</description>
+<category>zinc metal anode</category>
+<category>crystallographic facets</category>
+<category>plating stripping</category>
+<category>dendrite growth</category>
+<category>single crystal electrode</category>
+</item>
+<item>
+<title>Recent advances and perspectives of metal–organic framework-based microwave absorption materials</title>
+<link>https://doi.org/10.1016/j.cis.2026.104071</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104071</guid>
+<pubDate>Wed, 14 Oct 2026 01:01:12 GMT</pubDate>
+<description>این مقاله مروری، پیشرفت‌های اخیر در مواد جاذب مایکروویو بر پایه چارچوب‌های فلز-آلی (MOF) را بررسی می‌کند و چشم‌اندازهای آینده را ارائه می‌دهد.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 metal-organic frameworks · microwave absorption · electromagnetic interference · impedance matching · dielectric loss</description>
+<category>metal-organic frameworks</category>
+<category>microwave absorption</category>
+<category>electromagnetic interference</category>
+<category>impedance matching</category>
+<category>dielectric loss</category>
+</item>
 <item>
 <title>A general synthesis of tryptophan-crosslinked macrocyclic peptides enabled by a dual-functional directing group</title>
 <link>https://doi.org/10.1038/s44160-026-01184-4</link>
@@ -1159,58 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 π-conjugated cage · hos
 <category>shape complementarity</category>
 <category>carceplex</category>
 <category>encapsulation</category>
-</item>
-<item>
-<title>Bioinspired Quantum-Guided Engineering of Activatable Probes via Intermolecular Electron Transfer for Single-Cell Molecular Diagnosis</title>
-<link>https://doi.org/10.1021/jacs.6c17701</link>
-<guid isPermaLink="false">10.1021/jacs.6c17701</guid>
-<pubDate>Tue, 13 Oct 2026 16:04:38 GMT</pubDate>
-<description>این مقاله با الهام از فتوسنتز، یک استراتژی مهندسی کوانتومی برای طراحی پروب‌های فعال‌شونده مبتنی بر انتقال الکترون بین‌مولکولی ارائه می‌دهد که تشخیص تک‌سلولی ONOO⁻ و متاستاز را ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 activatable probe · intermolecular electron transfer · single-cell diagnosis · peroxynitrite · fluorescence imaging</description>
-<category>activatable probe</category>
-<category>intermolecular electron transfer</category>
-<category>single-cell diagnosis</category>
-<category>peroxynitrite</category>
-<category>fluorescence imaging</category>
-</item>
-<item>
-<title>Coordination-Site Engineering Enables Synergistic π-Coupling in Peroxomolybdates</title>
-<link>https://doi.org/10.1021/jacs.6c18353</link>
-<guid isPermaLink="false">10.1021/jacs.6c18353</guid>
-<pubDate>Tue, 13 Oct 2026 16:04:34 GMT</pubDate>
-<description>این مقاله با مهندسی جایگاه کوئوردیناسیون در پراکسومولیبدات‌ها، کوپلینگ π هم‌افزا را ممکن ساخته و ترکیبی با پاسخ SHG رکورد ۳۴.۹ برابر KDP و آستانه آسیب لیزری بالا معرفی می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 peroxomolybdate · SHG · NLO crystal · coordination-site engineering · π-coupling</description>
-<category>peroxomolybdate</category>
-<category>SHG</category>
-<category>NLO crystal</category>
-<category>coordination-site engineering</category>
-<category>π-coupling</category>
-</item>
-<item>
-<title>Migratory Hydroamination of Alkenes via Iron-Hydride Catalysis</title>
-<link>https://doi.org/10.1021/jacs.6c17662</link>
-<guid isPermaLink="false">10.1021/jacs.6c17662</guid>
-<pubDate>Tue, 13 Oct 2026 16:04:31 GMT</pubDate>
-<description>این مقاله یک روش کاتالیزوری جدید با هیدرید آهن برای هیدروآمیناسیون مهاجرتی آلیل‌آمین‌ها معرفی می‌کند که آلکیل‌آمین‌ها و β-آمینو اسیدهای متنوع را از طریق آبشار رادیکالی سه‌مرحله‌ای تولید می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 iron hydride catalysis · migratory hydroamination · allylamines · radical cascade · amino migration</description>
-<category>iron hydride catalysis</category>
-<category>migratory hydroamination</category>
-<category>allylamines</category>
-<category>radical cascade</category>
-<category>amino migration</category>
-</item>
-<item>
-<title>Encapsulation-Activated Deep-NIR Triarylmethane Dyes via Steric Hindrance Engineering for Long-Circulating Fluorescence/Photoacoustic Dual-Modal Bioimaging</title>
-<link>https://doi.org/10.1021/jacs.6c16331</link>
-<guid isPermaLink="false">10.1021/jacs.6c16331</guid>
-<pubDate>Tue, 13 Oct 2026 16:04:28 GMT</pubDate>
-<description>رنگ‌های تری‌آریل‌متان با ممانعت فضایی و کپسوله‌سازی، تصویربرداری دوگانه فلورسانس/فوتوآکوستیک NIR-II طولانی‌مدت را فعال می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 triarylmethane dyes · NIR-II imaging · photoacoustic imaging · steric hindrance · encapsulation activation</description>
-<category>triarylmethane dyes</category>
-<category>NIR-II imaging</category>
-<category>photoacoustic imaging</category>
-<category>steric hindrance</category>
-<category>encapsulation activation</category>
 </item>
 </channel>
 </rss>

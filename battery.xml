@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 00:01:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 01:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Facet-Dependent Plating/Stripping Behavior and Crystallographic Evolution during Cycling on Zn Metal Anodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01934</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01934</guid>
+<pubDate>Wed, 14 Oct 2026 01:01:17 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که رفتار آبکاری/جدایش روی در آندهای تک‌کریستال Zn به شدت به وجه‌های بلوری (002)، (100) و (101) وابسته است و سیکل‌های مکرر منجر به رشد دندریتی و از دست رفتن برگشت‌پذیری اپیتاکسیال می‌شود.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uses Zn single crystals to isolate crystallographic effects on plating/stripping. It reveals facet-dependent growth morphologies, edge/corner-initiated growth, and facet-preserved dissolution pits that are not refilled, causing epitaxial reversibility loss. The work establishes that controlling both oriented deposition and post-stripping surface reconstruction is essential for reversible Zn anodes.&lt;br&gt;🏷 zinc metal anode · crystallographic facets · plating stripping · dendrite growth · single crystal electrode</description>
+<category>zinc metal anode</category>
+<category>crystallographic facets</category>
+<category>plating stripping</category>
+<category>dendrite growth</category>
+<category>single crystal electrode</category>
+</item>
 <item>
 <title>Fast-Charging Commercial Carbon Fluoride Secondary Batteries Achieved by Covalent Bond Reconfiguration</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105592</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>oxygen redox</category>
 <category>lattice regulation</category>
 <category>structural stability</category>
-</item>
-<item>
-<title>Overcoming the Spin Barrier of Oxygen Redox Chemistry in Lithium–Oxygen Batteries via Metal–Support Magnetic Interaction</title>
-<link>https://doi.org/10.1002/anie.6229772</link>
-<guid isPermaLink="false">10.1002/anie.6229772</guid>
-<pubDate>Sat, 10 Oct 2026 18:01:43 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد برهم‌کنش مغناطیسی فلز-پایه در Pd/CoFe2O4 سد اسپینی شیمی ردوکس اکسیژن را در باتری Li-O2 کاهش می‌دهد و اضافه‌ولتاژ شارژ ۰٫۰۵ ولت را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Metal–support magnetic interaction is used to overcome the spin barrier in Li–O₂ batteries. Interfacial magnetic coupling between Pd and ferrimagnetic CoFe₂O₄ restructures Pd spin states, promoting triplet O₂ conversion to peroxide while suppressing singlet O₂. This yields a 0.05 V charging overpotential and 91.2% energy efficiency, establishing a general design principle for spin-dependent oxygen electrocatalysis.&lt;br&gt;🏷 lithium-oxygen battery · spin barrier · metal-support interaction · oxygen redox · Pd/CoFe2O4</description>
-<category>lithium-oxygen battery</category>
-<category>spin barrier</category>
-<category>metal-support interaction</category>
-<category>oxygen redox</category>
-<category>Pd/CoFe2O4</category>
 </item>
 </channel>
 </rss>
