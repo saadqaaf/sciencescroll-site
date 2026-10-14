@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 17:02:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 18:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrochemical energy conversion beyond Earth</title>
+<link>https://doi.org/10.1016/j.joule.2026.102708</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102708</guid>
+<pubDate>Wed, 14 Oct 2026 18:01:29 GMT</pubDate>
+<description>این مقاله به بررسی تبدیل انرژی الکتروشیمیایی در محیط‌های فراتر از زمین و کاربردهای فضایی آن می‌پردازد.&lt;br&gt;Joule | ⭐ Review&lt;br&gt;🏷 electrochemical energy conversion · space · extraterrestrial · energy storage · electrochemistry</description>
+<category>electrochemical energy conversion</category>
+<category>space</category>
+<category>extraterrestrial</category>
+<category>energy storage</category>
+<category>electrochemistry</category>
+</item>
 <item>
 <title>The Role of Mo in Nucleating Large Niobate Crystals for Li-ion Battery Anodes</title>
 <link>https://doi.org/10.1039/d6ta04984b</link>
@@ -1194,18 +1206,6 @@
 <category>resting-state kinetics</category>
 <category>hydrogen evolution</category>
 <category>anode performance</category>
-</item>
-<item>
-<title>Machine‐Learning‐Guided Dopant‐Class Design Enables Near‐Zero‐Strain P2‐Type Cathodes for High‐Voltage Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.78592</link>
-<guid isPermaLink="false">10.1002/adfm.78592</guid>
-<pubDate>Mon, 12 Oct 2026 19:02:03 GMT</pubDate>
-<description>طراحی دوپانت با یادگیری ماشین، کاتد P2 نوع Al-B-F با کرنش حجمی نزدیک صفر و ظرفیت ۱۴۲٫۸ mAh/g در باتری سدیم-یون ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Machine-learning-guided dopant-class design reveals metalloid doping best stabilizes high-voltage P2 cathodes. The Al─B─F co-doped cathode achieves 142.8 mAh g⁻¹ at 3.53 V, 98.19% retention after 300 cycles, and near-zero strain (0.025%), enabling durable high-voltage sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · P2 cathode · machine learning · dopant design · near-zero strain</description>
-<category>sodium-ion battery</category>
-<category>P2 cathode</category>
-<category>machine learning</category>
-<category>dopant design</category>
-<category>near-zero strain</category>
 </item>
 </channel>
 </rss>
