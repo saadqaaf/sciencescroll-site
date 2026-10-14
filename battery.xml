@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 22:02:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:04:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Vacancy-mediated ultrafast oxide-ion conduction in excess-oxygen Sillén oxybromides</title>
+<link>https://doi.org/10.1038/s41467-026-77848-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-77848-8</guid>
+<pubDate>Wed, 14 Oct 2026 23:02:51 GMT</pubDate>
+<description>Bi1.9Te0.1LaO4.05Br با ساختار Sillén رسانایی یونی اکسید 0.01 S/cm در 233 درجه سانتی‌گراد نشان می‌دهد که از طریق مکانیسم جای‌خالی در اکسیدهای اکسیژن‌اضافی انجام می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Bi₁.₉Te₀.₁LaO₄.₀₅Br achieves 0.01 S cm⁻¹ oxide-ion conductivity at 233 °C, surpassing leading proton and oxide-ion conductors. Its layered Sillén structure with oxygen vacancies enables vacancy-mediated transport despite excess oxygen, plus high stability and negligible chemical expansion. This establishes a design principle for high-performance oxide-ion conductors in excess-oxygen Sillén oxyhalides.&lt;br&gt;🏷 oxide-ion conductor · Sillén oxybromide · vacancy-mediated conduction · solid oxide fuel cell · Bi1.9Te0.1LaO4.05Br</description>
+<category>oxide-ion conductor</category>
+<category>Sillén oxybromide</category>
+<category>vacancy-mediated conduction</category>
+<category>solid oxide fuel cell</category>
+<category>Bi1.9Te0.1LaO4.05Br</category>
+</item>
+<item>
+<title>Morphology and Ion Transport in Zwitterionic Polysiloxanes</title>
+<link>https://doi.org/10.1021/acsnano.6c10565</link>
+<guid isPermaLink="false">10.1021/acsnano.6c10565</guid>
+<pubDate>Wed, 14 Oct 2026 23:02:39 GMT</pubDate>
+<description>رسانایی یونی ابریونی در پلی‌زویتریون‌های دوپ‌شده جهانی نیست و نیازمند کانال‌های یونی پرکولاسیون است؛ در پلی‌سیلوکسان زویتریونی با LiTFSI، نانودومین‌های مجزا تحرک یون را محدود می‌کنند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This study challenges the assumption that superionic conductivity is universal in doped polyzwitterions, showing it requires percolating ion channels. Using polysiloxane-based PZI with LiTFSI, isolated zwitterionic nanodomains limited conductivity to ~10⁻⁸ S/cm; overlap of these clusters enabled significant enhancement. The findings establish morphological control of ion-transport pathways as critical for designing superionic polymer electrolytes.&lt;br&gt;🏷 zwitterionic polysiloxane · polymer electrolyte · ion transport · LiTFSI · nanodomain percolation</description>
+<category>zwitterionic polysiloxane</category>
+<category>polymer electrolyte</category>
+<category>ion transport</category>
+<category>LiTFSI</category>
+<category>nanodomain percolation</category>
+</item>
 <item>
 <title>Unraveling the Origins of C‐Rate Dependent Capacity Decay in Fe‐Mn‐Based Prussian Blue Cathodes for Sodium Ion Batteries</title>
 <link>https://doi.org/10.1002/adfm.78899</link>
@@ -1182,30 +1206,6 @@
 <category>direct recycling</category>
 <category>degradation</category>
 <category>ionic transport</category>
-</item>
-<item>
-<title>A Multistimuli-responsive Triazolyl-functionalized Terpyridyl based Mechanically Resilient Cu(II)-Metallogel as Platform for High Performance Intelligent Flexible Micro-supercapacitor</title>
-<link>https://doi.org/10.1039/d6ta06065j</link>
-<guid isPermaLink="false">10.1039/d6ta06065j</guid>
-<pubDate>Tue, 13 Oct 2026 00:01:50 GMT</pubDate>
-<description>یک متالوژل Cu(II) تری‌آزولیل-ترپیریدیل با پاسخ چندگانه و خودترمیمی به‌عنوان بستر ابرخازن ریز انعطاف‌پذیر با کارایی بالا ساخته شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work introduces a multistimuli-responsive, self-healable Cu(II)-metallogel from triazolyl-functionalized terpyridyl ligands. Its novelty lies in combining mechanical resilience with electrochemical function, enabling a high-performance intelligent flexible micro-supercapacitor. This advances next-generation adaptable energy storage.&lt;br&gt;🏷 metallogel · micro-supercapacitor · self-healing · terpyridyl · Cu(II)</description>
-<category>metallogel</category>
-<category>micro-supercapacitor</category>
-<category>self-healing</category>
-<category>terpyridyl</category>
-<category>Cu(II)</category>
-</item>
-<item>
-<title>From Micro to Nano: Boosting γ-MnO2 Cathode Performance through Particle Size Engineering</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04092</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04092</guid>
-<pubDate>Mon, 12 Oct 2026 23:01:22 GMT</pubDate>
-<description>مهندسی اندازه ذرات γ-MnO2 نشان می‌دهد نانوذرات با مسیرهای کوتاه‌تر Li+ ظرفیت ۱۶۰.۱ mAh g−1 و نگهداشت ۷۰٪ پس از ۴۰۰ چرخه در ۳C را فراهم می‌کنند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 Nanosized γ-MnO2 (62 nm) outperforms micron-sized counterparts, delivering 160.1 mAh g–1, 66% capacity at 5C, and 70% retention after 400 cycles. Enhanced capacitive contribution (68.9%) and homogeneous solid-solution intercalation avoid phase-transition bottlenecks. This establishes particle-size engineering as a simple, effective route to fast-charging, long-life MnO2 cathodes.&lt;br&gt;🏷 gamma-MnO2 · particle size · lithium-ion battery · fast charging · intercalation kinetics</description>
-<category>gamma-MnO2</category>
-<category>particle size</category>
-<category>lithium-ion battery</category>
-<category>fast charging</category>
-<category>intercalation kinetics</category>
 </item>
 </channel>
 </rss>
