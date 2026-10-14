@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 13 Oct 2026 23:01:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 00:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fast-Charging Commercial Carbon Fluoride Secondary Batteries Achieved by Covalent Bond Reconfiguration</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105592</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105592</guid>
+<pubDate>Wed, 14 Oct 2026 00:01:49 GMT</pubDate>
+<description>این پژوهش با بازآرایی پیوند کووالانسی، باتری‌های ثانویه کربن فلوراید تجاری با شارژ سریع را محقق می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 carbon fluoride battery · fast charging · covalent bond reconfiguration · secondary battery · commercial carbon fluoride</description>
+<category>carbon fluoride battery</category>
+<category>fast charging</category>
+<category>covalent bond reconfiguration</category>
+<category>secondary battery</category>
+<category>commercial carbon fluoride</category>
+</item>
+<item>
+<title>A supramolecularly stabilized polynitro cathode with dual-mode energy-release potential for high-specific-energy primary lithium batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105594</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105594</guid>
+<pubDate>Wed, 14 Oct 2026 00:01:45 GMT</pubDate>
+<description>این مطالعه یک کاتد پلی‌نیترو پایدارشده سوپرمولکولی با قابلیت آزادسازی انرژی دوحالته برای باتری‌های لیتیوم اولیه با انرژی ویژه بالا معرفی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 polynitro cathode · supramolecular stabilization · primary lithium battery · dual-mode energy release · high specific energy</description>
+<category>polynitro cathode</category>
+<category>supramolecular stabilization</category>
+<category>primary lithium battery</category>
+<category>dual-mode energy release</category>
+<category>high specific energy</category>
+</item>
+<item>
+<title>Cation-Anion Counter-Directed Migration Enabled Synergistic Dual-Interphase Engineering for High-Voltage Li Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105597</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105597</guid>
+<pubDate>Wed, 14 Oct 2026 00:01:40 GMT</pubDate>
+<description>این پژوهش با مهندسی دوگانه واسط از طریق مهاجرت متقابل کاتیون-آنیون، باتری‌های لیتیوم-فلزی ولتاژ بالا را بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Li metal battery · dual-interphase · cation-anion migration · high voltage · synergistic engineering</description>
+<category>Li metal battery</category>
+<category>dual-interphase</category>
+<category>cation-anion migration</category>
+<category>high voltage</category>
+<category>synergistic engineering</category>
+</item>
 <item>
 <title>Aging modeling of lithium-ion cells by integrating active material loss, electrolyte degradation, solid electrolyte interphase growth, and lithium plating</title>
 <link>https://doi.org/10.1016/j.est.2026.125113</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>metal-support interaction</category>
 <category>oxygen redox</category>
 <category>Pd/CoFe2O4</category>
-</item>
-<item>
-<title>Improving the Calendar Life of Silicon Anodes with Inorganic Solid–Electrolyte Interphases</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02871</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02871</guid>
-<pubDate>Sat, 10 Oct 2026 17:01:27 GMT</pubDate>
-<description>الکترولیت LSCE با نمک مخلوط، SEI عمدتاً معدنی روی آند سیلیکونی تشکیل می‌دهد و پس از پنج ماه ۴۴٪ ظرفیت اولیه را حفظ می‌کند، در حالی که الکترولیت کربناته تنها ۱٪ باقی می‌ماند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uniquely contrasts calendar aging in single- and mixed-salt locally superconcentrated electrolytes versus carbonate electrolytes, showing mixed-salt LSCEs form predominantly inorganic SEIs that dramatically extend silicon anode calendar life (96% vs. 77% capacity after one month). It identifies SEI reinforcement via controlled anion/solvent redox as a key strategy, offering significant guidance for durable high-energy silicon anode batteries.&lt;br&gt;🏷 silicon anode · solid-electrolyte interphase · calendar life · localized superconcentrated electrolyte · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>solid-electrolyte interphase</category>
-<category>calendar life</category>
-<category>localized superconcentrated electrolyte</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>A physics-informed digital twin reveals the mechanistic threshold for knee-point onset in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105589</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105589</guid>
-<pubDate>Sat, 10 Oct 2026 16:01:19 GMT</pubDate>
-<description>یک دوقلوی دیجیتال آگاه از فیزیک آستانه مکانیکی شروع نقطه زانو در باتری‌های لیتیوم-یون را آشکار می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · digital twin · knee-point onset · physics-informed · degradation</description>
-<category>lithium-ion battery</category>
-<category>digital twin</category>
-<category>knee-point onset</category>
-<category>physics-informed</category>
-<category>degradation</category>
-</item>
-<item>
-<title>Successive Redox Mediation Supported by Pnictogen Chalcohalide Enables High‐Performance Zinc–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adma.75303</link>
-<guid isPermaLink="false">10.1002/adma.75303</guid>
-<pubDate>Sat, 10 Oct 2026 14:01:44 GMT</pubDate>
-<description>نانومیله‌های Bi-S-Br به‌عنوان واسطه ردوکس چندمرحله‌ای، سینتیک ردوکس گوگرد را تسریع و باتری آبی Zn-S با ظرفیت و انرژی بالا را ممکن می‌کنند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Bi₁₂.₆₇S₁₈Br₂ nanorods with iodide additive to create successive redox mediation via gradient-potential couples (I⁰/I⁻ &amp;gt; Bi³⁺/Bi⁰ &amp;gt; S⁰/S²⁻), accelerating sulfur kinetics and suppressing side reactions. This enables high-capacity aqueous Zn–S batteries (792 mAh g⁻¹, 488.2 Wh kg⁻¹) with practical pouch-cell cycling, offering a new design principle for energy storage.&lt;br&gt;🏷 zinc-sulfur battery · redox mediator · pnictogen chalcohalide · Bi-S-Br · aqueous electrolyte</description>
-<category>zinc-sulfur battery</category>
-<category>redox mediator</category>
-<category>pnictogen chalcohalide</category>
-<category>Bi-S-Br</category>
-<category>aqueous electrolyte</category>
 </item>
 </channel>
 </rss>
