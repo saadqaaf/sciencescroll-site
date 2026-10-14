@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 06:01:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 07:02:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Where is my graphene battery?</title>
+<link>https://doi.org/10.1038/s41565-026-02279-x</link>
+<guid isPermaLink="false">10.1038/s41565-026-02279-x</guid>
+<pubDate>Wed, 14 Oct 2026 07:02:10 GMT</pubDate>
+<description>این مقاله به بررسی وضعیت باتری‌های گرافنی، چالش‌های تجاری‌سازی و مقایسه آن‌ها با باتری‌های لیتیوم-یون می‌پردازد.&lt;br&gt;Nature Nanotechnology | ⭐ Review&lt;br&gt;💡 Despite years of hype, graphene battery electrodes remain absent from mass production. The novelty lies in assessing this gap between promise and reality; its significance is highlighting graphene’s genuine potential for energy storage while cautioning that commercialization still faces major hurdles.&lt;br&gt;🏷 graphene battery · lithium-ion battery · energy storage · graphene anode · commercialization</description>
+<category>graphene battery</category>
+<category>lithium-ion battery</category>
+<category>energy storage</category>
+<category>graphene anode</category>
+<category>commercialization</category>
+</item>
 <item>
 <title>Complete Encapsulation of Sulfur-Bridged Carbonyl Molecules in Graphene Oxide Matrix Enables Ultrastable Organic Cathodes for Lithium-Ion Batteries</title>
 <link>https://doi.org/10.1039/d6ta05610e</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work introduces a Zn
 <category>2D materials</category>
 <category>energy storage</category>
 <category>structure-performance correlation</category>
-</item>
-<item>
-<title>Architecting Anode Current Collectors for Practical Anode-Free Alkali Metal Batteries</title>
-<link>https://doi.org/10.1007/s40820-026-02355-w</link>
-<guid isPermaLink="false">10.1007/s40820-026-02355-w</guid>
-<pubDate>Mon, 12 Oct 2026 05:01:19 GMT</pubDate>
-<description>این مرور، طراحی کلکتور جریان آند را برای باتری‌های بدون آند لیتیوم، سدیم و پتاسیم بررسی می‌کند و اصولی برای بهبود کارایی و ساخت‌پذیری ارائه می‌دهد.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely frames the anode current collector as a multifunctional interfacial platform governing nucleation, growth, stripping, and interphase evolution in anode-free Li, Na, and K batteries. It compares these chemistries, identifies key design parameters, and proposes practical principles balancing performance with manufacturability, offering guidance for next-generation anode-free battery development.&lt;br&gt;🏷 anode-free batteries · current collector · alkali metal anode · interphase stability · nucleation</description>
-<category>anode-free batteries</category>
-<category>current collector</category>
-<category>alkali metal anode</category>
-<category>interphase stability</category>
-<category>nucleation</category>
 </item>
 </channel>
 </rss>
