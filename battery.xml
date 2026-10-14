@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 11:03:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 12:03:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking the High-Voltage Limit of Na2CO3 Presodiation: An Interfacial Engineering Approach to Ampere-Hour Sodium-Ion Devices</title>
+<link>https://doi.org/10.1021/acsnano.6c11812</link>
+<guid isPermaLink="false">10.1021/acsnano.6c11812</guid>
+<pubDate>Wed, 14 Oct 2026 12:03:05 GMT</pubDate>
+<description>مهندسی بین‌سطحی، پتانسیل تجزیه Na2CO3 را ۳۵۰ میلی‌ولت کاهش داده و چگالی انرژی باتری سدیم-یونی آمپرساعت را ۲۲.۴٪ افزایش می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work breaks Na2CO3&amp;#x27;s high-voltage presodiation limit via in situ interfacial oxygen vacancies and electronic reconstruction, cutting decomposition potential by 350 mV. It enables 496.9 mAh g–1 Na+ release, avoids parasitic reactions, and boosts energy density 117.4% in full cells and 22.4% in 1.5 Ah pouch cells, offering a scalable route to high-energy sodium-ion devices.&lt;br&gt;🏷 Na2CO3 presodiation · sodium-ion capacitor · interfacial engineering · oxygen vacancies · energy density</description>
+<category>Na2CO3 presodiation</category>
+<category>sodium-ion capacitor</category>
+<category>interfacial engineering</category>
+<category>oxygen vacancies</category>
+<category>energy density</category>
+</item>
+<item>
+<title>Architecting 3D Space‐Charge Heterointerfacial Networks for Electrode‐Scale Ion Transport</title>
+<link>https://doi.org/10.1002/anie.9216952</link>
+<guid isPermaLink="false">10.1002/anie.9216952</guid>
+<pubDate>Wed, 14 Oct 2026 12:02:56 GMT</pubDate>
+<description>شبکه‌های ناهمگون فضایی-بار سه‌بعدی در الکترود، انتقال یون را در باتری‌های سدیم-یونی حالت جامد با نرخ بالا تقویت می‌کنند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers 3D space-charge heterointerfacial networks by organizing Na₂O/Na₂CO₃ nanoionic units into electrode-wide percolating architectures via MOF-templated vapor conversion. It boosts local conductivity by up to 16 orders of magnitude, enabling stable solid-state presodiation and ultrahigh-rate sodium-ion cells. The key advance: spatial connectivity of phase boundaries, not just local space-charge effects, is a programmable design variable for solid-state ionics.&lt;br&gt;🏷 space-charge · heterointerface · sodium-ion battery · solid-state presodiation · ion transport</description>
+<category>space-charge</category>
+<category>heterointerface</category>
+<category>sodium-ion battery</category>
+<category>solid-state presodiation</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Hydrothermal Regeneration of Dual-Doped High-Performance Lithium Manganese Iron Phosphate from Spent Cathode Materials</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112501</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112501</guid>
+<pubDate>Wed, 14 Oct 2026 12:02:30 GMT</pubDate>
+<description>بازسازی هیدروترمال کاتدهای مستعمل LiMnFePO4 با دوپینگ دوگانه، عملکرد بالای باتری لیتیوم-یونی را بازیابی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium manganese iron phosphate · cathode regeneration · hydrothermal · dual doping · spent batteries</description>
+<category>lithium manganese iron phosphate</category>
+<category>cathode regeneration</category>
+<category>hydrothermal</category>
+<category>dual doping</category>
+<category>spent batteries</category>
+</item>
 <item>
 <title>γ‐Ray Controlled Topological Evolution of Binders for Stable and Activated Li─S Battery Cathodes</title>
 <link>https://doi.org/10.1002/adfm.79058</link>
@@ -1170,42 +1206,6 @@
 <category>ionic conductivity</category>
 <category>LiSbCl6</category>
 <category>substitution tolerance</category>
-</item>
-<item>
-<title>Interface-Induced Crystallographic Orientation of Zinc Deposition Enabled by a Zwitterionic Dynamic Buffering Interface for Ultralong-Life Aqueous Zinc Batteries</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03526</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03526</guid>
-<pubDate>Mon, 12 Oct 2026 13:01:22 GMT</pubDate>
-<description>این مقاله با ایجاد یک رابط بافر دینامیکی زویتریونی، رسوب‌گذاری جهت‌دار روی آند Zn را القا کرده و عمر چرخه‌ای باتری آبی روی را به بیش از 7800 ساعت می‌رساند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 A trace zwitterionic glufosinate ammonium additive forms a dynamic buffering interface on Zn, combining chemisorbed anions with mobile NH4+ shielding. This thickens the electric double layer, suppresses water splitting, and induces (101)-oriented deposition, enabling 7800 h cycling and 99.3% Coulombic efficiency. It offers a simple, effective strategy for stabilizing aqueous zinc battery interfaces.&lt;br&gt;🏷 aqueous zinc battery · zwitterionic interface · zinc anode · dendrite suppression · glufosinate ammonium</description>
-<category>aqueous zinc battery</category>
-<category>zwitterionic interface</category>
-<category>zinc anode</category>
-<category>dendrite suppression</category>
-<category>glufosinate ammonium</category>
-</item>
-<item>
-<title>Rapid dynamic electrochemical impedance spectroscopy reconstruction of lithium-ion batteries using generative adversarial network</title>
-<link>https://doi.org/10.1016/j.est.2026.125087</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125087</guid>
-<pubDate>Mon, 12 Oct 2026 12:01:53 GMT</pubDate>
-<description>این مقاله روشی مبتنی بر شبکه مولد رقابتی برای بازسازی سریع طیف‌سنجی امپدانس الکتروشیمیایی دینامیکی باتری‌های لیتیوم-یون ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion batteries · electrochemical impedance spectroscopy · generative adversarial network · dynamic reconstruction · battery diagnostics</description>
-<category>lithium-ion batteries</category>
-<category>electrochemical impedance spectroscopy</category>
-<category>generative adversarial network</category>
-<category>dynamic reconstruction</category>
-<category>battery diagnostics</category>
-</item>
-<item>
-<title>CoFeNiCuMn layered double hydroxide as a bifunctional electrocatalyst for rechargeable zinc-air batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125034</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125034</guid>
-<pubDate>Mon, 12 Oct 2026 12:01:49 GMT</pubDate>
-<description>این مقاله یک هیدروکسید دوگانه لایه‌ای CoFeNiCuMn را به عنوان الکتروکاتالیست دوعملکردی برای باتری‌های روی-هوا قابل شارژ معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 layered double hydroxide · bifunctional electrocatalyst · zinc-air battery · CoFeNiCuMn · rechargeable battery</description>
-<category>layered double hydroxide</category>
-<category>bifunctional electrocatalyst</category>
-<category>zinc-air battery</category>
-<category>CoFeNiCuMn</category>
-<category>rechargeable battery</category>
 </item>
 </channel>
 </rss>
