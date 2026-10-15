@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 07:01:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 08:02:47 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electron‐Deficient Destabilization Coupled With Mg‐philic Catalysis: A Dual‐Modulation Strategy for Low‐Temperature Dehydrogenation of Mg(BH 4 ) 2</title>
+<link>https://doi.org/10.1002/adfm.79016</link>
+<guid isPermaLink="false">10.1002/adfm.79016</guid>
+<pubDate>Thu, 15 Oct 2026 08:02:17 GMT</pubDate>
+<description>راهبرد دوگانه تضعیف الکترون‌کمبود و کاتالیز مگنزیوفیلیک، دمای آزادسازی هیدروژن از Mg(BH4)2 را به‌طور چشمگیری کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a dual-modulation strategy coupling electron-deficient boron-doped graphene with Mg-philic Nb catalysts to destabilize Mg(BH₄)₂. It achieves record-low dehydrogenation temperatures (onset 50°C) and reduced activation energies, while suppressing byproduct accumulation for enhanced cyclability. This offers a promising design paradigm for advanced hydrogen storage materials.&lt;br&gt;🏷 hydrogen storage · Mg(BH4)2 · dehydrogenation · Mg-philic catalysis · boron-doped graphene</description>
+<category>hydrogen storage</category>
+<category>Mg(BH4)2</category>
+<category>dehydrogenation</category>
+<category>Mg-philic catalysis</category>
+<category>boron-doped graphene</category>
+</item>
+<item>
+<title>Entropy‐Engineered Topological Relaxor States in Lead‐Free Ferroelectric Superlattices for High‐Performance Capacitive Energy Storage</title>
+<link>https://doi.org/10.1002/adfm.79095</link>
+<guid isPermaLink="false">10.1002/adfm.79095</guid>
+<pubDate>Thu, 15 Oct 2026 08:02:04 GMT</pubDate>
+<description>مهندسی آنتروپی در ابرشبکه‌های فروالکتریک بدون سرب، حالت‌های ریلکسور توپولوژیکی را تثبیت و ذخیره‌سازی انرژی خازنی را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers entropy-engineered topological relaxor states in lead-free Na0.5Bi0.5TiO3/SrTiO3 superlattices, overcoming the polarization-dilution bottleneck of conventional ferroelectric/paraelectric designs. By transforming vortices into topological relaxors via local random fields, it flattens energy barriers, enabling thinner paraelectric layers, low hysteresis, and high polarization. Structural fluctuations also boost breakdown resistance, offering a practical framework for high-performance lead-free capacitive energy storage.&lt;br&gt;🏷 capacitive energy storage · ferroelectric superlattices · entropy engineering · topological relaxor · lead-free</description>
+<category>capacitive energy storage</category>
+<category>ferroelectric superlattices</category>
+<category>entropy engineering</category>
+<category>topological relaxor</category>
+<category>lead-free</category>
+</item>
 <item>
 <title>Stepwise Delithiation and Interfacial Electric Field Engineering Enabling Stable Cycling of LiNi0.8Co0.1Mn0.1O2/LiFePO4 Hybrid Cathode Under Harsh Conditions</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105598</link>
@@ -1182,30 +1206,6 @@
 <category>Mamba network</category>
 <category>time-frequency analysis</category>
 <category>cross-variable interaction</category>
-</item>
-<item>
-<title>Numerical study of digital twin-based control for reliable and sustainable battery–converter systems in electric vehicles</title>
-<link>https://doi.org/10.1016/j.est.2026.125079</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125079</guid>
-<pubDate>Tue, 13 Oct 2026 08:01:33 GMT</pubDate>
-<description>این مطالعه عددی، کنترل مبتنی بر دوقلوی دیجیتال را برای سیستمهای باتری-مبدل قابل اعتماد و پایدار در خودروهای برقی بررسی میکند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 digital twin · battery-converter system · electric vehicle · sustainable control · reliability</description>
-<category>digital twin</category>
-<category>battery-converter system</category>
-<category>electric vehicle</category>
-<category>sustainable control</category>
-<category>reliability</category>
-</item>
-<item>
-<title>Near‐Infrared Triggered Rechargeable Singlet Oxygen Battery for Sustained Phototherapy: Fast Charging and Long‐Lasting Discharging</title>
-<link>https://doi.org/10.1002/advs.78284</link>
-<guid isPermaLink="false">10.1002/advs.78284</guid>
-<pubDate>Tue, 13 Oct 2026 07:02:08 GMT</pubDate>
-<description>باتری اکسیژن یکتایی قابل شارژ با نور NIR بر پایه aza-BODIPY، با ذخیره و رهاسازی کنترل‌شده 1O2، فوتوتراپی پایدار و چرخه‌ای را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces a rechargeable singlet oxygen battery using aza-BODIPY nanoparticles that reversibly store ¹O₂ via cycloaddition and release it thermally for up to 1 hour. It enables cyclic, NIR-triggered phototherapy with fast charging, sustained discharge, and negligible decay, achieving synergistic PDT/PTT and significant tumor suppression—offering a durable strategy for deep-tumor treatment.&lt;br&gt;🏷 singlet oxygen battery · aza-BODIPY · photodynamic therapy · photothermal therapy · NIR-triggered</description>
-<category>singlet oxygen battery</category>
-<category>aza-BODIPY</category>
-<category>photodynamic therapy</category>
-<category>photothermal therapy</category>
-<category>NIR-triggered</category>
 </item>
 </channel>
 </rss>
