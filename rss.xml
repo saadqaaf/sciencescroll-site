@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 16:02:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Modular synthesis of unsymmetrical all-carbon tetrasubstituted alkenes via Pd-catalyzed multi-component coupling</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.029</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.029</guid>
+<pubDate>Thu, 15 Oct 2026 17:01:23 GMT</pubDate>
+<description>یک روش مونتاژی با کاتالیز Pd برای سنتز آلکن‌های تترااستخلافی تمام‌کربنی نامتقارن از طریق جفت‌شدن چندجزئی ارائه شد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 tetrasubstituted alkenes · Pd catalysis · multi-component coupling · modular synthesis · unsymmetrical alkenes</description>
+<category>tetrasubstituted alkenes</category>
+<category>Pd catalysis</category>
+<category>multi-component coupling</category>
+<category>modular synthesis</category>
+<category>unsymmetrical alkenes</category>
+</item>
+<item>
+<title>Carbon-Supply-Programmed CNT Growth for Ultrathin Microwave Absorbers from Waste Batteries and Plastics</title>
+<link>https://doi.org/10.1007/s42114-026-02121-x</link>
+<guid isPermaLink="false">10.1007/s42114-026-02121-x</guid>
+<pubDate>Thu, 15 Oct 2026 17:01:19 GMT</pubDate>
+<description>با برنامه‌ریزی تأمین کربن از باتری‌ها و پلاستیک‌های دورریز، رشد CNT برای جاذب‌های مایکروویو فوق‌نازک انجام شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 waste batteries · CNT growth · microwave absorbers · plastic recycling · carbon supply</description>
+<category>waste batteries</category>
+<category>CNT growth</category>
+<category>microwave absorbers</category>
+<category>plastic recycling</category>
+<category>carbon supply</category>
+</item>
 <item>
 <title>Coordination chemistry of bismuth-based catalysts for sustainable energy conversion and environmental remediation: synthesis, dynamic reconstruction, and reaction mechanisms</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218658</link>
@@ -1182,30 +1206,6 @@
 <category>ultrasound-responsive nanoparticles</category>
 <category>necroptosis inhibition</category>
 <category>biomimetic membrane</category>
-</item>
-<item>
-<title>Sub‐Second Ratiometric Fluorescence Imaging of Histamine Dynamics in Living Cells via a Supramolecular Probe</title>
-<link>https://doi.org/10.1002/advs.78254</link>
-<guid isPermaLink="false">10.1002/advs.78254</guid>
-<pubDate>Thu, 15 Oct 2026 10:03:20 GMT</pubDate>
-<description>یک پروب سوپرمولکولی راتیومتریک بر پایه CB[7] با پاسخ زیرثانیه‌ای، نوسانات هیستامین درون‌سلولی را در ماست‌سل‌های زنده تصویربرداری می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 histamine sensing · ratiometric fluorescence · supramolecular probe · cucurbit[7]uril · living cells</description>
-<category>histamine sensing</category>
-<category>ratiometric fluorescence</category>
-<category>supramolecular probe</category>
-<category>cucurbit[7]uril</category>
-<category>living cells</category>
-</item>
-<item>
-<title>Optical Access to Dark Excitons Via Spin–Phonon Fano Interference</title>
-<link>https://doi.org/10.1002/advs.78207</link>
-<guid isPermaLink="false">10.1002/advs.78207</guid>
-<pubDate>Thu, 15 Oct 2026 10:03:17 GMT</pubDate>
-<description>تداخل فانو بین مسیرهای پراکندگی فونون-اسپین، پنجره‌ای نوری به اگزایتون‌های تاریک در نقاط کوانتومی (In,Ga)As/GaAs بدون اغتشاش باز می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 dark excitons · spin-phonon Fano interference · quantum dots · bright-dark coupling · exchange energy</description>
-<category>dark excitons</category>
-<category>spin-phonon Fano interference</category>
-<category>quantum dots</category>
-<category>bright-dark coupling</category>
-<category>exchange energy</category>
 </item>
 </channel>
 </rss>

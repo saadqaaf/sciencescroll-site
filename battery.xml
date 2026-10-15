@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 16:02:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Carbon-Supply-Programmed CNT Growth for Ultrathin Microwave Absorbers from Waste Batteries and Plastics</title>
+<link>https://doi.org/10.1007/s42114-026-02121-x</link>
+<guid isPermaLink="false">10.1007/s42114-026-02121-x</guid>
+<pubDate>Thu, 15 Oct 2026 17:01:19 GMT</pubDate>
+<description>با برنامه‌ریزی تأمین کربن از باتری‌ها و پلاستیک‌های دورریز، رشد CNT برای جاذب‌های مایکروویو فوق‌نازک انجام شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 waste batteries · CNT growth · microwave absorbers · plastic recycling · carbon supply</description>
+<category>waste batteries</category>
+<category>CNT growth</category>
+<category>microwave absorbers</category>
+<category>plastic recycling</category>
+<category>carbon supply</category>
+</item>
 <item>
 <title>Stress Regulation through Precursor Chemistry: From Synthesis to Cycling Stability in O3‐Type Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1002/aenm.71699</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>hard-acid</category>
 <category>all-solid-state battery</category>
 <category>high voltage</category>
-</item>
-<item>
-<title>Radical Bearing Solid Electrolyte Interface as an Active Ionic Reservoir for Fast Li + Storage in Coordination Confined Fe@C Anodes</title>
-<link>https://doi.org/10.1002/adfm.79050</link>
-<guid isPermaLink="false">10.1002/adfm.79050</guid>
-<pubDate>Tue, 13 Oct 2026 15:01:39 GMT</pubDate>
-<description>آند Fe@C با محدودسازی کوئوردیناسیونی، ذخیره‌سازی سریع Li+ را از طریق SEI پلیمری رادیکال‌دار به عنوان مخزن یونی فعال ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying a radical-bearing polymeric SEI that acts as an active ionic reservoir for space charge storage in Fe@C anodes. This links MOF-derived coordination confinement with Fe-catalyzed SEI reconstruction, enabling fast, strain-free Li+ storage (565 mAh g⁻¹ at 2C). It advances interfacial design by clarifying the SEI&amp;#x27;s ionic role, offering a pathway to durable, high-rate anodes.&lt;br&gt;🏷 Fe@C anode · solid electrolyte interphase · radical · Li+ storage · coordination confinement</description>
-<category>Fe@C anode</category>
-<category>solid electrolyte interphase</category>
-<category>radical</category>
-<category>Li+ storage</category>
-<category>coordination confinement</category>
 </item>
 </channel>
 </rss>
