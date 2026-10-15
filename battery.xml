@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 19:07:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:02:47 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Progress and Perspectives on Confinement Engineering to Revive Alloying‐Type Anode Materials for Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76046</link>
+<guid isPermaLink="false">10.1002/smll.76046</guid>
+<pubDate>Thu, 15 Oct 2026 20:02:20 GMT</pubDate>
+<description>این مرور مهندسی محدودیت را به دو دسته خودمحدود و خارجی طبقه‌بندی می‌کند و نقش آن در کاهش انبساط حجمی، تثبیت SEI و بهبود سینتیک آندهای آلیاژی باتری‌های سدیم-یون را روشن می‌سازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely categorizes confinement engineering for alloying-type sodium-ion battery anodes into self-confinement and extrinsic confinement, clarifying micro/nano-scale structure-regulation mechanisms. It emphasizes confinement&amp;#x27;s role in mitigating volume expansion, stabilizing SEI films, and enhancing kinetics, offering systematic mechanistic insight and design guidance to accelerate commercialization of high-energy, long-cycle-life SIBs.&lt;br&gt;🏷 sodium-ion batteries · alloying-type anodes · confinement engineering · volume expansion · SEI stabilization</description>
+<category>sodium-ion batteries</category>
+<category>alloying-type anodes</category>
+<category>confinement engineering</category>
+<category>volume expansion</category>
+<category>SEI stabilization</category>
+</item>
+<item>
+<title>Advances in Biodegradable Supercapacitors for Implantable Bioelectronics: Materials, Energy Storage, Degradation, and Clinical Translation</title>
+<link>https://doi.org/10.1002/smll.76270</link>
+<guid isPermaLink="false">10.1002/smll.76270</guid>
+<pubDate>Thu, 15 Oct 2026 20:02:08 GMT</pubDate>
+<description>این مرور به پیشرفت‌های اخیر ابرخازن‌های زیست‌تخریب‌پذیر برای ایمپلنت‌های موقت می‌پردازد و چالش‌ها و جهت‌های آینده مانند مواد کربنی زیست‌سازگار و تخریب برنامه‌پذیر را بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates advances in biodegradable supercapacitors for temporary implants, spanning materials, electrochemical performance under physiological conditions, degradation kinetics, and regulatory pathways. Its significance lies in bridging bioelectronics, neuromorphic computing, and living devices while proposing strategic directions—bio-derived carbon, self-healing electrolytes, programmable degradation—and advocating standardized benchmarking to accelerate clinical translation of autonomous, resorbable energy-storage systems.&lt;br&gt;🏷 biodegradable supercapacitors · implantable bioelectronics · transient energy storage · biocompatible materials · clinical translation</description>
+<category>biodegradable supercapacitors</category>
+<category>implantable bioelectronics</category>
+<category>transient energy storage</category>
+<category>biocompatible materials</category>
+<category>clinical translation</category>
+</item>
 <item>
 <title>Gradient hydrogel electrolytes constructed by spatiotemporal coordination and controllable accelerated polymerization strategy for highly stable Zn anodes</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.084</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>thick electrode</category>
 <category>PTFE fibrillation</category>
 <category>NVMP cathode</category>
-</item>
-<item>
-<title>Rational Performance Testing and Mechanistic Analysis Toward Practical Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76243</link>
-<guid isPermaLink="false">10.1002/smll.76243</guid>
-<pubDate>Tue, 13 Oct 2026 17:03:39 GMT</pubDate>
-<description>این چشم‌انداز روش‌های تست باتری‌های آبی یون روی را نقد کرده و راهکارهایی برای استانداردسازی ارزیابی و تجاری‌سازی ارائه می‌دهد.&lt;br&gt;Small | 💭 Perspective&lt;br&gt;💡 This Perspective addresses the gap between laboratory AZIB research and practical application by critically assessing testing methods for zinc anodes, electrolytes, and cathodes. Its novelty lies in identifying inappropriate testing practices, offering mechanistic insights, and proposing corrective strategies for standardized evaluation. This framework better mirrors real operating conditions, accelerating AZIB commercialization.&lt;br&gt;🏷 aqueous zinc-ion batteries · performance testing · mechanistic analysis · standardized evaluation · commercialization</description>
-<category>aqueous zinc-ion batteries</category>
-<category>performance testing</category>
-<category>mechanistic analysis</category>
-<category>standardized evaluation</category>
-<category>commercialization</category>
-</item>
-<item>
-<title>Low‐Platinum Medium‐Entropy Intermetallic Compounds Based on the Synergistic Utilization of Spent Lithium‐Ion Batteries for High‐Efficiency Lithium–Oxygen Batteries</title>
-<link>https://doi.org/10.1002/smll.75925</link>
-<guid isPermaLink="false">10.1002/smll.75925</guid>
-<pubDate>Tue, 13 Oct 2026 17:02:52 GMT</pubDate>
-<description>بازیافت هم‌افزای کربن آند و فلزات کاتد باتری‌های لیتیوم-یونی مستعمل، ترکیب بین‌فلزی کم‌پلاتین Pt(NiCoMn)3 را به‌عنوان کاتالیزور باتری لیتیوم-اکسیژن با اورپتانسیل پایین و عمر چرخه بالا فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers a synergistic recycling strategy, using carbon from spent lithium-ion battery anodes and recovered transition metals to synthesize low-platinum medium-entropy intermetallic Pt(NiCoMn)₃. The catalyst induces lattice distortion and electron redistribution, optimizing Li₂O₂ kinetics. It achieves 0.35 V overpotential and 319 cycles, offering a sustainable, high-performance route for lithium–oxygen batteries.&lt;br&gt;🏷 lithium-oxygen battery · medium-entropy intermetallic · spent lithium-ion batteries · Pt(NiCoMn)3 · recycling</description>
-<category>lithium-oxygen battery</category>
-<category>medium-entropy intermetallic</category>
-<category>spent lithium-ion batteries</category>
-<category>Pt(NiCoMn)3</category>
-<category>recycling</category>
 </item>
 </channel>
 </rss>
