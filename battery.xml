@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 10:04:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 11:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cooling-preheating dual-functional battery thermal management system based on modular assembly phase change materials</title>
+<link>https://doi.org/10.1016/j.est.2026.125118</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125118</guid>
+<pubDate>Thu, 15 Oct 2026 11:01:53 GMT</pubDate>
+<description>این مقاله یک سیستم مدیریت حرارتی باتری دوکاره خنک‌کننده-پیش‌گرم‌کننده مبتنی بر مواد تغییر فاز مونتاژ ماژولار ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · phase change material · modular assembly · cooling · preheating</description>
+<category>battery thermal management</category>
+<category>phase change material</category>
+<category>modular assembly</category>
+<category>cooling</category>
+<category>preheating</category>
+</item>
+<item>
+<title>Heteroatom molybdenum doping-driven morphology regulation for high-performance VS4@HNaV6O16·4H2O cathode in aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125108</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125108</guid>
+<pubDate>Thu, 15 Oct 2026 11:01:48 GMT</pubDate>
+<description>این مقاله با دوپینگ مولیبدن، مورفولوژی کاتد VS4@HNaV6O16·4H2O را تنظیم کرده و عملکرد باتری آبی روی-یون را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · VS4 · HNaV6O16 · molybdenum doping · cathode</description>
+<category>aqueous zinc-ion battery</category>
+<category>VS4</category>
+<category>HNaV6O16</category>
+<category>molybdenum doping</category>
+<category>cathode</category>
+</item>
+<item>
+<title>A cascade organic Rankine cycle reversible Carnot battery based on top cycle decoupling: Thermodynamic performance enhancement and economic advantage validation</title>
+<link>https://doi.org/10.1016/j.est.2026.125159</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125159</guid>
+<pubDate>Thu, 15 Oct 2026 11:01:44 GMT</pubDate>
+<description>این مقاله یک باتری کارنو برگشت‌پذیر مبتنی بر چرخه رانکین آلی آبشاری با جداسازی چرخه بالا ارائه می‌دهد که عملکرد ترمودینامیکی را بهبود و مزیت اقتصادی را تأیید می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Carnot battery · organic Rankine cycle · thermal energy storage · thermodynamic performance · economic analysis</description>
+<category>Carnot battery</category>
+<category>organic Rankine cycle</category>
+<category>thermal energy storage</category>
+<category>thermodynamic performance</category>
+<category>economic analysis</category>
+</item>
 <item>
 <title>Toward Rational Design of Aqueous Battery Membranes Beyond the Selectivity‐Conductivity Trade‐Off</title>
 <link>https://doi.org/10.1002/advs.78245</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>polyiodide shuttling</category>
 <category>iodine redox kinetics</category>
 <category>Br tailoring</category>
-</item>
-<item>
-<title>Interfacial stress–electronic coupling in confined dual single-atom catalysts for record-performance zinc–air batteries</title>
-<link>https://doi.org/10.1039/d6ee05203g</link>
-<guid isPermaLink="false">10.1039/d6ee05203g</guid>
-<pubDate>Tue, 13 Oct 2026 12:01:52 GMT</pubDate>
-<description>کاتالیزور دوگانه تک‌اتمی FeN4/ZnN3S1 با کوپلینگ تنش-الکترونیکی، ORR را بهینه کرده و باتری‌های روی-هوا با عملکرد بالا را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using nanoparticle-induced local coordination compression to couple FeN₄ and ZnN₃S₁ dual single-atom sites, tuning interfacial stress and electronic structure. This optimizes oxygen reduction energetics, delivering record-performance liquid and quasi-solid-state zinc–air batteries. It advances dual-atom catalyst design by linking mechanical strain to catalytic activity.&lt;br&gt;🏷 zinc-air battery · dual single-atom catalyst · FeN4/ZnN3S1 · oxygen reduction reaction · interfacial stress coupling</description>
-<category>zinc-air battery</category>
-<category>dual single-atom catalyst</category>
-<category>FeN4/ZnN3S1</category>
-<category>oxygen reduction reaction</category>
-<category>interfacial stress coupling</category>
-</item>
-<item>
-<title>Ultra-efficient rechargeable liquid and flexible zinc-air batteries enabled by cooperative functions of NiFe-MOF and single FeN4 sites</title>
-<link>https://doi.org/10.1039/d6ta06861h</link>
-<guid isPermaLink="false">10.1039/d6ta06861h</guid>
-<pubDate>Tue, 13 Oct 2026 10:01:43 GMT</pubDate>
-<description>این مقاله با همکاری NiFe-MOF و سایت‌های تک‌اتمی FeN4، الکتروکاتالیست دوعملکردی کارآمدی برای باتری‌های قابل‌شارژ و انعطاف‌پذیر روی-هوا ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining NiFe-MOF with single FeN4 sites to create a bifunctional oxygen electrocatalyst. This cooperative design enables ultra-efficient, flexible, rechargeable zinc-air batteries with low cost, high activity, and long-term durability, addressing a key challenge in sustainable energy storage.&lt;br&gt;🏷 zinc-air battery · NiFe-MOF · single FeN4 sites · bifunctional catalyst · oxygen electrocatalysis</description>
-<category>zinc-air battery</category>
-<category>NiFe-MOF</category>
-<category>single FeN4 sites</category>
-<category>bifunctional catalyst</category>
-<category>oxygen electrocatalysis</category>
-</item>
-<item>
-<title>Engineering a triple-enhanced graphite cathode from waste: holey, defective, and N-doped architectures for stable Li–O 2 batteries</title>
-<link>https://doi.org/10.1039/d6ta04966d</link>
-<guid isPermaLink="false">10.1039/d6ta04966d</guid>
-<pubDate>Tue, 13 Oct 2026 10:01:28 GMT</pubDate>
-<description>این مقاله با مهندسی گرافیت زائد باتری‌های لیتیوم-یون به ساختار حفره‌دار، نقص‌دار و دوپ‌شده با نیتروژن، ذخیره‌سازی لیتیوم را در باتری‌های Li-O2 بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in upcycling waste graphite into N-doped holey graphene, combining holes, defects, and nitrogen doping in one cathode. This triple architecture boosts Li–O₂ battery performance through ordered channels, high surface area, and tuned electronic structure, offering a sustainable, low-cost route to stable energy storage.&lt;br&gt;🏷 Li-O2 battery · graphite cathode · N-doped graphene · waste recycling · holey architecture</description>
-<category>Li-O2 battery</category>
-<category>graphite cathode</category>
-<category>N-doped graphene</category>
-<category>waste recycling</category>
-<category>holey architecture</category>
 </item>
 </channel>
 </rss>
