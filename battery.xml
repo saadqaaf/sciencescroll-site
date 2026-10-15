@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 21:01:44 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 22:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molten-Perfusion-Fluorination Strategy To Enable Graphite Layer Confined Pyrochlore-Phase Iron Hydroxy Fluoride as Sustainable Conversion-Type Cathode</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03365</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03365</guid>
+<pubDate>Thu, 15 Oct 2026 22:01:15 GMT</pubDate>
+<description>این پژوهش با استراتژی مذاب-فلوریناسیون، فاز پیروکلر آهن هیدروکسی فلوراید را در لایه‌های گرافیت جای می‌دهد و کاتدی پایدار با ظرفیت ۲۵۵ mAh g⁻¹ پس از ۱۵۰ چرخه ارائه می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molten-perfusion-fluorination strategy confining pyrochlore-phase iron hydroxy fluoride within graphite layers via Fe–C bonds. This design creates a 3D open framework with abundant reactive sites and hydroxy anion substitution that softens conversion reactions. It enables sustainable, high-capacity cathodes (255 mAh g⁻¹ after 150 cycles) and offers new graphite exfoliation and confinement perspectives.&lt;br&gt;🏷 iron hydroxy fluoride · conversion cathode · graphite confinement · Li-ion battery · molten fluorination</description>
+<category>iron hydroxy fluoride</category>
+<category>conversion cathode</category>
+<category>graphite confinement</category>
+<category>Li-ion battery</category>
+<category>molten fluorination</category>
+</item>
 <item>
 <title>Interfacial engineering of rice straw/sodium lignosulfonate-based lamellar carbon materials for high-performance supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125176</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>zinc borohydride</category>
 <category>anion-solvent engineering</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Highly Efficient Electrocatalytic Nitrate‐to‐Ammonia Conversion Enabled by Ce‐O‐Co Conjugated Active Sites in Co n ‐CeO 2 /NC</title>
-<link>https://doi.org/10.1002/smll.76181</link>
-<guid isPermaLink="false">10.1002/smll.76181</guid>
-<pubDate>Tue, 13 Oct 2026 17:03:58 GMT</pubDate>
-<description>کاتالیزور Con-CeO2/NC با سایت‌های فعال مزدوج Ce-O-Co بازده فارادایی ۹۷.۱۹٪ برای تبدیل الکتروکاتالیستی نیترات به آمونیاک و عملکرد باتری Zn-NO3 عالی نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in the Ce-O-Co conjugated active structure that tunes Co 3d orbital configuration and spin, enhancing nitrate activation. This enables 97.19% ammonia Faradaic efficiency and a high yield, plus superior Zn-NO₃⁻ battery performance. It offers a viable pathway for designing efficient nitrate-to-ammonia electrocatalysts.&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · Co-CeO2 · electrocatalysis · Zn-NO3 battery</description>
-<category>nitrate reduction</category>
-<category>ammonia synthesis</category>
-<category>Co-CeO2</category>
-<category>electrocatalysis</category>
-<category>Zn-NO3 battery</category>
 </item>
 </channel>
 </rss>
