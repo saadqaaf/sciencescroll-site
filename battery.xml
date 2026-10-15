@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 09:05:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 10:04:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toward Rational Design of Aqueous Battery Membranes Beyond the Selectivity‐Conductivity Trade‐Off</title>
+<link>https://doi.org/10.1002/advs.78245</link>
+<guid isPermaLink="false">10.1002/advs.78245</guid>
+<pubDate>Thu, 15 Oct 2026 10:02:56 GMT</pubDate>
+<description>این مرور با تمرکز بر غشاهای سولفونیک اسیدی در باتری‌های جریان ردوکس، اصول طراحی برای غلبه بر مبادله رسانایی-گزینش‌پذیری و بهبود پایداری و مقیاس‌پذیری را استخراج می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely reframes sulfonic-acid membranes as a transferable design platform, extracting general principles beyond redox flow batteries. Its novelty lies in linking structure–transport–manufacturing relationships to overcome the conductivity–selectivity trade-off, while highlighting emerging directions like localized acid placement, biomass-derived membranes, and data-driven design. It offers significant guidance for rational, scalable membrane development across electrochemical energy-storage systems.&lt;br&gt;🏷 aqueous battery membranes · sulfonic acid membranes · redox flow batteries · ion selectivity · conductivity trade-off</description>
+<category>aqueous battery membranes</category>
+<category>sulfonic acid membranes</category>
+<category>redox flow batteries</category>
+<category>ion selectivity</category>
+<category>conductivity trade-off</category>
+</item>
+<item>
+<title>Interface Rectification via Roll‐to‐Roll Dual‐Confinement Nanocoatings for High‐Temperature Polymer Capacitors</title>
+<link>https://doi.org/10.1002/advs.78275</link>
+<guid isPermaLink="false">10.1002/advs.78275</guid>
+<pubDate>Thu, 15 Oct 2026 10:02:47 GMT</pubDate>
+<description>پوشش نانولامینیت آلی-معدنی به روش roll-to-roll با محدودسازی دوگانه، تزریق حامل داغ را در خازن‌های پلیمری PEI در ۱۵۰ درجه سانتی‌گراد سرکوب کرده و چگالی انرژی و عمر را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Roll-to-roll dual-confinement nanocoatings introduce an interface-rectification mechanism combining polymer nanoconfinement with anisotropic carrier relaxation in nanoclay sheets. This scalable coating doubles PEI&amp;#x27;s discharged energy density at 95% efficiency, raises breakdown strength to 501 MV/m, and extends capacitor lifetime 45-fold at 150°C—enabling high-temperature, high-density polymer capacitive energy storage for wide-bandgap power electronics.&lt;br&gt;🏷 polymer capacitors · high-temperature dielectrics · nanocoatings · roll-to-roll · interface rectification</description>
+<category>polymer capacitors</category>
+<category>high-temperature dielectrics</category>
+<category>nanocoatings</category>
+<category>roll-to-roll</category>
+<category>interface rectification</category>
+</item>
 <item>
 <title>High-Resolution 6Li Solid-State Nuclear Magnetic Resonance Reveals Hidden Lithium Dynamics in All-Solid-State Cathodes</title>
 <link>https://doi.org/10.1021/jacs.6c17473</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>N-doped graphene</category>
 <category>waste recycling</category>
 <category>holey architecture</category>
-</item>
-<item>
-<title>Synergistic Enhancement of Interfacial Stability of PEO -Based Solid -State Electrolytes via PVP -Mediated Amide-Bond-Regulated Li + Competitive Coordination and In Situ Interfacial Regulation by LiTDI Cyano Groups</title>
-<link>https://doi.org/10.1039/d6ta06841c</link>
-<guid isPermaLink="false">10.1039/d6ta06841c</guid>
-<pubDate>Tue, 13 Oct 2026 10:01:23 GMT</pubDate>
-<description>این مقاله با استفاده از PVP و گروه‌های سیانو LiTDI، هماهنگی رقابتی Li+ و پایداری بین‌سطحی الکترولیت جامد PEO را در باتری‌های لیتیوم-فلز تمام‌جامد بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 PVP-mediated amide bonds regulate Li⁺ competitive coordination in PEO electrolytes, while LiTDI cyano groups enable in situ interfacial regulation. This dual strategy synergistically stabilizes interfaces, addressing PEO&amp;#x27;s poor interfacial stability and advancing practical all-solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state electrolyte · PEO · PVP · LiTDI · interfacial stability</description>
-<category>solid-state electrolyte</category>
-<category>PEO</category>
-<category>PVP</category>
-<category>LiTDI</category>
-<category>interfacial stability</category>
-</item>
-<item>
-<title>Nitrogen-engineered covalent synergy in dual-layer encapsulated silicon anodes for superior initial coulombic efficiency</title>
-<link>https://doi.org/10.1039/d6ta06320a</link>
-<guid isPermaLink="false">10.1039/d6ta06320a</guid>
-<pubDate>Tue, 13 Oct 2026 10:01:18 GMT</pubDate>
-<description>این مقاله با طراحی کووالانسی مهندسی‌شده با نیتروژن در ساختار دولایه، پایداری ساختاری و کاهش تلفات لیتیوم را در آندهای سیلیکونی بهبود می‌بخشد و بازده کولمبی اولیه را افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Nitrogen-engineered covalent bonding within a dual-layer encapsulated silicon anode creates synergistic structural integrity, minimizing lithium loss and enabling high initial Coulombic efficiency. This design addresses silicon&amp;#x27;s poor ICE and volume expansion, offering a scalable strategy for next-generation high-capacity lithium-ion batteries.&lt;br&gt;🏷 silicon anode · initial coulombic efficiency · dual-layer encapsulation · nitrogen doping · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>initial coulombic efficiency</category>
-<category>dual-layer encapsulation</category>
-<category>nitrogen doping</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
