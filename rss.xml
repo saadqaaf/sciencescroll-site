@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 03:32:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:08:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>LoL-align: sensitive and fast probabilistic protein structure alignment</title>
+<link>https://doi.org/10.1038/s41592-026-03249-w</link>
+<guid isPermaLink="false">10.1038/s41592-026-03249-w</guid>
+<pubDate>Thu, 15 Oct 2026 04:08:09 GMT</pubDate>
+<description>LoL-align، یک روش همترازی ساختاری پروتئین، حساسیت و سرعت بالاتری در تشخیص همولوگ‌های دور نسبت به TM-align و Dali دارد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 protein structure alignment · homology detection · log-odds score · Foldseek · remote homologs</description>
+<category>protein structure alignment</category>
+<category>homology detection</category>
+<category>log-odds score</category>
+<category>Foldseek</category>
+<category>remote homologs</category>
+</item>
+<item>
+<title>MassNet: billion-scale AI-ready mass spectral corpus empowering scalable deep learning in proteomics</title>
+<link>https://doi.org/10.1038/s41592-026-03247-y</link>
+<guid isPermaLink="false">10.1038/s41592-026-03247-y</guid>
+<pubDate>Thu, 15 Oct 2026 04:08:06 GMT</pubDate>
+<description>MassNet، یک مجموعه داده طیف جرمی در مقیاس میلیاردی، برای یادگیری عمیق در پروتئومیکس معرفی می‌شود.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mass spectral corpus · proteomics · deep learning · MassNet · billion-scale</description>
+<category>mass spectral corpus</category>
+<category>proteomics</category>
+<category>deep learning</category>
+<category>MassNet</category>
+<category>billion-scale</category>
+</item>
+<item>
+<title>Gate-induced layer sliding drives non-volatile switching of magnetism in tetralayer graphene</title>
+<link>https://doi.org/10.1038/s41565-026-02306-x</link>
+<guid isPermaLink="false">10.1038/s41565-026-02306-x</guid>
+<pubDate>Thu, 15 Oct 2026 04:08:01 GMT</pubDate>
+<description>لغزش لایه‌ای القاشده توسط گیت، سوئیچینگ غیرفرار مغناطیس را در گرافن چهارلایه نشان می‌دهد.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 tetralayer graphene · layer sliding · magnetism · non-volatile switching · gate-induced</description>
+<category>tetralayer graphene</category>
+<category>layer sliding</category>
+<category>magnetism</category>
+<category>non-volatile switching</category>
+<category>gate-induced</category>
+</item>
+<item>
+<title>Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics</title>
+<link>https://doi.org/10.1038/s41565-026-02283-1</link>
+<guid isPermaLink="false">10.1038/s41565-026-02283-1</guid>
+<pubDate>Thu, 15 Oct 2026 04:07:58 GMT</pubDate>
+<description>روش لایه‌برداری شوک برودتی برای تولید گرافیت رومبوهدرال با تحرک‌پذیری فوق‌العاده بالا در نانوالکترونیک ارائه می‌شود.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 rhombohedral graphite · shock exfoliation · mobility · nanoelectronics · cryogenic</description>
+<category>rhombohedral graphite</category>
+<category>shock exfoliation</category>
+<category>mobility</category>
+<category>nanoelectronics</category>
+<category>cryogenic</category>
+</item>
+<item>
+<title>Evidence for an excitonic insulator</title>
+<link>https://doi.org/10.1038/s41565-026-02297-9</link>
+<guid isPermaLink="false">10.1038/s41565-026-02297-9</guid>
+<pubDate>Thu, 15 Oct 2026 04:07:55 GMT</pubDate>
+<description>شواهدی برای وجود عایق اکسایتونی ارائه می‌شود که می‌تواند به درک بهتر فازهای الکترونی کمک کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 excitonic insulator · electron-hole · condensation · spectroscopy · phase transition</description>
+<category>excitonic insulator</category>
+<category>electron-hole</category>
+<category>condensation</category>
+<category>spectroscopy</category>
+<category>phase transition</category>
+</item>
+<item>
+<title>Sliding ferroelectricity scales up</title>
+<link>https://doi.org/10.1038/s41565-026-02293-z</link>
+<guid isPermaLink="false">10.1038/s41565-026-02293-z</guid>
+<pubDate>Thu, 15 Oct 2026 04:07:51 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که فروالکتریسیته لغزشی در مقیاس بزرگ‌تر قابل تحقق است و پتانسیل آن برای کاربردهای عملی را بررسی می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 sliding ferroelectricity · van der Waals · polarization · interface · scaling</description>
+<category>sliding ferroelectricity</category>
+<category>van der Waals</category>
+<category>polarization</category>
+<category>interface</category>
+<category>scaling</category>
+</item>
 <item>
 <title>Building indium oxide transistors in three dimensions</title>
 <link>https://doi.org/10.1038/s41928-026-01730-0</link>
@@ -979,78 +1051,6 @@
 <category>LAMP</category>
 <category>resazurin</category>
 <category>hot electron injection</category>
-</item>
-<item>
-<title>Vitamin D binding protein in ventral CA3 of the hippocampus drives stress-induced depression</title>
-<link>https://doi.org/10.1126/sciadv.aeh9563</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh9563</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:31 GMT</pubDate>
-<description>افزایش VDBP در نورون‌های CaMKIIα ناحیه ventral CA3 هیپوکامپ با مهار مسیر PI3K-Akt-mTOR و اتوفاژی مفرط، رفتار شبه‌افسردگی ناشی از استرس مزمن را در موش ایجاد می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 vitamin D binding protein · ventral CA3 · depression · PI3K-Akt-mTOR · autophagy</description>
-<category>vitamin D binding protein</category>
-<category>ventral CA3</category>
-<category>depression</category>
-<category>PI3K-Akt-mTOR</category>
-<category>autophagy</category>
-</item>
-<item>
-<title>Humans experienced abrupt environmental changes at White Sands during the Last Glacial Maximum</title>
-<link>https://doi.org/10.1126/sciadv.aeh0707</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh0707</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:28 GMT</pubDate>
-<description>کاوش‌های White Sands با تاریخ‌گذاری رادیوکربن گرده‌های سوزنی‌برگ، توالی ردپای انسان را به ۲۳.۵ تا ۲۱.۷ هزار سال پیش و تغییرات محیطی شدید در آخرین بیشینه یخبندان نسبت می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 White Sands footprints · Last Glacial Maximum · radiocarbon dating · paleoclimate · human migration</description>
-<category>White Sands footprints</category>
-<category>Last Glacial Maximum</category>
-<category>radiocarbon dating</category>
-<category>paleoclimate</category>
-<category>human migration</category>
-</item>
-<item>
-<title>A B1 SINE element within the mouse Malat1 long noncoding RNA acts as an internal ribosome entry site mediating micropeptide translation</title>
-<link>https://doi.org/10.1126/sciadv.aee5884</link>
-<guid isPermaLink="false">10.1126/sciadv.aee5884</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:25 GMT</pubDate>
-<description>عنصر B1 SINE در RNA بلند غیرکدکننده Malat1 موش به عنوان IRES عمل کرده و ترجمه میکروپپتید M1 را واسطه‌گری می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Malat1 · IRES · B1 SINE · micropeptide · translation</description>
-<category>Malat1</category>
-<category>IRES</category>
-<category>B1 SINE</category>
-<category>micropeptide</category>
-<category>translation</category>
-</item>
-<item>
-<title>Integrative multi-omics reveals CUL4B as a modulator of macrophage pyroptosis and innate defense against Staphylococcus aureus</title>
-<link>https://doi.org/10.1126/sciadv.aeh4023</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh4023</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:21 GMT</pubDate>
-<description>مطالعه چندomics نشان می‌دهد حذف CUL4B در ماکروفاژها پاسخ‌های التهابی و پاکسازی باکتری استافیلوکوکوس اورئوس را در مدل پنومونی MRSA بهبود می‌بخشد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 CUL4B · macrophage pyroptosis · Staphylococcus aureus · multi-omics · innate immunity</description>
-<category>CUL4B</category>
-<category>macrophage pyroptosis</category>
-<category>Staphylococcus aureus</category>
-<category>multi-omics</category>
-<category>innate immunity</category>
-</item>
-<item>
-<title>Learning to infer transitively on a mental line in premotor cortex</title>
-<link>https://doi.org/10.1126/sciadv.aec2068</link>
-<guid isPermaLink="false">10.1126/sciadv.aec2068</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:18 GMT</pubDate>
-<description>فعالیت نورونی در قشر پیش‌حرکتی پشتی میمون‌ها نشان می‌دهد خط ذهنی برای استنتاج انتقالی در حین یادگیری با برنامه‌ریزی حرکتی هم‌راستا می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 transitive inference · premotor cortex · mental line · monkey · learning</description>
-<category>transitive inference</category>
-<category>premotor cortex</category>
-<category>mental line</category>
-<category>monkey</category>
-<category>learning</category>
-</item>
-<item>
-<title>Bisulfate-mediated selective methane oxidation under mild aqueous conditions</title>
-<link>https://doi.org/10.1126/sciadv.aei3285</link>
-<guid isPermaLink="false">10.1126/sciadv.aei3285</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:15 GMT</pubDate>
-<description>اکسیداسیون انتخابی متان با O2 و پودر Cu در H2SO4 آبی رقیق در دمای اتاق انجام شد و بی‌سولفات از اکسیداسیون بیش‌ازحد متانول جلوگیری می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 methane oxidation · bisulfate · copper catalyst · mild conditions · selectivity</description>
-<category>methane oxidation</category>
-<category>bisulfate</category>
-<category>copper catalyst</category>
-<category>mild conditions</category>
-<category>selectivity</category>
 </item>
 </channel>
 </rss>
