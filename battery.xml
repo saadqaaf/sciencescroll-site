@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 06:01:18 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 07:01:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stepwise Delithiation and Interfacial Electric Field Engineering Enabling Stable Cycling of LiNi0.8Co0.1Mn0.1O2/LiFePO4 Hybrid Cathode Under Harsh Conditions</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105598</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105598</guid>
+<pubDate>Thu, 15 Oct 2026 07:01:37 GMT</pubDate>
+<description>حذف تدریجی لیتیوم و مهندسی میدان الکتریکی بین‌سطحی، چرخه‌پذیری پایدار کاتد ترکیبی NCM811/LFP را در شرایط سخت ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 LiNi0.8Co0.1Mn0.1O2 · LiFePO4 · hybrid cathode · delithiation · interfacial electric field</description>
+<category>LiNi0.8Co0.1Mn0.1O2</category>
+<category>LiFePO4</category>
+<category>hybrid cathode</category>
+<category>delithiation</category>
+<category>interfacial electric field</category>
+</item>
+<item>
+<title>Electron delocalization orchestrated Zn2+ reduction chemistry enables highly reversible Zn metal anodes</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.023</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.023</guid>
+<pubDate>Thu, 15 Oct 2026 07:01:27 GMT</pubDate>
+<description>هماهنگی جابجایی الکترون، شیمی کاهش Zn2+ را برای آندهای فلزی Zn بسیار برگشت‌پذیر می‌کند.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 Zn metal anodes · electron delocalization · Zn2+ reduction · reversibility · aqueous batteries</description>
+<category>Zn metal anodes</category>
+<category>electron delocalization</category>
+<category>Zn2+ reduction</category>
+<category>reversibility</category>
+<category>aqueous batteries</category>
+</item>
 <item>
 <title>Precursor crosslinking engineering regulates closed-pore architecture in lignin-derived hard carbon for highly reversible sodium storage</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122220</link>
@@ -1182,30 +1206,6 @@
 <category>photodynamic therapy</category>
 <category>photothermal therapy</category>
 <category>NIR-triggered</category>
-</item>
-<item>
-<title>Microstructure Evolution in Dry‑Coated Sulfidic All‐Solid‐State Battery Cathodes: Investigating Core–Shell Particle Morphology</title>
-<link>https://doi.org/10.1002/advs.78248</link>
-<guid isPermaLink="false">10.1002/advs.78248</guid>
-<pubDate>Tue, 13 Oct 2026 07:01:56 GMT</pubDate>
-<description>مورفولوژی هسته-پوسته و ریزساختار کاتدهای خشک‌پوشش‌شده باتری تمام‌حالت‌جامد سولفیدی با اختلاط اکستروژن و دسته‌ای بررسی می‌شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study pioneers continuous extrusion for dry-coated sulfidic all-solid-state cathodes, achieving core–shell-like PTFE coatings on NCM85. Unlike batch mixing, extrusion yields superior microstructure, ionic conductivity, and electrochemical performance. It establishes a scalable route for engineering electrode interfaces, advancing practical all-solid-state battery manufacturing.&lt;br&gt;🏷 all-solid-state battery · dry coating · sulfidic electrolyte · core-shell morphology · extrusion mixing</description>
-<category>all-solid-state battery</category>
-<category>dry coating</category>
-<category>sulfidic electrolyte</category>
-<category>core-shell morphology</category>
-<category>extrusion mixing</category>
-</item>
-<item>
-<title>Multifunctional Oleylamine Enables Direct Regeneration of Spent Lithium Iron Phosphate Cathodes through Coupled Lattice and Interface Repair</title>
-<link>https://doi.org/10.1002/eem2.70526</link>
-<guid isPermaLink="false">10.1002/eem2.70526</guid>
-<pubDate>Tue, 13 Oct 2026 07:01:37 GMT</pubDate>
-<description>اولئیل‌آمین با ترمیم همزمان شبکه و سطح، کاتد LiFePO4 مستعمل را بازتولید کرده و ظرفیت و پایداری چرخه‌ای آن را بهبود می‌بخشد.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Oleylamine enables one-step solvothermal regeneration of spent LiFePO₄, simultaneously reducing Fe³⁺, repairing lattice defects, suppressing Li-Fe antisite disorder, and stabilizing morphology, then forming an N-doped carbon coating. This multifunctional approach restores capacity (155.2 mAh g⁻¹) and cycling stability, offering a scalable, high-value direct recycling route for spent batteries.&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · oleylamine · spent batteries · N-doped carbon</description>
-<category>LiFePO4 cathode</category>
-<category>direct regeneration</category>
-<category>oleylamine</category>
-<category>spent batteries</category>
-<category>N-doped carbon</category>
 </item>
 </channel>
 </rss>
