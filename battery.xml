@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 23:04:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 00:08:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Precursor crosslinking engineering regulates closed-pore architecture in lignin-derived hard carbon for highly reversible sodium storage</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122220</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122220</guid>
+<pubDate>Thu, 15 Oct 2026 00:08:09 GMT</pubDate>
+<description>این پژوهش با مهندسی اتصال عرضی پیش‌ماده، ساختار حفره‌های بسته را در کربن سخت مشتق از لیگنین تنظیم می‌کند و ذخیره‌سازی سدیم را به‌طور برگشت‌پذیر بهبود می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 hard carbon · lignin · sodium storage · closed pores · crosslinking</description>
+<category>hard carbon</category>
+<category>lignin</category>
+<category>sodium storage</category>
+<category>closed pores</category>
+<category>crosslinking</category>
+</item>
+<item>
+<title>Quantifying electronic insulation of solid-electrolyte interphases through electrolyte decomposition kinetics</title>
+<link>https://doi.org/10.1038/s41524-026-02362-w</link>
+<guid isPermaLink="false">10.1038/s41524-026-02362-w</guid>
+<pubDate>Thu, 15 Oct 2026 00:08:04 GMT</pubDate>
+<description>این مقاله با بررسی سینتیک تجزیه الکترولیت، عایق‌بودن الکترونیکی لایه بین‌فازی الکترولیت جامد (SEI) را کمّی می‌کند که برای عملکرد باتری‌های لیتیوم-یون حیاتی است.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work introduces RED, a computational framework combining Marcus theory and constrained DFT to quantify SEI electronic insulation via electrolyte decomposition kinetics. Unlike prior methods focused solely on electronic coupling, RED integrates reorganization energy, revealing that it can reverse insulation rankings. This enables component-resolved, electrolyte-dependent evaluation, identifying Li2CO3&amp;#x27;s high insulation and establishing a proof-of-concept for studying heterogeneous SEIs.&lt;br&gt;🏷 solid-electrolyte interphase · electrolyte decomposition · electronic insulation · kinetics · lithium-ion battery</description>
+<category>solid-electrolyte interphase</category>
+<category>electrolyte decomposition</category>
+<category>electronic insulation</category>
+<category>kinetics</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>“‐NH‐” Homologation Driven Self‐Exfoliated Bipolar Covalent Organic Nanosheet as Dual‐Ion Binding Anode for High‐Performance Aqueous Zinc‐Based Dual‐Ion Battery</title>
+<link>https://doi.org/10.1002/smll.76259</link>
+<guid isPermaLink="false">10.1002/smll.76259</guid>
+<pubDate>Thu, 15 Oct 2026 00:07:39 GMT</pubDate>
+<description>نانوصفحه کووالانسی دوقطبی خودجداشونده به عنوان آند دوباره‌یون‌پذیر، باتری آبی روی با چگالی انرژی بالا و پایداری چرخه‌ای عالی ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The work introduces a self-exfoliated bipolar polyimide covalent organic nanosheet anode via an “-NH-” homologation strategy, enabling dual-ion Zn²⁺/SO₄²⁻ storage below 0.6 V. It delivers 185 mAh g⁻¹, 5000-cycle stability, and a record 82.73 Wh kg⁻¹ full cell with MnO₂, offering a dendrite-free, high-performance alternative for aqueous zinc dual-ion batteries.&lt;br&gt;🏷 aqueous zinc battery · covalent organic nanosheet · dual-ion battery · polyimide anode · self-exfoliation</description>
+<category>aqueous zinc battery</category>
+<category>covalent organic nanosheet</category>
+<category>dual-ion battery</category>
+<category>polyimide anode</category>
+<category>self-exfoliation</category>
+</item>
+<item>
+<title>Ferroelectric Low‐Tortuosity Separators for Dendrite‐Free Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76188</link>
+<guid isPermaLink="false">10.1002/smll.76188</guid>
+<pubDate>Thu, 15 Oct 2026 00:07:13 GMT</pubDate>
+<description>جداکننده فروالکتریک BaTiO3 با کانال‌های کم‌پیچ‌وخم، رسانایی یونی و عدد انتقال را بهبود داده و رشد دندریت لیتیوم را در باتری حالت جامد سرکوب می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Ferroelectric BaTiO₃-coated track-etched membranes with vertically aligned, low-tortuosity channels are introduced as separators for solid-state lithium metal batteries. Combined with in situ polymerized PDOL, they shorten Li⁺ pathways and homogenize electric fields, enabling dendrite-free plating, high conductivity (0.12 mS cm⁻¹), and stable cycling. This geometrically engineered ferroelectric separator paradigm advances safe, high-performance lithium metal batteries.&lt;br&gt;🏷 solid-state battery · ferroelectric separator · lithium dendrite · BaTiO3 · low-tortuosity</description>
+<category>solid-state battery</category>
+<category>ferroelectric separator</category>
+<category>lithium dendrite</category>
+<category>BaTiO3</category>
+<category>low-tortuosity</category>
+</item>
+<item>
+<title>Nanoconfinement-cooperated catalysis enables rapid tandem redox kinetics for wide-temperature lithium-sulfur batteries</title>
+<link>https://doi.org/10.1126/sciadv.aej0353</link>
+<guid isPermaLink="false">10.1126/sciadv.aej0353</guid>
+<pubDate>Thu, 15 Oct 2026 00:06:16 GMT</pubDate>
+<description>این مقاله با ترکیب نانوحصر و کاتالیز تاندمی در TPBD/MXene، سینتیک ردوکس سریع و عملکرد وسیع‌دمایی در باتری‌های لیتیوم-گوگرد را ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 This work pioneers nanoconfinement-cooperated tandem catalysis to regulate the inner Helmholtz plane in Li-S batteries. The porous TPBD/MXene promoter confines bulky solvated Li⁺, accelerates desolvation, and reconstructs solvation structure, yielding a 0.77 Li⁺ transference number, 1000-cycle life, and wide-temperature operation (0–50°C) at high sulfur loading, advancing practical Li-S deployment.&lt;br&gt;🏷 lithium-sulfur battery · MXene · covalent organic framework · nanoconfinement · tandem catalysis</description>
+<category>lithium-sulfur battery</category>
+<category>MXene</category>
+<category>covalent organic framework</category>
+<category>nanoconfinement</category>
+<category>tandem catalysis</category>
+</item>
+<item>
+<title>Dual‐Functional Membranes With Interfacial MXene/PFSA Nanoarchitectures for Low Hydrogen Permeation in Water Electrolysis and Reduced Vanadium Ion Crossover in Flow Batteries</title>
+<link>https://doi.org/10.1002/advs.78270</link>
+<guid isPermaLink="false">10.1002/advs.78270</guid>
+<pubDate>Thu, 15 Oct 2026 00:03:15 GMT</pubDate>
+<description>این مقاله غشاهای دوعملکردی با نانوساختارهای MXene/PFSA را برای کاهش نفوذ هیدروژن در الکترولیز آب و کاهش عبور یون وانادیم در باتری جریانی ارائه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 MXene/PFSA layer-by-layer membranes create interfacial nanoarchitectures that decouple proton conductivity from gas and ion crossover. MXene nanosheets introduce tortuous pathways and selectively raise transport barriers for H₂ and VO²⁺ while preserving proton migration via hydrogen bonds. This yields 43% lower hydrogen permeability and 37.5% reduced vanadium diffusion without conductivity loss, enabling stable PEMWE operation and 67% VRFB capacity retention over 470 cycles—a versatile interfacial strategy for both technologies.&lt;br&gt;🏷 MXene/PFSA membrane · hydrogen permeation · vanadium crossover · water electrolysis · flow battery</description>
+<category>MXene/PFSA membrane</category>
+<category>hydrogen permeation</category>
+<category>vanadium crossover</category>
+<category>water electrolysis</category>
+<category>flow battery</category>
+</item>
+<item>
+<title>Synergistic &quot;fast ions/electrons&quot; strategy for high-performance vanadium-based cathodes via coal gangue carbon and organic intercalation</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.008</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.008</guid>
+<pubDate>Thu, 15 Oct 2026 00:02:44 GMT</pubDate>
+<description>این مقاله با استراتژی هم‌افزایی «یون‌ها/الکترون‌های سریع» از طریق کربن زغال‌سنگ و درج آلی، کاتدهای وانادیمی با عملکرد بالا برای باتری‌ها ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 vanadium-based cathodes · coal gangue carbon · organic intercalation · fast ions/electrons · zinc-ion battery</description>
+<category>vanadium-based cathodes</category>
+<category>coal gangue carbon</category>
+<category>organic intercalation</category>
+<category>fast ions/electrons</category>
+<category>zinc-ion battery</category>
+</item>
 <item>
 <title>Vacancy-mediated ultrafast oxide-ion conduction in excess-oxygen Sillén oxybromides</title>
 <link>https://doi.org/10.1038/s41467-026-77848-8</link>
@@ -1122,90 +1206,6 @@
 <category>oleylamine</category>
 <category>spent batteries</category>
 <category>N-doped carbon</category>
-</item>
-<item>
-<title>From battery signals to mechanism-aware lifetime prediction: A descriptor framework across representative battery chemistries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.065</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.065</guid>
-<pubDate>Tue, 13 Oct 2026 06:02:17 GMT</pubDate>
-<description>این مقاله یک چارچوب توصیفگر برای پیش‌بینی عمر باتری مبتنی بر مکانیسم ارائه می‌دهد که سیگنال‌های باتری را به تخمین دقیق‌تر طول عمر در شیمی‌های مختلف باتری متصل می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 battery lifetime prediction · degradation mechanism · descriptor framework · battery chemistries · state of health</description>
-<category>battery lifetime prediction</category>
-<category>degradation mechanism</category>
-<category>descriptor framework</category>
-<category>battery chemistries</category>
-<category>state of health</category>
-</item>
-<item>
-<title>Garnet-type LLZO solid electrolytes: Grain-boundary engineering, electro-chemo-mechanical failure, and manufacturability</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105595</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105595</guid>
-<pubDate>Tue, 13 Oct 2026 04:01:19 GMT</pubDate>
-<description>این مقاله مروری به مهندسی مرز دانه، شکست الکترو-شیمیایی-مکانیکی و قابلیت ساخت الکترولیت‌های جامد LLZO نوع گارنت می‌پردازد.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 LLZO · solid electrolyte · grain boundary · electro-chemo-mechanics · manufacturability</description>
-<category>LLZO</category>
-<category>solid electrolyte</category>
-<category>grain boundary</category>
-<category>electro-chemo-mechanics</category>
-<category>manufacturability</category>
-</item>
-<item>
-<title>Gradient-Structured Janus Hydrogel Electrolyte via One-Pot Aqueous Copolymerization for Flexible Aqueous Zinc Metal Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105596</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105596</guid>
-<pubDate>Tue, 13 Oct 2026 04:01:15 GMT</pubDate>
-<description>الکترولیت هیدروژل ژانوس با ساختار گرادیانی از طریق کوپلیمریزاسیون آبی یک‌مرحله‌ای برای باتری‌های فلزی روی آبی انعطاف‌پذیر ساخته شد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc metal battery · hydrogel electrolyte · Janus structure · gradient structure · copolymerization</description>
-<category>zinc metal battery</category>
-<category>hydrogel electrolyte</category>
-<category>Janus structure</category>
-<category>gradient structure</category>
-<category>copolymerization</category>
-</item>
-<item>
-<title>Advancing Sulfide Electrolyte/Silicon-Based Anode Systems in All-Solid-State Batteries: Interface Stability, Design, and Perspectives</title>
-<link>https://doi.org/10.1007/s41918-026-00285-0</link>
-<guid isPermaLink="false">10.1007/s41918-026-00285-0</guid>
-<pubDate>Tue, 13 Oct 2026 01:01:14 GMT</pubDate>
-<description>این مقاله مروری به پیشرفت سیستم‌های الکترولیت سولفیدی/آند سیلیکونی در باتری‌های تمام‌حالت‌جامد از نظر پایداری سطح مشترک، طراحی و چشم‌اندازها می‌پردازد.&lt;br&gt;Electrochemical Energy Reviews | ⭐ Review&lt;br&gt;🏷 all-solid-state batteries · sulfide electrolyte · silicon anode · interface stability · electrode design</description>
-<category>all-solid-state batteries</category>
-<category>sulfide electrolyte</category>
-<category>silicon anode</category>
-<category>interface stability</category>
-<category>electrode design</category>
-</item>
-<item>
-<title>Nonaqueous Redox Flow Batteries: Opportunities and Challenges for Sustainable Energy Storage</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00427</link>
-<guid isPermaLink="false">10.1021/acs.chemrev.6c00427</guid>
-<pubDate>Tue, 13 Oct 2026 00:02:15 GMT</pubDate>
-<description>این مرور به فرصت‌ها و چالش‌های باتری‌های جریان ردوکس غیرآبی برای ذخیره‌سازی انرژی پایدار با چگالی بالا می‌پردازد.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely synthesizes recent advances across all key nonaqueous redox flow battery components—solvents, electrolytes, membranes, electrodes, and redox-active molecules—while highlighting machine learning, advanced characterization, and life cycle assessment as accelerants. Its significance lies in comparing aqueous and nonaqueous systems from commercialization and sustainability perspectives, offering design principles to guide next-generation low-cost, high-energy-density flow batteries for long-duration and extreme-environment storage.&lt;br&gt;🏷 nonaqueous redox flow battery · energy storage · electrolyte · redox-active molecules · sustainability</description>
-<category>nonaqueous redox flow battery</category>
-<category>energy storage</category>
-<category>electrolyte</category>
-<category>redox-active molecules</category>
-<category>sustainability</category>
-</item>
-<item>
-<title>Influence of arylene diimide linker aromaticity on the electrochemical performance of redox-active metal–organic framework cathodes for lithium-ion storage</title>
-<link>https://doi.org/10.1039/d6ta05048d</link>
-<guid isPermaLink="false">10.1039/d6ta05048d</guid>
-<pubDate>Tue, 13 Oct 2026 00:02:03 GMT</pubDate>
-<description>افزایش آروماتیسیته در لیگاندهای دی‌ایمید آرایلن در MOFهای Zn-XDI باعث پایداری حالت کاهش‌یافته و بهبود ذخیره‌سازی لیتیوم می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study establishes linker aromaticity as a tunable design parameter for redox-active MOF cathodes, showing that PMDI, NDI, and PDI linkers in isoreticular Zn-XDI MOFs progressively stabilize reduced states and boost Li-ion storage. Zn-PDI and Zn-NDI achieve excellent cycling stability, offering a new strategy for engineering high-performance organic electrode materials.&lt;br&gt;🏷 metal-organic framework · arylene diimide · lithium-ion storage · aromaticity · cathode</description>
-<category>metal-organic framework</category>
-<category>arylene diimide</category>
-<category>lithium-ion storage</category>
-<category>aromaticity</category>
-<category>cathode</category>
-</item>
-<item>
-<title>Influence of Solid-State Battery Degradation on Direct Recycling of Li 6 PS 5 Cl: Structure, Transport, and Electrochemical Properties</title>
-<link>https://doi.org/10.1039/d6ta05507a</link>
-<guid isPermaLink="false">10.1039/d6ta05507a</guid>
-<pubDate>Tue, 13 Oct 2026 00:01:58 GMT</pubDate>
-<description>تأثیر تخریب باتری حالت جامد بر بازیافت مستقیم Li6PS5Cl و خواص ساختاری، انتقالی و الکتروشیمیایی آن بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study uniquely links solid-state battery degradation to direct recycling of Li6PS5Cl, revealing how aging alters structure, transport, and electrochemical properties. It advances sustainable recycling by showing degraded solid electrolytes can be directly reused, reducing critical material demand and guiding design of robust, recyclable solid-state batteries.&lt;br&gt;🏷 solid-state battery · Li6PS5Cl · direct recycling · degradation · ionic transport</description>
-<category>solid-state battery</category>
-<category>Li6PS5Cl</category>
-<category>direct recycling</category>
-<category>degradation</category>
-<category>ionic transport</category>
 </item>
 </channel>
 </rss>
