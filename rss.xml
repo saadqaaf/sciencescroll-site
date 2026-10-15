@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 04:08:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 06:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Advances in applications of metal-organic frameworks for selective separation of target substances from natural sources</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218665</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218665</guid>
+<pubDate>Thu, 15 Oct 2026 06:01:16 GMT</pubDate>
+<description>این مقاله مروری به پیشرفت‌های اخیر در کاربردهای metal-organic frameworks برای جداسازی انتخابی مواد هدف از منابع طبیعی می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal-organic frameworks · selective separation · natural sources · adsorption · target substances</description>
+<category>metal-organic frameworks</category>
+<category>selective separation</category>
+<category>natural sources</category>
+<category>adsorption</category>
+<category>target substances</category>
+</item>
 <item>
 <title>LoL-align: sensitive and fast probabilistic protein structure alignment</title>
 <link>https://doi.org/10.1038/s41592-026-03249-w</link>
@@ -1039,18 +1051,6 @@
 <category>cryogenic sensing</category>
 <category>ionic conduction</category>
 <category>hydrogen bonding</category>
-</item>
-<item>
-<title>Plasmonic metasurface microfluidic accelerates redox reactions for rapid phenotypic antibiotic susceptibility testing</title>
-<link>https://doi.org/10.1126/sciadv.aec7686</link>
-<guid isPermaLink="false">10.1126/sciadv.aec7686</guid>
-<pubDate>Thu, 15 Oct 2026 00:04:34 GMT</pubDate>
-<description>سطح فلز-پلاسمونی چندلایه با تقویت میدان الکترومغناطیسی و تزریق الکترون داغ، واکنش‌های ردوکس LAMP و resazurin را برای شناسایی سریع باکتری و آزمون حساسیت آنتی‌بیوتیکی تسریع می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 plasmonic metasurface · antibiotic susceptibility testing · LAMP · resazurin · hot electron injection</description>
-<category>plasmonic metasurface</category>
-<category>antibiotic susceptibility testing</category>
-<category>LAMP</category>
-<category>resazurin</category>
-<category>hot electron injection</category>
 </item>
 </channel>
 </rss>
