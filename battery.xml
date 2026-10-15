@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 20:02:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial engineering of rice straw/sodium lignosulfonate-based lamellar carbon materials for high-performance supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125176</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125176</guid>
+<pubDate>Thu, 15 Oct 2026 21:01:42 GMT</pubDate>
+<description>این مطالعه با مهندسی بین‌سطحی مواد کربنی لایه‌ای بر پایه کاه برنج و لیگنوسولفونات سدیم، ابرخازنی با عملکرد بالا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor · rice straw · sodium lignosulfonate · lamellar carbon · interfacial engineering</description>
+<category>supercapacitor</category>
+<category>rice straw</category>
+<category>sodium lignosulfonate</category>
+<category>lamellar carbon</category>
+<category>interfacial engineering</category>
+</item>
 <item>
 <title>Progress and Perspectives on Confinement Engineering to Revive Alloying‐Type Anode Materials for Sodium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/smll.76046</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>Co-CeO2</category>
 <category>electrocatalysis</category>
 <category>Zn-NO3 battery</category>
-</item>
-<item>
-<title>Achieving High‐Mass Loading Polyanionic Cathodes in Sodium‐Ion Batteries Through Accessible Laboratory‐Scale Dry‐Processing Strategies</title>
-<link>https://doi.org/10.1002/smll.76160</link>
-<guid isPermaLink="false">10.1002/smll.76160</guid>
-<pubDate>Tue, 13 Oct 2026 17:03:52 GMT</pubDate>
-<description>یک روش خشک آزمایشگاهی با آسیاب گلوله‌ای و پرس گرم برای ساخت کاتد NVMP ضخیم با بارگذاری بالا در باتری سدیم-یون ارائه شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work introduces an accessible lab-scale dry-processing route using ball-milling and thermal pressing to control PTFE fibrillation, enabling stable, continuous thick polyanionic cathodes. Achieving over 40 mg cm⁻² loading, the NVMP electrode shows reduced polarization and enhanced diffusion, with full cells demonstrating durable cycling. It offers a practical pathway for high-mass-loading sodium-ion battery research.&lt;br&gt;🏷 sodium-ion battery · dry processing · thick electrode · PTFE fibrillation · NVMP cathode</description>
-<category>sodium-ion battery</category>
-<category>dry processing</category>
-<category>thick electrode</category>
-<category>PTFE fibrillation</category>
-<category>NVMP cathode</category>
 </item>
 </channel>
 </rss>
