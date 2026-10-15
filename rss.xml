@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 11:01:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 12:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Product-level variability in chemistry, filament geometry, and tensile reliability across ten commercial basalt fiber products</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114309</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114309</guid>
+<pubDate>Thu, 15 Oct 2026 12:01:14 GMT</pubDate>
+<description>این مقاله تغییرات در شیمی، هندسه رشته و قابلیت اطمینان کششی را در ده محصول تجاری الیاف بازالت بررسی می‌کند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 basalt fiber · product variability · filament geometry · tensile reliability · commercial products</description>
+<category>basalt fiber</category>
+<category>product variability</category>
+<category>filament geometry</category>
+<category>tensile reliability</category>
+<category>commercial products</category>
+</item>
+<item>
+<title>Lipoprotein-Driven Remodeling of Interfacial Charge Governs Protein-Mediated Implant Integration</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03394</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03394</guid>
+<pubDate>Thu, 15 Oct 2026 12:01:10 GMT</pubDate>
+<description>بازآرایی بار سطحی توسط لیپوپروتئین‌ها، اتصال فیبرونکتین و یکپارچگی ایمپلنت را تنظیم می‌کند و حذف باقیمانده‌های بار منفی، اتصال را تقویت می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 interfacial charge · fibronectin · implant integration · hyperlipidemia · biomaterial surface</description>
+<category>interfacial charge</category>
+<category>fibronectin</category>
+<category>implant integration</category>
+<category>hyperlipidemia</category>
+<category>biomaterial surface</category>
+</item>
 <item>
 <title>Cooling-preheating dual-functional battery thermal management system based on modular assembly phase change materials</title>
 <link>https://doi.org/10.1016/j.est.2026.125118</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 solar biorefinery · lign
 <category>guest anion</category>
 <category>solvation chemistry</category>
 <category>Mg(OTf)2</category>
-</item>
-<item>
-<title>Efficient Bipolar Hydrogen Peroxide Production Through Photoelectrochemistry</title>
-<link>https://doi.org/10.1002/anie.3694210</link>
-<guid isPermaLink="false">10.1002/anie.3694210</guid>
-<pubDate>Thu, 15 Oct 2026 09:02:45 GMT</pubDate>
-<description>فوتوآند BiVO4/WO3 اصلاح‌شده با YbOx بازده فارادیک H2O2 بالای 80% و تولید دوقطبی H2O2 با بازده ~160% در سلول تاندم بدون بایاس فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 photoelectrochemical · H2O2 production · BiVO4/WO3 · YbOx · high-entropy oxide</description>
-<category>photoelectrochemical</category>
-<category>H2O2 production</category>
-<category>BiVO4/WO3</category>
-<category>YbOx</category>
-<category>high-entropy oxide</category>
-</item>
-<item>
-<title>Radical‐Mediated Surface Reconstruction of SnO 2 Nanocrystals Enables Efficient and Durable Perovskite Solar Cells and Modules</title>
-<link>https://doi.org/10.1002/anie.4404754</link>
-<guid isPermaLink="false">10.1002/anie.4404754</guid>
-<pubDate>Thu, 15 Oct 2026 09:02:42 GMT</pubDate>
-<description>بازسازی سطحی رادیکالی نانوکریستال‌های SnO2 بدون لیگاند، بازده سلول‌های خورشیدی پروسکایتی را به 26.47% و ماژول 110 cm2 را به 21.45% می‌رساند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · SnO2 nanocrystals · radical-mediated reconstruction · electron transport layer · stability</description>
-<category>perovskite solar cells</category>
-<category>SnO2 nanocrystals</category>
-<category>radical-mediated reconstruction</category>
-<category>electron transport layer</category>
-<category>stability</category>
 </item>
 </channel>
 </rss>
