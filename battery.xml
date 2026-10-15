@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 15:03:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:02:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stress Regulation through Precursor Chemistry: From Synthesis to Cycling Stability in O3‐Type Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/aenm.71699</link>
+<guid isPermaLink="false">10.1002/aenm.71699</guid>
+<pubDate>Thu, 15 Oct 2026 16:01:57 GMT</pubDate>
+<description>استفاده از پیش‌ماده‌های نمک فلزی کم‌ذوب در سنتز کاتدهای لایه‌ای O3 باعث کاهش انرژی فعال‌سازی، توزیع یکنواخت تنش باقیمانده و بهبود پایداری چرخه‌ای باتری سدیم-یون می‌شود.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces low-melting-point metal salt precursors for O3-type layered oxide cathodes, enabling synchronous decomposition that suppresses residual stress accumulation. Compared to conventional oxide routes, this strategy lowers activation energy, ensures uniform lattice strain, and prevents particle cracking during cycling. It establishes stress regulation as a key design principle for high-stability sodium-ion battery cathodes.&lt;br&gt;🏷 layered oxide cathode · sodium-ion battery · stress regulation · precursor chemistry · cycling stability</description>
+<category>layered oxide cathode</category>
+<category>sodium-ion battery</category>
+<category>stress regulation</category>
+<category>precursor chemistry</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Interfacial Dipole Reorganization Enables Ultrafast Sodium Storage in Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathodes</title>
+<link>https://doi.org/10.1002/aenm.71711</link>
+<guid isPermaLink="false">10.1002/aenm.71711</guid>
+<pubDate>Thu, 15 Oct 2026 16:01:36 GMT</pubDate>
+<description>جانشینی Ni2+ در کاتد Na4Fe3(PO4)2P2O7 ساختار الکترونی و پتانسیل الکترواستاتیک سطحی را بازآرایی کرده و ذخیره‌سازی سریع سدیم با حفظ ۷۴٪ ظرفیت پس از ۱۰۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Ni²⁺ substitution in Na₄Fe₃(PO₄)₂P₂O₇ couples bulk electronic regulation to interfacial dipole reorganization, reshaping surface potential and suppressing solvent polarization and ion pairing. This bulk-to-interface strategy yields ultrafast Na⁺ storage—118 mAh g⁻¹ at 0.1 C, 74% retention over 10,000 cycles at 20 C—extending substitution chemistry beyond bulk transport toward deliberate electrode–electrolyte interaction control.&lt;br&gt;🏷 sodium-ion battery · NFPP cathode · Ni substitution · interfacial dipole · ultrafast sodium storage</description>
+<category>sodium-ion battery</category>
+<category>NFPP cathode</category>
+<category>Ni substitution</category>
+<category>interfacial dipole</category>
+<category>ultrafast sodium storage</category>
+</item>
+<item>
+<title>Near‐Micron Single‐Crystalline Mn‐Rich Cathodes With Exceptional Cycling Stability</title>
+<link>https://doi.org/10.1002/aenm.71701</link>
+<guid isPermaLink="false">10.1002/aenm.71701</guid>
+<pubDate>Thu, 15 Oct 2026 16:01:30 GMT</pubDate>
+<description>کاتدهای تک‌بلوری نزدیک‌میکرونی δ-DRX غنی از Mn با چگالی انرژی ۶۴۰ Wh/kg و حفظ ظرفیت ۹۷٪ پس از ۴۰۰ چرخه ساخته شد و ناهمگنی ترکیبی عامل تشکیل ناخالصی LiMnO2 شناسایی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Near-micron single-crystalline δ-DRX cathodes achieve ~640 Wh/kg with 97% retention over 400 cycles. Novelty: identifying interparticle compositional heterogeneity as the origin of LiMnO₂ impurity, enabling accelerated cooling that suppresses impurities and downsizes particles. Significance: a mechanistic basis for particle-size control in Mn-rich DRX synthesis, advancing sustainable, high-performance, Ni- and Co-free Li-ion cathodes.&lt;br&gt;🏷 Mn-rich cathode · disordered rocksalt · single-crystalline · Li-ion battery · cobalt-free</description>
+<category>Mn-rich cathode</category>
+<category>disordered rocksalt</category>
+<category>single-crystalline</category>
+<category>Li-ion battery</category>
+<category>cobalt-free</category>
+</item>
+<item>
+<title>Anion‐Driven Solvent Degradation Networks in High‐Concentration Battery Electrolytes</title>
+<link>https://doi.org/10.1002/aenm.71634</link>
+<guid isPermaLink="false">10.1002/aenm.71634</guid>
+<pubDate>Thu, 15 Oct 2026 16:01:20 GMT</pubDate>
+<description>شبکه‌های واکنش تخریب حلال القاشده توسط آنیون در الکترولیت‌های پرغلظت باتری با کشف خودکار واکنش و مدل‌سازی میکروسینتیکی بررسی شد و مسیرهای تشکیل LiF و کربنات‌های حلقوی‌باز شناسایی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study maps anion-driven solvent degradation networks in high-concentration electrolytes using automated reaction discovery and microkinetic modeling, revealing how fluoride and fragments from LiFSI/LiTFSI drive solvent decomposition toward LiF and fluoro-organic species. It provides molecular-level rationale for unique SEI chemistries and suggests tuning anion-solvent interactions as a viable strategy for controlling interphase growth.&lt;br&gt;🏷 high-concentration electrolyte · solid electrolyte interphase · anion degradation · microkinetic modeling · LiFSI</description>
+<category>high-concentration electrolyte</category>
+<category>solid electrolyte interphase</category>
+<category>anion degradation</category>
+<category>microkinetic modeling</category>
+<category>LiFSI</category>
+</item>
 <item>
 <title>Voltage Hysteresis Induced by Fragile Quasi‐Flat Bands in Oxygen‐Redox Cathodes</title>
 <link>https://doi.org/10.1002/adma.75396</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>radical</category>
 <category>Li+ storage</category>
 <category>coordination confinement</category>
-</item>
-<item>
-<title>Element-Division Catalysis in Defect-Rich High-Entropy Oxides for Circumventing the Activity-Stability Trade-off in Lithium-Sulfur Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105593</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105593</guid>
-<pubDate>Tue, 13 Oct 2026 14:01:22 GMT</pubDate>
-<description>این مقاله با کاتالیز تقسیم عنصری در اکسیدهای پرنقص با آنتروپی بالا، مبادله فعالیت-پایداری را در باتری‌های لیتیوم-گوگرد دور می‌زند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · high-entropy oxides · element-division catalysis · defect-rich oxides · activity-stability trade-off</description>
-<category>lithium-sulfur battery</category>
-<category>high-entropy oxides</category>
-<category>element-division catalysis</category>
-<category>defect-rich oxides</category>
-<category>activity-stability trade-off</category>
-</item>
-<item>
-<title>Molecularly Aligned Insoluble Nanoaggregates for Ah‐Level Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71664</link>
-<guid isPermaLink="false">10.1002/aenm.71664</guid>
-<pubDate>Tue, 13 Oct 2026 13:01:34 GMT</pubDate>
-<description>الکترولیت با لیگاند نامحلول BA-NPE لایه‌های آب‌گریز بین‌سطحی و SEI غنی از فلوئور تشکیل داده و باتری روی-یون آبی در سطح Ah را پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces insoluble BA–NPE nanoaggregates as a molecularly aligned electrolyte for aqueous zinc-ion batteries, forming hydrophobic interfacial layers that suppress water attack and dendrites. It enables 4500 h Zn//Zn cycling and a 1.3 Ah pouch cell with 81.8% retention over 900 cycles, demonstrating a practical strategy for stable Ah-level AZIBs.&lt;br&gt;🏷 aqueous zinc-ion battery · insoluble ligand · nanoaggregate · SEI · Ah-level pouch cell</description>
-<category>aqueous zinc-ion battery</category>
-<category>insoluble ligand</category>
-<category>nanoaggregate</category>
-<category>SEI</category>
-<category>Ah-level pouch cell</category>
-</item>
-<item>
-<title>Rational Solvent Fluorination Design for Solvation Regulation Enabling Stable Interfaces in High‐Voltage Li‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71673</link>
-<guid isPermaLink="false">10.1002/aenm.71673</guid>
-<pubDate>Tue, 13 Oct 2026 13:01:26 GMT</pubDate>
-<description>طراحی حلال فلوئوردار متقارن با دو گروه تری‌فلورومتیل در DEC ساختار سلوشن غنی از آنیون و FEC را تنظیم کرده و پایداری کاتد غنی از Ni را در 4.6 ولت بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals how the number and position of trifluoromethyl groups in DEC-based solvents govern Li+ solvation structure. Symmetric dual-substitution enriches anion/FEC solvation, forming robust interphases. This enables Ni-rich NCM811 cathodes (10.5 mg cm⁻²) to retain 80% capacity after 300 cycles at 4.6 V, offering rational design principles for fluorinated high-voltage electrolytes.&lt;br&gt;🏷 fluorinated solvent · solvation structure · high-voltage LIB · cathode-electrolyte interphase · LiNi0.8Co0.1Mn0.1O2</description>
-<category>fluorinated solvent</category>
-<category>solvation structure</category>
-<category>high-voltage LIB</category>
-<category>cathode-electrolyte interphase</category>
-<category>LiNi0.8Co0.1Mn0.1O2</category>
-</item>
-<item>
-<title>Breaking Bottlenecks in Solid Electrolyte Discovery With Large Artificial Intelligence Models</title>
-<link>https://doi.org/10.1002/adma.75354</link>
-<guid isPermaLink="false">10.1002/adma.75354</guid>
-<pubDate>Tue, 13 Oct 2026 12:02:38 GMT</pubDate>
-<description>این مقاله چارچوبی مبتنی بر مدل‌های بزرگ هوش مصنوعی مانند MLIP و LLM برای کشف خودکار الکترولیت‌های جامد و رفع موانع داده و شبیه‌سازی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This work proposes a framework for autonomous solid electrolyte discovery using large AI models—MLIPs and LLMs—integrated into closed-loop cycles spanning literature mining, hypothesis generation, multiscale simulation, and experimental validation. Its novelty lies in shifting SE research from intuition-guided exploration to self-improving, data-informed systems, addressing fragmented data and slow iteration. Significance: design principles for autonomous solid-state battery laboratories.&lt;br&gt;🏷 solid electrolyte · large AI models · machine learning potentials · autonomous discovery · solid-state batteries</description>
-<category>solid electrolyte</category>
-<category>large AI models</category>
-<category>machine learning potentials</category>
-<category>autonomous discovery</category>
-<category>solid-state batteries</category>
 </item>
 </channel>
 </rss>
