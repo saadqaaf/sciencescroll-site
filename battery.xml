@@ -5,8 +5,57 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 08:02:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 09:05:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High-Resolution 6Li Solid-State Nuclear Magnetic Resonance Reveals Hidden Lithium Dynamics in All-Solid-State Cathodes</title>
+<link>https://doi.org/10.1021/jacs.6c17473</link>
+<guid isPermaLink="false">10.1021/jacs.6c17473</guid>
+<pubDate>Thu, 15 Oct 2026 09:04:47 GMT</pubDate>
+<description>این مقاله با 6Li NMR حالت جامد، دینامیک پنهان لیتیوم و بی‌نظمی Li/Fe را در کاتد LiFeCl3 باتری تمام‌حالت‌جامد آشکار می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li solid-state NMR to directly visualize lithium environments in paramagnetic LiFeCl3 cathodes, revealing hidden Li/Fe disorder, reversible intercalation-conversion chemistry, and trace Fe0 degradation. This enables optimized voltage windows achieving 85.9% retention over 500 cycles, establishing lithium-resolved NMR as a powerful platform linking disorder, hidden redox, and reversibility in all-solid-state batteries.&lt;br&gt;🏷 6Li NMR · all-solid-state battery · LiFeCl3 cathode · lithium dynamics · intercalation-conversion</description>
+<category>6Li NMR</category>
+<category>all-solid-state battery</category>
+<category>LiFeCl3 cathode</category>
+<category>lithium dynamics</category>
+<category>intercalation-conversion</category>
+</item>
+<item>
+<title>Stretchable fabric electrodes with gel electrolyte for high-performance wearable zinc-ion batteries</title>
+<link>https://doi.org/10.34133/energymatadv.0599</link>
+<guid isPermaLink="false">10.34133/energymatadv.0599</guid>
+<pubDate>Thu, 15 Oct 2026 09:03:08 GMT</pubDate>
+<description>الکترودهای پارچه‌ای کشسان با الکترولیت ژلی برای باتری‌های یون روی پوشیدنی با عملکرد بالا ساخته شدند.&lt;br&gt;Energy Material Advances | 🔬 Research Article&lt;br&gt;🏷 zinc-ion battery · stretchable electrode · fabric electrode · gel electrolyte · wearable</description>
+<category>zinc-ion battery</category>
+<category>stretchable electrode</category>
+<category>fabric electrode</category>
+<category>gel electrolyte</category>
+<category>wearable</category>
+</item>
+<item>
+<title>Rotation‐Coupled Guest Anions Stabilize Polymer Solid‐State Sodium‐Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.9801142</link>
+<guid isPermaLink="false">10.1002/anie.9801142</guid>
+<pubDate>Thu, 15 Oct 2026 09:02:51 GMT</pubDate>
+<description>استراتژی آنیون مهمان چرخشی در الکترولیت پلیمری PHSE با Mg(OTf)2، مهاجرت Na+ را بهبود و باتری‌های سدیم-فلز حالت جامد را پایدار می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work introduces a rotation-coupled guest-anion strategy using Mg(OTf)₂ in a PVDF-HFP solid electrolyte, where OTf⁻ acts as a mobile rotator synchronized with Na⁺ hopping. It lowers migration barriers, stabilizes the Na interface, and enables long-cycling solid-state sodium batteries. Screening 20 systems, it identifies anion symmetry and rotational barriers as design criteria.&lt;br&gt;🏷 solid-state sodium battery · polymer electrolyte · guest anion · solvation chemistry · Mg(OTf)2</description>
+<category>solid-state sodium battery</category>
+<category>polymer electrolyte</category>
+<category>guest anion</category>
+<category>solvation chemistry</category>
+<category>Mg(OTf)2</category>
+</item>
+<item>
+<title>Crystallography‐Dependent Plating/Stripping Kinetics and Interfacial Morphologies in Zn Metal Anodes</title>
+<link>https://doi.org/10.1002/anie.1058773</link>
+<guid isPermaLink="false">10.1002/anie.1058773</guid>
+<pubDate>Thu, 15 Oct 2026 09:02:26 GMT</pubDate>
+<description>جهت‌گیری بلوری، سینتیک آبکاری/جدایش و ریخت‌شناسی سطحی آند Zn را کنترل کرده و وجه (002) عمر چرخه‌ای طولانی‌تری در باتری‌های Zn فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely quantifies facet-dependent Zn plating/stripping kinetics using scanning electrochemical cell microscopy, revealing j0(100) &amp;gt; j0(101) &amp;gt; j0(002). It establishes a kinetics–stability trade-off: despite slower charge transfer, the (002) facet yields longest cycling life and best full-cell retention. This links crystallographic control of charge transfer, dissolution topology, and reconstruction to durable Zn anode design.&lt;br&gt;🏷 Zn metal anode · crystallographic orientation · plating/stripping kinetics · interfacial morphology · SECCM</description>
+<category>Zn metal anode</category>
+<category>crystallographic orientation</category>
+<category>plating/stripping kinetics</category>
+<category>interfacial morphology</category>
+<category>SECCM</category>
+</item>
 <item>
 <title>Electron‐Deficient Destabilization Coupled With Mg‐philic Catalysis: A Dual‐Modulation Strategy for Low‐Temperature Dehydrogenation of Mg(BH 4 ) 2</title>
 <link>https://doi.org/10.1002/adfm.79016</link>
@@ -1158,54 +1207,6 @@
 <category>dual-layer encapsulation</category>
 <category>nitrogen doping</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Photobattery Architectures to Suppress Charge Recombination</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c02373</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c02373</guid>
-<pubDate>Tue, 13 Oct 2026 09:01:16 GMT</pubDate>
-<description>طراحی لایه‌به‌لایه فتو‌باتری Zn-ion با ادغام DSSC حالت جامد و کاتد اسپینل Zn-Mn oxide، فتوولتاژ را از حدود ۰٫۰۱ به ۱ ولت افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using a layer-by-layer photobattery design—integrating a solid-state DSSC with an optimized spinel Zn–Mn oxide cathode—instead of randomly dispersed electrodes. This suppresses charge recombination and boosts photovoltage from ~0.01 V to ~1 V under 1-sun illumination. It enables external-bias-free charging and provides an interface-engineering strategy for future compact solar-energy-storage devices.&lt;br&gt;🏷 photobattery · Zn-ion battery · dye-sensitized solar cell · charge recombination · spinel Zn-Mn oxide</description>
-<category>photobattery</category>
-<category>Zn-ion battery</category>
-<category>dye-sensitized solar cell</category>
-<category>charge recombination</category>
-<category>spinel Zn-Mn oxide</category>
-</item>
-<item>
-<title>Joint design of cell layout and balancing circuit for uniform aging in unmanned aerial vehicle battery packs</title>
-<link>https://doi.org/10.1016/j.est.2026.125100</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125100</guid>
-<pubDate>Tue, 13 Oct 2026 08:01:50 GMT</pubDate>
-<description>طراحی همزمان چیدمان سلولها و مدار توازن برای یکنواختسازی پیرشدن بسته باتری پهپاد ارائه و ارزیابی میشود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery pack aging · cell layout · balancing circuit · unmanned aerial vehicle · uniform aging</description>
-<category>battery pack aging</category>
-<category>cell layout</category>
-<category>balancing circuit</category>
-<category>unmanned aerial vehicle</category>
-<category>uniform aging</category>
-</item>
-<item>
-<title>Electric vehicle battery fault detection and diagnosis agent: Descriptive text modeling of battery digital signals</title>
-<link>https://doi.org/10.1016/j.est.2026.124866</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124866</guid>
-<pubDate>Tue, 13 Oct 2026 08:01:43 GMT</pubDate>
-<description>یک عامل تشخیص و عیبیابی خطای باتری خودروی برقی با مدلسازی متنی توصیفی سیگنالهای دیجیتال باتری توسعه یافته است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery fault diagnosis · electric vehicle · digital signals · descriptive text modeling · detection agent</description>
-<category>battery fault diagnosis</category>
-<category>electric vehicle</category>
-<category>digital signals</category>
-<category>descriptive text modeling</category>
-<category>detection agent</category>
-</item>
-<item>
-<title>A hybrid time–frequency and cross-variable interactive Mamba network for accurate state-of-charge estimation of lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125058</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125058</guid>
-<pubDate>Tue, 13 Oct 2026 08:01:38 GMT</pubDate>
-<description>یک شبکه Mamba ترکیبی زمان-فرکانس و تعاملی بینمتغیری برای تخمین دقیق وضعیت شارژ باتریهای لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge estimation · lithium-ion battery · Mamba network · time-frequency analysis · cross-variable interaction</description>
-<category>state-of-charge estimation</category>
-<category>lithium-ion battery</category>
-<category>Mamba network</category>
-<category>time-frequency analysis</category>
-<category>cross-variable interaction</category>
 </item>
 </channel>
 </rss>
