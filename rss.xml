@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 09:02:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 10:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Catalyst design for CO2 utilization as a versatile C1 feedstock toward sustainable energy carriers and fuels</title>
+<link>https://doi.org/10.1016/j.pecs.2026.101313</link>
+<guid isPermaLink="false">10.1016/j.pecs.2026.101313</guid>
+<pubDate>Fri, 16 Oct 2026 10:01:22 GMT</pubDate>
+<description>این مقاله طراحی کاتالیزور برای تبدیل CO2 به عنوان خوراک C1 را به سوخت‌ها و حامل‌های انرژی پایدار مرور می‌کند و راهبردهای کلیدی برای بهبود کارایی را ارائه می‌دهد.&lt;br&gt;Progress in Energy and Combustion Science | ⭐ Review&lt;br&gt;🏷 CO2 utilization · catalyst design · C1 feedstock · sustainable fuels · energy carriers</description>
+<category>CO2 utilization</category>
+<category>catalyst design</category>
+<category>C1 feedstock</category>
+<category>sustainable fuels</category>
+<category>energy carriers</category>
+</item>
+<item>
+<title>Hole-selective self-assembled monolayers: a molecular platform for high-performance perovskite photovoltaics</title>
+<link>https://doi.org/10.1039/d6cs00198j</link>
+<guid isPermaLink="false">10.1039/d6cs00198j</guid>
+<pubDate>Fri, 16 Oct 2026 10:01:19 GMT</pubDate>
+<description>این مقاله به بررسی مونولایه‌های خودآرا به عنوان لایه‌های انتقال حفره در سلول‌های خورشیدی پروسکایتی می‌پردازد و نقش طراحی مولکولی را در غلبه بر محدودیت‌های بازدهی برجسته می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 self-assembled monolayers · perovskite solar cells · hole transport layers · donor-acceptor molecules · photovoltaic efficiency</description>
+<category>self-assembled monolayers</category>
+<category>perovskite solar cells</category>
+<category>hole transport layers</category>
+<category>donor-acceptor molecules</category>
+<category>photovoltaic efficiency</category>
+</item>
 <item>
 <title>Nearly half of reef-building corals face elevated relative risk of extinction</title>
 <link>https://doi.org/10.1038/s41586-026-11263-3</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PLGA · syndiotactic · r
 <category>slow-wave activity</category>
 <category>dFBNs</category>
 <category>Drosophila</category>
-</item>
-<item>
-<title>5-HT2A receptors in layer 5 pyramidal neurons mediate the neuroplastic but not the hallucinogenic effects of psilocybin</title>
-<link>https://doi.org/10.1038/s41593-026-02490-y</link>
-<guid isPermaLink="false">10.1038/s41593-026-02490-y</guid>
-<pubDate>Fri, 16 Oct 2026 03:01:40 GMT</pubDate>
-<description>این مقاله نشان می‌دهد گیرنده‌های 5-HT2A در نورون‌های هرمی لایه 5 اثرات نوروپلاستیک سیلوسایبین را واسطه‌گری می‌کنند، نه اثرات توهم‌زا.&lt;br&gt;Nature Neuroscience | 🔬 Research Article&lt;br&gt;🏷 5-HT2A receptor · psilocybin · neuroplasticity · hallucinogenic effects · pyramidal neurons</description>
-<category>5-HT2A receptor</category>
-<category>psilocybin</category>
-<category>neuroplasticity</category>
-<category>hallucinogenic effects</category>
-<category>pyramidal neurons</category>
-</item>
-<item>
-<title>Spatiotemporal AI-based modeling of gene regulation and variant effects in the developing human brain using Seal</title>
-<link>https://doi.org/10.1038/s41593-026-02470-2</link>
-<guid isPermaLink="false">10.1038/s41593-026-02470-2</guid>
-<pubDate>Fri, 16 Oct 2026 03:01:37 GMT</pubDate>
-<description>این مقاله با مدل‌سازی هوش مصنوعی فضایی-زمانی به نام Seal، تنظیم ژن و اثرات واریانت را در مغز در حال رشد انسان بررسی می‌کند.&lt;br&gt;Nature Neuroscience | 🔬 Research Article&lt;br&gt;🏷 spatiotemporal AI · gene regulation · variant effects · developing brain · Seal</description>
-<category>spatiotemporal AI</category>
-<category>gene regulation</category>
-<category>variant effects</category>
-<category>developing brain</category>
-<category>Seal</category>
 </item>
 </channel>
 </rss>
