@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 19:02:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 20:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Redefining the thermal safety boundaries of ether-based sodium batteries</title>
+<link>https://doi.org/10.1016/j.joule.2026.102711</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102711</guid>
+<pubDate>Fri, 16 Oct 2026 20:01:13 GMT</pubDate>
+<description>این مقاله مرزهای ایمنی حرارتی باتری‌های سدیمی بر پایه اتر را بازتعریف می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 sodium batteries · ether-based electrolytes · thermal safety · safety boundaries · battery safety</description>
+<category>sodium batteries</category>
+<category>ether-based electrolytes</category>
+<category>thermal safety</category>
+<category>safety boundaries</category>
+<category>battery safety</category>
+</item>
 <item>
 <title>Batteries that sense dendrite growth</title>
 <link>https://doi.org/10.1038/s41578-026-00975-7</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>interfacial engineering</category>
 <category>oxygen vacancies</category>
 <category>energy density</category>
-</item>
-<item>
-<title>Architecting 3D Space‐Charge Heterointerfacial Networks for Electrode‐Scale Ion Transport</title>
-<link>https://doi.org/10.1002/anie.9216952</link>
-<guid isPermaLink="false">10.1002/anie.9216952</guid>
-<pubDate>Wed, 14 Oct 2026 12:02:56 GMT</pubDate>
-<description>شبکه‌های ناهمگون فضایی-بار سه‌بعدی در الکترود، انتقال یون را در باتری‌های سدیم-یونی حالت جامد با نرخ بالا تقویت می‌کنند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work pioneers 3D space-charge heterointerfacial networks by organizing Na₂O/Na₂CO₃ nanoionic units into electrode-wide percolating architectures via MOF-templated vapor conversion. It boosts local conductivity by up to 16 orders of magnitude, enabling stable solid-state presodiation and ultrahigh-rate sodium-ion cells. The key advance: spatial connectivity of phase boundaries, not just local space-charge effects, is a programmable design variable for solid-state ionics.&lt;br&gt;🏷 space-charge · heterointerface · sodium-ion battery · solid-state presodiation · ion transport</description>
-<category>space-charge</category>
-<category>heterointerface</category>
-<category>sodium-ion battery</category>
-<category>solid-state presodiation</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
