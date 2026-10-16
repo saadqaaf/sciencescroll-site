@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 18:01:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 19:02:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Batteries that sense dendrite growth</title>
+<link>https://doi.org/10.1038/s41578-026-00975-7</link>
+<guid isPermaLink="false">10.1038/s41578-026-00975-7</guid>
+<pubDate>Fri, 16 Oct 2026 19:01:42 GMT</pubDate>
+<description>این مقاله دیدگاهی به باتری‌هایی می‌پردازد که رشد دندریت را حس کرده و امکان تشخیص درجای ایمنی باتری را فراهم می‌کنند.&lt;br&gt;Nature Reviews Materials | 💭 Perspective&lt;br&gt;💡 The novel solid electrolyte detects lithium dendrite penetration by converting it into an electrical signal, enabling early warning of battery failure. This is significant because dendrites cause short circuits and fires, so sensing them before failure improves safety and reliability of solid-state batteries.&lt;br&gt;🏷 dendrite growth · battery sensing · lithium metal · operando detection · safety</description>
+<category>dendrite growth</category>
+<category>battery sensing</category>
+<category>lithium metal</category>
+<category>operando detection</category>
+<category>safety</category>
+</item>
+<item>
+<title>Dual high energy density achieved in dense carbon with tunable pore structures for zinc-ion hybrid capacitors</title>
+<link>https://doi.org/10.1039/d6ta06505h</link>
+<guid isPermaLink="false">10.1039/d6ta06505h</guid>
+<pubDate>Fri, 16 Oct 2026 19:01:27 GMT</pubDate>
+<description>کربن متخلخل دوپ شده با N و O از قیر زغال سنگ و کیتوسان با فعال‌سازی CsOH برای کاتدهای ابرخازن هیبریدی یون روی با چگالی انرژی بالا ساخته شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 CsOH co-activation of coal tar pitch and chitosan yields N,O-doped porous carbon with tunable pores, surpassing KOH activation in surface area and Zn²⁺ storage. This enables dual high energy density in zinc-ion hybrid capacitors, offering a sustainable, high-performance cathode route that valorizes toxic waste and biomass.&lt;br&gt;🏷 zinc-ion hybrid capacitor · porous carbon · coal tar pitch · chitosan · CsOH activation</description>
+<category>zinc-ion hybrid capacitor</category>
+<category>porous carbon</category>
+<category>coal tar pitch</category>
+<category>chitosan</category>
+<category>CsOH activation</category>
+</item>
+<item>
+<title>Laser and microwave-assisted synthesis and modification of graphene-based materials for supercapacitor and battery electrodes</title>
+<link>https://doi.org/10.1039/d6ta06772g</link>
+<guid isPermaLink="false">10.1039/d6ta06772g</guid>
+<pubDate>Fri, 16 Oct 2026 19:01:17 GMT</pubDate>
+<description>این مقاله مروری به سنتز و اصلاح مواد مبتنی بر گرافن با روش‌های لیزر و مایکروویو برای الکترودهای ابرخازن و باتری می‌پردازد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 Laser and microwave methods enable rapid, scalable, solvent-free synthesis and modification of graphene-based electrodes, overcoming conventional slow, energy-intensive routes. This dual approach tailors porosity, doping, and defects for enhanced supercapacitor and battery performance. Its novelty lies in combining speed, precision, and versatility, offering a sustainable pathway to high-performance energy storage.&lt;br&gt;🏷 graphene · laser processing · microwave synthesis · supercapacitor · battery electrode</description>
+<category>graphene</category>
+<category>laser processing</category>
+<category>microwave synthesis</category>
+<category>supercapacitor</category>
+<category>battery electrode</category>
+</item>
 <item>
 <title>Past and present of grid energy storage – A comparative assessment of existing technologies</title>
 <link>https://doi.org/10.1016/j.est.2026.125078</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>sodium-ion battery</category>
 <category>solid-state presodiation</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>Hydrothermal Regeneration of Dual-Doped High-Performance Lithium Manganese Iron Phosphate from Spent Cathode Materials</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112501</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112501</guid>
-<pubDate>Wed, 14 Oct 2026 12:02:30 GMT</pubDate>
-<description>بازسازی هیدروترمال کاتدهای مستعمل LiMnFePO4 با دوپینگ دوگانه، عملکرد بالای باتری لیتیوم-یونی را بازیابی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium manganese iron phosphate · cathode regeneration · hydrothermal · dual doping · spent batteries</description>
-<category>lithium manganese iron phosphate</category>
-<category>cathode regeneration</category>
-<category>hydrothermal</category>
-<category>dual doping</category>
-<category>spent batteries</category>
-</item>
-<item>
-<title>γ‐Ray Controlled Topological Evolution of Binders for Stable and Activated Li─S Battery Cathodes</title>
-<link>https://doi.org/10.1002/adfm.79058</link>
-<guid isPermaLink="false">10.1002/adfm.79058</guid>
-<pubDate>Wed, 14 Oct 2026 11:02:46 GMT</pubDate>
-<description>تابش گاما شبکه سهبعدی PVA را برای کاتد Li-S تنظیم کرده و با دوز 3 kGy، افت ظرفیت 0.045% در هر چرخه و انرژی 390.2 Wh/kg در پاکتسل را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 γ-ray irradiation enables reagent-free, dose-controlled engineering of 3D PVA binder networks for Li─S cathodes. The 3 kGy dose yields optimal topology, coupling mechanical integrity with ionic/electronic transport, achieving 0.045% decay per cycle over 1000 cycles and 390.2 Wh kg⁻¹ in a 1.23 Ah pouch cell. This establishes a clean, catalyst-free strategy linking binder topology to electrode mechanics and electrochemistry.&lt;br&gt;🏷 lithium-sulfur battery · PVA binder · gamma-ray irradiation · cathode stability · pouch cell</description>
-<category>lithium-sulfur battery</category>
-<category>PVA binder</category>
-<category>gamma-ray irradiation</category>
-<category>cathode stability</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Second Coordination Shell Engineering Tunes Fe 3d Orbital Occupancy for Enhanced Oxygen Reduction Catalysis</title>
-<link>https://doi.org/10.1002/adfm.79020</link>
-<guid isPermaLink="false">10.1002/adfm.79020</guid>
-<pubDate>Wed, 14 Oct 2026 11:02:36 GMT</pubDate>
-<description>مهندسی پوسته دوم با بور در کاتالیزور Fe-N-C، اشغال اوربیتال Fe 3d را تنظیم کرده و فعالیت ORR و چگالی انرژی باتری Zn-air را بهبود میدهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers steric pyrazole-borate precursor engineering to precisely tune boron doping in the second coordination shell of Fe─N─C catalysts. The optimized FeN₄B₃/NC achieves exceptional ORR activity (0.92 V half-wave) and zinc-air battery performance. Crucially, it reveals that second-shell boron induces Fe 3d orbital occupancy transitions, weakening *OH binding via Pauli repulsion—establishing an orbital-level design principle for single-atom catalysts.&lt;br&gt;🏷 single-atom catalyst · oxygen reduction · second coordination shell · Fe 3d orbital · zinc-air battery</description>
-<category>single-atom catalyst</category>
-<category>oxygen reduction</category>
-<category>second coordination shell</category>
-<category>Fe 3d orbital</category>
-<category>zinc-air battery</category>
 </item>
 </channel>
 </rss>
