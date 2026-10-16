@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 10:01:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 11:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>“Water‐in‐Water” Biphasic Electrolyte for Aqueous Zinc‐ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75382</link>
+<guid isPermaLink="false">10.1002/adma.75382</guid>
+<pubDate>Fri, 16 Oct 2026 11:01:57 GMT</pubDate>
+<description>الکترولیت دوفازی کاملاً آبی «آب در آب» با قطره‌های غنی از دکستران در فاز PEG، شار Zn2+ را تنظیم کرده و چرخه‌پذیری باتری آبی روی-یون را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is using a fully aqueous &amp;quot;water-in-water&amp;quot; biphasic electrolyte with dextran-rich droplets in a PEG-rich phase to regulate Zn2+ flux via phase boundaries, rather than solvent chemistry. This buffering of ion accumulation enables stable Zn||Zn cycling for 1100 h and Ah-level pouch cells, demonstrating interfacial electrostatics as a new design principle for aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · water-in-water electrolyte · biphasic electrolyte · Zn2+ flux regulation · dextran-PEG</description>
+<category>aqueous zinc-ion battery</category>
+<category>water-in-water electrolyte</category>
+<category>biphasic electrolyte</category>
+<category>Zn2+ flux regulation</category>
+<category>dextran-PEG</category>
+</item>
+<item>
+<title>From Dark Photocatalysis to Photobattery‐Type Operation: A Re‐Functionalized Ti‐MOF for Solar Energy Storage</title>
+<link>https://doi.org/10.1002/adma.75419</link>
+<guid isPermaLink="false">10.1002/adma.75419</guid>
+<pubDate>Fri, 16 Oct 2026 11:01:51 GMT</pubDate>
+<description>MOF تیتانیوم-بی‌پیریدین عامل‌دار شده با ReCl(CO)3، ذخیره الکترون نوری با ظرفیت 19.5 C/g و آزادسازی آن برای تولید هیدروژن در تاریکی را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Re-functionalized Ti-MOF (ReCl47-bpy) enables photochargeable solar energy storage, combining visible-light photosensitization with electron-sink sites. It achieves 19.5 C g⁻¹ storage, 70% retention over 2.5 months, and &amp;gt;90% dark H₂ evolution efficiency. As FTO photoelectrodes, it delivers ~7.0 mAh g⁻¹, establishing MOFs as versatile platforms for dark photocatalysis and photobattery-type devices.&lt;br&gt;🏷 Ti-MOF · photobattery · solar energy storage · dark photocatalysis · rhenium functionalization</description>
+<category>Ti-MOF</category>
+<category>photobattery</category>
+<category>solar energy storage</category>
+<category>dark photocatalysis</category>
+<category>rhenium functionalization</category>
+</item>
+<item>
+<title>Negative‐Thermal‐Expansion Strategy Enables Hard Carbon With Tuned Heat/Strain Tolerances for Sodium Storage</title>
+<link>https://doi.org/10.1002/adma.75284</link>
+<guid isPermaLink="false">10.1002/adma.75284</guid>
+<pubDate>Fri, 16 Oct 2026 11:01:27 GMT</pubDate>
+<description>افزودن ZrW2O8 با انبساط حرارتی منفی به آند کربن سخت، تنش حرارتی/مکانیکی را کاهش داده و ظرفیت و پایداری باتری سدیم-یون را در دماهای گسترده بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using negative thermal expansion ZrW₂O₈ in hard carbon anodes to enable in situ thermal strain relief, internally managing heat and stress from Na⁺ intercalation. This significantly reduces heat/strain, enhances diffusion kinetics and sodium storage, and ensures stable cycling from −20°C to 60°C. It offers a new internal management strategy complementing external battery equipment.&lt;br&gt;🏷 sodium-ion battery · hard carbon · negative thermal expansion · ZrW2O8 · thermal strain relief</description>
+<category>sodium-ion battery</category>
+<category>hard carbon</category>
+<category>negative thermal expansion</category>
+<category>ZrW2O8</category>
+<category>thermal strain relief</category>
+</item>
 <item>
 <title>Lewis Acid-Base Regulated Novel Eutectic Electrolyte of 1,4-Butane Sultone and LiTFSI Enables High-Voltage Lithium Metal Batteries via F/S-Rich Interphases</title>
 <link>https://doi.org/10.1039/d6ta05374b</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>ion-selective regulation</category>
 <category>bioinspired</category>
 <category>high-voltage stability</category>
-</item>
-<item>
-<title>Triplet-site synergistic reduction of water activity and dual chelation of iodine cation species for advanced four-electron zinc-iodine batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.069</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.069</guid>
-<pubDate>Wed, 14 Oct 2026 02:03:18 GMT</pubDate>
-<description>این مقاله با هم‌افزایی سه‌گانه و کلات‌شدن گونه‌های کاتیون ید، فعالیت آب را کاهش داده و باتری‌های پیشرفته چهارالکترونی زینک-ید را ارائه می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 zinc-iodine battery · four-electron transfer · triplet-site synergy · iodine cation chelation · water activity reduction</description>
-<category>zinc-iodine battery</category>
-<category>four-electron transfer</category>
-<category>triplet-site synergy</category>
-<category>iodine cation chelation</category>
-<category>water activity reduction</category>
-</item>
-<item>
-<title>Dry electrode manufacturing for Lithium-ion batteries: advances, stability challenges, safety, and perspectives</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.004</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.004</guid>
-<pubDate>Wed, 14 Oct 2026 02:03:10 GMT</pubDate>
-<description>این مرور به پیشرفت‌ها، چالش‌های پایداری، ایمنی و چشم‌اندازهای تولید الکترود خشک برای باتری‌های لیتیوم-یون می‌پردازد.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 dry electrode · lithium-ion battery · electrode manufacturing · battery safety · stability</description>
-<category>dry electrode</category>
-<category>lithium-ion battery</category>
-<category>electrode manufacturing</category>
-<category>battery safety</category>
-<category>stability</category>
-</item>
-<item>
-<title>Facet-Dependent Plating/Stripping Behavior and Crystallographic Evolution during Cycling on Zn Metal Anodes</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01934</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01934</guid>
-<pubDate>Wed, 14 Oct 2026 01:01:17 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که رفتار آبکاری/جدایش روی در آندهای تک‌کریستال Zn به شدت به وجه‌های بلوری (002)، (100) و (101) وابسته است و سیکل‌های مکرر منجر به رشد دندریتی و از دست رفتن برگشت‌پذیری اپیتاکسیال می‌شود.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This study uses Zn single crystals to isolate crystallographic effects on plating/stripping. It reveals facet-dependent growth morphologies, edge/corner-initiated growth, and facet-preserved dissolution pits that are not refilled, causing epitaxial reversibility loss. The work establishes that controlling both oriented deposition and post-stripping surface reconstruction is essential for reversible Zn anodes.&lt;br&gt;🏷 zinc metal anode · crystallographic facets · plating stripping · dendrite growth · single crystal electrode</description>
-<category>zinc metal anode</category>
-<category>crystallographic facets</category>
-<category>plating stripping</category>
-<category>dendrite growth</category>
-<category>single crystal electrode</category>
 </item>
 </channel>
 </rss>
