@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 03:01:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 04:01:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Site‐Preferential Trace Phosphorus Substitution Accelerates and Stabilizes the Activation of Lithium‐Rich Cathode Materials</title>
+<link>https://doi.org/10.1002/adfm.79125</link>
+<guid isPermaLink="false">10.1002/adfm.79125</guid>
+<pubDate>Fri, 16 Oct 2026 04:01:24 GMT</pubDate>
+<description>جانشینی ناچیز فسفر در جایگاه‌های خاص کاتد غنی از لیتیوم، فعال‌سازی جزء Li2MnO3 را تسریع و پایداری ساختاری و ظرفیت ۲۷۰ mAh/g را حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Trace P substitution in Li-rich Mn-based cathodes preferentially occupies Li-layer sites near Ni, modifying Li-slab and Ni─O/O electronic environments. This enables faster, more stable monoclinic Li₂MnO₃ activation with self-relaxing lattice response, delivering 273.1 mAh g⁻¹ at cycle 50 and 270.5 mAh g⁻¹ after 300 cycles—suppressing irreversible distortion, oxygen degradation, and voltage decay.&lt;br&gt;🏷 lithium-rich cathode · phosphorus substitution · oxygen redox · layered oxide · voltage decay</description>
+<category>lithium-rich cathode</category>
+<category>phosphorus substitution</category>
+<category>oxygen redox</category>
+<category>layered oxide</category>
+<category>voltage decay</category>
+</item>
 <item>
 <title>Molten-Perfusion-Fluorination Strategy To Enable Graphite Layer Confined Pyrochlore-Phase Iron Hydroxy Fluoride as Sustainable Conversion-Type Cathode</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03365</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>lithium terephthalate</category>
 <category>conductive network</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Synergistic Anion‐Solvent Engineering: Zinc Borohydride as a Multifunctional Additive for Non‐Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76192</link>
-<guid isPermaLink="false">10.1002/smll.76192</guid>
-<pubDate>Tue, 13 Oct 2026 17:04:24 GMT</pubDate>
-<description>افزودنی بوروهیدرید روی با مهندسی آنیون-حلال، دندریت‌ها را در باتری غیرآبی روی-یون سرکوب کرده و ظرفیت ۸۲.۲٪ پس از ۲۰۰۰ چرخه حفظ می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work introduces zinc borohydride as a multifunctional additive in a ternary acetonitrile-triethyl phosphate-tetrahydrofuran electrolyte, using synergistic anion-solvent engineering. The BH4− anions regulate Zn2+ solvation and promote uniform deposition, suppressing dendrites. This enables 400 h symmetric-cell cycling and 82.2% capacity retention after 2000 cycles, offering a viable strategy for high-safety, high-performance non-aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · non-aqueous electrolyte · zinc borohydride · anion-solvent engineering · dendrite suppression</description>
-<category>zinc-ion battery</category>
-<category>non-aqueous electrolyte</category>
-<category>zinc borohydride</category>
-<category>anion-solvent engineering</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
