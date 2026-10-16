@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 11:01:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 12:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Constructing Biomass‐Derived Ultra‐Thin 2D Carbon Nanoweb via Confinement‐Driven Bubbling Effect for High‐Rate Zinc‐Ion Storage in Hybrid Capacitors</title>
+<link>https://doi.org/10.1002/cey2.70346</link>
+<guid isPermaLink="false">10.1002/cey2.70346</guid>
+<pubDate>Fri, 16 Oct 2026 12:01:49 GMT</pubDate>
+<description>شبکه نانویی کربنی دوبعدی فوق‌نازک از زیست‌توده با اثر حباب محدودشده ساخته شد و خازن هیبریدی یون-روی با ظرفیت 229 mAh g−1 و پایداری 20000 چرخه را ممکن کرد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a confinement-driven bubbling effect creating ultra-thin 2D carbon nanowebs (1.5–2.5 nm) that prevent interlayer stacking. This yields high surface area (2055 m²/g) and fast ion transport. Significance: zinc-ion hybrid capacitors achieve exceptional rate performance (117 mAh/g at 10 A/g) and 20,000-cycle stability, enabling high energy density (187.2 Wh/kg) at high mass loading.&lt;br&gt;🏷 2D carbon nanoweb · zinc-ion hybrid capacitor · confinement bubbling · biomass-derived carbon · high-rate storage</description>
+<category>2D carbon nanoweb</category>
+<category>zinc-ion hybrid capacitor</category>
+<category>confinement bubbling</category>
+<category>biomass-derived carbon</category>
+<category>high-rate storage</category>
+</item>
+<item>
+<title>Selective Interfacial Coupling in Polymer Electrolytes Stabilizes High‐Voltage Ni‐Rich Cathodes for &amp;gt; 500 Wh Kg −1 Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71712</link>
+<guid isPermaLink="false">10.1002/aenm.71712</guid>
+<pubDate>Fri, 16 Oct 2026 12:01:27 GMT</pubDate>
+<description>استراتژی جفت‌شدگی انتخابی بین‌سطحی در الکترولیت پلیمری، ساختار الکترونی TM-O کاتد غنی از نیکل را تثبیت کرده و باتری لیتیوم-فلز با چگالی انرژی 529.4 Wh kg−1 را پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces selective interfacial coupling, using a cyanoethyl acrylate coupling center within a weakly coupling fluorinated environment to precisely control electrolyte–cathode interactions. It suppresses non-target coupling, stabilizes Ni-rich cathode interfaces, and enables 529.4 Wh kg⁻¹ pouch cells at 4.6 V, offering a new paradigm for high-voltage lithium metal battery design.&lt;br&gt;🏷 lithium metal battery · selective interfacial coupling · Ni-rich cathode · polymer electrolyte · high-voltage</description>
+<category>lithium metal battery</category>
+<category>selective interfacial coupling</category>
+<category>Ni-rich cathode</category>
+<category>polymer electrolyte</category>
+<category>high-voltage</category>
+</item>
+<item>
+<title>Electrochemical and Mechanical Understanding of Extruded and Solvent‐Cast Solid Polymer Electrolytes</title>
+<link>https://doi.org/10.1002/aenm.71697</link>
+<guid isPermaLink="false">10.1002/aenm.71697</guid>
+<pubDate>Fri, 16 Oct 2026 12:01:21 GMT</pubDate>
+<description>خواص الکتروشیمیایی و مکانیکی الکترولیت‌های پلیمری جامد PEO-LiTFSI ساخته‌شده به روش اکستروژن و ریخته‌گری حلال بررسی شد و اکستروژن با Al2O3 و ضخامت کمتر عملکرد بهتری در باتری حالت جامد نشان داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This study uniquely links processing method (extrusion vs. solvent casting) to electrochemical and mechanical performance of PEO–LiTFSI solid polymer electrolytes. Extrusion shortens polymer chains, improving properties; Al₂O₃ enhances fracture toughness and stability; thinner membranes reduce polarization. Extruded, Al₂O₃-containing, thin membranes show superior combined performance, advancing solid-state battery design.&lt;br&gt;🏷 solid polymer electrolyte · PEO-LiTFSI · extrusion · Al2O3 · solid-state battery</description>
+<category>solid polymer electrolyte</category>
+<category>PEO-LiTFSI</category>
+<category>extrusion</category>
+<category>Al2O3</category>
+<category>solid-state battery</category>
+</item>
 <item>
 <title>“Water‐in‐Water” Biphasic Electrolyte for Aqueous Zinc‐ion Batteries</title>
 <link>https://doi.org/10.1002/adma.75382</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>permselective interphase</category>
 <category>bioinspired</category>
 <category>anticorrosive</category>
-</item>
-<item>
-<title>Fe/Co codoping and sulfur-vacancy engineering regulating Li2S electrocrystallization in practical lithium-sulfur pouch cells</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.072</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.072</guid>
-<pubDate>Wed, 14 Oct 2026 02:03:30 GMT</pubDate>
-<description>این مقاله با هم‌دوپینگ Fe/Co و مهندسی نقص گوگرد، الکتروکریستالیزاسیون Li2S را در سلول‌های کیسه‌ای لیتیوم-گوگرد تنظیم می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · Li2S electrocrystallization · Fe/Co codoping · sulfur vacancy · pouch cell</description>
-<category>lithium-sulfur battery</category>
-<category>Li2S electrocrystallization</category>
-<category>Fe/Co codoping</category>
-<category>sulfur vacancy</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Laser-induced oxygen vacancies in garnet fillers for enhanced composite solid electrolytes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.068</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.068</guid>
-<pubDate>Wed, 14 Oct 2026 02:03:25 GMT</pubDate>
-<description>این مقاله با ایجاد نقص اکسیژن به‌روش لیزری در پرکننده‌های گارنت، الکترولیت‌های جامد کامپوزیتی بهبودیافته برای باتری‌های لیتیومی ارائه می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 composite solid electrolyte · garnet filler · oxygen vacancies · laser-induced · lithium battery</description>
-<category>composite solid electrolyte</category>
-<category>garnet filler</category>
-<category>oxygen vacancies</category>
-<category>laser-induced</category>
-<category>lithium battery</category>
-</item>
-<item>
-<title>Bioinspired ion-selective regulation enabling high-voltage stable hybrid polymer electrolytes for all-solid-state lithium batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.070</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.070</guid>
-<pubDate>Wed, 14 Oct 2026 02:03:22 GMT</pubDate>
-<description>این مقاله با تنظیم انتخابی یون به‌صورت زیست‌الهام، الکترولیت‌های پلیمری هیبریدی پایدار در ولتاژ بالا برای باتری‌های لیتیومی تمام‌جامد ارائه می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · hybrid polymer electrolyte · ion-selective regulation · bioinspired · high-voltage stability</description>
-<category>solid-state lithium battery</category>
-<category>hybrid polymer electrolyte</category>
-<category>ion-selective regulation</category>
-<category>bioinspired</category>
-<category>high-voltage stability</category>
 </item>
 </channel>
 </rss>
