@@ -5,8 +5,45 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 04:01:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 05:04:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamics and Structure of Room Temperature Ionic Liquids: Ultrafast IR Experiments and MD Simulations of the Ion Cage Model</title>
+<link>https://doi.org/10.1021/jacs.6c11518</link>
+<guid isPermaLink="false">10.1021/jacs.6c11518</guid>
+<pubDate>Fri, 16 Oct 2026 05:04:11 GMT</pubDate>
+<description>با استفاده از طیف‌سنجی IR فوق‌سریع، NMR و شبیه‌سازی MD، دینامیک مایعات یونی دمای اتاق و مدل قفس یونی بررسی شد و زمان فرار از قفس به عنوان عامل تعیین‌کننده خواص دینامیکی شناسایی شد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combines ultrafast IR spectroscopy, NMR, and MD simulations to reveal that ion cage escape time governs dynamics in ionic liquids. It establishes thiocyanate as an ideal anion surrogate and shows neutral solutes form mixed cages. The correlation between cage escape time and slow structural fluctuations provides a unified framework linking translational diffusion, orientational motion, and viscosity.&lt;br&gt;🏷 room-temperature ionic liquids · ion cage model · ultrafast IR spectroscopy · molecular dynamics simulations · translational diffusion</description>
+<category>room-temperature ionic liquids</category>
+<category>ion cage model</category>
+<category>ultrafast IR spectroscopy</category>
+<category>molecular dynamics simulations</category>
+<category>translational diffusion</category>
+</item>
+<item>
+<title>Closed-loop upcycling of residual lithium in LiFePO4 into tunable thin lithium metal electrodes</title>
+<link>https://doi.org/10.1038/s41467-026-78696-2</link>
+<guid isPermaLink="false">10.1038/s41467-026-78696-2</guid>
+<pubDate>Fri, 16 Oct 2026 05:03:40 GMT</pubDate>
+<description>بازیافت لیتیوم از LiFePO4 مصرف‌شده با واسطه ردوکس به لیتیوم فلزی نازک با ۹۸٪ استخراج و پایداری چرخه‌ای بالا تبدیل می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers redox-mediated upcycling of spent LiFePO4 into thin lithium metal electrodes, achieving 98% lithium extraction and a preformed interphase. The recycled lithium enables 1,200-hour cycling and 91.4% capacity retention over 400 cycles. It uniquely couples recycling with electrode design, offering a sustainable closed-loop pathway for battery recycling and advanced negative electrode fabrication.&lt;br&gt;🏷 LiFePO4 recycling · lithium metal electrode · redox mediator · battery upcycling · closed-loop process</description>
+<category>LiFePO4 recycling</category>
+<category>lithium metal electrode</category>
+<category>redox mediator</category>
+<category>battery upcycling</category>
+<category>closed-loop process</category>
+</item>
+<item>
+<title>How cell aging aggregates to the system level: Experimental comparison of series, parallel, and series-parallel lithium-ion battery modules</title>
+<link>https://doi.org/10.1016/j.etran.2026.100646</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100646</guid>
+<pubDate>Fri, 16 Oct 2026 05:02:01 GMT</pubDate>
+<description>این مقاله تجربی، اثر پیرشدگی سلول‌ها را در ماژول‌های باتری لیتیوم-یونی سری، موازی و سری-موازی مقایسه می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · cell aging · battery modules · series-parallel configuration · system-level aggregation</description>
+<category>lithium-ion battery</category>
+<category>cell aging</category>
+<category>battery modules</category>
+<category>series-parallel configuration</category>
+<category>system-level aggregation</category>
+</item>
 <item>
 <title>Site‐Preferential Trace Phosphorus Substitution Accelerates and Stabilizes the Activation of Lithium‐Rich Cathode Materials</title>
 <link>https://doi.org/10.1002/adfm.79125</link>
@@ -1171,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>neural surrogate</category>
 <category>optimal control</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Tripartite evolutionary game and dynamic governance of cloud energy storage innovation ecosystems under technological trust shocks</title>
-<link>https://doi.org/10.1016/j.est.2026.124981</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124981</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:23 GMT</pubDate>
-<description>بازی تکاملی سه‌جانبه و حاکمیت پویا در بوم‌سازگان نوآوری ذخیره‌سازی انرژی ابری تحت شوک‌های اعتماد فناورانه تحلیل می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cloud energy storage · evolutionary game · dynamic governance · trust shocks · innovation ecosystem</description>
-<category>cloud energy storage</category>
-<category>evolutionary game</category>
-<category>dynamic governance</category>
-<category>trust shocks</category>
-<category>innovation ecosystem</category>
-</item>
-<item>
-<title>Multi-objective optimization design of a thermal management system for large-capacity energy storage batteries coupling liquid cooling, phase change material and bio-inspired fins</title>
-<link>https://doi.org/10.1016/j.est.2026.125090</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125090</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:19 GMT</pubDate>
-<description>بهینه‌سازی چندهدفه سیستم مدیریت حرارتی باتری‌های ذخیره‌ساز بزرگ با ترکیب خنک‌کاری مایع، ماده تغییر فاز و پره‌های الهام‌گرفته از طبیعت انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · phase change material · liquid cooling · bio-inspired fins · multi-objective optimization</description>
-<category>battery thermal management</category>
-<category>phase change material</category>
-<category>liquid cooling</category>
-<category>bio-inspired fins</category>
-<category>multi-objective optimization</category>
-</item>
-<item>
-<title>Organic Electrodes With Excellent Rate Capability and Cycling Stability Enabled by Assembling Active Materials onto Conductive Agents</title>
-<link>https://doi.org/10.1002/smll.76200</link>
-<guid isPermaLink="false">10.1002/smll.76200</guid>
-<pubDate>Tue, 13 Oct 2026 17:04:49 GMT</pubDate>
-<description>با جای‌دهی لیتیوم ترفتالات در شبکه رسانای Super P، الکترود آلی با ظرفیت 104 mAh/g در نرخ 5C و پایداری چرخه‌ای عالی برای باتری‌های لیتیوم-یون ساخته شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in assembling lithium terephthalate onto Super P conductive networks, creating intimate active material–conductor contact. This integrated strategy simultaneously boosts electronic conductivity and suppresses dissolution. Significance: the composite achieves 104 mAh g⁻¹ at 5C and retains 130 mAh g⁻¹ after 1000 cycles, far exceeding physical mixtures, offering a practical route to high-rate, stable organic electrodes for sustainable lithium-ion batteries.&lt;br&gt;🏷 organic electrodes · lithium-ion batteries · lithium terephthalate · conductive network · cycling stability</description>
-<category>organic electrodes</category>
-<category>lithium-ion batteries</category>
-<category>lithium terephthalate</category>
-<category>conductive network</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
