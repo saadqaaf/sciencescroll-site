@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 12:01:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 13:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reversible zinc oxidation as a route to on-demand hydrogen delivery</title>
+<link>https://doi.org/10.1038/s44160-026-01190-6</link>
+<guid isPermaLink="false">10.1038/s44160-026-01190-6</guid>
+<pubDate>Fri, 16 Oct 2026 13:01:57 GMT</pubDate>
+<description>اکسیداسیون برگشت‌پذیر روی به عنوان مسیری برای تحویل هیدروژن در صورت تقاضا معرفی شده است.&lt;br&gt;Nature Synthesis | 🔬 Research Article&lt;br&gt;💡 This work introduces reversible zinc oxidation with lactate coordination as a novel hydrogen carrier, overcoming solubility limits to enable self-sustained, circuit-free hydrogen production. It achieves ~99% Faradaic efficiency and high volumetric capacity (137.9–218.4 kg H2 m−3), offering safer, decentralized green hydrogen delivery for remote and off-grid applications.&lt;br&gt;🏷 zinc oxidation · hydrogen delivery · on-demand hydrogen · reversible zinc · energy storage</description>
+<category>zinc oxidation</category>
+<category>hydrogen delivery</category>
+<category>on-demand hydrogen</category>
+<category>reversible zinc</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>Constructing Biomass‐Derived Ultra‐Thin 2D Carbon Nanoweb via Confinement‐Driven Bubbling Effect for High‐Rate Zinc‐Ion Storage in Hybrid Capacitors</title>
 <link>https://doi.org/10.1002/cey2.70346</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>dielectric properties</category>
 <category>high-power</category>
 <category>electrolyte regulation</category>
-</item>
-<item>
-<title>Bioinspired permselective interphase enables anticorrosive Li metal anodes for Li-S batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.002</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.002</guid>
-<pubDate>Wed, 14 Oct 2026 02:03:38 GMT</pubDate>
-<description>این مقاله با یک لایه میانی نفوذپذیر زیست‌الهام، آندهای لیتیوم فلزی ضدخوردگی برای باتری‌های لیتیوم-گوگرد ارائه می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · Li-S battery · permselective interphase · bioinspired · anticorrosive</description>
-<category>lithium metal anode</category>
-<category>Li-S battery</category>
-<category>permselective interphase</category>
-<category>bioinspired</category>
-<category>anticorrosive</category>
 </item>
 </channel>
 </rss>
