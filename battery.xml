@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 20:01:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Material circularity implications of battery degradation in shared electric mobility</title>
+<link>https://doi.org/10.1038/s41893-026-01969-7</link>
+<guid isPermaLink="false">10.1038/s41893-026-01969-7</guid>
+<pubDate>Fri, 16 Oct 2026 21:01:56 GMT</pubDate>
+<description>این پژوهش پیامدهای تخریب باتری بر چرخه مواد در حمل‌ونقل الکتریکی اشتراکی را تحلیل می‌کند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 This study uniquely integrates fleet projections, battery degradation, and dynamic material flow analysis to show that shared mobility&amp;#x27;s material savings depend on battery chemistry. It reveals a temporal trade-off: accelerated retirement boosts secondary supply, while second-life use delays recycling and raises near-term primary demand. This is significant for aligning shared mobility, battery choice, and circular strategies with transport decarbonization.&lt;br&gt;🏷 battery degradation · circular economy · shared mobility · electric vehicles · material circularity</description>
+<category>battery degradation</category>
+<category>circular economy</category>
+<category>shared mobility</category>
+<category>electric vehicles</category>
+<category>material circularity</category>
+</item>
 <item>
 <title>Redefining the thermal safety boundaries of ether-based sodium batteries</title>
 <link>https://doi.org/10.1016/j.joule.2026.102711</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>ion-selective separator</category>
 <category>facet engineering</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Breaking the High-Voltage Limit of Na2CO3 Presodiation: An Interfacial Engineering Approach to Ampere-Hour Sodium-Ion Devices</title>
-<link>https://doi.org/10.1021/acsnano.6c11812</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11812</guid>
-<pubDate>Wed, 14 Oct 2026 12:03:05 GMT</pubDate>
-<description>مهندسی بین‌سطحی، پتانسیل تجزیه Na2CO3 را ۳۵۰ میلی‌ولت کاهش داده و چگالی انرژی باتری سدیم-یونی آمپرساعت را ۲۲.۴٪ افزایش می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This work breaks Na2CO3&amp;#x27;s high-voltage presodiation limit via in situ interfacial oxygen vacancies and electronic reconstruction, cutting decomposition potential by 350 mV. It enables 496.9 mAh g–1 Na+ release, avoids parasitic reactions, and boosts energy density 117.4% in full cells and 22.4% in 1.5 Ah pouch cells, offering a scalable route to high-energy sodium-ion devices.&lt;br&gt;🏷 Na2CO3 presodiation · sodium-ion capacitor · interfacial engineering · oxygen vacancies · energy density</description>
-<category>Na2CO3 presodiation</category>
-<category>sodium-ion capacitor</category>
-<category>interfacial engineering</category>
-<category>oxygen vacancies</category>
-<category>energy density</category>
 </item>
 </channel>
 </rss>
