@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 05:04:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 06:02:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Controlling Epitaxial Zn Growth via Guided Laser Patterning toward High‐Performance 6Ah Aqueous Zn||I 2 Batteries</title>
+<link>https://doi.org/10.1002/advs.78252</link>
+<guid isPermaLink="false">10.1002/advs.78252</guid>
+<pubDate>Fri, 16 Oct 2026 06:02:43 GMT</pubDate>
+<description>الگو‌دهی لیزری آند Zn رشد اپیتاکسیال را هدایت کرده و باتری آبی Zn||I2 با ظرفیت 6.5 Ah و پایداری چرخه‌ای بالا ارائه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Laser patterning creates resistance gradients that guide epitaxial Zn growth, converting the (101) plane to (002) and enabling bottom-up filling. This yields 972-cycle symmetric cells and a 6.5 Ah Zn||I₂ pouch cell with 99.9% Coulombic efficiency and 90.7% retention over 440 cycles, advancing practical aqueous zinc batteries for grid storage.&lt;br&gt;🏷 aqueous zinc battery · Zn anode · laser patterning · epitaxial growth · Zn||I2 pouch cell</description>
+<category>aqueous zinc battery</category>
+<category>Zn anode</category>
+<category>laser patterning</category>
+<category>epitaxial growth</category>
+<category>Zn||I2 pouch cell</category>
+</item>
 <item>
 <title>Dynamics and Structure of Room Temperature Ionic Liquids: Ultrafast IR Experiments and MD Simulations of the Ion Cage Model</title>
 <link>https://doi.org/10.1021/jacs.6c11518</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>SEI growth</category>
 <category>lithium plating</category>
 <category>active material loss</category>
-</item>
-<item>
-<title>Neural surrogate-based model predictive control for compressed air energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125126</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125126</guid>
-<pubDate>Tue, 13 Oct 2026 18:01:27 GMT</pubDate>
-<description>کنترل پیش‌بین مدل مبتنی بر جانشین عصبی برای ذخیره‌سازی انرژی هوای فشرده ارائه و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 compressed air energy storage · model predictive control · neural surrogate · optimal control · energy storage</description>
-<category>compressed air energy storage</category>
-<category>model predictive control</category>
-<category>neural surrogate</category>
-<category>optimal control</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
