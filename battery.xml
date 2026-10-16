@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 15:03:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 16:02:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Storage‐Environment‐Dependent Surface Evolution and Electrochemical Degradation of High‐Nickel NCM Single‐Crystal Cathodes</title>
+<link>https://doi.org/10.1002/smll.76176</link>
+<guid isPermaLink="false">10.1002/smll.76176</guid>
+<pubDate>Fri, 16 Oct 2026 16:02:11 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که محیط نگهداری (CO2 و هوای مرطوب) و افزایش نیکل در کاتدهای تک‌کریستال NCM باعث تشکیل لیتیوم باقیمانده و تخریب ساختاری می‌شود که امپدانس را افزایش و ظرفیت را کاهش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This study reveals how storage atmospheres (CO₂, humid air vs. vacuum, argon) drive residual lithium formation and surface reconstruction on high-nickel single-crystal NCM cathodes, showing nickel content exacerbates degradation. It links storage-induced surface chemistry to increased impedance and capacity loss, offering practical guidance for storage protocols to preserve electrochemical performance of high-energy-density cathodes.&lt;br&gt;🏷 single-crystal NCM · residual lithium · storage degradation · surface reconstruction · high-nickel cathode</description>
+<category>single-crystal NCM</category>
+<category>residual lithium</category>
+<category>storage degradation</category>
+<category>surface reconstruction</category>
+<category>high-nickel cathode</category>
+</item>
+<item>
+<title>Electrospinning‐Enabled Functional Components for Advanced Zinc‐Based Batteries: From Structural Design to Interface Regulation</title>
+<link>https://doi.org/10.1002/smll.76241</link>
+<guid isPermaLink="false">10.1002/smll.76241</guid>
+<pubDate>Fri, 16 Oct 2026 16:02:03 GMT</pubDate>
+<description>این مرور، پیشرفت‌های نانوالیاف الکتروریسی‌شده برای باتری‌های روی را از منظر تنظیم هم‌افزای یون-فضا-سطح مشترک بررسی می‌کند و روابط ساختار-عملکرد را برای طراحی مواد پیشرفته ارائه می‌دهد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely frames electrospun nanofibers for zinc-based batteries through ion-spatial-interfacial synergistic regulation. It links electrospinning strategies—porous, hollow, multichannel, core–shell, hierarchical—to electrochemical function, and systematically covers anodes, cathodes, separators, electrolytes, and air electrodes. By distilling structure-function relationships, it offers rational design guidance for advanced zinc-based energy storage.&lt;br&gt;🏷 zinc-based batteries · electrospun nanofibers · interface regulation · ion transport · dendrite suppression</description>
+<category>zinc-based batteries</category>
+<category>electrospun nanofibers</category>
+<category>interface regulation</category>
+<category>ion transport</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>High‐Rate Magnesium‐Ion Batteries Enabled by Boron‐Doped Bismuth Anodes</title>
+<link>https://doi.org/10.1002/eem2.70515</link>
+<guid isPermaLink="false">10.1002/eem2.70515</guid>
+<pubDate>Fri, 16 Oct 2026 16:01:30 GMT</pubDate>
+<description>آند Bi دوپ‌شده با بور برای باتری منیزیم-یون، با بهبود سینتیک انتشار Mg2+ و پایداری SEI، ظرفیت 167 mAh/g را پس از 1000 چرخه در 2 A/g حفظ می‌کند.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Boron-doped bismuth anodes are introduced to overcome bismuth&amp;#x27;s severe volume expansion and sluggish kinetics in magnesium-ion batteries. Boron doping enhances Mg²⁺ diffusion and stabilizes a MgF₂/AlF₃-based SEI, enabling 167 mA h g⁻¹ after 1000 cycles at 2 A g⁻¹—among the best reported bismuth anodes—and good full-cell performance. This interface-engineering strategy advances high-rate alloy anode design for magnesium-ion batteries.&lt;br&gt;🏷 magnesium-ion battery · bismuth anode · boron doping · SEI stability · high-rate performance</description>
+<category>magnesium-ion battery</category>
+<category>bismuth anode</category>
+<category>boron doping</category>
+<category>SEI stability</category>
+<category>high-rate performance</category>
+</item>
 <item>
 <title>Bulky Molecules Tailor Solvent Packing Fraction of Electrolytes for High‐Voltage Sodium‐Ion Battery</title>
 <link>https://doi.org/10.1002/adfm.79119</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>energy storage</category>
 <category>graphene anode</category>
 <category>commercialization</category>
-</item>
-<item>
-<title>Complete Encapsulation of Sulfur-Bridged Carbonyl Molecules in Graphene Oxide Matrix Enables Ultrastable Organic Cathodes for Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta05610e</link>
-<guid isPermaLink="false">10.1039/d6ta05610e</guid>
-<pubDate>Wed, 14 Oct 2026 06:01:16 GMT</pubDate>
-<description>کپسوله‌سازی کامل مولکول‌های کربونیل پل‌دار با گوگرد در ماتریس گرافن اکسید، کاتدهای آلی فوق‌پایدار برای باتری‌های لیتیوم-یون فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work achieves complete encapsulation of sulfur-bridged carbonyl molecules within a graphene oxide matrix, solving dissolution and cycling instability that plague small-molecule organic cathodes. The strategy enables ultrastable lithium-ion battery cathodes with high capacity and long life, offering a scalable, sustainable alternative to conventional inorganic cathodes and advancing practical organic energy storage.&lt;br&gt;🏷 organic cathode · lithium-ion battery · carbonyl molecules · graphene oxide · encapsulation</description>
-<category>organic cathode</category>
-<category>lithium-ion battery</category>
-<category>carbonyl molecules</category>
-<category>graphene oxide</category>
-<category>encapsulation</category>
-</item>
-<item>
-<title>Sulfur-functionalized binary transition metal Mo2Ti2C3 MXene for long-life hybrid sodium-ion capacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125076</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125076</guid>
-<pubDate>Wed, 14 Oct 2026 04:01:58 GMT</pubDate>
-<description>مکسین Mo2Ti2C3 دوگانه فلز واسطه عامل‌دار شده با گوگرد برای خازن‌های هیبریدی سدیم-یون با عمر طولانی طراحی شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion capacitor · MXene · sulfur functionalization · hybrid capacitor · long-life</description>
-<category>sodium-ion capacitor</category>
-<category>MXene</category>
-<category>sulfur functionalization</category>
-<category>hybrid capacitor</category>
-<category>long-life</category>
-</item>
-<item>
-<title>Coupling mechanism of internal polarization evolution and 3D thermal behavior in lithium-ion batteries under high-rate discharge</title>
-<link>https://doi.org/10.1016/j.est.2026.125084</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125084</guid>
-<pubDate>Wed, 14 Oct 2026 04:01:49 GMT</pubDate>
-<description>این مقاله سازوکار جفت‌شدگی بین تحول قطبش داخلی و رفتار حرارتی سه‌بعدی در باتری‌های لیتیوم-یون را در تخلیه با نرخ بالا بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · internal polarization · thermal behavior · high-rate discharge · coupling mechanism</description>
-<category>lithium-ion battery</category>
-<category>internal polarization</category>
-<category>thermal behavior</category>
-<category>high-rate discharge</category>
-<category>coupling mechanism</category>
 </item>
 </channel>
 </rss>
