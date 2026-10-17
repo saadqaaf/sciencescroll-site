@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 23:01:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Grain Boundary Character Governs Lithium Deposition Uniformity on Polycrystalline Copper</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02640</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02640</guid>
+<pubDate>Sat, 17 Oct 2026 00:01:22 GMT</pubDate>
+<description>مرزهای دانه مس، یکنواختی رسوب لیتیوم را کنترل می‌کنند؛ مرزهای بی‌نظم سد بالا برای مهاجرت لیتیوم ایجاد کرده و مرزهای منظم رسوب یکنواخت‌تری می‌دهند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This work first identifies grain boundary density and character—not just crystallographic orientation—as key regulators of Li deposition uniformity on copper. By decoupling grain size from surface chemistry, it shows disordered boundaries impede Li adatom migration, while ordered boundaries enable redistribution. This enables engineered copper foils with uniform Li plating and improved anode-free cell cyclability.&lt;br&gt;🏷 lithium metal anode · grain boundaries · copper current collector · anode-free battery · Li deposition</description>
+<category>lithium metal anode</category>
+<category>grain boundaries</category>
+<category>copper current collector</category>
+<category>anode-free battery</category>
+<category>Li deposition</category>
+</item>
+<item>
+<title>Pressure-Driven Topological Reconfiguration toward Fast-Charging Hard Carbon with Plateau-Capacity Retention</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02684</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02684</guid>
+<pubDate>Sat, 17 Oct 2026 00:01:13 GMT</pubDate>
+<description>کربن سخت با بازآرایی توپولوژیکی فشارمحور برای باتری سدیم‌یون ساخته شد که ۸۰٪ SOC را در ۱۴.۴ دقیقه و ۹۰.۱٪ ظرفیت پلاتو را حفظ می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 Pressure-driven thermomechanical sintering reconfigures semi-coke’s aromatic topology, suppressing graphitization while creating twisted pseudo-graphitic domains and closed nanopores. This yields fast-charging hard carbon (80% SOC in 14.4 min) with 90.1% plateau-capacity retention via abundant Na+ sites, rapid diffusion, and stable NaF-rich SEI. It establishes a scalable route to upgrade cheap semi-coke into high-performance anodes.&lt;br&gt;🏷 hard carbon · sodium-ion battery · fast charging · plateau capacity · topological reconfiguration</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>fast charging</category>
+<category>plateau capacity</category>
+<category>topological reconfiguration</category>
+</item>
 <item>
 <title>Material circularity implications of battery degradation in shared electric mobility</title>
 <link>https://doi.org/10.1038/s41893-026-01969-7</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>fluorinated diluent</category>
 <category>solid electrolyte interphase</category>
 <category>non-flammable electrolyte</category>
-</item>
-<item>
-<title>Stabilizing the Localized O 2 n− for Enhanced Cycling Stability in Li‐Rich Cathodes</title>
-<link>https://doi.org/10.1002/smll.75842</link>
-<guid isPermaLink="false">10.1002/smll.75842</guid>
-<pubDate>Wed, 14 Oct 2026 13:02:05 GMT</pubDate>
-<description>اصلاح هم‌افزاینده با نقص اکسیژن، فاز اسپینل و پوشش TiF4، پایداری چرخه‌ای کاتدهای غنی از لیتیوم را با تثبیت O2n− بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a synergistic strategy combining oxygen vacancies, spinel phase, and TiF₄ coating to stabilize localized O₂ⁿ⁻ in Li-rich cathodes. This interface reconstruction suppresses oxygen release and side reactions while enabling 3D Li⁺ diffusion. Significance: exceptional cycling stability (96% retention after 200 cycles at 2C/5C) and near-zero decay over 300 cycles at 1C, advancing practical Li-rich cathode applications.&lt;br&gt;🏷 Li-rich cathode · oxygen vacancies · spinel phase · TiF4 coating · cycling stability</description>
-<category>Li-rich cathode</category>
-<category>oxygen vacancies</category>
-<category>spinel phase</category>
-<category>TiF4 coating</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Facet‐Regulated MOF Nanosheets Enable Ion‐Selective Separators for Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smm2.70119</link>
-<guid isPermaLink="false">10.1002/smm2.70119</guid>
-<pubDate>Wed, 14 Oct 2026 13:02:00 GMT</pubDate>
-<description>نانوصفحات MOF با وجوه تنظیم‌شده، جداکننده یون‌گزین برای باتری لیتیوم-فلز ساخته و رشد دندریت را با انتقال انتخابی Li+ سرکوب می‌کند.&lt;br&gt;SmartMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Facet engineering of MOF nanosheets yields ion-selective separators for lithium metal batteries. Gluconate anions adsorb on high-energy facets, suppressing vertical growth to form ultrathin Zn(bim)(OAc) nanosheets. Coated on polypropylene, they anchor anions and boost Li⁺ transference (0.73), suppressing dendrites over 1000 h and retaining 85% capacity after 500 cycles. This offers a general strategy for stable lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · MOF nanosheets · ion-selective separator · facet engineering · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>MOF nanosheets</category>
-<category>ion-selective separator</category>
-<category>facet engineering</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
