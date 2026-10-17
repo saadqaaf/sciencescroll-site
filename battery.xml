@@ -5,8 +5,21 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 00:01:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 01:02:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A High-Nickel Cathode Material for Lithium-Ion Batteries Integrating a Proposed 3D Ionic Percolation Network and Interwoven Layered/Rock-Salt Nanodomains</title>
+<link>https://doi.org/10.1021/jacs.6c14375</link>
+<guid isPermaLink="false">10.1021/jacs.6c14375</guid>
+<pubDate>Sat, 17 Oct 2026 01:02:23 GMT</pubDate>
+<description>کاتد تک‌کریستالی غنی از نیکل با تابش نوترونی، شبکه نفوذ یونی سه‌بعدی و نانودومین‌های لایه‌ای/نمک سنگی درهم‌تنیده ایجاد می‌کند و پایداری ساختاری و ظرفیت را بهبود می‌بخشد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irradiation reconstructs single-crystal LiNi0.92Co0.06Mn0.02O2, creating a proposed 3D Li+ percolation network via grain boundaries plus interwoven layered/rock-salt nanodomains. This dual architecture shortens diffusion paths, suppresses phase transitions and side reactions, delivering 213.9 mAh/g at 0.2 C and 80.0% retention after 450 cycles at 5 C—establishing neutron irradiation as a novel cathode engineering strategy.&lt;br&gt;🏷 high-nickel cathode · single-crystal cathode · Li-ion battery · neutron irradiation · ionic percolation</description>
+<category>high-nickel cathode</category>
+<category>single-crystal cathode</category>
+<category>Li-ion battery</category>
+<category>neutron irradiation</category>
+<category>ionic percolation</category>
+</item>
 <item>
 <title>Grain Boundary Character Governs Lithium Deposition Uniformity on Polycrystalline Copper</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02640</link>
@@ -1196,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>p-n heterojunction</category>
 <category>built-in electric field</category>
 <category>defect engineering</category>
-</item>
-<item>
-<title>Fluorinated Aromatic Diluent Enabling Stable and Non–flammable Phosphate Electrolytes for Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76069</link>
-<guid isPermaLink="false">10.1002/smll.76069</guid>
-<pubDate>Wed, 14 Oct 2026 13:02:16 GMT</pubDate>
-<description>افزودن 1,2-difluorobenzene به الکترولیت فسفات غلیظ موضعی، با مشارکت در واکنش‌های بین‌سطحی و تشکیل SEI/CEI پایدار، باتری سدیم‌فلزی غیرقابل‌اشتعال با پایداری چرخه‌ای بالا فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 DFB is introduced as a non-inert diluent for phosphate electrolytes, forming a localized high-concentration system. Unlike conventional diluents, DFB participates in interfacial reactions, creating a bilayer SEI and compact CEI. This yields non-flammable, stable sodium metal batteries with 98.95% coulombic efficiency and 85% capacity retention over 250 cycles, advancing safe grid-scale energy storage.&lt;br&gt;🏷 sodium metal battery · phosphate electrolyte · fluorinated diluent · solid electrolyte interphase · non-flammable electrolyte</description>
-<category>sodium metal battery</category>
-<category>phosphate electrolyte</category>
-<category>fluorinated diluent</category>
-<category>solid electrolyte interphase</category>
-<category>non-flammable electrolyte</category>
 </item>
 </channel>
 </rss>
