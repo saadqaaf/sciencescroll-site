@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 05:01:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 06:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Levitodynamics beyond the ground state of motion</title>
+<link>https://doi.org/10.1038/s42254-026-00997-8</link>
+<guid isPermaLink="false">10.1038/s42254-026-00997-8</guid>
+<pubDate>Sat, 17 Oct 2026 06:01:10 GMT</pubDate>
+<description>این مقاله به بررسی لیویتودینامیک فراتر از حالت پایه حرکت می‌پردازد و چشم‌انداز کنترل کوانتومی حرکت ذرات معلق را ترسیم می‌کند.&lt;br&gt;Nature Reviews Physics | 💭 Perspective&lt;br&gt;🏷 levitodynamics · optomechanics · ground state cooling · quantum motion · nanoparticle trapping</description>
+<category>levitodynamics</category>
+<category>optomechanics</category>
+<category>ground state cooling</category>
+<category>quantum motion</category>
+<category>nanoparticle trapping</category>
+</item>
 <item>
 <title>Wrinkled Pd Metallene: Synergistic Geometric and Electronic Engineering for High-Performance Bioorthogonal Catalysis</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03180</link>
@@ -1206,18 +1218,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metall
 <category>tandem alignment</category>
 <category>thermal actuation</category>
 <category>soft robotics</category>
-</item>
-<item>
-<title>Artificial intelligence for life-cycle-aware sustainable materials discovery</title>
-<link>https://doi.org/10.1038/s41893-026-01950-4</link>
-<guid isPermaLink="false">10.1038/s41893-026-01950-4</guid>
-<pubDate>Fri, 16 Oct 2026 21:02:00 GMT</pubDate>
-<description>این مقاله مروری به کاربرد هوش مصنوعی در کشف مواد پایدار با در نظر گرفتن چرخه عمر می‌پردازد.&lt;br&gt;Nature Sustainability | ⭐ Review&lt;br&gt;🏷 artificial intelligence · materials discovery · life-cycle assessment · sustainability · machine learning</description>
-<category>artificial intelligence</category>
-<category>materials discovery</category>
-<category>life-cycle assessment</category>
-<category>sustainability</category>
-<category>machine learning</category>
 </item>
 </channel>
 </rss>
