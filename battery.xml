@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 17:01:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 18:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination-state regulation of aqueous negolytes: electronic structure, degradation, and high-voltage flow-battery performance</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218674</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218674</guid>
+<pubDate>Sat, 17 Oct 2026 18:01:09 GMT</pubDate>
+<description>این مقاله با تنظیم حالت کوئوردیناسیون negolyte آبی، ساختار الکترونی و تخریب آن را بررسی و عملکرد باتری جریانی ولتاژ بالا را بهبود می‌دهد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aqueous negolyte · flow battery · coordination state · electronic structure · high-voltage</description>
+<category>aqueous negolyte</category>
+<category>flow battery</category>
+<category>coordination state</category>
+<category>electronic structure</category>
+<category>high-voltage</category>
+</item>
+<item>
+<title>Seeing the unseen: Mapping bulk phase-transformation signatures across the LiFePO4 voltage plateau by nonlinear acoustics</title>
+<link>https://doi.org/10.1016/j.xinn.2026.101605</link>
+<guid isPermaLink="false">10.1016/j.xinn.2026.101605</guid>
+<pubDate>Sat, 17 Oct 2026 18:01:05 GMT</pubDate>
+<description>این مقاله با روش آکوستیک غیرخطی نشانه‌های تبدیل فاز توده‌ای را در سراسر فلات ولتاژ LiFePO4 نقشه‌برداری می‌کند.&lt;br&gt;The Innovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LiFePO4 · nonlinear acoustics · phase transformation · voltage plateau · bulk mapping</description>
+<category>LiFePO4</category>
+<category>nonlinear acoustics</category>
+<category>phase transformation</category>
+<category>voltage plateau</category>
+<category>bulk mapping</category>
+</item>
 <item>
 <title>Spatially Decoupled Charge Compensation Enables Versatile Cation–Anion Co‐Intercalation in Layered Metal Oxide Cathodes</title>
 <link>https://doi.org/10.1002/adma.75440</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>sulfur conversion</category>
 <category>lithium metal battery</category>
 <category>long cycling</category>
-</item>
-<item>
-<title>Bio‐Inspired Nucleotide Electrolyte Engineering Enables Highly Reversible Zinc Anodes for Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79073</link>
-<guid isPermaLink="false">10.1002/adfm.79073</guid>
-<pubDate>Wed, 14 Oct 2026 22:01:32 GMT</pubDate>
-<description>این مقاله با افزودنی IMP الهام‌گرفته از نوکلئوتید، رشد دندریتی روی را سرکوب کرده و سلول‌های Zn||Zn را بیش از ۲۰۰۰ ساعت پایدار نگه می‌دارد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Disodium inosinate, a nucleotide additive, is introduced to regulate Zn electrochemistry. Its differentiated phosphate, ribose, and heterocyclic sites enable distinct interactions with Zn²⁺, water, and Zn surface, guiding solvation and Zn(002) deposition. This yields dendrite-free Zn anodes with 2000 h cycling and 99.8% Coulombic efficiency, offering a bio-inspired, sustainable electrolyte design strategy.&lt;br&gt;🏷 zinc-ion battery · nucleotide additive · zinc anode · dendrite suppression · electrolyte engineering</description>
-<category>zinc-ion battery</category>
-<category>nucleotide additive</category>
-<category>zinc anode</category>
-<category>dendrite suppression</category>
-<category>electrolyte engineering</category>
-</item>
-<item>
-<title>Cross‐Phase Impurity–Interphase Regulation for Suppressing Thermally Accelerated Failure in Ni‐Rich Pouch Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79030</link>
-<guid isPermaLink="false">10.1002/adfm.79030</guid>
-<pubDate>Wed, 14 Oct 2026 22:01:27 GMT</pubDate>
-<description>این مقاله با استفاده از PDVS به عنوان تنظیم‌کننده ناخالصی-فاز میانی، تخریب گرمایی سلول‌های کیسه‌ای Ni-rich را کاهش داده و ظرفیت ۹۲.۸۱٪ را پس از ۳۰۴ چرخه در ۴۵ درجه حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 PDVS enables cross-phase regulation in Ni-rich pouch cells by synchronously scavenging HF/H₂O and forming Si-containing interphases on both electrodes. This dual action suppresses coupled impurity–interphase degradation and cross-talk under thermal stress, delivering 92.81% retention after 304 cycles at 45°C and reduced swelling at 60°C. It offers a manufacturing-compatible electrolyte design principle for thermally durable Ni-rich batteries.&lt;br&gt;🏷 Ni-rich cathode · pouch cell · impurity scavenging · interphase regulation · thermal stability</description>
-<category>Ni-rich cathode</category>
-<category>pouch cell</category>
-<category>impurity scavenging</category>
-<category>interphase regulation</category>
-<category>thermal stability</category>
 </item>
 </channel>
 </rss>
