@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 16:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 17:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Strengthening methods of high-entropy alloys</title>
+<link>https://doi.org/10.1016/j.mser.2026.101321</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101321</guid>
+<pubDate>Sat, 17 Oct 2026 17:01:16 GMT</pubDate>
+<description>این مقاله روش‌های مختلف استحکام‌بخشی آلیاژهای با آنتروپی بالا را مرور می‌کند و نقش مکانیزم‌هایی مانند استحکام محلول جامد و رسوب‌سختی را در بهبود خواص مکانیکی بررسی می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 high-entropy alloys · strengthening mechanisms · solid solution strengthening · precipitation hardening · mechanical properties</description>
+<category>high-entropy alloys</category>
+<category>strengthening mechanisms</category>
+<category>solid solution strengthening</category>
+<category>precipitation hardening</category>
+<category>mechanical properties</category>
+</item>
+<item>
+<title>Spatially Decoupled Charge Compensation Enables Versatile Cation–Anion Co‐Intercalation in Layered Metal Oxide Cathodes</title>
+<link>https://doi.org/10.1002/adma.75440</link>
+<guid isPermaLink="false">10.1002/adma.75440</guid>
+<pubDate>Sat, 17 Oct 2026 17:01:13 GMT</pubDate>
+<description>کاتد اکسید وانادیوم لایه‌ای با لیگاند ملامین، هم‌درج‌شوندگی کاتیون-آنیون را با جداسازی فضایی جبران بار ممکن کرده و عمر چرخه‌ای فوق‌العاده و ظرفیت بالایی در باتری منیزیمی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially decoupled charge-compensation mechanism using pre-intercalated melamine ligands as anion redox centers while metal sites handle multivalent cation redox, alleviating electrostatic crowding. This enables record cycle life (&amp;gt;36,000 cycles) and high areal capacity in Mg batteries, establishing a versatile platform for multivalent cation–anion co-intercalation in high-performance energy storage.&lt;br&gt;🏷 vanadium oxide cathode · cation-anion co-intercalation · magnesium-ion battery · melamine ligands · charge compensation</description>
+<category>vanadium oxide cathode</category>
+<category>cation-anion co-intercalation</category>
+<category>magnesium-ion battery</category>
+<category>melamine ligands</category>
+<category>charge compensation</category>
+</item>
 <item>
 <title>Enhanced H 2 O 2 Photosynthesis on CdIn 2 S 4 /CuWO 4 Heterojunctions via a Dual-Channel Mechanism</title>
 <link>https://doi.org/10.1039/d6ta07142b</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>HAPSTR1</category>
 <category>HUWE1</category>
 <category>chromatin proteostasis</category>
-</item>
-<item>
-<title>Magneto-mechano-electrochemical fiber for deformation-resilient and smart electronic textiles</title>
-<link>https://doi.org/10.1126/sciadv.aef4338</link>
-<guid isPermaLink="false">10.1126/sciadv.aef4338</guid>
-<pubDate>Sat, 17 Oct 2026 02:02:12 GMT</pubDate>
-<description>این مقاله الیاف مغناطو-مکانیکی-الکتروشیمیایی را برای باتری‌های پارچه‌ای مقاوم به تغییرشکل و منسوجات هوشمند با پایش سلامت معرفی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a magneto-mechano-electrochemical fiber architecture that uses magnetoelectrochemistry to unify conflicting deformation and stability requirements in cylindrical fiber electrodes. It extends battery lifespan by 374% and capacity by 61%, while remaining effective under deformation. Significance: this deformation-resilient platform simultaneously enables body-motion energy harvesting and physiological monitoring, transforming conventional textiles into smart health-monitoring systems.&lt;br&gt;🏷 fiber battery · electronic textiles · magnetoelectrochemistry · deformation resilience · health monitoring</description>
-<category>fiber battery</category>
-<category>electronic textiles</category>
-<category>magnetoelectrochemistry</category>
-<category>deformation resilience</category>
-<category>health monitoring</category>
-</item>
-<item>
-<title>Substrate-bound structures of yeast ALA synthase reveal protein dynamics initiating heme biosynthesis</title>
-<link>https://doi.org/10.1126/sciadv.aef7768</link>
-<guid isPermaLink="false">10.1126/sciadv.aef7768</guid>
-<pubDate>Sat, 17 Oct 2026 02:02:07 GMT</pubDate>
-<description>این مقاله ساختارهای متصل به سوبسترای ALA synthase مخمر و دینامیک پروتئینی آغازگر زیست‌سنتز heme را با کریستالوگرافی و شبیه‌سازی مولکولی روشن می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 ALA synthase · heme biosynthesis · protein dynamics · crystallography · molecular dynamics</description>
-<category>ALA synthase</category>
-<category>heme biosynthesis</category>
-<category>protein dynamics</category>
-<category>crystallography</category>
-<category>molecular dynamics</category>
 </item>
 </channel>
 </rss>

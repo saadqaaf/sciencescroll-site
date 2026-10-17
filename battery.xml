@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 16:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 17:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spatially Decoupled Charge Compensation Enables Versatile Cation–Anion Co‐Intercalation in Layered Metal Oxide Cathodes</title>
+<link>https://doi.org/10.1002/adma.75440</link>
+<guid isPermaLink="false">10.1002/adma.75440</guid>
+<pubDate>Sat, 17 Oct 2026 17:01:13 GMT</pubDate>
+<description>کاتد اکسید وانادیوم لایه‌ای با لیگاند ملامین، هم‌درج‌شوندگی کاتیون-آنیون را با جداسازی فضایی جبران بار ممکن کرده و عمر چرخه‌ای فوق‌العاده و ظرفیت بالایی در باتری منیزیمی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially decoupled charge-compensation mechanism using pre-intercalated melamine ligands as anion redox centers while metal sites handle multivalent cation redox, alleviating electrostatic crowding. This enables record cycle life (&amp;gt;36,000 cycles) and high areal capacity in Mg batteries, establishing a versatile platform for multivalent cation–anion co-intercalation in high-performance energy storage.&lt;br&gt;🏷 vanadium oxide cathode · cation-anion co-intercalation · magnesium-ion battery · melamine ligands · charge compensation</description>
+<category>vanadium oxide cathode</category>
+<category>cation-anion co-intercalation</category>
+<category>magnesium-ion battery</category>
+<category>melamine ligands</category>
+<category>charge compensation</category>
+</item>
 <item>
 <title>Distributed hybrid energy storage configuration framework based on spatiotemporal mutual cross-attention</title>
 <link>https://doi.org/10.1016/j.est.2026.125179</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>impurity scavenging</category>
 <category>interphase regulation</category>
 <category>thermal stability</category>
-</item>
-<item>
-<title>Research Progress on V 2 CT x MXene‐Based Composites: Synthetic Strategies, Structure Design, and Multifunctional Applications</title>
-<link>https://doi.org/10.1002/cey2.70288</link>
-<guid isPermaLink="false">10.1002/cey2.70288</guid>
-<pubDate>Wed, 14 Oct 2026 20:01:15 GMT</pubDate>
-<description>این مقاله مروری، ساخت، طراحی ساختاری و کاربردهای چندمنظوره کامپوزیت‌های V2CTx MXene را در ذخیره‌سازی انرژی و تبدیل و تخریب فوتوکاتالیستی بررسی می‌کند.&lt;br&gt;Carbon Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely links heterogeneous interfaces to V2CTx MXene composite properties through structural design strategies. It systematically covers synthesis, structural engineering, and multifunctional applications in energy storage, conversion, and photocatalysis, while elucidating charge storage and catalytic mechanisms. It provides critical insights and future directions, highlighting V2CTx composites&amp;#x27; broad potential.&lt;br&gt;🏷 V2CTx MXene · energy storage · composite design · electrochemical performance · photocatalysis</description>
-<category>V2CTx MXene</category>
-<category>energy storage</category>
-<category>composite design</category>
-<category>electrochemical performance</category>
-<category>photocatalysis</category>
 </item>
 </channel>
 </rss>
