@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 01:02:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 02:04:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Magneto-mechano-electrochemical fiber for deformation-resilient and smart electronic textiles</title>
+<link>https://doi.org/10.1126/sciadv.aef4338</link>
+<guid isPermaLink="false">10.1126/sciadv.aef4338</guid>
+<pubDate>Sat, 17 Oct 2026 02:02:12 GMT</pubDate>
+<description>این مقاله الیاف مغناطو-مکانیکی-الکتروشیمیایی را برای باتری‌های پارچه‌ای مقاوم به تغییرشکل و منسوجات هوشمند با پایش سلامت معرفی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a magneto-mechano-electrochemical fiber architecture that uses magnetoelectrochemistry to unify conflicting deformation and stability requirements in cylindrical fiber electrodes. It extends battery lifespan by 374% and capacity by 61%, while remaining effective under deformation. Significance: this deformation-resilient platform simultaneously enables body-motion energy harvesting and physiological monitoring, transforming conventional textiles into smart health-monitoring systems.&lt;br&gt;🏷 fiber battery · electronic textiles · magnetoelectrochemistry · deformation resilience · health monitoring</description>
+<category>fiber battery</category>
+<category>electronic textiles</category>
+<category>magnetoelectrochemistry</category>
+<category>deformation resilience</category>
+<category>health monitoring</category>
+</item>
 <item>
 <title>A High-Nickel Cathode Material for Lithium-Ion Batteries Integrating a Proposed 3D Ionic Percolation Network and Interwoven Layered/Rock-Salt Nanodomains</title>
 <link>https://doi.org/10.1021/jacs.6c14375</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>joint dispatch strategy</category>
 <category>parallel compression</category>
 <category>sliding-pressure expansion</category>
-</item>
-<item>
-<title>Defect-engineered CuCo2S4@Bi2O3 p-n heterojunction with enhanced built-in electric field for high-performance hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125091</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125091</guid>
-<pubDate>Wed, 14 Oct 2026 14:01:42 GMT</pubDate>
-<description>این پژوهش یک ناهم‌پیوند p-n از CuCo2S4@Bi2O3 با نقص‌های مهندسی‌شده و میدان الکتریکی داخلی تقویت‌شده برای ابرخازن‌های هیبریدی با عملکرد بالا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid supercapacitor · CuCo2S4@Bi2O3 · p-n heterojunction · built-in electric field · defect engineering</description>
-<category>hybrid supercapacitor</category>
-<category>CuCo2S4@Bi2O3</category>
-<category>p-n heterojunction</category>
-<category>built-in electric field</category>
-<category>defect engineering</category>
 </item>
 </channel>
 </rss>
