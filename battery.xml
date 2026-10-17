@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 20:01:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 21:03:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unlocking electric vehicle flexibility in microgrids via lightweight on-charger coordination</title>
+<link>https://doi.org/10.1038/s41467-026-78319-w</link>
+<guid isPermaLink="false">10.1038/s41467-026-78319-w</guid>
+<pubDate>Sat, 17 Oct 2026 21:03:02 GMT</pubDate>
+<description>مقاله روشی سبک برای هماهنگی خودروهای برقی از طریق شارژرها در ریزشبکه‌ها ارائه می‌دهد تا انعطاف‌پذیری این خودروها آزاد شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in transforming resource-constrained on-board chargers into intelligent agents via a lightweight distributed coordination framework, cutting memory use by 96.1% and communication overhead by 74.3%. Its significance: unlocking hardware-level vehicle flexibility yields a 10.8% profit gain over uncoordinated charging and promises economic, environmental, and social benefits for the 2025–2040 energy landscape.&lt;br&gt;🏷 electric vehicles · microgrids · charger coordination · flexibility · energy management</description>
+<category>electric vehicles</category>
+<category>microgrids</category>
+<category>charger coordination</category>
+<category>flexibility</category>
+<category>energy management</category>
+</item>
+<item>
+<title>Nonflammable sulfamoyl–carbonate hybrid electrolyte for high-voltage lithium batteries via preemptive passivation</title>
+<link>https://doi.org/10.1038/s41467-026-78701-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-78701-8</guid>
+<pubDate>Sat, 17 Oct 2026 21:02:26 GMT</pubDate>
+<description>الکترولیت غیرقابل اشتعال سولفامویل-کربنات با غیرفعال‌سازی پیشگیرانه دو الکترود، پایداری چرخه در ولتاژ بالا و تأخیر ۸۷ درجه‌ای در runaway گرمایی را فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a nonflammable sulfamoyl–carbonate hybrid electrolyte that forms a weakly solvating environment, enabling preferential preemptive passivation of both electrodes. Its significance is achieving ~0 s self-extinguishing time, stable high-voltage cycling in lithium metal and lithium-ion batteries, improved rate and low-temperature performance, and an 87 °C delayed thermal runaway onset—offering a viable route to safe, high-energy batteries.&lt;br&gt;🏷 nonflammable electrolyte · lithium metal battery · high-voltage · preemptive passivation · sulfamoyl-carbonate</description>
+<category>nonflammable electrolyte</category>
+<category>lithium metal battery</category>
+<category>high-voltage</category>
+<category>preemptive passivation</category>
+<category>sulfamoyl-carbonate</category>
+</item>
+<item>
+<title>Topology‐Derived Closed Pores in Hard Carbon Boost Sodium‐Ion Storage</title>
+<link>https://doi.org/10.1002/anie.6016795</link>
+<guid isPermaLink="false">10.1002/anie.6016795</guid>
+<pubDate>Sat, 17 Oct 2026 21:01:37 GMT</pubDate>
+<description>مهندسی حفره مولکولی با β-cyclodextrin حفرات بسته ذاتی در hard carbon ایجاد می‌کند و ظرفیت 410 mAh/g و ICE 94.7 درصد برای ذخیره‌سازی سدیم فراهم می‌آورد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in molecular-cavity engineering using cyclic precursors (β-cyclodextrin) to create topology-derived intrinsic closed pores in hard carbon, enabling precise pore regulation. Significance: β-ICHC achieves 410.2 mAh g⁻¹ capacity, 94.7% ICE, and 99.7% retention over 300 cycles, with sub-0.35 nm sieving pores boosting capacity and ICE while pseudo-graphitic walls enable fast Na⁺ transport, revealing a three-stage storage mechanism.&lt;br&gt;🏷 hard carbon · closed pores · sodium-ion battery · molecular-cavity engineering · anode</description>
+<category>hard carbon</category>
+<category>closed pores</category>
+<category>sodium-ion battery</category>
+<category>molecular-cavity engineering</category>
+<category>anode</category>
+</item>
 <item>
 <title>Coordination-state regulation of aqueous negolytes: electronic structure, degradation, and high-voltage flow-battery performance</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218674</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>ion transport</category>
 <category>LiTFSI</category>
 <category>nanodomain percolation</category>
-</item>
-<item>
-<title>Unraveling the Origins of C‐Rate Dependent Capacity Decay in Fe‐Mn‐Based Prussian Blue Cathodes for Sodium Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.78899</link>
-<guid isPermaLink="false">10.1002/adfm.78899</guid>
-<pubDate>Wed, 14 Oct 2026 22:01:53 GMT</pubDate>
-<description>این مقاله با روش‌های درجا، مکانیزم‌های افت ظرفیت وابسته به نرخ در کاتدهای Prussian blue آهن-منگنز برای باتری سدیم-یون را شامل انحلال فلز، تخریب مکانیکی و دندریت Na شناسایی می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This study uniquely links C-rate capacity decay in Mn-doped Fe-PBA cathodes to coupled kinetic mismatch and mechanical failure, rather than isolated transition metal dissolution. By combining multiple in/ex situ techniques, it identifies four degradation pathways—dissolution, mechanical degradation, Na dendrites, and interfacial side reactions—revealing that high-rate collapse at 10 C is fundamentally driven by intrinsic kinetic and mechanical limitations, guiding durable high-power SIB design.&lt;br&gt;🏷 Prussian blue cathode · sodium-ion battery · capacity decay · high-rate · degradation mechanism</description>
-<category>Prussian blue cathode</category>
-<category>sodium-ion battery</category>
-<category>capacity decay</category>
-<category>high-rate</category>
-<category>degradation mechanism</category>
-</item>
-<item>
-<title>Anion Co‐Intercalation in Conductive 2D MOFs via π‐d Hybridization for High‐Performance Magnesium Batteries</title>
-<link>https://doi.org/10.1002/adfm.79004</link>
-<guid isPermaLink="false">10.1002/adfm.79004</guid>
-<pubDate>Wed, 14 Oct 2026 22:01:44 GMT</pubDate>
-<description>این مقاله با بررسی M3(HITP)2 به عنوان کاتد باتری منیزیم، نقش مرکز فلزی را در ذخیره‌سازی دو-یونی نشان داده و Ni3(HITP)2 ظرفیت ۲۰۱ mAh/g را پس از ۱۱۰۰ چرخه حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals how metal centers (Co, Ni, Cu) in conductive 2D MOFs govern magnesium storage, enabling synergistic dual-ion storage via Mg2+ coordination and anion intercalation. Ni3(HITP)2 excels due to its d8 configuration and stable Ni-N π-d conjugation, retaining 201 mAh g−1 after 1100 cycles. It provides molecular-level guidance for designing high-performance organic cathodes for multivalent-ion batteries.&lt;br&gt;🏷 magnesium battery · 2D MOF · anion intercalation · π-d hybridization · cathode</description>
-<category>magnesium battery</category>
-<category>2D MOF</category>
-<category>anion intercalation</category>
-<category>π-d hybridization</category>
-<category>cathode</category>
-</item>
-<item>
-<title>Spatially Integrated Intercalation–Conversion Hybrid Cathode for Durable, High‐Capacity Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78984</link>
-<guid isPermaLink="false">10.1002/adfm.78984</guid>
-<pubDate>Wed, 14 Oct 2026 22:01:38 GMT</pubDate>
-<description>این مقاله یک کاتد هیبریدی درج-تبدیل با LiFePO4 و گوگرد را معرفی می‌کند که با تنظیم الکترولیت، باتری لیتیوم-فلز را با افت ظرفیت ۰.۰۱۶٪ در هر چرخه پایدار می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a spatially integrated intercalation–conversion hybrid cathode combining LiFePO4 and sulfur in a monolayer architecture, synchronizing Li-ion intercalation with sulfur conversion. LiFePO4 suppresses polysulfide shuttling while sulfur boosts capacity. Optimized electrolyte–cathode synergy enables 3000-cycle stability at 0.016% decay per cycle, offering a scalable design principle for durable, high-capacity Li-metal batteries.&lt;br&gt;🏷 hybrid cathode · LiFePO4 · sulfur conversion · lithium metal battery · long cycling</description>
-<category>hybrid cathode</category>
-<category>LiFePO4</category>
-<category>sulfur conversion</category>
-<category>lithium metal battery</category>
-<category>long cycling</category>
 </item>
 </channel>
 </rss>
