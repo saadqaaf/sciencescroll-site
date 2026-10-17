@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 08:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 09:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reframing impulsivity as beneficial risk-taking</title>
+<link>https://doi.org/10.1038/s44159-026-00635-1</link>
+<guid isPermaLink="false">10.1038/s44159-026-00635-1</guid>
+<pubDate>Sat, 17 Oct 2026 09:01:03 GMT</pubDate>
+<description>این مقاله چارچوبی نو ارائه می‌دهد که تکانشگری را نه صرفاً نقص، بلکه نوعی ریسک‌پذیری سودمند در تصمیم‌گیری و پردازش پاداش می‌داند.&lt;br&gt;Nature Reviews Psychology | 💭 Perspective&lt;br&gt;🏷 impulsivity · risk-taking · decision-making · behavioral neuroscience · reward processing</description>
+<category>impulsivity</category>
+<category>risk-taking</category>
+<category>decision-making</category>
+<category>behavioral neuroscience</category>
+<category>reward processing</category>
+</item>
 <item>
 <title>Direct seawater electrolysis for sustainable hydrogen production: advances in catalyst design, electrolyzer engineering, and catalyst-electrolyzer co-design</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218678</link>
@@ -1206,18 +1218,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metall
 <category>electrocatalysts</category>
 <category>activity-selectivity-stability</category>
 <category>rational design</category>
-</item>
-<item>
-<title>Spin as a catalytic degree of freedom in pollutant degradation</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218668</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218668</guid>
-<pubDate>Fri, 16 Oct 2026 22:01:06 GMT</pubDate>
-<description>این مقاله نقش اسپین را به عنوان یک درجه آزادی کاتالیستی در تخریب آلاینده‌ها بررسی می‌کند و نشان می‌دهد کنترل اسپین می‌تواند فعالیت کاتالیستی را بهبود بخشد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 spin catalysis · pollutant degradation · catalytic degree · reactive oxygen species · environmental remediation</description>
-<category>spin catalysis</category>
-<category>pollutant degradation</category>
-<category>catalytic degree</category>
-<category>reactive oxygen species</category>
-<category>environmental remediation</category>
 </item>
 </channel>
 </rss>
