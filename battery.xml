@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 10:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 11:03:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reliable performance evaluation and mechanistic characterization of aqueous zinc batteries: From laboratory testing to practical applications</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.080</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.080</guid>
+<pubDate>Sat, 17 Oct 2026 11:03:06 GMT</pubDate>
+<description>این مرور روش‌های ارزیابی عملکرد و شناسایی مکانیسم باتری‌های آبی روی را از آزمون آزمایشگاهی تا کاربردهای عملی بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 aqueous zinc batteries · performance evaluation · mechanistic characterization · practical applications · testing protocols</description>
+<category>aqueous zinc batteries</category>
+<category>performance evaluation</category>
+<category>mechanistic characterization</category>
+<category>practical applications</category>
+<category>testing protocols</category>
+</item>
+<item>
+<title>Zr-based oxyhalide superionic electrolyte with self-passivating interphase stabilisation for high-voltage and fast-charging all-solid-state lithium batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78813-1</link>
+<guid isPermaLink="false">10.1038/s41467-026-78813-1</guid>
+<pubDate>Sat, 17 Oct 2026 11:01:54 GMT</pubDate>
+<description>الکترولیت جامد اکسی‌هالید زیرکونیوم با فاز میانی خودغلاف‌ساز، باتری لیتیوم تمام‌جامد ولتاژ بالا و شارژ سریع را پایدار می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a non-equimolar cation–anion amorphous Li2Zr0.625Ta0.3Cl4.2O0.9 oxyhalide electrolyte derived from Li2ZrCl6, achieving 4.11 mS cm−1 conductivity and high-voltage tolerance via a self-passivating interphase. Its significance is enabling fast-charging, high-voltage all-solid-state batteries, retaining 81.2% capacity after 2,000 cycles at 10 C, advancing high-energy-density solid-state lithium batteries.&lt;br&gt;🏷 solid electrolyte · oxyhalide · all-solid-state battery · fast charging · interphase</description>
+<category>solid electrolyte</category>
+<category>oxyhalide</category>
+<category>all-solid-state battery</category>
+<category>fast charging</category>
+<category>interphase</category>
+</item>
 <item>
 <title>Magneto-mechano-electrochemical fiber for deformation-resilient and smart electronic textiles</title>
 <link>https://doi.org/10.1126/sciadv.aef4338</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>ultrathick electrode</category>
 <category>low tortuosity</category>
 <category>hierarchical porosity</category>
-</item>
-<item>
-<title>Lactic-acid-derived interphase facilitates Zn2+ transfer kinetics and uniform Zn deposition for stable aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125106</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125106</guid>
-<pubDate>Wed, 14 Oct 2026 14:01:51 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که یک لایه میانی مشتق از اسید لاکتیک، سینتیک انتقال Zn2+ را تسهیل و رسوب یکنواخت روی را برای باتری‌های آبی یون روی پایدار فراهم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · lactic acid · interphase · Zn deposition · Zn2+ transfer kinetics</description>
-<category>aqueous zinc-ion battery</category>
-<category>lactic acid</category>
-<category>interphase</category>
-<category>Zn deposition</category>
-<category>Zn2+ transfer kinetics</category>
-</item>
-<item>
-<title>An energy-reserve joint dispatch strategy for large-scale adiabatic compressed air energy storage with parallel compression and constant/sliding-pressure expansion designs</title>
-<link>https://doi.org/10.1016/j.est.2026.125072</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125072</guid>
-<pubDate>Wed, 14 Oct 2026 14:01:47 GMT</pubDate>
-<description>این مقاله یک استراتژی توزیع مشترک انرژی برای ذخیره‌سازی هوای فشرده آدیاباتیک در مقیاس بزرگ با طراحی‌های تراکم موازی و انبساط فشار ثابت/لغزشی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · adiabatic CAES · joint dispatch strategy · parallel compression · sliding-pressure expansion</description>
-<category>compressed air energy storage</category>
-<category>adiabatic CAES</category>
-<category>joint dispatch strategy</category>
-<category>parallel compression</category>
-<category>sliding-pressure expansion</category>
 </item>
 </channel>
 </rss>
