@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 22:01:11 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 23:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Physics-guided learning framework based on a fractional single-particle model for battery state-of-health prediction</title>
+<link>https://doi.org/10.1016/j.est.2026.125008</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125008</guid>
+<pubDate>Sat, 17 Oct 2026 23:01:33 GMT</pubDate>
+<description>یک چارچوب یادگیری هدایت‌شده با فیزیک بر پایه مدل کسری تک‌ذره‌ای برای پیش‌بینی وضعیت سلامت باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · single-particle model · fractional calculus · physics-guided learning · lithium-ion battery</description>
+<category>state-of-health</category>
+<category>single-particle model</category>
+<category>fractional calculus</category>
+<category>physics-guided learning</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Thermal and acoustic optimization of guide pores in air-cooled charging modules serving electric vehicle batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125213</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125213</guid>
+<pubDate>Sat, 17 Oct 2026 23:01:28 GMT</pubDate>
+<description>بهینه‌سازی حرارتی و صوتی حفره‌های راهنما در ماژول‌های شارژ خنک‌شونده با هوا برای باتری خودروهای برقی انجام شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 air-cooled charging module · thermal management · acoustic optimization · guide pores · EV battery</description>
+<category>air-cooled charging module</category>
+<category>thermal management</category>
+<category>acoustic optimization</category>
+<category>guide pores</category>
+<category>EV battery</category>
+</item>
+<item>
+<title>Ethanol driven Ni, Co and S elements generate NiCo2S4 crystal phases for high-performance asymmetric supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.124933</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124933</guid>
+<pubDate>Sat, 17 Oct 2026 23:01:21 GMT</pubDate>
+<description>سنتز مبتنی بر اتانول با عناصر Ni، Co و S فازهای بلوری NiCo2S4 را برای ابرخازن نامتقارن با عملکرد بالا ایجاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NiCo2S4 · asymmetric supercapacitor · ethanol synthesis · crystal phase · electrode material</description>
+<category>NiCo2S4</category>
+<category>asymmetric supercapacitor</category>
+<category>ethanol synthesis</category>
+<category>crystal phase</category>
+<category>electrode material</category>
+</item>
 <item>
 <title>Unlocking electric vehicle flexibility in microgrids via lightweight on-charger coordination</title>
 <link>https://doi.org/10.1038/s41467-026-78319-w</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>vanadium crossover</category>
 <category>water electrolysis</category>
 <category>flow battery</category>
-</item>
-<item>
-<title>Synergistic &quot;fast ions/electrons&quot; strategy for high-performance vanadium-based cathodes via coal gangue carbon and organic intercalation</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.008</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.008</guid>
-<pubDate>Thu, 15 Oct 2026 00:02:44 GMT</pubDate>
-<description>این مقاله با استراتژی هم‌افزایی «یون‌ها/الکترون‌های سریع» از طریق کربن زغال‌سنگ و درج آلی، کاتدهای وانادیمی با عملکرد بالا برای باتری‌ها ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 vanadium-based cathodes · coal gangue carbon · organic intercalation · fast ions/electrons · zinc-ion battery</description>
-<category>vanadium-based cathodes</category>
-<category>coal gangue carbon</category>
-<category>organic intercalation</category>
-<category>fast ions/electrons</category>
-<category>zinc-ion battery</category>
-</item>
-<item>
-<title>Vacancy-mediated ultrafast oxide-ion conduction in excess-oxygen Sillén oxybromides</title>
-<link>https://doi.org/10.1038/s41467-026-77848-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-77848-8</guid>
-<pubDate>Wed, 14 Oct 2026 23:02:51 GMT</pubDate>
-<description>Bi1.9Te0.1LaO4.05Br با ساختار Sillén رسانایی یونی اکسید 0.01 S/cm در 233 درجه سانتی‌گراد نشان می‌دهد که از طریق مکانیسم جای‌خالی در اکسیدهای اکسیژن‌اضافی انجام می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Bi₁.₉Te₀.₁LaO₄.₀₅Br achieves 0.01 S cm⁻¹ oxide-ion conductivity at 233 °C, surpassing leading proton and oxide-ion conductors. Its layered Sillén structure with oxygen vacancies enables vacancy-mediated transport despite excess oxygen, plus high stability and negligible chemical expansion. This establishes a design principle for high-performance oxide-ion conductors in excess-oxygen Sillén oxyhalides.&lt;br&gt;🏷 oxide-ion conductor · Sillén oxybromide · vacancy-mediated conduction · solid oxide fuel cell · Bi1.9Te0.1LaO4.05Br</description>
-<category>oxide-ion conductor</category>
-<category>Sillén oxybromide</category>
-<category>vacancy-mediated conduction</category>
-<category>solid oxide fuel cell</category>
-<category>Bi1.9Te0.1LaO4.05Br</category>
-</item>
-<item>
-<title>Morphology and Ion Transport in Zwitterionic Polysiloxanes</title>
-<link>https://doi.org/10.1021/acsnano.6c10565</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10565</guid>
-<pubDate>Wed, 14 Oct 2026 23:02:39 GMT</pubDate>
-<description>رسانایی یونی ابریونی در پلی‌زویتریون‌های دوپ‌شده جهانی نیست و نیازمند کانال‌های یونی پرکولاسیون است؛ در پلی‌سیلوکسان زویتریونی با LiTFSI، نانودومین‌های مجزا تحرک یون را محدود می‌کنند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This study challenges the assumption that superionic conductivity is universal in doped polyzwitterions, showing it requires percolating ion channels. Using polysiloxane-based PZI with LiTFSI, isolated zwitterionic nanodomains limited conductivity to ~10⁻⁸ S/cm; overlap of these clusters enabled significant enhancement. The findings establish morphological control of ion-transport pathways as critical for designing superionic polymer electrolytes.&lt;br&gt;🏷 zwitterionic polysiloxane · polymer electrolyte · ion transport · LiTFSI · nanodomain percolation</description>
-<category>zwitterionic polysiloxane</category>
-<category>polymer electrolyte</category>
-<category>ion transport</category>
-<category>LiTFSI</category>
-<category>nanodomain percolation</category>
 </item>
 </channel>
 </rss>
