@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 12:01:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 13:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Distributed hybrid energy storage configuration framework based on spatiotemporal mutual cross-attention</title>
+<link>https://doi.org/10.1016/j.est.2026.125179</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125179</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:30 GMT</pubDate>
+<description>این مقاله چارچوبی برای پیکربندی ذخیره‌سازی انرژی هیبریدی توزیع‌شده بر پایه توجه متقابل فضایی-زمانی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · spatiotemporal attention · configuration framework · cross-attention · distributed storage</description>
+<category>hybrid energy storage</category>
+<category>spatiotemporal attention</category>
+<category>configuration framework</category>
+<category>cross-attention</category>
+<category>distributed storage</category>
+</item>
+<item>
+<title>Silicon-based anodes for lithium and sodium-ion batteries: nanoparticle design, composite engineering, failure mechanisms, and practical challenges</title>
+<link>https://doi.org/10.1016/j.est.2026.125112</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125112</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:26 GMT</pubDate>
+<description>این مرور به طراحی نانوذرات، مهندسی کامپوزیت، سازوکارهای شکست و چالش‌های کاربردی آندهای سیلیکونی برای باتری‌های یون‌لیتیم و یون‌سدیم می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 silicon anode · lithium-ion battery · sodium-ion battery · nanoparticle design · failure mechanisms</description>
+<category>silicon anode</category>
+<category>lithium-ion battery</category>
+<category>sodium-ion battery</category>
+<category>nanoparticle design</category>
+<category>failure mechanisms</category>
+</item>
+<item>
+<title>Multidentate anions with stepwise protonation buffer enabled durable ah-level zinc-iodine pouch cell</title>
+<link>https://doi.org/10.1016/j.est.2026.125127</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125127</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:21 GMT</pubDate>
+<description>این مقاله با بهره‌گیری از آنیون‌های چنددندانه دارای بافر پروتونه‌شدن مرحله‌ای، پایداری پاکت‌سل Zn-I در مقیاس آمپرساعت را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-iodine battery · multidentate anions · protonation buffer · pouch cell · durability</description>
+<category>zinc-iodine battery</category>
+<category>multidentate anions</category>
+<category>protonation buffer</category>
+<category>pouch cell</category>
+<category>durability</category>
+</item>
+<item>
+<title>Technology adoption among silver tourists: A cross-cultural configurational comparison of Greece and the United Kingdom</title>
+<link>https://doi.org/10.1016/j.technovation.2026.103745</link>
+<guid isPermaLink="false">10.1016/j.technovation.2026.103745</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:15 GMT</pubDate>
+<description>این پژوهش پذیرش فناوری در گردشگری سالمندان را در یونان و بریتانیا به‌صورت پیکربندی‌محور و بین‌فرهنگی مقایسه می‌کند.&lt;br&gt;Technovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silver tourism · technology adoption · cross-cultural comparison · configurational analysis · senior travelers</description>
+<category>silver tourism</category>
+<category>technology adoption</category>
+<category>cross-cultural comparison</category>
+<category>configurational analysis</category>
+<category>senior travelers</category>
+</item>
+<item>
+<title>Re-Defining Continuous Inkjet (CIJ) toward Free-Form Manufacturing</title>
+<link>https://doi.org/10.1016/j.addma.2026.105405</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105405</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:12 GMT</pubDate>
+<description>این مقاله رویکردی نوین برای بازتعریف فناوری جوهرافشان پیوسته (CIJ) به‌منظور دستیابی به ساخت آزادفرم ارائه می‌دهد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 continuous inkjet · free-form manufacturing · droplet formation · printing technology · additive manufacturing</description>
+<category>continuous inkjet</category>
+<category>free-form manufacturing</category>
+<category>droplet formation</category>
+<category>printing technology</category>
+<category>additive manufacturing</category>
+</item>
 <item>
 <title>Catalyst-Controlled Conversion of Polystyrene Waste into Graphitic Carbon for Lithium-Ion Battery Anodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122228</link>
@@ -1147,70 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>creep</category>
 <category>tension-compression asymmetry</category>
 <category>stress kinetics</category>
-</item>
-<item>
-<title>Intergranular oxidation of additively manufactured Inconel 718: The role of intertwined dendritic structures</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.010</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.010</guid>
-<pubDate>Sat, 17 Oct 2026 02:01:35 GMT</pubDate>
-<description>این مقاله نقش ساختارهای دندریتی درهم‌تنیده را در اکسیداسیون بین‌دانه‌ای آلیاژ Inconel 718 ساخته‌شده به روش افزودنی بررسی می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 Inconel 718 · additive manufacturing · intergranular oxidation · dendritic structure · grain boundaries</description>
-<category>Inconel 718</category>
-<category>additive manufacturing</category>
-<category>intergranular oxidation</category>
-<category>dendritic structure</category>
-<category>grain boundaries</category>
-</item>
-<item>
-<title>ZnO-Enhanced Cu/ZrO2 for Photothermal Catalytic CO2 Hydrogenation to Methanol</title>
-<link>https://doi.org/10.1021/jacs.6c14346</link>
-<guid isPermaLink="false">10.1021/jacs.6c14346</guid>
-<pubDate>Sat, 17 Oct 2026 01:02:40 GMT</pubDate>
-<description>افزودن ZnO به Cu/ZrO2 جذب نور UV را بهبود می‌بخشد و نرخ تولید متانول از هیدروژناسیون فوتوترمال CO2 را تحت نور خورشید متمرکز به 2.7 mmol g-1 h-1 می‌رساند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CO2 hydrogenation · photothermal catalysis · methanol synthesis · Cu/ZrO2 · ZnO</description>
-<category>CO2 hydrogenation</category>
-<category>photothermal catalysis</category>
-<category>methanol synthesis</category>
-<category>Cu/ZrO2</category>
-<category>ZnO</category>
-</item>
-<item>
-<title>Cu–N3 Single-Atom Catalysts Enable High-Turnover C–N and C–O Cross-Coupling of Aryl Electrophiles</title>
-<link>https://doi.org/10.1021/jacs.6c14402</link>
-<guid isPermaLink="false">10.1021/jacs.6c14402</guid>
-<pubDate>Sat, 17 Oct 2026 01:02:37 GMT</pubDate>
-<description>کاتالیزور تک‌اتمی Cu-N3/OMC جفت‌شدن C-N و C-O آریل الکتروفیل‌ها را بدون لیگاند با بازده و TON بالا انجام می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 single-atom catalyst · Cu-N3 · C-N cross-coupling · ligand-free · aryl electrophiles</description>
-<category>single-atom catalyst</category>
-<category>Cu-N3</category>
-<category>C-N cross-coupling</category>
-<category>ligand-free</category>
-<category>aryl electrophiles</category>
-</item>
-<item>
-<title>A Negative Temperature Effect on the Reversible Conversion between Redox Tautomers of CoIII(OH) and CoIV(O) Complexes Bearing a Redox-Non-Innocent Tetraamido Macrocyclic Ligand</title>
-<link>https://doi.org/10.1021/jacs.6c15641</link>
-<guid isPermaLink="false">10.1021/jacs.6c15641</guid>
-<pubDate>Sat, 17 Oct 2026 01:02:33 GMT</pubDate>
-<description>تبدیل توتومری بین کمپلکس‌های CoIII(OH) و CoIV(O) با لیگاند TAML غیرمعصوم ردوکس، اثر دمایی منفی و مسیر PCET اسید-کمکی را نشان می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cobalt-oxo complex · redox tautomerism · negative temperature effect · PCET · TAML ligand</description>
-<category>cobalt-oxo complex</category>
-<category>redox tautomerism</category>
-<category>negative temperature effect</category>
-<category>PCET</category>
-<category>TAML ligand</category>
-</item>
-<item>
-<title>Enantioselective Coupling of Unactivated Alkenes with α-Imino Esters via Alkylzirconium Radical Intermediates</title>
-<link>https://doi.org/10.1021/jacs.6c17862</link>
-<guid isPermaLink="false">10.1021/jacs.6c17862</guid>
-<pubDate>Sat, 17 Oct 2026 01:02:30 GMT</pubDate>
-<description>آلکیل‌زیرکونیم‌های تولیدشده از آلکن‌های غیرفعال در جفت‌شدن نامتقارن نیکل-کاتالیزوری با α-ایمینو استرها، دسترسی به آمینواسیدهای α-چهاراستخلافی را فراهم می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 asymmetric alkylation · alkylzirconium · nickel catalysis · alpha-imino esters · tetrasubstituted amino acids</description>
-<category>asymmetric alkylation</category>
-<category>alkylzirconium</category>
-<category>nickel catalysis</category>
-<category>alpha-imino esters</category>
-<category>tetrasubstituted amino acids</category>
 </item>
 </channel>
 </rss>

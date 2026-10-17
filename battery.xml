@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 12:01:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 13:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Distributed hybrid energy storage configuration framework based on spatiotemporal mutual cross-attention</title>
+<link>https://doi.org/10.1016/j.est.2026.125179</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125179</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:30 GMT</pubDate>
+<description>این مقاله چارچوبی برای پیکربندی ذخیره‌سازی انرژی هیبریدی توزیع‌شده بر پایه توجه متقابل فضایی-زمانی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · spatiotemporal attention · configuration framework · cross-attention · distributed storage</description>
+<category>hybrid energy storage</category>
+<category>spatiotemporal attention</category>
+<category>configuration framework</category>
+<category>cross-attention</category>
+<category>distributed storage</category>
+</item>
+<item>
+<title>Silicon-based anodes for lithium and sodium-ion batteries: nanoparticle design, composite engineering, failure mechanisms, and practical challenges</title>
+<link>https://doi.org/10.1016/j.est.2026.125112</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125112</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:26 GMT</pubDate>
+<description>این مرور به طراحی نانوذرات، مهندسی کامپوزیت، سازوکارهای شکست و چالش‌های کاربردی آندهای سیلیکونی برای باتری‌های یون‌لیتیم و یون‌سدیم می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 silicon anode · lithium-ion battery · sodium-ion battery · nanoparticle design · failure mechanisms</description>
+<category>silicon anode</category>
+<category>lithium-ion battery</category>
+<category>sodium-ion battery</category>
+<category>nanoparticle design</category>
+<category>failure mechanisms</category>
+</item>
+<item>
+<title>Multidentate anions with stepwise protonation buffer enabled durable ah-level zinc-iodine pouch cell</title>
+<link>https://doi.org/10.1016/j.est.2026.125127</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125127</guid>
+<pubDate>Sat, 17 Oct 2026 13:01:21 GMT</pubDate>
+<description>این مقاله با بهره‌گیری از آنیون‌های چنددندانه دارای بافر پروتونه‌شدن مرحله‌ای، پایداری پاکت‌سل Zn-I در مقیاس آمپرساعت را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-iodine battery · multidentate anions · protonation buffer · pouch cell · durability</description>
+<category>zinc-iodine battery</category>
+<category>multidentate anions</category>
+<category>protonation buffer</category>
+<category>pouch cell</category>
+<category>durability</category>
+</item>
 <item>
 <title>Catalyst-Controlled Conversion of Polystyrene Waste into Graphitic Carbon for Lithium-Ion Battery Anodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122228</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>composite design</category>
 <category>electrochemical performance</category>
 <category>photocatalysis</category>
-</item>
-<item>
-<title>Beyond Facet Engineering: Dislocation‐Mediated Nucleation Enables Stable Lithium Deposition on Practical Polycrystalline Cu Collectors</title>
-<link>https://doi.org/10.1002/adma.75368</link>
-<guid isPermaLink="false">10.1002/adma.75368</guid>
-<pubDate>Wed, 14 Oct 2026 19:02:07 GMT</pubDate>
-<description>نانوذرات نابجایی در فویل مس تجاری، مکان‌های هسته‌زنی مطلوب برای لیتیوم فراهم کرده و رسوب یکنواخت لیتیوم را در باتری فلزی لیتیوم پایدار می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces dislocation-mediated nucleation as a new design principle for practical polycrystalline Cu collectors, beyond facet engineering. Dense geometrically necessary dislocations provide favorable Li adsorption and nucleation sites, while &amp;lt;110&amp;gt;/&amp;lt;111&amp;gt; textures promote lateral growth, enabling uniform Li deposition, 99.52% Coulombic efficiency over 1200 cycles, and improved N/P=0 full cells.&lt;br&gt;🏷 lithium metal battery · dislocation · nucleation · copper collector · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>dislocation</category>
-<category>nucleation</category>
-<category>copper collector</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Electrolyte design toward stable layered oxide cathodes of sodium-ion batteries</title>
-<link>https://doi.org/10.1039/d6ee03563a</link>
-<guid isPermaLink="false">10.1039/d6ee03563a</guid>
-<pubDate>Wed, 14 Oct 2026 19:01:34 GMT</pubDate>
-<description>این مرور، تخریب کاتدهای اکسید لایه‌ای در باتری‌های یون سدیم را از دیدگاه الکترولیت تحلیل کرده و اصول طراحی الکترولیت و سیستم‌های سنتی و نوظهور را ارائه می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review&lt;br&gt;💡 This review uniquely reframes layered oxide cathode degradation in sodium-ion batteries through an electrolyte-centric lens, rather than focusing solely on cathode modification. It proposes actionable electrolyte design principles and systematically compares traditional and emerging systems, offering a roadmap to stabilize high-energy cathodes and advance practical sodium-ion battery development.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · electrolyte design · cathode degradation · interfacial stability</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>electrolyte design</category>
-<category>cathode degradation</category>
-<category>interfacial stability</category>
-</item>
-<item>
-<title>Electrochemical energy conversion beyond Earth</title>
-<link>https://doi.org/10.1016/j.joule.2026.102708</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102708</guid>
-<pubDate>Wed, 14 Oct 2026 18:01:29 GMT</pubDate>
-<description>این مقاله به بررسی تبدیل انرژی الکتروشیمیایی در محیط‌های فراتر از زمین و کاربردهای فضایی آن می‌پردازد.&lt;br&gt;Joule | ⭐ Review&lt;br&gt;🏷 electrochemical energy conversion · space · extraterrestrial · energy storage · electrochemistry</description>
-<category>electrochemical energy conversion</category>
-<category>space</category>
-<category>extraterrestrial</category>
-<category>energy storage</category>
-<category>electrochemistry</category>
 </item>
 </channel>
 </rss>
