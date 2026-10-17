@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 03:01:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 04:00:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Wrinkled Pd Metallene: Synergistic Geometric and Electronic Engineering for High-Performance Bioorthogonal Catalysis</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03180</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03180</guid>
+<pubDate>Sat, 17 Oct 2026 04:00:56 GMT</pubDate>
+<description>کاتالیزور Pd metallene چین‌خورده با ایجاد کرنش شبکه‌ای و تنظیم مرکز نوار d، فعالیت کاتالیزوری bioorthogonal را برای فعال‌سازی هدفمند prodrug و مهار تومور بهبود می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 Pd metallene · bioorthogonal catalysis · lattice strain · d-band center · prodrug activation</description>
+<category>Pd metallene</category>
+<category>bioorthogonal catalysis</category>
+<category>lattice strain</category>
+<category>d-band center</category>
+<category>prodrug activation</category>
+</item>
 <item>
 <title>Engineering Zero Thermal Expansion over a Wide Temperature Range in PbTiO 3 -Based Ferroelectrics</title>
 <link>https://doi.org/10.1039/d6mh01703g</link>
@@ -1206,18 +1218,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metall
 <category>life-cycle assessment</category>
 <category>sustainability</category>
 <category>machine learning</category>
-</item>
-<item>
-<title>Material circularity implications of battery degradation in shared electric mobility</title>
-<link>https://doi.org/10.1038/s41893-026-01969-7</link>
-<guid isPermaLink="false">10.1038/s41893-026-01969-7</guid>
-<pubDate>Fri, 16 Oct 2026 21:01:56 GMT</pubDate>
-<description>این پژوهش پیامدهای تخریب باتری بر چرخه مواد در حمل‌ونقل الکتریکی اشتراکی را تحلیل می‌کند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 This study uniquely integrates fleet projections, battery degradation, and dynamic material flow analysis to show that shared mobility&amp;#x27;s material savings depend on battery chemistry. It reveals a temporal trade-off: accelerated retirement boosts secondary supply, while second-life use delays recycling and raises near-term primary demand. This is significant for aligning shared mobility, battery choice, and circular strategies with transport decarbonization.&lt;br&gt;🏷 battery degradation · circular economy · shared mobility · electric vehicles · material circularity</description>
-<category>battery degradation</category>
-<category>circular economy</category>
-<category>shared mobility</category>
-<category>electric vehicles</category>
-<category>material circularity</category>
 </item>
 </channel>
 </rss>
