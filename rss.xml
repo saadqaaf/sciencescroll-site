@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 07:00:59 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 08:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Direct seawater electrolysis for sustainable hydrogen production: advances in catalyst design, electrolyzer engineering, and catalyst-electrolyzer co-design</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218678</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218678</guid>
+<pubDate>Sat, 17 Oct 2026 08:01:05 GMT</pubDate>
+<description>این مرور پیشرفت‌های الکترولیز مستقیم آب دریا برای تولید هیدروژن پایدار را از طراحی کاتالیست تا مهندسی الکترولایزر و هم‌طراحی کاتالیست-الکترولایزر بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 seawater electrolysis · hydrogen production · catalyst design · electrolyzer engineering · co-design</description>
+<category>seawater electrolysis</category>
+<category>hydrogen production</category>
+<category>catalyst design</category>
+<category>electrolyzer engineering</category>
+<category>co-design</category>
+</item>
+<item>
+<title>Water treatment research opportunities at synchrotron and neutron user facilities</title>
+<link>https://doi.org/10.1038/s44221-026-00723-9</link>
+<guid isPermaLink="false">10.1038/s44221-026-00723-9</guid>
+<pubDate>Sat, 17 Oct 2026 08:01:01 GMT</pubDate>
+<description>این مقاله فرصت‌های پژوهشی تصفیه آب در تأسیسات سینکروترون و نوترون را بررسی می‌کند و بر نقش مشخصه‌یابی درجای مواد و غشاها تأکید دارد.&lt;br&gt;Nature Water | 💭 Perspective&lt;br&gt;🏷 water treatment · synchrotron facilities · neutron scattering · in situ characterization · membrane fouling</description>
+<category>water treatment</category>
+<category>synchrotron facilities</category>
+<category>neutron scattering</category>
+<category>in situ characterization</category>
+<category>membrane fouling</category>
+</item>
 <item>
 <title>Levitodynamics beyond the ground state of motion</title>
 <link>https://doi.org/10.1038/s42254-026-00997-8</link>
@@ -1194,30 +1218,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metall
 <category>catalytic degree</category>
 <category>reactive oxygen species</category>
 <category>environmental remediation</category>
-</item>
-<item>
-<title>Tuning N‐Species Adsorption/Desorption Equilibrium by Ni 1 Au n ‐SrTiO 3 for Artificial Urea Photosynthesis</title>
-<link>https://doi.org/10.1002/adma.75416</link>
-<guid isPermaLink="false">10.1002/adma.75416</guid>
-<pubDate>Fri, 16 Oct 2026 21:02:11 GMT</pubDate>
-<description>کاتالیزور نوری NiAu-SrTiO3 با تنظیم تعادل جذب/واجذب گونه‌های نیتروژن، سنتز نوری اوره از N2، CO2 و H2O را با نرخ بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 artificial photosynthesis · urea synthesis · NiAu · SrTiO3 · C-N coupling</description>
-<category>artificial photosynthesis</category>
-<category>urea synthesis</category>
-<category>NiAu</category>
-<category>SrTiO3</category>
-<category>C-N coupling</category>
-</item>
-<item>
-<title>High‐Performance Liquid Crystal Elastomer Fibers via a Tandem Alignment Strategy</title>
-<link>https://doi.org/10.1002/adma.75204</link>
-<guid isPermaLink="false">10.1002/adma.75204</guid>
-<pubDate>Fri, 16 Oct 2026 21:02:04 GMT</pubDate>
-<description>الیاف الاستومر بلور مایع با راهبرد هم‌راستایی تاندمی ساخته شدند و پاسخ حرارتی فوق‌سریع و کارایی بالایی از خود نشان دادند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 liquid crystal elastomer · fibers · tandem alignment · thermal actuation · soft robotics</description>
-<category>liquid crystal elastomer</category>
-<category>fibers</category>
-<category>tandem alignment</category>
-<category>thermal actuation</category>
-<category>soft robotics</category>
 </item>
 </channel>
 </rss>
