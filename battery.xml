@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 11:03:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 12:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Catalyst-Controlled Conversion of Polystyrene Waste into Graphitic Carbon for Lithium-Ion Battery Anodes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122228</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122228</guid>
+<pubDate>Sat, 17 Oct 2026 12:01:38 GMT</pubDate>
+<description>تبدیل کنترل‌شده با کاتالیزور ضایعات پلی‌استایرن به کربن گرافیتی برای آندهای باتری لیتیوم-یون انجام شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 polystyrene waste · graphitic carbon · catalyst-controlled conversion · lithium-ion anode · plastic upcycling</description>
+<category>polystyrene waste</category>
+<category>graphitic carbon</category>
+<category>catalyst-controlled conversion</category>
+<category>lithium-ion anode</category>
+<category>plastic upcycling</category>
+</item>
+<item>
+<title>Tracking the lithiation state of LixSi from machine-learned XPS binding energies</title>
+<link>https://doi.org/10.1038/s41524-026-02302-8</link>
+<guid isPermaLink="false">10.1038/s41524-026-02302-8</guid>
+<pubDate>Sat, 17 Oct 2026 12:01:34 GMT</pubDate>
+<description>چارچوبی محاسباتی با یادگیری ماشین و شبیه‌سازی اتمی، حالت‌های لیتیوم‌دار شدن LixSi را از طریق انرژی‌های اتصال XPS ردیابی می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling machine-learned core-level binding energy prediction with large-scale GCMC/MD simulations using an ML potential to systematically sample lithiation states and local environments. This yields stoichiometry maps reproducing key Si 2p XPS trends, including crystal-to-amorphous disordering signatures. It enables quantitative interpretation of heterogeneous LiₓSi microstructures, advancing XPS analysis of silicon anodes.&lt;br&gt;🏷 LixSi · XPS binding energy · machine learning · silicon anode · lithiation state</description>
+<category>LixSi</category>
+<category>XPS binding energy</category>
+<category>machine learning</category>
+<category>silicon anode</category>
+<category>lithiation state</category>
+</item>
+<item>
+<title>Balanced local ion association enables dual-interface stabilization in lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.087</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.087</guid>
+<pubDate>Sat, 17 Oct 2026 12:01:25 GMT</pubDate>
+<description>هم‌آمیزی یونی موضعی متعادل، پایداری دوگانه رابط‌ها را در باتری‌های فلز لیتیوم ممکن می‌سازد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · local ion association · dual-interface stabilization · electrolyte design · ion solvation</description>
+<category>lithium metal battery</category>
+<category>local ion association</category>
+<category>dual-interface stabilization</category>
+<category>electrolyte design</category>
+<category>ion solvation</category>
+</item>
+<item>
+<title>Interface challenges and modification strategies of lithium-rich manganese-based cathodes in solid-state batteries</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.011</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.011</guid>
+<pubDate>Sat, 17 Oct 2026 12:01:11 GMT</pubDate>
+<description>چالش‌های بین‌سطحی و راهبردهای اصلاح کاتدهای غنی از لیتیوم بر پایه منگنز در باتری‌های حالت جامد مرور می‌شود.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | ⭐ Review&lt;br&gt;🏷 lithium-rich cathode · solid-state battery · interface modification · manganese-based cathode · cathode-electrolyte interface</description>
+<category>lithium-rich cathode</category>
+<category>solid-state battery</category>
+<category>interface modification</category>
+<category>manganese-based cathode</category>
+<category>cathode-electrolyte interface</category>
+</item>
 <item>
 <title>Reliable performance evaluation and mechanistic characterization of aqueous zinc batteries: From laboratory testing to practical applications</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.080</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>extraterrestrial</category>
 <category>energy storage</category>
 <category>electrochemistry</category>
-</item>
-<item>
-<title>The Role of Mo in Nucleating Large Niobate Crystals for Li-ion Battery Anodes</title>
-<link>https://doi.org/10.1039/d6ta04984b</link>
-<guid isPermaLink="false">10.1039/d6ta04984b</guid>
-<pubDate>Wed, 14 Oct 2026 17:01:45 GMT</pubDate>
-<description>Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using Mo to nucleate large niobate crystals, enabling controlled growth of Wadsley-Roth anodes. This matters because crystal size governs Li-ion transport and rate performance. The approach offers a scalable route to high-power, safe battery anodes, advancing practical adoption of niobate materials.&lt;br&gt;🏷 Li-ion battery · Wadsley-Roth anode · niobate crystals · molybdenum · nucleation</description>
-<category>Li-ion battery</category>
-<category>Wadsley-Roth anode</category>
-<category>niobate crystals</category>
-<category>molybdenum</category>
-<category>nucleation</category>
-</item>
-<item>
-<title>Regulating Chemomechanical Interactions in a High-Compaction Na4Fe3(PO4)2P2O7 Cathode for Durable Sodium Storage</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04139</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04139</guid>
-<pubDate>Wed, 14 Oct 2026 16:01:38 GMT</pubDate>
-<description>دوپینگ La در کاتد NFPP تنش مکانیکی و کرنش شبکه را کاهش داده و ظرفیت 90.4 mAh g–1 با پایداری 5000 چرخه را ممکن می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 This work regulates chemomechanical failure in high-compaction Na4Fe3(PO4)2P2O7 by La doping, which refines grains, strengthens Fe–O bonds, and suppresses microcracks and lattice strain. The optimized cathode delivers 90.4 mAh g–1 at 10 C with 92.2% retention over 5000 cycles, plus wide-temperature pouch-cell stability, offering a practical route to durable, high-energy sodium-ion batteries.&lt;br&gt;🏷 Na4Fe3(PO4)2P2O7 · sodium-ion battery · cathode · chemomechanical · La doping</description>
-<category>Na4Fe3(PO4)2P2O7</category>
-<category>sodium-ion battery</category>
-<category>cathode</category>
-<category>chemomechanical</category>
-<category>La doping</category>
-</item>
-<item>
-<title>Disturbance-responsive online lithium-ion battery SOH estimation and analytical knee-point tracking with a Dual-Weibull Physics-Inspired Model</title>
-<link>https://doi.org/10.1016/j.est.2026.125129</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125129</guid>
-<pubDate>Wed, 14 Oct 2026 14:02:00 GMT</pubDate>
-<description>این مقاله یک مدل فیزیک‌محور دو-وایبول برای تخمین آنلاین SOH باتری لیتیوم-یون و ردیابی تحلیلی نقطه زانو با پاسخ به اغتشاش ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · SOH estimation · knee-point tracking · Dual-Weibull model · physics-inspired model</description>
-<category>lithium-ion battery</category>
-<category>SOH estimation</category>
-<category>knee-point tracking</category>
-<category>Dual-Weibull model</category>
-<category>physics-inspired model</category>
-</item>
-<item>
-<title>Wood template-assisted construction of ultrathick lignin-derived carbon electrodes with low tortuosity and hierarchical porosity for advanced energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125128</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125128</guid>
-<pubDate>Wed, 14 Oct 2026 14:01:56 GMT</pubDate>
-<description>این مقاله با استفاده از قالب چوب، الکترودهای کربنی فوق‌ضخیم مشتق از لیگنین با پیچ‌خوردگی کم و تخلخل سلسله‌مراتبی برای ذخیره‌سازی انرژی پیشرفته می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lignin-derived carbon · wood template · ultrathick electrode · low tortuosity · hierarchical porosity</description>
-<category>lignin-derived carbon</category>
-<category>wood template</category>
-<category>ultrathick electrode</category>
-<category>low tortuosity</category>
-<category>hierarchical porosity</category>
 </item>
 </channel>
 </rss>
