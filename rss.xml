@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 07:01:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 08:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermal transport in two-dimensional monolayer amorphous carbon: Role of quantum statistics and the degree of amorphization</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122216</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122216</guid>
+<pubDate>Sun, 18 Oct 2026 08:01:12 GMT</pubDate>
+<description>این مقاله انتقال حرارت در مونولایه کربن آمورف دوبعدی را بررسی کرده و نقش آمار کوانتومی و درجه آمورف‌شدگی را در رسانایی گرمایی آن نشان می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 monolayer amorphous carbon · thermal conductivity · quantum statistics · amorphization degree · phonon transport</description>
+<category>monolayer amorphous carbon</category>
+<category>thermal conductivity</category>
+<category>quantum statistics</category>
+<category>amorphization degree</category>
+<category>phonon transport</category>
+</item>
 <item>
 <title>Enantioselective sp3-sp3 cross-coupling of oxygen-containing heterocycles with cyclopropanols</title>
 <link>https://doi.org/10.1038/s41467-026-78834-w</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>arenes</category>
 <category>azoles</category>
 <category>electrosynthesis</category>
-</item>
-<item>
-<title>ILC2-intrinsic IL-33 amplifies ILC2 activation and allergic lung inflammation</title>
-<link>https://doi.org/10.1038/s41467-026-78434-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-78434-8</guid>
-<pubDate>Sat, 17 Oct 2026 11:02:43 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که تولید درون‌زاد IL-33 در ILC2ها فعال‌سازی این سلول‌ها و التهاب آلرژیک ریه را تقویت می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ILC2 · IL-33 · allergic lung inflammation · type 2 immunity · neuroimmune</description>
-<category>ILC2</category>
-<category>IL-33</category>
-<category>allergic lung inflammation</category>
-<category>type 2 immunity</category>
-<category>neuroimmune</category>
 </item>
 </channel>
 </rss>
