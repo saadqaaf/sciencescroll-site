@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 03:00:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 04:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial fracture energy as the missing descriptor in solid-state batteries: coordination-chemistry origins of manufacturing-induced mechanical memory and pressure-lean cycling</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218681</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218681</guid>
+<pubDate>Sun, 18 Oct 2026 04:01:07 GMT</pubDate>
+<description>این مقاله انرژی شکست بین‌سطحی را به‌عنوان توصیفگر کلیدی باتری‌های حالت جامد معرفی کرده و ریشه‌های شیمی‌کوئوردیناسیونی حافظه مکانیکی ساخت و چرخه‌های کم‌فشار را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | 💭 Perspective&lt;br&gt;🏷 solid-state battery · interfacial fracture energy · mechanical memory · coordination chemistry · pressure-lean cycling</description>
+<category>solid-state battery</category>
+<category>interfacial fracture energy</category>
+<category>mechanical memory</category>
+<category>coordination chemistry</category>
+<category>pressure-lean cycling</category>
+</item>
+<item>
+<title>Morphological control and structural evolution of ZIF-67: a comprehensive review centered on the classification of synthesis methods</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218657</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218657</guid>
+<pubDate>Sun, 18 Oct 2026 04:01:03 GMT</pubDate>
+<description>این مرور جامع، روش‌های سنتز ZIF-67 را دسته‌بندی کرده و چگونگی کنترل مورفولوژی و تحول ساختاری آن را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 ZIF-67 · morphology control · structural evolution · MOF synthesis · crystal growth</description>
+<category>ZIF-67</category>
+<category>morphology control</category>
+<category>structural evolution</category>
+<category>MOF synthesis</category>
+<category>crystal growth</category>
+</item>
 <item>
 <title>Investigating the processing, properties, and recyclability of transesterification-type vitrimers for composite manufacturing</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114293</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>scMagnify</category>
 <category>multi-scale decomposition</category>
 <category>computational method</category>
-</item>
-<item>
-<title>ADAM17 is a broad HIV-1 restriction factor targeted by Nef to restore Env maturation</title>
-<link>https://doi.org/10.1038/s41467-026-78949-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-78949-0</guid>
-<pubDate>Sat, 17 Oct 2026 11:02:18 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد ADAM17 یک فاکتور محدودکننده گسترده HIV-1 است که Nef برای بازیابی بلوغ Env آن را هدف قرار می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ADAM17 · HIV-1 restriction · Nef protein · Env maturation · host factor</description>
-<category>ADAM17</category>
-<category>HIV-1 restriction</category>
-<category>Nef protein</category>
-<category>Env maturation</category>
-<category>host factor</category>
-</item>
-<item>
-<title>Molecular basis of PADI6 species-specific oligomerization in maternal regulatory complexes</title>
-<link>https://doi.org/10.1038/s41467-026-78438-4</link>
-<guid isPermaLink="false">10.1038/s41467-026-78438-4</guid>
-<pubDate>Sat, 17 Oct 2026 11:02:14 GMT</pubDate>
-<description>این مقاله مبانی مولکولی الیگومریزاسیون وابسته به گونه PADI6 را در کمپلکس‌های تنظیمی مادری بررسی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PADI6 · oligomerization · maternal complexes · species specificity · structural biology</description>
-<category>PADI6</category>
-<category>oligomerization</category>
-<category>maternal complexes</category>
-<category>species specificity</category>
-<category>structural biology</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 03:00:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 04:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial fracture energy as the missing descriptor in solid-state batteries: coordination-chemistry origins of manufacturing-induced mechanical memory and pressure-lean cycling</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218681</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218681</guid>
+<pubDate>Sun, 18 Oct 2026 04:01:07 GMT</pubDate>
+<description>این مقاله انرژی شکست بین‌سطحی را به‌عنوان توصیفگر کلیدی باتری‌های حالت جامد معرفی کرده و ریشه‌های شیمی‌کوئوردیناسیونی حافظه مکانیکی ساخت و چرخه‌های کم‌فشار را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | 💭 Perspective&lt;br&gt;🏷 solid-state battery · interfacial fracture energy · mechanical memory · coordination chemistry · pressure-lean cycling</description>
+<category>solid-state battery</category>
+<category>interfacial fracture energy</category>
+<category>mechanical memory</category>
+<category>coordination chemistry</category>
+<category>pressure-lean cycling</category>
+</item>
 <item>
 <title>Physics-guided learning framework based on a fractional single-particle model for battery state-of-health prediction</title>
 <link>https://doi.org/10.1016/j.est.2026.125008</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>covalent organic framework</category>
 <category>nanoconfinement</category>
 <category>tandem catalysis</category>
-</item>
-<item>
-<title>Dual‐Functional Membranes With Interfacial MXene/PFSA Nanoarchitectures for Low Hydrogen Permeation in Water Electrolysis and Reduced Vanadium Ion Crossover in Flow Batteries</title>
-<link>https://doi.org/10.1002/advs.78270</link>
-<guid isPermaLink="false">10.1002/advs.78270</guid>
-<pubDate>Thu, 15 Oct 2026 00:03:15 GMT</pubDate>
-<description>این مقاله غشاهای دوعملکردی با نانوساختارهای MXene/PFSA را برای کاهش نفوذ هیدروژن در الکترولیز آب و کاهش عبور یون وانادیم در باتری جریانی ارائه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 MXene/PFSA layer-by-layer membranes create interfacial nanoarchitectures that decouple proton conductivity from gas and ion crossover. MXene nanosheets introduce tortuous pathways and selectively raise transport barriers for H₂ and VO²⁺ while preserving proton migration via hydrogen bonds. This yields 43% lower hydrogen permeability and 37.5% reduced vanadium diffusion without conductivity loss, enabling stable PEMWE operation and 67% VRFB capacity retention over 470 cycles—a versatile interfacial strategy for both technologies.&lt;br&gt;🏷 MXene/PFSA membrane · hydrogen permeation · vanadium crossover · water electrolysis · flow battery</description>
-<category>MXene/PFSA membrane</category>
-<category>hydrogen permeation</category>
-<category>vanadium crossover</category>
-<category>water electrolysis</category>
-<category>flow battery</category>
 </item>
 </channel>
 </rss>
