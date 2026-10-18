@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 17:01:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 18:03:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Activation‐Induced Turbostratic Ordering in pDCPD‐Derived Hard Carbon Enables Stable Carbonate‐Based Sodium‐Ion Storage</title>
+<link>https://doi.org/10.1002/advs.78311</link>
+<guid isPermaLink="false">10.1002/advs.78311</guid>
+<pubDate>Sun, 18 Oct 2026 18:03:00 GMT</pubDate>
+<description>این پژوهش کربن سخت مشتق از pDCPD را با فعال‌سازی و نظم توربوستراتیک مهندسی می‌کند و ظرفیت 352 mAh و حفظ ظرفیت 88.1% پس از 500 چرخه در الکترولیت کربناتی برای آند باتری سدیم-یون به دست می‌آورد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using poly(dicyclopentadiene)-derived hard carbon with activation-induced turbostratic ordering, where activation effects depend on carbonization temperature. This yields enhanced rate performance and 88.1% retention after 500 cycles in carbonate electrolyte (352 mAh at 0.1 C). Significance: a cost-effective route to high-performance, long-cycle-life sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon · sodium-ion battery · pDCPD · turbostratic structure · anode</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>pDCPD</category>
+<category>turbostratic structure</category>
+<category>anode</category>
+</item>
 <item>
 <title>Fluorine-free chlorinated Hückel-type salt for more sustainable and safer all-solid-state lithium metal batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105600</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>guest anion</category>
 <category>solvation chemistry</category>
 <category>Mg(OTf)2</category>
-</item>
-<item>
-<title>Crystallography‐Dependent Plating/Stripping Kinetics and Interfacial Morphologies in Zn Metal Anodes</title>
-<link>https://doi.org/10.1002/anie.1058773</link>
-<guid isPermaLink="false">10.1002/anie.1058773</guid>
-<pubDate>Thu, 15 Oct 2026 09:02:26 GMT</pubDate>
-<description>جهت‌گیری بلوری، سینتیک آبکاری/جدایش و ریخت‌شناسی سطحی آند Zn را کنترل کرده و وجه (002) عمر چرخه‌ای طولانی‌تری در باتری‌های Zn فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely quantifies facet-dependent Zn plating/stripping kinetics using scanning electrochemical cell microscopy, revealing j0(100) &amp;gt; j0(101) &amp;gt; j0(002). It establishes a kinetics–stability trade-off: despite slower charge transfer, the (002) facet yields longest cycling life and best full-cell retention. This links crystallographic control of charge transfer, dissolution topology, and reconstruction to durable Zn anode design.&lt;br&gt;🏷 Zn metal anode · crystallographic orientation · plating/stripping kinetics · interfacial morphology · SECCM</description>
-<category>Zn metal anode</category>
-<category>crystallographic orientation</category>
-<category>plating/stripping kinetics</category>
-<category>interfacial morphology</category>
-<category>SECCM</category>
 </item>
 </channel>
 </rss>
