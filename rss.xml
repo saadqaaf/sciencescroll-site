@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 04:01:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 05:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multifunctional transdermal nanocomposite patch based on phenolated lignin-chitosan reinforced with MgO nanoparticles for wound healing</title>
+<link>https://doi.org/10.1007/s42114-026-02124-8</link>
+<guid isPermaLink="false">10.1007/s42114-026-02124-8</guid>
+<pubDate>Sun, 18 Oct 2026 05:01:01 GMT</pubDate>
+<description>این مقاله یک پچ نانوکامپوزیتی ترانس‌درمال بر پایه لیگنین فنول‌دار-کیتوسان تقویت‌شده با نانوذرات MgO برای ترمیم زخم ارائه می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 wound healing · lignin-chitosan · MgO nanoparticles · nanocomposite patch · transdermal patch</description>
+<category>wound healing</category>
+<category>lignin-chitosan</category>
+<category>MgO nanoparticles</category>
+<category>nanocomposite patch</category>
+<category>transdermal patch</category>
+</item>
 <item>
 <title>Interfacial fracture energy as the missing descriptor in solid-state batteries: coordination-chemistry origins of manufacturing-induced mechanical memory and pressure-lean cycling</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218681</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>polyamide membrane</category>
 <category>nanofiltration</category>
 <category>desalination</category>
-</item>
-<item>
-<title>Decomposing multi-scale dynamic regulation from single-cell multiomics with scMagnify</title>
-<link>https://doi.org/10.1038/s41467-026-78441-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-78441-9</guid>
-<pubDate>Sat, 17 Oct 2026 11:02:22 GMT</pubDate>
-<description>این مقاله روش scMagnify را برای تجزیه تنظیم دینامیکی چندمقیاسی از داده‌های مولتی‌اومیکس تک‌سلولی معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-cell multiomics · dynamic regulation · scMagnify · multi-scale decomposition · computational method</description>
-<category>single-cell multiomics</category>
-<category>dynamic regulation</category>
-<category>scMagnify</category>
-<category>multi-scale decomposition</category>
-<category>computational method</category>
 </item>
 </channel>
 </rss>
