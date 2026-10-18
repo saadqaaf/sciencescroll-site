@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 12:01:08 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 13:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stress‐Resistant Plant Cell‐Wall Inspired Cell Armor Enables Red Blood Cell Lyophilization</title>
+<link>https://doi.org/10.1002/adma.75447</link>
+<guid isPermaLink="false">10.1002/adma.75447</guid>
+<pubDate>Sun, 18 Oct 2026 13:01:01 GMT</pubDate>
+<description>پوشش غشایی الهام‌گرفته از دیواره سلول گیاهی با ZIF-8 و پلیمر آب‌نگهدار، لیوفیلیزاسیون گلبول‌های قرمز را با بازیابی حدود ۹۵٪ و پایداری سه‌ماهه در دمای محیط ممکن می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 red blood cells · lyophilization · ZIF-8 · biomimetic cell armor · membrane stabilization</description>
+<category>red blood cells</category>
+<category>lyophilization</category>
+<category>ZIF-8</category>
+<category>biomimetic cell armor</category>
+<category>membrane stabilization</category>
+</item>
 <item>
 <title>A novel continuous homogenization strategy via layer-synchronized induction heating during and subsequent to laser directed energy deposition</title>
 <link>https://doi.org/10.1016/j.addma.2026.105409</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>nickel catalysis</category>
 <category>deaminative arylation</category>
 <category>C(sp3)-rich</category>
-</item>
-<item>
-<title>A mouse neuroimmune circuit that regulates allergic inflammation in the esophagus</title>
-<link>https://doi.org/10.1038/s41467-026-78368-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-78368-1</guid>
-<pubDate>Sat, 17 Oct 2026 11:02:55 GMT</pubDate>
-<description>این پژوهش مدار نوروایمنی موشی را شناسایی می‌کند که التهاب آلرژیک مری را تنظیم می‌کند و بینایی و ایمنی را به هم مرتبط می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 neuroimmune circuit · eosinophilic esophagitis · allergic inflammation · esophagus · mouse model</description>
-<category>neuroimmune circuit</category>
-<category>eosinophilic esophagitis</category>
-<category>allergic inflammation</category>
-<category>esophagus</category>
-<category>mouse model</category>
 </item>
 </channel>
 </rss>
