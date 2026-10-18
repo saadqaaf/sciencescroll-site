@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 06:01:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 07:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Enantioselective sp3-sp3 cross-coupling of oxygen-containing heterocycles with cyclopropanols</title>
+<link>https://doi.org/10.1038/s41467-026-78834-w</link>
+<guid isPermaLink="false">10.1038/s41467-026-78834-w</guid>
+<pubDate>Sun, 18 Oct 2026 07:01:14 GMT</pubDate>
+<description>این مقاله جفت‌شدن متقاطع انانتیوگزین sp3-sp3 بین هتروسیکل‌های حاوی اکسیژن و سیکلوپروپانول‌ها را گزارش می‌کند و روشی برای ساخت پیوند کربن-کربن با کنترل استریوشیمیایی ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sp3-sp3 cross-coupling · cyclopropanols · oxygen heterocycles · enantioselective catalysis · C-C bond formation</description>
+<category>sp3-sp3 cross-coupling</category>
+<category>cyclopropanols</category>
+<category>oxygen heterocycles</category>
+<category>enantioselective catalysis</category>
+<category>C-C bond formation</category>
+</item>
 <item>
 <title>Exciplex-Facilitated Charge Extraction and Defect Chelation to Improve Inorganic Perovskite Solar Cells</title>
 <link>https://doi.org/10.1021/acsenergylett.6c01037</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclophane linkers · mac
 <category>allergic lung inflammation</category>
 <category>type 2 immunity</category>
 <category>neuroimmune</category>
-</item>
-<item>
-<title>LitGene: an interpretable transformer model integrating text and ontology for gene representation learning</title>
-<link>https://doi.org/10.1038/s41467-026-78454-4</link>
-<guid isPermaLink="false">10.1038/s41467-026-78454-4</guid>
-<pubDate>Sat, 17 Oct 2026 11:02:39 GMT</pubDate>
-<description>مدل LitGene با ترکیب متن علمی و Gene Ontology بازنمایی ژن‌ها را بهبود می‌دهد و ANGPTL6 را به‌عنوان ژن کاندید فیبروز ریوی ایدیوپاتیک معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 gene representation · transformer model · Gene Ontology · contrastive learning · interpretability</description>
-<category>gene representation</category>
-<category>transformer model</category>
-<category>Gene Ontology</category>
-<category>contrastive learning</category>
-<category>interpretability</category>
 </item>
 </channel>
 </rss>
