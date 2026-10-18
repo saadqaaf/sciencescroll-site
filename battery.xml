@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 14:01:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fluorine-free chlorinated Hückel-type salt for more sustainable and safer all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105600</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105600</guid>
+<pubDate>Sun, 18 Oct 2026 15:01:20 GMT</pubDate>
+<description>این مقاله یک نمک کلردار نوع هوکل بدون فلوئور را برای باتری‌های تمام‌جامد لیتیوم-فلز پایدارتر و ایمن‌تر معرفی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · lithium metal anode · chlorinated salt · Hückel-type salt · fluorine-free electrolyte</description>
+<category>all-solid-state battery</category>
+<category>lithium metal anode</category>
+<category>chlorinated salt</category>
+<category>Hückel-type salt</category>
+<category>fluorine-free electrolyte</category>
+</item>
 <item>
 <title>Interfacial engineering for all-solid-state lithium-sulfur batteries: Mechanisms, strategies, and pathways to commercialization</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218680</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>plating/stripping kinetics</category>
 <category>interfacial morphology</category>
 <category>SECCM</category>
-</item>
-<item>
-<title>Electron‐Deficient Destabilization Coupled With Mg‐philic Catalysis: A Dual‐Modulation Strategy for Low‐Temperature Dehydrogenation of Mg(BH 4 ) 2</title>
-<link>https://doi.org/10.1002/adfm.79016</link>
-<guid isPermaLink="false">10.1002/adfm.79016</guid>
-<pubDate>Thu, 15 Oct 2026 08:02:17 GMT</pubDate>
-<description>راهبرد دوگانه تضعیف الکترون‌کمبود و کاتالیز مگنزیوفیلیک، دمای آزادسازی هیدروژن از Mg(BH4)2 را به‌طور چشمگیری کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers a dual-modulation strategy coupling electron-deficient boron-doped graphene with Mg-philic Nb catalysts to destabilize Mg(BH₄)₂. It achieves record-low dehydrogenation temperatures (onset 50°C) and reduced activation energies, while suppressing byproduct accumulation for enhanced cyclability. This offers a promising design paradigm for advanced hydrogen storage materials.&lt;br&gt;🏷 hydrogen storage · Mg(BH4)2 · dehydrogenation · Mg-philic catalysis · boron-doped graphene</description>
-<category>hydrogen storage</category>
-<category>Mg(BH4)2</category>
-<category>dehydrogenation</category>
-<category>Mg-philic catalysis</category>
-<category>boron-doped graphene</category>
 </item>
 </channel>
 </rss>
