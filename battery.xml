@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 08:01:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 09:01:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Inert Al Doping Into Mn‐Rich NASICON Cathode to Effectively Suppress Voltage Hysteresis in Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/sstr.202500890</link>
+<guid isPermaLink="false">10.1002/sstr.202500890</guid>
+<pubDate>Sun, 18 Oct 2026 09:01:18 GMT</pubDate>
+<description>دوپینگ جزئی Al در کاتد Mn-rich NASICON سبب تثبیت ساختار و کاهش هیسترزیس ولتاژ شده و در سلول کامل با hard carbon ظرفیت 138 mAh g−1 و حفظ 90٪ پس از 100 چرخه حاصل شد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Trace Al doping into Mn-rich NASICON cathode stabilizes the lattice and modulates MnO6 electronic structure, markedly suppressing voltage hysteresis while preserving the two-phase mechanism. This activates Mn redox couples and lowers Na-ion migration barriers, yielding 138 mAh g−1, 419 Wh kg−1, and 90% capacity retention over 100 cycles—demonstrating a simple, effective strategy for high-performance sodium-ion batteries.&lt;br&gt;🏷 NASICON cathode · sodium-ion battery · Al doping · voltage hysteresis · Mn-rich phosphate</description>
+<category>NASICON cathode</category>
+<category>sodium-ion battery</category>
+<category>Al doping</category>
+<category>voltage hysteresis</category>
+<category>Mn-rich phosphate</category>
+</item>
+<item>
+<title>Nanocarbon‐Assisted Anthraquinone‐Conjugated Microporous Polymer Anodes for High‐Rate, High‐Areal‐Output, Wide‐Temperature Alkaline Nickel–Organic Batteries</title>
+<link>https://doi.org/10.1002/sstr.70648</link>
+<guid isPermaLink="false">10.1002/sstr.70648</guid>
+<pubDate>Sun, 18 Oct 2026 09:01:13 GMT</pubDate>
+<description>آند پلیمر میکروپور آنتراکینون با شبکه SWCNT/rGO برای باتری قلیایی Ni(OH)2 ساخته شد که ظرفیت بالا، نرخ سریع و عملکرد گسترده دمایی از −45 تا +75 درجه سلسیوس ارائه می‌دهد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in in-situ restrained SWCNT/rGO hybridization of an anthraquinone-conjugated microporous polymer anode, enabling fast kinetics at 80 wt% active content and 60 mg cm⁻² loading. Significance: it delivers 10.1 mAh cm⁻², 4.6 mAh cm⁻² at 343 mA cm⁻², and wide-temperature operation (−45 to +75 °C) in alkaline Ni–organic batteries, advancing sustainable, high-rate aqueous energy storage.&lt;br&gt;🏷 anthraquinone polymer · nickel-organic battery · nanocarbon hybridization · high areal capacity · wide-temperature operation</description>
+<category>anthraquinone polymer</category>
+<category>nickel-organic battery</category>
+<category>nanocarbon hybridization</category>
+<category>high areal capacity</category>
+<category>wide-temperature operation</category>
+</item>
 <item>
 <title>Interfacial fracture energy as the missing descriptor in solid-state batteries: coordination-chemistry origins of manufacturing-induced mechanical memory and pressure-lean cycling</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218681</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work pioneers 6Li so
 <category>dual-ion battery</category>
 <category>polyimide anode</category>
 <category>self-exfoliation</category>
-</item>
-<item>
-<title>Ferroelectric Low‐Tortuosity Separators for Dendrite‐Free Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76188</link>
-<guid isPermaLink="false">10.1002/smll.76188</guid>
-<pubDate>Thu, 15 Oct 2026 00:07:13 GMT</pubDate>
-<description>جداکننده فروالکتریک BaTiO3 با کانال‌های کم‌پیچ‌وخم، رسانایی یونی و عدد انتقال را بهبود داده و رشد دندریت لیتیوم را در باتری حالت جامد سرکوب می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Ferroelectric BaTiO₃-coated track-etched membranes with vertically aligned, low-tortuosity channels are introduced as separators for solid-state lithium metal batteries. Combined with in situ polymerized PDOL, they shorten Li⁺ pathways and homogenize electric fields, enabling dendrite-free plating, high conductivity (0.12 mS cm⁻¹), and stable cycling. This geometrically engineered ferroelectric separator paradigm advances safe, high-performance lithium metal batteries.&lt;br&gt;🏷 solid-state battery · ferroelectric separator · lithium dendrite · BaTiO3 · low-tortuosity</description>
-<category>solid-state battery</category>
-<category>ferroelectric separator</category>
-<category>lithium dendrite</category>
-<category>BaTiO3</category>
-<category>low-tortuosity</category>
-</item>
-<item>
-<title>Nanoconfinement-cooperated catalysis enables rapid tandem redox kinetics for wide-temperature lithium-sulfur batteries</title>
-<link>https://doi.org/10.1126/sciadv.aej0353</link>
-<guid isPermaLink="false">10.1126/sciadv.aej0353</guid>
-<pubDate>Thu, 15 Oct 2026 00:06:16 GMT</pubDate>
-<description>این مقاله با ترکیب نانوحصر و کاتالیز تاندمی در TPBD/MXene، سینتیک ردوکس سریع و عملکرد وسیع‌دمایی در باتری‌های لیتیوم-گوگرد را ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 This work pioneers nanoconfinement-cooperated tandem catalysis to regulate the inner Helmholtz plane in Li-S batteries. The porous TPBD/MXene promoter confines bulky solvated Li⁺, accelerates desolvation, and reconstructs solvation structure, yielding a 0.77 Li⁺ transference number, 1000-cycle life, and wide-temperature operation (0–50°C) at high sulfur loading, advancing practical Li-S deployment.&lt;br&gt;🏷 lithium-sulfur battery · MXene · covalent organic framework · nanoconfinement · tandem catalysis</description>
-<category>lithium-sulfur battery</category>
-<category>MXene</category>
-<category>covalent organic framework</category>
-<category>nanoconfinement</category>
-<category>tandem catalysis</category>
 </item>
 </channel>
 </rss>
