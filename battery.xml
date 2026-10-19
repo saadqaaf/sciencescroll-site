@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 16:01:20 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:06:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Water serves as a charge-transfer medium for ultrafast aqueous batteries</title>
+<link>https://doi.org/10.1038/s41578-026-00971-x</link>
+<guid isPermaLink="false">10.1038/s41578-026-00971-x</guid>
+<pubDate>Mon, 19 Oct 2026 17:04:13 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد آب به‌عنوان محیط انتقال بار، امکان باتری‌های آبی فوق‌سریع را فراهم می‌کند.&lt;br&gt;Nature Reviews Materials | ⭐ Review&lt;br&gt;💡 This Perspective proposes interfacial water as a charge-transfer medium in aqueous batteries, explaining ultrafast kinetics via water cleavage and reorganization at electrode–electrolyte interfaces. It reframes charge storage beyond ion-centric models, links water-derived protons and transient intermediates to observed signatures, and outlines mechanisms, tunability, characterization, and design implications for high-power aqueous energy storage.&lt;br&gt;🏷 aqueous battery · charge transfer · water · ultrafast kinetics · electrolyte</description>
+<category>aqueous battery</category>
+<category>charge transfer</category>
+<category>water</category>
+<category>ultrafast kinetics</category>
+<category>electrolyte</category>
+</item>
+<item>
+<title>In Situ Hetero-Layered Quasi-Solid-State Electrolyte Enable Enhanced Ion Transport for Safe Sodium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ta06891j</link>
+<guid isPermaLink="false">10.1039/d6ta06891j</guid>
+<pubDate>Mon, 19 Oct 2026 17:02:07 GMT</pubDate>
+<description>یک الکترولیت شبه‌جامد ناهمگون‌لایه در محل، انتقال یون و تماس جامد-جامد را برای باتری‌های ایمن سدیم-فلز بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in situ-formed hetero-layered quasi-solid-state electrolyte that creates seamless solid-solid contact and enhances ion transport. Its significance is enabling safe, high-energy-density sodium metal batteries by overcoming the interfacial and conductivity limitations of conventional solid electrolytes, offering a practical route to next-generation energy storage.&lt;br&gt;🏷 sodium metal battery · quasi-solid electrolyte · ion transport · hetero-layered electrolyte · solid-state battery</description>
+<category>sodium metal battery</category>
+<category>quasi-solid electrolyte</category>
+<category>ion transport</category>
+<category>hetero-layered electrolyte</category>
+<category>solid-state battery</category>
+</item>
+<item>
+<title>p-Block metal-induced p–d orbital hybridization enhances the oxygen reduction performance of an Fe–N–C catalyst in zinc–air batteries</title>
+<link>https://doi.org/10.1039/d6ta06630e</link>
+<guid isPermaLink="false">10.1039/d6ta06630e</guid>
+<pubDate>Mon, 19 Oct 2026 17:01:45 GMT</pubDate>
+<description>کاتالیزور FeIn/NC با هیبریداسیون اوربیتال p-d ناشی از In، فعالیت ORR و عملکرد باتری زینک-هوا را با ولتاژ مدار باز پایدار و چگالی توان بالا بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using p-block metal In to induce p–d orbital hybridization in an Fe–N–C catalyst, tuning its electronic structure. This significantly boosts oxygen reduction activity and zinc–air battery performance, achieving stable open-circuit voltage and high peak power density. It offers a viable strategy for designing efficient, durable non-precious-metal catalysts for energy devices.&lt;br&gt;🏷 Fe-N-C catalyst · oxygen reduction · zinc-air battery · p-d hybridization · indium doping</description>
+<category>Fe-N-C catalyst</category>
+<category>oxygen reduction</category>
+<category>zinc-air battery</category>
+<category>p-d hybridization</category>
+<category>indium doping</category>
+</item>
 <item>
 <title>A coordinated control utilizing battery energy storage for low voltage ride-through enhancement and power quality improvement in grid-connected solar PV systems</title>
 <link>https://doi.org/10.1016/j.est.2026.125182</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>gradient structure</category>
 <category>polymerization</category>
 <category>zinc battery</category>
-</item>
-<item>
-<title>Coordination-assisted molecular crosslinking enables in situ closed-pore engineering and interfacial stabilization of hard carbon for durable high-capacity sodium storage</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.079</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.079</guid>
-<pubDate>Thu, 15 Oct 2026 19:06:51 GMT</pubDate>
-<description>کراس‌لینک مولکولی با کمک کوئوردیناسیون، مهندسی درجای حفرات بسته و پایدارسازی سطح مشترک کربن سخت را برای ذخیره‌سازی سدیم با ظرفیت بالا ممکن می‌سازد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 hard carbon · closed-pore engineering · sodium storage · crosslinking · interfacial stabilization</description>
-<category>hard carbon</category>
-<category>closed-pore engineering</category>
-<category>sodium storage</category>
-<category>crosslinking</category>
-<category>interfacial stabilization</category>
-</item>
-<item>
-<title>Revealing the role of the Maillard reaction in regulating sodium storage performance of hard carbon</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.078</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.078</guid>
-<pubDate>Thu, 15 Oct 2026 19:06:39 GMT</pubDate>
-<description>نقش واکنش Maillard در تنظیم عملکرد ذخیره‌سازی سدیم کربن سخت برای آند باتری یون‌سدیم آشکار شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 hard carbon · Maillard reaction · sodium storage · anode · sodium-ion battery</description>
-<category>hard carbon</category>
-<category>Maillard reaction</category>
-<category>sodium storage</category>
-<category>anode</category>
-<category>sodium-ion battery</category>
-</item>
-<item>
-<title>Mitigated oxygen loss and improved structural stability in high-capacity and long-life Li-rich layered cathodes by Ti/Nb co-doping</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.073</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.073</guid>
-<pubDate>Thu, 15 Oct 2026 19:06:31 GMT</pubDate>
-<description>هم‌دوپینگ Ti/Nb در کاتدهای لایه‌ای غنی از لیتیوم، کاهش آزادسازی اکسیژن و بهبود پایداری ساختاری را برای ظرفیت بالا و عمر طولانی فراهم می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-rich cathode · Ti/Nb co-doping · oxygen loss · structural stability · layered oxide</description>
-<category>Li-rich cathode</category>
-<category>Ti/Nb co-doping</category>
-<category>oxygen loss</category>
-<category>structural stability</category>
-<category>layered oxide</category>
 </item>
 </channel>
 </rss>
