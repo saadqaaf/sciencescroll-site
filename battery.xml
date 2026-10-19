@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 12:02:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 13:04:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Polymer-agnostic crosslinking enables robust high-temperature dielectrics for energy storage</title>
+<link>https://doi.org/10.1038/s41467-026-78724-1</link>
+<guid isPermaLink="false">10.1038/s41467-026-78724-1</guid>
+<pubDate>Mon, 19 Oct 2026 13:04:07 GMT</pubDate>
+<description>این مقاله با شبکه‌ای‌کردن نامحدود به نوع پلیمر، دی‌الکتریک‌های مقاوم در دمای بالا برای ذخیره‌سازی انرژی خازنی ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is a polymer-agnostic crosslinking platform using nitrene-mediated C–H insertion, overcoming polymer-specific chemistries and defect-induced insulation loss. Its significance lies in upgrading diverse commercial dielectrics, demonstrated by polyetherimide delivering 6.0 J cm−3 at &amp;gt;90% efficiency at 200 °C, &amp;gt;105-cycle stability at 500 MV m−1, and a 60-year projected lifetime—enabling reliable high-temperature capacitive energy storage.&lt;br&gt;🏷 polymer dielectrics · high-temperature capacitors · crosslinking · energy storage · thermal stability</description>
+<category>polymer dielectrics</category>
+<category>high-temperature capacitors</category>
+<category>crosslinking</category>
+<category>energy storage</category>
+<category>thermal stability</category>
+</item>
+<item>
+<title>Transforming electrified railway into mechanical energy storage for electricity system decarbonization</title>
+<link>https://doi.org/10.1038/s41467-026-78711-6</link>
+<guid isPermaLink="false">10.1038/s41467-026-78711-6</guid>
+<pubDate>Mon, 19 Oct 2026 13:02:40 GMT</pubDate>
+<description>تبدیل راه‌آهن برقی به ذخیره‌ساز انرژی مکانیکی با پتانسیل جهانی 190 گیگاوات و کاهش هزینه و انتشار CO2 در سیستم برق.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in repurposing existing electrified railways as mechanical energy storage via train operation modulation, avoiding new infrastructure. Analyzing 326,034 train operations, it estimates 190 GW global potential (2025), rising to 315–579 GW by 2050. Significance: 11.9–20.0% lower conventional storage investment (US$14.9–35.1 billion annually) and 94.3–258.9 Mt CO₂ reductions yearly without extra system cost.&lt;br&gt;🏷 railway energy storage · mechanical storage · decarbonization · regenerative braking · capacity expansion</description>
+<category>railway energy storage</category>
+<category>mechanical storage</category>
+<category>decarbonization</category>
+<category>regenerative braking</category>
+<category>capacity expansion</category>
+</item>
+<item>
+<title>Enhancing Capacitance by Increasing Electric Double Layer Disorder in Ionic Liquid Mixtures</title>
+<link>https://doi.org/10.1021/acsnano.6c12577</link>
+<guid isPermaLink="false">10.1021/acsnano.6c12577</guid>
+<pubDate>Mon, 19 Oct 2026 13:02:26 GMT</pubDate>
+<description>افزایش ظرفیت ابرخازن با مخلوط کردن مایعات یونی و افزایش بی‌نظمی لایه دوگانه الکتریکی در سراسر پنجره پایداری الکتروشیمیایی.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in enhancing supercapacitor capacitance by mixing ionic liquids to increase electric double layer disorder and entropy, rather than altering voltage windows. Significance: capacitance rose up to 150% across the entire stability window, with like-charged co-ions playing counterion-like roles. This reveals compositional entropy as a design lever for higher energy density, advancing next-generation storage.&lt;br&gt;🏷 supercapacitor · ionic liquid · electric double layer · capacitance · electrolyte mixture</description>
+<category>supercapacitor</category>
+<category>ionic liquid</category>
+<category>electric double layer</category>
+<category>capacitance</category>
+<category>electrolyte mixture</category>
+</item>
 <item>
 <title>Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adma.75435</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>battery recycling</category>
 <category>CNT fusion</category>
 <category>defect healing</category>
-</item>
-<item>
-<title>From Atoms to Cells: First‐Principles Mapping of MXene–TMD Heterostructures for Next‐Generation Metal‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.77744</link>
-<guid isPermaLink="false">10.1002/adfm.77744</guid>
-<pubDate>Thu, 15 Oct 2026 18:02:37 GMT</pubDate>
-<description>این مرور، چارچوبی از اتم تا سلول برای هتروساختارهای MXene-TMD ارائه می‌دهد و توصیفگرهای رابط را برای باتری‌های فلز-یون آینده ترسیم می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely maps MXene–TMD heterostructure design from atomic descriptors to cell-level battery performance across seven metal-ion chemistries. Its evidence-graded framework separates DFT from experimental findings, enforcing falsifiability. It identifies critical gaps—oxidation drift, cost parity, weak operando validation—and proposes a roadmap for termination-aware design and thick-electrode benchmarking, advancing practical deployment.&lt;br&gt;🏷 MXene-TMD heterostructure · metal-ion battery · DFT · interface engineering · ion diffusion</description>
-<category>MXene-TMD heterostructure</category>
-<category>metal-ion battery</category>
-<category>DFT</category>
-<category>interface engineering</category>
-<category>ion diffusion</category>
-</item>
-<item>
-<title>Electrostatic‐Sieving Zn 2+ Transport in a Biodegradable HSiO 2 ‐Crosslinked Cationic Hydrogel Enables Ultralong‐Life Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79069</link>
-<guid isPermaLink="false">10.1002/adfm.79069</guid>
-<pubDate>Thu, 15 Oct 2026 18:02:26 GMT</pubDate>
-<description>این پژوهش یک هیدروژل الکترولیت کاتیونی PAM-N+/HSiO2 را برای باتریهای یون روی ارائه میدهد که با غربالگری الکترواستاتیکی، انتقال Zn2+ و عمر چرخه فوقطولانی را بهبود میبخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a cationic PAM-N⁺/HSiO₂ hydrogel that decouples ionic conductivity, Zn²⁺ transference, and mechanical strength via electrostatic anion anchoring and HSiO₂ crosslinking. It achieves 0.75 transference, 27.06 mS cm⁻¹, and ultralong cycling (5182 h), plus flame retardancy and biodegradability—advancing eco-friendly, high-performance quasi-solid-state zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · hydrogel electrolyte · Zn2+ transference · electrostatic sieving · biodegradable</description>
-<category>zinc-ion battery</category>
-<category>hydrogel electrolyte</category>
-<category>Zn2+ transference</category>
-<category>electrostatic sieving</category>
-<category>biodegradable</category>
-</item>
-<item>
-<title>Hydrogen‐Bonded Supramolecular Networks of Carboxyl‐Functionalized Hexaazatriphenylene for Ultradurable Aqueous Proton Batteries</title>
-<link>https://doi.org/10.1002/adfm.79084</link>
-<guid isPermaLink="false">10.1002/adfm.79084</guid>
-<pubDate>Thu, 15 Oct 2026 18:01:41 GMT</pubDate>
-<description>شبکه‌های سوپرمولکولی پیوند هیدروژنی HATN-6COOH برای باتری پروتون آبی فوق‌پایدار با ظرفیت بالا و پایداری چرخه‌ای عالی طراحی شدند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 HATN‐6COOH introduces carboxyl‐driven hydrogen‐bonded supramolecular networks in hexaazatriphenylene electrodes, simultaneously tuning electronics, enabling Grotthuss proton transport, and suppressing dissolution. It achieves 201 mAh g⁻¹, 89.1% rate retention, and 90.4% capacity after 30,000 cycles, with a full cell retaining 82.6%. This supramolecular engineering strategy advances ultradurable, high-performance aqueous proton batteries.&lt;br&gt;🏷 aqueous proton battery · hexaazatriphenylene · hydrogen-bonded network · organic electrode · ultradurable cycling</description>
-<category>aqueous proton battery</category>
-<category>hexaazatriphenylene</category>
-<category>hydrogen-bonded network</category>
-<category>organic electrode</category>
-<category>ultradurable cycling</category>
 </item>
 </channel>
 </rss>
