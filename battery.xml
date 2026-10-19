@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 08:01:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 09:02:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adma.75435</link>
+<guid isPermaLink="false">10.1002/adma.75435</guid>
+<pubDate>Mon, 19 Oct 2026 09:02:11 GMT</pubDate>
+<description>SEI هیبریدی حاوی پلیمر شبکه‌ای، پایداری مکانیکی و پسیواسیون را بهبود می‌دهد و عمر تقویمی باتری‌های لیتیوم-فلز را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a high-modulus, low-swelling cross-linked polymer in situ within an anion-derived SEI, simultaneously boosting mechanical stability (modulus 1.63→4.37 GPa) and passivation against electrolyte permeation. This dual improvement extends cycle life by 73% and calendar life by 129%, enabling a 506 Wh kg⁻¹ pouch cell, thus addressing the overlooked calendar-life challenge in lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · solid-electrolyte interphase · cross-linked polymer · calendar life · pouch cell</description>
+<category>lithium metal battery</category>
+<category>solid-electrolyte interphase</category>
+<category>cross-linked polymer</category>
+<category>calendar life</category>
+<category>pouch cell</category>
+</item>
+<item>
+<title>A Simple Descriptor for Solid‐State Ionic Conductors Across Chemistries</title>
+<link>https://doi.org/10.1002/adma.75410</link>
+<guid isPermaLink="false">10.1002/adma.75410</guid>
+<pubDate>Mon, 19 Oct 2026 09:02:06 GMT</pubDate>
+<description>توصیفگر ساده انقباض فاصله (Δd) برای غربالگری رساناهای یونی حالت جامد در شیمی‌های Li، Na، K و Mg ارائه و اعتبارسنجی می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is the &amp;quot;distance contraction&amp;quot; (∆d) descriptor—a simple local geometric measure of the largest mobile-ion–neighbor distance contraction along a migration pathway. Its significance: it captures the dominant short-range repulsion penalty, transfers across Li/Na/K/Mg chemistries and oxide/sulfide/halide classes, benchmarks existing descriptors, recovers known fast-ion conductors, and identifies validated new candidates, linking diverse transport mechanisms to one physical quantity.&lt;br&gt;🏷 solid-state ionic conductor · ion migration barrier · descriptor · high-throughput screening · distance contraction</description>
+<category>solid-state ionic conductor</category>
+<category>ion migration barrier</category>
+<category>descriptor</category>
+<category>high-throughput screening</category>
+<category>distance contraction</category>
+</item>
+<item>
+<title>Synchronic Multilevel Assembly Toward Mesoporous Nanosized Intercalation‐Type Framework Anodes for Fast‐Charging Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75455</link>
+<guid isPermaLink="false">10.1002/adma.75455</guid>
+<pubDate>Mon, 19 Oct 2026 09:01:47 GMT</pubDate>
+<description>سنتز مونتاژ چندسطحی همزمان، آندهای اکسید فلزی مزوپور نانومقیاس را برای باتری‌های سدیم-یون با شارژ سریع و پایداری بالا فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a synchronic multilevel assembly strategy that combines atomic-scale cation assembly with in situ conductive carbon networks to create mesoporous, nanosized intercalation-type sodium titanate frameworks, overcoming high-temperature multimetal oxide synthesis challenges. Significance: the M-Na4Ti5O12/C anode delivers superior rate capability and cycling stability, enabling pouch cells with high power density (~4.7 kW kg−1) that outperform hard carbon, providing a rational design framework for fast-charging SIB materials.&lt;br&gt;🏷 sodium-ion battery · sodium titanate anode · mesoporous framework · fast charging · multilevel assembly</description>
+<category>sodium-ion battery</category>
+<category>sodium titanate anode</category>
+<category>mesoporous framework</category>
+<category>fast charging</category>
+<category>multilevel assembly</category>
+</item>
+<item>
+<title>Robust Sodium–Metal Batteries Through Electrolyte‐Mediated Interfacial Regulation: Fundamentals, Design Strategies, and Operando Characterization</title>
+<link>https://doi.org/10.1002/adma.202520711</link>
+<guid isPermaLink="false">10.1002/adma.202520711</guid>
+<pubDate>Mon, 19 Oct 2026 09:01:42 GMT</pubDate>
+<description>این مرور، راهبردهای الکترولیتی و مشخصه‌یابی operando را برای تنظیم SEI و رفع موانع باتری‌های سدیم-فلز بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely integrates electrolyte-mediated SEI engineering with operando characterization, multiscale modeling, and machine learning to decode dynamic sodium–metal interface evolution. It systematically links solvent, salt, additive, and concentration strategies to SEI robustness, and highlights coupled effects of current density, temperature, and composition on nucleation, dendrite growth, and Coulombic efficiency—offering actionable guidance for practical high-performance sodium–metal batteries.&lt;br&gt;🏷 sodium-metal battery · solid-electrolyte interphase · electrolyte engineering · operando characterization · dendrite growth</description>
+<category>sodium-metal battery</category>
+<category>solid-electrolyte interphase</category>
+<category>electrolyte engineering</category>
+<category>operando characterization</category>
+<category>dendrite growth</category>
+</item>
+<item>
+<title>Low-chloride electrolytes with dual-functional organic cations enable four-electron redox conversion in durable Ah-level zinc–iodine batteries</title>
+<link>https://doi.org/10.1039/d6ee04666e</link>
+<guid isPermaLink="false">10.1039/d6ee04666e</guid>
+<pubDate>Mon, 19 Oct 2026 09:01:33 GMT</pubDate>
+<description>الکترولیت آبی کم‌کلرید با کاتیون‌های آلی دوکاره، تبدیل ردوکس چهارالکترونی را در باتری‌های روی-ید Ah-level پایدار ممکن می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Branched quaternary ammonium chlorides are introduced as low-chloride aqueous electrolytes enabling four-electron redox conversion in Zn–I2 batteries. The optimal salt, 3-chloro-2-hydroxypropyl trimethylammonium chloride, supports durable Ah-level pouch cells, addressing chloride-induced corrosion while boosting energy density—a significant step toward practical, high-performance aqueous zinc–iodine energy storage.&lt;br&gt;🏷 zinc-iodine battery · low-chloride electrolyte · quaternary ammonium chloride · four-electron redox · Ah-level pouch cell</description>
+<category>zinc-iodine battery</category>
+<category>low-chloride electrolyte</category>
+<category>quaternary ammonium chloride</category>
+<category>four-electron redox</category>
+<category>Ah-level pouch cell</category>
+</item>
 <item>
 <title>Preparation of Green Phosphorus-Doped SPAN Composites Coupled with Bimetallic Sulfides for Wide-Temperature-Range and High-Rate Sodium-Ion Storage</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122229</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>hydrogen-bonded network</category>
 <category>organic electrode</category>
 <category>ultradurable cycling</category>
-</item>
-<item>
-<title>Carbon-Supply-Programmed CNT Growth for Ultrathin Microwave Absorbers from Waste Batteries and Plastics</title>
-<link>https://doi.org/10.1007/s42114-026-02121-x</link>
-<guid isPermaLink="false">10.1007/s42114-026-02121-x</guid>
-<pubDate>Thu, 15 Oct 2026 17:01:19 GMT</pubDate>
-<description>با برنامه‌ریزی تأمین کربن از باتری‌ها و پلاستیک‌های دورریز، رشد CNT برای جاذب‌های مایکروویو فوق‌نازک انجام شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 waste batteries · CNT growth · microwave absorbers · plastic recycling · carbon supply</description>
-<category>waste batteries</category>
-<category>CNT growth</category>
-<category>microwave absorbers</category>
-<category>plastic recycling</category>
-<category>carbon supply</category>
-</item>
-<item>
-<title>Stress Regulation through Precursor Chemistry: From Synthesis to Cycling Stability in O3‐Type Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/aenm.71699</link>
-<guid isPermaLink="false">10.1002/aenm.71699</guid>
-<pubDate>Thu, 15 Oct 2026 16:01:57 GMT</pubDate>
-<description>استفاده از پیش‌ماده‌های نمک فلزی کم‌ذوب در سنتز کاتدهای لایه‌ای O3 باعث کاهش انرژی فعال‌سازی، توزیع یکنواخت تنش باقیمانده و بهبود پایداری چرخه‌ای باتری سدیم-یون می‌شود.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces low-melting-point metal salt precursors for O3-type layered oxide cathodes, enabling synchronous decomposition that suppresses residual stress accumulation. Compared to conventional oxide routes, this strategy lowers activation energy, ensures uniform lattice strain, and prevents particle cracking during cycling. It establishes stress regulation as a key design principle for high-stability sodium-ion battery cathodes.&lt;br&gt;🏷 layered oxide cathode · sodium-ion battery · stress regulation · precursor chemistry · cycling stability</description>
-<category>layered oxide cathode</category>
-<category>sodium-ion battery</category>
-<category>stress regulation</category>
-<category>precursor chemistry</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Interfacial Dipole Reorganization Enables Ultrafast Sodium Storage in Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathodes</title>
-<link>https://doi.org/10.1002/aenm.71711</link>
-<guid isPermaLink="false">10.1002/aenm.71711</guid>
-<pubDate>Thu, 15 Oct 2026 16:01:36 GMT</pubDate>
-<description>جانشینی Ni2+ در کاتد Na4Fe3(PO4)2P2O7 ساختار الکترونی و پتانسیل الکترواستاتیک سطحی را بازآرایی کرده و ذخیره‌سازی سریع سدیم با حفظ ۷۴٪ ظرفیت پس از ۱۰۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Ni²⁺ substitution in Na₄Fe₃(PO₄)₂P₂O₇ couples bulk electronic regulation to interfacial dipole reorganization, reshaping surface potential and suppressing solvent polarization and ion pairing. This bulk-to-interface strategy yields ultrafast Na⁺ storage—118 mAh g⁻¹ at 0.1 C, 74% retention over 10,000 cycles at 20 C—extending substitution chemistry beyond bulk transport toward deliberate electrode–electrolyte interaction control.&lt;br&gt;🏷 sodium-ion battery · NFPP cathode · Ni substitution · interfacial dipole · ultrafast sodium storage</description>
-<category>sodium-ion battery</category>
-<category>NFPP cathode</category>
-<category>Ni substitution</category>
-<category>interfacial dipole</category>
-<category>ultrafast sodium storage</category>
-</item>
-<item>
-<title>Near‐Micron Single‐Crystalline Mn‐Rich Cathodes With Exceptional Cycling Stability</title>
-<link>https://doi.org/10.1002/aenm.71701</link>
-<guid isPermaLink="false">10.1002/aenm.71701</guid>
-<pubDate>Thu, 15 Oct 2026 16:01:30 GMT</pubDate>
-<description>کاتدهای تک‌بلوری نزدیک‌میکرونی δ-DRX غنی از Mn با چگالی انرژی ۶۴۰ Wh/kg و حفظ ظرفیت ۹۷٪ پس از ۴۰۰ چرخه ساخته شد و ناهمگنی ترکیبی عامل تشکیل ناخالصی LiMnO2 شناسایی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Near-micron single-crystalline δ-DRX cathodes achieve ~640 Wh/kg with 97% retention over 400 cycles. Novelty: identifying interparticle compositional heterogeneity as the origin of LiMnO₂ impurity, enabling accelerated cooling that suppresses impurities and downsizes particles. Significance: a mechanistic basis for particle-size control in Mn-rich DRX synthesis, advancing sustainable, high-performance, Ni- and Co-free Li-ion cathodes.&lt;br&gt;🏷 Mn-rich cathode · disordered rocksalt · single-crystalline · Li-ion battery · cobalt-free</description>
-<category>Mn-rich cathode</category>
-<category>disordered rocksalt</category>
-<category>single-crystalline</category>
-<category>Li-ion battery</category>
-<category>cobalt-free</category>
-</item>
-<item>
-<title>Anion‐Driven Solvent Degradation Networks in High‐Concentration Battery Electrolytes</title>
-<link>https://doi.org/10.1002/aenm.71634</link>
-<guid isPermaLink="false">10.1002/aenm.71634</guid>
-<pubDate>Thu, 15 Oct 2026 16:01:20 GMT</pubDate>
-<description>شبکه‌های واکنش تخریب حلال القاشده توسط آنیون در الکترولیت‌های پرغلظت باتری با کشف خودکار واکنش و مدل‌سازی میکروسینتیکی بررسی شد و مسیرهای تشکیل LiF و کربنات‌های حلقوی‌باز شناسایی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study maps anion-driven solvent degradation networks in high-concentration electrolytes using automated reaction discovery and microkinetic modeling, revealing how fluoride and fragments from LiFSI/LiTFSI drive solvent decomposition toward LiF and fluoro-organic species. It provides molecular-level rationale for unique SEI chemistries and suggests tuning anion-solvent interactions as a viable strategy for controlling interphase growth.&lt;br&gt;🏷 high-concentration electrolyte · solid electrolyte interphase · anion degradation · microkinetic modeling · LiFSI</description>
-<category>high-concentration electrolyte</category>
-<category>solid electrolyte interphase</category>
-<category>anion degradation</category>
-<category>microkinetic modeling</category>
-<category>LiFSI</category>
 </item>
 </channel>
 </rss>
