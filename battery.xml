@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 14:01:44 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 15:03:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A coordinated control utilizing battery energy storage for low voltage ride-through enhancement and power quality improvement in grid-connected solar PV systems</title>
+<link>https://doi.org/10.1016/j.est.2026.125182</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125182</guid>
+<pubDate>Mon, 19 Oct 2026 15:03:21 GMT</pubDate>
+<description>این مقاله یک کنترل هماهنگ با ذخیره‌سازی انرژی باتری برای بهبود عبور از ولتاژ پایین و کیفیت توان در سیستم‌های فتوولتائیک متصل به شبکه ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery energy storage · low voltage ride-through · power quality · grid-connected PV · coordinated control</description>
+<category>battery energy storage</category>
+<category>low voltage ride-through</category>
+<category>power quality</category>
+<category>grid-connected PV</category>
+<category>coordinated control</category>
+</item>
+<item>
+<title>Techno-economic comparison of lithium-iron phosphate battery and hydrogen energy storage for wind power-based microgrids</title>
+<link>https://doi.org/10.1016/j.est.2026.125177</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125177</guid>
+<pubDate>Mon, 19 Oct 2026 15:03:17 GMT</pubDate>
+<description>این مقاله مقایسه فنی-اقتصادی باتری لیتیوم-آهن-فسفات و ذخیره‌سازی انرژی هیدروژنی را برای ریزشبکه‌های مبتنی بر انرژی بادی انجام می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LFP battery · hydrogen storage · wind microgrid · techno-economic analysis · energy storage comparison</description>
+<category>LFP battery</category>
+<category>hydrogen storage</category>
+<category>wind microgrid</category>
+<category>techno-economic analysis</category>
+<category>energy storage comparison</category>
+</item>
+<item>
+<title>Multi-level optimization of battery energy storage systems for electric vehicle charging applications under uncertainty</title>
+<link>https://doi.org/10.1016/j.est.2026.125183</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125183</guid>
+<pubDate>Mon, 19 Oct 2026 15:03:13 GMT</pubDate>
+<description>این مقاله یک بهینه‌سازی چندسطحی برای سیستم‌های ذخیره‌سازی انرژی باتری در کاربردهای شارژ خودروی برقی تحت عدم‌قطعیت ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery energy storage · EV charging · uncertainty · multi-level optimization · sizing and scheduling</description>
+<category>battery energy storage</category>
+<category>EV charging</category>
+<category>uncertainty</category>
+<category>multi-level optimization</category>
+<category>sizing and scheduling</category>
+</item>
+<item>
+<title>Effects of multi-source excitations on the dynamic behavior of high-speed rotors in a multi-shaft integrally geared compressor for compressed air energy storage (CAES)</title>
+<link>https://doi.org/10.1016/j.est.2026.125243</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125243</guid>
+<pubDate>Mon, 19 Oct 2026 15:03:06 GMT</pubDate>
+<description>اثر تحریک‌های چندمنبعی بر رفتار دینامیکی روتورهای پرسرعت در کمپرسور دنده‌ای چندشفت برای ذخیره‌سازی انرژی هوای فشرده بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · high-speed rotor · integrally geared compressor · multi-source excitation · rotor dynamics</description>
+<category>compressed air energy storage</category>
+<category>high-speed rotor</category>
+<category>integrally geared compressor</category>
+<category>multi-source excitation</category>
+<category>rotor dynamics</category>
+</item>
 <item>
 <title>Honeycomb‐Like N, P‐Codoped Carbon Derived From Waste Poplar Wood as a High‐Performance Air Cathode for Rechargeable Zn‐Air Batteries</title>
 <link>https://doi.org/10.1002/smll.76341</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>oxygen loss</category>
 <category>structural stability</category>
 <category>layered oxide</category>
-</item>
-<item>
-<title>Regulating sodium deposition and interfacial chemistry via sulfur-embedded carbon spheres enables high-power Ah-level sodium-metal batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78242-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-78242-0</guid>
-<pubDate>Thu, 15 Oct 2026 19:04:31 GMT</pubDate>
-<description>با تنظیم رسوب سدیم و شیمی سطح مشترک به‌وسیله کره‌های کربنی حاوی گوگرد، باتری سدیم-فلز با توان بالا در مقیاس آمپرساعت ساخته شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Sulfur-embedded mesoporous hollow carbon spheres guide uniform Na deposition and form NaF-rich interphase via Na2S nanocrystals, stabilizing the interface. Using only 5 wt% sulfur-carbon, the composite anode enables 40 mA cm−2 and 40 mAh cm−2 cycling. Ah-level pouch cells achieve 178 Wh kg−1 and 420 W kg−1, demonstrating a practical route to high-power sodium-metal batteries.&lt;br&gt;🏷 sodium-metal battery · sodium deposition · sulfur-doped carbon · interfacial chemistry · Ah-level cell</description>
-<category>sodium-metal battery</category>
-<category>sodium deposition</category>
-<category>sulfur-doped carbon</category>
-<category>interfacial chemistry</category>
-<category>Ah-level cell</category>
-</item>
-<item>
-<title>Impact of Cathode Scrap on Li Dendrite Formation and Fast-Charging Degradation in Pouch-Type Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.etran.2026.100643</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100643</guid>
-<pubDate>Thu, 15 Oct 2026 19:04:03 GMT</pubDate>
-<description>این مقاله تأثیر ضایعات کاتد را بر تشکیل دندریت لیتیم و تخریب شارژ سریع در باتری‌های لیتیم-یون کیسه‌ای بررسی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · cathode scrap · lithium dendrite · fast charging · pouch cell</description>
-<category>lithium-ion battery</category>
-<category>cathode scrap</category>
-<category>lithium dendrite</category>
-<category>fast charging</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Introducing Piezoelectric ZnO into Polymer Elastomers to Construct High-Performance Solid-State Electrolytes for Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112506</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112506</guid>
-<pubDate>Thu, 15 Oct 2026 19:02:39 GMT</pubDate>
-<description>معرفی ZnO پیزوالکتریک به الاستومر پلیمری، الکترولیت جامد با عملکرد بالا برای باتری‌های لیتیوم-فلز را ارائه می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 solid-state electrolyte · lithium metal battery · ZnO piezoelectric · polymer elastomer · ionic conductivity</description>
-<category>solid-state electrolyte</category>
-<category>lithium metal battery</category>
-<category>ZnO piezoelectric</category>
-<category>polymer elastomer</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Ammonium Ion Intercalation Enabled Stable 1T-VS2/WS2-Nb2CTx Heterostructures during Electrochemical Charge Storage</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01945</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01945</guid>
-<pubDate>Thu, 15 Oct 2026 18:02:53 GMT</pubDate>
-<description>درج یون آمونیوم در هتروساختار VS2/WS2-Nb2CTx، ذخیره‌سازی شارژ پایدار با ظرفیت ۲۱۷.۴۸ میلی‌آمپرساعت بر گرم و ابرخازن نامتقارن با انرژی ۵۴ وات‌ساعت بر کیلوگرم را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in NH4+ intercalation into Nb2CTx MXene coupled with 1T-VS2/WS2 heterostructures, stabilizing electrodes against oxidative failure. Operando Raman and DFT reveal cation dehydration/rehydration and enhanced OH– adsorption. The resulting asymmetric supercapacitor achieves 54 Wh kg–1 with long-term stability, offering a promising strategy for durable, high-energy electrochemical storage.&lt;br&gt;🏷 MXene · VS2/WS2 heterostructure · ammonium intercalation · supercapacitor · energy storage</description>
-<category>MXene</category>
-<category>VS2/WS2 heterostructure</category>
-<category>ammonium intercalation</category>
-<category>supercapacitor</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
