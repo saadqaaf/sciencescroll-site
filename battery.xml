@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 13:04:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 14:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Honeycomb‐Like N, P‐Codoped Carbon Derived From Waste Poplar Wood as a High‐Performance Air Cathode for Rechargeable Zn‐Air Batteries</title>
+<link>https://doi.org/10.1002/smll.76341</link>
+<guid isPermaLink="false">10.1002/smll.76341</guid>
+<pubDate>Mon, 19 Oct 2026 14:01:32 GMT</pubDate>
+<description>کربن مشبک N,P-دوپ‌شده از چوب صنوبر ضایعاتی به‌عنوان کاتد هوا، ORR را بهبود داده و باتری Zn-air با ظرفیت 797.12 mAh g−1 و پایداری 550 ساعت ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting waste poplar wood into honeycomb-like N,P-codoped carbon via KOH-assisted pyrolysis, with asymmetric N─C─P sites that enhance O₂ activation and shift the rate-determining step. Significance: high ORR performance (0.835 V half-wave), ZABs with 797.12 mAh g⁻¹ capacity, 550 h cycling, and robust operation at 40–60°C, offering a sustainable waste-biomass route to value-added electrodes.&lt;br&gt;🏷 Zn-air battery · N,P-codoped carbon · oxygen reduction reaction · waste biomass · honeycomb carbon</description>
+<category>Zn-air battery</category>
+<category>N,P-codoped carbon</category>
+<category>oxygen reduction reaction</category>
+<category>waste biomass</category>
+<category>honeycomb carbon</category>
+</item>
 <item>
 <title>Polymer-agnostic crosslinking enables robust high-temperature dielectrics for energy storage</title>
 <link>https://doi.org/10.1038/s41467-026-78724-1</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>ammonium intercalation</category>
 <category>supercapacitor</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Flash Joule Heating Enabled Defect Healing and Graphite‐CNT Interfacial Fusion for Spent Graphite Upcycling</title>
-<link>https://doi.org/10.1002/adfm.79042</link>
-<guid isPermaLink="false">10.1002/adfm.79042</guid>
-<pubDate>Thu, 15 Oct 2026 18:02:48 GMT</pubDate>
-<description>گرمایش ژول فلش برای ترمیم نقص و همجوشی رابط گرافیت-نانولوله کربنی، گرافیت مستعمل باتری لیتیوم-یون را با کارایی بالا بازیافت می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Flash Joule heating selectively heals defects in spent graphite and fuses CNTs to graphite domains, rebuilding long-range conductive networks. This converts CNTs from passive additives into active reconstruction agents, enabling superior rate capability, cycling stability, and low-temperature performance with minimal energy input—a sustainable, mechanism-driven upcycling pathway for lithium-ion battery recycling.&lt;br&gt;🏷 spent graphite · flash Joule heating · battery recycling · CNT fusion · defect healing</description>
-<category>spent graphite</category>
-<category>flash Joule heating</category>
-<category>battery recycling</category>
-<category>CNT fusion</category>
-<category>defect healing</category>
 </item>
 </channel>
 </rss>
