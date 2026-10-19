@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 19:01:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 20:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transition-metal coordination engineering in photocatalysis: mechanistic principles, material platforms, and future perspectives</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218666</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218666</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:41 GMT</pubDate>
+<description>این مرور، مهندسی کوئوردیناسیون فلزات واسطه در فوتوکاتالیز را با تمرکز بر اصول مکانیستی، سکوهای مواد و چشم‌اندازهای آینده بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 transition-metal coordination · photocatalysis · coordination engineering · mechanistic principles · material platforms</description>
+<category>transition-metal coordination</category>
+<category>photocatalysis</category>
+<category>coordination engineering</category>
+<category>mechanistic principles</category>
+<category>material platforms</category>
+</item>
+<item>
+<title>Alkaline gel polymer electrolytes for aqueous metal-based batteries: From ion transport mechanisms to interfacial and mechanical engineering</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218692</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218692</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:38 GMT</pubDate>
+<description>این مرور، الکترولیت‌های پلیمری ژلی قلیایی برای باتری‌های آبی فلزی را از سازوکار انتقال یون تا مهندسی سطح مشترک و خواص مکانیکی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 gel polymer electrolyte · aqueous batteries · ion transport · interface engineering · mechanical properties</description>
+<category>gel polymer electrolyte</category>
+<category>aqueous batteries</category>
+<category>ion transport</category>
+<category>interface engineering</category>
+<category>mechanical properties</category>
+</item>
+<item>
+<title>MBenes beyond MXenes: the next frontier of 2D boride materials for multivalent ion energy storage devices</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218669</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218669</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:30 GMT</pubDate>
+<description>این مرور، MBenes به‌عنوان نسل جدید مواد دوبعدی بوریدی فراتر از MXenes را برای دستگاه‌های ذخیره‌سازی انرژی یون چندظرفیتی بررسی می‌کند و چشم‌اندازهای آن را ترسیم می‌نماید.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 MBenes · 2D borides · multivalent ion batteries · MXenes · energy storage</description>
+<category>MBenes</category>
+<category>2D borides</category>
+<category>multivalent ion batteries</category>
+<category>MXenes</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Towards understanding and monitorability of reasoning LLMs</title>
+<link>https://doi.org/10.1038/s42256-026-01333-6</link>
+<guid isPermaLink="false">10.1038/s42256-026-01333-6</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:21 GMT</pubDate>
+<description>این مقاله به بررسی قابلیت پایش و درک استدلال در مدل‌های زبانی بزرگ می‌پردازد و چارچوبی برای ارزیابی شفافیت فرآیند استدلال آن‌ها ارائه می‌کند.&lt;br&gt;Nature Machine Intelligence | 💭 Perspective&lt;br&gt;🏷 reasoning LLMs · monitorability · chain-of-thought · interpretability · AI safety</description>
+<category>reasoning LLMs</category>
+<category>monitorability</category>
+<category>chain-of-thought</category>
+<category>interpretability</category>
+<category>AI safety</category>
+</item>
+<item>
+<title>Reusability report: multi-sample omics network inference operates in distinct robustness regimes defined by prior knowledge and data availability</title>
+<link>https://doi.org/10.1038/s42256-026-01311-y</link>
+<guid isPermaLink="false">10.1038/s42256-026-01311-y</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:06 GMT</pubDate>
+<description>این مقاله چارچوب CORNETO را برای استنتاج شبکه‌های تنظیمی چندنمونه‌ای ارزیابی و با افزودن bootstrap aggregation و بازگسترش انتخابی، پایداری و بازیابی ساختارهای مشترک و زمینه‌ای را بهبود می‌دهد.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 network inference · multi-sample omics · robustness · bootstrap aggregation · regulatory networks</description>
+<category>network inference</category>
+<category>multi-sample omics</category>
+<category>robustness</category>
+<category>bootstrap aggregation</category>
+<category>regulatory networks</category>
+</item>
 <item>
 <title>Closed Pores as Internal Stress‐Regulation Units for Practical Silicon–Carbon Anodes</title>
 <link>https://doi.org/10.1002/adma.75427</link>
@@ -1150,66 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 Fermi resonance · tip-en
 <category>enantiomer recognition</category>
 <category>gold superlattice</category>
 <category>kynurenine</category>
-</item>
-<item>
-<title>Modulation of 9,12‐Substituted o ‐Carboranes Toward Anti‐Kasha Triple‐Fluorescence</title>
-<link>https://doi.org/10.1002/anie.8759848</link>
-<guid isPermaLink="false">10.1002/anie.8759848</guid>
-<pubDate>Mon, 19 Oct 2026 13:02:10 GMT</pubDate>
-<description>سنتز کاربوران‌های o-کاربوران استخلاف‌شده با پیرن و دستیابی به فلورسانس سه‌گانه از طریق حالت انتقال بار و انتشار NIR تا 1200 نانومتر.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 o-carborane · triple fluorescence · pyrene · charge transfer · NIR-II imaging</description>
-<category>o-carborane</category>
-<category>triple fluorescence</category>
-<category>pyrene</category>
-<category>charge transfer</category>
-<category>NIR-II imaging</category>
-</item>
-<item>
-<title>Evidence for spin-fluctuation-mediated superconductivity in electron-doped cuprates</title>
-<link>https://doi.org/10.1038/s41567-026-03454-6</link>
-<guid isPermaLink="false">10.1038/s41567-026-03454-6</guid>
-<pubDate>Mon, 19 Oct 2026 12:02:31 GMT</pubDate>
-<description>این مقاله با اندازه‌گیری نرخ پراکندگی در La2−xCexCuO4 نشان می‌دهد نوسانات اسپینی کم‌انرژی عامل اصلی جفت‌شدگی در کوپرات‌های الکترون‌دوپ هستند.&lt;br&gt;Nature Physics | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cuprate superconductors · spin fluctuations · electron-doped · pairing mechanism · magnetotransport</description>
-<category>cuprate superconductors</category>
-<category>spin fluctuations</category>
-<category>electron-doped</category>
-<category>pairing mechanism</category>
-<category>magnetotransport</category>
-</item>
-<item>
-<title>A liquid-crystal analogue of the skyrmion Hall effect</title>
-<link>https://doi.org/10.1038/s41567-026-03379-0</link>
-<guid isPermaLink="false">10.1038/s41567-026-03379-0</guid>
-<pubDate>Mon, 19 Oct 2026 12:02:28 GMT</pubDate>
-<description>این مقاله یک آنالوگ بلور مایع از اثر هال اسکیرمیون را گزارش می‌کند و نشان می‌دهد اسکیرمیون‌ها در بلور مایع رفتاری مشابه سیستم‌های مغناطیسی دارند.&lt;br&gt;Nature Physics | 🔬 Research Article&lt;br&gt;🏷 skyrmion Hall effect · liquid crystal · topological defects · soft matter · analogue system</description>
-<category>skyrmion Hall effect</category>
-<category>liquid crystal</category>
-<category>topological defects</category>
-<category>soft matter</category>
-<category>analogue system</category>
-</item>
-<item>
-<title>Paving the Way for Next‐Generation Solid‐State Waste Heat Recovery: A Thermomagnetic Materials and Systems Roadmap</title>
-<link>https://doi.org/10.1002/adfm.78789</link>
-<guid isPermaLink="false">10.1002/adfm.78789</guid>
-<pubDate>Mon, 19 Oct 2026 12:02:25 GMT</pubDate>
-<description>این مقاله چشم‌اندازهایی برای تبدیل ترمو‌مغناطیسی به‌عنوان راهکاری برای بازیابی گرمای اتلافی کم‌دما ارائه و نقشه‌راه توسعه مواد و طراحی سیستم را پیشنهاد می‌کند.&lt;br&gt;Advanced Functional Materials | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 thermomagnetic energy conversion · waste heat recovery · thermomagnetic materials · system design · roadmap</description>
-<category>thermomagnetic energy conversion</category>
-<category>waste heat recovery</category>
-<category>thermomagnetic materials</category>
-<category>system design</category>
-<category>roadmap</category>
-</item>
-<item>
-<title>Bio‐Derived Polyurethane Ionoelastomers With Hierarchical Dynamic Networks for Ultrawide‐Range Iontronic Pressure Sensing</title>
-<link>https://doi.org/10.1002/adfm.79135</link>
-<guid isPermaLink="false">10.1002/adfm.79135</guid>
-<pubDate>Mon, 19 Oct 2026 12:02:22 GMT</pubDate>
-<description>ایونوالاستومر پلی‌یورتان زیست‌مشتق با شبکه‌های دینامیکی دوگانه، خودترمیمی 90.62% و حسگر خازنی با حساسیت 3339.21% kPa−1 در بازه تا 1 MPa ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 polyurethane ionoelastomer · iontronic pressure sensor · self-healing · dynamic networks · wearable sensing</description>
-<category>polyurethane ionoelastomer</category>
-<category>iontronic pressure sensor</category>
-<category>self-healing</category>
-<category>dynamic networks</category>
-<category>wearable sensing</category>
 </item>
 </channel>
 </rss>

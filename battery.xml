@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 19:01:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 20:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Alkaline gel polymer electrolytes for aqueous metal-based batteries: From ion transport mechanisms to interfacial and mechanical engineering</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218692</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218692</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:38 GMT</pubDate>
+<description>این مرور، الکترولیت‌های پلیمری ژلی قلیایی برای باتری‌های آبی فلزی را از سازوکار انتقال یون تا مهندسی سطح مشترک و خواص مکانیکی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 gel polymer electrolyte · aqueous batteries · ion transport · interface engineering · mechanical properties</description>
+<category>gel polymer electrolyte</category>
+<category>aqueous batteries</category>
+<category>ion transport</category>
+<category>interface engineering</category>
+<category>mechanical properties</category>
+</item>
+<item>
+<title>MBenes beyond MXenes: the next frontier of 2D boride materials for multivalent ion energy storage devices</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218669</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218669</guid>
+<pubDate>Mon, 19 Oct 2026 20:01:30 GMT</pubDate>
+<description>این مرور، MBenes به‌عنوان نسل جدید مواد دوبعدی بوریدی فراتر از MXenes را برای دستگاه‌های ذخیره‌سازی انرژی یون چندظرفیتی بررسی می‌کند و چشم‌اندازهای آن را ترسیم می‌نماید.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 MBenes · 2D borides · multivalent ion batteries · MXenes · energy storage</description>
+<category>MBenes</category>
+<category>2D borides</category>
+<category>multivalent ion batteries</category>
+<category>MXenes</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>Closed Pores as Internal Stress‐Regulation Units for Practical Silicon–Carbon Anodes</title>
 <link>https://doi.org/10.1002/adma.75427</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>graphite confinement</category>
 <category>Li-ion battery</category>
 <category>molten fluorination</category>
-</item>
-<item>
-<title>Interfacial engineering of rice straw/sodium lignosulfonate-based lamellar carbon materials for high-performance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125176</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125176</guid>
-<pubDate>Thu, 15 Oct 2026 21:01:42 GMT</pubDate>
-<description>این مطالعه با مهندسی بین‌سطحی مواد کربنی لایه‌ای بر پایه کاه برنج و لیگنوسولفونات سدیم، ابرخازنی با عملکرد بالا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor · rice straw · sodium lignosulfonate · lamellar carbon · interfacial engineering</description>
-<category>supercapacitor</category>
-<category>rice straw</category>
-<category>sodium lignosulfonate</category>
-<category>lamellar carbon</category>
-<category>interfacial engineering</category>
-</item>
-<item>
-<title>Progress and Perspectives on Confinement Engineering to Revive Alloying‐Type Anode Materials for Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76046</link>
-<guid isPermaLink="false">10.1002/smll.76046</guid>
-<pubDate>Thu, 15 Oct 2026 20:02:20 GMT</pubDate>
-<description>این مرور مهندسی محدودیت را به دو دسته خودمحدود و خارجی طبقه‌بندی می‌کند و نقش آن در کاهش انبساط حجمی، تثبیت SEI و بهبود سینتیک آندهای آلیاژی باتری‌های سدیم-یون را روشن می‌سازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely categorizes confinement engineering for alloying-type sodium-ion battery anodes into self-confinement and extrinsic confinement, clarifying micro/nano-scale structure-regulation mechanisms. It emphasizes confinement&amp;#x27;s role in mitigating volume expansion, stabilizing SEI films, and enhancing kinetics, offering systematic mechanistic insight and design guidance to accelerate commercialization of high-energy, long-cycle-life SIBs.&lt;br&gt;🏷 sodium-ion batteries · alloying-type anodes · confinement engineering · volume expansion · SEI stabilization</description>
-<category>sodium-ion batteries</category>
-<category>alloying-type anodes</category>
-<category>confinement engineering</category>
-<category>volume expansion</category>
-<category>SEI stabilization</category>
 </item>
 </channel>
 </rss>
