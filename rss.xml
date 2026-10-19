@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 23:01:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 00:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Emerging non-antibiotic strategies for combating intracellular pathogens</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103530</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103530</guid>
+<pubDate>Mon, 19 Oct 2026 00:01:09 GMT</pubDate>
+<description>این مقاله مروری راهبردهای غیرآنتی‌بیوتیکی نوظهور برای مقابله با پاتوژن‌های داخل‌سلولی را بررسی می‌کند و بر غلبه بر مقاومت ضدمیکروبی و محدودیت‌های دارورسانی تأکید دارد.&lt;br&gt;Materials Today | ⭐ Review&lt;br&gt;🏷 intracellular pathogens · non-antibiotic strategies · drug delivery · host-directed therapy · antimicrobial resistance</description>
+<category>intracellular pathogens</category>
+<category>non-antibiotic strategies</category>
+<category>drug delivery</category>
+<category>host-directed therapy</category>
+<category>antimicrobial resistance</category>
+</item>
 <item>
 <title>A Micropeptide Component of the OGDH Complex Modulates ATP Production in the TCA Cycle</title>
 <link>https://doi.org/10.1002/advs.77242</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 covalent organic framewor
 <category>flipping engineering</category>
 <category>machine-learned potential</category>
 <category>phonon transport</category>
-</item>
-<item>
-<title>Experimental Design Signatures Emerge from Topic Modeling of Graphene Oxide Literature</title>
-<link>https://doi.org/10.1021/acsnano.6c04548</link>
-<guid isPermaLink="false">10.1021/acsnano.6c04548</guid>
-<pubDate>Sat, 17 Oct 2026 21:01:59 GMT</pubDate>
-<description>با مدل‌سازی موضوعی و LLM روی بیش از ۱۲۰ هزار مقاله graphene oxide، نقشه دانش و چارچوب استخراج پارامتر و توصیه‌گر طراحی آزمایش ساخته شد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene oxide · topic modeling · natural language processing · large language models · literature mining</description>
-<category>graphene oxide</category>
-<category>topic modeling</category>
-<category>natural language processing</category>
-<category>large language models</category>
-<category>literature mining</category>
 </item>
 </channel>
 </rss>
