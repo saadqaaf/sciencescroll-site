@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 07:01:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 08:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Triboelectric E-Skin Patch Decoding Silent Speech for Advanced Human–Machine Interaction and Augmented Virtual Communication</title>
+<link>https://doi.org/10.1007/s40820-026-02346-x</link>
+<guid isPermaLink="false">10.1007/s40820-026-02346-x</guid>
+<pubDate>Mon, 19 Oct 2026 08:01:50 GMT</pubDate>
+<description>یک وصله E-skin تریبوالکتریک خودتأمین همراه با شبکه عصبی کانولوشنی، گفتار بی‌صدا را با دقت ۹۸.۷۵٪ رمزگشایی کرده و ارتباط بدون مانع و تعامل انسان-ماشین و واقعیت مجازی را ممکن می‌سازد.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 triboelectric E-skin · silent speech decoding · convolutional neural network · human-machine interaction · virtual reality</description>
+<category>triboelectric E-skin</category>
+<category>silent speech decoding</category>
+<category>convolutional neural network</category>
+<category>human-machine interaction</category>
+<category>virtual reality</category>
+</item>
 <item>
 <title>Preparation of Green Phosphorus-Doped SPAN Composites Coupled with Bimetallic Sulfides for Wide-Temperature-Range and High-Rate Sodium-Ion Storage</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122229</link>
@@ -1194,18 +1206,6 @@
 <category>MgO nanoparticles</category>
 <category>nanocomposite patch</category>
 <category>transdermal patch</category>
-</item>
-<item>
-<title>Interfacial fracture energy as the missing descriptor in solid-state batteries: coordination-chemistry origins of manufacturing-induced mechanical memory and pressure-lean cycling</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218681</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218681</guid>
-<pubDate>Sun, 18 Oct 2026 04:01:07 GMT</pubDate>
-<description>این مقاله انرژی شکست بین‌سطحی را به‌عنوان توصیفگر کلیدی باتری‌های حالت جامد معرفی کرده و ریشه‌های شیمی‌کوئوردیناسیونی حافظه مکانیکی ساخت و چرخه‌های کم‌فشار را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | 💭 Perspective&lt;br&gt;🏷 solid-state battery · interfacial fracture energy · mechanical memory · coordination chemistry · pressure-lean cycling</description>
-<category>solid-state battery</category>
-<category>interfacial fracture energy</category>
-<category>mechanical memory</category>
-<category>coordination chemistry</category>
-<category>pressure-lean cycling</category>
 </item>
 </channel>
 </rss>
