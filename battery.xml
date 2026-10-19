@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 20:01:44 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 21:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Surface oxyfluoride conversion enables durable and fast sodium storage in micron-sized bismuth anodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105601</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105601</guid>
+<pubDate>Mon, 19 Oct 2026 21:01:17 GMT</pubDate>
+<description>تبدیل سطحی اکسی‌فلوراید، ذخیره‌سازی سریع و پایدار سدیم را در آندهای بیسموت میکرونی ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · bismuth anode · oxyfluoride conversion · micron-sized particles · surface engineering</description>
+<category>sodium-ion battery</category>
+<category>bismuth anode</category>
+<category>oxyfluoride conversion</category>
+<category>micron-sized particles</category>
+<category>surface engineering</category>
+</item>
 <item>
 <title>Alkaline gel polymer electrolytes for aqueous metal-based batteries: From ion transport mechanisms to interfacial and mechanical engineering</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218692</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study uniquely combi
 <category>oxygen redox</category>
 <category>layered oxide</category>
 <category>voltage decay</category>
-</item>
-<item>
-<title>Molten-Perfusion-Fluorination Strategy To Enable Graphite Layer Confined Pyrochlore-Phase Iron Hydroxy Fluoride as Sustainable Conversion-Type Cathode</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03365</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03365</guid>
-<pubDate>Thu, 15 Oct 2026 22:01:15 GMT</pubDate>
-<description>این پژوهش با استراتژی مذاب-فلوریناسیون، فاز پیروکلر آهن هیدروکسی فلوراید را در لایه‌های گرافیت جای می‌دهد و کاتدی پایدار با ظرفیت ۲۵۵ mAh g⁻¹ پس از ۱۵۰ چرخه ارائه می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molten-perfusion-fluorination strategy confining pyrochlore-phase iron hydroxy fluoride within graphite layers via Fe–C bonds. This design creates a 3D open framework with abundant reactive sites and hydroxy anion substitution that softens conversion reactions. It enables sustainable, high-capacity cathodes (255 mAh g⁻¹ after 150 cycles) and offers new graphite exfoliation and confinement perspectives.&lt;br&gt;🏷 iron hydroxy fluoride · conversion cathode · graphite confinement · Li-ion battery · molten fluorination</description>
-<category>iron hydroxy fluoride</category>
-<category>conversion cathode</category>
-<category>graphite confinement</category>
-<category>Li-ion battery</category>
-<category>molten fluorination</category>
 </item>
 </channel>
 </rss>
