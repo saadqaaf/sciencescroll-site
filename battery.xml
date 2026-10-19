@@ -5,8 +5,21 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 22:02:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 23:07:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Symmetry-Broken Coordination of Single-Atom Catalysts Unlocks Spin- and Orbital-Regulated Sulfur Redox in Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c17922</link>
+<guid isPermaLink="false">10.1021/jacs.6c17922</guid>
+<pubDate>Mon, 19 Oct 2026 23:06:09 GMT</pubDate>
+<description>کاتالیزور تک‌اتمی کبالت با هم‌آرایی نامتقارن Cl–Co–N3 از طریق تنظیم اسپین و اوربیتال، تبدیل پلی‌سولفیدها را در باتری لیتیوم-گوگرد تسریع می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creating asymmetric Cl–Co–N3 single-atom catalysts that induce a low-to-high spin transition in Co(II), tuning dz2–π* hybridization and d-band occupancy to accelerate polysulfide conversion. This spin/orbital engineering strategy significantly boosts sulfur redox kinetics, enabling lithium–sulfur batteries with exceptional cycling stability (0.023% fade per cycle), offering a general design principle for advanced catalysts.&lt;br&gt;🏷 lithium-sulfur battery · single-atom catalyst · spin state · polysulfide conversion · coordination engineering</description>
+<category>lithium-sulfur battery</category>
+<category>single-atom catalyst</category>
+<category>spin state</category>
+<category>polysulfide conversion</category>
+<category>coordination engineering</category>
+</item>
 <item>
 <title>Electrolyte-Derived Chemical Activation Enables Reversible Cathode Chemistry in Magnesium Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02629</link>
@@ -1195,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>alginate ionic network</category>
 <category>hydrogen bonding</category>
 <category>recycling</category>
-</item>
-<item>
-<title>P2/O3 Biphasic Layered Oxide Cathodes Induced by Dual-Site Doping for Durable Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta06942h</link>
-<guid isPermaLink="false">10.1039/d6ta06942h</guid>
-<pubDate>Fri, 16 Oct 2026 09:01:33 GMT</pubDate>
-<description>دوپینگ دوگانه‌موقعیت در کاتدهای اکسید لایه‌ای، ساختار دوفازی P2/O3 را القا کرده و پایداری ساختاری و عملکرد باتری‌های سدیم-یونی را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Dual-site doping stabilizes a P2/O3 biphasic layered oxide cathode, suppressing irreversible phase transitions and interfacial degradation. This design enables durable sodium-ion batteries, offering a promising strategy to overcome cycling instability and advance practical layered cathode applications.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · P2/O3 biphasic · dual-site doping · cycling stability</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>P2/O3 biphasic</category>
-<category>dual-site doping</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
