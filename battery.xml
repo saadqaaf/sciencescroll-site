@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 23:07:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 00:02:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Biomass-derived carbon nanoparticles for high-rate sodium storage</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122231</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122231</guid>
+<pubDate>Tue, 20 Oct 2026 00:02:08 GMT</pubDate>
+<description>نانوذرات کربنی مشتق از زیست‌توده برای آند باتری سدیم با قابلیت نرخ بالا توسعه یافته‌اند.&lt;br&gt;Carbon | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 biomass carbon · sodium storage · carbon nanoparticles · high-rate · anode</description>
+<category>biomass carbon</category>
+<category>sodium storage</category>
+<category>carbon nanoparticles</category>
+<category>high-rate</category>
+<category>anode</category>
+</item>
+<item>
+<title>Flash-Etched Waste Textiles Derived Hard Carbon with Tailored Defect Chemistry and Expanded Nanodomains for Enhanced Sodium Storage</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122236</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122236</guid>
+<pubDate>Tue, 20 Oct 2026 00:01:58 GMT</pubDate>
+<description>کربن سخت مشتق از منسوجات ضایعاتی با اچ فلش و شیمی نقص تنظیم‌شده و نانودومین‌های گسترده، ذخیره‌سازی سدیم را بهبود می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium storage · waste textiles · flash etching · defect chemistry</description>
+<category>hard carbon</category>
+<category>sodium storage</category>
+<category>waste textiles</category>
+<category>flash etching</category>
+<category>defect chemistry</category>
+</item>
+<item>
+<title>Synergistic self-activated capacity reversal and light-driven ultrahigh-rate sodium storage in Sb2S3/WS2 heterostructures for advanced sodium-ion anode</title>
+<link>https://doi.org/10.1016/j.jmst.2026.09.089</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.09.089</guid>
+<pubDate>Tue, 20 Oct 2026 00:01:23 GMT</pubDate>
+<description>این مقاله هتروساختار Sb2S3/WS2 را به‌عنوان آند باتری سدیم-یون معرفی می‌کند که ظرفیت خودفعال‌شونده معکوس و ذخیره‌سازی سدیم فوق‌سریع نوری را نشان می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Sb2S3/WS2 heterostructure · anode · light-driven · capacity reversal</description>
+<category>sodium-ion battery</category>
+<category>Sb2S3/WS2 heterostructure</category>
+<category>anode</category>
+<category>light-driven</category>
+<category>capacity reversal</category>
+</item>
 <item>
 <title>Symmetry-Broken Coordination of Single-Atom Catalysts Unlocks Spin- and Orbital-Regulated Sulfur Redox in Lithium–Sulfur Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c17922</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>solar energy storage</category>
 <category>dark photocatalysis</category>
 <category>rhenium functionalization</category>
-</item>
-<item>
-<title>Negative‐Thermal‐Expansion Strategy Enables Hard Carbon With Tuned Heat/Strain Tolerances for Sodium Storage</title>
-<link>https://doi.org/10.1002/adma.75284</link>
-<guid isPermaLink="false">10.1002/adma.75284</guid>
-<pubDate>Fri, 16 Oct 2026 11:01:27 GMT</pubDate>
-<description>افزودن ZrW2O8 با انبساط حرارتی منفی به آند کربن سخت، تنش حرارتی/مکانیکی را کاهش داده و ظرفیت و پایداری باتری سدیم-یون را در دماهای گسترده بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using negative thermal expansion ZrW₂O₈ in hard carbon anodes to enable in situ thermal strain relief, internally managing heat and stress from Na⁺ intercalation. This significantly reduces heat/strain, enhances diffusion kinetics and sodium storage, and ensures stable cycling from −20°C to 60°C. It offers a new internal management strategy complementing external battery equipment.&lt;br&gt;🏷 sodium-ion battery · hard carbon · negative thermal expansion · ZrW2O8 · thermal strain relief</description>
-<category>sodium-ion battery</category>
-<category>hard carbon</category>
-<category>negative thermal expansion</category>
-<category>ZrW2O8</category>
-<category>thermal strain relief</category>
-</item>
-<item>
-<title>Lewis Acid-Base Regulated Novel Eutectic Electrolyte of 1,4-Butane Sultone and LiTFSI Enables High-Voltage Lithium Metal Batteries via F/S-Rich Interphases</title>
-<link>https://doi.org/10.1039/d6ta05374b</link>
-<guid isPermaLink="false">10.1039/d6ta05374b</guid>
-<pubDate>Fri, 16 Oct 2026 09:01:46 GMT</pubDate>
-<description>الکترولیت اوتکتیک جدید بر پایه 1,4-butane sultone و LiTFSI با تنظیم اسید-باز لوویس، باتری‌های لیتیوم-فلزی ولتاژ بالا را از طریق لایه‌های میانی غنی از F/S پایدار می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work introduces a novel deep eutectic electrolyte from 1,4-butane sultone and LiTFSI, regulated by Lewis acid-base interactions. Its significance lies in enabling high-voltage lithium metal batteries through the formation of fluorine- and sulfur-rich interphases, which suppress oxidative decomposition and extend cycling life.&lt;br&gt;🏷 lithium metal battery · eutectic electrolyte · 1,4-butane sultone · LiTFSI · F/S-rich interphase</description>
-<category>lithium metal battery</category>
-<category>eutectic electrolyte</category>
-<category>1,4-butane sultone</category>
-<category>LiTFSI</category>
-<category>F/S-rich interphase</category>
-</item>
-<item>
-<title>Ultrathin layered alginate ionic network promoted by dynamic hydrogen bond for efficient cobalt recovery from spent lithium-ion batteries</title>
-<link>https://doi.org/10.1039/d6ta05298c</link>
-<guid isPermaLink="false">10.1039/d6ta05298c</guid>
-<pubDate>Fri, 16 Oct 2026 09:01:39 GMT</pubDate>
-<description>شبکه یونی فوق‌نازک آلژینات با پیوند هیدروژنی دینامیک، بازیابی کارآمد کبالت از باتری‌های لیتیوم-یونی مستعمل را به‌صورت سازگار با محیط زیست ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ultrathin layered alginate ionic network enabled by dynamic hydrogen bonds for cobalt recovery. Its significance is providing an eco-friendly, efficient adsorbent that addresses resource scarcity and pollution from spent lithium-ion batteries, offering a sustainable alternative for critical metal recycling.&lt;br&gt;🏷 cobalt recovery · spent lithium-ion batteries · alginate ionic network · hydrogen bonding · recycling</description>
-<category>cobalt recovery</category>
-<category>spent lithium-ion batteries</category>
-<category>alginate ionic network</category>
-<category>hydrogen bonding</category>
-<category>recycling</category>
 </item>
 </channel>
 </rss>
