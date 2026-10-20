@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 09:03:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 10:02:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Enhanced energy density and transmittance in Eu-doped PbZrO3 films for transparent energy storage</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.021</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.021</guid>
+<pubDate>Tue, 20 Oct 2026 10:01:25 GMT</pubDate>
+<description>فیلم‌های PbZrO3 آلایش‌شده با Eu برای ذخیره‌سازی انرژی شفاف ساخته شد و چگالی انرژی و شفافیت آن‌ها بهبود یافت.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PbZrO3 films · Eu doping · transparent energy storage · energy density · transmittance</description>
+<category>PbZrO3 films</category>
+<category>Eu doping</category>
+<category>transparent energy storage</category>
+<category>energy density</category>
+<category>transmittance</category>
+</item>
 <item>
 <title>Aluminum phosphate functionalization of graphite promoting interfacial lithium ion desolvation</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.005</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>zinc-air battery</category>
 <category>supercritical CO2</category>
 <category>oxygen reduction</category>
-</item>
-<item>
-<title>Research on technological evolution and lock-in of all-solid-state lithium batteries from a path perspective</title>
-<link>https://doi.org/10.1016/j.est.2026.125094</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125094</guid>
-<pubDate>Fri, 16 Oct 2026 17:01:55 GMT</pubDate>
-<description>این مقاله به بررسی تکامل فناوری و قفل‌شدگی باتری‌های لیتیومی تمام‌حالت‌جامد از منظر مسیر فناورانه می‌پردازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 all-solid-state batteries · lithium batteries · technological evolution · lock-in · path perspective</description>
-<category>all-solid-state batteries</category>
-<category>lithium batteries</category>
-<category>technological evolution</category>
-<category>lock-in</category>
-<category>path perspective</category>
 </item>
 </channel>
 </rss>
