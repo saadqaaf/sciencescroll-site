@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 20:01:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:02:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Optimized leaching technologies for recycling and regeneration of spent lithium−ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.124951</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124951</guid>
+<pubDate>Tue, 20 Oct 2026 21:02:25 GMT</pubDate>
+<description>فناوری‌های بهینه‌شده لیچینگ برای بازیافت و بازتولید باتری‌های لیتیوم-یونی مستعمل مرور و ارزیابی می‌شوند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 spent lithium-ion battery · battery recycling · leaching · regeneration · cathode recovery</description>
+<category>spent lithium-ion battery</category>
+<category>battery recycling</category>
+<category>leaching</category>
+<category>regeneration</category>
+<category>cathode recovery</category>
+</item>
+<item>
+<title>Convolutional neural network-assisted stepwise parameter identification for the electrochemical model of liquid metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125228</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125228</guid>
+<pubDate>Tue, 20 Oct 2026 21:02:02 GMT</pubDate>
+<description>یک روش شناسایی پارامتر مرحله‌ای مبتنی بر شبکه عصبی کانولوشنی برای مدل الکتروشیمیایی باتری‌های فلز مایع توسعه داده می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 liquid metal battery · electrochemical model · parameter identification · convolutional neural network · stepwise estimation</description>
+<category>liquid metal battery</category>
+<category>electrochemical model</category>
+<category>parameter identification</category>
+<category>convolutional neural network</category>
+<category>stepwise estimation</category>
+</item>
 <item>
 <title>Co-doping at dual sites inducing Ni-Rich high-entropy layered oxide cathodes for high-voltage K/Na-ion storage</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.006</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>machine learning</category>
 <category>silicon anode</category>
 <category>lithiation state</category>
-</item>
-<item>
-<title>Balanced local ion association enables dual-interface stabilization in lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.jmst.2026.09.087</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.09.087</guid>
-<pubDate>Sat, 17 Oct 2026 12:01:25 GMT</pubDate>
-<description>هم‌آمیزی یونی موضعی متعادل، پایداری دوگانه رابط‌ها را در باتری‌های فلز لیتیوم ممکن می‌سازد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · local ion association · dual-interface stabilization · electrolyte design · ion solvation</description>
-<category>lithium metal battery</category>
-<category>local ion association</category>
-<category>dual-interface stabilization</category>
-<category>electrolyte design</category>
-<category>ion solvation</category>
-</item>
-<item>
-<title>Interface challenges and modification strategies of lithium-rich manganese-based cathodes in solid-state batteries</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.011</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.011</guid>
-<pubDate>Sat, 17 Oct 2026 12:01:11 GMT</pubDate>
-<description>چالش‌های بین‌سطحی و راهبردهای اصلاح کاتدهای غنی از لیتیوم بر پایه منگنز در باتری‌های حالت جامد مرور می‌شود.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | ⭐ Review&lt;br&gt;🏷 lithium-rich cathode · solid-state battery · interface modification · manganese-based cathode · cathode-electrolyte interface</description>
-<category>lithium-rich cathode</category>
-<category>solid-state battery</category>
-<category>interface modification</category>
-<category>manganese-based cathode</category>
-<category>cathode-electrolyte interface</category>
 </item>
 </channel>
 </rss>
