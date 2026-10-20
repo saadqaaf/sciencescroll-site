@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 18:01:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:04:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Co-doping at dual sites inducing Ni-Rich high-entropy layered oxide cathodes for high-voltage K/Na-ion storage</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.006</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.006</guid>
+<pubDate>Tue, 20 Oct 2026 19:03:53 GMT</pubDate>
+<description>این مقاله با هم‌دوپینگ در دو جایگاه، کاتدهای اکسید لایه‌ای غنی از Ni با آنتروپی بالا را برای ذخیره‌سازی ولتاژ بالای یون K/Na طراحی می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 high-entropy oxide · Ni-rich cathode · co-doping · potassium-ion battery · sodium-ion battery</description>
+<category>high-entropy oxide</category>
+<category>Ni-rich cathode</category>
+<category>co-doping</category>
+<category>potassium-ion battery</category>
+<category>sodium-ion battery</category>
+</item>
+<item>
+<title>Synergistic dual-ion chelation regulates solvation chemistry and gradient hybrid solid electrolyte interphase for highly reversible zinc metal anodes</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.088</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.088</guid>
+<pubDate>Tue, 20 Oct 2026 19:03:44 GMT</pubDate>
+<description>این مقاله با کلاته‌سازی دو-یونی هم‌افزا، شیمی حل‌پوشی و تشکیل SEI هیبریدی گرادیانی را تنظیم می‌کند تا آندهای فلزی روی بسیار برگشت‌پذیر شوند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 zinc metal anode · dual-ion chelation · solvation chemistry · solid electrolyte interphase · aqueous zinc battery</description>
+<category>zinc metal anode</category>
+<category>dual-ion chelation</category>
+<category>solvation chemistry</category>
+<category>solid electrolyte interphase</category>
+<category>aqueous zinc battery</category>
+</item>
+<item>
+<title>Bridging Ionic Field Strength Disparity in O3-Type Layered Oxides for High-Voltage Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c11691</link>
+<guid isPermaLink="false">10.1021/jacs.6c11691</guid>
+<pubDate>Tue, 20 Oct 2026 19:02:59 GMT</pubDate>
+<description>تعریف ضریب ناهمگنی قدرت میدان یونی و افزودن کاتیون جبران‌کننده، کرنش شبکه و واپاشی ساختاری کاتدهای لایه‌ای O3 در باتری سدیم-یون ولتاژ بالا را کاهش داده و پایداری چرخه را بهبود می‌دهد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty is defining an ionic field strength disparity coefficient (η) to quantify local chemical-field heterogeneity and guide compensatory cation doping. This lowers η, reducing lattice strain and enhancing structural reversibility. Significance: the low-η cathode retains over 80% capacity after 500 cycles at 10C versus 22% for the unmodified counterpart, offering a quantitative descriptor for dopant selection and a general strategy for stable high-voltage sodium-ion cathodes.&lt;br&gt;🏷 O3-type layered oxide · sodium-ion battery · cathode · ionic field strength · structural stability</description>
+<category>O3-type layered oxide</category>
+<category>sodium-ion battery</category>
+<category>cathode</category>
+<category>ionic field strength</category>
+<category>structural stability</category>
+</item>
+<item>
+<title>Physically Grounded Descriptors for Machine-Learning-Guided Diluent Design in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c16379</link>
+<guid isPermaLink="false">10.1021/jacs.6c16379</guid>
+<pubDate>Tue, 20 Oct 2026 19:02:40 GMT</pubDate>
+<description>با توصیف‌گرهای فیزیکی و یادگیری ماشین، رقیق‌کننده‌های غیرفلوئوره برای الکترولیت باتری لیتیوم-فلز طراحی شد که چرخه پایدار بیش از ۲۰۰ دوره داد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using BF3 affinity and molecular polarity index as computable descriptors to decouple specific Li+ coordination from nonspecific miscibility, enabling fluorination-free diluent design. Significance: screening 1.32 million nonfluorinated molecules identified 368 candidates; validated aromatic hydrocarbons sustained &amp;gt;200 stable cycles, establishing predictive design coordinates for lithium metal battery electrolytes.&lt;br&gt;🏷 lithium metal battery · diluent design · machine learning · electrolyte · descriptors</description>
+<category>lithium metal battery</category>
+<category>diluent design</category>
+<category>machine learning</category>
+<category>electrolyte</category>
+<category>descriptors</category>
+</item>
+<item>
+<title>Covalency-driven amorphization in dual-anion-doped Li-Zr-Cl electrolytes enables long-life all-solid-state batteries</title>
+<link>https://doi.org/10.1016/j.matt.2026.103062</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.103062</guid>
+<pubDate>Tue, 20 Oct 2026 19:01:32 GMT</pubDate>
+<description>دوپینگ دوگانه آنیونی در الکترولیت Li-Zr-Cl با ایجاد آمورف‌سازی کووالانسی، عمر طولانی باتری‌های تمام‌جامد را ممکن می‌کند.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 solid electrolyte · Li-Zr-Cl · dual-anion doping · amorphization · all-solid-state battery</description>
+<category>solid electrolyte</category>
+<category>Li-Zr-Cl</category>
+<category>dual-anion doping</category>
+<category>amorphization</category>
+<category>all-solid-state battery</category>
+</item>
 <item>
 <title>Localized Cationic Clustering as an Atomic-scale Descriptor for Understanding and Mitigating High-voltage Instability in Ni-rich Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105604</link>
@@ -1147,67 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>interface modification</category>
 <category>manganese-based cathode</category>
 <category>cathode-electrolyte interface</category>
-</item>
-<item>
-<title>Reliable performance evaluation and mechanistic characterization of aqueous zinc batteries: From laboratory testing to practical applications</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.080</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.080</guid>
-<pubDate>Sat, 17 Oct 2026 11:03:06 GMT</pubDate>
-<description>این مرور روش‌های ارزیابی عملکرد و شناسایی مکانیسم باتری‌های آبی روی را از آزمون آزمایشگاهی تا کاربردهای عملی بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 aqueous zinc batteries · performance evaluation · mechanistic characterization · practical applications · testing protocols</description>
-<category>aqueous zinc batteries</category>
-<category>performance evaluation</category>
-<category>mechanistic characterization</category>
-<category>practical applications</category>
-<category>testing protocols</category>
-</item>
-<item>
-<title>Zr-based oxyhalide superionic electrolyte with self-passivating interphase stabilisation for high-voltage and fast-charging all-solid-state lithium batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78813-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-78813-1</guid>
-<pubDate>Sat, 17 Oct 2026 11:01:54 GMT</pubDate>
-<description>الکترولیت جامد اکسی‌هالید زیرکونیوم با فاز میانی خودغلاف‌ساز، باتری لیتیوم تمام‌جامد ولتاژ بالا و شارژ سریع را پایدار می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a non-equimolar cation–anion amorphous Li2Zr0.625Ta0.3Cl4.2O0.9 oxyhalide electrolyte derived from Li2ZrCl6, achieving 4.11 mS cm−1 conductivity and high-voltage tolerance via a self-passivating interphase. Its significance is enabling fast-charging, high-voltage all-solid-state batteries, retaining 81.2% capacity after 2,000 cycles at 10 C, advancing high-energy-density solid-state lithium batteries.&lt;br&gt;🏷 solid electrolyte · oxyhalide · all-solid-state battery · fast charging · interphase</description>
-<category>solid electrolyte</category>
-<category>oxyhalide</category>
-<category>all-solid-state battery</category>
-<category>fast charging</category>
-<category>interphase</category>
-</item>
-<item>
-<title>Magneto-mechano-electrochemical fiber for deformation-resilient and smart electronic textiles</title>
-<link>https://doi.org/10.1126/sciadv.aef4338</link>
-<guid isPermaLink="false">10.1126/sciadv.aef4338</guid>
-<pubDate>Sat, 17 Oct 2026 02:02:12 GMT</pubDate>
-<description>این مقاله الیاف مغناطو-مکانیکی-الکتروشیمیایی را برای باتری‌های پارچه‌ای مقاوم به تغییرشکل و منسوجات هوشمند با پایش سلامت معرفی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a magneto-mechano-electrochemical fiber architecture that uses magnetoelectrochemistry to unify conflicting deformation and stability requirements in cylindrical fiber electrodes. It extends battery lifespan by 374% and capacity by 61%, while remaining effective under deformation. Significance: this deformation-resilient platform simultaneously enables body-motion energy harvesting and physiological monitoring, transforming conventional textiles into smart health-monitoring systems.&lt;br&gt;🏷 fiber battery · electronic textiles · magnetoelectrochemistry · deformation resilience · health monitoring</description>
-<category>fiber battery</category>
-<category>electronic textiles</category>
-<category>magnetoelectrochemistry</category>
-<category>deformation resilience</category>
-<category>health monitoring</category>
-</item>
-<item>
-<title>A High-Nickel Cathode Material for Lithium-Ion Batteries Integrating a Proposed 3D Ionic Percolation Network and Interwoven Layered/Rock-Salt Nanodomains</title>
-<link>https://doi.org/10.1021/jacs.6c14375</link>
-<guid isPermaLink="false">10.1021/jacs.6c14375</guid>
-<pubDate>Sat, 17 Oct 2026 01:02:23 GMT</pubDate>
-<description>کاتد تک‌کریستالی غنی از نیکل با تابش نوترونی، شبکه نفوذ یونی سه‌بعدی و نانودومین‌های لایه‌ای/نمک سنگی درهم‌تنیده ایجاد می‌کند و پایداری ساختاری و ظرفیت را بهبود می‌بخشد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irradiation reconstructs single-crystal LiNi0.92Co0.06Mn0.02O2, creating a proposed 3D Li+ percolation network via grain boundaries plus interwoven layered/rock-salt nanodomains. This dual architecture shortens diffusion paths, suppresses phase transitions and side reactions, delivering 213.9 mAh/g at 0.2 C and 80.0% retention after 450 cycles at 5 C—establishing neutron irradiation as a novel cathode engineering strategy.&lt;br&gt;🏷 high-nickel cathode · single-crystal cathode · Li-ion battery · neutron irradiation · ionic percolation</description>
-<category>high-nickel cathode</category>
-<category>single-crystal cathode</category>
-<category>Li-ion battery</category>
-<category>neutron irradiation</category>
-<category>ionic percolation</category>
-</item>
-<item>
-<title>Grain Boundary Character Governs Lithium Deposition Uniformity on Polycrystalline Copper</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02640</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02640</guid>
-<pubDate>Sat, 17 Oct 2026 00:01:22 GMT</pubDate>
-<description>مرزهای دانه مس، یکنواختی رسوب لیتیوم را کنترل می‌کنند؛ مرزهای بی‌نظم سد بالا برای مهاجرت لیتیوم ایجاد کرده و مرزهای منظم رسوب یکنواخت‌تری می‌دهند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 This work first identifies grain boundary density and character—not just crystallographic orientation—as key regulators of Li deposition uniformity on copper. By decoupling grain size from surface chemistry, it shows disordered boundaries impede Li adatom migration, while ordered boundaries enable redistribution. This enables engineered copper foils with uniform Li plating and improved anode-free cell cyclability.&lt;br&gt;🏷 lithium metal anode · grain boundaries · copper current collector · anode-free battery · Li deposition</description>
-<category>lithium metal anode</category>
-<category>grain boundaries</category>
-<category>copper current collector</category>
-<category>anode-free battery</category>
-<category>Li deposition</category>
 </item>
 </channel>
 </rss>
