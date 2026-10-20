@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 16:01:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 17:02:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Localized Cationic Clustering as an Atomic-scale Descriptor for Understanding and Mitigating High-voltage Instability in Ni-rich Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105604</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105604</guid>
+<pubDate>Tue, 20 Oct 2026 17:01:57 GMT</pubDate>
+<description>این مقاله خوشه‌بندی کاتیونی موضعی را به‌عنوان توصیفگر اتمی برای درک و کاهش ناپایداری ولتاژ بالا در کاتدهای اکسید لایه‌ای غنی از Ni معرفی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · layered oxide · cationic clustering · high-voltage instability · atomic-scale descriptor</description>
+<category>Ni-rich cathode</category>
+<category>layered oxide</category>
+<category>cationic clustering</category>
+<category>high-voltage instability</category>
+<category>atomic-scale descriptor</category>
+</item>
+<item>
+<title>Electrolytes that mind bridging the gap</title>
+<link>https://doi.org/10.1038/s41557-026-02287-3</link>
+<guid isPermaLink="false">10.1038/s41557-026-02287-3</guid>
+<pubDate>Tue, 20 Oct 2026 17:01:53 GMT</pubDate>
+<description>دیدگاهی درباره نقش الکترولیت‌ها در پر کردن شکاف میان مواد و کارایی باتری‌ها.&lt;br&gt;Nature Chemistry | 💭 Perspective&lt;br&gt;💡 The novelty is a liquid electrolyte design that protects interfaces and reduces silicon anode expansion under extreme temperature and fast-charge conditions, while tolerating lithium plating. Its significance lies in enabling reversible, high-energy-density silicon-anode Li-ion batteries during harsh operation, addressing a key barrier to practical adoption.&lt;br&gt;🏷 electrolytes · battery interfaces · ion transport · solid electrolyte interphase · energy storage</description>
+<category>electrolytes</category>
+<category>battery interfaces</category>
+<category>ion transport</category>
+<category>solid electrolyte interphase</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>Decoupling the Coordination-Decoordination Trade-off in PVDF-Based Electrolytes via Chlorine Substitution for High-Performance Solid-State Lithium Metal Batteries</title>
 <link>https://doi.org/10.1039/d6ee05255j</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>copper current collector</category>
 <category>anode-free battery</category>
 <category>Li deposition</category>
-</item>
-<item>
-<title>Pressure-Driven Topological Reconfiguration toward Fast-Charging Hard Carbon with Plateau-Capacity Retention</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02684</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02684</guid>
-<pubDate>Sat, 17 Oct 2026 00:01:13 GMT</pubDate>
-<description>کربن سخت با بازآرایی توپولوژیکی فشارمحور برای باتری سدیم‌یون ساخته شد که ۸۰٪ SOC را در ۱۴.۴ دقیقه و ۹۰.۱٪ ظرفیت پلاتو را حفظ می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 Pressure-driven thermomechanical sintering reconfigures semi-coke’s aromatic topology, suppressing graphitization while creating twisted pseudo-graphitic domains and closed nanopores. This yields fast-charging hard carbon (80% SOC in 14.4 min) with 90.1% plateau-capacity retention via abundant Na+ sites, rapid diffusion, and stable NaF-rich SEI. It establishes a scalable route to upgrade cheap semi-coke into high-performance anodes.&lt;br&gt;🏷 hard carbon · sodium-ion battery · fast charging · plateau capacity · topological reconfiguration</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>fast charging</category>
-<category>plateau capacity</category>
-<category>topological reconfiguration</category>
-</item>
-<item>
-<title>Material circularity implications of battery degradation in shared electric mobility</title>
-<link>https://doi.org/10.1038/s41893-026-01969-7</link>
-<guid isPermaLink="false">10.1038/s41893-026-01969-7</guid>
-<pubDate>Fri, 16 Oct 2026 21:01:56 GMT</pubDate>
-<description>این پژوهش پیامدهای تخریب باتری بر چرخه مواد در حمل‌ونقل الکتریکی اشتراکی را تحلیل می‌کند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 This study uniquely integrates fleet projections, battery degradation, and dynamic material flow analysis to show that shared mobility&amp;#x27;s material savings depend on battery chemistry. It reveals a temporal trade-off: accelerated retirement boosts secondary supply, while second-life use delays recycling and raises near-term primary demand. This is significant for aligning shared mobility, battery choice, and circular strategies with transport decarbonization.&lt;br&gt;🏷 battery degradation · circular economy · shared mobility · electric vehicles · material circularity</description>
-<category>battery degradation</category>
-<category>circular economy</category>
-<category>shared mobility</category>
-<category>electric vehicles</category>
-<category>material circularity</category>
 </item>
 </channel>
 </rss>
