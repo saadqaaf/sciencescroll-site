@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 12:01:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 13:02:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Influence of Graphite Characteristics on its Electrochemical Performance in Li-ion Solid-State Batteries</title>
+<link>https://doi.org/10.1039/d6ta04470k</link>
+<guid isPermaLink="false">10.1039/d6ta04470k</guid>
+<pubDate>Tue, 20 Oct 2026 13:01:41 GMT</pubDate>
+<description>تأثیر ویژگی‌های گرافیت بر عملکرد الکتروشیمیایی آن به‌عنوان آند در باتری‌های حالت جامد لیتیوم-یونی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in systematically linking graphite&amp;#x27;s physical and structural characteristics to its electrochemical performance specifically within Li-ion solid-state batteries, a less-explored context than conventional liquid-electrolyte systems. Its significance is guiding optimal graphite selection and engineering for Li-SSBs, supporting the development of safer, higher-energy-density storage systems.&lt;br&gt;🏷 graphite anode · solid-state battery · Li-ion battery · electrochemical performance · graphite characteristics</description>
+<category>graphite anode</category>
+<category>solid-state battery</category>
+<category>Li-ion battery</category>
+<category>electrochemical performance</category>
+<category>graphite characteristics</category>
+</item>
+<item>
+<title>Si anode processing using flash-lamp annealing for lithium-ion batteries</title>
+<link>https://doi.org/10.1039/d6ta02935c</link>
+<guid isPermaLink="false">10.1039/d6ta02935c</guid>
+<pubDate>Tue, 20 Oct 2026 13:01:36 GMT</pubDate>
+<description>این مقاله پردازش آند سیلیکونی با بازپخت فلاش‌لامپ را برای بهبود پایداری مکانیکی و عملکرد باتری‌های لیتیوم-یونی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using flash-lamp annealing to process Si anodes, a rapid, low-thermal-budget approach that addresses Si&amp;#x27;s intrinsic volume instability. Its significance is enabling stable, high-capacity Si anodes for lithium-ion batteries, potentially advancing next-generation energy storage by combining Si&amp;#x27;s high capacity with improved mechanical stability.&lt;br&gt;🏷 silicon anode · flash-lamp annealing · lithium-ion battery · mechanical stability · anode processing</description>
+<category>silicon anode</category>
+<category>flash-lamp annealing</category>
+<category>lithium-ion battery</category>
+<category>mechanical stability</category>
+<category>anode processing</category>
+</item>
 <item>
 <title>Phase-specific energy storage configuration for a power grid integrated with unbalanced traction loads via two-stage distributionally robust optimization</title>
 <link>https://doi.org/10.1016/j.est.2026.125209</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>lithium metal</category>
 <category>operando detection</category>
 <category>safety</category>
-</item>
-<item>
-<title>Dual high energy density achieved in dense carbon with tunable pore structures for zinc-ion hybrid capacitors</title>
-<link>https://doi.org/10.1039/d6ta06505h</link>
-<guid isPermaLink="false">10.1039/d6ta06505h</guid>
-<pubDate>Fri, 16 Oct 2026 19:01:27 GMT</pubDate>
-<description>کربن متخلخل دوپ شده با N و O از قیر زغال سنگ و کیتوسان با فعال‌سازی CsOH برای کاتدهای ابرخازن هیبریدی یون روی با چگالی انرژی بالا ساخته شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 CsOH co-activation of coal tar pitch and chitosan yields N,O-doped porous carbon with tunable pores, surpassing KOH activation in surface area and Zn²⁺ storage. This enables dual high energy density in zinc-ion hybrid capacitors, offering a sustainable, high-performance cathode route that valorizes toxic waste and biomass.&lt;br&gt;🏷 zinc-ion hybrid capacitor · porous carbon · coal tar pitch · chitosan · CsOH activation</description>
-<category>zinc-ion hybrid capacitor</category>
-<category>porous carbon</category>
-<category>coal tar pitch</category>
-<category>chitosan</category>
-<category>CsOH activation</category>
-</item>
-<item>
-<title>Laser and microwave-assisted synthesis and modification of graphene-based materials for supercapacitor and battery electrodes</title>
-<link>https://doi.org/10.1039/d6ta06772g</link>
-<guid isPermaLink="false">10.1039/d6ta06772g</guid>
-<pubDate>Fri, 16 Oct 2026 19:01:17 GMT</pubDate>
-<description>این مقاله مروری به سنتز و اصلاح مواد مبتنی بر گرافن با روش‌های لیزر و مایکروویو برای الکترودهای ابرخازن و باتری می‌پردازد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 Laser and microwave methods enable rapid, scalable, solvent-free synthesis and modification of graphene-based electrodes, overcoming conventional slow, energy-intensive routes. This dual approach tailors porosity, doping, and defects for enhanced supercapacitor and battery performance. Its novelty lies in combining speed, precision, and versatility, offering a sustainable pathway to high-performance energy storage.&lt;br&gt;🏷 graphene · laser processing · microwave synthesis · supercapacitor · battery electrode</description>
-<category>graphene</category>
-<category>laser processing</category>
-<category>microwave synthesis</category>
-<category>supercapacitor</category>
-<category>battery electrode</category>
 </item>
 </channel>
 </rss>
