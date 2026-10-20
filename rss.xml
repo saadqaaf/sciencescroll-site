@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 07:01:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 08:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bioorthogonal chemistry conjugates: ADCs and beyond</title>
+<link>https://doi.org/10.1016/j.addr.2026.115979</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.115979</guid>
+<pubDate>Tue, 20 Oct 2026 08:01:17 GMT</pubDate>
+<description>این مقاله مروری به کاربردهای شیمی bioorthogonal در اتصال مولکول‌ها، به‌ویژه در ساخت antibody-drug conjugates و فراتر از آن، می‌پردازد.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 bioorthogonal chemistry · antibody-drug conjugates · bioconjugation · click chemistry · targeted therapy</description>
+<category>bioorthogonal chemistry</category>
+<category>antibody-drug conjugates</category>
+<category>bioconjugation</category>
+<category>click chemistry</category>
+<category>targeted therapy</category>
+</item>
 <item>
 <title>Realizing Electric-Field-Driven PVDF-Based Electrolytes through Anion Gradient Affinity</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105602</link>
@@ -1206,18 +1218,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>nanophase organization</category>
 <category>adhesion</category>
 <category>recyclability</category>
-</item>
-<item>
-<title>Nitrobenzo Crown Ether Enables Stable Interphases in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79065</link>
-<guid isPermaLink="false">10.1002/adfm.79065</guid>
-<pubDate>Mon, 19 Oct 2026 22:01:22 GMT</pubDate>
-<description>افزودن اتر تاجی نیتروبنزو به الکترولیت کربناته، پوسته حل‌پوشی Li+ و شیمی فصل مشترک را تنظیم کرده و SEI غنی از LiF و Li3N و رشد بدون دندریت را در باتری لیتیوم-فلز ایجاد می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 NBCE is a novel multifunctional additive that replaces ethylene carbonate in the Li+ solvation sheath, lowering desolvation energy and forming a dense LiF/Li3N-rich SEI via nitro-group conversion. This enables dendrite-free Li deposition, &amp;gt;1000 h cycling, 79.5% capacity retention over 300 cycles, and suppressed high-voltage leakage, establishing solvation-interphase co-regulation as a promising strategy for high-energy-density Li metal batteries.&lt;br&gt;🏷 lithium metal battery · crown ether additive · solid electrolyte interphase · solvation regulation · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>crown ether additive</category>
-<category>solid electrolyte interphase</category>
-<category>solvation regulation</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
