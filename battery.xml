@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 10:02:06 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 11:01:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Phase-specific energy storage configuration for a power grid integrated with unbalanced traction loads via two-stage distributionally robust optimization</title>
+<link>https://doi.org/10.1016/j.est.2026.125209</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125209</guid>
+<pubDate>Tue, 20 Oct 2026 11:01:55 GMT</pubDate>
+<description>این مقاله با بهینه‌سازی استوار توزیعی دومرحله‌ای، پیکربندی ذخیره‌سازی انرژی مختص فاز را برای شبکه برق با بارهای کششی نامتعادل ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy storage configuration · traction loads · distributionally robust optimization · power grid · two-stage optimization</description>
+<category>energy storage configuration</category>
+<category>traction loads</category>
+<category>distributionally robust optimization</category>
+<category>power grid</category>
+<category>two-stage optimization</category>
+</item>
+<item>
+<title>Design, optimization and techno-economic analysis of latent heat cold thermal energy storage (LCTES) system of thermal power plants</title>
+<link>https://doi.org/10.1016/j.est.2026.125273</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125273</guid>
+<pubDate>Tue, 20 Oct 2026 11:01:51 GMT</pubDate>
+<description>این پژوهش طراحی، بهینه‌سازی و تحلیل فنی-اقتصادی سیستم ذخیره‌سازی انرژی سرمایشی گرمای نهان برای نیروگاه‌های حرارتی را ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 latent heat storage · cold thermal energy storage · thermal power plant · techno-economic analysis · system optimization</description>
+<category>latent heat storage</category>
+<category>cold thermal energy storage</category>
+<category>thermal power plant</category>
+<category>techno-economic analysis</category>
+<category>system optimization</category>
+</item>
+<item>
+<title>Peak-shaving through a compressed air energy storage system coupled with dual-pressure organic Rankine and ejector refrigeration cycles</title>
+<link>https://doi.org/10.1016/j.est.2026.125170</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125170</guid>
+<pubDate>Tue, 20 Oct 2026 11:01:46 GMT</pubDate>
+<description>این مقاله سیستم ذخیره‌سازی انرژی هوای فشرده را با چرخه‌های دو فشاره رانکین آلی و تبرید اجکتوری برای پیک‌سایی طراحی و تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · organic Rankine cycle · ejector refrigeration · peak-shaving · dual-pressure cycle</description>
+<category>compressed air energy storage</category>
+<category>organic Rankine cycle</category>
+<category>ejector refrigeration</category>
+<category>peak-shaving</category>
+<category>dual-pressure cycle</category>
+</item>
+<item>
+<title>Advances in conductive membrane technologies for sustainable recycling of lithium-ion batteries from electric vehicles</title>
+<link>https://doi.org/10.1016/j.est.2026.125217</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125217</guid>
+<pubDate>Tue, 20 Oct 2026 11:01:42 GMT</pubDate>
+<description>این مرور پیشرفت‌های فناوری غشاهای رسانا را برای بازیافت پایدار باتری‌های لیتیوم-یونی خودروهای برقی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery recycling · conductive membranes · electric vehicles · sustainable recycling · membrane separation</description>
+<category>lithium-ion battery recycling</category>
+<category>conductive membranes</category>
+<category>electric vehicles</category>
+<category>sustainable recycling</category>
+<category>membrane separation</category>
+</item>
+<item>
+<title>A coordinated hybrid energy storage–carbon quota sharing framework for low-carbon economic dispatch of multi-park integrated energy systems</title>
+<link>https://doi.org/10.1016/j.est.2026.124906</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124906</guid>
+<pubDate>Tue, 20 Oct 2026 11:01:37 GMT</pubDate>
+<description>این مقاله چارچوبی هماهنگ برای ذخیره‌سازی انرژی هیبریدی و اشتراک سهمیه کربن ارائه می‌دهد تا توزیع اقتصادی کم‌کربن سیستم‌های انرژی یکپارچه چندپارکی محقق شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · carbon quota sharing · integrated energy systems · economic dispatch · multi-park coordination</description>
+<category>hybrid energy storage</category>
+<category>carbon quota sharing</category>
+<category>integrated energy systems</category>
+<category>economic dispatch</category>
+<category>multi-park coordination</category>
+</item>
 <item>
 <title>Enhanced energy density and transmittance in Eu-doped PbZrO3 films for transparent energy storage</title>
 <link>https://doi.org/10.1016/j.jmst.2026.10.021</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>microwave synthesis</category>
 <category>supercapacitor</category>
 <category>battery electrode</category>
-</item>
-<item>
-<title>Past and present of grid energy storage – A comparative assessment of existing technologies</title>
-<link>https://doi.org/10.1016/j.est.2026.125078</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125078</guid>
-<pubDate>Fri, 16 Oct 2026 17:02:19 GMT</pubDate>
-<description>این مقاله مروری، گذشته و حال ذخیره‌سازی انرژی شبکه را ارائه و فناوری‌های موجود را به‌صورت مقایسه‌ای ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 grid energy storage · comparative assessment · existing technologies · past and present · energy storage</description>
-<category>grid energy storage</category>
-<category>comparative assessment</category>
-<category>existing technologies</category>
-<category>past and present</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Performance study of a battery thermal management system adapted for wide temperature range conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.125086</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125086</guid>
-<pubDate>Fri, 16 Oct 2026 17:02:14 GMT</pubDate>
-<description>عملکرد یک سیستم مدیریت حرارتی باتری که برای شرایط دمایی گسترده سازگار شده است، مطالعه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · wide temperature range · thermal management system · performance study · cooling</description>
-<category>battery thermal management</category>
-<category>wide temperature range</category>
-<category>thermal management system</category>
-<category>performance study</category>
-<category>cooling</category>
-</item>
-<item>
-<title>Phase-field simulation of dendrite evolution in all-solid-state sodium batteries during cycling</title>
-<link>https://doi.org/10.1016/j.est.2026.125085</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125085</guid>
-<pubDate>Fri, 16 Oct 2026 17:02:09 GMT</pubDate>
-<description>شبیه‌سازی میدان فاز، تکامل دندریت را در باتری‌های سدیم تمام‌حالت‌جامد در حین چرخه‌زنی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · sodium battery · dendrite evolution · phase-field simulation · cycling</description>
-<category>all-solid-state battery</category>
-<category>sodium battery</category>
-<category>dendrite evolution</category>
-<category>phase-field simulation</category>
-<category>cycling</category>
-</item>
-<item>
-<title>Hierarchical ruthenium oxide-anchored tungsten disulfide/polypyrrole ternary nanocomposites for supercapacitor electrodes: Transition toward surface-controlled charge storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125244</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125244</guid>
-<pubDate>Fri, 16 Oct 2026 17:02:04 GMT</pubDate>
-<description>نانوکامپوزیت‌های سه‌تایی RuO2-WS2-polypyrrole برای الکترودهای ابرخازن ساخته شد و ذخیره‌سازی بار سطحی‌محور را نشان داد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ruthenium oxide · tungsten disulfide · polypyrrole · supercapacitor · surface-controlled storage</description>
-<category>ruthenium oxide</category>
-<category>tungsten disulfide</category>
-<category>polypyrrole</category>
-<category>supercapacitor</category>
-<category>surface-controlled storage</category>
-</item>
-<item>
-<title>Supercritical CO2 engineering of peanut shell biochar with high porosity and graphitization as Fe single-atom/cluster catalyst for zinc-air batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125237</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125237</guid>
-<pubDate>Fri, 16 Oct 2026 17:01:59 GMT</pubDate>
-<description>biochar پوسته بادام‌زمینی با تخلخل بالا و گرافیتی‌شدن با CO2 فوق‌بحرانی به‌عنوان کاتالیزور تک‌اتم/خوشه Fe برای باتری‌های روی-هوا سنتز شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 peanut shell biochar · Fe single-atom catalyst · zinc-air battery · supercritical CO2 · oxygen reduction</description>
-<category>peanut shell biochar</category>
-<category>Fe single-atom catalyst</category>
-<category>zinc-air battery</category>
-<category>supercritical CO2</category>
-<category>oxygen reduction</category>
 </item>
 </channel>
 </rss>
