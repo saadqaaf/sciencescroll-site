@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 06:01:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 07:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Realizing Electric-Field-Driven PVDF-Based Electrolytes through Anion Gradient Affinity</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105602</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105602</guid>
+<pubDate>Tue, 20 Oct 2026 07:01:14 GMT</pubDate>
+<description>الکترولیت‌های پلیمری بر پایه PVDF با میل گرادیانی آنیون برای دستیابی به الکترولیت هدایت‌شده با میدان الکتریکی و بهبود عملکرد باتری طراحی می‌شوند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 PVDF electrolyte · anion gradient affinity · electric field · lithium metal battery · polymer electrolyte</description>
+<category>PVDF electrolyte</category>
+<category>anion gradient affinity</category>
+<category>electric field</category>
+<category>lithium metal battery</category>
+<category>polymer electrolyte</category>
+</item>
+<item>
+<title>Ultrafast Joule Heating Drives Non-Equilibrium Sr Segregation toward a Stabilizing Rock-Salt Interface in Ni-Rich Layered Cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105599</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105599</guid>
+<pubDate>Tue, 20 Oct 2026 07:01:10 GMT</pubDate>
+<description>گرمایش ژول فوق‌سریع جدایش غیرتعادلی Sr را در کاتدهای لایه‌ای غنی از Ni هدایت کرده و فصل مشترک پایدار rock-salt ایجاد می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · Joule heating · Sr segregation · rock-salt interface · surface reconstruction</description>
+<category>Ni-rich cathode</category>
+<category>Joule heating</category>
+<category>Sr segregation</category>
+<category>rock-salt interface</category>
+<category>surface reconstruction</category>
+</item>
 <item>
 <title>Water-state-aware coordinated scheduling of cascade hydropower and pumped storage for power systems with high renewable penetration</title>
 <link>https://doi.org/10.1016/j.est.2026.125198</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>boron doping</category>
 <category>SEI stability</category>
 <category>high-rate performance</category>
-</item>
-<item>
-<title>Bulky Molecules Tailor Solvent Packing Fraction of Electrolytes for High‐Voltage Sodium‐Ion Battery</title>
-<link>https://doi.org/10.1002/adfm.79119</link>
-<guid isPermaLink="false">10.1002/adfm.79119</guid>
-<pubDate>Fri, 16 Oct 2026 14:02:57 GMT</pubDate>
-<description>حلال حجیم با محدودکردن چیدمان حلال، تشکیل جفت‌یون‌های تماسی و اینترفاز غنی از مواد معدنی را در باتری سدیم‌یون ولتاژ بالا تقویت می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work reveals that bulky solvent molecules restrict solvent packing around Na+, quantified by fractal dimension, promoting anion-rich ion clusters and inorganic interphases. This suppresses electrolyte oxidation, enabling stable high-voltage sodium-ion batteries with 1407-cycle longevity and practical pouch cells exceeding 115 Wh kg−1, offering a molecular design principle for high-energy SIBs.&lt;br&gt;🏷 sodium-ion battery · electrolyte solvation · solvent packing · high-voltage · interphase</description>
-<category>sodium-ion battery</category>
-<category>electrolyte solvation</category>
-<category>solvent packing</category>
-<category>high-voltage</category>
-<category>interphase</category>
-</item>
-<item>
-<title>Hydrocarbothermal Reduction Co‐Upcycling of Spent Lithium‐Ion Batteries via Waste Plastics for Enabling Efficient Water Purification and Lithium Resource Recovery</title>
-<link>https://doi.org/10.1002/adfm.79096</link>
-<guid isPermaLink="false">10.1002/adfm.79096</guid>
-<pubDate>Fri, 16 Oct 2026 14:02:23 GMT</pubDate>
-<description>احیای هیدروکربوترمال با پلی‌اتیلن، باتری‌های لیتیوم-یونی مستعمل و پلاستیک‌ها را هم‌زمان بازیافت کرده و به تصفیه آب و بازیابی لیتیوم می‌پردازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work pioneers co-upcycling of spent LiNi₀.₆Co₀.₂Mn₀.₂O₂ cathodes and waste polyethylene via hydrocarbothermal reduction, using plastics as both carbon source and reductant. It yields a NiCoMn/C catalyst enabling efficient peroxymonosulfate activation for water purification (0.411 min⁻¹) plus 87% lithium recovery, establishing a closed-loop paradigm integrating mixed-waste upcycling, environmental remediation, and resource recovery with economic and emissions benefits.&lt;br&gt;🏷 spent lithium-ion batteries · waste plastics · hydrocarbothermal reduction · lithium recovery · water purification</description>
-<category>spent lithium-ion batteries</category>
-<category>waste plastics</category>
-<category>hydrocarbothermal reduction</category>
-<category>lithium recovery</category>
-<category>water purification</category>
 </item>
 </channel>
 </rss>

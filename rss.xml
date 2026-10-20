@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 06:01:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 07:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Realizing Electric-Field-Driven PVDF-Based Electrolytes through Anion Gradient Affinity</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105602</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105602</guid>
+<pubDate>Tue, 20 Oct 2026 07:01:14 GMT</pubDate>
+<description>الکترولیت‌های پلیمری بر پایه PVDF با میل گرادیانی آنیون برای دستیابی به الکترولیت هدایت‌شده با میدان الکتریکی و بهبود عملکرد باتری طراحی می‌شوند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 PVDF electrolyte · anion gradient affinity · electric field · lithium metal battery · polymer electrolyte</description>
+<category>PVDF electrolyte</category>
+<category>anion gradient affinity</category>
+<category>electric field</category>
+<category>lithium metal battery</category>
+<category>polymer electrolyte</category>
+</item>
+<item>
+<title>Ultrafast Joule Heating Drives Non-Equilibrium Sr Segregation toward a Stabilizing Rock-Salt Interface in Ni-Rich Layered Cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105599</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105599</guid>
+<pubDate>Tue, 20 Oct 2026 07:01:10 GMT</pubDate>
+<description>گرمایش ژول فوق‌سریع جدایش غیرتعادلی Sr را در کاتدهای لایه‌ای غنی از Ni هدایت کرده و فصل مشترک پایدار rock-salt ایجاد می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · Joule heating · Sr segregation · rock-salt interface · surface reconstruction</description>
+<category>Ni-rich cathode</category>
+<category>Joule heating</category>
+<category>Sr segregation</category>
+<category>rock-salt interface</category>
+<category>surface reconstruction</category>
+</item>
 <item>
 <title>Understanding the selective synthesis of siliceous zeolite encaged metal particles</title>
 <link>https://doi.org/10.1039/d6ta06266k</link>
@@ -1194,30 +1218,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>solid electrolyte interphase</category>
 <category>solvation regulation</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Interfacial Inner‐Local‐Enhanced Discharge Induced by Aligned Needle Electrodes for the Synergistic Collection of Tribo‐Charges</title>
-<link>https://doi.org/10.1002/adfm.79101</link>
-<guid isPermaLink="false">10.1002/adfm.79101</guid>
-<pubDate>Mon, 19 Oct 2026 22:01:18 GMT</pubDate>
-<description>طراحی الکترود سوزنی هم‌راستا در تریبوالکتریک نانوژنراتور تخلیه کرونا، جمع‌آوری هم‌افزای بار از نواحی کناری و داخلی فصل مشترک را ممکن و بازده استخراج انرژی را افزایش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 triboelectric nanogenerator · needle electrode · charge collection · corona discharge · energy harvesting</description>
-<category>triboelectric nanogenerator</category>
-<category>needle electrode</category>
-<category>charge collection</category>
-<category>corona discharge</category>
-<category>energy harvesting</category>
-</item>
-<item>
-<title>Selective upcycling of polyesters to dicarboxylic acids via tandem depolymerization-dehydrogenative oxidation</title>
-<link>https://doi.org/10.1016/j.chempr.2026.103296</link>
-<guid isPermaLink="false">10.1016/j.chempr.2026.103296</guid>
-<pubDate>Mon, 19 Oct 2026 22:01:15 GMT</pubDate>
-<description>این مقاله یک مسیر دومرحله‌ای شامل دپلیمریزاسیون و اکسایش دهیدروژنی را برای تبدیل انتخابی پلی‌استرها به دی‌کربوکسیلیک اسیدها ارائه می‌کند.&lt;br&gt;Chem | 🔬 Research Article&lt;br&gt;🏷 polyester upcycling · dicarboxylic acids · depolymerization · dehydrogenative oxidation · tandem catalysis</description>
-<category>polyester upcycling</category>
-<category>dicarboxylic acids</category>
-<category>depolymerization</category>
-<category>dehydrogenative oxidation</category>
-<category>tandem catalysis</category>
 </item>
 </channel>
 </rss>
