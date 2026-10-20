@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 08:01:20 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 09:03:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Aluminum phosphate functionalization of graphite promoting interfacial lithium ion desolvation</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.005</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.005</guid>
+<pubDate>Tue, 20 Oct 2026 09:03:35 GMT</pubDate>
+<description>این پژوهش با عامل‌دار کردن گرافیت به‌وسیله آلومینیوم فسفات، فرایند جداسازی پوشش حلال از یون لیتیوم در فصل مشترک را تقویت می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphite anode · aluminum phosphate · desolvation · lithium-ion battery · interface</description>
+<category>graphite anode</category>
+<category>aluminum phosphate</category>
+<category>desolvation</category>
+<category>lithium-ion battery</category>
+<category>interface</category>
+</item>
+<item>
+<title>Dynamic impedance characterization of lithium-ion batteries: Experimental insights and implications for battery management</title>
+<link>https://doi.org/10.1016/j.jechem.2026.09.085</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.09.085</guid>
+<pubDate>Tue, 20 Oct 2026 09:03:27 GMT</pubDate>
+<description>این مقاله با مشخصه‌یابی دینامیکی امپدانس باتری‌های لیتیوم-یونی، بینش‌های تجربی و پیامدهای آن برای سیستم مدیریت باتری را ارائه می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion batteries · impedance spectroscopy · battery management · dynamic characterization · state estimation</description>
+<category>lithium-ion batteries</category>
+<category>impedance spectroscopy</category>
+<category>battery management</category>
+<category>dynamic characterization</category>
+<category>state estimation</category>
+</item>
+<item>
+<title>A Holistic Direct Regeneration Strategy for Ni-Rich Ternary Cathode Scraps: Linking Stage-Specific Descriptors to Electrochemical Restoration</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112507</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112507</guid>
+<pubDate>Tue, 20 Oct 2026 09:01:56 GMT</pubDate>
+<description>این مقاله یک راهبرد بازتولید مستقیم و جامع برای ضایعات کاتد سه‌تایی غنی از Ni ارائه می‌دهد و توصیفگرهای مرحله‌ای را به بازیابی الکتروشیمیایی مرتبط می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · direct regeneration · cathode scrap · electrochemical restoration · stage-specific descriptors</description>
+<category>Ni-rich cathode</category>
+<category>direct regeneration</category>
+<category>cathode scrap</category>
+<category>electrochemical restoration</category>
+<category>stage-specific descriptors</category>
+</item>
+<item>
+<title>Ion-Pair-Orchestrated Solvation and Bidirectional Interphases across Aqueous Zinc Chemistries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112516</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112516</guid>
+<pubDate>Tue, 20 Oct 2026 09:01:50 GMT</pubDate>
+<description>این مقاله با تنظیم جفت‌یون‌ها، ساختار حل‌پوشی و بین‌سطح‌های دوجهته را در شیمی آبی روی مهندسی می‌کند تا پایداری و عملکرد باتری روی-آبی بهبود یابد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · solvation structure · interphase · ion pair · zinc anode</description>
+<category>aqueous zinc battery</category>
+<category>solvation structure</category>
+<category>interphase</category>
+<category>ion pair</category>
+<category>zinc anode</category>
+</item>
 <item>
 <title>Realizing Electric-Field-Driven PVDF-Based Electrolytes through Anion Gradient Affinity</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105602</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>technological evolution</category>
 <category>lock-in</category>
 <category>path perspective</category>
-</item>
-<item>
-<title>Hydrogen and Biomass‐Based Hybrid Energy Storage Systems Converted Into Battery‐Dominant Energy Architectures for Grid Integration and Transportation Electrification</title>
-<link>https://doi.org/10.1002/bte2.70156</link>
-<guid isPermaLink="false">10.1002/bte2.70156</guid>
-<pubDate>Fri, 16 Oct 2026 17:01:42 GMT</pubDate>
-<description>این مقاله چشم‌اندازی برای سیستم‌های ذخیره‌سازی انرژی ترکیبی هیدروژن و زیست‌توده با معماری غالب باتری برای یکپارچه‌سازی شبکه و برق‌رسانی حمل‌ونقل ارائه می‌دهد.&lt;br&gt;Battery Energy | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 This perspective&amp;#x27;s novelty lies in reframing hybrid hydrogen-biomass storage as a battery-dominant architecture, assigning each technology to its natural timescale. Its significance is demonstrating reduced frequency deviation, smoother renewable dispatch, and lower emissions versus fossil or battery-only baselines, while outlining deployment needs like degradation-aware control, sustainable biomass sourcing, and standardised power electronics for grid and transport electrification.&lt;br&gt;🏷 hybrid energy storage · hydrogen · biomass · battery-dominant · grid integration</description>
-<category>hybrid energy storage</category>
-<category>hydrogen</category>
-<category>biomass</category>
-<category>battery-dominant</category>
-<category>grid integration</category>
-</item>
-<item>
-<title>Storage‐Environment‐Dependent Surface Evolution and Electrochemical Degradation of High‐Nickel NCM Single‐Crystal Cathodes</title>
-<link>https://doi.org/10.1002/smll.76176</link>
-<guid isPermaLink="false">10.1002/smll.76176</guid>
-<pubDate>Fri, 16 Oct 2026 16:02:11 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که محیط نگهداری (CO2 و هوای مرطوب) و افزایش نیکل در کاتدهای تک‌کریستال NCM باعث تشکیل لیتیوم باقیمانده و تخریب ساختاری می‌شود که امپدانس را افزایش و ظرفیت را کاهش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This study reveals how storage atmospheres (CO₂, humid air vs. vacuum, argon) drive residual lithium formation and surface reconstruction on high-nickel single-crystal NCM cathodes, showing nickel content exacerbates degradation. It links storage-induced surface chemistry to increased impedance and capacity loss, offering practical guidance for storage protocols to preserve electrochemical performance of high-energy-density cathodes.&lt;br&gt;🏷 single-crystal NCM · residual lithium · storage degradation · surface reconstruction · high-nickel cathode</description>
-<category>single-crystal NCM</category>
-<category>residual lithium</category>
-<category>storage degradation</category>
-<category>surface reconstruction</category>
-<category>high-nickel cathode</category>
-</item>
-<item>
-<title>Electrospinning‐Enabled Functional Components for Advanced Zinc‐Based Batteries: From Structural Design to Interface Regulation</title>
-<link>https://doi.org/10.1002/smll.76241</link>
-<guid isPermaLink="false">10.1002/smll.76241</guid>
-<pubDate>Fri, 16 Oct 2026 16:02:03 GMT</pubDate>
-<description>این مرور، پیشرفت‌های نانوالیاف الکتروریسی‌شده برای باتری‌های روی را از منظر تنظیم هم‌افزای یون-فضا-سطح مشترک بررسی می‌کند و روابط ساختار-عملکرد را برای طراحی مواد پیشرفته ارائه می‌دهد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely frames electrospun nanofibers for zinc-based batteries through ion-spatial-interfacial synergistic regulation. It links electrospinning strategies—porous, hollow, multichannel, core–shell, hierarchical—to electrochemical function, and systematically covers anodes, cathodes, separators, electrolytes, and air electrodes. By distilling structure-function relationships, it offers rational design guidance for advanced zinc-based energy storage.&lt;br&gt;🏷 zinc-based batteries · electrospun nanofibers · interface regulation · ion transport · dendrite suppression</description>
-<category>zinc-based batteries</category>
-<category>electrospun nanofibers</category>
-<category>interface regulation</category>
-<category>ion transport</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>High‐Rate Magnesium‐Ion Batteries Enabled by Boron‐Doped Bismuth Anodes</title>
-<link>https://doi.org/10.1002/eem2.70515</link>
-<guid isPermaLink="false">10.1002/eem2.70515</guid>
-<pubDate>Fri, 16 Oct 2026 16:01:30 GMT</pubDate>
-<description>آند Bi دوپ‌شده با بور برای باتری منیزیم-یون، با بهبود سینتیک انتشار Mg2+ و پایداری SEI، ظرفیت 167 mAh/g را پس از 1000 چرخه در 2 A/g حفظ می‌کند.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Boron-doped bismuth anodes are introduced to overcome bismuth&amp;#x27;s severe volume expansion and sluggish kinetics in magnesium-ion batteries. Boron doping enhances Mg²⁺ diffusion and stabilizes a MgF₂/AlF₃-based SEI, enabling 167 mA h g⁻¹ after 1000 cycles at 2 A g⁻¹—among the best reported bismuth anodes—and good full-cell performance. This interface-engineering strategy advances high-rate alloy anode design for magnesium-ion batteries.&lt;br&gt;🏷 magnesium-ion battery · bismuth anode · boron doping · SEI stability · high-rate performance</description>
-<category>magnesium-ion battery</category>
-<category>bismuth anode</category>
-<category>boron doping</category>
-<category>SEI stability</category>
-<category>high-rate performance</category>
 </item>
 </channel>
 </rss>
