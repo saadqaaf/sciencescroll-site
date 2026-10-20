@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 14:02:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 15:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoupling the Coordination-Decoordination Trade-off in PVDF-Based Electrolytes via Chlorine Substitution for High-Performance Solid-State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ee05255j</link>
+<guid isPermaLink="false">10.1039/d6ee05255j</guid>
+<pubDate>Tue, 20 Oct 2026 15:01:43 GMT</pubDate>
+<description>جایگزینی کلر، مبادله هماهنگی-جدایش را در الکترولیت‌های پلیمری جامد PVDF برای باتری‌های لیتیوم فلزی حالت جامد از هم جدا می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Chlorine substitution in PVDF-based electrolytes decouples the coordination-decoordination trade-off, enabling simultaneous salt dissociation and Li+ transport. This resolves a long-standing design conflict in solid-state polymer electrolytes, offering a new molecular engineering strategy for high-performance solid-state lithium metal batteries.&lt;br&gt;🏷 PVDF electrolyte · solid-state battery · lithium metal · chlorine substitution · coordination trade-off</description>
+<category>PVDF electrolyte</category>
+<category>solid-state battery</category>
+<category>lithium metal</category>
+<category>chlorine substitution</category>
+<category>coordination trade-off</category>
+</item>
+<item>
+<title>Terminal-to-terminal distance engineering regulated bidentate anchoring for stable zinc–iodine batteries</title>
+<link>https://doi.org/10.1039/d6ee05664d</link>
+<guid isPermaLink="false">10.1039/d6ee05664d</guid>
+<pubDate>Tue, 20 Oct 2026 15:01:28 GMT</pubDate>
+<description>با غربالگری مبتنی بر توصیف‌گر، مولکول شش‌کربنه با فاصله انتها-به-انتها 6.46 آنگستروم برای مهار شاتلینگ در باتری‌های پایدار Zn-I شناسایی شد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using terminal-to-terminal distance as a design descriptor to screen molecules, identifying a six-carbon molecule (6.46 Å) that forms bidentate anchoring. This configuration suppresses iodine shuttling, enabling stable zinc–iodine batteries. It establishes a rational engineering principle linking molecular geometry to anchoring robustness, offering a new design strategy for high-stability battery interfaces.&lt;br&gt;🏷 zinc-iodine battery · bidentate anchoring · shuttle suppression · molecular screening · terminal distance</description>
+<category>zinc-iodine battery</category>
+<category>bidentate anchoring</category>
+<category>shuttle suppression</category>
+<category>molecular screening</category>
+<category>terminal distance</category>
+</item>
 <item>
 <title>Influence of Graphite Characteristics on its Electrochemical Performance in Li-ion Solid-State Batteries</title>
 <link>https://doi.org/10.1039/d6ta04470k</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 High-energy neutron irrad
 <category>shared mobility</category>
 <category>electric vehicles</category>
 <category>material circularity</category>
-</item>
-<item>
-<title>Redefining the thermal safety boundaries of ether-based sodium batteries</title>
-<link>https://doi.org/10.1016/j.joule.2026.102711</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102711</guid>
-<pubDate>Fri, 16 Oct 2026 20:01:13 GMT</pubDate>
-<description>این مقاله مرزهای ایمنی حرارتی باتری‌های سدیمی بر پایه اتر را بازتعریف می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 sodium batteries · ether-based electrolytes · thermal safety · safety boundaries · battery safety</description>
-<category>sodium batteries</category>
-<category>ether-based electrolytes</category>
-<category>thermal safety</category>
-<category>safety boundaries</category>
-<category>battery safety</category>
-</item>
-<item>
-<title>Batteries that sense dendrite growth</title>
-<link>https://doi.org/10.1038/s41578-026-00975-7</link>
-<guid isPermaLink="false">10.1038/s41578-026-00975-7</guid>
-<pubDate>Fri, 16 Oct 2026 19:01:42 GMT</pubDate>
-<description>این مقاله دیدگاهی به باتری‌هایی می‌پردازد که رشد دندریت را حس کرده و امکان تشخیص درجای ایمنی باتری را فراهم می‌کنند.&lt;br&gt;Nature Reviews Materials | 💭 Perspective&lt;br&gt;💡 The novel solid electrolyte detects lithium dendrite penetration by converting it into an electrical signal, enabling early warning of battery failure. This is significant because dendrites cause short circuits and fires, so sensing them before failure improves safety and reliability of solid-state batteries.&lt;br&gt;🏷 dendrite growth · battery sensing · lithium metal · operando detection · safety</description>
-<category>dendrite growth</category>
-<category>battery sensing</category>
-<category>lithium metal</category>
-<category>operando detection</category>
-<category>safety</category>
 </item>
 </channel>
 </rss>
