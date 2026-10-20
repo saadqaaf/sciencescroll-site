@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 11:01:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 12:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Deep-Learning-Driven Dual Sensors Based on Single-Trapped Upconverting Particles</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03652</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03652</guid>
+<pubDate>Tue, 20 Oct 2026 12:01:11 GMT</pubDate>
+<description>با ترکیب یادگیری عمیق و داده‌های طیفی گسترده، ذرات Er/Yb-doped به‌عنوان حسگر دوگانه دما و توان لیزر در محیط‌های پیچیده به‌طور دقیق عمل می‌کنند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 upconverting particles · dual sensor · deep learning · temperature sensing · lanthanide-doped</description>
+<category>upconverting particles</category>
+<category>dual sensor</category>
+<category>deep learning</category>
+<category>temperature sensing</category>
+<category>lanthanide-doped</category>
+</item>
 <item>
 <title>Phase-specific energy storage configuration for a power grid integrated with unbalanced traction loads via two-stage distributionally robust optimization</title>
 <link>https://doi.org/10.1016/j.est.2026.125209</link>
@@ -1201,19 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 circularly polarized lumi
 <category>lanthanide doping</category>
 <category>near-infrared emission</category>
 <category>chiral ligands</category>
-</item>
-<item>
-<title>Asymmetric Copper-Catalyzed Conjugate Addition with Trimethylboroxine Enables Direct Synthesis of Frespaciguat</title>
-<link>https://doi.org/10.1021/jacs.6c17539</link>
-<guid isPermaLink="false">10.1021/jacs.6c17539</guid>
-<pubDate>Mon, 19 Oct 2026 23:07:24 GMT</pubDate>
-<description>سنتز فشرده Frespaciguat با افزودن مزدوج نامتقارن کاتالیزشده با مس و تری‌متیل‌بوروکسین برای نصب مرکز کواترنر متیل به‌صورت انانتیوگزینشی ارائه شد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 asymmetric conjugate addition · trimethylboroxine · copper catalysis · Frespaciguat · quaternary stereocenter</description>
-<category>asymmetric conjugate addition</category>
-<category>trimethylboroxine</category>
-<category>copper catalysis</category>
-<category>Frespaciguat</category>
-<category>quaternary stereocenter</category>
 </item>
 </channel>
 </rss>
