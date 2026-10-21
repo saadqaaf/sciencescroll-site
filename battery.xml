@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 11:01:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 12:02:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring Crystal Facets Enables Scalable Synthesis of Highly Dispersed Single Crystal NCM90</title>
+<link>https://doi.org/10.1002/aenm.71723</link>
+<guid isPermaLink="false">10.1002/aenm.71723</guid>
+<pubDate>Wed, 21 Oct 2026 12:01:42 GMT</pubDate>
+<description>دوپینگ سطحی W6+/Mo6+ با تنظیم رشد صفحات بلوری، سنتز مقیاس‌پذیر کاتد تک‌بلور NCM90 با پراکندگی بالا، شارژ سریع و پایداری بهبودیافته را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Surface high-valence W⁶⁺/Mo⁶⁺ doping tailors crystal facet evolution—Mo⁶⁺ lowers (104) plane energy for fast Li⁺ migration, W⁶⁺ promotes (003)/(104) growth to suppress ionic fusion and particle agglomeration—while strengthening TM–O bonds. This dual-functional strategy enables low-cost, scalable synthesis of highly dispersed single-crystal NCM90 with fast charging (111 mAh g⁻¹ at 5C), long cycling life, and improved safety over polycrystalline NCM90.&lt;br&gt;🏷 single crystal NCM90 · cathode · crystal facet · high-valence doping · lithium-ion battery</description>
+<category>single crystal NCM90</category>
+<category>cathode</category>
+<category>crystal facet</category>
+<category>high-valence doping</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Electric Double Layer‐Driven Surface Reconstruction Enables Cooperative Zn(002)/(101) Growth for High‐Utilization Zinc Anodes</title>
+<link>https://doi.org/10.1002/aenm.71720</link>
+<guid isPermaLink="false">10.1002/aenm.71720</guid>
+<pubDate>Wed, 21 Oct 2026 12:01:37 GMT</pubDate>
+<description>بازسازی لایه دوگانه الکتریکی با imidazolidinyl urea رشد هم‌افزای Zn(002)/(101) را ممکن کرده و آند روی با بهره‌وری بالا و چرخه‌پذیری طولانی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling electric double layer reconstruction with Zn surface reorganization using imidazolidinyl urea, which displaces interfacial water and reconstructs the Zn surface to suppress Zn(100) and promote cooperative Zn(002)/(101) growth. This enables compact, reversible deposition, achieving over 6000 h cycling, 99.81% Coulombic efficiency, and stable high-utilization, low-temperature, and pouch-cell operation.&lt;br&gt;🏷 zinc anode · electric double layer · surface reconstruction · Zn(002)/(101) · aqueous zinc battery</description>
+<category>zinc anode</category>
+<category>electric double layer</category>
+<category>surface reconstruction</category>
+<category>Zn(002)/(101)</category>
+<category>aqueous zinc battery</category>
+</item>
+<item>
+<title>Dual Anion‐Involved Interfacial Chemistry Enables Ultra‐Stable PEO‐Based Solid‐State Lithium Metal Batteries by Suppressing NMP‐Induced Side Reactions</title>
+<link>https://doi.org/10.1002/aenm.71721</link>
+<guid isPermaLink="false">10.1002/aenm.71721</guid>
+<pubDate>Wed, 21 Oct 2026 12:01:31 GMT</pubDate>
+<description>راهبرد هماهنگی دو آنیونی با LiDFOB و LiNO3، NMP باقی‌مانده در الکترولیت PEO را مهار کرده و باتری لیتیوم-فلز حالت جامد با چرخه‌پذیری پایدار ارائه می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting residual NMP from a side-reaction source into a functional component via dual-anion (DFOB⁻/NO₃⁻) coordination that enriches the solvation sheath and strengthens Li⁺–NMP interactions. This enables a stable anion-derived SEI, suppressing NMP–Li side reactions. Significance: achieves high ionic conductivity (1.69×10⁻⁴ S cm⁻¹), 1200 h cycling, and 93% retention after 2000 cycles, offering a universal solvent-tailoring strategy for PEO solid-state batteries.&lt;br&gt;🏷 PEO solid electrolyte · lithium metal battery · dual-anion coordination · SEI · NMP</description>
+<category>PEO solid electrolyte</category>
+<category>lithium metal battery</category>
+<category>dual-anion coordination</category>
+<category>SEI</category>
+<category>NMP</category>
+</item>
 <item>
 <title>Supercapacitors Under Nonequilibrium Conditions: Mechanisms and Design Principles</title>
 <link>https://doi.org/10.1002/adma.75460</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>chemical upgrading</category>
 <category>additive oxidation</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Site‐Selectively Engineered MoS 2 /ReS 2 Heterostructures for High‐Performance Supercapacitors</title>
-<link>https://doi.org/10.1002/aenm.71698</link>
-<guid isPermaLink="false">10.1002/aenm.71698</guid>
-<pubDate>Sun, 18 Oct 2026 14:01:25 GMT</pubDate>
-<description>هم‌ساختار Fe-doped MoS2/ReS2 با میدان الکتریکی داخلی، انتقال الکترون و پیوند Mo–S تقویت‌شده، ابرخازن با ظرفیت بالا و پایداری 97% پس از 5000 چرخه ارائه داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in selective Fe doping of only the MoS2 domain within MoS2/ReS2 heterostructures, creating an interfacial built-in electric field that enhances electron/ion transport, strengthens Mo─S bonds, and suppresses Mo dissolution. This yields high capacitance, 97.0% retention over 5000 cycles, and 55.2 Wh kg−1 energy density, offering a design strategy for advanced supercapacitors.&lt;br&gt;🏷 MoS2/ReS2 heterostructure · supercapacitor · selective doping · built-in electric field · Mo dissolution</description>
-<category>MoS2/ReS2 heterostructure</category>
-<category>supercapacitor</category>
-<category>selective doping</category>
-<category>built-in electric field</category>
-<category>Mo dissolution</category>
-</item>
-<item>
-<title>Ligand Electronics and Metal‐Site Acidity Enable High‐Voltage MOF Electrolytes for Quasi‐Solid‐State Lithium‐Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71716</link>
-<guid isPermaLink="false">10.1002/aenm.71716</guid>
-<pubDate>Sun, 18 Oct 2026 14:01:20 GMT</pubDate>
-<description>با طراحی MOF آلومینیمی پرآلژنه Al-FBDC بر پایه الکترونیک لیگاند و اسیدیته فلز، الکترولیت شبه‌جامد پایدار در ولتاژ بالا برای باتری لیتیوم-فلز ارائه شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying ligand electronics and metal-site acidity as molecular descriptors for high-voltage-stable MOF electrolytes, guiding the design of perfluorinated Al-FBDC with a 4.82 V oxidation onset. Its incorporation into composite cathodes suppresses parasitic reactions, enabling Li||Al-FBDC@NCM quasi-solid-state cells with 82% capacity retention over 200 cycles at 4.5 V. This offers a general design principle for high-energy-density lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · MOF electrolyte · high voltage · quasi-solid-state · ligand electronics</description>
-<category>lithium-metal battery</category>
-<category>MOF electrolyte</category>
-<category>high voltage</category>
-<category>quasi-solid-state</category>
-<category>ligand electronics</category>
-</item>
-<item>
-<title>High‐Energy and Long‐Life Na 3 V 2 (PO 4 ) 2 F 3 Cathodes via Multielement V‐Site Modulation of Local M–O/F Bonding</title>
-<link>https://doi.org/10.1002/aenm.71719</link>
-<guid isPermaLink="false">10.1002/aenm.71719</guid>
-<pubDate>Sun, 18 Oct 2026 14:01:10 GMT</pubDate>
-<description>با اصلاح چندعنصری جایگاه V در NVPF، پیوند M–O/F بهبود یافته و کاتد سدیم-یونی با چگالی انرژی 477 Wh/kg و عمر 11000 چرخه ساخته شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in multielement V-site modulation (Zr, Ti, Cr, Fe, Al) creating a heterogeneous M–O/F bonding network that suppresses fluorine loss and NVP impurities. This enables a record 477 Wh kg⁻¹ energy density, 11,000-cycle life, and −40 to 80°C operation in NVPF cathodes, establishing compositional regulation as a viable strategy for high-energy, long-life, all-temperature sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · NVPF cathode · multielement doping · fluorine retention · energy density</description>
-<category>sodium-ion battery</category>
-<category>NVPF cathode</category>
-<category>multielement doping</category>
-<category>fluorine retention</category>
-<category>energy density</category>
 </item>
 </channel>
 </rss>
