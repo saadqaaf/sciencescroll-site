@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 08:01:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 09:02:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unravelling the Mechanism of Cell Voltage Divergence in Series-Connected LiFePO₄ Battery Packs during Constant-Voltage Charging</title>
+<link>https://doi.org/10.1039/d6ta06141a</link>
+<guid isPermaLink="false">10.1039/d6ta06141a</guid>
+<pubDate>Wed, 21 Oct 2026 09:02:01 GMT</pubDate>
+<description>مکانیزم واگرایی ولتاژ سلول‌ها در بسته‌های باتری LiFePO4 سری‌شده در طول شارژ با ولتاژ ثابت بررسی و روشن می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in explaining why series-connected LiFePO₄ cells diverge in voltage during constant-voltage charging despite fixed pack voltage. This matters because such divergence threatens pack safety, lifetime, and charging reliability, offering mechanistic insight to improve balancing strategies and battery management for real-world packs.&lt;br&gt;🏷 LiFePO4 battery pack · constant-voltage charging · cell voltage divergence · series connection · battery management</description>
+<category>LiFePO4 battery pack</category>
+<category>constant-voltage charging</category>
+<category>cell voltage divergence</category>
+<category>series connection</category>
+<category>battery management</category>
+</item>
+<item>
+<title>Simultaneously harnessing interfacial molecular layer and solvation structure for highly reversible and stable zinc metal anodes</title>
+<link>https://doi.org/10.1039/d6ta07104j</link>
+<guid isPermaLink="false">10.1039/d6ta07104j</guid>
+<pubDate>Wed, 21 Oct 2026 09:01:49 GMT</pubDate>
+<description>تنظیم هم‌زمان لایه مولکولی سطحی و ساختار حل‌پوشی، آند فلزی روی را برای چرخه‌پذیری پایدار و برگشت‌پذیر در باتری روی امکان‌پذیر می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in simultaneously engineering both the interfacial molecular layer and the solvation structure of the electrolyte—a dual-regulation strategy rather than a single-factor approach. This synergy suppresses dendrite growth and parasitic reactions, enabling highly reversible and stable zinc metal anodes. Its significance is providing a rational design principle for durable, practical aqueous zinc-based batteries.&lt;br&gt;🏷 zinc metal anode · solvation structure · interfacial molecular layer · dendrite suppression · zinc battery</description>
+<category>zinc metal anode</category>
+<category>solvation structure</category>
+<category>interfacial molecular layer</category>
+<category>dendrite suppression</category>
+<category>zinc battery</category>
+</item>
+<item>
+<title>Temporal Synergy of Capacity and Catalysis: High-Entropy Phosphide on Fluorinated Graphene for High-Energy Lithium-Sulfur Batteries</title>
+<link>https://doi.org/10.1039/d6ta06260a</link>
+<guid isPermaLink="false">10.1039/d6ta06260a</guid>
+<pubDate>Wed, 21 Oct 2026 09:01:36 GMT</pubDate>
+<description>فوسفید پرآنتروپی روی گرافن فلوئوردار با هم‌افزایی زمانی ظرفیت و کاتالیز، مبادله ظرفیت-پایداری را در باتری‌های Li-S پرانرژی بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining a high-entropy phosphide with fluorinated graphene to create a dual-function sulfur host that temporally synergizes capacity and catalysis, overcoming the capacity-stability trade-off. Its significance is enabling high-energy lithium-sulfur batteries with both high capacity and long-term stability, advancing next-generation energy storage.&lt;br&gt;🏷 lithium-sulfur battery · high-entropy phosphide · fluorinated graphene · polysulfide catalysis · capacity retention</description>
+<category>lithium-sulfur battery</category>
+<category>high-entropy phosphide</category>
+<category>fluorinated graphene</category>
+<category>polysulfide catalysis</category>
+<category>capacity retention</category>
+</item>
+<item>
+<title>Polysulfide Sequestration at In-Situ Polymerized Cathode Electrolyte Interface in Ether-Ester Electrolyte for Lithium-Sulfur Batteries</title>
+<link>https://doi.org/10.1039/d6ta07388c</link>
+<guid isPermaLink="false">10.1039/d6ta07388c</guid>
+<pubDate>Wed, 21 Oct 2026 09:01:22 GMT</pubDate>
+<description>با استفاده از الکترولیت اتر-استر حاوی vinylene carbonate، لایه CEI غنی از گوگرد آلی در جای خود تشکیل شده و شاتلینگ پلی‌سولفید در باتری Li-S مهار می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a VC-containing ether-ester electrolyte to form an organic-sulfur-rich CEI via in-situ polymerization, which sequesters polysulfides at the cathode interface. This approach addresses polysulfide dissolution and shuttling—the key cause of rapid capacity fading in lithium-sulfur batteries—offering a significant strategy to improve cycling stability and lifespan.&lt;br&gt;🏷 lithium-sulfur battery · polysulfide shuttling · cathode-electrolyte interphase · ether-ester electrolyte · vinylene carbonate</description>
+<category>lithium-sulfur battery</category>
+<category>polysulfide shuttling</category>
+<category>cathode-electrolyte interphase</category>
+<category>ether-ester electrolyte</category>
+<category>vinylene carbonate</category>
+</item>
 <item>
 <title>From Dense to Nanostructured Thin Film Anodes: Boosting Li-Ion Accessibility in TiO2 Thin Film Electrodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04067</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>Al doping</category>
 <category>voltage hysteresis</category>
 <category>Mn-rich phosphate</category>
-</item>
-<item>
-<title>Nanocarbon‐Assisted Anthraquinone‐Conjugated Microporous Polymer Anodes for High‐Rate, High‐Areal‐Output, Wide‐Temperature Alkaline Nickel–Organic Batteries</title>
-<link>https://doi.org/10.1002/sstr.70648</link>
-<guid isPermaLink="false">10.1002/sstr.70648</guid>
-<pubDate>Sun, 18 Oct 2026 09:01:13 GMT</pubDate>
-<description>آند پلیمر میکروپور آنتراکینون با شبکه SWCNT/rGO برای باتری قلیایی Ni(OH)2 ساخته شد که ظرفیت بالا، نرخ سریع و عملکرد گسترده دمایی از −45 تا +75 درجه سلسیوس ارائه می‌دهد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in in-situ restrained SWCNT/rGO hybridization of an anthraquinone-conjugated microporous polymer anode, enabling fast kinetics at 80 wt% active content and 60 mg cm⁻² loading. Significance: it delivers 10.1 mAh cm⁻², 4.6 mAh cm⁻² at 343 mA cm⁻², and wide-temperature operation (−45 to +75 °C) in alkaline Ni–organic batteries, advancing sustainable, high-rate aqueous energy storage.&lt;br&gt;🏷 anthraquinone polymer · nickel-organic battery · nanocarbon hybridization · high areal capacity · wide-temperature operation</description>
-<category>anthraquinone polymer</category>
-<category>nickel-organic battery</category>
-<category>nanocarbon hybridization</category>
-<category>high areal capacity</category>
-<category>wide-temperature operation</category>
-</item>
-<item>
-<title>Interfacial fracture energy as the missing descriptor in solid-state batteries: coordination-chemistry origins of manufacturing-induced mechanical memory and pressure-lean cycling</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218681</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218681</guid>
-<pubDate>Sun, 18 Oct 2026 04:01:07 GMT</pubDate>
-<description>این مقاله انرژی شکست بین‌سطحی را به‌عنوان توصیفگر کلیدی باتری‌های حالت جامد معرفی کرده و ریشه‌های شیمی‌کوئوردیناسیونی حافظه مکانیکی ساخت و چرخه‌های کم‌فشار را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | 💭 Perspective&lt;br&gt;🏷 solid-state battery · interfacial fracture energy · mechanical memory · coordination chemistry · pressure-lean cycling</description>
-<category>solid-state battery</category>
-<category>interfacial fracture energy</category>
-<category>mechanical memory</category>
-<category>coordination chemistry</category>
-<category>pressure-lean cycling</category>
-</item>
-<item>
-<title>Physics-guided learning framework based on a fractional single-particle model for battery state-of-health prediction</title>
-<link>https://doi.org/10.1016/j.est.2026.125008</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125008</guid>
-<pubDate>Sat, 17 Oct 2026 23:01:33 GMT</pubDate>
-<description>یک چارچوب یادگیری هدایت‌شده با فیزیک بر پایه مدل کسری تک‌ذره‌ای برای پیش‌بینی وضعیت سلامت باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · single-particle model · fractional calculus · physics-guided learning · lithium-ion battery</description>
-<category>state-of-health</category>
-<category>single-particle model</category>
-<category>fractional calculus</category>
-<category>physics-guided learning</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Thermal and acoustic optimization of guide pores in air-cooled charging modules serving electric vehicle batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125213</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125213</guid>
-<pubDate>Sat, 17 Oct 2026 23:01:28 GMT</pubDate>
-<description>بهینه‌سازی حرارتی و صوتی حفره‌های راهنما در ماژول‌های شارژ خنک‌شونده با هوا برای باتری خودروهای برقی انجام شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 air-cooled charging module · thermal management · acoustic optimization · guide pores · EV battery</description>
-<category>air-cooled charging module</category>
-<category>thermal management</category>
-<category>acoustic optimization</category>
-<category>guide pores</category>
-<category>EV battery</category>
 </item>
 </channel>
 </rss>
