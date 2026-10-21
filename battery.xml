@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 14:03:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:03:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Orbital coupling effect enables low-chloride concentration electrolyte for four-electron redox in aqueous zinc | |iodine batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78918-7</link>
+<guid isPermaLink="false">10.1038/s41467-026-78918-7</guid>
+<pubDate>Wed, 21 Oct 2026 15:02:02 GMT</pubDate>
+<description>اثر جفت‌شدگی اوربیتالی امکان استفاده از الکترولیت کم‌کلرید را برای واکنش ردوکس چهارالکترونی در باتری آبی zinc-iodine فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling Cu single-atom d-p orbital hybridization with localized low-concentration Cl⁻ confinement to stabilize electrophilic I⁺, enabling reversible four-electron I⁻/I⁰/I⁺ conversion in aqueous Zn||I₂ batteries. This yields a dual-voltage plateau, ~408 mAh g⁻¹ capacity, and 50,000-cycle stability, offering a rational design strategy for high-voltage, long-life iodine chemistry.&lt;br&gt;🏷 zinc-iodine battery · low-chloride electrolyte · four-electron redox · orbital coupling · aqueous electrolyte</description>
+<category>zinc-iodine battery</category>
+<category>low-chloride electrolyte</category>
+<category>four-electron redox</category>
+<category>orbital coupling</category>
+<category>aqueous electrolyte</category>
+</item>
 <item>
 <title>Layered Organic–MXene Heterostructures for High‐Capacity and Long‐Life Aqueous Sodium‐Ion Storage in Seawater‐Based Hybrid Electrolytes</title>
 <link>https://doi.org/10.1002/adfm.79059</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>SiO3C tetrahedra</category>
 <category>intercalation mechanism</category>
 <category>pouch cell</category>
-</item>
-<item>
-<title>Inner‐Sphere Penetration and Outer‐Matrix Anchoring: A Biomimetic Compartmentalized Strategy for Sub‐Zero Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76288</link>
-<guid isPermaLink="false">10.1002/smll.76288</guid>
-<pubDate>Mon, 19 Oct 2026 04:01:49 GMT</pubDate>
-<description>یک راهبرد افزودنی دوجزئی زیست‌الهام‌گرفته با DMSO و رافینوز، انجماد الکترولیت آبی روی-یون را مهار کرده و باتری را قادر به چرخه‌پذیری پایدار حتی در دمای منفی ۳۰ درجه ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a biomimetic binary additive strategy mimicking biological compartmentalized cryoprotection: penetrating DMSO modifies the Zn²⁺ solvation sheath to suppress ice formation, while non-penetrating raffinose immobilizes free water and induces glassy-state transition. This enables ultralong cycling (1600 h) and stable −30°C operation, breaking low-temperature limits of aqueous zinc-ion batteries and offering a universal paradigm for wide-temperature electrolyte engineering.&lt;br&gt;🏷 aqueous zinc-ion battery · low-temperature electrolyte · biomimetic additive · DMSO · raffinose</description>
-<category>aqueous zinc-ion battery</category>
-<category>low-temperature electrolyte</category>
-<category>biomimetic additive</category>
-<category>DMSO</category>
-<category>raffinose</category>
 </item>
 </channel>
 </rss>
