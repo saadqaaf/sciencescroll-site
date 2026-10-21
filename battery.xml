@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 04:01:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 05:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anion‐Cation Targeted Regulation Enables Ultrafast and Stable Sodium Metal Batteries at Low Temperatures</title>
+<link>https://doi.org/10.1002/anie.6809424</link>
+<guid isPermaLink="false">10.1002/anie.6809424</guid>
+<pubDate>Wed, 21 Oct 2026 05:01:21 GMT</pubDate>
+<description>تنظیم هدفمند آنیون-کاتیون با Sn(OTf)2 در باتری سدیم-فلز، ساختار سلولاسیون و SEI آلیاژی را مهندسی کرده و چرخه‌پذیری فوق‌سریع در دمای زیر صفر را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in anion-cation targeted regulation via Sn(OTf)₂, simultaneously creating a solvent-reinforced solvation structure and an alloy-based Na₁₅Sn₄ SEI—beyond anion-centric strategies. This lowers Na⁺ desolvation barriers, enabling record cycling at −20°C and −50°C and 215 Wh kg⁻¹ Ah-scale pouch cells, resolving the low-temperature kinetics-stability trade-off in sodium-metal batteries.&lt;br&gt;🏷 sodium metal battery · low temperature · solvation structure · solid electrolyte interphase · Sn(OTf)2 additive</description>
+<category>sodium metal battery</category>
+<category>low temperature</category>
+<category>solvation structure</category>
+<category>solid electrolyte interphase</category>
+<category>Sn(OTf)2 additive</category>
+</item>
+<item>
+<title>Sulfone cosolvent design to enable hydrogen-bond regulated alcohol-based electrolyte with high F- transference number for reversible fluoride ion batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112519</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112519</guid>
+<pubDate>Wed, 21 Oct 2026 05:01:05 GMT</pubDate>
+<description>طراحی کوسالونت سولفونی برای الکترولیت الکلی تنظیم‌شده با پیوند هیدروژنی با عدد انتقال F- بالا جهت باتری‌های یون فلوراید برگشت‌پذیر.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 fluoride ion battery · sulfone cosolvent · alcohol electrolyte · hydrogen bonding · F- transference number</description>
+<category>fluoride ion battery</category>
+<category>sulfone cosolvent</category>
+<category>alcohol electrolyte</category>
+<category>hydrogen bonding</category>
+<category>F- transference number</category>
+</item>
 <item>
 <title>Sulfonated covalent organic frameworks in zinc-ion batteries: structure-property relationships and ion transport mechanisms</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218672</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>configuration framework</category>
 <category>cross-attention</category>
 <category>distributed storage</category>
-</item>
-<item>
-<title>Silicon-based anodes for lithium and sodium-ion batteries: nanoparticle design, composite engineering, failure mechanisms, and practical challenges</title>
-<link>https://doi.org/10.1016/j.est.2026.125112</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125112</guid>
-<pubDate>Sat, 17 Oct 2026 13:01:26 GMT</pubDate>
-<description>این مرور به طراحی نانوذرات، مهندسی کامپوزیت، سازوکارهای شکست و چالش‌های کاربردی آندهای سیلیکونی برای باتری‌های یون‌لیتیم و یون‌سدیم می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 silicon anode · lithium-ion battery · sodium-ion battery · nanoparticle design · failure mechanisms</description>
-<category>silicon anode</category>
-<category>lithium-ion battery</category>
-<category>sodium-ion battery</category>
-<category>nanoparticle design</category>
-<category>failure mechanisms</category>
-</item>
-<item>
-<title>Multidentate anions with stepwise protonation buffer enabled durable ah-level zinc-iodine pouch cell</title>
-<link>https://doi.org/10.1016/j.est.2026.125127</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125127</guid>
-<pubDate>Sat, 17 Oct 2026 13:01:21 GMT</pubDate>
-<description>این مقاله با بهره‌گیری از آنیون‌های چنددندانه دارای بافر پروتونه‌شدن مرحله‌ای، پایداری پاکت‌سل Zn-I در مقیاس آمپرساعت را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-iodine battery · multidentate anions · protonation buffer · pouch cell · durability</description>
-<category>zinc-iodine battery</category>
-<category>multidentate anions</category>
-<category>protonation buffer</category>
-<category>pouch cell</category>
-<category>durability</category>
 </item>
 </channel>
 </rss>
