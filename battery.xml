@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 20:01:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nanoarchitectonics With Static‐Dynamic Synergistic Interfacial Remediation for Practical Zinc Metal Batteries</title>
+<link>https://doi.org/10.1002/adma.75343</link>
+<guid isPermaLink="false">10.1002/adma.75343</guid>
+<pubDate>Wed, 21 Oct 2026 21:02:33 GMT</pubDate>
+<description>لایه میان‌سطحی In/Sb همراه با افزودنی دینامیکی In3+، پایداری میان‌سطحی و رسوب یکنواخت روی را در باتری‌های آبی Zn و Br2/Zn بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling a preconstructed In/Sb interfacial layer with a dynamic In³⁺ electrolyte additive, creating static-dynamic synergy that regenerates the interface during cycling. This enables ultralong stability (~6000 h), 95% Zn utilization, and practical pouch cells (1 Ah, ~80 Wh kg⁻¹), offering a viable interfacial design for high-capacity, long-life aqueous Zn batteries.&lt;br&gt;🏷 aqueous zinc battery · In/Sb interface · electrolyte additive · interfacial remediation · Zn dendrite</description>
+<category>aqueous zinc battery</category>
+<category>In/Sb interface</category>
+<category>electrolyte additive</category>
+<category>interfacial remediation</category>
+<category>Zn dendrite</category>
+</item>
+<item>
+<title>Atomic‐Level Regulating Layer‐by‐Layer Zinc Deposition by High‐Entropy Single‐Atoms Electrolyte Additive</title>
+<link>https://doi.org/10.1002/adma.75467</link>
+<guid isPermaLink="false">10.1002/adma.75467</guid>
+<pubDate>Wed, 21 Oct 2026 21:02:17 GMT</pubDate>
+<description>افزودنی الکترولیتی نانوذرات کربنی تک‌اتمی با آنتروپی بالا، قطبش غلظت یون Zn2+ را کاهش داده و رسوب لایه‌به‌لایه روی را در باتری آبی روی هدایت می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using micropore high-entropy single-atom carbon nanoparticles (CuNiMnCoIr/CNs) as an electrolyte additive to atomically regulate Zn deposition. It suppresses interfacial Zn²⁺ depletion and supersaturation by lowering migration barriers and homogenizing ion flux, enabling layer-by-layer growth. Significance: trace additive yields high transference number (0.89) and ultra-stable cycling (4000 h), advancing energy-dense aqueous metal batteries.&lt;br&gt;🏷 aqueous zinc battery · high-entropy single-atoms · electrolyte additive · Zn deposition · dendrite suppression</description>
+<category>aqueous zinc battery</category>
+<category>high-entropy single-atoms</category>
+<category>electrolyte additive</category>
+<category>Zn deposition</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Interface‐Mediated Architectural Engineering of Silicon for Solid‐State Batteries: Current Status and Future Outlook</title>
+<link>https://doi.org/10.1002/adma.75453</link>
+<guid isPermaLink="false">10.1002/adma.75453</guid>
+<pubDate>Wed, 21 Oct 2026 21:02:08 GMT</pubDate>
+<description>این مرور چالش‌های آند سیلیکون در باتری‌های حالت جامد لیتیومی و راهبردهای مهندسی معماری واسطه‌شده در فصل مشترک را برای بهبود انتقال بار، تنش و پایداری دسته‌بندی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely systematizes interface-mediated silicon architectures for solid-state batteries into three coupling-mode categories, clarifying synergistic links between interfacial compatibility, transport, stress relaxation, and side reactions. Its significance lies in bridging fundamental challenges with scalable manufacturing and sustainable monitoring, offering design principles and future directions for stable, safe, low-pressure silicon-based solid-state batteries with high energy density and manufacturability.&lt;br&gt;🏷 silicon anode · solid-state battery · interface engineering · solid electrolyte · architectural design</description>
+<category>silicon anode</category>
+<category>solid-state battery</category>
+<category>interface engineering</category>
+<category>solid electrolyte</category>
+<category>architectural design</category>
+</item>
+<item>
+<title>Biomass DNA: An Emerging Building Block for Advanced Materials</title>
+<link>https://doi.org/10.1002/adma.75438</link>
+<guid isPermaLink="false">10.1002/adma.75438</guid>
+<pubDate>Wed, 21 Oct 2026 21:01:54 GMT</pubDate>
+<description>این مرور کاربردهای مواد مبتنی بر DNA زیست‌توده را از هیدروژل و بیوپلاستیک تا ذخیره انرژی مانند ابرخازن‌ها و باتری‌ها در قالب «درخت DNA زیست‌توده» بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review is novel in reframing biomass DNA—naturally derived, low-cost bulk biological material—rather than synthetic DNA as a scalable engineering building block, organized via a &amp;quot;Biomass DNA Tree&amp;quot; concept. Its significance lies in mapping diverse applications (hydrogels, bioplastics, fibers, energy storage, catalysis, soft robotics, OLEDs) and offering perspectives to advance sustainable biopolymer-based materials science.&lt;br&gt;🏷 biomass DNA · DNA hydrogels · bioplastics · energy storage · DNA materials</description>
+<category>biomass DNA</category>
+<category>DNA hydrogels</category>
+<category>bioplastics</category>
+<category>energy storage</category>
+<category>DNA materials</category>
+</item>
 <item>
 <title>In situ formation of lithiophobic and tough grain boundary interphases for dendrite-resistant solid-state batteries</title>
 <link>https://doi.org/10.1016/j.joule.2026.102706</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>electric double layer</category>
 <category>capacitance</category>
 <category>electrolyte mixture</category>
-</item>
-<item>
-<title>Durable Interphase Incorporating Cross‐Linked Polymer Enables Long‐Calendar‐Life Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75435</link>
-<guid isPermaLink="false">10.1002/adma.75435</guid>
-<pubDate>Mon, 19 Oct 2026 09:02:11 GMT</pubDate>
-<description>SEI هیبریدی حاوی پلیمر شبکه‌ای، پایداری مکانیکی و پسیواسیون را بهبود می‌دهد و عمر تقویمی باتری‌های لیتیوم-فلز را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a high-modulus, low-swelling cross-linked polymer in situ within an anion-derived SEI, simultaneously boosting mechanical stability (modulus 1.63→4.37 GPa) and passivation against electrolyte permeation. This dual improvement extends cycle life by 73% and calendar life by 129%, enabling a 506 Wh kg⁻¹ pouch cell, thus addressing the overlooked calendar-life challenge in lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · solid-electrolyte interphase · cross-linked polymer · calendar life · pouch cell</description>
-<category>lithium metal battery</category>
-<category>solid-electrolyte interphase</category>
-<category>cross-linked polymer</category>
-<category>calendar life</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>A Simple Descriptor for Solid‐State Ionic Conductors Across Chemistries</title>
-<link>https://doi.org/10.1002/adma.75410</link>
-<guid isPermaLink="false">10.1002/adma.75410</guid>
-<pubDate>Mon, 19 Oct 2026 09:02:06 GMT</pubDate>
-<description>توصیفگر ساده انقباض فاصله (Δd) برای غربالگری رساناهای یونی حالت جامد در شیمی‌های Li، Na، K و Mg ارائه و اعتبارسنجی می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is the &amp;quot;distance contraction&amp;quot; (∆d) descriptor—a simple local geometric measure of the largest mobile-ion–neighbor distance contraction along a migration pathway. Its significance: it captures the dominant short-range repulsion penalty, transfers across Li/Na/K/Mg chemistries and oxide/sulfide/halide classes, benchmarks existing descriptors, recovers known fast-ion conductors, and identifies validated new candidates, linking diverse transport mechanisms to one physical quantity.&lt;br&gt;🏷 solid-state ionic conductor · ion migration barrier · descriptor · high-throughput screening · distance contraction</description>
-<category>solid-state ionic conductor</category>
-<category>ion migration barrier</category>
-<category>descriptor</category>
-<category>high-throughput screening</category>
-<category>distance contraction</category>
-</item>
-<item>
-<title>Synchronic Multilevel Assembly Toward Mesoporous Nanosized Intercalation‐Type Framework Anodes for Fast‐Charging Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75455</link>
-<guid isPermaLink="false">10.1002/adma.75455</guid>
-<pubDate>Mon, 19 Oct 2026 09:01:47 GMT</pubDate>
-<description>سنتز مونتاژ چندسطحی همزمان، آندهای اکسید فلزی مزوپور نانومقیاس را برای باتری‌های سدیم-یون با شارژ سریع و پایداری بالا فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a synchronic multilevel assembly strategy that combines atomic-scale cation assembly with in situ conductive carbon networks to create mesoporous, nanosized intercalation-type sodium titanate frameworks, overcoming high-temperature multimetal oxide synthesis challenges. Significance: the M-Na4Ti5O12/C anode delivers superior rate capability and cycling stability, enabling pouch cells with high power density (~4.7 kW kg−1) that outperform hard carbon, providing a rational design framework for fast-charging SIB materials.&lt;br&gt;🏷 sodium-ion battery · sodium titanate anode · mesoporous framework · fast charging · multilevel assembly</description>
-<category>sodium-ion battery</category>
-<category>sodium titanate anode</category>
-<category>mesoporous framework</category>
-<category>fast charging</category>
-<category>multilevel assembly</category>
-</item>
-<item>
-<title>Robust Sodium–Metal Batteries Through Electrolyte‐Mediated Interfacial Regulation: Fundamentals, Design Strategies, and Operando Characterization</title>
-<link>https://doi.org/10.1002/adma.202520711</link>
-<guid isPermaLink="false">10.1002/adma.202520711</guid>
-<pubDate>Mon, 19 Oct 2026 09:01:42 GMT</pubDate>
-<description>این مرور، راهبردهای الکترولیتی و مشخصه‌یابی operando را برای تنظیم SEI و رفع موانع باتری‌های سدیم-فلز بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely integrates electrolyte-mediated SEI engineering with operando characterization, multiscale modeling, and machine learning to decode dynamic sodium–metal interface evolution. It systematically links solvent, salt, additive, and concentration strategies to SEI robustness, and highlights coupled effects of current density, temperature, and composition on nucleation, dendrite growth, and Coulombic efficiency—offering actionable guidance for practical high-performance sodium–metal batteries.&lt;br&gt;🏷 sodium-metal battery · solid-electrolyte interphase · electrolyte engineering · operando characterization · dendrite growth</description>
-<category>sodium-metal battery</category>
-<category>solid-electrolyte interphase</category>
-<category>electrolyte engineering</category>
-<category>operando characterization</category>
-<category>dendrite growth</category>
 </item>
 </channel>
 </rss>
