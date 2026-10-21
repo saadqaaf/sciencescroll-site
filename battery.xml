@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 12:02:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 13:02:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>p-n Heterojunction engineering in Na3V2(PO4)2F3-based cathode: space-charge boosted carrier kinetics for high-rate and wide-temperature sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.038</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.038</guid>
+<pubDate>Wed, 21 Oct 2026 13:01:43 GMT</pubDate>
+<description>این مقاله با مهندسی هتروجانکشن p-n در کاتد Na3V2(PO4)2F3 سینتیک حامل بار را تقویت کرده و باتری سدیم‌یونی با نرخ بالا و عملکرد دمایی گسترده ارائه می‌دهد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Na3V2(PO4)2F3 cathode · p-n heterojunction · space-charge layer · wide-temperature operation</description>
+<category>sodium-ion battery</category>
+<category>Na3V2(PO4)2F3 cathode</category>
+<category>p-n heterojunction</category>
+<category>space-charge layer</category>
+<category>wide-temperature operation</category>
+</item>
 <item>
 <title>Tailoring Crystal Facets Enables Scalable Synthesis of Highly Dispersed Single Crystal NCM90</title>
 <link>https://doi.org/10.1002/aenm.71723</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>battery design</category>
 <category>ionic transport</category>
 <category>multi-objective optimization</category>
-</item>
-<item>
-<title>Engineering Advanced Electrocatalysts for Energy‐Saving Zinc−Air Hybrid Batteries: Concurrent Energy Storage Coupled With Chemical Upgrading</title>
-<link>https://doi.org/10.1002/aenm.71713</link>
-<guid isPermaLink="false">10.1002/aenm.71713</guid>
-<pubDate>Sun, 18 Oct 2026 14:01:34 GMT</pubDate>
-<description>این مرور، باتری‌های هیبریدی زینک-هوا با اکسایش افزودنی را از نظر الکتروشیمی، انتخاب افزودنی و راهبردهای طراحی الکتروکاتالیست بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates additive-assisted zinc−air hybrid batteries that couple anodic additive oxidation with oxygen reduction for concurrent energy storage and chemical upgrading. Its novelty lies in systematically linking fundamental electrochemistry and additive selection criteria to catalyst design strategies across electronic, geometric, and interfacial modulations. It provides actionable guidance for rational design and practical deployment of next-generation energy-saving devices.&lt;br&gt;🏷 zinc-air battery · electrocatalyst · chemical upgrading · additive oxidation · energy storage</description>
-<category>zinc-air battery</category>
-<category>electrocatalyst</category>
-<category>chemical upgrading</category>
-<category>additive oxidation</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
