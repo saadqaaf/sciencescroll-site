@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 03:01:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 04:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Charge-Density-Dependent Ionomer Effects in Pure-Water CO2 Electrolysis</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02712</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02712</guid>
+<pubDate>Wed, 21 Oct 2026 04:01:03 GMT</pubDate>
+<description>چگالی بار یونومر به‌عنوان پارامتر کلیدی در الکترولیز CO2 با آب خالص شناسایی شد و یونومر با چگالی بار بالا بازده فارادی CO بالای ۹۹٪ در ۱۰۰ mA cm−2 را فراهم کرد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 CO2 electrolysis · ionomer charge density · pure-water MEA · CO Faradaic efficiency · anion-exchange ionomer</description>
+<category>CO2 electrolysis</category>
+<category>ionomer charge density</category>
+<category>pure-water MEA</category>
+<category>CO Faradaic efficiency</category>
+<category>anion-exchange ionomer</category>
+</item>
+<item>
+<title>Macroporous Interlayers Stabilize Long-Lived Hole Polarons in Organic Semiconductor Photoanodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02492</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02492</guid>
+<pubDate>Wed, 21 Oct 2026 04:01:00 GMT</pubDate>
+<description>لایه میانی مزوپور SnO2 با تسریع استخراج الکترون، پلارون‌های حفره‌ای پایدار و عمر حامل طولانی در فوتوآند آلی ایجاد کرده و بازده ۱.۴٪ تولید هیدروژن خورشیدی را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 organic photoanode · hole polaron · macroporous SnO2 · photoelectrochemical water splitting · carrier lifetime</description>
+<category>organic photoanode</category>
+<category>hole polaron</category>
+<category>macroporous SnO2</category>
+<category>photoelectrochemical water splitting</category>
+<category>carrier lifetime</category>
+</item>
 <item>
 <title>Cooling water to near freezing breaks the activity–stability trade-off of water oxidation electrocatalysis</title>
 <link>https://doi.org/10.1038/s41557-026-02274-8</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 spinamycin · diazo inter
 <category>disaster reconstruction</category>
 <category>trigger analysis</category>
 <category>risk lessons</category>
-</item>
-<item>
-<title>Lamella-wrapped fiber structure of porcupine quill enables sharpness and damage resistance</title>
-<link>https://doi.org/10.1016/j.xinn.2026.101604</link>
-<guid isPermaLink="false">10.1016/j.xinn.2026.101604</guid>
-<pubDate>Tue, 20 Oct 2026 16:01:11 GMT</pubDate>
-<description>ساختار الیاف پیچیده‌شده با لاملای خار تشی نشان می‌دهد چگونه تیزی و مقاومت به آسیب هم‌زمان حاصل می‌شود.&lt;br&gt;The Innovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 porcupine quill · lamella-wrapped fiber · damage resistance · sharpness · biomimetic structure</description>
-<category>porcupine quill</category>
-<category>lamella-wrapped fiber</category>
-<category>damage resistance</category>
-<category>sharpness</category>
-<category>biomimetic structure</category>
-</item>
-<item>
-<title>Increased southward swings of the South Indian convergence zone under greenhouse warming</title>
-<link>https://doi.org/10.1038/s41558-026-02767-x</link>
-<guid isPermaLink="false">10.1038/s41558-026-02767-x</guid>
-<pubDate>Tue, 20 Oct 2026 15:01:50 GMT</pubDate>
-<description>نوسان‌های جنوب‌سوی منطقه همگرایی جنوب هند تحت گرمایش گلخانه‌ای افزایش می‌یابد.&lt;br&gt;Nature Climate Change | 🔬 Research Article&lt;br&gt;🏷 South Indian convergence zone · greenhouse warming · southward swings · climate modeling · precipitation</description>
-<category>South Indian convergence zone</category>
-<category>greenhouse warming</category>
-<category>southward swings</category>
-<category>climate modeling</category>
-<category>precipitation</category>
 </item>
 </channel>
 </rss>
