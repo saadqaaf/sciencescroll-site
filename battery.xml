@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 07:01:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 08:01:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From Dense to Nanostructured Thin Film Anodes: Boosting Li-Ion Accessibility in TiO2 Thin Film Electrodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04067</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04067</guid>
+<pubDate>Wed, 21 Oct 2026 08:01:12 GMT</pubDate>
+<description>با ترکیب GLAD و اسپاترینگ مگنترون، آندهای نانocolumnar TiO2 ساخته شد که نفوذپذیری یون لیتیوم و ظرفیت سطحی را تا حدود ۴ برابر نسبت به فیلم‌های متراکم افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using GLAD with reactive magnetron sputtering, guided by kinetic Monte Carlo simulations, to engineer ion-accessible TiO2 nanocolumnar architectures without compositional change or postprocessing. Significance: these morphology-controlled electrodes achieve ~4-fold higher areal capacitance than dense films and uniform Li distribution throughout depth, establishing ion accessibility as the primary origin of enhanced electrochemical response.&lt;br&gt;🏷 TiO2 thin film · nanocolumnar anode · GLAD sputtering · Li-ion transport · areal capacitance</description>
+<category>TiO2 thin film</category>
+<category>nanocolumnar anode</category>
+<category>GLAD sputtering</category>
+<category>Li-ion transport</category>
+<category>areal capacitance</category>
+</item>
 <item>
 <title>High-performance Ag8W4O16-based asymmetric supercapacitors for high energy density and real-time energy delivery</title>
 <link>https://doi.org/10.1016/j.est.2026.125193</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>acoustic optimization</category>
 <category>guide pores</category>
 <category>EV battery</category>
-</item>
-<item>
-<title>Ethanol driven Ni, Co and S elements generate NiCo2S4 crystal phases for high-performance asymmetric supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.124933</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124933</guid>
-<pubDate>Sat, 17 Oct 2026 23:01:21 GMT</pubDate>
-<description>سنتز مبتنی بر اتانول با عناصر Ni، Co و S فازهای بلوری NiCo2S4 را برای ابرخازن نامتقارن با عملکرد بالا ایجاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NiCo2S4 · asymmetric supercapacitor · ethanol synthesis · crystal phase · electrode material</description>
-<category>NiCo2S4</category>
-<category>asymmetric supercapacitor</category>
-<category>ethanol synthesis</category>
-<category>crystal phase</category>
-<category>electrode material</category>
 </item>
 </channel>
 </rss>
