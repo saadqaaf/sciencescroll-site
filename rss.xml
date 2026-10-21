@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 23:02:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Originating from nature: a review of the design, fabrication, and applications of cantilever bio-inspired sensors</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101868</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101868</guid>
+<pubDate>Wed, 21 Oct 2026 00:01:06 GMT</pubDate>
+<description>این مرور به طراحی، ساخت و کاربردهای حسگرهای کنسولی الهام‌گرفته از طبیعت می‌پردازد و راهبردهای زیستی برای بهبود عملکرد حسگری را جمع‌بندی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 bio-inspired sensor · cantilever · biomimetic design · fabrication · sensing mechanism</description>
+<category>bio-inspired sensor</category>
+<category>cantilever</category>
+<category>biomimetic design</category>
+<category>fabrication</category>
+<category>sensing mechanism</category>
+</item>
 <item>
 <title>Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions</title>
 <link>https://doi.org/10.1038/d41586-026-03316-4</link>
@@ -1203,18 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 spinamycin · diazo inter
 <category>polymer chemistry</category>
 <category>chirality</category>
 <category>self-assembly</category>
-</item>
-<item>
-<title>Stacking-specific two-dimensional In2Se3 for ferroelectric homojunctions</title>
-<link>https://doi.org/10.1038/s41565-026-02309-8</link>
-<guid isPermaLink="false">10.1038/s41565-026-02309-8</guid>
-<pubDate>Tue, 20 Oct 2026 14:01:55 GMT</pubDate>
-<description>این مقاله هم‌پیوندهای فروالکتریک مبتنی بر In2Se3 دوبعدی را با کنترل ترتیب انباشت لایه‌ها بررسی و نشان می‌دهد که ترتیب انباشت خواص فروالکتریک را تعیین می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 In2Se3 · ferroelectric homojunction · stacking · 2D material · polarization</description>
-<category>In2Se3</category>
-<category>ferroelectric homojunction</category>
-<category>stacking</category>
-<category>2D material</category>
-<category>polarization</category>
 </item>
 </channel>
 </rss>
