@@ -5,8 +5,440 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 18:02:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 19:04:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Recordanelles for transcriptome-wide single-cell RNA recording in human cells</title>
+<link>https://doi.org/10.1038/s41587-026-03327-6</link>
+<guid isPermaLink="false">10.1038/s41587-026-03327-6</guid>
+<pubDate>Wed, 21 Oct 2026 19:04:03 GMT</pubDate>
+<description>ارگانل مصنوعی recordanelle برای ثبت سراسری ترانسکریپتوم در سلول‌های انسانی معرفی می‌شود که تا ۹۰٪ mRNAهای درون‌زا را چند روز حفظ می‌کند.&lt;br&gt;Nature Biotechnology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 recordanelle · RNA recording · single-cell transcriptome · synthetic organelle · mRNA capture</description>
+<category>recordanelle</category>
+<category>RNA recording</category>
+<category>single-cell transcriptome</category>
+<category>synthetic organelle</category>
+<category>mRNA capture</category>
+</item>
+<item>
+<title>Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells</title>
+<link>https://doi.org/10.1038/s41587-026-03348-1</link>
+<guid isPermaLink="false">10.1038/s41587-026-03348-1</guid>
+<pubDate>Wed, 21 Oct 2026 19:04:00 GMT</pubDate>
+<description>مدل DynaVelo با معادلات دیفرانسیل عصبی، دینامیک بیان ژن و فعالیت موتیف TF را در لنفوسیت‌های B مرکز زایا مدل‌سازی و اهداف نجات Arid1a را پیش‌بینی می‌کند.&lt;br&gt;Nature Biotechnology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 DynaVelo · single-cell multiome · neural ODE · germinal center B cells · gene regulatory networks</description>
+<category>DynaVelo</category>
+<category>single-cell multiome</category>
+<category>neural ODE</category>
+<category>germinal center B cells</category>
+<category>gene regulatory networks</category>
+</item>
+<item>
+<title>Worms live longer in cool conditions thanks to a muscle-derived molecule</title>
+<link>https://doi.org/10.1038/d41586-026-03066-3</link>
+<guid isPermaLink="false">10.1038/d41586-026-03066-3</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:54 GMT</pubDate>
+<description>کرم‌ها در دمای سرد به‌واسطه یک مولکول مشتق از ماهیچه عمر طولانی‌تری دارند و مسیر مولکولی تنظیم طول عمر را نشان می‌دهند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 C. elegans · lifespan · muscle-derived molecule · cold temperature · aging</description>
+<category>C. elegans</category>
+<category>lifespan</category>
+<category>muscle-derived molecule</category>
+<category>cold temperature</category>
+<category>aging</category>
+</item>
+<item>
+<title>Plastics embedded with enzymes degrade readily in the sea</title>
+<link>https://doi.org/10.1038/d41586-026-03282-x</link>
+<guid isPermaLink="false">10.1038/d41586-026-03282-x</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:51 GMT</pubDate>
+<description>پلاستیک‌های حاوی آنزیم در محیط دریایی به‌سرعت تجزیه می‌شوند و راهی برای کاهش آلودگی پلاستیک ارائه می‌دهند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 biodegradable plastics · enzymes · marine degradation · polymer · biocatalysis</description>
+<category>biodegradable plastics</category>
+<category>enzymes</category>
+<category>marine degradation</category>
+<category>polymer</category>
+<category>biocatalysis</category>
+</item>
+<item>
+<title>Cave stalagmites document global patterns in monsoon rainfall over the past 450,000 years</title>
+<link>https://doi.org/10.1038/d41586-026-03285-8</link>
+<guid isPermaLink="false">10.1038/d41586-026-03285-8</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:45 GMT</pubDate>
+<description>استالاگمیت‌های غار الگوهای جهانی بارش موسمی را در ۴۵۰ هزار سال گذشته ثبت کرده و تغییرات اقلیمی را نشان می‌دهند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 stalagmites · monsoon rainfall · paleoclimate · speleothem · uranium-thorium dating</description>
+<category>stalagmites</category>
+<category>monsoon rainfall</category>
+<category>paleoclimate</category>
+<category>speleothem</category>
+<category>uranium-thorium dating</category>
+</item>
+<item>
+<title>Large-scale single crystals printed layer by layer</title>
+<link>https://doi.org/10.1038/d41586-026-03257-y</link>
+<guid isPermaLink="false">10.1038/d41586-026-03257-y</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:40 GMT</pubDate>
+<description>این پژوهش روشی برای چاپ لایه‌به‌لایه بلورهای تک‌بلور در مقیاس بزرگ ارائه می‌دهد که کنترل جهت‌گیری بلوری را ممکن می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 single crystals · layer-by-layer printing · crystal growth · additive manufacturing · large-scale synthesis</description>
+<category>single crystals</category>
+<category>layer-by-layer printing</category>
+<category>crystal growth</category>
+<category>additive manufacturing</category>
+<category>large-scale synthesis</category>
+</item>
+<item>
+<title>An AI tool improves weather forecasts up to a month ahead</title>
+<link>https://doi.org/10.1038/d41586-026-03077-0</link>
+<guid isPermaLink="false">10.1038/d41586-026-03077-0</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:37 GMT</pubDate>
+<description>یک ابزار هوش مصنوعی دقت پیش‌بینی هوا را تا یک ماه آینده بهبود می‌بخشد و امکان پیش‌بینی زیرفصلی بهتر را فراهم می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 weather forecasting · artificial intelligence · subseasonal prediction · machine learning · atmospheric model</description>
+<category>weather forecasting</category>
+<category>artificial intelligence</category>
+<category>subseasonal prediction</category>
+<category>machine learning</category>
+<category>atmospheric model</category>
+</item>
+<item>
+<title>Fabric user interface can be worn on your sleeve — and machine-washed</title>
+<link>https://doi.org/10.1038/d41586-026-03064-5</link>
+<guid isPermaLink="false">10.1038/d41586-026-03064-5</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:34 GMT</pubDate>
+<description>پژوهشگران یک رابط کاربری پارچه‌ای قابل پوشیدن روی آستین ساختند که در برابر شست‌وشو با ماشین مقاوم است.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 fabric interface · wearable electronics · textile sensor · machine washable · smart clothing</description>
+<category>fabric interface</category>
+<category>wearable electronics</category>
+<category>textile sensor</category>
+<category>machine washable</category>
+<category>smart clothing</category>
+</item>
+<item>
+<title>This is what the mysterious Denisovans looked like</title>
+<link>https://doi.org/10.1038/d41586-026-03360-0</link>
+<guid isPermaLink="false">10.1038/d41586-026-03360-0</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:29 GMT</pubDate>
+<description>این گزارش بر پایه شواهد ژنومی و فسیلی، تصویری از ظاهر انسان‌های دنیسووا و جایگاه تکاملی آن‌ها ارائه می‌دهد.&lt;br&gt;Nature | 💭 Perspective&lt;br&gt;🏷 Denisovans · paleogenomics · hominin evolution · ancient DNA · facial reconstruction</description>
+<category>Denisovans</category>
+<category>paleogenomics</category>
+<category>hominin evolution</category>
+<category>ancient DNA</category>
+<category>facial reconstruction</category>
+</item>
+<item>
+<title>Using AI to offer personalized health advice</title>
+<link>https://doi.org/10.1038/d41586-026-03065-4</link>
+<guid isPermaLink="false">10.1038/d41586-026-03065-4</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:26 GMT</pubDate>
+<description>این مقاله درباره استفاده از هوش مصنوعی برای ارائه توصیه‌های سلامت شخصی‌سازی‌شده و چالش‌های آن بحث می‌کند.&lt;br&gt;Nature | 💭 Perspective&lt;br&gt;🏷 artificial intelligence · personalized health · health advice · large language models · digital medicine</description>
+<category>artificial intelligence</category>
+<category>personalized health</category>
+<category>health advice</category>
+<category>large language models</category>
+<category>digital medicine</category>
+</item>
+<item>
+<title>Can plants defend coasts against storms?</title>
+<link>https://doi.org/10.1038/d41586-026-03063-6</link>
+<guid isPermaLink="false">10.1038/d41586-026-03063-6</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:21 GMT</pubDate>
+<description>این مقاله به بررسی توانایی پوشش گیاهی ساحلی در کاهش اثر امواج و طوفان‌ها و حفاظت از سواحل می‌پردازد.&lt;br&gt;Nature | 💭 Perspective&lt;br&gt;🏷 coastal protection · storm surge · vegetation · wave attenuation · ecosystem services</description>
+<category>coastal protection</category>
+<category>storm surge</category>
+<category>vegetation</category>
+<category>wave attenuation</category>
+<category>ecosystem services</category>
+</item>
+<item>
+<title>Persistent neuronal stress signalling underlies Angelman syndrome phenotypes</title>
+<link>https://doi.org/10.1038/s41586-026-11165-4</link>
+<guid isPermaLink="false">10.1038/s41586-026-11165-4</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:16 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که سیگنالینگ استرس نورونی پایدار زمینه‌ساز فنوتیپ‌های سندرم آنجلمن است.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Angelman syndrome · neuronal stress · stress signalling · UBE3A · neurodevelopment</description>
+<category>Angelman syndrome</category>
+<category>neuronal stress</category>
+<category>stress signalling</category>
+<category>UBE3A</category>
+<category>neurodevelopment</category>
+</item>
+<item>
+<title>The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology</title>
+<link>https://doi.org/10.1038/s41586-026-11132-z</link>
+<guid isPermaLink="false">10.1038/s41586-026-11132-z</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:12 GMT</pubDate>
+<description>پروتئوم فسیل ژوجیایائو از پلئیستوسن میانی نشان می‌دهد که ریخت‌شناسی دنیسووانی در آن رایج بوده است.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Xujiayao · Middle Pleistocene · Denisovan · proteome · hominin morphology</description>
+<category>Xujiayao</category>
+<category>Middle Pleistocene</category>
+<category>Denisovan</category>
+<category>proteome</category>
+<category>hominin morphology</category>
+</item>
+<item>
+<title>Functional architecture of the human insula</title>
+<link>https://doi.org/10.1038/s41586-026-11175-2</link>
+<guid isPermaLink="false">10.1038/s41586-026-11175-2</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:08 GMT</pubDate>
+<description>این مقاله معماری عملکردی انسولای انسان را مرور می‌کند و سازمان‌بندی آن را روشن می‌سازد.&lt;br&gt;Nature | ⭐ Review&lt;br&gt;🏷 human insula · functional architecture · brain connectivity · neuroimaging · cortical organization</description>
+<category>human insula</category>
+<category>functional architecture</category>
+<category>brain connectivity</category>
+<category>neuroimaging</category>
+<category>cortical organization</category>
+</item>
+<item>
+<title>Additive manufacturing of ultralong and architected single crystals</title>
+<link>https://doi.org/10.1038/s41586-026-11185-0</link>
+<guid isPermaLink="false">10.1038/s41586-026-11185-0</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:05 GMT</pubDate>
+<description>این مقاله روشی برای ساخت افزایشی بلورهای تک‌بلور بسیار بلند و معماری‌شده ارائه می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 additive manufacturing · single crystals · ultralong crystals · architected structures · crystal growth</description>
+<category>additive manufacturing</category>
+<category>single crystals</category>
+<category>ultralong crystals</category>
+<category>architected structures</category>
+<category>crystal growth</category>
+</item>
+<item>
+<title>An environmentally regulated dichotomy in cell lineages of the root</title>
+<link>https://doi.org/10.1038/s41586-026-11179-y</link>
+<guid isPermaLink="false">10.1038/s41586-026-11179-y</guid>
+<pubDate>Wed, 21 Oct 2026 19:03:02 GMT</pubDate>
+<description>این مقاله یک دوگانگی تنظیم‌شده با محیط در دودمان‌های سلولی ریشه گیاه را توصیف می‌کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 root cell lineage · environmental regulation · dichotomy · plant development · stem cells</description>
+<category>root cell lineage</category>
+<category>environmental regulation</category>
+<category>dichotomy</category>
+<category>plant development</category>
+<category>stem cells</category>
+</item>
+<item>
+<title>Structural basis for protocadherin-1 recognition by New World hantaviruses</title>
+<link>https://doi.org/10.1038/s41586-026-11184-1</link>
+<guid isPermaLink="false">10.1038/s41586-026-11184-1</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:58 GMT</pubDate>
+<description>این مقاله مبنای ساختاری شناسایی protocadherin-1 توسط هانتاویروس‌های دنیای جدید را روشن می‌کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 protocadherin-1 · hantavirus · viral entry · structural biology · receptor recognition</description>
+<category>protocadherin-1</category>
+<category>hantavirus</category>
+<category>viral entry</category>
+<category>structural biology</category>
+<category>receptor recognition</category>
+</item>
+<item>
+<title>CD51 delineates functionally distinct astrocyte subtypes in neural circuits</title>
+<link>https://doi.org/10.1038/s41586-026-11186-z</link>
+<guid isPermaLink="false">10.1038/s41586-026-11186-z</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:55 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که CD51 زیرگروه‌های آستروسیتی با عملکرد متمایز را در مدارهای عصبی مشخص می‌کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CD51 · astrocyte subtypes · neural circuits · cell markers · glia</description>
+<category>CD51</category>
+<category>astrocyte subtypes</category>
+<category>neural circuits</category>
+<category>cell markers</category>
+<category>glia</category>
+</item>
+<item>
+<title>Octupole-driven spin torque switching of antiferromagnetic tunnel junctions</title>
+<link>https://doi.org/10.1038/s41586-026-11172-5</link>
+<guid isPermaLink="false">10.1038/s41586-026-11172-5</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:51 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که قطب‌های هشت‌قطبی می‌توانند سوئیچینگ گشتاور اسپینی را در پیوندهای تونلی آنتی‌فرومغناطیسی کنترل کنند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 antiferromagnetic tunnel junction · octupole · spin torque switching · spintronics · magnetization switching</description>
+<category>antiferromagnetic tunnel junction</category>
+<category>octupole</category>
+<category>spin torque switching</category>
+<category>spintronics</category>
+<category>magnetization switching</category>
+</item>
+<item>
+<title>Multimodal precision diagnostics in clinical xenotransplantation</title>
+<link>https://doi.org/10.1038/s41586-026-11096-0</link>
+<guid isPermaLink="false">10.1038/s41586-026-11096-0</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:45 GMT</pubDate>
+<description>این مقاله یک رویکرد تشخیصی چندوجهی و دقیق برای پایش پیوند بیگانه در کاربردهای بالینی ارائه می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 clinical xenotransplantation · precision diagnostics · multimodal monitoring · graft rejection · biomarkers</description>
+<category>clinical xenotransplantation</category>
+<category>precision diagnostics</category>
+<category>multimodal monitoring</category>
+<category>graft rejection</category>
+<category>biomarkers</category>
+</item>
+<item>
+<title>WEE1 opposes APC/CCDH1 activity to promote S phase entry</title>
+<link>https://doi.org/10.1038/s41586-026-11188-x</link>
+<guid isPermaLink="false">10.1038/s41586-026-11188-x</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:42 GMT</pubDate>
+<description>WEE1 با فسفریله کردن CDH1 و مقابله با APC/C-CDH1 ورود سلول به فاز S را تقویت می‌کند و این سازوکار بر استفاده بالینی از مهارکننده‌های WEE1 اثر دارد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 WEE1 kinase · APC/C-CDH1 · cell cycle re-entry · p21 · WEE1 inhibitors</description>
+<category>WEE1 kinase</category>
+<category>APC/C-CDH1</category>
+<category>cell cycle re-entry</category>
+<category>p21</category>
+<category>WEE1 inhibitors</category>
+</item>
+<item>
+<title>Amazon carbon emissions driven by human actions amplified by droughts</title>
+<link>https://doi.org/10.1038/s41586-026-11168-1</link>
+<guid isPermaLink="false">10.1038/s41586-026-11168-1</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:38 GMT</pubDate>
+<description>تحلیل ۱۵ ساله شارهای کربن آمازون نشان می‌دهد فعالیت‌های انسانی و خشکسالی انتشار کربن را تشدید می‌کنند و آتش‌سوزی منبع اصلی است.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Amazon carbon emissions · deforestation · drought · fire emissions · carbon balance</description>
+<category>Amazon carbon emissions</category>
+<category>deforestation</category>
+<category>drought</category>
+<category>fire emissions</category>
+<category>carbon balance</category>
+</item>
+<item>
+<title>Enzyme-embedded polyesters for accelerated biodegradation in the deep sea</title>
+<link>https://doi.org/10.1038/s41586-026-11192-1</link>
+<guid isPermaLink="false">10.1038/s41586-026-11192-1</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:34 GMT</pubDate>
+<description>جاسازی آنزیم در پلی‌استرهای قابل کمپوست مانند PBS و PBAT تجزیه زیستی آن‌ها را در محیط‌های ساحلی و دریای عمیق به‌طور چشمگیری تسریع می‌کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 enzyme-embedded polyester · biodegradation · deep sea · PBS · marine plastics</description>
+<category>enzyme-embedded polyester</category>
+<category>biodegradation</category>
+<category>deep sea</category>
+<category>PBS</category>
+<category>marine plastics</category>
+</item>
+<item>
+<title>Touch-sensing digital pixel fibre enables interactive garment GUI</title>
+<link>https://doi.org/10.1038/s41586-026-11128-9</link>
+<guid isPermaLink="false">10.1038/s41586-026-11128-9</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:30 GMT</pubDate>
+<description>این مقاله یک الیاف پیکسلی دیجیتال حساس به لمس را برای ساخت رابط گرافیکی کاربری در پوشاک تعاملی معرفی می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 digital pixel fibre · touch sensing · smart textile · interactive garment · wearable display</description>
+<category>digital pixel fibre</category>
+<category>touch sensing</category>
+<category>smart textile</category>
+<category>interactive garment</category>
+<category>wearable display</category>
+</item>
+<item>
+<title>Drought and disease trigger novel interactions among top predators</title>
+<link>https://doi.org/10.1038/s41586-026-11194-z</link>
+<guid isPermaLink="false">10.1038/s41586-026-11194-z</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:27 GMT</pubDate>
+<description>خشکسالی و بیماری طعمه مشترک، تعاملات جدیدی میان شکارچیان رأس مانند سیاه‌گوش و کورکور ایجاد می‌کند و پیامدهای آبشاری دارد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 apex predators · drought · disease · predator interactions · trophic cascade</description>
+<category>apex predators</category>
+<category>drought</category>
+<category>disease</category>
+<category>predator interactions</category>
+<category>trophic cascade</category>
+</item>
+<item>
+<title>Zeolite-catalysed olefin carbonylation based on tuning spatial confinement</title>
+<link>https://doi.org/10.1038/s41586-026-11183-2</link>
+<guid isPermaLink="false">10.1038/s41586-026-11183-2</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:23 GMT</pubDate>
+<description>این مقاله کربونیلاسیون الفین‌ها را با کاتالیزور زئولیتی و از طریق تنظیم محدودیت فضایی حفره‌های کاتالیزور انجام می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 zeolite catalysis · olefin carbonylation · spatial confinement · carbonylation · heterogeneous catalysis</description>
+<category>zeolite catalysis</category>
+<category>olefin carbonylation</category>
+<category>spatial confinement</category>
+<category>carbonylation</category>
+<category>heterogeneous catalysis</category>
+</item>
+<item>
+<title>A single archaeon couples long-chain fatty acid oxidation to methanogenesis</title>
+<link>https://doi.org/10.1038/s41586-026-11207-x</link>
+<guid isPermaLink="false">10.1038/s41586-026-11207-x</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:19 GMT</pubDate>
+<description>این مقاله نشان می‌دهد یک آرکیون منفرد اکسیداسیون اسیدهای چرب زنجیره بلند را به تولید متان متصل می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 archaeon · fatty acid oxidation · methanogenesis · syntrophy · anaerobic metabolism</description>
+<category>archaeon</category>
+<category>fatty acid oxidation</category>
+<category>methanogenesis</category>
+<category>syntrophy</category>
+<category>anaerobic metabolism</category>
+</item>
+<item>
+<title>The anatomy of a personal health agent</title>
+<link>https://doi.org/10.1038/s41586-026-11161-8</link>
+<guid isPermaLink="false">10.1038/s41586-026-11161-8</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:15 GMT</pubDate>
+<description>این مقاله یک عامل سلامت شخصی مبتنی بر مدل‌های زبانی بزرگ و چند زیرعامل تخصصی را برای تفسیر داده‌های پوشیدنی و ارائه پشتیبانی سلامت توسعه می‌دهد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 personal health agent · large language models · multi-agent framework · wearable data · health coaching</description>
+<category>personal health agent</category>
+<category>large language models</category>
+<category>multi-agent framework</category>
+<category>wearable data</category>
+<category>health coaching</category>
+</item>
+<item>
+<title>The contribution of salt marshes to wave attenuation during extreme storms</title>
+<link>https://doi.org/10.1038/s41586-026-11145-8</link>
+<guid isPermaLink="false">10.1038/s41586-026-11145-8</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:12 GMT</pubDate>
+<description>این مقاله سهم مرداب‌های نمکی را در کاهش انرژی امواج در طول طوفان‌های شدید و حفاظت ساحلی ارزیابی می‌کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 salt marshes · wave attenuation · extreme storms · coastal protection · flood risk</description>
+<category>salt marshes</category>
+<category>wave attenuation</category>
+<category>extreme storms</category>
+<category>coastal protection</category>
+<category>flood risk</category>
+</item>
+<item>
+<title>Cold activates a BH2 metabolic network promoting longevity and proteostasis</title>
+<link>https://doi.org/10.1038/s41586-026-11152-9</link>
+<guid isPermaLink="false">10.1038/s41586-026-11152-9</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:07 GMT</pubDate>
+<description>سرما با افزایش BH2 در ماهیچه و تبدیل آن به BH4 در بافت‌های دور، طول عمر و پروتئوستاز را در C. elegans بهبود می‌دهد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 BH2 · BH4 · cold longevity · proteostasis · intertissue signaling</description>
+<category>BH2</category>
+<category>BH4</category>
+<category>cold longevity</category>
+<category>proteostasis</category>
+<category>intertissue signaling</category>
+</item>
+<item>
+<title>GRP75-dependent SIMPA mediates inter-organellar quality control</title>
+<link>https://doi.org/10.1038/s41586-026-10733-y</link>
+<guid isPermaLink="false">10.1038/s41586-026-10733-y</guid>
+<pubDate>Wed, 21 Oct 2026 19:02:03 GMT</pubDate>
+<description>این مقاله نقش GRP75 و SIMPA را در کنترل کیفیت بین‌اندامکی و حفظ هموستاز پروتئینی بررسی می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 GRP75 · SIMPA · inter-organellar quality control · mitochondria · proteostasis</description>
+<category>GRP75</category>
+<category>SIMPA</category>
+<category>inter-organellar quality control</category>
+<category>mitochondria</category>
+<category>proteostasis</category>
+</item>
+<item>
+<title>De novo design of enantioselective artificial metalloenzyme photocatalysts</title>
+<link>https://doi.org/10.1038/s41586-026-11317-6</link>
+<guid isPermaLink="false">10.1038/s41586-026-11317-6</guid>
+<pubDate>Wed, 21 Oct 2026 19:01:58 GMT</pubDate>
+<description>این مقاله طراحی از نو متالوآنزیم‌های مصنوعی فتالکاتالیست انانتیوگزین را ارائه می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 artificial metalloenzyme · enantioselectivity · photocatalysis · de novo design · protein catalysis</description>
+<category>artificial metalloenzyme</category>
+<category>enantioselectivity</category>
+<category>photocatalysis</category>
+<category>de novo design</category>
+<category>protein catalysis</category>
+</item>
+<item>
+<title>Programmable design of functional proteins from natural language</title>
+<link>https://doi.org/10.1038/s41586-026-11205-z</link>
+<guid isPermaLink="false">10.1038/s41586-026-11205-z</guid>
+<pubDate>Wed, 21 Oct 2026 19:01:54 GMT</pubDate>
+<description>این مقاله طراحی برنامه‌پذیر پروتئین‌های عملکردی را با استفاده از مدل‌های زبانی طبیعی نشان می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 protein design · natural language model · generative model · functional proteins · protein engineering</description>
+<category>protein design</category>
+<category>natural language model</category>
+<category>generative model</category>
+<category>functional proteins</category>
+<category>protein engineering</category>
+</item>
+<item>
+<title>High-entropy engineered KNN-based ceramics with enhanced energy-storage performance</title>
+<link>https://doi.org/10.1039/d6ta06547c</link>
+<guid isPermaLink="false">10.1039/d6ta06547c</guid>
+<pubDate>Wed, 21 Oct 2026 19:01:41 GMT</pubDate>
+<description>مهندسی آنتروپی بالا در سرامیک‌های KNN با اعوجاج شبکه و تنظیم شیمی نقص، چگالی انرژی 6.6 J cm−3 و بازده 80.1% را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 high-entropy ceramics · KNN · energy storage · lattice distortion · defect chemistry</description>
+<category>high-entropy ceramics</category>
+<category>KNN</category>
+<category>energy storage</category>
+<category>lattice distortion</category>
+<category>defect chemistry</category>
+</item>
+<item>
+<title>Local Polarization Heterogeneity Mediates Reversible Switching in PbZrO 3 -Based Antiferroelectrics</title>
+<link>https://doi.org/10.1039/d6ta07562b</link>
+<guid isPermaLink="false">10.1039/d6ta07562b</guid>
+<pubDate>Wed, 21 Oct 2026 19:01:37 GMT</pubDate>
+<description>ناهمگنی قطبش موضعی، سوئیچینگ برگشت‌پذیر AFE-FE را در سرامیک‌های آنتی‌فروالکتریک بر پایه PbZrO3 میانجی‌گری می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 antiferroelectric ceramics · PbZrO3 · polarization heterogeneity · AFE-FE switching · energy storage</description>
+<category>antiferroelectric ceramics</category>
+<category>PbZrO3</category>
+<category>polarization heterogeneity</category>
+<category>AFE-FE switching</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Accelerated Interfacial Kinetics and Enhanced Proton Transport for High-Performance Low-Temperature Ceramic Fuel Cells</title>
+<link>https://doi.org/10.1039/d6ta06583j</link>
+<guid isPermaLink="false">10.1039/d6ta06583j</guid>
+<pubDate>Wed, 21 Oct 2026 19:01:33 GMT</pubDate>
+<description>هم‌دوپینگ Ni-Fe در الکترولیت‌های سریم‌دار، انتقال پروتون و سینتیک بین‌سطحی را برای پیل سوختی سرامیکی دماپایین بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 ceramic fuel cells · proton transport · Ni-Fe co-doping · interfacial kinetics · low-temperature operation</description>
+<category>ceramic fuel cells</category>
+<category>proton transport</category>
+<category>Ni-Fe co-doping</category>
+<category>interfacial kinetics</category>
+<category>low-temperature operation</category>
+</item>
 <item>
 <title>Mechanical performance and progressive failure analysis of filament-wound bonded FRP anchorages</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114332</link>
@@ -781,438 +1213,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Pt(IV)
 <category>P(V) compounds</category>
 <category>diamine ligand</category>
 <category>dynamic tunability</category>
-</item>
-<item>
-<title>Spatiotemporal analysis of insecticide-treated bednet coverage, age and type in Africa from 2006-2024</title>
-<link>https://doi.org/10.1038/s41467-026-78456-2</link>
-<guid isPermaLink="false">10.1038/s41467-026-78456-2</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:46 GMT</pubDate>
-<description>مدل MITN پوشش توری‌های حشره‌کش را در سطح زیرملی ۴۴ کشور آفریقا از ۲۰۰۶ تا ۲۰۲۴ برآورد می‌کند و رکود شاخص‌های پوشش و رشد توری‌های نسل جدید را نشان می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 insecticide-treated nets · malaria · ITN coverage · subnational modelling · net demography</description>
-<category>insecticide-treated nets</category>
-<category>malaria</category>
-<category>ITN coverage</category>
-<category>subnational modelling</category>
-<category>net demography</category>
-</item>
-<item>
-<title>Ethnoracial disparities in emergency department triage are more pronounced in lower-risk visits: a multicenter study</title>
-<link>https://doi.org/10.1038/s41467-026-78526-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-78526-5</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:43 GMT</pubDate>
-<description>این مطالعه چندمرکزی نشان می‌دهد نابرابری‌های قومی-نژادی در تریاژ اورژانس در مراجعات کم‌خطر بارزتر است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 emergency department triage · ethnoracial disparities · multicenter study · low-risk visits · health equity</description>
-<category>emergency department triage</category>
-<category>ethnoracial disparities</category>
-<category>multicenter study</category>
-<category>low-risk visits</category>
-<category>health equity</category>
-</item>
-<item>
-<title>Strain-engineered fabrication of high-density aligned graphene-based nanoscrolls via UV-tunable adhesive tapes</title>
-<link>https://doi.org/10.1038/s41467-026-78264-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-78264-8</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:38 GMT</pubDate>
-<description>این کار با مهندسی کرنش و نوار چسب تنظیم‌پذیر با UV، نانوسکرول‌های گرافنی چگال و هم‌راستا با زاویه پیچش قابل کنترل و رسانایی بهبودیافته می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene nanoscrolls · strain engineering · UV tape · MoS2 heterostructure · chirality control</description>
-<category>graphene nanoscrolls</category>
-<category>strain engineering</category>
-<category>UV tape</category>
-<category>MoS2 heterostructure</category>
-<category>chirality control</category>
-</item>
-<item>
-<title>High-content morphological profiling by Cell Painting in 3D spheroids</title>
-<link>https://doi.org/10.1038/s41467-026-78596-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-78596-5</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:33 GMT</pubDate>
-<description>این مقاله روشی مقیاس‌پذیر برای Cell Painting در اسفروئیدهای سه‌بعدی با شفاف‌سازی بافت ارائه می‌دهد که اثر داروها را در سطح تک‌سلول بهتر تفکیک می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Cell Painting · 3D spheroids · high-content imaging · tissue clearing · drug profiling</description>
-<category>Cell Painting</category>
-<category>3D spheroids</category>
-<category>high-content imaging</category>
-<category>tissue clearing</category>
-<category>drug profiling</category>
-</item>
-<item>
-<title>HRDPath: an explainable multi-model deep learning architecture for predicting homologous recombination deficiency from histopathology images</title>
-<link>https://doi.org/10.1038/s41467-026-78430-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-78430-y</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:30 GMT</pubDate>
-<description>HRDPath یک معماری یادگیری عمیق قابل تفسیر است که وضعیت کمبود نوترکیبی همولوگ را از تصاویر بافت‌شناسی در سرطان تخمدان با AUC 0.846 پیش‌بینی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 homologous recombination deficiency · deep learning · histopathology · ovarian cancer · digital biomarker</description>
-<category>homologous recombination deficiency</category>
-<category>deep learning</category>
-<category>histopathology</category>
-<category>ovarian cancer</category>
-<category>digital biomarker</category>
-</item>
-<item>
-<title>Controlled living ring expansion polymerization for the precision synthesis of cyclic poly(aryl isocyanides)</title>
-<link>https://doi.org/10.1038/s41467-026-78466-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-78466-0</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:27 GMT</pubDate>
-<description>این مقاله روش پلیمریزاسیون حلقه‌گشایی زنده را برای سنتز دقیق پلی(آریل ایزوسیانات)های حلقوی معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ring expansion polymerization · cyclic polymer · poly(aryl isocyanide) · living polymerization · precision synthesis</description>
-<category>ring expansion polymerization</category>
-<category>cyclic polymer</category>
-<category>poly(aryl isocyanide)</category>
-<category>living polymerization</category>
-<category>precision synthesis</category>
-</item>
-<item>
-<title>Sevuparin in children with severe malaria: a phase I safety and dose-finding trial</title>
-<link>https://doi.org/10.1038/s41467-026-78536-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-78536-3</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:24 GMT</pubDate>
-<description>این کارآزمایی فاز یک، حداکثر دوز قابل تحمل sevuparin را ۳ میلی‌گرم بر کیلوگرم در سه تزریق برای کودکان مبتلا به مالاریای شدید تعیین کرد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 severe malaria · sevuparin · phase I trial · dose-finding · children</description>
-<category>severe malaria</category>
-<category>sevuparin</category>
-<category>phase I trial</category>
-<category>dose-finding</category>
-<category>children</category>
-</item>
-<item>
-<title>Engineering the paclitaxel biosynthetic pathway in Physcomitrium patens for de novo and stable biosynthesis</title>
-<link>https://doi.org/10.1038/s41467-026-76625-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-76625-x</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:18 GMT</pubDate>
-<description>این پژوهش با مهندسی مسیر زیست‌سنتز paclitaxel در خزه Physcomitrium patens، رده‌های پایدار تولیدکننده این دارو را ایجاد می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 paclitaxel biosynthesis · Physcomitrium patens · moss chassis · 2A peptide · metabolic engineering</description>
-<category>paclitaxel biosynthesis</category>
-<category>Physcomitrium patens</category>
-<category>moss chassis</category>
-<category>2A peptide</category>
-<category>metabolic engineering</category>
-</item>
-<item>
-<title>Longitudinal ctDNA profiling reveals genomic risk and molecular response to bireociclib in advanced breast cancer</title>
-<link>https://doi.org/10.1038/s41467-026-78782-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-78782-5</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:15 GMT</pubDate>
-<description>پروفایل‌گیری طولی ctDNA خطر ژنومی و پاسخ مولکولی به bireociclib را در سرطان پیشرفته پستان نشان می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ctDNA profiling · breast cancer · bireociclib · molecular response · genomic risk</description>
-<category>ctDNA profiling</category>
-<category>breast cancer</category>
-<category>bireociclib</category>
-<category>molecular response</category>
-<category>genomic risk</category>
-</item>
-<item>
-<title>Silk fibroin intrinsically activates Ccl27⁺ migratory-paracrine keratinocytes to orchestrate epidermal–dermal crosstalk for regenerative wound healing</title>
-<link>https://doi.org/10.1038/s41467-026-78745-w</link>
-<guid isPermaLink="false">10.1038/s41467-026-78745-w</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:12 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که ابریشم فیبروئین با فعال‌سازی کراتینوسیت‌های مهاجر پاراکرین Ccl27⁺، ارتباط اپیدرم-درم را برای ترمیم زخم بازساختی هماهنگ می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silk fibroin · wound healing · keratinocytes · Ccl27 · epidermal-dermal crosstalk</description>
-<category>silk fibroin</category>
-<category>wound healing</category>
-<category>keratinocytes</category>
-<category>Ccl27</category>
-<category>epidermal-dermal crosstalk</category>
-</item>
-<item>
-<title>Tumor-intrinsic PTPN12 suppresses anti-tumor immunity in colorectal cancer by restraining a dual epigenetic and cytoskeletal dsRNA sensing program</title>
-<link>https://doi.org/10.1038/s41467-026-78487-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-78487-9</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:08 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که PTPN12 توموری با مهار برنامه دوگانه اپی‌ژنتیکی و اسکلت سلولی حس‌گری dsRNA، ایمنی ضد توموری را در سرطان کولورکتال سرکوب می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PTPN12 · colorectal cancer · anti-tumor immunity · dsRNA sensing · epigenetic regulation</description>
-<category>PTPN12</category>
-<category>colorectal cancer</category>
-<category>anti-tumor immunity</category>
-<category>dsRNA sensing</category>
-<category>epigenetic regulation</category>
-</item>
-<item>
-<title>PRMT5 activity sustains histone production to maintain genome integrity</title>
-<link>https://doi.org/10.1038/s41467-026-78671-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-78671-x</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:05 GMT</pubDate>
-<description>فعالیت PRMT5 با متیلاسیون هیستون H4 رونویسی و سنتز هیستون را در فاز S حفظ کرده و از ناپایداری ژنومی وابسته به کمبود هیستون جلوگیری می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PRMT5 · histone production · genome integrity · H4R3me2s · histone locus bodies</description>
-<category>PRMT5</category>
-<category>histone production</category>
-<category>genome integrity</category>
-<category>H4R3me2s</category>
-<category>histone locus bodies</category>
-</item>
-<item>
-<title>Orbital coupling effect enables low-chloride concentration electrolyte for four-electron redox in aqueous zinc | |iodine batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78918-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78918-7</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:02 GMT</pubDate>
-<description>اثر جفت‌شدگی اوربیتالی امکان استفاده از الکترولیت کم‌کلرید را برای واکنش ردوکس چهارالکترونی در باتری آبی zinc-iodine فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling Cu single-atom d-p orbital hybridization with localized low-concentration Cl⁻ confinement to stabilize electrophilic I⁺, enabling reversible four-electron I⁻/I⁰/I⁺ conversion in aqueous Zn||I₂ batteries. This yields a dual-voltage plateau, ~408 mAh g⁻¹ capacity, and 50,000-cycle stability, offering a rational design strategy for high-voltage, long-life iodine chemistry.&lt;br&gt;🏷 zinc-iodine battery · low-chloride electrolyte · four-electron redox · orbital coupling · aqueous electrolyte</description>
-<category>zinc-iodine battery</category>
-<category>low-chloride electrolyte</category>
-<category>four-electron redox</category>
-<category>orbital coupling</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>PARG inhibition elicits cytotoxicity by sequestering XRCC1 and other PAR-binding proteins into PAR-dependent nuclear condensates</title>
-<link>https://doi.org/10.1038/s41467-026-78665-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-78665-9</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:54 GMT</pubDate>
-<description>مهار PARG با جداسازی XRCC1 و سایر پروتئین‌های متصل به PAR در کندانسه‌های هسته‌ای وابسته به PAR، سمیت سلولی ایجاد می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PARG inhibition · XRCC1 sequestration · PAR condensates · nuclear condensates · cytotoxicity</description>
-<category>PARG inhibition</category>
-<category>XRCC1 sequestration</category>
-<category>PAR condensates</category>
-<category>nuclear condensates</category>
-<category>cytotoxicity</category>
-</item>
-<item>
-<title>Nano-Bioadhesives for Gastrointestinal Hemostasis and Healing: Integrating Artificial Intelligence for Precision Design and Application</title>
-<link>https://doi.org/10.1021/acsnano.6c13279</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13279</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:51 GMT</pubDate>
-<description>این مرور به هم‌افزایی نانوفناوری و هوش مصنوعی برای طراحی چندهدفه نانوچسب‌های زیستی گوارشی با هدف هموستاز سریع، حفاظت ضدمیکروبی و ترمیم مخاط می‌پردازد.&lt;br&gt;ACS Nano | ⭐ Review&lt;br&gt;🏷 gastrointestinal bioadhesive · nanoparticle adhesive · artificial intelligence · hemostasis · mucosal healing</description>
-<category>gastrointestinal bioadhesive</category>
-<category>nanoparticle adhesive</category>
-<category>artificial intelligence</category>
-<category>hemostasis</category>
-<category>mucosal healing</category>
-</item>
-<item>
-<title>Gas Separation through Graphene Nanopores Enabled by Thermally Robust Porous Organic Polymer Reinforcement</title>
-<link>https://doi.org/10.1021/acsnano.6c13534</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13534</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:48 GMT</pubDate>
-<description>پوشش پلیمر آلی متخلخل فلوئوردار به‌عنوان لایه تقویت‌کننده مکانیکی و حرارتی، جداسازی گاز با غشای گرافن نانوحفره‌ای را در دمای ۳۵۰ درجه سلسیوس پایدار می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 nanoporous graphene · gas separation membrane · porous organic polymer · high-temperature operation · mechanical reinforcement</description>
-<category>nanoporous graphene</category>
-<category>gas separation membrane</category>
-<category>porous organic polymer</category>
-<category>high-temperature operation</category>
-<category>mechanical reinforcement</category>
-</item>
-<item>
-<title>Noise-Suppressed High-Performance WSe2 Phototransistors Enabled by Optically Programmed Remote Contact Doping</title>
-<link>https://doi.org/10.1021/acsnano.6c12433</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12433</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:44 GMT</pubDate>
-<description>دوپینگ از راه دور تماسی با تله‌گذاری بار نوری در hBN الگودار، نویز فوتوترانزیستور WSe2 را حدود ۱۰۰ برابر کاهش داده و پاسخ‌دهی و آشکارسازی را به‌طور همزمان بهبود می‌بخشد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 WSe2 phototransistor · remote contact doping · hBN charge trapping · noise suppression · specific detectivity</description>
-<category>WSe2 phototransistor</category>
-<category>remote contact doping</category>
-<category>hBN charge trapping</category>
-<category>noise suppression</category>
-<category>specific detectivity</category>
-</item>
-<item>
-<title>Enhanced Magneto-Optical Kerr Effect in Nano-Magnetic Metamaterials with Near-Perfect Coherent Absorption</title>
-<link>https://doi.org/10.1021/acsnano.6c15462</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15462</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:41 GMT</pubDate>
-<description>آرایه‌های نانومغناطیس permalloy روی فاصله‌انداز دی‌الکتریک و بازتابنده، جذب نزدیک به کامل و اثر کر مغناطیسی-نوری تقویت‌شده را برای کاربردهای اپتومغناطیسی فراهم می‌کنند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 magnetic metasurface · magneto-optical Kerr effect · coherent absorption · permalloy nanomagnets · all-optical switching</description>
-<category>magnetic metasurface</category>
-<category>magneto-optical Kerr effect</category>
-<category>coherent absorption</category>
-<category>permalloy nanomagnets</category>
-<category>all-optical switching</category>
-</item>
-<item>
-<title>Electric-Field Tunable Spin Texture in Dual-Gated HfS2/Graphene van der Waals Heterostructures</title>
-<link>https://doi.org/10.1021/acsnano.6c12747</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12747</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:37 GMT</pubDate>
-<description>در هتروساختار دوبعدی HfS2/graphene با دو گیت، میدان الکتریکی عمودی بافت اسپینی را بازآرایی کرده و مؤلفه‌های اسپینی درون‌صفحه‌ای از نوع Rashba-Edelstein را تقویت می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 HfS2/graphene heterostructure · spin-charge interconversion · Rashba-Edelstein effect · dual-gated device · spin texture</description>
-<category>HfS2/graphene heterostructure</category>
-<category>spin-charge interconversion</category>
-<category>Rashba-Edelstein effect</category>
-<category>dual-gated device</category>
-<category>spin texture</category>
-</item>
-<item>
-<title>High-Throughput In-Operando Terahertz Time-Domain Spectroscopy of Chemical Vapor Deposited Graphene for pH Sensing</title>
-<link>https://doi.org/10.1021/acsnano.6c03948</link>
-<guid isPermaLink="false">10.1021/acsnano.6c03948</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:34 GMT</pubDate>
-<description>طیف‌سنجی تراهرتز در حوزه زمان به‌صورت بدون تماس، رسانایی وابسته به pH گرافن CVD را در مقیاس سانتی‌متر نقشه‌برداری کرد و نشان داد گرافن تک‌لایه بکر بیشترین حساسیت را دارد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CVD graphene · THz-TDS · pH sensing · contactless conductivity mapping · Raman mapping</description>
-<category>CVD graphene</category>
-<category>THz-TDS</category>
-<category>pH sensing</category>
-<category>contactless conductivity mapping</category>
-<category>Raman mapping</category>
-</item>
-<item>
-<title>Heterostructured p‐ and n‐ type Two‐Dimensional Polymer Electrochromic Films for Ambipolar Multistate Optical Modulation</title>
-<link>https://doi.org/10.1002/anie.2711697</link>
-<guid isPermaLink="false">10.1002/anie.2711697</guid>
-<pubDate>Wed, 21 Oct 2026 15:01:31 GMT</pubDate>
-<description>پلیمرهای دوبعدی p- و n- نوع به روش پلیمریزاسیون بین‌سطحی ساخته شدند و فیلم‌های چندلایه امکان مدولاسیون نوری چندحالته و دوقطبی با پاسخ سریع و پایداری بالا را فراهم کردند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 two-dimensional polymer · electrochromic film · interfacial polymerization · ambipolar modulation · multistate optical switching</description>
-<category>two-dimensional polymer</category>
-<category>electrochromic film</category>
-<category>interfacial polymerization</category>
-<category>ambipolar modulation</category>
-<category>multistate optical switching</category>
-</item>
-<item>
-<title>Superconductivity and ferroelectric orbital magnetism in semimetallic rhombohedral hexalayer graphene</title>
-<link>https://doi.org/10.1038/s41567-026-03443-9</link>
-<guid isPermaLink="false">10.1038/s41567-026-03443-9</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:33 GMT</pubDate>
-<description>گرافن شش‌لایه رومبوهدرال نیمه‌فلزی ابررسانایی همراه با فروالکتریسیته و مغناطیس مداری را نشان می‌دهد.&lt;br&gt;Nature Physics | 🔬 Research Article&lt;br&gt;🏷 rhombohedral graphene · superconductivity · ferroelectricity · orbital magnetism · semimetal</description>
-<category>rhombohedral graphene</category>
-<category>superconductivity</category>
-<category>ferroelectricity</category>
-<category>orbital magnetism</category>
-<category>semimetal</category>
-</item>
-<item>
-<title>Coherent phonon control beyond amplitude saturation in a sliding ferroelectric</title>
-<link>https://doi.org/10.1038/s41567-026-03491-1</link>
-<guid isPermaLink="false">10.1038/s41567-026-03491-1</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:25 GMT</pubDate>
-<description>با تقسیم انرژی نوری به دو پالس زمان‌بندی‌شده، دامنه فونون لغزشی بین‌لایه‌ای در یک فروالکتریک لغزشی از اشباع فراتر می‌رود و جفت‌شدگی فونونی آنهارمونیک دور از تعادل آشکار می‌شود.&lt;br&gt;Nature Physics | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sliding ferroelectric · coherent phonon · anharmonic coupling · ultrafast spectroscopy · nonlinear lattice dynamics</description>
-<category>sliding ferroelectric</category>
-<category>coherent phonon</category>
-<category>anharmonic coupling</category>
-<category>ultrafast spectroscopy</category>
-<category>nonlinear lattice dynamics</category>
-</item>
-<item>
-<title>Modulation of Hydroxy Functionalities in Covalent Organic Frameworks for Efficient Oxygen Reduction Reaction</title>
-<link>https://doi.org/10.1002/adfm.79121</link>
-<guid isPermaLink="false">10.1002/adfm.79121</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:21 GMT</pubDate>
-<description>با تنظیم تعداد گروه‌های هیدروکسی در COF ایمینی، COF دی‌هیدروکسی‌دار DATB-COF پتانسیل شروع ۰.۹۶ V و نیم‌موج ۰.۷۱ V در واکنش کاهش اکسیژن بدون فلز نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · hydroxy functionalization · oxygen reduction reaction · metal-free catalyst · active sites</description>
-<category>covalent organic framework</category>
-<category>hydroxy functionalization</category>
-<category>oxygen reduction reaction</category>
-<category>metal-free catalyst</category>
-<category>active sites</category>
-</item>
-<item>
-<title>Modulating the Spin Structure of LiFeO 2 by Cr Substitution for Oxygen Electrocatalysis</title>
-<link>https://doi.org/10.1002/adfm.79168</link>
-<guid isPermaLink="false">10.1002/adfm.79168</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:17 GMT</pubDate>
-<description>جانشینی Cr در LiFeO2 حالت اسپین سایت‌های Fe و پیوند Fe–O را تنظیم می‌کند و LiFe0.25Cr0.75O2 فعالیت دوکاره برجسته‌ای برای ORR و OER نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 LiFeO2 · Cr substitution · spin state · oxygen electrocatalysis · bifunctional catalyst</description>
-<category>LiFeO2</category>
-<category>Cr substitution</category>
-<category>spin state</category>
-<category>oxygen electrocatalysis</category>
-<category>bifunctional catalyst</category>
-</item>
-<item>
-<title>Bioinspired Hierarchical Woven Fabrics With Capture Ridges and Patterned Drainage for Efficient Fog Harvesting</title>
-<link>https://doi.org/10.1002/adfm.79148</link>
-<guid isPermaLink="false">10.1002/adfm.79148</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:14 GMT</pubDate>
-<description>پارچه بافته‌شده سلسله‌مراتبی Janus با برجستگی‌های شبیه سوسک و کانال‌های زهکشی شبیه رگبرگ برگ، نرخ جمع‌آوری مه ۳۶۶۳.۹ mg cm−2 h−1 و دوام محیطی بالا را فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 fog harvesting · Janus fabric · directional water transport · bioinspired surface · asymmetric wettability</description>
-<category>fog harvesting</category>
-<category>Janus fabric</category>
-<category>directional water transport</category>
-<category>bioinspired surface</category>
-<category>asymmetric wettability</category>
-</item>
-<item>
-<title>Manipulating Covalency to Activate Dual‐Interface Kinetics for Efficient Solar Water Splitting</title>
-<link>https://doi.org/10.1002/adfm.79179</link>
-<guid isPermaLink="false">10.1002/adfm.79179</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:10 GMT</pubDate>
-<description>راهبرد تنظیم کووالانسی، فوتوآند دو-رابطی BiVO4/CoPi-F/FeOOH را می‌سازد که چگالی جریان ۶.۷۲ mA/cm2 در ۱.۲۳ V و پایداری ۲۴ ساعته در شکافت آب فوتوالکتروشیمیایی نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 BiVO4 photoanode · covalency manipulation · dual-interface kinetics · solar water splitting · charge separation</description>
-<category>BiVO4 photoanode</category>
-<category>covalency manipulation</category>
-<category>dual-interface kinetics</category>
-<category>solar water splitting</category>
-<category>charge separation</category>
-</item>
-<item>
-<title>Erosion Sequential Deposition with Halogen‐Free Solvent Enables Organic Solar Cells With 21.05% Efficiency and 83.19% Fill Factor</title>
-<link>https://doi.org/10.1002/adfm.79185</link>
-<guid isPermaLink="false">10.1002/adfm.79185</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:06 GMT</pubDate>
-<description>روش رسوب‌گذاری ترتیبی فرسایشی با حلال‌های بدون هالوژن و ماده فرسایشی PYDT بازده ۲۱.۰۵٪ و ضریب پرشدگی ۸۳.۱۹٪ را در سلول خورشیدی آلی D18:PYDT/L8-BO به دست می‌آورد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 organic solar cell · halogen-free solvent · sequential deposition · fill factor · morphology control</description>
-<category>organic solar cell</category>
-<category>halogen-free solvent</category>
-<category>sequential deposition</category>
-<category>fill factor</category>
-<category>morphology control</category>
-</item>
-<item>
-<title>Layered Organic–MXene Heterostructures for High‐Capacity and Long‐Life Aqueous Sodium‐Ion Storage in Seawater‐Based Hybrid Electrolytes</title>
-<link>https://doi.org/10.1002/adfm.79059</link>
-<guid isPermaLink="false">10.1002/adfm.79059</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:03 GMT</pubDate>
-<description>آند ناهم‌ساخت NPI@MXene با ظرفیت ۱۲۴.۵ mAh g−1 و پایداری ۱۰۰٪ پس از ۶۵۰۰۰ چرخه در الکترولیت استات سدیم مبتنی بر آب دریا برای ذخیره‌سازی سدیم‌یون آبی ارائه می‌شود.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a layered organic–MXene heterostructure (NPI@MXene) formed by thermal polymerization of naphthalene polyimide on Ti3C2Tx, coupling reversible imide-carbonyl redox with enhanced electron/ion transport. Significance: it enables high-capacity, ultralong-life (65,000 cycles) aqueous sodium storage and stable full-cell operation in seawater-based sodium acetate electrolyte, advancing sustainable, low-cost large-scale energy storage.&lt;br&gt;🏷 aqueous sodium-ion battery · MXene · polyimide anode · seawater electrolyte · long cycling life</description>
-<category>aqueous sodium-ion battery</category>
-<category>MXene</category>
-<category>polyimide anode</category>
-<category>seawater electrolyte</category>
-<category>long cycling life</category>
-</item>
-<item>
-<title>Programming Neuromorphic Plasticity Through Ionic and Electronic Coupling in Organic Electrochemical Transistors</title>
-<link>https://doi.org/10.1002/adfm.79144</link>
-<guid isPermaLink="false">10.1002/adfm.79144</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:57 GMT</pubDate>
-<description>این مرور چارچوبی مکانیستی برای طبقه‌بندی پاسخ‌های OECT بر اساس نحوه آرامش یا تثبیت حالت یونی-الکترونیکی برنامه‌ریزی‌شده ارائه می‌دهد و تثبیت برگشت‌پذیر و متناسب با عملکرد را اصل طراحی کلیدی می‌داند.&lt;br&gt;Advanced Functional Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 organic electrochemical transistor · neuromorphic plasticity · ion transport · synaptic memory · device stability</description>
-<category>organic electrochemical transistor</category>
-<category>neuromorphic plasticity</category>
-<category>ion transport</category>
-<category>synaptic memory</category>
-<category>device stability</category>
-</item>
-<item>
-<title>Vinylene‐Linked Covalent Organic Framework‐Directed Facet Orientation Reconstruction in Inverted Perovskite Solar Cells</title>
-<link>https://doi.org/10.1002/adfm.79131</link>
-<guid isPermaLink="false">10.1002/adfm.79131</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:54 GMT</pubDate>
-<description>COF وینیلن‌دار TBD-COF با هدایت رشد بلور از وجه (001) به (012)، کرنش شبکه و بازترکیب غیرتابشی را کاهش داده و بازده سلول خورشیدی پروسکایتی معکوس را به 27.01% می‌رساند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · perovskite solar cell · facet orientation · crystallization regulation · power conversion efficiency</description>
-<category>covalent organic framework</category>
-<category>perovskite solar cell</category>
-<category>facet orientation</category>
-<category>crystallization regulation</category>
-<category>power conversion efficiency</category>
-</item>
-<item>
-<title>Low‐Flicker‐Noise MoS 2 Transistors Enabled by High‐ κ Rare‐Earth Oxychlorides for Mixed‐Signal Electronics</title>
-<link>https://doi.org/10.1002/adfm.79151</link>
-<guid isPermaLink="false">10.1002/adfm.79151</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:50 GMT</pubDate>
-<description>ترانزیستورهای MoS2 با دی‌الکتریک بلوری high-κ از اکسی‌کلریدهای خاکی کمیاب، نویز فلیکر بسیار پایین و رابط van der Waals تیز نشان می‌دهند که برای الکترونیک سیگنال مختلط مناسب است.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 MoS2 transistor · rare-earth oxychloride · high-k dielectric · flicker noise · mixed-signal electronics</description>
-<category>MoS2 transistor</category>
-<category>rare-earth oxychloride</category>
-<category>high-k dielectric</category>
-<category>flicker noise</category>
-<category>mixed-signal electronics</category>
-</item>
-<item>
-<title>A miRNA Nanoprodrug Hydrogel for Multistage Regulation of Burn Wound Repair</title>
-<link>https://doi.org/10.1002/adfm.79180</link>
-<guid isPermaLink="false">10.1002/adfm.79180</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:46 GMT</pubDate>
-<description>هیدروژل GelMA حاوی نانوپیش‌داروی چهاروجهی miR-146a-5p با فعال‌سازی پاسخ‌دهنده به RNase H، التهاب و فیبروز را در مراحل مختلف ترمیم زخم سوختگی تنظیم و بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 miRNA nanoprodrug · hydrogel dressing · burn wound repair · macrophage polarization · tetrahedral framework</description>
-<category>miRNA nanoprodrug</category>
-<category>hydrogel dressing</category>
-<category>burn wound repair</category>
-<category>macrophage polarization</category>
-<category>tetrahedral framework</category>
-</item>
-<item>
-<title>Synergistic Weakening of Magnetoelastic Coupling and Enhancement of Exchange Interactions Enable High‐Temperature Zero Thermal Expansion in a Lightweight and Hard Monoboride Ferromagnet</title>
-<link>https://doi.org/10.1002/adfm.79136</link>
-<guid isPermaLink="false">10.1002/adfm.79136</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:43 GMT</pubDate>
-<description>آلیاژ فرومغناطیس سبک MnB با آلیاژسازی هم‌ساختار Fe، با تضعیف جفت‌شدگی مگنتوالاستیک و افزایش دمای کوری، انبساط حرارتی صفر در دمای بالا و سختی 16.5 GPa نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 zero thermal expansion · MnB alloy · magnetoelastic coupling · exchange interaction · Invar effect</description>
-<category>zero thermal expansion</category>
-<category>MnB alloy</category>
-<category>magnetoelastic coupling</category>
-<category>exchange interaction</category>
-<category>Invar effect</category>
-</item>
-<item>
-<title>Morphology‐Dictated Interfacial Stacking of TiO 2 Nanosheets Delivers Robust Tribofilms under Extreme Pressure</title>
-<link>https://doi.org/10.1002/adfm.79166</link>
-<guid isPermaLink="false">10.1002/adfm.79166</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:38 GMT</pubDate>
-<description>نانوصفحات TiO2 در مقایسه با نانوذرات، با جهت‌گیری و انباشت متراکم و اثر صیقل‌کاری مکانیکی، تریبوفیلم پیوسته Fe-rich تشکیل داده و عملکرد روانکاری تحت فشار شدید را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 TiO2 nanosheets · tribofilm · extreme pressure lubrication · morphology effect · tribochemistry</description>
-<category>TiO2 nanosheets</category>
-<category>tribofilm</category>
-<category>extreme pressure lubrication</category>
-<category>morphology effect</category>
-<category>tribochemistry</category>
-</item>
-<item>
-<title>Fiber‐Inspired Quantum‐Dot Micropillar Pixel Architecture for Micro‐LED Displays</title>
-<link>https://doi.org/10.1002/adfm.79150</link>
-<guid isPermaLink="false">10.1002/adfm.79150</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:35 GMT</pubDate>
-<description>معماری پیکسل میکروستونی نقاط کوانتومی با پوشش Al بازتابنده، با افزایش مسیر نوری و بازیافت فوتون، بازده تبدیل رنگ و گام رنگی نمایشگرهای Micro-LED را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 quantum-dot micropillar · Micro-LED display · color conversion efficiency · optical crosstalk · Al cladding</description>
-<category>quantum-dot micropillar</category>
-<category>Micro-LED display</category>
-<category>color conversion efficiency</category>
-<category>optical crosstalk</category>
-<category>Al cladding</category>
 </item>
 </channel>
 </rss>
