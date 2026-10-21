@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 21:02:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 22:02:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reaction‐Driven Coupled Transport–Nanostructure Evolution in SnSb Anodes for High‐Energy All‐Solid‐State Li‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71728</link>
+<guid isPermaLink="false">10.1002/aenm.71728</guid>
+<pubDate>Wed, 21 Oct 2026 22:01:27 GMT</pubDate>
+<description>آند SnSb با تکامل هم‌زمان انتقال یون-الکترون و نانوساختار در باتری تمام‌جامد Li-ion، مسیرهای هدایت مختلط پایدار و چگالی انرژی بالای ۳۵۵ Wh/kg را در سلول کامل فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a SnSb anode that undergoes reaction-driven coupled transport–nanostructure evolution, forming continuous mixed ionic–electronic conducting pathways and stabilized nanocrystallization during cycling. This suppresses pulverization, preserves SE contact, and lowers interfacial resistance. Significance: a SnSb|NCM811 full cell achieves 28.97 mAh cm⁻² at 200 mg cm⁻² loading, 1000-cycle 10 C stability, and projected 355.7 Wh kg⁻¹/1017.4 Wh L⁻¹, establishing a design principle for high-energy ASSLIB anodes.&lt;br&gt;🏷 all-solid-state battery · SnSb anode · Li6PS5Cl electrolyte · mixed conduction · nanostructure evolution</description>
+<category>all-solid-state battery</category>
+<category>SnSb anode</category>
+<category>Li6PS5Cl electrolyte</category>
+<category>mixed conduction</category>
+<category>nanostructure evolution</category>
+</item>
 <item>
 <title>Nanoarchitectonics With Static‐Dynamic Synergistic Interfacial Remediation for Practical Zinc Metal Batteries</title>
 <link>https://doi.org/10.1002/adma.75343</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>decarbonization</category>
 <category>regenerative braking</category>
 <category>capacity expansion</category>
-</item>
-<item>
-<title>Enhancing Capacitance by Increasing Electric Double Layer Disorder in Ionic Liquid Mixtures</title>
-<link>https://doi.org/10.1021/acsnano.6c12577</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12577</guid>
-<pubDate>Mon, 19 Oct 2026 13:02:26 GMT</pubDate>
-<description>افزایش ظرفیت ابرخازن با مخلوط کردن مایعات یونی و افزایش بی‌نظمی لایه دوگانه الکتریکی در سراسر پنجره پایداری الکتروشیمیایی.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in enhancing supercapacitor capacitance by mixing ionic liquids to increase electric double layer disorder and entropy, rather than altering voltage windows. Significance: capacitance rose up to 150% across the entire stability window, with like-charged co-ions playing counterion-like roles. This reveals compositional entropy as a design lever for higher energy density, advancing next-generation storage.&lt;br&gt;🏷 supercapacitor · ionic liquid · electric double layer · capacitance · electrolyte mixture</description>
-<category>supercapacitor</category>
-<category>ionic liquid</category>
-<category>electric double layer</category>
-<category>capacitance</category>
-<category>electrolyte mixture</category>
 </item>
 </channel>
 </rss>
