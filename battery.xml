@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 05:01:37 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 06:02:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination Chemistry of Single‐Atom Catalysts in Expediating Kinetics for Advanced Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/advs.78095</link>
+<guid isPermaLink="false">10.1002/advs.78095</guid>
+<pubDate>Wed, 21 Oct 2026 06:02:34 GMT</pubDate>
+<description>این مرور، نقش شیمی کوئوردیناسیون نامتقارن و ساختارهای دواتمی در کاتالیزورهای تک‌اتمی را برای تسریع سینتیک تبدیل پلی‌سولفیدها در باتری‌های Li-S بررسی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely systematizes asymmetric coordination chemistry and dual-atom structures in single-atom catalysts for Li-S batteries, linking geometric configuration, orbital hybridization, and interfacial charge rearrangement to polysulfide conversion kinetics. It establishes screening and design principles for coordination structures, bridging theoretical calculations with experimental validation—a previously unexplored structure-activity framework—offering significant guidance for advancing catalytic efficiency and Li-S battery performance.&lt;br&gt;🏷 lithium-sulfur battery · single-atom catalyst · coordination chemistry · polysulfide conversion · asymmetric coordination</description>
+<category>lithium-sulfur battery</category>
+<category>single-atom catalyst</category>
+<category>coordination chemistry</category>
+<category>polysulfide conversion</category>
+<category>asymmetric coordination</category>
+</item>
+<item>
+<title>Synergistic Effects of Separator Architecture and Electrolyte Chemistry on the Electrochemical Stability of Lithium Ion Batteries With Li–Mn Rich Cathodes and µ‐Si Anodes</title>
+<link>https://doi.org/10.1002/advs.78391</link>
+<guid isPermaLink="false">10.1002/advs.78391</guid>
+<pubDate>Wed, 21 Oct 2026 06:01:41 GMT</pubDate>
+<description>این مقاله اثر هم‌افزای معماری جداکننده و شیمی الکترولیت را بر پایداری الکتروشیمیایی باتری‌های لیتیوم-یون با کاتد LMR و آند µ-Si بررسی می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in linking separator wettability to localized Li deposition on µ-Si anodes and showing that electrospun PAN separators, combined with DMFSA/FEC electrolyte, extend LMR||µ-Si cell life beyond 400 cycles. This demonstrates the synergistic importance of separator architecture and electrolyte chemistry in stabilizing both electrode interphases, advancing sustainable, cobalt-free high-voltage LIB design.&lt;br&gt;🏷 lithium-ion battery · LMR cathode · silicon anode · separator architecture · electrolyte chemistry</description>
+<category>lithium-ion battery</category>
+<category>LMR cathode</category>
+<category>silicon anode</category>
+<category>separator architecture</category>
+<category>electrolyte chemistry</category>
+</item>
+<item>
+<title>Elastic Graphene‐Shell Architectures Enable Stress Regulation in High‐Capacity Lithium‐Ion Battery Electrodes</title>
+<link>https://doi.org/10.1002/advs.78085</link>
+<guid isPermaLink="false">10.1002/advs.78085</guid>
+<pubDate>Wed, 21 Oct 2026 06:01:35 GMT</pubDate>
+<description>این مقاله کره‌های پوسته گرافنی توخالی را به‌عنوان افزودنی سازگار با دوغاب برای تنظیم تنش و کاهش تورم الکترودهای SiOx در باتری لیتیوم-یون به کار می‌برد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Hollow graphene-shell spheres are introduced as slurry-compatible pore-engineering additives that accommodate electrode deformation without multistep processing or sacrificial pore formers. They improve thickness recovery, reduce lithiation swelling (15% vs 94%), and retain ~702 mAh g⁻¹ after 400 cycles, while also benefiting SiOₓ/graphite, Si@C, and NCM811 formulations—offering a simple strategy to regulate stress and maintain performance in high-capacity electrodes.&lt;br&gt;🏷 silicon anode · graphene shell · stress regulation · lithium-ion battery · electrode deformation</description>
+<category>silicon anode</category>
+<category>graphene shell</category>
+<category>stress regulation</category>
+<category>lithium-ion battery</category>
+<category>electrode deformation</category>
+</item>
 <item>
 <title>Anion‐Cation Targeted Regulation Enables Ultrafast and Stable Sodium Metal Batteries at Low Temperatures</title>
 <link>https://doi.org/10.1002/anie.6809424</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>coordination state</category>
 <category>electronic structure</category>
 <category>high-voltage</category>
-</item>
-<item>
-<title>Seeing the unseen: Mapping bulk phase-transformation signatures across the LiFePO4 voltage plateau by nonlinear acoustics</title>
-<link>https://doi.org/10.1016/j.xinn.2026.101605</link>
-<guid isPermaLink="false">10.1016/j.xinn.2026.101605</guid>
-<pubDate>Sat, 17 Oct 2026 18:01:05 GMT</pubDate>
-<description>این مقاله با روش آکوستیک غیرخطی نشانه‌های تبدیل فاز توده‌ای را در سراسر فلات ولتاژ LiFePO4 نقشه‌برداری می‌کند.&lt;br&gt;The Innovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LiFePO4 · nonlinear acoustics · phase transformation · voltage plateau · bulk mapping</description>
-<category>LiFePO4</category>
-<category>nonlinear acoustics</category>
-<category>phase transformation</category>
-<category>voltage plateau</category>
-<category>bulk mapping</category>
-</item>
-<item>
-<title>Spatially Decoupled Charge Compensation Enables Versatile Cation–Anion Co‐Intercalation in Layered Metal Oxide Cathodes</title>
-<link>https://doi.org/10.1002/adma.75440</link>
-<guid isPermaLink="false">10.1002/adma.75440</guid>
-<pubDate>Sat, 17 Oct 2026 17:01:13 GMT</pubDate>
-<description>کاتد اکسید وانادیوم لایه‌ای با لیگاند ملامین، هم‌درج‌شوندگی کاتیون-آنیون را با جداسازی فضایی جبران بار ممکن کرده و عمر چرخه‌ای فوق‌العاده و ظرفیت بالایی در باتری منیزیمی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially decoupled charge-compensation mechanism using pre-intercalated melamine ligands as anion redox centers while metal sites handle multivalent cation redox, alleviating electrostatic crowding. This enables record cycle life (&amp;gt;36,000 cycles) and high areal capacity in Mg batteries, establishing a versatile platform for multivalent cation–anion co-intercalation in high-performance energy storage.&lt;br&gt;🏷 vanadium oxide cathode · cation-anion co-intercalation · magnesium-ion battery · melamine ligands · charge compensation</description>
-<category>vanadium oxide cathode</category>
-<category>cation-anion co-intercalation</category>
-<category>magnesium-ion battery</category>
-<category>melamine ligands</category>
-<category>charge compensation</category>
-</item>
-<item>
-<title>Distributed hybrid energy storage configuration framework based on spatiotemporal mutual cross-attention</title>
-<link>https://doi.org/10.1016/j.est.2026.125179</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125179</guid>
-<pubDate>Sat, 17 Oct 2026 13:01:30 GMT</pubDate>
-<description>این مقاله چارچوبی برای پیکربندی ذخیره‌سازی انرژی هیبریدی توزیع‌شده بر پایه توجه متقابل فضایی-زمانی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · spatiotemporal attention · configuration framework · cross-attention · distributed storage</description>
-<category>hybrid energy storage</category>
-<category>spatiotemporal attention</category>
-<category>configuration framework</category>
-<category>cross-attention</category>
-<category>distributed storage</category>
 </item>
 </channel>
 </rss>
