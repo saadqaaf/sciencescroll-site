@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 01:01:01 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 02:01:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sulfonated covalent organic frameworks in zinc-ion batteries: structure-property relationships and ion transport mechanisms</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218672</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218672</guid>
+<pubDate>Wed, 21 Oct 2026 02:01:29 GMT</pubDate>
+<description>این مقاله مروری، روابط ساختار-خواص و سازوکارهای انتقال یون در COFهای سولفونه برای باتری‌های یون روی را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 covalent organic frameworks · zinc-ion battery · sulfonation · ion transport · structure-property relationship</description>
+<category>covalent organic frameworks</category>
+<category>zinc-ion battery</category>
+<category>sulfonation</category>
+<category>ion transport</category>
+<category>structure-property relationship</category>
+</item>
+<item>
+<title>Upcycling waste polyethylene terephthalate into energy materials: Recent advances from synthesis to applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218671</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218671</guid>
+<pubDate>Wed, 21 Oct 2026 02:01:18 GMT</pubDate>
+<description>این مقاله مروری، پیشرفت‌های اخیر در تبدیل ضایعات PET به مواد انرژی را از سنتز تا کاربردهای ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 PET upcycling · energy materials · waste plastic · synthesis routes · electrochemical storage</description>
+<category>PET upcycling</category>
+<category>energy materials</category>
+<category>waste plastic</category>
+<category>synthesis routes</category>
+<category>electrochemical storage</category>
+</item>
 <item>
 <title>Optimized leaching technologies for recycling and regeneration of spent lithium−ion batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.124951</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>protonation buffer</category>
 <category>pouch cell</category>
 <category>durability</category>
-</item>
-<item>
-<title>Catalyst-Controlled Conversion of Polystyrene Waste into Graphitic Carbon for Lithium-Ion Battery Anodes</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122228</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122228</guid>
-<pubDate>Sat, 17 Oct 2026 12:01:38 GMT</pubDate>
-<description>تبدیل کنترل‌شده با کاتالیزور ضایعات پلی‌استایرن به کربن گرافیتی برای آندهای باتری لیتیوم-یون انجام شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 polystyrene waste · graphitic carbon · catalyst-controlled conversion · lithium-ion anode · plastic upcycling</description>
-<category>polystyrene waste</category>
-<category>graphitic carbon</category>
-<category>catalyst-controlled conversion</category>
-<category>lithium-ion anode</category>
-<category>plastic upcycling</category>
-</item>
-<item>
-<title>Tracking the lithiation state of LixSi from machine-learned XPS binding energies</title>
-<link>https://doi.org/10.1038/s41524-026-02302-8</link>
-<guid isPermaLink="false">10.1038/s41524-026-02302-8</guid>
-<pubDate>Sat, 17 Oct 2026 12:01:34 GMT</pubDate>
-<description>چارچوبی محاسباتی با یادگیری ماشین و شبیه‌سازی اتمی، حالت‌های لیتیوم‌دار شدن LixSi را از طریق انرژی‌های اتصال XPS ردیابی می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling machine-learned core-level binding energy prediction with large-scale GCMC/MD simulations using an ML potential to systematically sample lithiation states and local environments. This yields stoichiometry maps reproducing key Si 2p XPS trends, including crystal-to-amorphous disordering signatures. It enables quantitative interpretation of heterogeneous LiₓSi microstructures, advancing XPS analysis of silicon anodes.&lt;br&gt;🏷 LixSi · XPS binding energy · machine learning · silicon anode · lithiation state</description>
-<category>LixSi</category>
-<category>XPS binding energy</category>
-<category>machine learning</category>
-<category>silicon anode</category>
-<category>lithiation state</category>
 </item>
 </channel>
 </rss>
