@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 16:03:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 17:02:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Extracting domain-informed features to guide battery degradation mode estimation under label-scarce conditions</title>
+<link>https://doi.org/10.1016/j.est.2026.125162</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125162</guid>
+<pubDate>Wed, 21 Oct 2026 17:02:26 GMT</pubDate>
+<description>این پژوهش ویژگی‌های مبتنی بر دانش دامنه را برای تخمین حالت‌های تخریب باتری در شرایط کمبود برچسب استخراج می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery degradation · degradation modes · feature extraction · label-scarce learning · domain knowledge</description>
+<category>battery degradation</category>
+<category>degradation modes</category>
+<category>feature extraction</category>
+<category>label-scarce learning</category>
+<category>domain knowledge</category>
+</item>
+<item>
+<title>Menthol:decanoic acid deep eutectic solvent for efficient separation and recovery of valuable metals from spent lithium-ion battery leach solutions</title>
+<link>https://doi.org/10.1016/j.est.2026.125242</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125242</guid>
+<pubDate>Wed, 21 Oct 2026 17:02:21 GMT</pubDate>
+<description>این مقاله از حلال اوتکتیک عمیق منتول:دکانوئیک اسید برای جداسازی و بازیابی کارآمد فلزات ارزشمند از محلول لیچینگ باتری لیتیوم-یونی مستعمل استفاده می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 deep eutectic solvent · metal recovery · spent lithium-ion battery · leach solution · menthol:decanoic acid</description>
+<category>deep eutectic solvent</category>
+<category>metal recovery</category>
+<category>spent lithium-ion battery</category>
+<category>leach solution</category>
+<category>menthol:decanoic acid</category>
+</item>
+<item>
+<title>Dynamic thermal response and degradation thresholds of vacuum insulation panels under lithium-ion battery thermal runaway</title>
+<link>https://doi.org/10.1016/j.est.2026.125102</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125102</guid>
+<pubDate>Wed, 21 Oct 2026 17:02:13 GMT</pubDate>
+<description>این مقاله پاسخ حرارتی دینامیکی و آستانه‌های تخریب پنل‌های عایق خلأ را تحت فرار حرارتی باتری لیتیوم-یونی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vacuum insulation panel · thermal runaway · lithium-ion battery · thermal response · degradation threshold</description>
+<category>vacuum insulation panel</category>
+<category>thermal runaway</category>
+<category>lithium-ion battery</category>
+<category>thermal response</category>
+<category>degradation threshold</category>
+</item>
+<item>
+<title>Thermal performance and behavior of phase change material under consecutive thermal shocks in hybrid battery thermal management system</title>
+<link>https://doi.org/10.1016/j.est.2026.125201</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125201</guid>
+<pubDate>Wed, 21 Oct 2026 17:02:05 GMT</pubDate>
+<description>این مقاله عملکرد و رفتار حرارتی ماده تغییر فاز را تحت شوک‌های حرارتی متوالی در یک سیستم هیبریدی مدیریت حرارت باتری بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · phase change material · thermal shock · thermal performance · hybrid system</description>
+<category>battery thermal management</category>
+<category>phase change material</category>
+<category>thermal shock</category>
+<category>thermal performance</category>
+<category>hybrid system</category>
+</item>
 <item>
 <title>CO 2 Laser‐Synthesized NiCoCu Borate Enables Efficient Nitrate‐to‐Ammonia Electrosynthesis and Durable Zinc–Nitrate Batteries</title>
 <link>https://doi.org/10.1002/smll.76312</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>quaternary ammonium chloride</category>
 <category>four-electron redox</category>
 <category>Ah-level pouch cell</category>
-</item>
-<item>
-<title>Preparation of Green Phosphorus-Doped SPAN Composites Coupled with Bimetallic Sulfides for Wide-Temperature-Range and High-Rate Sodium-Ion Storage</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122229</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122229</guid>
-<pubDate>Mon, 19 Oct 2026 04:03:58 GMT</pubDate>
-<description>کامپوزیت SPAN آلایش‌شده با فسفر همراه با سولفیدهای دوفلزی برای ذخیره‌سازی سدیم-یون با نرخ بالا و در محدوده دمایی گسترده ساخته و ارزیابی می‌شود.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · phosphorus-doped SPAN · bimetallic sulfide · wide-temperature range · high-rate storage</description>
-<category>sodium-ion battery</category>
-<category>phosphorus-doped SPAN</category>
-<category>bimetallic sulfide</category>
-<category>wide-temperature range</category>
-<category>high-rate storage</category>
-</item>
-<item>
-<title>Material Development of Aerogels: Application to Thermal Runaway Protection in Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76315</link>
-<guid isPermaLink="false">10.1002/smll.76315</guid>
-<pubDate>Mon, 19 Oct 2026 04:03:47 GMT</pubDate>
-<description>این مرور، سازوکارهای فرار حرارتی باتری‌های لیتیوم-یون و پتانسیل ایروژل‌های فوق‌سبک و کم‌رسانش گرمایی را برای عایق‌کاری و مهار فرار حرارتی بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges aerogel materials science with lithium-ion battery safety, systematically linking thermal runaway mechanisms to aerogel insulation properties. Its novelty lies in classifying aerogels for thermal runaway protection and analyzing technical bottlenecks. Significance: providing a systematic reference for developing high-performance aerogel materials to enhance LIB safety amid rising electric vehicle demand.&lt;br&gt;🏷 aerogel · thermal runaway · lithium-ion battery · thermal insulation · battery safety</description>
-<category>aerogel</category>
-<category>thermal runaway</category>
-<category>lithium-ion battery</category>
-<category>thermal insulation</category>
-<category>battery safety</category>
-</item>
-<item>
-<title>Synergistic Solvation‐Interface Regulation via a Zincophilic‐Hydrophobic Additive Enables Deep‐Cycling Zinc Metal Anodes</title>
-<link>https://doi.org/10.1002/smll.76335</link>
-<guid isPermaLink="false">10.1002/smll.76335</guid>
-<pubDate>Mon, 19 Oct 2026 04:03:43 GMT</pubDate>
-<description>افزودنی آب‌گریز و روی‌دوست C12-MADS با تنظیم همزمان پوسته حل‌پوشی و سطح مشترک، رشد دندریت و واکنش‌های جانبی آب را در آند روی باتری آبی سرکوب می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using C12-MADS as a dual-functional additive: sulfonate groups displace water from Zn2+ solvation and anchor to the zinc surface, while hydrophobic alkyl chains form a water-exclusive inner Helmholtz plane. This synergistically suppresses dendrites, hydrogen evolution, and corrosion, enabling 1600 h cycling at 10 mA cm−2 and stable full cells—offering a rational molecular design principle for durable aqueous zinc anodes.&lt;br&gt;🏷 aqueous zinc battery · electrolyte additive · solvation regulation · zinc anode · dendrite suppression</description>
-<category>aqueous zinc battery</category>
-<category>electrolyte additive</category>
-<category>solvation regulation</category>
-<category>zinc anode</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Pulsed‐Laser‐Engineered Cu Single Atoms in δ‐Bi 2 O 3 Nanosheets for Efficient Formate‐Producing Zn–CO 2 Batteries</title>
-<link>https://doi.org/10.1002/smll.76357</link>
-<guid isPermaLink="false">10.1002/smll.76357</guid>
-<pubDate>Mon, 19 Oct 2026 04:03:19 GMT</pubDate>
-<description>با تابش لیزر پالسی، نانوصفحات δ-Bi2O3 با اتم‌های تک Cu پایدار شد که بازده فارادی 93.55% برای فرمات در باتری Zn-CO2 با ولتاژ 1.74 V و عملکرد 300 ساعت ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Pulsed laser irradiation in liquid simultaneously transforms α-Bi2O3 microrods into δ-Bi2O3 nanosheets and stabilizes Cu single atoms, achieving 93.55% formate Faradaic efficiency. Cu doping tunes adsorption energies and lowers the CO2-to-formate barrier. The Zn–CO2 battery delivers 1.74 V and stable operation over 300 h, demonstrating practical energy–carbon coupling.&lt;br&gt;🏷 Zn-CO2 battery · single-atom Cu · Bi2O3 nanosheets · CO2 reduction · formate production</description>
-<category>Zn-CO2 battery</category>
-<category>single-atom Cu</category>
-<category>Bi2O3 nanosheets</category>
-<category>CO2 reduction</category>
-<category>formate production</category>
 </item>
 </channel>
 </rss>
