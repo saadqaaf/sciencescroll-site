@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 10:01:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 11:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Supercapacitors Under Nonequilibrium Conditions: Mechanisms and Design Principles</title>
+<link>https://doi.org/10.1002/adma.75460</link>
+<guid isPermaLink="false">10.1002/adma.75460</guid>
+<pubDate>Wed, 21 Oct 2026 11:01:34 GMT</pubDate>
+<description>این مرور، سازوکارهای حاکم بر ابرخازن‌ها در شرایط دور از تعادل را تحلیل می‌کند و سه منشأ تخریب یعنی ناهم‌ترازی انتقال، ناپایداری سطح مشترک و جفت‌شدگی گرمامکانیکی را شناسایی کرده و اصول طراحی مواد ارائه می‌دهد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely unifies supercapacitor behavior under nonequilibrium operation—floating, high-frequency, wide-temperature, high-voltage—linking coupled kinetic-thermodynamic processes across scales. It identifies three degradation origins (transport mismatch, interfacial instability, thermo-mechanical coupling) and derives design principles for ion transport, interfacial chemistry, electrolyte optimization, and structural adaptability, bridging laboratory evaluation and real-world dynamic energy storage applications.&lt;br&gt;🏷 supercapacitors · nonequilibrium operation · ion transport · interfacial instability · degradation mechanisms</description>
+<category>supercapacitors</category>
+<category>nonequilibrium operation</category>
+<category>ion transport</category>
+<category>interfacial instability</category>
+<category>degradation mechanisms</category>
+</item>
 <item>
 <title>Unravelling the Mechanism of Cell Voltage Divergence in Series-Connected LiFePO₄ Battery Packs during Constant-Voltage Charging</title>
 <link>https://doi.org/10.1039/d6ta06141a</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>multielement doping</category>
 <category>fluorine retention</category>
 <category>energy density</category>
-</item>
-<item>
-<title>Inert Al Doping Into Mn‐Rich NASICON Cathode to Effectively Suppress Voltage Hysteresis in Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/sstr.202500890</link>
-<guid isPermaLink="false">10.1002/sstr.202500890</guid>
-<pubDate>Sun, 18 Oct 2026 09:01:18 GMT</pubDate>
-<description>دوپینگ جزئی Al در کاتد Mn-rich NASICON سبب تثبیت ساختار و کاهش هیسترزیس ولتاژ شده و در سلول کامل با hard carbon ظرفیت 138 mAh g−1 و حفظ 90٪ پس از 100 چرخه حاصل شد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Trace Al doping into Mn-rich NASICON cathode stabilizes the lattice and modulates MnO6 electronic structure, markedly suppressing voltage hysteresis while preserving the two-phase mechanism. This activates Mn redox couples and lowers Na-ion migration barriers, yielding 138 mAh g−1, 419 Wh kg−1, and 90% capacity retention over 100 cycles—demonstrating a simple, effective strategy for high-performance sodium-ion batteries.&lt;br&gt;🏷 NASICON cathode · sodium-ion battery · Al doping · voltage hysteresis · Mn-rich phosphate</description>
-<category>NASICON cathode</category>
-<category>sodium-ion battery</category>
-<category>Al doping</category>
-<category>voltage hysteresis</category>
-<category>Mn-rich phosphate</category>
 </item>
 </channel>
 </rss>
