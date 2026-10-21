@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 19:04:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In situ formation of lithiophobic and tough grain boundary interphases for dendrite-resistant solid-state batteries</title>
+<link>https://doi.org/10.1016/j.joule.2026.102706</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102706</guid>
+<pubDate>Wed, 21 Oct 2026 20:01:26 GMT</pubDate>
+<description>این مقاله با تشکیل درجای فازهای مرزدانه‌ای لیوفوبیک و مقاوم، رشد دندریت لیتیوم را در باتری‌های حالت جامد سرکوب می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · grain boundary interphase · lithium dendrite · lithiophobic interphase · solid electrolyte</description>
+<category>solid-state battery</category>
+<category>grain boundary interphase</category>
+<category>lithium dendrite</category>
+<category>lithiophobic interphase</category>
+<category>solid electrolyte</category>
+</item>
 <item>
 <title>Extracting domain-informed features to guide battery degradation mode estimation under label-scarce conditions</title>
 <link>https://doi.org/10.1016/j.est.2026.125162</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>electrolyte engineering</category>
 <category>operando characterization</category>
 <category>dendrite growth</category>
-</item>
-<item>
-<title>Low-chloride electrolytes with dual-functional organic cations enable four-electron redox conversion in durable Ah-level zinc–iodine batteries</title>
-<link>https://doi.org/10.1039/d6ee04666e</link>
-<guid isPermaLink="false">10.1039/d6ee04666e</guid>
-<pubDate>Mon, 19 Oct 2026 09:01:33 GMT</pubDate>
-<description>الکترولیت آبی کم‌کلرید با کاتیون‌های آلی دوکاره، تبدیل ردوکس چهارالکترونی را در باتری‌های روی-ید Ah-level پایدار ممکن می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Branched quaternary ammonium chlorides are introduced as low-chloride aqueous electrolytes enabling four-electron redox conversion in Zn–I2 batteries. The optimal salt, 3-chloro-2-hydroxypropyl trimethylammonium chloride, supports durable Ah-level pouch cells, addressing chloride-induced corrosion while boosting energy density—a significant step toward practical, high-performance aqueous zinc–iodine energy storage.&lt;br&gt;🏷 zinc-iodine battery · low-chloride electrolyte · quaternary ammonium chloride · four-electron redox · Ah-level pouch cell</description>
-<category>zinc-iodine battery</category>
-<category>low-chloride electrolyte</category>
-<category>quaternary ammonium chloride</category>
-<category>four-electron redox</category>
-<category>Ah-level pouch cell</category>
 </item>
 </channel>
 </rss>
