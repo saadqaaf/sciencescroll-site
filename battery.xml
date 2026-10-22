@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 13:02:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 14:03:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Direct Restoration of Spent LiFePO4 via Lattice Defect Correction and Nitrogen-Doped Interface Engineering</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03952</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03952</guid>
+<pubDate>Thu, 22 Oct 2026 14:01:58 GMT</pubDate>
+<description>بازسازی مستقیم LiFePO4 مستعمل با اتانول‌آمین و LiNO3، نقص‌های شبکه و جای‌خالی لیتیوم را اصلاح کرده و لایه سطحی N-doped ایجاد می‌کند و ظرفیت 106.04 mAh g–1 با حفظ ۱۰۰٪ در ۵۰۰ چرخه حاصل می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using ethanolamine with LiNO3 for synergistic direct regeneration: ethanolamine gently removes surface impurities, reduces Fe(III) to Fe(II), fills Li vacancies via low steric hindrance, and acts as an in situ nitrogen source for N-doped interfacial engineering. This enables restored LiFePO4 with excellent rate performance (106.04 mAh g–1 at 5.0 C) and 100% retention over 500 cycles, plus economic and environmental benefits.&lt;br&gt;🏷 LiFePO4 regeneration · spent cathode · lattice defect · nitrogen doping · direct recycling</description>
+<category>LiFePO4 regeneration</category>
+<category>spent cathode</category>
+<category>lattice defect</category>
+<category>nitrogen doping</category>
+<category>direct recycling</category>
+</item>
+<item>
+<title>Direct Experimental Quantification of Intrinsic Capacitive Properties of Monolayer Ti3C2T x MXene</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04313</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04313</guid>
+<pubDate>Thu, 22 Oct 2026 14:01:23 GMT</pubDate>
+<description>خازن ذاتی تک‌لایه Ti3C2Tx MXene به‌صورت تجربی اندازه‌گیری شد و سهم شبه‌خازن در الکترولیت اسیدی حدود ۴۵٪ و در الکترولیت‌های یون فلز قلیایی کمتر از ۱۰٪ تعیین شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 First direct experimental quantification of intrinsic capacitance of monolayer Ti3C2Tx MXene via optimized flake protection and parasitic-capacitance shielding. Reports 141 μF cm–2 in acid, 61–74 μF cm–2 in alkali electrolytes; pseudocapacitance ~45% in acid but &amp;lt;10% in alkali; lower proton-transfer activation energy enables pseudocapacitive storage. Establishes a benchmark for monolayer MXene interfaces.&lt;br&gt;🏷 Ti3C2Tx MXene · monolayer capacitance · pseudocapacitance · electric double layer · proton transfer</description>
+<category>Ti3C2Tx MXene</category>
+<category>monolayer capacitance</category>
+<category>pseudocapacitance</category>
+<category>electric double layer</category>
+<category>proton transfer</category>
+</item>
 <item>
 <title>Physics-inspired degradation modeling guided by dynamic orbits for battery health prognostics</title>
 <link>https://doi.org/10.1016/j.est.2026.125110</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>interphase</category>
 <category>ion pair</category>
 <category>zinc anode</category>
-</item>
-<item>
-<title>Realizing Electric-Field-Driven PVDF-Based Electrolytes through Anion Gradient Affinity</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105602</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105602</guid>
-<pubDate>Tue, 20 Oct 2026 07:01:14 GMT</pubDate>
-<description>الکترولیت‌های پلیمری بر پایه PVDF با میل گرادیانی آنیون برای دستیابی به الکترولیت هدایت‌شده با میدان الکتریکی و بهبود عملکرد باتری طراحی می‌شوند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 PVDF electrolyte · anion gradient affinity · electric field · lithium metal battery · polymer electrolyte</description>
-<category>PVDF electrolyte</category>
-<category>anion gradient affinity</category>
-<category>electric field</category>
-<category>lithium metal battery</category>
-<category>polymer electrolyte</category>
-</item>
-<item>
-<title>Ultrafast Joule Heating Drives Non-Equilibrium Sr Segregation toward a Stabilizing Rock-Salt Interface in Ni-Rich Layered Cathodes</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105599</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105599</guid>
-<pubDate>Tue, 20 Oct 2026 07:01:10 GMT</pubDate>
-<description>گرمایش ژول فوق‌سریع جدایش غیرتعادلی Sr را در کاتدهای لایه‌ای غنی از Ni هدایت کرده و فصل مشترک پایدار rock-salt ایجاد می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · Joule heating · Sr segregation · rock-salt interface · surface reconstruction</description>
-<category>Ni-rich cathode</category>
-<category>Joule heating</category>
-<category>Sr segregation</category>
-<category>rock-salt interface</category>
-<category>surface reconstruction</category>
 </item>
 </channel>
 </rss>
