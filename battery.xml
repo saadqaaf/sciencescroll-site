@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 14:03:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 15:01:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An air-breathing Zn metal battery with self-replenishing capability and excellent cycling stability</title>
+<link>https://doi.org/10.1039/d6ta05947c</link>
+<guid isPermaLink="false">10.1039/d6ta05947c</guid>
+<pubDate>Thu, 22 Oct 2026 15:01:26 GMT</pubDate>
+<description>یک باتری Zn‖PANI دوگانه آب/اکسیژن با الکترولیت ژلی خودبازساز و PANI پاسخ‌ده به O2، پایداری هوایی فوق‌العاده و چرخه‌پذیری بسیار برگشت‌پذیر Zn را ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual water-/O₂-breathing Zn‖PANI battery using a hygroscopic self-replenishing gel electrolyte and O₂-responsive PANI. Its significance is enabling ultra-long air stability, highly reversible Zn cycling, and robust operation under extreme conditions, advancing air-breathing Zn batteries for durable, sustainable energy storage.&lt;br&gt;🏷 Zn battery · PANI · self-replenishing electrolyte · air-breathing · cycling stability</description>
+<category>Zn battery</category>
+<category>PANI</category>
+<category>self-replenishing electrolyte</category>
+<category>air-breathing</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Site-specific heteroatom engineering in MXenes for electrochemical charge storage</title>
+<link>https://doi.org/10.1039/d6ta05785c</link>
+<guid isPermaLink="false">10.1039/d6ta05785c</guid>
+<pubDate>Thu, 22 Oct 2026 15:01:21 GMT</pubDate>
+<description>مهندسی نیتروژن در مکان‌های مشخص MXene نشان می‌دهد عملکرد الکترود نه‌تنها به مقدار هترواتم بلکه به موقعیت آن در ساختار بستگی دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in site-specific nitrogen engineering of MXenes, showing heteroatom location—not just content—governs electrochemical performance. This shifts doping design from quantity to precise placement, enabling rational tuning of electrode structures for improved charge storage and offering a new design principle for MXene-based energy materials.&lt;br&gt;🏷 MXene · nitrogen doping · site-specific engineering · electrochemical storage · electrode performance</description>
+<category>MXene</category>
+<category>nitrogen doping</category>
+<category>site-specific engineering</category>
+<category>electrochemical storage</category>
+<category>electrode performance</category>
+</item>
 <item>
 <title>Direct Restoration of Spent LiFePO4 via Lattice Defect Correction and Nitrogen-Doped Interface Engineering</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03952</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>battery management</category>
 <category>dynamic characterization</category>
 <category>state estimation</category>
-</item>
-<item>
-<title>A Holistic Direct Regeneration Strategy for Ni-Rich Ternary Cathode Scraps: Linking Stage-Specific Descriptors to Electrochemical Restoration</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112507</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112507</guid>
-<pubDate>Tue, 20 Oct 2026 09:01:56 GMT</pubDate>
-<description>این مقاله یک راهبرد بازتولید مستقیم و جامع برای ضایعات کاتد سه‌تایی غنی از Ni ارائه می‌دهد و توصیفگرهای مرحله‌ای را به بازیابی الکتروشیمیایی مرتبط می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Ni-rich cathode · direct regeneration · cathode scrap · electrochemical restoration · stage-specific descriptors</description>
-<category>Ni-rich cathode</category>
-<category>direct regeneration</category>
-<category>cathode scrap</category>
-<category>electrochemical restoration</category>
-<category>stage-specific descriptors</category>
-</item>
-<item>
-<title>Ion-Pair-Orchestrated Solvation and Bidirectional Interphases across Aqueous Zinc Chemistries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112516</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112516</guid>
-<pubDate>Tue, 20 Oct 2026 09:01:50 GMT</pubDate>
-<description>این مقاله با تنظیم جفت‌یون‌ها، ساختار حل‌پوشی و بین‌سطح‌های دوجهته را در شیمی آبی روی مهندسی می‌کند تا پایداری و عملکرد باتری روی-آبی بهبود یابد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · solvation structure · interphase · ion pair · zinc anode</description>
-<category>aqueous zinc battery</category>
-<category>solvation structure</category>
-<category>interphase</category>
-<category>ion pair</category>
-<category>zinc anode</category>
 </item>
 </channel>
 </rss>
