@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 04:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 05:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Halogen-Dependent Amorphous-Phase Retention Promotes Lithium-Ion Transport in Li 2 S-Rich Solid-Electrolyte Interphase</title>
+<link>https://doi.org/10.1039/d6ta06019f</link>
+<guid isPermaLink="false">10.1039/d6ta06019f</guid>
+<pubDate>Thu, 22 Oct 2026 05:01:09 GMT</pubDate>
+<description>نشان می‌دهد نوع هالوژن با حفظ فاز آمورف Li2S در اینترفاز غنی از Li2S، انتقال یون لیتیوم را در باتری‌های الکترولیت جامد سولفیدی بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that halogen identity controls amorphous Li₂S retention in the solid-electrolyte interphase, suppressing spontaneous crystallization that disrupts long-range Li⁺ pathways. This establishes halogen-dependent phase stability as a design lever for interphase engineering, offering a mechanistic route to improve interfacial ion transport and performance in sulfide-based solid-state lithium batteries.&lt;br&gt;🏷 solid electrolyte interphase · amorphous Li2S · Li-ion transport · halogen doping · sulfide electrolyte</description>
+<category>solid electrolyte interphase</category>
+<category>amorphous Li2S</category>
+<category>Li-ion transport</category>
+<category>halogen doping</category>
+<category>sulfide electrolyte</category>
+</item>
 <item>
 <title>Degradation-informed state-of-health estimation of lithium-ion batteries using a Tabular Prior-data Fitted Network</title>
 <link>https://doi.org/10.1016/j.est.2026.125197</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>water</category>
 <category>ultrafast kinetics</category>
 <category>electrolyte</category>
-</item>
-<item>
-<title>In Situ Hetero-Layered Quasi-Solid-State Electrolyte Enable Enhanced Ion Transport for Safe Sodium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ta06891j</link>
-<guid isPermaLink="false">10.1039/d6ta06891j</guid>
-<pubDate>Mon, 19 Oct 2026 17:02:07 GMT</pubDate>
-<description>یک الکترولیت شبه‌جامد ناهمگون‌لایه در محل، انتقال یون و تماس جامد-جامد را برای باتری‌های ایمن سدیم-فلز بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in situ-formed hetero-layered quasi-solid-state electrolyte that creates seamless solid-solid contact and enhances ion transport. Its significance is enabling safe, high-energy-density sodium metal batteries by overcoming the interfacial and conductivity limitations of conventional solid electrolytes, offering a practical route to next-generation energy storage.&lt;br&gt;🏷 sodium metal battery · quasi-solid electrolyte · ion transport · hetero-layered electrolyte · solid-state battery</description>
-<category>sodium metal battery</category>
-<category>quasi-solid electrolyte</category>
-<category>ion transport</category>
-<category>hetero-layered electrolyte</category>
-<category>solid-state battery</category>
 </item>
 </channel>
 </rss>
