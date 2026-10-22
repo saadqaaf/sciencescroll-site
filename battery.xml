@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 18:02:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 19:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From solid electrolyte interphase to liquid electrolyte interphase in aqueous zinc batteries</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.050</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.050</guid>
+<pubDate>Thu, 22 Oct 2026 19:01:23 GMT</pubDate>
+<description>این مقاله گذار از فاز بین‌سطحی الکترولیت جامد به مایع را در باتری‌های آبی روی مرور می‌کند.&lt;br&gt;Science Bulletin | ⭐ Review&lt;br&gt;🏷 aqueous zinc battery · electrolyte interphase · zinc anode · SEI · interfacial chemistry</description>
+<category>aqueous zinc battery</category>
+<category>electrolyte interphase</category>
+<category>zinc anode</category>
+<category>SEI</category>
+<category>interfacial chemistry</category>
+</item>
 <item>
 <title>Advances in sodium vanadate-based cathodes for practical aqueous zinc-ion batteries: crystal chemistry, electrochemical mechanisms, challenges, and materials engineering strategies</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218647</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>shuttle suppression</category>
 <category>molecular screening</category>
 <category>terminal distance</category>
-</item>
-<item>
-<title>Influence of Graphite Characteristics on its Electrochemical Performance in Li-ion Solid-State Batteries</title>
-<link>https://doi.org/10.1039/d6ta04470k</link>
-<guid isPermaLink="false">10.1039/d6ta04470k</guid>
-<pubDate>Tue, 20 Oct 2026 13:01:41 GMT</pubDate>
-<description>تأثیر ویژگی‌های گرافیت بر عملکرد الکتروشیمیایی آن به‌عنوان آند در باتری‌های حالت جامد لیتیوم-یونی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in systematically linking graphite&amp;#x27;s physical and structural characteristics to its electrochemical performance specifically within Li-ion solid-state batteries, a less-explored context than conventional liquid-electrolyte systems. Its significance is guiding optimal graphite selection and engineering for Li-SSBs, supporting the development of safer, higher-energy-density storage systems.&lt;br&gt;🏷 graphite anode · solid-state battery · Li-ion battery · electrochemical performance · graphite characteristics</description>
-<category>graphite anode</category>
-<category>solid-state battery</category>
-<category>Li-ion battery</category>
-<category>electrochemical performance</category>
-<category>graphite characteristics</category>
 </item>
 </channel>
 </rss>
