@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 16:01:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 17:02:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Design of Bridging‐Oxygen‐Modulated Fe–Ni Dual‐Atom Sites With Multifaceted Stabilization for Durable Cathode Catalysis in Rechargeable Zinc–Air Batteries</title>
+<link>https://doi.org/10.1002/adma.75470</link>
+<guid isPermaLink="false">10.1002/adma.75470</guid>
+<pubDate>Thu, 22 Oct 2026 17:02:02 GMT</pubDate>
+<description>کاتالیزور دواتمی FeNi–N–C با پل اکسیژنی µ2-O برای کاتالیز پایدار در باتری روی-هوا طراحی شد و پس از ۲۸۰۰ ساعت ۸۰٪ بازده اولیه را حفظ کرد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bridging-oxygen-modulated Fe–Ni dual-atom sites that stabilize the catalyst through multiple mechanisms: enhanced structural integrity, reduced N-site protonation and metal stripping, and suppressed H₂O₂/ROS accumulation via O─O cleavage. This coordination-engineering strategy enables exceptional durability, retaining 80% energy efficiency after 2800 h, advancing long-life rechargeable zinc–air batteries.&lt;br&gt;🏷 zinc-air battery · dual-atom catalyst · oxygen electrocatalysis · bridging oxygen · catalyst stability</description>
+<category>zinc-air battery</category>
+<category>dual-atom catalyst</category>
+<category>oxygen electrocatalysis</category>
+<category>bridging oxygen</category>
+<category>catalyst stability</category>
+</item>
+<item>
+<title>Decoupling Protection and Doping Unlocks Asymmetric Zn Single Atoms for Efficient Oxygen Reduction</title>
+<link>https://doi.org/10.1002/adma.75444</link>
+<guid isPermaLink="false">10.1002/adma.75444</guid>
+<pubDate>Thu, 22 Oct 2026 17:01:54 GMT</pubDate>
+<description>راهبرد جداسازی حفاظت و دوپینگ، اتم‌های تک‌نشین Zn نامتقارن را فعال کرده و کاتالیست ORR با پتانسیل نیم‌موج ۰.۹۱۶ ولت و پایداری بیش از ۴۵۰ ساعت در باتری Zn-air ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sacrificial-guided etching strategy that decouples protection (Bi(NO₃)₃ preserves ZnN₄) from doping (NaCl adds Cl), creating asymmetric Zn single atoms with dual precision over coordination number and dopant configuration. This unlocks intrinsically passive d¹⁰ Zn centers, achieving 0.916 V ORR half-wave potential, 258 mW cm⁻² peak power density, and &amp;gt;450 h stability, advancing non-precious metal electrocatalyst design.&lt;br&gt;🏷 single-atom catalyst · oxygen reduction reaction · zinc-air battery · Cl doping · ZnN4 sites</description>
+<category>single-atom catalyst</category>
+<category>oxygen reduction reaction</category>
+<category>zinc-air battery</category>
+<category>Cl doping</category>
+<category>ZnN4 sites</category>
+</item>
+<item>
+<title>Cathode Depolarization Enables 1300‐Cycle Ah‐Level Anode‐Free Sodium Batteries</title>
+<link>https://doi.org/10.1002/adma.75401</link>
+<guid isPermaLink="false">10.1002/adma.75401</guid>
+<pubDate>Thu, 22 Oct 2026 17:01:39 GMT</pubDate>
+<description>پروتکل‌های شارژ اختصاصی کاتد با کاهش قطبش کاتد، رسوب سدیم را یکنواخت کرده و باتری سدیمی بدون آند در مقیاس Ah را به ۱۳۷۰ چرخه رساند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing cathode polarization&amp;#x27;s critical role in sodium deposition uniformity via electric field coupling, and establishing cathode-specific charging protocols that dynamically regulate current based on SOC-dependent resistance. This cathode depolarization strategy enables record cyclability (1370 cycles, 1.6 Ah; 890 cycles, 3.6 Ah at 180 Wh kg⁻¹) and shows universality across NFPP, NVP, and NFM cathodes, advancing practical anode-free sodium batteries.&lt;br&gt;🏷 anode-free sodium battery · cathode depolarization · sodium deposition · pouch cell · NFPP cathode</description>
+<category>anode-free sodium battery</category>
+<category>cathode depolarization</category>
+<category>sodium deposition</category>
+<category>pouch cell</category>
+<category>NFPP cathode</category>
+</item>
+<item>
+<title>Interphase-Controlled Mechanical Confinement of Na Clustering for High-Rate Sodium Storage</title>
+<link>https://doi.org/10.1039/d6ee04654a</link>
+<guid isPermaLink="false">10.1039/d6ee04654a</guid>
+<pubDate>Thu, 22 Oct 2026 17:01:30 GMT</pubDate>
+<description>این کار با اثر محدودسازی مکانیکی کنترل‌شده توسط فصل مشترک، خوشه‌بندی سدیم در حفرات بسته آند کربن سخت را مهار کرده و ذخیره‌سازی سریع سدیم را بهبود می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using interphase-controlled mechanical confinement to suppress slow Na clustering in hard carbon closed pores, addressing the decisive bottleneck for fast-charging sodium storage. Its significance is enabling high-rate sodium storage by tailoring the confining interphase, offering a design principle for fast-charging hard carbon anodes.&lt;br&gt;🏷 hard carbon anode · sodium storage · Na clustering · solid electrolyte interphase · fast charging</description>
+<category>hard carbon anode</category>
+<category>sodium storage</category>
+<category>Na clustering</category>
+<category>solid electrolyte interphase</category>
+<category>fast charging</category>
+</item>
 <item>
 <title>An air-breathing Zn metal battery with self-replenishing capability and excellent cycling stability</title>
 <link>https://doi.org/10.1039/d6ta05947c</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>electric vehicles</category>
 <category>sustainable recycling</category>
 <category>membrane separation</category>
-</item>
-<item>
-<title>A coordinated hybrid energy storage–carbon quota sharing framework for low-carbon economic dispatch of multi-park integrated energy systems</title>
-<link>https://doi.org/10.1016/j.est.2026.124906</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124906</guid>
-<pubDate>Tue, 20 Oct 2026 11:01:37 GMT</pubDate>
-<description>این مقاله چارچوبی هماهنگ برای ذخیره‌سازی انرژی هیبریدی و اشتراک سهمیه کربن ارائه می‌دهد تا توزیع اقتصادی کم‌کربن سیستم‌های انرژی یکپارچه چندپارکی محقق شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · carbon quota sharing · integrated energy systems · economic dispatch · multi-park coordination</description>
-<category>hybrid energy storage</category>
-<category>carbon quota sharing</category>
-<category>integrated energy systems</category>
-<category>economic dispatch</category>
-<category>multi-park coordination</category>
-</item>
-<item>
-<title>Enhanced energy density and transmittance in Eu-doped PbZrO3 films for transparent energy storage</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.021</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.021</guid>
-<pubDate>Tue, 20 Oct 2026 10:01:25 GMT</pubDate>
-<description>فیلم‌های PbZrO3 آلایش‌شده با Eu برای ذخیره‌سازی انرژی شفاف ساخته شد و چگالی انرژی و شفافیت آن‌ها بهبود یافت.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PbZrO3 films · Eu doping · transparent energy storage · energy density · transmittance</description>
-<category>PbZrO3 films</category>
-<category>Eu doping</category>
-<category>transparent energy storage</category>
-<category>energy density</category>
-<category>transmittance</category>
-</item>
-<item>
-<title>Aluminum phosphate functionalization of graphite promoting interfacial lithium ion desolvation</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.005</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.005</guid>
-<pubDate>Tue, 20 Oct 2026 09:03:35 GMT</pubDate>
-<description>این پژوهش با عامل‌دار کردن گرافیت به‌وسیله آلومینیوم فسفات، فرایند جداسازی پوشش حلال از یون لیتیوم در فصل مشترک را تقویت می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphite anode · aluminum phosphate · desolvation · lithium-ion battery · interface</description>
-<category>graphite anode</category>
-<category>aluminum phosphate</category>
-<category>desolvation</category>
-<category>lithium-ion battery</category>
-<category>interface</category>
-</item>
-<item>
-<title>Dynamic impedance characterization of lithium-ion batteries: Experimental insights and implications for battery management</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.085</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.085</guid>
-<pubDate>Tue, 20 Oct 2026 09:03:27 GMT</pubDate>
-<description>این مقاله با مشخصه‌یابی دینامیکی امپدانس باتری‌های لیتیوم-یونی، بینش‌های تجربی و پیامدهای آن برای سیستم مدیریت باتری را ارائه می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion batteries · impedance spectroscopy · battery management · dynamic characterization · state estimation</description>
-<category>lithium-ion batteries</category>
-<category>impedance spectroscopy</category>
-<category>battery management</category>
-<category>dynamic characterization</category>
-<category>state estimation</category>
 </item>
 </channel>
 </rss>
