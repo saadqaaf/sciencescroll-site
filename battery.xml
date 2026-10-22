@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 12:01:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 13:02:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Physics-inspired degradation modeling guided by dynamic orbits for battery health prognostics</title>
+<link>https://doi.org/10.1016/j.est.2026.125110</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125110</guid>
+<pubDate>Thu, 22 Oct 2026 13:02:13 GMT</pubDate>
+<description>این مقاله یک مدل تخریب الهام‌گرفته از فیزیک و هدایت‌شده با مدارهای دینامیکی را برای پیش‌بینی سلامت باتری ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 degradation modeling · battery health prognostics · dynamic orbits · physics-inspired model · state of health</description>
+<category>degradation modeling</category>
+<category>battery health prognostics</category>
+<category>dynamic orbits</category>
+<category>physics-inspired model</category>
+<category>state of health</category>
+</item>
+<item>
+<title>Construction of cellulose–encapsulated nickel–zinc–molybdenum oxide composite: A rod–like ternary composite for high-performance energy storage device</title>
+<link>https://doi.org/10.1016/j.est.2026.124546</link>
+<guid isPermaLink="false">10.1016/j.est.2026.124546</guid>
+<pubDate>Thu, 22 Oct 2026 13:02:06 GMT</pubDate>
+<description>این مقاله کامپوزیت سه‌تایی میله‌ای Ni-Zn-Mo oxide کپسوله‌شده با سلولز را برای دستگاه ذخیره‌سازی انرژی با عملکرد بالا می‌سازد و مشخصه‌یابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cellulose composite · Ni-Zn-Mo oxide · ternary composite · rod-like structure · energy storage device</description>
+<category>cellulose composite</category>
+<category>Ni-Zn-Mo oxide</category>
+<category>ternary composite</category>
+<category>rod-like structure</category>
+<category>energy storage device</category>
+</item>
+<item>
+<title>Comparative structural and electrochemical analysis of cubic and Na-rich rhombohedral Prussian blue analogues for sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125238</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125238</guid>
+<pubDate>Thu, 22 Oct 2026 13:02:02 GMT</pubDate>
+<description>این مقاله ساختار و رفتار الکتروشیمیایی آنالوگ‌های پروسیان بلو مکعبی و رومبوهدرال غنی از سدیم را برای باتری‌های یون سدیم مقایسه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Prussian blue analogues · sodium-ion batteries · cathode · rhombohedral phase · electrochemical analysis</description>
+<category>Prussian blue analogues</category>
+<category>sodium-ion batteries</category>
+<category>cathode</category>
+<category>rhombohedral phase</category>
+<category>electrochemical analysis</category>
+</item>
+<item>
+<title>AGLFormer: Compact feature selection and parameter-budget-aware global-local modeling for lithium-ion battery state-of-health estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.125234</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125234</guid>
+<pubDate>Thu, 22 Oct 2026 13:01:48 GMT</pubDate>
+<description>این پژوهش مدل AGLFormer را با انتخاب ویژگی فشرده و مدل‌سازی جهانی-محلی آگاه از بودجه پارامتر برای تخمین سلامت باتری لیتیوم-یونی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · AGLFormer · feature selection · global-local modeling</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>AGLFormer</category>
+<category>feature selection</category>
+<category>global-local modeling</category>
+</item>
+<item>
+<title>Domain adaptation state of health estimation for lithium-ion batteries accounting for state of charge dependence</title>
+<link>https://doi.org/10.1016/j.est.2026.125187</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125187</guid>
+<pubDate>Thu, 22 Oct 2026 13:01:45 GMT</pubDate>
+<description>این مقاله روشی مبتنی بر انطباق دامنه برای تخمین سلامت باتری لیتیوم-یونی ارائه می‌کند که وابستگی به وضعیت شارژ را در نظر می‌گیرد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · domain adaptation · state of charge · SOH estimation</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>domain adaptation</category>
+<category>state of charge</category>
+<category>SOH estimation</category>
+</item>
+<item>
+<title>Strategic energy management of renewable-integrated EV charging and battery swapping systems for resilient distribution networks under uncertainty</title>
+<link>https://doi.org/10.1016/j.esr.2026.102377</link>
+<guid isPermaLink="false">10.1016/j.esr.2026.102377</guid>
+<pubDate>Thu, 22 Oct 2026 13:01:41 GMT</pubDate>
+<description>این پژوهش مدیریت انرژی راهبردی برای ایستگاه‌های شارژ و تعویض باتری خودروهای برقی متصل به انرژی تجدیدپذیر در شبکه توزیع تحت عدم‌قطعیت ارائه می‌دهد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 EV charging · battery swapping · renewable energy · distribution network · uncertainty management</description>
+<category>EV charging</category>
+<category>battery swapping</category>
+<category>renewable energy</category>
+<category>distribution network</category>
+<category>uncertainty management</category>
+</item>
 <item>
 <title>High-valence d0 chemistry of tungsten-triangle elements in sodium layered oxide cathodes: Bulk lattice regulation, lattice-oxygen stabilization, and interfacial modulation</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.016</link>
@@ -1137,78 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Sr segregation</category>
 <category>rock-salt interface</category>
 <category>surface reconstruction</category>
-</item>
-<item>
-<title>Water-state-aware coordinated scheduling of cascade hydropower and pumped storage for power systems with high renewable penetration</title>
-<link>https://doi.org/10.1016/j.est.2026.125198</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125198</guid>
-<pubDate>Tue, 20 Oct 2026 01:01:46 GMT</pubDate>
-<description>این مقاله یک برنامه‌ریزی هماهنگ آگاه از وضعیت آب برای نیروگاه‌های برق‌آبی آبشاری و ذخیره‌سازی تلمبه‌ای در سیستم‌های قدرت با نفوذ بالای انرژی تجدیدپذیر ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pumped storage · cascade hydropower · renewable penetration · coordinated scheduling · water state</description>
-<category>pumped storage</category>
-<category>cascade hydropower</category>
-<category>renewable penetration</category>
-<category>coordinated scheduling</category>
-<category>water state</category>
-</item>
-<item>
-<title>Comprehensive assessment of the efficiency of using latent heat thermal energy storage in the heat circuit of nuclear power plants with water-cooled reactors</title>
-<link>https://doi.org/10.1016/j.est.2026.125215</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125215</guid>
-<pubDate>Tue, 20 Oct 2026 01:01:42 GMT</pubDate>
-<description>این مقاله کارایی استفاده از ذخیره‌سازی انرژی حرارتی نهان در مدار حرارتی نیروگاه هسته‌ای با راکتور آب‌خنک را به‌طور جامع ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 latent heat storage · nuclear power plant · phase change material · thermal energy storage · heat circuit</description>
-<category>latent heat storage</category>
-<category>nuclear power plant</category>
-<category>phase change material</category>
-<category>thermal energy storage</category>
-<category>heat circuit</category>
-</item>
-<item>
-<title>Boosting reaction kinetics via heterojunction engineering of transition metal selenides for sodium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125190</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125190</guid>
-<pubDate>Tue, 20 Oct 2026 01:01:39 GMT</pubDate>
-<description>این مقاله با مهندسی ناهم‌ساختار سلنیدهای فلز واسطه، سینتیک واکنش را برای باتری‌های سدیم-یونی بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · transition metal selenide · heterojunction engineering · reaction kinetics · anode material</description>
-<category>sodium-ion battery</category>
-<category>transition metal selenide</category>
-<category>heterojunction engineering</category>
-<category>reaction kinetics</category>
-<category>anode material</category>
-</item>
-<item>
-<title>A immersion thermal management strategy applied to sodium-ion battery modules: An experimental baseline study</title>
-<link>https://doi.org/10.1016/j.est.2026.125207</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125207</guid>
-<pubDate>Tue, 20 Oct 2026 01:01:32 GMT</pubDate>
-<description>این مقاله به‌صورت تجربی یک راهبرد مدیریت حرارتی غوطه‌وری را برای ماژول‌های باتری سدیم-یونی ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · immersion thermal management · battery module · experimental study · temperature control</description>
-<category>sodium-ion battery</category>
-<category>immersion thermal management</category>
-<category>battery module</category>
-<category>experimental study</category>
-<category>temperature control</category>
-</item>
-<item>
-<title>Spatial heat generation and temperature distribution in cylindrical lithium-ion batteries: Insights from a multi-domain electrochemical-thermal model</title>
-<link>https://doi.org/10.1016/j.est.2026.125221</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125221</guid>
-<pubDate>Tue, 20 Oct 2026 01:01:26 GMT</pubDate>
-<description>این مقاله با مدل الکتروشیمیایی-حرارتی چنددامنه، تولید گرما و توزیع دما در باتری‌های استوانه‌ای لیتیوم-یونی را تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cylindrical lithium-ion battery · electrochemical-thermal model · heat generation · temperature distribution · multi-domain modeling</description>
-<category>cylindrical lithium-ion battery</category>
-<category>electrochemical-thermal model</category>
-<category>heat generation</category>
-<category>temperature distribution</category>
-<category>multi-domain modeling</category>
-</item>
-<item>
-<title>Physics-constrained long-horizon state of health prediction with explicit recovery correction for lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125241</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125241</guid>
-<pubDate>Tue, 20 Oct 2026 01:01:19 GMT</pubDate>
-<description>این مقاله مدلی مقید به فیزیک با تصحیح بازیابی صریح برای پیش‌بینی بلندمدت وضعیت سلامت باتری‌های لیتیوم-یونی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · physics-constrained model · recovery correction · long-horizon prediction</description>
-<category>lithium-ion battery</category>
-<category>state of health</category>
-<category>physics-constrained model</category>
-<category>recovery correction</category>
-<category>long-horizon prediction</category>
 </item>
 </channel>
 </rss>
