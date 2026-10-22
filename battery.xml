@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 09:01:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 10:03:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Insoluble π –d -Conjugated Small Molecules Featuring p -Type Ligands Enable All-Organic Dual-Ion Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02410</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02410</guid>
+<pubDate>Thu, 22 Oct 2026 10:02:57 GMT</pubDate>
+<description>مولکول‌های کوچک نامحلول π–d مزدوج با لیگاندهای p-type از طریق هم‌آرایی ساخته شدند و باتری دوقطبی تمام‌آلی با ولتاژ 2.4 ولت و عمر بیش از 1000 چرخه به دست آمد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a coordination-driven strategy using π–d conjugated small molecules (BTD-M) with p-type triphenylamine ligands, thermodynamically locking discrete molecules against dissolution while preserving active-site access. Significance: BTD-Cu enables a narrow 0.7 eV bandgap, near-theoretical capacity (134 mAh g–1), and a symmetric all-organic dual-ion battery with 2.4 V average voltage and &amp;gt;1000-cycle life, establishing a platform for insoluble organic battery design.&lt;br&gt;🏷 organic electrode · dual-ion battery · π-d conjugation · p-type ligand · coordination</description>
+<category>organic electrode</category>
+<category>dual-ion battery</category>
+<category>π-d conjugation</category>
+<category>p-type ligand</category>
+<category>coordination</category>
+</item>
+<item>
+<title>Functional Separator Coatings for Lithium/Sodium Metal Batteries: Bridging Academic Research and Industrial Prospects</title>
+<link>https://doi.org/10.1002/adfm.79124</link>
+<guid isPermaLink="false">10.1002/adfm.79124</guid>
+<pubDate>Thu, 22 Oct 2026 10:02:40 GMT</pubDate>
+<description>این مرور، پوشش‌های عملکردی جداکننده برای سرکوب دندریت و پایدارسازی آند فلزی در باتری‌های Li/Na را از منظر مکانیزم، مواد و مقیاس‌پذیری صنعتی بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely bridges academic and industrial perspectives on functional separator coatings for Li/Na metal batteries. Its novelty lies in systematically linking coating structure-function mechanisms to scalable manufacturing metrics—thickness, line speed, material utilization, equipment, and process continuity. Significance: it provides mechanistic insights and design principles guiding rational separator design and practical commercialization of high-energy-density metal batteries.&lt;br&gt;🏷 separator coating · lithium metal battery · sodium metal battery · dendrite suppression · scalable manufacturing</description>
+<category>separator coating</category>
+<category>lithium metal battery</category>
+<category>sodium metal battery</category>
+<category>dendrite suppression</category>
+<category>scalable manufacturing</category>
+</item>
+<item>
+<title>Ionic Microenvironment Regulator Enables Enhanced Anion Trapping in Cationic Poly(Ionic Liquid) Solid Electrolyte for Low‐Temperature Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79170</link>
+<guid isPermaLink="false">10.1002/adfm.79170</guid>
+<pubDate>Thu, 22 Oct 2026 10:02:32 GMT</pubDate>
+<description>افزودن TMS به الکترولیت پلی(مایع یونی) کاتیونی با به‌دام‌اندازی آنیون و بهبود انتقال Li+، عملکرد باتری لیتیوم-فلز ولتاژ بالا را در دمای منفی 15 درجه پایدار کرد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using methyl trifluoromethanesulfonate (TMS) as an ionic microenvironment regulator in a cationic poly(ionic liquid) solid electrolyte, which enhances lithium salt dissociation and induces anion trapping via modulated charge distribution. This enables uniform Li deposition and fast Li+ transport at −15°C, yielding high-voltage batteries with 89.8% retention over 500 cycles and 80.1% over 800 cycles—advancing low-temperature solid-state lithium metal battery design.&lt;br&gt;🏷 solid polymer electrolyte · lithium metal battery · low temperature · anion trapping · poly(ionic liquid)</description>
+<category>solid polymer electrolyte</category>
+<category>lithium metal battery</category>
+<category>low temperature</category>
+<category>anion trapping</category>
+<category>poly(ionic liquid)</category>
+</item>
+<item>
+<title>Bioinspired Repurposing of Lisinopril: A Clinical ACE Inhibitor as a Trace Dual‐Functional Additive for Ultrastable Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79127</link>
+<guid isPermaLink="false">10.1002/adfm.79127</guid>
+<pubDate>Thu, 22 Oct 2026 10:02:21 GMT</pubDate>
+<description>داروی لیزینوپریل به‌عنوان افزودنی کم‌مقدار الکترولیت، با تنظیم پوسته حل‌پوشی و تشکیل SEI پایدار، پایداری و بازدهی بالای باتری آبی Zn-ion را ممکن ساخت.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Repurposing lisinopril, a clinical ACE inhibitor, as a trace dual-functional electrolyte additive for aqueous zinc-ion batteries is novel. Its multidentate amphiphilic structure forms a gradient hybrid interphase, regulates Zn2+ solvation, and buffers pH, enabling ultrastable cycling (99.78% efficiency, 2400 h, 10,000-cycle full cells). This demonstrates converting pharmaceutical Zn-binding motifs into function-oriented additives for durable batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · lisinopril additive · solid electrolyte interphase · Zn dendrite · solvation regulation</description>
+<category>aqueous zinc-ion battery</category>
+<category>lisinopril additive</category>
+<category>solid electrolyte interphase</category>
+<category>Zn dendrite</category>
+<category>solvation regulation</category>
+</item>
+<item>
+<title>Carbene‐Mediated Cross‐linking of Aromatic Dielectric Polymers for Capacitive Energy Storage at 250°C</title>
+<link>https://doi.org/10.1002/adfm.79094</link>
+<guid isPermaLink="false">10.1002/adfm.79094</guid>
+<pubDate>Thu, 22 Oct 2026 10:01:51 GMT</pubDate>
+<description>این مقاله با اتصال عرضی کاربنی پلی‌ایمید فلورینه، فیلم دی‌الکتریک مقاوم حرارتی با چگالی انرژی ۴.۴ J cm−3 در ۲۵۰ درجه سانتی‌گراد می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a carbene-mediated C–H insertion cross-linking strategy using stepwise thermal activation, enabling efficient cross-linking (95.8% at 2 wt.% BLD201) of aromatic polymers lacking reactive groups. Its significance is transforming commercial fluorinated polyimide into free-standing films with outstanding capacitive energy storage at 250°C (4.4 J cm⁻³), offering a versatile route to thermally resilient dielectric materials.&lt;br&gt;🏷 carbene cross-linking · dielectric polymer · capacitive energy storage · fluorinated polyimide · high-temperature capacitor</description>
+<category>carbene cross-linking</category>
+<category>dielectric polymer</category>
+<category>capacitive energy storage</category>
+<category>fluorinated polyimide</category>
+<category>high-temperature capacitor</category>
+</item>
 <item>
 <title>High‐Entropy Materials as a Design Paradigm for Low‐Temperature Sodium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adma.75441</link>
@@ -1150,66 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>Jahn-Teller distortion</category>
 <category>molecular O2</category>
 <category>Al/Si co-doping</category>
-</item>
-<item>
-<title>Dynamic Thermal Regulation of Li‐Mg Batteries via Microencapsulated Phase Change Materials Embedded in High‐Entropy MOF Matrices</title>
-<link>https://doi.org/10.1002/adfm.79105</link>
-<guid isPermaLink="false">10.1002/adfm.79105</guid>
-<pubDate>Mon, 19 Oct 2026 22:01:30 GMT</pubDate>
-<description>ریزکپسول‌های MOF با آنتروپی بالا حاوی ماده تغییر فاز و بازدارنده شعله در الکترولیت ژل پلیمری، انتقال یون، سرکوب دندریت منیزیم و ایمنی حرارتی باتری Li-Mg را بهبود می‌دهند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in hollow high-entropy MOF microcapsules with oxygen vacancies and hierarchical porosity, encapsulating flame-retardant TEP gated by phase-change material for smart thermal-triggered release. This integrates dendrite suppression, fast ion transport, and thermal-runaway prevention in one gel electrolyte, enabling 80.5 mAh g⁻¹ at 80 C and only 1.55% degradation over 20,000 cycles—advancing intrinsically safe, high-energy Li-Mg batteries.&lt;br&gt;🏷 Li-Mg battery · high-entropy MOF · phase change material · gel polymer electrolyte · thermal runaway</description>
-<category>Li-Mg battery</category>
-<category>high-entropy MOF</category>
-<category>phase change material</category>
-<category>gel polymer electrolyte</category>
-<category>thermal runaway</category>
-</item>
-<item>
-<title>Nitrobenzo Crown Ether Enables Stable Interphases in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79065</link>
-<guid isPermaLink="false">10.1002/adfm.79065</guid>
-<pubDate>Mon, 19 Oct 2026 22:01:22 GMT</pubDate>
-<description>افزودن اتر تاجی نیتروبنزو به الکترولیت کربناته، پوسته حل‌پوشی Li+ و شیمی فصل مشترک را تنظیم کرده و SEI غنی از LiF و Li3N و رشد بدون دندریت را در باتری لیتیوم-فلز ایجاد می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 NBCE is a novel multifunctional additive that replaces ethylene carbonate in the Li+ solvation sheath, lowering desolvation energy and forming a dense LiF/Li3N-rich SEI via nitro-group conversion. This enables dendrite-free Li deposition, &amp;gt;1000 h cycling, 79.5% capacity retention over 300 cycles, and suppressed high-voltage leakage, establishing solvation-interphase co-regulation as a promising strategy for high-energy-density Li metal batteries.&lt;br&gt;🏷 lithium metal battery · crown ether additive · solid electrolyte interphase · solvation regulation · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>crown ether additive</category>
-<category>solid electrolyte interphase</category>
-<category>solvation regulation</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Surface oxyfluoride conversion enables durable and fast sodium storage in micron-sized bismuth anodes</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105601</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105601</guid>
-<pubDate>Mon, 19 Oct 2026 21:01:17 GMT</pubDate>
-<description>تبدیل سطحی اکسی‌فلوراید، ذخیره‌سازی سریع و پایدار سدیم را در آندهای بیسموت میکرونی ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · bismuth anode · oxyfluoride conversion · micron-sized particles · surface engineering</description>
-<category>sodium-ion battery</category>
-<category>bismuth anode</category>
-<category>oxyfluoride conversion</category>
-<category>micron-sized particles</category>
-<category>surface engineering</category>
-</item>
-<item>
-<title>Alkaline gel polymer electrolytes for aqueous metal-based batteries: From ion transport mechanisms to interfacial and mechanical engineering</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218692</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218692</guid>
-<pubDate>Mon, 19 Oct 2026 20:01:38 GMT</pubDate>
-<description>این مرور، الکترولیت‌های پلیمری ژلی قلیایی برای باتری‌های آبی فلزی را از سازوکار انتقال یون تا مهندسی سطح مشترک و خواص مکانیکی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 gel polymer electrolyte · aqueous batteries · ion transport · interface engineering · mechanical properties</description>
-<category>gel polymer electrolyte</category>
-<category>aqueous batteries</category>
-<category>ion transport</category>
-<category>interface engineering</category>
-<category>mechanical properties</category>
-</item>
-<item>
-<title>MBenes beyond MXenes: the next frontier of 2D boride materials for multivalent ion energy storage devices</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218669</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218669</guid>
-<pubDate>Mon, 19 Oct 2026 20:01:30 GMT</pubDate>
-<description>این مرور، MBenes به‌عنوان نسل جدید مواد دوبعدی بوریدی فراتر از MXenes را برای دستگاه‌های ذخیره‌سازی انرژی یون چندظرفیتی بررسی می‌کند و چشم‌اندازهای آن را ترسیم می‌نماید.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 MBenes · 2D borides · multivalent ion batteries · MXenes · energy storage</description>
-<category>MBenes</category>
-<category>2D borides</category>
-<category>multivalent ion batteries</category>
-<category>MXenes</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
