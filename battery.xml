@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 01:03:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 02:04:46 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Open-pore hollow graphene nanosphere-supported Pd catalyst for reversible atmospheric-pressure hydrogenation/dehydrogenation of indole-based LOHCs</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122244</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122244</guid>
+<pubDate>Thu, 22 Oct 2026 02:04:44 GMT</pubDate>
+<description>کاتالیزور Pd بر نانوسفر توخالی گرافن با منافذ باز برای هیدروژن‌دار کردن و هیدروژن‌زدایی برگشت‌پذیر ایندول به‌عنوان حامل هیدروژن آلی مایع در فشار اتمسفر ساخته می‌شود.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 LOHC · indole hydrogenation · Pd catalyst · hollow graphene nanosphere · atmospheric-pressure dehydrogenation</description>
+<category>LOHC</category>
+<category>indole hydrogenation</category>
+<category>Pd catalyst</category>
+<category>hollow graphene nanosphere</category>
+<category>atmospheric-pressure dehydrogenation</category>
+</item>
 <item>
 <title>Fluorine-Mediated Molten-Salt Crystallization Regulates Phase Evolution and Structural Stability in Sodium Layered Oxides</title>
 <link>https://doi.org/10.1021/jacs.6c10977</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>power quality</category>
 <category>grid-connected PV</category>
 <category>coordinated control</category>
-</item>
-<item>
-<title>Techno-economic comparison of lithium-iron phosphate battery and hydrogen energy storage for wind power-based microgrids</title>
-<link>https://doi.org/10.1016/j.est.2026.125177</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125177</guid>
-<pubDate>Mon, 19 Oct 2026 15:03:17 GMT</pubDate>
-<description>این مقاله مقایسه فنی-اقتصادی باتری لیتیوم-آهن-فسفات و ذخیره‌سازی انرژی هیدروژنی را برای ریزشبکه‌های مبتنی بر انرژی بادی انجام می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LFP battery · hydrogen storage · wind microgrid · techno-economic analysis · energy storage comparison</description>
-<category>LFP battery</category>
-<category>hydrogen storage</category>
-<category>wind microgrid</category>
-<category>techno-economic analysis</category>
-<category>energy storage comparison</category>
 </item>
 </channel>
 </rss>
