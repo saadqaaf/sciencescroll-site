@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 06:01:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 07:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High‐Entropy Materials as a Design Paradigm for Low‐Temperature Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75441</link>
+<guid isPermaLink="false">10.1002/adma.75441</guid>
+<pubDate>Thu, 22 Oct 2026 07:01:37 GMT</pubDate>
+<description>این مرور نشان می‌دهد مهندسی آنتروپی در مواد آنتروپی‌بالا با ایجاد بی‌نظمی پیکربندی، انتقال Na+ و پایداری فاز و سینتیک بین‌سطحی را در باتری‌های سدیم-یون دمای پایین بهبود می‌دهد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely positions high-entropy materials as a design paradigm for low-temperature sodium-ion batteries, linking configurational disorder to transport, phase stability, and interfacial kinetics across cathodes, anodes, electrolytes, and interfaces. Its significance lies in proposing quantitative descriptors, minimum reporting metrics, and a unifying entropy–percolation framework, while outlining trade-offs and manufacturability constraints needed to translate entropy engineering into robust low-temperature operation.&lt;br&gt;🏷 high-entropy materials · sodium-ion batteries · low-temperature operation · entropy engineering · interfacial kinetics</description>
+<category>high-entropy materials</category>
+<category>sodium-ion batteries</category>
+<category>low-temperature operation</category>
+<category>entropy engineering</category>
+<category>interfacial kinetics</category>
+</item>
+<item>
+<title>Industry‐Scalable Interfacial Design for Stabilizing PET‐Cu Current Collectors</title>
+<link>https://doi.org/10.1002/adma.75466</link>
+<guid isPermaLink="false">10.1002/adma.75466</guid>
+<pubDate>Thu, 22 Oct 2026 07:01:25 GMT</pubDate>
+<description>پوشش Al2O3 به‌روش roll-to-roll روی زیرلایه PET، کلکتور جریان PET-Cu را پایدار کرده و پایداری چرخه سلول‌های جیبی LiNi0.5Co0.2Mn0.3O2//گرافیت را در دمای بالا بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an industry-scalable roll-to-roll Al₂O₃ coating on PET substrates that acts as a physical barrier against electrolyte attack. Its significance: the coated PET-Cu current collector enables 86% capacity retention after 1000 cycles at 45°C in 3-Ah pouch cells—matching commercial Cu and far exceeding uncoated PET-Cu (58%)—offering a low-cost route to lightweight, high-energy lithium-ion batteries.&lt;br&gt;🏷 PET-Cu current collector · Al2O3 coating · roll-to-roll · lithium-ion battery · interfacial stability</description>
+<category>PET-Cu current collector</category>
+<category>Al2O3 coating</category>
+<category>roll-to-roll</category>
+<category>lithium-ion battery</category>
+<category>interfacial stability</category>
+</item>
+<item>
+<title>Disordered Nanodomains Stabilize Near-Degeneracy in Complex Layered Oxides</title>
+<link>https://doi.org/10.1039/d6ee05497h</link>
+<guid isPermaLink="false">10.1039/d6ee05497h</guid>
+<pubDate>Thu, 22 Oct 2026 07:01:19 GMT</pubDate>
+<description>با مهندسی نانودومین‌های بی‌نظم در اکسیدهای لایه‌ای، شبه‌تباهیدگی ساختاری حفظ و تبدیل فاز برگشت‌ناپذیر در کاتد باتری لیتیوم-یون مهار می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in engineering disordered nanodomains to stabilize near-degenerate states in layered oxides, preventing irreversible phase transformations during lithium intercalation. This significantly advances understanding of structural stability in complex oxides and offers a pathway to overcome capacity and longevity limits in lithium-ion batteries, enabling higher-performance cathode materials.&lt;br&gt;🏷 layered oxides · lithium intercalation · disordered nanodomains · phase transformation · cathode stability</description>
+<category>layered oxides</category>
+<category>lithium intercalation</category>
+<category>disordered nanodomains</category>
+<category>phase transformation</category>
+<category>cathode stability</category>
+</item>
 <item>
 <title>Halogen-Dependent Amorphous-Phase Retention Promotes Lithium-Ion Transport in Li 2 S-Rich Solid-Electrolyte Interphase</title>
 <link>https://doi.org/10.1039/d6ta06019f</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>multivalent ion batteries</category>
 <category>MXenes</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Closed Pores as Internal Stress‐Regulation Units for Practical Silicon–Carbon Anodes</title>
-<link>https://doi.org/10.1002/adma.75427</link>
-<guid isPermaLink="false">10.1002/adma.75427</guid>
-<pubDate>Mon, 19 Oct 2026 19:01:33 GMT</pubDate>
-<description>این پژوهش با ایجاد نانوحفره‌های بسته در میزبان کربنی دوپ‌شده، تنش ناشی از لیتیوم‌خواری آند Si-C را درونی کرده و تورم الکترود و افت ظرفیت را در سلول‌های کیسه‌ای کاهش می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Closed nanopores in heteroatom-doped carbon hosts act as internal stress-regulation units, redirecting lithiation-induced expansion inward to suppress electrode swelling and cracking. This yields high capacity (1756.5 mAh g⁻¹), 90.2% initial Coulombic efficiency, and reduced thickness expansion (38.4%→13.1%). Scalable 6 kg production enables 2 Ah NCM811 pouch cells with 80% retention after 1200 cycles, establishing a practical low-expansion silicon–carbon anode strategy.&lt;br&gt;🏷 silicon-carbon anode · closed pores · stress regulation · lithium-ion battery · pouch cell</description>
-<category>silicon-carbon anode</category>
-<category>closed pores</category>
-<category>stress regulation</category>
-<category>lithium-ion battery</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Reconstruction of the Electric Double Layer for Long‐Lasting Aqueous Manganese Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75431</link>
-<guid isPermaLink="false">10.1002/adma.75431</guid>
-<pubDate>Mon, 19 Oct 2026 19:01:28 GMT</pubDate>
-<description>این مطالعه با افزودن سورفکتانت 10-DTAB و بازسازی لایه دوگانه الکتریکی، واکنش آزادسازی هیدروژن را مهار کرده و بازده کولمبی آند منگنز را در باتری آبی منگنز به ۹۳٪ می‌رساند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a high-LUMO surfactant (10-DTAB) to reconstruct the electric double layer, suppressing water-driven HER and enabling durable interfacial protection. Significance: this high-LUMO additive paradigm stabilizes the Mn metal anode, achieving 93% Coulombic efficiency and advancing aqueous manganese metal batteries toward practical stationary energy storage.&lt;br&gt;🏷 aqueous manganese battery · electric double layer · surfactant additive · hydrogen evolution · manganese anode</description>
-<category>aqueous manganese battery</category>
-<category>electric double layer</category>
-<category>surfactant additive</category>
-<category>hydrogen evolution</category>
-<category>manganese anode</category>
-</item>
-<item>
-<title>Water serves as a charge-transfer medium for ultrafast aqueous batteries</title>
-<link>https://doi.org/10.1038/s41578-026-00971-x</link>
-<guid isPermaLink="false">10.1038/s41578-026-00971-x</guid>
-<pubDate>Mon, 19 Oct 2026 17:04:13 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد آب به‌عنوان محیط انتقال بار، امکان باتری‌های آبی فوق‌سریع را فراهم می‌کند.&lt;br&gt;Nature Reviews Materials | ⭐ Review&lt;br&gt;💡 This Perspective proposes interfacial water as a charge-transfer medium in aqueous batteries, explaining ultrafast kinetics via water cleavage and reorganization at electrode–electrolyte interfaces. It reframes charge storage beyond ion-centric models, links water-derived protons and transient intermediates to observed signatures, and outlines mechanisms, tunability, characterization, and design implications for high-power aqueous energy storage.&lt;br&gt;🏷 aqueous battery · charge transfer · water · ultrafast kinetics · electrolyte</description>
-<category>aqueous battery</category>
-<category>charge transfer</category>
-<category>water</category>
-<category>ultrafast kinetics</category>
-<category>electrolyte</category>
 </item>
 </channel>
 </rss>
