@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 22:03:38 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 23:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Optimization of last-stage turbine inlet reheating temperature in pressurized-water compressed air energy storage systems under variable operating conditions</title>
+<link>https://doi.org/10.1016/j.est.2026.125231</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125231</guid>
+<pubDate>Thu, 22 Oct 2026 23:01:17 GMT</pubDate>
+<description>دمای ورودی ری‌هیت توربین آخر در سیستم ذخیره‌سازی انرژی هوای فشرده با آب تحت‌فشار در شرایط کاری متغیر بهینه‌سازی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · reheating temperature · turbine · pressurized water · optimization</description>
+<category>compressed air energy storage</category>
+<category>reheating temperature</category>
+<category>turbine</category>
+<category>pressurized water</category>
+<category>optimization</category>
+</item>
+<item>
+<title>Development of a binder-free NiMn-MOF@CoS composite for advanced performance hybrid supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125083</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125083</guid>
+<pubDate>Thu, 22 Oct 2026 23:01:13 GMT</pubDate>
+<description>کامپوزیت بدون بایندر NiMn-MOF@CoS ساخته شد و عملکرد الکتروشیمیایی آن به‌عنوان الکترود ابرخازن هیبریدی بهبود یافت.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NiMn-MOF · CoS composite · hybrid supercapacitor · binder-free electrode · energy storage</description>
+<category>NiMn-MOF</category>
+<category>CoS composite</category>
+<category>hybrid supercapacitor</category>
+<category>binder-free electrode</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>Gill‐Inspired Biomimetic Engineering Enables 100 000‐Cycle Stable Potassium Storage of MXene</title>
 <link>https://doi.org/10.1002/smll.76396</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>fluorinated graphene</category>
 <category>polysulfide catalysis</category>
 <category>capacity retention</category>
-</item>
-<item>
-<title>Polysulfide Sequestration at In-Situ Polymerized Cathode Electrolyte Interface in Ether-Ester Electrolyte for Lithium-Sulfur Batteries</title>
-<link>https://doi.org/10.1039/d6ta07388c</link>
-<guid isPermaLink="false">10.1039/d6ta07388c</guid>
-<pubDate>Wed, 21 Oct 2026 09:01:22 GMT</pubDate>
-<description>با استفاده از الکترولیت اتر-استر حاوی vinylene carbonate، لایه CEI غنی از گوگرد آلی در جای خود تشکیل شده و شاتلینگ پلی‌سولفید در باتری Li-S مهار می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a VC-containing ether-ester electrolyte to form an organic-sulfur-rich CEI via in-situ polymerization, which sequesters polysulfides at the cathode interface. This approach addresses polysulfide dissolution and shuttling—the key cause of rapid capacity fading in lithium-sulfur batteries—offering a significant strategy to improve cycling stability and lifespan.&lt;br&gt;🏷 lithium-sulfur battery · polysulfide shuttling · cathode-electrolyte interphase · ether-ester electrolyte · vinylene carbonate</description>
-<category>lithium-sulfur battery</category>
-<category>polysulfide shuttling</category>
-<category>cathode-electrolyte interphase</category>
-<category>ether-ester electrolyte</category>
-<category>vinylene carbonate</category>
-</item>
-<item>
-<title>From Dense to Nanostructured Thin Film Anodes: Boosting Li-Ion Accessibility in TiO2 Thin Film Electrodes</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04067</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04067</guid>
-<pubDate>Wed, 21 Oct 2026 08:01:12 GMT</pubDate>
-<description>با ترکیب GLAD و اسپاترینگ مگنترون، آندهای نانocolumnar TiO2 ساخته شد که نفوذپذیری یون لیتیوم و ظرفیت سطحی را تا حدود ۴ برابر نسبت به فیلم‌های متراکم افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using GLAD with reactive magnetron sputtering, guided by kinetic Monte Carlo simulations, to engineer ion-accessible TiO2 nanocolumnar architectures without compositional change or postprocessing. Significance: these morphology-controlled electrodes achieve ~4-fold higher areal capacitance than dense films and uniform Li distribution throughout depth, establishing ion accessibility as the primary origin of enhanced electrochemical response.&lt;br&gt;🏷 TiO2 thin film · nanocolumnar anode · GLAD sputtering · Li-ion transport · areal capacitance</description>
-<category>TiO2 thin film</category>
-<category>nanocolumnar anode</category>
-<category>GLAD sputtering</category>
-<category>Li-ion transport</category>
-<category>areal capacitance</category>
 </item>
 </channel>
 </rss>
