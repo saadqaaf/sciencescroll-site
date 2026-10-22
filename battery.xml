@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 02:04:46 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 03:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Degradation-informed state-of-health estimation of lithium-ion batteries using a Tabular Prior-data Fitted Network</title>
+<link>https://doi.org/10.1016/j.est.2026.125197</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125197</guid>
+<pubDate>Thu, 22 Oct 2026 03:01:38 GMT</pubDate>
+<description>این مقاله با استفاده از شبکه Tabular Prior-data Fitted Network و اطلاعات تخریب، وضعیت سلامت باتری‌های لیتیوم‌یونی را تخمین می‌زند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · TabPFN · degradation · estimation</description>
+<category>lithium-ion battery</category>
+<category>state of health</category>
+<category>TabPFN</category>
+<category>degradation</category>
+<category>estimation</category>
+</item>
+<item>
+<title>Isovolumetric design of layered oxide cathodes for high-rate sodium ion batteries: A multi-scale predictive approach</title>
+<link>https://doi.org/10.1016/j.est.2026.125274</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125274</guid>
+<pubDate>Thu, 22 Oct 2026 03:01:33 GMT</pubDate>
+<description>این مقاله طراحی هم‌حجم لایه‌ای اکسید کاتدی را با رویکرد پیش‌بینی چندمقیاسی برای باتری‌های سدیم‌یونی با نرخ بالا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · isovolumetric design · high-rate · multi-scale modeling</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>isovolumetric design</category>
+<category>high-rate</category>
+<category>multi-scale modeling</category>
+</item>
 <item>
 <title>Open-pore hollow graphene nanosphere-supported Pd catalyst for reversible atmospheric-pressure hydrogenation/dehydrogenation of indole-based LOHCs</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122244</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creat
 <category>ion transport</category>
 <category>hetero-layered electrolyte</category>
 <category>solid-state battery</category>
-</item>
-<item>
-<title>p-Block metal-induced p–d orbital hybridization enhances the oxygen reduction performance of an Fe–N–C catalyst in zinc–air batteries</title>
-<link>https://doi.org/10.1039/d6ta06630e</link>
-<guid isPermaLink="false">10.1039/d6ta06630e</guid>
-<pubDate>Mon, 19 Oct 2026 17:01:45 GMT</pubDate>
-<description>کاتالیزور FeIn/NC با هیبریداسیون اوربیتال p-d ناشی از In، فعالیت ORR و عملکرد باتری زینک-هوا را با ولتاژ مدار باز پایدار و چگالی توان بالا بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using p-block metal In to induce p–d orbital hybridization in an Fe–N–C catalyst, tuning its electronic structure. This significantly boosts oxygen reduction activity and zinc–air battery performance, achieving stable open-circuit voltage and high peak power density. It offers a viable strategy for designing efficient, durable non-precious-metal catalysts for energy devices.&lt;br&gt;🏷 Fe-N-C catalyst · oxygen reduction · zinc-air battery · p-d hybridization · indium doping</description>
-<category>Fe-N-C catalyst</category>
-<category>oxygen reduction</category>
-<category>zinc-air battery</category>
-<category>p-d hybridization</category>
-<category>indium doping</category>
-</item>
-<item>
-<title>A coordinated control utilizing battery energy storage for low voltage ride-through enhancement and power quality improvement in grid-connected solar PV systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125182</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125182</guid>
-<pubDate>Mon, 19 Oct 2026 15:03:21 GMT</pubDate>
-<description>این مقاله یک کنترل هماهنگ با ذخیره‌سازی انرژی باتری برای بهبود عبور از ولتاژ پایین و کیفیت توان در سیستم‌های فتوولتائیک متصل به شبکه ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery energy storage · low voltage ride-through · power quality · grid-connected PV · coordinated control</description>
-<category>battery energy storage</category>
-<category>low voltage ride-through</category>
-<category>power quality</category>
-<category>grid-connected PV</category>
-<category>coordinated control</category>
 </item>
 </channel>
 </rss>
