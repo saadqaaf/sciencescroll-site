@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 18:03:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 19:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How does the internal electricity price coordinate agents&#x27; interest in distributed PV-shared energy storage? An evolutionary game analysis based on capacity compensation and renewable energy certificate pricing policies</title>
+<link>https://doi.org/10.1016/j.est.2026.125200</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125200</guid>
+<pubDate>Fri, 23 Oct 2026 19:02:06 GMT</pubDate>
+<description>با تحلیل بازی تکاملی مبتنی بر جبران ظرفیت و قیمت‌گذاری گواهی انرژی تجدیدپذیر، نقش قیمت داخلی برق در هم‌راستایی منافع عاملان ذخیره‌سازی مشترک PV توزیع‌شده بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 distributed PV · shared energy storage · internal electricity price · evolutionary game · renewable energy certificate</description>
+<category>distributed PV</category>
+<category>shared energy storage</category>
+<category>internal electricity price</category>
+<category>evolutionary game</category>
+<category>renewable energy certificate</category>
+</item>
+<item>
+<title>Charging and discharging performance of a fixed-speed flywheel energy storage system with a reeling-type inertia control mechanism</title>
+<link>https://doi.org/10.1016/j.est.2026.125167</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125167</guid>
+<pubDate>Fri, 23 Oct 2026 19:02:01 GMT</pubDate>
+<description>عملکرد شارژ و دشارژ یک سیستم ذخیره‌سازی انرژی فلایویل سرعت ثابت مجهز به مکانیزم کنترل اینرسی نوع قرقره‌ای بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 flywheel energy storage · reeling-type inertia control · fixed-speed flywheel · charging-discharging performance · inertia control mechanism</description>
+<category>flywheel energy storage</category>
+<category>reeling-type inertia control</category>
+<category>fixed-speed flywheel</category>
+<category>charging-discharging performance</category>
+<category>inertia control mechanism</category>
+</item>
+<item>
+<title>Numerical analysis of nano-enhanced phase change materials and a bionic liquid-cooling channel for energy-efficient lithium-ion battery thermal management</title>
+<link>https://doi.org/10.1016/j.est.2026.125297</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125297</guid>
+<pubDate>Fri, 23 Oct 2026 19:01:47 GMT</pubDate>
+<description>این مقاله با تحلیل عددی مواد تغییر فازدهنده نانوافزوده و کانال خنک‌کاری مایع الهام‌گرفته از طبیعت، مدیریت حرارتی کارآمد باتری لیتیوم-یونی را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · phase change material · nano-enhancement · bionic liquid cooling · lithium-ion battery</description>
+<category>battery thermal management</category>
+<category>phase change material</category>
+<category>nano-enhancement</category>
+<category>bionic liquid cooling</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>A robust and computationally efficient hybrid spiking Neural Network-Bidirectional Long Short-Term Memory architecture for State of Health prediction of Lithium Iron Phosphate batteries under fast charging and discharging</title>
+<link>https://doi.org/10.1016/j.est.2026.125229</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125229</guid>
+<pubDate>Fri, 23 Oct 2026 19:01:42 GMT</pubDate>
+<description>این مقاله یک معماری ترکیبی شبکه عصبی اسپایکی و BiLSTM را برای پیش‌بینی وضعیت سلامت باتری‌های LiFePO4 تحت شارژ و دشارژ سریع ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · LFP battery · spiking neural network · BiLSTM · fast charging</description>
+<category>state of health</category>
+<category>LFP battery</category>
+<category>spiking neural network</category>
+<category>BiLSTM</category>
+<category>fast charging</category>
+</item>
+<item>
+<title>Emulsion-Based Strategy for Size-Exclusion Redox Flow Batteries Using Compartmentalized Redox-Active Electrolytes</title>
+<link>https://doi.org/10.1039/d6mh01712f</link>
+<guid isPermaLink="false">10.1039/d6mh01712f</guid>
+<pubDate>Fri, 23 Oct 2026 19:01:24 GMT</pubDate>
+<description>این مقاله راهکاری مبتنی بر امولسیون و الکترولیت‌های بخش‌بندی‌شده برای حذف غشای تبادل یونی در باتری‌های جریان ردوکس و غلبه بر محدودیت‌های آن ارائه می‌دهد.&lt;br&gt;Materials Horizons | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using emulsion-based compartmentalized redox-active electrolytes to replace costly ion-exchange membranes in redox flow batteries, circumventing conductivity-selectivity trade-offs and membrane degradation. Significance: this membrane-free size-exclusion strategy could lower cost and extend lifetime, offering a scalable route for grid-scale energy storage.&lt;br&gt;🏷 redox flow battery · membrane-free · emulsion electrolyte · size exclusion · grid storage</description>
+<category>redox flow battery</category>
+<category>membrane-free</category>
+<category>emulsion electrolyte</category>
+<category>size exclusion</category>
+<category>grid storage</category>
+</item>
 <item>
 <title>Microwave-driven defect engineering in graphene-based materials for high-performance energy storage electrodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122247</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>capacitive energy storage</category>
 <category>fluorinated polyimide</category>
 <category>high-temperature capacitor</category>
-</item>
-<item>
-<title>High‐Entropy Materials as a Design Paradigm for Low‐Temperature Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75441</link>
-<guid isPermaLink="false">10.1002/adma.75441</guid>
-<pubDate>Thu, 22 Oct 2026 07:01:37 GMT</pubDate>
-<description>این مرور نشان می‌دهد مهندسی آنتروپی در مواد آنتروپی‌بالا با ایجاد بی‌نظمی پیکربندی، انتقال Na+ و پایداری فاز و سینتیک بین‌سطحی را در باتری‌های سدیم-یون دمای پایین بهبود می‌دهد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely positions high-entropy materials as a design paradigm for low-temperature sodium-ion batteries, linking configurational disorder to transport, phase stability, and interfacial kinetics across cathodes, anodes, electrolytes, and interfaces. Its significance lies in proposing quantitative descriptors, minimum reporting metrics, and a unifying entropy–percolation framework, while outlining trade-offs and manufacturability constraints needed to translate entropy engineering into robust low-temperature operation.&lt;br&gt;🏷 high-entropy materials · sodium-ion batteries · low-temperature operation · entropy engineering · interfacial kinetics</description>
-<category>high-entropy materials</category>
-<category>sodium-ion batteries</category>
-<category>low-temperature operation</category>
-<category>entropy engineering</category>
-<category>interfacial kinetics</category>
-</item>
-<item>
-<title>Industry‐Scalable Interfacial Design for Stabilizing PET‐Cu Current Collectors</title>
-<link>https://doi.org/10.1002/adma.75466</link>
-<guid isPermaLink="false">10.1002/adma.75466</guid>
-<pubDate>Thu, 22 Oct 2026 07:01:25 GMT</pubDate>
-<description>پوشش Al2O3 به‌روش roll-to-roll روی زیرلایه PET، کلکتور جریان PET-Cu را پایدار کرده و پایداری چرخه سلول‌های جیبی LiNi0.5Co0.2Mn0.3O2//گرافیت را در دمای بالا بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an industry-scalable roll-to-roll Al₂O₃ coating on PET substrates that acts as a physical barrier against electrolyte attack. Its significance: the coated PET-Cu current collector enables 86% capacity retention after 1000 cycles at 45°C in 3-Ah pouch cells—matching commercial Cu and far exceeding uncoated PET-Cu (58%)—offering a low-cost route to lightweight, high-energy lithium-ion batteries.&lt;br&gt;🏷 PET-Cu current collector · Al2O3 coating · roll-to-roll · lithium-ion battery · interfacial stability</description>
-<category>PET-Cu current collector</category>
-<category>Al2O3 coating</category>
-<category>roll-to-roll</category>
-<category>lithium-ion battery</category>
-<category>interfacial stability</category>
-</item>
-<item>
-<title>Disordered Nanodomains Stabilize Near-Degeneracy in Complex Layered Oxides</title>
-<link>https://doi.org/10.1039/d6ee05497h</link>
-<guid isPermaLink="false">10.1039/d6ee05497h</guid>
-<pubDate>Thu, 22 Oct 2026 07:01:19 GMT</pubDate>
-<description>با مهندسی نانودومین‌های بی‌نظم در اکسیدهای لایه‌ای، شبه‌تباهیدگی ساختاری حفظ و تبدیل فاز برگشت‌ناپذیر در کاتد باتری لیتیوم-یون مهار می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in engineering disordered nanodomains to stabilize near-degenerate states in layered oxides, preventing irreversible phase transformations during lithium intercalation. This significantly advances understanding of structural stability in complex oxides and offers a pathway to overcome capacity and longevity limits in lithium-ion batteries, enabling higher-performance cathode materials.&lt;br&gt;🏷 layered oxides · lithium intercalation · disordered nanodomains · phase transformation · cathode stability</description>
-<category>layered oxides</category>
-<category>lithium intercalation</category>
-<category>disordered nanodomains</category>
-<category>phase transformation</category>
-<category>cathode stability</category>
-</item>
-<item>
-<title>Halogen-Dependent Amorphous-Phase Retention Promotes Lithium-Ion Transport in Li 2 S-Rich Solid-Electrolyte Interphase</title>
-<link>https://doi.org/10.1039/d6ta06019f</link>
-<guid isPermaLink="false">10.1039/d6ta06019f</guid>
-<pubDate>Thu, 22 Oct 2026 05:01:09 GMT</pubDate>
-<description>نشان می‌دهد نوع هالوژن با حفظ فاز آمورف Li2S در اینترفاز غنی از Li2S، انتقال یون لیتیوم را در باتری‌های الکترولیت جامد سولفیدی بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that halogen identity controls amorphous Li₂S retention in the solid-electrolyte interphase, suppressing spontaneous crystallization that disrupts long-range Li⁺ pathways. This establishes halogen-dependent phase stability as a design lever for interphase engineering, offering a mechanistic route to improve interfacial ion transport and performance in sulfide-based solid-state lithium batteries.&lt;br&gt;🏷 solid electrolyte interphase · amorphous Li2S · Li-ion transport · halogen doping · sulfide electrolyte</description>
-<category>solid electrolyte interphase</category>
-<category>amorphous Li2S</category>
-<category>Li-ion transport</category>
-<category>halogen doping</category>
-<category>sulfide electrolyte</category>
-</item>
-<item>
-<title>Degradation-informed state-of-health estimation of lithium-ion batteries using a Tabular Prior-data Fitted Network</title>
-<link>https://doi.org/10.1016/j.est.2026.125197</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125197</guid>
-<pubDate>Thu, 22 Oct 2026 03:01:38 GMT</pubDate>
-<description>این مقاله با استفاده از شبکه Tabular Prior-data Fitted Network و اطلاعات تخریب، وضعیت سلامت باتری‌های لیتیوم‌یونی را تخمین می‌زند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · TabPFN · degradation · estimation</description>
-<category>lithium-ion battery</category>
-<category>state of health</category>
-<category>TabPFN</category>
-<category>degradation</category>
-<category>estimation</category>
 </item>
 </channel>
 </rss>
