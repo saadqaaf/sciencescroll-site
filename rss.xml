@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 11:01:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 12:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Benchmarking segmentation methods for spatial transcriptomics</title>
+<link>https://doi.org/10.1038/s41592-026-03272-x</link>
+<guid isPermaLink="false">10.1038/s41592-026-03272-x</guid>
+<pubDate>Fri, 23 Oct 2026 12:01:34 GMT</pubDate>
+<description>این مقاله روش‌های تقسیم‌بندی (segmentation) را برای داده‌های ترانسکریپتومیکس فضایی به‌صورت مقایسه‌ای ارزیابی و بنچمارک می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 spatial transcriptomics · segmentation methods · benchmarking · image analysis · cell segmentation</description>
+<category>spatial transcriptomics</category>
+<category>segmentation methods</category>
+<category>benchmarking</category>
+<category>image analysis</category>
+<category>cell segmentation</category>
+</item>
+<item>
+<title>Regulating the crystallization of thermally evaporated perovskites for efficient near-infrared light-emitting diodes</title>
+<link>https://doi.org/10.1038/s41566-026-02036-5</link>
+<guid isPermaLink="false">10.1038/s41566-026-02036-5</guid>
+<pubDate>Fri, 23 Oct 2026 12:01:31 GMT</pubDate>
+<description>با افزودنی‌های دوگانه آمیدی، بلورینگی فیلم‌های پرووسکایتی تبخیر حرارتی کنترل شده و LEDهای پرووسکایتی مادون قرمز با بازده کوانتومی خارجی 25.0% در 805 nm ساخته شد.&lt;br&gt;Nature Photonics | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 perovskite LEDs · thermal evaporation · crystallization regulation · dual-amide additives · near-infrared emission</description>
+<category>perovskite LEDs</category>
+<category>thermal evaporation</category>
+<category>crystallization regulation</category>
+<category>dual-amide additives</category>
+<category>near-infrared emission</category>
+</item>
+<item>
+<title>NanostarDB: an interactive knowledgebase for standardized annotation, discovery and reuse of nucleic acid nanostructure designs</title>
+<link>https://doi.org/10.1038/s41565-026-02307-w</link>
+<guid isPermaLink="false">10.1038/s41565-026-02307-w</guid>
+<pubDate>Fri, 23 Oct 2026 12:01:26 GMT</pubDate>
+<description>مقاله NanostarDB را معرفی می‌کند، پایگاه دانشی تعاملی برای حاشیه‌نویسی استاندارد، کشف و استفاده مجدد از طراحی‌های نانوساختار اسید نوکلئیک.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 nucleic acid nanostructures · knowledgebase · data annotation · structural design · data reuse</description>
+<category>nucleic acid nanostructures</category>
+<category>knowledgebase</category>
+<category>data annotation</category>
+<category>structural design</category>
+<category>data reuse</category>
+</item>
+<item>
+<title>Mechanochemical crystallization of covalent organic frameworks: from the linkage up</title>
+<link>https://doi.org/10.1039/d6cs01069e</link>
+<guid isPermaLink="false">10.1039/d6cs01069e</guid>
+<pubDate>Fri, 23 Oct 2026 12:01:23 GMT</pubDate>
+<description>این مرور درس‌ها و پارامترهای سنتز محلولی COF و مکانیکوشیمی مولکول‌های کوچک را برای سنتز مکانیکوشیمیایی COFهای ایمینی و مشتقات آن بررسی می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 covalent organic frameworks · mechanochemistry · imine COFs · crystallization · green synthesis</description>
+<category>covalent organic frameworks</category>
+<category>mechanochemistry</category>
+<category>imine COFs</category>
+<category>crystallization</category>
+<category>green synthesis</category>
+</item>
 <item>
 <title>Coordination-programmed cobalt oxalate crystallization enables lithium/cobalt separation from spent LiCoO2 cathodes in a hydrated deep eutectic medium</title>
 <link>https://doi.org/10.1039/d6ta06106k</link>
@@ -1166,54 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CO2 electrolyzer · salt 
 <category>circular dichroism</category>
 <category>chiral materials</category>
 <category>wearable devices</category>
-</item>
-<item>
-<title>Inducing local heating fields in ferromagnetic high-entropy alloys to inhibit (bi)carbonate formation for durable CO2 electroreduction</title>
-<link>https://doi.org/10.1038/s41929-026-01619-3</link>
-<guid isPermaLink="false">10.1038/s41929-026-01619-3</guid>
-<pubDate>Fri, 23 Oct 2026 01:03:34 GMT</pubDate>
-<description>ایجاد میدان‌های گرمایش موضعی در آلیاژهای آنتروپی بالا فرومغناطیسی برای مهار تشکیل (بی)کربنات و دستیابی به الکتروکاهش پایدار CO2 بررسی می‌شود.&lt;br&gt;Nature Catalysis | 🔬 Research Article&lt;br&gt;🏷 high-entropy alloy · CO2 electroreduction · local heating · carbonate formation · ferromagnetic</description>
-<category>high-entropy alloy</category>
-<category>CO2 electroreduction</category>
-<category>local heating</category>
-<category>carbonate formation</category>
-<category>ferromagnetic</category>
-</item>
-<item>
-<title>Dynamic functionality–enabled fast and selective transport in nanochannels</title>
-<link>https://doi.org/10.1126/science.aed8319</link>
-<guid isPermaLink="false">10.1126/science.aed8319</guid>
-<pubDate>Fri, 23 Oct 2026 01:03:28 GMT</pubDate>
-<description>با ترکیب آزمایش و شبیه‌سازی نشان داده شد که دینامیک عملکردهای محصور در نانوکانال‌ها با انتقال انرژی جنبشی و رله مولکولی، انتقال سریع و گزینشی را بهبود می‌دهد.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 nanochannel · mass transport · selectivity · molecular dynamics · confinement</description>
-<category>nanochannel</category>
-<category>mass transport</category>
-<category>selectivity</category>
-<category>molecular dynamics</category>
-<category>confinement</category>
-</item>
-<item>
-<title>Imaging electron-hole asymmetry in the quantum melting of generalized Wigner crystals</title>
-<link>https://doi.org/10.1126/science.aee6967</link>
-<guid isPermaLink="false">10.1126/science.aee6967</guid>
-<pubDate>Fri, 23 Oct 2026 01:03:25 GMT</pubDate>
-<description>با STM، ذوب کوانتومی بلورهای Wigner تعمیم‌یافته و عایق‌های Mott در دوبیلایه‌های پیچیده MoSe2 بررسی شد و عدم‌تقارن الکترون-حفره ناشی از شکست تقارن ذره-حفره مشاهده گردید.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 generalized Wigner crystal · moiré superlattice · quantum melting · scanning tunneling microscopy · electron-hole asymmetry</description>
-<category>generalized Wigner crystal</category>
-<category>moiré superlattice</category>
-<category>quantum melting</category>
-<category>scanning tunneling microscopy</category>
-<category>electron-hole asymmetry</category>
-</item>
-<item>
-<title>Wireless electrocatalytic closed-loop system for drug-free management of diabesity</title>
-<link>https://doi.org/10.1126/science.ady8560</link>
-<guid isPermaLink="false">10.1126/science.ady8560</guid>
-<pubDate>Fri, 23 Oct 2026 01:03:16 GMT</pubDate>
-<description>یک دستگاه کاشتنی الکتروکاتالیستی بی‌سیم با نانوخوشه‌های Au-Pt گلوکز خون را به گلوکونات اکسید کرده و در موش‌های دیابتی نوع ۲ هموستاز گلوکز را بدون دارو بازگرداند.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 electrocatalytic device · diabesity · glucose oxidation · wireless implant · closed-loop management</description>
-<category>electrocatalytic device</category>
-<category>diabesity</category>
-<category>glucose oxidation</category>
-<category>wireless implant</category>
-<category>closed-loop management</category>
 </item>
 </channel>
 </rss>
