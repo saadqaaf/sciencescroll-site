@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 04:01:07 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 05:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Carbonyl-Functionalized Carbon Nanotubes Upcycled from Commercial Polypropylene: Dominant Persistent Free Radical-Mediated Peroxymonosulfate Activation toward Versatile Water Decontamination</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127677</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127677</guid>
+<pubDate>Fri, 23 Oct 2026 05:01:14 GMT</pubDate>
+<description>نانولوله‌های کربنی عامل‌دار کربونیل از بازیافت پلی‌پروپیلن تجاری ساخته شدند و رادیکال‌های آزاد پایدار غالب، فعال‌سازی peroxymonosulfate را برای تصفیه آب هدایت می‌کنند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 carbon nanotubes · polypropylene upcycling · persistent free radicals · peroxymonosulfate activation · water decontamination</description>
+<category>carbon nanotubes</category>
+<category>polypropylene upcycling</category>
+<category>persistent free radicals</category>
+<category>peroxymonosulfate activation</category>
+<category>water decontamination</category>
+</item>
 <item>
 <title>Integration of surface-enhanced Raman scattering (SERS) and microfluidics for advanced bacterial biosensing platforms</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218654</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>staged drug release</category>
 <category>M2 exosomes</category>
 <category>methylprednisolone</category>
-</item>
-<item>
-<title>Sparse2Batt: Restoring the full battery-pack field from the minimal broadcast of a production BMS</title>
-<link>https://doi.org/10.1016/j.etran.2026.100645</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100645</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:17 GMT</pubDate>
-<description>روش Sparse2Batt میدان کامل بسته باتری را از پخش کمینه داده‌های BMS تولیدی بازسازی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 battery pack · BMS data · field reconstruction · sparse broadcast · state estimation</description>
-<category>battery pack</category>
-<category>BMS data</category>
-<category>field reconstruction</category>
-<category>sparse broadcast</category>
-<category>state estimation</category>
 </item>
 </channel>
 </rss>
