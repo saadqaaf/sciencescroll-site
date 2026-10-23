@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:03:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 08:03:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Phosphonium Ionic Liquids for Electrochemical Energy Storage: Structure–Property–Interphase Relationships and Design Rule</title>
+<link>https://doi.org/10.1002/advs.78370</link>
+<guid isPermaLink="false">10.1002/advs.78370</guid>
+<pubDate>Fri, 23 Oct 2026 08:02:15 GMT</pubDate>
+<description>این مرور چارچوب ساختار–خواص–فاز میانی الکترولیت‌های فسفونیومی را برای باتری‌های Li، Na، Zn، Mg و Al و ابرخازن‌ها تحلیل و قواعد طراحی ارائه می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This Review is novel in unifying phosphonium ionic liquids across Li, Na, Zn, Mg, Al batteries and supercapacitors through a structure–property–interphase framework, linking cation/anion design to transport, plating, corrosion, and interphase behavior. Its significance lies in actionable design rules—low-viscosity cations, fluorine-reduced anions, standardized benchmarking, full-cell validation, and operando characterization—guiding safer, durable electrolyte development.&lt;br&gt;🏷 phosphonium ionic liquid · electrolyte · interphase · metal battery · structure-property relationship</description>
+<category>phosphonium ionic liquid</category>
+<category>electrolyte</category>
+<category>interphase</category>
+<category>metal battery</category>
+<category>structure-property relationship</category>
+</item>
 <item>
 <title>Dead-Potassium Activation Reconstructing Stabilized Interface Enables Stable Anode-Free Potassium Metal Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c15210</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>four-electron redox</category>
 <category>orbital coupling</category>
 <category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Layered Organic–MXene Heterostructures for High‐Capacity and Long‐Life Aqueous Sodium‐Ion Storage in Seawater‐Based Hybrid Electrolytes</title>
-<link>https://doi.org/10.1002/adfm.79059</link>
-<guid isPermaLink="false">10.1002/adfm.79059</guid>
-<pubDate>Wed, 21 Oct 2026 14:03:03 GMT</pubDate>
-<description>آند ناهم‌ساخت NPI@MXene با ظرفیت ۱۲۴.۵ mAh g−1 و پایداری ۱۰۰٪ پس از ۶۵۰۰۰ چرخه در الکترولیت استات سدیم مبتنی بر آب دریا برای ذخیره‌سازی سدیم‌یون آبی ارائه می‌شود.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a layered organic–MXene heterostructure (NPI@MXene) formed by thermal polymerization of naphthalene polyimide on Ti3C2Tx, coupling reversible imide-carbonyl redox with enhanced electron/ion transport. Significance: it enables high-capacity, ultralong-life (65,000 cycles) aqueous sodium storage and stable full-cell operation in seawater-based sodium acetate electrolyte, advancing sustainable, low-cost large-scale energy storage.&lt;br&gt;🏷 aqueous sodium-ion battery · MXene · polyimide anode · seawater electrolyte · long cycling life</description>
-<category>aqueous sodium-ion battery</category>
-<category>MXene</category>
-<category>polyimide anode</category>
-<category>seawater electrolyte</category>
-<category>long cycling life</category>
 </item>
 </channel>
 </rss>
