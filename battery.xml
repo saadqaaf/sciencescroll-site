@@ -5,8 +5,69 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 16:02:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 17:06:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Accelerating cooperative polysulfide conversion catalysis of CoFe Prussian blue analogues via conducting polyaniline interchain narrowing control for high-performance Li-S batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.020</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.020</guid>
+<pubDate>Fri, 23 Oct 2026 17:05:50 GMT</pubDate>
+<description>کاتالیز تبدیل پلی‌سولفیدها در باتری Li-S با تنظیم فاصله بین‌زنجیره‌ای پلی‌آنیلین در آنالوگ‌های پروسیان بلو CoFe بهبود یافته است.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-S battery · Prussian blue analogue · CoFe PBA · polyaniline · polysulfide conversion</description>
+<category>Li-S battery</category>
+<category>Prussian blue analogue</category>
+<category>CoFe PBA</category>
+<category>polyaniline</category>
+<category>polysulfide conversion</category>
+</item>
+<item>
+<title>Mechanistic Insights of Jahn–Teller Effect Suppression in High-Entropy Prussian Blue Analogue Cathodes</title>
+<link>https://doi.org/10.1021/jacs.6c15227</link>
+<guid isPermaLink="false">10.1021/jacs.6c15227</guid>
+<pubDate>Fri, 23 Oct 2026 17:05:39 GMT</pubDate>
+<description>با EXAFS و پتانسیل بین‌اتمی یادگیری ماشین نشان داده شد که در کاتد آنالوگ پروسی بلو با آنتروپی بالا، اعوجاج‌های تصادفی [MnN6] اثر Jahn–Teller را در مقیاس ماکرو میانگین می‌کنند و پایداری چرخه را بهبود می‌دهند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that high-entropy design suppresses Jahn–Teller distortion not by eliminating it but by randomizing distortion orientations and reducing orbital energy splitting, disrupting long-range cooperative order. Its significance is demonstrating a mechanistic strategy enabling ultrastable Mn-based cathodes, with 91.0% retention over 50,000 cycles, surpassing all Mn-based rechargeable batteries.&lt;br&gt;🏷 Prussian blue analogue · high-entropy cathode · Jahn-Teller effect · machine learning potential · EXAFS</description>
+<category>Prussian blue analogue</category>
+<category>high-entropy cathode</category>
+<category>Jahn-Teller effect</category>
+<category>machine learning potential</category>
+<category>EXAFS</category>
+</item>
+<item>
+<title>Coupled Design of Silicon Anodes and Solid-State Electrolytes for High-Performance All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c13032</link>
+<guid isPermaLink="false">10.1021/acsnano.6c13032</guid>
+<pubDate>Fri, 23 Oct 2026 17:03:15 GMT</pubDate>
+<description>این مرور طراحی همبسته آند سیلیکون و الکترولیت‌های حالت جامد را بررسی کرده و نقشه سازگاری، چالش‌های ساخت و نقشه راه برای باتری‌های تمام‌حالت‌جامد Si-SSB ارائه می‌دهد.&lt;br&gt;ACS Nano | ⭐ Review&lt;br&gt;💡 This review uniquely adopts a coupled design perspective, integrating silicon anode engineering with solid-state electrolyte compatibility and interfacial stabilization. Its novelty lies in systematic compatibility mapping linking Si architectures to electrolyte families and addressing chemo-mechanical degradation. Significance includes practical manufacturing guidance (stack pressure, prelithiation) and a roadmap combining multiscale characterization, AI-assisted design, and scalable fabrication for commercially viable high-performance Si-SSBs.&lt;br&gt;🏷 silicon anode · solid-state electrolyte · all-solid-state battery · interfacial stability · coupled design</description>
+<category>silicon anode</category>
+<category>solid-state electrolyte</category>
+<category>all-solid-state battery</category>
+<category>interfacial stability</category>
+<category>coupled design</category>
+</item>
+<item>
+<title>Non‐Fluorinated Electrolytes Enable Long‐Cycling Micron‐Sized Silicon Anodes</title>
+<link>https://doi.org/10.1002/anie.6271722</link>
+<guid isPermaLink="false">10.1002/anie.6271722</guid>
+<pubDate>Fri, 23 Oct 2026 17:02:53 GMT</pubDate>
+<description>الکترولیت بدون فلوئور بر پایه LiI/LiBr و مونو‌اترها یک SEI بدون LiF و پلیمری روی آند میکرونی سیلیکون می‌سازد که ظرفیت 92.12٪ را پس از 300 چرخه حفظ می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a non-fluorinated electrolyte (LiI/LiBr with monoether solvents) forming a LiF-free SEI on µm-Si anodes, unlike conventional LiF-rich designs. This SEI creates binder-like high-molecular-weight polymers that preserve particle integrity and electrical connectivity after pulverization. Significance: enables long cycling (92.12% retention after 300 cycles, &amp;gt;99.95% efficiency) and safer, environmentally friendly µm-Si anodes.&lt;br&gt;🏷 micron silicon anode · non-fluorinated electrolyte · solid electrolyte interphase · LiF-free SEI · lithium-ion battery</description>
+<category>micron silicon anode</category>
+<category>non-fluorinated electrolyte</category>
+<category>solid electrolyte interphase</category>
+<category>LiF-free SEI</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Surfactant‐Mediated “ Oil‐in‐Water ” Electrolyte Design via Sonochemical Assembly: Low‐Dielectric Interfacial Regulation for Ultrastable Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1002/anie.9631370</link>
+<guid isPermaLink="false">10.1002/anie.9631370</guid>
+<pubDate>Fri, 23 Oct 2026 17:02:29 GMT</pubDate>
+<description>الکترولیت میسلی «روغن در آب» با خودآرایی سونوشیمیایی، گونه‌های آب‌گریز را روی آند Zn آزاد کرده و با لایه کم‌دی‌الکتریک، دندریت و واکنش‌های جانبی را سرکوب می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a surfactant-mediated &amp;quot;oil-in-water&amp;quot; electrolyte using sonochemical self-assembly to encapsulate poorly soluble hydrophobic species in micelles, which release them at the Zn surface via electrostatic repulsion. This creates a low-dielectric interfacial shield accelerating desolvation and blocking water. Significance: enables dendrite-free Zn deposition, 3900 h cycling, and 10000-cycle Zn||I₂ cells, offering a universal route to overcome aqueous electrolyte solubility limits.&lt;br&gt;🏷 aqueous zinc battery · oil-in-water electrolyte · surfactant micelle · Zn desolvation · dendrite-free zinc</description>
+<category>aqueous zinc battery</category>
+<category>oil-in-water electrolyte</category>
+<category>surfactant micelle</category>
+<category>Zn desolvation</category>
+<category>dendrite-free zinc</category>
+</item>
 <item>
 <title>Electrostatic Contributions of the Extended Environment and Local Catalytic Effects in Bipolar Membranes</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02923</link>
@@ -1147,69 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Pd catalyst</category>
 <category>hollow graphene nanosphere</category>
 <category>atmospheric-pressure dehydrogenation</category>
-</item>
-<item>
-<title>Fluorine-Mediated Molten-Salt Crystallization Regulates Phase Evolution and Structural Stability in Sodium Layered Oxides</title>
-<link>https://doi.org/10.1021/jacs.6c10977</link>
-<guid isPermaLink="false">10.1021/jacs.6c10977</guid>
-<pubDate>Thu, 22 Oct 2026 01:03:47 GMT</pubDate>
-<description>سنتز مذاب-نمکی کمک‌شده با NaF در کاتدهای لایه‌ای P2 نوع Fe–Mn–Ti پنجره پایداری فاز P2 را گسترش داده و با کاهش ترک‌خوردگی، پایداری چرخه‌ای را بهبود می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 NaF-assisted molten-salt synthesis enables phase-selective growth of large-particle, Ni/Co-free P2 Fe–Mn–Ti cathodes, widening the P2 stability window and preserving layered ordering. This yields more reversible structural evolution, homogeneous Mn redox, and a surface-enriched fluorine gradient that suppresses cracking and improves cycling stability—offering a scalable route to durable sodium-ion cathodes.&lt;br&gt;🏷 sodium-ion battery · P2 layered oxide · molten-salt synthesis · fluorine doping · cathode stability</description>
-<category>sodium-ion battery</category>
-<category>P2 layered oxide</category>
-<category>molten-salt synthesis</category>
-<category>fluorine doping</category>
-<category>cathode stability</category>
-</item>
-<item>
-<title>Kinetic Control of Polymorphism in Li10.5Si1.5P1.5S12–Based Solid Electrolytes</title>
-<link>https://doi.org/10.1021/jacs.6c14489</link>
-<guid isPermaLink="false">10.1021/jacs.6c14489</guid>
-<pubDate>Thu, 22 Oct 2026 01:03:18 GMT</pubDate>
-<description>این کار نشان می‌دهد افزودن LiI به الکترولیت جامد Li10.5Si1.5P1.5S12 گذار فاز از فاز اورتورومبیک به تتراگونال را در دماهای پایین‌تر و با سرعت بیشتر ممکن می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using LiI additive to kinetically control crystallization of a metastable orthorhombic phase, lowering the o-to-t transition temperature and accelerating its rate. Significance: reveals microstructural engineering of polymorphism in Ge-free LGPS-type electrolytes, clarifies iodine&amp;#x27;s role (forming Li4PS4I secondary phase), and demonstrates dual-phase materials enabling high-performance lithium–sulfur solid-state batteries.&lt;br&gt;🏷 solid electrolyte · LGPS · polymorphism · LiI additive · crystallization kinetics</description>
-<category>solid electrolyte</category>
-<category>LGPS</category>
-<category>polymorphism</category>
-<category>LiI additive</category>
-<category>crystallization kinetics</category>
-</item>
-<item>
-<title>Interhalogen of Iodine Chloride Accelerates Charge Transfer for Efficient Li2O2 Oxidation in Lithium–Oxygen Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c20330</link>
-<guid isPermaLink="false">10.1021/jacs.6c20330</guid>
-<pubDate>Thu, 22 Oct 2026 01:02:57 GMT</pubDate>
-<description>تولید درجای ICl به‌عنوان واسطه ردوکس، اکسیداسیون Li2O2 را تسریع کرده و قطبش شارژ و عمر چرخه باتری Li–O2 را بهبود می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using iodine monochloride (ICl) as an in situ redox mediator, where I–Cl electronegativity difference creates an electrophilic Iδ+ center that strengthens Li2O2 interaction and lowers its decomposition barrier from 2.39 to 0.77 eV. This enables low polarization (0.52 V), suppresses parasitic reactions, and extends cycling beyond 800 h, offering a design principle for efficient Li–O2 batteries.&lt;br&gt;🏷 Li-O2 battery · redox mediator · iodine monochloride · Li2O2 oxidation · charge polarization</description>
-<category>Li-O2 battery</category>
-<category>redox mediator</category>
-<category>iodine monochloride</category>
-<category>Li2O2 oxidation</category>
-<category>charge polarization</category>
-</item>
-<item>
-<title>Thermodynamic equilibrium-potential mechanism guides electrochemical relithiation of degraded lithium-ion cathodes</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112515</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112515</guid>
-<pubDate>Thu, 22 Oct 2026 01:01:54 GMT</pubDate>
-<description>سازوکار تعادل-پتانسیل ترمودینامیکی برای هدایت لیتیوم‌دهی مجدد الکتروشیمیایی کاتدهای تخریب‌شده لیتیوم-یون ارائه شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium-ion cathode · relithiation · thermodynamic equilibrium · degraded cathode · recycling</description>
-<category>lithium-ion cathode</category>
-<category>relithiation</category>
-<category>thermodynamic equilibrium</category>
-<category>degraded cathode</category>
-<category>recycling</category>
-</item>
-<item>
-<title>Printed Mg-Air Batteries Activated by Biofluids for Fully Integrated Wireless Multimodal Wearable Health Monitoring</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112521</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112521</guid>
-<pubDate>Thu, 22 Oct 2026 01:01:44 GMT</pubDate>
-<description>باتری‌های چاپی Mg-air فعال‌شده با مایعات زیستی برای پایش سلامت پوشیدنی بی‌سیم و چندوجهی یکپارچه ساخته شدند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Mg-air battery · printed battery · biofluid electrolyte · wearable sensor · wireless monitoring</description>
-<category>Mg-air battery</category>
-<category>printed battery</category>
-<category>biofluid electrolyte</category>
-<category>wearable sensor</category>
-<category>wireless monitoring</category>
 </item>
 </channel>
 </rss>
