@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 21:01:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 22:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Battery Data Commons registry</title>
+<link>https://doi.org/10.1016/j.joule.2026.102712</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102712</guid>
+<pubDate>Fri, 23 Oct 2026 22:01:12 GMT</pubDate>
+<description>این مقاله یک رجیستری برای داده‌های باتری (Battery Data Commons) معرفی می‌کند تا اشتراک‌گذاری و کشف داده‌های باتری را استاندارد و آسان کند.&lt;br&gt;Joule | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 battery data · data registry · data sharing · FAIR data · battery informatics</description>
+<category>battery data</category>
+<category>data registry</category>
+<category>data sharing</category>
+<category>FAIR data</category>
+<category>battery informatics</category>
+</item>
 <item>
 <title>How does the internal electricity price coordinate agents&#x27; interest in distributed PV-shared energy storage? An evolutionary game analysis based on capacity compensation and renewable energy certificate pricing policies</title>
 <link>https://doi.org/10.1016/j.est.2026.125200</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>solid electrolyte interphase</category>
 <category>Zn dendrite</category>
 <category>solvation regulation</category>
-</item>
-<item>
-<title>Carbene‐Mediated Cross‐linking of Aromatic Dielectric Polymers for Capacitive Energy Storage at 250°C</title>
-<link>https://doi.org/10.1002/adfm.79094</link>
-<guid isPermaLink="false">10.1002/adfm.79094</guid>
-<pubDate>Thu, 22 Oct 2026 10:01:51 GMT</pubDate>
-<description>این مقاله با اتصال عرضی کاربنی پلی‌ایمید فلورینه، فیلم دی‌الکتریک مقاوم حرارتی با چگالی انرژی ۴.۴ J cm−3 در ۲۵۰ درجه سانتی‌گراد می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a carbene-mediated C–H insertion cross-linking strategy using stepwise thermal activation, enabling efficient cross-linking (95.8% at 2 wt.% BLD201) of aromatic polymers lacking reactive groups. Its significance is transforming commercial fluorinated polyimide into free-standing films with outstanding capacitive energy storage at 250°C (4.4 J cm⁻³), offering a versatile route to thermally resilient dielectric materials.&lt;br&gt;🏷 carbene cross-linking · dielectric polymer · capacitive energy storage · fluorinated polyimide · high-temperature capacitor</description>
-<category>carbene cross-linking</category>
-<category>dielectric polymer</category>
-<category>capacitive energy storage</category>
-<category>fluorinated polyimide</category>
-<category>high-temperature capacitor</category>
 </item>
 </channel>
 </rss>

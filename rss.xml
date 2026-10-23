@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 21:01:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 22:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Battery Data Commons registry</title>
+<link>https://doi.org/10.1016/j.joule.2026.102712</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102712</guid>
+<pubDate>Fri, 23 Oct 2026 22:01:12 GMT</pubDate>
+<description>این مقاله یک رجیستری برای داده‌های باتری (Battery Data Commons) معرفی می‌کند تا اشتراک‌گذاری و کشف داده‌های باتری را استاندارد و آسان کند.&lt;br&gt;Joule | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 battery data · data registry · data sharing · FAIR data · battery informatics</description>
+<category>battery data</category>
+<category>data registry</category>
+<category>data sharing</category>
+<category>FAIR data</category>
+<category>battery informatics</category>
+</item>
 <item>
 <title>Moderna mRNA vaccine almost halves the risk of skin cancer returning</title>
 <link>https://doi.org/10.1038/d41586-026-03417-0</link>
@@ -1204,18 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 katanin · microtubule se
 <category>radical coupling</category>
 <category>graphitization</category>
 <category>product selectivity</category>
-</item>
-<item>
-<title>Magnetic Resonance Reveals Radical Stability in Native Biofilms and Its Role in Bacterial Resistance</title>
-<link>https://doi.org/10.1002/anie.8397448</link>
-<guid isPermaLink="false">10.1002/anie.8397448</guid>
-<pubDate>Fri, 23 Oct 2026 17:02:43 GMT</pubDate>
-<description>با ترکیب EPR و ssNMR و DNP، نشان داده شد ماتریکس خارج سلولی بیوفیلم دسترسی رادیکال‌های نیتروکسید را محدود کرده و کاهش آن‌ها به دسترسی سلولی وابسته است.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 biofilm matrix · EPR spectroscopy · DNP NMR · nitroxide reduction · antimicrobial resistance</description>
-<category>biofilm matrix</category>
-<category>EPR spectroscopy</category>
-<category>DNP NMR</category>
-<category>nitroxide reduction</category>
-<category>antimicrobial resistance</category>
 </item>
 </channel>
 </rss>
