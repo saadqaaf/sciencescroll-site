@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 03:01:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 04:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Integration of surface-enhanced Raman scattering (SERS) and microfluidics for advanced bacterial biosensing platforms</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218654</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218654</guid>
+<pubDate>Fri, 23 Oct 2026 04:01:05 GMT</pubDate>
+<description>این مقاله مروری، ادغام طیف‌سنجی رامان تقویت‌شده سطحی (SERS) با میکروسیالیک را برای ساخت سکوهای پیشرفته حس‌گری باکتریایی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 SERS · microfluidics · bacterial biosensing · plasmonic substrates · lab-on-chip</description>
+<category>SERS</category>
+<category>microfluidics</category>
+<category>bacterial biosensing</category>
+<category>plasmonic substrates</category>
+<category>lab-on-chip</category>
+</item>
+<item>
+<title>Chiral flexible sensing: from material design and characterization to device innovation and diversified applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218697</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218697</guid>
+<pubDate>Fri, 23 Oct 2026 04:01:02 GMT</pubDate>
+<description>این مقاله مروری، طراحی مواد، مشخصه‌یابی و نوآوری دستگاه‌های حس‌گری انعطاف‌پذیر کایرال و کاربردهای متنوع آن‌ها را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 chiral sensing · flexible sensors · circular dichroism · chiral materials · wearable devices</description>
+<category>chiral sensing</category>
+<category>flexible sensors</category>
+<category>circular dichroism</category>
+<category>chiral materials</category>
+<category>wearable devices</category>
+</item>
 <item>
 <title>Inducing local heating fields in ferromagnetic high-entropy alloys to inhibit (bi)carbonate formation for durable CO2 electroreduction</title>
 <link>https://doi.org/10.1038/s41929-026-01619-3</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>field reconstruction</category>
 <category>sparse broadcast</category>
 <category>state estimation</category>
-</item>
-<item>
-<title>Chemo‐Mechanically Robust Li‐Rich Oxide Cathode Interface Enabled By Ion‐Conductive and Antioxidant Binder</title>
-<link>https://doi.org/10.1002/anie.5594912</link>
-<guid isPermaLink="false">10.1002/anie.5594912</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:12 GMT</pubDate>
-<description>بایندر PVDF شبکه‌ای‌شده با سدیم فیتات، انتقال یون و پایداری شیمیایی-مکانیکی فصل مشترک کاتد اکسید غنی از لیتیوم را بهبود می‌دهد و بازده کولمبی اولیه ۹۵٪ و ظرفیت ۳۲۲ mAh/g را به دست می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using sodium phytate crosslinked PVDF binder to tailor PVDF crystalline phase for Li+ transport and suppress irreversible surface lattice oxygen oxidation in Li-rich Mn-based oxide cathodes. This enables high initial Coulombic efficiency (95%), 322 mAh/g capacity, and ~90% retention after 400 cycles, offering a scalable strategy to stabilize anionic redox interfaces for commercialization.&lt;br&gt;🏷 Li-rich oxide cathode · PVDF binder · sodium phytate · anionic redox · cathode electrolyte interphase</description>
-<category>Li-rich oxide cathode</category>
-<category>PVDF binder</category>
-<category>sodium phytate</category>
-<category>anionic redox</category>
-<category>cathode electrolyte interphase</category>
-</item>
-<item>
-<title>Non‐symmetric Stapling of Tyrosine‐Containing Peptides Promoted by Intramolecular Non‐Covalent Interactions</title>
-<link>https://doi.org/10.1002/anie.1355013</link>
-<guid isPermaLink="false">10.1002/anie.1355013</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:07 GMT</pubDate>
-<description>راهبردی مبتنی بر برهم‌کنش غیرکووالانسی با ESF، دوقطبی‌سازی نامتقارن پپتیدهای حاوی تیروزین را ممکن می‌کند و پپتید RGD با تمایل اتصال نانومولار به اینتگرین به دست آمد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 peptide stapling · tyrosine · SuFEx click · non-covalent interaction · RGD peptide</description>
-<category>peptide stapling</category>
-<category>tyrosine</category>
-<category>SuFEx click</category>
-<category>non-covalent interaction</category>
-<category>RGD peptide</category>
 </item>
 </channel>
 </rss>
