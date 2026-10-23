@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 15:01:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 16:02:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrostatic Contributions of the Extended Environment and Local Catalytic Effects in Bipolar Membranes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02923</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02923</guid>
+<pubDate>Fri, 23 Oct 2026 16:02:36 GMT</pubDate>
+<description>اندازه‌گیری‌های الکتروشیمیایی نشان می‌دهد بازیابی پتانسیل غشا به‌تنهایی عملکرد bipolar membrane را پیش‌بینی نمی‌کند و مهندسی فصل مشترک کاتالیزور-آیونومر تلفات تشکیل آب را تا ۶۵٪ کاهش می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in decoupling catalyst effects on membrane-potential recovery from those on water-dissociation/formation overvoltage, showing recovery alone poorly predicts BPM performance. Significance: catalyst–ionomer interface engineering that jointly improves potential recovery and kinetics cuts water-formation losses by 65% and boosts peak power density over tenfold, guiding rational catalyst-layer design for bipolar membranes.&lt;br&gt;🏷 bipolar membrane · water dissociation · catalyst layer · junction electrostatics · energy storage</description>
+<category>bipolar membrane</category>
+<category>water dissociation</category>
+<category>catalyst layer</category>
+<category>junction electrostatics</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>High-Performance LiNiO2 Cathodes through Microstructural Engineering</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02808</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02808</guid>
+<pubDate>Fri, 23 Oct 2026 16:02:30 GMT</pubDate>
+<description>با کلسیناسیون دومرحله‌ای و جدایش فاز غنی از Ta در مرز دانه‌ها، کاتد LiNiO2 ظرفیت ۲۵۲.۷ mAh/g و حفظ ۸۸.۴٪ پس از ۱۰۰ چرخه در پاکت‌سل لیتیوم-فلز نشان می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a two-step calcination decoupling lithiation from Ta introduction, yielding Ta-rich grain boundaries, radially aligned nanosized primary particles, and a reversible layered–rocksalt/spinel-like multiphase. This suppresses microcracking and strain, enabling 252.7 mAh g–1 with 88.4% retention after 100 cycles and stable pouch-cell performance under eVTOL dynamic load, advancing high-energy, high-power LiNiO2 cathodes.&lt;br&gt;🏷 LiNiO2 cathode · microstructural engineering · Ta doping · lithium-ion battery · pouch cell</description>
+<category>LiNiO2 cathode</category>
+<category>microstructural engineering</category>
+<category>Ta doping</category>
+<category>lithium-ion battery</category>
+<category>pouch cell</category>
+</item>
+<item>
+<title>Highly Stable Solid‐Electrolyte Interphase Enabled by PGMA Anchoring Layer for Silicon‐Based Anode</title>
+<link>https://doi.org/10.1002/adfm.79219</link>
+<guid isPermaLink="false">10.1002/adfm.79219</guid>
+<pubDate>Fri, 23 Oct 2026 16:01:55 GMT</pubDate>
+<description>لایه لنگرگاه PGMA با iCVD پیوند کووالانسی با بایندر PAA ایجاد کرده و پایداری چرخه و SEI آند SiOx را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using iCVD to deposit a PGMA anchoring interlayer on SiOx particles, creating covalent epoxy–carboxyl bonds with the PAA binder that replace weak physical interactions. This preserves electrode integrity during volume changes, confines SEI growth, and mitigates electrolyte depletion. Significance: the strategy enables 95.0% capacity retention after 300 cycles, offering a scalable interfacial design for durable silicon-based anodes.&lt;br&gt;🏷 silicon anode · solid-electrolyte interphase · PGMA · iCVD · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>solid-electrolyte interphase</category>
+<category>PGMA</category>
+<category>iCVD</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Crystal Phase Engineering of Transition‐Metal Dichalcogenides: Pathways to Superior Electrochemical Storage in Lithium–Sulfur Batteries</title>
 <link>https://doi.org/10.1002/cey2.70306</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>biofluid electrolyte</category>
 <category>wearable sensor</category>
 <category>wireless monitoring</category>
-</item>
-<item>
-<title>Reaction‐Driven Coupled Transport–Nanostructure Evolution in SnSb Anodes for High‐Energy All‐Solid‐State Li‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71728</link>
-<guid isPermaLink="false">10.1002/aenm.71728</guid>
-<pubDate>Wed, 21 Oct 2026 22:01:27 GMT</pubDate>
-<description>آند SnSb با تکامل هم‌زمان انتقال یون-الکترون و نانوساختار در باتری تمام‌جامد Li-ion، مسیرهای هدایت مختلط پایدار و چگالی انرژی بالای ۳۵۵ Wh/kg را در سلول کامل فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a SnSb anode that undergoes reaction-driven coupled transport–nanostructure evolution, forming continuous mixed ionic–electronic conducting pathways and stabilized nanocrystallization during cycling. This suppresses pulverization, preserves SE contact, and lowers interfacial resistance. Significance: a SnSb|NCM811 full cell achieves 28.97 mAh cm⁻² at 200 mg cm⁻² loading, 1000-cycle 10 C stability, and projected 355.7 Wh kg⁻¹/1017.4 Wh L⁻¹, establishing a design principle for high-energy ASSLIB anodes.&lt;br&gt;🏷 all-solid-state battery · SnSb anode · Li6PS5Cl electrolyte · mixed conduction · nanostructure evolution</description>
-<category>all-solid-state battery</category>
-<category>SnSb anode</category>
-<category>Li6PS5Cl electrolyte</category>
-<category>mixed conduction</category>
-<category>nanostructure evolution</category>
-</item>
-<item>
-<title>Nanoarchitectonics With Static‐Dynamic Synergistic Interfacial Remediation for Practical Zinc Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75343</link>
-<guid isPermaLink="false">10.1002/adma.75343</guid>
-<pubDate>Wed, 21 Oct 2026 21:02:33 GMT</pubDate>
-<description>لایه میان‌سطحی In/Sb همراه با افزودنی دینامیکی In3+، پایداری میان‌سطحی و رسوب یکنواخت روی را در باتری‌های آبی Zn و Br2/Zn بهبود می‌بخشد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling a preconstructed In/Sb interfacial layer with a dynamic In³⁺ electrolyte additive, creating static-dynamic synergy that regenerates the interface during cycling. This enables ultralong stability (~6000 h), 95% Zn utilization, and practical pouch cells (1 Ah, ~80 Wh kg⁻¹), offering a viable interfacial design for high-capacity, long-life aqueous Zn batteries.&lt;br&gt;🏷 aqueous zinc battery · In/Sb interface · electrolyte additive · interfacial remediation · Zn dendrite</description>
-<category>aqueous zinc battery</category>
-<category>In/Sb interface</category>
-<category>electrolyte additive</category>
-<category>interfacial remediation</category>
-<category>Zn dendrite</category>
-</item>
-<item>
-<title>Atomic‐Level Regulating Layer‐by‐Layer Zinc Deposition by High‐Entropy Single‐Atoms Electrolyte Additive</title>
-<link>https://doi.org/10.1002/adma.75467</link>
-<guid isPermaLink="false">10.1002/adma.75467</guid>
-<pubDate>Wed, 21 Oct 2026 21:02:17 GMT</pubDate>
-<description>افزودنی الکترولیتی نانوذرات کربنی تک‌اتمی با آنتروپی بالا، قطبش غلظت یون Zn2+ را کاهش داده و رسوب لایه‌به‌لایه روی را در باتری آبی روی هدایت می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using micropore high-entropy single-atom carbon nanoparticles (CuNiMnCoIr/CNs) as an electrolyte additive to atomically regulate Zn deposition. It suppresses interfacial Zn²⁺ depletion and supersaturation by lowering migration barriers and homogenizing ion flux, enabling layer-by-layer growth. Significance: trace additive yields high transference number (0.89) and ultra-stable cycling (4000 h), advancing energy-dense aqueous metal batteries.&lt;br&gt;🏷 aqueous zinc battery · high-entropy single-atoms · electrolyte additive · Zn deposition · dendrite suppression</description>
-<category>aqueous zinc battery</category>
-<category>high-entropy single-atoms</category>
-<category>electrolyte additive</category>
-<category>Zn deposition</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
