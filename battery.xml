@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 06:03:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 07:03:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dead-Potassium Activation Reconstructing Stabilized Interface Enables Stable Anode-Free Potassium Metal Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c15210</link>
+<guid isPermaLink="false">10.1021/jacs.6c15210</guid>
+<pubDate>Fri, 23 Oct 2026 07:02:48 GMT</pubDate>
+<description>افزودن BiI3 به الکترولیت کربناتی با بازفعال‌سازی پتاسیم مرده و ساخت SEI غنی از مواد معدنی، پایداری باتری پتاسیمی بدون آند را به‌شدت بهبود داد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using BiI3 additive to simultaneously tune K+ solvation, reconstruct an anion-rich interfacial structure, and reactivate dead K via the reversible I–/I3– redox couple. This enables a robust inorganic-rich SEI, dendrite suppression, and reduced irreversible K loss, yielding 1300 h symmetric-cell cycling and improved anode-free potassium metal battery stability—advancing practical high-energy AFPMB electrolyte design.&lt;br&gt;🏷 anode-free potassium battery · dead potassium · electrolyte engineering · BiI3 · solid electrolyte interphase</description>
+<category>anode-free potassium battery</category>
+<category>dead potassium</category>
+<category>electrolyte engineering</category>
+<category>BiI3</category>
+<category>solid electrolyte interphase</category>
+</item>
+<item>
+<title>Mechanistic Insights into Sodium Storage in N-Doped Graphene/MoS2 Heterostructures Revealed by Operando Raman Spectroscopy</title>
+<link>https://doi.org/10.1021/acsnano.6c05789</link>
+<guid isPermaLink="false">10.1021/acsnano.6c05789</guid>
+<pubDate>Fri, 23 Oct 2026 07:02:11 GMT</pubDate>
+<description>طیف‌سنجی Raman operando نشان می‌دهد ذخیره Na+ در هتروساختارهای سه‌لایه N-doped graphene/MoS2 عمدتاً از طریق تجمع برگشت‌پذیر در فضای بین‌لایه‌ای و مخازن حبابی رخ می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using operando Raman spectroscopy on precisely controlled three-layer graphene/NG/MoS2 heterostructures to directly probe interfacial charge transfer and strain during Na+ storage. Significance: revealing that capacity is governed by outer-layer permeability and interlayer electronic-mechanical coupling, and that MoS2 interlayers buffer strain—providing mechanistic design rules for 2D SIB anodes.&lt;br&gt;🏷 sodium-ion battery · MoS2 heterostructure · N-doped graphene · operando Raman · Na+ storage mechanism</description>
+<category>sodium-ion battery</category>
+<category>MoS2 heterostructure</category>
+<category>N-doped graphene</category>
+<category>operando Raman</category>
+<category>Na+ storage mechanism</category>
+</item>
+<item>
+<title>Oxygen-Framework Stabilization and Stress-Relief Engineering via Mo/Ca Co-Substitution for Durable Sodium Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112526</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112526</guid>
+<pubDate>Fri, 23 Oct 2026 07:01:38 GMT</pubDate>
+<description>جانشینی همزمان Mo/Ca در کاتد اکسید لایه‌ای سدیم، پایداری چارچوب اکسیژنی و کاهش تنش را برای دوام بیشتر باتری سدیم بهبود می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium layered oxide · cathode · Mo/Ca co-substitution · oxygen framework · stress relief</description>
+<category>sodium layered oxide</category>
+<category>cathode</category>
+<category>Mo/Ca co-substitution</category>
+<category>oxygen framework</category>
+<category>stress relief</category>
+</item>
+<item>
+<title>Phase-change thermal energy storage: Materials, thermophysics and emerging applications</title>
+<link>https://doi.org/10.1093/nsr/nwag657</link>
+<guid isPermaLink="false">10.1093/nsr/nwag657</guid>
+<pubDate>Fri, 23 Oct 2026 07:01:29 GMT</pubDate>
+<description>این مرور، مواد تغییر فازدهنده، ترموفیزیک و کاربردهای نوظهور ذخیره‌سازی انرژی حرارتی را با تمرکز بر اصلاح مواد و طراحی دستگاه بررسی می‌کند.&lt;br&gt;National Science Review | ⭐ Review&lt;br&gt;💡 This review uniquely integrates molecular engineering, composite microstructure design, and device-level passive/active strategies to overcome PCM thermophysical and heat-transfer limits. It bridges material innovation with system integration across energy, thermal management, medicine, robotics, and catalysis, offering a roadmap toward next-generation PCMs, high-performance devices, and intelligent systems.&lt;br&gt;🏷 phase change materials · thermal energy storage · latent heat · thermal management · composite PCMs</description>
+<category>phase change materials</category>
+<category>thermal energy storage</category>
+<category>latent heat</category>
+<category>thermal management</category>
+<category>composite PCMs</category>
+</item>
 <item>
 <title>Decoupling Li + Transport in Self‐Healing Polymer Dual‐Salt Electrolytes for Room Temperature Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adfm.78770</link>
@@ -1162,54 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>polyimide anode</category>
 <category>seawater electrolyte</category>
 <category>long cycling life</category>
-</item>
-<item>
-<title>Interfacial Evolution, Failure Mechanisms, and Multiscale Stabilization Strategies for Silicon Anodes in Sulfide‐Based All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/adfm.79164</link>
-<guid isPermaLink="false">10.1002/adfm.79164</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:31 GMT</pubDate>
-<description>این مرور، تکامل بین‌سطحی و سازوکارهای شکست آند سیلیسیمی در باتری‌های تمام‌جامد سولفیدی و راهبردهای پایدارسازی چندمقیاسی مانند پیش‌لیتیاسیون و اصلاح سطح را بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely integrates Si anode interfacial evolution, failure mechanisms, and multiscale stabilization specifically for sulfide-based all-solid-state batteries, addressing coupled electrochemical–chemical–mechanical degradation. Its significance lies in critically assessing strategies from structural regulation to pressure management, and outlining future directions including AI-assisted design and standardized full-cell evaluation, guiding rational development of high-energy-density solid-state batteries.&lt;br&gt;🏷 silicon anode · sulfide solid electrolyte · all-solid-state battery · interfacial degradation · prelithiation</description>
-<category>silicon anode</category>
-<category>sulfide solid electrolyte</category>
-<category>all-solid-state battery</category>
-<category>interfacial degradation</category>
-<category>prelithiation</category>
-</item>
-<item>
-<title>Strengthened D‐p Orbital Hybridization Via Interlayer Coupling Enables Sulfur Redox Kinetics in Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adfm.79147</link>
-<guid isPermaLink="false">10.1002/adfm.79147</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:17 GMT</pubDate>
-<description>با وارد کردن CTA+ به δ-MnO2، هیبریداسیون اوربیتالی Mn 3d-O 2p تقویت و شکاف انرژی d-p کاهش می‌یابد و سینتیک ردوکس گوگرد در باتری Li-S بهبود می‌یابد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Intercalating CTA⁺ into δ-MnO₂ narrows the Mn 3d–O 2p band center difference (1.458→1.145 eV), strengthening d–p hybridization and aligning Mn d-band with polysulfide S 2p orbitals. This optimizes adsorption and conversion kinetics while expanding ordered Li⁺ channels. The result: 819 mAh g⁻¹ at 3.0 C, 0.05% decay per cycle over 850 cycles, and 305 Wh kg⁻¹ in pouch cells.&lt;br&gt;🏷 lithium-sulfur battery · MnO2 interlayer coupling · d-p orbital hybridization · polysulfide catalysis · CTA intercalation</description>
-<category>lithium-sulfur battery</category>
-<category>MnO2 interlayer coupling</category>
-<category>d-p orbital hybridization</category>
-<category>polysulfide catalysis</category>
-<category>CTA intercalation</category>
-</item>
-<item>
-<title>Customizing Electronic‐Physical Dual‐Shield Interlayers via d‐p Orbital Hybridization for Ultra‐Stable Zinc Metal Anodes</title>
-<link>https://doi.org/10.1002/adfm.79159</link>
-<guid isPermaLink="false">10.1002/adfm.79159</guid>
-<pubDate>Wed, 21 Oct 2026 14:02:12 GMT</pubDate>
-<description>لایه میانی UiO-66-F4 با هیبریداسیون اوربیتال d-p، جذب Zn2+ و دفع SO4^2- را تقویت کرده و آند روی را پایدار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using d-p orbital hybridization via substituent engineering on UiO-66 MOFs to tune electronic structure, creating an electronic-physical dual-shield interlayer. This deepens d-p coupling, enhances Zn²⁺ affinity, and excludes SO₄²⁻/H₂O. Significance: UiO-66-F₄ achieves 3600 h lifespan and 90% depth of discharge, establishing orbital hybridization as a paradigm for ultra-stable Zn anodes.&lt;br&gt;🏷 zinc metal anode · MOF interlayer · d-p hybridization · Zn dendrite · aqueous zinc battery</description>
-<category>zinc metal anode</category>
-<category>MOF interlayer</category>
-<category>d-p hybridization</category>
-<category>Zn dendrite</category>
-<category>aqueous zinc battery</category>
-</item>
-<item>
-<title>Electron Localization at In‐on‐Li Antisites Enables High‐Current‐Density Compatibility of Chloride Solid Electrolytes with Lithium Metal</title>
-<link>https://doi.org/10.1002/adfm.79174</link>
-<guid isPermaLink="false">10.1002/adfm.79174</guid>
-<pubDate>Wed, 21 Oct 2026 14:01:51 GMT</pubDate>
-<description>کمبود LiCl در Li3-xInCl5.2-xF0.8 با ایجاد آنتی‌سایت In-on-Li، الکترون‌ها را به دام انداخته و سازگاری الکترولیت کلریدی با Li را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 LiCl-deficient Li₃₋ₓInCl₅.₂₋ₓF₀.₈ chloride electrolytes create In-on-Li antisites that localize injected electrons, suppressing reduction and enabling a self-passivating interphase. This atomic-scale electronic regulation achieves 1.24 mS cm⁻¹ conductivity and stable Li plating/stripping at 1.0–1.5 mA cm⁻², overcoming the high-current-density instability of chloride solid electrolytes and advancing high-energy all-solid-state Li-metal batteries.&lt;br&gt;🏷 chloride solid electrolyte · lithium metal · antisite defects · electron localization · all-solid-state battery</description>
-<category>chloride solid electrolyte</category>
-<category>lithium metal</category>
-<category>antisite defects</category>
-<category>electron localization</category>
-<category>all-solid-state battery</category>
 </item>
 </channel>
 </rss>
