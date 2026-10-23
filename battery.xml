@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 09:01:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 10:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering a Dynamic Alloy–Fluoride Interface via a Co-Placement Gas-Phase Strategy for Stable Lithium Metal Anodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03756</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03756</guid>
+<pubDate>Fri, 23 Oct 2026 10:01:05 GMT</pubDate>
+<description>ساخت لایه Ni3Sb/NiF2 به روش واکنش فاز گازی روی مش نیکل، سد جوانه‌زنی لیتیوم را کاهش داده و با تشکیل اینترفاز غنی از LiF، آند لیتیوم پایدار با چرخه‌پذیری طولانی فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable co-placement gas-phase strategy that forms a uniform Ni3Sb/NiF2 alloy–fluoride interface in situ on nickel mesh. This bifunctional design lowers Li nucleation barriers and generates a LiF-rich interphase, enabling uniform Li deposition. Significance: over 2600 h symmetric-cell cycling and 83.1% retention after 240 cycles at 10 mAh cm–2, offering a practical route to stable lithium metal anodes.&lt;br&gt;🏷 lithium metal anode · alloy-fluoride interface · gas-phase strategy · Ni3Sb/NiF2 · LiF-rich interphase</description>
+<category>lithium metal anode</category>
+<category>alloy-fluoride interface</category>
+<category>gas-phase strategy</category>
+<category>Ni3Sb/NiF2</category>
+<category>LiF-rich interphase</category>
+</item>
 <item>
 <title>Accelerating NCM811 cathode effective bulk-modulus prediction for lithium-ion batteries: A geometry-reduction-based graph neural network</title>
 <link>https://doi.org/10.1016/j.est.2026.125194</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>alloy anode</category>
 <category>volume expansion</category>
 <category>multi-step alloying</category>
-</item>
-<item>
-<title>Efficient Pulse Formation to Stabilize SEI Film and Improve Performance of Commercial Lithium‐ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76317</link>
-<guid isPermaLink="false">10.1002/smll.76317</guid>
-<pubDate>Wed, 21 Oct 2026 16:01:38 GMT</pubDate>
-<description>بهینه‌سازی چگالی جریان پالس Formation با یادگیری تقویتی، لایه SEI نازک و یکنواخت ایجاد کرده و ظرفیت‌ماندگاری 92.45% پس از 1000 چرخه را در باتری‌های تجاری LFP/graphite بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining systematic pulse-formation-rate studies with reinforcement learning to globally optimize SEI formation in commercial LFP/graphite batteries. Significance: identifying ~1 C as optimal yields an ultra-thin (~9 nm), dense, homogeneous SEI, lowering impedance and side reactions, enabling 92.45% capacity retention after 1000 cycles—providing a constructive guideline for efficient formation and long-term operation of high-energy-density commercial batteries.&lt;br&gt;🏷 pulse formation · SEI film · lithium-ion battery · LFP/graphite · reinforcement learning</description>
-<category>pulse formation</category>
-<category>SEI film</category>
-<category>lithium-ion battery</category>
-<category>LFP/graphite</category>
-<category>reinforcement learning</category>
 </item>
 </channel>
 </rss>
