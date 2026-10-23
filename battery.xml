@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 08:03:26 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 09:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Accelerating NCM811 cathode effective bulk-modulus prediction for lithium-ion batteries: A geometry-reduction-based graph neural network</title>
+<link>https://doi.org/10.1016/j.est.2026.125194</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125194</guid>
+<pubDate>Fri, 23 Oct 2026 09:01:21 GMT</pubDate>
+<description>یک شبکه عصبی گرافی مبتنی بر کاهش هندسه برای پیش‌بینی سریع مدول حجمی مؤثر کاتد NCM811 در باتری‌های لیتیوم-یونی ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NCM811 cathode · bulk modulus · graph neural network · geometry reduction · lithium-ion battery</description>
+<category>NCM811 cathode</category>
+<category>bulk modulus</category>
+<category>graph neural network</category>
+<category>geometry reduction</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Phosphonium Ionic Liquids for Electrochemical Energy Storage: Structure–Property–Interphase Relationships and Design Rule</title>
 <link>https://doi.org/10.1002/advs.78370</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lithium-ion battery</category>
 <category>LFP/graphite</category>
 <category>reinforcement learning</category>
-</item>
-<item>
-<title>Orbital coupling effect enables low-chloride concentration electrolyte for four-electron redox in aqueous zinc | |iodine batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78918-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78918-7</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:02 GMT</pubDate>
-<description>اثر جفت‌شدگی اوربیتالی امکان استفاده از الکترولیت کم‌کلرید را برای واکنش ردوکس چهارالکترونی در باتری آبی zinc-iodine فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling Cu single-atom d-p orbital hybridization with localized low-concentration Cl⁻ confinement to stabilize electrophilic I⁺, enabling reversible four-electron I⁻/I⁰/I⁺ conversion in aqueous Zn||I₂ batteries. This yields a dual-voltage plateau, ~408 mAh g⁻¹ capacity, and 50,000-cycle stability, offering a rational design strategy for high-voltage, long-life iodine chemistry.&lt;br&gt;🏷 zinc-iodine battery · low-chloride electrolyte · four-electron redox · orbital coupling · aqueous electrolyte</description>
-<category>zinc-iodine battery</category>
-<category>low-chloride electrolyte</category>
-<category>four-electron redox</category>
-<category>orbital coupling</category>
-<category>aqueous electrolyte</category>
 </item>
 </channel>
 </rss>

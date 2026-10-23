@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 08:03:26 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 09:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Accelerating NCM811 cathode effective bulk-modulus prediction for lithium-ion batteries: A geometry-reduction-based graph neural network</title>
+<link>https://doi.org/10.1016/j.est.2026.125194</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125194</guid>
+<pubDate>Fri, 23 Oct 2026 09:01:21 GMT</pubDate>
+<description>یک شبکه عصبی گرافی مبتنی بر کاهش هندسه برای پیش‌بینی سریع مدول حجمی مؤثر کاتد NCM811 در باتری‌های لیتیوم-یونی ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NCM811 cathode · bulk modulus · graph neural network · geometry reduction · lithium-ion battery</description>
+<category>NCM811 cathode</category>
+<category>bulk modulus</category>
+<category>graph neural network</category>
+<category>geometry reduction</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Utilizing porous polymer/phase change material composites for production of lightweight concretes with thermal energy storage capability</title>
+<link>https://doi.org/10.1016/j.est.2026.125188</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125188</guid>
+<pubDate>Fri, 23 Oct 2026 09:01:16 GMT</pubDate>
+<description>کامپوزیت‌های متخلخل پلیمر/مواد تغییر فاز برای تولید بتن سبک با قابلیت ذخیره‌سازی انرژی حرارتی به کار گرفته شدند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change materials · porous polymer composite · lightweight concrete · thermal energy storage · building insulation</description>
+<category>phase change materials</category>
+<category>porous polymer composite</category>
+<category>lightweight concrete</category>
+<category>thermal energy storage</category>
+<category>building insulation</category>
+</item>
 <item>
 <title>Frontiers of Extreme Manufacturing: From Atomic Precision to Autonomous System</title>
 <link>https://doi.org/10.1016/j.eng.2026.10.007</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CO2 electrolyzer · salt 
 <category>Holocene</category>
 <category>glaciation onset</category>
 <category>greenhouse forcing</category>
-</item>
-<item>
-<title>Electronic bound states in the continuum in a two-dimensional metal</title>
-<link>https://doi.org/10.1126/science.adt9825</link>
-<guid isPermaLink="false">10.1126/science.adt9825</guid>
-<pubDate>Fri, 23 Oct 2026 01:02:40 GMT</pubDate>
-<description>حالت‌های الکترونی مقید در پیوستار در فلز دوبعدی Pd5AlI2 با میکروسکوپ تونلی روبشی شناسایی شدند.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 bound states continuum · Pd5AlI2 · flat band · scanning tunneling microscopy · 2D metal</description>
-<category>bound states continuum</category>
-<category>Pd5AlI2</category>
-<category>flat band</category>
-<category>scanning tunneling microscopy</category>
-<category>2D metal</category>
-</item>
-<item>
-<title>The AI debate is missing half the system</title>
-<link>https://doi.org/10.1126/science.aen2722</link>
-<guid isPermaLink="false">10.1126/science.aen2722</guid>
-<pubDate>Fri, 23 Oct 2026 01:02:36 GMT</pubDate>
-<description>این دیدگاه استدلال می‌کند ایمنی هوش مصنوعی باید در سطح سیستم انسان-هوش مصنوعی و نه فقط مدل بررسی شود.&lt;br&gt;Science | 💭 Perspective&lt;br&gt;🏷 AI safety · human-AI system · governance · institutions · risk assessment</description>
-<category>AI safety</category>
-<category>human-AI system</category>
-<category>governance</category>
-<category>institutions</category>
-<category>risk assessment</category>
 </item>
 </channel>
 </rss>
