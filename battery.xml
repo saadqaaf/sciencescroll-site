@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 17:06:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 18:03:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Microwave-driven defect engineering in graphene-based materials for high-performance energy storage electrodes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122247</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122247</guid>
+<pubDate>Fri, 23 Oct 2026 18:02:58 GMT</pubDate>
+<description>مهندسی نقص به کمک مایکروویو در مواد مبتنی بر گرافن برای ساخت الکترودهای ذخیره‌سازی انرژی با عملکرد بالا به کار گرفته شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 graphene · defect engineering · microwave treatment · energy storage electrodes · supercapacitors</description>
+<category>graphene</category>
+<category>defect engineering</category>
+<category>microwave treatment</category>
+<category>energy storage electrodes</category>
+<category>supercapacitors</category>
+</item>
+<item>
+<title>Composition‐Driven Strain Self‐Organization for Stable Li‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/smll.76418</link>
+<guid isPermaLink="false">10.1002/smll.76418</guid>
+<pubDate>Fri, 23 Oct 2026 18:02:31 GMT</pubDate>
+<description>راهبرد خودسازمان‌دهی کرنش مبتنی بر ترکیب، با الهام از صدف، پایداری ساختاری و عملکرد الکتروشیمیایی کاتدهای غنی از لیتیوم منگنزی را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a composition-driven strain self-organization strategy inspired by nacre&amp;#x27;s mortar layers, creating periodic tensile-compressive corrugation that absorbs volume strain via cooperative microregional deformation and reversible dislocation evolution. This prevents irreversible plastic strain accumulation, significantly improving structural reversibility and cycling stability of Li-rich Mn-based cathodes, offering a new design avenue for high-stability energy storage materials.&lt;br&gt;🏷 Li-rich cathode · strain engineering · anionic redox · structural stability · lithium-ion battery</description>
+<category>Li-rich cathode</category>
+<category>strain engineering</category>
+<category>anionic redox</category>
+<category>structural stability</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Accelerating cooperative polysulfide conversion catalysis of CoFe Prussian blue analogues via conducting polyaniline interchain narrowing control for high-performance Li-S batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.020</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>TabPFN</category>
 <category>degradation</category>
 <category>estimation</category>
-</item>
-<item>
-<title>Isovolumetric design of layered oxide cathodes for high-rate sodium ion batteries: A multi-scale predictive approach</title>
-<link>https://doi.org/10.1016/j.est.2026.125274</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125274</guid>
-<pubDate>Thu, 22 Oct 2026 03:01:33 GMT</pubDate>
-<description>این مقاله طراحی هم‌حجم لایه‌ای اکسید کاتدی را با رویکرد پیش‌بینی چندمقیاسی برای باتری‌های سدیم‌یونی با نرخ بالا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · isovolumetric design · high-rate · multi-scale modeling</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>isovolumetric design</category>
-<category>high-rate</category>
-<category>multi-scale modeling</category>
-</item>
-<item>
-<title>Open-pore hollow graphene nanosphere-supported Pd catalyst for reversible atmospheric-pressure hydrogenation/dehydrogenation of indole-based LOHCs</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122244</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122244</guid>
-<pubDate>Thu, 22 Oct 2026 02:04:44 GMT</pubDate>
-<description>کاتالیزور Pd بر نانوسفر توخالی گرافن با منافذ باز برای هیدروژن‌دار کردن و هیدروژن‌زدایی برگشت‌پذیر ایندول به‌عنوان حامل هیدروژن آلی مایع در فشار اتمسفر ساخته می‌شود.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 LOHC · indole hydrogenation · Pd catalyst · hollow graphene nanosphere · atmospheric-pressure dehydrogenation</description>
-<category>LOHC</category>
-<category>indole hydrogenation</category>
-<category>Pd catalyst</category>
-<category>hollow graphene nanosphere</category>
-<category>atmospheric-pressure dehydrogenation</category>
 </item>
 </channel>
 </rss>
