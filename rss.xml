@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:01:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ideal Quantum Geometry for Fractional Chern Insulators</title>
+<link>https://doi.org/10.1146/annurev-conmatphys-032725-123642</link>
+<guid isPermaLink="false">10.1146/annurev-conmatphys-032725-123642</guid>
+<pubDate>Fri, 23 Oct 2026 23:01:10 GMT</pubDate>
+<description>این مقاله مروری به بررسی هندسه کوانتومی ایده‌آل و هولومورفیسی فضای تکانه در نوارهای بلاخ می‌پردازد و پیوند آن با فیزیک هال کوانتومی و مواد مویره را روشن می‌کند.&lt;br&gt;Annual Review of Condensed Matter Physics | ⭐ Review&lt;br&gt;🏷 quantum geometry · fractional Chern insulator · Berry curvature · quantum metric · moiré materials</description>
+<category>quantum geometry</category>
+<category>fractional Chern insulator</category>
+<category>Berry curvature</category>
+<category>quantum metric</category>
+<category>moiré materials</category>
+</item>
 <item>
 <title>The Battery Data Commons registry</title>
 <link>https://doi.org/10.1016/j.joule.2026.102712</link>
@@ -1204,18 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 katanin · microtubule se
 <category>solid electrolyte interphase</category>
 <category>LiF-free SEI</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Disorder Beats Order: Carbon Microstructure Steers Radical Versus Cationic Pathways in Kolbe Electrolysis</title>
-<link>https://doi.org/10.1002/anie.3000759</link>
-<guid isPermaLink="false">10.1002/anie.3000759</guid>
-<pubDate>Fri, 23 Oct 2026 17:02:47 GMT</pubDate>
-<description>ساختار کربن الکترود تعیین‌کننده مسیر رادیکالی در مقابل کاتیونی در الکترولیز Kolbe است؛ سطوح بی‌نظم sp3-غنی بازده دیمر را حدود ده برابر افزایش می‌دهند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Kolbe electrolysis · carbon electrodes · radical coupling · graphitization · product selectivity</description>
-<category>Kolbe electrolysis</category>
-<category>carbon electrodes</category>
-<category>radical coupling</category>
-<category>graphitization</category>
-<category>product selectivity</category>
 </item>
 </channel>
 </rss>
