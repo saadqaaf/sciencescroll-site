@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 23:01:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 00:01:59 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In Situ Mechanistic Insights into the Divergent Electrochemical Behaviors of Li, Na, and K in Metal Sulfur Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03870</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03870</guid>
+<pubDate>Fri, 23 Oct 2026 00:01:40 GMT</pubDate>
+<description>مطالعه درجای TEM و DFT بر رابط VGCF/S نشان داد رفتارهای متفاوت Li، Na و K در باتری‌های فلز-گوگرد ناشی از انتقال گونه‌های قلیایی و فرآیندهای بین‌سطحی است.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a noncatalytic VGCF/S interface with in situ TEM to directly visualize highly reversible two-step redox and fast reaction-front propagation in Li–S nanobatteries, contrasting Li, Na, and K behaviors. Significance: it links alkali-species transport, interfacial processes, and electrolyte-dependent pathways to divergent sulfur electrochemistry, establishing noncatalytic interfaces as a platform for mechanistic study.&lt;br&gt;🏷 metal-sulfur battery · in situ TEM · alkali metal · sulfur redox · DFT</description>
+<category>metal-sulfur battery</category>
+<category>in situ TEM</category>
+<category>alkali metal</category>
+<category>sulfur redox</category>
+<category>DFT</category>
+</item>
 <item>
 <title>Optimization of last-stage turbine inlet reheating temperature in pressurized-water compressed air energy storage systems under variable operating conditions</title>
 <link>https://doi.org/10.1016/j.est.2026.125231</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>interfacial molecular layer</category>
 <category>dendrite suppression</category>
 <category>zinc battery</category>
-</item>
-<item>
-<title>Temporal Synergy of Capacity and Catalysis: High-Entropy Phosphide on Fluorinated Graphene for High-Energy Lithium-Sulfur Batteries</title>
-<link>https://doi.org/10.1039/d6ta06260a</link>
-<guid isPermaLink="false">10.1039/d6ta06260a</guid>
-<pubDate>Wed, 21 Oct 2026 09:01:36 GMT</pubDate>
-<description>فوسفید پرآنتروپی روی گرافن فلوئوردار با هم‌افزایی زمانی ظرفیت و کاتالیز، مبادله ظرفیت-پایداری را در باتری‌های Li-S پرانرژی بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining a high-entropy phosphide with fluorinated graphene to create a dual-function sulfur host that temporally synergizes capacity and catalysis, overcoming the capacity-stability trade-off. Its significance is enabling high-energy lithium-sulfur batteries with both high capacity and long-term stability, advancing next-generation energy storage.&lt;br&gt;🏷 lithium-sulfur battery · high-entropy phosphide · fluorinated graphene · polysulfide catalysis · capacity retention</description>
-<category>lithium-sulfur battery</category>
-<category>high-entropy phosphide</category>
-<category>fluorinated graphene</category>
-<category>polysulfide catalysis</category>
-<category>capacity retention</category>
 </item>
 </channel>
 </rss>
