@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 11:01:11 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 12:02:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Current‐Controlled Inactive Aluminum Loss: Quantification, Mechanism, and Mitigation via Stack Pressure for Long‐Cycle Al‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79227</link>
+<guid isPermaLink="false">10.1002/adfm.79227</guid>
+<pubDate>Sat, 24 Oct 2026 12:02:16 GMT</pubDate>
+<description>با تیتراسیون گاز کروماتوگرافی، اتلاف آلومینیوم غیرفعال در باتری یون-آلومینیوم کمّی شد و فشار انباشت بهینه ۷۸۰ kPa با کاهش ۸۱٫۹۹٪ این اتلاف، عمر چرخه را بیش از ۵۰۰٪ افزایش داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Novelty: First titration gas chromatography method quantifying isolated metallic Al and side-reaction products, revealing current-dependent Al loss mechanisms and showing inorganic interphase suppresses inactive Al. Significance: Optimal stack pressure (780 kPa) cuts inactive Al loss by 81.99% and extends cycling life ≥500%, providing design principles for high-performance Al-ion batteries.&lt;br&gt;🏷 aluminum-ion battery · inactive aluminum loss · stack pressure · titration gas chromatography · anode degradation</description>
+<category>aluminum-ion battery</category>
+<category>inactive aluminum loss</category>
+<category>stack pressure</category>
+<category>titration gas chromatography</category>
+<category>anode degradation</category>
+</item>
+<item>
+<title>Super‐Toughness Self‐Healing Bimetallic MOF‐based Composite Solid Electrolyte with Nanoconfined Ion Channels and Dynamic Crosslinking for High‐Performance Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79273</link>
+<guid isPermaLink="false">10.1002/adfm.79273</guid>
+<pubDate>Sat, 24 Oct 2026 12:02:04 GMT</pubDate>
+<description>الکترولیت جامد کامپوزیتی خودترمیم‌شونده بر پایه MOF دو فلزی با کانال‌های یونی نانومحدود و اتصال عرضی دینامیکی ساخته شد که رسانایی یونی و پایداری فصل مشترک بالا و چرخه‌پذیری عالی در باتری لیتیوم-فلز حالت جامد نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining nanoconfined polymerization with dynamic crosslinking to create a self-healing bimetallic MOF-based solid electrolyte. Its significance: high ionic conductivity (12.63×10⁻⁴ S cm⁻¹), wide voltage window (5.14 V), toughness (270% elongation), and stable cycling even at high cathode loadings, enabling practical high-performance solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state lithium battery · bimetallic MOF · composite solid electrolyte · self-healing · lithium dendrite</description>
+<category>solid-state lithium battery</category>
+<category>bimetallic MOF</category>
+<category>composite solid electrolyte</category>
+<category>self-healing</category>
+<category>lithium dendrite</category>
+</item>
+<item>
+<title>Solvent‐Free Roll‐Pressed Sandwiched Li Anode With Dual‐Sided Cu Nanowire Networks for High‐Energy Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79056</link>
+<guid isPermaLink="false">10.1002/adfm.79056</guid>
+<pubDate>Sat, 24 Oct 2026 12:01:55 GMT</pubDate>
+<description>آند لیتیومی ساندویچی با شبکه‌های نانوسیم مسی دوسویه به روش نورد بدون حلال ساخته و در پاکت‌سل، چگالی انرژی 279.11 Wh/kg و 470.52 Wh/L حاصل می‌شود.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a solvent-free roll-pressed bidirectional sandwich structure integrating ultrathin Li with dual-sided 3D Cu nanowire networks, enabling dendrite-free deposition and volume buffering. Significance: it delivers 98.73% Coulombic efficiency, 1350 h stable cycling, and 279.11 Wh kg⁻¹ / 470.52 Wh L⁻¹ in pouch cells, offering a simple scalable route to high-energy Li metal batteries.&lt;br&gt;🏷 lithium metal anode · Cu nanowire · solvent-free rolling · pouch cell · energy density</description>
+<category>lithium metal anode</category>
+<category>Cu nanowire</category>
+<category>solvent-free rolling</category>
+<category>pouch cell</category>
+<category>energy density</category>
+</item>
 <item>
 <title>Tuning a Weakly-Coordinating Environment via Non-Polar Solvents to Promote Li+ Interfacial Transport in Quasi-Solid-State Li Metal Batteries</title>
 <link>https://doi.org/10.1016/j.apmate.2026.100479</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>pseudocapacitance</category>
 <category>electric double layer</category>
 <category>proton transfer</category>
-</item>
-<item>
-<title>Physics-inspired degradation modeling guided by dynamic orbits for battery health prognostics</title>
-<link>https://doi.org/10.1016/j.est.2026.125110</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125110</guid>
-<pubDate>Thu, 22 Oct 2026 13:02:13 GMT</pubDate>
-<description>این مقاله یک مدل تخریب الهام‌گرفته از فیزیک و هدایت‌شده با مدارهای دینامیکی را برای پیش‌بینی سلامت باتری ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 degradation modeling · battery health prognostics · dynamic orbits · physics-inspired model · state of health</description>
-<category>degradation modeling</category>
-<category>battery health prognostics</category>
-<category>dynamic orbits</category>
-<category>physics-inspired model</category>
-<category>state of health</category>
-</item>
-<item>
-<title>Construction of cellulose–encapsulated nickel–zinc–molybdenum oxide composite: A rod–like ternary composite for high-performance energy storage device</title>
-<link>https://doi.org/10.1016/j.est.2026.124546</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124546</guid>
-<pubDate>Thu, 22 Oct 2026 13:02:06 GMT</pubDate>
-<description>این مقاله کامپوزیت سه‌تایی میله‌ای Ni-Zn-Mo oxide کپسوله‌شده با سلولز را برای دستگاه ذخیره‌سازی انرژی با عملکرد بالا می‌سازد و مشخصه‌یابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cellulose composite · Ni-Zn-Mo oxide · ternary composite · rod-like structure · energy storage device</description>
-<category>cellulose composite</category>
-<category>Ni-Zn-Mo oxide</category>
-<category>ternary composite</category>
-<category>rod-like structure</category>
-<category>energy storage device</category>
-</item>
-<item>
-<title>Comparative structural and electrochemical analysis of cubic and Na-rich rhombohedral Prussian blue analogues for sodium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125238</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125238</guid>
-<pubDate>Thu, 22 Oct 2026 13:02:02 GMT</pubDate>
-<description>این مقاله ساختار و رفتار الکتروشیمیایی آنالوگ‌های پروسیان بلو مکعبی و رومبوهدرال غنی از سدیم را برای باتری‌های یون سدیم مقایسه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Prussian blue analogues · sodium-ion batteries · cathode · rhombohedral phase · electrochemical analysis</description>
-<category>Prussian blue analogues</category>
-<category>sodium-ion batteries</category>
-<category>cathode</category>
-<category>rhombohedral phase</category>
-<category>electrochemical analysis</category>
 </item>
 </channel>
 </rss>
