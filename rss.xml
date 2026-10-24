@@ -5,8 +5,104 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 13:04:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 14:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>When active learning fails, uncalibrated out of distribution uncertainty quantification might be the problem</title>
+<link>https://doi.org/10.1038/s41524-026-02368-4</link>
+<guid isPermaLink="false">10.1038/s41524-026-02368-4</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:37 GMT</pubDate>
+<description>این مقاله نشان می‌دهد عدم‌کالیبره بودن عدم‌قطعیت خارج از توزیع می‌تواند باعث شکست یادگیری فعال در کشف مواد شود.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 active learning · uncertainty quantification · calibration · out-of-distribution · materials discovery</description>
+<category>active learning</category>
+<category>uncertainty quantification</category>
+<category>calibration</category>
+<category>out-of-distribution</category>
+<category>materials discovery</category>
+</item>
+<item>
+<title>Correlative 3D Electron Tomography and Nanobeam 4D‐STEM Mapping of Orientation and Strain in Welded Silver Nanowires</title>
+<link>https://doi.org/10.1002/smll.76393</link>
+<guid isPermaLink="false">10.1002/smll.76393</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:34 GMT</pubDate>
+<description>این مقاله با ترکیب توموگرافی الکترونی سه‌بعدی و نقشه‌برداری 4D-STEM، جهت‌گیری بلوری و کرنش در اتصالات جوش‌خورده نانوسیم‌های نقره را بررسی می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 silver nanowires · electron tomography · 4D-STEM · strain mapping · nanowire welding</description>
+<category>silver nanowires</category>
+<category>electron tomography</category>
+<category>4D-STEM</category>
+<category>strain mapping</category>
+<category>nanowire welding</category>
+</item>
+<item>
+<title>Particulate Metal Oxysulfides for Photocatalytic and Photoelectrocatalytic Water Splitting</title>
+<link>https://doi.org/10.1002/smll.76387</link>
+<guid isPermaLink="false">10.1002/smll.76387</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:31 GMT</pubDate>
+<description>این مرور، پیشرفت فوتو(الکترو)کاتالیست‌های اکسی‌سولفید فلزی برای شکافت آب با نور مرئی و راهبردهای جداسازی بار و واکنش سطحی را بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 metal oxysulfides · water splitting · photocatalysis · photoelectrocatalysis · charge separation</description>
+<category>metal oxysulfides</category>
+<category>water splitting</category>
+<category>photocatalysis</category>
+<category>photoelectrocatalysis</category>
+<category>charge separation</category>
+</item>
+<item>
+<title>Cooperative Interfacial and Electrolyte Engineering in Au@Cu 2 O Core@Shell Nanocatalysts for Efficient CO 2 Reduction to C 2+ Products at Circumneutral pH</title>
+<link>https://doi.org/10.1002/smll.76442</link>
+<guid isPermaLink="false">10.1002/smll.76442</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:27 GMT</pubDate>
+<description>نانوکاتالیست‌های هسته-پوسته Au@Cu2O با مهندسی هم‌زمان سطح مشترک و الکترولیت، در محیط نزدیک خنثی بازده فارادی بالایی برای محصولات C2+ در احیای الکتروشیمیایی CO2 نشان می‌دهند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Au@Cu2O core-shell · CO2 electroreduction · C2+ products · interfacial engineering · electrolyte engineering</description>
+<category>Au@Cu2O core-shell</category>
+<category>CO2 electroreduction</category>
+<category>C2+ products</category>
+<category>interfacial engineering</category>
+<category>electrolyte engineering</category>
+</item>
+<item>
+<title>Reverse Micelles: The Gateway for Oral (Poly)Peptide Delivery</title>
+<link>https://doi.org/10.1002/smll.76409</link>
+<guid isPermaLink="false">10.1002/smll.76409</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:24 GMT</pubDate>
+<description>این مرور، ساختار میسل‌های معکوس و معیارهای کارایی آن‌ها را برای دارورسانی خوراکی پپتیدها و پروتئین‌ها با تأکید بر میسل‌های معکوس خشک بررسی می‌کند.&lt;br&gt;Small | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 reverse micelles · oral peptide delivery · dry reverse micelles · drug delivery · bioavailability</description>
+<category>reverse micelles</category>
+<category>oral peptide delivery</category>
+<category>dry reverse micelles</category>
+<category>drug delivery</category>
+<category>bioavailability</category>
+</item>
+<item>
+<title>Triboelectric Nanogenerators for Human‐Robot Motion Energy Harvesting and Sensing: Structures, Embodied Artificial Intelligence, and Self‐Powered Applications</title>
+<link>https://doi.org/10.1002/smll.76374</link>
+<guid isPermaLink="false">10.1002/smll.76374</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:20 GMT</pubDate>
+<description>این مرور، پیشرفت نانوژنراتورهای تریبوالکتریک برای حس‌گری حرکتی خودتأمین در تعامل انسان-ربات و ادغام آن‌ها با هوش مصنوعی را بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 triboelectric nanogenerator · human-robot interaction · motion sensing · embodied AI · self-powered sensing</description>
+<category>triboelectric nanogenerator</category>
+<category>human-robot interaction</category>
+<category>motion sensing</category>
+<category>embodied AI</category>
+<category>self-powered sensing</category>
+</item>
+<item>
+<title>Titanium Oxide Thin Films With Metal Nanodisks as Plasmonic Metamaterial Photocatalyst Sheets for IPA‐Assisted CO 2 Reduction</title>
+<link>https://doi.org/10.1002/smll.76358</link>
+<guid isPermaLink="false">10.1002/smll.76358</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:17 GMT</pubDate>
+<description>این کار صفحات فوتوکاتالیست متاماده از فیلم TiO2 و نانودیسک‌های فلزی می‌سازد که با نور پهن‌باند، CO2 را به H2 و CH4 تبدیل می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 plasmonic photocatalyst · TiO2 thin film · CO2 reduction · metal nanodisks · solar fuels</description>
+<category>plasmonic photocatalyst</category>
+<category>TiO2 thin film</category>
+<category>CO2 reduction</category>
+<category>metal nanodisks</category>
+<category>solar fuels</category>
+</item>
+<item>
+<title>Enhancing high-temperature mechanical properties of 304 stainless steel via gradient phase-distributed microstructure</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.026</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.026</guid>
+<pubDate>Sat, 24 Oct 2026 14:01:12 GMT</pubDate>
+<description>این مقاله با ایجاد ریزساختار توزیع‌شده فاز گرادیانی، خواص مکانیکی دمای بالای فولاد زنگ‌نزن 304 را بهبود می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 304 stainless steel · gradient microstructure · high-temperature mechanical properties · phase distribution · grain refinement</description>
+<category>304 stainless steel</category>
+<category>gradient microstructure</category>
+<category>high-temperature mechanical properties</category>
+<category>phase distribution</category>
+<category>grain refinement</category>
+</item>
 <item>
 <title>Dual‑asymmetric molecular engineering of a conjugated self‑assembled monolayer via π‑extension and meta-linker for efficient and stable perovskite solar cells</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.022</link>
@@ -1110,102 +1206,6 @@
 <category>maternal-fetal interface</category>
 <category>dendritic cells</category>
 <category>congenital infection</category>
-</item>
-<item>
-<title>Electrically reconfigurable dipolar polaritons with highly tunable nonlinearity in a homobilayer microcavity</title>
-<link>https://doi.org/10.1126/sciadv.aeh5101</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh5101</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:43 GMT</pubDate>
-<description>پلاریتون‌های دوقطبی در میکروکاویتی دوگیتی bilayer MoS2 با اثر Stark محدود کوانتومی به‌صورت الکتریکی تنظیم شدند و برهم‌کنش پلاریتون-پلاریتون هفت برابر تقویت و گذار از جفت‌شدگی قوی به ضعیف کنترل شد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 dipolar polariton · MoS2 homobilayer · electrical tunability · polariton nonlinearity · microcavity</description>
-<category>dipolar polariton</category>
-<category>MoS2 homobilayer</category>
-<category>electrical tunability</category>
-<category>polariton nonlinearity</category>
-<category>microcavity</category>
-</item>
-<item>
-<title>Neural circuitry mediating hypercapnia-induced microarousal and impaired sleep depth</title>
-<link>https://doi.org/10.1126/sciadv.aei1892</link>
-<guid isPermaLink="false">10.1126/sciadv.aei1892</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:40 GMT</pubDate>
-<description>نورون‌های گلوتاماترژیک NTS Vglut2 و مسیرهای آن‌ها به PVN، PB و LC میکروآروزال و کاهش عمق خواب ناشی از هایپرکاپنی را میانجی‌گری می‌کنند و مهار مسیر PVN این آروزال را به تأخیر می‌اندازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 hypercapnia · microarousal · NTS Vglut2 · sleep fragmentation · neural circuit</description>
-<category>hypercapnia</category>
-<category>microarousal</category>
-<category>NTS Vglut2</category>
-<category>sleep fragmentation</category>
-<category>neural circuit</category>
-</item>
-<item>
-<title>An innovative colon inflammation-targeting platform for ulcerative colitis treatment</title>
-<link>https://doi.org/10.1126/sciadv.aeb1963</link>
-<guid isPermaLink="false">10.1126/sciadv.aeb1963</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:37 GMT</pubDate>
-<description>لیپوزوم Lipo-tm-HA با پوشش هیالورونیک اسید و مانیتول برای هدف‌گیری کولون، تجویز خوراکی تک‌دوز tofacitinib را در مدل کولیت DSS مؤثرتر از درمان روزانه داروی آزاد نشان داد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 ulcerative colitis · tofacitinib · liposomal drug delivery · colon targeting · hyaluronic acid</description>
-<category>ulcerative colitis</category>
-<category>tofacitinib</category>
-<category>liposomal drug delivery</category>
-<category>colon targeting</category>
-<category>hyaluronic acid</category>
-</item>
-<item>
-<title>SMCHD1 loss rewires MYOD1 enhancer nexuses and chromatin accessibility landscapes in muscle cells</title>
-<link>https://doi.org/10.1126/sciadv.aeh7499</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh7499</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:34 GMT</pubDate>
-<description>از دست رفتن SMCHD1 در میوبلاست‌های انسانی دسترسی کروماتین را افزایش داده و با بازآرایی شبکه‌های اینهنسری MYOD1 و افزایش برهم‌کنش‌های سه‌بعدی، رونویسی مرتبط با FSHD را مختل می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 SMCHD1 · MYOD1 enhancer · chromatin architecture · FSHD2 · myoblast</description>
-<category>SMCHD1</category>
-<category>MYOD1 enhancer</category>
-<category>chromatin architecture</category>
-<category>FSHD2</category>
-<category>myoblast</category>
-</item>
-<item>
-<title>An in situ forming immunomodulatory hydrogel reinvigorates exhausted CD8 + T cells via preserving their mitochondrial fitness</title>
-<link>https://doi.org/10.1126/sciadv.adz0039</link>
-<guid isPermaLink="false">10.1126/sciadv.adz0039</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:30 GMT</pubDate>
-<description>هیدروژل درجا تشکیل‌شونده بر پایه TPGS با حفظ تناسب میتوکندریایی، سلول‌های CD8+ T خسته را احیا کرده و با القای ICD و مهار IDO1 پاسخ ضدتوموری قوی ایجاد می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 immunomodulatory hydrogel · CD8+ T cell exhaustion · mitochondrial fitness · immunogenic cell death · cancer immunotherapy</description>
-<category>immunomodulatory hydrogel</category>
-<category>CD8+ T cell exhaustion</category>
-<category>mitochondrial fitness</category>
-<category>immunogenic cell death</category>
-<category>cancer immunotherapy</category>
-</item>
-<item>
-<title>Opposing cell-type preferences for binding and replication shape influenza A virus infection in human airways</title>
-<link>https://doi.org/10.1126/sciadv.aei5782</link>
-<guid isPermaLink="false">10.1126/sciadv.aei5782</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:27 GMT</pubDate>
-<description>ویروس‌های آنفلوانزای پرندگان و انسان هر دو ترجیح می‌دهند به سلول‌های مژک‌دار متصل شوند، اما تکثیر ترجیحی در سلول‌های ترشحی به سازگاری با پروتئین‌های ANP32 انسانی وابسته است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 influenza A virus · airway tropism · sialic acid receptor · ANP32 protein · viral replication</description>
-<category>influenza A virus</category>
-<category>airway tropism</category>
-<category>sialic acid receptor</category>
-<category>ANP32 protein</category>
-<category>viral replication</category>
-</item>
-<item>
-<title>Using initial states to identify successful El Niño–Southern Oscillation forecasts 1 year in advance</title>
-<link>https://doi.org/10.1126/sciadv.aeg8654</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg8654</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:24 GMT</pubDate>
-<description>تحلیل پیش‌بینی‌های ENSO نشان می‌دهد پیش‌بینی‌های آغازشده در شرایط La Niña بهترین عملکرد را دارند و سه مدل گذار به El Niño را یک سال قبل با دقت بیش از 70 درصد پیش‌بینی کردند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 ENSO forecasting · La Niña · seasonal prediction · climate predictability · hindcast analysis</description>
-<category>ENSO forecasting</category>
-<category>La Niña</category>
-<category>seasonal prediction</category>
-<category>climate predictability</category>
-<category>hindcast analysis</category>
-</item>
-<item>
-<title>Spider-inspired bidirectional robotic joints driven by electrohydraulic multiaxial strain</title>
-<link>https://doi.org/10.1126/sciadv.aei2880</link>
-<guid isPermaLink="false">10.1126/sciadv.aei2880</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:21 GMT</pubDate>
-<description>یک مفصل رباتیک نرم و دوسویه در مقیاس سانتی‌متر با جفت محرک الکتروهیدرولیک ساخته شد که کرنش چندمحوره ایجاد کرده و چرخش سریع تا 2851 درجه بر ثانیه و حرکت چندحالته را ممکن می‌سازد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 soft robotic joint · electrohydraulic actuator · bidirectional rotation · multiaxial strain · bioinspired robotics</description>
-<category>soft robotic joint</category>
-<category>electrohydraulic actuator</category>
-<category>bidirectional rotation</category>
-<category>multiaxial strain</category>
-<category>bioinspired robotics</category>
 </item>
 </channel>
 </rss>
