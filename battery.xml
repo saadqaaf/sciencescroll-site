@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 14:01:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 15:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Optimized state-of-charge balancing control strategy based on vector geometry perspective for cascaded energy storage system under composite grid operation scenarios</title>
+<link>https://doi.org/10.1016/j.est.2026.125186</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125186</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:25 GMT</pubDate>
+<description>این مقاله یک استراتژی کنترل متعادل‌سازی وضعیت شارژ مبتنی بر هندسه برداری برای سیستم ذخیره‌سازی انرژی آبشاری تحت سناریوهای عملیاتی شبکه ترکیبی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge balancing · cascaded energy storage · vector geometry · control strategy · grid operation</description>
+<category>state-of-charge balancing</category>
+<category>cascaded energy storage</category>
+<category>vector geometry</category>
+<category>control strategy</category>
+<category>grid operation</category>
+</item>
+<item>
+<title>Soft actor–critic-based parameter adaptation for composite sliding mode control of hybrid energy storage systems in direct current microgrids</title>
+<link>https://doi.org/10.1016/j.est.2026.125225</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125225</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:21 GMT</pubDate>
+<description>این مقاله یک کنترل مد لغزشی مرکب با تطبیق پارامتر مبتنی بر soft actor-critic برای سیستم‌های ذخیره‌سازی انرژی هیبریدی در ریزشبکه‌های DC ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · DC microgrid · sliding mode control · soft actor-critic · parameter adaptation</description>
+<category>hybrid energy storage</category>
+<category>DC microgrid</category>
+<category>sliding mode control</category>
+<category>soft actor-critic</category>
+<category>parameter adaptation</category>
+</item>
+<item>
+<title>Modelling localised flux non-uniformity and nail penetration driven thermal runaway in dual solvent electrolyte lithium battery</title>
+<link>https://doi.org/10.1016/j.est.2026.125211</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125211</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:17 GMT</pubDate>
+<description>این مقاله ناهمگنی موضعی شار و فرار حرارتی ناشی از نفوذ میخ را در باتری لیتیومی با الکترولیت دوجزئی حلال مدل‌سازی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · nail penetration · lithium battery · flux non-uniformity · dual solvent electrolyte</description>
+<category>thermal runaway</category>
+<category>nail penetration</category>
+<category>lithium battery</category>
+<category>flux non-uniformity</category>
+<category>dual solvent electrolyte</category>
+</item>
+<item>
+<title>A physics-informed state-space framework for battery state of health estimation via electrochemical state reconstruction and feature decoupling</title>
+<link>https://doi.org/10.1016/j.est.2026.125206</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125206</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:13 GMT</pubDate>
+<description>این مقاله یک چارچوب فضای حالت مبتنی بر فیزیک با بازسازی حالت الکتروشیمیایی و جداسازی ویژگی‌ها برای تخمین وضعیت سلامت باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · battery estimation · state-space model · feature decoupling · electrochemical reconstruction</description>
+<category>state of health</category>
+<category>battery estimation</category>
+<category>state-space model</category>
+<category>feature decoupling</category>
+<category>electrochemical reconstruction</category>
+</item>
+<item>
+<title>Manifold Learning and Clustering of Spatially Resolved High-Dimensional Raman Spectra for Surface Heterogeneity Analysis of Polymer Solid-State Electrolytes</title>
+<link>https://doi.org/10.1039/d6mh01835a</link>
+<guid isPermaLink="false">10.1039/d6mh01835a</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:05 GMT</pubDate>
+<description>این مقاله چارچوبی محاسباتی بر پایه یادگیری منیفولد و خوشه‌بندی برای تحلیل تصویربرداری طیفی رامان فضایی و بررسی ناهمگنی سطحی الکترولیت‌های پلیمری حالت جامد معرفی می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling manifold learning with clustering to analyze spatially resolved high-dimensional Raman spectra of polymer solid-state electrolytes. This framework reduces dimensionality while preserving spatial-spectral relationships, enabling robust identification of surface heterogeneity. Its significance is providing a scalable, interpretable computational tool for mapping chemical and structural variations, advancing understanding of interfacial inhomogeneity in solid-state battery materials.&lt;br&gt;🏷 solid polymer electrolyte · Raman imaging · manifold learning · clustering · surface heterogeneity</description>
+<category>solid polymer electrolyte</category>
+<category>Raman imaging</category>
+<category>manifold learning</category>
+<category>clustering</category>
+<category>surface heterogeneity</category>
+</item>
 <item>
 <title>An integrated cathode-electrolyte architecture with Cu dual active-sites for all-solid-state Li–CO2 batteries</title>
 <link>https://doi.org/10.1038/s41467-026-78929-4</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>oxyhalide interphase</category>
 <category>Li+ transport</category>
 <category>oxygen degradation</category>
-</item>
-<item>
-<title>Tracing and Healing Multiscale Defects for Cost‐Effective Lithium Carbonate‐Derived Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/aenm.71727</link>
-<guid isPermaLink="false">10.1002/aenm.71727</guid>
-<pubDate>Thu, 22 Oct 2026 18:01:35 GMT</pubDate>
-<description>منشأ افت عملکرد کاتدهای لایه‌ای مشتق از Li2CO3 در نقص‌های چندمقیاسی ردیابی شده و با یک عملیات حرارتی ثانویه همراه LiOH ترمیم می‌شود تا عملکردی هم‌تراز مسیر LiOH با هزینه کمتر حاصل شود.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in tracing the LiOH vs. Li₂CO₃ performance gap to multiscale defects arising from solid-, liquid-, and gas-phase carbonate pathway features, then healing them via a single secondary heat treatment with optimized LiOH. This restores capacity, rate capability, and cycling stability to parity with LiOH-derived cathodes while cutting precursor cost 9–16%, enabling low-cost, high-performance Ni-based layered oxide cathodes.&lt;br&gt;🏷 lithium carbonate precursor · layered oxide cathode · defect healing · Ni-rich cathode · secondary heat treatment</description>
-<category>lithium carbonate precursor</category>
-<category>layered oxide cathode</category>
-<category>defect healing</category>
-<category>Ni-rich cathode</category>
-<category>secondary heat treatment</category>
-</item>
-<item>
-<title>A Tailored Multifunctional Lithium Organosilicate Salt Constructing Robust Interphases for High Voltage Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71710</link>
-<guid isPermaLink="false">10.1002/aenm.71710</guid>
-<pubDate>Thu, 22 Oct 2026 18:01:26 GMT</pubDate>
-<description>نمک لیتیوم ارگانوسیلیکات فلورینه (LiPBS) با ساخت CEI و SEI پایدار و حذف HF و H2O، پایداری چرخه باتری لیتیوم-فلز ولتاژ بالا با کاتد LiCoO2 را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fluorinated lithium organosilicate salt (LiPBS) that forms rigid-flexible CEI on cathode and inorganic-rich SEI on Li anode via coordination ion pairs, while Si─O groups scavenge HF/H2O. Significance: enables high-voltage LCO/Li cells to retain 82% capacity after 250 cycles at 4.5 V, versus 80% after 67 cycles with LiPF6, even at 50°C.&lt;br&gt;🏷 lithium metal battery · organosilicate salt · solid electrolyte interphase · high-voltage cathode · LiCoO2</description>
-<category>lithium metal battery</category>
-<category>organosilicate salt</category>
-<category>solid electrolyte interphase</category>
-<category>high-voltage cathode</category>
-<category>LiCoO2</category>
-</item>
-<item>
-<title>Design of Bridging‐Oxygen‐Modulated Fe–Ni Dual‐Atom Sites With Multifaceted Stabilization for Durable Cathode Catalysis in Rechargeable Zinc–Air Batteries</title>
-<link>https://doi.org/10.1002/adma.75470</link>
-<guid isPermaLink="false">10.1002/adma.75470</guid>
-<pubDate>Thu, 22 Oct 2026 17:02:02 GMT</pubDate>
-<description>کاتالیزور دواتمی FeNi–N–C با پل اکسیژنی µ2-O برای کاتالیز پایدار در باتری روی-هوا طراحی شد و پس از ۲۸۰۰ ساعت ۸۰٪ بازده اولیه را حفظ کرد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bridging-oxygen-modulated Fe–Ni dual-atom sites that stabilize the catalyst through multiple mechanisms: enhanced structural integrity, reduced N-site protonation and metal stripping, and suppressed H₂O₂/ROS accumulation via O─O cleavage. This coordination-engineering strategy enables exceptional durability, retaining 80% energy efficiency after 2800 h, advancing long-life rechargeable zinc–air batteries.&lt;br&gt;🏷 zinc-air battery · dual-atom catalyst · oxygen electrocatalysis · bridging oxygen · catalyst stability</description>
-<category>zinc-air battery</category>
-<category>dual-atom catalyst</category>
-<category>oxygen electrocatalysis</category>
-<category>bridging oxygen</category>
-<category>catalyst stability</category>
-</item>
-<item>
-<title>Decoupling Protection and Doping Unlocks Asymmetric Zn Single Atoms for Efficient Oxygen Reduction</title>
-<link>https://doi.org/10.1002/adma.75444</link>
-<guid isPermaLink="false">10.1002/adma.75444</guid>
-<pubDate>Thu, 22 Oct 2026 17:01:54 GMT</pubDate>
-<description>راهبرد جداسازی حفاظت و دوپینگ، اتم‌های تک‌نشین Zn نامتقارن را فعال کرده و کاتالیست ORR با پتانسیل نیم‌موج ۰.۹۱۶ ولت و پایداری بیش از ۴۵۰ ساعت در باتری Zn-air ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sacrificial-guided etching strategy that decouples protection (Bi(NO₃)₃ preserves ZnN₄) from doping (NaCl adds Cl), creating asymmetric Zn single atoms with dual precision over coordination number and dopant configuration. This unlocks intrinsically passive d¹⁰ Zn centers, achieving 0.916 V ORR half-wave potential, 258 mW cm⁻² peak power density, and &amp;gt;450 h stability, advancing non-precious metal electrocatalyst design.&lt;br&gt;🏷 single-atom catalyst · oxygen reduction reaction · zinc-air battery · Cl doping · ZnN4 sites</description>
-<category>single-atom catalyst</category>
-<category>oxygen reduction reaction</category>
-<category>zinc-air battery</category>
-<category>Cl doping</category>
-<category>ZnN4 sites</category>
-</item>
-<item>
-<title>Cathode Depolarization Enables 1300‐Cycle Ah‐Level Anode‐Free Sodium Batteries</title>
-<link>https://doi.org/10.1002/adma.75401</link>
-<guid isPermaLink="false">10.1002/adma.75401</guid>
-<pubDate>Thu, 22 Oct 2026 17:01:39 GMT</pubDate>
-<description>پروتکل‌های شارژ اختصاصی کاتد با کاهش قطبش کاتد، رسوب سدیم را یکنواخت کرده و باتری سدیمی بدون آند در مقیاس Ah را به ۱۳۷۰ چرخه رساند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing cathode polarization&amp;#x27;s critical role in sodium deposition uniformity via electric field coupling, and establishing cathode-specific charging protocols that dynamically regulate current based on SOC-dependent resistance. This cathode depolarization strategy enables record cyclability (1370 cycles, 1.6 Ah; 890 cycles, 3.6 Ah at 180 Wh kg⁻¹) and shows universality across NFPP, NVP, and NFM cathodes, advancing practical anode-free sodium batteries.&lt;br&gt;🏷 anode-free sodium battery · cathode depolarization · sodium deposition · pouch cell · NFPP cathode</description>
-<category>anode-free sodium battery</category>
-<category>cathode depolarization</category>
-<category>sodium deposition</category>
-<category>pouch cell</category>
-<category>NFPP cathode</category>
 </item>
 </channel>
 </rss>

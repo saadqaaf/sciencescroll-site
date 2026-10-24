@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 14:01:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 15:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Optimized state-of-charge balancing control strategy based on vector geometry perspective for cascaded energy storage system under composite grid operation scenarios</title>
+<link>https://doi.org/10.1016/j.est.2026.125186</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125186</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:25 GMT</pubDate>
+<description>این مقاله یک استراتژی کنترل متعادل‌سازی وضعیت شارژ مبتنی بر هندسه برداری برای سیستم ذخیره‌سازی انرژی آبشاری تحت سناریوهای عملیاتی شبکه ترکیبی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge balancing · cascaded energy storage · vector geometry · control strategy · grid operation</description>
+<category>state-of-charge balancing</category>
+<category>cascaded energy storage</category>
+<category>vector geometry</category>
+<category>control strategy</category>
+<category>grid operation</category>
+</item>
+<item>
+<title>Soft actor–critic-based parameter adaptation for composite sliding mode control of hybrid energy storage systems in direct current microgrids</title>
+<link>https://doi.org/10.1016/j.est.2026.125225</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125225</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:21 GMT</pubDate>
+<description>این مقاله یک کنترل مد لغزشی مرکب با تطبیق پارامتر مبتنی بر soft actor-critic برای سیستم‌های ذخیره‌سازی انرژی هیبریدی در ریزشبکه‌های DC ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · DC microgrid · sliding mode control · soft actor-critic · parameter adaptation</description>
+<category>hybrid energy storage</category>
+<category>DC microgrid</category>
+<category>sliding mode control</category>
+<category>soft actor-critic</category>
+<category>parameter adaptation</category>
+</item>
+<item>
+<title>Modelling localised flux non-uniformity and nail penetration driven thermal runaway in dual solvent electrolyte lithium battery</title>
+<link>https://doi.org/10.1016/j.est.2026.125211</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125211</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:17 GMT</pubDate>
+<description>این مقاله ناهمگنی موضعی شار و فرار حرارتی ناشی از نفوذ میخ را در باتری لیتیومی با الکترولیت دوجزئی حلال مدل‌سازی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · nail penetration · lithium battery · flux non-uniformity · dual solvent electrolyte</description>
+<category>thermal runaway</category>
+<category>nail penetration</category>
+<category>lithium battery</category>
+<category>flux non-uniformity</category>
+<category>dual solvent electrolyte</category>
+</item>
+<item>
+<title>A physics-informed state-space framework for battery state of health estimation via electrochemical state reconstruction and feature decoupling</title>
+<link>https://doi.org/10.1016/j.est.2026.125206</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125206</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:13 GMT</pubDate>
+<description>این مقاله یک چارچوب فضای حالت مبتنی بر فیزیک با بازسازی حالت الکتروشیمیایی و جداسازی ویژگی‌ها برای تخمین وضعیت سلامت باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · battery estimation · state-space model · feature decoupling · electrochemical reconstruction</description>
+<category>state of health</category>
+<category>battery estimation</category>
+<category>state-space model</category>
+<category>feature decoupling</category>
+<category>electrochemical reconstruction</category>
+</item>
+<item>
+<title>Bimetallic NbZr MXene for enhanced hydrogen storage properties of MgH2</title>
+<link>https://doi.org/10.1016/j.est.2026.125282</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125282</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:09 GMT</pubDate>
+<description>این پژوهش از MXene دوفلزی NbZr برای بهبود خواص ذخیره‌سازی هیدروژن در MgH2 استفاده می‌کند و اثر آن بر سینتیک و دمای آزادسازی هیدروژن را بررسی می‌نماید.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NbZr MXene · hydrogen storage · MgH2 · bimetallic catalyst · dehydrogenation</description>
+<category>NbZr MXene</category>
+<category>hydrogen storage</category>
+<category>MgH2</category>
+<category>bimetallic catalyst</category>
+<category>dehydrogenation</category>
+</item>
+<item>
+<title>Manifold Learning and Clustering of Spatially Resolved High-Dimensional Raman Spectra for Surface Heterogeneity Analysis of Polymer Solid-State Electrolytes</title>
+<link>https://doi.org/10.1039/d6mh01835a</link>
+<guid isPermaLink="false">10.1039/d6mh01835a</guid>
+<pubDate>Sat, 24 Oct 2026 15:01:05 GMT</pubDate>
+<description>این مقاله چارچوبی محاسباتی بر پایه یادگیری منیفولد و خوشه‌بندی برای تحلیل تصویربرداری طیفی رامان فضایی و بررسی ناهمگنی سطحی الکترولیت‌های پلیمری حالت جامد معرفی می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling manifold learning with clustering to analyze spatially resolved high-dimensional Raman spectra of polymer solid-state electrolytes. This framework reduces dimensionality while preserving spatial-spectral relationships, enabling robust identification of surface heterogeneity. Its significance is providing a scalable, interpretable computational tool for mapping chemical and structural variations, advancing understanding of interfacial inhomogeneity in solid-state battery materials.&lt;br&gt;🏷 solid polymer electrolyte · Raman imaging · manifold learning · clustering · surface heterogeneity</description>
+<category>solid polymer electrolyte</category>
+<category>Raman imaging</category>
+<category>manifold learning</category>
+<category>clustering</category>
+<category>surface heterogeneity</category>
+</item>
 <item>
 <title>When active learning fails, uncalibrated out of distribution uncertainty quantification might be the problem</title>
 <link>https://doi.org/10.1038/s41524-026-02368-4</link>
@@ -1134,78 +1206,6 @@
 <category>charging station</category>
 <category>time-varying demand</category>
 <category>electric vehicles</category>
-</item>
-<item>
-<title>Evolutionary trajectories and emerging frontiers in lithium-ion battery fast-charging: A bibliometric analysis</title>
-<link>https://doi.org/10.1016/j.est.2026.125303</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125303</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:14 GMT</pubDate>
-<description>این تحلیل کتاب‌سنجی مسیرهای تکاملی و مرزهای نوظهور پژوهش‌های شارژ سریع باتری لیتیوم-یون را با بررسی روندهای انتشارات و موضوعات کلیدی ترسیم می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery · fast charging · bibliometric analysis · research trends · charging protocols</description>
-<category>lithium-ion battery</category>
-<category>fast charging</category>
-<category>bibliometric analysis</category>
-<category>research trends</category>
-<category>charging protocols</category>
-</item>
-<item>
-<title>Renewable energy-powered electric vehicle system with intelligent control and multiport energy storage interface</title>
-<link>https://doi.org/10.1016/j.est.2026.125205</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125205</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:10 GMT</pubDate>
-<description>این مقاله یک سیستم خودروی برقی مبتنی بر انرژی تجدیدپذیر با کنترل هوشمند و رابط ذخیره‌سازی انرژی چنددرگاهی طراحی و ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric vehicle · renewable energy · multiport converter · energy storage · intelligent control</description>
-<category>electric vehicle</category>
-<category>renewable energy</category>
-<category>multiport converter</category>
-<category>energy storage</category>
-<category>intelligent control</category>
-</item>
-<item>
-<title>Advances in Direct Ink Writing of Silicone Rubbers: Toward High-Fidelity Architectures and Multifunctional Integration</title>
-<link>https://doi.org/10.1039/d6mh01548d</link>
-<guid isPermaLink="false">10.1039/d6mh01548d</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:05 GMT</pubDate>
-<description>این مقاله مروری پیشرفت‌های چاپ مستقیم جوهر سیلیکون رابر را برای ساخت سازه‌های با وفاداری بالا و یکپارچه‌سازی چندمنظوره در الکترونیک پوشیدنی و رباتیک نرم بررسی می‌کند.&lt;br&gt;Materials Horizons | ⭐ Review&lt;br&gt;🏷 silicone rubber · direct ink writing · 3D printing · soft robotics · wearable electronics</description>
-<category>silicone rubber</category>
-<category>direct ink writing</category>
-<category>3D printing</category>
-<category>soft robotics</category>
-<category>wearable electronics</category>
-</item>
-<item>
-<title>In situ CAR-M engineered by liposomal mRNA nanomedicine remodels fibrotic microenvironment for ameliorating liver fibrosis</title>
-<link>https://doi.org/10.1126/sciadv.aeh6590</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh6590</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:53 GMT</pubDate>
-<description>این مطالعه با LNP هدفمند حاوی mRNAهای CAR و Cas9، ماکروفاژهای کبدی را در situ به CAR-M تبدیل کرده و با ویرایش ژن FSTL-1 فیبروز کبدی را بهبود می‌بخشد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 CAR macrophage · lipid nanoparticle · mRNA delivery · liver fibrosis · CRISPR-Cas9</description>
-<category>CAR macrophage</category>
-<category>lipid nanoparticle</category>
-<category>mRNA delivery</category>
-<category>liver fibrosis</category>
-<category>CRISPR-Cas9</category>
-</item>
-<item>
-<title>Death receptors regulate entry to therapy-induced senescence and orchestrate addiction to IAPs</title>
-<link>https://doi.org/10.1126/sciadv.aed4541</link>
-<guid isPermaLink="false">10.1126/sciadv.aed4541</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:50 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد گیرنده‌های مرگ Fas و DR5 ورود به پیری القاشده با درمان را تنظیم کرده و سلول‌های پیر را به IAPها معتاد می‌کنند که مهار آن‌ها اثر senolytic دارد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 therapy-induced senescence · death receptors · IAP antagonists · Caspase-8 · senolytic activity</description>
-<category>therapy-induced senescence</category>
-<category>death receptors</category>
-<category>IAP antagonists</category>
-<category>Caspase-8</category>
-<category>senolytic activity</category>
-</item>
-<item>
-<title>Interferon-λ signaling to maternal dendritic cells protects against congenital Zika virus infection</title>
-<link>https://doi.org/10.1126/sciadv.aeh1073</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh1073</guid>
-<pubDate>Sat, 24 Oct 2026 04:03:46 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد سیگنالینگ IFN-λ به سلول‌های دندریتیک مادری با افزایش تجمع آن‌ها در رحم، انتقال ترانس‌جفتی و عفونت مادرزادی ZIKV را محدود می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Zika virus · interferon-lambda · maternal-fetal interface · dendritic cells · congenital infection</description>
-<category>Zika virus</category>
-<category>interferon-lambda</category>
-<category>maternal-fetal interface</category>
-<category>dendritic cells</category>
-<category>congenital infection</category>
 </item>
 </channel>
 </rss>
