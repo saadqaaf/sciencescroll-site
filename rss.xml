@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 10:01:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 11:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cold sintering process induces dielectric resonance in Mo-MXene/ReFeOx (Re = Ce, Er, Gd) sintered body for EMW absorption</title>
+<link>https://doi.org/10.1007/s42114-026-02135-5</link>
+<guid isPermaLink="false">10.1007/s42114-026-02135-5</guid>
+<pubDate>Sat, 24 Oct 2026 11:01:09 GMT</pubDate>
+<description>فرایند زینتر سرد در بدنه Mo-MXene/ReFeOx (Re = Ce, Er, Gd) تشدید دی‌الکتریک ایجاد کرده و جذب امواج الکترومغناطیسی را بهبود می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Mo-MXene · rare-earth ferrite · cold sintering · EMW absorption · dielectric resonance</description>
+<category>Mo-MXene</category>
+<category>rare-earth ferrite</category>
+<category>cold sintering</category>
+<category>EMW absorption</category>
+<category>dielectric resonance</category>
+</item>
 <item>
 <title>Triphenylamine-based AIEgens: Molecular design, mechanisms, and applications in organelle-targeted imaging and phototherapy</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218699</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 polyarylisocyanide · liq
 <category>surface states</category>
 <category>acidic conditions</category>
 <category>electrocatalyst</category>
-</item>
-<item>
-<title>Efficient production of adipic acid from lignin-derived phenol via tandem thermochemical-electrochemical catalysis</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127679</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127679</guid>
-<pubDate>Sat, 24 Oct 2026 01:01:24 GMT</pubDate>
-<description>این کار تولید کارآمد اسید آدیپیک از فنل مشتق از لیگنین را از طریق کاتالیز پشت‌سرهم گرماشیمیایی-الکتروشیمیایی نشان می‌دهد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 adipic acid · lignin-derived phenol · tandem catalysis · thermochemical-electrochemical · biomass upgrading</description>
-<category>adipic acid</category>
-<category>lignin-derived phenol</category>
-<category>tandem catalysis</category>
-<category>thermochemical-electrochemical</category>
-<category>biomass upgrading</category>
 </item>
 </channel>
 </rss>
