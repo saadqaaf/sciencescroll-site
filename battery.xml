@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 01:01:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 02:01:46 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Weak-Solvating Carboxylate Ester Electrolyte Enables Hybrid Interphase via Cooperative Additives toward Wide-Temperature Sodium Metal Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02612</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02612</guid>
+<pubDate>Sat, 24 Oct 2026 02:01:41 GMT</pubDate>
+<description>الکترولیت استر کربوکسیلات ضعیف‌حل‌کننده با افزودنی‌های VC/NaDFOB میان‌فاز هیبریدی ساخته و باتری سدیم-فلز را در دمای گسترده با حفظ ۹۶.۵٪ ظرفیت پس از ۱۰۰۰ چرخه پایدار کرد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining methyl propanoate with VC/NaDFOB additives to synergistically tune Na+ solvation and build a robust hybrid organic-inorganic interphase. This enables fast ion transport and stable interfaces across wide temperatures, achieving 2.52 mS cm–1 at –40 °C and 900+ cycles at –20 °C, offering a practical strategy for wide-temperature sodium metal batteries.&lt;br&gt;🏷 sodium metal battery · weak-solvating electrolyte · methyl propanoate · hybrid interphase · wide temperature</description>
+<category>sodium metal battery</category>
+<category>weak-solvating electrolyte</category>
+<category>methyl propanoate</category>
+<category>hybrid interphase</category>
+<category>wide temperature</category>
+</item>
+<item>
+<title>Quantifying Sodium Metal SEI Dissolution and Relation to Corrosion Using Quartz Crystal Microbalance</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01766</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01766</guid>
+<pubDate>Sat, 24 Oct 2026 02:01:36 GMT</pubDate>
+<description>با میکروبالانس کریستال کوارتز نشان داده شد که ۵۵ تا ۷۶٪ از SEI اولیه در NaPF6/diglyme حل می‌شود و این ناپایداری باعث خوردگی پیوسته سدیم در پیری تقویمی می‌گردد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in quantitatively measuring SEI mass formation and dissolution for NaPF6 in diglyme using quartz crystal microbalance, revealing 55–76% SEI dissolution at varying potentials. Significance: inorganic salts (NaF, NaxPOyFz) are unstable during open-circuit rest, causing continuous sodium corrosion during calendar aging—highlighting a key stability concern for ether-based sodium-metal batteries.&lt;br&gt;🏷 sodium metal battery · SEI dissolution · quartz crystal microbalance · calendar aging · ether electrolyte</description>
+<category>sodium metal battery</category>
+<category>SEI dissolution</category>
+<category>quartz crystal microbalance</category>
+<category>calendar aging</category>
+<category>ether electrolyte</category>
+</item>
+<item>
+<title>LiTFSI‐Regulated Free‐Standing Conductive Polymer Hydrogels for Flexible Supercapacitors</title>
+<link>https://doi.org/10.1002/adfm.79161</link>
+<guid isPermaLink="false">10.1002/adfm.79161</guid>
+<pubDate>Sat, 24 Oct 2026 02:01:21 GMT</pubDate>
+<description>هیدروژل رسانای آزاد PEDOT:PSS-PAAm/PVA با LiTFSI ساخته شد که رسانایی ۲۸.۴ S cm−1 و ابرخازن انعطاف‌پذیر با پایداری عالی تا −۴۰ درجه سلسیوس ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using LiTFSI as an ionic modulator to tune PEDOT chain conformation and nanoscale organization within a free-standing PAAm/PVA double-network hydrogel, simultaneously boosting conductivity (28.4 S cm⁻¹), capacitance (202.5 F g⁻¹), stretchability (~506%), and anti-freezing performance (−40°C). This mild, scalable strategy enables durable all-hydrogel supercapacitors with 98.8% retention over 10,000 cycles for wearable energy storage.&lt;br&gt;🏷 conductive hydrogel · PEDOT:PSS · flexible supercapacitor · LiTFSI · anti-freezing</description>
+<category>conductive hydrogel</category>
+<category>PEDOT:PSS</category>
+<category>flexible supercapacitor</category>
+<category>LiTFSI</category>
+<category>anti-freezing</category>
+</item>
+<item>
+<title>Dynamic Solvation Perturbation Enables Fast‐Exchange Interfacial Water Regulation for Stable Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1002/adfm.79248</link>
+<guid isPermaLink="false">10.1002/adfm.79248</guid>
+<pubDate>Sat, 24 Oct 2026 02:01:13 GMT</pubDate>
+<description>با راهبرد اغتشاش سولواسیون دینامیکی و افزودن methyl acetate، آب میان‌سطحی در باتری آبی روی تنظیم شده و عمر چرخه آند Zn به بیش از ۸۰۰۰ ساعت رسید.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dynamic solvation perturbation strategy using methyl acetate to create a fast-exchange mixed solvation sheath, shortening water residence time and passivating residual water—unlike static coordination-number approaches. Its significance: facet-selective adsorption suppresses water attack, enabling over 8000 h Zn cycling, stable 80% DOD operation, and practical pouch-cell performance.&lt;br&gt;🏷 aqueous zinc battery · solvation structure · methyl acetate · interfacial water · Zn anode</description>
+<category>aqueous zinc battery</category>
+<category>solvation structure</category>
+<category>methyl acetate</category>
+<category>interfacial water</category>
+<category>Zn anode</category>
+</item>
 <item>
 <title>Mechanistic Asymmetry: Thermo-Electrochemical Interactions in Silicon-Graphite Composite Anodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105603</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>desolvation</category>
 <category>carbon cathode</category>
 <category>aqueous energy storage</category>
-</item>
-<item>
-<title>A Bipolar Covalent Organic Framework Cathode Enabling a Six‐Electron Redox Process for Wide‐Temperature Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/anie.7961558</link>
-<guid isPermaLink="false">10.1002/anie.7961558</guid>
-<pubDate>Thu, 22 Oct 2026 11:02:56 GMT</pubDate>
-<description>کامپوزیت TPBQ-COF@CNT با مراکز ردوکس n-type و p-type مکمل، فرآیند شش‌الکترونی را در باتری سدیم‌یونی با پایداری بالا در دمای گسترده ممکن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a bipolar triphenylamine–benzoquinone COF/CNT cathode enabling a six-electron redox process via complementary n-type carbonyl reduction and p-type triphenylamine oxidation, storing both Na⁺ and PF₆⁻. Its significance is exceptional durability (0.0012% decay/cycle over 15,000 cycles) and wide-temperature operation (50°C to −20°C), advancing high-utilization, long-life sodium-ion battery cathodes.&lt;br&gt;🏷 sodium-ion battery · covalent organic framework · bipolar cathode · six-electron redox · wide temperature</description>
-<category>sodium-ion battery</category>
-<category>covalent organic framework</category>
-<category>bipolar cathode</category>
-<category>six-electron redox</category>
-<category>wide temperature</category>
-</item>
-<item>
-<title>Nonmetallic Anodes in Aqueous Batteries</title>
-<link>https://doi.org/10.1002/anie.4470539</link>
-<guid isPermaLink="false">10.1002/anie.4470539</guid>
-<pubDate>Thu, 22 Oct 2026 11:02:38 GMT</pubDate>
-<description>این مرور، آندهای غیرفلزی شامل نوع تبدیلی و درجی را برای باتری‌های آبی مرور کرده و اصول طراحی، مکانیسم‌ها و سازگاری آن‌ها با حامل‌های بار را بررسی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | ⭐ Review&lt;br&gt;💡 This review is the first comprehensive overview of nonmetallic anodes for aqueous batteries, covering conversion-type (hydrogen, chalcogen, organic) and insertion-type (metal chalcogenides, Prussian blue analogues, polyanionics) materials. It critically discusses design principles, mechanisms, compatibility, and future directions, providing valuable guidance for developing low-cost, safe, dendrite-free aqueous battery anodes.&lt;br&gt;🏷 aqueous batteries · nonmetallic anodes · conversion anodes · insertion anodes · dendrite-free</description>
-<category>aqueous batteries</category>
-<category>nonmetallic anodes</category>
-<category>conversion anodes</category>
-<category>insertion anodes</category>
-<category>dendrite-free</category>
-</item>
-<item>
-<title>Insoluble π –d -Conjugated Small Molecules Featuring p -Type Ligands Enable All-Organic Dual-Ion Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02410</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02410</guid>
-<pubDate>Thu, 22 Oct 2026 10:02:57 GMT</pubDate>
-<description>مولکول‌های کوچک نامحلول π–d مزدوج با لیگاندهای p-type از طریق هم‌آرایی ساخته شدند و باتری دوقطبی تمام‌آلی با ولتاژ 2.4 ولت و عمر بیش از 1000 چرخه به دست آمد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a coordination-driven strategy using π–d conjugated small molecules (BTD-M) with p-type triphenylamine ligands, thermodynamically locking discrete molecules against dissolution while preserving active-site access. Significance: BTD-Cu enables a narrow 0.7 eV bandgap, near-theoretical capacity (134 mAh g–1), and a symmetric all-organic dual-ion battery with 2.4 V average voltage and &amp;gt;1000-cycle life, establishing a platform for insoluble organic battery design.&lt;br&gt;🏷 organic electrode · dual-ion battery · π-d conjugation · p-type ligand · coordination</description>
-<category>organic electrode</category>
-<category>dual-ion battery</category>
-<category>π-d conjugation</category>
-<category>p-type ligand</category>
-<category>coordination</category>
-</item>
-<item>
-<title>Functional Separator Coatings for Lithium/Sodium Metal Batteries: Bridging Academic Research and Industrial Prospects</title>
-<link>https://doi.org/10.1002/adfm.79124</link>
-<guid isPermaLink="false">10.1002/adfm.79124</guid>
-<pubDate>Thu, 22 Oct 2026 10:02:40 GMT</pubDate>
-<description>این مرور، پوشش‌های عملکردی جداکننده برای سرکوب دندریت و پایدارسازی آند فلزی در باتری‌های Li/Na را از منظر مکانیزم، مواد و مقیاس‌پذیری صنعتی بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely bridges academic and industrial perspectives on functional separator coatings for Li/Na metal batteries. Its novelty lies in systematically linking coating structure-function mechanisms to scalable manufacturing metrics—thickness, line speed, material utilization, equipment, and process continuity. Significance: it provides mechanistic insights and design principles guiding rational separator design and practical commercialization of high-energy-density metal batteries.&lt;br&gt;🏷 separator coating · lithium metal battery · sodium metal battery · dendrite suppression · scalable manufacturing</description>
-<category>separator coating</category>
-<category>lithium metal battery</category>
-<category>sodium metal battery</category>
-<category>dendrite suppression</category>
-<category>scalable manufacturing</category>
 </item>
 </channel>
 </rss>
