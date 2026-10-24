@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 05:01:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 06:00:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Correlating Delayed Emission, Blinking Mechanism, and the Quantum-Confined Stark Effect in Single Quantum Dots</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04088</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04088</guid>
+<pubDate>Sat, 24 Oct 2026 06:00:54 GMT</pubDate>
+<description>با ترکیب طیف‌سنجی تک‌کوانتوم‌دات و شبیه‌سازی مونت‌کارلو در CsPbX3، CdSe و InP نشان داده شد که گسیل تأخیری ناشی از به‌دام‌افتادن و رهاسازی حامل‌ها در مراکز بازترکیب غیرتابشی است و با مکانیزم چشمک‌زدن مرتبط است.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 quantum dots · delayed emission · blinking mechanism · quantum-confined Stark effect · carrier trapping</description>
+<category>quantum dots</category>
+<category>delayed emission</category>
+<category>blinking mechanism</category>
+<category>quantum-confined Stark effect</category>
+<category>carrier trapping</category>
+</item>
 <item>
 <title>Solvent-free CVD synthesis of N-doped ZIF-8-derived porous carbon on copper dendrites for high-rate flexible supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125220</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 polyarylisocyanide · liq
 <category>mitochondrial damage</category>
 <category>iron</category>
 <category>antitumor immunity</category>
-</item>
-<item>
-<title>X-ray-Triggered Nanoadjuvant Enabling Spatiotemporal Immunometabolic Modulation for Pyroptosis-Enhanced Radiotherapy</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04189</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04189</guid>
-<pubDate>Fri, 23 Oct 2026 20:01:14 GMT</pubDate>
-<description>نانوادجوانت PLG@OMVs-VP فعال‌شده با پرتو X از طریق راداینامیک‌تراپی، القای پیروپتوز و تنظیم ایمنی‌متابولیک، ریزشبکه ایمنی‌سرکوبگر تومور را بازسازی و اثربخشی رادیوتراپی را تقویت می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 radiotherapy · pyroptosis · immunometabolic modulation · outer membrane vesicle · X-ray nanoadjuvant</description>
-<category>radiotherapy</category>
-<category>pyroptosis</category>
-<category>immunometabolic modulation</category>
-<category>outer membrane vesicle</category>
-<category>X-ray nanoadjuvant</category>
 </item>
 </channel>
 </rss>
