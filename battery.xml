@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 09:02:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 10:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tuning a Weakly-Coordinating Environment via Non-Polar Solvents to Promote Li+ Interfacial Transport in Quasi-Solid-State Li Metal Batteries</title>
+<link>https://doi.org/10.1016/j.apmate.2026.100479</link>
+<guid isPermaLink="false">10.1016/j.apmate.2026.100479</guid>
+<pubDate>Sat, 24 Oct 2026 10:01:21 GMT</pubDate>
+<description>این مقاله با استفاده از حلال‌های غیرقطبی محیطی با کوئوردیناسیون ضعیف ایجاد کرده و انتقال بین‌سطحی Li+ را در باتری‌های لیتیوم-فلز شبه‌جامد تقویت می‌کند.&lt;br&gt;Advanced Powder Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 quasi-solid-state battery · Li+ transport · non-polar solvent · weakly-coordinating environment · lithium metal anode</description>
+<category>quasi-solid-state battery</category>
+<category>Li+ transport</category>
+<category>non-polar solvent</category>
+<category>weakly-coordinating environment</category>
+<category>lithium metal anode</category>
+</item>
+<item>
+<title>Mineral Particle Suspensions in Carbonate Electrolyte Enable LiF‐Rich Interphases for Durable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71748</link>
+<guid isPermaLink="false">10.1002/aenm.71748</guid>
+<pubDate>Sat, 24 Oct 2026 10:01:13 GMT</pubDate>
+<description>تعلیق ذرات LiF و Li2O در الکترولیت کربناته با ترویج تجزیه فلوئوره به تشکیل لایه بین‌سطحی غنی از LiF کمک کرده و پایداری چرخه باتری لیتیوم-فلز را بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Suspending LiF/Li₂O particles in carbonate electrolyte is novel: they adsorb fluorinated species and induce polarization, promoting defluorination of FEC and LiPF₆ to form LiF-rich bilayer interphases on both anode and cathode. This yields dendrite suppression, 2400 h symmetric-cell cycling, and 85.6% retention after 400 cycles, offering a simple electrolyte-design strategy for durable lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · LiF-rich interphase · carbonate electrolyte · particle suspension · electrolyte design</description>
+<category>lithium metal battery</category>
+<category>LiF-rich interphase</category>
+<category>carbonate electrolyte</category>
+<category>particle suspension</category>
+<category>electrolyte design</category>
+</item>
 <item>
 <title>Amorphization Unlocks Active Sites in Organic Small Molecules for Ah‐Level Aqueous Ammonium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adma.75494</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>cathode</category>
 <category>rhombohedral phase</category>
 <category>electrochemical analysis</category>
-</item>
-<item>
-<title>AGLFormer: Compact feature selection and parameter-budget-aware global-local modeling for lithium-ion battery state-of-health estimation</title>
-<link>https://doi.org/10.1016/j.est.2026.125234</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125234</guid>
-<pubDate>Thu, 22 Oct 2026 13:01:48 GMT</pubDate>
-<description>این پژوهش مدل AGLFormer را با انتخاب ویژگی فشرده و مدل‌سازی جهانی-محلی آگاه از بودجه پارامتر برای تخمین سلامت باتری لیتیوم-یونی معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · AGLFormer · feature selection · global-local modeling</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>AGLFormer</category>
-<category>feature selection</category>
-<category>global-local modeling</category>
-</item>
-<item>
-<title>Domain adaptation state of health estimation for lithium-ion batteries accounting for state of charge dependence</title>
-<link>https://doi.org/10.1016/j.est.2026.125187</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125187</guid>
-<pubDate>Thu, 22 Oct 2026 13:01:45 GMT</pubDate>
-<description>این مقاله روشی مبتنی بر انطباق دامنه برای تخمین سلامت باتری لیتیوم-یونی ارائه می‌کند که وابستگی به وضعیت شارژ را در نظر می‌گیرد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · domain adaptation · state of charge · SOH estimation</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>domain adaptation</category>
-<category>state of charge</category>
-<category>SOH estimation</category>
 </item>
 </channel>
 </rss>
