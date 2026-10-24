@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 23:01:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Biology switches the aggregate: coordination chemistry of metal-complex triplet excited states for NIR phosphorescence imaging and phototheranostics</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218690</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218690</guid>
+<pubDate>Sat, 24 Oct 2026 00:01:30 GMT</pubDate>
+<description>این مقاله مروری به شیمی کوئوردیناسیون حالت‌های برانگیخته سه‌گانه کمپلکس‌های فلزی برای تصویربرداری فسفرسانس NIR و فوتوترانوستیک می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal-complex triplet states · NIR phosphorescence imaging · phototheranostics · coordination chemistry · aggregate switching</description>
+<category>metal-complex triplet states</category>
+<category>NIR phosphorescence imaging</category>
+<category>phototheranostics</category>
+<category>coordination chemistry</category>
+<category>aggregate switching</category>
+</item>
+<item>
+<title>Evaporable Modulator‑Stabilized Clusters Enable High‑Throughput Printing of Composition‑Editable MOF Thin Films for High-Performance Gas Sensing</title>
+<link>https://doi.org/10.1016/j.enchem.2026.100212</link>
+<guid isPermaLink="false">10.1016/j.enchem.2026.100212</guid>
+<pubDate>Sat, 24 Oct 2026 00:01:26 GMT</pubDate>
+<description>با استفاده از خوشه‌های تثبیت‌شده با تعدیل‌گر تبخیرشدنی، چاپ پرتوان لایه‌های نازک MOF با ترکیب قابل ویرایش برای حسگری گاز با کارایی بالا امکان‌پذیر شد.&lt;br&gt;EnergyChem | ⭐ Review&lt;br&gt;🏷 MOF thin films · high-throughput printing · evaporable modulator · gas sensing · cluster stabilization</description>
+<category>MOF thin films</category>
+<category>high-throughput printing</category>
+<category>evaporable modulator</category>
+<category>gas sensing</category>
+<category>cluster stabilization</category>
+</item>
 <item>
 <title>Ideal Quantum Geometry for Fractional Chern Insulators</title>
 <link>https://doi.org/10.1146/annurev-conmatphys-032725-123642</link>
@@ -1192,30 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 katanin · microtubule se
 <category>persulfidation</category>
 <category>sulfur transfer</category>
 <category>coordination complex</category>
-</item>
-<item>
-<title>Mechanoimmuno‐Engineered Dendritic Cell Membrane Nanodiscs Presenting Diverse Antigens for Potent Antibacterial Vaccination</title>
-<link>https://doi.org/10.1002/anie.5660608</link>
-<guid isPermaLink="false">10.1002/anie.5660608</guid>
-<pubDate>Fri, 23 Oct 2026 17:02:56 GMT</pubDate>
-<description>نانو‌دیسک‌های غشای سلول دندریتیک با سفتی تنظیم‌شده چند آنتی‌ژن باکتریایی و توکسین را ارائه کرده و با فعال‌سازی مکانیکی T cell ایمنی دوگانه و کاهش شدید بار باکتریایی ایجاد می‌کنند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 dendritic cell nanodisc · antibacterial vaccine · mechanoimmunology · Pseudomonas aeruginosa · T cell activation</description>
-<category>dendritic cell nanodisc</category>
-<category>antibacterial vaccine</category>
-<category>mechanoimmunology</category>
-<category>Pseudomonas aeruginosa</category>
-<category>T cell activation</category>
-</item>
-<item>
-<title>Non‐Fluorinated Electrolytes Enable Long‐Cycling Micron‐Sized Silicon Anodes</title>
-<link>https://doi.org/10.1002/anie.6271722</link>
-<guid isPermaLink="false">10.1002/anie.6271722</guid>
-<pubDate>Fri, 23 Oct 2026 17:02:53 GMT</pubDate>
-<description>الکترولیت بدون فلوئور بر پایه LiI/LiBr و مونو‌اترها یک SEI بدون LiF و پلیمری روی آند میکرونی سیلیکون می‌سازد که ظرفیت 92.12٪ را پس از 300 چرخه حفظ می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a non-fluorinated electrolyte (LiI/LiBr with monoether solvents) forming a LiF-free SEI on µm-Si anodes, unlike conventional LiF-rich designs. This SEI creates binder-like high-molecular-weight polymers that preserve particle integrity and electrical connectivity after pulverization. Significance: enables long cycling (92.12% retention after 300 cycles, &amp;gt;99.95% efficiency) and safer, environmentally friendly µm-Si anodes.&lt;br&gt;🏷 micron silicon anode · non-fluorinated electrolyte · solid electrolyte interphase · LiF-free SEI · lithium-ion battery</description>
-<category>micron silicon anode</category>
-<category>non-fluorinated electrolyte</category>
-<category>solid electrolyte interphase</category>
-<category>LiF-free SEI</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
