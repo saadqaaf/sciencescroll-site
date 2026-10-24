@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 04:03:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 05:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multi-objective robust sizing of hybrid energy storage systems for pulse power loads based on chance-constrained optimization</title>
+<link>https://doi.org/10.1016/j.est.2026.125093</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125093</guid>
+<pubDate>Sat, 24 Oct 2026 05:01:30 GMT</pubDate>
+<description>این مقاله اندازه‌گذاری مقاوم چندهدفه سیستم‌های ذخیره‌سازی انرژی هیبریدی برای بارهای پالسی را بر پایه بهینه‌سازی فرصت‌محدود ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · pulse power load · robust sizing · chance-constrained optimization · multi-objective optimization</description>
+<category>hybrid energy storage</category>
+<category>pulse power load</category>
+<category>robust sizing</category>
+<category>chance-constrained optimization</category>
+<category>multi-objective optimization</category>
+</item>
+<item>
+<title>A time-varying queueing network model for integrated co-located battery swapping and charging stations</title>
+<link>https://doi.org/10.1016/j.est.2026.125226</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125226</guid>
+<pubDate>Sat, 24 Oct 2026 05:01:18 GMT</pubDate>
+<description>این مقاله یک مدل شبکه صف زمان‌متغیر برای ایستگاه‌های یکپارچه و هم‌مکان تعویض و شارژ باتری ارائه می‌دهد تا عملکرد و ازدحام را تحلیل کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery swapping · queueing network · charging station · time-varying demand · electric vehicles</description>
+<category>battery swapping</category>
+<category>queueing network</category>
+<category>charging station</category>
+<category>time-varying demand</category>
+<category>electric vehicles</category>
+</item>
+<item>
+<title>Evolutionary trajectories and emerging frontiers in lithium-ion battery fast-charging: A bibliometric analysis</title>
+<link>https://doi.org/10.1016/j.est.2026.125303</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125303</guid>
+<pubDate>Sat, 24 Oct 2026 05:01:14 GMT</pubDate>
+<description>این تحلیل کتاب‌سنجی مسیرهای تکاملی و مرزهای نوظهور پژوهش‌های شارژ سریع باتری لیتیوم-یون را با بررسی روندهای انتشارات و موضوعات کلیدی ترسیم می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery · fast charging · bibliometric analysis · research trends · charging protocols</description>
+<category>lithium-ion battery</category>
+<category>fast charging</category>
+<category>bibliometric analysis</category>
+<category>research trends</category>
+<category>charging protocols</category>
+</item>
+<item>
+<title>Renewable energy-powered electric vehicle system with intelligent control and multiport energy storage interface</title>
+<link>https://doi.org/10.1016/j.est.2026.125205</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125205</guid>
+<pubDate>Sat, 24 Oct 2026 05:01:10 GMT</pubDate>
+<description>این مقاله یک سیستم خودروی برقی مبتنی بر انرژی تجدیدپذیر با کنترل هوشمند و رابط ذخیره‌سازی انرژی چنددرگاهی طراحی و ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric vehicle · renewable energy · multiport converter · energy storage · intelligent control</description>
+<category>electric vehicle</category>
+<category>renewable energy</category>
+<category>multiport converter</category>
+<category>energy storage</category>
+<category>intelligent control</category>
+</item>
 <item>
 <title>Weak-Solvating Carboxylate Ester Electrolyte Enables Hybrid Interphase via Cooperative Additives toward Wide-Temperature Sodium Metal Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02612</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Li+ transport</category>
 <category>lithium metal battery</category>
 <category>mechanical reinforcement</category>
-</item>
-<item>
-<title>Molecularly directed interfacial reconstruction enabling (101)-textured deposition and gradient SEI formation for durable aqueous zinc metal anodes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.013</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.013</guid>
-<pubDate>Thu, 22 Oct 2026 11:04:51 GMT</pubDate>
-<description>بازسازی بین‌سطحی هدایت‌شده مولکولی، رسوب با بافت (101) و تشکیل SEI گرادیانی را در آند روی آبی ممکن کرده و پایداری آند فلز روی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 zinc metal anode · aqueous zinc battery · interfacial reconstruction · gradient SEI · textured deposition</description>
-<category>zinc metal anode</category>
-<category>aqueous zinc battery</category>
-<category>interfacial reconstruction</category>
-<category>gradient SEI</category>
-<category>textured deposition</category>
-</item>
-<item>
-<title>Determining depth-resolved spatial distribution of solid–electrolyte interphase using non-destructive angle-resolved X-ray photoelectron spectroscopy for lithium-metal batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78168-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78168-7</guid>
-<pubDate>Thu, 22 Oct 2026 11:04:01 GMT</pubDate>
-<description>این مقاله با XPS وابسته به زاویه و غیرمخرب، توزیع عمقی فاز الکترولیت جامد (SEI) را در باتری‌های لیتیوم-فلز تعیین می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in applying non-destructive angle-resolved XPS to depth-profile the solid–electrolyte interphase in Li-metal batteries, avoiding sputtering damage. Its significance: reveals depth-resolved compositional differences before and after Li plating, and links interphase thickness/distribution across electrolyte classes to protective properties and battery performance, benchmarking a non-destructive approach for understanding and improving Li-metal battery lifetime.&lt;br&gt;🏷 solid-electrolyte interphase · lithium-metal battery · angle-resolved XPS · depth profiling · SEI composition</description>
-<category>solid-electrolyte interphase</category>
-<category>lithium-metal battery</category>
-<category>angle-resolved XPS</category>
-<category>depth profiling</category>
-<category>SEI composition</category>
-</item>
-<item>
-<title>Enhancing battery anomaly detection via trend-reversal spectrograms and multi-modal cross-attention</title>
-<link>https://doi.org/10.1016/j.etran.2026.100644</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100644</guid>
-<pubDate>Thu, 22 Oct 2026 11:03:18 GMT</pubDate>
-<description>روش تشخیص ناهنجاری باتری با استفاده از اسپکتروگرام‌های بازگشت روند و توجه متقابل چندوجهی برای بهبود دقت پایش وضعیت باتری ارائه شده است.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 anomaly detection · battery safety · spectrogram · cross-attention · multi-modal learning</description>
-<category>anomaly detection</category>
-<category>battery safety</category>
-<category>spectrogram</category>
-<category>cross-attention</category>
-<category>multi-modal learning</category>
-</item>
-<item>
-<title>Asymmetric Zn‐N 4 Single Atom Sites Facilitate Interfacial Desolvation for Ultrafast Zinc‐Ion Storage</title>
-<link>https://doi.org/10.1002/anie.7149723</link>
-<guid isPermaLink="false">10.1002/anie.7149723</guid>
-<pubDate>Thu, 22 Oct 2026 11:03:10 GMT</pubDate>
-<description>جایگاه‌های تک‌اتمی Zn-N4 نامتقارن در کاتد کربنی، جداسازی آب‌پوشی Zn2+ را تسهیل کرده و خازن یونی روی-آبی با ظرفیت بالا و عمر طولانی را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Defect-modulated asymmetric Zn-N4 single-atom sites in carbon cathodes enable dual interfacial regulation: downshifted Zn d-band and nonbonding N/C 2p states accelerate Zn2+ desolvation, while enhanced electron delocalization boosts double-layer capacitance. This yields 201.5 mAh g−1, 146.5 Wh kg−1, 56% retention at 100 A g−1, and 92.1% over 110,000 cycles, establishing asymmetric single-atom coordination as a design strategy for high-rate aqueous storage.&lt;br&gt;🏷 zinc-ion capacitor · single-atom Zn-N4 · desolvation · carbon cathode · aqueous energy storage</description>
-<category>zinc-ion capacitor</category>
-<category>single-atom Zn-N4</category>
-<category>desolvation</category>
-<category>carbon cathode</category>
-<category>aqueous energy storage</category>
 </item>
 </channel>
 </rss>
