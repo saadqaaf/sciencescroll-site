@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 19:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 20:01:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Research progress on aqueous heavy metal ion batteries</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218703</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218703</guid>
+<pubDate>Sat, 24 Oct 2026 20:01:18 GMT</pubDate>
+<description>این مقاله پیشرفت‌های اخیر باتری‌های آبی مبتنی بر یون‌های فلزات سنگین را از نظر مواد الکترود، مکانیسم‌ها و عملکرد الکتروشیمیایی مرور می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aqueous batteries · heavy metal ions · energy storage · electrochemistry · battery mechanisms</description>
+<category>aqueous batteries</category>
+<category>heavy metal ions</category>
+<category>energy storage</category>
+<category>electrochemistry</category>
+<category>battery mechanisms</category>
+</item>
 <item>
 <title>Optimized state-of-charge balancing control strategy based on vector geometry perspective for cascaded energy storage system under composite grid operation scenarios</title>
 <link>https://doi.org/10.1016/j.est.2026.125186</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>coordination chemistry</category>
 <category>electrolyte</category>
 <category>cathode</category>
-</item>
-<item>
-<title>Oxyhalide‐Derived Nb‐O‐Cl Interfacial Frameworks for Mitigating Oxygen‐Related Degradation and Facilitating Li + Transport in High‐Voltage Ni‐Rich Cathodes</title>
-<link>https://doi.org/10.1002/aenm.71729</link>
-<guid isPermaLink="false">10.1002/aenm.71729</guid>
-<pubDate>Thu, 22 Oct 2026 18:01:40 GMT</pubDate>
-<description>چارچوب بین‌سطحی Nb-O-Cl مشتق از LiNbOCl4 روی کاتد غنی از نیکل، تخریب مرتبط با اکسیژن را کاهش داده و انتقال Li+ را در باتری حالت جامد سولفیدی بهبود می‌بخشد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a reconstructive Nb-O-Cl oxyhalide interfacial framework derived from LiNbOCl₄, which unlike passive oxide coatings simultaneously reshapes the Ni-O electronic environment and provides an ionically conductive transition region for Li⁺ transport. This dual-function strategy mitigates oxygen-related degradation and sulfide interphase formation, enabling 88.17% retention after 500 cycles at 4.5 V, shifting interface design toward mixed-anion chemistry.&lt;br&gt;🏷 Ni-rich cathode · sulfide solid electrolyte · oxyhalide interphase · Li+ transport · oxygen degradation</description>
-<category>Ni-rich cathode</category>
-<category>sulfide solid electrolyte</category>
-<category>oxyhalide interphase</category>
-<category>Li+ transport</category>
-<category>oxygen degradation</category>
 </item>
 </channel>
 </rss>
