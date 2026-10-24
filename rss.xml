@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 21:01:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 22:01:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Robust Full-Spectrum-Responsive Multi-junction Tandem Solar Cells via Enhanced Near-Infrared Photon Harvesting</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02503</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02503</guid>
+<pubDate>Sat, 24 Oct 2026 22:01:19 GMT</pubDate>
+<description>با پسیواسیون وجوه PbS QD توسط مولکول دی‌هیدرازید، سلول‌های تندم سه‌گانه FAPbBr3/c-Si/PbS به بازده ۳۱٫۰۴٪ و جذب فوتون NIR بهبودیافته دست یافتند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 PbS quantum dots · tandem solar cells · near-infrared harvesting · dihydrazide passivation · triple-junction</description>
+<category>PbS quantum dots</category>
+<category>tandem solar cells</category>
+<category>near-infrared harvesting</category>
+<category>dihydrazide passivation</category>
+<category>triple-junction</category>
+</item>
 <item>
 <title>Dual-Site Spatial Charge Separation over Pt1Cu0.4/TiO2 Enables Complete Mineralization of Plastic-Derived Aqueous Pollutants</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127683</link>
@@ -1194,18 +1206,6 @@
 <category>X-ray detector</category>
 <category>acetic acid</category>
 <category>compositional homogeneity</category>
-</item>
-<item>
-<title>Shear Alignment Polymer Extrusion 3D Printing of High‐Loading Nanocomposites With Long‐Range Ordered Nanostructures</title>
-<link>https://doi.org/10.1002/adma.202522591</link>
-<guid isPermaLink="false">10.1002/adma.202522591</guid>
-<pubDate>Sat, 24 Oct 2026 09:01:21 GMT</pubDate>
-<description>روش چاپ سه‌بعدی اکستروژن پلیمری با هم‌ترازی برشی، نانوکامپوزیت‌های پر بار با ساختارهای نانویی منظم و خواص حرارتی-مکانیکی تنظیم‌پذیر می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 shear alignment printing · boron nitride nanocomposite · 3D printing · thermal conductivity · polymer extrusion</description>
-<category>shear alignment printing</category>
-<category>boron nitride nanocomposite</category>
-<category>3D printing</category>
-<category>thermal conductivity</category>
-<category>polymer extrusion</category>
 </item>
 </channel>
 </rss>
