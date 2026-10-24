@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 12:02:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 13:04:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An integrated cathode-electrolyte architecture with Cu dual active-sites for all-solid-state Li–CO2 batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78929-4</link>
+<guid isPermaLink="false">10.1038/s41467-026-78929-4</guid>
+<pubDate>Sat, 24 Oct 2026 13:03:50 GMT</pubDate>
+<description>معماری یکپارچه کاتد-الکترولیت با دو سایت فعال Cu برای باتری‌های تمام‌جامد Li–CO2 طراحی شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an integrated cathode-electrolyte architecture coupling Cu atomic clusters and single atoms on N-doped carbon nanotubes with a solid-state electrolyte, creating continuous Li+/electron/CO2 pathways. Electronic coupling between dual Cu sites tunes intermediate activation and reaction pathways. Significance: enables high-capacity (21356 mAh g−1), long-life (260 cycles) all-solid-state Li–CO2 batteries with 78% energy efficiency.&lt;br&gt;🏷 Li-CO2 battery · all-solid-state · cathode-electrolyte interface · Cu dual active-sites · CO2 reduction</description>
+<category>Li-CO2 battery</category>
+<category>all-solid-state</category>
+<category>cathode-electrolyte interface</category>
+<category>Cu dual active-sites</category>
+<category>CO2 reduction</category>
+</item>
+<item>
+<title>Single-atom-doped zeolite electrolyte for quasi-solid-state zinc-iodine batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78832-y</link>
+<guid isPermaLink="false">10.1038/s41467-026-78832-y</guid>
+<pubDate>Sat, 24 Oct 2026 13:03:00 GMT</pubDate>
+<description>الکترولیت زئولیتی دوپ‌شده با تک‌اتم برای باتری‌های روی-ید تقریباً حالت جامد طراحی شده که عملکرد الکتروشیمیایی را بهبود می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Single-atom-doped zeolites (Fe, Co, Ni, Cu) combined with zinc sulfate solution create liquid-wetted quasi-solid electrolytes that catalyze iodine conversion, suppress polyiodide shuttling, and stabilize zinc deposition. Fe-doped zeolite performs best, enabling 6,800 cycles at 4 A g−1 and pouch-cell operation, overcoming sluggish interfacial kinetics of conventional quasi-solid electrolytes.&lt;br&gt;🏷 zinc-iodine battery · single-atom doping · zeolite electrolyte · quasi-solid-state · energy storage</description>
+<category>zinc-iodine battery</category>
+<category>single-atom doping</category>
+<category>zeolite electrolyte</category>
+<category>quasi-solid-state</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Reusable and Robust Hydrogel With Dynamic Sacrificial S─S Bonds: In Situ Construction of an Integrated SEI/Hydrogel Interface for Highly Stable Zn–I 2 Batteries</title>
+<link>https://doi.org/10.1002/anie.7908002</link>
+<guid isPermaLink="false">10.1002/anie.7908002</guid>
+<pubDate>Sat, 24 Oct 2026 13:02:27 GMT</pubDate>
+<description>ساخت درجای رابط یکپارچه SEI/هیدروژل PUMA با پیوندهای گوگردی دینامیک، پایداری و انتقال یون روی را در باتری Zn-I2 به‌شدت بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in situ-formed integrated SEI/PUMA hydrogel interface using dynamic sacrificial S─S bonds that cleave during electrochemical reduction, combined with multi-level H-bonding and polyanionic ion-selective pathways. This simultaneously delivers high mechanical robustness, Zn²⁺ conductivity (t=0.79), polyiodide blocking, and thermal reprocessing—enabling 5080 h Zn cycling and 43,000-cycle Zn–I₂ stability, a significant advance for durable aqueous batteries.&lt;br&gt;🏷 Zn-I2 battery · hydrogel interface · S-S bonds · SEI layer · Zn anode</description>
+<category>Zn-I2 battery</category>
+<category>hydrogel interface</category>
+<category>S-S bonds</category>
+<category>SEI layer</category>
+<category>Zn anode</category>
+</item>
+<item>
+<title>Suppressing Irreversible Interfacial Spatial Electron Transfer for High‐Temperature 4.6 V LiCoO 2</title>
+<link>https://doi.org/10.1002/anie.4356451</link>
+<guid isPermaLink="false">10.1002/anie.4356451</guid>
+<pubDate>Sat, 24 Oct 2026 13:02:18 GMT</pubDate>
+<description>با تنظیم فاصله و جهت مولکول‌های فسفات در لایه دوگانه الکتریکی، انتقال الکترون فضایی برگشت‌ناپذیر در رابط LiCoO2 سرکوب و پایداری دمای بالا در 4.6 V بهبود می‌یابد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in regulating the spatial distance and orientation of phosphate solvent molecules within the electric double layer to suppress irreversible interfacial spatial electron transfer. Using fluorinated bidentate phosphate ester (TEFP) creates a compact solvation sheath, increasing solvent-cathode distance and directing P═O away from the cathode. This enables stable 4.6 V LiCoO₂ cycling at 60–80°C, offering guidance for high-voltage, high-temperature cathode interface design.&lt;br&gt;🏷 LiCoO2 cathode · high-voltage electrolyte · interfacial electron transfer · phosphate ester · CEI layer</description>
+<category>LiCoO2 cathode</category>
+<category>high-voltage electrolyte</category>
+<category>interfacial electron transfer</category>
+<category>phosphate ester</category>
+<category>CEI layer</category>
+</item>
+<item>
+<title>Spatial Redistribution of Intrinsic Cation Disorder Toward Ultra‐Stable Regeneration of LiNi 0.5 Co 0.2 Mn 0.3 O 2 Cathode</title>
+<link>https://doi.org/10.1002/anie.5827213</link>
+<guid isPermaLink="false">10.1002/anie.5827213</guid>
+<pubDate>Sat, 24 Oct 2026 13:01:49 GMT</pubDate>
+<description>راهبرد بازتولید مبتنی بر نقص، بی‌نظمی کاتیونی Li/Ni را در NCM523 حفظ و فاز rock-salt را حذف کرد و ماده بازتولیدشده در 30 دقیقه پایداری چرخه‌ای نزدیک به 100% نشان داد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in intentionally retaining controlled Li/Ni cation disorder rather than eliminating it, dismantling the inert rock-salt surface phase while keeping nickel in lithium slabs. This defect-empowered regeneration completes in 30 minutes, far faster than conventional methods, and yields LiNi0.5Co0.2Mn0.3O2 with 164.39 mAh g⁻¹ and near 100% retention over 100–200 cycles, reframing cation disorder as a lattice stabilizer for sustainable recycling.&lt;br&gt;🏷 NCM523 cathode · direct regeneration · cation disorder · battery recycling · layered oxide</description>
+<category>NCM523 cathode</category>
+<category>direct regeneration</category>
+<category>cation disorder</category>
+<category>battery recycling</category>
+<category>layered oxide</category>
+</item>
 <item>
 <title>Current‐Controlled Inactive Aluminum Loss: Quantification, Mechanism, and Mitigation via Stack Pressure for Long‐Cycle Al‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adfm.79227</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>sodium deposition</category>
 <category>pouch cell</category>
 <category>NFPP cathode</category>
-</item>
-<item>
-<title>Interphase-Controlled Mechanical Confinement of Na Clustering for High-Rate Sodium Storage</title>
-<link>https://doi.org/10.1039/d6ee04654a</link>
-<guid isPermaLink="false">10.1039/d6ee04654a</guid>
-<pubDate>Thu, 22 Oct 2026 17:01:30 GMT</pubDate>
-<description>این کار با اثر محدودسازی مکانیکی کنترل‌شده توسط فصل مشترک، خوشه‌بندی سدیم در حفرات بسته آند کربن سخت را مهار کرده و ذخیره‌سازی سریع سدیم را بهبود می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using interphase-controlled mechanical confinement to suppress slow Na clustering in hard carbon closed pores, addressing the decisive bottleneck for fast-charging sodium storage. Its significance is enabling high-rate sodium storage by tailoring the confining interphase, offering a design principle for fast-charging hard carbon anodes.&lt;br&gt;🏷 hard carbon anode · sodium storage · Na clustering · solid electrolyte interphase · fast charging</description>
-<category>hard carbon anode</category>
-<category>sodium storage</category>
-<category>Na clustering</category>
-<category>solid electrolyte interphase</category>
-<category>fast charging</category>
-</item>
-<item>
-<title>An air-breathing Zn metal battery with self-replenishing capability and excellent cycling stability</title>
-<link>https://doi.org/10.1039/d6ta05947c</link>
-<guid isPermaLink="false">10.1039/d6ta05947c</guid>
-<pubDate>Thu, 22 Oct 2026 15:01:26 GMT</pubDate>
-<description>یک باتری Zn‖PANI دوگانه آب/اکسیژن با الکترولیت ژلی خودبازساز و PANI پاسخ‌ده به O2، پایداری هوایی فوق‌العاده و چرخه‌پذیری بسیار برگشت‌پذیر Zn را ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual water-/O₂-breathing Zn‖PANI battery using a hygroscopic self-replenishing gel electrolyte and O₂-responsive PANI. Its significance is enabling ultra-long air stability, highly reversible Zn cycling, and robust operation under extreme conditions, advancing air-breathing Zn batteries for durable, sustainable energy storage.&lt;br&gt;🏷 Zn battery · PANI · self-replenishing electrolyte · air-breathing · cycling stability</description>
-<category>Zn battery</category>
-<category>PANI</category>
-<category>self-replenishing electrolyte</category>
-<category>air-breathing</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Site-specific heteroatom engineering in MXenes for electrochemical charge storage</title>
-<link>https://doi.org/10.1039/d6ta05785c</link>
-<guid isPermaLink="false">10.1039/d6ta05785c</guid>
-<pubDate>Thu, 22 Oct 2026 15:01:21 GMT</pubDate>
-<description>مهندسی نیتروژن در مکان‌های مشخص MXene نشان می‌دهد عملکرد الکترود نه‌تنها به مقدار هترواتم بلکه به موقعیت آن در ساختار بستگی دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in site-specific nitrogen engineering of MXenes, showing heteroatom location—not just content—governs electrochemical performance. This shifts doping design from quantity to precise placement, enabling rational tuning of electrode structures for improved charge storage and offering a new design principle for MXene-based energy materials.&lt;br&gt;🏷 MXene · nitrogen doping · site-specific engineering · electrochemical storage · electrode performance</description>
-<category>MXene</category>
-<category>nitrogen doping</category>
-<category>site-specific engineering</category>
-<category>electrochemical storage</category>
-<category>electrode performance</category>
-</item>
-<item>
-<title>Direct Restoration of Spent LiFePO4 via Lattice Defect Correction and Nitrogen-Doped Interface Engineering</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03952</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03952</guid>
-<pubDate>Thu, 22 Oct 2026 14:01:58 GMT</pubDate>
-<description>بازسازی مستقیم LiFePO4 مستعمل با اتانول‌آمین و LiNO3، نقص‌های شبکه و جای‌خالی لیتیوم را اصلاح کرده و لایه سطحی N-doped ایجاد می‌کند و ظرفیت 106.04 mAh g–1 با حفظ ۱۰۰٪ در ۵۰۰ چرخه حاصل می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using ethanolamine with LiNO3 for synergistic direct regeneration: ethanolamine gently removes surface impurities, reduces Fe(III) to Fe(II), fills Li vacancies via low steric hindrance, and acts as an in situ nitrogen source for N-doped interfacial engineering. This enables restored LiFePO4 with excellent rate performance (106.04 mAh g–1 at 5.0 C) and 100% retention over 500 cycles, plus economic and environmental benefits.&lt;br&gt;🏷 LiFePO4 regeneration · spent cathode · lattice defect · nitrogen doping · direct recycling</description>
-<category>LiFePO4 regeneration</category>
-<category>spent cathode</category>
-<category>lattice defect</category>
-<category>nitrogen doping</category>
-<category>direct recycling</category>
-</item>
-<item>
-<title>Direct Experimental Quantification of Intrinsic Capacitive Properties of Monolayer Ti3C2T x MXene</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04313</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04313</guid>
-<pubDate>Thu, 22 Oct 2026 14:01:23 GMT</pubDate>
-<description>خازن ذاتی تک‌لایه Ti3C2Tx MXene به‌صورت تجربی اندازه‌گیری شد و سهم شبه‌خازن در الکترولیت اسیدی حدود ۴۵٪ و در الکترولیت‌های یون فلز قلیایی کمتر از ۱۰٪ تعیین شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 First direct experimental quantification of intrinsic capacitance of monolayer Ti3C2Tx MXene via optimized flake protection and parasitic-capacitance shielding. Reports 141 μF cm–2 in acid, 61–74 μF cm–2 in alkali electrolytes; pseudocapacitance ~45% in acid but &amp;lt;10% in alkali; lower proton-transfer activation energy enables pseudocapacitive storage. Establishes a benchmark for monolayer MXene interfaces.&lt;br&gt;🏷 Ti3C2Tx MXene · monolayer capacitance · pseudocapacitance · electric double layer · proton transfer</description>
-<category>Ti3C2Tx MXene</category>
-<category>monolayer capacitance</category>
-<category>pseudocapacitance</category>
-<category>electric double layer</category>
-<category>proton transfer</category>
 </item>
 </channel>
 </rss>
