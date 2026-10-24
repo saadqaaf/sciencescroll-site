@@ -5,8 +5,59 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 22:01:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 23:02:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Noncovalent Metal–Water Polarization Governs Helmholtz Capacitance</title>
+<link>https://doi.org/10.1021/jacs.6c11740</link>
+<guid isPermaLink="false">10.1021/jacs.6c11740</guid>
+<pubDate>Sat, 24 Oct 2026 23:02:31 GMT</pubDate>
+<description>شبیه‌سازی‌های AIMD نشان می‌دهند که پاسخ الکترونیکی سمت فلز و طول سرریز الکترون در فصل مشترک فلز–آب، روند وابسته به فلز خازن هلمهولتز را کنترل می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in showing that metal-dependent Helmholtz capacitance arises primarily from the electrode-side electronic response—specifically noncovalent metal–water polarization controlling electron spillover length—rather than from interfacial water structure. Using ab initio molecular dynamics, the authors reproduce the experimental fcc(111) trend and validate it for cross-geometry Pt/Au systems, providing a predictive, physically grounded design principle for electrode materials in sustainable-energy technologies.&lt;br&gt;🏷 Helmholtz capacitance · metal-water interface · ab initio molecular dynamics · electron spillover · DFT</description>
+<category>Helmholtz capacitance</category>
+<category>metal-water interface</category>
+<category>ab initio molecular dynamics</category>
+<category>electron spillover</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Vacancy-Induced Ligand-Hole Character Redirects Oxygen Redox in Li-Rich Layered Oxides</title>
+<link>https://doi.org/10.1021/jacs.6c17588</link>
+<guid isPermaLink="false">10.1021/jacs.6c17588</guid>
+<pubDate>Sat, 24 Oct 2026 23:02:19 GMT</pubDate>
+<description>پیش‌شرطی‌سازی نقص اکسیژن در اکسید لایه‌ای غنی از Li، ویژگی حفره لیگاندی و هیبریداسیون Ni–O را تقویت کرده و با تغییر مسیر ردوکس اکسیژن، هیسترزیس و افت ولتاژ کاتد را کاهش می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Vacancy-preconditioning in Li-rich layered oxides enhances Ni–O hybridization and ligand-hole character, shifting oxygen redox earlier and delocalizing holes. This suppresses Mn reduction and induces beneficial structural relaxation, reducing voltage hysteresis and decay. The work directly links vacancy-modified local electronic structure to oxygen-redox structural pathways, offering a design principle for reversible oxygen-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · oxygen redox · oxygen vacancy · ligand hole · voltage decay</description>
+<category>Li-rich layered oxide</category>
+<category>oxygen redox</category>
+<category>oxygen vacancy</category>
+<category>ligand hole</category>
+<category>voltage decay</category>
+</item>
+<item>
+<title>Highly Selective Artificial Lithium Channels</title>
+<link>https://doi.org/10.1021/jacs.6c13878</link>
+<guid isPermaLink="false">10.1021/jacs.6c13878</guid>
+<pubDate>Sat, 24 Oct 2026 23:02:09 GMT</pubDate>
+<description>کانال‌های مصنوعی سوپرمولکولی مبتنی بر pillar[5]arene با لیگاند DPP ساخته شدند که گزینش‌پذیری بسیار بالای Li+ نسبت به Na+، K+، Mg2+ و Ca2+ را در انتقال غشایی فراهم می‌کنند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioinspired pillar[5]arene-DPP membrane channels achieving record Li+ selectivity (Li+/Na+ ≥ 94, Li+/K+ ≥ 136) with 13.35 pS conductance. Significance: this sets a new benchmark for artificial Li+-selective channels, enabled by coupled hydration-shell retention, DPP coordination, and pore confinement, offering sustainable bioinspired lithium purification and recycling.&lt;br&gt;🏷 artificial lithium channel · pillar[5]arene · Li+ selectivity · biomimetic membrane · lithium extraction</description>
+<category>artificial lithium channel</category>
+<category>pillar[5]arene</category>
+<category>Li+ selectivity</category>
+<category>biomimetic membrane</category>
+<category>lithium extraction</category>
+</item>
+<item>
+<title>Watching Electrochemical Interfaces in Motion with High-Speed Atomic Force Microscopy</title>
+<link>https://doi.org/10.1021/acsnano.6c16183</link>
+<guid isPermaLink="false">10.1021/acsnano.6c16183</guid>
+<pubDate>Sat, 24 Oct 2026 23:01:36 GMT</pubDate>
+<description>این چشم‌انداز کاربردهای HS-AFM را برای تصویربرداری operando از پدیده‌های گذرای فصل مشترک الکتروشیمیایی مانند الکتروانباشت، خوردگی و تحول مورفولوژیکی ناشی از لیتیوم‌گذاری مرور می‌کند.&lt;br&gt;ACS Nano | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 HS-AFM uniquely enables real-time, nanoscale visualization of transient electrochemical phenomena under operando conditions, bridging spatial resolution with subsecond temporal resolution. Its novelty lies in capturing nonequilibrium pathways—nucleation, dissolution, corrosion, nanobubble dynamics—rather than static structures alone, providing mechanistic insight previously inaccessible. This establishes direct correlation of interfacial structure, kinetics, and electrochemical function.&lt;br&gt;🏷 high-speed AFM · electrochemical interfaces · operando imaging · electrodeposition · lithiation</description>
+<category>high-speed AFM</category>
+<category>electrochemical interfaces</category>
+<category>operando imaging</category>
+<category>electrodeposition</category>
+<category>lithiation</category>
+</item>
 <item>
 <title>Research progress on aqueous heavy metal ion batteries</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218703</link>
@@ -1160,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>iron-manganese</category>
 <category>phosphate</category>
 <category>structure-function relationship</category>
-</item>
-<item>
-<title>In Situ Formed Co(OH)F Enabling Electronic and Atomic‐Level Structure Optimization in Medium‐Entropy Fluoride Cathodes for Zinc Batteries</title>
-<link>https://doi.org/10.1002/adfm.78501</link>
-<guid isPermaLink="false">10.1002/adfm.78501</guid>
-<pubDate>Thu, 22 Oct 2026 20:01:24 GMT</pubDate>
-<description>این کار با تشکیل درجای Co(OH)F در کاتد فلورایدی با آنتروپی متوسط، بازسازی الکترونی و پایداری ساختاری را بهبود می‌بخشد و باتری روی با ظرفیت 252.3 mAh·g−1 و پایداری چرخه‌ای عالی ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in entropy-regulated fluoride cathodes where in situ formed Co(OH)F induces electron reconstruction and shortens Co─F bonds, optimizing electronic and atomic structures. Combined with a hollow architecture, this synergistically overcomes the activity-stability trade-off, delivering high capacity (252.3 mAh·g⁻¹) and ultralong cycling stability (92.4% retention after 25,000 cycles), advancing cobalt-based cathodes for aqueous zinc batteries.&lt;br&gt;🏷 zinc battery · medium-entropy fluoride · Co(OH)F · cathode · cycling stability</description>
-<category>zinc battery</category>
-<category>medium-entropy fluoride</category>
-<category>Co(OH)F</category>
-<category>cathode</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>From solid electrolyte interphase to liquid electrolyte interphase in aqueous zinc batteries</title>
-<link>https://doi.org/10.1016/j.scib.2026.10.050</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.10.050</guid>
-<pubDate>Thu, 22 Oct 2026 19:01:23 GMT</pubDate>
-<description>این مقاله گذار از فاز بین‌سطحی الکترولیت جامد به مایع را در باتری‌های آبی روی مرور می‌کند.&lt;br&gt;Science Bulletin | ⭐ Review&lt;br&gt;🏷 aqueous zinc battery · electrolyte interphase · zinc anode · SEI · interfacial chemistry</description>
-<category>aqueous zinc battery</category>
-<category>electrolyte interphase</category>
-<category>zinc anode</category>
-<category>SEI</category>
-<category>interfacial chemistry</category>
-</item>
-<item>
-<title>Advances in sodium vanadate-based cathodes for practical aqueous zinc-ion batteries: crystal chemistry, electrochemical mechanisms, challenges, and materials engineering strategies</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218647</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218647</guid>
-<pubDate>Thu, 22 Oct 2026 18:02:09 GMT</pubDate>
-<description>این مرور به شیمی بلوری، سازوکارهای الکتروشیمیایی، چالش‌ها و راهبردهای مهندسی مواد کاتدهای سدیم وانادات برای باتری‌های آبی روی-یون می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aqueous zinc-ion battery · sodium vanadate · cathode · crystal chemistry · electrochemical mechanism</description>
-<category>aqueous zinc-ion battery</category>
-<category>sodium vanadate</category>
-<category>cathode</category>
-<category>crystal chemistry</category>
-<category>electrochemical mechanism</category>
-</item>
-<item>
-<title>Coordination chemistry in key components of Mg-S batteries: regulating polysulfide shuttle from cathode to electrolyte</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218670</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218670</guid>
-<pubDate>Thu, 22 Oct 2026 18:02:04 GMT</pubDate>
-<description>این مقاله به بررسی شیمی کوئوردیناسیون در اجزای کلیدی باتری‌های Mg-S و راهکارهای مهار شاتل پلی‌سولفید از کاتد تا الکترولیت می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Mg-S battery · polysulfide shuttle · coordination chemistry · electrolyte · cathode</description>
-<category>Mg-S battery</category>
-<category>polysulfide shuttle</category>
-<category>coordination chemistry</category>
-<category>electrolyte</category>
-<category>cathode</category>
 </item>
 </channel>
 </rss>
