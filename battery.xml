@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 08:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 09:02:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amorphization Unlocks Active Sites in Organic Small Molecules for Ah‐Level Aqueous Ammonium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75494</link>
+<guid isPermaLink="false">10.1002/adma.75494</guid>
+<pubDate>Sat, 24 Oct 2026 09:01:56 GMT</pubDate>
+<description>بی‌شکل‌سازی مولکول کوچک TDT با شکستن انباشتگی π–π، جایگاه‌های ردوکس مدفون را فعال کرده و باتری آبی آمونیوم-یون با ظرفیت Ah-level پایدار ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Amorphous TDT disrupts π–π stacking, exposing buried redox sites (738 m²/g) and enabling 242.8 mAh/g with 87.1% retention over 817 cycles. It reveals NH₄⁺ coordination/deprotonation storage plus localized hydrolysis generating H₃O⁺. The first Ah-level aqueous ammonium-ion pouch cell (1.037 Ah, 1.14 V) demonstrates practical viability of amorphous organic small molecules for durable, high-capacity batteries.&lt;br&gt;🏷 ammonium-ion battery · amorphization · organic electrode · TDT molecule · active site</description>
+<category>ammonium-ion battery</category>
+<category>amorphization</category>
+<category>organic electrode</category>
+<category>TDT molecule</category>
+<category>active site</category>
+</item>
+<item>
+<title>Machine‐Learning‐Potential‐Driven Volcano Relationship in Grain Boundary Amorphicity and Ionic Transport of Antiperovskite Solid Electrolytes</title>
+<link>https://doi.org/10.1002/adma.75492</link>
+<guid isPermaLink="false">10.1002/adma.75492</guid>
+<pubDate>Sat, 24 Oct 2026 09:01:51 GMT</pubDate>
+<description>با پتانسیل بین‌اتمی یادگیری ماشین، رابطه آتشفشانی میان بی‌شکلی مرز دانه و انتقال یونی در الکترولیت جامد آنتی‌پروسکایتی شناسایی و مرز دانه مهندسی شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using an actively learned machine-learning interatomic potential to link quantum accuracy with large-scale MD, revealing an MLIP-driven volcano relationship between grain-boundary amorphicity and ionic transport in halide-tunable antiperovskites. Its significance is establishing controlled anion segregation as a design strategy to reduce interfacial resistance and providing a predictive framework for disorder and transport engineering in solid electrolytes.&lt;br&gt;🏷 antiperovskite electrolyte · machine learning potential · grain boundary · ionic transport · solid electrolyte</description>
+<category>antiperovskite electrolyte</category>
+<category>machine learning potential</category>
+<category>grain boundary</category>
+<category>ionic transport</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Cesium Tin Iodide Perovskites Engineer the Sn 4+ /Sn 2+ Redox Reaction in Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75503</link>
+<guid isPermaLink="false">10.1002/adma.75503</guid>
+<pubDate>Sat, 24 Oct 2026 09:01:38 GMT</pubDate>
+<description>لایه‌های پروسکایتی CsSnI3 و Cs2SnI6 روی کاتد، واکنش ردوکس Sn4+/Sn2+ را برای نخستین بار در باتری آبی روی-یون فعال کرده و انرژی و پایداری بالا ارائه می‌دهند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using in situ-grown CsSnI₃ and Cs₂SnI₆ perovskite layers to enable the previously unrealized Sn⁴⁺/Sn²⁺ redox couple in aqueous zinc-ion batteries, raising its potential to 0.39 V vs SHE. This yields dual-plateau Zn||SnCl₄ batteries with high areal capacity (0.80 mAh cm⁻²), energy density (0.99 mWh cm⁻²), and long cycling stability, offering a cross-disciplinary strategy for high-energy aqueous batteries.&lt;br&gt;🏷 zinc-ion battery · tin redox · perovskite interlayer · CsSnI3 · aqueous electrolyte</description>
+<category>zinc-ion battery</category>
+<category>tin redox</category>
+<category>perovskite interlayer</category>
+<category>CsSnI3</category>
+<category>aqueous electrolyte</category>
+</item>
 <item>
 <title>Multi-objective robust sizing of hybrid energy storage systems for pulse power loads based on chance-constrained optimization</title>
 <link>https://doi.org/10.1016/j.est.2026.125093</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>domain adaptation</category>
 <category>state of charge</category>
 <category>SOH estimation</category>
-</item>
-<item>
-<title>Strategic energy management of renewable-integrated EV charging and battery swapping systems for resilient distribution networks under uncertainty</title>
-<link>https://doi.org/10.1016/j.esr.2026.102377</link>
-<guid isPermaLink="false">10.1016/j.esr.2026.102377</guid>
-<pubDate>Thu, 22 Oct 2026 13:01:41 GMT</pubDate>
-<description>این پژوهش مدیریت انرژی راهبردی برای ایستگاه‌های شارژ و تعویض باتری خودروهای برقی متصل به انرژی تجدیدپذیر در شبکه توزیع تحت عدم‌قطعیت ارائه می‌دهد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 EV charging · battery swapping · renewable energy · distribution network · uncertainty management</description>
-<category>EV charging</category>
-<category>battery swapping</category>
-<category>renewable energy</category>
-<category>distribution network</category>
-<category>uncertainty management</category>
-</item>
-<item>
-<title>High-valence d0 chemistry of tungsten-triangle elements in sodium layered oxide cathodes: Bulk lattice regulation, lattice-oxygen stabilization, and interfacial modulation</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.016</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.016</guid>
-<pubDate>Thu, 22 Oct 2026 11:05:16 GMT</pubDate>
-<description>شیمی d0 تنگستن در کاتدهای اکسید لایه‌ای سدیم، تنظیم شبکه، پایدارسازی اکسیژن شبکه و اصلاح میان‌سطح را بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 sodium layered oxide · tungsten doping · lattice oxygen · cathode · interfacial modulation</description>
-<category>sodium layered oxide</category>
-<category>tungsten doping</category>
-<category>lattice oxygen</category>
-<category>cathode</category>
-<category>interfacial modulation</category>
-</item>
-<item>
-<title>Decoupling mechanical reinforcement and Li+ transport through microphase-separated gel polymer electrolytes for conversion-type lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.09.091</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.09.091</guid>
-<pubDate>Thu, 22 Oct 2026 11:04:55 GMT</pubDate>
-<description>الکترولیت ژل پلیمری با جداسازی میکروفازی، تقویت مکانیکی و انتقال Li+ را از هم جدا کرده و برای باتری‌های لیتیوم-فلز تبدیلی به کار می‌رود.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 gel polymer electrolyte · microphase separation · Li+ transport · lithium metal battery · mechanical reinforcement</description>
-<category>gel polymer electrolyte</category>
-<category>microphase separation</category>
-<category>Li+ transport</category>
-<category>lithium metal battery</category>
-<category>mechanical reinforcement</category>
 </item>
 </channel>
 </rss>
