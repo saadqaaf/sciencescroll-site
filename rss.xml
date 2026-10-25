@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 09:01:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 10:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Photoredox-Mediated Three-Component Carboamination of Reverse Exo -Glycals: Modular Access to C 4-Quaternary Furanosides and Spironucleosides</title>
+<link>https://doi.org/10.1021/acscatal.6c06901</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06901</guid>
+<pubDate>Sun, 25 Oct 2026 10:01:00 GMT</pubDate>
+<description>این مقاله یک واکنش سه‌جزئی کاربوآمیناسیون رادیکالی با کاتالیز نوری را برای ساخت فورانوزیدهای C4-کواترنری و اسپیرونوکلئوزیدها معرفی می‌کند که فعالیت ضدویروسی ضعیفی علیه آنفلوانزا نشان می‌دهند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 photoredox catalysis · carboamination · exo-glycals · spironucleosides · quaternary stereocenters</description>
+<category>photoredox catalysis</category>
+<category>carboamination</category>
+<category>exo-glycals</category>
+<category>spironucleosides</category>
+<category>quaternary stereocenters</category>
+</item>
 <item>
 <title>Active locomotion predictively rescues head direction attractor dynamics in head-fixed mice</title>
 <link>https://doi.org/10.1038/s41467-026-79031-5</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>PEM water electrolyzer</category>
 <category>interfacial water</category>
 <category>dual-site coupling</category>
-</item>
-<item>
-<title>Palladium‐Catalyzed Radical Annulation of α‐Iodo‐ gem ‐Diborylalkanes with Alkenes: A Facile Approach to Semisaturated Cyclic Scaffolds</title>
-<link>https://doi.org/10.1002/anie.7256888</link>
-<guid isPermaLink="false">10.1002/anie.7256888</guid>
-<pubDate>Sat, 24 Oct 2026 13:02:06 GMT</pubDate>
-<description>آنولاسیون رادیکالی کاتالیز‌شده با Pd از α-iodo-gem-diborylalkanes با آلکن‌ها، اسکلت‌های حلقوی نیمه‌اشباع را با حفظ گروه gem-diboryl و امکان متنوع‌سازی ساختاری فراهم کرد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 radical annulation · gem-diborylalkanes · palladium catalysis · semisaturated scaffolds · Giese addition</description>
-<category>radical annulation</category>
-<category>gem-diborylalkanes</category>
-<category>palladium catalysis</category>
-<category>semisaturated scaffolds</category>
-<category>Giese addition</category>
 </item>
 </channel>
 </rss>
