@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 01:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:01:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Threefold-Symmetric Te Nanoparticles for Stabilizing Zinc Metal Anodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02828</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02828</guid>
+<pubDate>Sun, 25 Oct 2026 02:00:58 GMT</pubDate>
+<description>نانوذرات Te با تقارن سه‌گانه و وجوه روی‌دوست، هسته‌زنی و رسوب Zn را یکنواخت کرده و پایداری و بازدهی آندهای فلزی روی در باتری‌های آبی یون-روی را بهبود می‌دهند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in facet-geometry engineering using threefold-symmetric Te nanoparticles, whose zincophilic facets and symmetric geometry cluster nucleation sites nanoscale, enabling uniform Zn deposition. This links NP geometry to facet-dependent zincophilicity and deposition behavior, offering a general strategy for protective layers that improve reversibility, rate capability, and cycling stability in aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal anode · Te nanoparticles · zinc-ion battery · facet engineering · Zn deposition</description>
+<category>zinc metal anode</category>
+<category>Te nanoparticles</category>
+<category>zinc-ion battery</category>
+<category>facet engineering</category>
+<category>Zn deposition</category>
+</item>
 <item>
 <title>A One-Step Sustainable Route to Ultralight Compressible MWCNTs/PVDF-HFP Sponge for Broadband Microwave Absorption</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122240</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>fatigue resistance</category>
 <category>pressure sensor</category>
 <category>platinum film</category>
-</item>
-<item>
-<title>Super‐Toughness Self‐Healing Bimetallic MOF‐based Composite Solid Electrolyte with Nanoconfined Ion Channels and Dynamic Crosslinking for High‐Performance Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79273</link>
-<guid isPermaLink="false">10.1002/adfm.79273</guid>
-<pubDate>Sat, 24 Oct 2026 12:02:04 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی خودترمیم‌شونده بر پایه MOF دو فلزی با کانال‌های یونی نانومحدود و اتصال عرضی دینامیکی ساخته شد که رسانایی یونی و پایداری فصل مشترک بالا و چرخه‌پذیری عالی در باتری لیتیوم-فلز حالت جامد نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining nanoconfined polymerization with dynamic crosslinking to create a self-healing bimetallic MOF-based solid electrolyte. Its significance: high ionic conductivity (12.63×10⁻⁴ S cm⁻¹), wide voltage window (5.14 V), toughness (270% elongation), and stable cycling even at high cathode loadings, enabling practical high-performance solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state lithium battery · bimetallic MOF · composite solid electrolyte · self-healing · lithium dendrite</description>
-<category>solid-state lithium battery</category>
-<category>bimetallic MOF</category>
-<category>composite solid electrolyte</category>
-<category>self-healing</category>
-<category>lithium dendrite</category>
 </item>
 </channel>
 </rss>

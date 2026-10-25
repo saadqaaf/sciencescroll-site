@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 01:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:01:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Threefold-Symmetric Te Nanoparticles for Stabilizing Zinc Metal Anodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02828</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02828</guid>
+<pubDate>Sun, 25 Oct 2026 02:00:58 GMT</pubDate>
+<description>نانوذرات Te با تقارن سه‌گانه و وجوه روی‌دوست، هسته‌زنی و رسوب Zn را یکنواخت کرده و پایداری و بازدهی آندهای فلزی روی در باتری‌های آبی یون-روی را بهبود می‌دهند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in facet-geometry engineering using threefold-symmetric Te nanoparticles, whose zincophilic facets and symmetric geometry cluster nucleation sites nanoscale, enabling uniform Zn deposition. This links NP geometry to facet-dependent zincophilicity and deposition behavior, offering a general strategy for protective layers that improve reversibility, rate capability, and cycling stability in aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal anode · Te nanoparticles · zinc-ion battery · facet engineering · Zn deposition</description>
+<category>zinc metal anode</category>
+<category>Te nanoparticles</category>
+<category>zinc-ion battery</category>
+<category>facet engineering</category>
+<category>Zn deposition</category>
+</item>
 <item>
 <title>Noncovalent Metal–Water Polarization Governs Helmholtz Capacitance</title>
 <link>https://doi.org/10.1021/jacs.6c11740</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>polar nanodomains</category>
 <category>order-disorder</category>
 <category>ceramics</category>
-</item>
-<item>
-<title>Low-Cost Iron/Manganese-Based Polyanionic Cathodes for Sustainable Na-Ion Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02972</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02972</guid>
-<pubDate>Thu, 22 Oct 2026 20:01:48 GMT</pubDate>
-<description>این مرور، مفاهیم طراحی مواد، پیشرفت و چالش‌های کاتدهای پلی‌آنیونی مبتنی بر Fe/Mn برای باتری‌های سدیم‌یون پایدار را با تمرکز بر روابط ساختار-عملکرد بررسی می‌کند.&lt;br&gt;ACS Energy Letters | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates design concepts, bottlenecks, and directions for Fe/Mn-based phosphate, pyrophosphate, and sulfate cathodes, clarifying structure–function relationships by comparing synthesis, crystal structure, electrochemical behavior, and reaction mechanisms. Its significance lies in guiding low-cost, sustainable Na-ion battery development for large-scale energy storage and transportation.&lt;br&gt;🏷 sodium-ion battery · polyanionic cathode · iron-manganese · phosphate · structure-function relationship</description>
-<category>sodium-ion battery</category>
-<category>polyanionic cathode</category>
-<category>iron-manganese</category>
-<category>phosphate</category>
-<category>structure-function relationship</category>
 </item>
 </channel>
 </rss>
