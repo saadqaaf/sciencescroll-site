@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 12:00:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 13:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2</title>
+<link>https://doi.org/10.1038/s41586-026-11328-3</link>
+<guid isPermaLink="false">10.1038/s41586-026-11328-3</guid>
+<pubDate>Sun, 25 Oct 2026 13:01:11 GMT</pubDate>
+<description>مطالعه NeoCOAST-2 نشان می‌دهد که پاک‌سازی ctDNA در سرطان ریه قابل‌برداشت با پیامدهای بالینی و پاسخ پاتولوژیک بهتر در بیماران تحت درمان نئوادجوانت مرتبط است.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 ctDNA clearance · resectable lung cancer · NeoCOAST-2 · neoadjuvant immunotherapy · pathologic response</description>
+<category>ctDNA clearance</category>
+<category>resectable lung cancer</category>
+<category>NeoCOAST-2</category>
+<category>neoadjuvant immunotherapy</category>
+<category>pathologic response</category>
+</item>
 <item>
 <title>Photoredox-Mediated Three-Component Carboamination of Reverse Exo -Glycals: Modular Access to C 4-Quaternary Furanosides and Spironucleosides</title>
 <link>https://doi.org/10.1021/acscatal.6c06901</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>enzyme condensate</category>
 <category>NADPH regeneration</category>
 <category>light-driven biocatalysis</category>
-</item>
-<item>
-<title>Cluster‐Scale MoO x ‐IrO 2 Heterointerfaces Steer Dual‐Site Coupling and Interfacial Water Dynamics for Fast and Durable Oxygen Evolution</title>
-<link>https://doi.org/10.1002/anie.3499419</link>
-<guid isPermaLink="false">10.1002/anie.3499419</guid>
-<pubDate>Sat, 24 Oct 2026 13:02:10 GMT</pubDate>
-<description>طراحی هتروساختار MoOx-IrO2 با رابط‌های خوشه‌ای برای شکستن رابطه مقیاس‌بندی خطی و بهبود پایداری و فعالیت OER در الکترولایزر PEM.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 MoOx-IrO2 heterostructure · oxygen evolution reaction · PEM water electrolyzer · interfacial water · dual-site coupling</description>
-<category>MoOx-IrO2 heterostructure</category>
-<category>oxygen evolution reaction</category>
-<category>PEM water electrolyzer</category>
-<category>interfacial water</category>
-<category>dual-site coupling</category>
 </item>
 </channel>
 </rss>
