@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 08:00:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 09:01:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Superior energy-storage performance in BaTiO3-based MLCCs via high-entropy driven multiscale optimization</title>
+<link>https://doi.org/10.1038/s41467-026-79047-x</link>
+<guid isPermaLink="false">10.1038/s41467-026-79047-x</guid>
+<pubDate>Sun, 25 Oct 2026 09:01:36 GMT</pubDate>
+<description>با بهره‌گیری از آنتروپی بالا و بهینه‌سازی چندمقیاسی در MLCCهای بر پایه BaTiO3، عملکرد ذخیره‌سازی انرژی به‌طور چشمگیری بهبود می‌یابد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a high-entropy driven multiscale optimization strategy combining atomic-level A/B-site doping, phase-scale polymorphic domain engineering, grain-scale SiO2-coated core–shell structures, and device-scale electrode barriers. This yields lead-free BaTiO3 MLCCs with 19.8 J·cm−3 energy density, 89.3% efficiency, and excellent thermal/cycling stability, offering a universal route for high-performance dielectric capacitors.&lt;br&gt;🏷 BaTiO3 · MLCC · high-entropy · energy storage · multiscale optimization</description>
+<category>BaTiO3</category>
+<category>MLCC</category>
+<category>high-entropy</category>
+<category>energy storage</category>
+<category>multiscale optimization</category>
+</item>
 <item>
 <title>Threefold-Symmetric Te Nanoparticles for Stabilizing Zinc Metal Anodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c02828</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>molecular additive</category>
 <category>solid electrolyte interphase</category>
 <category>sodium-ion battery</category>
-</item>
-<item>
-<title>Engineering Order-Disorder Nexus in Hierarchical Polar Nanoscaled domains for Ultrahigh Capacitive Energy Storage of Bi0.5Na0.5TiO3-based ceramics</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112522</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112522</guid>
-<pubDate>Thu, 22 Oct 2026 21:01:49 GMT</pubDate>
-<description>با مهندسی پیوند نظم-بی‌نظمی در دامنه‌های قطبی نانومقیاس سلسله‌مراتبی، ذخیره‌سازی انرژی خازنی فوق‌بالا در سرامیک‌های بر پایه Bi0.5Na0.5TiO3 محقق شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Bi0.5Na0.5TiO3 · capacitive energy storage · polar nanodomains · order-disorder · ceramics</description>
-<category>Bi0.5Na0.5TiO3</category>
-<category>capacitive energy storage</category>
-<category>polar nanodomains</category>
-<category>order-disorder</category>
-<category>ceramics</category>
 </item>
 </channel>
 </rss>
