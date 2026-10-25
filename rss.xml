@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 06:01:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 07:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nanoscale protrusions enhance local electric fields to distort the CO2 bond angle for selective formate synthesis</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127685</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127685</guid>
+<pubDate>Sun, 25 Oct 2026 07:01:05 GMT</pubDate>
+<description>برجستگی‌های نانومقیاس با تقویت میدان الکتریکی موضعی، زاویه پیوند CO2 را تغییر داده و سنتز انتخابی فرمات را بهبود می‌دهند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · formate synthesis · nanoscale protrusions · local electric field · bond angle distortion</description>
+<category>CO2 electroreduction</category>
+<category>formate synthesis</category>
+<category>nanoscale protrusions</category>
+<category>local electric field</category>
+<category>bond angle distortion</category>
+</item>
 <item>
 <title>Smartphone-assisted colorimetric and fluorometric sensing with small-molecule responsive probes: advances and perspectives</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218685</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>stack pressure</category>
 <category>titration gas chromatography</category>
 <category>anode degradation</category>
-</item>
-<item>
-<title>In Situ Electric Tuning―An Emerging STM Tactic for Probing Exotic Quantum Materials</title>
-<link>https://doi.org/10.1002/adfm.79213</link>
-<guid isPermaLink="false">10.1002/adfm.79213</guid>
-<pubDate>Sat, 24 Oct 2026 12:02:11 GMT</pubDate>
-<description>این مرور، روش تنظیم الکتریکی درجا همراه با STM/STS را برای کنترل حالت‌های الکترونی کوانتومی در مواد کم‌بعد، از جمله گرافن، سیستم‌های همبسته و ابرشبکه‌های مواره، بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;🏷 scanning tunneling microscopy · in situ electric tuning · quantum materials · moiré superlattice · electrostatic gating</description>
-<category>scanning tunneling microscopy</category>
-<category>in situ electric tuning</category>
-<category>quantum materials</category>
-<category>moiré superlattice</category>
-<category>electrostatic gating</category>
 </item>
 </channel>
 </rss>
