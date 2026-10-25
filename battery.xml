@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 16:01:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 17:02:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Revealing the Drying Mechanism in Roll-to-Roll Electrode Manufacturing</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105608</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105608</guid>
+<pubDate>Sun, 25 Oct 2026 17:02:07 GMT</pubDate>
+<description>این مقاله سازوکار خشک‌شدن الکترود در تولید رول‌به‌رول باتری لیتیم-یون را روشن می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 roll-to-roll manufacturing · electrode drying · lithium-ion battery · drying mechanism · electrode processing</description>
+<category>roll-to-roll manufacturing</category>
+<category>electrode drying</category>
+<category>lithium-ion battery</category>
+<category>drying mechanism</category>
+<category>electrode processing</category>
+</item>
+<item>
+<title>Metal‑Covalent Organic Frameworks with Spatially Confined Sites: Synergistic Regulation of Li+ Transport and Accelerated Polysulfide Conversion</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105606</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105606</guid>
+<pubDate>Sun, 25 Oct 2026 17:01:58 GMT</pubDate>
+<description>این مقاله چارچوب آلی کووالانسی فلزی با جایگاه‌های محدود فضایی را برای تنظیم هم‌افزای انتقال Li+ و تسریع تبدیل پلی‌سولفید در باتری لیتیم-گوگرد به کار می‌برد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 metal-covalent organic framework · Li+ transport · polysulfide conversion · confined sites · lithium-sulfur battery</description>
+<category>metal-covalent organic framework</category>
+<category>Li+ transport</category>
+<category>polysulfide conversion</category>
+<category>confined sites</category>
+<category>lithium-sulfur battery</category>
+</item>
+<item>
+<title>The Kinetic Mechanism of Electrochemical Oscillation in Co-Doped Lithium Titanate</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105607</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105607</guid>
+<pubDate>Sun, 25 Oct 2026 17:01:48 GMT</pubDate>
+<description>این مقاله سازوکار سینتیکی نوسان الکتروشیمیایی در لیتیم تیتانات دوپ‌شده با کبالت را برای کاربردهای باتری بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium titanate · electrochemical oscillation · Co doping · kinetic mechanism · lithium-ion battery</description>
+<category>lithium titanate</category>
+<category>electrochemical oscillation</category>
+<category>Co doping</category>
+<category>kinetic mechanism</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>A bulk-surface co-modification strategy enabling stable operation of ultrahigh-nickel Li(Ni0.96Co0.03Mn0.01)O2 cathode beyond 4.7 V</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105609</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105609</guid>
+<pubDate>Sun, 25 Oct 2026 17:01:45 GMT</pubDate>
+<description>این مقاله با راهبرد اصلاح همزمان حجم و سطح، عملکرد پایدار کاتد فوق‌پرنیکل Li(Ni0.96Co0.03Mn0.01)O2 را در ولتاژ بالای 4.7 V ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ultrahigh-nickel cathode · LiNi0.96Co0.03Mn0.01O2 · bulk-surface modification · high voltage · lithium-ion battery</description>
+<category>ultrahigh-nickel cathode</category>
+<category>LiNi0.96Co0.03Mn0.01O2</category>
+<category>bulk-surface modification</category>
+<category>high voltage</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Superior energy-storage performance in BaTiO3-based MLCCs via high-entropy driven multiscale optimization</title>
 <link>https://doi.org/10.1038/s41467-026-79047-x</link>
@@ -1163,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Rb doping</category>
 <category>cathode</category>
 <category>phase transition</category>
-</item>
-<item>
-<title>Sparse2Batt: Restoring the full battery-pack field from the minimal broadcast of a production BMS</title>
-<link>https://doi.org/10.1016/j.etran.2026.100645</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100645</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:17 GMT</pubDate>
-<description>روش Sparse2Batt میدان کامل بسته باتری را از پخش کمینه داده‌های BMS تولیدی بازسازی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 battery pack · BMS data · field reconstruction · sparse broadcast · state estimation</description>
-<category>battery pack</category>
-<category>BMS data</category>
-<category>field reconstruction</category>
-<category>sparse broadcast</category>
-<category>state estimation</category>
-</item>
-<item>
-<title>Chemo‐Mechanically Robust Li‐Rich Oxide Cathode Interface Enabled By Ion‐Conductive and Antioxidant Binder</title>
-<link>https://doi.org/10.1002/anie.5594912</link>
-<guid isPermaLink="false">10.1002/anie.5594912</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:12 GMT</pubDate>
-<description>بایندر PVDF شبکه‌ای‌شده با سدیم فیتات، انتقال یون و پایداری شیمیایی-مکانیکی فصل مشترک کاتد اکسید غنی از لیتیوم را بهبود می‌دهد و بازده کولمبی اولیه ۹۵٪ و ظرفیت ۳۲۲ mAh/g را به دست می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using sodium phytate crosslinked PVDF binder to tailor PVDF crystalline phase for Li+ transport and suppress irreversible surface lattice oxygen oxidation in Li-rich Mn-based oxide cathodes. This enables high initial Coulombic efficiency (95%), 322 mAh/g capacity, and ~90% retention after 400 cycles, offering a scalable strategy to stabilize anionic redox interfaces for commercialization.&lt;br&gt;🏷 Li-rich oxide cathode · PVDF binder · sodium phytate · anionic redox · cathode electrolyte interphase</description>
-<category>Li-rich oxide cathode</category>
-<category>PVDF binder</category>
-<category>sodium phytate</category>
-<category>anionic redox</category>
-<category>cathode electrolyte interphase</category>
-</item>
-<item>
-<title>Tailoring Mechanical Compliance and Cycling Stability in Hf-Based Halides for Low-Pressure All-Solid-State Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112520</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112520</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:03 GMT</pubDate>
-<description>این مقاله انطباق مکانیکی و پایداری چرخه‌ای هالیدهای بر پایه Hf را برای باتری‌های تمام‌حالت‌جامد کم‌فشار تنظیم می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · Hf-based halide · solid electrolyte · mechanical compliance · cycling stability</description>
-<category>all-solid-state battery</category>
-<category>Hf-based halide</category>
-<category>solid electrolyte</category>
-<category>mechanical compliance</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Sodium-Containing Molecular Additives Enable Stable Interphase Formation on Hard Carbon Anodes for High-Efficiency Sodium Storage</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112524</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112524</guid>
-<pubDate>Thu, 22 Oct 2026 21:01:57 GMT</pubDate>
-<description>افزودنی‌های مولکولی حاوی سدیم تشکیل فصل مشترک پایدار روی آند کربن سخت را ممکن و ذخیره‌سازی سدیم با بازده بالا را فراهم می‌کنند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium storage · hard carbon anode · molecular additive · solid electrolyte interphase · sodium-ion battery</description>
-<category>sodium storage</category>
-<category>hard carbon anode</category>
-<category>molecular additive</category>
-<category>solid electrolyte interphase</category>
-<category>sodium-ion battery</category>
 </item>
 </channel>
 </rss>
