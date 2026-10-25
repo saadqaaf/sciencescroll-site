@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 17:02:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual Functions of Halogen-Bonding Molecules for Stabilizing Ultra-wide Bandgap Perovskite Solar Cells</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01702</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01702</guid>
+<pubDate>Sun, 25 Oct 2026 18:01:35 GMT</pubDate>
+<description>مولکول I-BDC با پیوند هالوژنی جدایش فاز و نقصهای Pb2+ را در پروسکایت فوقپهنباند ۱.۹۵ الکترونولت مهار کرده و بازده تأییدشده ۱۶.۵٪ با پایداری بالا در آزمون IEC 61215 حاصل شد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ultra-wide bandgap perovskite · halogen bonding · phase segregation · I-BDC additive · tandem solar cells</description>
+<category>ultra-wide bandgap perovskite</category>
+<category>halogen bonding</category>
+<category>phase segregation</category>
+<category>I-BDC additive</category>
+<category>tandem solar cells</category>
+</item>
+<item>
+<title>rGO-MXene 2D Interfacial Engineering for Enhanced Efficiency and Stability of Perovskite Solar Cells and Modules</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02638</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02638</guid>
+<pubDate>Sun, 25 Oct 2026 18:01:26 GMT</pubDate>
+<description>لایه میانی rGO-MXene با لنگرگذاری شیمیایی و پل الکترونی، نقصهای سطحی را غیرفعال کرده و بازده سلول پروسکایتی را به ۲۵.۹۶٪ و ماژول ۱۰×۱۰ سانتیمتر را به ۲۰.۲۵٪ میرساند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 rGO-MXene · perovskite solar cells · interface engineering · perovskite modules · defect passivation</description>
+<category>rGO-MXene</category>
+<category>perovskite solar cells</category>
+<category>interface engineering</category>
+<category>perovskite modules</category>
+<category>defect passivation</category>
+</item>
+<item>
+<title>Making 1000 Wh/kg LiNiO2 Cathode Nearly Strain-Free by Complex-Concentrated Doping</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01681</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01681</guid>
+<pubDate>Sun, 25 Oct 2026 18:01:23 GMT</pubDate>
+<description>دوپینگ غلیظ-پیچیده بدون کبالت با تنها ۵٪ در LiNiO2 کرنش محور c را از ۷.۴ به ۲.۱٪ کاهش داده و چگالی انرژی ۹۷۳ واتساعت بر کیلوگرم با پایداری چرخهای بالا ارائه میدهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using only 5% cobalt-free complex-concentrated doping to stabilize LiNiO2, cutting c-axis strain from 7.4% to 2.1% while retaining 258 mAh/g and 973 Wh/kg. Significance: this near-zero-strain strategy suppresses H2-H3/H4 phase transformations and oxygen loss at the full-Ni limit, enabling 80% capacity retention after 1800 pouch-cell cycles and improved thermal stability without sacrificing energy density.&lt;br&gt;🏷 LiNiO2 cathode · complex-concentrated doping · zero-strain · high-energy batteries · cycling stability</description>
+<category>LiNiO2 cathode</category>
+<category>complex-concentrated doping</category>
+<category>zero-strain</category>
+<category>high-energy batteries</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Alicyclic Lewis Bases Enable 100 °C-Processed α-FAPbI3 Inverted Perovskite Solar Cells</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01229</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01229</guid>
+<pubDate>Sun, 25 Oct 2026 18:01:17 GMT</pubDate>
+<description>با افزودن باز لوئیس حلقوی کاپرولاکتام، تبدیل فاز δ به α در FAPbI3 در دمای ۱۰۰ درجه انجام شد و سلولهای معکوس با بازده ۲۵.۶۴٪ و سلولهای انعطافپذیر با بازده ۲۳.۷۳٪ ساخته شدند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 FAPbI3 perovskite · inverted solar cells · caprolactam additive · low-temperature processing · flexible photovoltaics</description>
+<category>FAPbI3 perovskite</category>
+<category>inverted solar cells</category>
+<category>caprolactam additive</category>
+<category>low-temperature processing</category>
+<category>flexible photovoltaics</category>
+</item>
 <item>
 <title>Revealing the Drying Mechanism in Roll-to-Roll Electrode Manufacturing</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105608</link>
@@ -1164,54 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>local probe</category>
 <category>spin detection</category>
 <category>quantum sensing</category>
-</item>
-<item>
-<title>Recommendation system-inspired learning of crossmodal interaction patterns between chromatin accessibility and gene expression</title>
-<link>https://doi.org/10.1038/s41467-026-78646-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-78646-y</guid>
-<pubDate>Sat, 24 Oct 2026 13:03:04 GMT</pubDate>
-<description>مدل CrossRec با الهام از سیستم‌های توصیه‌گر، الگوهای تنظیمی متقابل بین دسترسی کروماتین و بیان ژن را در داده‌های تک‌سلولی می‌آموزد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chromatin accessibility · gene expression · single-cell sequencing · recommendation system · graph transformer</description>
-<category>chromatin accessibility</category>
-<category>gene expression</category>
-<category>single-cell sequencing</category>
-<category>recommendation system</category>
-<category>graph transformer</category>
-</item>
-<item>
-<title>Single-atom-doped zeolite electrolyte for quasi-solid-state zinc-iodine batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78832-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-78832-y</guid>
-<pubDate>Sat, 24 Oct 2026 13:03:00 GMT</pubDate>
-<description>الکترولیت زئولیتی دوپ‌شده با تک‌اتم برای باتری‌های روی-ید تقریباً حالت جامد طراحی شده که عملکرد الکتروشیمیایی را بهبود می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Single-atom-doped zeolites (Fe, Co, Ni, Cu) combined with zinc sulfate solution create liquid-wetted quasi-solid electrolytes that catalyze iodine conversion, suppress polyiodide shuttling, and stabilize zinc deposition. Fe-doped zeolite performs best, enabling 6,800 cycles at 4 A g−1 and pouch-cell operation, overcoming sluggish interfacial kinetics of conventional quasi-solid electrolytes.&lt;br&gt;🏷 zinc-iodine battery · single-atom doping · zeolite electrolyte · quasi-solid-state · energy storage</description>
-<category>zinc-iodine battery</category>
-<category>single-atom doping</category>
-<category>zeolite electrolyte</category>
-<category>quasi-solid-state</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Triplet nitrene initiated sub-semipinacol rearrangement via a diradical relay</title>
-<link>https://doi.org/10.1038/s41467-026-78697-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-78697-1</guid>
-<pubDate>Sat, 24 Oct 2026 13:02:53 GMT</pubDate>
-<description>بازآرایی زیرنیمه‌پیناکول با نیترن سه‌گانه از طریق مسیر رله دی‌رادیکالی تحت نور مرئی، β- یا δ-آمینو کتون‌ها را با بازده بالا تولید می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 triplet nitrene · semipinacol rearrangement · diradical relay · amino ketones · photocatalysis</description>
-<category>triplet nitrene</category>
-<category>semipinacol rearrangement</category>
-<category>diradical relay</category>
-<category>amino ketones</category>
-<category>photocatalysis</category>
-</item>
-<item>
-<title>Human brain organoids reveal MGE interneuron defects independent of mTOR-hyperactivation in genetic focal epilepsy</title>
-<link>https://doi.org/10.1038/s41467-026-78547-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-78547-0</guid>
-<pubDate>Sat, 24 Oct 2026 13:02:50 GMT</pubDate>
-<description>ارگانوئیدهای مغزی انسانی نشان می‌دهند نقص اینترنورون‌های MGE در صرع کانونی ژنتیکی مستقل از هایپراکتیواسیون mTOR رخ می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 brain organoids · MGE interneuron · focal epilepsy · mTOR hyperactivation · genetic epilepsy</description>
-<category>brain organoids</category>
-<category>MGE interneuron</category>
-<category>focal epilepsy</category>
-<category>mTOR hyperactivation</category>
-<category>genetic epilepsy</category>
 </item>
 </channel>
 </rss>

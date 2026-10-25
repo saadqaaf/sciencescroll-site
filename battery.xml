@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 17:02:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Making 1000 Wh/kg LiNiO2 Cathode Nearly Strain-Free by Complex-Concentrated Doping</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01681</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01681</guid>
+<pubDate>Sun, 25 Oct 2026 18:01:23 GMT</pubDate>
+<description>دوپینگ غلیظ-پیچیده بدون کبالت با تنها ۵٪ در LiNiO2 کرنش محور c را از ۷.۴ به ۲.۱٪ کاهش داده و چگالی انرژی ۹۷۳ واتساعت بر کیلوگرم با پایداری چرخهای بالا ارائه میدهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using only 5% cobalt-free complex-concentrated doping to stabilize LiNiO2, cutting c-axis strain from 7.4% to 2.1% while retaining 258 mAh/g and 973 Wh/kg. Significance: this near-zero-strain strategy suppresses H2-H3/H4 phase transformations and oxygen loss at the full-Ni limit, enabling 80% capacity retention after 1800 pouch-cell cycles and improved thermal stability without sacrificing energy density.&lt;br&gt;🏷 LiNiO2 cathode · complex-concentrated doping · zero-strain · high-energy batteries · cycling stability</description>
+<category>LiNiO2 cathode</category>
+<category>complex-concentrated doping</category>
+<category>zero-strain</category>
+<category>high-energy batteries</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Revealing the Drying Mechanism in Roll-to-Roll Electrode Manufacturing</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105608</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>amorphous electrolyte</category>
 <category>ionic conductivity</category>
 <category>polyhedral distortion</category>
-</item>
-<item>
-<title>Riveting Rubidium in Alkali-Metal Layers: High-Performance P2-Type Layered Oxide Cathodes for Potassium-Ion Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c15431</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15431</guid>
-<pubDate>Thu, 22 Oct 2026 21:02:32 GMT</pubDate>
-<description>جایگزینی یون‌های بزرگ Rb+ در سایت‌های منشوری کاتد لایه‌ای P2-type منگنزدار، انتقال فاز P2–P′2 و اعوجاج Jahn–Teller را سرکوب کرده و عملکرد باتری یون-پتاسیم را بهبود می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in riveting oversized Rb+ into prismatic alkali-metal sites of P2-type K0.55Mn0.8Ni0.1Ti0.1O2, acting as a rigid pillar that expands interlayer spacing and strengthens TM–O bonds. This suppresses the P2–P′2 transition and Jahn–Teller distortion, enabling fast K+ diffusion, high capacity (105.3 mAh g–1), excellent rate capability, and 82.1% retention over 500 cycles—offering a universal near-zero-strain cathode strategy for potassium-ion batteries.&lt;br&gt;🏷 potassium-ion battery · P2-type layered oxide · Rb doping · cathode · phase transition</description>
-<category>potassium-ion battery</category>
-<category>P2-type layered oxide</category>
-<category>Rb doping</category>
-<category>cathode</category>
-<category>phase transition</category>
 </item>
 </channel>
 </rss>
