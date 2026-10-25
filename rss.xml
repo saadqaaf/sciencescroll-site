@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 20:01:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 21:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Towards proactive control of grid-scale battery energy storage using dynamic preview length</title>
+<link>https://doi.org/10.1016/j.est.2026.125289</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125289</guid>
+<pubDate>Sun, 25 Oct 2026 21:01:15 GMT</pubDate>
+<description>این مقاله روشی مبتنی بر کنترل پیش‌بینانه با طول پیش‌نمایش پویا برای کنترل فعالانه ذخیره‌سازی انرژی باتری در مقیاس شبکه ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 grid-scale storage · battery energy storage · model predictive control · preview length · proactive control</description>
+<category>grid-scale storage</category>
+<category>battery energy storage</category>
+<category>model predictive control</category>
+<category>preview length</category>
+<category>proactive control</category>
+</item>
 <item>
 <title>Coating controllable Cu particle layer on graphene nanoplates: deposition mechanism and broadband microwave absorption</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122249</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>diversification</category>
 <category>coevolution</category>
 <category>phylogenetics</category>
-</item>
-<item>
-<title>Molecular insights into GPR55 modulation reveal an atypical activation mechanism and glycosylation-dependent efficacy regulation</title>
-<link>https://doi.org/10.1038/s41467-026-78538-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-78538-1</guid>
-<pubDate>Sat, 24 Oct 2026 13:03:40 GMT</pubDate>
-<description>ساختار و عملکرد GPR55 مکانیسم فعال‌سازی غیرمعمول و نقش گلیکوزیلاسیون در تنظیم اثربخشی این گیرنده را آشکار می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 GPR55 · GPCR activation · glycosylation · cryo-EM · efficacy regulation</description>
-<category>GPR55</category>
-<category>GPCR activation</category>
-<category>glycosylation</category>
-<category>cryo-EM</category>
-<category>efficacy regulation</category>
 </item>
 </channel>
 </rss>
