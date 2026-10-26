@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 20:02:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 21:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Precursor Design Principle for Archipelagic Hard‐Carbon Structural Evolution Through Cohesion–Solvation Regulation of Asphaltene Molecular Heterogeneity</title>
+<link>https://doi.org/10.1002/adma.75517</link>
+<guid isPermaLink="false">10.1002/adma.75517</guid>
+<pubDate>Mon, 26 Oct 2026 21:01:39 GMT</pubDate>
+<description>این پژوهش یک اصل طراحی پیش‌ماده مبتنی بر تنظیم انسجام-حلالیت آسفالتن را برای ساخت آند کربن سخت با تخلخل بسته ارائه می‌دهد که در باتری یون-سدیم ظرفیت و پایداری چرخه‌ای بالایی نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a precursor-level cohesion–solvation design principle that uses asphaltene molecular heterogeneity to redirect carbonization toward confined closed pores. Significance: solvent-selected AHC-80-1400 achieves 400.1 mAh g⁻¹, 87.7% ICE, 92.3% retention over 10,000 cycles, wide-temperature stability, scalable 1.18 Ah pouch cells (163.3 Wh kg⁻¹), and 33.7% lower climate impact, establishing molecular selection as a hard-carbon design principle.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · asphaltene precursor · closed pore · DFT</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>asphaltene precursor</category>
+<category>closed pore</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Lewis‐Basic Metal Sulfide Electrode Interfaces Unlock High Power Density Alkaline All‐Iron Redox Flow Batteries</title>
+<link>https://doi.org/10.1002/adma.75512</link>
+<guid isPermaLink="false">10.1002/adma.75512</guid>
+<pubDate>Mon, 26 Oct 2026 21:01:31 GMT</pubDate>
+<description>این کار با مهندسی رابط سولفیدی بازی لوئیس در الکترود Ni3S4، سینتیک انتقال الکترون آنولیت آهن-شلات را در باتری جریان ردوکس تمام‌آهنی قلیایی بهبود می‌دهد و به چگالی توان و بازدهی بالا دست می‌یابد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying sluggish outer-sphere electron transfer of Fe-chelate anolytes as the key kinetic bottleneck in alkaline all-iron redox flow batteries, linked to limited outer Helmholtz plane accessibility. Lewis-basic Ni₃S₄ sulfide interfaces convert inefficient diffusion encounters into productive sulfide-assisted electron-transfer events, boosting energy efficiency to 80.65% and peak power density to 501.2 mW cm⁻², enabling high-power, low-cost long-duration storage.&lt;br&gt;🏷 all-iron redox flow battery · Lewis-basic sulfide interface · outer-sphere electron transfer · Ni3S4 electrode · power density</description>
+<category>all-iron redox flow battery</category>
+<category>Lewis-basic sulfide interface</category>
+<category>outer-sphere electron transfer</category>
+<category>Ni3S4 electrode</category>
+<category>power density</category>
+</item>
 <item>
 <title>Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes</title>
 <link>https://doi.org/10.1016/j.joule.2026.102713</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>solvent interaction</category>
 <category>ethyl butyrate</category>
 <category>pouch cell</category>
-</item>
-<item>
-<title>Thermodynamic Suppression of Deprotonation in Succinonitrile‐Based Electrolyte for Durable Solid‐State Sodium‐Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79209</link>
-<guid isPermaLink="false">10.1002/adfm.79209</guid>
-<pubDate>Fri, 23 Oct 2026 06:02:05 GMT</pubDate>
-<description>با میزبان پلیمری آکریلونیتریل، واکنش پارازیتی پروتون‌زدایی در الکترولیت سوکسینونیتریل مهار شد و باتری حالت‌جامد سدیم-فلز با رسانایی بالا و چرخه‌پذیری طولانی به دست آمد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using an acrylonitrile-based polymer host to thermodynamically suppress deprotonation of succinonitrile&amp;#x27;s α-hydrogens, stabilizing the electrolyte against Na-metal parasitic reactions. This enables high ionic conductivity (2.17 mS cm⁻¹), 6200 h symmetric-cell cycling, and full cells retaining 95.6% capacity after 5000 cycles, establishing thermodynamic deprotonation suppression as a design principle for durable solid-state sodium-metal batteries.&lt;br&gt;🏷 solid-state sodium battery · succinonitrile electrolyte · deprotonation suppression · sodium metal anode · polymer host</description>
-<category>solid-state sodium battery</category>
-<category>succinonitrile electrolyte</category>
-<category>deprotonation suppression</category>
-<category>sodium metal anode</category>
-<category>polymer host</category>
-</item>
-<item>
-<title>Moderate Li–N Coordination Between Dibromopyrazine and Polysulfides Enables High‐Rate Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adfm.79221</link>
-<guid isPermaLink="false">10.1002/adfm.79221</guid>
-<pubDate>Fri, 23 Oct 2026 06:01:53 GMT</pubDate>
-<description>افزودن دی‌برموپیرازین به الکترولیت با کوئوردیناسیون متوسط Li-N، تبدیل پلی‌سولفیدها را تسریع کرده و باتری Li-S را با نرخ بالا و پایداری چرخه‌ای طولانی ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using dibromopyrazine as an electrolyte additive whose Br─C═N group enables moderate Li–N coordination, weakening Li–S bonding to anchor polysulfides without hindering conversion. This accelerates the Li₂S₄-to-Li₂S step, enabling 785 mAh g⁻¹ at 6 C, 0.09% decay per cycle over 1000 cycles, and stable 2 Ah pouch cells—advancing high-rate Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · dibromopyrazine additive · polysulfide conversion · Li-N coordination · rate capability</description>
-<category>lithium-sulfur battery</category>
-<category>dibromopyrazine additive</category>
-<category>polysulfide conversion</category>
-<category>Li-N coordination</category>
-<category>rate capability</category>
 </item>
 </channel>
 </rss>
