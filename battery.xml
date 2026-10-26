@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 13:02:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 14:03:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Flame Retardant Lithium Composites With Synergistic Suppression of Lithium Dendrites and Smoke Toxicity for High Safe Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79298</link>
+<guid isPermaLink="false">10.1002/adfm.79298</guid>
+<pubDate>Mon, 26 Oct 2026 14:03:34 GMT</pubDate>
+<description>غشای رابط مصنوعی حاوی MOF با یکنواخت‌سازی شار Li+ از رشد دندریت جلوگیری کرده و با تبدیل CO به CO2 سمیت دود و خطر آتش‌سوزی باتری لیتیوم-فلز را کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multifunctional electrospun MOF-based artificial interface that simultaneously regulates Li⁺ flux to suppress dendrites and catalytically converts toxic CO to CO₂ during thermal runaway. Its significance is prolonging ignition time, creating a rescue window, and offering an integrated strategy for safer high-energy lithium metal batteries.&lt;br&gt;🏷 lithium metal anode · flame retardant · MOF membrane · lithium dendrite · CO toxicity</description>
+<category>lithium metal anode</category>
+<category>flame retardant</category>
+<category>MOF membrane</category>
+<category>lithium dendrite</category>
+<category>CO toxicity</category>
+</item>
+<item>
+<title>Thermally Robust Piezoelectric KNN/Polyimide Separator for Regulating Lithium Deposition in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79294</link>
+<guid isPermaLink="false">10.1002/adfm.79294</guid>
+<pubDate>Mon, 26 Oct 2026 14:03:18 GMT</pubDate>
+<description>جداکننده پیزوالکتریک کامپوزیتی KNN/polyimide با تنظیم میدان الکتریکی سطحی و یکنواخت‌سازی شار Li+، رشد دندریت لیتیوم را مهار کرده و پایداری حرارتی باتری لیتیوم-فلز را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining highly fluorinated polyimide with piezoelectric KNN via electrospinning/imidization, using molecular dipole engineering and through-thickness polarization to regulate the interfacial electric field and homogenize Li⁺ flux. Its significance is integrating intrinsic thermal stability with electromechanical interfacial regulation, suppressing dendrites and enabling 88.5% capacity retention after 1900 cycles—a promising route to durable lithium-metal batteries.&lt;br&gt;🏷 lithium metal battery · piezoelectric separator · KNN · polyimide · lithium dendrite</description>
+<category>lithium metal battery</category>
+<category>piezoelectric separator</category>
+<category>KNN</category>
+<category>polyimide</category>
+<category>lithium dendrite</category>
+</item>
+<item>
+<title>Aryl‐Sulfonate‐Functionalized V 2 CT x /SPEEK Membranes Regulate Cation and Water Transport in Zinc‐Ferricyanide Flow Batteries</title>
+<link>https://doi.org/10.1002/adfm.79269</link>
+<guid isPermaLink="false">10.1002/adfm.79269</guid>
+<pubDate>Mon, 26 Oct 2026 14:03:00 GMT</pubDate>
+<description>این مقاله غشای V2CTx/SPEEK عامل‌دار شده با آریل‌سولفونات را برای تنظیم انتقال کاتیون و آب در باتری جریان روی-فری‌سیانید بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Aryl-sulfonate-functionalized V2CTx/SPEEK membranes are novel, using redispersed V2C-SO3 nanosheets to decouple cation conduction from ferricyanide crossover and osmotic water redistribution. This enables higher conductivity, lower swelling and permeability, and 81.4% capacity retention over 390 cycles at 88.9% efficiency, plus 7,000 cycles at 0.1 M, significantly advancing low-cost zinc-ferricyanide flow battery durability.&lt;br&gt;🏷 zinc-ferricyanide flow battery · V2CTx MXene · SPEEK membrane · cation transport · aryl-sulfonate</description>
+<category>zinc-ferricyanide flow battery</category>
+<category>V2CTx MXene</category>
+<category>SPEEK membrane</category>
+<category>cation transport</category>
+<category>aryl-sulfonate</category>
+</item>
 <item>
 <title>Structure and performance study of iPP microporous membrane derived from β-transcrystalline precursor for lithium-ion battery separators</title>
 <link>https://doi.org/10.1007/s42114-026-02159-x</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>Wadsley-Roth phase</category>
 <category>fast lithium storage</category>
 <category>anode kinetics</category>
-</item>
-<item>
-<title>Decoupling Mechanical Strength and Ion Transport in Copolymer Electrolytes for Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76408</link>
-<guid isPermaLink="false">10.1002/smll.76408</guid>
-<pubDate>Thu, 22 Oct 2026 22:03:18 GMT</pubDate>
-<description>الکترولیت کوپلیمری RFPE با جداسازی استحکام مکانیکی از انتقال یون، رسانایی یونی 8.42×10−4 S/cm و عدد انتقال Li+ برابر 0.737 در 30 درجه سانتی‌گراد ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a copolymer electrolyte (RFPE) that decouples mechanical strength from ion transport by combining a rigid styrene sulfonate backbone with flexible EGMEM domains. This yields high ionic conductivity (8.42×10⁻⁴ S cm⁻¹), a Li⁺ transference number of 0.737, and stable cycling over 2800 h, offering a strategy for high-performance, safe polymer electrolytes for lithium metal batteries.&lt;br&gt;🏷 polymer electrolyte · copolymer electrolyte · lithium metal battery · ionic conductivity · mechanical strength</description>
-<category>polymer electrolyte</category>
-<category>copolymer electrolyte</category>
-<category>lithium metal battery</category>
-<category>ionic conductivity</category>
-<category>mechanical strength</category>
-</item>
-<item>
-<title>Covalent Tethering of Ion‐Pair Motifs on Waste‐Derived Carbon: A Molecular Approach to Accelerated Interfacial Ion Transfer</title>
-<link>https://doi.org/10.1002/smll.76398</link>
-<guid isPermaLink="false">10.1002/smll.76398</guid>
-<pubDate>Thu, 22 Oct 2026 22:03:13 GMT</pubDate>
-<description>با اتصال کووالانسی موتیف‌های جفت‌یون روی کربن سخت مشتق از پسماند صنعتی، انتقال Li+ در فصل مشترک تسریع و ظرفیت برگشتی حدود 1150 mAh/g حاصل شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Covalently tethered ion-pair motifs on waste-derived hard carbon enable fast-charging anodes via mild, site-specific SN2 chemistry at pyridinic nitrogen sites. This non-destructive approach creates dual super-wettability and flips interfacial energy from +10.51 to −30.84 kcal·mol⁻¹, driving selective Li⁺ desolvation. It offers a waste-valorization route and a generalizable strategy for molecular-level interfacial ion-flux engineering.&lt;br&gt;🏷 hard carbon anode · ion-pair motifs · interfacial ion transfer · fast charging · waste valorization</description>
-<category>hard carbon anode</category>
-<category>ion-pair motifs</category>
-<category>interfacial ion transfer</category>
-<category>fast charging</category>
-<category>waste valorization</category>
-</item>
-<item>
-<title>Electrolyte Additives for High‐Energy‐Density Lithium–Sulfur Batteries: From Fundamental Challenges to Rational Design Strategies</title>
-<link>https://doi.org/10.1002/smll.76298</link>
-<guid isPermaLink="false">10.1002/smll.76298</guid>
-<pubDate>Thu, 22 Oct 2026 22:03:07 GMT</pubDate>
-<description>این مرور، افزودنی‌های الکترولیت برای باتری‌های Li-S را از چالش‌های بنیادی تا طراحی منطقی برای سلول‌های کیسه‌ای پرانرژی و الکترولیت کم‌مقدار بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely frames electrolyte additives as interfacial regulators that simultaneously address LiPS shuttle, sulfur redox kinetics, and Li-anode stability. Its novelty lies in bridging fundamental mechanisms with rational design strategies for high-energy-density pouch cells, lean electrolyte, and wide-temperature operation, while highlighting advanced characterization. It provides a comprehensive framework and general design principles extendable to other high-energy rechargeable batteries.&lt;br&gt;🏷 lithium-sulfur battery · electrolyte additives · polysulfide shuttle · Li anode · pouch cells</description>
-<category>lithium-sulfur battery</category>
-<category>electrolyte additives</category>
-<category>polysulfide shuttle</category>
-<category>Li anode</category>
-<category>pouch cells</category>
 </item>
 </channel>
 </rss>
