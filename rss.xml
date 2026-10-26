@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 09:01:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 10:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multi-Electron Transfer in Zinc-Based Batteries: Unraveling Redox Mechanisms Toward Next-Generation Self-Powered Technologies</title>
+<link>https://doi.org/10.1007/s40820-026-02329-y</link>
+<guid isPermaLink="false">10.1007/s40820-026-02329-y</guid>
+<pubDate>Mon, 26 Oct 2026 10:01:32 GMT</pubDate>
+<description>این مرور، مکانیزم‌های انتقال چندالکترونی کاتدهای باتری‌های روی آبی را به الزامات معماری باتری‌های روی فتوشارژ برای فناوری‌های خودتوان مقایسه و تحلیل می‌کند.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely bridges fundamental multi-electron redox chemistry of aqueous zinc battery cathodes with macroscopic engineering of photo-rechargeable devices. Its novelty lies in a unified framework linking reaction kinetics, voltage plateaus, and charge carriers to solar cell coupling strategies. Significance: guiding cathode design, identifying practical bottlenecks, and providing a roadmap for commercially viable self-powered IoT and wearable technologies.&lt;br&gt;🏷 photo-rechargeable zinc battery · multi-electron transfer · cathode materials · redox mechanism · solar integration</description>
+<category>photo-rechargeable zinc battery</category>
+<category>multi-electron transfer</category>
+<category>cathode materials</category>
+<category>redox mechanism</category>
+<category>solar integration</category>
+</item>
 <item>
 <title>Bidirectional optimization of thermal and electrical transport in p- type SnS by high pressure and high temperature processing and Ag doping</title>
 <link>https://doi.org/10.1039/d6ta06619d</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>miRNA silencing</category>
 <category>RISC</category>
 <category>target RNA release</category>
-</item>
-<item>
-<title>Nanoscale Immune Activator for Enhancing CD8+ T Cell Infiltration in Hepatocellular Carcinoma</title>
-<link>https://doi.org/10.1021/acsnano.6c05553</link>
-<guid isPermaLink="false">10.1021/acsnano.6c05553</guid>
-<pubDate>Sat, 24 Oct 2026 23:01:46 GMT</pubDate>
-<description>این پژوهش ترکیب HCC-IN-247 را شناسایی می‌کند که با پایدارسازی کمپلکس LINC02084-GLIS1 بیان IFNβ و نفوذ CD8+ T را افزایش می‌دهد و نانوذرات Lip@RA@BSA-PD-L1/IN-247 را برای ایمونوتراپی HCC می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 hepatocellular carcinoma · CD8+ T cells · LINC02084 · nanoparticle delivery · immunotherapy</description>
-<category>hepatocellular carcinoma</category>
-<category>CD8+ T cells</category>
-<category>LINC02084</category>
-<category>nanoparticle delivery</category>
-<category>immunotherapy</category>
 </item>
 </channel>
 </rss>
