@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 16:02:02 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 17:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hierarchical 2D-2D-3D NiPS3@CoS2 architecture for high-performance sodium ion battery</title>
+<link>https://doi.org/10.1016/j.est.2026.125023</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125023</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:54 GMT</pubDate>
+<description>ساختار سلسله‌مراتبی 2D-2D-3D از NiPS3@CoS2 برای آند باتری یون سدیم با عملکرد بالا طراحی و بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · NiPS3 · CoS2 · heterostructure · anode</description>
+<category>sodium-ion battery</category>
+<category>NiPS3</category>
+<category>CoS2</category>
+<category>heterostructure</category>
+<category>anode</category>
+</item>
+<item>
+<title>A physics-embedded recurrent spiking neural network integrating polarization dynamics for battery state-of-health estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.125329</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125329</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:49 GMT</pubDate>
+<description>یک شبکه عصبی اسپایکی بازگشتی با فیزیک تلفیق‌شده و دینامیک پلاریزاسیون برای تخمین وضعیت سلامت باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · spiking neural network · polarization dynamics · physics-informed model · battery estimation</description>
+<category>state-of-health</category>
+<category>spiking neural network</category>
+<category>polarization dynamics</category>
+<category>physics-informed model</category>
+<category>battery estimation</category>
+</item>
+<item>
+<title>Sheath-core microporous polyamide 6 fibers via in situ foaming and bicomponent melt spinning for thermal insulation</title>
+<link>https://doi.org/10.1039/d6mh01535b</link>
+<guid isPermaLink="false">10.1039/d6mh01535b</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:44 GMT</pubDate>
+<description>الیاف میکرو متخلخل پلی‌آمید 6 با ساختار پوسته-مغزی از طریق کف‌سازی درجا و ریسندگی مذاب دوجزئی برای عایق‌کاری حرارتی سبک و مستحکم ساخته می‌شود.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 polyamide 6 fiber · sheath-core fiber · in situ foaming · melt spinning · thermal insulation</description>
+<category>polyamide 6 fiber</category>
+<category>sheath-core fiber</category>
+<category>in situ foaming</category>
+<category>melt spinning</category>
+<category>thermal insulation</category>
+</item>
+<item>
+<title>High-current-density solid-state lithium metal batteries through interface engineering</title>
+<link>https://doi.org/10.1039/d6mh01375a</link>
+<guid isPermaLink="false">10.1039/d6mh01375a</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:41 GMT</pubDate>
+<description>این مقاله مروری به مهندسی سطح مشترک برای غلبه بر تماس ضعیف، رشد دندریت لیتیوم و ناپایداری فصل مشترک الکترود-الکترولیت در باتری‌های حالت جامد لیتیوم فلزی می‌پردازد.&lt;br&gt;Materials Horizons | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using interface engineering to address poor interfacial contact, lithium dendrite formation, and unstable electrode–electrolyte interfaces in solid-state batteries. Its significance is enabling high-current-density solid-state lithium metal batteries, a key step toward practical, high-energy-density solid-state battery technology.&lt;br&gt;🏷 solid-state battery · lithium metal anode · interface engineering · dendrite suppression · high current density</description>
+<category>solid-state battery</category>
+<category>lithium metal anode</category>
+<category>interface engineering</category>
+<category>dendrite suppression</category>
+<category>high current density</category>
+</item>
+<item>
+<title>Bias-programmable linear-to-nonlinear photoresponse for filter-free single-pixel VIS–NIR discrimination</title>
+<link>https://doi.org/10.1186/s40580-026-00585-7</link>
+<guid isPermaLink="false">10.1186/s40580-026-00585-7</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:35 GMT</pubDate>
+<description>یک فوتودیود غیرخطی پشت‌به‌پشت با قابلیت بازآرایی توسط بایاس برای تفکیک بدون فیلتر نور مرئی و فروسرخ نزدیک و کاربرد در اکسیمتری پالس ارائه می‌کند.&lt;br&gt;Nano Convergence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photodiode · VIS-NIR discrimination · PEDOT:PSS · MAPbI3 · pulse oximetry</description>
+<category>photodiode</category>
+<category>VIS-NIR discrimination</category>
+<category>PEDOT:PSS</category>
+<category>MAPbI3</category>
+<category>pulse oximetry</category>
+</item>
 <item>
 <title>Iron‐Dependent Interfacial Regulation Balances Osteogenesis and Iron Homeostasis in Bilayer Hydrogels for Periodontal Bone Regeneration</title>
 <link>https://doi.org/10.1002/smll.76098</link>
@@ -1152,66 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cisplatin conjugate · PK
 <category>WNK1</category>
 <category>PI3K-AKT signaling</category>
 <category>CD03017</category>
-</item>
-<item>
-<title>Validating FR20 and D‐FR20 for Bromodomain and Extra‐Terminal Domain Inhibitor Resistance in Triple‐Negative Breast Cancer</title>
-<link>https://doi.org/10.1002/advs.78443</link>
-<guid isPermaLink="false">10.1002/advs.78443</guid>
-<pubDate>Mon, 26 Oct 2026 06:02:07 GMT</pubDate>
-<description>این مقاله اعتبار سنجی FR20 و D-FR20 را به عنوان مدل‌های مقاومت به مهارکننده‌های دومین BET در سرطان پستان سه‌گانه منفی بررسی می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 triple-negative breast cancer · BET inhibitor resistance · FR20 · D-FR20 · bromodomain</description>
-<category>triple-negative breast cancer</category>
-<category>BET inhibitor resistance</category>
-<category>FR20</category>
-<category>D-FR20</category>
-<category>bromodomain</category>
-</item>
-<item>
-<title>Arhgef1 Deletion Disrupts Early Cortical Neurogenesis via PAK1 Overactivation and Causes Motor Dysfunction in Adulthood</title>
-<link>https://doi.org/10.1002/advs.78426</link>
-<guid isPermaLink="false">10.1002/advs.78426</guid>
-<pubDate>Mon, 26 Oct 2026 06:02:04 GMT</pubDate>
-<description>حذف Arhgef1 در پیش‌مغز موش با فعال‌سازی بیش‌ازحد مسیر PAK1 نوروژنز قشری را مختل کرده و در بزرگسالی نقص‌های یادگیری و هماهنگی حرکتی ایجاد می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ARHGEF1 · cortical neurogenesis · PAK1 · motor dysfunction · neurodevelopment</description>
-<category>ARHGEF1</category>
-<category>cortical neurogenesis</category>
-<category>PAK1</category>
-<category>motor dysfunction</category>
-<category>neurodevelopment</category>
-</item>
-<item>
-<title>Mechanical Distraction Engages a Neuro‐Immune Program to Drive Regenerative Soft‐Tissue Healing in Ilizarov Bone Transport</title>
-<link>https://doi.org/10.1002/advs.78382</link>
-<guid isPermaLink="false">10.1002/advs.78382</guid>
-<pubDate>Mon, 26 Oct 2026 06:02:01 GMT</pubDate>
-<description>این مطالعه در مدل کشش استخوانی موش نشان می‌دهد کشش مکانیکی از طریق بازعصب‌دهی حسی و محور نوروایمنی CGRP، التهاب را حل کرده و ترمیم بافت نرم را تقویت می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Ilizarov distraction · neuro-immune axis · CGRP · soft-tissue regeneration · TRPV1 neurons</description>
-<category>Ilizarov distraction</category>
-<category>neuro-immune axis</category>
-<category>CGRP</category>
-<category>soft-tissue regeneration</category>
-<category>TRPV1 neurons</category>
-</item>
-<item>
-<title>Cascade Desolvation and Conversion Reaction Driven by Self‐Tandem Catalysis for Wide‐Temperature Li‐S Batteries</title>
-<link>https://doi.org/10.1002/advs.78441</link>
-<guid isPermaLink="false">10.1002/advs.78441</guid>
-<pubDate>Mon, 26 Oct 2026 06:01:57 GMT</pubDate>
-<description>کاتالیز خودتندمی با Ce اتمی روی LDH غنی از نقص، واکنش‌های آبگیری Li+ و تبدیل پلی‌سولفید را تسریع کرده و باتری Li-S را در دمای 0 تا -30 درجه سانتی‌گراد کارآمد می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using atom-level Ce on defect-rich CoFe-LDH as a self-tandem catalyst to enable cascade Li+ desolvation and polysulfide conversion, avoiding electrolyte engineering. This lowers reaction barriers, boosting kinetics and enabling stable wide-temperature Li-S batteries (0 to −30°C) with 94% retention at 5C, offering a promising strategy for high-performance wide-temperature LSBs.&lt;br&gt;🏷 Li-S battery · wide-temperature · self-tandem catalysis · desolvation · polysulfide conversion</description>
-<category>Li-S battery</category>
-<category>wide-temperature</category>
-<category>self-tandem catalysis</category>
-<category>desolvation</category>
-<category>polysulfide conversion</category>
-</item>
-<item>
-<title>Lithium‐Doped Hydroxyapatite Nanowires Rejuvenate Senescent Macrophages Via the Lysosome‐Dependent Ferroptosis Axis to Promote Aged Bone Regeneration</title>
-<link>https://doi.org/10.1002/advs.78424</link>
-<guid isPermaLink="false">10.1002/advs.78424</guid>
-<pubDate>Mon, 26 Oct 2026 06:01:52 GMT</pubDate>
-<description>نانوسیم‌های هیدروکسی‌آپاتیت دوپ‌شده با لیتیوم با بازگرداندن هموستاز لیزوزوم و مهار فروپتوز، پیری ماکروفاژها را معکوس کرده و بازسازی استخوان در مدل سالمند را تسریع می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-doped hydroxyapatite · macrophage senescence · ferroptosis · lysosome · bone regeneration</description>
-<category>lithium-doped hydroxyapatite</category>
-<category>macrophage senescence</category>
-<category>ferroptosis</category>
-<category>lysosome</category>
-<category>bone regeneration</category>
 </item>
 </channel>
 </rss>

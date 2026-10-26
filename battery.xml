@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 16:02:02 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 17:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hierarchical 2D-2D-3D NiPS3@CoS2 architecture for high-performance sodium ion battery</title>
+<link>https://doi.org/10.1016/j.est.2026.125023</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125023</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:54 GMT</pubDate>
+<description>ساختار سلسله‌مراتبی 2D-2D-3D از NiPS3@CoS2 برای آند باتری یون سدیم با عملکرد بالا طراحی و بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · NiPS3 · CoS2 · heterostructure · anode</description>
+<category>sodium-ion battery</category>
+<category>NiPS3</category>
+<category>CoS2</category>
+<category>heterostructure</category>
+<category>anode</category>
+</item>
+<item>
+<title>A physics-embedded recurrent spiking neural network integrating polarization dynamics for battery state-of-health estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.125329</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125329</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:49 GMT</pubDate>
+<description>یک شبکه عصبی اسپایکی بازگشتی با فیزیک تلفیق‌شده و دینامیک پلاریزاسیون برای تخمین وضعیت سلامت باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · spiking neural network · polarization dynamics · physics-informed model · battery estimation</description>
+<category>state-of-health</category>
+<category>spiking neural network</category>
+<category>polarization dynamics</category>
+<category>physics-informed model</category>
+<category>battery estimation</category>
+</item>
+<item>
+<title>High-current-density solid-state lithium metal batteries through interface engineering</title>
+<link>https://doi.org/10.1039/d6mh01375a</link>
+<guid isPermaLink="false">10.1039/d6mh01375a</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:41 GMT</pubDate>
+<description>این مقاله مروری به مهندسی سطح مشترک برای غلبه بر تماس ضعیف، رشد دندریت لیتیوم و ناپایداری فصل مشترک الکترود-الکترولیت در باتری‌های حالت جامد لیتیوم فلزی می‌پردازد.&lt;br&gt;Materials Horizons | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using interface engineering to address poor interfacial contact, lithium dendrite formation, and unstable electrode–electrolyte interfaces in solid-state batteries. Its significance is enabling high-current-density solid-state lithium metal batteries, a key step toward practical, high-energy-density solid-state battery technology.&lt;br&gt;🏷 solid-state battery · lithium metal anode · interface engineering · dendrite suppression · high current density</description>
+<category>solid-state battery</category>
+<category>lithium metal anode</category>
+<category>interface engineering</category>
+<category>dendrite suppression</category>
+<category>high current density</category>
+</item>
 <item>
 <title>Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c16957</link>
@@ -1175,42 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>turbine</category>
 <category>pressurized water</category>
 <category>optimization</category>
-</item>
-<item>
-<title>Development of a binder-free NiMn-MOF@CoS composite for advanced performance hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125083</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125083</guid>
-<pubDate>Thu, 22 Oct 2026 23:01:13 GMT</pubDate>
-<description>کامپوزیت بدون بایندر NiMn-MOF@CoS ساخته شد و عملکرد الکتروشیمیایی آن به‌عنوان الکترود ابرخازن هیبریدی بهبود یافت.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NiMn-MOF · CoS composite · hybrid supercapacitor · binder-free electrode · energy storage</description>
-<category>NiMn-MOF</category>
-<category>CoS composite</category>
-<category>hybrid supercapacitor</category>
-<category>binder-free electrode</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Gill‐Inspired Biomimetic Engineering Enables 100 000‐Cycle Stable Potassium Storage of MXene</title>
-<link>https://doi.org/10.1002/smll.76396</link>
-<guid isPermaLink="false">10.1002/smll.76396</guid>
-<pubDate>Thu, 22 Oct 2026 22:03:36 GMT</pubDate>
-<description>کامپوزیت زیست‌الهام MXene-4-MVA با اصلاح مولکولی، فاصله بین‌لایه‌ای و انتقال بار را بهبود داده و ابرخازن آبی آن پس از 100000 چرخه 92.1 درصد ظرفیت را حفظ می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 This work pioneers a gill-inspired biomimetic strategy, chemically coupling 4-methylvaleric acid to MXene, simultaneously solving air instability, restacking, and structural collapse. The organic-inorganic interface creates a molecular pillar and dipole effect, enabling exceptional 100,000-cycle stability (92.1% retention) in aqueous supercapacitors—surpassing most state-of-the-art MXene electrodes and offering new design principles for durable energy storage.&lt;br&gt;🏷 MXene · potassium storage · biomimetic modification · interfacial dipole · supercapacitor cycling</description>
-<category>MXene</category>
-<category>potassium storage</category>
-<category>biomimetic modification</category>
-<category>interfacial dipole</category>
-<category>supercapacitor cycling</category>
-</item>
-<item>
-<title>Self‐Activated Liquid‐Metal Hosts Stabilize Anode‐Free Aluminum Batteries</title>
-<link>https://doi.org/10.1002/smll.76422</link>
-<guid isPermaLink="false">10.1002/smll.76422</guid>
-<pubDate>Thu, 22 Oct 2026 22:03:31 GMT</pubDate>
-<description>پوشش فلز مایع Ga-In-Sn روی پارچه کربنی با بازسازی درجا و پیش‌آلومین‌سازی، باتری آلومینیمی بدون آند گرافیتی را با پایداری بیش از 20000 چرخه ممکن کرد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Ga–In–Sn liquid-metal-modified carbon cloth that self-activates in molten salt, spontaneously reconstructing and pre-aluminizing to form an aluminophilic interface. This lowers nucleation overpotential and guides uniform Al deposition, enabling anode-free Al batteries with ~1000 h stable cycling and over 80,000 cycles at high rate—advancing high-energy, low-cost storage.&lt;br&gt;🏷 anode-free aluminum battery · liquid metal · interfacial reconstruction · molten salt electrolyte · Al deposition</description>
-<category>anode-free aluminum battery</category>
-<category>liquid metal</category>
-<category>interfacial reconstruction</category>
-<category>molten salt electrolyte</category>
-<category>Al deposition</category>
 </item>
 </channel>
 </rss>
