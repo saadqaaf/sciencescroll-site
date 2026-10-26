@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 11:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 12:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanochemically Disordered Li 2 Ta 2 OCl 10 Oxyhalide Unlocks Superionic Conductivity (&amp;gt;10 mS.cm −1 )</title>
+<link>https://doi.org/10.1002/aenm.71736</link>
+<guid isPermaLink="false">10.1002/aenm.71736</guid>
+<pubDate>Mon, 26 Oct 2026 12:01:31 GMT</pubDate>
+<description>اکسی‌کلرید جدید Li2Ta2OCl10 سنتز شد و آسیاب گلوله‌ای با ایجاد زیرشبکه Li+ بی‌نظم، رسانایی یونی را ۵۰۰۰ برابر به 11 mS.cm−1 افزایش داد و باتری تمام‌جامد با پایداری بالا ساخت.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Novelty: A new lithium tantalum oxychloride, Li2Ta2OCl10, synthesized via a low-temperature route; ball milling induces a disordered, liquid-like Li+ sublattice, boosting conductivity 5000-fold to 11 mS.cm−1 and lowering activation energy to 0.27 eV. Significance: It enables all-solid-state batteries with low polarization and excellent cycling stability, establishing the Li–M–O–Cl family as a promising design space for superionic conductors.&lt;br&gt;🏷 solid electrolyte · oxyhalide · superionic conductivity · ball milling · all-solid-state battery</description>
+<category>solid electrolyte</category>
+<category>oxyhalide</category>
+<category>superionic conductivity</category>
+<category>ball milling</category>
+<category>all-solid-state battery</category>
+</item>
+<item>
+<title>Helical Keratin‐Derived Aqueous Binders for High‐Performance Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1002/aenm.71740</link>
+<guid isPermaLink="false">10.1002/aenm.71740</guid>
+<pubDate>Mon, 26 Oct 2026 12:01:25 GMT</pubDate>
+<description>بایندر آبی زیست‌توده‌ای از پروتئین α-هلیکال کرانین، PVA و گلیسرول برای باتری Li-S طراحی شد که با مهار شاتلینگ پلی‌سولفید و بافر شدن انبساط حجمی، پایداری چرخه‌ای بالایی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a biomass-derived aqueous binder crosslinking α-helical protein with PVA and glycerol, where the helical structure acts as a &amp;quot;molecular spring&amp;quot; to buffer volume expansion while polar N/O groups anchor polysulfides. Its significance is enabling green, multifunctional binder design that suppresses shuttling, accelerates kinetics, and delivers stable cycling (0.056% decay/cycle over 600 cycles), advancing practical lithium–sulfur batteries.&lt;br&gt;🏷 lithium-sulfur battery · aqueous binder · keratin · polysulfide shuttling · cycling stability</description>
+<category>lithium-sulfur battery</category>
+<category>aqueous binder</category>
+<category>keratin</category>
+<category>polysulfide shuttling</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Multi-Electron Transfer in Zinc-Based Batteries: Unraveling Redox Mechanisms Toward Next-Generation Self-Powered Technologies</title>
 <link>https://doi.org/10.1007/s40820-026-02329-y</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>nickel recovery</category>
 <category>sulfur-donor extractant</category>
 <category>solvent extraction</category>
-</item>
-<item>
-<title>Design of Polymer Functionalized Separators for Dendrite‑Free Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76427</link>
-<guid isPermaLink="false">10.1002/smll.76427</guid>
-<pubDate>Thu, 22 Oct 2026 22:02:44 GMT</pubDate>
-<description>یک پلیمر خودترمیم‌شونده با پیوند هیدروژنی برای اصلاح جداکننده تجاری ساخته شد که با بهبود انتقال Li+ و تشکیل SEI هیبریدی، رشد دندریت لیتیوم را سرکوب و پایداری باتری لیتیوم-فلز را افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a self-healing terpolymer coating (PEGMA, TTCS, UpyMA) for commercial separators, combining dynamic hydrogen bonding with enhanced Li⁺ transport to suppress dendrites. Its significance is forming an organic/inorganic-rich hybrid SEI that stabilizes LMBs, enabling 700 h symmetric cycling and 300 cycles at 83.6% retention in Li||NCM811 cells.&lt;br&gt;🏷 lithium metal battery · polymer-modified separator · lithium dendrite suppression · self-healing polymer · solid electrolyte interphase</description>
-<category>lithium metal battery</category>
-<category>polymer-modified separator</category>
-<category>lithium dendrite suppression</category>
-<category>self-healing polymer</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Dual‐Functional Acetate Intercalation in NiMn‐LDH Cathode: Interlayer Pillaring and Electronic Delocalization Toward Advanced Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76407</link>
-<guid isPermaLink="false">10.1002/smll.76407</guid>
-<pubDate>Thu, 22 Oct 2026 22:02:31 GMT</pubDate>
-<description>کاتد Ac-NiMn-LDH با آنیون استات میان‌لایه‌ای ساخته شد که با ستون‌بندی بین‌لایه‌ای و جابه‌جایی الکترونی، انتقال یون/الکترون و پایداری ساختاری را در باتری آبی روی-یون بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Acetate intercalation into NiMn-LDH acts as dual-functional pillar: expanding interlayer spacing to ease Zn2+ migration and strengthening structural stability, while inducing electronic delocalization at Mn/Ni sites to enhance charge transport. This synergistic structural-electronic regulation yields high capacity (274.6 mAh g−1) and ultralong cycling stability, offering a promising design strategy for advanced aqueous zinc-ion battery cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · NiMn-LDH cathode · acetate intercalation · interlayer pillaring · d-electron delocalization</description>
-<category>aqueous zinc-ion battery</category>
-<category>NiMn-LDH cathode</category>
-<category>acetate intercalation</category>
-<category>interlayer pillaring</category>
-<category>d-electron delocalization</category>
 </item>
 </channel>
 </rss>
