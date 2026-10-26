@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 06:02:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 07:01:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Heat and mass transfer and structural optimization of finned magnesium-based solid-state hydrogen storage tanks</title>
+<link>https://doi.org/10.1016/j.est.2026.125286</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125286</guid>
+<pubDate>Mon, 26 Oct 2026 07:01:29 GMT</pubDate>
+<description>انتقال حرارت و جرم و بهینه‌سازی ساختاری مخازن ذخیره هیدروژن حالت جامد پایه منیزیم با پره بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state hydrogen storage · magnesium-based tank · finned tank · heat and mass transfer · structural optimization</description>
+<category>solid-state hydrogen storage</category>
+<category>magnesium-based tank</category>
+<category>finned tank</category>
+<category>heat and mass transfer</category>
+<category>structural optimization</category>
+</item>
+<item>
+<title>Voltage coordination control method of photovoltaic storage direct current microgrid based on model prediction active disturbance rejection</title>
+<link>https://doi.org/10.1016/j.est.2026.125236</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125236</guid>
+<pubDate>Mon, 26 Oct 2026 07:01:25 GMT</pubDate>
+<description>روشی برای کنترل هماهنگ ولتاژ در میکروگرید DC فتوولتائیک-ذخیره‌ساز بر پایه کنترل پیش‌بین مدل و ردگیری فعال اغتشاش ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 DC microgrid · voltage coordination · model predictive control · active disturbance rejection · photovoltaic storage</description>
+<category>DC microgrid</category>
+<category>voltage coordination</category>
+<category>model predictive control</category>
+<category>active disturbance rejection</category>
+<category>photovoltaic storage</category>
+</item>
 <item>
 <title>Cascade Desolvation and Conversion Reaction Driven by Self‐Tandem Catalysis for Wide‐Temperature Li‐S Batteries</title>
 <link>https://doi.org/10.1002/advs.78441</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>electrode modification</category>
 <category>synchrotron characterization</category>
 <category>neutron imaging</category>
-</item>
-<item>
-<title>Supercritical Solvothermal Synthesis of Spinel ZnV 2 O 4 /Porous Carbon Composite Cathodes for Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76338</link>
-<guid isPermaLink="false">10.1002/smll.76338</guid>
-<pubDate>Thu, 22 Oct 2026 22:02:01 GMT</pubDate>
-<description>سنتز سولوترمال فوق‌بحرانی سریع کامپوزیت اسپینل ZnV2O4/کربن متخلخل، با افزایش رسانایی و کاهش انحلال وانادیم، ظرفیت 470 mAh g−1 و پایداری چرخه‌ای عالی در باتری آبی Zn-ion فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using supercritical ethanol solvothermal synthesis to rapidly form spinel ZnV₂O₄ while suppressing hydrated zinc vanadate phases, combined with a porous carbon framework. This enhances electronic conductivity, accelerates Zn²⁺ transport, and mitigates vanadium dissolution, enabling high capacity (470 mAh g⁻¹) and outstanding 5000-cycle stability, significantly advancing vanadium-based cathodes for aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · ZnV2O4 cathode · supercritical solvothermal · porous carbon · vanadium dissolution</description>
-<category>aqueous zinc-ion battery</category>
-<category>ZnV2O4 cathode</category>
-<category>supercritical solvothermal</category>
-<category>porous carbon</category>
-<category>vanadium dissolution</category>
-</item>
-<item>
-<title>Mitigating aging-induced degradation of aqueous zinc metal batteries via a tetraethylenepentamine electrolyte additive</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.015</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.015</guid>
-<pubDate>Thu, 22 Oct 2026 21:04:03 GMT</pubDate>
-<description>افزودنی الکترولیت تترااتیلن‌پنتامین تخریب ناشی از پیرشدگی را در باتری‌های آبی فلز روی کاهش می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · electrolyte additive · tetraethylenepentamine · aging degradation · zinc anode</description>
-<category>aqueous zinc battery</category>
-<category>electrolyte additive</category>
-<category>tetraethylenepentamine</category>
-<category>aging degradation</category>
-<category>zinc anode</category>
 </item>
 </channel>
 </rss>
