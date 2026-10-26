@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 19:03:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 20:02:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes</title>
+<link>https://doi.org/10.1016/j.joule.2026.102713</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102713</guid>
+<pubDate>Mon, 26 Oct 2026 20:01:56 GMT</pubDate>
+<description>این مقاله با افزایش پیچیدگی آرایشی در الکترولیت‌های هالیدی حالت جامد، انتقال حامل و تشکیل فاز میانی اکسی‌کلریدی را تنظیم می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 halide electrolyte · solid-state battery · carrier transport · oxychloride interphase · configurational complexity</description>
+<category>halide electrolyte</category>
+<category>solid-state battery</category>
+<category>carrier transport</category>
+<category>oxychloride interphase</category>
+<category>configurational complexity</category>
+</item>
 <item>
 <title>Spatially confined bimetallic sulfide interface engineering strategy synergistically promotes rapid and stable sodium-ion storage</title>
 <link>https://doi.org/10.1039/d6ta06926f</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>polysulfide conversion</category>
 <category>Li-N coordination</category>
 <category>rate capability</category>
-</item>
-<item>
-<title>Synergistically Engineered Ternary CoNiMo Metal-Organic Frameworks via Electrodeposition for High-Energy Flexible Supercapacitors and Efficient Oxygen Evolution Electrocatalysis</title>
-<link>https://doi.org/10.1039/d6ta03351b</link>
-<guid isPermaLink="false">10.1039/d6ta03351b</guid>
-<pubDate>Fri, 23 Oct 2026 01:01:45 GMT</pubDate>
-<description>الکترودهای MOF سه‌جزئی CoNiMo با آبکاری الکتریکی ساخته شدند و عملکرد بالایی در ابرخازن انعطاف‌پذیر و الکتروکاتالیز آزادسازی اکسیژن نشان دادند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in electrodepositing a ternary CoNiMo-MOF with tunable metal sites and porous architecture, synergistically enhancing conductivity, ion transport, and redox activity. Its significance is dual-functionality: high-energy flexible supercapacitor electrodes and efficient oxygen evolution electrocatalysis, advancing multifunctional MOF-based materials for sustainable energy storage and conversion.&lt;br&gt;🏷 CoNiMo MOF · flexible supercapacitor · oxygen evolution reaction · electrodeposition · ternary metal-organic framework</description>
-<category>CoNiMo MOF</category>
-<category>flexible supercapacitor</category>
-<category>oxygen evolution reaction</category>
-<category>electrodeposition</category>
-<category>ternary metal-organic framework</category>
 </item>
 </channel>
 </rss>
