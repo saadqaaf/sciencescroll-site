@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 08:01:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 09:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bidirectional optimization of thermal and electrical transport in p- type SnS by high pressure and high temperature processing and Ag doping</title>
+<link>https://doi.org/10.1039/d6ta06619d</link>
+<guid isPermaLink="false">10.1039/d6ta06619d</guid>
+<pubDate>Mon, 26 Oct 2026 09:01:22 GMT</pubDate>
+<description>با بهره‌گیری از فرآوری فشار و دمای بالا و دوپینگ Ag، خواص ترموالکتریک p-type SnS به‌صورت دوسویه بهینه شد و انتقال حرارت و الکتریسیته بهبود یافت.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 SnS · thermoelectric · Ag doping · high pressure · thermal conductivity</description>
+<category>SnS</category>
+<category>thermoelectric</category>
+<category>Ag doping</category>
+<category>high pressure</category>
+<category>thermal conductivity</category>
+</item>
 <item>
 <title>Heat and mass transfer and structural optimization of finned magnesium-based solid-state hydrogen storage tanks</title>
 <link>https://doi.org/10.1016/j.est.2026.125286</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>LINC02084</category>
 <category>nanoparticle delivery</category>
 <category>immunotherapy</category>
-</item>
-<item>
-<title>All-in-One Mitochondria-Targeted Iron-Based MOF “Nanomissiles” for Synergistically Potentiated Tumor Ferroptosis, Dual Phototherapy, and Chemotherapy</title>
-<link>https://doi.org/10.1021/acsnano.6c00339</link>
-<guid isPermaLink="false">10.1021/acsnano.6c00339</guid>
-<pubDate>Sat, 24 Oct 2026 23:01:43 GMT</pubDate>
-<description>این کار نانوموشک‌های هدفمند میتوکندری بر پایه PCN-600(Fe) را برای آزادسازی وابسته به ریز محیط تومور و ترکیب فروپتوز، فوتودینامیک، فوتوترمال ملایم و شیمی‌درمانی طراحی کرده است.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 MOF nanomissiles · ferroptosis · phototherapy · mitochondria targeting · chemotherapy</description>
-<category>MOF nanomissiles</category>
-<category>ferroptosis</category>
-<category>phototherapy</category>
-<category>mitochondria targeting</category>
-<category>chemotherapy</category>
 </item>
 </channel>
 </rss>
