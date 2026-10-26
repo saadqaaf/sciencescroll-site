@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 18:01:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 19:03:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spatially confined bimetallic sulfide interface engineering strategy synergistically promotes rapid and stable sodium-ion storage</title>
+<link>https://doi.org/10.1039/d6ta06926f</link>
+<guid isPermaLink="false">10.1039/d6ta06926f</guid>
+<pubDate>Mon, 26 Oct 2026 19:02:19 GMT</pubDate>
+<description>این پژوهش با مهندسی سطح مشترک دو فلزی سولفیدی SnS2@NiS2/CNF از طریق الکتروریسی و سولفیداسیون، ظرفیت برگشت‌پذیر، بازده کولمبی اولیه و پایداری چرخه‌ای ذخیره‌سازی سدیم را به‌طور هم‌افزا بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially confined bimetallic sulfide interface (SnS₂@NiS₂/CNF) built by electrospinning and sulfidation, creating synergistic heterointerfaces within carbon nanofibers. This design delivers enhanced reversible capacity, initial Coulombic efficiency, rate capability, and long-cycle stability for sodium-ion storage, offering a scalable interface-engineering strategy for high-performance anode materials.&lt;br&gt;🏷 sodium-ion storage · bimetallic sulfide · interface engineering · SnS2@NiS2 · electrospinning</description>
+<category>sodium-ion storage</category>
+<category>bimetallic sulfide</category>
+<category>interface engineering</category>
+<category>SnS2@NiS2</category>
+<category>electrospinning</category>
+</item>
+<item>
+<title>Constructing Water-Deficient Inner Helmholtz Plane via Sulfated Polysaccharide Multidentate Adsorption for Dendrite-Free Zinc Metal Anode</title>
+<link>https://doi.org/10.1039/d6ta07050g</link>
+<guid isPermaLink="false">10.1039/d6ta07050g</guid>
+<pubDate>Mon, 26 Oct 2026 19:01:40 GMT</pubDate>
+<description>این پژوهش با جذب چنددندانه پلی‌ساکارید سولفاته، لایه درونی هلمهولتز کم‌آب می‌سازد تا رشد دندریتی و واکنش آزادسازی هیدروژن در آند فلز روی باتری آبی Zn-ion مهار شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a sulfated polysaccharide to create a water-deficient inner Helmholtz plane via multidentate adsorption, regulating Zn deposition. This suppresses dendrite growth and hydrogen evolution, enabling dendrite-free Zn anodes. It offers a sustainable, low-cost electrolyte additive strategy with significant potential for practical AZIB deployment.&lt;br&gt;🏷 zinc metal anode · aqueous zinc-ion battery · sulfated polysaccharide · inner Helmholtz plane · dendrite suppression</description>
+<category>zinc metal anode</category>
+<category>aqueous zinc-ion battery</category>
+<category>sulfated polysaccharide</category>
+<category>inner Helmholtz plane</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Hierarchical 2D-2D-3D NiPS3@CoS2 architecture for high-performance sodium ion battery</title>
 <link>https://doi.org/10.1016/j.est.2026.125023</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>oxygen evolution reaction</category>
 <category>electrodeposition</category>
 <category>ternary metal-organic framework</category>
-</item>
-<item>
-<title>In Situ Mechanistic Insights into the Divergent Electrochemical Behaviors of Li, Na, and K in Metal Sulfur Batteries</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03870</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03870</guid>
-<pubDate>Fri, 23 Oct 2026 00:01:40 GMT</pubDate>
-<description>مطالعه درجای TEM و DFT بر رابط VGCF/S نشان داد رفتارهای متفاوت Li، Na و K در باتری‌های فلز-گوگرد ناشی از انتقال گونه‌های قلیایی و فرآیندهای بین‌سطحی است.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a noncatalytic VGCF/S interface with in situ TEM to directly visualize highly reversible two-step redox and fast reaction-front propagation in Li–S nanobatteries, contrasting Li, Na, and K behaviors. Significance: it links alkali-species transport, interfacial processes, and electrolyte-dependent pathways to divergent sulfur electrochemistry, establishing noncatalytic interfaces as a platform for mechanistic study.&lt;br&gt;🏷 metal-sulfur battery · in situ TEM · alkali metal · sulfur redox · DFT</description>
-<category>metal-sulfur battery</category>
-<category>in situ TEM</category>
-<category>alkali metal</category>
-<category>sulfur redox</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Optimization of last-stage turbine inlet reheating temperature in pressurized-water compressed air energy storage systems under variable operating conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.125231</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125231</guid>
-<pubDate>Thu, 22 Oct 2026 23:01:17 GMT</pubDate>
-<description>دمای ورودی ری‌هیت توربین آخر در سیستم ذخیره‌سازی انرژی هوای فشرده با آب تحت‌فشار در شرایط کاری متغیر بهینه‌سازی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · reheating temperature · turbine · pressurized water · optimization</description>
-<category>compressed air energy storage</category>
-<category>reheating temperature</category>
-<category>turbine</category>
-<category>pressurized water</category>
-<category>optimization</category>
 </item>
 </channel>
 </rss>
