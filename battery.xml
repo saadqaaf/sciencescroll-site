@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 22:01:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 23:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electronic Coupling at Bimetallic Ni-Co Sites Enables Reversible Li2O2 Formation and Decomposition in Lithium-Oxygen Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105611</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105611</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:22 GMT</pubDate>
+<description>جفت‌شدگی الکترونی در جایگاه‌های دوفلزی Ni-Co، تشکیل و تجزیه برگشت‌پذیر Li2O2 را در باتری لیتیوم-اکسیژن ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium-oxygen battery · Ni-Co sites · Li2O2 · electronic coupling · bifunctional catalyst</description>
+<category>lithium-oxygen battery</category>
+<category>Ni-Co sites</category>
+<category>Li2O2</category>
+<category>electronic coupling</category>
+<category>bifunctional catalyst</category>
+</item>
+<item>
+<title>A Physics-Guided Virtual Probe for Anode Potential Estimation via Target-Label-Free Sim-to-Real Adaptation</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105610</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105610</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:18 GMT</pubDate>
+<description>یک کاوشگر مجازی مبتنی بر فیزیک با سازگاری sim-to-real و بدون نیاز به برچسب، پتانسیل آند باتری را تخمین می‌زند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anode potential · virtual probe · sim-to-real · physics-guided model · battery management</description>
+<category>anode potential</category>
+<category>virtual probe</category>
+<category>sim-to-real</category>
+<category>physics-guided model</category>
+<category>battery management</category>
+</item>
 <item>
 <title>Li-associated cation redistribution and structural reversibility in honeycomb-ordered sodium ruthenates</title>
 <link>https://doi.org/10.1016/j.mattod.2026.103538</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>latent heat</category>
 <category>thermal management</category>
 <category>composite PCMs</category>
-</item>
-<item>
-<title>Decoupling Li + Transport in Self‐Healing Polymer Dual‐Salt Electrolytes for Room Temperature Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.78770</link>
-<guid isPermaLink="false">10.1002/adfm.78770</guid>
-<pubDate>Fri, 23 Oct 2026 06:03:27 GMT</pubDate>
-<description>الکترولیت ژل پلیمری خودترمیم دوجزئی با نمک دوگانه، تحرک آنیون‌ها را محدود کرده و رسانایی یونی و عدد انتقال Li+ را افزایش می‌دهد و باتری لیتیوم-فلز دمای اتاق پایدار ارائه می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a dual-salt self-curing polymer electrolyte that decouples Li+ transport via anion-anion interactions immobilizing anions, boosting ionic conductivity (2.23 mS cm−1) and transference number (0.55). Significance: enables room-temperature dendrite-suppressed lithium metal batteries with long cycling stability, flame retardancy, and reduced dead lithium, offering a viable route to safer high-energy batteries.&lt;br&gt;🏷 gel polymer electrolyte · dual-salt electrolyte · lithium metal battery · Li+ transference number · self-healing polymer</description>
-<category>gel polymer electrolyte</category>
-<category>dual-salt electrolyte</category>
-<category>lithium metal battery</category>
-<category>Li+ transference number</category>
-<category>self-healing polymer</category>
-</item>
-<item>
-<title>Unleashing Multi‐Electron Storage in Synergistic Dual‐Active‐Center Bridged Covalent Organic Polymer Cathode for High‐Capacity and Long‐Life Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79139</link>
-<guid isPermaLink="false">10.1002/adfm.79139</guid>
-<pubDate>Fri, 23 Oct 2026 06:03:21 GMT</pubDate>
-<description>کاتد پلیمر کووالانسی HAT-DHBQ با پل‌زنی دو واحد فعال، مسیر ذخیره‌سازی شش‌الکترونی Zn2+ آبشاری را ممکن کرده و ظرفیت بالا و عمر چرخه فوق‌طولانی در باتری آبی روی-یون ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an active dual-unit bridging strategy linking hexaazatrinaphthalene and dihydroxybenzoquinone into a conjugated framework, enabling cascaded six-electron Zn2+ storage. This yields high capacity (316.2 mAh g−1) and ultra-stable cycling (0.003% decay per cycle over 10,000 cycles), offering a molecular design paradigm for high-performance organic cathodes in aqueous multivalent-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · covalent organic polymer · dual-active-center cathode · multi-electron storage · HAT-DHBQ</description>
-<category>aqueous zinc-ion battery</category>
-<category>covalent organic polymer</category>
-<category>dual-active-center cathode</category>
-<category>multi-electron storage</category>
-<category>HAT-DHBQ</category>
 </item>
 </channel>
 </rss>

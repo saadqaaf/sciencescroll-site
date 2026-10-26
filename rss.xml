@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 22:01:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 23:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electronic Coupling at Bimetallic Ni-Co Sites Enables Reversible Li2O2 Formation and Decomposition in Lithium-Oxygen Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105611</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105611</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:22 GMT</pubDate>
+<description>جفت‌شدگی الکترونی در جایگاه‌های دوفلزی Ni-Co، تشکیل و تجزیه برگشت‌پذیر Li2O2 را در باتری لیتیوم-اکسیژن ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium-oxygen battery · Ni-Co sites · Li2O2 · electronic coupling · bifunctional catalyst</description>
+<category>lithium-oxygen battery</category>
+<category>Ni-Co sites</category>
+<category>Li2O2</category>
+<category>electronic coupling</category>
+<category>bifunctional catalyst</category>
+</item>
+<item>
+<title>A Physics-Guided Virtual Probe for Anode Potential Estimation via Target-Label-Free Sim-to-Real Adaptation</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105610</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105610</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:18 GMT</pubDate>
+<description>یک کاوشگر مجازی مبتنی بر فیزیک با سازگاری sim-to-real و بدون نیاز به برچسب، پتانسیل آند باتری را تخمین می‌زند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anode potential · virtual probe · sim-to-real · physics-guided model · battery management</description>
+<category>anode potential</category>
+<category>virtual probe</category>
+<category>sim-to-real</category>
+<category>physics-guided model</category>
+<category>battery management</category>
+</item>
+<item>
+<title>Multifunctional Molecular Layer on Silver Boosts Highly Efficient and Stable pH-Universal CO Electrosynthesis from CO2 at Industrial Current Densities</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127692</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127692</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:10 GMT</pubDate>
+<description>یک لایه مولکولی چندکاره بر نقره، سنتز الکتروشیمیایی CO از CO2 را در چگالی جریان صنعتی با کارایی بالا و پایداری در همه pHها تقویت می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · CO electrosynthesis · molecular layer · silver electrode · industrial current density</description>
+<category>CO2 electroreduction</category>
+<category>CO electrosynthesis</category>
+<category>molecular layer</category>
+<category>silver electrode</category>
+<category>industrial current density</category>
+</item>
+<item>
+<title>Formic acid formation via electrochemical CO2RR at low overpotentials on S-enriched 2H-MoS2 supported on an engineered interface</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127693</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127693</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:07 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که 2H-MoS2 غنی از گوگرد بر بستر مهندسی‌شده، احیای الکتروشیمیایی CO2 به فرمیک اسید را در اورپتانسیل پایین ممکن می‌سازد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 reduction · formic acid · MoS2 · low overpotential · electrocatalysis</description>
+<category>CO2 reduction</category>
+<category>formic acid</category>
+<category>MoS2</category>
+<category>low overpotential</category>
+<category>electrocatalysis</category>
+</item>
+<item>
+<title>Deep eutectic solvent-mediated multiscale silk fibroin hybrid eutectogels with broadly tunable mechanics for flexible electronics and energy harvesting</title>
+<link>https://doi.org/10.1007/s42114-026-02138-2</link>
+<guid isPermaLink="false">10.1007/s42114-026-02138-2</guid>
+<pubDate>Mon, 26 Oct 2026 23:01:04 GMT</pubDate>
+<description>با راهبرد تنظیم چندمقیاسی توسط حلال اوتکتیک عمیق، اوتکتوژل‌های هیبریدی ابریشم فیبروئین با خواص مکانیکی بسیار قابل‌تنظیم و رسانایی یونی برای الکترونیک نرم و برداشت انرژی ساخته شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silk fibroin · deep eutectic solvent · eutectogel · triboelectric nanogenerator · wearable sensor</description>
+<category>silk fibroin</category>
+<category>deep eutectic solvent</category>
+<category>eutectogel</category>
+<category>triboelectric nanogenerator</category>
+<category>wearable sensor</category>
+</item>
 <item>
 <title>Li-associated cation redistribution and structural reversibility in honeycomb-ordered sodium ruthenates</title>
 <link>https://doi.org/10.1016/j.mattod.2026.103538</link>
@@ -1152,66 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cisplatin conjugate · PK
 <category>electronic skin</category>
 <category>deep eutectic solvent</category>
 <category>posture monitoring</category>
-</item>
-<item>
-<title>Modulation of Surface‐Associated Transport in (Bi 1‐x Sb x ) 2 Te 3 via Battery‐ Inspired Solid‐State Iontronic Gating</title>
-<link>https://doi.org/10.1002/adfm.79295</link>
-<guid isPermaLink="false">10.1002/adfm.79295</guid>
-<pubDate>Mon, 26 Oct 2026 14:02:23 GMT</pubDate>
-<description>این کار با گیت‌کردن یون‌ترونیک حالت جامد الهام‌گرفته از باتری، انتقال سطحی در (Bi1-xSbx)2Te3 را در بایاس‌های پایین کنترل می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 topological insulator · iontronic gating · spin-orbit torque · Bi-Sb-Te · surface transport</description>
-<category>topological insulator</category>
-<category>iontronic gating</category>
-<category>spin-orbit torque</category>
-<category>Bi-Sb-Te</category>
-<category>surface transport</category>
-</item>
-<item>
-<title>Unlocking Thermoelectric Performance in Cu 2 SnSe 3 Through Controlled Structural Ordering</title>
-<link>https://doi.org/10.1002/adfm.79181</link>
-<guid isPermaLink="false">10.1002/adfm.79181</guid>
-<pubDate>Mon, 26 Oct 2026 14:02:10 GMT</pubDate>
-<description>این مقاله با کنترل نظم ساختاری Cu2SnSe3 از طریق بازپخت، تحرک حفره و عملکرد ترموالکتریک را در فاز تک‌بلوری بهینه می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 Cu2SnSe3 · thermoelectric · structural ordering · annealing · charge transport</description>
-<category>Cu2SnSe3</category>
-<category>thermoelectric</category>
-<category>structural ordering</category>
-<category>annealing</category>
-<category>charge transport</category>
-</item>
-<item>
-<title>Lack of ancestral SARS-CoV-2 imprinting promotes Omicron sublineage BA.3.2.2 infection in children</title>
-<link>https://doi.org/10.1038/s41564-026-02526-w</link>
-<guid isPermaLink="false">10.1038/s41564-026-02526-w</guid>
-<pubDate>Mon, 26 Oct 2026 14:02:05 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که نبود imprinting اجدادی SARS-CoV-2 باعث افزایش عفونت زیرشاخه Omicron BA.3.2.2 در کودکان می‌شود.&lt;br&gt;Nature Microbiology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 SARS-CoV-2 · Omicron BA.3.2.2 · immune imprinting · children · antibody response</description>
-<category>SARS-CoV-2</category>
-<category>Omicron BA.3.2.2</category>
-<category>immune imprinting</category>
-<category>children</category>
-<category>antibody response</category>
-</item>
-<item>
-<title>Bacterial steroid hormones shape coral immunity during heat stress</title>
-<link>https://doi.org/10.1038/s41564-026-02534-w</link>
-<guid isPermaLink="false">10.1038/s41564-026-02534-w</guid>
-<pubDate>Mon, 26 Oct 2026 14:02:00 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که هورمون‌های استروئیدی باکتریایی در تنظیم ایمنی مرجان‌ها در شرایط تنش گرمایی نقش دارند.&lt;br&gt;Nature Microbiology | 🔬 Research Article&lt;br&gt;🏷 coral immunity · steroid hormones · heat stress · bacteria · holobiont</description>
-<category>coral immunity</category>
-<category>steroid hormones</category>
-<category>heat stress</category>
-<category>bacteria</category>
-<category>holobiont</category>
-</item>
-<item>
-<title>Chronic progressive demyelination induces a microglial state with lysosomal dysfunction</title>
-<link>https://doi.org/10.1038/s41593-026-02489-5</link>
-<guid isPermaLink="false">10.1038/s41593-026-02489-5</guid>
-<pubDate>Mon, 26 Oct 2026 13:02:01 GMT</pubDate>
-<description>دمیلیناسیون مزمن حالت میکروگلیایی با اختلال لیزوزومی ایجاد می‌کند که با یک مقلد desmosterol معکوس شده و آسیب میلین را کاهش می‌دهد.&lt;br&gt;Nature Neuroscience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chronic demyelination · microglial state · lysosomal dysfunction · cholesterol synthesis · desmosterol mimetic</description>
-<category>chronic demyelination</category>
-<category>microglial state</category>
-<category>lysosomal dysfunction</category>
-<category>cholesterol synthesis</category>
-<category>desmosterol mimetic</category>
 </item>
 </channel>
 </rss>
