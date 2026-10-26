@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 12:01:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 13:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Structure and performance study of iPP microporous membrane derived from β-transcrystalline precursor for lithium-ion battery separators</title>
+<link>https://doi.org/10.1007/s42114-026-02159-x</link>
+<guid isPermaLink="false">10.1007/s42114-026-02159-x</guid>
+<pubDate>Mon, 26 Oct 2026 13:01:44 GMT</pubDate>
+<description>غشای میکروپور iPP از پیش‌ماده β-transcrystalline برای جداکننده باتری لیتیوم-یون ساخته و ساختار و عملکرد آن بررسی شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery separator · iPP microporous membrane · β-transcrystallinity · stretching process · pore structure</description>
+<category>lithium-ion battery separator</category>
+<category>iPP microporous membrane</category>
+<category>β-transcrystallinity</category>
+<category>stretching process</category>
+<category>pore structure</category>
+</item>
 <item>
 <title>Mechanochemically Disordered Li 2 Ta 2 OCl 10 Oxyhalide Unlocks Superionic Conductivity (&amp;gt;10 mS.cm −1 )</title>
 <link>https://doi.org/10.1002/aenm.71736</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>polysulfide shuttle</category>
 <category>Li anode</category>
 <category>pouch cells</category>
-</item>
-<item>
-<title>Direct Nickel Recovery From Spent NCM Lithium ‐ Ion Batteries Enabled by Hydrophobic Sulfur ‐ Donor Extractants</title>
-<link>https://doi.org/10.1002/smll.76257</link>
-<guid isPermaLink="false">10.1002/smll.76257</guid>
-<pubDate>Thu, 22 Oct 2026 22:02:54 GMT</pubDate>
-<description>استخراج‌کننده‌های دهنده‌گوگرد TPA-H برای بازیابی مستقیم و بسیار انتخابی Ni از محلول لیچینگ باتری‌های مستعمل NCM طراحی شد و جداسازی Ni/Co با ضریب بالای 2300 و خلوص NiSO4·6H2O برابر 99.7% به دست آمد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in organocatalyst-inspired hydrophobic sulfur-donor extractants (TPA-H) enabling direct, highly selective Ni recovery under strongly acidic conditions (pH ~0.5) with a Ni/Co separation factor above 2300, eliminating saponification and Na2SO4 waste. Significance: over 95% Ni extraction from real spent LIB leachates, 99.7% pure NiSO4·6H2O without scrubbing, excellent recyclability, and continuous automated extraction via an AFR–Zaiput platform.&lt;br&gt;🏷 battery recycling · NCM cathode · nickel recovery · sulfur-donor extractant · solvent extraction</description>
-<category>battery recycling</category>
-<category>NCM cathode</category>
-<category>nickel recovery</category>
-<category>sulfur-donor extractant</category>
-<category>solvent extraction</category>
 </item>
 </channel>
 </rss>
