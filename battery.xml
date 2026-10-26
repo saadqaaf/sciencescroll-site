@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 21:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 22:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Li-associated cation redistribution and structural reversibility in honeycomb-ordered sodium ruthenates</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103538</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103538</guid>
+<pubDate>Mon, 26 Oct 2026 22:01:40 GMT</pubDate>
+<description>این پژوهش توزیع مجدد کاتیون‌های مرتبط با Li و برگشت‌پذیری ساختاری در روتنات‌های سدیم با نظم لانه‌زنبوری را بررسی می‌کند.&lt;br&gt;Materials Today | 🔬 Research Article&lt;br&gt;🏷 sodium ruthenates · honeycomb ordering · cation redistribution · structural reversibility · Li substitution</description>
+<category>sodium ruthenates</category>
+<category>honeycomb ordering</category>
+<category>cation redistribution</category>
+<category>structural reversibility</category>
+<category>Li substitution</category>
+</item>
+<item>
+<title>Resolving the Structural Origin of Lattice Oxygen Release across Scales in Practical Lithium‐Manganese‐Rich Electrodes</title>
+<link>https://doi.org/10.1002/aenm.71746</link>
+<guid isPermaLink="false">10.1002/aenm.71746</guid>
+<pubDate>Mon, 26 Oct 2026 22:01:21 GMT</pubDate>
+<description>با ترکیب طیف‌سنجی جرمی الکتروشیمیایی و میکروسکوپ سنکروترون، منشأ فضایی آزادسازی اکسیژن شبکه در کاتدهای غنی از لیتیوم-منگنز بررسی و نمای وجه‌های فرونتال به‌عنوان عامل کلیدی شناسایی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This study resolves the multiscale structural origin of O₂ release in practical Li-Mn-rich electrodes, showing it is not electrode- or particle-scale heterogeneity but grain frontal-facet exposure that governs oxygen loss. By mapping Mn reduction across four orders of magnitude, it identifies frontal-facet area as a key descriptor, providing a design principle for mitigating gas evolution in high-energy-density cathodes.&lt;br&gt;🏷 lithium-manganese-rich cathode · lattice oxygen release · O2 evolution · Mn reduction · facet dependence</description>
+<category>lithium-manganese-rich cathode</category>
+<category>lattice oxygen release</category>
+<category>O2 evolution</category>
+<category>Mn reduction</category>
+<category>facet dependence</category>
+</item>
 <item>
 <title>A Precursor Design Principle for Archipelagic Hard‐Carbon Structural Evolution Through Cohesion–Solvation Regulation of Asphaltene Molecular Heterogeneity</title>
 <link>https://doi.org/10.1002/adma.75517</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>dual-active-center cathode</category>
 <category>multi-electron storage</category>
 <category>HAT-DHBQ</category>
-</item>
-<item>
-<title>Sacrificing Initial Active Area for Superior Structural and Interfacial Stability in MoSe 2 /C Anodes for All‐Solid‐State Lithium Batteries</title>
-<link>https://doi.org/10.1002/adfm.79033</link>
-<guid isPermaLink="false">10.1002/adfm.79033</guid>
-<pubDate>Fri, 23 Oct 2026 06:03:06 GMT</pubDate>
-<description>آند MoSe2/C توخالی با اسکلت کربنی در باتری لیتیوم تمام‌جامد، با فداکردن بخشی از سطح فعال اولیه، پایداری ساختاری و بین‌سطحی و عمر چرخه طولانی را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a counterintuitive design strategy: sacrificing part of the initial active area of MoSe₂ via carbon shell engineering to gain superior structural and interfacial stability. Significance: the MoSe₂/C anode enables ultrafast, durable cycling in all-solid-state lithium batteries (11,000 cycles), offering a rational paradigm for conversion-type materials.&lt;br&gt;🏷 MoSe2/C anode · all-solid-state battery · conversion anode · interfacial stability · stress buffering</description>
-<category>MoSe2/C anode</category>
-<category>all-solid-state battery</category>
-<category>conversion anode</category>
-<category>interfacial stability</category>
-<category>stress buffering</category>
-</item>
-<item>
-<title>Solvent–Solvent Interaction Regulation Enables a Practical Ultra‐Low‐Temperature Electrolyte for Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.78353</link>
-<guid isPermaLink="false">10.1002/adfm.78353</guid>
-<pubDate>Fri, 23 Oct 2026 06:02:17 GMT</pubDate>
-<description>با تنظیم برهم‌کنش حلال-حلال و افزایش قطبیت اتیل بوتیرات، الکترولیتی با نقطه انجماد بسیار پایین برای باتری سدیم-یون ساخته شد که در پاکت‌سل‌های Ah در دمای بسیار کم عملکرد خوبی دارد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using α-H methyl substitution to enhance ethyl butyrate polarity, tuning solvent–solvent interactions with propylene carbonate to create a low-cost, safe electrolyte with a −130°C freezing point and low desolvation barriers. Its significance is demonstrated in Ah-scale sodium-ion pouch cells: ~70% capacity retention at −60°C, stable cycling at −30°C, excellent fast-charge performance, and suppressed sodium plating, validated at 5 Ah engineering scale.&lt;br&gt;🏷 sodium-ion battery · low-temperature electrolyte · solvent interaction · ethyl butyrate · pouch cell</description>
-<category>sodium-ion battery</category>
-<category>low-temperature electrolyte</category>
-<category>solvent interaction</category>
-<category>ethyl butyrate</category>
-<category>pouch cell</category>
 </item>
 </channel>
 </rss>
