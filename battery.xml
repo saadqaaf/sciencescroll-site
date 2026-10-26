@@ -5,8 +5,21 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 14:03:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 15:03:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c16957</link>
+<guid isPermaLink="false">10.1021/jacs.6c16957</guid>
+<pubDate>Mon, 26 Oct 2026 15:03:41 GMT</pubDate>
+<description>این مقاله با آمورف‌سازی LiVCl4 و کاهش موانع مرزدانه‌ای، کاتد هالیدی بدون الکترولیت را قادر می‌سازد در باتری تمام‌جامد لیتیومی به نرخ فوق‌سریع 75C و پایداری 16000 چرخه دست یابد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathodes (LiVCl4, LiTaOCl4) minimizes grain-boundary ion-transport barriers rather than maximizing bulk conductivity, enabling catholyte-free ASSLBs with 90 wt% CAM. This yields 75C operation (102.1 mAh g–1 at 20 mA cm–2), 16,000-cycle stability, and wide-temperature performance, establishing conformal amorphous interfaces as a new paradigm for ultrahigh-power all-solid-state lithium batteries.&lt;br&gt;🏷 all-solid-state lithium battery · halide cathode · amorphous LiVCl4 · grain boundary · ultrafast charging</description>
+<category>all-solid-state lithium battery</category>
+<category>halide cathode</category>
+<category>amorphous LiVCl4</category>
+<category>grain boundary</category>
+<category>ultrafast charging</category>
+</item>
 <item>
 <title>Flame Retardant Lithium Composites With Synergistic Suppression of Lithium Dendrites and Smoke Toxicity for High Safe Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adfm.79298</link>
@@ -1198,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>interfacial reconstruction</category>
 <category>molten salt electrolyte</category>
 <category>Al deposition</category>
-</item>
-<item>
-<title>Deciphering Crystal Structure‐Lithium Storage Behaviors in Niobium Tungsten Oxides Toward High‐Power Lithium‐Ion Capacitors</title>
-<link>https://doi.org/10.1002/smll.76386</link>
-<guid isPermaLink="false">10.1002/smll.76386</guid>
-<pubDate>Thu, 22 Oct 2026 22:03:23 GMT</pubDate>
-<description>ساختارهای بلوری اکسیدهای نیوبیم-تنگستن به‌عنوان آند پرتوان بررسی شد و Nb16W5O55 با سد مهاجرت 0.15 eV در خازن‌های یونی لیتیومی انرژی 300.6 Wh/kg را ممکن ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in systematically comparing four niobium tungsten oxide crystal structures, identifying Nb16W5O55&amp;#x27;s low 0.15 eV barrier as key to fast lithium storage. Significance: pairing it with capacitive carbon yields aqueous and organic lithium-ion capacitors achieving 300.6 Wh kg−1 and 33.3 kW kg−1, elucidating structure–kinetics relationships and enabling high-energy, high-power devices.&lt;br&gt;🏷 niobium tungsten oxide · lithium-ion capacitor · Wadsley-Roth phase · fast lithium storage · anode kinetics</description>
-<category>niobium tungsten oxide</category>
-<category>lithium-ion capacitor</category>
-<category>Wadsley-Roth phase</category>
-<category>fast lithium storage</category>
-<category>anode kinetics</category>
 </item>
 </channel>
 </rss>
