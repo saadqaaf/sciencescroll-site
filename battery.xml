@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 05:01:20 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 06:02:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cascade Desolvation and Conversion Reaction Driven by Self‐Tandem Catalysis for Wide‐Temperature Li‐S Batteries</title>
+<link>https://doi.org/10.1002/advs.78441</link>
+<guid isPermaLink="false">10.1002/advs.78441</guid>
+<pubDate>Mon, 26 Oct 2026 06:01:57 GMT</pubDate>
+<description>کاتالیز خودتندمی با Ce اتمی روی LDH غنی از نقص، واکنش‌های آبگیری Li+ و تبدیل پلی‌سولفید را تسریع کرده و باتری Li-S را در دمای 0 تا -30 درجه سانتی‌گراد کارآمد می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using atom-level Ce on defect-rich CoFe-LDH as a self-tandem catalyst to enable cascade Li+ desolvation and polysulfide conversion, avoiding electrolyte engineering. This lowers reaction barriers, boosting kinetics and enabling stable wide-temperature Li-S batteries (0 to −30°C) with 94% retention at 5C, offering a promising strategy for high-performance wide-temperature LSBs.&lt;br&gt;🏷 Li-S battery · wide-temperature · self-tandem catalysis · desolvation · polysulfide conversion</description>
+<category>Li-S battery</category>
+<category>wide-temperature</category>
+<category>self-tandem catalysis</category>
+<category>desolvation</category>
+<category>polysulfide conversion</category>
+</item>
 <item>
 <title>Towards proactive control of grid-scale battery energy storage using dynamic preview length</title>
 <link>https://doi.org/10.1016/j.est.2026.125289</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>tetraethylenepentamine</category>
 <category>aging degradation</category>
 <category>zinc anode</category>
-</item>
-<item>
-<title>Electrochemical mechanisms and optimization strategies towards δ-MnO2 cathode materials for aqueous Zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.011</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.011</guid>
-<pubDate>Thu, 22 Oct 2026 21:03:58 GMT</pubDate>
-<description>این مرور، سازوکارهای الکتروشیمیایی و راهبردهای بهینه‌سازی کاتد δ-MnO2 را برای باتری‌های آبی یون روی بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 aqueous zinc-ion battery · δ-MnO2 cathode · electrochemical mechanism · cathode optimization · energy storage</description>
-<category>aqueous zinc-ion battery</category>
-<category>δ-MnO2 cathode</category>
-<category>electrochemical mechanism</category>
-<category>cathode optimization</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
