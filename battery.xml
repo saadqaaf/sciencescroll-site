@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 22:04:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hollow ZnSe dodecahedrons nested on carbon nanotubes as three-dimensional sulfiphilic hosts for mitigating polysulfide shuttling and enhancing ion transport in lithium-sulfur batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125296</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125296</guid>
+<pubDate>Tue, 27 Oct 2026 23:01:48 GMT</pubDate>
+<description>این مقاله دوازده‌وجهی‌های توخالی ZnSe را روی نانولوله‌های کربنی به‌عنوان میزبان سه‌بعدی سولفوفیل برای کاهش شاتل پلی‌سولفید و بهبود انتقال یون در باتری Li-S به کار می‌برد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · ZnSe dodecahedrons · polysulfide shuttling · sulfiphilic host · ion transport</description>
+<category>lithium-sulfur battery</category>
+<category>ZnSe dodecahedrons</category>
+<category>polysulfide shuttling</category>
+<category>sulfiphilic host</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Optimal capacity allocation of multi-type energy storage systems for grid support: A life-cycle cost-driven approach with multi-time scale coordination</title>
+<link>https://doi.org/10.1016/j.est.2026.125305</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125305</guid>
+<pubDate>Tue, 27 Oct 2026 23:01:43 GMT</pubDate>
+<description>این مقاله تخصیص ظرفیت بهینه سیستم‌های ذخیره‌سازی چندنوعه را با رویکرد هزینه چرخه عمر و هماهنگی چندمقیاس زمانی برای پشتیبانی شبکه ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 multi-type storage · capacity allocation · life-cycle cost · grid support · multi-time scale</description>
+<category>multi-type storage</category>
+<category>capacity allocation</category>
+<category>life-cycle cost</category>
+<category>grid support</category>
+<category>multi-time scale</category>
+</item>
+<item>
+<title>Joint electric vehicle guidance and charging dispatch for distributed battery swapping stations</title>
+<link>https://doi.org/10.1016/j.est.2026.125210</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125210</guid>
+<pubDate>Tue, 27 Oct 2026 23:01:39 GMT</pubDate>
+<description>این پژوهش راهنمایی خودروهای برقی و توزیع شارژ را برای ایستگاه‌های تعویض باتری توزیع‌شده به‌صورت هم‌زمان بهینه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery swapping · electric vehicle · charging dispatch · guidance strategy · distributed stations</description>
+<category>battery swapping</category>
+<category>electric vehicle</category>
+<category>charging dispatch</category>
+<category>guidance strategy</category>
+<category>distributed stations</category>
+</item>
+<item>
+<title>Temperature-sensitive EIS features for early thermal runaway detection in lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125294</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125294</guid>
+<pubDate>Tue, 27 Oct 2026 23:01:35 GMT</pubDate>
+<description>این مقاله ویژگی‌های حساس به دما در طیف‌سنجی امپدانس الکتروشیمیایی را برای تشخیص زودهنگام فرار حرارتی در باتری‌های لیتیوم-یون شناسایی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · lithium-ion battery · EIS · early detection · temperature sensitivity</description>
+<category>thermal runaway</category>
+<category>lithium-ion battery</category>
+<category>EIS</category>
+<category>early detection</category>
+<category>temperature sensitivity</category>
+</item>
+<item>
+<title>Atomically dispersed NiN4 sites in hierarchically porous carbon boost zinc-ion hybrid capacitor performance</title>
+<link>https://doi.org/10.1016/j.est.2026.125351</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125351</guid>
+<pubDate>Tue, 27 Oct 2026 23:01:21 GMT</pubDate>
+<description>این مقاله سایت‌های اتمی پراکنده NiN4 را در کربن متخلخل سلسله‌مراتبی برای بهبود عملکرد خازن هیبریدی یون روی به کار می‌برد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion hybrid capacitor · single-atom Ni · porous carbon · NiN4 sites · energy storage</description>
+<category>zinc-ion hybrid capacitor</category>
+<category>single-atom Ni</category>
+<category>porous carbon</category>
+<category>NiN4 sites</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>Achieving Stable High‐Voltage All‐Solid‐State Lithium Batteries: Electrolytes, Interfaces, and Advanced Characterization</title>
 <link>https://doi.org/10.1002/smll.76310</link>
@@ -1149,69 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>high-entropy</category>
 <category>energy storage</category>
 <category>multiscale optimization</category>
-</item>
-<item>
-<title>Threefold-Symmetric Te Nanoparticles for Stabilizing Zinc Metal Anodes</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c02828</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c02828</guid>
-<pubDate>Sun, 25 Oct 2026 02:00:58 GMT</pubDate>
-<description>نانوذرات Te با تقارن سه‌گانه و وجوه روی‌دوست، هسته‌زنی و رسوب Zn را یکنواخت کرده و پایداری و بازدهی آندهای فلزی روی در باتری‌های آبی یون-روی را بهبود می‌دهند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in facet-geometry engineering using threefold-symmetric Te nanoparticles, whose zincophilic facets and symmetric geometry cluster nucleation sites nanoscale, enabling uniform Zn deposition. This links NP geometry to facet-dependent zincophilicity and deposition behavior, offering a general strategy for protective layers that improve reversibility, rate capability, and cycling stability in aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal anode · Te nanoparticles · zinc-ion battery · facet engineering · Zn deposition</description>
-<category>zinc metal anode</category>
-<category>Te nanoparticles</category>
-<category>zinc-ion battery</category>
-<category>facet engineering</category>
-<category>Zn deposition</category>
-</item>
-<item>
-<title>Noncovalent Metal–Water Polarization Governs Helmholtz Capacitance</title>
-<link>https://doi.org/10.1021/jacs.6c11740</link>
-<guid isPermaLink="false">10.1021/jacs.6c11740</guid>
-<pubDate>Sat, 24 Oct 2026 23:02:31 GMT</pubDate>
-<description>شبیه‌سازی‌های AIMD نشان می‌دهند که پاسخ الکترونیکی سمت فلز و طول سرریز الکترون در فصل مشترک فلز–آب، روند وابسته به فلز خازن هلمهولتز را کنترل می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in showing that metal-dependent Helmholtz capacitance arises primarily from the electrode-side electronic response—specifically noncovalent metal–water polarization controlling electron spillover length—rather than from interfacial water structure. Using ab initio molecular dynamics, the authors reproduce the experimental fcc(111) trend and validate it for cross-geometry Pt/Au systems, providing a predictive, physically grounded design principle for electrode materials in sustainable-energy technologies.&lt;br&gt;🏷 Helmholtz capacitance · metal-water interface · ab initio molecular dynamics · electron spillover · DFT</description>
-<category>Helmholtz capacitance</category>
-<category>metal-water interface</category>
-<category>ab initio molecular dynamics</category>
-<category>electron spillover</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Vacancy-Induced Ligand-Hole Character Redirects Oxygen Redox in Li-Rich Layered Oxides</title>
-<link>https://doi.org/10.1021/jacs.6c17588</link>
-<guid isPermaLink="false">10.1021/jacs.6c17588</guid>
-<pubDate>Sat, 24 Oct 2026 23:02:19 GMT</pubDate>
-<description>پیش‌شرطی‌سازی نقص اکسیژن در اکسید لایه‌ای غنی از Li، ویژگی حفره لیگاندی و هیبریداسیون Ni–O را تقویت کرده و با تغییر مسیر ردوکس اکسیژن، هیسترزیس و افت ولتاژ کاتد را کاهش می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Vacancy-preconditioning in Li-rich layered oxides enhances Ni–O hybridization and ligand-hole character, shifting oxygen redox earlier and delocalizing holes. This suppresses Mn reduction and induces beneficial structural relaxation, reducing voltage hysteresis and decay. The work directly links vacancy-modified local electronic structure to oxygen-redox structural pathways, offering a design principle for reversible oxygen-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · oxygen redox · oxygen vacancy · ligand hole · voltage decay</description>
-<category>Li-rich layered oxide</category>
-<category>oxygen redox</category>
-<category>oxygen vacancy</category>
-<category>ligand hole</category>
-<category>voltage decay</category>
-</item>
-<item>
-<title>Highly Selective Artificial Lithium Channels</title>
-<link>https://doi.org/10.1021/jacs.6c13878</link>
-<guid isPermaLink="false">10.1021/jacs.6c13878</guid>
-<pubDate>Sat, 24 Oct 2026 23:02:09 GMT</pubDate>
-<description>کانال‌های مصنوعی سوپرمولکولی مبتنی بر pillar[5]arene با لیگاند DPP ساخته شدند که گزینش‌پذیری بسیار بالای Li+ نسبت به Na+، K+، Mg2+ و Ca2+ را در انتقال غشایی فراهم می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioinspired pillar[5]arene-DPP membrane channels achieving record Li+ selectivity (Li+/Na+ ≥ 94, Li+/K+ ≥ 136) with 13.35 pS conductance. Significance: this sets a new benchmark for artificial Li+-selective channels, enabled by coupled hydration-shell retention, DPP coordination, and pore confinement, offering sustainable bioinspired lithium purification and recycling.&lt;br&gt;🏷 artificial lithium channel · pillar[5]arene · Li+ selectivity · biomimetic membrane · lithium extraction</description>
-<category>artificial lithium channel</category>
-<category>pillar[5]arene</category>
-<category>Li+ selectivity</category>
-<category>biomimetic membrane</category>
-<category>lithium extraction</category>
-</item>
-<item>
-<title>Watching Electrochemical Interfaces in Motion with High-Speed Atomic Force Microscopy</title>
-<link>https://doi.org/10.1021/acsnano.6c16183</link>
-<guid isPermaLink="false">10.1021/acsnano.6c16183</guid>
-<pubDate>Sat, 24 Oct 2026 23:01:36 GMT</pubDate>
-<description>این چشم‌انداز کاربردهای HS-AFM را برای تصویربرداری operando از پدیده‌های گذرای فصل مشترک الکتروشیمیایی مانند الکتروانباشت، خوردگی و تحول مورفولوژیکی ناشی از لیتیوم‌گذاری مرور می‌کند.&lt;br&gt;ACS Nano | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 HS-AFM uniquely enables real-time, nanoscale visualization of transient electrochemical phenomena under operando conditions, bridging spatial resolution with subsecond temporal resolution. Its novelty lies in capturing nonequilibrium pathways—nucleation, dissolution, corrosion, nanobubble dynamics—rather than static structures alone, providing mechanistic insight previously inaccessible. This establishes direct correlation of interfacial structure, kinetics, and electrochemical function.&lt;br&gt;🏷 high-speed AFM · electrochemical interfaces · operando imaging · electrodeposition · lithiation</description>
-<category>high-speed AFM</category>
-<category>electrochemical interfaces</category>
-<category>operando imaging</category>
-<category>electrodeposition</category>
-<category>lithiation</category>
 </item>
 </channel>
 </rss>
