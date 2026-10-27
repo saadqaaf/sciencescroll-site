@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 07:01:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 08:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Modern trends in CaMoO4-based functional materials for photonic, photoelectrocatalytic, and energy storage applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218684</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218684</guid>
+<pubDate>Tue, 27 Oct 2026 08:01:47 GMT</pubDate>
+<description>این مرور، روندهای اخیر مواد کاربردی بر پایه CaMoO4 را برای کاربردهای فوتونیک، فوتوالکتروکاتالیز و ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 CaMoO4 · photoluminescence · photoelectrocatalysis · energy storage · functional materials</description>
+<category>CaMoO4</category>
+<category>photoluminescence</category>
+<category>photoelectrocatalysis</category>
+<category>energy storage</category>
+<category>functional materials</category>
+</item>
 <item>
 <title>Crystal-Scale Engineering of Layered Oxide Cathodes: Structure-Property Relationships and Design Principles</title>
 <link>https://doi.org/10.1039/d6ta06831f</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>ion transport</category>
 <category>lithium-ion battery</category>
 <category>reaction kinetics</category>
-</item>
-<item>
-<title>Synergistic Br – Substitution and Sulfide Interlayer Engineering Enables High–Performance Li 2 ZrCl 6 Halide Electrolytes for All–Solid–State Batteries</title>
-<link>https://doi.org/10.1039/d6ta07131g</link>
-<guid isPermaLink="false">10.1039/d6ta07131g</guid>
-<pubDate>Fri, 23 Oct 2026 11:01:30 GMT</pubDate>
-<description>این مقاله با جایگزینی Br و مهندسی لایه سولفیدی، الکترولیت هالیدی Li2ZrCl6 را برای باتری‌های تمام‌جامد لیتیومی بهبود می‌دهد و پایداری سطحی و عملکرد آن را ارتقا می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in synergistically combining Br⁻ substitution with sulfide interlayer engineering to overcome Li₂ZrCl₆&amp;#x27;s poor interfacial stability against lithium metal. This dual strategy enables high-performance halide electrolytes, advancing cost-effective, abundant-zirconium all-solid-state batteries with improved interfacial stability and electrochemical performance.&lt;br&gt;🏷 halide electrolyte · Li2ZrCl6 · all-solid-state battery · bromine substitution · interfacial stability</description>
-<category>halide electrolyte</category>
-<category>Li2ZrCl6</category>
-<category>all-solid-state battery</category>
-<category>bromine substitution</category>
-<category>interfacial stability</category>
 </item>
 </channel>
 </rss>
