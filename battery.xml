@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 18:02:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 19:02:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecular Modulation of Phenyl-Bridged Diphenanthroline Anodes toward Ultralong-Cycling Sodium–Organic Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105618</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105618</guid>
+<pubDate>Tue, 27 Oct 2026 19:02:04 GMT</pubDate>
+<description>این پژوهش با تنظیم مولکولی آندهای diphenanthroline پل‌دار فنیل، باتری سدیم-آلی با چرخه‌پذیری فوق‌طولانی ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-organic battery · diphenanthroline anode · phenyl bridge · molecular modulation · ultralong cycling</description>
+<category>sodium-organic battery</category>
+<category>diphenanthroline anode</category>
+<category>phenyl bridge</category>
+<category>molecular modulation</category>
+<category>ultralong cycling</category>
+</item>
+<item>
+<title>Structural Engineering of Gel Electrolytes for Decoupled Suppression of Side Reactions in Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105614</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105614</guid>
+<pubDate>Tue, 27 Oct 2026 19:02:00 GMT</pubDate>
+<description>این پژوهش با مهندسی ساختاری الکترولیت ژلی، واکنش‌های جانبی را به‌صورت تفکیک‌شده در باتری آبی روی سرکوب می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 gel electrolyte · aqueous zinc battery · side reactions · structural engineering · zinc anode</description>
+<category>gel electrolyte</category>
+<category>aqueous zinc battery</category>
+<category>side reactions</category>
+<category>structural engineering</category>
+<category>zinc anode</category>
+</item>
 <item>
 <title>Chloride‐Mediated Activation of Aluminum‐Alloyed Liquid Metal Anodes for Stretchable Asymmetric Energy Storage</title>
 <link>https://doi.org/10.1002/aenm.71752</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>carbonate electrolyte</category>
 <category>particle suspension</category>
 <category>electrolyte design</category>
-</item>
-<item>
-<title>Amorphization Unlocks Active Sites in Organic Small Molecules for Ah‐Level Aqueous Ammonium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75494</link>
-<guid isPermaLink="false">10.1002/adma.75494</guid>
-<pubDate>Sat, 24 Oct 2026 09:01:56 GMT</pubDate>
-<description>بی‌شکل‌سازی مولکول کوچک TDT با شکستن انباشتگی π–π، جایگاه‌های ردوکس مدفون را فعال کرده و باتری آبی آمونیوم-یون با ظرفیت Ah-level پایدار ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Amorphous TDT disrupts π–π stacking, exposing buried redox sites (738 m²/g) and enabling 242.8 mAh/g with 87.1% retention over 817 cycles. It reveals NH₄⁺ coordination/deprotonation storage plus localized hydrolysis generating H₃O⁺. The first Ah-level aqueous ammonium-ion pouch cell (1.037 Ah, 1.14 V) demonstrates practical viability of amorphous organic small molecules for durable, high-capacity batteries.&lt;br&gt;🏷 ammonium-ion battery · amorphization · organic electrode · TDT molecule · active site</description>
-<category>ammonium-ion battery</category>
-<category>amorphization</category>
-<category>organic electrode</category>
-<category>TDT molecule</category>
-<category>active site</category>
-</item>
-<item>
-<title>Machine‐Learning‐Potential‐Driven Volcano Relationship in Grain Boundary Amorphicity and Ionic Transport of Antiperovskite Solid Electrolytes</title>
-<link>https://doi.org/10.1002/adma.75492</link>
-<guid isPermaLink="false">10.1002/adma.75492</guid>
-<pubDate>Sat, 24 Oct 2026 09:01:51 GMT</pubDate>
-<description>با پتانسیل بین‌اتمی یادگیری ماشین، رابطه آتشفشانی میان بی‌شکلی مرز دانه و انتقال یونی در الکترولیت جامد آنتی‌پروسکایتی شناسایی و مرز دانه مهندسی شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using an actively learned machine-learning interatomic potential to link quantum accuracy with large-scale MD, revealing an MLIP-driven volcano relationship between grain-boundary amorphicity and ionic transport in halide-tunable antiperovskites. Its significance is establishing controlled anion segregation as a design strategy to reduce interfacial resistance and providing a predictive framework for disorder and transport engineering in solid electrolytes.&lt;br&gt;🏷 antiperovskite electrolyte · machine learning potential · grain boundary · ionic transport · solid electrolyte</description>
-<category>antiperovskite electrolyte</category>
-<category>machine learning potential</category>
-<category>grain boundary</category>
-<category>ionic transport</category>
-<category>solid electrolyte</category>
 </item>
 </channel>
 </rss>
