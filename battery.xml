@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 17:02:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 18:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Chloride‐Mediated Activation of Aluminum‐Alloyed Liquid Metal Anodes for Stretchable Asymmetric Energy Storage</title>
+<link>https://doi.org/10.1002/aenm.71752</link>
+<guid isPermaLink="false">10.1002/aenm.71752</guid>
+<pubDate>Tue, 27 Oct 2026 18:01:39 GMT</pubDate>
+<description>آند مایع AlGaIn با الکترولیت غنی از کلرید فعال شده و با حذف پوسته اکسیدی، ذخیره‌سازی انرژی کشسان نامتقارن با ظرفیت پایدار و چگالی انرژی حجمی بالا فراهم شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in co-designing an Al-alloyed GaIn anode with a chloride-rich water-in-ionic-liquid electrolyte, converting the native oxide into an etchable Al–Ga–O shell and forming a chloride-dominated interphase that enables indium-seeded reversible alloying. This unlocks 60% capacity gain, 1600-cycle stability, and 66.28 mWh cm⁻³ in a stretchable asymmetric cell, establishing a generalizable halide-mediated oxide-displacement strategy for passivated liquid-metal anodes.&lt;br&gt;🏷 liquid metal anode · AlGaIn alloy · water-in-ionic-liquid electrolyte · stretchable supercapacitor · chloride etching</description>
+<category>liquid metal anode</category>
+<category>AlGaIn alloy</category>
+<category>water-in-ionic-liquid electrolyte</category>
+<category>stretchable supercapacitor</category>
+<category>chloride etching</category>
+</item>
+<item>
+<title>Bifunctional Additive Enabled Thermoresponsive Electrolytes With Dual‐Mode Manipulation Toward Safe Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71759</link>
+<guid isPermaLink="false">10.1002/aenm.71759</guid>
+<pubDate>Tue, 27 Oct 2026 18:01:34 GMT</pubDate>
+<description>افزودن LiNO3 به الکترولیت حساس به دما بر پایه وینیلن کربنات، ساختار سلویشن و پلیمریزاسیون را تنظیم کرده و ایمنی حرارتی و عملکرد نرخ‌بالای باتری لیتیوم-فلزی را بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a bifunctional LiNO₃ additive that both tunes Li⁺ solvation and regulates radical polymerization in a thermoresponsive electrolyte, preserving ion transport after liquid-to-solid transition. This enables dual-mode thermal protection plus high-rate performance (1C–10C), stable 100°C cycling, and suppressed thermal runaway at 200°C in pouch cells—advancing safe, high-rate lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · thermoresponsive electrolyte · LiNO3 additive · thermal runaway · solid electrolyte interphase</description>
+<category>lithium metal battery</category>
+<category>thermoresponsive electrolyte</category>
+<category>LiNO3 additive</category>
+<category>thermal runaway</category>
+<category>solid electrolyte interphase</category>
+</item>
+<item>
+<title>Redirecting Bond Cleavage in Sacrificial Prelithiation via Dual‐Side Separator Engineering for Anode‐Free Lithium Batteries</title>
+<link>https://doi.org/10.1002/aenm.71761</link>
+<guid isPermaLink="false">10.1002/aenm.71761</guid>
+<pubDate>Tue, 27 Oct 2026 18:01:27 GMT</pubDate>
+<description>با مهندسی جداکننده دوسویه و تغییر مسیر شکست پیوند در Li2C2O4، پیش‌لیتیاسیون فداشونده کارآمد و پیل جیبی بدون آند با چگالی انرژی 458.6 Wh kg−1 حاصل شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in catalyst-induced bond-cleavage redirection, using a dual-side functionalized separator to shift Li₂C₂O₄ decomposition from Li–O to preferential C–C scission, plus a PSSLi-PFPE anode coating enabling LiF-rich SEI. This non-invasive strategy links bond kinetics to manufacturing, yielding a 1.0 Ah anode-free pouch cell with 458.6 Wh kg⁻¹, 1005.2 Wh L⁻¹, and 80.1% retention after 100 cycles—significant for high-energy anode-free batteries.&lt;br&gt;🏷 anode-free lithium battery · prelithiation · separator engineering · Li2C2O4 · solid electrolyte interphase</description>
+<category>anode-free lithium battery</category>
+<category>prelithiation</category>
+<category>separator engineering</category>
+<category>Li2C2O4</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Adaptive Supramolecular Interactions Govern Redox‐Active Molecules in Aqueous Redox Flow Batteries</title>
 <link>https://doi.org/10.1002/adma.75499</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>grain boundary</category>
 <category>ionic transport</category>
 <category>solid electrolyte</category>
-</item>
-<item>
-<title>Cesium Tin Iodide Perovskites Engineer the Sn 4+ /Sn 2+ Redox Reaction in Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75503</link>
-<guid isPermaLink="false">10.1002/adma.75503</guid>
-<pubDate>Sat, 24 Oct 2026 09:01:38 GMT</pubDate>
-<description>لایه‌های پروسکایتی CsSnI3 و Cs2SnI6 روی کاتد، واکنش ردوکس Sn4+/Sn2+ را برای نخستین بار در باتری آبی روی-یون فعال کرده و انرژی و پایداری بالا ارائه می‌دهند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using in situ-grown CsSnI₃ and Cs₂SnI₆ perovskite layers to enable the previously unrealized Sn⁴⁺/Sn²⁺ redox couple in aqueous zinc-ion batteries, raising its potential to 0.39 V vs SHE. This yields dual-plateau Zn||SnCl₄ batteries with high areal capacity (0.80 mAh cm⁻²), energy density (0.99 mWh cm⁻²), and long cycling stability, offering a cross-disciplinary strategy for high-energy aqueous batteries.&lt;br&gt;🏷 zinc-ion battery · tin redox · perovskite interlayer · CsSnI3 · aqueous electrolyte</description>
-<category>zinc-ion battery</category>
-<category>tin redox</category>
-<category>perovskite interlayer</category>
-<category>CsSnI3</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Multi-objective robust sizing of hybrid energy storage systems for pulse power loads based on chance-constrained optimization</title>
-<link>https://doi.org/10.1016/j.est.2026.125093</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125093</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:30 GMT</pubDate>
-<description>این مقاله اندازه‌گذاری مقاوم چندهدفه سیستم‌های ذخیره‌سازی انرژی هیبریدی برای بارهای پالسی را بر پایه بهینه‌سازی فرصت‌محدود ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · pulse power load · robust sizing · chance-constrained optimization · multi-objective optimization</description>
-<category>hybrid energy storage</category>
-<category>pulse power load</category>
-<category>robust sizing</category>
-<category>chance-constrained optimization</category>
-<category>multi-objective optimization</category>
-</item>
-<item>
-<title>A time-varying queueing network model for integrated co-located battery swapping and charging stations</title>
-<link>https://doi.org/10.1016/j.est.2026.125226</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125226</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:18 GMT</pubDate>
-<description>این مقاله یک مدل شبکه صف زمان‌متغیر برای ایستگاه‌های یکپارچه و هم‌مکان تعویض و شارژ باتری ارائه می‌دهد تا عملکرد و ازدحام را تحلیل کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery swapping · queueing network · charging station · time-varying demand · electric vehicles</description>
-<category>battery swapping</category>
-<category>queueing network</category>
-<category>charging station</category>
-<category>time-varying demand</category>
-<category>electric vehicles</category>
 </item>
 </channel>
 </rss>
