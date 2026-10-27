@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 14:01:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 15:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A scalable CsF-based superionic hybrid polymer electrolyte for developing all-solid-state supercapacitor</title>
+<link>https://doi.org/10.1039/d6ta06333k</link>
+<guid isPermaLink="false">10.1039/d6ta06333k</guid>
+<pubDate>Tue, 27 Oct 2026 15:02:13 GMT</pubDate>
+<description>الکترولیت پلیمری هیبریدی سوپرایونیک بر پایه CsF برای ساخت سوپرخازن تمام‌جامد معرفی می‌شود که جایگزین ایمن‌تر الکترولیت‌های مایع است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a scalable CsF-based superionic hybrid polymer electrolyte for all-solid-state supercapacitors, addressing liquid electrolyte leakage, safety, and mechanical weakness. Its significance is enabling safer, robust, high-performance solid-state energy storage with scalable fabrication, advancing practical supercapacitor deployment.&lt;br&gt;🏷 solid polymer electrolyte · CsF · all-solid-state supercapacitor · ionic conductivity · hybrid electrolyte</description>
+<category>solid polymer electrolyte</category>
+<category>CsF</category>
+<category>all-solid-state supercapacitor</category>
+<category>ionic conductivity</category>
+<category>hybrid electrolyte</category>
+</item>
+<item>
+<title>Bio-binders for hard carbon anodes in sodium-ion batteries: from electrode formulation and dual-binder optimization to SEI formation</title>
+<link>https://doi.org/10.1039/d6ta04865j</link>
+<guid isPermaLink="false">10.1039/d6ta04865j</guid>
+<pubDate>Tue, 27 Oct 2026 15:02:05 GMT</pubDate>
+<description>این مقاله چسب‌های زیست‌پایه را برای آندهای کربن سخت در باتری‌های سدیم-یون بررسی می‌کند و از فرمول‌بندی الکترود و بهینه‌سازی چسب دوگانه تا تشکیل SEI را پوشش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in replacing fluorinated binders with bio-derived binders for hard carbon anodes, combining electrode formulation and dual-binder optimization with SEI formation analysis. Significance: enables sustainable, high-performance SIBs by linking binder chemistry to solid electrolyte interphase stability, offering a greener alternative to PVDF and advancing bio-based electrode design.&lt;br&gt;🏷 sodium-ion batteries · hard carbon anode · bio-binders · dual-binder · SEI formation</description>
+<category>sodium-ion batteries</category>
+<category>hard carbon anode</category>
+<category>bio-binders</category>
+<category>dual-binder</category>
+<category>SEI formation</category>
+</item>
+<item>
+<title>Design of a Zirconium Oxychloride Fast-Ion Conductor via Co-doping Strategy for Enhanced All-Solid-State Cell Performance</title>
+<link>https://doi.org/10.1039/d6ta04752a</link>
+<guid isPermaLink="false">10.1039/d6ta04752a</guid>
+<pubDate>Tue, 27 Oct 2026 15:01:55 GMT</pubDate>
+<description>این مقاله با راهبرد هم‌دوپینگ، رسانای یونی سریع ZrOCl2 را طراحی می‌کند تا رسانایی یونی Li2ZrCl6 در دمای اتاق افزایش یابد و عملکرد سلول تمام‌جامد بهبود پیدا کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in co-doping zirconium oxychloride to create a fast-ion conductor, addressing Li2ZrCl6&amp;#x27;s low room-temperature ionic conductivity. Significance: this low-cost, oxidation-stable halide electrolyte design enhances all-solid-state cell performance, offering a practical route to improved solid electrolytes.&lt;br&gt;🏷 halide solid electrolyte · Li2ZrCl6 · co-doping · ionic conductivity · all-solid-state battery</description>
+<category>halide solid electrolyte</category>
+<category>Li2ZrCl6</category>
+<category>co-doping</category>
+<category>ionic conductivity</category>
+<category>all-solid-state battery</category>
+</item>
+<item>
+<title>Direct recycling of spent graphite-Si/C composite anodes from commercial lithium-ion cells</title>
+<link>https://doi.org/10.1039/d6ta05758f</link>
+<guid isPermaLink="false">10.1039/d6ta05758f</guid>
+<pubDate>Tue, 27 Oct 2026 15:01:40 GMT</pubDate>
+<description>این مقاله بازیافت مستقیم آندهای کامپوزیتی گرافیت-Si/C را از سلول‌های تجاری لیتیوم-یون بررسی می‌کند و چالش‌های ناشی از پیچیدگی ترکیب این آندها را نشان می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in directly recycling spent graphite–Si/C composite anodes from commercial cells, a complex, underexplored feedstock. Significance: establishes a direct-recycling route for mixed graphite–silicon anodes, addressing a key gap as Si/C adoption grows, and offering a path to recover value from increasingly common spent batteries rather than downcycling or discarding them.&lt;br&gt;🏷 direct recycling · Si/C composite anode · spent graphite · lithium-ion cells · anode regeneration</description>
+<category>direct recycling</category>
+<category>Si/C composite anode</category>
+<category>spent graphite</category>
+<category>lithium-ion cells</category>
+<category>anode regeneration</category>
+</item>
+<item>
+<title>Understanding and mitigating high-voltage-induced degradation in Li-ion layered cathode materials</title>
+<link>https://doi.org/10.1039/d6ta03021a</link>
+<guid isPermaLink="false">10.1039/d6ta03021a</guid>
+<pubDate>Tue, 27 Oct 2026 15:01:31 GMT</pubDate>
+<description>این مقاله مروری، سازوکارهای تخریب ناشی از ولتاژ بالا در کاتدهای لایه‌ای NCM غنی از نیکل، LMR و LCO و راهبردهای پایدارسازی مرتبط با هر ماده را مقایسه می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 This review uniquely integrates degradation mechanisms across three high-voltage layered cathodes (Ni-rich NCM, LMR, LCO), mapping material-specific failure pathways to tailored stabilization strategies in a comparative framework. Its significance lies in consolidating fragmented knowledge into a unified reference, guiding rational design of high-voltage cathodes for next-generation Li-ion batteries.&lt;br&gt;🏷 layered cathodes · high-voltage degradation · Ni-rich NCM · LMR cathodes · stabilization strategies</description>
+<category>layered cathodes</category>
+<category>high-voltage degradation</category>
+<category>Ni-rich NCM</category>
+<category>LMR cathodes</category>
+<category>stabilization strategies</category>
+</item>
 <item>
 <title>Few-label transfer prediction of self-discharge voltage drop for lithium-ion batteries across formation process variations</title>
 <link>https://doi.org/10.1016/j.est.2026.124623</link>
@@ -1150,66 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>bibliometric analysis</category>
 <category>research trends</category>
 <category>charging protocols</category>
-</item>
-<item>
-<title>Renewable energy-powered electric vehicle system with intelligent control and multiport energy storage interface</title>
-<link>https://doi.org/10.1016/j.est.2026.125205</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125205</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:10 GMT</pubDate>
-<description>این مقاله یک سیستم خودروی برقی مبتنی بر انرژی تجدیدپذیر با کنترل هوشمند و رابط ذخیره‌سازی انرژی چنددرگاهی طراحی و ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric vehicle · renewable energy · multiport converter · energy storage · intelligent control</description>
-<category>electric vehicle</category>
-<category>renewable energy</category>
-<category>multiport converter</category>
-<category>energy storage</category>
-<category>intelligent control</category>
-</item>
-<item>
-<title>Weak-Solvating Carboxylate Ester Electrolyte Enables Hybrid Interphase via Cooperative Additives toward Wide-Temperature Sodium Metal Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02612</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02612</guid>
-<pubDate>Sat, 24 Oct 2026 02:01:41 GMT</pubDate>
-<description>الکترولیت استر کربوکسیلات ضعیف‌حل‌کننده با افزودنی‌های VC/NaDFOB میان‌فاز هیبریدی ساخته و باتری سدیم-فلز را در دمای گسترده با حفظ ۹۶.۵٪ ظرفیت پس از ۱۰۰۰ چرخه پایدار کرد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining methyl propanoate with VC/NaDFOB additives to synergistically tune Na+ solvation and build a robust hybrid organic-inorganic interphase. This enables fast ion transport and stable interfaces across wide temperatures, achieving 2.52 mS cm–1 at –40 °C and 900+ cycles at –20 °C, offering a practical strategy for wide-temperature sodium metal batteries.&lt;br&gt;🏷 sodium metal battery · weak-solvating electrolyte · methyl propanoate · hybrid interphase · wide temperature</description>
-<category>sodium metal battery</category>
-<category>weak-solvating electrolyte</category>
-<category>methyl propanoate</category>
-<category>hybrid interphase</category>
-<category>wide temperature</category>
-</item>
-<item>
-<title>Quantifying Sodium Metal SEI Dissolution and Relation to Corrosion Using Quartz Crystal Microbalance</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01766</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01766</guid>
-<pubDate>Sat, 24 Oct 2026 02:01:36 GMT</pubDate>
-<description>با میکروبالانس کریستال کوارتز نشان داده شد که ۵۵ تا ۷۶٪ از SEI اولیه در NaPF6/diglyme حل می‌شود و این ناپایداری باعث خوردگی پیوسته سدیم در پیری تقویمی می‌گردد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in quantitatively measuring SEI mass formation and dissolution for NaPF6 in diglyme using quartz crystal microbalance, revealing 55–76% SEI dissolution at varying potentials. Significance: inorganic salts (NaF, NaxPOyFz) are unstable during open-circuit rest, causing continuous sodium corrosion during calendar aging—highlighting a key stability concern for ether-based sodium-metal batteries.&lt;br&gt;🏷 sodium metal battery · SEI dissolution · quartz crystal microbalance · calendar aging · ether electrolyte</description>
-<category>sodium metal battery</category>
-<category>SEI dissolution</category>
-<category>quartz crystal microbalance</category>
-<category>calendar aging</category>
-<category>ether electrolyte</category>
-</item>
-<item>
-<title>LiTFSI‐Regulated Free‐Standing Conductive Polymer Hydrogels for Flexible Supercapacitors</title>
-<link>https://doi.org/10.1002/adfm.79161</link>
-<guid isPermaLink="false">10.1002/adfm.79161</guid>
-<pubDate>Sat, 24 Oct 2026 02:01:21 GMT</pubDate>
-<description>هیدروژل رسانای آزاد PEDOT:PSS-PAAm/PVA با LiTFSI ساخته شد که رسانایی ۲۸.۴ S cm−1 و ابرخازن انعطاف‌پذیر با پایداری عالی تا −۴۰ درجه سلسیوس ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using LiTFSI as an ionic modulator to tune PEDOT chain conformation and nanoscale organization within a free-standing PAAm/PVA double-network hydrogel, simultaneously boosting conductivity (28.4 S cm⁻¹), capacitance (202.5 F g⁻¹), stretchability (~506%), and anti-freezing performance (−40°C). This mild, scalable strategy enables durable all-hydrogel supercapacitors with 98.8% retention over 10,000 cycles for wearable energy storage.&lt;br&gt;🏷 conductive hydrogel · PEDOT:PSS · flexible supercapacitor · LiTFSI · anti-freezing</description>
-<category>conductive hydrogel</category>
-<category>PEDOT:PSS</category>
-<category>flexible supercapacitor</category>
-<category>LiTFSI</category>
-<category>anti-freezing</category>
-</item>
-<item>
-<title>Dynamic Solvation Perturbation Enables Fast‐Exchange Interfacial Water Regulation for Stable Aqueous Zinc Batteries</title>
-<link>https://doi.org/10.1002/adfm.79248</link>
-<guid isPermaLink="false">10.1002/adfm.79248</guid>
-<pubDate>Sat, 24 Oct 2026 02:01:13 GMT</pubDate>
-<description>با راهبرد اغتشاش سولواسیون دینامیکی و افزودن methyl acetate، آب میان‌سطحی در باتری آبی روی تنظیم شده و عمر چرخه آند Zn به بیش از ۸۰۰۰ ساعت رسید.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dynamic solvation perturbation strategy using methyl acetate to create a fast-exchange mixed solvation sheath, shortening water residence time and passivating residual water—unlike static coordination-number approaches. Its significance: facet-selective adsorption suppresses water attack, enabling over 8000 h Zn cycling, stable 80% DOD operation, and practical pouch-cell performance.&lt;br&gt;🏷 aqueous zinc battery · solvation structure · methyl acetate · interfacial water · Zn anode</description>
-<category>aqueous zinc battery</category>
-<category>solvation structure</category>
-<category>methyl acetate</category>
-<category>interfacial water</category>
-<category>Zn anode</category>
 </item>
 </channel>
 </rss>
