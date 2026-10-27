@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 08:01:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 09:02:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Simultaneous Bulk Zr4+ Doping and In-Situ Li2ZrO3 Interfacial Coating Enable Robust Single-Crystal LiNi0.88Co0.07Mn0.05O2 Cathodes for High-Voltage Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105612</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105612</guid>
+<pubDate>Tue, 27 Oct 2026 09:02:19 GMT</pubDate>
+<description>این مقاله با آلایش همزمان Zr4+ در حجم و پوشش درجای Li2ZrO3 در سطح، کاتدهای تک‌کریستالی LiNi0.88Co0.07Mn0.05O2 را برای باتری‌های لیتیوم-یونی ولتاژ بالا پایدار می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 single-crystal NCM88 · Zr4+ doping · Li2ZrO3 coating · high-voltage cathode · lithium-ion battery</description>
+<category>single-crystal NCM88</category>
+<category>Zr4+ doping</category>
+<category>Li2ZrO3 coating</category>
+<category>high-voltage cathode</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Modern trends in CaMoO4-based functional materials for photonic, photoelectrocatalytic, and energy storage applications</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218684</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>spent LiCoO2</category>
 <category>deep eutectic solvent</category>
 <category>coordination chemistry</category>
-</item>
-<item>
-<title>AI-Enabled 3D-Printed Electrodes with Low-Tortuosity Three-Dimensional Ion Transport Networks for Enhanced Reaction Kinetics</title>
-<link>https://doi.org/10.1039/d6ta06203b</link>
-<guid isPermaLink="false">10.1039/d6ta06203b</guid>
-<pubDate>Fri, 23 Oct 2026 11:01:35 GMT</pubDate>
-<description>این مقاله الکترودهای چاپ سه‌بعدی با شبکه‌های انتقال یون کم‌پیچش و بهره‌مند از هوش مصنوعی را برای باتری‌های لیتیوم-یون ارائه می‌کند تا سینتیک واکنش و چگالی توان را بهبود بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining AI with 3D printing to create low-tortuosity three-dimensional ion transport networks in thick electrodes. This significantly enhances reaction kinetics, enabling simultaneous high energy and power density in lithium-ion batteries—a critical unresolved challenge. The approach offers a scalable design pathway for next-generation energy storage.&lt;br&gt;🏷 3D-printed electrodes · low tortuosity · ion transport · lithium-ion battery · reaction kinetics</description>
-<category>3D-printed electrodes</category>
-<category>low tortuosity</category>
-<category>ion transport</category>
-<category>lithium-ion battery</category>
-<category>reaction kinetics</category>
 </item>
 </channel>
 </rss>
