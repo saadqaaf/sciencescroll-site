@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 10:03:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 11:04:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stabilizing Oxygen Redox in Polycrystalline Li‐Rich Layered Cathodes via Efficient Grain Boundary Passivation</title>
+<link>https://doi.org/10.1002/anie.8528584</link>
+<guid isPermaLink="false">10.1002/anie.8528584</guid>
+<pubDate>Tue, 27 Oct 2026 11:02:40 GMT</pubDate>
+<description>این مقاله با پسیواسیون مرز دانه‌ها به‌وسیله فاز پروسکایتی BaMO3-δ، ردکس اکسیژن را در کاتدهای لایه‌ای غنی از لیتیوم تثبیت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tannic acid-assisted in situ formation of a BaMO₃₋δ perovskite phase that passivates both surfaces and grain boundaries of polycrystalline Li-rich cathodes. This suppresses oxygen release, improves oxygen-redox reversibility, and mitigates voltage decay. Significance: a scalable, earth-abundant coating method enabling stable high-energy-density cathodes for lithium-ion batteries.&lt;br&gt;🏷 Li-rich cathode · oxygen redox · grain boundary passivation · perovskite coating · voltage decay</description>
+<category>Li-rich cathode</category>
+<category>oxygen redox</category>
+<category>grain boundary passivation</category>
+<category>perovskite coating</category>
+<category>voltage decay</category>
+</item>
+<item>
+<title>HOMO‐Level Alignment as a Design Descriptor for Donor–Acceptor Covalent Organic Frameworks in Aqueous Zinc‐Iodine Batteries</title>
+<link>https://doi.org/10.1002/anie.7926853</link>
+<guid isPermaLink="false">10.1002/anie.7926853</guid>
+<pubDate>Tue, 27 Oct 2026 11:02:34 GMT</pubDate>
+<description>این مقاله هم‌ترازی سطح HOMO را به‌عنوان توصیفگر طراحی COFهای دهنده-پذیرنده برای میزبانی ید در باتری‌های آبی روی-ید معرفی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This study establishes HOMO-level alignment relative to iodine&amp;#x27;s redox potential as the governing design descriptor for donor–acceptor COFs in aqueous zinc–iodine batteries, replacing empirical trial-and-error. The optimally designed NT-COF achieves stable cycling at ~50.5 wt% iodine loading and reliable low-temperature operation, showing that rational COF design must couple energy-level alignment with structural conjugation.&lt;br&gt;🏷 zinc-iodine battery · covalent organic framework · HOMO alignment · donor-acceptor · iodine host</description>
+<category>zinc-iodine battery</category>
+<category>covalent organic framework</category>
+<category>HOMO alignment</category>
+<category>donor-acceptor</category>
+<category>iodine host</category>
+</item>
+<item>
+<title>Gradient Mg and Uniform Ti Co‐Doping Suppresses Jahn–Teller Effect in LMFP via Optimized Ion‐Transport Kinetics and Interfacial Reactions</title>
+<link>https://doi.org/10.1002/anie.6840734</link>
+<guid isPermaLink="false">10.1002/anie.6840734</guid>
+<pubDate>Tue, 27 Oct 2026 11:02:22 GMT</pubDate>
+<description>این مقاله با آلایش هم‌زمان گرادیانی Mg و یکنواخت Ti در LMFP، اثر Jahn–Teller را سرکوب و سینتیک انتقال یون و پایداری کاتد را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dry-and-wet synthesis enabling uniform Ti⁴⁺ doping at Fe sites and gradient Mg²⁺ doping at Li sites in LMFP. This co-doping suppresses Jahn–Teller distortion, stabilizes structure, and improves Li⁺ kinetics and interfacial stability. Significance: 88.7% capacity retention after 200 cycles at 1C and 88.2% after 100 cycles at 55°C, guiding high-performance olivine cathode design.&lt;br&gt;🏷 LMFP cathode · Mg/Ti co-doping · Jahn-Teller effect · Li-ion battery · ion transport</description>
+<category>LMFP cathode</category>
+<category>Mg/Ti co-doping</category>
+<category>Jahn-Teller effect</category>
+<category>Li-ion battery</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>A Tb-O Functionalized Separator Integrated with Desolvation and Ion Flux Regulation for Ultrastable Zn Metal Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112533</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112533</guid>
+<pubDate>Tue, 27 Oct 2026 11:02:06 GMT</pubDate>
+<description>این مقاله یک جداکننده عامل‌دار شده با Tb-O را برای تنظیم آب‌زدایی و شار یون و دستیابی به باتری‌های روی فلزی فوق‌پایدار ارائه می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Zn metal battery · separator · desolvation · ion flux regulation · Tb-O functionalization</description>
+<category>Zn metal battery</category>
+<category>separator</category>
+<category>desolvation</category>
+<category>ion flux regulation</category>
+<category>Tb-O functionalization</category>
+</item>
 <item>
 <title>Operando X-ray Photoelectron Spectroscopy Reveals Oxide Solid Electrolyte Stability against Electrochemically Plated Lithium</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02717</link>
@@ -1163,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>surfactant micelle</category>
 <category>Zn desolvation</category>
 <category>dendrite-free zinc</category>
-</item>
-<item>
-<title>Electrostatic Contributions of the Extended Environment and Local Catalytic Effects in Bipolar Membranes</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02923</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02923</guid>
-<pubDate>Fri, 23 Oct 2026 16:02:36 GMT</pubDate>
-<description>اندازه‌گیری‌های الکتروشیمیایی نشان می‌دهد بازیابی پتانسیل غشا به‌تنهایی عملکرد bipolar membrane را پیش‌بینی نمی‌کند و مهندسی فصل مشترک کاتالیزور-آیونومر تلفات تشکیل آب را تا ۶۵٪ کاهش می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in decoupling catalyst effects on membrane-potential recovery from those on water-dissociation/formation overvoltage, showing recovery alone poorly predicts BPM performance. Significance: catalyst–ionomer interface engineering that jointly improves potential recovery and kinetics cuts water-formation losses by 65% and boosts peak power density over tenfold, guiding rational catalyst-layer design for bipolar membranes.&lt;br&gt;🏷 bipolar membrane · water dissociation · catalyst layer · junction electrostatics · energy storage</description>
-<category>bipolar membrane</category>
-<category>water dissociation</category>
-<category>catalyst layer</category>
-<category>junction electrostatics</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>High-Performance LiNiO2 Cathodes through Microstructural Engineering</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02808</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02808</guid>
-<pubDate>Fri, 23 Oct 2026 16:02:30 GMT</pubDate>
-<description>با کلسیناسیون دومرحله‌ای و جدایش فاز غنی از Ta در مرز دانه‌ها، کاتد LiNiO2 ظرفیت ۲۵۲.۷ mAh/g و حفظ ۸۸.۴٪ پس از ۱۰۰ چرخه در پاکت‌سل لیتیوم-فلز نشان می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a two-step calcination decoupling lithiation from Ta introduction, yielding Ta-rich grain boundaries, radially aligned nanosized primary particles, and a reversible layered–rocksalt/spinel-like multiphase. This suppresses microcracking and strain, enabling 252.7 mAh g–1 with 88.4% retention after 100 cycles and stable pouch-cell performance under eVTOL dynamic load, advancing high-energy, high-power LiNiO2 cathodes.&lt;br&gt;🏷 LiNiO2 cathode · microstructural engineering · Ta doping · lithium-ion battery · pouch cell</description>
-<category>LiNiO2 cathode</category>
-<category>microstructural engineering</category>
-<category>Ta doping</category>
-<category>lithium-ion battery</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Highly Stable Solid‐Electrolyte Interphase Enabled by PGMA Anchoring Layer for Silicon‐Based Anode</title>
-<link>https://doi.org/10.1002/adfm.79219</link>
-<guid isPermaLink="false">10.1002/adfm.79219</guid>
-<pubDate>Fri, 23 Oct 2026 16:01:55 GMT</pubDate>
-<description>لایه لنگرگاه PGMA با iCVD پیوند کووالانسی با بایندر PAA ایجاد کرده و پایداری چرخه و SEI آند SiOx را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using iCVD to deposit a PGMA anchoring interlayer on SiOx particles, creating covalent epoxy–carboxyl bonds with the PAA binder that replace weak physical interactions. This preserves electrode integrity during volume changes, confines SEI growth, and mitigates electrolyte depletion. Significance: the strategy enables 95.0% capacity retention after 300 cycles, offering a scalable interfacial design for durable silicon-based anodes.&lt;br&gt;🏷 silicon anode · solid-electrolyte interphase · PGMA · iCVD · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>solid-electrolyte interphase</category>
-<category>PGMA</category>
-<category>iCVD</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Crystal Phase Engineering of Transition‐Metal Dichalcogenides: Pathways to Superior Electrochemical Storage in Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/cey2.70306</link>
-<guid isPermaLink="false">10.1002/cey2.70306</guid>
-<pubDate>Fri, 23 Oct 2026 14:01:48 GMT</pubDate>
-<description>این مرور، ویژگی‌های ساختاری، روش‌های سنتز و مهندسی فاز TMDها را برای بهبود عملکرد الکتروشیمیایی باتری‌های لیتیوم-سولفور بررسی و چشم‌اندازهای آینده را ترسیم می‌کند.&lt;br&gt;Carbon Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely systematizes phase-transition methods, mechanisms, and phase-regulation strategies for transition-metal dichalcogenides in lithium–sulfur batteries, linking crystal phase engineering to electrochemical performance. Its significance lies in guiding controllable, high-purity phase design and multifunctional composites, offering a roadmap to overcome LSB limitations and advance TMDs in energy storage.&lt;br&gt;🏷 transition-metal dichalcogenides · crystal phase engineering · lithium-sulfur battery · phase transition · electrochemical storage</description>
-<category>transition-metal dichalcogenides</category>
-<category>crystal phase engineering</category>
-<category>lithium-sulfur battery</category>
-<category>phase transition</category>
-<category>electrochemical storage</category>
 </item>
 </channel>
 </rss>
