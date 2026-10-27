@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 01:02:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 02:01:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Coupling of Single-Atom, Metal/Metal Oxide Sites on Biomass-Derived Graphitic Carbon for Zinc–Air Batteries</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122251</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122251</guid>
+<pubDate>Tue, 27 Oct 2026 02:01:56 GMT</pubDate>
+<description>این مقاله با کوپل هم‌افزای سایت‌های تک‌اتمی و فلز/اکسید فلز روی کربن گرافیتی زیست‌توده، کاتالیزوری کارآمد برای واکنش‌های اکسیژنی در باتری‌های روی-هوا ارائه می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 zinc-air battery · single-atom catalyst · biomass-derived carbon · metal oxide sites · oxygen electrocatalysis</description>
+<category>zinc-air battery</category>
+<category>single-atom catalyst</category>
+<category>biomass-derived carbon</category>
+<category>metal oxide sites</category>
+<category>oxygen electrocatalysis</category>
+</item>
 <item>
 <title>Coordination-stabilized organic-inorganic composite phase-change materials for battery thermal runaway mitigation</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.025</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>graph neural network</category>
 <category>geometry reduction</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Phosphonium Ionic Liquids for Electrochemical Energy Storage: Structure–Property–Interphase Relationships and Design Rule</title>
-<link>https://doi.org/10.1002/advs.78370</link>
-<guid isPermaLink="false">10.1002/advs.78370</guid>
-<pubDate>Fri, 23 Oct 2026 08:02:15 GMT</pubDate>
-<description>این مرور چارچوب ساختار–خواص–فاز میانی الکترولیت‌های فسفونیومی را برای باتری‌های Li، Na، Zn، Mg و Al و ابرخازن‌ها تحلیل و قواعد طراحی ارائه می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This Review is novel in unifying phosphonium ionic liquids across Li, Na, Zn, Mg, Al batteries and supercapacitors through a structure–property–interphase framework, linking cation/anion design to transport, plating, corrosion, and interphase behavior. Its significance lies in actionable design rules—low-viscosity cations, fluorine-reduced anions, standardized benchmarking, full-cell validation, and operando characterization—guiding safer, durable electrolyte development.&lt;br&gt;🏷 phosphonium ionic liquid · electrolyte · interphase · metal battery · structure-property relationship</description>
-<category>phosphonium ionic liquid</category>
-<category>electrolyte</category>
-<category>interphase</category>
-<category>metal battery</category>
-<category>structure-property relationship</category>
 </item>
 </channel>
 </rss>
