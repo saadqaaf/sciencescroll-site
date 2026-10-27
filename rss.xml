@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 03:01:38 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 04:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stacking-Order-Dependent Electronic Properties of MoTe2/WSe2 Moiré Bilayers</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02425</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02425</guid>
+<pubDate>Tue, 27 Oct 2026 04:01:11 GMT</pubDate>
+<description>با کالیبره‌کردن SHG نوری توسط STEM، وابستگی خواص الکترونیکی و فازهای مغناطیسی دوبلایه‌های moiré MoTe2/WSe2 به ترتیب انباشت لایه‌ها روشن شد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 MoTe2/WSe2 · moiré bilayer · stacking order · second harmonic generation · Chern insulator</description>
+<category>MoTe2/WSe2</category>
+<category>moiré bilayer</category>
+<category>stacking order</category>
+<category>second harmonic generation</category>
+<category>Chern insulator</category>
+</item>
+<item>
+<title>Giant Resistance Switching Ratio Exceeding 106 through a Reversible 2D–3D Structural Phase Transition in Nonequilibrium (Pb1– x Sn x )Se Thin Films</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03879</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03879</guid>
+<pubDate>Tue, 27 Oct 2026 04:01:07 GMT</pubDate>
+<description>در لایه‌های نازک غیرتعادلی (Pb1-xSnx)Se، گذار ساختاری برگشت‌پذیر بین فازهای 3D و 2D منجر به نسبت سوئیچینگ مقاومت غول‌آسای 4.9×10^6 شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 PbSnSe thin films · resistance switching · 2D-3D phase transition · solid-phase epitaxy · crystal dimensionality</description>
+<category>PbSnSe thin films</category>
+<category>resistance switching</category>
+<category>2D-3D phase transition</category>
+<category>solid-phase epitaxy</category>
+<category>crystal dimensionality</category>
+</item>
+<item>
+<title>Long-Range Single-Molecule Transport and Assembly at Liquid Nitrogen Temperatures</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04287</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04287</guid>
+<pubDate>Tue, 27 Oct 2026 04:01:04 GMT</pubDate>
+<description>با استفاده از میکروسکوپ تونلی روبشی و مولکول‌های دارای گشتاور دوقطبی، انتقال و آرایش کنترل‌شده تک‌مولکول‌ها در دمای نیتروژن مایع و از طریق جفت‌شدگی الکترواستاتیکی نشان داده شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 single-molecule manipulation · scanning tunneling microscope · electrostatic transport · molecular assembly · dipole molecule</description>
+<category>single-molecule manipulation</category>
+<category>scanning tunneling microscope</category>
+<category>electrostatic transport</category>
+<category>molecular assembly</category>
+<category>dipole molecule</category>
+</item>
 <item>
 <title>Physicochemical processes in underground hydrogen storage: From molecular-scale to reservoir-scale responses</title>
 <link>https://doi.org/10.1016/j.est.2026.125287</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 quantu
 <category>in situ foaming</category>
 <category>melt spinning</category>
 <category>thermal insulation</category>
-</item>
-<item>
-<title>High-current-density solid-state lithium metal batteries through interface engineering</title>
-<link>https://doi.org/10.1039/d6mh01375a</link>
-<guid isPermaLink="false">10.1039/d6mh01375a</guid>
-<pubDate>Mon, 26 Oct 2026 17:01:41 GMT</pubDate>
-<description>این مقاله مروری به مهندسی سطح مشترک برای غلبه بر تماس ضعیف، رشد دندریت لیتیوم و ناپایداری فصل مشترک الکترود-الکترولیت در باتری‌های حالت جامد لیتیوم فلزی می‌پردازد.&lt;br&gt;Materials Horizons | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using interface engineering to address poor interfacial contact, lithium dendrite formation, and unstable electrode–electrolyte interfaces in solid-state batteries. Its significance is enabling high-current-density solid-state lithium metal batteries, a key step toward practical, high-energy-density solid-state battery technology.&lt;br&gt;🏷 solid-state battery · lithium metal anode · interface engineering · dendrite suppression · high current density</description>
-<category>solid-state battery</category>
-<category>lithium metal anode</category>
-<category>interface engineering</category>
-<category>dendrite suppression</category>
-<category>high current density</category>
-</item>
-<item>
-<title>Bias-programmable linear-to-nonlinear photoresponse for filter-free single-pixel VIS–NIR discrimination</title>
-<link>https://doi.org/10.1186/s40580-026-00585-7</link>
-<guid isPermaLink="false">10.1186/s40580-026-00585-7</guid>
-<pubDate>Mon, 26 Oct 2026 17:01:35 GMT</pubDate>
-<description>یک فوتودیود غیرخطی پشت‌به‌پشت با قابلیت بازآرایی توسط بایاس برای تفکیک بدون فیلتر نور مرئی و فروسرخ نزدیک و کاربرد در اکسیمتری پالس ارائه می‌کند.&lt;br&gt;Nano Convergence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photodiode · VIS-NIR discrimination · PEDOT:PSS · MAPbI3 · pulse oximetry</description>
-<category>photodiode</category>
-<category>VIS-NIR discrimination</category>
-<category>PEDOT:PSS</category>
-<category>MAPbI3</category>
-<category>pulse oximetry</category>
-</item>
-<item>
-<title>Iron‐Dependent Interfacial Regulation Balances Osteogenesis and Iron Homeostasis in Bilayer Hydrogels for Periodontal Bone Regeneration</title>
-<link>https://doi.org/10.1002/smll.76098</link>
-<guid isPermaLink="false">10.1002/smll.76098</guid>
-<pubDate>Mon, 26 Oct 2026 16:02:00 GMT</pubDate>
-<description>هیدروژل دولایه PVA/کلاژن با nFeMBG و دوپینگ متوسط آهن، با فعال‌سازی محور PDGFRA–MAPK و حفظ هموستاز آهن، استخوان‌سازی را در بازسازی استخوان پریودنتال تقویت می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 periodontal bone regeneration · bilayer hydrogel · iron-doped bioactive glass · osteogenesis · iron homeostasis</description>
-<category>periodontal bone regeneration</category>
-<category>bilayer hydrogel</category>
-<category>iron-doped bioactive glass</category>
-<category>osteogenesis</category>
-<category>iron homeostasis</category>
 </item>
 </channel>
 </rss>
