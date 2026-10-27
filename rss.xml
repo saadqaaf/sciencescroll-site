@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 13:02:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 14:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Shear Assisted Diamond Formation in Cold-Compressed HOPG</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02881</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02881</guid>
+<pubDate>Tue, 27 Oct 2026 14:01:13 GMT</pubDate>
+<description>با اعمال فشار غیرهیدرواستاتیک و برش روی HOPG در دمای اتاق، تشکیل نانودامنه‌های المان‌مانند و تبدیل گرافیت به الماس حتی از فشار ۱۵ گیگاپاسکال نشان داده شد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphite-to-diamond · shear deformation · diamond anvil cell · HOPG · sp3 bonding</description>
+<category>graphite-to-diamond</category>
+<category>shear deformation</category>
+<category>diamond anvil cell</category>
+<category>HOPG</category>
+<category>sp3 bonding</category>
+</item>
 <item>
 <title>Few-label transfer prediction of self-discharge voltage drop for lithium-ion batteries across formation process variations</title>
 <link>https://doi.org/10.1016/j.est.2026.124623</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Diels-
 <category>affinity hydrogel</category>
 <category>NAD+</category>
 <category>SIRT1-p65</category>
-</item>
-<item>
-<title>Lattice‐Level Negative Thermal Expansion Enables Thermomechanical Self‐Compensation in High‐Rate Lithium Batteries</title>
-<link>https://doi.org/10.1002/adfm.79327</link>
-<guid isPermaLink="false">10.1002/adfm.79327</guid>
-<pubDate>Tue, 27 Oct 2026 10:03:12 GMT</pubDate>
-<description>با بهره‌گیری از انقباض شبکه‌ای Cu2P2O7 در جداساز کامپوزیتی PVDF-HFP، خودجبرانی ترمو‌مکانیکی و پایداری دما تا 200°C در باتری‌های لیتیوم فلزی پرتوان فراهم شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multiscale separator design that translates lattice-level negative thermal expansion of Cu₂P₂O₇ into macroscopic thermomechanical self-compensation via PDA-mediated interfacial coupling with PVDF-HFP. This suppresses separator deformation and HF corrosion, enabling dimensional stability to 200°C, 3000 h cycling, and 1000 stable cycles at 5 C—offering a solid-state strategy to mitigate thermomechanical failure in high-power lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · separator · negative thermal expansion · Cu2P2O7 · thermomechanical compensation</description>
-<category>lithium metal battery</category>
-<category>separator</category>
-<category>negative thermal expansion</category>
-<category>Cu2P2O7</category>
-<category>thermomechanical compensation</category>
 </item>
 </channel>
 </rss>
