@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 15:02:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 16:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>III-nitride-based in-sensor computing enabled by interfacial polarization effects</title>
+<link>https://doi.org/10.1038/s41563-026-02780-7</link>
+<guid isPermaLink="false">10.1038/s41563-026-02780-7</guid>
+<pubDate>Tue, 27 Oct 2026 16:01:27 GMT</pubDate>
+<description>این مقاله محاسبات درون‌حسگری مبتنی بر نیتریدهای گروه III را با بهره‌گیری از اثرهای قطبش بین‌سطحی برای پردازش هم‌زمان سیگنال نوری و الکتریکی ارائه می‌کند.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 III-nitride · in-sensor computing · interfacial polarization · optoelectronic synapse · neuromorphic device</description>
+<category>III-nitride</category>
+<category>in-sensor computing</category>
+<category>interfacial polarization</category>
+<category>optoelectronic synapse</category>
+<category>neuromorphic device</category>
+</item>
+<item>
+<title>Direct imaging elucidates ionic memory in two-dimensional nanochannels</title>
+<link>https://doi.org/10.1038/s41563-026-02775-4</link>
+<guid isPermaLink="false">10.1038/s41563-026-02775-4</guid>
+<pubDate>Tue, 27 Oct 2026 16:01:24 GMT</pubDate>
+<description>با تصویربرداری اپراتاندو، تاول‌زدن دیواره‌های نانوکانال دوبعدی ناشی از ولتاژ به‌عنوان منشأ حافظه یونی و هیسترزیس ممریستوری شناسایی شد.&lt;br&gt;Nature Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nanofluidic memristor · 2D nanochannels · ionic memory · interferometric imaging · electromechanical coupling</description>
+<category>nanofluidic memristor</category>
+<category>2D nanochannels</category>
+<category>ionic memory</category>
+<category>interferometric imaging</category>
+<category>electromechanical coupling</category>
+</item>
 <item>
 <title>Iridium-catalysed para-C–H activation and borylation of native aromatic carboxylic acids</title>
 <link>https://doi.org/10.1038/s41929-026-01622-8</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Diels-
 <category>Rh single sites</category>
 <category>hydroxyl-directed activation</category>
 <category>lignin valorization</category>
-</item>
-<item>
-<title>Zinc–Halide–Integrated Thermally Reprocessable Molecular–Emitter Supramolecular Glass Scintillators for High–Resolution X–Ray Imaging</title>
-<link>https://doi.org/10.1002/anie.4479729</link>
-<guid isPermaLink="false">10.1002/anie.4479729</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:44 GMT</pubDate>
-<description>شیشه‌های مولکولی خودآرا با تفکیک نقش جذب پرتو و نشر نور توسط کروموفور فسفونیوم و محیط روی-هالید ساخته شدند و تصویربرداری پرتو ایکس با وضوح ۲۸.۴ lp mm⁻¹ و بازپردازش‌پذیری گرمایی به دست آمد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 glass scintillator · X-ray imaging · zinc halide · supramolecular glass · radioluminescence</description>
-<category>glass scintillator</category>
-<category>X-ray imaging</category>
-<category>zinc halide</category>
-<category>supramolecular glass</category>
-<category>radioluminescence</category>
-</item>
-<item>
-<title>Stabilizing Oxygen Redox in Polycrystalline Li‐Rich Layered Cathodes via Efficient Grain Boundary Passivation</title>
-<link>https://doi.org/10.1002/anie.8528584</link>
-<guid isPermaLink="false">10.1002/anie.8528584</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:40 GMT</pubDate>
-<description>این مقاله با پسیواسیون مرز دانه‌ها به‌وسیله فاز پروسکایتی BaMO3-δ، ردکس اکسیژن را در کاتدهای لایه‌ای غنی از لیتیوم تثبیت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tannic acid-assisted in situ formation of a BaMO₃₋δ perovskite phase that passivates both surfaces and grain boundaries of polycrystalline Li-rich cathodes. This suppresses oxygen release, improves oxygen-redox reversibility, and mitigates voltage decay. Significance: a scalable, earth-abundant coating method enabling stable high-energy-density cathodes for lithium-ion batteries.&lt;br&gt;🏷 Li-rich cathode · oxygen redox · grain boundary passivation · perovskite coating · voltage decay</description>
-<category>Li-rich cathode</category>
-<category>oxygen redox</category>
-<category>grain boundary passivation</category>
-<category>perovskite coating</category>
-<category>voltage decay</category>
 </item>
 </channel>
 </rss>
