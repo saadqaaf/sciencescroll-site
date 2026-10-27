@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 04:01:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:02:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Crystal-Scale Engineering of Layered Oxide Cathodes: Structure-Property Relationships and Design Principles</title>
+<link>https://doi.org/10.1039/d6ta06831f</link>
+<guid isPermaLink="false">10.1039/d6ta06831f</guid>
+<pubDate>Tue, 27 Oct 2026 05:02:08 GMT</pubDate>
+<description>این مرور، مهندسی در مقیاس بلور کاتدهای اکسید لایه‌ای را بررسی کرده و روابط ساختار-خواص و اصول طراحی برای باتری‌های لیتیوم-یون را ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in establishing crystal-scale structure-property relationships and design principles for layered oxide cathodes, moving beyond empirical optimization. Its significance is providing a rational framework to simultaneously address structural instability, mechanical degradation, and interfacial reactions, enabling high-energy, cobalt-reduced lithium-ion batteries.&lt;br&gt;🏷 layered oxide cathode · crystal-scale engineering · structure-property relationships · Li-ion battery · design principles</description>
+<category>layered oxide cathode</category>
+<category>crystal-scale engineering</category>
+<category>structure-property relationships</category>
+<category>Li-ion battery</category>
+<category>design principles</category>
+</item>
+<item>
+<title>Dual-Functional Additive for HF Mitigation and Electrode Interface Stabilization in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ta06172a</link>
+<guid isPermaLink="false">10.1039/d6ta06172a</guid>
+<pubDate>Tue, 27 Oct 2026 05:01:51 GMT</pubDate>
+<description>یک افزودنی دوکاره برای کاهش HF و پایدارسازی سطح مشترک الکترود در باتری‌های لیتیوم-فلز معرفی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-functional additive that simultaneously scavenges HF and stabilizes the electrode interface in lithium metal batteries, addressing both cathode degradation and transition metal dissolution. Its significance is enabling high-energy-density LMBs by mitigating two coupled failure mechanisms, potentially improving cycling stability and lifespan through a single additive strategy.&lt;br&gt;🏷 lithium metal battery · HF mitigation · additive · interface stabilization · TM dissolution</description>
+<category>lithium metal battery</category>
+<category>HF mitigation</category>
+<category>additive</category>
+<category>interface stabilization</category>
+<category>TM dissolution</category>
+</item>
+<item>
+<title>Aromatic Intermediate Evolution Promotes Defect-Site Electronic Coupling and Interfacial Reconstruction during Flash Regeneration of Waste Graphite</title>
+<link>https://doi.org/10.1039/d6ta06833b</link>
+<guid isPermaLink="false">10.1039/d6ta06833b</guid>
+<pubDate>Tue, 27 Oct 2026 05:01:34 GMT</pubDate>
+<description>استراتژی بازتولید گرافیت زائد با هدایت ساختار مولکولی، تکامل واسطه‌های آروماتیک را برای ترمیم نقص‌ها و بازسازی سطح مشترک در آندهای باتری لیتیوم-یون بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molecular-structure-directed flash regeneration strategy using aromatic intermediates to evolve defect sites, enabling electronic coupling and interfacial reconstruction in waste graphite. Its significance is providing a mechanistic understanding of precise defect repair, offering a sustainable, high-value route for recycling spent lithium-ion battery anodes.&lt;br&gt;🏷 waste graphite · flash regeneration · defect repair · Li-ion recycling · interfacial reconstruction</description>
+<category>waste graphite</category>
+<category>flash regeneration</category>
+<category>defect repair</category>
+<category>Li-ion recycling</category>
+<category>interfacial reconstruction</category>
+</item>
 <item>
 <title>Synergistic Coupling of Single-Atom, Metal/Metal Oxide Sites on Biomass-Derived Graphitic Carbon for Zinc–Air Batteries</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122251</link>
@@ -1175,42 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>all-solid-state battery</category>
 <category>bromine substitution</category>
 <category>interfacial stability</category>
-</item>
-<item>
-<title>Recent Advances and Perspectives of Three-Dimensional Macroporous Metal-Organic Frameworks and Their Derivatives in Electrochemical Energy Storage</title>
-<link>https://doi.org/10.1039/d6ta05653a</link>
-<guid isPermaLink="false">10.1039/d6ta05653a</guid>
-<pubDate>Fri, 23 Oct 2026 11:01:24 GMT</pubDate>
-<description>این مرور، پیشرفت‌های اخیر MOFهای ماکروپور سه‌بعدی منظم و مشتقات آن‌ها را در ذخیره‌سازی انرژی الکتروشیمیایی بررسی می‌کند و نقش آن‌ها در غلبه بر محدودیت‌های انتقال جرم و تنش چرخه‌ای را نشان می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 Three-dimensionally ordered macroporous MOFs and derivatives overcome conventional MOF mass-transport limits, mitigate cyclic stress, and boost active-site utilization. This review uniquely consolidates recent progress in their design and electrochemical energy storage applications, highlighting structure–performance relationships and offering perspectives for next-generation high-performance electrodes.&lt;br&gt;🏷 metal-organic frameworks · macroporous materials · MOF derivatives · electrochemical energy storage · mass transport</description>
-<category>metal-organic frameworks</category>
-<category>macroporous materials</category>
-<category>MOF derivatives</category>
-<category>electrochemical energy storage</category>
-<category>mass transport</category>
-</item>
-<item>
-<title>Engineering a Dynamic Alloy–Fluoride Interface via a Co-Placement Gas-Phase Strategy for Stable Lithium Metal Anodes</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03756</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03756</guid>
-<pubDate>Fri, 23 Oct 2026 10:01:05 GMT</pubDate>
-<description>ساخت لایه Ni3Sb/NiF2 به روش واکنش فاز گازی روی مش نیکل، سد جوانه‌زنی لیتیوم را کاهش داده و با تشکیل اینترفاز غنی از LiF، آند لیتیوم پایدار با چرخه‌پذیری طولانی فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable co-placement gas-phase strategy that forms a uniform Ni3Sb/NiF2 alloy–fluoride interface in situ on nickel mesh. This bifunctional design lowers Li nucleation barriers and generates a LiF-rich interphase, enabling uniform Li deposition. Significance: over 2600 h symmetric-cell cycling and 83.1% retention after 240 cycles at 10 mAh cm–2, offering a practical route to stable lithium metal anodes.&lt;br&gt;🏷 lithium metal anode · alloy-fluoride interface · gas-phase strategy · Ni3Sb/NiF2 · LiF-rich interphase</description>
-<category>lithium metal anode</category>
-<category>alloy-fluoride interface</category>
-<category>gas-phase strategy</category>
-<category>Ni3Sb/NiF2</category>
-<category>LiF-rich interphase</category>
-</item>
-<item>
-<title>Accelerating NCM811 cathode effective bulk-modulus prediction for lithium-ion batteries: A geometry-reduction-based graph neural network</title>
-<link>https://doi.org/10.1016/j.est.2026.125194</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125194</guid>
-<pubDate>Fri, 23 Oct 2026 09:01:21 GMT</pubDate>
-<description>یک شبکه عصبی گرافی مبتنی بر کاهش هندسه برای پیش‌بینی سریع مدول حجمی مؤثر کاتد NCM811 در باتری‌های لیتیوم-یونی ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NCM811 cathode · bulk modulus · graph neural network · geometry reduction · lithium-ion battery</description>
-<category>NCM811 cathode</category>
-<category>bulk modulus</category>
-<category>graph neural network</category>
-<category>geometry reduction</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
