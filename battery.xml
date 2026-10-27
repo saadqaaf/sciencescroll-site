@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 00:01:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 01:02:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination-stabilized organic-inorganic composite phase-change materials for battery thermal runaway mitigation</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.025</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.025</guid>
+<pubDate>Tue, 27 Oct 2026 01:02:32 GMT</pubDate>
+<description>مواد تغییر فاز کامپوزیت آلی-معدنی پایدارشده با کوئوردیناسیون برای کاهش فرار حرارتی باتری طراحی و ارزیابی شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 phase-change material · thermal runaway · battery safety · organic-inorganic composite · coordination stabilization</description>
+<category>phase-change material</category>
+<category>thermal runaway</category>
+<category>battery safety</category>
+<category>organic-inorganic composite</category>
+<category>coordination stabilization</category>
+</item>
+<item>
+<title>A dual-functional oxyfluoride interlayer enabling shuttle-free and dendrite-free lithium-sulfur batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.026</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.026</guid>
+<pubDate>Tue, 27 Oct 2026 01:02:29 GMT</pubDate>
+<description>یک لایه میانی دوکاره اکسی‌فلوریدی برای سرکوب اثر شاتل و رشد دندریت لیتیم در باتری‌های لیتیم-گوگرد ارائه شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · oxyfluoride interlayer · shuttle effect · lithium dendrite · dual-functional interlayer</description>
+<category>lithium-sulfur battery</category>
+<category>oxyfluoride interlayer</category>
+<category>shuttle effect</category>
+<category>lithium dendrite</category>
+<category>dual-functional interlayer</category>
+</item>
+<item>
+<title>Mechanistic insights into thermal safety degradation driven by overcharge-induced electrical damage in hard carbon /Na(Ni1/3Fe1/3Mn1/3)O2 sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.etran.2026.100647</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100647</guid>
+<pubDate>Tue, 27 Oct 2026 01:01:39 GMT</pubDate>
+<description>این مقاله مکانیزم‌های افت ایمنی حرارتی ناشی از آسیب الکتریکی ناشی از شارژ بیش‌ازحد را در باتری‌های یون سدیم سخت‌کربن/Na(Ni1/3Fe1/3Mn1/3)O2 بررسی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · thermal safety · overcharge · hard carbon · electrical damage</description>
+<category>sodium-ion battery</category>
+<category>thermal safety</category>
+<category>overcharge</category>
+<category>hard carbon</category>
+<category>electrical damage</category>
+</item>
+<item>
+<title>Ultrastable 4.99 V Li rich Mn-based cathodes achieved by catalytic-shielded and strain-buffered interface engineering</title>
+<link>https://doi.org/10.1093/nsr/nwag659</link>
+<guid isPermaLink="false">10.1093/nsr/nwag659</guid>
+<pubDate>Tue, 27 Oct 2026 01:01:29 GMT</pubDate>
+<description>مهندسی رابط دوگانه با پوشش کربن و دامنه‌های اسپینل، پایداری کاتد غنی از لیتیوم و منگنز را در 4.99 V بهبود می‌دهد و چگالی انرژی بالایی در پاکت سل Si/C||LRO ارائه می‌کند.&lt;br&gt;National Science Review | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-interface strategy combining a catalytic-shielded carbon coating with confined spinel domains, decoupling electrolyte decomposition from lattice catalysis while enabling 3D Li+ transport and strain buffering. Significance: 93.1% ICE, 295 mAh g−1, 88.9% retention over 150 cycles at 4.99 V, and a 307 Wh kg−1 pouch cell demonstrate practical high-voltage LRO viability.&lt;br&gt;🏷 Li-rich Mn-based cathode · interface engineering · spinel domains · anionic redox · high-voltage cycling</description>
+<category>Li-rich Mn-based cathode</category>
+<category>interface engineering</category>
+<category>spinel domains</category>
+<category>anionic redox</category>
+<category>high-voltage cycling</category>
+</item>
 <item>
 <title>Electronic Coupling at Bimetallic Ni-Co Sites Enables Reversible Li2O2 Formation and Decomposition in Lithium-Oxygen Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105611</link>
@@ -1163,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>interphase</category>
 <category>metal battery</category>
 <category>structure-property relationship</category>
-</item>
-<item>
-<title>Dead-Potassium Activation Reconstructing Stabilized Interface Enables Stable Anode-Free Potassium Metal Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c15210</link>
-<guid isPermaLink="false">10.1021/jacs.6c15210</guid>
-<pubDate>Fri, 23 Oct 2026 07:02:48 GMT</pubDate>
-<description>افزودن BiI3 به الکترولیت کربناتی با بازفعال‌سازی پتاسیم مرده و ساخت SEI غنی از مواد معدنی، پایداری باتری پتاسیمی بدون آند را به‌شدت بهبود داد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using BiI3 additive to simultaneously tune K+ solvation, reconstruct an anion-rich interfacial structure, and reactivate dead K via the reversible I–/I3– redox couple. This enables a robust inorganic-rich SEI, dendrite suppression, and reduced irreversible K loss, yielding 1300 h symmetric-cell cycling and improved anode-free potassium metal battery stability—advancing practical high-energy AFPMB electrolyte design.&lt;br&gt;🏷 anode-free potassium battery · dead potassium · electrolyte engineering · BiI3 · solid electrolyte interphase</description>
-<category>anode-free potassium battery</category>
-<category>dead potassium</category>
-<category>electrolyte engineering</category>
-<category>BiI3</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Mechanistic Insights into Sodium Storage in N-Doped Graphene/MoS2 Heterostructures Revealed by Operando Raman Spectroscopy</title>
-<link>https://doi.org/10.1021/acsnano.6c05789</link>
-<guid isPermaLink="false">10.1021/acsnano.6c05789</guid>
-<pubDate>Fri, 23 Oct 2026 07:02:11 GMT</pubDate>
-<description>طیف‌سنجی Raman operando نشان می‌دهد ذخیره Na+ در هتروساختارهای سه‌لایه N-doped graphene/MoS2 عمدتاً از طریق تجمع برگشت‌پذیر در فضای بین‌لایه‌ای و مخازن حبابی رخ می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using operando Raman spectroscopy on precisely controlled three-layer graphene/NG/MoS2 heterostructures to directly probe interfacial charge transfer and strain during Na+ storage. Significance: revealing that capacity is governed by outer-layer permeability and interlayer electronic-mechanical coupling, and that MoS2 interlayers buffer strain—providing mechanistic design rules for 2D SIB anodes.&lt;br&gt;🏷 sodium-ion battery · MoS2 heterostructure · N-doped graphene · operando Raman · Na+ storage mechanism</description>
-<category>sodium-ion battery</category>
-<category>MoS2 heterostructure</category>
-<category>N-doped graphene</category>
-<category>operando Raman</category>
-<category>Na+ storage mechanism</category>
-</item>
-<item>
-<title>Oxygen-Framework Stabilization and Stress-Relief Engineering via Mo/Ca Co-Substitution for Durable Sodium Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112526</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112526</guid>
-<pubDate>Fri, 23 Oct 2026 07:01:38 GMT</pubDate>
-<description>جانشینی همزمان Mo/Ca در کاتد اکسید لایه‌ای سدیم، پایداری چارچوب اکسیژنی و کاهش تنش را برای دوام بیشتر باتری سدیم بهبود می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium layered oxide · cathode · Mo/Ca co-substitution · oxygen framework · stress relief</description>
-<category>sodium layered oxide</category>
-<category>cathode</category>
-<category>Mo/Ca co-substitution</category>
-<category>oxygen framework</category>
-<category>stress relief</category>
-</item>
-<item>
-<title>Phase-change thermal energy storage: Materials, thermophysics and emerging applications</title>
-<link>https://doi.org/10.1093/nsr/nwag657</link>
-<guid isPermaLink="false">10.1093/nsr/nwag657</guid>
-<pubDate>Fri, 23 Oct 2026 07:01:29 GMT</pubDate>
-<description>این مرور، مواد تغییر فازدهنده، ترموفیزیک و کاربردهای نوظهور ذخیره‌سازی انرژی حرارتی را با تمرکز بر اصلاح مواد و طراحی دستگاه بررسی می‌کند.&lt;br&gt;National Science Review | ⭐ Review&lt;br&gt;💡 This review uniquely integrates molecular engineering, composite microstructure design, and device-level passive/active strategies to overcome PCM thermophysical and heat-transfer limits. It bridges material innovation with system integration across energy, thermal management, medicine, robotics, and catalysis, offering a roadmap toward next-generation PCMs, high-performance devices, and intelligent systems.&lt;br&gt;🏷 phase change materials · thermal energy storage · latent heat · thermal management · composite PCMs</description>
-<category>phase change materials</category>
-<category>thermal energy storage</category>
-<category>latent heat</category>
-<category>thermal management</category>
-<category>composite PCMs</category>
 </item>
 </channel>
 </rss>
