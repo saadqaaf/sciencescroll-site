@@ -5,8 +5,116 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 09:02:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 10:03:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Operando X-ray Photoelectron Spectroscopy Reveals Oxide Solid Electrolyte Stability against Electrochemically Plated Lithium</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02717</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02717</guid>
+<pubDate>Tue, 27 Oct 2026 10:03:34 GMT</pubDate>
+<description>با operando XPS مبتنی بر آزمایشگاه، پایداری الکترولیت‌های جامد اکسیدی در برابر لیتیم آبکاری‌شده الکتروشیمیایی بررسی شد؛ LATP کاهش یافته و فاز واسط Li+/Ti3+ تشکیل می‌دهد، اما LLZO کاهش Zr یا La نشان نمی‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 First operando XPS study of oxide solid electrolyte stability against electrochemically plated Li, avoiding artifacts of non-electrochemical deposition. Reveals LATP reduces to a Li+/Ti3+-rich mixed-conducting interphase that partially relaxes, while LLZO shows no resolvable Zr/La reduction—clarifying intrinsic interfacial reactivity and guiding stable solid-state battery design.&lt;br&gt;🏷 solid electrolyte · operando XPS · lithium plating · LATP · LLZO</description>
+<category>solid electrolyte</category>
+<category>operando XPS</category>
+<category>lithium plating</category>
+<category>LATP</category>
+<category>LLZO</category>
+</item>
+<item>
+<title>Cascade Catalysis of Zn/Nb Single‐Atom Sites for Wide‐Temperature Li‐S Batteries</title>
+<link>https://doi.org/10.1002/adfm.79317</link>
+<guid isPermaLink="false">10.1002/adfm.79317</guid>
+<pubDate>Tue, 27 Oct 2026 10:03:25 GMT</pubDate>
+<description>با جایگاه‌های تک‌اتمی دوگانه Zn-N4 و Nb-N4 در الیاف کربنی، کاتالیز آبشاری تبدیل چندمرحله‌ای گوگرد در باتری Li-S فعال و عملکرد گسترده دمایی با حفظ ظرفیت در 50°C و −20°C نشان داده شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a cascade catalysis strategy using dual Zn-N4 and Nb-N4 single-atom sites on N,P co-doped carbon fibers, where Nb adsorbs and converts LiPSs while Zn drives subsequent Li2S conversion. This enables fast sulfur redox and suppressed shuttling, delivering excellent wide-temperature Li-S performance (651.8 mAh g−1 at 50°C, 401.1 mAh g−1 at −20°C after 500 cycles), guiding multistep kinetics design.&lt;br&gt;🏷 lithium-sulfur battery · single-atom catalyst · cascade catalysis · polysulfide shuttling · wide-temperature</description>
+<category>lithium-sulfur battery</category>
+<category>single-atom catalyst</category>
+<category>cascade catalysis</category>
+<category>polysulfide shuttling</category>
+<category>wide-temperature</category>
+</item>
+<item>
+<title>Lattice‐Level Negative Thermal Expansion Enables Thermomechanical Self‐Compensation in High‐Rate Lithium Batteries</title>
+<link>https://doi.org/10.1002/adfm.79327</link>
+<guid isPermaLink="false">10.1002/adfm.79327</guid>
+<pubDate>Tue, 27 Oct 2026 10:03:12 GMT</pubDate>
+<description>با بهره‌گیری از انقباض شبکه‌ای Cu2P2O7 در جداساز کامپوزیتی PVDF-HFP، خودجبرانی ترمو‌مکانیکی و پایداری دما تا 200°C در باتری‌های لیتیوم فلزی پرتوان فراهم شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multiscale separator design that translates lattice-level negative thermal expansion of Cu₂P₂O₇ into macroscopic thermomechanical self-compensation via PDA-mediated interfacial coupling with PVDF-HFP. This suppresses separator deformation and HF corrosion, enabling dimensional stability to 200°C, 3000 h cycling, and 1000 stable cycles at 5 C—offering a solid-state strategy to mitigate thermomechanical failure in high-power lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · separator · negative thermal expansion · Cu2P2O7 · thermomechanical compensation</description>
+<category>lithium metal battery</category>
+<category>separator</category>
+<category>negative thermal expansion</category>
+<category>Cu2P2O7</category>
+<category>thermomechanical compensation</category>
+</item>
+<item>
+<title>Revealing the Intrinsic Ion Species, Diffusion Paths, Governing Factors for Charge Carriers of Cement‐Based Structural Capacitors (CSCs)</title>
+<link>https://doi.org/10.1002/adfm.79223</link>
+<guid isPermaLink="false">10.1002/adfm.79223</guid>
+<pubDate>Tue, 27 Oct 2026 10:03:02 GMT</pubDate>
+<description>با روش شارژ یک‌جهته، Na+ و K+ به‌عنوان حامل‌های بار غالب در خازن‌های ساختاری سیمانی شناسایی و مسیرها و عوامل حاکم بر انتقال یون با ردیاب Zn روشن شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work first identifies Na⁺ and K⁺ as dominant charge carriers in cement-based structural capacitors using unidirectional charging, then designs a Zn-based tracer capacitor to reveal field-assisted ion diffusion pathways through the porous cement network. It further clarifies governing factors—carrier concentration, water content, and the percolating 3D micro/nanoporous network—providing fundamental insights for rational CSC design.&lt;br&gt;🏷 structural capacitor · cement electrolyte · ion transport · charge carrier · energy storage</description>
+<category>structural capacitor</category>
+<category>cement electrolyte</category>
+<category>ion transport</category>
+<category>charge carrier</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Self‐Assembled Supramolecular Host–Guest Composite Enables Interfacial Regulation Toward Dendrite‐Free Aqueous Zinc Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79331</link>
+<guid isPermaLink="false">10.1002/adfm.79331</guid>
+<pubDate>Tue, 27 Oct 2026 10:02:53 GMT</pubDate>
+<description>یک کامپوزیت میزبان-میهمان سوپرمولکولی خودآرا بر پایه SCA[6] و LCG لایه محافظ روی آند zinc ساخته و با سرکوب دندریت، پایداری چرخه‌ای AZIB را به‌شدت بهبود داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using supramolecular self-assembly of 4-sulfocalix[6]arene and a biacridinium salt to form a protective zinc anode interphase that acts as a &amp;quot;molecular switch&amp;quot; regulating Zn²⁺ solvation and ion transport. Its significance is enabling dendrite-free, corrosion-resistant zinc batteries with ultra-long cycling (3800 h symmetric; 14,000 cycles at 87.25% retention), offering a low-cost, simple strategy for stable AZIBs.&lt;br&gt;🏷 aqueous zinc battery · zinc anode · supramolecular host-guest · dendrite suppression · interfacial regulation</description>
+<category>aqueous zinc battery</category>
+<category>zinc anode</category>
+<category>supramolecular host-guest</category>
+<category>dendrite suppression</category>
+<category>interfacial regulation</category>
+</item>
+<item>
+<title>Time‐Domain Regulation of Electrolyte Microenvironments Enables 30 mA cm − 2 Stable Lithium Plating/Stripping for High‐Voltage Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79350</link>
+<guid isPermaLink="false">10.1002/adfm.79350</guid>
+<pubDate>Tue, 27 Oct 2026 10:02:30 GMT</pubDate>
+<description>الکترولیت ژل پلیمری حساس به زمان با SiNCO ریزآب و HF را حذف کرده و پوشش بین‌سطحی پایدار می‌سازد و آبکاری/جدایش لیتیوم در ۳۰ mA cm−2 را ممکن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a time-domain responsive in situ gel polymer electrolyte using (trimethylsilyl)isocyanate as a &amp;quot;scavenging cage&amp;quot; for trace water/HF, with reaction products dynamically incorporated into interphases. This enables stable Li plating/stripping at 30 mA cm⁻² and 90.5% capacity retention after 500 cycles at 4.7 V, offering a new strategy for durable high-voltage lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · gel polymer electrolyte · interphase engineering · high-voltage cathode · Li plating/stripping</description>
+<category>lithium metal battery</category>
+<category>gel polymer electrolyte</category>
+<category>interphase engineering</category>
+<category>high-voltage cathode</category>
+<category>Li plating/stripping</category>
+</item>
+<item>
+<title>Understanding the Multi‐Electron Conversion Mechanism and High Performance of NbCl 5 Cathodes in All‐Solid‐State Lithium Batteries</title>
+<link>https://doi.org/10.1002/adfm.79310</link>
+<guid isPermaLink="false">10.1002/adfm.79310</guid>
+<pubDate>Tue, 27 Oct 2026 10:02:21 GMT</pubDate>
+<description>کاتد تبدیل‌ی NbCl5 در باتری تمام‌جامد لیتیومی تبدیل چهارالکترونی برگشت‌پذیر با اضافه‌ولتاژ بسیار کم و بازده انرژی ۹۸.۹٪ را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Novelty: A high-valent NbCl5 cathode with continuous electronic pathways enables reversible four-electron conversion, achieving ultralow voltage hysteresis (0.01–0.08 V) and 98.9% energy efficiency. Significance: Conversion-induced LiCl/low-valent niobium chloride interfaces facilitate Li-ion transport, while structural stability (porosity 2.48%→3.55% after 200 cycles) enables 2000-cycle durability, surpassing reported conversion-type and most layered oxide cathodes.&lt;br&gt;🏷 all-solid-state battery · conversion cathode · NbCl5 · four-electron redox · Li-ion transport</description>
+<category>all-solid-state battery</category>
+<category>conversion cathode</category>
+<category>NbCl5</category>
+<category>four-electron redox</category>
+<category>Li-ion transport</category>
+</item>
+<item>
+<title>Trieffect Dense Organic‐Derived Coating Enabling Synergistic Bulk Stability and Interfacial Reactivity for Superb Zn‐Mn Batteries</title>
+<link>https://doi.org/10.1002/adfm.79312</link>
+<guid isPermaLink="false">10.1002/adfm.79312</guid>
+<pubDate>Tue, 27 Oct 2026 10:02:15 GMT</pubDate>
+<description>پوشش آلی مشتق از هیدروکینون روی MnO2 پایداری ساختاری و واکنش‌پذیری سطحی را بهبود می‌دهد و باتری آبی Zn-MnO2 با عمر بیش از ۱۵۰۰۰ چرخه ارائه می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a solvent-free ball-milling strategy using a dense 1,4-dihydroxybenzene (HQ)-derived coating with Mn─O─C bonds to simultaneously stabilize bulk MnO₂ and enhance interfacial reactivity. This trieffect engineering boosts Zn²⁺ diffusion, suppresses Mn dissolution and dead MnO₂ accumulation, enabling 575 mAh g⁻¹, 15,000-cycle lifespan, and a 192.5 Wh kg⁻¹ pouch cell—signifying a practical route to durable, high-energy aqueous Zn-Mn batteries.&lt;br&gt;🏷 Zn-MnO2 battery · organic coating · interfacial engineering · Mn dissolution · long cycling</description>
+<category>Zn-MnO2 battery</category>
+<category>organic coating</category>
+<category>interfacial engineering</category>
+<category>Mn dissolution</category>
+<category>long cycling</category>
+</item>
+<item>
+<title>Dual‐Axial Nitrogen Coordination‐Induced Mn Charge Localization at Fe‐Mn Dual‐Atom Sites for Enhanced Sulfur Redox Kinetics</title>
+<link>https://doi.org/10.1002/adfm.79272</link>
+<guid isPermaLink="false">10.1002/adfm.79272</guid>
+<pubDate>Tue, 27 Oct 2026 10:02:09 GMT</pubDate>
+<description>کاتالیزور دواتمی Fe-Mn با هماهنگی محوری نیتروژن، انتقال بار به Mn را تنظیم کرده و سینتیک ردوکس گوگرد و پایداری چرخه باتری Li-S را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dual-axial nitrogen coordination on Fe-Mn dual-atom sites, inducing Fe-to-Mn charge transfer and Mn charge localization to tune d-orbital levels. This strengthens LiPS adsorption and bidirectionally accelerates rate-determining sulfur redox steps, enabling 682 mAh g⁻¹ at 5 C and ultralow 0.047% decay per cycle over 1000 cycles—offering a new coordination-engineering strategy for Li-S batteries.&lt;br&gt;🏷 lithium-sulfur battery · dual-atom catalyst · axial nitrogen coordination · polysulfide conversion · shuttle effect</description>
+<category>lithium-sulfur battery</category>
+<category>dual-atom catalyst</category>
+<category>axial nitrogen coordination</category>
+<category>polysulfide conversion</category>
+<category>shuttle effect</category>
+</item>
 <item>
 <title>Simultaneous Bulk Zr4+ Doping and In-Situ Li2ZrO3 Interfacial Coating Enable Robust Single-Crystal LiNi0.88Co0.07Mn0.05O2 Cathodes for High-Voltage Lithium-Ion Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105612</link>
@@ -1103,114 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revea
 <category>lithium-sulfur battery</category>
 <category>phase transition</category>
 <category>electrochemical storage</category>
-</item>
-<item>
-<title>Axial Cl‐Coordinated Porous FeCoZn Trimetallic Single‐Atom Catalysts: Breaking the Linear Scaling Relation for Superior Oxygen Reduction Reaction and Ultrastable Zinc‐Air Batteries</title>
-<link>https://doi.org/10.1002/aenm.71718</link>
-<guid isPermaLink="false">10.1002/aenm.71718</guid>
-<pubDate>Fri, 23 Oct 2026 14:01:39 GMT</pubDate>
-<description>کاتالیست تک‌اتمی سه‌فلزی FeCoZn با هماهنگی محوری Cl، تقارن ساختاری M–N4 را شکسته و فعالیت ORR و پایداری باتری Zn-air را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in porous FeCoZn trimetallic single-atom catalysts with three metals sharing one N ligand and axial Cl coordination on Zn, breaking geometric/electronic symmetry and the linear scaling relation via bridge-type O₂ adsorption. Significance: superior ORR activity/stability in acid and alkaline media and ultrastable zinc-air batteries (only 6.5% decay after 2163 h).&lt;br&gt;🏷 trimetallic single-atom catalyst · oxygen reduction reaction · axial Cl coordination · Zn-air battery · linear scaling relation</description>
-<category>trimetallic single-atom catalyst</category>
-<category>oxygen reduction reaction</category>
-<category>axial Cl coordination</category>
-<category>Zn-air battery</category>
-<category>linear scaling relation</category>
-</item>
-<item>
-<title>Atomically Dispersed Fe–Mo Catalytic Pairs Enable Two‐Electron Li 2 C 2 O 4 Pathway for Reversible Li–CO 2 Batteries</title>
-<link>https://doi.org/10.1002/aenm.71738</link>
-<guid isPermaLink="false">10.1002/aenm.71738</guid>
-<pubDate>Fri, 23 Oct 2026 14:01:30 GMT</pubDate>
-<description>جفت‌های کاتالیستی دواتمی Fe–Mo بر بستر کربن دوپه‌شده با N، مسیر دوالکترونی برگشت‌پذیر Li2C2O4 را در باتری Li–CO2 تقویت کرده و سینتیک و پایداری را بهبود می‌دهند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in asymmetric Fe–N–Mo dual-atom catalytic pairs on conjugated N-doped carbon, creating electrophilic Fe and nucleophilic Mo sites that enable selective, reversible two-electron Li₂C₂O₄ conversion in Li–CO₂ batteries. This donor–acceptor design lowers reaction barriers, suppresses competing pathways, and significantly improves energy efficiency and cycling stability.&lt;br&gt;🏷 Li-CO2 battery · dual-atom catalyst · Li2C2O4 pathway · Fe-Mo pairs · two-electron conversion</description>
-<category>Li-CO2 battery</category>
-<category>dual-atom catalyst</category>
-<category>Li2C2O4 pathway</category>
-<category>Fe-Mo pairs</category>
-<category>two-electron conversion</category>
-</item>
-<item>
-<title>Operando Electro‐Rheology: Unraveling Decoupled Ion Transport‐Mechanical‐Morphological Properties in Nanostructured Block Copolymer Electrolytes</title>
-<link>https://doi.org/10.1002/aenm.71734</link>
-<guid isPermaLink="false">10.1002/aenm.71734</guid>
-<pubDate>Fri, 23 Oct 2026 14:01:24 GMT</pubDate>
-<description>روش operando جدیدی با ترکیب رئولوژی و الکتروشیمی، جفت‌شدگی انتقال یون، خواص مکانیکی و ریخت‌شناسی نانوساختار الکترولیت کوپلیمر بلوکی LiTFSI-doped را در حین چرخه‌های گالوانواستاتیک بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a novel operando methodology combining concurrent rheology and electrochemistry under dc polarization to simultaneously track ion transport, mechanical, and morphological properties of block copolymer electrolytes. Its significance is revealing current-density-driven lamellae-to-gyroid/hexagonal transitions, concentration-polarization-induced diffusion decreases, and direct coupling between interfacial electrochemical processes and rubbery plateau modulus.&lt;br&gt;🏷 block copolymer electrolyte · operando electro-rheology · ion transport · morphology evolution · lithium battery</description>
-<category>block copolymer electrolyte</category>
-<category>operando electro-rheology</category>
-<category>ion transport</category>
-<category>morphology evolution</category>
-<category>lithium battery</category>
-</item>
-<item>
-<title>Electronic Coupling and Dual‐Spillover Effect in Co/Co 7 Fe 3 Heterointerface for Boosting Nitrate‐to‐Ammonia Conversion</title>
-<link>https://doi.org/10.1002/adma.75462</link>
-<guid isPermaLink="false">10.1002/adma.75462</guid>
-<pubDate>Fri, 23 Oct 2026 13:02:25 GMT</pubDate>
-<description>همگون‌گاه Co/Co7Fe3 با جفت‌شدگی الکترونی و اثر دوگانه spillover، تبدیل نیترات به آمونیاک با بازده فارادی نزدیک به ۱۰۰٪ و باتری Zn-nitrate کارآمد را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Co/Co₇Fe₃ heterojunction enabling an unconventional [4+4] tandem nitrate-to-ammonia pathway via dual-spillover effects (proton and intermediate). Significance: interfacial electric field tunes water network and proton supply, optimizing intermediate adsorption, achieving 99.16% Faradaic efficiency and 36.07 mg h⁻¹ cm⁻² NH₃ yield, plus a high-performance Zn-nitrate battery—offering a new paradigm for tandem electrocatalyst design.&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · heterointerface · hydrogen spillover · Zn-nitrate battery</description>
-<category>nitrate reduction</category>
-<category>ammonia synthesis</category>
-<category>heterointerface</category>
-<category>hydrogen spillover</category>
-<category>Zn-nitrate battery</category>
-</item>
-<item>
-<title>A circular oligo(disulfide) anolyte enables practical aqueous redox flow batteries</title>
-<link>https://doi.org/10.1038/s41893-026-01970-0</link>
-<guid isPermaLink="false">10.1038/s41893-026-01970-0</guid>
-<pubDate>Fri, 23 Oct 2026 13:02:10 GMT</pubDate>
-<description>این مقاله یک آنولیت الیگودی‌سولفیدی حلقوی برای باتری‌های جریان ردوکس آبی معرفی می‌کند که امکان عملکرد عملی و پایدار را فراهم می‌سازد.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a recyclable oligo(disulfide) anolyte using robust sulfur–sulfur bonds as redox sites, synthesized via ring-opening polymerization of thioctic acid for scalable high-concentration storage. Paired with a cobalt phthalocyanine catalyst and tailored membrane, it achieves 128 Ah l−1 capacity, 95.5% utilization, and 98.1% retention over 2,200 cycles, validated in a 63 Wh stack—advancing sustainable grid-scale energy storage.&lt;br&gt;🏷 redox flow battery · oligo(disulfide) anolyte · aqueous electrolyte · circular disulfide · energy storage</description>
-<category>redox flow battery</category>
-<category>oligo(disulfide) anolyte</category>
-<category>aqueous electrolyte</category>
-<category>circular disulfide</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Recyclable flow battery chemistry</title>
-<link>https://doi.org/10.1038/s41893-026-01979-5</link>
-<guid isPermaLink="false">10.1038/s41893-026-01979-5</guid>
-<pubDate>Fri, 23 Oct 2026 13:01:57 GMT</pubDate>
-<description>این مقاله شیمی باتری جریان بازیافت‌پذیر را معرفی می‌کند که امکان بازیابی و استفاده مجدد اجزای باتری را برای ذخیره‌سازی انرژی فراهم می‌سازد.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 The novelty is a redox-active organic molecule for water-based flow batteries that is recyclable and outperforms the vanadium benchmark. Its significance lies in enabling truly sustainable flow battery technology through exceptional reusability, addressing the key barrier of recycling organic molecules.&lt;br&gt;🏷 flow battery · recyclable chemistry · redox couple · energy storage · electrolyte</description>
-<category>flow battery</category>
-<category>recyclable chemistry</category>
-<category>redox couple</category>
-<category>energy storage</category>
-<category>electrolyte</category>
-</item>
-<item>
-<title>Decoupling Mass Transport in Wood‑Based Separators Enables Ion Selectivity for Highly Stable Aqueous Zinc-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ee05606g</link>
-<guid isPermaLink="false">10.1039/d6ee05606g</guid>
-<pubDate>Fri, 23 Oct 2026 13:01:39 GMT</pubDate>
-<description>جداسازی انتقال جرم در جداکننده‌های چوبی گزینش‌پذیری یونی را بهبود می‌دهد و پایداری باتری‌های آبی یون روی را با مهار واکنش آزادسازی هیدروژن افزایش می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in decoupling mass transport within wood-based separators to achieve ion selectivity, addressing Zn2+/water interactions that drive HER in AZIBs. Significance: this enables selective Zn2+ transport while suppressing water-induced side reactions, yielding highly stable aqueous zinc-ion batteries and offering a sustainable, scalable separator design strategy.&lt;br&gt;🏷 zinc-ion battery · wood separator · ion selectivity · mass transport · hydrogen evolution</description>
-<category>zinc-ion battery</category>
-<category>wood separator</category>
-<category>ion selectivity</category>
-<category>mass transport</category>
-<category>hydrogen evolution</category>
-</item>
-<item>
-<title>Antiferroelectric Phase Transitions Under Electric Fields: A Review of Physics and Applications</title>
-<link>https://doi.org/10.1002/idm2.70087</link>
-<guid isPermaLink="false">10.1002/idm2.70087</guid>
-<pubDate>Fri, 23 Oct 2026 13:01:27 GMT</pubDate>
-<description>این مرور، فیزیک گذارهای فازی آنتی‌فروالکتریک تحت میدان الکتریکی را با ترکیب ترمودینامیک، شبیه‌سازی میدان فاز و داده‌های تجربی یکپارچه می‌کند و کاربردهای ذخیره انرژی و نانوکاپاسیتانس منفی را بررسی می‌کند.&lt;br&gt;Interdisciplinary Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely integrates thermodynamic formalisms, phase-field simulations, and experiments into a coherent multiscale framework linking microscopic antiferroelectric ordering to macroscopic functionality. It reconciles phenomenological and atomistic models, maps regulation strategies onto free-energy landscapes, and anchors emerging applications in phase-transition physics. Identifying CMOS-compatible fluorite antiferroelectrics and machine-learning-accelerated modeling as translational frontiers, it accelerates mechanistic discovery and device innovation.&lt;br&gt;🏷 antiferroelectrics · phase transitions · energy storage · phase-field simulation · negative capacitance</description>
-<category>antiferroelectrics</category>
-<category>phase transitions</category>
-<category>energy storage</category>
-<category>phase-field simulation</category>
-<category>negative capacitance</category>
-</item>
-<item>
-<title>Coordination-programmed cobalt oxalate crystallization enables lithium/cobalt separation from spent LiCoO2 cathodes in a hydrated deep eutectic medium</title>
-<link>https://doi.org/10.1039/d6ta06106k</link>
-<guid isPermaLink="false">10.1039/d6ta06106k</guid>
-<pubDate>Fri, 23 Oct 2026 11:01:41 GMT</pubDate>
-<description>این مقاله با بلوریشدن هماهنگ کبالت اگزالات در محیط اوتکتیک عمیق آبی، جداسازی لیتیوم و کبالت را از کاتدهای مستعمل LiCoO2 ممکن می‌سازد و بازیافت باتری را تسهیل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a hydrated deep eutectic medium (tetramethylammonium chloride–oxalic acid) where water-regulated coordination chemistry programs selective cobalt oxalate crystallization, enabling direct lithium/cobalt separation from spent LiCoO2 cathodes. This significance offers a low-cost, recyclable route for closed-loop battery-material recovery, simplifying selective metal recovery without harsh reagents.&lt;br&gt;🏷 cobalt oxalate · lithium-cobalt separation · spent LiCoO2 · deep eutectic solvent · coordination chemistry</description>
-<category>cobalt oxalate</category>
-<category>lithium-cobalt separation</category>
-<category>spent LiCoO2</category>
-<category>deep eutectic solvent</category>
-<category>coordination chemistry</category>
 </item>
 </channel>
 </rss>
