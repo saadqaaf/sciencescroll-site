@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 21:05:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 22:04:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Achieving Stable High‐Voltage All‐Solid‐State Lithium Batteries: Electrolytes, Interfaces, and Advanced Characterization</title>
+<link>https://doi.org/10.1002/smll.76310</link>
+<guid isPermaLink="false">10.1002/smll.76310</guid>
+<pubDate>Tue, 27 Oct 2026 22:03:53 GMT</pubDate>
+<description>مروری بر باتری‌های لیتیوم تمام‌جامد ولتاژ بالا شامل الکترولیت‌ها، تخریب‌های بین‌سطحی، راهبردهای اصلاح سطوح و روش‌های مشخصه‌یابی کمک‌شده با یادگیری ماشین.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely integrates fundamental degradation theories of high-voltage all-solid-state lithium batteries with a hierarchical design strategy spanning bulk electrolytes and both interfaces. It highlights machine learning-assisted characterization for revealing intrinsic mechanisms. Its significance lies in providing actionable design guidelines for stable, safe, high-energy-density batteries, bridging mechanistic understanding and practical electrolyte engineering.&lt;br&gt;🏷 all-solid-state lithium battery · high-voltage cathode · solid electrolyte · interface degradation · machine learning characterization</description>
+<category>all-solid-state lithium battery</category>
+<category>high-voltage cathode</category>
+<category>solid electrolyte</category>
+<category>interface degradation</category>
+<category>machine learning characterization</category>
+</item>
+<item>
+<title>Orchestrating Dynamic Ion Pairs via Co‐Solvent Engineering for High‐Voltage Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76362</link>
+<guid isPermaLink="false">10.1002/smll.76362</guid>
+<pubDate>Tue, 27 Oct 2026 22:03:32 GMT</pubDate>
+<description>مهندسی هم‌حلال برای ساخت جفت‌یون‌های دینامیکی در الکترولیت باتری سدیم-یون، تشکیل CEI غنی از مواد معدنی و پایداری بالا در ولتاژ بالا را ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in co-solvent engineering that creates dynamic ion pairs via a reversible ligand-exchange equilibrium, overcoming the SIP/CIP trade-off. This simultaneously enables an inorganic-rich CEI and fast anion migration. Significance: reduced desolvation energy, high anodic stability, and 91.77% capacity retention after 1000 high-voltage cycles, offering a universal electrolyte design principle for high-energy, long-life sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · co-solvent engineering · dynamic ion pairs · cathode-electrolyte interphase · high-voltage electrolyte</description>
+<category>sodium-ion battery</category>
+<category>co-solvent engineering</category>
+<category>dynamic ion pairs</category>
+<category>cathode-electrolyte interphase</category>
+<category>high-voltage electrolyte</category>
+</item>
+<item>
+<title>Internal Buffering–Interfacial Regulation Synergy Bridges Stability and Kinetics in Microsized Silicon–Carbon Anodes</title>
+<link>https://doi.org/10.1002/smll.76495</link>
+<guid isPermaLink="false">10.1002/smll.76495</guid>
+<pubDate>Tue, 27 Oct 2026 22:02:52 GMT</pubDate>
+<description>آند میکروسیلیکون-کربن با هتروساختار Mo2N/W2C و گرافن گل‌مانند، SEI معدنی پایدار و سد انتشار Li+ را کاهش داده و ظرفیت و پایداری چرخه‌ای بالا ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a structure–interface co-engineered Mo/W@Gr–Si microsphere integrating flower-like graphene with Mo₂N/W₂C heterostructures, enabling simultaneous Li⁺ adsorption/diffusion regulation. Its significance is bridging interfacial stability and transport kinetics via an inorganic-rich SEI, achieving 1821 mAh g⁻¹, 88.12% ICE, and stable full/pouch cells—a generalizable strategy for practical Si anodes.&lt;br&gt;🏷 silicon-carbon anode · lithium-ion battery · Mo2N/W2C heterostructure · SEI stabilization · Li+ diffusion</description>
+<category>silicon-carbon anode</category>
+<category>lithium-ion battery</category>
+<category>Mo2N/W2C heterostructure</category>
+<category>SEI stabilization</category>
+<category>Li+ diffusion</category>
+</item>
+<item>
+<title>Carbonyl Engineering in Covalent Organic Frameworks for Promoting Li + Conduction</title>
+<link>https://doi.org/10.1002/smll.76469</link>
+<guid isPermaLink="false">10.1002/smll.76469</guid>
+<pubDate>Tue, 27 Oct 2026 22:02:36 GMT</pubDate>
+<description>مهندسی موقعیت گروه‌های کربونیل در COFها نشان داد که ساختار ortho-dicarbonyl رسانایی یونی 9.83×10−4 S/cm و عدد انتقال Li+ برابر 0.8 در الکترولیت جامد ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in systematically tuning carbonyl positions in COFs, revealing that ortho-dicarbonyl β-ketoenamine COFs enhance electronegativity, restrict anions, and lower Li⁺ migration barriers. This establishes a molecular design principle linking functional group positioning to ion transport and interfacial stability, enabling high-conductivity, stable solid-state electrolytes with long cycle life.&lt;br&gt;🏷 covalent organic framework · solid electrolyte · Li+ conduction · carbonyl engineering · solid-state battery</description>
+<category>covalent organic framework</category>
+<category>solid electrolyte</category>
+<category>Li+ conduction</category>
+<category>carbonyl engineering</category>
+<category>solid-state battery</category>
+</item>
 <item>
 <title>Modulating Co spin state in spinel MxCo3−xO4 enables precise spin-state matching with LiS intermediate to accelerate Li2S2-to-Li2S conversion kinetics</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.028</link>
@@ -1164,54 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>operando imaging</category>
 <category>electrodeposition</category>
 <category>lithiation</category>
-</item>
-<item>
-<title>Research progress on aqueous heavy metal ion batteries</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218703</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218703</guid>
-<pubDate>Sat, 24 Oct 2026 20:01:18 GMT</pubDate>
-<description>این مقاله پیشرفت‌های اخیر باتری‌های آبی مبتنی بر یون‌های فلزات سنگین را از نظر مواد الکترود، مکانیسم‌ها و عملکرد الکتروشیمیایی مرور می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aqueous batteries · heavy metal ions · energy storage · electrochemistry · battery mechanisms</description>
-<category>aqueous batteries</category>
-<category>heavy metal ions</category>
-<category>energy storage</category>
-<category>electrochemistry</category>
-<category>battery mechanisms</category>
-</item>
-<item>
-<title>Optimized state-of-charge balancing control strategy based on vector geometry perspective for cascaded energy storage system under composite grid operation scenarios</title>
-<link>https://doi.org/10.1016/j.est.2026.125186</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125186</guid>
-<pubDate>Sat, 24 Oct 2026 15:01:25 GMT</pubDate>
-<description>این مقاله یک استراتژی کنترل متعادل‌سازی وضعیت شارژ مبتنی بر هندسه برداری برای سیستم ذخیره‌سازی انرژی آبشاری تحت سناریوهای عملیاتی شبکه ترکیبی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge balancing · cascaded energy storage · vector geometry · control strategy · grid operation</description>
-<category>state-of-charge balancing</category>
-<category>cascaded energy storage</category>
-<category>vector geometry</category>
-<category>control strategy</category>
-<category>grid operation</category>
-</item>
-<item>
-<title>Soft actor–critic-based parameter adaptation for composite sliding mode control of hybrid energy storage systems in direct current microgrids</title>
-<link>https://doi.org/10.1016/j.est.2026.125225</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125225</guid>
-<pubDate>Sat, 24 Oct 2026 15:01:21 GMT</pubDate>
-<description>این مقاله یک کنترل مد لغزشی مرکب با تطبیق پارامتر مبتنی بر soft actor-critic برای سیستم‌های ذخیره‌سازی انرژی هیبریدی در ریزشبکه‌های DC ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · DC microgrid · sliding mode control · soft actor-critic · parameter adaptation</description>
-<category>hybrid energy storage</category>
-<category>DC microgrid</category>
-<category>sliding mode control</category>
-<category>soft actor-critic</category>
-<category>parameter adaptation</category>
-</item>
-<item>
-<title>Modelling localised flux non-uniformity and nail penetration driven thermal runaway in dual solvent electrolyte lithium battery</title>
-<link>https://doi.org/10.1016/j.est.2026.125211</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125211</guid>
-<pubDate>Sat, 24 Oct 2026 15:01:17 GMT</pubDate>
-<description>این مقاله ناهمگنی موضعی شار و فرار حرارتی ناشی از نفوذ میخ را در باتری لیتیومی با الکترولیت دوجزئی حلال مدل‌سازی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · nail penetration · lithium battery · flux non-uniformity · dual solvent electrolyte</description>
-<category>thermal runaway</category>
-<category>nail penetration</category>
-<category>lithium battery</category>
-<category>flux non-uniformity</category>
-<category>dual solvent electrolyte</category>
 </item>
 </channel>
 </rss>
