@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 16:01:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:02:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Adaptive Supramolecular Interactions Govern Redox‐Active Molecules in Aqueous Redox Flow Batteries</title>
+<link>https://doi.org/10.1002/adma.75499</link>
+<guid isPermaLink="false">10.1002/adma.75499</guid>
+<pubDate>Tue, 27 Oct 2026 17:02:24 GMT</pubDate>
+<description>طراحی مولکولی زویتریونی NDI با برهمکنشهای سوپرمولکولی تطبیقی، انحلالپذیری و پایداری ردوکس مولکولهای فعال را در باتریهای جریان ردوکس آبی بهبود میدهد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers adaptive supramolecular control in aqueous redox flow batteries, showing that zwitterionic naphthalene diimide solubility and redox stability are governed by anion–π interactions and redox-state-dependent assembly. The novelty lies in exploiting weak noncovalent interactions to dissolve otherwise insoluble molecules to ~1.3 M and suppress aggregation, enabling rapid, stable redox chemistry—advancing molecular design for high-performance aqueous RFBs.&lt;br&gt;🏷 redox flow battery · naphthalene diimide · zwitterionic molecules · anion-pi interactions · supramolecular chemistry</description>
+<category>redox flow battery</category>
+<category>naphthalene diimide</category>
+<category>zwitterionic molecules</category>
+<category>anion-pi interactions</category>
+<category>supramolecular chemistry</category>
+</item>
 <item>
 <title>A scalable CsF-based superionic hybrid polymer electrolyte for developing all-solid-state supercapacitor</title>
 <link>https://doi.org/10.1039/d6ta06333k</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bioin
 <category>charging station</category>
 <category>time-varying demand</category>
 <category>electric vehicles</category>
-</item>
-<item>
-<title>Evolutionary trajectories and emerging frontiers in lithium-ion battery fast-charging: A bibliometric analysis</title>
-<link>https://doi.org/10.1016/j.est.2026.125303</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125303</guid>
-<pubDate>Sat, 24 Oct 2026 05:01:14 GMT</pubDate>
-<description>این تحلیل کتاب‌سنجی مسیرهای تکاملی و مرزهای نوظهور پژوهش‌های شارژ سریع باتری لیتیوم-یون را با بررسی روندهای انتشارات و موضوعات کلیدی ترسیم می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery · fast charging · bibliometric analysis · research trends · charging protocols</description>
-<category>lithium-ion battery</category>
-<category>fast charging</category>
-<category>bibliometric analysis</category>
-<category>research trends</category>
-<category>charging protocols</category>
 </item>
 </channel>
 </rss>
