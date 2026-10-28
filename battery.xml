@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 12:01:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 13:02:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Grapevine-structured porous host for high-energy, long-life all-solid-state selenium batteries</title>
+<link>https://doi.org/10.1016/j.mser.2026.101324</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101324</guid>
+<pubDate>Wed, 28 Oct 2026 13:02:51 GMT</pubDate>
+<description>یک میزبان متخلخل با ساختار درخت‌مو مانند برای سلنیوم، باتری تمام‌جامد سلنیومی با انرژی بالا و عمر چرخه طولانی را ممکن می‌سازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 selenium battery · all-solid-state · porous host · grapevine structure · long cycle life</description>
+<category>selenium battery</category>
+<category>all-solid-state</category>
+<category>porous host</category>
+<category>grapevine structure</category>
+<category>long cycle life</category>
+</item>
+<item>
+<title>Mechanically‐Driven Reconstruction of Lithium Metal for Stable All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/adma.75548</link>
+<guid isPermaLink="false">10.1002/adma.75548</guid>
+<pubDate>Wed, 28 Oct 2026 13:02:35 GMT</pubDate>
+<description>بازسازی مکانیکی لیتیوم تجاری با تاشو و غلتک‌زنی بافت و سطح آن را اصلاح کرده و رشد دندریت را در باتری تمام‌جامد سولفیدی سرکوب می‌کند و چرخه‌پذیری طولانی را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Mechanical reconstruction via repeated folding/rolling transforms commercial Li from surface to bulk, creating an oxide-passivated surface and strong Li(200) texture. High-degree reconstruction homogenizes texture, synchronizes interfacial Li motion, suppresses voids and dendrites. This enables 79.3% retention after 1000 cycles, 7.4 mAh cm⁻² operation, and stable cycling below 0.5 MPa—a direct materials-level strategy for sulfide ASSBs.&lt;br&gt;🏷 lithium metal anode · all-solid-state battery · mechanical reconstruction · sulfide electrolyte · dendrite suppression</description>
+<category>lithium metal anode</category>
+<category>all-solid-state battery</category>
+<category>mechanical reconstruction</category>
+<category>sulfide electrolyte</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Copper Surface Engineering Enables Uniform Zn Plating in Zn Batteries at Unity N/P Ratio</title>
+<link>https://doi.org/10.1002/adma.75514</link>
+<guid isPermaLink="false">10.1002/adma.75514</guid>
+<pubDate>Wed, 28 Oct 2026 13:02:29 GMT</pubDate>
+<description>بازسازی سطحی مس با γ-CuCl و آزادسازی Cl− آبکاری یکنواخت Zn را در نسبت N/P برابر ۱ ممکن کرده و پایداری و ظرفیت حجمی بالایی در Zn//MnO2 فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Chemically etching Cu to form a sacrificial γ-CuCl interface creates micro-textured Cu with higher surface area; on reduction it releases Cl⁻ that tunes Zn²⁺ adsorption and suppresses hydrogen evolution. This synergy enables stable Zn plating at N/P = 1.0, with Zn//Cu cycling for 1654 h and Zn//MnO₂ cells reaching 53.5 mAh cm⁻³ and 70% retention over 500 cycles at 80 mA cm⁻²—a benchmark for material-limited Zn reversibility.&lt;br&gt;🏷 zinc battery · copper current collector · Zn plating · chloride mediation · N/P ratio</description>
+<category>zinc battery</category>
+<category>copper current collector</category>
+<category>Zn plating</category>
+<category>chloride mediation</category>
+<category>N/P ratio</category>
+</item>
+<item>
+<title>Intermetallic Anodes Unlock Bulk Aluminum Incorporation in Aqueous Batteries</title>
+<link>https://doi.org/10.1002/adma.75501</link>
+<guid isPermaLink="false">10.1002/adma.75501</guid>
+<pubDate>Wed, 28 Oct 2026 13:02:05 GMT</pubDate>
+<description>آند بین‌فلزی Ni-Al با آلیاژسازی الکتروشیمیایی، ورود حجمی Al را در باتری آبی آلومینیوم ممکن کرده و پایداری چرخه‌ای طولانی و کاهش قطبش را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an intermetallic Ni–Al anode enabling bulk Al incorporation via electrochemically driven alloying, overcoming surface-limited deposition and passivation. Its significance: markedly reduced charge-transfer resistance and polarization, 98.6% capacity retention after 6000 h, 4000 cycles at 3 mA cm⁻², and a working pouch cell—establishing intermetallic anodes as a practical platform for aqueous aluminum batteries.&lt;br&gt;🏷 aqueous aluminum battery · intermetallic anode · Ni-Al alloying · potassium nickel hexacyanoferrate · DFT</description>
+<category>aqueous aluminum battery</category>
+<category>intermetallic anode</category>
+<category>Ni-Al alloying</category>
+<category>potassium nickel hexacyanoferrate</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Coordination-Induced Fluorescence Red Shift of Carbon Dots Regulates Interfacial Chemistry for Ultra-Stable and Low-Temperature Adaptive Zinc-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ee05408k</link>
+<guid isPermaLink="false">10.1039/d6ee05408k</guid>
+<pubDate>Wed, 28 Oct 2026 13:01:50 GMT</pubDate>
+<description>جابه‌جایی قرمز فلورسانس نقاط کربنی ناشی از کوئوردیناسیون، شیمی سطح مشترک آند Zn را تنظیم کرده و باتری روی-یون پایدار و کم‌دما را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using coordination-induced fluorescence red shift of carbon dots as a design principle to tune interfacial chemistry on Zn anodes. This enables dendrite suppression and side-reaction control, yielding ultra-stable, low-temperature-adaptive aqueous zinc-ion batteries—advancing safe, low-cost energy storage.&lt;br&gt;🏷 zinc-ion battery · carbon dots · Zn anode · interfacial chemistry · low-temperature</description>
+<category>zinc-ion battery</category>
+<category>carbon dots</category>
+<category>Zn anode</category>
+<category>interfacial chemistry</category>
+<category>low-temperature</category>
+</item>
+<item>
+<title>Copper-Organic Frameworks Composite Polyether Electrolyte with Valence-Responsive Electronic Modulation toward High-Performance Solid-State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ee06404c</link>
+<guid isPermaLink="false">10.1039/d6ee06404c</guid>
+<pubDate>Wed, 28 Oct 2026 13:01:44 GMT</pubDate>
+<description>یک الکترولیت کامپوزیت پلی‌اتر حاوی چارچوب مس-آلی با تنظیم الکترونی والانس‌پاسخ‌گو برای سرکوب دندریت و بهبود باتری لیتیوم-فلز حالت جامد ارائه می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a redox-active copper-covalent organic framework into PDOL electrolyte, enabling valence-responsive electronic modulation. This addresses PDOL&amp;#x27;s narrow electrochemical window and lithium dendrite growth, offering a promising route to high-performance solid-state lithium metal batteries with improved stability and energy density.&lt;br&gt;🏷 solid-state electrolyte · lithium metal battery · copper-organic framework · PDOL · dendrite suppression</description>
+<category>solid-state electrolyte</category>
+<category>lithium metal battery</category>
+<category>copper-organic framework</category>
+<category>PDOL</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Composition-dependent degradation of manganese-rich olivine cathodes</title>
 <link>https://doi.org/10.1039/d6ta06239c</link>
@@ -1137,78 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>amorphous LiVCl4</category>
 <category>grain boundary</category>
 <category>ultrafast charging</category>
-</item>
-<item>
-<title>Flame Retardant Lithium Composites With Synergistic Suppression of Lithium Dendrites and Smoke Toxicity for High Safe Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79298</link>
-<guid isPermaLink="false">10.1002/adfm.79298</guid>
-<pubDate>Mon, 26 Oct 2026 14:03:34 GMT</pubDate>
-<description>غشای رابط مصنوعی حاوی MOF با یکنواخت‌سازی شار Li+ از رشد دندریت جلوگیری کرده و با تبدیل CO به CO2 سمیت دود و خطر آتش‌سوزی باتری لیتیوم-فلز را کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multifunctional electrospun MOF-based artificial interface that simultaneously regulates Li⁺ flux to suppress dendrites and catalytically converts toxic CO to CO₂ during thermal runaway. Its significance is prolonging ignition time, creating a rescue window, and offering an integrated strategy for safer high-energy lithium metal batteries.&lt;br&gt;🏷 lithium metal anode · flame retardant · MOF membrane · lithium dendrite · CO toxicity</description>
-<category>lithium metal anode</category>
-<category>flame retardant</category>
-<category>MOF membrane</category>
-<category>lithium dendrite</category>
-<category>CO toxicity</category>
-</item>
-<item>
-<title>Thermally Robust Piezoelectric KNN/Polyimide Separator for Regulating Lithium Deposition in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79294</link>
-<guid isPermaLink="false">10.1002/adfm.79294</guid>
-<pubDate>Mon, 26 Oct 2026 14:03:18 GMT</pubDate>
-<description>جداکننده پیزوالکتریک کامپوزیتی KNN/polyimide با تنظیم میدان الکتریکی سطحی و یکنواخت‌سازی شار Li+، رشد دندریت لیتیوم را مهار کرده و پایداری حرارتی باتری لیتیوم-فلز را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining highly fluorinated polyimide with piezoelectric KNN via electrospinning/imidization, using molecular dipole engineering and through-thickness polarization to regulate the interfacial electric field and homogenize Li⁺ flux. Its significance is integrating intrinsic thermal stability with electromechanical interfacial regulation, suppressing dendrites and enabling 88.5% capacity retention after 1900 cycles—a promising route to durable lithium-metal batteries.&lt;br&gt;🏷 lithium metal battery · piezoelectric separator · KNN · polyimide · lithium dendrite</description>
-<category>lithium metal battery</category>
-<category>piezoelectric separator</category>
-<category>KNN</category>
-<category>polyimide</category>
-<category>lithium dendrite</category>
-</item>
-<item>
-<title>Aryl‐Sulfonate‐Functionalized V 2 CT x /SPEEK Membranes Regulate Cation and Water Transport in Zinc‐Ferricyanide Flow Batteries</title>
-<link>https://doi.org/10.1002/adfm.79269</link>
-<guid isPermaLink="false">10.1002/adfm.79269</guid>
-<pubDate>Mon, 26 Oct 2026 14:03:00 GMT</pubDate>
-<description>این مقاله غشای V2CTx/SPEEK عامل‌دار شده با آریل‌سولفونات را برای تنظیم انتقال کاتیون و آب در باتری جریان روی-فری‌سیانید بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Aryl-sulfonate-functionalized V2CTx/SPEEK membranes are novel, using redispersed V2C-SO3 nanosheets to decouple cation conduction from ferricyanide crossover and osmotic water redistribution. This enables higher conductivity, lower swelling and permeability, and 81.4% capacity retention over 390 cycles at 88.9% efficiency, plus 7,000 cycles at 0.1 M, significantly advancing low-cost zinc-ferricyanide flow battery durability.&lt;br&gt;🏷 zinc-ferricyanide flow battery · V2CTx MXene · SPEEK membrane · cation transport · aryl-sulfonate</description>
-<category>zinc-ferricyanide flow battery</category>
-<category>V2CTx MXene</category>
-<category>SPEEK membrane</category>
-<category>cation transport</category>
-<category>aryl-sulfonate</category>
-</item>
-<item>
-<title>Structure and performance study of iPP microporous membrane derived from β-transcrystalline precursor for lithium-ion battery separators</title>
-<link>https://doi.org/10.1007/s42114-026-02159-x</link>
-<guid isPermaLink="false">10.1007/s42114-026-02159-x</guid>
-<pubDate>Mon, 26 Oct 2026 13:01:44 GMT</pubDate>
-<description>غشای میکروپور iPP از پیش‌ماده β-transcrystalline برای جداکننده باتری لیتیوم-یون ساخته و ساختار و عملکرد آن بررسی شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery separator · iPP microporous membrane · β-transcrystallinity · stretching process · pore structure</description>
-<category>lithium-ion battery separator</category>
-<category>iPP microporous membrane</category>
-<category>β-transcrystallinity</category>
-<category>stretching process</category>
-<category>pore structure</category>
-</item>
-<item>
-<title>Mechanochemically Disordered Li 2 Ta 2 OCl 10 Oxyhalide Unlocks Superionic Conductivity (&amp;gt;10 mS.cm −1 )</title>
-<link>https://doi.org/10.1002/aenm.71736</link>
-<guid isPermaLink="false">10.1002/aenm.71736</guid>
-<pubDate>Mon, 26 Oct 2026 12:01:31 GMT</pubDate>
-<description>اکسی‌کلرید جدید Li2Ta2OCl10 سنتز شد و آسیاب گلوله‌ای با ایجاد زیرشبکه Li+ بی‌نظم، رسانایی یونی را ۵۰۰۰ برابر به 11 mS.cm−1 افزایش داد و باتری تمام‌جامد با پایداری بالا ساخت.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Novelty: A new lithium tantalum oxychloride, Li2Ta2OCl10, synthesized via a low-temperature route; ball milling induces a disordered, liquid-like Li+ sublattice, boosting conductivity 5000-fold to 11 mS.cm−1 and lowering activation energy to 0.27 eV. Significance: It enables all-solid-state batteries with low polarization and excellent cycling stability, establishing the Li–M–O–Cl family as a promising design space for superionic conductors.&lt;br&gt;🏷 solid electrolyte · oxyhalide · superionic conductivity · ball milling · all-solid-state battery</description>
-<category>solid electrolyte</category>
-<category>oxyhalide</category>
-<category>superionic conductivity</category>
-<category>ball milling</category>
-<category>all-solid-state battery</category>
-</item>
-<item>
-<title>Helical Keratin‐Derived Aqueous Binders for High‐Performance Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/aenm.71740</link>
-<guid isPermaLink="false">10.1002/aenm.71740</guid>
-<pubDate>Mon, 26 Oct 2026 12:01:25 GMT</pubDate>
-<description>بایندر آبی زیست‌توده‌ای از پروتئین α-هلیکال کرانین، PVA و گلیسرول برای باتری Li-S طراحی شد که با مهار شاتلینگ پلی‌سولفید و بافر شدن انبساط حجمی، پایداری چرخه‌ای بالایی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a biomass-derived aqueous binder crosslinking α-helical protein with PVA and glycerol, where the helical structure acts as a &amp;quot;molecular spring&amp;quot; to buffer volume expansion while polar N/O groups anchor polysulfides. Its significance is enabling green, multifunctional binder design that suppresses shuttling, accelerates kinetics, and delivers stable cycling (0.056% decay/cycle over 600 cycles), advancing practical lithium–sulfur batteries.&lt;br&gt;🏷 lithium-sulfur battery · aqueous binder · keratin · polysulfide shuttling · cycling stability</description>
-<category>lithium-sulfur battery</category>
-<category>aqueous binder</category>
-<category>keratin</category>
-<category>polysulfide shuttling</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
