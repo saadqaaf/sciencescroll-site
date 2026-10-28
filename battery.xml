@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 06:01:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 07:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cosolvation Accelerated Desolvation‐Coupled Charge Transfer for Low‐Temperature Zinc Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.5029282</link>
+<guid isPermaLink="false">10.1002/anie.5029282</guid>
+<pubDate>Wed, 28 Oct 2026 07:01:43 GMT</pubDate>
+<description>افزودن TCPP به الکترولیت، هم‌حلالی متانول را تقویت و انرژی فعال‌سازی انتقال بار همراه با دسولواتاسیون را کاهش می‌دهد و باتری روی را در دمای پایین پایدار می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a cosolvation-promotion strategy where TCPP, despite minimal Zn²⁺ coordination (0.17), boosts methanol coordination from 0.21 to 1.19 while reducing water, accelerating desolvation-coupled charge transfer at low temperature. This decouples antifreezing fluidity from sluggish kinetics, enabling stable Zn||Zn cycling over 2700 h at −40°C and 84.8% capacity retention after 8000 cycles, establishing a general electrolyte-design principle.&lt;br&gt;🏷 zinc metal battery · cosolvation · desolvation kinetics · low temperature · solid electrolyte interphase</description>
+<category>zinc metal battery</category>
+<category>cosolvation</category>
+<category>desolvation kinetics</category>
+<category>low temperature</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Electrostatic Repulsion of Anionic Zn Complexes Directs Zn Plating</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105617</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>model predictive control</category>
 <category>preview length</category>
 <category>proactive control</category>
-</item>
-<item>
-<title>Making 1000 Wh/kg LiNiO2 Cathode Nearly Strain-Free by Complex-Concentrated Doping</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01681</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01681</guid>
-<pubDate>Sun, 25 Oct 2026 18:01:23 GMT</pubDate>
-<description>دوپینگ غلیظ-پیچیده بدون کبالت با تنها ۵٪ در LiNiO2 کرنش محور c را از ۷.۴ به ۲.۱٪ کاهش داده و چگالی انرژی ۹۷۳ واتساعت بر کیلوگرم با پایداری چرخهای بالا ارائه میدهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using only 5% cobalt-free complex-concentrated doping to stabilize LiNiO2, cutting c-axis strain from 7.4% to 2.1% while retaining 258 mAh/g and 973 Wh/kg. Significance: this near-zero-strain strategy suppresses H2-H3/H4 phase transformations and oxygen loss at the full-Ni limit, enabling 80% capacity retention after 1800 pouch-cell cycles and improved thermal stability without sacrificing energy density.&lt;br&gt;🏷 LiNiO2 cathode · complex-concentrated doping · zero-strain · high-energy batteries · cycling stability</description>
-<category>LiNiO2 cathode</category>
-<category>complex-concentrated doping</category>
-<category>zero-strain</category>
-<category>high-energy batteries</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
