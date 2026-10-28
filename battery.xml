@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 13:02:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 14:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Polyoxometalate-based composite electrodes for metal-ion batteries: Design strategies, interfacial regulation, and electrochemical applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218673</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218673</guid>
+<pubDate>Wed, 28 Oct 2026 14:02:03 GMT</pubDate>
+<description>این مقاله مروری راهبردهای طراحی و تنظیم سطح مشترک الکترودهای کامپوزیتی بر پایه polyoxometalate را برای کاربردهای الکتروشیمیایی در باتری‌های یون-فلز بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 polyoxometalate · metal-ion battery · composite electrode · interfacial regulation · design strategies</description>
+<category>polyoxometalate</category>
+<category>metal-ion battery</category>
+<category>composite electrode</category>
+<category>interfacial regulation</category>
+<category>design strategies</category>
+</item>
+<item>
+<title>Sustainable Biomass‐Based Fiber Materials as Structural and Functional Scaffolds for Advanced Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71747</link>
+<guid isPermaLink="false">10.1002/aenm.71747</guid>
+<pubDate>Wed, 28 Oct 2026 14:01:40 GMT</pubDate>
+<description>این مرور، ساختار و نقش الیاف زیست‌توده مانند سلولز و کیتوسان را به‌عنوان الکترولیت، جداکننده، الکترود و بایندر در باتری‌های لیتیوم و روی بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely bridges renewable biomass fiber chemistry with advanced metal battery engineering, systematically linking hierarchical structures to functions across electrolytes, separators, electrodes, and binders. It highlights rational architectural design for enhanced ionic conductivity, interfacial stability, and dendrite suppression, offering sustainable strategies for next-generation green energy storage and guiding molecular-level design, scalable fabrication, and standardized evaluation.&lt;br&gt;🏷 biomass fibers · cellulose · metal batteries · separators · solid electrolytes</description>
+<category>biomass fibers</category>
+<category>cellulose</category>
+<category>metal batteries</category>
+<category>separators</category>
+<category>solid electrolytes</category>
+</item>
+<item>
+<title>Solvent‐Free Metal–Organic Framework‐Based Porous Liquid Electrolyte for Ultrahigh‐Temperature (180°C) Zn Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71778</link>
+<guid isPermaLink="false">10.1002/aenm.71778</guid>
+<pubDate>Wed, 28 Oct 2026 14:01:29 GMT</pubDate>
+<description>الکترولیت مایع متخلخل بر پایه MOF بدون حلال، با کانال‌های نانومحدود و زنجیره‌های پلیمری، عملکرد طولانی‌مدت باتری Zn را تا ۱۸۰ درجه سانتی‌گراد و سرکوب دندریت ممکن می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is a solvent-free MOF-based porous liquid electrolyte combining permanent microporosity with liquid fluidity for ordered ion transport. Its significance: enabling Zn metal batteries to operate at 180°C for the first time, with ultra-long cycling (600 h at 180°C, 10,000 h at 25°C), non-flammability, dendrite suppression, and extension to Zn||I2, Li||S, and Li||V2O5 systems, breaking metal batteries&amp;#x27; temperature barrier.&lt;br&gt;🏷 Zn metal battery · porous liquid electrolyte · MOF UiO-66 · high-temperature electrolyte · dendrite suppression</description>
+<category>Zn metal battery</category>
+<category>porous liquid electrolyte</category>
+<category>MOF UiO-66</category>
+<category>high-temperature electrolyte</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Grapevine-structured porous host for high-energy, long-life all-solid-state selenium batteries</title>
 <link>https://doi.org/10.1016/j.mser.2026.101324</link>
@@ -1172,43 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>CoS2</category>
 <category>heterostructure</category>
 <category>anode</category>
-</item>
-<item>
-<title>A physics-embedded recurrent spiking neural network integrating polarization dynamics for battery state-of-health estimation</title>
-<link>https://doi.org/10.1016/j.est.2026.125329</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125329</guid>
-<pubDate>Mon, 26 Oct 2026 17:01:49 GMT</pubDate>
-<description>یک شبکه عصبی اسپایکی بازگشتی با فیزیک تلفیق‌شده و دینامیک پلاریزاسیون برای تخمین وضعیت سلامت باتری ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · spiking neural network · polarization dynamics · physics-informed model · battery estimation</description>
-<category>state-of-health</category>
-<category>spiking neural network</category>
-<category>polarization dynamics</category>
-<category>physics-informed model</category>
-<category>battery estimation</category>
-</item>
-<item>
-<title>High-current-density solid-state lithium metal batteries through interface engineering</title>
-<link>https://doi.org/10.1039/d6mh01375a</link>
-<guid isPermaLink="false">10.1039/d6mh01375a</guid>
-<pubDate>Mon, 26 Oct 2026 17:01:41 GMT</pubDate>
-<description>این مقاله مروری به مهندسی سطح مشترک برای غلبه بر تماس ضعیف، رشد دندریت لیتیوم و ناپایداری فصل مشترک الکترود-الکترولیت در باتری‌های حالت جامد لیتیوم فلزی می‌پردازد.&lt;br&gt;Materials Horizons | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using interface engineering to address poor interfacial contact, lithium dendrite formation, and unstable electrode–electrolyte interfaces in solid-state batteries. Its significance is enabling high-current-density solid-state lithium metal batteries, a key step toward practical, high-energy-density solid-state battery technology.&lt;br&gt;🏷 solid-state battery · lithium metal anode · interface engineering · dendrite suppression · high current density</description>
-<category>solid-state battery</category>
-<category>lithium metal anode</category>
-<category>interface engineering</category>
-<category>dendrite suppression</category>
-<category>high current density</category>
-</item>
-<item>
-<title>Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c16957</link>
-<guid isPermaLink="false">10.1021/jacs.6c16957</guid>
-<pubDate>Mon, 26 Oct 2026 15:03:41 GMT</pubDate>
-<description>این مقاله با آمورف‌سازی LiVCl4 و کاهش موانع مرزدانه‌ای، کاتد هالیدی بدون الکترولیت را قادر می‌سازد در باتری تمام‌جامد لیتیومی به نرخ فوق‌سریع 75C و پایداری 16000 چرخه دست یابد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathodes (LiVCl4, LiTaOCl4) minimizes grain-boundary ion-transport barriers rather than maximizing bulk conductivity, enabling catholyte-free ASSLBs with 90 wt% CAM. This yields 75C operation (102.1 mAh g–1 at 20 mA cm–2), 16,000-cycle stability, and wide-temperature performance, establishing conformal amorphous interfaces as a new paradigm for ultrahigh-power all-solid-state lithium batteries.&lt;br&gt;🏷 all-solid-state lithium battery · halide cathode · amorphous LiVCl4 · grain boundary · ultrafast charging</description>
-<category>all-solid-state lithium battery</category>
-<category>halide cathode</category>
-<category>amorphous LiVCl4</category>
-<category>grain boundary</category>
-<category>ultrafast charging</category>
 </item>
 </channel>
 </rss>
