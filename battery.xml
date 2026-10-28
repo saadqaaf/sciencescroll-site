@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 02:01:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 03:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking the Theoretical Capacity Limit of Fullerene Anode in Alkali‐Ion Batteries Through Two‐Dimensional Covalent Network Engineering</title>
+<link>https://doi.org/10.1002/adma.75497</link>
+<guid isPermaLink="false">10.1002/adma.75497</guid>
+<pubDate>Wed, 28 Oct 2026 03:01:20 GMT</pubDate>
+<description>شبکه کووالانسی دوبعدی C60 با فاز تتراگونال به‌عنوان آند باتری یون‌لیتیم ظرفیت 522 mAh g−1 و عبور از حد نظری فولرن را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in pioneering metal-free 2D C60 covalent networks (tetragonal and hexagonal phases) as alkali-ion battery anodes, overcoming C60 aggregation and dissolution. Significance: TP-2D-C60 delivers 522 mAh g⁻¹, breaking C60&amp;#x27;s theoretical 446 mAh g⁻¹ limit, far exceeding pristine C60 (3.4 mAh g⁻¹), with demonstrated universality in sodium-ion batteries (309.9 mAh g⁻¹), rationalized by DFT binding-site and migration-barrier insights.&lt;br&gt;🏷 fullerene C60 · 2D covalent network · lithium-ion battery · sodium-ion battery · anode capacity</description>
+<category>fullerene C60</category>
+<category>2D covalent network</category>
+<category>lithium-ion battery</category>
+<category>sodium-ion battery</category>
+<category>anode capacity</category>
+</item>
 <item>
 <title>Decoupling proton transport from vanadium-ion crossover through filler-directed ionic domain engineering in blend membranes for vanadium redox flow batteries</title>
 <link>https://doi.org/10.1039/d6ta06424h</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>electrochemical oscillation</category>
 <category>Co doping</category>
 <category>kinetic mechanism</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>A bulk-surface co-modification strategy enabling stable operation of ultrahigh-nickel Li(Ni0.96Co0.03Mn0.01)O2 cathode beyond 4.7 V</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105609</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105609</guid>
-<pubDate>Sun, 25 Oct 2026 17:01:45 GMT</pubDate>
-<description>این مقاله با راهبرد اصلاح همزمان حجم و سطح، عملکرد پایدار کاتد فوق‌پرنیکل Li(Ni0.96Co0.03Mn0.01)O2 را در ولتاژ بالای 4.7 V ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ultrahigh-nickel cathode · LiNi0.96Co0.03Mn0.01O2 · bulk-surface modification · high voltage · lithium-ion battery</description>
-<category>ultrahigh-nickel cathode</category>
-<category>LiNi0.96Co0.03Mn0.01O2</category>
-<category>bulk-surface modification</category>
-<category>high voltage</category>
 <category>lithium-ion battery</category>
 </item>
 </channel>

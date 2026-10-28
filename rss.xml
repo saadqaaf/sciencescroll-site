@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 02:01:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 03:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking the Theoretical Capacity Limit of Fullerene Anode in Alkali‐Ion Batteries Through Two‐Dimensional Covalent Network Engineering</title>
+<link>https://doi.org/10.1002/adma.75497</link>
+<guid isPermaLink="false">10.1002/adma.75497</guid>
+<pubDate>Wed, 28 Oct 2026 03:01:20 GMT</pubDate>
+<description>شبکه کووالانسی دوبعدی C60 با فاز تتراگونال به‌عنوان آند باتری یون‌لیتیم ظرفیت 522 mAh g−1 و عبور از حد نظری فولرن را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in pioneering metal-free 2D C60 covalent networks (tetragonal and hexagonal phases) as alkali-ion battery anodes, overcoming C60 aggregation and dissolution. Significance: TP-2D-C60 delivers 522 mAh g⁻¹, breaking C60&amp;#x27;s theoretical 446 mAh g⁻¹ limit, far exceeding pristine C60 (3.4 mAh g⁻¹), with demonstrated universality in sodium-ion batteries (309.9 mAh g⁻¹), rationalized by DFT binding-site and migration-barrier insights.&lt;br&gt;🏷 fullerene C60 · 2D covalent network · lithium-ion battery · sodium-ion battery · anode capacity</description>
+<category>fullerene C60</category>
+<category>2D covalent network</category>
+<category>lithium-ion battery</category>
+<category>sodium-ion battery</category>
+<category>anode capacity</category>
+</item>
+<item>
+<title>Evaporation-Modulated Printing Enables Manufacturing of Scalable Organic Photovoltaics by Coformulation of Tetralin with a Green, Non-Toxic Solvent</title>
+<link>https://doi.org/10.1039/d6ee04620g</link>
+<guid isPermaLink="false">10.1039/d6ee04620g</guid>
+<pubDate>Wed, 28 Oct 2026 03:01:14 GMT</pubDate>
+<description>با هم‌فرمولاسیون تترالین و حلال سبز غیرسمی، چاپ تبخیر-کنترل‌شده برای ساخت فتوولتائیک‌های آلی مقیاس‌پذیر با کارایی بالا ارائه می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 organic solar cells · green solvent · tetralin · slot-die printing · morphology control</description>
+<category>organic solar cells</category>
+<category>green solvent</category>
+<category>tetralin</category>
+<category>slot-die printing</category>
+<category>morphology control</category>
+</item>
 <item>
 <title>Mysterious flickering brain signals could help to unlock secrets of consciousness</title>
 <link>https://doi.org/10.1038/d41586-026-03384-6</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>PD-L1 blockade</category>
 <category>sonodynamic therapy</category>
 <category>tumor targeting</category>
-</item>
-<item>
-<title>Molecular Crowding Programs Trifluoroacetate-Solvation Nanoclusters for Stable Aqueous Zinc Metal Chemistry</title>
-<link>https://doi.org/10.1021/acsnano.6c10656</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10656</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:13 GMT</pubDate>
-<description>راهبرد ازدحام مولکولی الکترولیت آبی Zn(TFA)2/NaTFA را به نانوخوشه‌های آنیون‌غنی تبدیل کرد و با کاهش فعالیت آب، گاز هیدروژن و خوردگی روی را مهار و چرخه‌پذیری باتری روی را بهبود داد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molecule-crowding strategy using Zn(TFA)2/NaTFA to create anion-rich nanoclustered solvation, shifting water-rich coordination to contact ion pairs and multi-ion nanoclusters. This reduces water activity, suppressing hydrogen evolution and corrosion while enabling uniform Zn deposition. Significance: exceptional stability—Zn||Zn over 2100 h, Zn||Cu 3000 h at 99.4% efficiency, and 82.4% retention after 30,000 cycles.&lt;br&gt;🏷 aqueous zinc battery · molecular crowding · trifluoroacetate electrolyte · solvation nanocluster · Zn deposition</description>
-<category>aqueous zinc battery</category>
-<category>molecular crowding</category>
-<category>trifluoroacetate electrolyte</category>
-<category>solvation nanocluster</category>
-<category>Zn deposition</category>
-</item>
-<item>
-<title>Beyond Rigid Sequences: A Selective Degradation Representation Network for Efficient and Robust Battery Degradation Trajectory Forecasting</title>
-<link>https://doi.org/10.1016/j.etran.2026.100648</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100648</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:08 GMT</pubDate>
-<description>یک شبکه بازنمایی تخریب گزینشی برای پیش‌بینی کارآمد و مقاوم مسیر افت باتری ارائه شده که محدودیت توالی‌های صلب را کنار می‌گذارد.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 battery degradation forecasting · representation learning · degradation trajectory · selective network · prognostics</description>
-<category>battery degradation forecasting</category>
-<category>representation learning</category>
-<category>degradation trajectory</category>
-<category>selective network</category>
-<category>prognostics</category>
 </item>
 </channel>
 </rss>
