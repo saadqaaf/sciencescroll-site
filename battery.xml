@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 10:01:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 11:02:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Composition-dependent degradation of manganese-rich olivine cathodes</title>
+<link>https://doi.org/10.1039/d6ta06239c</link>
+<guid isPermaLink="false">10.1039/d6ta06239c</guid>
+<pubDate>Wed, 28 Oct 2026 11:01:45 GMT</pubDate>
+<description>پودرهای LiMnxFe1-xPO4 با روش solvothermal ساخته و به‌عنوان کاتد بررسی شدند و تخریب وابسته به ترکیب آن‌ها ارزیابی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in systematically probing how increasing Mn content (x = 0.5–0.8) in solvothermally synthesized LiMnxFe1-xPO4 governs cathode degradation. This composition-resolved insight is significant because it clarifies the Mn-rich trade-off between higher energy density and stability, guiding rational design of LMFP cathodes for lithium-ion batteries.&lt;br&gt;🏷 LMFP cathode · olivine · degradation · solvothermal synthesis · lithium-ion battery</description>
+<category>LMFP cathode</category>
+<category>olivine</category>
+<category>degradation</category>
+<category>solvothermal synthesis</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Can grid-forming inverters pay off? A techno-economic analysis of photovoltaic and battery systems in low-inertia power systems</title>
 <link>https://doi.org/10.1016/j.est.2026.125330</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>keratin</category>
 <category>polysulfide shuttling</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Multi-Electron Transfer in Zinc-Based Batteries: Unraveling Redox Mechanisms Toward Next-Generation Self-Powered Technologies</title>
-<link>https://doi.org/10.1007/s40820-026-02329-y</link>
-<guid isPermaLink="false">10.1007/s40820-026-02329-y</guid>
-<pubDate>Mon, 26 Oct 2026 10:01:32 GMT</pubDate>
-<description>این مرور، مکانیزم‌های انتقال چندالکترونی کاتدهای باتری‌های روی آبی را به الزامات معماری باتری‌های روی فتوشارژ برای فناوری‌های خودتوان مقایسه و تحلیل می‌کند.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely bridges fundamental multi-electron redox chemistry of aqueous zinc battery cathodes with macroscopic engineering of photo-rechargeable devices. Its novelty lies in a unified framework linking reaction kinetics, voltage plateaus, and charge carriers to solar cell coupling strategies. Significance: guiding cathode design, identifying practical bottlenecks, and providing a roadmap for commercially viable self-powered IoT and wearable technologies.&lt;br&gt;🏷 photo-rechargeable zinc battery · multi-electron transfer · cathode materials · redox mechanism · solar integration</description>
-<category>photo-rechargeable zinc battery</category>
-<category>multi-electron transfer</category>
-<category>cathode materials</category>
-<category>redox mechanism</category>
-<category>solar integration</category>
 </item>
 </channel>
 </rss>
