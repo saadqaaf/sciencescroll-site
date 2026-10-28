@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 03:01:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 04:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring porphyrin-based MOFs for photocatalytic hydrogen evolution: Recent strategies and advances</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218689</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218689</guid>
+<pubDate>Wed, 28 Oct 2026 04:01:27 GMT</pubDate>
+<description>این مرور، راهبردهای اخیر طراحی MOFهای پورفیرینی برای تولید فتوکاتالیستی هیدروژن را بررسی می‌کند و عوامل مؤثر بر جداسازی بار، جذب نور و فعالیت کاتالیستی را تحلیل می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 porphyrin MOFs · photocatalytic hydrogen evolution · MOF design · charge separation · co-catalysts</description>
+<category>porphyrin MOFs</category>
+<category>photocatalytic hydrogen evolution</category>
+<category>MOF design</category>
+<category>charge separation</category>
+<category>co-catalysts</category>
+</item>
+<item>
+<title>Recent advances in two-dimensional metal-organic frameworks for solar energy conversion</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218705</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218705</guid>
+<pubDate>Wed, 28 Oct 2026 04:01:23 GMT</pubDate>
+<description>این مقاله مروری، پیشرفت‌های اخیر MOFهای دوبعدی فلز-آلی را برای تبدیل انرژی خورشیدی بررسی می‌کند و راهبردهای طراحی ساختاری و کاربردهای فتوکاتالیستی و فتوولتائیک آن‌ها را جمع‌بندی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 2D MOFs · solar energy conversion · photocatalysis · photovoltaics · structure-property relations</description>
+<category>2D MOFs</category>
+<category>solar energy conversion</category>
+<category>photocatalysis</category>
+<category>photovoltaics</category>
+<category>structure-property relations</category>
+</item>
+<item>
+<title>Simultaneous Optimization of Thermoelectric Transport and Mechanical Performance in Full‐Zintl CaCd 2 Sb 2 /Mg 3 Sb 2 Thermoelectric Modules</title>
+<link>https://doi.org/10.1002/aenm.71756</link>
+<guid isPermaLink="false">10.1002/aenm.71756</guid>
+<pubDate>Wed, 28 Oct 2026 04:01:20 GMT</pubDate>
+<description>آلیاژسازی CaCd2Sb2 با EuMg2Sb2 در فازهای Zintl، انتقال الکتریکی و خواص مکانیکی را همزمان بهبود داده و ماژول تمام-Zintl با Mg3Sb2 بازدهی حدود ۱۱٪ در اختلاف دمای ۴۲۲ کلوین به دست آورد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 Zintl phases · thermoelectric module · CaCd2Sb2 · solid solution · transient liquid phase bonding</description>
+<category>Zintl phases</category>
+<category>thermoelectric module</category>
+<category>CaCd2Sb2</category>
+<category>solid solution</category>
+<category>transient liquid phase bonding</category>
+</item>
+<item>
+<title>Suppressing Photooxidation and Iodine Migration in HTL‐Free Carbon‐Based Perovskite Solar Cells via a Tailor‐Made Redox Guard</title>
+<link>https://doi.org/10.1002/aenm.71758</link>
+<guid isPermaLink="false">10.1002/aenm.71758</guid>
+<pubDate>Wed, 28 Oct 2026 04:01:16 GMT</pubDate>
+<description>با افزودن 4B-TTF به عنوان محافظ مولکولی چندکاره به سلول‌های خورشیدی پروسکایتی کربنی بدون HTL، مهاجرت ید و ابراکسید مهار شده و بازدهی به ۱۹.۹۶٪ و پایداری چشمگیری رسید.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;🏷 carbon-based perovskite solar cells · iodine migration · superoxide radicals · molecular passivation · TTF redox mediator</description>
+<category>carbon-based perovskite solar cells</category>
+<category>iodine migration</category>
+<category>superoxide radicals</category>
+<category>molecular passivation</category>
+<category>TTF redox mediator</category>
+</item>
 <item>
 <title>Breaking the Theoretical Capacity Limit of Fullerene Anode in Alkali‐Ion Batteries Through Two‐Dimensional Covalent Network Engineering</title>
 <link>https://doi.org/10.1002/adma.75497</link>
@@ -1167,54 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>machine learning</category>
 <category>TRMC</category>
 <category>SHAP analysis</category>
-</item>
-<item>
-<title>Sulfur-Induced Local Structure Reconstruction and Weak Na–Anion Interactions Enable Fast Na+ Transport in x Na2S-TaCl5 Electrolytes</title>
-<link>https://doi.org/10.1021/acsnano.6c12578</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12578</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:27 GMT</pubDate>
-<description>ورود گوگرد به الکترولیت جامد xNa2S-TaCl5 ساختار محلی پلی‌هدرهای Ta را بازسازی و پیوند Na-آنیون را تضعیف کرده و با تشکیل چارچوب آمورف، انتقال سریع Na+ را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Sulfur incorporation reconstructs Ta-polyhedral connectivity in amorphous xNa2S-TaCl5 electrolytes, creating coexisting edge- and corner-sharing motifs and weakening Na–anion binding. This lowers Na+ migration barriers, enabling 3.25 mS cm–1 conductivity (0.28 eV activation) and stable all-solid-state Na batteries with uncoated cathodes (82.6% retention after 100 cycles).&lt;br&gt;🏷 sodium solid electrolyte · mixed anion · Na2S-TaCl5 · amorphous framework · Na+ transport</description>
-<category>sodium solid electrolyte</category>
-<category>mixed anion</category>
-<category>Na2S-TaCl5</category>
-<category>amorphous framework</category>
-<category>Na+ transport</category>
-</item>
-<item>
-<title>Temporal Dosing Tunes Glutathione Gradient across Liver-Blood-Tumor Axes to Boost the Chemotherapeutic Potency of Prodrug Nanoassemblies</title>
-<link>https://doi.org/10.1021/acsnano.6c11374</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11374</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:22 GMT</pubDate>
-<description>تنظیم دوز زمانی با ایجاد گرادیان گلوتاتیون در محور کبد-خون-تومور، تجمع توموری نانوخودآرایه‌های پیش‌داروی پاکلیتاکسل را حدود سه برابر افزایش داده و اثربخشی ضدتوموری برتر از Taxol ایجاد کرد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 prodrug nanoassembly · glutathione gradient · paclitaxel · temporal dosing · tumor accumulation</description>
-<category>prodrug nanoassembly</category>
-<category>glutathione gradient</category>
-<category>paclitaxel</category>
-<category>temporal dosing</category>
-<category>tumor accumulation</category>
-</item>
-<item>
-<title>Direct Imaging of Energy Dissipation in Surface Acoustic Waves</title>
-<link>https://doi.org/10.1021/acsnano.6c10736</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10736</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:19 GMT</pubDate>
-<description>میکروسکوپی حرارتی روبشی توزیع نانومقیاس اتلاف انرژی امواج آکوستیک سطحی را تصویر کرد و مقیاس‌بندی حرارتی غیرخطی در فصل مشترک واندروالس h-BN/LiNbO3 را نشان داد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 surface acoustic waves · scanning thermal microscopy · energy dissipation · h-BN/LiNbO3 interface · nonlinear damping</description>
-<category>surface acoustic waves</category>
-<category>scanning thermal microscopy</category>
-<category>energy dissipation</category>
-<category>h-BN/LiNbO3 interface</category>
-<category>nonlinear damping</category>
-</item>
-<item>
-<title>Topology-Programmed Peptide Architectures Orchestrate Durable Tumor Targeting and Cascade Antitumor Immunity</title>
-<link>https://doi.org/10.1021/acsnano.6c13493</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13493</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:16 GMT</pubDate>
-<description>راهبرد مونتاژ سوپرمولکولی برنامه‌ریزی‌شده با توپولوژی، پپتید EH را در میکروسفرهای PLGA تثبیت کرده و با نقاط کوانتومی SeAD، هدف‌گیری پایدار تومور و ایمنی ضدتوموری آبشاری را فراهم می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 peptide self-assembly · topology programming · PD-L1 blockade · sonodynamic therapy · tumor targeting</description>
-<category>peptide self-assembly</category>
-<category>topology programming</category>
-<category>PD-L1 blockade</category>
-<category>sonodynamic therapy</category>
-<category>tumor targeting</category>
 </item>
 </channel>
 </rss>
