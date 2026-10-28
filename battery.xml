@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 20:01:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 21:04:39 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toward bio-circular energy storage: Revalorization of food waste for gel polymer electrolytes in aqueous batteries</title>
+<link>https://doi.org/10.1039/d6ta05208h</link>
+<guid isPermaLink="false">10.1039/d6ta05208h</guid>
+<pubDate>Wed, 28 Oct 2026 21:01:54 GMT</pubDate>
+<description>الکترولیت‌های پلیمری ژلی زیست‌تخریب‌پذیر از ضایعات غذایی مانند تفاله قهوه برای باتری‌های آبی بازیافت و ارزش‌گذاری شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revalorizing spent coffee grounds and other food waste into biodegradable gel polymer electrolytes for aqueous batteries, turning waste streams into functional energy-storage materials. This advances bio-circular design by reducing reliance on synthetic, non-degradable electrolytes while addressing food-waste valorization, offering a sustainable pathway for greener battery technologies.&lt;br&gt;🏷 gel polymer electrolyte · food waste · aqueous battery · spent coffee grounds · biodegradable</description>
+<category>gel polymer electrolyte</category>
+<category>food waste</category>
+<category>aqueous battery</category>
+<category>spent coffee grounds</category>
+<category>biodegradable</category>
+</item>
 <item>
 <title>Experimental and numerical investigation of a hybrid phase change material-flat heat pipe battery thermal management system for high-power cylindrical lithium-ion modules</title>
 <link>https://doi.org/10.1016/j.est.2026.125307</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>additive</category>
 <category>interface stabilization</category>
 <category>TM dissolution</category>
-</item>
-<item>
-<title>Aromatic Intermediate Evolution Promotes Defect-Site Electronic Coupling and Interfacial Reconstruction during Flash Regeneration of Waste Graphite</title>
-<link>https://doi.org/10.1039/d6ta06833b</link>
-<guid isPermaLink="false">10.1039/d6ta06833b</guid>
-<pubDate>Tue, 27 Oct 2026 05:01:34 GMT</pubDate>
-<description>استراتژی بازتولید گرافیت زائد با هدایت ساختار مولکولی، تکامل واسطه‌های آروماتیک را برای ترمیم نقص‌ها و بازسازی سطح مشترک در آندهای باتری لیتیوم-یون بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molecular-structure-directed flash regeneration strategy using aromatic intermediates to evolve defect sites, enabling electronic coupling and interfacial reconstruction in waste graphite. Its significance is providing a mechanistic understanding of precise defect repair, offering a sustainable, high-value route for recycling spent lithium-ion battery anodes.&lt;br&gt;🏷 waste graphite · flash regeneration · defect repair · Li-ion recycling · interfacial reconstruction</description>
-<category>waste graphite</category>
-<category>flash regeneration</category>
-<category>defect repair</category>
-<category>Li-ion recycling</category>
-<category>interfacial reconstruction</category>
 </item>
 </channel>
 </rss>
