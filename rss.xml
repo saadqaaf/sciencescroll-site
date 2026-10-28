@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 05:01:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 06:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Additive manufacturing as a unifying platform across drug discovery, drug delivery, and theranostics</title>
+<link>https://doi.org/10.1016/j.addr.2026.115983</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.115983</guid>
+<pubDate>Wed, 28 Oct 2026 06:01:14 GMT</pubDate>
+<description>این مرور نشان می‌دهد که ساخت افزودنی به‌عنوان یک پلتفرم یکپارچه، کشف دارو، دارورسانی و ترانوستیک را به هم پیوند می‌دهد.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 additive manufacturing · drug discovery · drug delivery · theranostics · 3D printing</description>
+<category>additive manufacturing</category>
+<category>drug discovery</category>
+<category>drug delivery</category>
+<category>theranostics</category>
+<category>3D printing</category>
+</item>
+<item>
+<title>A circular-adsorption framework for surface-engineered, waste-derived adsorbents: from contaminant removal to strategic-element recovery</title>
+<link>https://doi.org/10.1016/j.cis.2026.104077</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104077</guid>
+<pubDate>Wed, 28 Oct 2026 06:01:10 GMT</pubDate>
+<description>این مقاله چارچوبی برای جذب سطحی چرخشی با جاذب‌های مشتق از پسماند و مهندسی‌شده سطحی ارائه می‌دهد که از حذف آلاینده تا بازیابی عناصر استراتژیک کاربرد دارد.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 waste-derived adsorbents · surface engineering · circular adsorption · strategic element recovery · contaminant removal</description>
+<category>waste-derived adsorbents</category>
+<category>surface engineering</category>
+<category>circular adsorption</category>
+<category>strategic element recovery</category>
+<category>contaminant removal</category>
+</item>
 <item>
 <title>Electrostatic Repulsion of Anionic Zn Complexes Directs Zn Plating</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105617</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>rice paddy soil</category>
 <category>sulfate-reducing bacteria</category>
 <category>hgcA</category>
-</item>
-<item>
-<title>Sex-based differences in clinical outcomes of enfortumab vedotin and NECTIN-4 expression in urothelial cancer</title>
-<link>https://doi.org/10.1038/s41467-026-78988-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78988-7</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:55 GMT</pubDate>
-<description>این تحلیل واقعی بین‌المللی نشان می‌دهد بیماران مرد مبتلا به سرطان اوروتلیال متاستاتیک تحت درمان با enfortumab vedotin بقای کلی طولانی‌تری دارند و بیان NECTIN-4 در تومورهای مردان بالاتر است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 enfortumab vedotin · urothelial cancer · NECTIN-4 · sex differences · antibody-drug conjugate</description>
-<category>enfortumab vedotin</category>
-<category>urothelial cancer</category>
-<category>NECTIN-4</category>
-<category>sex differences</category>
-<category>antibody-drug conjugate</category>
-</item>
-<item>
-<title>Facet engineering enables efficient H2O2 piezo-synthesis and self-activation for decentralized water purification</title>
-<link>https://doi.org/10.1038/s41467-026-78931-w</link>
-<guid isPermaLink="false">10.1038/s41467-026-78931-w</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:52 GMT</pubDate>
-<description>این مقاله با مهندسی وجوه، سنتز پیزو-الکتریکی H2O2 و خودفعال‌سازی آن را برای تصفیه آب غیرمتمرکز به‌صورت کارآمد امکان‌پذیر می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 H2O2 piezo-synthesis · facet engineering · self-activation · water purification · piezocatalysis</description>
-<category>H2O2 piezo-synthesis</category>
-<category>facet engineering</category>
-<category>self-activation</category>
-<category>water purification</category>
-<category>piezocatalysis</category>
 </item>
 </channel>
 </rss>
