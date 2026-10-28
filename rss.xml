@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 11:02:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 12:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cellular-resolution three-photon ultra-deep imaging (TrUDI) of neuronal population activity at 2-mm depth in the mammalian brain</title>
+<link>https://doi.org/10.1038/s41592-026-03251-2</link>
+<guid isPermaLink="false">10.1038/s41592-026-03251-2</guid>
+<pubDate>Wed, 28 Oct 2026 12:01:47 GMT</pubDate>
+<description>این مقاله روش تصویربرداری سه‌فوتونی TrUDI را برای ثبت فعالیت جمعیت نورونی در عمق ۲ میلی‌متری مغز پستانداران معرفی می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 three-photon imaging · deep brain imaging · neuronal activity · TrUDI · in vivo microscopy</description>
+<category>three-photon imaging</category>
+<category>deep brain imaging</category>
+<category>neuronal activity</category>
+<category>TrUDI</category>
+<category>in vivo microscopy</category>
+</item>
+<item>
+<title>CopilotJ: a conversational multi-agent system for intelligent and efficient bioimage analysis</title>
+<link>https://doi.org/10.1038/s41592-026-03290-9</link>
+<guid isPermaLink="false">10.1038/s41592-026-03290-9</guid>
+<pubDate>Wed, 28 Oct 2026 12:01:43 GMT</pubDate>
+<description>این مقاله سیستم چندعاملی گفتگویی CopilotJ را برای تحلیل هوشمند و کارآمد تصاویر زیستی ارائه می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 bioimage analysis · multi-agent system · conversational AI · CopilotJ · image processing</description>
+<category>bioimage analysis</category>
+<category>multi-agent system</category>
+<category>conversational AI</category>
+<category>CopilotJ</category>
+<category>image processing</category>
+</item>
+<item>
+<title>Thyra: bridging mass spectrometry imaging and SpatialData for unified multimodal analysis</title>
+<link>https://doi.org/10.1038/s41592-026-03305-5</link>
+<guid isPermaLink="false">10.1038/s41592-026-03305-5</guid>
+<pubDate>Wed, 28 Oct 2026 12:01:39 GMT</pubDate>
+<description>این مقاله ابزار Thyra را برای اتصال تصویربرداری طیف‌سنجی جرمی به SpatialData و تحلیل چندوجهی یکپارچه معرفی می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 mass spectrometry imaging · SpatialData · multimodal analysis · spatial omics · Thyra</description>
+<category>mass spectrometry imaging</category>
+<category>SpatialData</category>
+<category>multimodal analysis</category>
+<category>spatial omics</category>
+<category>Thyra</category>
+</item>
+<item>
+<title>Aptamer-mediated multivalent endogenous ADAR1 recruitment for highly efficient RNA editing</title>
+<link>https://doi.org/10.1038/s41592-026-03284-7</link>
+<guid isPermaLink="false">10.1038/s41592-026-03284-7</guid>
+<pubDate>Wed, 28 Oct 2026 12:01:35 GMT</pubDate>
+<description>این مقاله با استفاده از آپتامرها برای جذب چندظرفیتی ADAR1 درون‌زاد، ویرایش RNA را با کارایی بالا انجام می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 RNA editing · ADAR1 recruitment · aptamer · multivalent binding · endogenous editing</description>
+<category>RNA editing</category>
+<category>ADAR1 recruitment</category>
+<category>aptamer</category>
+<category>multivalent binding</category>
+<category>endogenous editing</category>
+</item>
+<item>
+<title>Metal-free magnets for bioresorbable biosensors</title>
+<link>https://doi.org/10.1038/s41563-026-02758-5</link>
+<guid isPermaLink="false">10.1038/s41563-026-02758-5</guid>
+<pubDate>Wed, 28 Oct 2026 12:01:32 GMT</pubDate>
+<description>این مقاله آهنرباهای بدون فلز را برای ساخت زیست‌حسگرهای زیست‌جذب‌شدنی معرفی می‌کند.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 metal-free magnets · bioresorbable biosensors · organic radicals · transient electronics · biocompatible materials</description>
+<category>metal-free magnets</category>
+<category>bioresorbable biosensors</category>
+<category>organic radicals</category>
+<category>transient electronics</category>
+<category>biocompatible materials</category>
+</item>
+<item>
+<title>Altermagnetic signatures and topological textures in ultrathin multiferroic BiFeO3</title>
+<link>https://doi.org/10.1038/s41563-026-02786-1</link>
+<guid isPermaLink="false">10.1038/s41563-026-02786-1</guid>
+<pubDate>Wed, 28 Oct 2026 12:01:28 GMT</pubDate>
+<description>این مقاله نشانه‌های آلترامغناطیسی و بافت‌های توپولوژیکی را در لایه‌های نازک مولتی‌فروئیک BiFeO3 بررسی می‌کند.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 BiFeO3 · altermagnetism · multiferroic · topological textures · ultrathin films</description>
+<category>BiFeO3</category>
+<category>altermagnetism</category>
+<category>multiferroic</category>
+<category>topological textures</category>
+<category>ultrathin films</category>
+</item>
 <item>
 <title>An engineered, compact Cas12m variant for multiplexed gene activation in vivo</title>
 <link>https://doi.org/10.1038/s41587-026-03352-5</link>
@@ -1139,78 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 solid-state nanopore · p
 <category>Mo2N/W2C heterostructure</category>
 <category>SEI stabilization</category>
 <category>Li+ diffusion</category>
-</item>
-<item>
-<title>Piezoelectric Tm‐ZnO Nanoparticles Reprogram Neutrophils by Modulating Mitochondrial Homeostasis for Osteoarthritis Therapy</title>
-<link>https://doi.org/10.1002/smll.76435</link>
-<guid isPermaLink="false">10.1002/smll.76435</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:47 GMT</pubDate>
-<description>نانوذرات پیزوالکتریک Tm-ZnO با فعال‌سازی LIPUS هومئوستاز میتوکندری نوتروفیل‌ها را بازیابی و قطبش N1 به N2 را در درمان استئوآرتریت تقویت کردند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 piezoelectric nanoparticles · Tm-ZnO · neutrophil reprogramming · osteoarthritis · mitochondrial homeostasis</description>
-<category>piezoelectric nanoparticles</category>
-<category>Tm-ZnO</category>
-<category>neutrophil reprogramming</category>
-<category>osteoarthritis</category>
-<category>mitochondrial homeostasis</category>
-</item>
-<item>
-<title>Hollowing Out Nanofibers for Enhanced Visual Brightness and More Effective Solar Heating</title>
-<link>https://doi.org/10.1002/smll.76477</link>
-<guid isPermaLink="false">10.1002/smll.76477</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:42 GMT</pubDate>
-<description>توخالی کردن نانوالیاف پلی‌آکریلونیتریل/پلی‌پیرول با افزایش بازپراکنش نور، روشنایی بیشتر و افزایش دمای 28 درجه سانتی‌گراد تحت یک خورشید را نسبت به نمونه توپر فراهم کرد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hollow nanofibers · solar heating · thermal management · backscattering · textile</description>
-<category>hollow nanofibers</category>
-<category>solar heating</category>
-<category>thermal management</category>
-<category>backscattering</category>
-<category>textile</category>
-</item>
-<item>
-<title>Circularly Polarized Random Lasing from Perovskite Quantum Dots Embedded in Chiral MOFs</title>
-<link>https://doi.org/10.1002/smll.76445</link>
-<guid isPermaLink="false">10.1002/smll.76445</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:39 GMT</pubDate>
-<description>با کپسوله‌سازی درجای MAPbX3 quantum dots در MOF کایرال، لیزینگ تصادفی قطبیده دایره‌ای با g_lum برابر 1.52 و بازه قابل تنظیم 523–747 nm به‌دست آمد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 circularly polarized lasing · perovskite quantum dots · chiral MOF · random lasing · chirality transfer</description>
-<category>circularly polarized lasing</category>
-<category>perovskite quantum dots</category>
-<category>chiral MOF</category>
-<category>random lasing</category>
-<category>chirality transfer</category>
-</item>
-<item>
-<title>Carbonyl Engineering in Covalent Organic Frameworks for Promoting Li + Conduction</title>
-<link>https://doi.org/10.1002/smll.76469</link>
-<guid isPermaLink="false">10.1002/smll.76469</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:36 GMT</pubDate>
-<description>مهندسی موقعیت گروه‌های کربونیل در COFها نشان داد که ساختار ortho-dicarbonyl رسانایی یونی 9.83×10−4 S/cm و عدد انتقال Li+ برابر 0.8 در الکترولیت جامد ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in systematically tuning carbonyl positions in COFs, revealing that ortho-dicarbonyl β-ketoenamine COFs enhance electronegativity, restrict anions, and lower Li⁺ migration barriers. This establishes a molecular design principle linking functional group positioning to ion transport and interfacial stability, enabling high-conductivity, stable solid-state electrolytes with long cycle life.&lt;br&gt;🏷 covalent organic framework · solid electrolyte · Li+ conduction · carbonyl engineering · solid-state battery</description>
-<category>covalent organic framework</category>
-<category>solid electrolyte</category>
-<category>Li+ conduction</category>
-<category>carbonyl engineering</category>
-<category>solid-state battery</category>
-</item>
-<item>
-<title>Synergistic-Tandem Active Sites Engineered in Pd-Doped Mo5N6 Nanosheets for Efficient CO2 Photoreduction to Acetic Acid</title>
-<link>https://doi.org/10.1021/acscatal.6c04925</link>
-<guid isPermaLink="false">10.1021/acscatal.6c04925</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:31 GMT</pubDate>
-<description>جایگاه‌های فعال تاندم Nv-Pdδ+ در نانوصفحات Mo5N6 با تقویت جفت‌شدن C–C و تأمین H*، بازده انتخابی اسید استیک 90.1% را در photoreduction CO2 ممکن کردند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 CO2 photoreduction · acetic acid · Mo5N6 nanosheets · Pd doping · tandem active sites</description>
-<category>CO2 photoreduction</category>
-<category>acetic acid</category>
-<category>Mo5N6 nanosheets</category>
-<category>Pd doping</category>
-<category>tandem active sites</category>
-</item>
-<item>
-<title>Electronic Control of Mechanistic Divergence in Iron-Catalyzed Olefin Carboamidation to β- and γ-Lactams</title>
-<link>https://doi.org/10.1021/acscatal.6c06982</link>
-<guid isPermaLink="false">10.1021/acscatal.6c06982</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:27 GMT</pubDate>
-<description>واکنش کاربوآمیداسیون اولفین کاتالیز‌شده با آهن به‌صورت الکترونیکی بین β- و γ-lactam تفکیک شد و مسیرهای SN1 و SN2 از طریق یک واسطه آزیریدین مشترک تأیید شدند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 iron catalysis · carboamidation · lactams · regiodivergence · aziridine intermediate</description>
-<category>iron catalysis</category>
-<category>carboamidation</category>
-<category>lactams</category>
-<category>regiodivergence</category>
-<category>aziridine intermediate</category>
 </item>
 </channel>
 </rss>
