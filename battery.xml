@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 00:01:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoupling proton transport from vanadium-ion crossover through filler-directed ionic domain engineering in blend membranes for vanadium redox flow batteries</title>
+<link>https://doi.org/10.1039/d6ta06424h</link>
+<guid isPermaLink="false">10.1039/d6ta06424h</guid>
+<pubDate>Wed, 28 Oct 2026 01:01:29 GMT</pubDate>
+<description>این مقاله با مهندسی دامنه‌های یونی به‌واسطه پرکننده در غشاهای آمیزه‌ای، انتقال پروتون را از عبور یون‌های وانادیوم در باتری جریان ردوکس وانادیوم جدا می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using filler-directed ionic domain engineering in blend membranes to decouple proton transport from vanadium-ion crossover—a key trade-off limiting VRFB membranes. This approach enhances proton conductivity while suppressing vanadium crossover, improving membrane selectivity and long-term VRFB durability. Its significance is enabling higher efficiency and longer operational viability for grid-scale energy storage.&lt;br&gt;🏷 vanadium redox flow battery · blend membrane · proton transport · vanadium crossover · ionic domain engineering</description>
+<category>vanadium redox flow battery</category>
+<category>blend membrane</category>
+<category>proton transport</category>
+<category>vanadium crossover</category>
+<category>ionic domain engineering</category>
+</item>
 <item>
 <title>Hollow ZnSe dodecahedrons nested on carbon nanotubes as three-dimensional sulfiphilic hosts for mitigating polysulfide shuttling and enhancing ion transport in lithium-sulfur batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125296</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>bulk-surface modification</category>
 <category>high voltage</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Superior energy-storage performance in BaTiO3-based MLCCs via high-entropy driven multiscale optimization</title>
-<link>https://doi.org/10.1038/s41467-026-79047-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-79047-x</guid>
-<pubDate>Sun, 25 Oct 2026 09:01:36 GMT</pubDate>
-<description>با بهره‌گیری از آنتروپی بالا و بهینه‌سازی چندمقیاسی در MLCCهای بر پایه BaTiO3، عملکرد ذخیره‌سازی انرژی به‌طور چشمگیری بهبود می‌یابد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a high-entropy driven multiscale optimization strategy combining atomic-level A/B-site doping, phase-scale polymorphic domain engineering, grain-scale SiO2-coated core–shell structures, and device-scale electrode barriers. This yields lead-free BaTiO3 MLCCs with 19.8 J·cm−3 energy density, 89.3% efficiency, and excellent thermal/cycling stability, offering a universal route for high-performance dielectric capacitors.&lt;br&gt;🏷 BaTiO3 · MLCC · high-entropy · energy storage · multiscale optimization</description>
-<category>BaTiO3</category>
-<category>MLCC</category>
-<category>high-entropy</category>
-<category>energy storage</category>
-<category>multiscale optimization</category>
 </item>
 </channel>
 </rss>
