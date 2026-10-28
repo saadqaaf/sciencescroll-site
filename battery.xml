@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 08:02:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 09:01:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Can grid-forming inverters pay off? A techno-economic analysis of photovoltaic and battery systems in low-inertia power systems</title>
+<link>https://doi.org/10.1016/j.est.2026.125330</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125330</guid>
+<pubDate>Wed, 28 Oct 2026 09:01:36 GMT</pubDate>
+<description>این مقاله با تحلیل فنی-اقتصادی، سودآوری اینورترهای grid-forming را در سیستم‌های فتوولتائیک و باتری در شبکه‌های کم‌اینرسی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 grid-forming inverter · battery storage · photovoltaic system · techno-economic analysis · low-inertia grid</description>
+<category>grid-forming inverter</category>
+<category>battery storage</category>
+<category>photovoltaic system</category>
+<category>techno-economic analysis</category>
+<category>low-inertia grid</category>
+</item>
+<item>
+<title>Metalized Carbon Fiber Electrodes for High‐Performance Aqueous Redox Flow Batteries: The Dominance of Bismuth</title>
+<link>https://doi.org/10.1002/bte2.70157</link>
+<guid isPermaLink="false">10.1002/bte2.70157</guid>
+<pubDate>Wed, 28 Oct 2026 09:01:31 GMT</pubDate>
+<description>این مرور به اصلاح الکترودهای نمد کربنی با پوشش فلزی در باتری‌های جریان ردوکس آبی می‌پردازد و بیسموت را به‌عنوان گزینه‌ای امیدبخش برای بهبود سینتیک معرفی می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely reframes electrodes as active ensembles governing redox thermodynamics and kinetics, not passive substrates. It consolidates metal-coating modifications for carbon/graphite felts, their synthesis, and catalytic mechanisms, while flagging metal dissolution and stability challenges. Its key novelty is positioning bismuth as the dominant, promising coating, and it signals the need for deeper mechanistic and techno-economic study.&lt;br&gt;🏷 redox flow battery · carbon felt electrode · bismuth coating · electrocatalysis · metal dissolution</description>
+<category>redox flow battery</category>
+<category>carbon felt electrode</category>
+<category>bismuth coating</category>
+<category>electrocatalysis</category>
+<category>metal dissolution</category>
+</item>
 <item>
 <title>A Multidimensional Carbon Composite Interface Inducing Dispersed Lithium Fluoride Deposition to Enable Ultrahigh-Power Carbon Fluoride Cathodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122258</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>cathode materials</category>
 <category>redox mechanism</category>
 <category>solar integration</category>
-</item>
-<item>
-<title>Heat and mass transfer and structural optimization of finned magnesium-based solid-state hydrogen storage tanks</title>
-<link>https://doi.org/10.1016/j.est.2026.125286</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125286</guid>
-<pubDate>Mon, 26 Oct 2026 07:01:29 GMT</pubDate>
-<description>انتقال حرارت و جرم و بهینه‌سازی ساختاری مخازن ذخیره هیدروژن حالت جامد پایه منیزیم با پره بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state hydrogen storage · magnesium-based tank · finned tank · heat and mass transfer · structural optimization</description>
-<category>solid-state hydrogen storage</category>
-<category>magnesium-based tank</category>
-<category>finned tank</category>
-<category>heat and mass transfer</category>
-<category>structural optimization</category>
-</item>
-<item>
-<title>Voltage coordination control method of photovoltaic storage direct current microgrid based on model prediction active disturbance rejection</title>
-<link>https://doi.org/10.1016/j.est.2026.125236</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125236</guid>
-<pubDate>Mon, 26 Oct 2026 07:01:25 GMT</pubDate>
-<description>روشی برای کنترل هماهنگ ولتاژ در میکروگرید DC فتوولتائیک-ذخیره‌ساز بر پایه کنترل پیش‌بین مدل و ردگیری فعال اغتشاش ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 DC microgrid · voltage coordination · model predictive control · active disturbance rejection · photovoltaic storage</description>
-<category>DC microgrid</category>
-<category>voltage coordination</category>
-<category>model predictive control</category>
-<category>active disturbance rejection</category>
-<category>photovoltaic storage</category>
 </item>
 </channel>
 </rss>

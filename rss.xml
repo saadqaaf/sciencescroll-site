@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 08:02:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 09:01:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Can grid-forming inverters pay off? A techno-economic analysis of photovoltaic and battery systems in low-inertia power systems</title>
+<link>https://doi.org/10.1016/j.est.2026.125330</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125330</guid>
+<pubDate>Wed, 28 Oct 2026 09:01:36 GMT</pubDate>
+<description>این مقاله با تحلیل فنی-اقتصادی، سودآوری اینورترهای grid-forming را در سیستم‌های فتوولتائیک و باتری در شبکه‌های کم‌اینرسی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 grid-forming inverter · battery storage · photovoltaic system · techno-economic analysis · low-inertia grid</description>
+<category>grid-forming inverter</category>
+<category>battery storage</category>
+<category>photovoltaic system</category>
+<category>techno-economic analysis</category>
+<category>low-inertia grid</category>
+</item>
+<item>
+<title>Metalized Carbon Fiber Electrodes for High‐Performance Aqueous Redox Flow Batteries: The Dominance of Bismuth</title>
+<link>https://doi.org/10.1002/bte2.70157</link>
+<guid isPermaLink="false">10.1002/bte2.70157</guid>
+<pubDate>Wed, 28 Oct 2026 09:01:31 GMT</pubDate>
+<description>این مرور به اصلاح الکترودهای نمد کربنی با پوشش فلزی در باتری‌های جریان ردوکس آبی می‌پردازد و بیسموت را به‌عنوان گزینه‌ای امیدبخش برای بهبود سینتیک معرفی می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely reframes electrodes as active ensembles governing redox thermodynamics and kinetics, not passive substrates. It consolidates metal-coating modifications for carbon/graphite felts, their synthesis, and catalytic mechanisms, while flagging metal dissolution and stability challenges. Its key novelty is positioning bismuth as the dominant, promising coating, and it signals the need for deeper mechanistic and techno-economic study.&lt;br&gt;🏷 redox flow battery · carbon felt electrode · bismuth coating · electrocatalysis · metal dissolution</description>
+<category>redox flow battery</category>
+<category>carbon felt electrode</category>
+<category>bismuth coating</category>
+<category>electrocatalysis</category>
+<category>metal dissolution</category>
+</item>
 <item>
 <title>A Multidimensional Carbon Composite Interface Inducing Dispersed Lithium Fluoride Deposition to Enable Ultrahigh-Power Carbon Fluoride Cathodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122258</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 solid-state nanopore · p
 <category>surface enrichment</category>
 <category>galvanic replacement</category>
 <category>PEMFC</category>
-</item>
-<item>
-<title>Adaptive Active Illumination Via Translationally and Axially Tunable Cascaded Metasurfaces</title>
-<link>https://doi.org/10.1002/advs.78448</link>
-<guid isPermaLink="false">10.1002/advs.78448</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:03 GMT</pubDate>
-<description>متاسطوح آبشاری قابل تنظیم انتقالی و محوری، روشنایی فعال تطبیقی با کنترل زاویه پرتو و پوشش میدان دید وسیع برای سنجش سه‌بعدی فراهم می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cascaded metasurfaces · active illumination · 3D sensing · tunable optics · beam steering</description>
-<category>cascaded metasurfaces</category>
-<category>active illumination</category>
-<category>3D sensing</category>
-<category>tunable optics</category>
-<category>beam steering</category>
-</item>
-<item>
-<title>Rational Surface Engineering Reduces Advanced Glycation End‐Product Adsorption and Improves Implant Integration</title>
-<link>https://doi.org/10.1002/advs.78507</link>
-<guid isPermaLink="false">10.1002/advs.78507</guid>
-<pubDate>Tue, 27 Oct 2026 22:01:59 GMT</pubDate>
-<description>مهندسی سطح تیتانیوم با گروه‌های آمین یا کربوکسیل، جذب AGEs را کاهش داده و با تعدیل پاسخ ایمنی و رگ‌زایی، ادغام ایمپلنت را در مدل‌های دیابتی بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 advanced glycation end-products · titanium implant · surface chemistry · ossointegration · macrophage polarization</description>
-<category>advanced glycation end-products</category>
-<category>titanium implant</category>
-<category>surface chemistry</category>
-<category>ossointegration</category>
-<category>macrophage polarization</category>
 </item>
 </channel>
 </rss>
