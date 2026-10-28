@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 21:04:39 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reconstruction of the local electrostatic force field enables ultrafast lithium-ion conduction in Li2ZrCl6</title>
+<link>https://doi.org/10.1016/j.esci.2026.100665</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100665</guid>
+<pubDate>Wed, 28 Oct 2026 22:01:38 GMT</pubDate>
+<description>این پژوهش با بازسازی میدان نیروی الکترواستاتیکی موضعی، رسانش فوق‌سریع یون لیتیوم را در الکترولیت جامد Li2ZrCl6 ممکن می‌سازد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Li2ZrCl6 · solid electrolyte · lithium-ion conduction · electrostatic force field · halide electrolyte</description>
+<category>Li2ZrCl6</category>
+<category>solid electrolyte</category>
+<category>lithium-ion conduction</category>
+<category>electrostatic force field</category>
+<category>halide electrolyte</category>
+</item>
+<item>
+<title>Design guidelines for body-conformable aqueous zinc-based batteries</title>
+<link>https://doi.org/10.1039/d6cs00347h</link>
+<guid isPermaLink="false">10.1039/d6cs00347h</guid>
+<pubDate>Wed, 28 Oct 2026 22:01:21 GMT</pubDate>
+<description>این مرور اصول طراحی، روش‌های چاپ، الکترودهای کشسان و شیمی کاتد را برای باتری‌های آبی روی سازگار با بدن در دستگاه‌های پزشکی ارائه می‌دهد.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;💡 This review is novel in consolidating design principles, printing methods, stretchable electrodes, structural strategies, and cathode chemistries specifically for body-conformable aqueous zinc-based batteries. Its significance lies in guiding the development of safe, flexible, biocompatible power sources for medical devices, bridging materials innovation and clinical application.&lt;br&gt;🏷 aqueous zinc battery · body-conformable · stretchable electrodes · printing methods · cathode chemistry</description>
+<category>aqueous zinc battery</category>
+<category>body-conformable</category>
+<category>stretchable electrodes</category>
+<category>printing methods</category>
+<category>cathode chemistry</category>
+</item>
 <item>
 <title>Toward bio-circular energy storage: Revalorization of food waste for gel polymer electrolytes in aqueous batteries</title>
 <link>https://doi.org/10.1039/d6ta05208h</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>photoelectrocatalysis</category>
 <category>energy storage</category>
 <category>functional materials</category>
-</item>
-<item>
-<title>Crystal-Scale Engineering of Layered Oxide Cathodes: Structure-Property Relationships and Design Principles</title>
-<link>https://doi.org/10.1039/d6ta06831f</link>
-<guid isPermaLink="false">10.1039/d6ta06831f</guid>
-<pubDate>Tue, 27 Oct 2026 05:02:08 GMT</pubDate>
-<description>این مرور، مهندسی در مقیاس بلور کاتدهای اکسید لایه‌ای را بررسی کرده و روابط ساختار-خواص و اصول طراحی برای باتری‌های لیتیوم-یون را ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in establishing crystal-scale structure-property relationships and design principles for layered oxide cathodes, moving beyond empirical optimization. Its significance is providing a rational framework to simultaneously address structural instability, mechanical degradation, and interfacial reactions, enabling high-energy, cobalt-reduced lithium-ion batteries.&lt;br&gt;🏷 layered oxide cathode · crystal-scale engineering · structure-property relationships · Li-ion battery · design principles</description>
-<category>layered oxide cathode</category>
-<category>crystal-scale engineering</category>
-<category>structure-property relationships</category>
-<category>Li-ion battery</category>
-<category>design principles</category>
-</item>
-<item>
-<title>Dual-Functional Additive for HF Mitigation and Electrode Interface Stabilization in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ta06172a</link>
-<guid isPermaLink="false">10.1039/d6ta06172a</guid>
-<pubDate>Tue, 27 Oct 2026 05:01:51 GMT</pubDate>
-<description>یک افزودنی دوکاره برای کاهش HF و پایدارسازی سطح مشترک الکترود در باتری‌های لیتیوم-فلز معرفی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-functional additive that simultaneously scavenges HF and stabilizes the electrode interface in lithium metal batteries, addressing both cathode degradation and transition metal dissolution. Its significance is enabling high-energy-density LMBs by mitigating two coupled failure mechanisms, potentially improving cycling stability and lifespan through a single additive strategy.&lt;br&gt;🏷 lithium metal battery · HF mitigation · additive · interface stabilization · TM dissolution</description>
-<category>lithium metal battery</category>
-<category>HF mitigation</category>
-<category>additive</category>
-<category>interface stabilization</category>
-<category>TM dissolution</category>
 </item>
 </channel>
 </rss>
