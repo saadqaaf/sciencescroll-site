@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 07:02:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 08:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Multidimensional Carbon Composite Interface Inducing Dispersed Lithium Fluoride Deposition to Enable Ultrahigh-Power Carbon Fluoride Cathodes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122258</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122258</guid>
+<pubDate>Wed, 28 Oct 2026 08:02:01 GMT</pubDate>
+<description>یک رابط کامپوزیت کربنی چندبعدی با پراکنده‌سازی رسوب LiF، کاتدهای فوق‌توان‌بالای کربن فلوراید را برای باتری لیتیومی ممکن می‌سازد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 carbon fluoride cathode · lithium fluoride · carbon composite interface · lithium primary battery · high-power cathode</description>
+<category>carbon fluoride cathode</category>
+<category>lithium fluoride</category>
+<category>carbon composite interface</category>
+<category>lithium primary battery</category>
+<category>high-power cathode</category>
+</item>
+<item>
+<title>Vanadium Oxide/MXene Composite Fiber Cathodes With Superior Spinnability Enabling High Electrochemical Performance for Fiber‐Shaped Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76513</link>
+<guid isPermaLink="false">10.1002/smll.76513</guid>
+<pubDate>Wed, 28 Oct 2026 08:01:49 GMT</pubDate>
+<description>کامپوزیت VO2/MXene به‌عنوان کاتد الیافی ریسیده‌شده مرطوب، ظرفیت 136 mAh g−1 پس از 2000 چرخه و پایداری بالاتری نسبت به VO2 خالص در باتری Zn-ion الیافی ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in hybridizing MXene with vanadium oxide to improve slurry rheology and active-material arrangement during wet spinning, enabling continuous, agglomeration-free fiber cathodes. This boosts spinnability, conductivity, and VO₂ structural stability, yielding 136 mAh g⁻¹ after 2000 cycles (109% higher than pure VO₂). Significance: a scalable optimization strategy for carbon-fiber-based fiber-shaped zinc-ion batteries, demonstrated powering small UAV modules.&lt;br&gt;🏷 fiber-shaped zinc-ion battery · MXene · vanadium oxide · wet spinning · fiber cathode</description>
+<category>fiber-shaped zinc-ion battery</category>
+<category>MXene</category>
+<category>vanadium oxide</category>
+<category>wet spinning</category>
+<category>fiber cathode</category>
+</item>
 <item>
 <title>Cosolvation Accelerated Desolvation‐Coupled Charge Transfer for Low‐Temperature Zinc Metal Batteries</title>
 <link>https://doi.org/10.1002/anie.5029282</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Amorphizing halide cathod
 <category>model predictive control</category>
 <category>active disturbance rejection</category>
 <category>photovoltaic storage</category>
-</item>
-<item>
-<title>Cascade Desolvation and Conversion Reaction Driven by Self‐Tandem Catalysis for Wide‐Temperature Li‐S Batteries</title>
-<link>https://doi.org/10.1002/advs.78441</link>
-<guid isPermaLink="false">10.1002/advs.78441</guid>
-<pubDate>Mon, 26 Oct 2026 06:01:57 GMT</pubDate>
-<description>کاتالیز خودتندمی با Ce اتمی روی LDH غنی از نقص، واکنش‌های آبگیری Li+ و تبدیل پلی‌سولفید را تسریع کرده و باتری Li-S را در دمای 0 تا -30 درجه سانتی‌گراد کارآمد می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using atom-level Ce on defect-rich CoFe-LDH as a self-tandem catalyst to enable cascade Li+ desolvation and polysulfide conversion, avoiding electrolyte engineering. This lowers reaction barriers, boosting kinetics and enabling stable wide-temperature Li-S batteries (0 to −30°C) with 94% retention at 5C, offering a promising strategy for high-performance wide-temperature LSBs.&lt;br&gt;🏷 Li-S battery · wide-temperature · self-tandem catalysis · desolvation · polysulfide conversion</description>
-<category>Li-S battery</category>
-<category>wide-temperature</category>
-<category>self-tandem catalysis</category>
-<category>desolvation</category>
-<category>polysulfide conversion</category>
-</item>
-<item>
-<title>Towards proactive control of grid-scale battery energy storage using dynamic preview length</title>
-<link>https://doi.org/10.1016/j.est.2026.125289</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125289</guid>
-<pubDate>Sun, 25 Oct 2026 21:01:15 GMT</pubDate>
-<description>این مقاله روشی مبتنی بر کنترل پیش‌بینانه با طول پیش‌نمایش پویا برای کنترل فعالانه ذخیره‌سازی انرژی باتری در مقیاس شبکه ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 grid-scale storage · battery energy storage · model predictive control · preview length · proactive control</description>
-<category>grid-scale storage</category>
-<category>battery energy storage</category>
-<category>model predictive control</category>
-<category>preview length</category>
-<category>proactive control</category>
 </item>
 </channel>
 </rss>
