@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 22:01:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 23:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Robot autonomous agency by any other name</title>
+<link>https://doi.org/10.1126/scirobotics.aem6108</link>
+<guid isPermaLink="false">10.1126/scirobotics.aem6108</guid>
+<pubDate>Wed, 28 Oct 2026 23:01:08 GMT</pubDate>
+<description>این نوشتار با اشاره به رمان علمی-تخیلی Valet، بحث می‌کند که ربات‌ها ممکن است در واقعیت پیش‌تر از آنچه تصور می‌کنیم اراده آزاد داشته باشند.&lt;br&gt;Science Robotics | 💭 Perspective&lt;br&gt;🏷 robot agency · free will · science fiction · autonomous robots · philosophy of mind</description>
+<category>robot agency</category>
+<category>free will</category>
+<category>science fiction</category>
+<category>autonomous robots</category>
+<category>philosophy of mind</category>
+</item>
+<item>
+<title>Bioinspired soft enteroscopic robot for intestinal locomotion, steering, and intervention</title>
+<link>https://doi.org/10.1126/scirobotics.adt2230</link>
+<guid isPermaLink="false">10.1126/scirobotics.adt2230</guid>
+<pubDate>Wed, 28 Oct 2026 23:01:04 GMT</pubDate>
+<description>ربات درون‌بین نرم و الهام‌گرفته از مار به نام BIOSENTER با محرک‌های پنوماتیکی و آستین‌های kirigami، حرکت، هدایت و مداخله در روده باریک را ممکن کرد و ۲ متر از روده خوک را در ۱۱ دقیقه طی کرد.&lt;br&gt;Science Robotics | 🔬 Research Article&lt;br&gt;🏷 soft robot · enteroscopy · kirigami actuator · pneumatic actuation · intestinal locomotion</description>
+<category>soft robot</category>
+<category>enteroscopy</category>
+<category>kirigami actuator</category>
+<category>pneumatic actuation</category>
+<category>intestinal locomotion</category>
+</item>
+<item>
+<title>The Mars 2020 OnBoard Planner: Increasing autonomy mission productivity of the Perseverance rover</title>
+<link>https://doi.org/10.1126/scirobotics.aeh2947</link>
+<guid isPermaLink="false">10.1126/scirobotics.aeh2947</guid>
+<pubDate>Wed, 28 Oct 2026 23:01:01 GMT</pubDate>
+<description>برنامه‌ریز خودکار روی‌سفینه Mars 2020 با جست‌وجوی مبتنی بر محدودیت، زمان‌بندی فعالیت‌های Perseverance را به‌صورت بلادرنگ تنظیم کرد و فعالیت اختیاری مریخ‌نورد را ۱۰.۵٪ افزایش داد.&lt;br&gt;Science Robotics | 🔬 Research Article&lt;br&gt;🏷 onboard autonomy · rover scheduling · constraint-based search · Mars 2020 · resource tracking</description>
+<category>onboard autonomy</category>
+<category>rover scheduling</category>
+<category>constraint-based search</category>
+<category>Mars 2020</category>
+<category>resource tracking</category>
+</item>
 <item>
 <title>Reconstruction of the local electrostatic force field enables ultrafast lithium-ion conduction in Li2ZrCl6</title>
 <link>https://doi.org/10.1016/j.esci.2026.100665</link>
@@ -1170,42 +1206,6 @@
 <category>EEG</category>
 <category>alpha ERD</category>
 <category>functional connectivity</category>
-</item>
-<item>
-<title>An Environmental Stable Ionogel‐Based Smart Glove System for Integrated Underwater Communication and Safety Warning</title>
-<link>https://doi.org/10.1002/advs.78325</link>
-<guid isPermaLink="false">10.1002/advs.78325</guid>
-<pubDate>Wed, 28 Oct 2026 18:02:16 GMT</pubDate>
-<description>دستکش هوشمند مبتنی بر ionogel با شبکه تنظیم‌شده یونی و FPCB ساخته شد که دقت تشخیص ژست 99.92% و ارتباط زیرآبی و هشدار ایمنی پایدار ارائه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ionogel · smart glove · gesture recognition · underwater communication · flexible sensor</description>
-<category>ionogel</category>
-<category>smart glove</category>
-<category>gesture recognition</category>
-<category>underwater communication</category>
-<category>flexible sensor</category>
-</item>
-<item>
-<title>STRIDE: A Sequencing Depth Robust Metric for Sparse Chromosome Conformation Capture Data Comparison</title>
-<link>https://doi.org/10.1002/advs.78529</link>
-<guid isPermaLink="false">10.1002/advs.78529</guid>
-<pubDate>Wed, 28 Oct 2026 18:02:13 GMT</pubDate>
-<description>چارچوبی محاسباتی مبتنی بر زمان اولین گذر میانگین، نمایشی مقاوم به عمق توالی‌یابی از ماتریس‌های تماس کروماتین و معیار STRIDE را برای تحلیل سازمان سه‌بعدی ژنوم ارائه می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Hi-C · chromatin conformation · single-cell · sequencing depth · Markov chain</description>
-<category>Hi-C</category>
-<category>chromatin conformation</category>
-<category>single-cell</category>
-<category>sequencing depth</category>
-<category>Markov chain</category>
-</item>
-<item>
-<title>Nanoparticle Transport in Polymer Solutions</title>
-<link>https://doi.org/10.1021/accountsmr.6c00189</link>
-<guid isPermaLink="false">10.1021/accountsmr.6c00189</guid>
-<pubDate>Wed, 28 Oct 2026 17:04:08 GMT</pubDate>
-<description>این مرور به بررسی حرکت نانوذرات در محلول‌های پلیمری و انحراف چشمگیر آن از رابطه استوکس-انیشتین به دلیل ناهمگنی و ویسکوالاستیسیته می‌پردازد.&lt;br&gt;Accounts of Materials Research | ⭐ Review&lt;br&gt;🏷 nanoparticle transport · polymer solutions · microrheology · viscoelasticity · Stokes-Einstein deviation</description>
-<category>nanoparticle transport</category>
-<category>polymer solutions</category>
-<category>microrheology</category>
-<category>viscoelasticity</category>
-<category>Stokes-Einstein deviation</category>
 </item>
 </channel>
 </rss>
