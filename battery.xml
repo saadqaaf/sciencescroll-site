@@ -5,8 +5,45 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 16:03:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 17:04:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Solvation Cluster Engineering of Non-Fluorinated Ethers toward High-Energy Lithium Metal Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c16390</link>
+<guid isPermaLink="false">10.1021/jacs.6c16390</guid>
+<pubDate>Wed, 28 Oct 2026 17:04:00 GMT</pubDate>
+<description>با مهندسی برهم‌کنش بین‌مولکولی اترهای غیرفلوئوره، الکترولیتی با خوشه‌های حلال‌پوشی بهینه ساخته شد که باتری لیتیوم-فلزی با چگالی انرژی ۵۲۵ Wh kg−1 را ممکن می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using weak intermolecular Hδ+–Oδ− interactions between a long-chain multidentate ether and a monodentate ether to tune solvation cluster structure in a fluorine-free electrolyte. This yields contact ion pair-dominated clusters, anion-derived LiF-rich interphases, and suppressed cathode cracking, enabling 472.5 Wh kg–1 Li||NCM811 and 525 Wh kg–1 anode-free pouch cells—advancing sustainable, high-energy LMBs.&lt;br&gt;🏷 lithium metal battery · non-fluorinated ether · solvation cluster · solid electrolyte interphase · anode-free pouch cell</description>
+<category>lithium metal battery</category>
+<category>non-fluorinated ether</category>
+<category>solvation cluster</category>
+<category>solid electrolyte interphase</category>
+<category>anode-free pouch cell</category>
+</item>
+<item>
+<title>Bromide‐Activated Four‐Electron Iodine Chemistry Enabled by a Pyridinium‐Integrated Hydrogel Electrolyte</title>
+<link>https://doi.org/10.1002/anie.3951000</link>
+<guid isPermaLink="false">10.1002/anie.3951000</guid>
+<pubDate>Wed, 28 Oct 2026 17:02:19 GMT</pubDate>
+<description>این مقاله با فعال‌سازی برمیدی و الکترولیت هیدروژل پیریدینیوم‌دار، پایداری واسطه IBr2- را بهبود می‌دهد و باتری آبی Zn-I2 چهارالکترونی با ظرفیت نزدیک به نظری و عمر بیش از ۲۰۰۰۰ چرخه ارائه می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work identifies Br⁻ as the optimal halide for activating four-electron Zn–I₂ chemistry, forming less-polarized, hydrolysis-resistant IBr₂⁻ intermediates. A pyridinium-integrated hydrogel electrolyte immobilizes these as water-insoluble complexes, enabling near-theoretical capacity (422.6 mAh g⁻¹), over 20,000-cycle life, and practical 500 mAh pouch cells—advancing high-voltage aqueous battery stability.&lt;br&gt;🏷 zinc-iodine battery · four-electron iodine · hydrogel electrolyte · bromide activation · IBr2- intermediate</description>
+<category>zinc-iodine battery</category>
+<category>four-electron iodine</category>
+<category>hydrogel electrolyte</category>
+<category>bromide activation</category>
+<category>IBr2- intermediate</category>
+</item>
+<item>
+<title>A polymer-embedded molecular fuse for safer high-nickel lithium batteries</title>
+<link>https://doi.org/10.1093/nsr/nwag679</link>
+<guid isPermaLink="false">10.1093/nsr/nwag679</guid>
+<pubDate>Wed, 28 Oct 2026 17:01:54 GMT</pubDate>
+<description>این مقاله یک فیوز مولکولی پلیمری در کاتد را معرفی می‌کند که با کاهش ۷۶ درصدی گرمای آزادشده، فرار حرارتی باتری‌های لیتیومی پرنیکل را به تأخیر می‌اندازد.&lt;br&gt;National Science Review | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a substituent-tuned polymeric molecular fuse embedded in the cathode, using phosphonate side chains to regulate P–C bond dissociation and shift activation temperature by ~10°C. Its significance: on-demand, molecular-level thermal runaway suppression (76% less heat) that is fabrication-compatible, transforming battery safety from passive suppression to controllable intrinsic chemistry.&lt;br&gt;🏷 lithium battery safety · molecular fuse · thermal runaway · high-nickel cathode · pouch cell</description>
+<category>lithium battery safety</category>
+<category>molecular fuse</category>
+<category>thermal runaway</category>
+<category>high-nickel cathode</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>Operando Raman Spectroscopy-Guided 24-Hour Aging Assessment of Activated Carbon Positive Electrodes for Lithium-Ion Capacitors</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02322</link>
@@ -1172,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Li2O2</category>
 <category>electronic coupling</category>
 <category>bifunctional catalyst</category>
-</item>
-<item>
-<title>A Physics-Guided Virtual Probe for Anode Potential Estimation via Target-Label-Free Sim-to-Real Adaptation</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105610</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105610</guid>
-<pubDate>Mon, 26 Oct 2026 23:01:18 GMT</pubDate>
-<description>یک کاوشگر مجازی مبتنی بر فیزیک با سازگاری sim-to-real و بدون نیاز به برچسب، پتانسیل آند باتری را تخمین می‌زند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anode potential · virtual probe · sim-to-real · physics-guided model · battery management</description>
-<category>anode potential</category>
-<category>virtual probe</category>
-<category>sim-to-real</category>
-<category>physics-guided model</category>
-<category>battery management</category>
-</item>
-<item>
-<title>Li-associated cation redistribution and structural reversibility in honeycomb-ordered sodium ruthenates</title>
-<link>https://doi.org/10.1016/j.mattod.2026.103538</link>
-<guid isPermaLink="false">10.1016/j.mattod.2026.103538</guid>
-<pubDate>Mon, 26 Oct 2026 22:01:40 GMT</pubDate>
-<description>این پژوهش توزیع مجدد کاتیون‌های مرتبط با Li و برگشت‌پذیری ساختاری در روتنات‌های سدیم با نظم لانه‌زنبوری را بررسی می‌کند.&lt;br&gt;Materials Today | 🔬 Research Article&lt;br&gt;🏷 sodium ruthenates · honeycomb ordering · cation redistribution · structural reversibility · Li substitution</description>
-<category>sodium ruthenates</category>
-<category>honeycomb ordering</category>
-<category>cation redistribution</category>
-<category>structural reversibility</category>
-<category>Li substitution</category>
-</item>
-<item>
-<title>Resolving the Structural Origin of Lattice Oxygen Release across Scales in Practical Lithium‐Manganese‐Rich Electrodes</title>
-<link>https://doi.org/10.1002/aenm.71746</link>
-<guid isPermaLink="false">10.1002/aenm.71746</guid>
-<pubDate>Mon, 26 Oct 2026 22:01:21 GMT</pubDate>
-<description>با ترکیب طیف‌سنجی جرمی الکتروشیمیایی و میکروسکوپ سنکروترون، منشأ فضایی آزادسازی اکسیژن شبکه در کاتدهای غنی از لیتیوم-منگنز بررسی و نمای وجه‌های فرونتال به‌عنوان عامل کلیدی شناسایی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This study resolves the multiscale structural origin of O₂ release in practical Li-Mn-rich electrodes, showing it is not electrode- or particle-scale heterogeneity but grain frontal-facet exposure that governs oxygen loss. By mapping Mn reduction across four orders of magnitude, it identifies frontal-facet area as a key descriptor, providing a design principle for mitigating gas evolution in high-energy-density cathodes.&lt;br&gt;🏷 lithium-manganese-rich cathode · lattice oxygen release · O2 evolution · Mn reduction · facet dependence</description>
-<category>lithium-manganese-rich cathode</category>
-<category>lattice oxygen release</category>
-<category>O2 evolution</category>
-<category>Mn reduction</category>
-<category>facet dependence</category>
 </item>
 </channel>
 </rss>
