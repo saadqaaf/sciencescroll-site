@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 15:02:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 16:03:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Operando Raman Spectroscopy-Guided 24-Hour Aging Assessment of Activated Carbon Positive Electrodes for Lithium-Ion Capacitors</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02322</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02322</guid>
+<pubDate>Wed, 28 Oct 2026 16:03:50 GMT</pubDate>
+<description>طیف‌سنجی رامان operando در چرخه‌های ولتاژ بالا نشان داد نقطه چرخش باند D1 شاخص حساس خوردگی کربن فعال و افت ظرفیت در خازن‌های لیتیوم-یونی است.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using operando Raman spectroscopy with a 24-hour high-voltage cycling protocol to track activated carbon aging, identifying the D1 band turning point as a sensitive corrosion indicator. This reveals early CEI formation versus later carbon corrosion and links earlier structural turning points to faster capacity decay, enabling rapid, unprecedented diagnostics for capacitor-type materials.&lt;br&gt;🏷 lithium-ion capacitor · activated carbon · operando Raman · carbon corrosion · aging diagnosis</description>
+<category>lithium-ion capacitor</category>
+<category>activated carbon</category>
+<category>operando Raman</category>
+<category>carbon corrosion</category>
+<category>aging diagnosis</category>
+</item>
+<item>
+<title>Current Density as a Critical Factor Governing the Cycle Life of Polysulfide-Based Redox Flow Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02652</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02652</guid>
+<pubDate>Wed, 28 Oct 2026 16:03:45 GMT</pubDate>
+<description>چگالی جریان عامل کلیدی عمر چرخه باتری جریان پلی‌سولفیدی شناسایی شد و افزودن سورفکتانت با تنظیم رسوب گوگرد، عمر چرخه را از ۳۰ به بیش از ۵۰۰ چرخه رساند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in identifying current density as the critical factor governing polysulfide RFB cycle life and elucidating sulfur deposition-induced degradation: higher current density accelerates crossover and forms compact sulfur deposits blocking ion transport. Significance: a surfactant additive regulating sulfur nucleation extended cycle life from 30 to over 500 cycles at 60 mA cm–2, providing design principles for durable, high-rate polysulfide RFBs.&lt;br&gt;🏷 polysulfide flow battery · current density · sulfur deposition · surfactant additive · cycle life</description>
+<category>polysulfide flow battery</category>
+<category>current density</category>
+<category>sulfur deposition</category>
+<category>surfactant additive</category>
+<category>cycle life</category>
+</item>
+<item>
+<title>Self‐Adaptive Gradient Interphase Enables Durable Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79304</link>
+<guid isPermaLink="false">10.1002/adfm.79304</guid>
+<pubDate>Wed, 28 Oct 2026 16:03:33 GMT</pubDate>
+<description>لایه میانی کامپوزیتی B105M40 به کمک یادگیری ماشین، فاز میانی گرادیانی خودسازگار در LLZTO ایجاد کرده و باتری حالت جامد لیتیوم فلزی با چگالی جریان بحرانی 15 mA/cm² و عمر 5000 ساعت می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a machine learning-guided, self-adaptive graded interphase from a BiOCl:Mg₃N₂ composite, combining lithiophilic LiMg, porous Li₃Bi, and fast-ion Li₃N/Li₃OCl phases. This enables dendrite suppression and stable Li/LLZTO contact, achieving 15 mA cm⁻² critical current density, 5000 h cycling, and 93.7% capacity retention after 1000 cycles—a universal strategy extendable to sulfide electrolytes for durable solid-state batteries.&lt;br&gt;🏷 solid-state battery · garnet electrolyte · lithium dendrite · gradient interphase · machine learning</description>
+<category>solid-state battery</category>
+<category>garnet electrolyte</category>
+<category>lithium dendrite</category>
+<category>gradient interphase</category>
+<category>machine learning</category>
+</item>
+<item>
+<title>Dynamic Reconstruction of Ion Transport Pathways by a Shape Memory Separator for Safer Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79326</link>
+<guid isPermaLink="false">10.1002/adfm.79326</guid>
+<pubDate>Wed, 28 Oct 2026 16:03:21 GMT</pubDate>
+<description>جداکننده حافظه‌دار شکل مبتنی بر آرامید با بازسازی گرمامکانیکی مسیرهای انتقال یون، باتری لیتیوم فلزی را در دمای بالا به‌صورت خودکار ایمن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a shape memory separator that converts overheating into thermomechanical pore constriction, shutting down ion transport while an aramid scaffold preserves dimensional integrity and electrode isolation. This self-protective design reconciles high-energy operation with autonomous thermal safety, enabling stable cycling of high-loading Li-rich cathodes up to 125°C and establishing a general principle for intrinsically safer lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · shape memory separator · thermal runaway · aramid scaffold · ion transport</description>
+<category>lithium metal battery</category>
+<category>shape memory separator</category>
+<category>thermal runaway</category>
+<category>aramid scaffold</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Suppressing Side Reaction via Fluorinated Core–Shell Electrolyte for Durable 4.8 V Li‐Rich Batteries</title>
+<link>https://doi.org/10.1002/adfm.79308</link>
+<guid isPermaLink="false">10.1002/adfm.79308</guid>
+<pubDate>Wed, 28 Oct 2026 16:02:47 GMT</pubDate>
+<description>الکترولیت هسته-پوسته فلوئوردار با مهار واکنش‌های جانبی گونه‌های اکسیژن فعال، باتری Li-rich با چگالی انرژی ۵۰۲.۷ وات‌ساعت بر کیلوگرم و پایداری بالا را ممکن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a &amp;quot;side-reaction inhibition&amp;quot; strategy using a bulky, ROS-stable diluent to tune core–shell solvation structures and shield reactive solvents, suppressing interfacial side reactions in Li-rich batteries. Its significance is enabling a 2.5 Ah pouch cell with 502.7 Wh kg⁻¹, 89.85% retention after 50 cycles, and reduced gas evolution, advancing durable 4.8 V high-voltage lithium metal batteries.&lt;br&gt;🏷 Li-rich cathode · high-voltage electrolyte · fluorinated electrolyte · lithium metal battery · side reaction suppression</description>
+<category>Li-rich cathode</category>
+<category>high-voltage electrolyte</category>
+<category>fluorinated electrolyte</category>
+<category>lithium metal battery</category>
+<category>side reaction suppression</category>
+</item>
+<item>
+<title>Covalently Anchored, LiF‐Reinforced Rigid‐Flexible Interphase for Stable Nano‐Si Anodes</title>
+<link>https://doi.org/10.1002/adfm.79163</link>
+<guid isPermaLink="false">10.1002/adfm.79163</guid>
+<pubDate>Wed, 28 Oct 2026 16:02:19 GMT</pubDate>
+<description>لایه اصلاحی کووالانسی G3-LiF روی نانوسیلیکون، انبساط حجمی را مهار و SEI پایدار ایجاد کرده و بازده اولیه 91.3% و پایداری چرخه‌ای بالایی در آند Li-ion فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a covalent anchoring in situ crystallization strategy creating a G3/LiF rigid-flexible interphase on nano-Si. This synergistically buffers volume expansion, enables fast Li⁺ transport, and induces a dense inorganic-rich SEI. Significance: achieves 91.3% initial Coulombic efficiency and 1465 mAh g⁻¹ after 900 cycles, offering new interfacial design insights for stable Si anodes.&lt;br&gt;🏷 silicon anode · LiF interphase · covalent anchoring · SEI · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>LiF interphase</category>
+<category>covalent anchoring</category>
+<category>SEI</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Polyoxometalate-based composite electrodes for metal-ion batteries: Design strategies, interfacial regulation, and electrochemical applications</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218673</link>
@@ -1136,78 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>O2 evolution</category>
 <category>Mn reduction</category>
 <category>facet dependence</category>
-</item>
-<item>
-<title>A Precursor Design Principle for Archipelagic Hard‐Carbon Structural Evolution Through Cohesion–Solvation Regulation of Asphaltene Molecular Heterogeneity</title>
-<link>https://doi.org/10.1002/adma.75517</link>
-<guid isPermaLink="false">10.1002/adma.75517</guid>
-<pubDate>Mon, 26 Oct 2026 21:01:39 GMT</pubDate>
-<description>این پژوهش یک اصل طراحی پیش‌ماده مبتنی بر تنظیم انسجام-حلالیت آسفالتن را برای ساخت آند کربن سخت با تخلخل بسته ارائه می‌دهد که در باتری یون-سدیم ظرفیت و پایداری چرخه‌ای بالایی نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a precursor-level cohesion–solvation design principle that uses asphaltene molecular heterogeneity to redirect carbonization toward confined closed pores. Significance: solvent-selected AHC-80-1400 achieves 400.1 mAh g⁻¹, 87.7% ICE, 92.3% retention over 10,000 cycles, wide-temperature stability, scalable 1.18 Ah pouch cells (163.3 Wh kg⁻¹), and 33.7% lower climate impact, establishing molecular selection as a hard-carbon design principle.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · asphaltene precursor · closed pore · DFT</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>asphaltene precursor</category>
-<category>closed pore</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Lewis‐Basic Metal Sulfide Electrode Interfaces Unlock High Power Density Alkaline All‐Iron Redox Flow Batteries</title>
-<link>https://doi.org/10.1002/adma.75512</link>
-<guid isPermaLink="false">10.1002/adma.75512</guid>
-<pubDate>Mon, 26 Oct 2026 21:01:31 GMT</pubDate>
-<description>این کار با مهندسی رابط سولفیدی بازی لوئیس در الکترود Ni3S4، سینتیک انتقال الکترون آنولیت آهن-شلات را در باتری جریان ردوکس تمام‌آهنی قلیایی بهبود می‌دهد و به چگالی توان و بازدهی بالا دست می‌یابد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying sluggish outer-sphere electron transfer of Fe-chelate anolytes as the key kinetic bottleneck in alkaline all-iron redox flow batteries, linked to limited outer Helmholtz plane accessibility. Lewis-basic Ni₃S₄ sulfide interfaces convert inefficient diffusion encounters into productive sulfide-assisted electron-transfer events, boosting energy efficiency to 80.65% and peak power density to 501.2 mW cm⁻², enabling high-power, low-cost long-duration storage.&lt;br&gt;🏷 all-iron redox flow battery · Lewis-basic sulfide interface · outer-sphere electron transfer · Ni3S4 electrode · power density</description>
-<category>all-iron redox flow battery</category>
-<category>Lewis-basic sulfide interface</category>
-<category>outer-sphere electron transfer</category>
-<category>Ni3S4 electrode</category>
-<category>power density</category>
-</item>
-<item>
-<title>Regulating carrier transport and oxychloride interphase formation by increasing configurational complexity in solid-state halide electrolytes</title>
-<link>https://doi.org/10.1016/j.joule.2026.102713</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102713</guid>
-<pubDate>Mon, 26 Oct 2026 20:01:56 GMT</pubDate>
-<description>این مقاله با افزایش پیچیدگی آرایشی در الکترولیت‌های هالیدی حالت جامد، انتقال حامل و تشکیل فاز میانی اکسی‌کلریدی را تنظیم می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 halide electrolyte · solid-state battery · carrier transport · oxychloride interphase · configurational complexity</description>
-<category>halide electrolyte</category>
-<category>solid-state battery</category>
-<category>carrier transport</category>
-<category>oxychloride interphase</category>
-<category>configurational complexity</category>
-</item>
-<item>
-<title>Spatially confined bimetallic sulfide interface engineering strategy synergistically promotes rapid and stable sodium-ion storage</title>
-<link>https://doi.org/10.1039/d6ta06926f</link>
-<guid isPermaLink="false">10.1039/d6ta06926f</guid>
-<pubDate>Mon, 26 Oct 2026 19:02:19 GMT</pubDate>
-<description>این پژوهش با مهندسی سطح مشترک دو فلزی سولفیدی SnS2@NiS2/CNF از طریق الکتروریسی و سولفیداسیون، ظرفیت برگشت‌پذیر، بازده کولمبی اولیه و پایداری چرخه‌ای ذخیره‌سازی سدیم را به‌طور هم‌افزا بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially confined bimetallic sulfide interface (SnS₂@NiS₂/CNF) built by electrospinning and sulfidation, creating synergistic heterointerfaces within carbon nanofibers. This design delivers enhanced reversible capacity, initial Coulombic efficiency, rate capability, and long-cycle stability for sodium-ion storage, offering a scalable interface-engineering strategy for high-performance anode materials.&lt;br&gt;🏷 sodium-ion storage · bimetallic sulfide · interface engineering · SnS2@NiS2 · electrospinning</description>
-<category>sodium-ion storage</category>
-<category>bimetallic sulfide</category>
-<category>interface engineering</category>
-<category>SnS2@NiS2</category>
-<category>electrospinning</category>
-</item>
-<item>
-<title>Constructing Water-Deficient Inner Helmholtz Plane via Sulfated Polysaccharide Multidentate Adsorption for Dendrite-Free Zinc Metal Anode</title>
-<link>https://doi.org/10.1039/d6ta07050g</link>
-<guid isPermaLink="false">10.1039/d6ta07050g</guid>
-<pubDate>Mon, 26 Oct 2026 19:01:40 GMT</pubDate>
-<description>این پژوهش با جذب چنددندانه پلی‌ساکارید سولفاته، لایه درونی هلمهولتز کم‌آب می‌سازد تا رشد دندریتی و واکنش آزادسازی هیدروژن در آند فلز روی باتری آبی Zn-ion مهار شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a sulfated polysaccharide to create a water-deficient inner Helmholtz plane via multidentate adsorption, regulating Zn deposition. This suppresses dendrite growth and hydrogen evolution, enabling dendrite-free Zn anodes. It offers a sustainable, low-cost electrolyte additive strategy with significant potential for practical AZIB deployment.&lt;br&gt;🏷 zinc metal anode · aqueous zinc-ion battery · sulfated polysaccharide · inner Helmholtz plane · dendrite suppression</description>
-<category>zinc metal anode</category>
-<category>aqueous zinc-ion battery</category>
-<category>sulfated polysaccharide</category>
-<category>inner Helmholtz plane</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Hierarchical 2D-2D-3D NiPS3@CoS2 architecture for high-performance sodium ion battery</title>
-<link>https://doi.org/10.1016/j.est.2026.125023</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125023</guid>
-<pubDate>Mon, 26 Oct 2026 17:01:54 GMT</pubDate>
-<description>ساختار سلسله‌مراتبی 2D-2D-3D از NiPS3@CoS2 برای آند باتری یون سدیم با عملکرد بالا طراحی و بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · NiPS3 · CoS2 · heterostructure · anode</description>
-<category>sodium-ion battery</category>
-<category>NiPS3</category>
-<category>CoS2</category>
-<category>heterostructure</category>
-<category>anode</category>
 </item>
 </channel>
 </rss>
