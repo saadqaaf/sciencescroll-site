@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 06:01:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 07:01:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Boosting High-Temperature Capacitive Energy Storage in Laminated Ferroelectric Polymer Nanocomposites reinforced by Ca(OH)₂@PDA Nanoplates</title>
+<link>https://doi.org/10.1039/d6ta07303d</link>
+<guid isPermaLink="false">10.1039/d6ta07303d</guid>
+<pubDate>Thu, 29 Oct 2026 07:01:22 GMT</pubDate>
+<description>نانوکامپوزیت‌های لایه‌ای پلیمر فروالکتریک تقویت‌شده با Ca(OH)2@PDA با معماری چندمقیاسی، ذخیره انرژی خازنی در دمای بالا را بهبود می‌دهند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Ca(OH)₂@PDA nanoplates to build a multi-scale laminated architecture in ferroelectric polymer nanocomposites, simultaneously improving thermal stability and suppressing conduction loss. This enables enhanced high-temperature capacitive energy storage, addressing a key barrier for dielectric capacitors in harsh environments and advancing next-generation energy storage applications.&lt;br&gt;🏷 ferroelectric polymer · capacitive energy storage · polymer nanocomposite · high temperature · Ca(OH)2 nanoplates</description>
+<category>ferroelectric polymer</category>
+<category>capacitive energy storage</category>
+<category>polymer nanocomposite</category>
+<category>high temperature</category>
+<category>Ca(OH)2 nanoplates</category>
+</item>
 <item>
 <title>Resonance-enhanced zinc electrodeposition in aqueous ZnSO4 electrolytes: Synergistic effects of electrode orientation and low-frequency vibration</title>
 <link>https://doi.org/10.1016/j.est.2026.125346</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lithium retention</category>
 <category>hydrometallurgy</category>
 <category>washing</category>
-</item>
-<item>
-<title>Stabilizing Oxygen Redox in Polycrystalline Li‐Rich Layered Cathodes via Efficient Grain Boundary Passivation</title>
-<link>https://doi.org/10.1002/anie.8528584</link>
-<guid isPermaLink="false">10.1002/anie.8528584</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:40 GMT</pubDate>
-<description>این مقاله با پسیواسیون مرز دانه‌ها به‌وسیله فاز پروسکایتی BaMO3-δ، ردکس اکسیژن را در کاتدهای لایه‌ای غنی از لیتیوم تثبیت می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tannic acid-assisted in situ formation of a BaMO₃₋δ perovskite phase that passivates both surfaces and grain boundaries of polycrystalline Li-rich cathodes. This suppresses oxygen release, improves oxygen-redox reversibility, and mitigates voltage decay. Significance: a scalable, earth-abundant coating method enabling stable high-energy-density cathodes for lithium-ion batteries.&lt;br&gt;🏷 Li-rich cathode · oxygen redox · grain boundary passivation · perovskite coating · voltage decay</description>
-<category>Li-rich cathode</category>
-<category>oxygen redox</category>
-<category>grain boundary passivation</category>
-<category>perovskite coating</category>
-<category>voltage decay</category>
 </item>
 </channel>
 </rss>
