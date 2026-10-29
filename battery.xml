@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 07:01:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 08:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multiscale electrolyte design toward advanced Zn metal anodes</title>
+<link>https://doi.org/10.1016/j.esci.2026.100668</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100668</guid>
+<pubDate>Thu, 29 Oct 2026 08:01:38 GMT</pubDate>
+<description>این مقاله به بررسی طراحی الکترولیت چندمقیاسی برای آندهای فلزی Zn پیشرفته می‌پردازد و راهبردهایی برای سرکوب دندریت و بهبود پایداری آند ارائه می‌کند.&lt;br&gt;eScience | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 Zn metal anode · electrolyte design · Zn dendrites · multiscale design · aqueous Zn battery</description>
+<category>Zn metal anode</category>
+<category>electrolyte design</category>
+<category>Zn dendrites</category>
+<category>multiscale design</category>
+<category>aqueous Zn battery</category>
+</item>
 <item>
 <title>Boosting High-Temperature Capacitive Energy Storage in Laminated Ferroelectric Polymer Nanocomposites reinforced by Ca(OH)₂@PDA Nanoplates</title>
 <link>https://doi.org/10.1039/d6ta07303d</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>calendering density</category>
 <category>carbon-coated foil</category>
 <category>Li-ion battery</category>
-</item>
-<item>
-<title>Interfacial and Hydration‐Associated Lithium Retention During FePO 4 Regeneration from Spent LiFePO 4 Cathodes</title>
-<link>https://doi.org/10.1002/advs.78485</link>
-<guid isPermaLink="false">10.1002/advs.78485</guid>
-<pubDate>Tue, 27 Oct 2026 12:02:11 GMT</pubDate>
-<description>مطالعه نشان می‌دهد بخشی از لیتیوم در FePO4 بازتولیدشده از باتری‌های مستعمل LiFePO4 باقی می‌ماند و شست‌وشو و رسوب‌گیری مراحل کلیدی کنترل این اتلاف هستند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in resolving retained lithium into washing-removable versus washing-resistant fractions and linking the latter to hydration and local Fe–O–P environments within amorphous FePO₄, rather than discrete lithium precipitates. This precipitation-associated retention model identifies precipitation and washing as linked control stages, offering a practical basis for minimizing lithium carryover during FePO₄ regeneration in spent LiFePO₄ recycling.&lt;br&gt;🏷 LiFePO4 recycling · FePO4 regeneration · lithium retention · hydrometallurgy · washing</description>
-<category>LiFePO4 recycling</category>
-<category>FePO4 regeneration</category>
-<category>lithium retention</category>
-<category>hydrometallurgy</category>
-<category>washing</category>
 </item>
 </channel>
 </rss>

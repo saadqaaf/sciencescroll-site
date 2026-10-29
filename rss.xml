@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 07:01:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 08:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multiscale electrolyte design toward advanced Zn metal anodes</title>
+<link>https://doi.org/10.1016/j.esci.2026.100668</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100668</guid>
+<pubDate>Thu, 29 Oct 2026 08:01:38 GMT</pubDate>
+<description>این مقاله به بررسی طراحی الکترولیت چندمقیاسی برای آندهای فلزی Zn پیشرفته می‌پردازد و راهبردهایی برای سرکوب دندریت و بهبود پایداری آند ارائه می‌کند.&lt;br&gt;eScience | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 Zn metal anode · electrolyte design · Zn dendrites · multiscale design · aqueous Zn battery</description>
+<category>Zn metal anode</category>
+<category>electrolyte design</category>
+<category>Zn dendrites</category>
+<category>multiscale design</category>
+<category>aqueous Zn battery</category>
+</item>
 <item>
 <title>Engineering Reversible Wet Adhesion: Physicochemical Principles from Molecular Interactions to Functional Biointerfaces</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00658</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 naphthalene diimide · ox
 <category>carbonate</category>
 <category>global soils</category>
 <category>carbon capacity</category>
-</item>
-<item>
-<title>HDAC3 deacetylase activity coordinates the reprogramming of histone acetylation and chromatin accessibility to drive zygotic genome activation during preimplantation embryonic development</title>
-<link>https://doi.org/10.1016/j.scib.2026.10.058</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.10.058</guid>
-<pubDate>Thu, 29 Oct 2026 01:01:16 GMT</pubDate>
-<description>فعالیت داستیلاز HDAC3 بازبرنامه‌ریزی استیلاسیون هیستون و دسترسی کروماتین را برای فعال‌سازی ژنوم زیگوتی در جنین پیش‌لانه‌گزینی هماهنگ می‌کند.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 HDAC3 · histone acetylation · chromatin accessibility · zygotic genome activation · preimplantation embryo</description>
-<category>HDAC3</category>
-<category>histone acetylation</category>
-<category>chromatin accessibility</category>
-<category>zygotic genome activation</category>
-<category>preimplantation embryo</category>
 </item>
 </channel>
 </rss>
