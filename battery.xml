@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 03:02:32 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 04:04:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Modulation of structure and sodium-storage performance in bamboo-derived hard carbon: Targeted leaching versus molten salt-mediated pre-carbonization</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122253</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122253</guid>
+<pubDate>Thu, 29 Oct 2026 04:04:02 GMT</pubDate>
+<description>مقایسه لیچینگ هدفمند و پیش‌کربن‌سازی با نمک مذاب در کربن سخت مشتق از بامبو، ساختار و عملکرد ذخیره‌سازی سدیم را تعدیل می‌کند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium-ion battery · bamboo-derived carbon · molten salt · pre-carbonization</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>bamboo-derived carbon</category>
+<category>molten salt</category>
+<category>pre-carbonization</category>
+</item>
+<item>
+<title>Engineering a closed-loop electrochemical pathway for cadmium recovery and aqueous battery reutilization</title>
+<link>https://doi.org/10.1126/sciadv.aek6073</link>
+<guid isPermaLink="false">10.1126/sciadv.aek6073</guid>
+<pubDate>Thu, 29 Oct 2026 04:03:16 GMT</pubDate>
+<description>یک مسیر الکتروشیمیایی بسته برای بازیابی کادمیوم از پساب و ساخت آندهای Cd با بافت (002) ارائه شده که با CsI به بازده کولمبی ۹۹.۹۸٪ و چرخه‌پذیری پایدار می‌رسد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a closed-loop electrochemical strategy that selectively recovers cadmium from waste electrolytes into textured Cd(002) anodes, using cesium iodide to stabilize the interface. This enables 99.98% Coulombic efficiency and reversible Cd||I₂ cells, with failed anodes reextractable and regenerable. It significantly advances sustainable Cd waste valorization and aqueous battery reutilization.&lt;br&gt;🏷 cadmium recovery · aqueous Cd battery · Cd(002) electrodeposition · cesium iodide · closed-loop recycling</description>
+<category>cadmium recovery</category>
+<category>aqueous Cd battery</category>
+<category>Cd(002) electrodeposition</category>
+<category>cesium iodide</category>
+<category>closed-loop recycling</category>
+</item>
+<item>
+<title>A unified lattice–surface engineering strategy stabilizing oxygen redox in Li-rich cathodes for all-solid-state batteries</title>
+<link>https://doi.org/10.1126/sciadv.aei9538</link>
+<guid isPermaLink="false">10.1126/sciadv.aei9538</guid>
+<pubDate>Thu, 29 Oct 2026 04:02:33 GMT</pubDate>
+<description>استراتژی coat–sinter–wash با دوپینگ W و لایه spinel درجا، برگشت‌پذیری oxygen redox کاتدهای Li-rich را در ASSB پایدار کرد و ۸۰٪ ظرفیت را پس از ۵۰۰ چرخه حفظ نمود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable &amp;quot;coat–sinter–wash&amp;quot; strategy that simultaneously tunes bulk oxygen redox via W doping and Li vacancies and reconstructs a spinel surface layer. This dual bulk–surface engineering suppresses oxygen release and interfacial degradation, enabling 500-cycle stability, 278.2 mAh g⁻¹ capacity, and 543 Wh kg⁻¹ in all-solid-state pouch cells—advancing practical high-energy solid-state batteries.&lt;br&gt;🏷 Li-rich cathode · all-solid-state battery · oxygen redox · tungsten doping · spinel surface layer</description>
+<category>Li-rich cathode</category>
+<category>all-solid-state battery</category>
+<category>oxygen redox</category>
+<category>tungsten doping</category>
+<category>spinel surface layer</category>
+</item>
 <item>
 <title>High-Performance Salt-Lake Water Zinc Batteries Operated at −50 °C</title>
 <link>https://doi.org/10.1021/jacs.6c16008</link>
@@ -1174,42 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>cascade catalysis</category>
 <category>polysulfide shuttling</category>
 <category>wide-temperature</category>
-</item>
-<item>
-<title>Lattice‐Level Negative Thermal Expansion Enables Thermomechanical Self‐Compensation in High‐Rate Lithium Batteries</title>
-<link>https://doi.org/10.1002/adfm.79327</link>
-<guid isPermaLink="false">10.1002/adfm.79327</guid>
-<pubDate>Tue, 27 Oct 2026 10:03:12 GMT</pubDate>
-<description>با بهره‌گیری از انقباض شبکه‌ای Cu2P2O7 در جداساز کامپوزیتی PVDF-HFP، خودجبرانی ترمو‌مکانیکی و پایداری دما تا 200°C در باتری‌های لیتیوم فلزی پرتوان فراهم شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multiscale separator design that translates lattice-level negative thermal expansion of Cu₂P₂O₇ into macroscopic thermomechanical self-compensation via PDA-mediated interfacial coupling with PVDF-HFP. This suppresses separator deformation and HF corrosion, enabling dimensional stability to 200°C, 3000 h cycling, and 1000 stable cycles at 5 C—offering a solid-state strategy to mitigate thermomechanical failure in high-power lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · separator · negative thermal expansion · Cu2P2O7 · thermomechanical compensation</description>
-<category>lithium metal battery</category>
-<category>separator</category>
-<category>negative thermal expansion</category>
-<category>Cu2P2O7</category>
-<category>thermomechanical compensation</category>
-</item>
-<item>
-<title>Revealing the Intrinsic Ion Species, Diffusion Paths, Governing Factors for Charge Carriers of Cement‐Based Structural Capacitors (CSCs)</title>
-<link>https://doi.org/10.1002/adfm.79223</link>
-<guid isPermaLink="false">10.1002/adfm.79223</guid>
-<pubDate>Tue, 27 Oct 2026 10:03:02 GMT</pubDate>
-<description>با روش شارژ یک‌جهته، Na+ و K+ به‌عنوان حامل‌های بار غالب در خازن‌های ساختاری سیمانی شناسایی و مسیرها و عوامل حاکم بر انتقال یون با ردیاب Zn روشن شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This work first identifies Na⁺ and K⁺ as dominant charge carriers in cement-based structural capacitors using unidirectional charging, then designs a Zn-based tracer capacitor to reveal field-assisted ion diffusion pathways through the porous cement network. It further clarifies governing factors—carrier concentration, water content, and the percolating 3D micro/nanoporous network—providing fundamental insights for rational CSC design.&lt;br&gt;🏷 structural capacitor · cement electrolyte · ion transport · charge carrier · energy storage</description>
-<category>structural capacitor</category>
-<category>cement electrolyte</category>
-<category>ion transport</category>
-<category>charge carrier</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Self‐Assembled Supramolecular Host–Guest Composite Enables Interfacial Regulation Toward Dendrite‐Free Aqueous Zinc Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79331</link>
-<guid isPermaLink="false">10.1002/adfm.79331</guid>
-<pubDate>Tue, 27 Oct 2026 10:02:53 GMT</pubDate>
-<description>یک کامپوزیت میزبان-میهمان سوپرمولکولی خودآرا بر پایه SCA[6] و LCG لایه محافظ روی آند zinc ساخته و با سرکوب دندریت، پایداری چرخه‌ای AZIB را به‌شدت بهبود داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using supramolecular self-assembly of 4-sulfocalix[6]arene and a biacridinium salt to form a protective zinc anode interphase that acts as a &amp;quot;molecular switch&amp;quot; regulating Zn²⁺ solvation and ion transport. Its significance is enabling dendrite-free, corrosion-resistant zinc batteries with ultra-long cycling (3800 h symmetric; 14,000 cycles at 87.25% retention), offering a low-cost, simple strategy for stable AZIBs.&lt;br&gt;🏷 aqueous zinc battery · zinc anode · supramolecular host-guest · dendrite suppression · interfacial regulation</description>
-<category>aqueous zinc battery</category>
-<category>zinc anode</category>
-<category>supramolecular host-guest</category>
-<category>dendrite suppression</category>
-<category>interfacial regulation</category>
 </item>
 </channel>
 </rss>
