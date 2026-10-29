@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 04:04:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:01:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Resonance-enhanced zinc electrodeposition in aqueous ZnSO4 electrolytes: Synergistic effects of electrode orientation and low-frequency vibration</title>
+<link>https://doi.org/10.1016/j.est.2026.125346</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125346</guid>
+<pubDate>Thu, 29 Oct 2026 05:01:39 GMT</pubDate>
+<description>اثر هم‌افزایی جهت‌گیری الکترود و ارتعاش کم‌فرکانس بر بهبود رسوب‌دهی الکتریکی روی در الکترولیت آبی ZnSO4 از طریق تشدید بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc electrodeposition · aqueous ZnSO4 · resonance enhancement · electrode orientation · low-frequency vibration</description>
+<category>zinc electrodeposition</category>
+<category>aqueous ZnSO4</category>
+<category>resonance enhancement</category>
+<category>electrode orientation</category>
+<category>low-frequency vibration</category>
+</item>
+<item>
+<title>Optimal stochastic decisions for battery control in continuous intraday markets</title>
+<link>https://doi.org/10.1016/j.est.2026.125301</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125301</guid>
+<pubDate>Thu, 29 Oct 2026 05:01:35 GMT</pubDate>
+<description>این مقاله تصمیم‌های تصادفی بهینه برای کنترل باتری در بازارهای پیوسته درون‌روزی را توسعه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery control · intraday markets · stochastic optimization · energy storage · optimal decisions</description>
+<category>battery control</category>
+<category>intraday markets</category>
+<category>stochastic optimization</category>
+<category>energy storage</category>
+<category>optimal decisions</category>
+</item>
+<item>
+<title>A physics informed learning framework for state of health estimation of lithium-ion batteries based on expansion behavior and Autoformer</title>
+<link>https://doi.org/10.1016/j.est.2026.125233</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125233</guid>
+<pubDate>Thu, 29 Oct 2026 05:01:30 GMT</pubDate>
+<description>یک چارچوب یادگیری آگاه از فیزیک مبتنی بر رفتار انبساط و Autoformer برای تخمین وضعیت سلامت باتری‌های لیتیوم-یونی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · expansion behavior · Autoformer · physics-informed learning</description>
+<category>lithium-ion battery</category>
+<category>state of health</category>
+<category>expansion behavior</category>
+<category>Autoformer</category>
+<category>physics-informed learning</category>
+</item>
+<item>
+<title>Integration of calcination/carbonation processes in a novel reaction system enhanced with topology-optimized crossed-fins for generation and utilization of thermochemical storage materials from concentrated solar energy</title>
+<link>https://doi.org/10.1016/j.est.2026.125300</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125300</guid>
+<pubDate>Thu, 29 Oct 2026 05:01:25 GMT</pubDate>
+<description>یک سیستم واکنشی نوین با پره‌های ضربدری بهینه‌شده از نظر توپولوژی، فرآیندهای کلسیناسیون/کربناسیون را برای تولید و استفاده از مواد ذخیره‌سازی ترموشیمیایی با انرژی خورشیدی متمرکز یکپارچه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermochemical storage · calcination/carbonation · concentrated solar energy · topology optimization · crossed-fins</description>
+<category>thermochemical storage</category>
+<category>calcination/carbonation</category>
+<category>concentrated solar energy</category>
+<category>topology optimization</category>
+<category>crossed-fins</category>
+</item>
+<item>
+<title>Integration strategies and feasibility assessment of thermal energy storage systems in future power grids</title>
+<link>https://doi.org/10.1016/j.est.2026.125309</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125309</guid>
+<pubDate>Thu, 29 Oct 2026 05:01:20 GMT</pubDate>
+<description>این مقاله راهبردهای ادغام و ارزیابی امکان‌سنجی سیستم‌های ذخیره‌سازی انرژی حرارتی را در شبکه‌های برق آینده مرور می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 thermal energy storage · power grids · integration strategies · feasibility assessment · flexibility</description>
+<category>thermal energy storage</category>
+<category>power grids</category>
+<category>integration strategies</category>
+<category>feasibility assessment</category>
+<category>flexibility</category>
+</item>
 <item>
 <title>Modulation of structure and sodium-storage performance in bamboo-derived hard carbon: Targeted leaching versus molten salt-mediated pre-carbonization</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122253</link>
@@ -1150,66 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>grain boundary passivation</category>
 <category>perovskite coating</category>
 <category>voltage decay</category>
-</item>
-<item>
-<title>HOMO‐Level Alignment as a Design Descriptor for Donor–Acceptor Covalent Organic Frameworks in Aqueous Zinc‐Iodine Batteries</title>
-<link>https://doi.org/10.1002/anie.7926853</link>
-<guid isPermaLink="false">10.1002/anie.7926853</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:34 GMT</pubDate>
-<description>این مقاله هم‌ترازی سطح HOMO را به‌عنوان توصیفگر طراحی COFهای دهنده-پذیرنده برای میزبانی ید در باتری‌های آبی روی-ید معرفی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This study establishes HOMO-level alignment relative to iodine&amp;#x27;s redox potential as the governing design descriptor for donor–acceptor COFs in aqueous zinc–iodine batteries, replacing empirical trial-and-error. The optimally designed NT-COF achieves stable cycling at ~50.5 wt% iodine loading and reliable low-temperature operation, showing that rational COF design must couple energy-level alignment with structural conjugation.&lt;br&gt;🏷 zinc-iodine battery · covalent organic framework · HOMO alignment · donor-acceptor · iodine host</description>
-<category>zinc-iodine battery</category>
-<category>covalent organic framework</category>
-<category>HOMO alignment</category>
-<category>donor-acceptor</category>
-<category>iodine host</category>
-</item>
-<item>
-<title>Gradient Mg and Uniform Ti Co‐Doping Suppresses Jahn–Teller Effect in LMFP via Optimized Ion‐Transport Kinetics and Interfacial Reactions</title>
-<link>https://doi.org/10.1002/anie.6840734</link>
-<guid isPermaLink="false">10.1002/anie.6840734</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:22 GMT</pubDate>
-<description>این مقاله با آلایش هم‌زمان گرادیانی Mg و یکنواخت Ti در LMFP، اثر Jahn–Teller را سرکوب و سینتیک انتقال یون و پایداری کاتد را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dry-and-wet synthesis enabling uniform Ti⁴⁺ doping at Fe sites and gradient Mg²⁺ doping at Li sites in LMFP. This co-doping suppresses Jahn–Teller distortion, stabilizes structure, and improves Li⁺ kinetics and interfacial stability. Significance: 88.7% capacity retention after 200 cycles at 1C and 88.2% after 100 cycles at 55°C, guiding high-performance olivine cathode design.&lt;br&gt;🏷 LMFP cathode · Mg/Ti co-doping · Jahn-Teller effect · Li-ion battery · ion transport</description>
-<category>LMFP cathode</category>
-<category>Mg/Ti co-doping</category>
-<category>Jahn-Teller effect</category>
-<category>Li-ion battery</category>
-<category>ion transport</category>
-</item>
-<item>
-<title>A Tb-O Functionalized Separator Integrated with Desolvation and Ion Flux Regulation for Ultrastable Zn Metal Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112533</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112533</guid>
-<pubDate>Tue, 27 Oct 2026 11:02:06 GMT</pubDate>
-<description>این مقاله یک جداکننده عامل‌دار شده با Tb-O را برای تنظیم آب‌زدایی و شار یون و دستیابی به باتری‌های روی فلزی فوق‌پایدار ارائه می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Zn metal battery · separator · desolvation · ion flux regulation · Tb-O functionalization</description>
-<category>Zn metal battery</category>
-<category>separator</category>
-<category>desolvation</category>
-<category>ion flux regulation</category>
-<category>Tb-O functionalization</category>
-</item>
-<item>
-<title>Operando X-ray Photoelectron Spectroscopy Reveals Oxide Solid Electrolyte Stability against Electrochemically Plated Lithium</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02717</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02717</guid>
-<pubDate>Tue, 27 Oct 2026 10:03:34 GMT</pubDate>
-<description>با operando XPS مبتنی بر آزمایشگاه، پایداری الکترولیت‌های جامد اکسیدی در برابر لیتیم آبکاری‌شده الکتروشیمیایی بررسی شد؛ LATP کاهش یافته و فاز واسط Li+/Ti3+ تشکیل می‌دهد، اما LLZO کاهش Zr یا La نشان نمی‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 First operando XPS study of oxide solid electrolyte stability against electrochemically plated Li, avoiding artifacts of non-electrochemical deposition. Reveals LATP reduces to a Li+/Ti3+-rich mixed-conducting interphase that partially relaxes, while LLZO shows no resolvable Zr/La reduction—clarifying intrinsic interfacial reactivity and guiding stable solid-state battery design.&lt;br&gt;🏷 solid electrolyte · operando XPS · lithium plating · LATP · LLZO</description>
-<category>solid electrolyte</category>
-<category>operando XPS</category>
-<category>lithium plating</category>
-<category>LATP</category>
-<category>LLZO</category>
-</item>
-<item>
-<title>Cascade Catalysis of Zn/Nb Single‐Atom Sites for Wide‐Temperature Li‐S Batteries</title>
-<link>https://doi.org/10.1002/adfm.79317</link>
-<guid isPermaLink="false">10.1002/adfm.79317</guid>
-<pubDate>Tue, 27 Oct 2026 10:03:25 GMT</pubDate>
-<description>با جایگاه‌های تک‌اتمی دوگانه Zn-N4 و Nb-N4 در الیاف کربنی، کاتالیز آبشاری تبدیل چندمرحله‌ای گوگرد در باتری Li-S فعال و عملکرد گسترده دمایی با حفظ ظرفیت در 50°C و −20°C نشان داده شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a cascade catalysis strategy using dual Zn-N4 and Nb-N4 single-atom sites on N,P co-doped carbon fibers, where Nb adsorbs and converts LiPSs while Zn drives subsequent Li2S conversion. This enables fast sulfur redox and suppressed shuttling, delivering excellent wide-temperature Li-S performance (651.8 mAh g−1 at 50°C, 401.1 mAh g−1 at −20°C after 500 cycles), guiding multistep kinetics design.&lt;br&gt;🏷 lithium-sulfur battery · single-atom catalyst · cascade catalysis · polysulfide shuttling · wide-temperature</description>
-<category>lithium-sulfur battery</category>
-<category>single-atom catalyst</category>
-<category>cascade catalysis</category>
-<category>polysulfide shuttling</category>
-<category>wide-temperature</category>
 </item>
 </channel>
 </rss>
