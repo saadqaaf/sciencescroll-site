@@ -5,8 +5,21 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 02:01:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 03:02:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High-Performance Salt-Lake Water Zinc Batteries Operated at −50 °C</title>
+<link>https://doi.org/10.1021/jacs.6c16008</link>
+<guid isPermaLink="false">10.1021/jacs.6c16008</guid>
+<pubDate>Thu, 29 Oct 2026 03:02:27 GMT</pubDate>
+<description>آب دریاچه نمک به‌عنوان حلال الکترولیت با آند آلیاژی پوشش‌دار، باتری آبی روی با پایداری بیش از ۳۲۰۰ ساعت در دمای −۵۰ درجه سلسیوس را ممکن می‌سازد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using natural salt-lake water directly as an electrolyte solvent, eliminating costly purification while enabling −50 °C operation. Combined with an alloy-coated Zn anode, it suppresses freezing and water activity, achieving 3200 h cycling and stable pouch cells. This offers a low-cost, scalable strategy for extreme-cold aqueous batteries.&lt;br&gt;🏷 aqueous zinc battery · salt-lake water · low-temperature electrolyte · alloy anode · freeze resistance</description>
+<category>aqueous zinc battery</category>
+<category>salt-lake water</category>
+<category>low-temperature electrolyte</category>
+<category>alloy anode</category>
+<category>freeze resistance</category>
+</item>
 <item>
 <title>A 2.2 V Aqueous Redox Flow Battery Enabled by Passive pH Decoupling</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02731</link>
@@ -1197,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>supramolecular host-guest</category>
 <category>dendrite suppression</category>
 <category>interfacial regulation</category>
-</item>
-<item>
-<title>Time‐Domain Regulation of Electrolyte Microenvironments Enables 30 mA cm − 2 Stable Lithium Plating/Stripping for High‐Voltage Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79350</link>
-<guid isPermaLink="false">10.1002/adfm.79350</guid>
-<pubDate>Tue, 27 Oct 2026 10:02:30 GMT</pubDate>
-<description>الکترولیت ژل پلیمری حساس به زمان با SiNCO ریزآب و HF را حذف کرده و پوشش بین‌سطحی پایدار می‌سازد و آبکاری/جدایش لیتیوم در ۳۰ mA cm−2 را ممکن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a time-domain responsive in situ gel polymer electrolyte using (trimethylsilyl)isocyanate as a &amp;quot;scavenging cage&amp;quot; for trace water/HF, with reaction products dynamically incorporated into interphases. This enables stable Li plating/stripping at 30 mA cm⁻² and 90.5% capacity retention after 500 cycles at 4.7 V, offering a new strategy for durable high-voltage lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · gel polymer electrolyte · interphase engineering · high-voltage cathode · Li plating/stripping</description>
-<category>lithium metal battery</category>
-<category>gel polymer electrolyte</category>
-<category>interphase engineering</category>
-<category>high-voltage cathode</category>
-<category>Li plating/stripping</category>
 </item>
 </channel>
 </rss>
