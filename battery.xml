@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 10:01:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 11:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamic Reconstruction Engineered Grain Boundaries and Dual-Metal-Directed Module Functionalization for Boosting CO2 Electroreduction to Ethanol and High-Performance Aqueous Zn-CO2 Battery</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127708</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127708</guid>
+<pubDate>Thu, 29 Oct 2026 11:01:35 GMT</pubDate>
+<description>مرزهای دانه مهندسی‌شده و عامل‌دارسازی دومدنی، احیای CO2 به اتانول و عملکرد باتری آبی Zn-CO2 را تقویت می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · ethanol synthesis · grain boundaries · Zn-CO2 battery · dual-metal catalyst</description>
+<category>CO2 electroreduction</category>
+<category>ethanol synthesis</category>
+<category>grain boundaries</category>
+<category>Zn-CO2 battery</category>
+<category>dual-metal catalyst</category>
+</item>
+<item>
+<title>In-situ engineering of a defect-rich TiO₂ interphase coupled with sulfur vacancies in WS2/TiO2@C heterostructures for enhanced Li⁺ storage in 3D-printed anodes</title>
+<link>https://doi.org/10.1007/s42114-026-02152-4</link>
+<guid isPermaLink="false">10.1007/s42114-026-02152-4</guid>
+<pubDate>Thu, 29 Oct 2026 11:01:25 GMT</pubDate>
+<description>ساخت درجای لایه TiO2 غنی از نقص همراه با جای خالی گوگرد در WS2/TiO2@C ذخیره‌سازی Li+ آندهای چاپ سه‌بعدی را تقویت می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 WS2/TiO2 heterostructure · sulfur vacancies · 3D-printed anode · lithium-ion storage · defect engineering</description>
+<category>WS2/TiO2 heterostructure</category>
+<category>sulfur vacancies</category>
+<category>3D-printed anode</category>
+<category>lithium-ion storage</category>
+<category>defect engineering</category>
+</item>
 <item>
 <title>Beyond Isolated Active Sites: Adjacent Single‐Atom‐Nanoparticle Electronic Coupling Enables Lateral Lithium Growth</title>
 <link>https://doi.org/10.1002/adma.75485</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>free-standing anode</category>
 <category>electrospinning</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Laser-Driven Photothermal Effect for Simplified Miniaturization of Flexible Micro-Supercapacitors with Geometry-Dependent Energy Storage Performance</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122252</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122252</guid>
-<pubDate>Tue, 27 Oct 2026 12:04:39 GMT</pubDate>
-<description>اثر فوتوترمال لیزری برای کوچک‌سازی ساده‌شده ابرخازن‌های میکروی انعطاف‌پذیر به کار رفته و عملکرد ذخیره انرژی وابسته به هندسه آن‌ها بررسی شده است.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 micro-supercapacitors · laser photothermal effect · flexible devices · miniaturization · geometry-dependent performance</description>
-<category>micro-supercapacitors</category>
-<category>laser photothermal effect</category>
-<category>flexible devices</category>
-<category>miniaturization</category>
-<category>geometry-dependent performance</category>
-</item>
-<item>
-<title>Dual‑Site V/F Engineering in Na 4 Fe 3 (PO 4 ) 2 (P 2 O 7 ) Cathodes: Concurrently Boosting Ionic Kinetics and Interfacial Robustness</title>
-<link>https://doi.org/10.1002/smll.76388</link>
-<guid isPermaLink="false">10.1002/smll.76388</guid>
-<pubDate>Tue, 27 Oct 2026 12:04:10 GMT</pubDate>
-<description>اصلاح دوگانه V/F در کاتد Na4Fe3(PO4)2(P2O7) با گشادکردن کانال‌های Na+، باریک‌کردن شکاف باند و تقویت CEI، سینتیک یونی و پایداری چرخه باتری سدیم-یون را به‌طور چشمگیری بهبود داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Dual-site V/F engineering in NFPP cathodes is novel: F widens Na⁺ channels and stabilizes the CEI, while V³⁺ rigidifies the lattice and cuts the bandgap from 1.138 to 0.179 eV. This concurrently boosts ionic kinetics, electronic conductivity, and interfacial robustness, yielding 93.9% retention over 2000 cycles and providing design principles for durable fast-charging polyanion cathodes.&lt;br&gt;🏷 sodium-ion battery · NFPP cathode · V/F doping · ionic kinetics · CEI</description>
-<category>sodium-ion battery</category>
-<category>NFPP cathode</category>
-<category>V/F doping</category>
-<category>ionic kinetics</category>
-<category>CEI</category>
 </item>
 </channel>
 </rss>
