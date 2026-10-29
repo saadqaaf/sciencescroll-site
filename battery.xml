@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 22:02:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 23:03:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sulfur-Induced Lattice Disordering in Halide Electrolytes Enables Superionic Sodium-Ion Conduction</title>
+<link>https://doi.org/10.1021/acsnano.6c11189</link>
+<guid isPermaLink="false">10.1021/acsnano.6c11189</guid>
+<pubDate>Thu, 29 Oct 2026 23:01:43 GMT</pubDate>
+<description>الکترولیت جامد هالیدی بی‌شکل با افزودن گوگرد، رسانایی یونی فوق‌بالای Na+ و عملکرد پایدار در باتری یون-سدیم تمام‌جامد را نشان می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a mixed-anion amorphous Na-ion electrolyte (TaCl5-0.5Na2S) made by ball-milling, where sulfur induces lattice disordering and flexible Ta–S–Cl networks. It achieves ultrahigh conductivity (2.9 mS/cm) and low activation energy (0.276 eV), enabling fast multidimensional Na+ transport and stable all-solid-state battery performance, establishing mixed-anion amorphization as a design strategy.&lt;br&gt;🏷 solid electrolyte · sodium-ion battery · halide electrolyte · amorphous · superionic conduction</description>
+<category>solid electrolyte</category>
+<category>sodium-ion battery</category>
+<category>halide electrolyte</category>
+<category>amorphous</category>
+<category>superionic conduction</category>
+</item>
+<item>
+<title>An intrinsically stretchable thin-film organic rechargeable sodium-ion battery enabled for wearable devices</title>
+<link>https://doi.org/10.1016/j.matt.2026.103069</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.103069</guid>
+<pubDate>Thu, 29 Oct 2026 23:01:29 GMT</pubDate>
+<description>یک باتری یون-سدیم آلی و کشسان ذاتی به شکل لایه نازک ساخته شده که برای تغذیه دستگاه‌های پوشیدنی مناسب است.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · stretchable thin-film · organic electrode · wearable devices · intrinsically stretchable</description>
+<category>sodium-ion battery</category>
+<category>stretchable thin-film</category>
+<category>organic electrode</category>
+<category>wearable devices</category>
+<category>intrinsically stretchable</category>
+</item>
 <item>
 <title>Closed‐Pore Engineering Couples Sodium Confinement and Interfacial Stabilization for Dendrite‐Resistant Hard Carbon Anodes</title>
 <link>https://doi.org/10.1002/adfm.79364</link>
@@ -1184,32 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>LaCl3-type</category>
 <category>superionic conduction</category>
 <category>interfacial conduction</category>
-</item>
-<item>
-<title>Extended Active Learning-Guided Design of Multi-Component Electrolytes with Opposing Cosolvent Properties for Aqueous Zinc-Ion Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c20703</link>
-<guid isPermaLink="false">10.1021/jacs.6c20703</guid>
-<pubDate>Tue, 27 Oct 2026 21:04:35 GMT</pubDate>
-<description>با یادگیری فعال، الکترولیت سه‌جزئی با حلال‌های کمکی دارای خواص متضاد برای باتری آبی Zn-ion طراحی شد که حفظ ۹۰.۲٪ ظرفیت پس از ۱۰۰۰ چرخه را ممکن کرد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an extended active learning framework that clusters cosolvents by molecular properties and optimizes pairwise combinations, discovering a nonintuitive tri-solvent electrolyte combining cosolvents with opposing properties. Its significance: this formulation disrupts hydrogen bonding while reconstructing solvation structure, enabling 90.2% capacity retention after 1,000 cycles, and demonstrates active learning can uncover unconventional electrolytes beyond human intuition.&lt;br&gt;🏷 aqueous zinc-ion battery · multi-component electrolyte · active learning · solvation structure · hydrogen-bond network</description>
-<category>aqueous zinc-ion battery</category>
-<category>multi-component electrolyte</category>
-<category>active learning</category>
-<category>solvation structure</category>
-<category>hydrogen-bond network</category>
-</item>
-<item>
-<title>Discovering Underpotentially Deposited Crystalline Sodium Metal Nanoparticles on the Surface of Hard Carbon Anodes</title>
-<link>https://doi.org/10.1021/jacs.6c11841</link>
-<guid isPermaLink="false">10.1021/jacs.6c11841</guid>
-<pubDate>Tue, 27 Oct 2026 21:04:24 GMT</pubDate>
-<description>این مقاله با cryo-EM و توموگرافی الکترونی نشان می‌دهد خوشه‌های نانوی سدیم فلزی کریستالی عمدتاً روی سطح یا نزدیک سطح ذرات هارد کربن در آند باتری سدیم-یون قرار می‌گیرند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using cryo-EM and cryo-ET to directly localize crystalline sodium metal clusters in 3D within sodiated hard carbon, revealing they reside predominantly on or near particle surfaces rather than in bulk closed nanopores. This challenges prior 2D-based interpretations and identifies particle-level surface/near-surface interfaces as key targets to mitigate underpotential sodium plating in hard carbon anodes.&lt;br&gt;🏷 hard carbon anode · sodium metal plating · cryo-EM · sodium-ion battery · underpotential deposition</description>
-<category>hard carbon anode</category>
-<category>sodium metal plating</category>
-<category>cryo-EM</category>
-<category>sodium-ion battery</category>
-<category>underpotential deposition</category>
 </item>
 </channel>
 </rss>
