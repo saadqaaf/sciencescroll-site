@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 17:02:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anion exchange interfacial locking for safer all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100667</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100667</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:41 GMT</pubDate>
+<description>این مقاله یک راهبرد قفل‌کردن بین‌سطحی مبتنی بر تبادل آنیون را برای ایمن‌تر کردن باتری‌های لیتیوم-فلز تمام‌جامد ارائه می‌دهد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid-state battery · lithium metal anode · anion exchange · interfacial locking · solid electrolyte</description>
+<category>solid-state battery</category>
+<category>lithium metal anode</category>
+<category>anion exchange</category>
+<category>interfacial locking</category>
+<category>solid electrolyte</category>
+</item>
 <item>
 <title>Translating sulfur flow batteries into deployable systems</title>
 <link>https://doi.org/10.1038/s41560-026-02152-0</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>trifluoroacetate electrolyte</category>
 <category>solvation nanocluster</category>
 <category>Zn deposition</category>
-</item>
-<item>
-<title>Beyond Rigid Sequences: A Selective Degradation Representation Network for Efficient and Robust Battery Degradation Trajectory Forecasting</title>
-<link>https://doi.org/10.1016/j.etran.2026.100648</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100648</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:08 GMT</pubDate>
-<description>یک شبکه بازنمایی تخریب گزینشی برای پیش‌بینی کارآمد و مقاوم مسیر افت باتری ارائه شده که محدودیت توالی‌های صلب را کنار می‌گذارد.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 battery degradation forecasting · representation learning · degradation trajectory · selective network · prognostics</description>
-<category>battery degradation forecasting</category>
-<category>representation learning</category>
-<category>degradation trajectory</category>
-<category>selective network</category>
-<category>prognostics</category>
 </item>
 </channel>
 </rss>

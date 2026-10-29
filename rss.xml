@@ -5,8 +5,140 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 17:02:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Enhanced cfDNA methylation profiling by detection and correction of jagged ends</title>
+<link>https://doi.org/10.1038/s41592-026-03278-5</link>
+<guid isPermaLink="false">10.1038/s41592-026-03278-5</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:59 GMT</pubDate>
+<description>این مقاله با شناسایی و اصلاح انتهای ناهموار (jagged ends) در cfDNA، پروفایل‌سازی متیلاسیون DNA آزاد در گردش را بهبود می‌بخشد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cfDNA methylation · jagged ends · liquid biopsy · methylation profiling · end repair</description>
+<category>cfDNA methylation</category>
+<category>jagged ends</category>
+<category>liquid biopsy</category>
+<category>methylation profiling</category>
+<category>end repair</category>
+</item>
+<item>
+<title>Population-scale ancestral recombination graphs with tskit 1.0</title>
+<link>https://doi.org/10.1038/s41592-026-03325-1</link>
+<guid isPermaLink="false">10.1038/s41592-026-03325-1</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:55 GMT</pubDate>
+<description>این مقاله نسخه 1.0 کتابخانه tskit را برای ساخت و تحلیل گراف‌های نوترکیبی نیایی در مقیاس جمعیتی معرفی و امکان‌پذیری آن را نشان می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 ancestral recombination graph · tskit · population genetics · genomic genealogy · scalable inference</description>
+<category>ancestral recombination graph</category>
+<category>tskit</category>
+<category>population genetics</category>
+<category>genomic genealogy</category>
+<category>scalable inference</category>
+</item>
+<item>
+<title>Advancing morphological profiling with self-supervised learning through comparative insights into representation learning of cellular perturbations</title>
+<link>https://doi.org/10.1038/s41592-026-03270-z</link>
+<guid isPermaLink="false">10.1038/s41592-026-03270-z</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:52 GMT</pubDate>
+<description>این مقاله مدل‌های بنیادی خودنظارتی را برای پروفایل‌سازی مورفولوژیکی ارزیابی کرده و نشان می‌دهد DINO و DINOv2 از CellProfiler در بازیابی مکانیزم اثر بهتر عمل می‌کنند.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 self-supervised learning · morphological profiling · Cell Painting · foundation models · phenotypic screening</description>
+<category>self-supervised learning</category>
+<category>morphological profiling</category>
+<category>Cell Painting</category>
+<category>foundation models</category>
+<category>phenotypic screening</category>
+</item>
+<item>
+<title>Ligand-engineered CsEuI3 nanocrystals for efficient single-component white electroluminescence</title>
+<link>https://doi.org/10.1038/s41566-026-02039-2</link>
+<guid isPermaLink="false">10.1038/s41566-026-02039-2</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:48 GMT</pubDate>
+<description>این مقاله با مهندسی لیگاند در نانوکریستال‌های CsEuI3، الکترولومینسانس سفید تک‌جزئی کارآمد را در یک دستگاه نورگسیل نشان می‌دهد.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 CsEuI3 nanocrystals · white electroluminescence · ligand engineering · single-component LED · perovskite nanocrystals</description>
+<category>CsEuI3 nanocrystals</category>
+<category>white electroluminescence</category>
+<category>ligand engineering</category>
+<category>single-component LED</category>
+<category>perovskite nanocrystals</category>
+</item>
+<item>
+<title>Reporting guidelines of stretchable solar cells toward standardized evaluation</title>
+<link>https://doi.org/10.1016/j.joule.2026.102715</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102715</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:44 GMT</pubDate>
+<description>این مقاله دستورالعمل‌هایی برای گزارش‌دهی و ارزیابی استاندارد سلول‌های خورشیدی کشش‌پذیر پیشنهاد می‌کند تا مقایسه نتایج میان مطالعات ممکن شود.&lt;br&gt;Joule | 💭 Perspective&lt;br&gt;🏷 stretchable solar cells · reporting guidelines · standardized evaluation · photovoltaics · strain testing</description>
+<category>stretchable solar cells</category>
+<category>reporting guidelines</category>
+<category>standardized evaluation</category>
+<category>photovoltaics</category>
+<category>strain testing</category>
+</item>
+<item>
+<title>Anion exchange interfacial locking for safer all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100667</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100667</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:41 GMT</pubDate>
+<description>این مقاله یک راهبرد قفل‌کردن بین‌سطحی مبتنی بر تبادل آنیون را برای ایمن‌تر کردن باتری‌های لیتیوم-فلز تمام‌جامد ارائه می‌دهد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid-state battery · lithium metal anode · anion exchange · interfacial locking · solid electrolyte</description>
+<category>solid-state battery</category>
+<category>lithium metal anode</category>
+<category>anion exchange</category>
+<category>interfacial locking</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Flexible wearable human–machine interfaces in biomedical and robotic applications: Bridging electronics, energy, and electrochemical diagnostics</title>
+<link>https://doi.org/10.1016/j.esci.2026.100663</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100663</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:36 GMT</pubDate>
+<description>این مقاله مروری رابط‌های انسان-ماشین پوشیدنی انعطاف‌پذیر را در کاربردهای زیست‌پزشکی و رباتیک با تمرکز بر الکترونیک، انرژی و تشخیص الکتروشیمیایی بررسی می‌کند.&lt;br&gt;eScience | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 wearable sensors · human-machine interface · flexible electronics · electrochemical diagnostics · robotics</description>
+<category>wearable sensors</category>
+<category>human-machine interface</category>
+<category>flexible electronics</category>
+<category>electrochemical diagnostics</category>
+<category>robotics</category>
+</item>
+<item>
+<title>Topological control of polaritonic flatbands in anisotropic van der Waals metasurfaces</title>
+<link>https://doi.org/10.1038/s41563-026-02776-3</link>
+<guid isPermaLink="false">10.1038/s41563-026-02776-3</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:32 GMT</pubDate>
+<description>این مقاله نشان می‌دهد ساخت متاسطح ReS2 توپولوژی باند فوتونی را تغییر داده و فلت‌باندهای جهت‌دار و پلاریتون-اکسیتون‌های قطبیده ایجاد می‌کند.&lt;br&gt;Nature Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ReS2 metasurface · exciton-polaritons · flatbands · van der Waals · topological photonics</description>
+<category>ReS2 metasurface</category>
+<category>exciton-polaritons</category>
+<category>flatbands</category>
+<category>van der Waals</category>
+<category>topological photonics</category>
+</item>
+<item>
+<title>Free-standing two-dimensional metal oxides at the single-atomic-layer limit</title>
+<link>https://doi.org/10.1038/s41563-026-02793-2</link>
+<guid isPermaLink="false">10.1038/s41563-026-02793-2</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:29 GMT</pubDate>
+<description>این مقاله اکسیدهای فلزی دوبعدی خودایستا در حد تک‌لایه اتمی را گزارش می‌کند و امکان ساخت و مطالعه آن‌ها را نشان می‌دهد.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 two-dimensional oxides · monolayer limit · free-standing films · metal oxides · atomic layer</description>
+<category>two-dimensional oxides</category>
+<category>monolayer limit</category>
+<category>free-standing films</category>
+<category>metal oxides</category>
+<category>atomic layer</category>
+</item>
+<item>
+<title>Writing monolayer oxides with electrons</title>
+<link>https://doi.org/10.1038/s41563-026-02788-z</link>
+<guid isPermaLink="false">10.1038/s41563-026-02788-z</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:25 GMT</pubDate>
+<description>این مقاله روشی برای نوشتن اکسیدهای تک‌لایه با استفاده از الکترون ارائه می‌دهد که مسیری نو برای ساخت نانوساختارهای اکسیدی دوبعدی فراهم می‌کند.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 monolayer oxides · electron beam writing · two-dimensional materials · oxide patterning · nanofabrication</description>
+<category>monolayer oxides</category>
+<category>electron beam writing</category>
+<category>two-dimensional materials</category>
+<category>oxide patterning</category>
+<category>nanofabrication</category>
+</item>
+<item>
+<title>Degradation of metallic interconnects in solid oxide electrolysis cells: mechanisms, materials challenges, and design strategies</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101872</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101872</guid>
+<pubDate>Thu, 29 Oct 2026 18:01:21 GMT</pubDate>
+<description>این مقاله مروری مکانیزم‌های تخریب اینترکانکت‌های فلزی در سلول‌های الکترولیز اکسید جامد و راهبردهای طراحی برای بهبود پایداری آن‌ها را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 solid oxide electrolysis · metallic interconnect · degradation mechanisms · oxidation resistance · protective coatings</description>
+<category>solid oxide electrolysis</category>
+<category>metallic interconnect</category>
+<category>degradation mechanisms</category>
+<category>oxidation resistance</category>
+<category>protective coatings</category>
+</item>
 <item>
 <title>Electric-field-controlled spin transport in a vertical organic spin–field device for room-temperature spin logic</title>
 <link>https://doi.org/10.1038/s41928-026-01727-9</link>
@@ -1082,138 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 sonodynamic therapy · Fu
 <category>proteolysis</category>
 <category>substrate rearrangement</category>
 <category>complement system</category>
-</item>
-<item>
-<title>Tree shrew more closely recapitulates primate spermatogenesis than the mouse in cross-species single-cell transcriptomic analyses</title>
-<link>https://doi.org/10.1038/s41467-026-77781-w</link>
-<guid isPermaLink="false">10.1038/s41467-026-77781-w</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:36 GMT</pubDate>
-<description>تحلیل رونوشت‌شناسی تک‌سلولی بین‌گونه‌ای نشان می‌دهد که حشره‌خوار درختی اسپرماتوژنز پستانداران را بهتر از موش بازنمایی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 tree shrew · spermatogenesis · single-cell transcriptomics · primate · cross-species comparison</description>
-<category>tree shrew</category>
-<category>spermatogenesis</category>
-<category>single-cell transcriptomics</category>
-<category>primate</category>
-<category>cross-species comparison</category>
-</item>
-<item>
-<title>Darutigenol ameliorates experimental colitis via promoting Akkermansia muciniphila-mediated proline synthesis</title>
-<link>https://doi.org/10.1038/s41467-026-78308-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-78308-z</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:33 GMT</pubDate>
-<description>داروتیگنول کولیت تجربی را از طریق تقویت سنتز پرولین به‌واسطه Akkermansia muciniphila بهبود می‌بخشد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Darutigenol · ulcerative colitis · Akkermansia muciniphila · proline synthesis · gut microbiota</description>
-<category>Darutigenol</category>
-<category>ulcerative colitis</category>
-<category>Akkermansia muciniphila</category>
-<category>proline synthesis</category>
-<category>gut microbiota</category>
-</item>
-<item>
-<title>Local albumin excess exacerbates Candida albicans-induced inflammasome activation linked with hyperinflammation during vulvovaginal candidiasis</title>
-<link>https://doi.org/10.1038/s41467-026-78761-w</link>
-<guid isPermaLink="false">10.1038/s41467-026-78761-w</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:29 GMT</pubDate>
-<description>آلبومین موضعی اضافی، فعال‌سازی inflammasome ناشی از Candida albicans و التهاب شدید در کاندیدیازیس ولوواژینال را تشدید می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Candida albicans · vulvovaginal candidiasis · inflammasome activation · albumin · hyperinflammation</description>
-<category>Candida albicans</category>
-<category>vulvovaginal candidiasis</category>
-<category>inflammasome activation</category>
-<category>albumin</category>
-<category>hyperinflammation</category>
-</item>
-<item>
-<title>Global arable land redistribution toward the tropics and drylands under human settlement expansion</title>
-<link>https://doi.org/10.1038/s41467-026-79126-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-79126-z</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:26 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که گسترش سکونتگاه‌های انسانی باعث جابه‌جایی زمین‌های کشاورزی جهان به سمت مناطق گرمسیری و خشک می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 arable land redistribution · human settlement expansion · tropics · drylands · land-use change</description>
-<category>arable land redistribution</category>
-<category>human settlement expansion</category>
-<category>tropics</category>
-<category>drylands</category>
-<category>land-use change</category>
-</item>
-<item>
-<title>Framework desymmetrization enables partial pore space partition in metal-organic frameworks</title>
-<link>https://doi.org/10.1038/s41467-026-79214-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-79214-0</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:23 GMT</pubDate>
-<description>با نامتقارن‌سازی شبکه و تقسیم جزئی فضای حفره در MOF، ظرفیت استیلن حفظ و گزینش‌پذیری C2H2/CO2 نسبت به ساختار کاملاً تقسیم‌شده حدود دو برابر شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metal-organic frameworks · pore space partition · framework desymmetrization · acetylene separation · C2H2/CO2</description>
-<category>metal-organic frameworks</category>
-<category>pore space partition</category>
-<category>framework desymmetrization</category>
-<category>acetylene separation</category>
-<category>C2H2/CO2</category>
-</item>
-<item>
-<title>Aberrant thymic architecture and enhanced interferon signaling in Down syndrome</title>
-<link>https://doi.org/10.1038/s41467-026-78824-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-78824-y</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:20 GMT</pubDate>
-<description>در سندرم داون معماری غیرطبیعی تیموس و افزایش سیگنالینگ اینترفرون مشاهده شد که به اختلال ایمنی مرتبط است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Down syndrome · thymic architecture · interferon signaling · immune dysregulation · thymus</description>
-<category>Down syndrome</category>
-<category>thymic architecture</category>
-<category>interferon signaling</category>
-<category>immune dysregulation</category>
-<category>thymus</category>
-</item>
-<item>
-<title>Deuteration of arenes in D2O exclusively driven by single-atom Pt sites under visible light</title>
-<link>https://doi.org/10.1038/s41467-026-79132-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-79132-1</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:16 GMT</pubDate>
-<description>این مقاله دوتراسیون آرن‌ها در D2O را با استفاده از سایت‌های تک‌اتمی Pt تحت نور مرئی انجام می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 deuteration · arenes · D2O · single-atom Pt · photocatalysis</description>
-<category>deuteration</category>
-<category>arenes</category>
-<category>D2O</category>
-<category>single-atom Pt</category>
-<category>photocatalysis</category>
-</item>
-<item>
-<title>Antimicrobial peptides derived from Nemuri induce ribosomal condensation to inhibit translation</title>
-<link>https://doi.org/10.1038/s41467-026-78960-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-78960-5</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:13 GMT</pubDate>
-<description>پپتیدهای ضدمیکروبی مشتق از Nemuri با اتصال چندظرفیتی به RNA و ریبوزوم، تراکم ریبوزومی را القا و سنتز پروتئین باکتری را مهار می‌کنند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 antimicrobial peptides · Nemuri · ribosomal condensation · translation inhibition · biomolecular condensates</description>
-<category>antimicrobial peptides</category>
-<category>Nemuri</category>
-<category>ribosomal condensation</category>
-<category>translation inhibition</category>
-<category>biomolecular condensates</category>
-</item>
-<item>
-<title>Widespread selection of antibiotic resistance within hospital sewers</title>
-<link>https://doi.org/10.1038/s41467-026-78836-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-78836-8</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:10 GMT</pubDate>
-<description>فاضلاب بیمارستان‌های سوئد باعث گزینش باکتری‌های مقاوم به آنتی‌بیوتیک شد و سیپروفلوکساسین و سفوتاکسیم به‌عنوان عوامل گزینشی اصلی شناسایی شدند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 antibiotic resistance · hospital sewers · Escherichia coli · ciprofloxacin · resistance selection</description>
-<category>antibiotic resistance</category>
-<category>hospital sewers</category>
-<category>Escherichia coli</category>
-<category>ciprofloxacin</category>
-<category>resistance selection</category>
-</item>
-<item>
-<title>Ketene as a gas phase intermediate in acetic acid ketonization on TiO2</title>
-<link>https://doi.org/10.1038/s41467-026-77945-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-77945-8</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:07 GMT</pubDate>
-<description>شواهد مستقیم نشان داد کتن به‌عنوان واسطه گازی متحرک در کتونیزاسیون استیک اسید روی TiO2(101) از استات سطحی تشکیل و به استون تبدیل می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ketene intermediate · acetic acid ketonization · TiO2 · heterogeneous catalysis · gas-phase intermediate</description>
-<category>ketene intermediate</category>
-<category>acetic acid ketonization</category>
-<category>TiO2</category>
-<category>heterogeneous catalysis</category>
-<category>gas-phase intermediate</category>
-</item>
-<item>
-<title>NanoBlocks: Creating Genetically Encoded Protein Switches Using Competitive Binding</title>
-<link>https://doi.org/10.1021/acsnano.6c10102</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10102</guid>
-<pubDate>Thu, 29 Oct 2026 13:03:03 GMT</pubDate>
-<description>با افزودن پپتید رقابتی به نانوبادی‌ها و دامنه PDZ، سوئیچ‌های پروتئینی ژنتیکی‌کدشده و زیست‌حسگرهای فلورسنت پاسخ‌ده به هدف طراحی شد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 protein switch · nanobody · competitive binding · biosensor · synthetic biology</description>
-<category>protein switch</category>
-<category>nanobody</category>
-<category>competitive binding</category>
-<category>biosensor</category>
-<category>synthetic biology</category>
 </item>
 </channel>
 </rss>
