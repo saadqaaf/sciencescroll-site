@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 18:02:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ion‐Electron Convergent Interphases Enable Ultrahigh Sulfur Utilization for All‐Solid‐State Li–S Batteries</title>
+<link>https://doi.org/10.1002/adma.75518</link>
+<guid isPermaLink="false">10.1002/adma.75518</guid>
+<pubDate>Thu, 29 Oct 2026 19:01:45 GMT</pubDate>
+<description>این کار با ایجاد فاز سطحی Li2FeS2 به‌عنوان رابط یون-الکترون همگرا، بهره‌برداری از گوگرد را در باتری‌های تمام‌جامد Li-S به ۹۷.۸٪ رسانده و چرخه‌پذیری فوق‌العاده‌ای فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in surface-bound ion-electron convergent interphases on Li₂S using Li₂FeS₂, identified via magnetic moment screening, which bridges separated ion and electron pathways. This lowers transport tortuosity and activation barriers, enabling 97.8% sulfur utilization, 10,000-cycle stability, and a record 38.69 mAh cm⁻² areal capacity—establishing a design principle for coupled ion-electron transfer in all-solid-state batteries.&lt;br&gt;🏷 all-solid-state Li-S battery · sulfur utilization · ion-electron interphase · Li2FeS2 · triple-phase contact</description>
+<category>all-solid-state Li-S battery</category>
+<category>sulfur utilization</category>
+<category>ion-electron interphase</category>
+<category>Li2FeS2</category>
+<category>triple-phase contact</category>
+</item>
 <item>
 <title>Anion exchange interfacial locking for safer all-solid-state lithium metal batteries</title>
 <link>https://doi.org/10.1016/j.esci.2026.100667</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Na2S-TaCl5</category>
 <category>amorphous framework</category>
 <category>Na+ transport</category>
-</item>
-<item>
-<title>Molecular Crowding Programs Trifluoroacetate-Solvation Nanoclusters for Stable Aqueous Zinc Metal Chemistry</title>
-<link>https://doi.org/10.1021/acsnano.6c10656</link>
-<guid isPermaLink="false">10.1021/acsnano.6c10656</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:13 GMT</pubDate>
-<description>راهبرد ازدحام مولکولی الکترولیت آبی Zn(TFA)2/NaTFA را به نانوخوشه‌های آنیون‌غنی تبدیل کرد و با کاهش فعالیت آب، گاز هیدروژن و خوردگی روی را مهار و چرخه‌پذیری باتری روی را بهبود داد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molecule-crowding strategy using Zn(TFA)2/NaTFA to create anion-rich nanoclustered solvation, shifting water-rich coordination to contact ion pairs and multi-ion nanoclusters. This reduces water activity, suppressing hydrogen evolution and corrosion while enabling uniform Zn deposition. Significance: exceptional stability—Zn||Zn over 2100 h, Zn||Cu 3000 h at 99.4% efficiency, and 82.4% retention after 30,000 cycles.&lt;br&gt;🏷 aqueous zinc battery · molecular crowding · trifluoroacetate electrolyte · solvation nanocluster · Zn deposition</description>
-<category>aqueous zinc battery</category>
-<category>molecular crowding</category>
-<category>trifluoroacetate electrolyte</category>
-<category>solvation nanocluster</category>
-<category>Zn deposition</category>
 </item>
 </channel>
 </rss>
