@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 21:01:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Closed‐Pore Engineering Couples Sodium Confinement and Interfacial Stabilization for Dendrite‐Resistant Hard Carbon Anodes</title>
+<link>https://doi.org/10.1002/adfm.79364</link>
+<guid isPermaLink="false">10.1002/adfm.79364</guid>
+<pubDate>Thu, 29 Oct 2026 22:01:43 GMT</pubDate>
+<description>مهندسی حفره‌های بسته در کربن سخت دوپه‌شده با کبالت، ذخیره سدیم و پایداری فصل مشترک را بهبود داده و رشد دندریت را در باتری یون‌سدیم سرکوب می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Closed-pore engineering in cobalt-doped hard carbon couples internal sodium-cluster confinement with interfacial stabilization, redirecting storage from surface accumulation to deep pore filling. This yields a thin, inorganic-rich SEI, suppresses dendrites, and achieves 95% capacity retention after 500 cycles—offering a safer, longer-lasting anode design for sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · closed-pore engineering · dendrite suppression · SEI stabilization</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>closed-pore engineering</category>
+<category>dendrite suppression</category>
+<category>SEI stabilization</category>
+</item>
+<item>
+<title>Coordination‐Unsaturated Cu–OSe Directs (002)/(100) Dual‐Texture Zn Growth via Cu‐Centered Charge Redistribution</title>
+<link>https://doi.org/10.1002/adfm.79339</link>
+<guid isPermaLink="false">10.1002/adfm.79339</guid>
+<pubDate>Thu, 29 Oct 2026 22:01:22 GMT</pubDate>
+<description>چارچوب Cu-OSe با ناهماهنگی کوئوردیناسیونی رشد دوقلمی Zn(002)/(100) را هدایت کرده و پایداری آند روی آبی را به بیش از ۳۱۰۰ ساعت می‌رساند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Coordination-unsaturated Cu–OSe with mixed O/Se coordination stabilizes mixed-valence Cu and redistributes electronic states, creating continuous local-current pathways that direct Zn(002)/(100) dual-texture growth while preventing framework collapse seen in full selenization. This establishes coordination unsaturation as a general electronic-structure design principle for metal-electrodeposition interfaces, enabling 3100 h cycling and 2200-cycle full cells.&lt;br&gt;🏷 aqueous zinc battery · Cu-OSe · coordination unsaturation · Zn dual texture · dendrite suppression</description>
+<category>aqueous zinc battery</category>
+<category>Cu-OSe</category>
+<category>coordination unsaturation</category>
+<category>Zn dual texture</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Ion‐Electron Convergent Interphases Enable Ultrahigh Sulfur Utilization for All‐Solid‐State Li–S Batteries</title>
 <link>https://doi.org/10.1002/adma.75518</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>cryo-EM</category>
 <category>sodium-ion battery</category>
 <category>underpotential deposition</category>
-</item>
-<item>
-<title>Facile Polyiodides Conversion Enabled by Facet Engineering for Durable Zinc–Iodine Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c15505</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15505</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:40 GMT</pubDate>
-<description>این مقاله با مهندسی وجوه اکسید کبالت اسپینلی دووجهی، تبدیل پلی‌یدیدها را در باتری آبی Zn-I2 تسهیل کرده و ظرفیت بالا و پایداری فوق‌العاده طولانی‌مدت را به دست می‌آورد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dual-facet spinel Co3O4 that decouples polyiodide confinement from solid-iodine desorption via controlled (100)/(111) facet exposure, overcoming the thermodynamic trade-off of uniform catalysts. Significance: this enables durable Zn–I2 batteries with 161.1 mAh g–1 at 16 A g–1, 0.00055% decay per cycle over 50,000 cycles, and wide −30 to 60 °C operation, advancing practical aqueous iodine storage.&lt;br&gt;🏷 zinc-iodine battery · facet engineering · polyiodide conversion · spinel cobalt oxide · shuttle effect</description>
-<category>zinc-iodine battery</category>
-<category>facet engineering</category>
-<category>polyiodide conversion</category>
-<category>spinel cobalt oxide</category>
-<category>shuttle effect</category>
-</item>
-<item>
-<title>Sulfur-Induced Local Structure Reconstruction and Weak Na–Anion Interactions Enable Fast Na+ Transport in x Na2S-TaCl5 Electrolytes</title>
-<link>https://doi.org/10.1021/acsnano.6c12578</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12578</guid>
-<pubDate>Tue, 27 Oct 2026 21:03:27 GMT</pubDate>
-<description>ورود گوگرد به الکترولیت جامد xNa2S-TaCl5 ساختار محلی پلی‌هدرهای Ta را بازسازی و پیوند Na-آنیون را تضعیف کرده و با تشکیل چارچوب آمورف، انتقال سریع Na+ را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Sulfur incorporation reconstructs Ta-polyhedral connectivity in amorphous xNa2S-TaCl5 electrolytes, creating coexisting edge- and corner-sharing motifs and weakening Na–anion binding. This lowers Na+ migration barriers, enabling 3.25 mS cm–1 conductivity (0.28 eV activation) and stable all-solid-state Na batteries with uncoated cathodes (82.6% retention after 100 cycles).&lt;br&gt;🏷 sodium solid electrolyte · mixed anion · Na2S-TaCl5 · amorphous framework · Na+ transport</description>
-<category>sodium solid electrolyte</category>
-<category>mixed anion</category>
-<category>Na2S-TaCl5</category>
-<category>amorphous framework</category>
-<category>Na+ transport</category>
 </item>
 </channel>
 </rss>
