@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 11:01:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 12:02:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cyanide‐Driven Nitrite Trapping Enables Robustly‐Coupled Gel/Cathode Interfaces in Zinc‐Air Batteries</title>
+<link>https://doi.org/10.1002/adfm.79376</link>
+<guid isPermaLink="false">10.1002/adfm.79376</guid>
+<pubDate>Thu, 29 Oct 2026 12:01:53 GMT</pubDate>
+<description>این کار با بهره‌گیری از تله‌اندازی نیتریت ناشی از سیانید، اتصال شیمیایی ژل/کاتد را در باتری روی-هوا تقویت کرده و چگالی توان ۱۴۴ mW cm−2 را به دست می‌آورد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using cyanide release from a Prussian blue analogue during electrochemical reconstruction to form −NO₂ linkers that chemically bond CoOOH to the PVA gel, creating a robust interface. This significantly improves OH⁻ transport, adhesion, and water retention, enabling high power density (144 mW cm⁻²) and stable flexible cable-type zinc-air batteries.&lt;br&gt;🏷 zinc-air battery · gel electrolyte · Prussian blue analogue · CoOOH interface · nitrite trapping</description>
+<category>zinc-air battery</category>
+<category>gel electrolyte</category>
+<category>Prussian blue analogue</category>
+<category>CoOOH interface</category>
+<category>nitrite trapping</category>
+</item>
 <item>
 <title>Dynamic Reconstruction Engineered Grain Boundaries and Dual-Metal-Directed Module Functionalization for Boosting CO2 Electroreduction to Ethanol and High-Performance Aqueous Zn-CO2 Battery</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127708</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>combustion hazard</category>
 <category>lithium-ion cell</category>
 <category>safety quantification</category>
-</item>
-<item>
-<title>Free‐Standing Lignin‐Derived Hard Carbon Anodes for Sustainable Potassium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/bte2.70159</link>
-<guid isPermaLink="false">10.1002/bte2.70159</guid>
-<pubDate>Tue, 27 Oct 2026 13:01:59 GMT</pubDate>
-<description>نانوالیاف کربن سخت بدون چسب از لیگنین LignoBoost به روش الکتروریسی ساخته شد و آند KIB با ظرفیت ۳۶۹ mAh g−1 و بازدهی اولیه ۶۹٪ به دست آمد.&lt;br&gt;Battery Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study pioneers free-standing, binder-free hard carbon nanofiber mats from industrial LignoBoost lignin via electrospinning for potassium-ion batteries. By correlating carbonization temperature (800–1400°C) with structural/surface evolution, it reveals how increased sp² conjugation and reduced oxygen functionalities enhance reversible K-storage, achieving 369 mAh g⁻¹ at 69% initial coulombic efficiency—advancing sustainable, additive-free anode design.&lt;br&gt;🏷 potassium-ion battery · lignin hard carbon · free-standing anode · electrospinning · solid electrolyte interphase</description>
-<category>potassium-ion battery</category>
-<category>lignin hard carbon</category>
-<category>free-standing anode</category>
-<category>electrospinning</category>
-<category>solid electrolyte interphase</category>
 </item>
 </channel>
 </rss>
