@@ -5,8 +5,104 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 13:04:32 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 14:04:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synchronized Stabilization and Multielectron Reactions in a Double‐Shelled Hollow Na 3 V 2 (PO 4 ) 2 F 3 /Na 3 V 2 (PO 4 ) 3 Heterostructure Toward High‐Energy‐Density Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76474</link>
+<guid isPermaLink="false">10.1002/smll.76474</guid>
+<pubDate>Thu, 29 Oct 2026 14:03:59 GMT</pubDate>
+<description>ساختار توخالی دوپوسته Na3V2(PO4)2F3/Na3V2(PO4)3 با بازتوزیع الکترون در فصل مشترک، واکنش چندالکترونی V4+/V5+ پایدار و کاتدی با انرژی ۴۷۱ Wh/kg و عمر طولانی برای باتری سدیم‌یون فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a double-shelled hollow Na3V2(PO4)2F3/Na3V2(PO4)3 heterostructure, where the outer shell buffers volume changes and suppresses fluorine loss, enabling stable multielectron V4+/V5+ redox. Interfacial electron redistribution enhances kinetics. Significance: it delivers 131.7 mAh g−1, 471 Wh kg−1, and 78.8% retention after 1000 cycles, offering a strategy for high-energy, long-life sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · NVPF cathode · heterostructure · multielectron redox · hollow structure</description>
+<category>sodium-ion battery</category>
+<category>NVPF cathode</category>
+<category>heterostructure</category>
+<category>multielectron redox</category>
+<category>hollow structure</category>
+</item>
+<item>
+<title>Brick‐Layer Templating of (002)‐Oriented Zn at Battery Anodes</title>
+<link>https://doi.org/10.1002/smll.76514</link>
+<guid isPermaLink="false">10.1002/smll.76514</guid>
+<pubDate>Thu, 29 Oct 2026 14:03:33 GMT</pubDate>
+<description>افزودنی TST با جذب سطحی، الگوی آجری شش‌گوش ایجاد کرده و رسوب Zn با جهت‌گیری (002) را در آند باتری آبی روی-یون ممکن می‌سازد و دندریت را مهار می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using trace amounts of 2,4,6-trimethoxy-s-triazine (TST) as an electrolyte additive that pre-adsorbs on Zn foil to form a hexagonally ordered interfacial brick template, enabling texture-inherited (002)-oriented Zn plating without pre-texturing or electrolyte overhaul. This offers a simple, low-cost route to dendrite suppression and significantly improved cycling stability, advancing practical aqueous zinc-ion battery deployment.&lt;br&gt;🏷 zinc-ion battery · Zn anode · (002) orientation · electrolyte additive · dendrite suppression</description>
+<category>zinc-ion battery</category>
+<category>Zn anode</category>
+<category>(002) orientation</category>
+<category>electrolyte additive</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Fabrication of Homogeneous Nanometer‐Thin Artificial CEI on LNMO by Suspension Coating of Niobate Nanosheets</title>
+<link>https://doi.org/10.1002/smll.76534</link>
+<guid isPermaLink="false">10.1002/smll.76534</guid>
+<pubDate>Thu, 29 Oct 2026 14:03:09 GMT</pubDate>
+<description>پوشش نانوصفحه‌های نیوبات به‌روش آبی روی LNMO یک لایه CEI نانومتری همگن می‌سازد و پایداری چرخه و ظرفیت نرخ بالا را در باتری لیتیوم-یون بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using water-based electrostatic self-assembly of ultra-thin (1.8 nm) niobate nanosheets to create a homogeneous artificial CEI on LNMO. This scalable, cost-effective coating significantly enhances cycle stability (91% vs. 42% retention after 500 cycles), rate capability, and reduces self-discharge by suppressing manganese dissolution, offering a promising route for high-voltage lithium-ion batteries.&lt;br&gt;🏷 LNMO cathode · niobate nanosheets · artificial CEI · suspension coating · high-voltage lithium battery</description>
+<category>LNMO cathode</category>
+<category>niobate nanosheets</category>
+<category>artificial CEI</category>
+<category>suspension coating</category>
+<category>high-voltage lithium battery</category>
+</item>
+<item>
+<title>Non‐Invasive Smart Pressure Sensor for Early‐Stage Thermal Runaway Warning for Cylindrical Batteries</title>
+<link>https://doi.org/10.1002/smll.76428</link>
+<guid isPermaLink="false">10.1002/smll.76428</guid>
+<pubDate>Thu, 29 Oct 2026 14:03:02 GMT</pubDate>
+<description>یک حسگر فشار هوشمند مبتنی بر کامپوزیت حافظه‌دار برای پایش فشار جانبی و هشدار زودهنگام فرار حرارتی در باتری‌های استوانه‌ای ارائه می‌شود.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a non-invasive, shape-memory pressure sensor enabling conformal sidewall monitoring of cylindrical batteries, with COMSOL-optimized assembly preventing uneven stress. Its significance is early thermal runaway warning (79–86% warning time ratio) across Li-ion, LiFePO₄, and sodium-ion cells, allowing timely intervention to prevent catastrophic failure.&lt;br&gt;🏷 thermal runaway warning · pressure sensor · cylindrical battery · shape memory composite · battery safety</description>
+<category>thermal runaway warning</category>
+<category>pressure sensor</category>
+<category>cylindrical battery</category>
+<category>shape memory composite</category>
+<category>battery safety</category>
+</item>
+<item>
+<title>Fluorinated Plastic Crystal Cation Enables Stable Inorganic‐Rich Interphase in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76429</link>
+<guid isPermaLink="false">10.1002/smll.76429</guid>
+<pubDate>Thu, 29 Oct 2026 14:02:57 GMT</pubDate>
+<description>طراحی کاتیون فلوئوره در بلور پلاستیکی، همراه با پلیمر و نمک فلوئوره، الکترولیت جامد با رسانایی 0.9 mS cm-1 و لایه میانی غنی از فلوئور برای باتری‌های لیتیوم فلزی پایدار ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a fluorinated plastic crystal cation as a new fluorine source for interfacial regulation, combined with a fluorinated polymer scaffold and FSI⁻. This cationic fluorination approach yields high ionic conductivity, Li⁺ transference number, and stable cycling in Li/LiFePO₄, high-voltage NCM622, and Li/LiCoO₂ cells, establishing fluorinated cations as effective interfacial modifiers for next-generation solid-state batteries.&lt;br&gt;🏷 lithium metal battery · solid polymer electrolyte · fluorinated cation · plastic crystal · interphase</description>
+<category>lithium metal battery</category>
+<category>solid polymer electrolyte</category>
+<category>fluorinated cation</category>
+<category>plastic crystal</category>
+<category>interphase</category>
+</item>
+<item>
+<title>Na‐Site Energetics Reconfiguration Enables Full Capacity Utilization of Sodium Iron Sulfate Cathodes</title>
+<link>https://doi.org/10.1002/smll.76436</link>
+<guid isPermaLink="false">10.1002/smll.76436</guid>
+<pubDate>Thu, 29 Oct 2026 14:02:51 GMT</pubDate>
+<description>مدولاسیون الکترواستاتیکی چندآنیونی، چشم‌انداز انرژی جایگاه‌های Na را در کاتد سولفات آهن-سدیم بازآرایی کرده و به ظرفیت 100 mAh g-1 و پایداری 90% پس از 1500 چرخه می‌رسد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in mixed-polyanion electrostatic modulation that reconfigures Na-site energetics, steering Na⁺ into favorable Na2/Na3 sites, suppressing Fe–Na disorder at Na4, and unlocking trapped Na1. This enables near-theoretical capacity (100 of 102 mAh g⁻¹) in a full cell plus 90% retention over 1500 cycles at 5C, establishing hetero-anion substitution as a design strategy for kinetically constrained polyanion cathodes.&lt;br&gt;🏷 sodium-ion battery · iron sulfate cathode · Na-site energetics · polyanion · capacity utilization</description>
+<category>sodium-ion battery</category>
+<category>iron sulfate cathode</category>
+<category>Na-site energetics</category>
+<category>polyanion</category>
+<category>capacity utilization</category>
+</item>
+<item>
+<title>Local Bonding and Reconstruction Enhancing Ion Transport in Li 3 InCl 6</title>
+<link>https://doi.org/10.1002/smll.76542</link>
+<guid isPermaLink="false">10.1002/smll.76542</guid>
+<pubDate>Thu, 29 Oct 2026 14:02:35 GMT</pubDate>
+<description>دوپینگ Nb5+ در الکترولیت جامد هالیدی Li3InCl6 با ایجاد اعوجاج ساختاری موضعی و تضعیف پیوند Li-Cl، رسانایی یونی را به 1.03 mS cm-1 رسانده و پایداری باتری تمام‌جامد را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Nb⁵⁺ aliovalent doping of Li₃InCl₆ induces local structural distortion and bond reorganization, creating strong Nb─Cl bonds that weaken Li─Cl interactions and optimize Li⁺ migration pathways. This yields high ionic conductivity (1.03 mS cm⁻¹), low activation energy (0.305 eV), suppressed electronic conductivity, and stable cycling. The work clarifies cation-doping regulation of local bonding, offering design guidance for high-performance halide solid electrolytes.&lt;br&gt;🏷 halide solid electrolyte · Li3InCl6 · Nb doping · ion transport · all-solid-state battery</description>
+<category>halide solid electrolyte</category>
+<category>Li3InCl6</category>
+<category>Nb doping</category>
+<category>ion transport</category>
+<category>all-solid-state battery</category>
+</item>
+<item>
+<title>Insights into Degradation Mechanisms and Optimization Strategies for High‐Voltage High‐Ni Cathode Materials</title>
+<link>https://doi.org/10.1002/eem2.70534</link>
+<guid isPermaLink="false">10.1002/eem2.70534</guid>
+<pubDate>Thu, 29 Oct 2026 14:01:52 GMT</pubDate>
+<description>این مرور، سازوکارهای تخریب کاتدهای لایه‌ای پرنیکل در ولتاژ بالا و راهبردهای اصلاح برای پایدارسازی ساختاری و افزایش عمر چرخه‌ای Li-ion را بررسی می‌کند.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely integrates atomic-scale characterization insights into O3/O1 stacking evolution, surface/interfacial degradation, and phase deterioration of high-Ni cathodes, while comparing single- versus polycrystalline degradation behaviors including stress–strain and cracking. It critically assesses modification strategies reinforcing intrinsic structural stability, offering rational design guidelines for high-voltage, high-energy-density cathodes in next-generation Li-ion batteries.&lt;br&gt;🏷 high-Ni cathode · Li-ion battery · degradation mechanism · surface modification · single-crystalline cathode</description>
+<category>high-Ni cathode</category>
+<category>Li-ion battery</category>
+<category>degradation mechanism</category>
+<category>surface modification</category>
+<category>single-crystalline cathode</category>
+</item>
 <item>
 <title>Thermal Runaways of All-Solid-State Lithium Batteries Revealed by Rapid Operando Neutron Imaging</title>
 <link>https://doi.org/10.1016/j.etran.2026.100649</link>
@@ -1114,102 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>bio-binders</category>
 <category>dual-binder</category>
 <category>SEI formation</category>
-</item>
-<item>
-<title>Design of a Zirconium Oxychloride Fast-Ion Conductor via Co-doping Strategy for Enhanced All-Solid-State Cell Performance</title>
-<link>https://doi.org/10.1039/d6ta04752a</link>
-<guid isPermaLink="false">10.1039/d6ta04752a</guid>
-<pubDate>Tue, 27 Oct 2026 15:01:55 GMT</pubDate>
-<description>این مقاله با راهبرد هم‌دوپینگ، رسانای یونی سریع ZrOCl2 را طراحی می‌کند تا رسانایی یونی Li2ZrCl6 در دمای اتاق افزایش یابد و عملکرد سلول تمام‌جامد بهبود پیدا کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in co-doping zirconium oxychloride to create a fast-ion conductor, addressing Li2ZrCl6&amp;#x27;s low room-temperature ionic conductivity. Significance: this low-cost, oxidation-stable halide electrolyte design enhances all-solid-state cell performance, offering a practical route to improved solid electrolytes.&lt;br&gt;🏷 halide solid electrolyte · Li2ZrCl6 · co-doping · ionic conductivity · all-solid-state battery</description>
-<category>halide solid electrolyte</category>
-<category>Li2ZrCl6</category>
-<category>co-doping</category>
-<category>ionic conductivity</category>
-<category>all-solid-state battery</category>
-</item>
-<item>
-<title>Direct recycling of spent graphite-Si/C composite anodes from commercial lithium-ion cells</title>
-<link>https://doi.org/10.1039/d6ta05758f</link>
-<guid isPermaLink="false">10.1039/d6ta05758f</guid>
-<pubDate>Tue, 27 Oct 2026 15:01:40 GMT</pubDate>
-<description>این مقاله بازیافت مستقیم آندهای کامپوزیتی گرافیت-Si/C را از سلول‌های تجاری لیتیوم-یون بررسی می‌کند و چالش‌های ناشی از پیچیدگی ترکیب این آندها را نشان می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in directly recycling spent graphite–Si/C composite anodes from commercial cells, a complex, underexplored feedstock. Significance: establishes a direct-recycling route for mixed graphite–silicon anodes, addressing a key gap as Si/C adoption grows, and offering a path to recover value from increasingly common spent batteries rather than downcycling or discarding them.&lt;br&gt;🏷 direct recycling · Si/C composite anode · spent graphite · lithium-ion cells · anode regeneration</description>
-<category>direct recycling</category>
-<category>Si/C composite anode</category>
-<category>spent graphite</category>
-<category>lithium-ion cells</category>
-<category>anode regeneration</category>
-</item>
-<item>
-<title>Understanding and mitigating high-voltage-induced degradation in Li-ion layered cathode materials</title>
-<link>https://doi.org/10.1039/d6ta03021a</link>
-<guid isPermaLink="false">10.1039/d6ta03021a</guid>
-<pubDate>Tue, 27 Oct 2026 15:01:31 GMT</pubDate>
-<description>این مقاله مروری، سازوکارهای تخریب ناشی از ولتاژ بالا در کاتدهای لایه‌ای NCM غنی از نیکل، LMR و LCO و راهبردهای پایدارسازی مرتبط با هر ماده را مقایسه می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 This review uniquely integrates degradation mechanisms across three high-voltage layered cathodes (Ni-rich NCM, LMR, LCO), mapping material-specific failure pathways to tailored stabilization strategies in a comparative framework. Its significance lies in consolidating fragmented knowledge into a unified reference, guiding rational design of high-voltage cathodes for next-generation Li-ion batteries.&lt;br&gt;🏷 layered cathodes · high-voltage degradation · Ni-rich NCM · LMR cathodes · stabilization strategies</description>
-<category>layered cathodes</category>
-<category>high-voltage degradation</category>
-<category>Ni-rich NCM</category>
-<category>LMR cathodes</category>
-<category>stabilization strategies</category>
-</item>
-<item>
-<title>Few-label transfer prediction of self-discharge voltage drop for lithium-ion batteries across formation process variations</title>
-<link>https://doi.org/10.1016/j.est.2026.124623</link>
-<guid isPermaLink="false">10.1016/j.est.2026.124623</guid>
-<pubDate>Tue, 27 Oct 2026 13:02:38 GMT</pubDate>
-<description>این مقاله با یادگیری انتقالی و تعداد کم برچسب، افت ولتاژ خودتخلیه باتری‌های لیتیوم-یون را در شرایط مختلف فرآیند formation پیش‌بینی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · self-discharge · transfer learning · few-label prediction · formation process</description>
-<category>lithium-ion battery</category>
-<category>self-discharge</category>
-<category>transfer learning</category>
-<category>few-label prediction</category>
-<category>formation process</category>
-</item>
-<item>
-<title>Modulating confined water behavior and electrochemical properties in vanadium carbide MXene (V2CTx) through cation intercalation</title>
-<link>https://doi.org/10.1016/j.est.2026.125216</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125216</guid>
-<pubDate>Tue, 27 Oct 2026 13:02:31 GMT</pubDate>
-<description>رفتار آب محبوس و خواص الکتروشیمیایی MXene کاربید وانادیم (V2CTx) از طریق میان‌لایه‌ای شدن کاتیون‌ها تنظیم می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium carbide MXene · V2CTx · cation intercalation · confined water · electrochemical properties</description>
-<category>vanadium carbide MXene</category>
-<category>V2CTx</category>
-<category>cation intercalation</category>
-<category>confined water</category>
-<category>electrochemical properties</category>
-</item>
-<item>
-<title>Design and optimization of immersion cooling thermal management system for high energy density battery pack</title>
-<link>https://doi.org/10.1016/j.est.2026.125298</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125298</guid>
-<pubDate>Tue, 27 Oct 2026 13:02:27 GMT</pubDate>
-<description>طراحی و بهینه‌سازی سیستم خنک‌کاری غوطه‌وری برای مدیریت حرارتی بسته باتری با چگالی انرژی بالا ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 immersion cooling · thermal management · battery pack · high energy density · optimization</description>
-<category>immersion cooling</category>
-<category>thermal management</category>
-<category>battery pack</category>
-<category>high energy density</category>
-<category>optimization</category>
-</item>
-<item>
-<title>The dynamic distribution of energy fields and thermal runaway early warning for lithium-ion batteries within transportation protective equipment</title>
-<link>https://doi.org/10.1016/j.est.2026.125310</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125310</guid>
-<pubDate>Tue, 27 Oct 2026 13:02:23 GMT</pubDate>
-<description>توزیع دینامیکی میدان‌های انرژی و هشدار زودهنگام فرار حرارتی باتری‌های Li-ion در تجهیزات حفاظتی حمل‌ونقل بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · early warning · energy field distribution · lithium-ion battery · transport packaging</description>
-<category>thermal runaway</category>
-<category>early warning</category>
-<category>energy field distribution</category>
-<category>lithium-ion battery</category>
-<category>transport packaging</category>
-</item>
-<item>
-<title>Comparative study on the mechanical characteristics of solid-state batteries for electric vertical takeoff and landing aircrafts</title>
-<link>https://doi.org/10.1016/j.est.2026.125341</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125341</guid>
-<pubDate>Tue, 27 Oct 2026 13:02:19 GMT</pubDate>
-<description>مشخصات مکانیکی باتری‌های حالت جامد برای کاربرد در هواپیماهای برخاست و فرود عمودی الکتریکی به‌صورت مقایسه‌ای مطالعه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · mechanical properties · eVTOL aircraft · comparative study · safety</description>
-<category>solid-state battery</category>
-<category>mechanical properties</category>
-<category>eVTOL aircraft</category>
-<category>comparative study</category>
-<category>safety</category>
 </item>
 </channel>
 </rss>
