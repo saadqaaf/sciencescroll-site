@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 16:01:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 17:02:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Translating sulfur flow batteries into deployable systems</title>
+<link>https://doi.org/10.1038/s41560-026-02152-0</link>
+<guid isPermaLink="false">10.1038/s41560-026-02152-0</guid>
+<pubDate>Thu, 29 Oct 2026 17:02:09 GMT</pubDate>
+<description>این مقاله راهکارهای تبدیل باتری‌های جریان سولفور از مرحله آزمایشگاهی به سیستم‌های قابل استقرار و مقیاس‌پذیر را بررسی می‌کند.&lt;br&gt;Nature Energy | ⭐ Review&lt;br&gt;💡 The novelty lies in reframing sulfur flow battery research around deployment rather than material cost alone, revealing how real-world translation exposes scientific and engineering bottlenecks. Its significance is guiding research priorities toward practical viability, helping convert a promising low-cost, long-duration storage concept into deployable systems.&lt;br&gt;🏷 sulfur flow battery · deployable systems · energy storage · scale-up · redox flow</description>
+<category>sulfur flow battery</category>
+<category>deployable systems</category>
+<category>energy storage</category>
+<category>scale-up</category>
+<category>redox flow</category>
+</item>
+<item>
+<title>Structure-Dynamics Correlations in Ionic Liquid-Based Solid Electrolytes Explored by NMR Spectroscopy</title>
+<link>https://doi.org/10.1039/d6ta07722f</link>
+<guid isPermaLink="false">10.1039/d6ta07722f</guid>
+<pubDate>Thu, 29 Oct 2026 17:01:52 GMT</pubDate>
+<description>دینامیک یون و سازمان‌یابی مولکولی در الکترولیت‌های جامد بر پایه مایع یونی با طیف‌سنجی NMR بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using NMR spectroscopy to correlate structure and dynamics in ionic-liquid-based solid electrolytes, revealing how molecular organization governs ion transport. Its significance is providing mechanistic insight into designing mechanically stable polymer electrolytes with favorable conductivity, advancing safer, high-performance solid-state battery development.&lt;br&gt;🏷 solid electrolyte · ionic liquid · NMR spectroscopy · ion dynamics · polymer matrix</description>
+<category>solid electrolyte</category>
+<category>ionic liquid</category>
+<category>NMR spectroscopy</category>
+<category>ion dynamics</category>
+<category>polymer matrix</category>
+</item>
+<item>
+<title>Bimetallic Copper–Cobalt Phosphide Nanoflowers on Ti3C2Tx MXene sheets for high-energy-density aqueous hybrid supercapacitors: Integrating DFT calculations with experimental validation</title>
+<link>https://doi.org/10.1039/d6ta05184g</link>
+<guid isPermaLink="false">10.1039/d6ta05184g</guid>
+<pubDate>Thu, 29 Oct 2026 17:01:47 GMT</pubDate>
+<description>نانوگل‌های فسفید مس-کبالت روی Ti3C2Tx MXene با DFT و آزمایش برای ابرخازن آبی هیبریدی با چگالی انرژی بالا بررسی شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bimetallic Cu–Co phosphide nanoflowers grown on Ti3C2Tx MXene sheets, combining DFT calculations with experimental validation. This synergy enhances electrochemical performance, enabling high-energy-density aqueous hybrid supercapacitors. The work advances MXene-based phosphide composites as efficient electrodes, offering a promising route for durable, high-power energy storage systems.&lt;br&gt;🏷 hybrid supercapacitor · Cu-Co phosphide · MXene · DFT · nanoflowers</description>
+<category>hybrid supercapacitor</category>
+<category>Cu-Co phosphide</category>
+<category>MXene</category>
+<category>DFT</category>
+<category>nanoflowers</category>
+</item>
+<item>
+<title>Intercalation of Iron Sulfide into Graphite for Highperformance Sodium Storage</title>
+<link>https://doi.org/10.1039/d6ta04988e</link>
+<guid isPermaLink="false">10.1039/d6ta04988e</guid>
+<pubDate>Thu, 29 Oct 2026 17:01:41 GMT</pubDate>
+<description>با میان‌لایه‌گذاری سولفید آهن در گرافیت، آند گرافیتی برای ذخیره‌سازی سدیم در باتری‌های یون‌سدیم عملکرد بالایی نشان داد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in intercalating iron sulfide into graphite to create a composite anode that overcomes graphite&amp;#x27;s poor sodium storage. This approach leverages graphite&amp;#x27;s stability with iron sulfide&amp;#x27;s high capacity, enabling high-performance sodium-ion batteries. Its significance is advancing low-cost, sustainable SIB anodes for grid-scale energy storage.&lt;br&gt;🏷 sodium-ion battery · graphite anode · iron sulfide · intercalation · sodium storage</description>
+<category>sodium-ion battery</category>
+<category>graphite anode</category>
+<category>iron sulfide</category>
+<category>intercalation</category>
+<category>sodium storage</category>
+</item>
 <item>
 <title>Balancing Fast Li-Ion Transport Kinetics and Mechanical Strength in PEO-Based Composite Solid Electrolytes through Minimal Dinitrile Incorporation</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03510</link>
@@ -1162,54 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>degradation trajectory</category>
 <category>selective network</category>
 <category>prognostics</category>
-</item>
-<item>
-<title>Breaking the Halide Concentration Reliance of Four‐Electron Zinc‐Iodine Batteries via Interfacial Halide Enrichment</title>
-<link>https://doi.org/10.1002/anie.6325809</link>
-<guid isPermaLink="false">10.1002/anie.6325809</guid>
-<pubDate>Tue, 27 Oct 2026 21:02:39 GMT</pubDate>
-<description>غنی‌سازی هالید در سطح مشترک با افزودن تنها 0.1 M نمک برمو-پیرولیدینیوم، تبدیل چهارالکترونی I-/I2/I+ را در باتری روی-ید بدون الکترولیت فوق‌متمرکز ممکن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using only 0.1 M bromo-pyrrolidinium salt to create an interfacial halide-rich microenvironment, enabling reversible I⁻/I₂/I⁺ conversion without hyper-concentrated electrolytes. This breaks the concentration reliance of four-electron Zn-I batteries, achieving 413.3 mAh g⁻¹ and 88.2% retention over 5000 cycles, establishing an interfacial enrichment paradigm for high-valence halogen chemistry.&lt;br&gt;🏷 zinc-iodine battery · halide enrichment · four-electron redox · aqueous electrolyte · bromo-pyrrolidinium</description>
-<category>zinc-iodine battery</category>
-<category>halide enrichment</category>
-<category>four-electron redox</category>
-<category>aqueous electrolyte</category>
-<category>bromo-pyrrolidinium</category>
-</item>
-<item>
-<title>Non‐Monotonical Ion Association Equilibria in Low‐Temperature Sodium–Metal Battery Electrolytes</title>
-<link>https://doi.org/10.1002/anie.7246806</link>
-<guid isPermaLink="false">10.1002/anie.7246806</guid>
-<pubDate>Tue, 27 Oct 2026 21:02:09 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که تعادل انجمن یونی در الکترولیت‌های باتری سدیم-فلز در دمای پایین غیریکنواست و الکترولیت رقیق می‌تواند تعادل حل‌پوشی مطلوب را برقرار کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electrophilicity/nucleophilicity descriptor quantifying solvent self-association via dipole–dipole interactions, revealing non-monotonical temperature-dependent Na+ solvation evolution and solvent-pair formation that drives ion aggregation. Significance: it challenges the lithium-battery paradigm favoring weakly solvating electrolytes, showing strengthened cation solvation is critical for Na batteries, and offers a dilute-electrolyte strategy to balance dissociated and associated species for improved low-temperature kinetics.&lt;br&gt;🏷 sodium-metal battery · low-temperature electrolyte · ion association · solvation equilibrium · dilute electrolyte</description>
-<category>sodium-metal battery</category>
-<category>low-temperature electrolyte</category>
-<category>ion association</category>
-<category>solvation equilibrium</category>
-<category>dilute electrolyte</category>
-</item>
-<item>
-<title>Tailoring Dual-Anion Participation via Steric-Tuned Coordination within Ether–Ester Co-Solvents for Gradient F/N-Enriched Interphase on Stable Micro-Si Anodes in High-Energy Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112532</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112532</guid>
-<pubDate>Tue, 27 Oct 2026 21:02:04 GMT</pubDate>
-<description>با تنظیم استریکی هماهنگی در حلال‌های مختلط اتر-استر، شرکت دو آنیون القا و لایه میانی غنی از F/N بر روی آند میکرو-Si برای باتری لیتیوم-یون پرانرژی ایجاد می‌شود.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 micro-silicon anode · lithium-ion battery · dual-anion interphase · ether-ester cosolvent · solvation structure</description>
-<category>micro-silicon anode</category>
-<category>lithium-ion battery</category>
-<category>dual-anion interphase</category>
-<category>ether-ester cosolvent</category>
-<category>solvation structure</category>
-</item>
-<item>
-<title>Molecular Modulation of Phenyl-Bridged Diphenanthroline Anodes toward Ultralong-Cycling Sodium–Organic Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105618</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105618</guid>
-<pubDate>Tue, 27 Oct 2026 19:02:04 GMT</pubDate>
-<description>این پژوهش با تنظیم مولکولی آندهای diphenanthroline پل‌دار فنیل، باتری سدیم-آلی با چرخه‌پذیری فوق‌طولانی ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-organic battery · diphenanthroline anode · phenyl bridge · molecular modulation · ultralong cycling</description>
-<category>sodium-organic battery</category>
-<category>diphenanthroline anode</category>
-<category>phenyl bridge</category>
-<category>molecular modulation</category>
-<category>ultralong cycling</category>
 </item>
 </channel>
 </rss>
