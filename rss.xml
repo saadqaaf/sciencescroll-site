@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:02:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 10:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanisms of enhanced ductility in cold spray additive manufacturing of copper</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103535</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103535</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:10 GMT</pubDate>
+<description>این مقاله سازوکارهای افزایش شکل‌پذیری مس در ساخت افزودنی با پاشش سرد را بررسی می‌کند و نقش ریزساختار و تغییرشکل را در بهبود نرمی نشان می‌دهد.&lt;br&gt;Materials Today | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cold spray · additive manufacturing · copper · ductility · microstructure</description>
+<category>cold spray</category>
+<category>additive manufacturing</category>
+<category>copper</category>
+<category>ductility</category>
+<category>microstructure</category>
+</item>
+<item>
+<title>Microstructure engineering of diamond via femtosecond laser machining</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103541</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103541</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:07 GMT</pubDate>
+<description>این مقاله مهندسی ریزساختار الماس را با ماشین‌کاری لیزری فمتوثانیه بررسی می‌کند و سازوکارهای تغییر ساختار و گرافیتی‌شدن ناشی از آن را روشن می‌سازد.&lt;br&gt;Materials Today | 🔬 Research Article&lt;br&gt;🏷 diamond · femtosecond laser · laser machining · microstructure engineering · graphitization</description>
+<category>diamond</category>
+<category>femtosecond laser</category>
+<category>laser machining</category>
+<category>microstructure engineering</category>
+<category>graphitization</category>
+</item>
 <item>
 <title>Bioinspired Artificial Cilia and Applications</title>
 <link>https://doi.org/10.1002/adma.75464</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 naphthalene diimide · ox
 <category>energy threshold</category>
 <category>triboelectric</category>
 <category>catalysis</category>
-</item>
-<item>
-<title>Engineering human brain microphysiological systems for alzheimer’s disease (AD) and chronic traumatic encephalopathy (CTE) modeling and drug testing: translational promise, limitations, and future directions</title>
-<link>https://doi.org/10.1016/j.addr.2026.115982</link>
-<guid isPermaLink="false">10.1016/j.addr.2026.115982</guid>
-<pubDate>Thu, 29 Oct 2026 02:01:14 GMT</pubDate>
-<description>این مقاله مروری به مهندسی سیستم‌های میکروفیزیولوژیک مغز انسان برای مدل‌سازی بیماری آلزایمر و آنسفالوپاتی تروماتیک مزمن و آزمون دارو می‌پردازد.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 brain microphysiological systems · Alzheimer&amp;#x27;s disease · chronic traumatic encephalopathy · drug testing · organ-on-chip</description>
-<category>brain microphysiological systems</category>
-<category>Alzheimer&#x27;s disease</category>
-<category>chronic traumatic encephalopathy</category>
-<category>drug testing</category>
-<category>organ-on-chip</category>
-</item>
-<item>
-<title>A 2.2 V Aqueous Redox Flow Battery Enabled by Passive pH Decoupling</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02731</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02731</guid>
-<pubDate>Thu, 29 Oct 2026 02:01:11 GMT</pubDate>
-<description>یک باتری جریان ردوکس آبی با اختلاف pH پسیو و ولتاژ مدار باز 2.2 ولت ارائه می‌شود که با الکترولیت‌های کروم-EDTA قلیایی و برمیدی اسیدی، بازده کولنی تا 99.5 درصد و چگالی توان 534 mW cm–2 نشان می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty is a non-hybrid aqueous flow cell achieving 2.2 V open-circuit potential by passively sustaining a ~7-unit pH gradient across a single cation-exchange membrane, without oxygen or bipolar-membrane recovery. Significance: earth-abundant chromium and bromide electrolytes enable cheap grid-scale storage, with 240 h cycling, up to 99.5% Coulombic efficiency, and 534 mW cm–2 peak power density.&lt;br&gt;🏷 aqueous redox flow battery · pH decoupling · chromium-EDTA negolyte · bromide posolyte · cation-exchange membrane</description>
-<category>aqueous redox flow battery</category>
-<category>pH decoupling</category>
-<category>chromium-EDTA negolyte</category>
-<category>bromide posolyte</category>
-<category>cation-exchange membrane</category>
 </item>
 </channel>
 </rss>
