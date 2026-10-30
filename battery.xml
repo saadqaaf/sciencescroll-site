@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 22:01:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 23:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Solvation confinement via local cationic coordination for high-voltage fluorinated polymer lithium-metal batteries</title>
+<link>https://doi.org/10.1039/d6ta06576g</link>
+<guid isPermaLink="false">10.1039/d6ta06576g</guid>
+<pubDate>Fri, 30 Oct 2026 23:01:17 GMT</pubDate>
+<description>محدودسازی حل‌پوشی از طریق هماهنگی کاتیونی محلی، پایداری ولتاژ بالای الکترولیت را در باتری‌های لیتیوم-فلز پلیمری فلورینه بهبود می‌دهد و سازگاری با کاتدهای 5.0 V را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using local cationic coordination to confine solvation, stabilizing electrolytes at high voltage. This enables fluorinated polymer gel electrolytes compatible with 5.0 V cathodes, addressing a key barrier to high-energy lithium-metal batteries. Significance: a simple coordination strategy extends electrolyte stability, supporting durable high-voltage polymer lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · fluorinated polymer · solvation confinement · cation coordination · high-voltage electrolyte</description>
+<category>lithium-metal battery</category>
+<category>fluorinated polymer</category>
+<category>solvation confinement</category>
+<category>cation coordination</category>
+<category>high-voltage electrolyte</category>
+</item>
+<item>
+<title>Crosslinked γ-polyglutamic acid gel polymer electrolyte for Hightemperature sodium metal battery with the high rate and long cycling</title>
+<link>https://doi.org/10.1039/d6ta06881b</link>
+<guid isPermaLink="false">10.1039/d6ta06881b</guid>
+<pubDate>Fri, 30 Oct 2026 23:01:11 GMT</pubDate>
+<description>الکترولیت ژل پلیمری شبکه‌ای بر پایه γ-polyglutamic acid برای باتری سدیم-فلز دمای بالا با نرخ بالا و چرخه‌پذیری طولانی طراحی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a crosslinked γ-polyglutamic acid gel polymer electrolyte that stabilizes the Na metal/electrolyte interface and suppresses dendrite growth at high temperatures. Its significance is enabling high-rate, long-cycling sodium metal batteries with improved safety and durability under thermal stress, advancing practical large-scale energy storage.&lt;br&gt;🏷 sodium metal battery · gel polymer electrolyte · polyglutamic acid · high temperature · dendrite suppression</description>
+<category>sodium metal battery</category>
+<category>gel polymer electrolyte</category>
+<category>polyglutamic acid</category>
+<category>high temperature</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Physical–chemical dual regulation of zinc deposition using a liquid crystal anode protectant for dendrite free aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1039/d6ta06863d</link>
+<guid isPermaLink="false">10.1039/d6ta06863d</guid>
+<pubDate>Fri, 30 Oct 2026 23:01:06 GMT</pubDate>
+<description>یک لایه محافظ بلور مایع با تنظیم دوگانه فیزیکی و شیمیایی، رسوب پایدار یون‌های روی را در باتری آبی یون-روی بدون دندریت فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The CFPB liquid crystal layer uniquely combines physical confinement with chemical regulation to stabilize zinc deposition, a dual mechanism rarely integrated in aqueous zinc-ion battery anodes. This approach suppresses dendrite formation, enhancing cycling stability and offering a promising, simple strategy for safer, longer-lasting aqueous batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · zinc dendrite · liquid crystal · anode protectant · zinc deposition</description>
+<category>aqueous zinc-ion battery</category>
+<category>zinc dendrite</category>
+<category>liquid crystal</category>
+<category>anode protectant</category>
+<category>zinc deposition</category>
+</item>
 <item>
 <title>Prussian blue analogue-derived CuFeS2/CuS biphasic heterostructure confined in N, S co-doped carbon as dual-functional anodes for sodium-ion full batteries and hybrid capacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125363</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>calendar aging</category>
 <category>corrosion</category>
 <category>solid-state battery</category>
-</item>
-<item>
-<title>Reconstruction of the local electrostatic force field enables ultrafast lithium-ion conduction in Li2ZrCl6</title>
-<link>https://doi.org/10.1016/j.esci.2026.100665</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100665</guid>
-<pubDate>Wed, 28 Oct 2026 22:01:38 GMT</pubDate>
-<description>این پژوهش با بازسازی میدان نیروی الکترواستاتیکی موضعی، رسانش فوق‌سریع یون لیتیوم را در الکترولیت جامد Li2ZrCl6 ممکن می‌سازد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Li2ZrCl6 · solid electrolyte · lithium-ion conduction · electrostatic force field · halide electrolyte</description>
-<category>Li2ZrCl6</category>
-<category>solid electrolyte</category>
-<category>lithium-ion conduction</category>
-<category>electrostatic force field</category>
-<category>halide electrolyte</category>
-</item>
-<item>
-<title>Design guidelines for body-conformable aqueous zinc-based batteries</title>
-<link>https://doi.org/10.1039/d6cs00347h</link>
-<guid isPermaLink="false">10.1039/d6cs00347h</guid>
-<pubDate>Wed, 28 Oct 2026 22:01:21 GMT</pubDate>
-<description>این مرور اصول طراحی، روش‌های چاپ، الکترودهای کشسان و شیمی کاتد را برای باتری‌های آبی روی سازگار با بدن در دستگاه‌های پزشکی ارائه می‌دهد.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;💡 This review is novel in consolidating design principles, printing methods, stretchable electrodes, structural strategies, and cathode chemistries specifically for body-conformable aqueous zinc-based batteries. Its significance lies in guiding the development of safe, flexible, biocompatible power sources for medical devices, bridging materials innovation and clinical application.&lt;br&gt;🏷 aqueous zinc battery · body-conformable · stretchable electrodes · printing methods · cathode chemistry</description>
-<category>aqueous zinc battery</category>
-<category>body-conformable</category>
-<category>stretchable electrodes</category>
-<category>printing methods</category>
-<category>cathode chemistry</category>
-</item>
-<item>
-<title>Toward bio-circular energy storage: Revalorization of food waste for gel polymer electrolytes in aqueous batteries</title>
-<link>https://doi.org/10.1039/d6ta05208h</link>
-<guid isPermaLink="false">10.1039/d6ta05208h</guid>
-<pubDate>Wed, 28 Oct 2026 21:01:54 GMT</pubDate>
-<description>الکترولیت‌های پلیمری ژلی زیست‌تخریب‌پذیر از ضایعات غذایی مانند تفاله قهوه برای باتری‌های آبی بازیافت و ارزش‌گذاری شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revalorizing spent coffee grounds and other food waste into biodegradable gel polymer electrolytes for aqueous batteries, turning waste streams into functional energy-storage materials. This advances bio-circular design by reducing reliance on synthetic, non-degradable electrolytes while addressing food-waste valorization, offering a sustainable pathway for greener battery technologies.&lt;br&gt;🏷 gel polymer electrolyte · food waste · aqueous battery · spent coffee grounds · biodegradable</description>
-<category>gel polymer electrolyte</category>
-<category>food waste</category>
-<category>aqueous battery</category>
-<category>spent coffee grounds</category>
-<category>biodegradable</category>
 </item>
 </channel>
 </rss>
