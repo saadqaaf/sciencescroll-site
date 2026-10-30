@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 08:01:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 09:03:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring intermolecular interactions in polyethylene oxide-based solid-state electrolytes for high-performance lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.033</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.033</guid>
+<pubDate>Fri, 30 Oct 2026 09:03:22 GMT</pubDate>
+<description>برهم‌کنش‌های بین‌مولکولی در الکترولیت جامد پلی‌اتیلن‌اکساید برای باتری لیتیوم-فلز تنظیم شد تا عملکرد الکترولیت و پایداری فصل مشترک بهبود یابد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 solid polymer electrolyte · polyethylene oxide · lithium metal battery · intermolecular interactions · ionic conductivity</description>
+<category>solid polymer electrolyte</category>
+<category>polyethylene oxide</category>
+<category>lithium metal battery</category>
+<category>intermolecular interactions</category>
+<category>ionic conductivity</category>
+</item>
+<item>
+<title>Deprotonation-enabled dynamic Zn-BTFA−-Na coordination in aqueous zinc-sodium hybrid batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.034</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.034</guid>
+<pubDate>Fri, 30 Oct 2026 09:03:18 GMT</pubDate>
+<description>هماهنگی دینامیکی Zn-BTFA−-Na ناشی از پروتون‌زدایی در باتری هیبریدی آبی روی-سدیم بررسی شد و نقش آن در بهبود رفتار الکتروشیمیایی نشان داده شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · Zn-BTFA coordination · sodium hybrid battery · deprotonation · dynamic coordination</description>
+<category>aqueous zinc battery</category>
+<category>Zn-BTFA coordination</category>
+<category>sodium hybrid battery</category>
+<category>deprotonation</category>
+<category>dynamic coordination</category>
+</item>
+<item>
+<title>Interweaving Two‐Dimensional Co‐Corrole‐Based Covalent Organic Framework for Significantly Improved Electrocatalytic Oxygen Reduction Reaction</title>
+<link>https://doi.org/10.1002/anie.9952515</link>
+<guid isPermaLink="false">10.1002/anie.9952515</guid>
+<pubDate>Fri, 30 Oct 2026 09:01:49 GMT</pubDate>
+<description>درهم‌بافی لایه‌های COF کبالت-کورول با ستون‌های مولکولی، دسترسی به سایت‌های فعال و انتقال جرم را بهبود داده و ORR و باتری Zn-air را تقویت کرد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interweaving 2D Co-corrole COF layers with bidentate molecular pillars (pyrazine, bipyridine) via axial Co–N coordination, expanding interlayer spacing from 4.2 Å to 6.4/10.3 Å. This boosts active-site accessibility and mass transport, markedly enhancing 4e⁻ ORR activity (half-wave potential up to 0.94 V) and durability. Significance: a pillar-interweaving strategy for high-performance COF electrocatalysts, demonstrated by a Zn-air battery outperforming Pt/Ru benchmarks.&lt;br&gt;🏷 covalent organic framework · cobalt corrole · oxygen reduction reaction · Zn-air battery · interlayer interweaving</description>
+<category>covalent organic framework</category>
+<category>cobalt corrole</category>
+<category>oxygen reduction reaction</category>
+<category>Zn-air battery</category>
+<category>interlayer interweaving</category>
+</item>
 <item>
 <title>Dielectric-engineered separator enables extreme fast charging of commercial Li-ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105622</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>porous carbon</category>
 <category>NiN4 sites</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Achieving Stable High‐Voltage All‐Solid‐State Lithium Batteries: Electrolytes, Interfaces, and Advanced Characterization</title>
-<link>https://doi.org/10.1002/smll.76310</link>
-<guid isPermaLink="false">10.1002/smll.76310</guid>
-<pubDate>Tue, 27 Oct 2026 22:03:53 GMT</pubDate>
-<description>مروری بر باتری‌های لیتیوم تمام‌جامد ولتاژ بالا شامل الکترولیت‌ها، تخریب‌های بین‌سطحی، راهبردهای اصلاح سطوح و روش‌های مشخصه‌یابی کمک‌شده با یادگیری ماشین.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely integrates fundamental degradation theories of high-voltage all-solid-state lithium batteries with a hierarchical design strategy spanning bulk electrolytes and both interfaces. It highlights machine learning-assisted characterization for revealing intrinsic mechanisms. Its significance lies in providing actionable design guidelines for stable, safe, high-energy-density batteries, bridging mechanistic understanding and practical electrolyte engineering.&lt;br&gt;🏷 all-solid-state lithium battery · high-voltage cathode · solid electrolyte · interface degradation · machine learning characterization</description>
-<category>all-solid-state lithium battery</category>
-<category>high-voltage cathode</category>
-<category>solid electrolyte</category>
-<category>interface degradation</category>
-<category>machine learning characterization</category>
-</item>
-<item>
-<title>Orchestrating Dynamic Ion Pairs via Co‐Solvent Engineering for High‐Voltage Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76362</link>
-<guid isPermaLink="false">10.1002/smll.76362</guid>
-<pubDate>Tue, 27 Oct 2026 22:03:32 GMT</pubDate>
-<description>مهندسی هم‌حلال برای ساخت جفت‌یون‌های دینامیکی در الکترولیت باتری سدیم-یون، تشکیل CEI غنی از مواد معدنی و پایداری بالا در ولتاژ بالا را ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in co-solvent engineering that creates dynamic ion pairs via a reversible ligand-exchange equilibrium, overcoming the SIP/CIP trade-off. This simultaneously enables an inorganic-rich CEI and fast anion migration. Significance: reduced desolvation energy, high anodic stability, and 91.77% capacity retention after 1000 high-voltage cycles, offering a universal electrolyte design principle for high-energy, long-life sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · co-solvent engineering · dynamic ion pairs · cathode-electrolyte interphase · high-voltage electrolyte</description>
-<category>sodium-ion battery</category>
-<category>co-solvent engineering</category>
-<category>dynamic ion pairs</category>
-<category>cathode-electrolyte interphase</category>
-<category>high-voltage electrolyte</category>
-</item>
-<item>
-<title>Internal Buffering–Interfacial Regulation Synergy Bridges Stability and Kinetics in Microsized Silicon–Carbon Anodes</title>
-<link>https://doi.org/10.1002/smll.76495</link>
-<guid isPermaLink="false">10.1002/smll.76495</guid>
-<pubDate>Tue, 27 Oct 2026 22:02:52 GMT</pubDate>
-<description>آند میکروسیلیکون-کربن با هتروساختار Mo2N/W2C و گرافن گل‌مانند، SEI معدنی پایدار و سد انتشار Li+ را کاهش داده و ظرفیت و پایداری چرخه‌ای بالا ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a structure–interface co-engineered Mo/W@Gr–Si microsphere integrating flower-like graphene with Mo₂N/W₂C heterostructures, enabling simultaneous Li⁺ adsorption/diffusion regulation. Its significance is bridging interfacial stability and transport kinetics via an inorganic-rich SEI, achieving 1821 mAh g⁻¹, 88.12% ICE, and stable full/pouch cells—a generalizable strategy for practical Si anodes.&lt;br&gt;🏷 silicon-carbon anode · lithium-ion battery · Mo2N/W2C heterostructure · SEI stabilization · Li+ diffusion</description>
-<category>silicon-carbon anode</category>
-<category>lithium-ion battery</category>
-<category>Mo2N/W2C heterostructure</category>
-<category>SEI stabilization</category>
-<category>Li+ diffusion</category>
 </item>
 </channel>
 </rss>
