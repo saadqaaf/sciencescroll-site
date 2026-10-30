@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 01:01:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 02:01:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Super-Toughness Self-Healing MOF-Based Composite Solid Electrolyte with Reaction-Transport Coupling Regulates Transportation of Ions and Polysulfides in High-Performance Solid-State Li–S Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04006</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04006</guid>
+<pubDate>Fri, 30 Oct 2026 02:01:11 GMT</pubDate>
+<description>الکترولیت جامد کامپوزیتی خودترمیم‌شونده بر پایه MOF با شبکه‌ی اتصال عرضی بورونیک استر، رسانایی یونی و مهار شاتل پلی‌سولفید را در باتری Li-S بهبود داد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining nanoconfinement polymerization with self-healing dynamic boronic ester cross-linking to create a MOF-based composite solid electrolyte. Its significance: simultaneously addresses polysulfide shuttling, sluggish ion transport, and dendrite growth, achieving high ionic conductivity, toughness, and 94.8% capacity retention at 4 mg cm⁻² sulfur loading—offering a new design pathway for high-energy solid-state Li–S batteries.&lt;br&gt;🏷 solid-state Li-S battery · composite solid electrolyte · self-healing · UiO-66 · polysulfide shuttle</description>
+<category>solid-state Li-S battery</category>
+<category>composite solid electrolyte</category>
+<category>self-healing</category>
+<category>UiO-66</category>
+<category>polysulfide shuttle</category>
+</item>
 <item>
 <title>CNT-interconnected porous carbon yolk-shell ZnSSe hosts with built-in lithiophilic alloy/heterointerfaces for durable lithium metal anodes</title>
 <link>https://doi.org/10.1016/j.jmst.2026.10.049</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Co spin state</category>
 <category>Li2S2 conversion</category>
 <category>polysulfide kinetics</category>
-</item>
-<item>
-<title>Ultralow thermal conductivity silica aerogels for thermal runaway propagation blocking in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.029</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.029</guid>
-<pubDate>Tue, 27 Oct 2026 21:05:01 GMT</pubDate>
-<description>آئروژل سیلیکا با رسانندگی گرمایی فوق‌العاده پایین برای مسدودسازی انتشار فرار حرارتی در باتری‌های لیتیوم-یون ارائه شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 silica aerogel · thermal runaway · thermal insulation · lithium-ion battery · ultralow thermal conductivity</description>
-<category>silica aerogel</category>
-<category>thermal runaway</category>
-<category>thermal insulation</category>
-<category>lithium-ion battery</category>
-<category>ultralow thermal conductivity</category>
 </item>
 </channel>
 </rss>
