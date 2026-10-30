@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 09:03:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 10:03:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toward Practical Zn‐Ion Batteries Through Separator/Electrolyte Co‐Design</title>
+<link>https://doi.org/10.1002/advs.78250</link>
+<guid isPermaLink="false">10.1002/advs.78250</guid>
+<pubDate>Fri, 30 Oct 2026 10:02:58 GMT</pubDate>
+<description>هم‌طراحی الکترولیت هیبریدی آلی-آبی و جداکننده PP نازک، آبکاری یکنواخت Zn و سرکوب HER را ممکن کرده و چگالی انرژی باتری‌های Zn-ion را افزایش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in co-designing a hybrid organic-aqueous electrolyte with thin polypropylene separators, overcoming the hydrophobicity that makes Li-ion separators incompatible with aqueous Zn-ion batteries. This enables uniform Zn plating, suppresses hydrogen evolution, and extends cycling to 4360 h. Replacing thick glass fiber separators boosts pouch cell energy density over 2.5-fold, offering a practical route to high-performance Zn-ion batteries.&lt;br&gt;🏷 Zn-ion battery · separator design · hybrid electrolyte · Zn plating · hydrogen evolution</description>
+<category>Zn-ion battery</category>
+<category>separator design</category>
+<category>hybrid electrolyte</category>
+<category>Zn plating</category>
+<category>hydrogen evolution</category>
+</item>
 <item>
 <title>Tailoring intermolecular interactions in polyethylene oxide-based solid-state electrolytes for high-performance lithium metal batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.033</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>EIS</category>
 <category>early detection</category>
 <category>temperature sensitivity</category>
-</item>
-<item>
-<title>Atomically dispersed NiN4 sites in hierarchically porous carbon boost zinc-ion hybrid capacitor performance</title>
-<link>https://doi.org/10.1016/j.est.2026.125351</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125351</guid>
-<pubDate>Tue, 27 Oct 2026 23:01:21 GMT</pubDate>
-<description>این مقاله سایت‌های اتمی پراکنده NiN4 را در کربن متخلخل سلسله‌مراتبی برای بهبود عملکرد خازن هیبریدی یون روی به کار می‌برد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion hybrid capacitor · single-atom Ni · porous carbon · NiN4 sites · energy storage</description>
-<category>zinc-ion hybrid capacitor</category>
-<category>single-atom Ni</category>
-<category>porous carbon</category>
-<category>NiN4 sites</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
