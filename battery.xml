@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 04:01:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fundamental Inhibition of Polyiodide Formation by a Site‐Separated Binder for Highly Stable Aqueous Zinc–Iodine Batteries</title>
+<link>https://doi.org/10.1002/adma.75534</link>
+<guid isPermaLink="false">10.1002/adma.75534</guid>
+<pubDate>Fri, 30 Oct 2026 05:01:18 GMT</pubDate>
+<description>یک بایندر پلیمری با جداسازی جایگاه‌های فعال، تشکیل پلی‌یدید را در باتری آبی Zn-I2 مهار کرده و ظرفیت و پایداری چرخه‌ای را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a site-separated polymer binder that selectively confines I₂ and I⁻ at distinct side-chain groups, chemically blocking polyiodide formation at its source. This enables direct I₂/I⁻ conversion, superior rate performance (102 mAh g⁻¹ at 50 A g⁻¹), and 97.1% retention over 31,000 cycles—significantly advancing stable aqueous Zn–I₂ battery cathodes.&lt;br&gt;🏷 zinc-iodine battery · polyiodide inhibition · site-separated binder · aqueous battery · cycle stability</description>
+<category>zinc-iodine battery</category>
+<category>polyiodide inhibition</category>
+<category>site-separated binder</category>
+<category>aqueous battery</category>
+<category>cycle stability</category>
+</item>
 <item>
 <title>Super-Toughness Self-Healing MOF-Based Composite Solid Electrolyte with Reaction-Transport Coupling Regulates Transportation of Ions and Polysulfides in High-Performance Solid-State Li–S Batteries</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04006</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Li+ conduction</category>
 <category>carbonyl engineering</category>
 <category>solid-state battery</category>
-</item>
-<item>
-<title>Modulating Co spin state in spinel MxCo3−xO4 enables precise spin-state matching with LiS intermediate to accelerate Li2S2-to-Li2S conversion kinetics</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.028</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.028</guid>
-<pubDate>Tue, 27 Oct 2026 21:05:08 GMT</pubDate>
-<description>با تنظیم حالت اسپین Co در اسپینل MxCo3−xO4، تطابق اسپین با واسطه LiS برای تسریع تبدیل Li2S2 به Li2S در باتری لیتیوم-گوگرد محقق شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-S battery · spinel oxide · Co spin state · Li2S2 conversion · polysulfide kinetics</description>
-<category>Li-S battery</category>
-<category>spinel oxide</category>
-<category>Co spin state</category>
-<category>Li2S2 conversion</category>
-<category>polysulfide kinetics</category>
 </item>
 </channel>
 </rss>
