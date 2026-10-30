@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 15:01:54 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 16:02:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Operando Mapping of Population Phase Separation and Lithium‐Plating Dynamics in Graphite Electrode Using Optical Microscopy and Microstructure Modeling</title>
+<link>https://doi.org/10.1002/aenm.71762</link>
+<guid isPermaLink="false">10.1002/aenm.71762</guid>
+<pubDate>Fri, 30 Oct 2026 16:01:57 GMT</pubDate>
+<description>این پژوهش با میکروسکوپی نوری عملیاتی و مدل‌سازی فاز-میدان ریزساختاری، برهم‌کنش جدایش فاز و پوشش لیتیوم در گرافیت را روشن می‌کند و سازوکار جدیدی مبتنی بر مقاومت اهمی میان‌سطحی شناسایی می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work uniquely links operando optical microscopy with 3D phase-field modeling to resolve coupled phase-separation and lithium-plating dynamics across particle populations and single particles. Its key novelty is identifying interfacial ohmic resistance as a distinct plating mechanism, plus using thermal activation to probe phase-pathway changes. Significance lies in guiding particle-size-distribution design and fast-charging protocols for graphite electrodes.&lt;br&gt;🏷 graphite anode · lithium plating · phase separation · operando microscopy · phase-field modeling</description>
+<category>graphite anode</category>
+<category>lithium plating</category>
+<category>phase separation</category>
+<category>operando microscopy</category>
+<category>phase-field modeling</category>
+</item>
+<item>
+<title>Diagnosing the Role of Mn Additives in Aqueous Zn/MnO 2 Batteries</title>
+<link>https://doi.org/10.1002/aenm.71765</link>
+<guid isPermaLink="false">10.1002/aenm.71765</guid>
+<pubDate>Fri, 30 Oct 2026 16:01:47 GMT</pubDate>
+<description>این مطالعه با طیف‌سنجی فلورسانس پرتو ایکس عملیاتی نشان می‌دهد افزودنی Mn2+ در باتری آبی Zn/MnO2 با تأمین Mn ردوکس‌فعال اضافی در شارژ، افت ظرفیت را جبران می‌کند نه صرفاً با مهار انحلال کاتد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Operando XRF tracking reveals that Mn²⁺ electrolyte additives improve cycling by supplying extra redox-active Mn during charge, not merely by suppressing cathode dissolution. Capacity fading stems from incomplete MnO₂ dissolution and incomplete Mn²⁺ redeposition, which additives do not mitigate. This underscores the need to directly track Mn²⁺ and address both dissolution and redeposition to improve reversibility.&lt;br&gt;🏷 aqueous zinc battery · MnO2 cathode · Mn additive · operando XRF · dissolution-redeposition</description>
+<category>aqueous zinc battery</category>
+<category>MnO2 cathode</category>
+<category>Mn additive</category>
+<category>operando XRF</category>
+<category>dissolution-redeposition</category>
+</item>
+<item>
+<title>Constructing an Adaptive Flexible Interphase on Halide Electrolytes by Lewis‐Acid‐Induced Polymerization for High‐Voltage All‐Solid‐State Lithium Batteries</title>
+<link>https://doi.org/10.1002/aenm.71780</link>
+<guid isPermaLink="false">10.1002/aenm.71780</guid>
+<pubDate>Fri, 30 Oct 2026 16:01:41 GMT</pubDate>
+<description>این کار با پلیمریزاسیون درجای اکریلونیتریل به‌واسطه اسید لوئیس، لایه میانی انعطاف‌پذیر سازگار روی Li3InCl6 می‌سازد و پایداری باتری تمام‌جامد لیتیومی ولتاژ بالا را تا هزاران چرخه افزایش می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Lewis-acid-induced in situ polymerization of acrylonitrile to create a nanoscale adaptive flexible interphase on halide electrolytes, simultaneously providing ionic conductivity, oxidation stability above 4.8 V, and viscoelasticity. This enables high-voltage all-solid-state batteries with ultrahigh-nickel cathodes to achieve 2000 cycles at 2 C and 9000 cycles at 10 C, offering a broadly applicable interfacial engineering strategy.&lt;br&gt;🏷 halide electrolyte · all-solid-state battery · flexible interphase · Lewis acid · in situ polymerization</description>
+<category>halide electrolyte</category>
+<category>all-solid-state battery</category>
+<category>flexible interphase</category>
+<category>Lewis acid</category>
+<category>in situ polymerization</category>
+</item>
+<item>
+<title>Locally Competitive Coordination Electrolyte for High‐Voltage Lithium‐Metal Batteries With Ni‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/aenm.71779</link>
+<guid isPermaLink="false">10.1002/aenm.71779</guid>
+<pubDate>Fri, 30 Oct 2026 16:01:34 GMT</pubDate>
+<description>این پژوهش با طراحی الکترولیت هم‌آرایی رقابتی شامل حلال نیتریل، هم‌حلال اتری و دو نمک بورات، پایداری باتری‌های لیتیوم-فلزی با کاتد غنی از نیکل را در ولتاژ بالا بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a locally competitive coordination electrolyte using a nitrile primary solvent with ether co-solvent, diluent, and two borate salts, forcing preferential anion decomposition into the SEI. This suppresses parasitic reactions and transition metal shuttling, enabling high-voltage, lean-electrolyte, thin-Li cells with 80% retention over 250 cycles and Ah-level anode-free pouch cells retaining 78.7% over 100 cycles—significant for practical high-energy Li-metal batteries.&lt;br&gt;🏷 lithium-metal battery · Ni-rich cathode · electrolyte design · borate salts · solid electrolyte interphase</description>
+<category>lithium-metal battery</category>
+<category>Ni-rich cathode</category>
+<category>electrolyte design</category>
+<category>borate salts</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Fundamental Design Principles and Engineering Strategies of Liquid‐Phase Electrolytes for Highly Durable Rechargeable Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adma.75533</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>all-solid-state battery</category>
 <category>mechanical reconstruction</category>
 <category>sulfide electrolyte</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Copper Surface Engineering Enables Uniform Zn Plating in Zn Batteries at Unity N/P Ratio</title>
-<link>https://doi.org/10.1002/adma.75514</link>
-<guid isPermaLink="false">10.1002/adma.75514</guid>
-<pubDate>Wed, 28 Oct 2026 13:02:29 GMT</pubDate>
-<description>بازسازی سطحی مس با γ-CuCl و آزادسازی Cl− آبکاری یکنواخت Zn را در نسبت N/P برابر ۱ ممکن کرده و پایداری و ظرفیت حجمی بالایی در Zn//MnO2 فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Chemically etching Cu to form a sacrificial γ-CuCl interface creates micro-textured Cu with higher surface area; on reduction it releases Cl⁻ that tunes Zn²⁺ adsorption and suppresses hydrogen evolution. This synergy enables stable Zn plating at N/P = 1.0, with Zn//Cu cycling for 1654 h and Zn//MnO₂ cells reaching 53.5 mAh cm⁻³ and 70% retention over 500 cycles at 80 mA cm⁻²—a benchmark for material-limited Zn reversibility.&lt;br&gt;🏷 zinc battery · copper current collector · Zn plating · chloride mediation · N/P ratio</description>
-<category>zinc battery</category>
-<category>copper current collector</category>
-<category>Zn plating</category>
-<category>chloride mediation</category>
-<category>N/P ratio</category>
-</item>
-<item>
-<title>Intermetallic Anodes Unlock Bulk Aluminum Incorporation in Aqueous Batteries</title>
-<link>https://doi.org/10.1002/adma.75501</link>
-<guid isPermaLink="false">10.1002/adma.75501</guid>
-<pubDate>Wed, 28 Oct 2026 13:02:05 GMT</pubDate>
-<description>آند بین‌فلزی Ni-Al با آلیاژسازی الکتروشیمیایی، ورود حجمی Al را در باتری آبی آلومینیوم ممکن کرده و پایداری چرخه‌ای طولانی و کاهش قطبش را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an intermetallic Ni–Al anode enabling bulk Al incorporation via electrochemically driven alloying, overcoming surface-limited deposition and passivation. Its significance: markedly reduced charge-transfer resistance and polarization, 98.6% capacity retention after 6000 h, 4000 cycles at 3 mA cm⁻², and a working pouch cell—establishing intermetallic anodes as a practical platform for aqueous aluminum batteries.&lt;br&gt;🏷 aqueous aluminum battery · intermetallic anode · Ni-Al alloying · potassium nickel hexacyanoferrate · DFT</description>
-<category>aqueous aluminum battery</category>
-<category>intermetallic anode</category>
-<category>Ni-Al alloying</category>
-<category>potassium nickel hexacyanoferrate</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Coordination-Induced Fluorescence Red Shift of Carbon Dots Regulates Interfacial Chemistry for Ultra-Stable and Low-Temperature Adaptive Zinc-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ee05408k</link>
-<guid isPermaLink="false">10.1039/d6ee05408k</guid>
-<pubDate>Wed, 28 Oct 2026 13:01:50 GMT</pubDate>
-<description>جابه‌جایی قرمز فلورسانس نقاط کربنی ناشی از کوئوردیناسیون، شیمی سطح مشترک آند Zn را تنظیم کرده و باتری روی-یون پایدار و کم‌دما را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using coordination-induced fluorescence red shift of carbon dots as a design principle to tune interfacial chemistry on Zn anodes. This enables dendrite suppression and side-reaction control, yielding ultra-stable, low-temperature-adaptive aqueous zinc-ion batteries—advancing safe, low-cost energy storage.&lt;br&gt;🏷 zinc-ion battery · carbon dots · Zn anode · interfacial chemistry · low-temperature</description>
-<category>zinc-ion battery</category>
-<category>carbon dots</category>
-<category>Zn anode</category>
-<category>interfacial chemistry</category>
-<category>low-temperature</category>
-</item>
-<item>
-<title>Copper-Organic Frameworks Composite Polyether Electrolyte with Valence-Responsive Electronic Modulation toward High-Performance Solid-State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ee06404c</link>
-<guid isPermaLink="false">10.1039/d6ee06404c</guid>
-<pubDate>Wed, 28 Oct 2026 13:01:44 GMT</pubDate>
-<description>یک الکترولیت کامپوزیت پلی‌اتر حاوی چارچوب مس-آلی با تنظیم الکترونی والانس‌پاسخ‌گو برای سرکوب دندریت و بهبود باتری لیتیوم-فلز حالت جامد ارائه می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a redox-active copper-covalent organic framework into PDOL electrolyte, enabling valence-responsive electronic modulation. This addresses PDOL&amp;#x27;s narrow electrochemical window and lithium dendrite growth, offering a promising route to high-performance solid-state lithium metal batteries with improved stability and energy density.&lt;br&gt;🏷 solid-state electrolyte · lithium metal battery · copper-organic framework · PDOL · dendrite suppression</description>
-<category>solid-state electrolyte</category>
-<category>lithium metal battery</category>
-<category>copper-organic framework</category>
-<category>PDOL</category>
 <category>dendrite suppression</category>
 </item>
 </channel>
