@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 03:03:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 04:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Recent advances in post-combustion CaO-based CO2 capture and thermochemical energy storage through calcium looping process; the state-of-the-art and prospective for practicability</title>
+<link>https://doi.org/10.1016/j.pecs.2026.101312</link>
+<guid isPermaLink="false">10.1016/j.pecs.2026.101312</guid>
+<pubDate>Fri, 30 Oct 2026 04:01:10 GMT</pubDate>
+<description>این مقاله پیشرفت‌های اخیر در جذب CO2 پس از احتراق و ذخیره‌سازی انرژی گرماشیمیایی با سوربنت‌های CaO در فرآیند کلسیم‌لوپینگ و چشم‌انداز کاربردی‌شدن آن را مرور می‌کند.&lt;br&gt;Progress in Energy and Combustion Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 calcium looping · CaO sorbent · CO2 capture · thermochemical energy storage · post-combustion</description>
+<category>calcium looping</category>
+<category>CaO sorbent</category>
+<category>CO2 capture</category>
+<category>thermochemical energy storage</category>
+<category>post-combustion</category>
+</item>
 <item>
 <title>A Martian meteorite that formed ≳4.1 billion years ago samples Mars’ early crust and mantle</title>
 <link>https://doi.org/10.1126/science.adz5646</link>
@@ -1208,18 +1220,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methylamine oxidation · 
 <category>physical unclonable function</category>
 <category>low-frequency noise</category>
 <category>hardware security</category>
-</item>
-<item>
-<title>Atomically Sharp but Three‐Dimensionally Rough Ferroelectric Domain Walls in BiFeO 3 Nano‐islands</title>
-<link>https://doi.org/10.1002/adfm.79356</link>
-<guid isPermaLink="false">10.1002/adfm.79356</guid>
-<pubDate>Thu, 29 Oct 2026 22:01:47 GMT</pubDate>
-<description>پتایکوگرافی الکترونی چندلایه نشان می‌دهد دیواره‌های دامنه فروالکتریک در نانوجزیره‌های BiFeO3 با وجود تیزی اتمی، ریخت‌شناسی سه‌بعدی نامنظم دارند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 ferroelectric domain wall · BiFeO3 · electron ptychography · 3D morphology · strain gradient</description>
-<category>ferroelectric domain wall</category>
-<category>BiFeO3</category>
-<category>electron ptychography</category>
-<category>3D morphology</category>
-<category>strain gradient</category>
 </item>
 </channel>
 </rss>
