@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 06:01:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 07:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dielectric-engineered separator enables extreme fast charging of commercial Li-ion batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105622</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105622</guid>
+<pubDate>Fri, 30 Oct 2026 07:01:14 GMT</pubDate>
+<description>با مهندسی دی‌الکتریک جداکننده، شارژ فوق‌سریع باتری‌های تجاری Li-ion امکان‌پذیر شد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Li-ion battery · separator · dielectric engineering · fast charging · commercial cells</description>
+<category>Li-ion battery</category>
+<category>separator</category>
+<category>dielectric engineering</category>
+<category>fast charging</category>
+<category>commercial cells</category>
+</item>
+<item>
+<title>Reactive Mixed-Bed Coupling of CO2 Activation, Chain Growth, and Olefin Hydrogenation for Paraffin-Rich Aviation-Fuel-Range Hydrocarbons</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127713</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127713</guid>
+<pubDate>Fri, 30 Oct 2026 07:01:09 GMT</pubDate>
+<description>با کوپل واکنش‌های فعال‌سازی CO2، رشد زنجیره و هیدروژناسیون الفین در بستر مختلط، هیدروکربن‌های غنی از پارافین در محدوده سوخت هوایی تولید شد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 hydrogenation · mixed-bed catalyst · aviation fuel · chain growth · olefin hydrogenation</description>
+<category>CO2 hydrogenation</category>
+<category>mixed-bed catalyst</category>
+<category>aviation fuel</category>
+<category>chain growth</category>
+<category>olefin hydrogenation</category>
+</item>
 <item>
 <title>Aggregation-induced emission materials in plant science: molecular design, sensing, imaging, and physiological regulation</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218701</link>
@@ -1196,30 +1220,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methylamine oxidation · 
 <category>organic electrode</category>
 <category>wearable devices</category>
 <category>intrinsically stretchable</category>
-</item>
-<item>
-<title>Predictive Design Principles for Plasma-Catalysis</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02711</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02711</guid>
-<pubDate>Thu, 29 Oct 2026 22:02:10 GMT</pubDate>
-<description>این مقاله دیدگاهی چارچوبی کمی برای طراحی پلاسما-کاتالیز ارائه می‌دهد که برهم‌کنش برانگیختگی غیرتعادلی، انرژی پیوند سطحی و دما را به نرخ واکنش و پایداری کاتالیزور مرتبط می‌کند.&lt;br&gt;ACS Energy Letters | 💭 Perspective&lt;br&gt;🏷 plasma-catalysis · nonequilibrium excitation · surface energetics · kinetic regimes · reactor design</description>
-<category>plasma-catalysis</category>
-<category>nonequilibrium excitation</category>
-<category>surface energetics</category>
-<category>kinetic regimes</category>
-<category>reactor design</category>
-</item>
-<item>
-<title>Breaking the Limits of Piezo‐Photocatalysis: Pd‐O d‐p Orbital Hybridization Mediated Charge Reconstruction and Polarization Enhancement</title>
-<link>https://doi.org/10.1002/adfm.79377</link>
-<guid isPermaLink="false">10.1002/adfm.79377</guid>
-<pubDate>Thu, 29 Oct 2026 22:02:07 GMT</pubDate>
-<description>با هیبریداسیون اوربیتالی Pd 4d–O 2p در Zn3In2S6 آلایش‌یافته با Pd، جداسازی بار و پاسخ پیزوالکتریک تقویت شد و تخریب کامل 2,4-DCP همراه با تولید H2O2 به‌دست آمد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 piezo-photocatalysis · orbital hybridization · Zn3In2S6 · Pd doping · H2O2 production</description>
-<category>piezo-photocatalysis</category>
-<category>orbital hybridization</category>
-<category>Zn3In2S6</category>
-<category>Pd doping</category>
-<category>H2O2 production</category>
 </item>
 </channel>
 </rss>
