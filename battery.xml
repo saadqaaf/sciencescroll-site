@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 23:03:22 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 00:02:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>CNT-interconnected porous carbon yolk-shell ZnSSe hosts with built-in lithiophilic alloy/heterointerfaces for durable lithium metal anodes</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.049</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.049</guid>
+<pubDate>Fri, 30 Oct 2026 00:01:22 GMT</pubDate>
+<description>میزبان‌های ZnSSe با ساختار پوسته-هسته متخلخل و اتصال CNT با فصل‌مشترک‌های لیتوفیلیک برای آند لیتیوم فلزی پایدار ساخته شدند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · ZnSSe host · yolk-shell carbon · lithiophilic interface · CNT network</description>
+<category>lithium metal anode</category>
+<category>ZnSSe host</category>
+<category>yolk-shell carbon</category>
+<category>lithiophilic interface</category>
+<category>CNT network</category>
+</item>
 <item>
 <title>Sulfur-Induced Lattice Disordering in Halide Electrolytes Enables Superionic Sodium-Ion Conduction</title>
 <link>https://doi.org/10.1021/acsnano.6c11189</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>thermal insulation</category>
 <category>lithium-ion battery</category>
 <category>ultralow thermal conductivity</category>
-</item>
-<item>
-<title>An amorphous hafnium-doped LaCl3-type electrolyte enabling superionic interfacial conduction</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.027</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.027</guid>
-<pubDate>Tue, 27 Oct 2026 21:04:57 GMT</pubDate>
-<description>الکترولیت آمورف نوع LaCl3 دوپ‌شده با hafnium با هدایت یونی ابریونی و انتقال یون در فصل مشترک برای کاربردهای باتری معرفی شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 solid electrolyte · hafnium doping · LaCl3-type · superionic conduction · interfacial conduction</description>
-<category>solid electrolyte</category>
-<category>hafnium doping</category>
-<category>LaCl3-type</category>
-<category>superionic conduction</category>
-<category>interfacial conduction</category>
 </item>
 </channel>
 </rss>
