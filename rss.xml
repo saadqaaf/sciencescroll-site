@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 11:02:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 12:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamic Charge Gradients from Interfacial Electron Transfer Enable Self-Powered Gate-Controlled All-Metal-Nanoparticle Neuromorphic Systems</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04269</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04269</guid>
+<pubDate>Fri, 30 Oct 2026 12:01:07 GMT</pubDate>
+<description>فیلم نانوذرات فلزی با گرادیان رطوبت نامتقارن از انتقال الکترون بین‌سطحی برق تولید می‌کند و ترانزیستور عصبی خودتوان را برای سیستم نورومورفیک کنترل‌شده با گیت تغذیه می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 moisture energy harvesting · interfacial electron transfer · metal nanoparticles · neuromorphic transistor · self-powered gate</description>
+<category>moisture energy harvesting</category>
+<category>interfacial electron transfer</category>
+<category>metal nanoparticles</category>
+<category>neuromorphic transistor</category>
+<category>self-powered gate</category>
+</item>
+<item>
+<title>A Multicolor Electrochromic Device Enabled by Shared-Zn Energy Routing for Self-Powered Wearable Displays</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04676</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04676</guid>
+<pubDate>Fri, 30 Oct 2026 12:01:03 GMT</pubDate>
+<description>دستگاه الکتروکرومیک چندرنگ با مسیریابی انرژی Zn مشترک ساخته شد که رنگ‌آمیزی خودبه‌خودی و سفیدشدگی با نیروی داخلی را در کمتر از ۱۰ ثانیه و بیش از ۵۰۰ چرخه ممکن می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a shared-Zn energy routing architecture: a Zn mesh couples a W/WO3 display electrode with a MnO2 storage electrode, enabling self-driven coloration and internally powered bleaching. An optical cavity decouples color from storage chemistry. Significance: this compact design integrates display refreshing, optical memory, and energy output, advancing self-powered wearable displays with sensing capability.&lt;br&gt;🏷 electrochromic device · Zn energy routing · WO3 · self-powered display · wearable sensor</description>
+<category>electrochromic device</category>
+<category>Zn energy routing</category>
+<category>WO3</category>
+<category>self-powered display</category>
+<category>wearable sensor</category>
+</item>
 <item>
 <title>Understanding the mechanical behavior and fracture mechanism of multi–layered Li–ion battery pouch film through constituent–level characterization</title>
 <link>https://doi.org/10.1016/j.est.2026.125369</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 medium-entropy carbides �
 <category>songbirds</category>
 <category>conservation genomics</category>
 <category>habitat fragmentation</category>
-</item>
-<item>
-<title>Whole-body single-cell atlas of an adult vertebrate, Danionella cerebrum</title>
-<link>https://doi.org/10.1126/science.aeg1125</link>
-<guid isPermaLink="false">10.1126/science.aeg1125</guid>
-<pubDate>Fri, 30 Oct 2026 03:02:26 GMT</pubDate>
-<description>اطلس تک‌سلولی کل بدن ماهی Danionella cerebrum با توالی‌یابی RNA و ترانسکریپتومیک فضایی، انواع سلولی، حافظه موقعیت و برنامه‌های بازسازی تلانسفالون را مشخص می‌کند.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 Danionella cerebrum · single-cell atlas · spatial transcriptomics · cell types · telencephalon regeneration</description>
-<category>Danionella cerebrum</category>
-<category>single-cell atlas</category>
-<category>spatial transcriptomics</category>
-<category>cell types</category>
-<category>telencephalon regeneration</category>
-</item>
-<item>
-<title>Fats that think?</title>
-<link>https://doi.org/10.1126/science.ael6217</link>
-<guid isPermaLink="false">10.1126/science.ael6217</guid>
-<pubDate>Fri, 30 Oct 2026 03:02:23 GMT</pubDate>
-<description>این مقاله دیدگاهی بیان می‌کند که لیپیدها تنها بلوک‌های سازنده سلول‌های مغزی نیستند بلکه نقش محوری در تنوع و سازمان‌یابی سلولی دارند.&lt;br&gt;Science | 💭 Perspective&lt;br&gt;🏷 lipids · brain cells · cell diversity · cell organization · neurodevelopment</description>
-<category>lipids</category>
-<category>brain cells</category>
-<category>cell diversity</category>
-<category>cell organization</category>
-<category>neurodevelopment</category>
 </item>
 </channel>
 </rss>
