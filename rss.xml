@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 07:01:16 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Superelastic Xylan‐Stabilized Liquid Metal Aerogel for Wearable Energy Harvesting and Personal Thermal Management</title>
+<link>https://doi.org/10.1002/adfm.79410</link>
+<guid isPermaLink="false">10.1002/adfm.79410</guid>
+<pubDate>Fri, 30 Oct 2026 08:01:22 GMT</pubDate>
+<description>آئروژل فوق‌کشسان پایدارشده با زایلان کربوکسی‌متیل و گالیم مایع با ساختار حباب سوراخ‌دار، هم برداشت انرژی تریبوالکتریک (۱۱۲ ولت) و هم عایق‌کاری حرارتی را فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 liquid metal aerogel · triboelectric nanogenerator · carboxymethyl xylan · thermal insulation · wearable energy harvesting</description>
+<category>liquid metal aerogel</category>
+<category>triboelectric nanogenerator</category>
+<category>carboxymethyl xylan</category>
+<category>thermal insulation</category>
+<category>wearable energy harvesting</category>
+</item>
+<item>
+<title>Interfacial Hydrophilization‐Assisted Buried‐Interface Reconstruction for Efficient Inverted Perovskite Solar Cells</title>
+<link>https://doi.org/10.1002/adfm.79383</link>
+<guid isPermaLink="false">10.1002/adfm.79383</guid>
+<pubDate>Fri, 30 Oct 2026 08:01:18 GMT</pubDate>
+<description>با اصلاح سطحی SAM با مولکول‌های فسفونیک اسید فلوئوردار، بازسازی فصل مشترک مدفون و راندمان ۲۶.۵۳٪ در سلول خورشیدی پروسکایتی معکوس حاصل شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · self-assembled monolayer · buried interface · hole transport · surface hydrophilization</description>
+<category>perovskite solar cells</category>
+<category>self-assembled monolayer</category>
+<category>buried interface</category>
+<category>hole transport</category>
+<category>surface hydrophilization</category>
+</item>
 <item>
 <title>Dielectric-engineered separator enables extreme fast charging of commercial Li-ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105622</link>
@@ -1196,30 +1220,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methylamine oxidation · 
 <category>piezoelectricity</category>
 <category>nitric oxide</category>
 <category>nerve repair</category>
-</item>
-<item>
-<title>Fracture-mediated percolation governs electrical activation in liquid metal composite conductors</title>
-<link>https://doi.org/10.1016/j.matt.2026.103089</link>
-<guid isPermaLink="false">10.1016/j.matt.2026.103089</guid>
-<pubDate>Thu, 29 Oct 2026 23:01:32 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که شکست‌های مکانیکی و پدیده پرکولیشن، فعال‌سازی الکتریکی را در رساناهای کامپوزیتی فلز مایع کنترل می‌کنند.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 liquid metal composite · percolation · fracture · electrical activation · stretchable conductor</description>
-<category>liquid metal composite</category>
-<category>percolation</category>
-<category>fracture</category>
-<category>electrical activation</category>
-<category>stretchable conductor</category>
-</item>
-<item>
-<title>An intrinsically stretchable thin-film organic rechargeable sodium-ion battery enabled for wearable devices</title>
-<link>https://doi.org/10.1016/j.matt.2026.103069</link>
-<guid isPermaLink="false">10.1016/j.matt.2026.103069</guid>
-<pubDate>Thu, 29 Oct 2026 23:01:29 GMT</pubDate>
-<description>یک باتری یون-سدیم آلی و کشسان ذاتی به شکل لایه نازک ساخته شده که برای تغذیه دستگاه‌های پوشیدنی مناسب است.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · stretchable thin-film · organic electrode · wearable devices · intrinsically stretchable</description>
-<category>sodium-ion battery</category>
-<category>stretchable thin-film</category>
-<category>organic electrode</category>
-<category>wearable devices</category>
-<category>intrinsically stretchable</category>
 </item>
 </channel>
 </rss>
