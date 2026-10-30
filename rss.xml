@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 05:01:20 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 06:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Aggregation-induced emission materials in plant science: molecular design, sensing, imaging, and physiological regulation</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218701</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218701</guid>
+<pubDate>Fri, 30 Oct 2026 06:01:08 GMT</pubDate>
+<description>این مقاله مروری به طراحی مولکولی، حسگری، تصویربرداری و تنظیم فیزیولوژیکی مواد با گسیل القایی تجمعی (AIE) در علوم گیاهی می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aggregation-induced emission · plant science · fluorescence imaging · biosensing · physiological regulation</description>
+<category>aggregation-induced emission</category>
+<category>plant science</category>
+<category>fluorescence imaging</category>
+<category>biosensing</category>
+<category>physiological regulation</category>
+</item>
 <item>
 <title>Fundamental Inhibition of Polyiodide Formation by a Site‐Separated Binder for Highly Stable Aqueous Zinc–Iodine Batteries</title>
 <link>https://doi.org/10.1002/adma.75534</link>
@@ -1208,18 +1220,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methylamine oxidation · 
 <category>Zn3In2S6</category>
 <category>Pd doping</category>
 <category>H2O2 production</category>
-</item>
-<item>
-<title>Guiding Morphology Evolution via Solid‐State Relaxation for Highly Reproducible and Robust Organic Photovoltaics</title>
-<link>https://doi.org/10.1002/adfm.79386</link>
-<guid isPermaLink="false">10.1002/adfm.79386</guid>
-<pubDate>Thu, 29 Oct 2026 22:02:04 GMT</pubDate>
-<description>نشان داده شد که تکامل مورفولوژی تحت واپاشی حالت جامد به همگرایی ریخت‌شناسی و بازتولیدپذیری بالای سلول‌های خورشیدی آلی می‌انجامد و بازده ۱۹٫۵۹٪ با CV پایین حاصل شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 organic photovoltaics · morphology evolution · solid-state relaxation · reproducibility · additive engineering</description>
-<category>organic photovoltaics</category>
-<category>morphology evolution</category>
-<category>solid-state relaxation</category>
-<category>reproducibility</category>
-<category>additive engineering</category>
 </item>
 </channel>
 </rss>
