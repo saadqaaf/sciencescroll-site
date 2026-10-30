@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 16:02:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 17:02:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Defect inheritance upgrading of spent LiMn2O4 to disordered rock-salt cathodes: stabilized oxygen redox enabled by regulating electron localization</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.069</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.069</guid>
+<pubDate>Fri, 30 Oct 2026 17:01:43 GMT</pubDate>
+<description>ارتقای سلول‌های مستعمل LiMn2O4 به کاتدهای rock-salt بی‌نظم با تنظیم جایگزیدگی الکترون، اکسایش-کاهش اکسیژن پایدار را ممکن می‌سازد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 LiMn2O4 upcycling · disordered rock-salt · oxygen redox · electron localization · spent cathodes</description>
+<category>LiMn2O4 upcycling</category>
+<category>disordered rock-salt</category>
+<category>oxygen redox</category>
+<category>electron localization</category>
+<category>spent cathodes</category>
+</item>
+<item>
+<title>Reconstruction-tunable upcycling of spent LiFePO4 cathodes for oxygen evolution electrocatalysis: from defect legacy to operating active interfaces</title>
+<link>https://doi.org/10.1007/s42114-026-02169-9</link>
+<guid isPermaLink="false">10.1007/s42114-026-02169-9</guid>
+<pubDate>Fri, 30 Oct 2026 17:01:31 GMT</pubDate>
+<description>بازیافت سلول‌های مستعمل LiFePO4 با بازسازی نقص‌ها به کاتالیزور مؤثر واکنش آزادسازی اکسیژن تبدیل می‌شود و رابط‌های فعال عملیاتی ایجاد می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LiFePO4 upcycling · oxygen evolution · defect reconstruction · electrocatalysis · spent cathodes</description>
+<category>LiFePO4 upcycling</category>
+<category>oxygen evolution</category>
+<category>defect reconstruction</category>
+<category>electrocatalysis</category>
+<category>spent cathodes</category>
+</item>
 <item>
 <title>Operando Mapping of Population Phase Separation and Lithium‐Plating Dynamics in Graphite Electrode Using Optical Microscopy and Microstructure Modeling</title>
 <link>https://doi.org/10.1002/aenm.71762</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>porous liquid electrolyte</category>
 <category>MOF UiO-66</category>
 <category>high-temperature electrolyte</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Grapevine-structured porous host for high-energy, long-life all-solid-state selenium batteries</title>
-<link>https://doi.org/10.1016/j.mser.2026.101324</link>
-<guid isPermaLink="false">10.1016/j.mser.2026.101324</guid>
-<pubDate>Wed, 28 Oct 2026 13:02:51 GMT</pubDate>
-<description>یک میزبان متخلخل با ساختار درخت‌مو مانند برای سلنیوم، باتری تمام‌جامد سلنیومی با انرژی بالا و عمر چرخه طولانی را ممکن می‌سازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 selenium battery · all-solid-state · porous host · grapevine structure · long cycle life</description>
-<category>selenium battery</category>
-<category>all-solid-state</category>
-<category>porous host</category>
-<category>grapevine structure</category>
-<category>long cycle life</category>
-</item>
-<item>
-<title>Mechanically‐Driven Reconstruction of Lithium Metal for Stable All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/adma.75548</link>
-<guid isPermaLink="false">10.1002/adma.75548</guid>
-<pubDate>Wed, 28 Oct 2026 13:02:35 GMT</pubDate>
-<description>بازسازی مکانیکی لیتیوم تجاری با تاشو و غلتک‌زنی بافت و سطح آن را اصلاح کرده و رشد دندریت را در باتری تمام‌جامد سولفیدی سرکوب می‌کند و چرخه‌پذیری طولانی را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Mechanical reconstruction via repeated folding/rolling transforms commercial Li from surface to bulk, creating an oxide-passivated surface and strong Li(200) texture. High-degree reconstruction homogenizes texture, synchronizes interfacial Li motion, suppresses voids and dendrites. This enables 79.3% retention after 1000 cycles, 7.4 mAh cm⁻² operation, and stable cycling below 0.5 MPa—a direct materials-level strategy for sulfide ASSBs.&lt;br&gt;🏷 lithium metal anode · all-solid-state battery · mechanical reconstruction · sulfide electrolyte · dendrite suppression</description>
-<category>lithium metal anode</category>
-<category>all-solid-state battery</category>
-<category>mechanical reconstruction</category>
-<category>sulfide electrolyte</category>
 <category>dendrite suppression</category>
 </item>
 </channel>
