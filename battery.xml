@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 12:01:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 13:02:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>One-minute frequency disturbances from unintended synchronization in cyber–physical power systems</title>
+<link>https://doi.org/10.1038/s41560-026-02144-0</link>
+<guid isPermaLink="false">10.1038/s41560-026-02144-0</guid>
+<pubDate>Fri, 30 Oct 2026 13:02:01 GMT</pubDate>
+<description>همگام‌سازی ناخواسته نرم‌افزار کنترل در UPSها و سیستم‌های ذخیره انرژی باتری، نوسان ۱ دقیقه‌ای فرکانس شبکه را ایجاد می‌کند.&lt;br&gt;Nature Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in identifying clock-synchronized control software in digital energy devices (UPSs, battery storage) as the previously unexplained source of persistent 1-min grid-frequency oscillations, revealing a subtle cyber–physical coupling. Its significance: these oscillations are growing, causing hydropower wear and tighter frequency-control rules, and may amplify with expanding batteries, data centres and IoT—highlighting the need for better control design.&lt;br&gt;🏷 grid frequency · battery storage · cyber-physical systems · UPS · power oscillations</description>
+<category>grid frequency</category>
+<category>battery storage</category>
+<category>cyber-physical systems</category>
+<category>UPS</category>
+<category>power oscillations</category>
+</item>
 <item>
 <title>A Multicolor Electrochromic Device Enabled by Shared-Zn Energy Routing for Self-Powered Wearable Displays</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04676</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>photovoltaic system</category>
 <category>techno-economic analysis</category>
 <category>low-inertia grid</category>
-</item>
-<item>
-<title>Metalized Carbon Fiber Electrodes for High‐Performance Aqueous Redox Flow Batteries: The Dominance of Bismuth</title>
-<link>https://doi.org/10.1002/bte2.70157</link>
-<guid isPermaLink="false">10.1002/bte2.70157</guid>
-<pubDate>Wed, 28 Oct 2026 09:01:31 GMT</pubDate>
-<description>این مرور به اصلاح الکترودهای نمد کربنی با پوشش فلزی در باتری‌های جریان ردوکس آبی می‌پردازد و بیسموت را به‌عنوان گزینه‌ای امیدبخش برای بهبود سینتیک معرفی می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely reframes electrodes as active ensembles governing redox thermodynamics and kinetics, not passive substrates. It consolidates metal-coating modifications for carbon/graphite felts, their synthesis, and catalytic mechanisms, while flagging metal dissolution and stability challenges. Its key novelty is positioning bismuth as the dominant, promising coating, and it signals the need for deeper mechanistic and techno-economic study.&lt;br&gt;🏷 redox flow battery · carbon felt electrode · bismuth coating · electrocatalysis · metal dissolution</description>
-<category>redox flow battery</category>
-<category>carbon felt electrode</category>
-<category>bismuth coating</category>
-<category>electrocatalysis</category>
-<category>metal dissolution</category>
 </item>
 </channel>
 </rss>
