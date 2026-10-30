@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 17:02:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 18:03:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Constructing Hybrid Solid–Liquid Li+ Transport Networks for Fast-Charging Thick Electrodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03027</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03027</guid>
+<pubDate>Fri, 30 Oct 2026 18:03:22 GMT</pubDate>
+<description>شبکه انتقال Li+ جامد-مایع هیبریدی با LATP چنداندازه‌ای در کاتدهای ضخیم، انرژی دسولواتاسیون را کاهش داده و عملکرد شارژ سریع باتری لیتیوم-یون را در دمای پایین بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 Hierarchical LATP particles (5–500 nm) build a hybrid solid–liquid Li⁺ network in thick cathodes (27 mg cm⁻²). Nanograins lower desolvation energy and stabilize CEI; submicron particles bridge pores, raising diffusion and transference. This enables 102 vs 36 mAh g⁻¹ at 0.75C and −10 °C, advancing fast-charging high-energy batteries.&lt;br&gt;🏷 thick electrode · fast charging · LATP · Li+ transport · lithium-ion battery</description>
+<category>thick electrode</category>
+<category>fast charging</category>
+<category>LATP</category>
+<category>Li+ transport</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Regulating Liquid‐Phase Mass Transport via Electric Field‐Pore Size Synergy in Separator for Long‐Life Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79385</link>
+<guid isPermaLink="false">10.1002/adfm.79385</guid>
+<pubDate>Fri, 30 Oct 2026 18:03:10 GMT</pubDate>
+<description>جداکننده PTT-GF-D با کانال‌های نانوحفره منظم و سطح بار منفی، انتقال جرم و شار یون را تنظیم کرده و عمر و پایداری باتری آبی Zn-ion را به‌شدت افزایش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multifunctional separator (PTT-GF-D) combining ordered nanoporous channels with a highly negatively charged surface, using electric field–pore size synergy to regulate liquid-phase mass transport. This enables homogeneous Zn nucleation, faster desolvation, and reduced polarization, yielding ultralong cycling (3300 h) and stable pouch cells—offering a practical strategy for high-performance aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · separator engineering · mass transport · Zn desolvation · surface charge</description>
+<category>zinc-ion battery</category>
+<category>separator engineering</category>
+<category>mass transport</category>
+<category>Zn desolvation</category>
+<category>surface charge</category>
+</item>
+<item>
+<title>A Particle‐Level Dual‐Polymer Interphase for Coupled Interfacial and Contact Stabilization of Zinc Metal Powder Anodes in Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79402</link>
+<guid isPermaLink="false">10.1002/adfm.79402</guid>
+<pubDate>Fri, 30 Oct 2026 18:02:47 GMT</pubDate>
+<description>یک لایه بین‌فازی دوپلیمری CMC/PAA روی آند پودر روی، پایداری رسوب/انحلال و عملکرد چرخه‌ای باتری آبی یون‌روی را با مهار خوردگی و هیدروژن‌زدایی بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a particle-level dual-polymer (CMC/PAA) interphase on zinc metal powder that simultaneously stabilizes the interface and preserves electrical contact within the powder framework. Its significance is enabling stable Zn plating/stripping over 1500 h and high capacity retention in coin and pouch cells, advancing practical aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal powder · aqueous zinc-ion battery · dual-polymer interphase · CMC-PAA coating · anode stabilization</description>
+<category>zinc metal powder</category>
+<category>aqueous zinc-ion battery</category>
+<category>dual-polymer interphase</category>
+<category>CMC-PAA coating</category>
+<category>anode stabilization</category>
+</item>
+<item>
+<title>Guest Donor With High Electrostatic Potential Enables Low‐Energy‐Loss Ternary All‐Polymer Solar Cells</title>
+<link>https://doi.org/10.1002/adfm.79393</link>
+<guid isPermaLink="false">10.1002/adfm.79393</guid>
+<pubDate>Fri, 30 Oct 2026 18:02:39 GMT</pubDate>
+<description>افزودن دهنده مهمان PTO2 با پتانسیل الکترواستاتیکی منفی به سیستم PM6:PYIT تلفات انرژی را کاهش داده و بازده ternary all-PSC را به ۱۹٫۱۲٪ می‌رساند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a wide-bandgap guest donor (PTO2) with high electrostatic potential to strengthen the intermolecular electric field, enabling efficient exciton dissociation in ternary all-polymer solar cells. This simultaneously reduces energy loss and enhances the built-in field, yielding 19.12% efficiency with improved voltage (0.963 V) without sacrificing current or fill factor—highlighting ESP modulation as a new design strategy.&lt;br&gt;🏷 all-polymer solar cells · ternary blend · electrostatic potential · energy loss · guest donor</description>
+<category>all-polymer solar cells</category>
+<category>ternary blend</category>
+<category>electrostatic potential</category>
+<category>energy loss</category>
+<category>guest donor</category>
+</item>
 <item>
 <title>Defect inheritance upgrading of spent LiMn2O4 to disordered rock-salt cathodes: stabilized oxygen redox enabled by regulating electron localization</title>
 <link>https://doi.org/10.1016/j.scib.2026.10.069</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>fluorinated electrolyte</category>
 <category>lithium metal battery</category>
 <category>side reaction suppression</category>
-</item>
-<item>
-<title>Covalently Anchored, LiF‐Reinforced Rigid‐Flexible Interphase for Stable Nano‐Si Anodes</title>
-<link>https://doi.org/10.1002/adfm.79163</link>
-<guid isPermaLink="false">10.1002/adfm.79163</guid>
-<pubDate>Wed, 28 Oct 2026 16:02:19 GMT</pubDate>
-<description>لایه اصلاحی کووالانسی G3-LiF روی نانوسیلیکون، انبساط حجمی را مهار و SEI پایدار ایجاد کرده و بازده اولیه 91.3% و پایداری چرخه‌ای بالایی در آند Li-ion فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a covalent anchoring in situ crystallization strategy creating a G3/LiF rigid-flexible interphase on nano-Si. This synergistically buffers volume expansion, enables fast Li⁺ transport, and induces a dense inorganic-rich SEI. Significance: achieves 91.3% initial Coulombic efficiency and 1465 mAh g⁻¹ after 900 cycles, offering new interfacial design insights for stable Si anodes.&lt;br&gt;🏷 silicon anode · LiF interphase · covalent anchoring · SEI · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>LiF interphase</category>
-<category>covalent anchoring</category>
-<category>SEI</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Polyoxometalate-based composite electrodes for metal-ion batteries: Design strategies, interfacial regulation, and electrochemical applications</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218673</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218673</guid>
-<pubDate>Wed, 28 Oct 2026 14:02:03 GMT</pubDate>
-<description>این مقاله مروری راهبردهای طراحی و تنظیم سطح مشترک الکترودهای کامپوزیتی بر پایه polyoxometalate را برای کاربردهای الکتروشیمیایی در باتری‌های یون-فلز بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 polyoxometalate · metal-ion battery · composite electrode · interfacial regulation · design strategies</description>
-<category>polyoxometalate</category>
-<category>metal-ion battery</category>
-<category>composite electrode</category>
-<category>interfacial regulation</category>
-<category>design strategies</category>
-</item>
-<item>
-<title>Sustainable Biomass‐Based Fiber Materials as Structural and Functional Scaffolds for Advanced Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71747</link>
-<guid isPermaLink="false">10.1002/aenm.71747</guid>
-<pubDate>Wed, 28 Oct 2026 14:01:40 GMT</pubDate>
-<description>این مرور، ساختار و نقش الیاف زیست‌توده مانند سلولز و کیتوسان را به‌عنوان الکترولیت، جداکننده، الکترود و بایندر در باتری‌های لیتیوم و روی بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely bridges renewable biomass fiber chemistry with advanced metal battery engineering, systematically linking hierarchical structures to functions across electrolytes, separators, electrodes, and binders. It highlights rational architectural design for enhanced ionic conductivity, interfacial stability, and dendrite suppression, offering sustainable strategies for next-generation green energy storage and guiding molecular-level design, scalable fabrication, and standardized evaluation.&lt;br&gt;🏷 biomass fibers · cellulose · metal batteries · separators · solid electrolytes</description>
-<category>biomass fibers</category>
-<category>cellulose</category>
-<category>metal batteries</category>
-<category>separators</category>
-<category>solid electrolytes</category>
-</item>
-<item>
-<title>Solvent‐Free Metal–Organic Framework‐Based Porous Liquid Electrolyte for Ultrahigh‐Temperature (180°C) Zn Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71778</link>
-<guid isPermaLink="false">10.1002/aenm.71778</guid>
-<pubDate>Wed, 28 Oct 2026 14:01:29 GMT</pubDate>
-<description>الکترولیت مایع متخلخل بر پایه MOF بدون حلال، با کانال‌های نانومحدود و زنجیره‌های پلیمری، عملکرد طولانی‌مدت باتری Zn را تا ۱۸۰ درجه سانتی‌گراد و سرکوب دندریت ممکن می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty is a solvent-free MOF-based porous liquid electrolyte combining permanent microporosity with liquid fluidity for ordered ion transport. Its significance: enabling Zn metal batteries to operate at 180°C for the first time, with ultra-long cycling (600 h at 180°C, 10,000 h at 25°C), non-flammability, dendrite suppression, and extension to Zn||I2, Li||S, and Li||V2O5 systems, breaking metal batteries&amp;#x27; temperature barrier.&lt;br&gt;🏷 Zn metal battery · porous liquid electrolyte · MOF UiO-66 · high-temperature electrolyte · dendrite suppression</description>
-<category>Zn metal battery</category>
-<category>porous liquid electrolyte</category>
-<category>MOF UiO-66</category>
-<category>high-temperature electrolyte</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
