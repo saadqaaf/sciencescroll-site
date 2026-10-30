@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 18:03:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 19:05:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Durable rechargeable aluminum metal batteries enabled by cation-mediated interfacial environment regulation</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.035</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.035</guid>
+<pubDate>Fri, 30 Oct 2026 19:05:00 GMT</pubDate>
+<description>باتری‌های فلزی آلومینیمی قابل شارژ با تنظیم محیط سطح مشترک به‌واسطه کاتیون، پایداری و دوام چرخه‌ای بالایی نشان دادند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 aluminum metal battery · rechargeable battery · cation mediation · interfacial regulation · cycling durability</description>
+<category>aluminum metal battery</category>
+<category>rechargeable battery</category>
+<category>cation mediation</category>
+<category>interfacial regulation</category>
+<category>cycling durability</category>
+</item>
+<item>
+<title>Interfacial reinforcement relieves mechanical mismatch for stable perovskite photovoltaics</title>
+<link>https://doi.org/10.1038/s41467-026-79172-7</link>
+<guid isPermaLink="false">10.1038/s41467-026-79172-7</guid>
+<pubDate>Fri, 30 Oct 2026 19:03:05 GMT</pubDate>
+<description>این مقاله با تقویت بین‌سطحی، ناسازگاری مکانیکی را در سلول‌های خورشیدی پروسکایتی کاهش داده و پایداری آن‌ها را بهبود می‌بخشد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in identifying C60/ALD-SnO2 interfacial mechanical mismatch as a day-night cycling failure mechanism and using g-C3N4 as a compliant, electron-transporting buffer to relieve stress and suppress microcracks. Significance: 27.05% efficiency and &amp;gt;90% retention after 1056 h of day-night maximum power point tracking, advancing durable perovskite photovoltaics commercialization.&lt;br&gt;🏷 perovskite photovoltaics · interfacial reinforcement · mechanical mismatch · stability · solar cells</description>
+<category>perovskite photovoltaics</category>
+<category>interfacial reinforcement</category>
+<category>mechanical mismatch</category>
+<category>stability</category>
+<category>solar cells</category>
+</item>
 <item>
 <title>Constructing Hybrid Solid–Liquid Li+ Transport Networks for Fast-Charging Thick Electrodes</title>
 <link>https://doi.org/10.1021/acsenergylett.6c03027</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lithium dendrite</category>
 <category>gradient interphase</category>
 <category>machine learning</category>
-</item>
-<item>
-<title>Dynamic Reconstruction of Ion Transport Pathways by a Shape Memory Separator for Safer Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79326</link>
-<guid isPermaLink="false">10.1002/adfm.79326</guid>
-<pubDate>Wed, 28 Oct 2026 16:03:21 GMT</pubDate>
-<description>جداکننده حافظه‌دار شکل مبتنی بر آرامید با بازسازی گرمامکانیکی مسیرهای انتقال یون، باتری لیتیوم فلزی را در دمای بالا به‌صورت خودکار ایمن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a shape memory separator that converts overheating into thermomechanical pore constriction, shutting down ion transport while an aramid scaffold preserves dimensional integrity and electrode isolation. This self-protective design reconciles high-energy operation with autonomous thermal safety, enabling stable cycling of high-loading Li-rich cathodes up to 125°C and establishing a general principle for intrinsically safer lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · shape memory separator · thermal runaway · aramid scaffold · ion transport</description>
-<category>lithium metal battery</category>
-<category>shape memory separator</category>
-<category>thermal runaway</category>
-<category>aramid scaffold</category>
-<category>ion transport</category>
-</item>
-<item>
-<title>Suppressing Side Reaction via Fluorinated Core–Shell Electrolyte for Durable 4.8 V Li‐Rich Batteries</title>
-<link>https://doi.org/10.1002/adfm.79308</link>
-<guid isPermaLink="false">10.1002/adfm.79308</guid>
-<pubDate>Wed, 28 Oct 2026 16:02:47 GMT</pubDate>
-<description>الکترولیت هسته-پوسته فلوئوردار با مهار واکنش‌های جانبی گونه‌های اکسیژن فعال، باتری Li-rich با چگالی انرژی ۵۰۲.۷ وات‌ساعت بر کیلوگرم و پایداری بالا را ممکن می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a &amp;quot;side-reaction inhibition&amp;quot; strategy using a bulky, ROS-stable diluent to tune core–shell solvation structures and shield reactive solvents, suppressing interfacial side reactions in Li-rich batteries. Its significance is enabling a 2.5 Ah pouch cell with 502.7 Wh kg⁻¹, 89.85% retention after 50 cycles, and reduced gas evolution, advancing durable 4.8 V high-voltage lithium metal batteries.&lt;br&gt;🏷 Li-rich cathode · high-voltage electrolyte · fluorinated electrolyte · lithium metal battery · side reaction suppression</description>
-<category>Li-rich cathode</category>
-<category>high-voltage electrolyte</category>
-<category>fluorinated electrolyte</category>
-<category>lithium metal battery</category>
-<category>side reaction suppression</category>
 </item>
 </channel>
 </rss>
