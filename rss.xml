@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 20:00:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 21:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond Drug Delivery: Stimuli-cleavable linkages as a molecular toolbox in sustainable polymer systems</title>
+<link>https://doi.org/10.1016/j.progpolymsci.2026.102204</link>
+<guid isPermaLink="false">10.1016/j.progpolymsci.2026.102204</guid>
+<pubDate>Sat, 31 Oct 2026 21:01:02 GMT</pubDate>
+<description>این مقاله پیوندهای شکست‌پذیر محرک‌محور را به‌عنوان ابزاری مولکولی برای طراحی سامانه‌های پلیمری پایدار و قابل بازیافت فراتر از کاربرد دارورسانی بررسی می‌کند.&lt;br&gt;Progress in Polymer Science | ⭐ Review&lt;br&gt;🏷 stimuli-cleavable linkages · sustainable polymers · polymer recycling · degradable materials · molecular toolbox</description>
+<category>stimuli-cleavable linkages</category>
+<category>sustainable polymers</category>
+<category>polymer recycling</category>
+<category>degradable materials</category>
+<category>molecular toolbox</category>
+</item>
+<item>
+<title>Material-Device Synergistic Optimization Enables High-Efficiency Thermoelectric Power Generation in N-type PbSe</title>
+<link>https://doi.org/10.1039/d6ee06191e</link>
+<guid isPermaLink="false">10.1039/d6ee06191e</guid>
+<pubDate>Sat, 31 Oct 2026 21:00:59 GMT</pubDate>
+<description>بهینه‌سازی هم‌زمان ماده و دستگاه در PbSe نوع n بدون Te، بازده تولید توان ترموالکتریک را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 PbSe · thermoelectric · power generation · n-type · Te-free</description>
+<category>PbSe</category>
+<category>thermoelectric</category>
+<category>power generation</category>
+<category>n-type</category>
+<category>Te-free</category>
+</item>
 <item>
 <title>High-Content La-Induced Defect Engineering in Co/La-MOF@MXene Heterostructures Enables Synergistic Catalytic Carbonization for Enhanced Fire Safety of ABS Composites</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114358</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>supercapacitor</category>
 <category>zinc-ion battery</category>
 <category>zeolite template</category>
-</item>
-<item>
-<title>Lead-free rare-earth-based halide scintillators with near-unity quantum yield and robust stability for high-definition X-Ray imaging</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112558</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112558</guid>
-<pubDate>Sat, 31 Oct 2026 05:01:23 GMT</pubDate>
-<description>سنتز سوسوزن‌های هالیدی بدون سرب بر پایه عناصر خاکی کمیاب با بازده کوانتومی نزدیک به یک و پایداری بالا برای تصویربرداری پرتو ایکس با وضوح بالا.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 rare-earth halide · scintillator · X-ray imaging · quantum yield · stability</description>
-<category>rare-earth halide</category>
-<category>scintillator</category>
-<category>X-ray imaging</category>
-<category>quantum yield</category>
-<category>stability</category>
-</item>
-<item>
-<title>Solvent Dipole Engineering Enables Large Quantum Dot Processing for Scalable Short-Wave Infrared Optoelectronics</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01776</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01776</guid>
-<pubDate>Sat, 31 Oct 2026 04:01:48 GMT</pubDate>
-<description>مهندسی دوقطبی حلال، فرآیندپذیری مقیاس‌پذیر نقاط کوانتومی بزرگ PbS را ممکن کرده و دیودهای فتوولتائیک و آشکارسازهای SWIR ساخته شد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PbS quantum dots · short-wave infrared · solvent dipole engineering · photodetector · ligand exchange</description>
-<category>PbS quantum dots</category>
-<category>short-wave infrared</category>
-<category>solvent dipole engineering</category>
-<category>photodetector</category>
-<category>ligand exchange</category>
 </item>
 </channel>
 </rss>
