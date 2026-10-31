@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 07:01:36 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 08:01:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>SecAntiGami: A Secondary-Antibody-Inspired RNA Origami for Qualitative Aptamer Validation</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03022</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03022</guid>
+<pubDate>Sat, 31 Oct 2026 08:00:58 GMT</pubDate>
+<description>SecAntiGami، یک RNA origami الهام‌گرفته از آنتی‌بادی ثانویه، با اتصال به آپتامرها از طریق kissing-loop امکان تقویت سیگنال و اعتبارسنجی کیفی آپتامرها را فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 RNA origami · aptamer validation · kissing-loop interaction · fluorescence localization · dynamic light scattering</description>
+<category>RNA origami</category>
+<category>aptamer validation</category>
+<category>kissing-loop interaction</category>
+<category>fluorescence localization</category>
+<category>dynamic light scattering</category>
+</item>
+<item>
+<title>Voltage–Current-Emission Framework of Time-Resolved Electroluminescence</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04327</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04327</guid>
+<pubDate>Sat, 31 Oct 2026 08:00:55 GMT</pubDate>
+<description>پژوهشگران با ترکیب مدل مدار معادل و دینامیک حامل‌ها، چارچوب ولتاژ-جریان-گسیل را برای توصیف کمّی الکترولومینسانس زمان‌تفکیک‌شده در LEDها ارائه کردند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 time-resolved electroluminescence · LED devices · equivalent circuit model · carrier dynamics · voltage-current-emission</description>
+<category>time-resolved electroluminescence</category>
+<category>LED devices</category>
+<category>equivalent circuit model</category>
+<category>carrier dynamics</category>
+<category>voltage-current-emission</category>
+</item>
 <item>
 <title>Settlement-aware virtual power plant co-optimization: Day-ahead bidding with real-time energy storage recourse</title>
 <link>https://doi.org/10.1016/j.est.2026.125349</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>CITES</category>
 <category>data gaps</category>
 <category>conservation monitoring</category>
-</item>
-<item>
-<title>A soft wireless bioelectronic patch for noninvasive modulation of cavernosal microenvironment in diabetic erectile dysfunction</title>
-<link>https://doi.org/10.1126/sciadv.aef4772</link>
-<guid isPermaLink="false">10.1126/sciadv.aef4772</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:41 GMT</pubDate>
-<description>یک پچ بیوالکترونیک نرم و بی‌سیم با آرایش میکروالکترود-مخزن دارو-نانوحفره، دارورسانی ترانس‌درمال PGE1 را یکنواخت کرده و بازسازی عروقی و بهبود اختلال نعوظ دیابتی را در مدل‌ها نشان می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 wireless bioelectronic patch · erectile dysfunction · transdermal drug delivery · PGE1 · vascular regeneration</description>
-<category>wireless bioelectronic patch</category>
-<category>erectile dysfunction</category>
-<category>transdermal drug delivery</category>
-<category>PGE1</category>
-<category>vascular regeneration</category>
-</item>
-<item>
-<title>Monolithic and scalable capacitive electrodes leveraging parasitic capacitance for full-body pressure mapping</title>
-<link>https://doi.org/10.1126/sciadv.aeh8618</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh8618</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:37 GMT</pubDate>
-<description>آرایه‌ای مقیاس‌پذیر از حسگرهای خازنی فشار با معماری الکترود یکپارچه و بهره‌گیری از ظرفیت پارازیتی ساخته شد که نقشه‌برداری فشار کل بدن را با خطی‌بودن بالا ممکن می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 capacitive pressure sensor · monolithic electrode · parasitic capacitance · pressure mapping · flexible electronics</description>
-<category>capacitive pressure sensor</category>
-<category>monolithic electrode</category>
-<category>parasitic capacitance</category>
-<category>pressure mapping</category>
-<category>flexible electronics</category>
 </item>
 </channel>
 </rss>
