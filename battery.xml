@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 13:01:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 14:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multistage Thermally Responsive Aerogel for Full‐Cycle Thermal Protection in Battery Modules to Prevent Thermal Runaway Propagation</title>
+<link>https://doi.org/10.1002/adfm.79404</link>
+<guid isPermaLink="false">10.1002/adfm.79404</guid>
+<pubDate>Sat, 31 Oct 2026 14:01:20 GMT</pubDate>
+<description>یک آئروژل پاسخ‌دهنده حرارتی چندمرحله‌ای برای حفاظت کامل چرخه‌ای ماژول باتری لیتیوم-یونی طراحی شد که با آزادسازی بخار آب، بازدارندگی شعله و سرامیک‌شدن درجا از گسترش فرار حرارتی جلوگیری می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multistage thermally responsive aerogel that addresses coupled TR hazards—heat, flame, and explosion impact—across full-cycle stages via humidity-based early warning, sustained flame-retardant gas release, in situ ceramization forming a dense barrier, and a tortuous porous pathway. Significance: it raises compressive strength from 1.25 to 4.5 MPa and experimentally prevents thermal runaway propagation in battery modules.&lt;br&gt;🏷 thermal runaway · aerogel · battery module · flame retardancy · in situ ceramization</description>
+<category>thermal runaway</category>
+<category>aerogel</category>
+<category>battery module</category>
+<category>flame retardancy</category>
+<category>in situ ceramization</category>
+</item>
+<item>
+<title>Electronic Structure Engineering Enables Dynamic Interfacial Adaptation of Zinc Anodes</title>
+<link>https://doi.org/10.1002/adfm.79395</link>
+<guid isPermaLink="false">10.1002/adfm.79395</guid>
+<pubDate>Sat, 31 Oct 2026 14:01:11 GMT</pubDate>
+<description>با مهندسی ساختار الکترونی افزودنی NVP در الکترولیت، سازگاری دینامیکی فصل مشترک Zn/الکترولیت بهبود یافت و آند روی در باتری آبی یون-روی پایداری طولانی‌مدت نشان داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using molecular engineering (vinyl functionalization of pyrrolidone) to create electronically adaptive electrolyte additives that dynamically respond to evolving Zn/electrolyte interfaces via π-electron delocalization and polarization, unlike static additives. This enables superior Zn anode stability (4000 h) and full-cell retention (92.6%), highlighting additive electronic responsiveness as a new design principle for dynamic interfacial regulation.&lt;br&gt;🏷 zinc-ion battery · electrolyte additive · zinc anode · solvation structure · interfacial regulation</description>
+<category>zinc-ion battery</category>
+<category>electrolyte additive</category>
+<category>zinc anode</category>
+<category>solvation structure</category>
+<category>interfacial regulation</category>
+</item>
 <item>
 <title>Coprecipitation‐Enabled Scalable Synthesis of High‐Energy Density Polyanion‐Integrated Disordered Rocksalt Cathodes for Lithium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/aenm.71730</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>molten salt etching</category>
 <category>DFT</category>
 <category>Li-ion battery</category>
-</item>
-<item>
-<title>In‐Situ Self‐Evolving µ‐Sn 10 Bi Cross‐Interlocked Structure and Three‐in‐One Kinetic Enhancement Mechanism: Superb Room/Low‐Temperature Sodium Storage Performance</title>
-<link>https://doi.org/10.1002/adma.75523</link>
-<guid isPermaLink="false">10.1002/adma.75523</guid>
-<pubDate>Thu, 29 Oct 2026 09:01:34 GMT</pubDate>
-<description>ریزساختار درهم‌قفل µ-Sn10Bi با شبکه Bi خودتکامل‌یابنده، پایداری ساختاری و سینتیک سه‌گانه را برای ذخیره‌سازی سدیم در دمای اتاق و پایین بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using trace µ-Bi in µ-Sn to create an in-situ self-evolving 3D cross-interlocked network, with a three-in-one kinetic enhancement via dynamic conductivity complementarity, supercontinuous Bi (104) planes, and Bi/Sn heterointerfaces. This enables superb room/low-temperature sodium storage with high capacity, rate performance, and ultralong cycle life, offering a design strategy for low-cost, fast-charging, wide-temperature anodes.&lt;br&gt;🏷 sodium-ion battery · Sn-Bi anode · volume stability · low-temperature · interlocked network</description>
-<category>sodium-ion battery</category>
-<category>Sn-Bi anode</category>
-<category>volume stability</category>
-<category>low-temperature</category>
-<category>interlocked network</category>
-</item>
-<item>
-<title>Ionic‐Ligand‐Assisted Transport in Fluorinated Poly(ionic liquid) Electrolytes Enables 515 Wh Kg −1 Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75524</link>
-<guid isPermaLink="false">10.1002/adma.75524</guid>
-<pubDate>Thu, 29 Oct 2026 09:01:28 GMT</pubDate>
-<description>الکترولیت پلیمری جامد فلورینه با لیگاند یونی، رسانش Li+ و عدد انتقال بالا را ممکن کرده و باتری لیتیوم-فلز تمام‌جامد با چگالی 515 Wh kg−1 می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ionic-ligand-assisted transport framework: fluorinated acrylate copolymerized with poly(ionic liquid) anchors FSI⁻ anions, creating anion-rich pathways for Li⁺ hopping, decoupling conductivity from segmental relaxation. Significance: 0.38 mS cm⁻¹ conductivity, 0.77 Li⁺ transference at 30°C, 4.94 V stability, and 515 Wh kg⁻¹ solid-state pouch cells with stable cycling and safety.&lt;br&gt;🏷 solid polymer electrolyte · poly(ionic liquid) · Li transference number · lithium metal battery · NCM90 cathode</description>
-<category>solid polymer electrolyte</category>
-<category>poly(ionic liquid)</category>
-<category>Li transference number</category>
-<category>lithium metal battery</category>
-<category>NCM90 cathode</category>
 </item>
 </channel>
 </rss>

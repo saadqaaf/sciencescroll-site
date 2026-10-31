@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 13:01:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 14:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multistage Thermally Responsive Aerogel for Full‐Cycle Thermal Protection in Battery Modules to Prevent Thermal Runaway Propagation</title>
+<link>https://doi.org/10.1002/adfm.79404</link>
+<guid isPermaLink="false">10.1002/adfm.79404</guid>
+<pubDate>Sat, 31 Oct 2026 14:01:20 GMT</pubDate>
+<description>یک آئروژل پاسخ‌دهنده حرارتی چندمرحله‌ای برای حفاظت کامل چرخه‌ای ماژول باتری لیتیوم-یونی طراحی شد که با آزادسازی بخار آب، بازدارندگی شعله و سرامیک‌شدن درجا از گسترش فرار حرارتی جلوگیری می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multistage thermally responsive aerogel that addresses coupled TR hazards—heat, flame, and explosion impact—across full-cycle stages via humidity-based early warning, sustained flame-retardant gas release, in situ ceramization forming a dense barrier, and a tortuous porous pathway. Significance: it raises compressive strength from 1.25 to 4.5 MPa and experimentally prevents thermal runaway propagation in battery modules.&lt;br&gt;🏷 thermal runaway · aerogel · battery module · flame retardancy · in situ ceramization</description>
+<category>thermal runaway</category>
+<category>aerogel</category>
+<category>battery module</category>
+<category>flame retardancy</category>
+<category>in situ ceramization</category>
+</item>
+<item>
+<title>Intrinsic‐Decoupled Biomimetic Two‐Dimensional Sensing Enabled by Positive‐Negative Dielectric Heterostructures for Pressure Visualization</title>
+<link>https://doi.org/10.1002/adfm.79319</link>
+<guid isPermaLink="false">10.1002/adfm.79319</guid>
+<pubDate>Sat, 31 Oct 2026 14:01:14 GMT</pubDate>
+<description>یک حسگر فشار دو‌بعدی زیست‌الهام با ناهمگون دی‌الکتریک مثبت-منفی و معماری گرادیان-مدول ساخته شد که نیروی عمودی و مماسی را به‌صورت ذاتی تفکیک می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 flexible tactile sensor · force decoupling · negative permittivity · dielectric heterostructure · pressure visualization</description>
+<category>flexible tactile sensor</category>
+<category>force decoupling</category>
+<category>negative permittivity</category>
+<category>dielectric heterostructure</category>
+<category>pressure visualization</category>
+</item>
+<item>
+<title>Electronic Structure Engineering Enables Dynamic Interfacial Adaptation of Zinc Anodes</title>
+<link>https://doi.org/10.1002/adfm.79395</link>
+<guid isPermaLink="false">10.1002/adfm.79395</guid>
+<pubDate>Sat, 31 Oct 2026 14:01:11 GMT</pubDate>
+<description>با مهندسی ساختار الکترونی افزودنی NVP در الکترولیت، سازگاری دینامیکی فصل مشترک Zn/الکترولیت بهبود یافت و آند روی در باتری آبی یون-روی پایداری طولانی‌مدت نشان داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using molecular engineering (vinyl functionalization of pyrrolidone) to create electronically adaptive electrolyte additives that dynamically respond to evolving Zn/electrolyte interfaces via π-electron delocalization and polarization, unlike static additives. This enables superior Zn anode stability (4000 h) and full-cell retention (92.6%), highlighting additive electronic responsiveness as a new design principle for dynamic interfacial regulation.&lt;br&gt;🏷 zinc-ion battery · electrolyte additive · zinc anode · solvation structure · interfacial regulation</description>
+<category>zinc-ion battery</category>
+<category>electrolyte additive</category>
+<category>zinc anode</category>
+<category>solvation structure</category>
+<category>interfacial regulation</category>
+</item>
+<item>
+<title>Architectural Tuning of Bouligand Electrospun Laminates Enables Coupled Mechanical Robustness and Electromechanical Sensing</title>
+<link>https://doi.org/10.1002/adfm.79347</link>
+<guid isPermaLink="false">10.1002/adfm.79347</guid>
+<pubDate>Sat, 31 Oct 2026 14:01:04 GMT</pubDate>
+<description>لامینیت‌های الکتروریسی‌شده PLCL با معماری Bouligand و لایه‌های حساس CNT ساخته شد که استحکام مکانیکی و حسگری الکترومکانیکی را برای پوشیدنی‌ها و رابط انسان-ماشین ترکیب می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Bouligand laminate · electrospun PLCL · carbon nanotube sensor · wearable sensor · human-machine interface</description>
+<category>Bouligand laminate</category>
+<category>electrospun PLCL</category>
+<category>carbon nanotube sensor</category>
+<category>wearable sensor</category>
+<category>human-machine interface</category>
+</item>
 <item>
 <title>Simplicity and Completeness in CuOx/CeO2 Catalyst Synthesis via One-pot Chemical Vapor Deposition for Efficient CO2 Conversion via RWGS Reaction</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127711</link>
@@ -1163,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>solid-melt interface</category>
 <category>growth kinetics</category>
 <category>semiconductor</category>
-</item>
-<item>
-<title>Revealing Cu 4 SnS 4 Constructed by Composition Regulation Engineering With Enhanced Conversion Reversibility for Superior Zinc Storage Performance</title>
-<link>https://doi.org/10.1002/smll.76582</link>
-<guid isPermaLink="false">10.1002/smll.76582</guid>
-<pubDate>Fri, 30 Oct 2026 20:06:05 GMT</pubDate>
-<description>آند تبدیل‌ی Cu4SnS4 با کانال‌های یونی باز و تنظیم ترکیب، برگشت‌پذیری و پایداری چرخه‌ای بالایی در باتری روی-یون راکینگ‌چیر نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Cu₄SnS₄, synthesized via composition regulation, enables a stable conversion-type anode for rocking-chair zinc-ion batteries. Its open orthorhombic channels lower the Zn²⁺ diffusion barrier (0.06 eV) and boost conductivity, yielding 95.5% retention over 300 cycles and 3000-cycle stability. In situ studies reveal a unique reversible phase-conversion mechanism, offering a design paradigm for durable multimetallic sulfide anodes.&lt;br&gt;🏷 zinc-ion battery · Cu4SnS4 anode · conversion reaction · composition regulation · rocking-chair</description>
-<category>zinc-ion battery</category>
-<category>Cu4SnS4 anode</category>
-<category>conversion reaction</category>
-<category>composition regulation</category>
-<category>rocking-chair</category>
-</item>
-<item>
-<title>High‐Loading and Stable Co‐N 4 Single‐Atom Catalytic Sites for Long‐Cycle Dendrite‐Free Potassium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76553</link>
-<guid isPermaLink="false">10.1002/smll.76553</guid>
-<pubDate>Fri, 30 Oct 2026 20:06:00 GMT</pubDate>
-<description>نانوالیاف کربنی دوپ‌شده با Co تک‌اتمی به‌عنوان میزبان آند پتاسیم، هسته‌زایی را کاهش و پایداری چرخه‌ای طولانی بدون دندریت فراهم کرد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 SA-Co-doped porous carbon nanofibers (1.53 wt% Co) enable stable, high-loading Co-N4 single-atom sites for potassium metal anodes. In situ Co-N-C coordination strengthens C-N/C-C bonds, preventing skeletal degradation, while high K adsorption energy (−2.34 eV) lowers nucleation overpotential to 36 mV. This yields dendrite-free cycling over 2600 h and full cells with 1000-cycle stability, advancing practical PMAs.&lt;br&gt;🏷 potassium metal battery · single-atom catalyst · Co-N4 · dendrite-free · carbon nanofiber</description>
-<category>potassium metal battery</category>
-<category>single-atom catalyst</category>
-<category>Co-N4</category>
-<category>dendrite-free</category>
-<category>carbon nanofiber</category>
-</item>
-<item>
-<title>Strong yet Superelastic Fibrous Ceramic Aerogels With Ultralow Shrinkage at 1200°C via Crystalline Nanoshell</title>
-<link>https://doi.org/10.1002/smll.76198</link>
-<guid isPermaLink="false">10.1002/smll.76198</guid>
-<pubDate>Fri, 30 Oct 2026 20:05:55 GMT</pubDate>
-<description>آئروژل الیافی سرامیکی با ساختار هسته-پوسته آمورف@بلوری ZrO2، جمع‌شدگی خطی تنها 0.7% در 1200°C و ابرکشسانی و استحکام بالا نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 ceramic aerogel · core-shell · ZrO2 nanoshell · thermal insulation · superelasticity</description>
-<category>ceramic aerogel</category>
-<category>core-shell</category>
-<category>ZrO2 nanoshell</category>
-<category>thermal insulation</category>
-<category>superelasticity</category>
-</item>
-<item>
-<title>Amorphous‐Crystalline CoNiS Heterojunctions with Optimized Interfacial Charge Transfer for Highly Efficient Oxygen Evolution and Urea Oxidation</title>
-<link>https://doi.org/10.1002/smll.76587</link>
-<guid isPermaLink="false">10.1002/smll.76587</guid>
-<pubDate>Fri, 30 Oct 2026 20:05:52 GMT</pubDate>
-<description>سولفید CoNiS نیمه‌بلوری با رابط‌های نقص‌دار، فعالیت OER و UOR بهتری نسبت به همتای آمورف و بلوری نشان داد و الکترولایزر پایدار ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 CoNiS heterojunction · crystallinity engineering · oxygen evolution · urea oxidation · electrocatalysis</description>
-<category>CoNiS heterojunction</category>
-<category>crystallinity engineering</category>
-<category>oxygen evolution</category>
-<category>urea oxidation</category>
-<category>electrocatalysis</category>
 </item>
 </channel>
 </rss>
