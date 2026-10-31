@@ -5,8 +5,46 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 04:01:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:02:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C</title>
+<link>https://doi.org/10.1021/jacs.6c16293</link>
+<guid isPermaLink="false">10.1021/jacs.6c16293</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:31 GMT</pubDate>
+<description>غربالگری الکترولیت با یادگیری ماشین، DMTMSA را شناسایی کرد که با DEE الکترولیت پاسخ‌ده به دما ساخته و پاکت‌سلول Li-metal با ۳۶۵.۵ Wh/kg در −۴۰ درجه پایدار می‌ماند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning (D-P Compass) to screen electrolyte molecules via dipole moment and polarizability Pareto analysis, identifying DMTMSA. Its thermally sensitive interactions with DEE create a temperature-autoresponsive, anion-dominated solvation structure. Significance: enables stable lithium metal pouch cells exceeding 350 Wh/kg across −40 to 60 °C, establishing a data-driven framework for wide-temperature electrolyte design.&lt;br&gt;🏷 lithium metal battery · wide-temperature electrolyte · machine learning · pouch cell · SEI engineering</description>
+<category>lithium metal battery</category>
+<category>wide-temperature electrolyte</category>
+<category>machine learning</category>
+<category>pouch cell</category>
+<category>SEI engineering</category>
+</item>
+<item>
+<title>Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes</title>
+<link>https://doi.org/10.1021/jacs.6c12519</link>
+<guid isPermaLink="false">10.1021/jacs.6c12519</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:17 GMT</pubDate>
+<description>یک چارچوب پتانسیل یادگیری ماشین جهانی با تنظیم دقیق کم‌داده، پتانسیل الکترود Li را در الکترولیت‌های متنوع با دقت سطح ab initio محاسبه می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a universal machine learning potential with data-efficient fine-tuning (~200 DFT calculations per electrolyte) to compute Li electrode potentials at ab initio accuracy, overcoming cluster-model and AIMD limitations. Its significance is enabling efficient, accurate prediction across diverse electrolytes and revealing mechanistic links between Li+ solvation environments and potential shifts, guiding rational electrolyte design for Li-metal batteries.&lt;br&gt;🏷 Li electrode potential · machine learning potential · battery electrolyte · fine-tuning · solvation structure</description>
+<category>Li electrode potential</category>
+<category>machine learning potential</category>
+<category>battery electrolyte</category>
+<category>fine-tuning</category>
+<category>solvation structure</category>
+</item>
+<item>
+<title>Scalable Upcycling of Industrial Waste Polytetrafluoroethylene Into Porous Carbon Nanosheets by Zeolite Particle Templates for Capacitive Energy Storage</title>
+<link>https://doi.org/10.1002/anie.5410375</link>
+<guid isPermaLink="false">10.1002/anie.5410375</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:29 GMT</pubDate>
+<description>بازیافت زباله صنعتی PTFE به نانوصفحات کربنی متخلخل با قالب ذرات زئولیت، دستیابی به ظرفیت بالای ابرخازن و باتری آبی روی-یون با تحمل دمای پایین.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using zeolite-particle templates to catalytically cocarbonize PTFE waste into porous carbon nanosheets while fixing 81% fluorine as recyclable NaF. This overcomes PTFE&amp;#x27;s zero-residue pyrolysis, enabling scalable upcycling. Significance: exceptional dual-mode energy storage (429.6 F g⁻¹ supercapacitors; 267.0 mAh g⁻¹ zinc-ion batteries, −25°C operation) with validated industrial viability and low cost.&lt;br&gt;🏷 PTFE upcycling · porous carbon nanosheets · supercapacitor · zinc-ion battery · zeolite template</description>
+<category>PTFE upcycling</category>
+<category>porous carbon nanosheets</category>
+<category>supercapacitor</category>
+<category>zinc-ion battery</category>
+<category>zeolite template</category>
+</item>
 <item>
 <title>External Field Driven Oxygen Reduction Reaction: From Catalytic Chemistry, Mechanistic Characterization to Device Applications</title>
 <link>https://doi.org/10.1002/adfm.79305</link>
@@ -1170,43 +1208,6 @@
 <category>bamboo-derived carbon</category>
 <category>molten salt</category>
 <category>pre-carbonization</category>
-</item>
-<item>
-<title>Engineering a closed-loop electrochemical pathway for cadmium recovery and aqueous battery reutilization</title>
-<link>https://doi.org/10.1126/sciadv.aek6073</link>
-<guid isPermaLink="false">10.1126/sciadv.aek6073</guid>
-<pubDate>Thu, 29 Oct 2026 04:03:16 GMT</pubDate>
-<description>یک مسیر الکتروشیمیایی بسته برای بازیابی کادمیوم از پساب و ساخت آندهای Cd با بافت (002) ارائه شده که با CsI به بازده کولمبی ۹۹.۹۸٪ و چرخه‌پذیری پایدار می‌رسد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a closed-loop electrochemical strategy that selectively recovers cadmium from waste electrolytes into textured Cd(002) anodes, using cesium iodide to stabilize the interface. This enables 99.98% Coulombic efficiency and reversible Cd||I₂ cells, with failed anodes reextractable and regenerable. It significantly advances sustainable Cd waste valorization and aqueous battery reutilization.&lt;br&gt;🏷 cadmium recovery · aqueous Cd battery · Cd(002) electrodeposition · cesium iodide · closed-loop recycling</description>
-<category>cadmium recovery</category>
-<category>aqueous Cd battery</category>
-<category>Cd(002) electrodeposition</category>
-<category>cesium iodide</category>
-<category>closed-loop recycling</category>
-</item>
-<item>
-<title>A unified lattice–surface engineering strategy stabilizing oxygen redox in Li-rich cathodes for all-solid-state batteries</title>
-<link>https://doi.org/10.1126/sciadv.aei9538</link>
-<guid isPermaLink="false">10.1126/sciadv.aei9538</guid>
-<pubDate>Thu, 29 Oct 2026 04:02:33 GMT</pubDate>
-<description>استراتژی coat–sinter–wash با دوپینگ W و لایه spinel درجا، برگشت‌پذیری oxygen redox کاتدهای Li-rich را در ASSB پایدار کرد و ۸۰٪ ظرفیت را پس از ۵۰۰ چرخه حفظ نمود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable &amp;quot;coat–sinter–wash&amp;quot; strategy that simultaneously tunes bulk oxygen redox via W doping and Li vacancies and reconstructs a spinel surface layer. This dual bulk–surface engineering suppresses oxygen release and interfacial degradation, enabling 500-cycle stability, 278.2 mAh g⁻¹ capacity, and 543 Wh kg⁻¹ in all-solid-state pouch cells—advancing practical high-energy solid-state batteries.&lt;br&gt;🏷 Li-rich cathode · all-solid-state battery · oxygen redox · tungsten doping · spinel surface layer</description>
-<category>Li-rich cathode</category>
-<category>all-solid-state battery</category>
-<category>oxygen redox</category>
-<category>tungsten doping</category>
-<category>spinel surface layer</category>
-</item>
-<item>
-<title>High-Performance Salt-Lake Water Zinc Batteries Operated at −50 °C</title>
-<link>https://doi.org/10.1021/jacs.6c16008</link>
-<guid isPermaLink="false">10.1021/jacs.6c16008</guid>
-<pubDate>Thu, 29 Oct 2026 03:02:27 GMT</pubDate>
-<description>آب دریاچه نمک به‌عنوان حلال الکترولیت با آند آلیاژی پوشش‌دار، باتری آبی روی با پایداری بیش از ۳۲۰۰ ساعت در دمای −۵۰ درجه سلسیوس را ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using natural salt-lake water directly as an electrolyte solvent, eliminating costly purification while enabling −50 °C operation. Combined with an alloy-coated Zn anode, it suppresses freezing and water activity, achieving 3200 h cycling and stable pouch cells. This offers a low-cost, scalable strategy for extreme-cold aqueous batteries.&lt;br&gt;🏷 aqueous zinc battery · salt-lake water · low-temperature electrolyte · alloy anode · freeze resistance</description>
-<category>aqueous zinc battery</category>
-<category>salt-lake water</category>
-<category>low-temperature electrolyte</category>
-<category>alloy anode</category>
-<category>freeze resistance</category>
 </item>
 </channel>
 </rss>

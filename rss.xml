@@ -5,8 +5,229 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 04:01:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:02:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C</title>
+<link>https://doi.org/10.1021/jacs.6c16293</link>
+<guid isPermaLink="false">10.1021/jacs.6c16293</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:31 GMT</pubDate>
+<description>غربالگری الکترولیت با یادگیری ماشین، DMTMSA را شناسایی کرد که با DEE الکترولیت پاسخ‌ده به دما ساخته و پاکت‌سلول Li-metal با ۳۶۵.۵ Wh/kg در −۴۰ درجه پایدار می‌ماند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning (D-P Compass) to screen electrolyte molecules via dipole moment and polarizability Pareto analysis, identifying DMTMSA. Its thermally sensitive interactions with DEE create a temperature-autoresponsive, anion-dominated solvation structure. Significance: enables stable lithium metal pouch cells exceeding 350 Wh/kg across −40 to 60 °C, establishing a data-driven framework for wide-temperature electrolyte design.&lt;br&gt;🏷 lithium metal battery · wide-temperature electrolyte · machine learning · pouch cell · SEI engineering</description>
+<category>lithium metal battery</category>
+<category>wide-temperature electrolyte</category>
+<category>machine learning</category>
+<category>pouch cell</category>
+<category>SEI engineering</category>
+</item>
+<item>
+<title>Operando Imaging of Charge Transfer and Photoelectrochemical Water Oxidation at Defect-Rich Grain Boundaries</title>
+<link>https://doi.org/10.1021/jacs.6c08725</link>
+<guid isPermaLink="false">10.1021/jacs.6c08725</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:26 GMT</pubDate>
+<description>تصویربرداری operando با AFM-SECM نشان می‌دهد مرزهای دانه غنی از نقص در BiVO4، نواحی فعال انتقال بار و تولید O2 هستند و عمر حفره‌ها را تا میلی‌ثانیه افزایش می‌دهند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 BiVO4 photoanode · grain boundaries · operando AFM-SECM · water oxidation · charge transfer</description>
+<category>BiVO4 photoanode</category>
+<category>grain boundaries</category>
+<category>operando AFM-SECM</category>
+<category>water oxidation</category>
+<category>charge transfer</category>
+</item>
+<item>
+<title>Arene-Perfluoroarene-Enabled Electrostatic Modulation in Organic Porous Photocatalysts for Ni/Photoredox C–N Coupling</title>
+<link>https://doi.org/10.1021/jacs.6c07816</link>
+<guid isPermaLink="false">10.1021/jacs.6c07816</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:21 GMT</pubDate>
+<description>طراحی پیوند آرن-پرفلوئورآرن در پلیمرهای متخلخل 4CzIPN، الکترواستاتیک موضعی نوری و فعالیت کاتالیزوری جفت‌شدن C–N نیکل/فوتوردوکس را تنظیم می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 arene-perfluoroarene · porous organic photocatalyst · Ni/photoredox coupling · electrostatic modulation · C–N coupling</description>
+<category>arene-perfluoroarene</category>
+<category>porous organic photocatalyst</category>
+<category>Ni/photoredox coupling</category>
+<category>electrostatic modulation</category>
+<category>C–N coupling</category>
+</item>
+<item>
+<title>Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes</title>
+<link>https://doi.org/10.1021/jacs.6c12519</link>
+<guid isPermaLink="false">10.1021/jacs.6c12519</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:17 GMT</pubDate>
+<description>یک چارچوب پتانسیل یادگیری ماشین جهانی با تنظیم دقیق کم‌داده، پتانسیل الکترود Li را در الکترولیت‌های متنوع با دقت سطح ab initio محاسبه می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a universal machine learning potential with data-efficient fine-tuning (~200 DFT calculations per electrolyte) to compute Li electrode potentials at ab initio accuracy, overcoming cluster-model and AIMD limitations. Its significance is enabling efficient, accurate prediction across diverse electrolytes and revealing mechanistic links between Li+ solvation environments and potential shifts, guiding rational electrolyte design for Li-metal batteries.&lt;br&gt;🏷 Li electrode potential · machine learning potential · battery electrolyte · fine-tuning · solvation structure</description>
+<category>Li electrode potential</category>
+<category>machine learning potential</category>
+<category>battery electrolyte</category>
+<category>fine-tuning</category>
+<category>solvation structure</category>
+</item>
+<item>
+<title>Decoupled Proton and Oxygen Transport at Cathode Triple-Phase Interfaces via Noncovalently Cross-Linked Biomimetic Nanochannels</title>
+<link>https://doi.org/10.1021/jacs.6c14709</link>
+<guid isPermaLink="false">10.1021/jacs.6c14709</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:11 GMT</pubDate>
+<description>یک اصلاح‌کننده پورفیرینی با اتصال غیرکووالانسی به Nafion، انتقال پروتون و اکسیژن را در فصل مشترک سه‌فازی کاتد PEMFC جدا کرده و مسمومیت Pt را کاهش می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-phase interface · biomimetic nanochannels · proton transport · Pt poisoning</description>
+<category>PEMFC cathode</category>
+<category>triple-phase interface</category>
+<category>biomimetic nanochannels</category>
+<category>proton transport</category>
+<category>Pt poisoning</category>
+</item>
+<item>
+<title>Chemoreceptor TRPγ coordinates locomotor activity via regulating intracellular Ca2+ homeostasis in Drosophila</title>
+<link>https://doi.org/10.1038/s41467-026-78915-w</link>
+<guid isPermaLink="false">10.1038/s41467-026-78915-w</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:08 GMT</pubDate>
+<description>گیرنده شیمیایی TRPγ با تنظیم هموستاز کلسیم درون‌سلولی، فعالیت حرکتی مگس سرکه را هماهنگ می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 TRPγ channel · chemoreceptor · Drosophila locomotion · Ca2+ homeostasis · circadian activity</description>
+<category>TRPγ channel</category>
+<category>chemoreceptor</category>
+<category>Drosophila locomotion</category>
+<category>Ca2+ homeostasis</category>
+<category>circadian activity</category>
+</item>
+<item>
+<title>Ferropericlase breakdown drives mantle weakening in super-Earths</title>
+<link>https://doi.org/10.1038/s41467-026-79163-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-79163-8</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:04 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که تجزیه فروپریکلاز در گوشته سیارات ابرزمینی باعث تضعیف گوشته می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ferropericlase · super-Earth mantle · mantle weakening · phase breakdown · mineral physics</description>
+<category>ferropericlase</category>
+<category>super-Earth mantle</category>
+<category>mantle weakening</category>
+<category>phase breakdown</category>
+<category>mineral physics</category>
+</item>
+<item>
+<title>Capturing the Hidden Short-Range Order in Amorphous Oxide Interfaces That Directs Quasi-Epitaxial Thin-Film Growth</title>
+<link>https://doi.org/10.1021/acsnano.6c13264</link>
+<guid isPermaLink="false">10.1021/acsnano.6c13264</guid>
+<pubDate>Sat, 31 Oct 2026 05:02:01 GMT</pubDate>
+<description>با ترکیب STEM چهاربعدی، میکروسکوپی الکترونی نوسانی و پتیکوگرافی، نظم کوتاه‌برداری پنهان در Ta2O5 آمورف در فصل مشترک Ru/Ta2O5 کشف شد که رشد شبه‌اپیتاکسیال فیلم Ru را هدایت می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 amorphous Ta2O5 · short-range order · electron ptychography · Ru thin films · quasi-epitaxial growth</description>
+<category>amorphous Ta2O5</category>
+<category>short-range order</category>
+<category>electron ptychography</category>
+<category>Ru thin films</category>
+<category>quasi-epitaxial growth</category>
+</item>
+<item>
+<title>Sweeping Surface Trap States under the Carpet: Cd2+ Inclusion in InAs Quantum Dots</title>
+<link>https://doi.org/10.1021/acsnano.6c15005</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15005</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:58 GMT</pubDate>
+<description>افزودن CdCl2 در سنتز نقاط کوانتومی InAs آلیاژ In(Cd)As با گاف نواری باریک‌تر و فوتولومینسانس بهبودیافته تا ۱۴۳۰ نانومتر ایجاد می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 InAs quantum dots · Cd doping · photoluminescence · trap states · DFT</description>
+<category>InAs quantum dots</category>
+<category>Cd doping</category>
+<category>photoluminescence</category>
+<category>trap states</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Wafer-Scale p-type TeSeO x for Complementary Oxide Electronics</title>
+<link>https://doi.org/10.1021/acsnano.6c11854</link>
+<guid isPermaLink="false">10.1021/acsnano.6c11854</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:54 GMT</pubDate>
+<description>نیمه‌هادی اکسیدی p-type آمورف TeSeOx در مقیاس ویفر با تعادل بهتر نشتی و رسانش حفره، امکان ساخت اینورتر و گیت‌های منطقی مکمل را فراهم می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 p-type oxide · TeSeOx · thin-film transistor · complementary logic · wafer-scale</description>
+<category>p-type oxide</category>
+<category>TeSeOx</category>
+<category>thin-film transistor</category>
+<category>complementary logic</category>
+<category>wafer-scale</category>
+</item>
+<item>
+<title>One-Dimensional Carbon Nanostructures with Periodic Graphitic Nitrogen Substitution</title>
+<link>https://doi.org/10.1021/acsnano.6c12638</link>
+<guid isPermaLink="false">10.1021/acsnano.6c12638</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:50 GMT</pubDate>
+<description>سنتز روی‌سطحی نانوساختارهای کربنی یک‌بعدی با نیتروژن گرافیتی تناوبی و مشاهده حالت‌های الکترونی جایگزیده و قطبش اسپینی.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene nanoribbon · graphitic nitrogen · on-surface synthesis · spin polarization · STM</description>
+<category>graphene nanoribbon</category>
+<category>graphitic nitrogen</category>
+<category>on-surface synthesis</category>
+<category>spin polarization</category>
+<category>STM</category>
+</item>
+<item>
+<title>X-ray Crystallography of a Nanobody/JAM-1 Complex Informs Barrier Weakening and Enhanced Drug Permeability in a Cellular Blood–Brain Barrier Model</title>
+<link>https://doi.org/10.1021/acsnano.6c07541</link>
+<guid isPermaLink="false">10.1021/acsnano.6c07541</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:47 GMT</pubDate>
+<description>کریستالوگرافی پرتو ایکس کمپلکس نانوبادی/JAM-1 مکانیسم تضعیف سد خونی-مغزی و افزایش نفوذ دارو را در مدل سلولی نشان می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nanobody · JAM-1 · blood-brain barrier · tight junction · drug delivery</description>
+<category>nanobody</category>
+<category>JAM-1</category>
+<category>blood-brain barrier</category>
+<category>tight junction</category>
+<category>drug delivery</category>
+</item>
+<item>
+<title>Photocatalytically Generated Nitrate Radicals Drive Decomposition of Perfluorooctanoic Acid</title>
+<link>https://doi.org/10.1002/anie.4598413</link>
+<guid isPermaLink="false">10.1002/anie.4598413</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:43 GMT</pubDate>
+<description>رادیکال‌های نیترات تولیدشده فوتوکاتالیستی روی TiO2 تجزیه PFOA را با آزادسازی فلوراید و شناسایی مستقیم طیف‌سنجی جذبی گذرا پیش می‌برند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 nitrate radicals · PFOA degradation · TiO2 photocatalysis · PFAS · transient absorption</description>
+<category>nitrate radicals</category>
+<category>PFOA degradation</category>
+<category>TiO2 photocatalysis</category>
+<category>PFAS</category>
+<category>transient absorption</category>
+</item>
+<item>
+<title>The Elusive [B(ReO 4 ) 4 ] − Anion in the Non‐Centrosymmetric Crystal Structure of K[B(ReO 4 ) 4 ]</title>
+<link>https://doi.org/10.1002/anie.7489823</link>
+<guid isPermaLink="false">10.1002/anie.7489823</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:40 GMT</pubDate>
+<description>شناسایی آنیون جدید [B(ReO4)4]− در ساختار بلوری غیرمرکزمتقارن K[B(ReO4)4] با تأیید طیف‌سنجی رامان و اندازه‌گیری SHG.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 perrhenate · boron anion · non-centrosymmetric · crystal structure · SHG</description>
+<category>perrhenate</category>
+<category>boron anion</category>
+<category>non-centrosymmetric</category>
+<category>crystal structure</category>
+<category>SHG</category>
+</item>
+<item>
+<title>A Precision‐Delivered Singlet Oxygen Generator With an Inbuilt Safety Switch for Induction of Pancreatic Beta Cell Stress and Death</title>
+<link>https://doi.org/10.1002/anie.4679620</link>
+<guid isPermaLink="false">10.1002/anie.4679620</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:36 GMT</pubDate>
+<description>طراحی مولد اکسیژن یگانه با سوییچ ایمنی درونی و هدف‌گیری GLP1R برای القای انتخابی استرس و مرگ سلول‌های بتای پانکراس.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 singlet oxygen · beta cell ablation · GLP1R agonist · photosensitizer · type 1 diabetes</description>
+<category>singlet oxygen</category>
+<category>beta cell ablation</category>
+<category>GLP1R agonist</category>
+<category>photosensitizer</category>
+<category>type 1 diabetes</category>
+</item>
+<item>
+<title>Bright Tin Halide Perovskite Quantum Dots via Organic Dication Compensatory Doping</title>
+<link>https://doi.org/10.1002/anie.4402713</link>
+<guid isPermaLink="false">10.1002/anie.4402713</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:32 GMT</pubDate>
+<description>دوپینگ جبرانی با دی‌کاتیون آلی در نقاط کوانتومی پروسکایت قلع باعث افزایش دو مرتبه‌ای بازده فوتولومینسانس و گسیل فروسرخ نزدیک می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 tin halide perovskite · quantum dots · doping · photoluminescence · near-infrared</description>
+<category>tin halide perovskite</category>
+<category>quantum dots</category>
+<category>doping</category>
+<category>photoluminescence</category>
+<category>near-infrared</category>
+</item>
+<item>
+<title>Scalable Upcycling of Industrial Waste Polytetrafluoroethylene Into Porous Carbon Nanosheets by Zeolite Particle Templates for Capacitive Energy Storage</title>
+<link>https://doi.org/10.1002/anie.5410375</link>
+<guid isPermaLink="false">10.1002/anie.5410375</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:29 GMT</pubDate>
+<description>بازیافت زباله صنعتی PTFE به نانوصفحات کربنی متخلخل با قالب ذرات زئولیت، دستیابی به ظرفیت بالای ابرخازن و باتری آبی روی-یون با تحمل دمای پایین.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using zeolite-particle templates to catalytically cocarbonize PTFE waste into porous carbon nanosheets while fixing 81% fluorine as recyclable NaF. This overcomes PTFE&amp;#x27;s zero-residue pyrolysis, enabling scalable upcycling. Significance: exceptional dual-mode energy storage (429.6 F g⁻¹ supercapacitors; 267.0 mAh g⁻¹ zinc-ion batteries, −25°C operation) with validated industrial viability and low cost.&lt;br&gt;🏷 PTFE upcycling · porous carbon nanosheets · supercapacitor · zinc-ion battery · zeolite template</description>
+<category>PTFE upcycling</category>
+<category>porous carbon nanosheets</category>
+<category>supercapacitor</category>
+<category>zinc-ion battery</category>
+<category>zeolite template</category>
+</item>
+<item>
+<title>Lead-free rare-earth-based halide scintillators with near-unity quantum yield and robust stability for high-definition X-Ray imaging</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112558</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112558</guid>
+<pubDate>Sat, 31 Oct 2026 05:01:23 GMT</pubDate>
+<description>سنتز سوسوزن‌های هالیدی بدون سرب بر پایه عناصر خاکی کمیاب با بازده کوانتومی نزدیک به یک و پایداری بالا برای تصویربرداری پرتو ایکس با وضوح بالا.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 rare-earth halide · scintillator · X-ray imaging · quantum yield · stability</description>
+<category>rare-earth halide</category>
+<category>scintillator</category>
+<category>X-ray imaging</category>
+<category>quantum yield</category>
+<category>stability</category>
+</item>
 <item>
 <title>Solvent Dipole Engineering Enables Large Quantum Dot Processing for Scalable Short-Wave Infrared Optoelectronics</title>
 <link>https://doi.org/10.1021/acsenergylett.6c01776</link>
@@ -990,222 +1211,6 @@
 <category>deuterated single crystal</category>
 <category>spin lifetime</category>
 <category>crystal device fabrication</category>
-</item>
-<item>
-<title>Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors</title>
-<link>https://doi.org/10.1126/sciadv.aee7939</link>
-<guid isPermaLink="false">10.1126/sciadv.aee7939</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:03 GMT</pubDate>
-<description>تحلیل تک‌سلولی و فضایی نشان می‌دهد زیرکلون‌های فعال whole-genome doubling حتی در تومورهای غیر-WGD وجود دارند و روش بیان‌ژنی WAGES این زیرکلون‌ها را با متاستاز، پاسخ درمانی و پیش‌آگهی مرتبط می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 whole-genome doubling · subclonal evolution · single-cell sequencing · WAGES method · chromosomal instability</description>
-<category>whole-genome doubling</category>
-<category>subclonal evolution</category>
-<category>single-cell sequencing</category>
-<category>WAGES method</category>
-<category>chromosomal instability</category>
-</item>
-<item>
-<title>Monsoon zonal seesaw: Development of the South Asian monsoon aridified North Africa in the Cenozoic</title>
-<link>https://doi.org/10.1126/sciadv.aee1112</link>
-<guid isPermaLink="false">10.1126/sciadv.aee1112</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:59 GMT</pubDate>
-<description>شبیه‌سازی‌های دیرینه‌اقلیمی نشان می‌دهند شدت‌گیری و جابه‌جایی قطبی بارش موسمی جنوب آسیا از طریق مکانیسم موسمی-بیابانی، خشک‌شدن شمال آفریقا در سنوزوئیک اولیه را به‌طور مشترک هدایت کرده است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 South Asian monsoon · North African aridification · paleoclimate simulation · monsoon-desert mechanism · Cenozoic</description>
-<category>South Asian monsoon</category>
-<category>North African aridification</category>
-<category>paleoclimate simulation</category>
-<category>monsoon-desert mechanism</category>
-<category>Cenozoic</category>
-</item>
-<item>
-<title>A-site cation–pseudohalide co-design for tin halide perovskite transistors</title>
-<link>https://doi.org/10.1126/sciadv.aeh2062</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh2062</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:56 GMT</pubDate>
-<description>طراحی هم‌زمان کاتیون A-site و تیوسیانات با GuaSCN، شبکه FASnI3 را پایدار کرده، اکسیداسیون Sn2+ را مهار می‌کند و ترانزیستورهای لایه نازک با تحرک بالای ۸۸ cm2/Vs و پایداری برتر به دست می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 tin halide perovskite · thin-film transistors · thiocyanate additive · A-site cation · Sn2+ oxidation</description>
-<category>tin halide perovskite</category>
-<category>thin-film transistors</category>
-<category>thiocyanate additive</category>
-<category>A-site cation</category>
-<category>Sn2+ oxidation</category>
-</item>
-<item>
-<title>Photosynthetic chimeric stem cells function as mitochondrial batteries</title>
-<link>https://doi.org/10.1126/sciadv.aef8069</link>
-<guid isPermaLink="false">10.1126/sciadv.aef8069</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:53 GMT</pubDate>
-<description>سلول‌های بنیادی کایمریک فتوسنتزی با تیلاکوئید گیاهی و mRNA کدکننده FGF21 به‌عنوان باتری میتوکندری، انتقال میتوکندری و هموستاز انرژی را تقویت کرده و ترمیم زخم را در مدل‌های موش و خوک تسریع می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creating cross-kingdom photosynthetic chimeric stem cells by inserting plant thylakoids and FGF21 mRNA into enucleated mesenchymal stem cells. This &amp;quot;mitochondrial battery&amp;quot; uses light to enhance mitochondrial transfer, restore damaged cell metabolism, and sustain energy homeostasis via FGF21. Significance: it overcomes donor stem cell limitations (poor engraftment, aberrant differentiation), enables repeatable modular mRNA therapies, and accelerates wound repair in mouse and pig models.&lt;br&gt;🏷 mitochondrial transfer · chimeric stem cells · thylakoid · FGF21 mRNA · wound healing</description>
-<category>mitochondrial transfer</category>
-<category>chimeric stem cells</category>
-<category>thylakoid</category>
-<category>FGF21 mRNA</category>
-<category>wound healing</category>
-</item>
-<item>
-<title>Robust pan-junctional reinforcement preserves the gut epithelial barrier under mechanical stress</title>
-<link>https://doi.org/10.1126/sciadv.aed3122</link>
-<guid isPermaLink="false">10.1126/sciadv.aed3122</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:47 GMT</pubDate>
-<description>کشش مکانیکی ناشی از مدفوع در کولون، بازآرایی هماهنگ اتصالات سلولی را القا می‌کند و فعال‌سازی nonmuscle myosin II وابسته به کلسیم برای حفظ سد اپیتلیالی در برابر تنش مکانیکی ضروری است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 gut epithelial barrier · cell junctions · mechanoadaptation · nonmuscle myosin II · calcium signaling</description>
-<category>gut epithelial barrier</category>
-<category>cell junctions</category>
-<category>mechanoadaptation</category>
-<category>nonmuscle myosin II</category>
-<category>calcium signaling</category>
-</item>
-<item>
-<title>Oxygen-dependent constraint of glycolysis through the mitochondrial electron transport chain</title>
-<link>https://doi.org/10.1126/sciadv.aed1177</link>
-<guid isPermaLink="false">10.1126/sciadv.aed1177</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:43 GMT</pubDate>
-<description>در سلول‌های ccRCC، هیپوکسی از طریق افزایش وابسته به میتوکندری نسبت NADH/NAD+ و در شرایط محدودیت پیروات، گلیکولیز را سرکوب می‌کند؛ اثری که با مهار کمپلکس IV بازتولید می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 glycolysis · mitochondrial electron transport · NADH reductive stress · hypoxia · ccRCC</description>
-<category>glycolysis</category>
-<category>mitochondrial electron transport</category>
-<category>NADH reductive stress</category>
-<category>hypoxia</category>
-<category>ccRCC</category>
-</item>
-<item>
-<title>Alleviating the stability-energy density dilemma via electron-donor-mediated orbital symmetry regulation in sodium phosphate cathodes</title>
-<link>https://doi.org/10.1126/sciadv.aeh8668</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh8668</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:41 GMT</pubDate>
-<description>با مکانیسم اهداکننده الکترون و تنظیم تقارن اوربیتال در کاتد فسفات سدیم، اعوجاج اکتاهدرال ناشی از Mn3+ مهار شده و چگالی انرژی ۴۹۲ Wh/kg با پایداری چرخه‌ای بالا در باتری سدیم-یون حاصل می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electron-donor–mediated mechanism using Fe³⁺/V³⁺ co-doping to delocalize Mn 3d electrons, symmetrizing e_g orbital occupancy and suppressing Mn³⁺-induced octahedral distortion while preserving high-spin activity. This resolves the stability–energy density trade-off, enabling 492.06 Wh kg⁻¹, 178.8 mAh g⁻¹ at 0.1 C, and 80.2% retention over 2000 cycles—advancing high-performance sodium-ion battery cathodes.&lt;br&gt;🏷 sodium-ion battery · sodium phosphate cathode · orbital symmetry · Mn3+ distortion · electron donor</description>
-<category>sodium-ion battery</category>
-<category>sodium phosphate cathode</category>
-<category>orbital symmetry</category>
-<category>Mn3+ distortion</category>
-<category>electron donor</category>
-</item>
-<item>
-<title>Fluid-driven robotic micromanipulation for assembloid fabrication</title>
-<link>https://doi.org/10.1126/sciadv.aei8832</link>
-<guid isPermaLink="false">10.1126/sciadv.aei8832</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:36 GMT</pubDate>
-<description>پلتفرم رباتیک FDT-VSC با ترکیب ادراک بینایی و کنترل میکروسیالی، مونتاژ برنامه‌پذیر اسفروئیدهای سلولی را برای ساخت assembloidهای بافت‌یافته و غربالگری دارویی بهبود می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 assembloid fabrication · robotic micromanipulation · microfluidics · visual servo control · drug screening</description>
-<category>assembloid fabrication</category>
-<category>robotic micromanipulation</category>
-<category>microfluidics</category>
-<category>visual servo control</category>
-<category>drug screening</category>
-</item>
-<item>
-<title>Integrative discovery and functional dependency mapping uncover essential chimeric RNAs in the active transcriptome</title>
-<link>https://doi.org/10.1126/sciadv.aei0901</link>
-<guid isPermaLink="false">10.1126/sciadv.aei0901</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:33 GMT</pubDate>
-<description>این مطالعه با خط لوله پیش‌بینی یکپارچه، اطلسی از ۵۶۹٬۶۴۰ RNA کایمریک در ۱۰۱۹ رده سلولی سرطانی ساخت و با غربالگری وابستگی عملکردی، RNAهای کایمریک ضروری برای پیشرفت چرخه سلولی را شناسایی کرد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 chimeric RNAs · functional dependency screen · cancer cell lines · cis-splicing · breast tumors</description>
-<category>chimeric RNAs</category>
-<category>functional dependency screen</category>
-<category>cancer cell lines</category>
-<category>cis-splicing</category>
-<category>breast tumors</category>
-</item>
-<item>
-<title>The Fireside Database: Large-scale evidence from 25,419 psychedelic support interactions</title>
-<link>https://doi.org/10.1126/sciadv.aeg4737</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg4737</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:30 GMT</pubDate>
-<description>پایگاه داده Fireside با ۲۵٬۴۱۹ تعامل حمایتی سایکدلیک نشان می‌دهد سیلوسایبین شایع‌ترین ماده و کانابیس بالاترین نرخ پریشانی را داشته و امکان مدل‌سازی چندسطحی اثربخشی حامیان را فراهم می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 psychedelic support · psilocybin · caller outcomes · peer support · multilevel modeling</description>
-<category>psychedelic support</category>
-<category>psilocybin</category>
-<category>caller outcomes</category>
-<category>peer support</category>
-<category>multilevel modeling</category>
-</item>
-<item>
-<title>Rashba-induced intersubband interference in high-harmonic generation</title>
-<link>https://doi.org/10.1126/sciadv.aeh3388</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh3388</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:26 GMT</pubDate>
-<description>طیف‌سنجی هارمونیک بالا در BiTeI تداخل کوانتومی چندکاناله بین باندهای شکافته رشبا را از طریق تونل‌زنی بین‌زیرباندی نشان می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 high-harmonic generation · Rashba effect · BiTeI · spin-orbit coupling · quantum interference</description>
-<category>high-harmonic generation</category>
-<category>Rashba effect</category>
-<category>BiTeI</category>
-<category>spin-orbit coupling</category>
-<category>quantum interference</category>
-</item>
-<item>
-<title>Elevated CO 2 mitigated warming-enhanced carbon loss from northern peatland</title>
-<link>https://doi.org/10.1126/sciadv.aek1491</link>
-<guid isPermaLink="false">10.1126/sciadv.aek1491</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:23 GMT</pubDate>
-<description>در تورب‌زار شمالی، گرمایش اتلاف کربن را افزایش می‌دهد اما CO2 بالا با تقویت رشد درخت و درختچه این اتلاف را تقریباً نصف می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 peatland carbon · elevated CO2 · climate warming · Sphagnum · methane emissions</description>
-<category>peatland carbon</category>
-<category>elevated CO2</category>
-<category>climate warming</category>
-<category>Sphagnum</category>
-<category>methane emissions</category>
-</item>
-<item>
-<title>Super-resolution mapping of nuclear stress signaling by probiotic-derived extracellular vesicles in UV-induced skin photodamage</title>
-<link>https://doi.org/10.1126/sciadv.aek5197</link>
-<guid isPermaLink="false">10.1126/sciadv.aek5197</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:20 GMT</pubDate>
-<description>ریزنگاری فوق‌تفکیک نشان می‌دهد وزیکول‌های خارج‌سلولی Lactobacillus plantarum با حفظ یکپارچگی اندامک‌ها و تعدیل سیگنالینگ هسته‌ای آسیب نوری UV را کاهش می‌دهند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 probiotic extracellular vesicles · UV photodamage · super-resolution microscopy · Lactobacillus plantarum · nuclear stress signaling</description>
-<category>probiotic extracellular vesicles</category>
-<category>UV photodamage</category>
-<category>super-resolution microscopy</category>
-<category>Lactobacillus plantarum</category>
-<category>nuclear stress signaling</category>
-</item>
-<item>
-<title>Tunneling spectroscopy of topological insulator Josephson junctions</title>
-<link>https://doi.org/10.1126/sciadv.aeg0687</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg0687</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:17 GMT</pubDate>
-<description>طیف‌سنجی تونلی در پیوند جوزفسون بر پایه عایق توپولوژیکی، حالت‌های آندریف بسیار عبوردهنده و بسته‌شدن شکاف وابسته به فاز را نشان می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Josephson junction · topological insulator · Andreev modes · tunneling spectroscopy · spin-momentum locking</description>
-<category>Josephson junction</category>
-<category>topological insulator</category>
-<category>Andreev modes</category>
-<category>tunneling spectroscopy</category>
-<category>spin-momentum locking</category>
-</item>
-<item>
-<title>PDS5A and TOP2B cooperate for chromatin recruitment via CTCF</title>
-<link>https://doi.org/10.1126/sciadv.aeg2830</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg2830</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:14 GMT</pubDate>
-<description>PDS5A و TOP2B به‌طور همکارانه از طریق CTCF به کروماتین جذب می‌شوند و بیان ژن و سازمان ژنوم را تنظیم می‌کنند، با پیامدهایی در درمان گلیوما.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 PDS5A · TOP2B · CTCF · chromatin organization · glioma</description>
-<category>PDS5A</category>
-<category>TOP2B</category>
-<category>CTCF</category>
-<category>chromatin organization</category>
-<category>glioma</category>
-</item>
-<item>
-<title>Metazoan diversification characterized by elevated rates of evolution during the middle Ediacaran to earliest Cambrian</title>
-<link>https://doi.org/10.1126/sciadv.aeh7099</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh7099</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:11 GMT</pubDate>
-<description>تحلیل نرخ‌های مولکولی و ریختی نشان می‌دهد تنوع‌یابی متازوآ در بازه ادیاکاران میانی تا کامبرین آغازین با نرخ‌های تکاملی افزایش‌یافته مشخص می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 metazoan diversification · Ediacaran · Cambrian explosion · evolutionary rates · Opisthokonta</description>
-<category>metazoan diversification</category>
-<category>Ediacaran</category>
-<category>Cambrian explosion</category>
-<category>evolutionary rates</category>
-<category>Opisthokonta</category>
-</item>
-<item>
-<title>Decoder-FFPE-seq enables sensitive, genome-wide spatial transcriptomics of archival tissues at single-cell resolution</title>
-<link>https://doi.org/10.1126/sciadv.ady5085</link>
-<guid isPermaLink="false">10.1126/sciadv.ady5085</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:08 GMT</pubDate>
-<description>Decoder-FFPE-seq با بارکدگذاری DNA دندریمری، ترانسکریپتومیکس فضایی حساس و ژنوم‌گسترده در بافت‌های آرشیوی FFPE را در سطح تک‌سلول فراهم می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 spatial transcriptomics · FFPE tissue · DNA barcoding · single-cell resolution · oral squamous cell carcinoma</description>
-<category>spatial transcriptomics</category>
-<category>FFPE tissue</category>
-<category>DNA barcoding</category>
-<category>single-cell resolution</category>
-<category>oral squamous cell carcinoma</category>
-</item>
-<item>
-<title>Crystalline three-dimensional membranes enable chromatography-free purification of natural products</title>
-<link>https://doi.org/10.1126/sciadv.aej0213</link>
-<guid isPermaLink="false">10.1126/sciadv.aej0213</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:05 GMT</pubDate>
-<description>غشاهای سه‌بعدی بلوری با نانوفیلتراسیون حلال آلی، خالص‌سازی بدون کروماتوگرافی پاکلیتاکسل از عصاره Taxus را با بازداشت ~96% و غنی‌سازی چهاربرابری ممکن می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 crystalline membranes · organic solvent nanofiltration · paclitaxel purification · natural products · interfacial polymerization</description>
-<category>crystalline membranes</category>
-<category>organic solvent nanofiltration</category>
-<category>paclitaxel purification</category>
-<category>natural products</category>
-<category>interfacial polymerization</category>
 </item>
 </channel>
 </rss>
