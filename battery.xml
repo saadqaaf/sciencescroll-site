@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 15:02:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 16:02:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fluorination‐Assisted Aqueous Quenching Chemistry Stabilizes Oxygen Redox in Li‐Rich Layered Oxides</title>
+<link>https://doi.org/10.1002/smll.76104</link>
+<guid isPermaLink="false">10.1002/smll.76104</guid>
+<pubDate>Sat, 31 Oct 2026 16:01:16 GMT</pubDate>
+<description>این مقاله با راهبرد کوئنچ آبی همراه با فلوریناسیون، برگشت‌پذیری ردوکس اکسیژن و پایداری چرخه‌ای کاتدهای لایه‌ای غنی از Li و Mn را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using fluorination-assisted aqueous quenching to control cooling-induced defect chemistry, suppressing cation vacancies and structural reorganization while forming an in-situ fluorine-rich passivation layer. This bulk-surface cooperative strategy stabilizes oxygen redox, enabling enhanced structural reversibility, suppressed voltage decay, and long-term cycling stability in Li-rich layered oxide cathodes.&lt;br&gt;🏷 Li-rich layered oxide · oxygen redox · aqueous quenching · fluorination · cathode stability</description>
+<category>Li-rich layered oxide</category>
+<category>oxygen redox</category>
+<category>aqueous quenching</category>
+<category>fluorination</category>
+<category>cathode stability</category>
+</item>
 <item>
 <title>Multistage Thermally Responsive Aerogel for Full‐Cycle Thermal Protection in Battery Modules to Prevent Thermal Runaway Propagation</title>
 <link>https://doi.org/10.1002/adfm.79404</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>lateral lithium growth</category>
 <category>graphene host</category>
 <category>laser direct writing</category>
-</item>
-<item>
-<title>Synthesis of Ti 2 B 2 Cl x MBenes in Molten Salts From Theoretical and Experimental Perspectives</title>
-<link>https://doi.org/10.1002/adma.75478</link>
-<guid isPermaLink="false">10.1002/adma.75478</guid>
-<pubDate>Thu, 29 Oct 2026 09:01:42 GMT</pubDate>
-<description>با اچ‌کردن Ti2InB2 در نمک مذاب ZnCl2، MBene چندلایه Ti2B2Clx ساخته شد و DFT و ارزیابی باتری لیتیوم-یون پایداری و ظرفیت آن را تأیید کرد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in selectively etching Ti₂InB₂ with ZnCl₂ molten salt to produce multilayer Ti₂B₂Clₓ MBene, achieving complete indium removal and chlorine termination (1.1&amp;lt;x&amp;lt;1.4) via a direct biphasic transformation without intermediates. DFT confirms negative reaction free energy and rules out competing phases. Significance: this combined theoretical-experimental framework enables rational 2D materials design, expands the MBene family, and shows promising Li-ion battery performance.&lt;br&gt;🏷 MBene · Ti2B2Clx · molten salt etching · DFT · Li-ion battery</description>
-<category>MBene</category>
-<category>Ti2B2Clx</category>
-<category>molten salt etching</category>
-<category>DFT</category>
-<category>Li-ion battery</category>
 </item>
 </channel>
 </rss>
