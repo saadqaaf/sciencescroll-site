@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 06:01:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 07:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Settlement-aware virtual power plant co-optimization: Day-ahead bidding with real-time energy storage recourse</title>
+<link>https://doi.org/10.1016/j.est.2026.125349</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125349</guid>
+<pubDate>Sat, 31 Oct 2026 07:01:34 GMT</pubDate>
+<description>یک بهینه‌سازی مشترک آگاه از تسویه برای نیروگاه مجازی ارائه می‌شود که پیشنهاددهی روز-پیش و بازگشت ذخیره‌سازی انرژی در زمان واقعی را ترکیب می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 virtual power plant · energy storage · day-ahead bidding · real-time recourse · settlement-aware optimization</description>
+<category>virtual power plant</category>
+<category>energy storage</category>
+<category>day-ahead bidding</category>
+<category>real-time recourse</category>
+<category>settlement-aware optimization</category>
+</item>
+<item>
+<title>Capacity and operation co-optimization of a solar-integrated liquid CO2 energy storage system with multi-stream thermal management</title>
+<link>https://doi.org/10.1016/j.est.2026.125181</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125181</guid>
+<pubDate>Sat, 31 Oct 2026 07:01:29 GMT</pubDate>
+<description>ظرفیت و بهره‌برداری یک سیستم ذخیره‌سازی انرژی CO2 مایع یکپارچه با خورشید و مدیریت حرارتی چندجریانه به‌صورت هم‌زمان بهینه‌سازی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 liquid CO2 storage · solar integration · thermal management · capacity optimization · energy storage system</description>
+<category>liquid CO2 storage</category>
+<category>solar integration</category>
+<category>thermal management</category>
+<category>capacity optimization</category>
+<category>energy storage system</category>
+</item>
+<item>
+<title>Co-optimization of cost and ancillary services: A dynamic decoupled reserve management framework for hybrid energy storage in industrial parks</title>
+<link>https://doi.org/10.1016/j.est.2026.125306</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125306</guid>
+<pubDate>Sat, 31 Oct 2026 07:01:25 GMT</pubDate>
+<description>یک چارچوب مدیریت ذخیره چرخان به‌صورت دینامیک و تفکیک‌شده برای هم‌بهینه‌سازی هزینه و خدمات جانبی ذخیره‌سازی هیبریدی در پارک‌های صنعتی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · ancillary services · reserve management · industrial parks · cost optimization</description>
+<category>hybrid energy storage</category>
+<category>ancillary services</category>
+<category>reserve management</category>
+<category>industrial parks</category>
+<category>cost optimization</category>
+</item>
+<item>
+<title>Fast prediction of low-frequency electrochemical impedance spectra for lithium-ion batteries via a physics-informed conditional variational autoencoder</title>
+<link>https://doi.org/10.1016/j.est.2026.125319</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125319</guid>
+<pubDate>Sat, 31 Oct 2026 07:01:20 GMT</pubDate>
+<description>یک خودرمزگذار متغیر شرطی آگاه از فیزیک برای پیش‌بینی سریع طیف‌های امپدانس الکتروشیمیایی فرکانس پایین باتری‌های لیتیوم-یونی ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · electrochemical impedance · variational autoencoder · physics-informed model · fast prediction</description>
+<category>lithium-ion battery</category>
+<category>electrochemical impedance</category>
+<category>variational autoencoder</category>
+<category>physics-informed model</category>
+<category>fast prediction</category>
+</item>
+<item>
+<title>Supercritical Fluid‐Based Synthesis of Nanomaterials for Energy Storage Applications: A Pathway Toward High‐Entropy Oxides</title>
+<link>https://doi.org/10.1002/bte2.70158</link>
+<guid isPermaLink="false">10.1002/bte2.70158</guid>
+<pubDate>Sat, 31 Oct 2026 07:01:15 GMT</pubDate>
+<description>این مرور، سنتز سیال فوق‌بحرانی نانومواد و مسیر آن به‌سوی اکسیدهای آنتروپی بالا را برای کاربردهای ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely bridges supercritical fluid synthesis with high-entropy oxide nanomaterials for energy storage. Its novelty lies in linking SCF processing conditions to multication homogeneity, phase development, and defect modulation. Significance: it establishes scalable, sustainable design pathways for advanced multicomponent oxides, offering a greener alternative to conventional synthesis while guiding rational optimization of electrochemical and catalytic performance.&lt;br&gt;🏷 supercritical fluid synthesis · high-entropy oxides · nanomaterials · energy storage · electrochemical performance</description>
+<category>supercritical fluid synthesis</category>
+<category>high-entropy oxides</category>
+<category>nanomaterials</category>
+<category>energy storage</category>
+<category>electrochemical performance</category>
+</item>
+<item>
+<title>Selective Dissociation of Coordination Bonds Enables Rapid Rigidity Switching of Hydrogel Microfibre Bioelectrodes</title>
+<link>https://doi.org/10.1039/d6mh01493c</link>
+<guid isPermaLink="false">10.1039/d6mh01493c</guid>
+<pubDate>Sat, 31 Oct 2026 07:01:09 GMT</pubDate>
+<description>الکترودهای میکروفیبری هیدروژلی بر پایه آلژینات سدیم با شکست انتخابی پیوندهای کوئوردیناسیون، تغییر سریع سختی و سازگاری مکانیکی با بافت را ممکن می‌سازند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 hydrogel microfibre · bioelectrode · sodium alginate · rigidity switching · coordination bonds</description>
+<category>hydrogel microfibre</category>
+<category>bioelectrode</category>
+<category>sodium alginate</category>
+<category>rigidity switching</category>
+<category>coordination bonds</category>
+</item>
 <item>
 <title>Graphene Ribbons Bridge Functionalized Graphene Microspheres into Dense Self-Supporting Films for Flexible Supercapacitors with High Volumetric Energy Density</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122269</link>
@@ -1139,78 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>parasitic capacitance</category>
 <category>pressure mapping</category>
 <category>flexible electronics</category>
-</item>
-<item>
-<title>Cryo-EM structure of a protein nanopore reveals lipid acyl chains as integral components</title>
-<link>https://doi.org/10.1126/sciadv.aeg9162</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg9162</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:34 GMT</pubDate>
-<description>ساختار cryo-EM با وضوح ۲.۵ آنگستروم از نانوپور MspA در نانودیسک لیپیدی نشان می‌دهد زنجیره‌های آسیل لیپیدی به‌صورت حلقوی و منظم با بشکه گذرغشایی برهم‌کنش می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 MspA nanopore · cryo-EM · lipid nanodisc · annular acyl chains · ion selectivity</description>
-<category>MspA nanopore</category>
-<category>cryo-EM</category>
-<category>lipid nanodisc</category>
-<category>annular acyl chains</category>
-<category>ion selectivity</category>
-</item>
-<item>
-<title>A nematic framework for sprouting angiogenesis</title>
-<link>https://doi.org/10.1126/sciadv.aeb1384</link>
-<guid isPermaLink="false">10.1126/sciadv.aeb1384</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:31 GMT</pubDate>
-<description>سلول‌های اندوتلیال روی هیدروژل کلاژن جریان‌های کشیده با نظم نماتیک تشکیل می‌دهند و جوانه‌زنی رگ‌زایی ترجیحاً در نوک جریان‌ها با گرادیان نظم نماتیک شدید آغاز می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 sprouting angiogenesis · nematic order · endothelial cells · collagen hydrogel · traction forces</description>
-<category>sprouting angiogenesis</category>
-<category>nematic order</category>
-<category>endothelial cells</category>
-<category>collagen hydrogel</category>
-<category>traction forces</category>
-</item>
-<item>
-<title>A skin-like, all-in-one hydrogel engineered via a supramolecular entangled network reinforced with hydrogen-bond–associated nanodomains</title>
-<link>https://doi.org/10.1126/sciadv.aeh8641</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh8641</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:28 GMT</pubDate>
-<description>هیدروژل تمام‌دریک شبکه درهم‌تنیده سوپرمولکولی تقویت‌شده با نانودومین‌های پیوند هیدروژنی، خواص مکانیکی و حسگری چندوجهی شبیه پوست انسان را هم‌زمان فراهم می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 hydrogel · supramolecular network · hydrogen-bonded nanodomains · artificial skin · multimodal sensing</description>
-<category>hydrogel</category>
-<category>supramolecular network</category>
-<category>hydrogen-bonded nanodomains</category>
-<category>artificial skin</category>
-<category>multimodal sensing</category>
-</item>
-<item>
-<title>Competing charge and spin instabilities and giant magnetoelastic coupling in CrSb</title>
-<link>https://doi.org/10.1126/sciadv.aei0921</link>
-<guid isPermaLink="false">10.1126/sciadv.aei0921</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:25 GMT</pubDate>
-<description>در آنتی‌فرومغناطیس CrSb نوسانات نظم بار در نقطه M بالای دمای نیل فروپاشیده و ناهنجاری کوهن‌مانند فونون، بزرگ‌ترین کوپلاژ اسپین-فونون گزارش‌شده را نشان می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 CrSb · spin-phonon coupling · charge order fluctuations · antiferromagnet · magnetoelastic coupling</description>
-<category>CrSb</category>
-<category>spin-phonon coupling</category>
-<category>charge order fluctuations</category>
-<category>antiferromagnet</category>
-<category>magnetoelastic coupling</category>
-</item>
-<item>
-<title>Intrinsic cellular persistent firing sustains hippocampal spatial representations during working memory</title>
-<link>https://doi.org/10.1126/sciadv.aef9907</link>
-<guid isPermaLink="false">10.1126/sciadv.aef9907</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:22 GMT</pubDate>
-<description>نورون‌های جایگاهی هیپوکامپ از طریق کانال‌های TRPC4 شلیک پایدار ذاتی را حفظ می‌کنند که بازنمایی فضایی فوری را در حافظه کاری پشتیبانی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 persistent firing · place cells · TRPC4 channels · spatial working memory · hippocampus</description>
-<category>persistent firing</category>
-<category>place cells</category>
-<category>TRPC4 channels</category>
-<category>spatial working memory</category>
-<category>hippocampus</category>
-</item>
-<item>
-<title>Extracellular vesicle-mediated restraint of hepatic CD74–NF-κB repairs diabetic neuropathy</title>
-<link>https://doi.org/10.1126/sciadv.aei3312</link>
-<guid isPermaLink="false">10.1126/sciadv.aei3312</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:19 GMT</pubDate>
-<description>وزیکول‌های خارج سلولی با miR-24-3p بیان کبدی CD74 و فعالیت NF-κB را مهار کرده و از این طریق محور کبد به عصب، نوروپاتی دیابتی را ترمیم می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 extracellular vesicles · diabetic neuropathy · miR-24-3p · hepatic CD74 · NF-κB signaling</description>
-<category>extracellular vesicles</category>
-<category>diabetic neuropathy</category>
-<category>miR-24-3p</category>
-<category>hepatic CD74</category>
-<category>NF-κB signaling</category>
 </item>
 </channel>
 </rss>
