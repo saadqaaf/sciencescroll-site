@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 05:02:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 06:01:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Graphene Ribbons Bridge Functionalized Graphene Microspheres into Dense Self-Supporting Films for Flexible Supercapacitors with High Volumetric Energy Density</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122269</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122269</guid>
+<pubDate>Sat, 31 Oct 2026 06:01:32 GMT</pubDate>
+<description>نانوگسسته‌های گرافنی، میکروسفرهای گرافن عامل‌دار را به فیلم‌های خودایستا و متراکم متصل می‌کنند و ابرخازن انعطاف‌پذیر با چگالی انرژی حجمی بالا ایجاد می‌شود.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 graphene microspheres · graphene ribbons · self-supporting film · flexible supercapacitor · volumetric energy density</description>
+<category>graphene microspheres</category>
+<category>graphene ribbons</category>
+<category>self-supporting film</category>
+<category>flexible supercapacitor</category>
+<category>volumetric energy density</category>
+</item>
 <item>
 <title>Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C</title>
 <link>https://doi.org/10.1021/jacs.6c16293</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>integration strategies</category>
 <category>feasibility assessment</category>
 <category>flexibility</category>
-</item>
-<item>
-<title>Modulation of structure and sodium-storage performance in bamboo-derived hard carbon: Targeted leaching versus molten salt-mediated pre-carbonization</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122253</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122253</guid>
-<pubDate>Thu, 29 Oct 2026 04:04:02 GMT</pubDate>
-<description>مقایسه لیچینگ هدفمند و پیش‌کربن‌سازی با نمک مذاب در کربن سخت مشتق از بامبو، ساختار و عملکرد ذخیره‌سازی سدیم را تعدیل می‌کند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium-ion battery · bamboo-derived carbon · molten salt · pre-carbonization</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>bamboo-derived carbon</category>
-<category>molten salt</category>
-<category>pre-carbonization</category>
 </item>
 </channel>
 </rss>
