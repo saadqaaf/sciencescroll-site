@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 02:01:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 03:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Boost of Bi2MoO6 by Fe-Doping-Induced Cascaded Electron Relay and S-Scheme Heterojunction for Photocatalytic Tetracycline Degradation</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127714</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127714</guid>
+<pubDate>Sat, 31 Oct 2026 03:01:06 GMT</pubDate>
+<description>این مقاله با دوپینگ Fe و ساخت هتروجانکشن S-scheme در Bi2MoO6، رله الکترونی آبشاری ایجاد کرده و تخریب فوتوکاتالیستی تتراسایکلین را به‌شدت بهبود می‌دهد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Bi2MoO6 · Fe doping · S-scheme heterojunction · tetracycline degradation · photocatalysis</description>
+<category>Bi2MoO6</category>
+<category>Fe doping</category>
+<category>S-scheme heterojunction</category>
+<category>tetracycline degradation</category>
+<category>photocatalysis</category>
+</item>
+<item>
+<title>Intercellular DNA transfer: a hidden consequence of genome instability</title>
+<link>https://doi.org/10.1016/j.scib.2026.10.070</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.10.070</guid>
+<pubDate>Sat, 31 Oct 2026 03:01:02 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که ناپایداری ژنوم می‌تواند به انتقال DNA بین سلول‌ها منجر شود، پیامدی پنهان با اثرات مهم بر ژنومیک سرطان.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 intercellular DNA transfer · genome instability · DNA damage · horizontal gene transfer · chromosomal rearrangement</description>
+<category>intercellular DNA transfer</category>
+<category>genome instability</category>
+<category>DNA damage</category>
+<category>horizontal gene transfer</category>
+<category>chromosomal rearrangement</category>
+</item>
 <item>
 <title>When conflict with industrial fishing threatens coastal communities</title>
 <link>https://doi.org/10.1038/s43016-026-01430-0</link>
@@ -1182,30 +1206,6 @@
 <category>NiFeVMo oxide</category>
 <category>oxygen evolution</category>
 <category>hydrogen evolution</category>
-</item>
-<item>
-<title>Pd-Catalyzed Enantioselective C(sp3)–H Arylation for Synergized Construction of C(sp2)–C(sp3) Axial and Central Chirality</title>
-<link>https://doi.org/10.1021/acscatal.6c07488</link>
-<guid isPermaLink="false">10.1021/acscatal.6c07488</guid>
-<pubDate>Fri, 30 Oct 2026 20:02:33 GMT</pubDate>
-<description>آریلاسیون نامتقارن C(sp3)–H کاتالیزشده با Pd روی 9H-fluoreneها، هم‌زمان کایرالیته محوری C(sp2)–C(sp3) و مرکزی را می‌سازد و به لیگاندهای فسفینی مفید می‌رسد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 C–H arylation · axial chirality · palladium catalysis · atropisomers · phosphine ligands</description>
-<category>C–H arylation</category>
-<category>axial chirality</category>
-<category>palladium catalysis</category>
-<category>atropisomers</category>
-<category>phosphine ligands</category>
-</item>
-<item>
-<title>A Multi‐Structural Radiomic Digital Phenotyping Framework for Deciphering Preclinical Evolution of Degenerative Meniscal Tears</title>
-<link>https://doi.org/10.1002/advs.78506</link>
-<guid isPermaLink="false">10.1002/advs.78506</guid>
-<pubDate>Fri, 30 Oct 2026 20:02:29 GMT</pubDate>
-<description>چارچوب رادیومیک چندساختاری مبتنی بر MRI و پروفایل بالینی، خطر پارگی دژنراتیو منیسک را با AUC 0.871 پیش‌بینی و تشخیص را بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 meniscal tears · radiomics · MRI · risk stratification · osteoarthritis</description>
-<category>meniscal tears</category>
-<category>radiomics</category>
-<category>MRI</category>
-<category>risk stratification</category>
-<category>osteoarthritis</category>
 </item>
 </channel>
 </rss>
