@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 21:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 22:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Carborane-fused heterocycles: from synthesis and structure to functional molecule design</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218730</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218730</guid>
+<pubDate>Sat, 31 Oct 2026 22:01:01 GMT</pubDate>
+<description>این مقاله مروری از سنتز و ساختار هتروسیکل‌های جوش‌خورده با کاربوران به طراحی مولکول‌های عاملی می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 carborane-fused heterocycles · synthesis · structure · functional molecules · molecular design</description>
+<category>carborane-fused heterocycles</category>
+<category>synthesis</category>
+<category>structure</category>
+<category>functional molecules</category>
+<category>molecular design</category>
+</item>
+<item>
+<title>Copper single-atom catalysts and cooperative Cu motifs for CO2 electroreduction: working-state evidence for C1 and C2+ formation</title>
+<link>https://doi.org/10.1016/j.enchem.2026.100213</link>
+<guid isPermaLink="false">10.1016/j.enchem.2026.100213</guid>
+<pubDate>Sat, 31 Oct 2026 22:00:58 GMT</pubDate>
+<description>این مقاله شواهد حالت کاری برای تشکیل محصولات C1 و C2+ در الکتروکاهش CO2 توسط کاتالیزورهای تک‌اتمی مس و موتیف‌های همکار Cu ارائه می‌دهد.&lt;br&gt;EnergyChem | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 CO2 electroreduction · copper single-atom catalysts · Cu motifs · C2+ products · operando evidence</description>
+<category>CO2 electroreduction</category>
+<category>copper single-atom catalysts</category>
+<category>Cu motifs</category>
+<category>C2+ products</category>
+<category>operando evidence</category>
+</item>
 <item>
 <title>Beyond Drug Delivery: Stimuli-cleavable linkages as a molecular toolbox in sustainable polymer systems</title>
 <link>https://doi.org/10.1016/j.progpolymsci.2026.102204</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>GLP1R agonist</category>
 <category>photosensitizer</category>
 <category>type 1 diabetes</category>
-</item>
-<item>
-<title>Bright Tin Halide Perovskite Quantum Dots via Organic Dication Compensatory Doping</title>
-<link>https://doi.org/10.1002/anie.4402713</link>
-<guid isPermaLink="false">10.1002/anie.4402713</guid>
-<pubDate>Sat, 31 Oct 2026 05:01:32 GMT</pubDate>
-<description>دوپینگ جبرانی با دی‌کاتیون آلی در نقاط کوانتومی پروسکایت قلع باعث افزایش دو مرتبه‌ای بازده فوتولومینسانس و گسیل فروسرخ نزدیک می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 tin halide perovskite · quantum dots · doping · photoluminescence · near-infrared</description>
-<category>tin halide perovskite</category>
-<category>quantum dots</category>
-<category>doping</category>
-<category>photoluminescence</category>
-<category>near-infrared</category>
-</item>
-<item>
-<title>Scalable Upcycling of Industrial Waste Polytetrafluoroethylene Into Porous Carbon Nanosheets by Zeolite Particle Templates for Capacitive Energy Storage</title>
-<link>https://doi.org/10.1002/anie.5410375</link>
-<guid isPermaLink="false">10.1002/anie.5410375</guid>
-<pubDate>Sat, 31 Oct 2026 05:01:29 GMT</pubDate>
-<description>بازیافت زباله صنعتی PTFE به نانوصفحات کربنی متخلخل با قالب ذرات زئولیت، دستیابی به ظرفیت بالای ابرخازن و باتری آبی روی-یون با تحمل دمای پایین.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using zeolite-particle templates to catalytically cocarbonize PTFE waste into porous carbon nanosheets while fixing 81% fluorine as recyclable NaF. This overcomes PTFE&amp;#x27;s zero-residue pyrolysis, enabling scalable upcycling. Significance: exceptional dual-mode energy storage (429.6 F g⁻¹ supercapacitors; 267.0 mAh g⁻¹ zinc-ion batteries, −25°C operation) with validated industrial viability and low cost.&lt;br&gt;🏷 PTFE upcycling · porous carbon nanosheets · supercapacitor · zinc-ion battery · zeolite template</description>
-<category>PTFE upcycling</category>
-<category>porous carbon nanosheets</category>
-<category>supercapacitor</category>
-<category>zinc-ion battery</category>
-<category>zeolite template</category>
 </item>
 </channel>
 </rss>
