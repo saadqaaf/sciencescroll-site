@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 22:01:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 23:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Challenges and Strategies of Halide Solid Electrolytes: Paving the Pathway to Practical Commercialization</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105623</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105623</guid>
+<pubDate>Sat, 31 Oct 2026 23:01:25 GMT</pubDate>
+<description>چالش‌ها و راهکارهای الکترولیت‌های جامد هالیدی برای تجاری‌سازی عملی باتری‌های حالت جامد مرور می‌شود.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 halide solid electrolyte · all-solid-state battery · commercialization · ionic conductivity · interfacial stability</description>
+<category>halide solid electrolyte</category>
+<category>all-solid-state battery</category>
+<category>commercialization</category>
+<category>ionic conductivity</category>
+<category>interfacial stability</category>
+</item>
 <item>
 <title>Thermodynamic performance and peak-load shaving of a variable refrigerant flow system integrated with ice thermal energy storage: A real-building experimental evaluation</title>
 <link>https://doi.org/10.1016/j.est.2026.125311</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>grain boundaries</category>
 <category>Zn-CO2 battery</category>
 <category>dual-metal catalyst</category>
-</item>
-<item>
-<title>In-situ engineering of a defect-rich TiO₂ interphase coupled with sulfur vacancies in WS2/TiO2@C heterostructures for enhanced Li⁺ storage in 3D-printed anodes</title>
-<link>https://doi.org/10.1007/s42114-026-02152-4</link>
-<guid isPermaLink="false">10.1007/s42114-026-02152-4</guid>
-<pubDate>Thu, 29 Oct 2026 11:01:25 GMT</pubDate>
-<description>ساخت درجای لایه TiO2 غنی از نقص همراه با جای خالی گوگرد در WS2/TiO2@C ذخیره‌سازی Li+ آندهای چاپ سه‌بعدی را تقویت می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 WS2/TiO2 heterostructure · sulfur vacancies · 3D-printed anode · lithium-ion storage · defect engineering</description>
-<category>WS2/TiO2 heterostructure</category>
-<category>sulfur vacancies</category>
-<category>3D-printed anode</category>
-<category>lithium-ion storage</category>
-<category>defect engineering</category>
 </item>
 </channel>
 </rss>
