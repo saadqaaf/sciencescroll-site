@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 00:01:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 01:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reaction-priority gating enables ionic-liquid electrolytes for 80°C lithium metal batteries</title>
+<link>https://doi.org/10.1039/d6ee05523k</link>
+<guid isPermaLink="false">10.1039/d6ee05523k</guid>
+<pubDate>Sat, 31 Oct 2026 01:01:00 GMT</pubDate>
+<description>استراتژی گیت‌کردن اولویت واکنش در الکترولیت‌های مایع یونی، واکنش‌های انگلی سطحی را در باتری‌های لیتیوم فلزی در دمای ۸۰ درجه سانتی‌گراد کنترل می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a reaction-priority gating strategy for ionic-liquid electrolytes that suppresses interfacial parasitic reactions at high temperature. Its significance is enabling stable lithium metal batteries at 80°C, preventing cyclable Li depletion and Ni-rich cathode destabilization, thus extending high-temperature operability of high-energy cells.&lt;br&gt;🏷 lithium metal battery · ionic-liquid electrolyte · high-temperature · interfacial reactions · Ni-rich cathode</description>
+<category>lithium metal battery</category>
+<category>ionic-liquid electrolyte</category>
+<category>high-temperature</category>
+<category>interfacial reactions</category>
+<category>Ni-rich cathode</category>
+</item>
 <item>
 <title>Solvation confinement via local cationic coordination for high-voltage fluorinated polymer lithium-metal batteries</title>
 <link>https://doi.org/10.1039/d6ta06576g</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>electronic affinity</category>
 <category>interfacial chemistry</category>
 <category>fast charging</category>
-</item>
-<item>
-<title>Calendar Aging Corrosion of Lithium Metal in Garnet Solid Electrolyte</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105621</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105621</guid>
-<pubDate>Thu, 29 Oct 2026 01:01:58 GMT</pubDate>
-<description>خوردگی پیرشدن تقویمی لیتیم فلزی در الکترولیت جامد گارنت بررسی شده و سازوکارهای تخریب در حالت سکون شناسایی می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · garnet electrolyte · calendar aging · corrosion · solid-state battery</description>
-<category>lithium metal anode</category>
-<category>garnet electrolyte</category>
-<category>calendar aging</category>
-<category>corrosion</category>
-<category>solid-state battery</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 00:01:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 01:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reaction-priority gating enables ionic-liquid electrolytes for 80°C lithium metal batteries</title>
+<link>https://doi.org/10.1039/d6ee05523k</link>
+<guid isPermaLink="false">10.1039/d6ee05523k</guid>
+<pubDate>Sat, 31 Oct 2026 01:01:00 GMT</pubDate>
+<description>استراتژی گیت‌کردن اولویت واکنش در الکترولیت‌های مایع یونی، واکنش‌های انگلی سطحی را در باتری‌های لیتیوم فلزی در دمای ۸۰ درجه سانتی‌گراد کنترل می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a reaction-priority gating strategy for ionic-liquid electrolytes that suppresses interfacial parasitic reactions at high temperature. Its significance is enabling stable lithium metal batteries at 80°C, preventing cyclable Li depletion and Ni-rich cathode destabilization, thus extending high-temperature operability of high-energy cells.&lt;br&gt;🏷 lithium metal battery · ionic-liquid electrolyte · high-temperature · interfacial reactions · Ni-rich cathode</description>
+<category>lithium metal battery</category>
+<category>ionic-liquid electrolyte</category>
+<category>high-temperature</category>
+<category>interfacial reactions</category>
+<category>Ni-rich cathode</category>
+</item>
 <item>
 <title>Foundation models unlock robust phenotypic representations from Cell Painting images</title>
 <link>https://doi.org/10.1038/s41592-026-03271-y</link>
@@ -1194,18 +1206,6 @@
 <category>network-state polarity</category>
 <category>process writing</category>
 <category>piezoelectricity</category>
-</item>
-<item>
-<title>Mechanism of Al-Si coating degrading the bendability of press-hardened steels and improvement strategy</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.050</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.050</guid>
-<pubDate>Fri, 30 Oct 2026 20:02:10 GMT</pubDate>
-<description>این مقاله سازوکار تخریب خم‌پذیری فولادهای سخت‌شده تحت پرس توسط پوشش Al-Si را بررسی کرده و راهبرد بهبود ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 press-hardened steel · Al-Si coating · bendability · coating degradation · improvement strategy</description>
-<category>press-hardened steel</category>
-<category>Al-Si coating</category>
-<category>bendability</category>
-<category>coating degradation</category>
-<category>improvement strategy</category>
 </item>
 </channel>
 </rss>
