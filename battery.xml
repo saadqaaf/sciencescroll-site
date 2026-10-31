@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 11:01:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coprecipitation‐Enabled Scalable Synthesis of High‐Energy Density Polyanion‐Integrated Disordered Rocksalt Cathodes for Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71730</link>
+<guid isPermaLink="false">10.1002/aenm.71730</guid>
+<pubDate>Sat, 31 Oct 2026 12:01:22 GMT</pubDate>
+<description>سنتز مقیاس‌پذیر کاتد DRXPS با هم‌رسوبی و واکنش حالت جامد کم‌دما، ظرفیت 324 mAh g−1 و انرژی 935 Wh kg−1 را در باتری لیتیوم-یون فراهم کرد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in replacing mechanochemical ball milling with a scalable coprecipitation-enabled solid-state synthesis for metastable polyanion-integrated DRX cathodes (Li1.67Mn1.5P0.17O4), using precursor engineering and eutectic lithium-salt assistance to enable low-temperature (450°C, 30 min) air processing. Significance: this yields 324 mAh g−1 (935 Wh kg−1) in a manufacturing-compatible workflow, enabling scalable production of high-energy-density DRXPS cathodes.&lt;br&gt;🏷 disordered rocksalt cathode · polyanion integration · coprecipitation synthesis · lithium-ion battery · high energy density</description>
+<category>disordered rocksalt cathode</category>
+<category>polyanion integration</category>
+<category>coprecipitation synthesis</category>
+<category>lithium-ion battery</category>
+<category>high energy density</category>
+</item>
 <item>
 <title>Thermodynamically Guided Antisite Ordering Stabilizes Cobalt‐Free Ultrahigh‐Ni Cathodes</title>
 <link>https://doi.org/10.1002/adma.75568</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>Li transference number</category>
 <category>lithium metal battery</category>
 <category>NCM90 cathode</category>
-</item>
-<item>
-<title>Entropy Stabilized Li‐Rich Layered Oxide Nanoparticles for Advanced High‐Voltage Cathodes</title>
-<link>https://doi.org/10.1002/adma.75561</link>
-<guid isPermaLink="false">10.1002/adma.75561</guid>
-<pubDate>Thu, 29 Oct 2026 09:01:23 GMT</pubDate>
-<description>نانوذرات اکسید لایه‌ای غنی از Li با دوپینگ آنتروپی بالا به روش لیزری ساخته شد و کاتدی با پایداری شبکه و ولتاژ بالا برای باتری‌های انعطاف‌پذیر ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in laser-induced carbothermal synthesis of high-entropy doped Li-rich layered oxide nanoparticles (83 nm), enabling exceptional lattice stability at 4.8 V via heteroatomic composition and reduced size, with machine-learning simulations confirming suppressed oxygen loss. Significance: achieves 877.9 Wh kg⁻¹ at 1 C, advancing high-voltage flexible batteries.&lt;br&gt;🏷 Li-rich layered oxide · high-entropy doping · high-voltage cathode · flexible battery · laser carbothermal</description>
-<category>Li-rich layered oxide</category>
-<category>high-entropy doping</category>
-<category>high-voltage cathode</category>
-<category>flexible battery</category>
-<category>laser carbothermal</category>
 </item>
 </channel>
 </rss>
