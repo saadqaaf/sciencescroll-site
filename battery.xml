@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 08:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 09:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cation-Anchored Chromium Shielding and Thermomechanical Compatibility in High-Entropy Air Electrodes Enabling Robust Reversible Protonic Ceramic Cells</title>
+<link>https://doi.org/10.1039/d6ta06322e</link>
+<guid isPermaLink="false">10.1039/d6ta06322e</guid>
+<pubDate>Sat, 31 Oct 2026 09:01:21 GMT</pubDate>
+<description>با مهندسی کمبود سایت A و الکترود هوای آنتروپی‌بالا، مسمومیت کروم و تخریب ترمو‌مکانیکی در سلول‌های سرامیکی پروتونی برگشت‌پذیر هم‌زمان مهار می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling A-site deficiency engineering with cation-anchored chromium shielding in high-entropy air electrodes, simultaneously addressing chromium poisoning and thermomechanical degradation. This integrated strategy enables robust reversible protonic ceramic cells, offering a dual-function solution that enhances durability and performance, marking a significant advance for sustainable energy conversion and storage technologies.&lt;br&gt;🏷 protonic ceramic cells · high-entropy electrode · chromium poisoning · A-site deficiency · thermomechanical compatibility</description>
+<category>protonic ceramic cells</category>
+<category>high-entropy electrode</category>
+<category>chromium poisoning</category>
+<category>A-site deficiency</category>
+<category>thermomechanical compatibility</category>
+</item>
 <item>
 <title>Settlement-aware virtual power plant co-optimization: Day-ahead bidding with real-time energy storage recourse</title>
 <link>https://doi.org/10.1016/j.est.2026.125349</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>Zn dendrites</category>
 <category>multiscale design</category>
 <category>aqueous Zn battery</category>
-</item>
-<item>
-<title>Boosting High-Temperature Capacitive Energy Storage in Laminated Ferroelectric Polymer Nanocomposites reinforced by Ca(OH)₂@PDA Nanoplates</title>
-<link>https://doi.org/10.1039/d6ta07303d</link>
-<guid isPermaLink="false">10.1039/d6ta07303d</guid>
-<pubDate>Thu, 29 Oct 2026 07:01:22 GMT</pubDate>
-<description>نانوکامپوزیت‌های لایه‌ای پلیمر فروالکتریک تقویت‌شده با Ca(OH)2@PDA با معماری چندمقیاسی، ذخیره انرژی خازنی در دمای بالا را بهبود می‌دهند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Ca(OH)₂@PDA nanoplates to build a multi-scale laminated architecture in ferroelectric polymer nanocomposites, simultaneously improving thermal stability and suppressing conduction loss. This enables enhanced high-temperature capacitive energy storage, addressing a key barrier for dielectric capacitors in harsh environments and advancing next-generation energy storage applications.&lt;br&gt;🏷 ferroelectric polymer · capacitive energy storage · polymer nanocomposite · high temperature · Ca(OH)2 nanoplates</description>
-<category>ferroelectric polymer</category>
-<category>capacitive energy storage</category>
-<category>polymer nanocomposite</category>
-<category>high temperature</category>
-<category>Ca(OH)2 nanoplates</category>
 </item>
 </channel>
 </rss>

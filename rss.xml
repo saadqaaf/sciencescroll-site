@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 08:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 09:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How to Engineer Biological Nanopores for Single-Molecule Capture and Discrimination</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00846</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.5c00846</guid>
+<pubDate>Sat, 31 Oct 2026 09:01:28 GMT</pubDate>
+<description>این مرور نوآوری‌های مهندسی نانوحفره‌های پروتئینی برای شناسایی و تمایز تک‌مولکولی یون‌ها، اسیدهای نوکلئیک، پپتیدها و پروتئین‌ها را بررسی می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;🏷 biological nanopores · single-molecule detection · protein engineering · molecular dynamics · nucleic acid sequencing</description>
+<category>biological nanopores</category>
+<category>single-molecule detection</category>
+<category>protein engineering</category>
+<category>molecular dynamics</category>
+<category>nucleic acid sequencing</category>
+</item>
+<item>
+<title>Rearrangement Reactions in Polymers</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00545</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.6c00545</guid>
+<pubDate>Sat, 31 Oct 2026 09:01:24 GMT</pubDate>
+<description>این مرور تاریخچه و مکانیسم واکنش‌های بازآرایی در بستر پلیمری، از زنجیره‌های جانبی تا زنجیره اصلی، را برای طراحی و اصلاح پلیمرها گردآوری می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;🏷 rearrangement reactions · polymer modification · polymer backbone · side chains · reaction mechanisms</description>
+<category>rearrangement reactions</category>
+<category>polymer modification</category>
+<category>polymer backbone</category>
+<category>side chains</category>
+<category>reaction mechanisms</category>
+</item>
+<item>
+<title>Cation-Anchored Chromium Shielding and Thermomechanical Compatibility in High-Entropy Air Electrodes Enabling Robust Reversible Protonic Ceramic Cells</title>
+<link>https://doi.org/10.1039/d6ta06322e</link>
+<guid isPermaLink="false">10.1039/d6ta06322e</guid>
+<pubDate>Sat, 31 Oct 2026 09:01:21 GMT</pubDate>
+<description>با مهندسی کمبود سایت A و الکترود هوای آنتروپی‌بالا، مسمومیت کروم و تخریب ترمو‌مکانیکی در سلول‌های سرامیکی پروتونی برگشت‌پذیر هم‌زمان مهار می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling A-site deficiency engineering with cation-anchored chromium shielding in high-entropy air electrodes, simultaneously addressing chromium poisoning and thermomechanical degradation. This integrated strategy enables robust reversible protonic ceramic cells, offering a dual-function solution that enhances durability and performance, marking a significant advance for sustainable energy conversion and storage technologies.&lt;br&gt;🏷 protonic ceramic cells · high-entropy electrode · chromium poisoning · A-site deficiency · thermomechanical compatibility</description>
+<category>protonic ceramic cells</category>
+<category>high-entropy electrode</category>
+<category>chromium poisoning</category>
+<category>A-site deficiency</category>
+<category>thermomechanical compatibility</category>
+</item>
+<item>
+<title>Ternary synergic nanofillers-modified resin coating for high-performance electromagnetic interference shielding</title>
+<link>https://doi.org/10.1039/d6ta08548b</link>
+<guid isPermaLink="false">10.1039/d6ta08548b</guid>
+<pubDate>Sat, 31 Oct 2026 09:01:15 GMT</pubDate>
+<description>پوشش رزینی اصلاح‌شده با نانوفیلرهای سه‌گانه برای محافظت الکترومغناطیسی سبک، بادوام و قابل تولید در مقیاس بزرگ ارائه می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 EMI shielding · resin coating · ternary nanofillers · electromagnetic pollution · wireless electronics</description>
+<category>EMI shielding</category>
+<category>resin coating</category>
+<category>ternary nanofillers</category>
+<category>electromagnetic pollution</category>
+<category>wireless electronics</category>
+</item>
 <item>
 <title>SecAntiGami: A Secondary-Antibody-Inspired RNA Origami for Qualitative Aptamer Validation</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03022</link>
@@ -1163,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>radiodynamic therapy</category>
 <category>pyroptosis</category>
 <category>antitumor immunity</category>
-</item>
-<item>
-<title>RNA binding by ADARs prevents RNA interference from attacking self-produced dsRNA</title>
-<link>https://doi.org/10.1126/sciadv.aed7314</link>
-<guid isPermaLink="false">10.1126/sciadv.aed7314</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:54 GMT</pubDate>
-<description>در C. elegans نشان داده می‌شود اتصال ADARها به dsRNA از شناسایی ایمنی و تخریب RNAهای خودی توسط RNAi جلوگیری می‌کند و سرکوب RNAi خارجی را نیز تعدیل می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 ADAR editing · RNA interference · dsRNA self-recognition · siRNA · C. elegans</description>
-<category>ADAR editing</category>
-<category>RNA interference</category>
-<category>dsRNA self-recognition</category>
-<category>siRNA</category>
-<category>C. elegans</category>
-</item>
-<item>
-<title>Coarse climate model grids underestimate coastal humid-heat extremes</title>
-<link>https://doi.org/10.1126/sciadv.ael4020</link>
-<guid isPermaLink="false">10.1126/sciadv.ael4020</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:50 GMT</pubDate>
-<description>مقایسه شبیه‌سازی‌های کیلومتری ICON و IFS-FESOM با ERA5 و CMIP6 نشان می‌دهد شبکه‌های درشت‌دانه، فرین‌های رطوبت-گرمای ساحلی را تا ۸ درجه سانتی‌گراد کم‌برآورد می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 humid-heat extremes · wet-bulb temperature · kilometer-scale modeling · coastal climate · CMIP6</description>
-<category>humid-heat extremes</category>
-<category>wet-bulb temperature</category>
-<category>kilometer-scale modeling</category>
-<category>coastal climate</category>
-<category>CMIP6</category>
-</item>
-<item>
-<title>C:H:N:O:P stoichiometry and oxygen demand of marine organic matter are driven by phytoplankton ecophysiology</title>
-<link>https://doi.org/10.1126/sciadv.aeg6228</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg6228</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:47 GMT</pubDate>
-<description>شبیه‌سازی تخصیص سلولی فیتوپلانکتون در مدل گردش عمومی نشان می‌دهد تغییر ترکیب C:H:N:O:P با عرض جغرافیایی، تقاضای O2 و ذخایر اکسیژن و کربن اقیانوسی را به‌طور محسوس تغییر می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 phytoplankton stoichiometry · oxygen demand · biogeochemical modeling · biological pump · marine carbon</description>
-<category>phytoplankton stoichiometry</category>
-<category>oxygen demand</category>
-<category>biogeochemical modeling</category>
-<category>biological pump</category>
-<category>marine carbon</category>
-</item>
-<item>
-<title>The true scale of global wildlife trade is obscured by data gaps</title>
-<link>https://doi.org/10.1126/sciadv.aei3504</link>
-<guid isPermaLink="false">10.1126/sciadv.aei3504</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:44 GMT</pubDate>
-<description>این مرور نشان می‌دهد شکاف‌های داده، مقیاس واقعی تجارت جهانی حیات وحش را پنهان می‌کند و دست‌کم ۱۰۷۳۵۶ گونه در تجارت شناسایی شد، بسیار بیشتر از برآوردهای پیشین.&lt;br&gt;Science Advances | ⭐ Review&lt;br&gt;🏷 wildlife trade · biodiversity loss · CITES · data gaps · conservation monitoring</description>
-<category>wildlife trade</category>
-<category>biodiversity loss</category>
-<category>CITES</category>
-<category>data gaps</category>
-<category>conservation monitoring</category>
 </item>
 </channel>
 </rss>
