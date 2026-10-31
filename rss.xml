@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 23:01:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 00:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Foundation models unlock robust phenotypic representations from Cell Painting images</title>
+<link>https://doi.org/10.1038/s41592-026-03271-y</link>
+<guid isPermaLink="false">10.1038/s41592-026-03271-y</guid>
+<pubDate>Sat, 31 Oct 2026 00:01:23 GMT</pubDate>
+<description>مدل‌های بنیادی، بازنمایی‌های فنوتیپی قوی از تصاویر Cell Painting استخراج می‌کنند و تحلیل پروفایل‌های سلولی را بهبود می‌دهند.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 foundation models · Cell Painting · phenotypic profiling · image representation · deep learning</description>
+<category>foundation models</category>
+<category>Cell Painting</category>
+<category>phenotypic profiling</category>
+<category>image representation</category>
+<category>deep learning</category>
+</item>
+<item>
+<title>Workhorse solid-state lasers reinvented</title>
+<link>https://doi.org/10.1038/s41566-026-02038-3</link>
+<guid isPermaLink="false">10.1038/s41566-026-02038-3</guid>
+<pubDate>Sat, 31 Oct 2026 00:01:20 GMT</pubDate>
+<description>این مقاله به بازطراحی و نوآوری در لیزرهای حالت جامد پرکاربرد و بهبود عملکرد آن‌ها می‌پردازد.&lt;br&gt;Nature Photonics | 💭 Perspective&lt;br&gt;🏷 solid-state lasers · laser design · gain media · optical resonators · laser technology</description>
+<category>solid-state lasers</category>
+<category>laser design</category>
+<category>gain media</category>
+<category>optical resonators</category>
+<category>laser technology</category>
+</item>
+<item>
+<title>Measuring hard X-ray attosecond pulses</title>
+<link>https://doi.org/10.1038/s41566-026-02037-4</link>
+<guid isPermaLink="false">10.1038/s41566-026-02037-4</guid>
+<pubDate>Sat, 31 Oct 2026 00:01:16 GMT</pubDate>
+<description>این مقاله روشی برای اندازه‌گیری پالس‌های آتوثانیه‌ای پرتو ایکس سخت ارائه می‌دهد که امکان مطالعه دینامیک فوق‌سریع را فراهم می‌کند.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 attosecond pulses · hard X-rays · pulse measurement · ultrafast optics · X-ray metrology</description>
+<category>attosecond pulses</category>
+<category>hard X-rays</category>
+<category>pulse measurement</category>
+<category>ultrafast optics</category>
+<category>X-ray metrology</category>
+</item>
+<item>
+<title>Femtosecond lasers drive nanostructuring and green applications</title>
+<link>https://doi.org/10.1038/s41566-026-02032-9</link>
+<guid isPermaLink="false">10.1038/s41566-026-02032-9</guid>
+<pubDate>Sat, 31 Oct 2026 00:01:13 GMT</pubDate>
+<description>این مرور به نانوساختارسازی با لیزرهای فمتوثانیه و کاربردهای سبز آن در مهندسی سطح و مواد می‌پردازد.&lt;br&gt;Nature Photonics | ⭐ Review&lt;br&gt;🏷 femtosecond laser · nanostructuring · laser processing · green applications · surface modification</description>
+<category>femtosecond laser</category>
+<category>nanostructuring</category>
+<category>laser processing</category>
+<category>green applications</category>
+<category>surface modification</category>
+</item>
+<item>
+<title>Optical control stabilizes cold-atom comagnetometry</title>
+<link>https://doi.org/10.1038/s41566-026-02043-6</link>
+<guid isPermaLink="false">10.1038/s41566-026-02043-6</guid>
+<pubDate>Sat, 31 Oct 2026 00:01:09 GMT</pubDate>
+<description>کنترل نوری، پایداری کامگنتومتری اتم‌های سرد را بهبود می‌بخشد و دقت اندازه‌گیری میدان مغناطیسی را افزایش می‌دهد.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 comagnetometry · cold atoms · optical control · magnetometer · spin dynamics</description>
+<category>comagnetometry</category>
+<category>cold atoms</category>
+<category>optical control</category>
+<category>magnetometer</category>
+<category>spin dynamics</category>
+</item>
+<item>
+<title>Light-switch for nerve cells</title>
+<link>https://doi.org/10.1038/s41566-026-02055-2</link>
+<guid isPermaLink="false">10.1038/s41566-026-02055-2</guid>
+<pubDate>Sat, 31 Oct 2026 00:01:06 GMT</pubDate>
+<description>این مقاله به روش‌های نوری برای کنترل فعالیت سلول‌های عصبی و کاربردهای آن در علوم اعصاب می‌پردازد.&lt;br&gt;Nature Photonics | 💭 Perspective&lt;br&gt;🏷 optogenetics · photopharmacology · nerve cells · light control · ion channels</description>
+<category>optogenetics</category>
+<category>photopharmacology</category>
+<category>nerve cells</category>
+<category>light control</category>
+<category>ion channels</category>
+</item>
 <item>
 <title>Using open-weight models to investigate human-driven changes in hydrology</title>
 <link>https://doi.org/10.1038/s43017-026-00856-1</link>
@@ -1134,78 +1206,6 @@
 <category>bendability</category>
 <category>coating degradation</category>
 <category>improvement strategy</category>
-</item>
-<item>
-<title>Metal-rod-guided radial freezing enables PVA/MXene aerogels for coupled water transport and salt management in solar interfacial evaporation</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.054</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.054</guid>
-<pubDate>Fri, 30 Oct 2026 20:02:07 GMT</pubDate>
-<description>این پژوهش با انجماد شعاعی هدایت‌شده توسط میله فلزی، ایروژل‌های PVA/MXene را برای انتقال آب و مدیریت نمک هم‌زمان در تبخیر سطحی خورشیدی می‌سازد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 PVA/MXene aerogel · solar interfacial evaporation · radial freezing · salt management · water transport</description>
-<category>PVA/MXene aerogel</category>
-<category>solar interfacial evaporation</category>
-<category>radial freezing</category>
-<category>salt management</category>
-<category>water transport</category>
-</item>
-<item>
-<title>Laser-induced energy-field reprogramming of polymeric porous membranes for multifunctional flexible electronics</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.056</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.056</guid>
-<pubDate>Fri, 30 Oct 2026 20:02:04 GMT</pubDate>
-<description>این مقاله بازبرنامه‌ریزی میدان انرژی القاشده با لیزر در غشاهای متخلخل پلیمری را برای ساخت الکترونیک انعطاف‌پذیر چندکاره ارائه می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 polymeric porous membranes · laser-induced reprogramming · flexible electronics · energy-field patterning · multifunctional membranes</description>
-<category>polymeric porous membranes</category>
-<category>laser-induced reprogramming</category>
-<category>flexible electronics</category>
-<category>energy-field patterning</category>
-<category>multifunctional membranes</category>
-</item>
-<item>
-<title>From internal oxidation to hierarchical oxide evolution: Revealing novel diffusion-mediated oxidation mechanisms in low-alloy steel</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.051</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.051</guid>
-<pubDate>Fri, 30 Oct 2026 20:02:01 GMT</pubDate>
-<description>این پژوهش گذار از اکسیداسیون داخلی به تکامل سلسله‌مراتبی اکسید را بررسی کرده و سازوکارهای جدید اکسیداسیون با واسطه نفوذ در فولاد کم‌آلیاژ را آشکار می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 low-alloy steel · internal oxidation · hierarchical oxide · diffusion-mediated oxidation · oxide evolution</description>
-<category>low-alloy steel</category>
-<category>internal oxidation</category>
-<category>hierarchical oxide</category>
-<category>diffusion-mediated oxidation</category>
-<category>oxide evolution</category>
-</item>
-<item>
-<title>Chalcogenide perovskite semiconductors toward sustainable energy conversion: Phase formation, sulfur stoichiometry, and photovoltaic device integration</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.052</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.052</guid>
-<pubDate>Fri, 30 Oct 2026 20:01:58 GMT</pubDate>
-<description>این مرور به نیمه‌هادی‌های پروسکایت کالکوژنیدی برای تبدیل انرژی پایدار می‌پردازد و تشکیل فاز، استوکیومتری گوگرد و یکپارچه‌سازی ادوات فتوولتائیک را بررسی می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | ⭐ Review&lt;br&gt;🏷 chalcogenide perovskite · photovoltaic devices · sulfur stoichiometry · phase formation · sustainable energy conversion</description>
-<category>chalcogenide perovskite</category>
-<category>photovoltaic devices</category>
-<category>sulfur stoichiometry</category>
-<category>phase formation</category>
-<category>sustainable energy conversion</category>
-</item>
-<item>
-<title>Twinning evolution and dislocation transmutation mechanisms in AZ31 Mg alloy under high cumulative deformation via multi-directional rotating alternating backward extrusion</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.055</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.055</guid>
-<pubDate>Fri, 30 Oct 2026 20:01:55 GMT</pubDate>
-<description>این مقاله سازوکارهای تکامل دوقلویی و تبدیل نابجایی در آلیاژ منیزیم AZ31 تحت تغییرشکل تجمعی بالا با اکستروژن معکوس چرخشی چندجهته را بررسی می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 AZ31 Mg alloy · twinning evolution · dislocation transmutation · multi-directional extrusion · severe plastic deformation</description>
-<category>AZ31 Mg alloy</category>
-<category>twinning evolution</category>
-<category>dislocation transmutation</category>
-<category>multi-directional extrusion</category>
-<category>severe plastic deformation</category>
-</item>
-<item>
-<title>Durable rechargeable aluminum metal batteries enabled by cation-mediated interfacial environment regulation</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.035</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.035</guid>
-<pubDate>Fri, 30 Oct 2026 19:05:00 GMT</pubDate>
-<description>باتری‌های فلزی آلومینیمی قابل شارژ با تنظیم محیط سطح مشترک به‌واسطه کاتیون، پایداری و دوام چرخه‌ای بالایی نشان دادند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 aluminum metal battery · rechargeable battery · cation mediation · interfacial regulation · cycling durability</description>
-<category>aluminum metal battery</category>
-<category>rechargeable battery</category>
-<category>cation mediation</category>
-<category>interfacial regulation</category>
-<category>cycling durability</category>
 </item>
 </channel>
 </rss>
