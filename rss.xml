@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 09:01:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 10:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unlocking rigid K+ layers with ionic liquids enables efficient CO2 electroreduction to C2+ products</title>
+<link>https://doi.org/10.1016/j.esci.2026.100664</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100664</guid>
+<pubDate>Sat, 31 Oct 2026 10:01:10 GMT</pubDate>
+<description>استفاده از مایعات یونی برای آزادسازی لایه‌های سخت K+ در الکترولیت، الکتروکاهش CO2 به محصولات C2+ را کارآمدتر می‌کند.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 electroreduction · ionic liquids · C2+ products · potassium ions · electrolyte engineering</description>
+<category>CO2 electroreduction</category>
+<category>ionic liquids</category>
+<category>C2+ products</category>
+<category>potassium ions</category>
+<category>electrolyte engineering</category>
+</item>
 <item>
 <title>How to Engineer Biological Nanopores for Single-Molecule Capture and Discrimination</title>
 <link>https://doi.org/10.1021/acs.chemrev.5c00846</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>MHC-peptide complex</category>
 <category>structure prediction</category>
 <category>immunoinformatics</category>
-</item>
-<item>
-<title>Mitochondrial metabolic reprogramming by a glutamine antagonist radioenhancer conjugate drives pyroptosis and antitumor immunity</title>
-<link>https://doi.org/10.1126/sciadv.aeh5903</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh5903</guid>
-<pubDate>Fri, 30 Oct 2026 20:04:57 GMT</pubDate>
-<description>نانوپلتفرم MOF حاوی Hf-Ir و دون glutamine antagonist، متابولیسم میتوکندریایی تومور را بازبرنامه‌ریزی کرده، پرتوپتوز و ایمنی ضدتوموری را تقویت می‌کند و رشد تومور را بیش از ۹۵٪ مهار می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 MOF nanoplatform · glutamine antagonist · radiodynamic therapy · pyroptosis · antitumor immunity</description>
-<category>MOF nanoplatform</category>
-<category>glutamine antagonist</category>
-<category>radiodynamic therapy</category>
-<category>pyroptosis</category>
-<category>antitumor immunity</category>
 </item>
 </channel>
 </rss>
