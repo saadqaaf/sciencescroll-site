@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 16:02:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 17:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermodynamic performance and peak-load shaving of a variable refrigerant flow system integrated with ice thermal energy storage: A real-building experimental evaluation</title>
+<link>https://doi.org/10.1016/j.est.2026.125311</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125311</guid>
+<pubDate>Sat, 31 Oct 2026 17:01:13 GMT</pubDate>
+<description>این مقاله عملکرد ترمودینامیکی و کاهش بار پیک یک سیستم VRF مجهز به ذخیره‌سازی انرژی حرارتی یخ را در یک ساختمان واقعی به‌صورت تجربی ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ice thermal energy storage · variable refrigerant flow · peak-load shaving · thermodynamic performance · building experiment</description>
+<category>ice thermal energy storage</category>
+<category>variable refrigerant flow</category>
+<category>peak-load shaving</category>
+<category>thermodynamic performance</category>
+<category>building experiment</category>
+</item>
 <item>
 <title>Fluorination‐Assisted Aqueous Quenching Chemistry Stabilizes Oxygen Redox in Li‐Rich Layered Oxides</title>
 <link>https://doi.org/10.1002/smll.76104</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>3D-printed anode</category>
 <category>lithium-ion storage</category>
 <category>defect engineering</category>
-</item>
-<item>
-<title>Beyond Isolated Active Sites: Adjacent Single‐Atom‐Nanoparticle Electronic Coupling Enables Lateral Lithium Growth</title>
-<link>https://doi.org/10.1002/adma.75485</link>
-<guid isPermaLink="false">10.1002/adma.75485</guid>
-<pubDate>Thu, 29 Oct 2026 09:02:06 GMT</pubDate>
-<description>با جفت‌شدگی الکترونیکی بین نانوذرات Co و اتم‌های تک‌نشسته مجاور در میزبان گرافنی، رشد جانبی Li ممکن و پایداری آند لیتیوم فلزی در باتری Li||LiFePO4 بهبود یافت.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in adjacent single-atom–nanoparticle electronic coupling that creates a directed spatial Li adsorption-energy gradient, overcoming the thermodynamic trap of isolated single-atom sites that causes vertical Li accumulation. This enables lateral Li growth and dendrite-free anodes, achieving 71.4% capacity retention after 1000 cycles at 2 C in high-loading full cells, transcending the isolated-active-site paradigm for practical lithium metal batteries.&lt;br&gt;🏷 lithium metal anode · single-atom-nanoparticle coupling · lateral lithium growth · graphene host · laser direct writing</description>
-<category>lithium metal anode</category>
-<category>single-atom-nanoparticle coupling</category>
-<category>lateral lithium growth</category>
-<category>graphene host</category>
-<category>laser direct writing</category>
 </item>
 </channel>
 </rss>
