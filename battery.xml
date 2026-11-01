@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 10:01:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 11:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Li+-locked domain effect for breaking the temperature stability bottleneck in thermal-detection high-entropy energy storage ceramics</title>
+<link>https://doi.org/10.1038/s41467-026-79179-0</link>
+<guid isPermaLink="false">10.1038/s41467-026-79179-0</guid>
+<pubDate>Sun, 01 Nov 2026 11:01:38 GMT</pubDate>
+<description>اثر دامنه قفل‌شده Li+ گلوگاه پایداری دمایی سرامیک‌های ذخیره‌ساز انرژی آنتروپی‌بالا برای آشکارسازی حرارتی را می‌شکند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a Li+-locked domain effect within a high-entropy ceramic, preserving polar nanodomains to 300 °C and breaking the temperature-stability bottleneck. It achieves 11.43 J·cm−3, 84.67% efficiency, and Δη/η &amp;lt; 0.3% up to 320 °C, plus Yb3+/Tm3+ optical thermometry (±0.23 K). This enables self-diagnosing, ultra-stable ceramic pulse generators for safer brain pacemakers.&lt;br&gt;🏷 high-entropy ceramics · energy storage ceramics · thermal detection · temperature stability · Li+ locked domain</description>
+<category>high-entropy ceramics</category>
+<category>energy storage ceramics</category>
+<category>thermal detection</category>
+<category>temperature stability</category>
+<category>Li+ locked domain</category>
+</item>
 <item>
 <title>Transference Number of Electrolytes at Infinite Dilution</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02281</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>degradation-aware control</category>
 <category>islanded microgrid</category>
 <category>five-layer control</category>
-</item>
-<item>
-<title>Optimal voyage and power scheduling of ships considering waste heat recovery and energy storage system</title>
-<link>https://doi.org/10.1016/j.est.2026.125290</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125290</guid>
-<pubDate>Thu, 29 Oct 2026 15:01:36 GMT</pubDate>
-<description>این مقاله یک مدل بهینه‌سازی برای برنامه‌ریزی سفر و توان کشتی‌ها با در نظر گرفتن بازیابی گرمای اتلافی و سیستم ذخیره‌سازی انرژی ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ship scheduling · waste heat recovery · energy storage system · voyage optimization · power scheduling</description>
-<category>ship scheduling</category>
-<category>waste heat recovery</category>
-<category>energy storage system</category>
-<category>voyage optimization</category>
-<category>power scheduling</category>
 </item>
 </channel>
 </rss>
