@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 01:03:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 02:02:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Relating Pore-Network Descriptors to TFSI- Dynamics and Electrochemical Charging in Templated Carbon Electrodes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122263</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122263</guid>
+<pubDate>Sun, 01 Nov 2026 02:02:36 GMT</pubDate>
+<description>رابطه میان توصیف‌گرهای شبکه حفره‌ای الکترودهای کربنی قالب‌دار و دینامیک آنیون TFSI- و شارژ الکتروشیمیایی آن‌ها بررسی شد.&lt;br&gt;Carbon | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 templated carbon electrode · TFSI- dynamics · pore-network descriptors · electrochemical charging · supercapacitor</description>
+<category>templated carbon electrode</category>
+<category>TFSI- dynamics</category>
+<category>pore-network descriptors</category>
+<category>electrochemical charging</category>
+<category>supercapacitor</category>
+</item>
+<item>
+<title>Correlative Operando X‐Ray Imaging and Diffraction Revealing Mechanical Failure Pathways in Lithium Metal Sulfide‐Based All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/smll.76550</link>
+<guid isPermaLink="false">10.1002/smll.76550</guid>
+<pubDate>Sun, 01 Nov 2026 02:02:23 GMT</pubDate>
+<description>با ترکیب تصویربرداری و پراش پرتو ایکس عملیاتی، مسیرهای شکست مکانیکی و تخریب رابط در باتری تمام‌جامد Li6PS5Cl با آند لیتیوم و کاتد NCM811 بررسی شد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely correlates operando XCT and XRD with stack pressure monitoring to link particle-level morphology, lattice strain, and interfacial degradation in sulfide-based ASSBs. It reveals reversible NCM811 volume changes, heterogeneous lithiation, LPSC oxidative decomposition, and crack-induced short circuits at the LPSC|Li interface, providing multiscale mechanistic insight and design principles for mechanically robust all-solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · sulfide electrolyte · operando X-ray imaging · lithium metal anode · chemo-mechanical degradation</description>
+<category>all-solid-state battery</category>
+<category>sulfide electrolyte</category>
+<category>operando X-ray imaging</category>
+<category>lithium metal anode</category>
+<category>chemo-mechanical degradation</category>
+</item>
+<item>
+<title>Programming Closed Pores in Hard Carbon Anodes via Alcohol‐Regulated Interfacial Assembly for High‐Rate and Durable Sodium‐Ion Storage</title>
+<link>https://doi.org/10.1002/smll.76471</link>
+<guid isPermaLink="false">10.1002/smll.76471</guid>
+<pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
+<description>این پژوهش با راهبرد خودآرایی بین‌سطحی تنظیم‌شده با الکل، حفرات بسته را در آند کربن سخت برنامه‌ریزی می‌کند و ظرفیت صفحه ولتاژ پایین، نرخ بالا و پایداری چرخه طولانی در SIB فراهم می‌آورد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in programming closed pores during precursor assembly via alcohol-regulated interfacial assembly, rather than post-carbonization reconstruction, enabling control over pore accessibility and interfacial chemistry. This yields hard carbon with abundant closed ultramicropores, thin inorganic-rich SEI, outstanding rate capability (119 mAh g⁻¹ at 10 A g⁻¹), 6000-cycle stability, and excellent low-temperature performance, establishing a general strategy for fast-charging, long-life sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · closed pores · sodium-ion battery · interfacial assembly · SEI layer</description>
+<category>hard carbon anode</category>
+<category>closed pores</category>
+<category>sodium-ion battery</category>
+<category>interfacial assembly</category>
+<category>SEI layer</category>
+</item>
+<item>
+<title>In Situ Assembled Carboxyl‐Functionalized Hexaazatrinaphthylene Enables Accelerated Li + Transport and Localized FEC Enrichment in Silicon Anodes</title>
+<link>https://doi.org/10.1002/smll.76520</link>
+<guid isPermaLink="false">10.1002/smll.76520</guid>
+<pubDate>Sun, 01 Nov 2026 02:01:27 GMT</pubDate>
+<description>این مقاله با مهندسی میان‌سطح مولکولی مبتنی بر HATNTA در آند Si، غنی‌سازی موضعی FEC و تشکیل SEI غنی از LiF را ممکن کرده و انتقال Li+ و پایداری چرخه را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using carboxyl-functionalized HATNTA, a π-conjugated HATN derivative, as a molecular interphase engineer for Si anodes. Its polar C═N sites coordinate Li⁺ while carboxyl groups locally enrich FEC, steering formation of a LiF-rich SEI. This suppresses electrolyte decomposition and electrode degradation, yielding high ICE (92.56%), excellent rate capability, and stable cycling—offering a molecular design strategy for stabilizing Si anodes.&lt;br&gt;🏷 silicon anode · solid electrolyte interphase · HATNTA · LiF-rich SEI · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>solid electrolyte interphase</category>
+<category>HATNTA</category>
+<category>LiF-rich SEI</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Fluorine-driven electrolytes for low-temperature lithium batteries: from atomic substitution to rational design</title>
 <link>https://doi.org/10.1016/j.nanoen.2026.112539</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>fluorinated cation</category>
 <category>plastic crystal</category>
 <category>interphase</category>
-</item>
-<item>
-<title>Na‐Site Energetics Reconfiguration Enables Full Capacity Utilization of Sodium Iron Sulfate Cathodes</title>
-<link>https://doi.org/10.1002/smll.76436</link>
-<guid isPermaLink="false">10.1002/smll.76436</guid>
-<pubDate>Thu, 29 Oct 2026 14:02:51 GMT</pubDate>
-<description>مدولاسیون الکترواستاتیکی چندآنیونی، چشم‌انداز انرژی جایگاه‌های Na را در کاتد سولفات آهن-سدیم بازآرایی کرده و به ظرفیت 100 mAh g-1 و پایداری 90% پس از 1500 چرخه می‌رسد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in mixed-polyanion electrostatic modulation that reconfigures Na-site energetics, steering Na⁺ into favorable Na2/Na3 sites, suppressing Fe–Na disorder at Na4, and unlocking trapped Na1. This enables near-theoretical capacity (100 of 102 mAh g⁻¹) in a full cell plus 90% retention over 1500 cycles at 5C, establishing hetero-anion substitution as a design strategy for kinetically constrained polyanion cathodes.&lt;br&gt;🏷 sodium-ion battery · iron sulfate cathode · Na-site energetics · polyanion · capacity utilization</description>
-<category>sodium-ion battery</category>
-<category>iron sulfate cathode</category>
-<category>Na-site energetics</category>
-<category>polyanion</category>
-<category>capacity utilization</category>
-</item>
-<item>
-<title>Local Bonding and Reconstruction Enhancing Ion Transport in Li 3 InCl 6</title>
-<link>https://doi.org/10.1002/smll.76542</link>
-<guid isPermaLink="false">10.1002/smll.76542</guid>
-<pubDate>Thu, 29 Oct 2026 14:02:35 GMT</pubDate>
-<description>دوپینگ Nb5+ در الکترولیت جامد هالیدی Li3InCl6 با ایجاد اعوجاج ساختاری موضعی و تضعیف پیوند Li-Cl، رسانایی یونی را به 1.03 mS cm-1 رسانده و پایداری باتری تمام‌جامد را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Nb⁵⁺ aliovalent doping of Li₃InCl₆ induces local structural distortion and bond reorganization, creating strong Nb─Cl bonds that weaken Li─Cl interactions and optimize Li⁺ migration pathways. This yields high ionic conductivity (1.03 mS cm⁻¹), low activation energy (0.305 eV), suppressed electronic conductivity, and stable cycling. The work clarifies cation-doping regulation of local bonding, offering design guidance for high-performance halide solid electrolytes.&lt;br&gt;🏷 halide solid electrolyte · Li3InCl6 · Nb doping · ion transport · all-solid-state battery</description>
-<category>halide solid electrolyte</category>
-<category>Li3InCl6</category>
-<category>Nb doping</category>
-<category>ion transport</category>
-<category>all-solid-state battery</category>
-</item>
-<item>
-<title>Insights into Degradation Mechanisms and Optimization Strategies for High‐Voltage High‐Ni Cathode Materials</title>
-<link>https://doi.org/10.1002/eem2.70534</link>
-<guid isPermaLink="false">10.1002/eem2.70534</guid>
-<pubDate>Thu, 29 Oct 2026 14:01:52 GMT</pubDate>
-<description>این مرور، سازوکارهای تخریب کاتدهای لایه‌ای پرنیکل در ولتاژ بالا و راهبردهای اصلاح برای پایدارسازی ساختاری و افزایش عمر چرخه‌ای Li-ion را بررسی می‌کند.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely integrates atomic-scale characterization insights into O3/O1 stacking evolution, surface/interfacial degradation, and phase deterioration of high-Ni cathodes, while comparing single- versus polycrystalline degradation behaviors including stress–strain and cracking. It critically assesses modification strategies reinforcing intrinsic structural stability, offering rational design guidelines for high-voltage, high-energy-density cathodes in next-generation Li-ion batteries.&lt;br&gt;🏷 high-Ni cathode · Li-ion battery · degradation mechanism · surface modification · single-crystalline cathode</description>
-<category>high-Ni cathode</category>
-<category>Li-ion battery</category>
-<category>degradation mechanism</category>
-<category>surface modification</category>
-<category>single-crystalline cathode</category>
-</item>
-<item>
-<title>Thermal Runaways of All-Solid-State Lithium Batteries Revealed by Rapid Operando Neutron Imaging</title>
-<link>https://doi.org/10.1016/j.etran.2026.100649</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100649</guid>
-<pubDate>Thu, 29 Oct 2026 13:02:47 GMT</pubDate>
-<description>تصویربرداری نوترونی operando سریع، فرار حرارتی باتری‌های لیتیومی تمام‌جامد را آشکار کرد.&lt;br&gt;eTransportation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 all-solid-state battery · thermal runaway · operando neutron imaging · lithium battery safety · solid electrolyte</description>
-<category>all-solid-state battery</category>
-<category>thermal runaway</category>
-<category>operando neutron imaging</category>
-<category>lithium battery safety</category>
-<category>solid electrolyte</category>
 </item>
 </channel>
 </rss>
