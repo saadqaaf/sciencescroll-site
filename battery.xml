@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 09:01:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 10:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transference Number of Electrolytes at Infinite Dilution</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02281</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02281</guid>
+<pubDate>Sun, 01 Nov 2026 10:01:06 GMT</pubDate>
+<description>مقاله روشی بر پایه نظریه محلول غلیظ Newman برای تعیین عدد انتقال کاتیون در رقت بی‌نهایت ارائه و آن را با الکترولیت PEO/NaTFSI اعتبارسنجی می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a new approach, based on Newman&amp;#x27;s concentrated solution theory and dilute-limit constraints, to determine the cation transference number at infinite dilution (t+0), validated with PEO/NaTFSI data. Its significance is deriving a simple quadratic equation linking t+0 to readily measurable transport properties, enabling more accurate modeling of concentration gradients and limiting current for improved electrochemical device design and optimization.&lt;br&gt;🏷 transference number · infinite dilution · polymer electrolyte · ion transport · concentrated solution theory</description>
+<category>transference number</category>
+<category>infinite dilution</category>
+<category>polymer electrolyte</category>
+<category>ion transport</category>
+<category>concentrated solution theory</category>
+</item>
 <item>
 <title>Charge Transfer Mediators for Anodic Corrosion Mitigation and Enhanced Energy Storage via Proton-Coupled Electron Transfer</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105625</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>energy storage system</category>
 <category>voyage optimization</category>
 <category>power scheduling</category>
-</item>
-<item>
-<title>A facile strategy for constructing nitrogen and carbon enriched cobalt–silicon composites for high-performance lithium-ion battery anodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125352</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125352</guid>
-<pubDate>Thu, 29 Oct 2026 15:01:31 GMT</pubDate>
-<description>این پژوهش یک راهبرد ساده برای ساخت کامپوزیت‌های کبالت-سیلیکون غنی از نیتروژن و کربن ارائه می‌دهد که عملکرد بالایی به‌عنوان آند باتری لیتیوم-یون نشان می‌دهند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · cobalt-silicon composite · nitrogen doping · anode · carbon enrichment</description>
-<category>lithium-ion battery</category>
-<category>cobalt-silicon composite</category>
-<category>nitrogen doping</category>
-<category>anode</category>
-<category>carbon enrichment</category>
 </item>
 </channel>
 </rss>

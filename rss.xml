@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 09:01:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 10:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anti-PEG antibodies in drug delivery: From origins to mitigation strategies</title>
+<link>https://doi.org/10.1016/j.addr.2026.115984</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.115984</guid>
+<pubDate>Sun, 01 Nov 2026 10:01:09 GMT</pubDate>
+<description>این مقاله مروری منشأ و مکانیسم تشکیل آنتی‌بادی‌های ضد PEG و راهکارهای کاهش اثر آن‌ها در سامانه‌های دارورسانی را بررسی می‌کند.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 anti-PEG antibodies · PEGylated nanomedicine · drug delivery · PEG immunogenicity · mitigation strategies</description>
+<category>anti-PEG antibodies</category>
+<category>PEGylated nanomedicine</category>
+<category>drug delivery</category>
+<category>PEG immunogenicity</category>
+<category>mitigation strategies</category>
+</item>
+<item>
+<title>Transference Number of Electrolytes at Infinite Dilution</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02281</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02281</guid>
+<pubDate>Sun, 01 Nov 2026 10:01:06 GMT</pubDate>
+<description>مقاله روشی بر پایه نظریه محلول غلیظ Newman برای تعیین عدد انتقال کاتیون در رقت بی‌نهایت ارائه و آن را با الکترولیت PEO/NaTFSI اعتبارسنجی می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a new approach, based on Newman&amp;#x27;s concentrated solution theory and dilute-limit constraints, to determine the cation transference number at infinite dilution (t+0), validated with PEO/NaTFSI data. Its significance is deriving a simple quadratic equation linking t+0 to readily measurable transport properties, enabling more accurate modeling of concentration gradients and limiting current for improved electrochemical device design and optimization.&lt;br&gt;🏷 transference number · infinite dilution · polymer electrolyte · ion transport · concentrated solution theory</description>
+<category>transference number</category>
+<category>infinite dilution</category>
+<category>polymer electrolyte</category>
+<category>ion transport</category>
+<category>concentrated solution theory</category>
+</item>
 <item>
 <title>Charge Transfer Mediators for Anodic Corrosion Mitigation and Enhanced Energy Storage via Proton-Coupled Electron Transfer</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105625</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NMR st
 <category>urea-formaldehyde resin</category>
 <category>afterglow</category>
 <category>anti-counterfeiting</category>
-</item>
-<item>
-<title>Dual‐Input Two‐Dimensional Floating‐Gate Memory With Intrinsic Stochasticity for Secure Information Processing</title>
-<link>https://doi.org/10.1002/smll.76292</link>
-<guid isPermaLink="false">10.1002/smll.76292</guid>
-<pubDate>Sat, 31 Oct 2026 16:01:41 GMT</pubDate>
-<description>حافظه شناور دو ورودی مبتنی بر هتروساختار Bi2O2S/h-BN/graphene با پاسخ‌های تصادفی اپتوالکترونیکی را برای رمزنگاری امن متن و تصویر به کار می‌برد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 floating-gate memory · 2D heterostructure · Bi2O2S · stochastic conductance · image encryption</description>
-<category>floating-gate memory</category>
-<category>2D heterostructure</category>
-<category>Bi2O2S</category>
-<category>stochastic conductance</category>
-<category>image encryption</category>
-</item>
-<item>
-<title>Relevance of the Magnetic Nanoparticles for Second Harmonic Ultrasound Generation: A New Approach for Magneto‐Acoustic Theranostic</title>
-<link>https://doi.org/10.1002/smll.76346</link>
-<guid isPermaLink="false">10.1002/smll.76346</guid>
-<pubDate>Sat, 31 Oct 2026 16:01:37 GMT</pubDate>
-<description>این مقاله نشان می‌دهد نانوذرات مغناطیسی تحت میدان الکترومغناطیسی پالسی، فراصوت هارمونیک دوم تولید می‌کنند که پایه‌ای برای توموگرافی و درمان‌های ترانوستیک مگنتو-آکوستیک است.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 magnetic nanoparticles · second harmonic ultrasound · magneto-acoustic · hyperthermia · theranostics</description>
-<category>magnetic nanoparticles</category>
-<category>second harmonic ultrasound</category>
-<category>magneto-acoustic</category>
-<category>hyperthermia</category>
-<category>theranostics</category>
 </item>
 </channel>
 </rss>
