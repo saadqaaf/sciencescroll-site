@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 07:01:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 08:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>MOF-derived metal oxides, phosphides, sulfides, selenides as cathode materials for Li-S batteries</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218724</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218724</guid>
+<pubDate>Sun, 01 Nov 2026 08:01:10 GMT</pubDate>
+<description>این مقاله مروری به بررسی اکسیدها، فسفیدها، سولفیدها و سلنیدهای فلزی مشتق از MOF به عنوان مواد کاتد برای باتری‌های Li-S می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Li-S battery · MOF-derived materials · metal oxides · metal phosphides · polysulfide conversion</description>
+<category>Li-S battery</category>
+<category>MOF-derived materials</category>
+<category>metal oxides</category>
+<category>metal phosphides</category>
+<category>polysulfide conversion</category>
+</item>
 <item>
 <title>Progress in direct ammonia solid oxide fuel cells: Advanced materials, functional mechanisms and technologies</title>
 <link>https://doi.org/10.1016/j.mser.2026.101328</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NMR st
 <category>laser ablation</category>
 <category>wireless sensing</category>
 <category>breakdown discharge</category>
-</item>
-<item>
-<title>Zr‑functionalized carbon aerogel composites: A multiscale design for irradiation‑resistant thermal barriers</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.058</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.058</guid>
-<pubDate>Sat, 31 Oct 2026 16:01:08 GMT</pubDate>
-<description>این مقاله طراحی چندمقیاسی کامپوزیت‌های ایروژل کربنی عامل‌دار شده با Zr را برای ساخت سدهای حرارتی مقاوم در برابر تابش ارائه می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 carbon aerogel · Zr functionalization · thermal barrier · irradiation resistance · multiscale design</description>
-<category>carbon aerogel</category>
-<category>Zr functionalization</category>
-<category>thermal barrier</category>
-<category>irradiation resistance</category>
-<category>multiscale design</category>
 </item>
 </channel>
 </rss>

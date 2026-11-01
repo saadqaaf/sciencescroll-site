@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 07:01:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 08:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>MOF-derived metal oxides, phosphides, sulfides, selenides as cathode materials for Li-S batteries</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218724</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218724</guid>
+<pubDate>Sun, 01 Nov 2026 08:01:10 GMT</pubDate>
+<description>این مقاله مروری به بررسی اکسیدها، فسفیدها، سولفیدها و سلنیدهای فلزی مشتق از MOF به عنوان مواد کاتد برای باتری‌های Li-S می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Li-S battery · MOF-derived materials · metal oxides · metal phosphides · polysulfide conversion</description>
+<category>Li-S battery</category>
+<category>MOF-derived materials</category>
+<category>metal oxides</category>
+<category>metal phosphides</category>
+<category>polysulfide conversion</category>
+</item>
 <item>
 <title>Relating Pore-Network Descriptors to TFSI- Dynamics and Electrochemical Charging in Templated Carbon Electrodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122263</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>cylindrical battery</category>
 <category>shape memory composite</category>
 <category>battery safety</category>
-</item>
-<item>
-<title>Fluorinated Plastic Crystal Cation Enables Stable Inorganic‐Rich Interphase in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76429</link>
-<guid isPermaLink="false">10.1002/smll.76429</guid>
-<pubDate>Thu, 29 Oct 2026 14:02:57 GMT</pubDate>
-<description>طراحی کاتیون فلوئوره در بلور پلاستیکی، همراه با پلیمر و نمک فلوئوره، الکترولیت جامد با رسانایی 0.9 mS cm-1 و لایه میانی غنی از فلوئور برای باتری‌های لیتیوم فلزی پایدار ایجاد می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a fluorinated plastic crystal cation as a new fluorine source for interfacial regulation, combined with a fluorinated polymer scaffold and FSI⁻. This cationic fluorination approach yields high ionic conductivity, Li⁺ transference number, and stable cycling in Li/LiFePO₄, high-voltage NCM622, and Li/LiCoO₂ cells, establishing fluorinated cations as effective interfacial modifiers for next-generation solid-state batteries.&lt;br&gt;🏷 lithium metal battery · solid polymer electrolyte · fluorinated cation · plastic crystal · interphase</description>
-<category>lithium metal battery</category>
-<category>solid polymer electrolyte</category>
-<category>fluorinated cation</category>
-<category>plastic crystal</category>
-<category>interphase</category>
 </item>
 </channel>
 </rss>
