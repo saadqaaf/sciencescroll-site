@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 11:01:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 12:03:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Core–Shell Co@v‐CoO x /C Electrocatalysts With Balanced Intermediate Adsorption for High‐Performance Rechargeable Zinc–Air Batteries</title>
+<link>https://doi.org/10.1002/smll.76492</link>
+<guid isPermaLink="false">10.1002/smll.76492</guid>
+<pubDate>Sun, 01 Nov 2026 12:03:09 GMT</pubDate>
+<description>کاتالیزور هسته-پوسته Co@v-CoOx/C با هسته فلزی به‌عنوان مخزن الکترون، جذب حدواسط‌های اکسیژن را متعادل کرده و باتری روی-هوا با توان 184 mW cm–2 و پایداری حدود 3200 ساعت ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a metal-core-buffered vacancy-shell strategy: metallic Co nanodots act as an electron reservoir that buffers vacancy-induced polarized Co─O─C motifs, weakening excessive *OH binding and balancing oxygen activation with site regeneration. This enables superior bifunctional ORR/OER activity and record ~3200 h Zn-air battery cycling, advancing vacancy-engineered electrocatalyst design.&lt;br&gt;🏷 Zn-air battery · Co@CoOx core-shell · oxygen electrocatalysis · vacancy engineering · bifunctional catalyst</description>
+<category>Zn-air battery</category>
+<category>Co@CoOx core-shell</category>
+<category>oxygen electrocatalysis</category>
+<category>vacancy engineering</category>
+<category>bifunctional catalyst</category>
+</item>
+<item>
+<title>Gear‐Meshing Design Reduces Heterointerfacial Mass‐Transfer Barriers for Accelerated Li + Conduction in Composite Polymer Electrolytes</title>
+<link>https://doi.org/10.1002/smll.76470</link>
+<guid isPermaLink="false">10.1002/smll.76470</guid>
+<pubDate>Sun, 01 Nov 2026 12:03:04 GMT</pubDate>
+<description>الکترولیت پلیمری کامپوزیتی با طراحی درهم‌قفل‌شوندگی چرخ‌دنده‌ای، سد انتقال جرم در فصل مشترک را کاهش داده و رسانایی یونی 0.5 mS cm–1 و عدد انتقال Li+ برابر 0.52 را در 60 °C فراهم کرد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a gear-meshing interfacial design using polydopamine as a molecular gear-like coupler that meshes polymer chains with Al₂O₃ fillers, improving compatibility and anchoring anions to liberate mobile Li⁺. Combined with a 3D PAN framework, it enables continuous Li⁺ pathways, achieving 0.52 transference number, 0.5 mS cm⁻¹ conductivity, and 4200 h dendrite-free cycling—advancing all-solid-state lithium metal batteries.&lt;br&gt;🏷 composite polymer electrolyte · Li+ conduction · solid-state battery · polydopamine coating · heterointerface</description>
+<category>composite polymer electrolyte</category>
+<category>Li+ conduction</category>
+<category>solid-state battery</category>
+<category>polydopamine coating</category>
+<category>heterointerface</category>
+</item>
+<item>
+<title>Intelligent Polymer Electrolytes for Next‐Generation Zinc‐Based Energy Storage Devices</title>
+<link>https://doi.org/10.1002/advs.78546</link>
+<guid isPermaLink="false">10.1002/advs.78546</guid>
+<pubDate>Sun, 01 Nov 2026 12:02:17 GMT</pubDate>
+<description>این مرور، الکترولیت‌های پلیمری هوشمند برای باتری‌های روی-یون، روی-هوا و خازن‌های هیبریدی روی را از نظر تنظیم یون، سرکوب دندریت و پایداری بررسی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely consolidates intelligent polymer electrolytes across ZIBs, ZABs, and ZIHCs, emphasizing multifunctional regulation of ion transport, water activity, and interfacial chemistry. Its significance lies in framing molecular design strategies for self-healing, antifreezing, and adaptive electrolytes, while highlighting AI-driven discovery and sustainability. It provides a rational design framework for safer, durable, flexible, commercially viable zinc-based energy storage.&lt;br&gt;🏷 zinc-ion battery · polymer electrolyte · hydrogel · dendrite suppression · self-healing</description>
+<category>zinc-ion battery</category>
+<category>polymer electrolyte</category>
+<category>hydrogel</category>
+<category>dendrite suppression</category>
+<category>self-healing</category>
+</item>
+<item>
+<title>Neutron Depth Profiling: The Core Link Connecting the Microscopic Mechanisms of Lithium‐Ion Batteries With Intelligent Design</title>
+<link>https://doi.org/10.1002/advs.78467</link>
+<guid isPermaLink="false">10.1002/advs.78467</guid>
+<pubDate>Sun, 01 Nov 2026 12:01:41 GMT</pubDate>
+<description>این مرور، اصول و کاربردهای Neutron Depth Profiling را برای پروفایل‌سازی عمقی 6Li در باتری‌های لیتیوم-یون و طراحی هوشمند باتری بررسی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely bridges NDP fundamentals, global neutron-source advances, and cutting-edge Li-ion battery applications—covering Li migration, dendrite nucleation, and reversible short-circuits. It highlights NDP&amp;#x27;s unmatched quantitative ⁶Li depth profiling, proposes a roadmap integrating multimodal characterization and physics-informed machine learning for intelligent battery design, and identifies open challenges, offering actionable guidelines for next-generation high-safety, high-energy batteries.&lt;br&gt;🏷 neutron depth profiling · lithium-ion battery · 6Li profiling · solid electrolyte interphase · operando characterization</description>
+<category>neutron depth profiling</category>
+<category>lithium-ion battery</category>
+<category>6Li profiling</category>
+<category>solid electrolyte interphase</category>
+<category>operando characterization</category>
+</item>
+<item>
+<title>When are Two‐Dimensional Covalent Organic Frameworks Good Electrodes for Lithium Ion Batteries? A Data‐Driven Analysis</title>
+<link>https://doi.org/10.1002/advs.78599</link>
+<guid isPermaLink="false">10.1002/advs.78599</guid>
+<pubDate>Sun, 01 Nov 2026 12:01:32 GMT</pubDate>
+<description>با ترکیب DFT و یادگیری ماشین روی ۱۰۹۹ COF دوبعدی، قواعد طراحی الکترود استخراج و ۱۴ آند و ۱۴ کاتد برای باتری تمام‌آلی لیتیومی معرفی شد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study delivers the first data-driven mapping of structure–electrode–function relationships across 1099 synthesized 2D COFs, combining DFT with machine learning to derive atomic-level design rules for cathode- and anode-like behavior. Screening yields 28 candidates, and paired all-organic full cells exceed 2 V with &amp;gt;200 mAh g⁻¹, surpassing small-molecule and polymer electrodes.&lt;br&gt;🏷 2D covalent organic frameworks · lithium-ion battery · machine learning · DFT · organic electrodes</description>
+<category>2D covalent organic frameworks</category>
+<category>lithium-ion battery</category>
+<category>machine learning</category>
+<category>DFT</category>
+<category>organic electrodes</category>
+</item>
 <item>
 <title>Li+-locked domain effect for breaking the temperature stability bottleneck in thermal-detection high-entropy energy storage ceramics</title>
 <link>https://doi.org/10.1038/s41467-026-79179-0</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>iron sulfide</category>
 <category>intercalation</category>
 <category>sodium storage</category>
-</item>
-<item>
-<title>Balancing Fast Li-Ion Transport Kinetics and Mechanical Strength in PEO-Based Composite Solid Electrolytes through Minimal Dinitrile Incorporation</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03510</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03510</guid>
-<pubDate>Thu, 29 Oct 2026 16:01:17 GMT</pubDate>
-<description>افزودن مقدار کم hexanedinitrile به الکترولیت جامد PEO با رقابت در هماهنگی Li+، رسانایی یونی و استحکام مکانیکی را همزمان بهبود می‌دهد و پایداری چرخه‌ای Li||LiFePO4 را افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using minimal hexanedinitrile (2.30 wt%) to competitively coordinate Li+, forming mobile Li(HDN)x+ species while preserving the PEO backbone. This decouples ionic conductivity from mechanical strength, yielding 4.87×10–4 S cm–1 at 60 °C and 1.08 MPa tensile strength, with stable Li plating (1000 h) and 94.8% capacity retention after 250 cycles at 3C—offering a design principle for high-performance PEO electrolytes.&lt;br&gt;🏷 PEO solid electrolyte · hexanedinitrile · Li-ion transport · competitive coordination · mechanical strength</description>
-<category>PEO solid electrolyte</category>
-<category>hexanedinitrile</category>
-<category>Li-ion transport</category>
-<category>competitive coordination</category>
-<category>mechanical strength</category>
-</item>
-<item>
-<title>Experimental investigation of a localized flow control strategy for enhancing temperature uniformity in single-phase immersion battery thermal management</title>
-<link>https://doi.org/10.1016/j.est.2026.125314</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125314</guid>
-<pubDate>Thu, 29 Oct 2026 15:01:58 GMT</pubDate>
-<description>این مطالعه تجربی یک راهبرد کنترل جریان موضعی را برای بهبود یکنواختی دما در مدیریت حرارتی غوطه‌وری تک‌فازی باتری بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · immersion cooling · flow control · temperature uniformity · single-phase cooling</description>
-<category>battery thermal management</category>
-<category>immersion cooling</category>
-<category>flow control</category>
-<category>temperature uniformity</category>
-<category>single-phase cooling</category>
-</item>
-<item>
-<title>Dispatch-oriented virtual energy storage aggregation of electric vehicles and flexible loads for source–grid–load–storage coordination</title>
-<link>https://doi.org/10.1016/j.est.2026.125224</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125224</guid>
-<pubDate>Thu, 29 Oct 2026 15:01:54 GMT</pubDate>
-<description>این پژوهش یک روش تجمیع ذخیره‌سازی انرژی مجازی مبتنی بر خودروهای برقی و بارهای انعطاف‌پذیر برای هماهنگی منبع-شبکه-بار-ذخیره‌سازی در برنامه‌ریزی ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 virtual energy storage · electric vehicles · flexible loads · source-grid-load-storage · dispatch aggregation</description>
-<category>virtual energy storage</category>
-<category>electric vehicles</category>
-<category>flexible loads</category>
-<category>source-grid-load-storage</category>
-<category>dispatch aggregation</category>
-</item>
-<item>
-<title>Adsorbed molecular layers regulate Zn2+ interfacial chemistry for durable aqueous Zn metal batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125342</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125342</guid>
-<pubDate>Thu, 29 Oct 2026 15:01:46 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که لایه‌های مولکولی جذب‌شده شیمی سطح مشترک Zn2+ را تنظیم کرده و باتری‌های آبی روی فلزی با دوام بالا را ممکن می‌سازند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · Zn anode · adsorbed molecular layer · interfacial chemistry · Zn2+ deposition</description>
-<category>aqueous zinc battery</category>
-<category>Zn anode</category>
-<category>adsorbed molecular layer</category>
-<category>interfacial chemistry</category>
-<category>Zn2+ deposition</category>
-</item>
-<item>
-<title>Five-layer degradation-aware control of hybrid energy storage in islanded direct-current microgrids</title>
-<link>https://doi.org/10.1016/j.est.2026.125208</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125208</guid>
-<pubDate>Thu, 29 Oct 2026 15:01:41 GMT</pubDate>
-<description>این پژوهش یک کنترل پنج‌لایه آگاه از تخریب برای ذخیره‌سازی انرژی هیبریدی در ریزشبکه‌های DC جزیره‌ای ارائه می‌دهد تا عمر و پایداری سیستم بهبود یابد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · DC microgrid · degradation-aware control · islanded microgrid · five-layer control</description>
-<category>hybrid energy storage</category>
-<category>DC microgrid</category>
-<category>degradation-aware control</category>
-<category>islanded microgrid</category>
-<category>five-layer control</category>
 </item>
 </channel>
 </rss>
