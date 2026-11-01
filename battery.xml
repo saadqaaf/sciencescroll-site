@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 00:01:17 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 01:03:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fluorine-driven electrolytes for low-temperature lithium batteries: from atomic substitution to rational design</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112539</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112539</guid>
+<pubDate>Sun, 01 Nov 2026 01:01:28 GMT</pubDate>
+<description>این مقاله راهبردهای الکترولیت مبتنی بر فلوئور را از جانشینی اتمی تا طراحی منطقی برای بهبود عملکرد باتری‌های لیتیومی در دمای پایین مرور می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 low-temperature lithium battery · fluorinated electrolyte · atomic substitution · electrolyte design · Li-ion transport</description>
+<category>low-temperature lithium battery</category>
+<category>fluorinated electrolyte</category>
+<category>atomic substitution</category>
+<category>electrolyte design</category>
+<category>Li-ion transport</category>
+</item>
 <item>
 <title>Ultralow Deposition Potential and Antisite-Boosted Diffusivity of Li3Ga2 Anode for All-Solid-State Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02308</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>operando neutron imaging</category>
 <category>lithium battery safety</category>
 <category>solid electrolyte</category>
-</item>
-<item>
-<title>Cyanide‐Driven Nitrite Trapping Enables Robustly‐Coupled Gel/Cathode Interfaces in Zinc‐Air Batteries</title>
-<link>https://doi.org/10.1002/adfm.79376</link>
-<guid isPermaLink="false">10.1002/adfm.79376</guid>
-<pubDate>Thu, 29 Oct 2026 12:01:53 GMT</pubDate>
-<description>این کار با بهره‌گیری از تله‌اندازی نیتریت ناشی از سیانید، اتصال شیمیایی ژل/کاتد را در باتری روی-هوا تقویت کرده و چگالی توان ۱۴۴ mW cm−2 را به دست می‌آورد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using cyanide release from a Prussian blue analogue during electrochemical reconstruction to form −NO₂ linkers that chemically bond CoOOH to the PVA gel, creating a robust interface. This significantly improves OH⁻ transport, adhesion, and water retention, enabling high power density (144 mW cm⁻²) and stable flexible cable-type zinc-air batteries.&lt;br&gt;🏷 zinc-air battery · gel electrolyte · Prussian blue analogue · CoOOH interface · nitrite trapping</description>
-<category>zinc-air battery</category>
-<category>gel electrolyte</category>
-<category>Prussian blue analogue</category>
-<category>CoOOH interface</category>
-<category>nitrite trapping</category>
 </item>
 </channel>
 </rss>
