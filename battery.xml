@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 18:01:26 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 19:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Deciphering the Interfacial Chemistry Governing Oriented Zinc Electrodeposition in Aqueous Zinc Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105627</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105627</guid>
+<pubDate>Sun, 01 Nov 2026 19:01:35 GMT</pubDate>
+<description>شیمی سطح مشترک حاکم بر رسوب‌دهی جهت‌دار روی در باتری‌های آبی فلز روی بررسی شد تا مکانیسم رشد کنترل‌شده مشخص گردد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc metal battery · zinc electrodeposition · interfacial chemistry · aqueous electrolyte · oriented growth</description>
+<category>zinc metal battery</category>
+<category>zinc electrodeposition</category>
+<category>interfacial chemistry</category>
+<category>aqueous electrolyte</category>
+<category>oriented growth</category>
+</item>
 <item>
 <title>Unlocking high-energy solid-state sodium batteries with MOF/polymer composite electrolytes: A review</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218741</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>NMR spectroscopy</category>
 <category>ion dynamics</category>
 <category>polymer matrix</category>
-</item>
-<item>
-<title>Bimetallic Copper–Cobalt Phosphide Nanoflowers on Ti3C2Tx MXene sheets for high-energy-density aqueous hybrid supercapacitors: Integrating DFT calculations with experimental validation</title>
-<link>https://doi.org/10.1039/d6ta05184g</link>
-<guid isPermaLink="false">10.1039/d6ta05184g</guid>
-<pubDate>Thu, 29 Oct 2026 17:01:47 GMT</pubDate>
-<description>نانوگل‌های فسفید مس-کبالت روی Ti3C2Tx MXene با DFT و آزمایش برای ابرخازن آبی هیبریدی با چگالی انرژی بالا بررسی شدند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bimetallic Cu–Co phosphide nanoflowers grown on Ti3C2Tx MXene sheets, combining DFT calculations with experimental validation. This synergy enhances electrochemical performance, enabling high-energy-density aqueous hybrid supercapacitors. The work advances MXene-based phosphide composites as efficient electrodes, offering a promising route for durable, high-power energy storage systems.&lt;br&gt;🏷 hybrid supercapacitor · Cu-Co phosphide · MXene · DFT · nanoflowers</description>
-<category>hybrid supercapacitor</category>
-<category>Cu-Co phosphide</category>
-<category>MXene</category>
-<category>DFT</category>
-<category>nanoflowers</category>
 </item>
 </channel>
 </rss>
