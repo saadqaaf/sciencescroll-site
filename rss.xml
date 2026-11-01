@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 02:02:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 03:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Matrix-confined Zn/Cu bimetallic MOFs couple bacterial adhesion resistance with osteoimmunomodulation for infected bone regeneration</title>
+<link>https://doi.org/10.1016/j.nantod.2026.103222</link>
+<guid isPermaLink="false">10.1016/j.nantod.2026.103222</guid>
+<pubDate>Sun, 01 Nov 2026 03:01:02 GMT</pubDate>
+<description>این مقاله MOFهای دومتالی Zn/Cu محدودشده در ماتریس را برای مقاومت به چسبندگی باکتری و تعدیل ایمنی استخوان در بازسازی استخوان عفونی به کار می‌برد.&lt;br&gt;Nano Today | 🔬 Research Article&lt;br&gt;🏷 bimetallic MOF · Zn/Cu MOF · antibacterial adhesion · osteoimmunomodulation · infected bone regeneration</description>
+<category>bimetallic MOF</category>
+<category>Zn/Cu MOF</category>
+<category>antibacterial adhesion</category>
+<category>osteoimmunomodulation</category>
+<category>infected bone regeneration</category>
+</item>
+<item>
+<title>Scalable additive construction of reinforced ice structures based on a mixed phase ice slurry with biopolymers</title>
+<link>https://doi.org/10.1016/j.addma.2026.105414</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105414</guid>
+<pubDate>Sun, 01 Nov 2026 03:00:58 GMT</pubDate>
+<description>این مقاله ساخت افزودنی ساختارهای یخ تقویت‌شده را بر پایه دوغاب یخ فازی مختلط با بیوپلیمرها ارائه می‌کند و مقیاس‌پذیری آن را نشان می‌دهد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 reinforced ice · ice slurry · biopolymers · additive construction · 3D printing</description>
+<category>reinforced ice</category>
+<category>ice slurry</category>
+<category>biopolymers</category>
+<category>additive construction</category>
+<category>3D printing</category>
+</item>
 <item>
 <title>Relating Pore-Network Descriptors to TFSI- Dynamics and Electrochemical Charging in Templated Carbon Electrodes</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122263</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclic ethers · hydroalk
 <category>charge migration</category>
 <category>self-assembled monolayer</category>
 <category>silicon</category>
-</item>
-<item>
-<title>HERC2–UBE3A structure uncovers a domain-motif protein network potentially altered in Angelman and related syndromes</title>
-<link>https://doi.org/10.1038/s41467-026-78412-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-78412-0</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:13 GMT</pubDate>
-<description>این مقاله ساختار کمپلکس HERC2-UBE3A را تعیین کرده و شبکه دامنه-موتیف مرتبط با سندرم Angelman را آشکار می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 HERC2-UBE3A · Angelman syndrome · protein structure · domain-motif network · ubiquitin ligase</description>
-<category>HERC2-UBE3A</category>
-<category>Angelman syndrome</category>
-<category>protein structure</category>
-<category>domain-motif network</category>
-<category>ubiquitin ligase</category>
-</item>
-<item>
-<title>A stem-like CD8+ T cell reservoir resists exhaustion and sustains alloimmunity a decade after transplantation</title>
-<link>https://doi.org/10.1038/s41467-026-79209-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-79209-x</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:09 GMT</pubDate>
-<description>این مقاله نشان می‌دهد مخزنی از سلول‌های T CD8+ شبه‌بنیادی با تولید مداوم افکتورهای سیتوتوکسیک، آلوایمنی را یک دهه پس از پیوند حفظ می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CD8+ T cells · stem-like reservoir · alloimmunity · transplant rejection · TCF1</description>
-<category>CD8+ T cells</category>
-<category>stem-like reservoir</category>
-<category>alloimmunity</category>
-<category>transplant rejection</category>
-<category>TCF1</category>
 </item>
 </channel>
 </rss>
