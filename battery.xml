@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 17:00:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 18:01:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unlocking high-energy solid-state sodium batteries with MOF/polymer composite electrolytes: A review</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218741</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218741</guid>
+<pubDate>Sun, 01 Nov 2026 18:01:08 GMT</pubDate>
+<description>این مرور به بررسی الکترولیت‌های کامپوزیتی MOF/پلیمر برای باتری‌های سدیم حالت جامد پرانرژی و نقش آن‌ها در بهبود رسانایی یونی و پایداری سطح مشترک می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 solid-state sodium battery · MOF/polymer electrolyte · composite electrolyte · ionic conductivity · interfacial stability</description>
+<category>solid-state sodium battery</category>
+<category>MOF/polymer electrolyte</category>
+<category>composite electrolyte</category>
+<category>ionic conductivity</category>
+<category>interfacial stability</category>
+</item>
 <item>
 <title>Core–Shell Co@v‐CoO x /C Electrocatalysts With Balanced Intermediate Adsorption for High‐Performance Rechargeable Zinc–Air Batteries</title>
 <link>https://doi.org/10.1002/smll.76492</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>MXene</category>
 <category>DFT</category>
 <category>nanoflowers</category>
-</item>
-<item>
-<title>Intercalation of Iron Sulfide into Graphite for Highperformance Sodium Storage</title>
-<link>https://doi.org/10.1039/d6ta04988e</link>
-<guid isPermaLink="false">10.1039/d6ta04988e</guid>
-<pubDate>Thu, 29 Oct 2026 17:01:41 GMT</pubDate>
-<description>با میان‌لایه‌گذاری سولفید آهن در گرافیت، آند گرافیتی برای ذخیره‌سازی سدیم در باتری‌های یون‌سدیم عملکرد بالایی نشان داد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in intercalating iron sulfide into graphite to create a composite anode that overcomes graphite&amp;#x27;s poor sodium storage. This approach leverages graphite&amp;#x27;s stability with iron sulfide&amp;#x27;s high capacity, enabling high-performance sodium-ion batteries. Its significance is advancing low-cost, sustainable SIB anodes for grid-scale energy storage.&lt;br&gt;🏷 sodium-ion battery · graphite anode · iron sulfide · intercalation · sodium storage</description>
-<category>sodium-ion battery</category>
-<category>graphite anode</category>
-<category>iron sulfide</category>
-<category>intercalation</category>
-<category>sodium storage</category>
 </item>
 </channel>
 </rss>
