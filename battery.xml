@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 23:01:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ultralow Deposition Potential and Antisite-Boosted Diffusivity of Li3Ga2 Anode for All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02308</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02308</guid>
+<pubDate>Sun, 01 Nov 2026 00:01:11 GMT</pubDate>
+<description>آند آلیاژی Li3Ga2 با پتانسیل رسوب فوق‌پایین و نفوذ سریع Li، از طریق اختلاط آنتی‌سایت، چگالی جریان بحرانی و عمر چرخه بالایی در باتری تمام‌جامد LiCoO2 فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Li3Ga2 alloy anode combining an ultralow deposition potential (0.007 V) with fast Li diffusivity (2.0×10–8 cm2 s–1) via moderate Li/Ga antisite mixing. This enables a 24 mA cm–2 critical current density, 96.5% initial Coulombic efficiency, 2000-cycle life, and stable pouch cells—redefining alloy anode design by synergistically optimizing potential and atomic diffusivity.&lt;br&gt;🏷 Li3Ga2 alloy anode · all-solid-state battery · Li diffusivity · antisite mixing · deposition potential</description>
+<category>Li3Ga2 alloy anode</category>
+<category>all-solid-state battery</category>
+<category>Li diffusivity</category>
+<category>antisite mixing</category>
+<category>deposition potential</category>
+</item>
 <item>
 <title>Challenges and Strategies of Halide Solid Electrolytes: Paving the Pathway to Practical Commercialization</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105623</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>Prussian blue analogue</category>
 <category>CoOOH interface</category>
 <category>nitrite trapping</category>
-</item>
-<item>
-<title>Dynamic Reconstruction Engineered Grain Boundaries and Dual-Metal-Directed Module Functionalization for Boosting CO2 Electroreduction to Ethanol and High-Performance Aqueous Zn-CO2 Battery</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127708</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127708</guid>
-<pubDate>Thu, 29 Oct 2026 11:01:35 GMT</pubDate>
-<description>مرزهای دانه مهندسی‌شده و عامل‌دارسازی دومدنی، احیای CO2 به اتانول و عملکرد باتری آبی Zn-CO2 را تقویت می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 electroreduction · ethanol synthesis · grain boundaries · Zn-CO2 battery · dual-metal catalyst</description>
-<category>CO2 electroreduction</category>
-<category>ethanol synthesis</category>
-<category>grain boundaries</category>
-<category>Zn-CO2 battery</category>
-<category>dual-metal catalyst</category>
 </item>
 </channel>
 </rss>

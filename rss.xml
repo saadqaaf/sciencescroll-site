@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 23:01:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Gradient Engineered Microporous Layers for Enhanced Oxygen Transport in PEM Water Electrolysis</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02173</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02173</guid>
+<pubDate>Sun, 01 Nov 2026 00:01:15 GMT</pubDate>
+<description>لایه میکروپروس گرادیانی با افزایش تخلخل از سمت کاتالیست به PTL، انتقال اکسیژن را در الکترولیز آب PEM بهبود داده و ولتاژ را در چگالی جریان بالا کاهش می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 PEM water electrolysis · microporous layer · oxygen transport · pore gradient · digital twin</description>
+<category>PEM water electrolysis</category>
+<category>microporous layer</category>
+<category>oxygen transport</category>
+<category>pore gradient</category>
+<category>digital twin</category>
+</item>
+<item>
+<title>Ultralow Deposition Potential and Antisite-Boosted Diffusivity of Li3Ga2 Anode for All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02308</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02308</guid>
+<pubDate>Sun, 01 Nov 2026 00:01:11 GMT</pubDate>
+<description>آند آلیاژی Li3Ga2 با پتانسیل رسوب فوق‌پایین و نفوذ سریع Li، از طریق اختلاط آنتی‌سایت، چگالی جریان بحرانی و عمر چرخه بالایی در باتری تمام‌جامد LiCoO2 فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Li3Ga2 alloy anode combining an ultralow deposition potential (0.007 V) with fast Li diffusivity (2.0×10–8 cm2 s–1) via moderate Li/Ga antisite mixing. This enables a 24 mA cm–2 critical current density, 96.5% initial Coulombic efficiency, 2000-cycle life, and stable pouch cells—redefining alloy anode design by synergistically optimizing potential and atomic diffusivity.&lt;br&gt;🏷 Li3Ga2 alloy anode · all-solid-state battery · Li diffusivity · antisite mixing · deposition potential</description>
+<category>Li3Ga2 alloy anode</category>
+<category>all-solid-state battery</category>
+<category>Li diffusivity</category>
+<category>antisite mixing</category>
+<category>deposition potential</category>
+</item>
 <item>
 <title>Challenges and Strategies of Halide Solid Electrolytes: Paving the Pathway to Practical Commercialization</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105623</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 PEMFC cathode · triple-p
 <category>mantle weakening</category>
 <category>phase breakdown</category>
 <category>mineral physics</category>
-</item>
-<item>
-<title>Capturing the Hidden Short-Range Order in Amorphous Oxide Interfaces That Directs Quasi-Epitaxial Thin-Film Growth</title>
-<link>https://doi.org/10.1021/acsnano.6c13264</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13264</guid>
-<pubDate>Sat, 31 Oct 2026 05:02:01 GMT</pubDate>
-<description>با ترکیب STEM چهاربعدی، میکروسکوپی الکترونی نوسانی و پتیکوگرافی، نظم کوتاه‌برداری پنهان در Ta2O5 آمورف در فصل مشترک Ru/Ta2O5 کشف شد که رشد شبه‌اپیتاکسیال فیلم Ru را هدایت می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 amorphous Ta2O5 · short-range order · electron ptychography · Ru thin films · quasi-epitaxial growth</description>
-<category>amorphous Ta2O5</category>
-<category>short-range order</category>
-<category>electron ptychography</category>
-<category>Ru thin films</category>
-<category>quasi-epitaxial growth</category>
-</item>
-<item>
-<title>Sweeping Surface Trap States under the Carpet: Cd2+ Inclusion in InAs Quantum Dots</title>
-<link>https://doi.org/10.1021/acsnano.6c15005</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15005</guid>
-<pubDate>Sat, 31 Oct 2026 05:01:58 GMT</pubDate>
-<description>افزودن CdCl2 در سنتز نقاط کوانتومی InAs آلیاژ In(Cd)As با گاف نواری باریک‌تر و فوتولومینسانس بهبودیافته تا ۱۴۳۰ نانومتر ایجاد می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 InAs quantum dots · Cd doping · photoluminescence · trap states · DFT</description>
-<category>InAs quantum dots</category>
-<category>Cd doping</category>
-<category>photoluminescence</category>
-<category>trap states</category>
-<category>DFT</category>
 </item>
 </channel>
 </rss>
