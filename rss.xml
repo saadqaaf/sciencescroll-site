@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 06:01:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 07:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Progress in direct ammonia solid oxide fuel cells: Advanced materials, functional mechanisms and technologies</title>
+<link>https://doi.org/10.1016/j.mser.2026.101328</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101328</guid>
+<pubDate>Sun, 01 Nov 2026 07:01:18 GMT</pubDate>
+<description>این مقاله پیشرفت پیل‌های سوختی اکسید جامد با سوخت آمونیاک مستقیم را از نظر مواد پیشرفته، سازوکارهای عملکردی و فناوری‌ها مرور می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 ammonia SOFC · solid oxide fuel cell · anode materials · direct ammonia · functional mechanisms</description>
+<category>ammonia SOFC</category>
+<category>solid oxide fuel cell</category>
+<category>anode materials</category>
+<category>direct ammonia</category>
+<category>functional mechanisms</category>
+</item>
+<item>
+<title>From Water Vapor Transmission Rate (WVTR) to Intrinsic Water Vapor Permeability (WVP)</title>
+<link>https://doi.org/10.1002/adma.75578</link>
+<guid isPermaLink="false">10.1002/adma.75578</guid>
+<pubDate>Sun, 01 Nov 2026 07:01:15 GMT</pubDate>
+<description>مدل مقاومت‌های سری برای اصلاح اندازه‌گیری WVTR ارائه شد و انحراف را از 49.8% به 6.2% در غشای AEM کاهش داد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 water vapor transmission · permeability measurement · wet-cup test · apparatus resistance · anion-exchange membrane</description>
+<category>water vapor transmission</category>
+<category>permeability measurement</category>
+<category>wet-cup test</category>
+<category>apparatus resistance</category>
+<category>anion-exchange membrane</category>
+</item>
+<item>
+<title>Bottom‐Cell Engineering as the Key to Perovskite/CIGS Tandem Solar Cells</title>
+<link>https://doi.org/10.1002/adma.75576</link>
+<guid isPermaLink="false">10.1002/adma.75576</guid>
+<pubDate>Sun, 01 Nov 2026 07:01:11 GMT</pubDate>
+<description>این مرور مهندسی سلول زیرین CIGS شامل گرادیان Ga، تیمار قلیایی و لایه بازترکیب را برای سلول‌های تاندم پروسکایت/CIGS و تجاری‌سازی آن بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;🏷 perovskite/CIGS tandem · bottom-cell engineering · Ga gradient · alkali treatment · recombination layer</description>
+<category>perovskite/CIGS tandem</category>
+<category>bottom-cell engineering</category>
+<category>Ga gradient</category>
+<category>alkali treatment</category>
+<category>recombination layer</category>
+</item>
+<item>
+<title>Blending With Insulating Polymers Enables Stable Anti‐Ambipolar Characteristics in n‐Type Organic Mixed‐Conductors for Heterogeneous Spiking Neurons</title>
+<link>https://doi.org/10.1002/adma.75538</link>
+<guid isPermaLink="false">10.1002/adma.75538</guid>
+<pubDate>Sun, 01 Nov 2026 07:01:08 GMT</pubDate>
+<description>آمیختن نیمه‌رسانای n-type با PMMA ویژگی anti-ambipolar پایدار در OECT ایجاد کرد و نورون‌های اسپایکی کم‌مصرف و قابل‌تنظیم ساخت.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 organic electrochemical transistor · anti-ambipolar · polymer blend · mixed conductor · spiking neuron</description>
+<category>organic electrochemical transistor</category>
+<category>anti-ambipolar</category>
+<category>polymer blend</category>
+<category>mixed conductor</category>
+<category>spiking neuron</category>
+</item>
+<item>
+<title>Water‐Heat Synergistic Regulation to Optimize Water State and Enhance Thermal Effect in Solar Interfacial Evaporation</title>
+<link>https://doi.org/10.1002/adma.75554</link>
+<guid isPermaLink="false">10.1002/adma.75554</guid>
+<pubDate>Sun, 01 Nov 2026 07:01:05 GMT</pubDate>
+<description>با ساختار حفره‌ای سلسله‌مراتبی در بیومس چوبی و جبران حرارتی، حالت آب و اثر حرارتی بهینه شد و نرخ تبخیر 5.12 kg m−2 h−1 به دست آمد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 solar interfacial evaporation · wood-based evaporator · hierarchical pores · intermediate water · thermal compensation</description>
+<category>solar interfacial evaporation</category>
+<category>wood-based evaporator</category>
+<category>hierarchical pores</category>
+<category>intermediate water</category>
+<category>thermal compensation</category>
+</item>
 <item>
 <title>Biomimetic Silk Fibroin Aerogel Fibers with Boosted Thermal Insulation and a Flame-Retardant Tough Shell Endowed with Hydrophobicity</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114357</link>
@@ -1149,68 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NMR st
 <category>thermal barrier</category>
 <category>irradiation resistance</category>
 <category>multiscale design</category>
-</item>
-<item>
-<title>Ligand Field Determines g-Tensor Anisotropy and Radicaloid Character of (L)RuV=O and (L)RuV=N Catalytic Intermediates</title>
-<link>https://doi.org/10.1021/jacs.6c17124</link>
-<guid isPermaLink="false">10.1021/jacs.6c17124</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:35 GMT</pubDate>
-<description>محاسبات CASSCF/NEVPT2 نشان می‌دهد میدان لیگاند انرژی حالت‌های برانگیخته و در نتیجه ناهمسانگردی g-tensor و خصلت رادیکال‌گونه کمپلکس‌های RuV=O و RuV=N را تعیین می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 RuV=O · RuV=N · g-tensor anisotropy · ligand field · CASSCF/NEVPT2</description>
-<category>RuV=O</category>
-<category>RuV=N</category>
-<category>g-tensor anisotropy</category>
-<category>ligand field</category>
-<category>CASSCF/NEVPT2</category>
-</item>
-<item>
-<title>Synthesis of Medium-Sized Cyclic Ethers via Endo -Selective Pd(0)/B(C6F5)3-Catalyzed Hydroalkoxylation of Enynols and Enynediols</title>
-<link>https://doi.org/10.1021/jacs.6c18163</link>
-<guid isPermaLink="false">10.1021/jacs.6c18163</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:32 GMT</pubDate>
-<description>این مقاله روشی ملایم و endo-گزینش‌پذیر با کاتالیز Pd(0)/B(C6F5)3 برای سنتز اترهای حلقوی ۶ تا ۸ عضوی از طریق هیدروآلکوکسیلاسیون انینول‌ها ارائه می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cyclic ethers · hydroalkoxylation · enynols · palladium catalysis · borane cocatalyst</description>
-<category>cyclic ethers</category>
-<category>hydroalkoxylation</category>
-<category>enynols</category>
-<category>palladium catalysis</category>
-<category>borane cocatalyst</category>
-</item>
-<item>
-<title>Cell Spreading-Enhanced Electron-Transfer Electrochemical Cytosensor Enabling Single-Cell Detection</title>
-<link>https://doi.org/10.1038/s41467-026-79183-4</link>
-<guid isPermaLink="false">10.1038/s41467-026-79183-4</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:29 GMT</pubDate>
-<description>این مقاله یک حسگر الکتروشیمیایی سلولی مبتنی بر گسترش سلول برای تقویت انتقال الکترون ارائه می‌دهد که امکان تشخیص در سطح تک‌سلول را فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electrochemical cytosensor · single-cell detection · cell spreading · electron transfer · cytosensing</description>
-<category>electrochemical cytosensor</category>
-<category>single-cell detection</category>
-<category>cell spreading</category>
-<category>electron transfer</category>
-<category>cytosensing</category>
-</item>
-<item>
-<title>Sulfation enabled dynamic activation and single-atom extraction against SO2 poisoning</title>
-<link>https://doi.org/10.1038/s41467-026-79088-2</link>
-<guid isPermaLink="false">10.1038/s41467-026-79088-2</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:26 GMT</pubDate>
-<description>این مقاله راهبرد سولفاته‌کردن را برای فعال‌سازی دینامیکی و استخراج تک‌اتم به‌منظور مقاومت در برابر مسمومیت SO2 معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 SO2 poisoning · sulfation · single-atom extraction · dynamic activation · catalysis</description>
-<category>SO2 poisoning</category>
-<category>sulfation</category>
-<category>single-atom extraction</category>
-<category>dynamic activation</category>
-<category>catalysis</category>
-</item>
-<item>
-<title>High-performance devices from lab-scale to micro module directed by vertical PbI2 homogeneous growth perovskite films</title>
-<link>https://doi.org/10.1038/s41467-026-79173-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-79173-6</guid>
-<pubDate>Sat, 31 Oct 2026 15:02:23 GMT</pubDate>
-<description>این مقاله با رشد همگن نانوسیم‌های PbI2، فیلم‌های پروسکایتی یکنواخت ساخته و بازده ۲۶.۹۴٪ در سلول و ۲۴.۶۰٪ در میکروماجول را گزارش می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 perovskite solar cells · PbI2 nanowires · two-step deposition · micro module · GIWAXS</description>
-<category>perovskite solar cells</category>
-<category>PbI2 nanowires</category>
-<category>two-step deposition</category>
-<category>micro module</category>
-<category>GIWAXS</category>
 </item>
 </channel>
 </rss>
