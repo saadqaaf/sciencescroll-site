@@ -5,8 +5,21 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 20:01:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:01:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Stable Terminal Mercury Hydride and Its Reactivity To Form Mercury–Metal Bonds</title>
+<link>https://doi.org/10.1021/jacs.6c18189</link>
+<guid isPermaLink="false">10.1021/jacs.6c18189</guid>
+<pubDate>Sun, 01 Nov 2026 21:00:59 GMT</pubDate>
+<description>پژوهشگران با استفاده از اسکلت فلورنیل-هیدرین‌داسن یک هیدرید آریل‌جیوه پایدار سنتز و شناسایی کردند که با رادیکال‌های فلزی و هیدریدهای فلزی واکنش داده و پیوندهای جیوه-فلز نامرتبط تشکیل می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 mercury hydride · metal-metal bond · fluorenyl-hydrindacene · metalloradical · bimetallic complex</description>
+<category>mercury hydride</category>
+<category>metal-metal bond</category>
+<category>fluorenyl-hydrindacene</category>
+<category>metalloradical</category>
+<category>bimetallic complex</category>
+</item>
 <item>
 <title>Deciphering the Interfacial Chemistry Governing Oriented Zinc Electrodeposition in Aqueous Zinc Metal Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105627</link>
@@ -1197,18 +1210,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NMR st
 <category>AI protein design</category>
 <category>lipid nanoparticles</category>
 <category>directed evolution</category>
-</item>
-<item>
-<title>Reversal of trauma-induced monocyte paralysis by IFN-γ fails to prevent ventilator-associated pneumonia, implicating lymphoid deficits in infection risk</title>
-<link>https://doi.org/10.1038/s41467-026-78844-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-78844-8</guid>
-<pubDate>Sun, 01 Nov 2026 01:02:40 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که IFN-γ نقص مونوسیتی ناشی از تروما را برطرف می‌کند اما از پنومونی مرتبط با ونتیلاتور پیشگیری نمی‌کند و نقص لنفوئیدی را عامل مهم‌تر خطر عفونت می‌داند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ventilator-associated pneumonia · IFN-gamma · monocyte paralysis · lymphoid deficits · immunoprofiling</description>
-<category>ventilator-associated pneumonia</category>
-<category>IFN-gamma</category>
-<category>monocyte paralysis</category>
-<category>lymphoid deficits</category>
-<category>immunoprofiling</category>
 </item>
 </channel>
 </rss>
