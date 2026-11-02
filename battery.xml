@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 20:01:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 21:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering single-atom catalysts for sodium-based batteries</title>
+<link>https://doi.org/10.1039/d6ta07471e</link>
+<guid isPermaLink="false">10.1039/d6ta07471e</guid>
+<pubDate>Mon, 02 Nov 2026 21:01:35 GMT</pubDate>
+<description>این مرور عملکرد کاتالیزورهای تک‌اتمی را در باتری‌های سدیم‌محور در دو دسته فرآیندهای انتقال/سطحی و تنظیم شیمی ردوکس سازمان‌دهی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in categorizing single-atom catalyst functions in sodium-based batteries into transport/interfacial processes and redox chemistry regulation, with design principles for each. Its significance is providing a structured framework linking catalyst structure to function, guiding rational engineering of high-performance single-atom catalysts for advanced sodium-based battery systems.&lt;br&gt;🏷 single-atom catalysts · sodium-based batteries · ion transport · interfacial processes · redox regulation</description>
+<category>single-atom catalysts</category>
+<category>sodium-based batteries</category>
+<category>ion transport</category>
+<category>interfacial processes</category>
+<category>redox regulation</category>
+</item>
+<item>
+<title>A comprehensive review of sputter grown thin film electrodes: developments, strategies, and advancements</title>
+<link>https://doi.org/10.1039/d6ta01029f</link>
+<guid isPermaLink="false">10.1039/d6ta01029f</guid>
+<pubDate>Mon, 02 Nov 2026 21:01:20 GMT</pubDate>
+<description>این مرور جامع، پیشرفت‌ها و راهبردهای ساخت الکترودهای لایه نازک به روش اسپاترینگ را برای ابرخازن‌های نسل آینده بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The review consolidates recent progress in sputter-grown thin-film electrodes for supercapacitors, uniquely linking deposition parameters to electrochemical performance. Its significance lies in systematically mapping development strategies and advancements, offering a unified framework that guides rational design of micro and flexible energy storage devices, thereby accelerating practical translation of sputtered electrode technologies.&lt;br&gt;🏷 thin-film electrodes · sputtering · supercapacitors · flexible energy storage · micro-devices</description>
+<category>thin-film electrodes</category>
+<category>sputtering</category>
+<category>supercapacitors</category>
+<category>flexible energy storage</category>
+<category>micro-devices</category>
+</item>
+<item>
+<title>Framework for Understanding Electrochemical Behavior in Synthetic Graphites</title>
+<link>https://doi.org/10.1039/d6ta07206b</link>
+<guid isPermaLink="false">10.1039/d6ta07206b</guid>
+<pubDate>Mon, 02 Nov 2026 21:01:15 GMT</pubDate>
+<description>این مقاله چارچوبی برای درک رفتار الکتروشیمیایی گرافیت‌های مصنوعی ارائه می‌دهد و نشان می‌دهد مشخصات فعلی باتری تضمین‌کننده عملکرد پایدار نیستند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in proposing a framework that links synthetic graphite properties to electrochemical performance, addressing gaps in current battery-grade specifications that fail to ensure consistency as new producers enter the market. Its significance is enabling reliable qualification of diverse synthetic graphites, supporting the scale-up of global supply needed for electrification.&lt;br&gt;🏷 synthetic graphite · anode · electrochemical performance · battery-grade specifications · quality control</description>
+<category>synthetic graphite</category>
+<category>anode</category>
+<category>electrochemical performance</category>
+<category>battery-grade specifications</category>
+<category>quality control</category>
+</item>
 <item>
 <title>Synergistic redox activity of Cd-doped manganese Prussian blue analogue for high-energy sodium-ion hybrid supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125370</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>electrostatic potential</category>
 <category>energy loss</category>
 <category>guest donor</category>
-</item>
-<item>
-<title>Defect inheritance upgrading of spent LiMn2O4 to disordered rock-salt cathodes: stabilized oxygen redox enabled by regulating electron localization</title>
-<link>https://doi.org/10.1016/j.scib.2026.10.069</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.10.069</guid>
-<pubDate>Fri, 30 Oct 2026 17:01:43 GMT</pubDate>
-<description>ارتقای سلول‌های مستعمل LiMn2O4 به کاتدهای rock-salt بی‌نظم با تنظیم جایگزیدگی الکترون، اکسایش-کاهش اکسیژن پایدار را ممکن می‌سازد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 LiMn2O4 upcycling · disordered rock-salt · oxygen redox · electron localization · spent cathodes</description>
-<category>LiMn2O4 upcycling</category>
-<category>disordered rock-salt</category>
-<category>oxygen redox</category>
-<category>electron localization</category>
-<category>spent cathodes</category>
-</item>
-<item>
-<title>Reconstruction-tunable upcycling of spent LiFePO4 cathodes for oxygen evolution electrocatalysis: from defect legacy to operating active interfaces</title>
-<link>https://doi.org/10.1007/s42114-026-02169-9</link>
-<guid isPermaLink="false">10.1007/s42114-026-02169-9</guid>
-<pubDate>Fri, 30 Oct 2026 17:01:31 GMT</pubDate>
-<description>بازیافت سلول‌های مستعمل LiFePO4 با بازسازی نقص‌ها به کاتالیزور مؤثر واکنش آزادسازی اکسیژن تبدیل می‌شود و رابط‌های فعال عملیاتی ایجاد می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LiFePO4 upcycling · oxygen evolution · defect reconstruction · electrocatalysis · spent cathodes</description>
-<category>LiFePO4 upcycling</category>
-<category>oxygen evolution</category>
-<category>defect reconstruction</category>
-<category>electrocatalysis</category>
-<category>spent cathodes</category>
-</item>
-<item>
-<title>Operando Mapping of Population Phase Separation and Lithium‐Plating Dynamics in Graphite Electrode Using Optical Microscopy and Microstructure Modeling</title>
-<link>https://doi.org/10.1002/aenm.71762</link>
-<guid isPermaLink="false">10.1002/aenm.71762</guid>
-<pubDate>Fri, 30 Oct 2026 16:01:57 GMT</pubDate>
-<description>این پژوهش با میکروسکوپی نوری عملیاتی و مدل‌سازی فاز-میدان ریزساختاری، برهم‌کنش جدایش فاز و پوشش لیتیوم در گرافیت را روشن می‌کند و سازوکار جدیدی مبتنی بر مقاومت اهمی میان‌سطحی شناسایی می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work uniquely links operando optical microscopy with 3D phase-field modeling to resolve coupled phase-separation and lithium-plating dynamics across particle populations and single particles. Its key novelty is identifying interfacial ohmic resistance as a distinct plating mechanism, plus using thermal activation to probe phase-pathway changes. Significance lies in guiding particle-size-distribution design and fast-charging protocols for graphite electrodes.&lt;br&gt;🏷 graphite anode · lithium plating · phase separation · operando microscopy · phase-field modeling</description>
-<category>graphite anode</category>
-<category>lithium plating</category>
-<category>phase separation</category>
-<category>operando microscopy</category>
-<category>phase-field modeling</category>
 </item>
 </channel>
 </rss>
