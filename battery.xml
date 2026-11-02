@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 10:01:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 11:02:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stable anode-free sodium batteries enabled by controlled oligomerization</title>
+<link>https://doi.org/10.1038/s41560-026-02154-y</link>
+<guid isPermaLink="false">10.1038/s41560-026-02154-y</guid>
+<pubDate>Mon, 02 Nov 2026 11:01:47 GMT</pubDate>
+<description>این پژوهش با اولیگومریزاسیون کنترل‌شده الکترولیت، باتری‌های سدیمی بدون آند با پایداری بالا را ممکن می‌سازد.&lt;br&gt;Nature Energy | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using 1,3-dioxane to weakly coordinate Na+ and undergo controlled oligomerization, forming a thin robust SEI that suppresses electrolyte decomposition. This minimizes irreversible sodium loss, enabling 300-mAh anode-free sodium pouch cells with ~80% capacity retention over 1,400 cycles, 3 C rates, −40 °C operation, and ~98% efficiency—significantly advancing practical anode-free sodium battery lifetime.&lt;br&gt;🏷 anode-free sodium battery · oligomerization · sodium metal · solid electrolyte interphase · electrolyte design</description>
+<category>anode-free sodium battery</category>
+<category>oligomerization</category>
+<category>sodium metal</category>
+<category>solid electrolyte interphase</category>
+<category>electrolyte design</category>
+</item>
 <item>
 <title>Minerals Modulate Lithium Ion Sieve for Efficient Lithium Extraction</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03656</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>ion-electron interphase</category>
 <category>Li2FeS2</category>
 <category>triple-phase contact</category>
-</item>
-<item>
-<title>Anion exchange interfacial locking for safer all-solid-state lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.esci.2026.100667</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100667</guid>
-<pubDate>Thu, 29 Oct 2026 18:01:41 GMT</pubDate>
-<description>این مقاله یک راهبرد قفل‌کردن بین‌سطحی مبتنی بر تبادل آنیون را برای ایمن‌تر کردن باتری‌های لیتیوم-فلز تمام‌جامد ارائه می‌دهد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid-state battery · lithium metal anode · anion exchange · interfacial locking · solid electrolyte</description>
-<category>solid-state battery</category>
-<category>lithium metal anode</category>
-<category>anion exchange</category>
-<category>interfacial locking</category>
-<category>solid electrolyte</category>
 </item>
 </channel>
 </rss>
