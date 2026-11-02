@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 09:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 10:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Finite-Depth Interfacial Coupling in Metal/Topological Insulator van der Waals Heterostructures</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04373</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04373</guid>
+<pubDate>Mon, 02 Nov 2026 10:01:20 GMT</pubDate>
+<description>با ARPES و محاسبات اصول اولیه، وابستگی ضخامت به حالت‌های الکترونی TiTe2/Bi2Te3 بررسی شد و نشان داده شد جفت‌شدگی بین‌سطحی با عمق محدود، حتی در چهار لایه، باندهای لایه رویی را به‌طور چشمگیری بازآرایی می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 van der Waals heterostructure · topological insulator · TiTe2/Bi2Te3 · ARPES · interfacial coupling</description>
+<category>van der Waals heterostructure</category>
+<category>topological insulator</category>
+<category>TiTe2/Bi2Te3</category>
+<category>ARPES</category>
+<category>interfacial coupling</category>
+</item>
+<item>
+<title>Minerals Modulate Lithium Ion Sieve for Efficient Lithium Extraction</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03656</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03656</guid>
+<pubDate>Mon, 02 Nov 2026 10:01:16 GMT</pubDate>
+<description>با استفاده از ورمیکولیت به‌عنوان منبع Si و بستر، جایگزینی هم‌ظرفیتی Si در شبکه H2TiO3 انجام شد که با افزایش مرکز باند p اکسیژن، سرعت جذب لیتیوم و عملکرد استخراج لیتیوم را بهبود داد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 Vermiculite-derived silicon substitutes titanium in H2TiO3, shifting the O p-band center upward and enhancing Li 2s–O 2p hybridization, which accelerates surface lithium diffusion. This mineral-mediated atomic-scale coordination tuning yields HTO-VMT with exceptional lithium extraction, surpassing state-of-the-art adsorbents and offering design insights for selective lithium recovery from brines.&lt;br&gt;🏷 lithium extraction · H2TiO3 ion sieve · vermiculite · Si substitution · salt-lake brine</description>
+<category>lithium extraction</category>
+<category>H2TiO3 ion sieve</category>
+<category>vermiculite</category>
+<category>Si substitution</category>
+<category>salt-lake brine</category>
+</item>
 <item>
 <title>Damage mechanism of electrodes in lithium-ion battery under bending loads</title>
 <link>https://doi.org/10.1016/j.est.2026.125174</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 mercury hydride · metal-
 <category>FRET</category>
 <category>photoswitch</category>
 <category>cucurbit[8]uril</category>
-</item>
-<item>
-<title>Mechanical Control of Polar State in Antiferroelectric Order</title>
-<link>https://doi.org/10.1002/smll.76586</link>
-<guid isPermaLink="false">10.1002/smll.76586</guid>
-<pubDate>Sun, 01 Nov 2026 02:01:19 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که نیروی مکانیکی موضعی می‌تواند حالت قطبی شبه‌پایدار نوشته‌شده الکتریکی را در لایه‌های نازک PbHfO3 آنتی‌فروالکتریک به‌طور قطعی پاک کند و به حالت پایه بازگرداند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 antiferroelectric · PbHfO3 thin films · mechanical control · polar state · electromechanical write-erase</description>
-<category>antiferroelectric</category>
-<category>PbHfO3 thin films</category>
-<category>mechanical control</category>
-<category>polar state</category>
-<category>electromechanical write-erase</category>
-</item>
-<item>
-<title>Unveiling Graphitic Carbon Nitride in Hexagonal Boron Nitride Epitaxy on Sapphire</title>
-<link>https://doi.org/10.1002/smll.76576</link>
-<guid isPermaLink="false">10.1002/smll.76576</guid>
-<pubDate>Sun, 01 Nov 2026 02:01:16 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که g-C3N4 تشکیل‌شده به‌طور ناخواسته در MOVPE نقش کلیدی در انتقال جهت‌گیری شبکه‌ای از زیرلایه Al2O3 به لایه hBN اپیتاکسیال ایفا می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hexagonal boron nitride · epitaxial growth · graphitic carbon nitride · sapphire substrate · interface engineering</description>
-<category>hexagonal boron nitride</category>
-<category>epitaxial growth</category>
-<category>graphitic carbon nitride</category>
-<category>sapphire substrate</category>
-<category>interface engineering</category>
 </item>
 </channel>
 </rss>

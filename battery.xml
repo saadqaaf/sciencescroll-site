@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 09:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 10:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Minerals Modulate Lithium Ion Sieve for Efficient Lithium Extraction</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03656</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03656</guid>
+<pubDate>Mon, 02 Nov 2026 10:01:16 GMT</pubDate>
+<description>با استفاده از ورمیکولیت به‌عنوان منبع Si و بستر، جایگزینی هم‌ظرفیتی Si در شبکه H2TiO3 انجام شد که با افزایش مرکز باند p اکسیژن، سرعت جذب لیتیوم و عملکرد استخراج لیتیوم را بهبود داد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 Vermiculite-derived silicon substitutes titanium in H2TiO3, shifting the O p-band center upward and enhancing Li 2s–O 2p hybridization, which accelerates surface lithium diffusion. This mineral-mediated atomic-scale coordination tuning yields HTO-VMT with exceptional lithium extraction, surpassing state-of-the-art adsorbents and offering design insights for selective lithium recovery from brines.&lt;br&gt;🏷 lithium extraction · H2TiO3 ion sieve · vermiculite · Si substitution · salt-lake brine</description>
+<category>lithium extraction</category>
+<category>H2TiO3 ion sieve</category>
+<category>vermiculite</category>
+<category>Si substitution</category>
+<category>salt-lake brine</category>
+</item>
 <item>
 <title>Damage mechanism of electrodes in lithium-ion battery under bending loads</title>
 <link>https://doi.org/10.1016/j.est.2026.125174</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>anion exchange</category>
 <category>interfacial locking</category>
 <category>solid electrolyte</category>
-</item>
-<item>
-<title>Translating sulfur flow batteries into deployable systems</title>
-<link>https://doi.org/10.1038/s41560-026-02152-0</link>
-<guid isPermaLink="false">10.1038/s41560-026-02152-0</guid>
-<pubDate>Thu, 29 Oct 2026 17:02:09 GMT</pubDate>
-<description>این مقاله راهکارهای تبدیل باتری‌های جریان سولفور از مرحله آزمایشگاهی به سیستم‌های قابل استقرار و مقیاس‌پذیر را بررسی می‌کند.&lt;br&gt;Nature Energy | ⭐ Review&lt;br&gt;💡 The novelty lies in reframing sulfur flow battery research around deployment rather than material cost alone, revealing how real-world translation exposes scientific and engineering bottlenecks. Its significance is guiding research priorities toward practical viability, helping convert a promising low-cost, long-duration storage concept into deployable systems.&lt;br&gt;🏷 sulfur flow battery · deployable systems · energy storage · scale-up · redox flow</description>
-<category>sulfur flow battery</category>
-<category>deployable systems</category>
-<category>energy storage</category>
-<category>scale-up</category>
-<category>redox flow</category>
 </item>
 </channel>
 </rss>
