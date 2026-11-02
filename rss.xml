@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 22:02:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 23:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synchronous and Unidirectional Epitaxy of Layer‐Controlled Graphene on Oxidized Single‐Crystal Copper Wafers With Tunable Stacking Order</title>
+<link>https://doi.org/10.1002/adma.75580</link>
+<guid isPermaLink="false">10.1002/adma.75580</guid>
+<pubDate>Mon, 02 Nov 2026 23:01:42 GMT</pubDate>
+<description>این مقاله با اپیتاکسی هم‌زمان و یک‌جهته روی ویفرهای مسی تک‌بلور اکسیدشده، گرافن تک‌بلور ۲ اینچی با تعداد لایه قابل تنظیم (۲ تا ۵) و ترتیب چیدمان برگشتی و رودوهرال تولید می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 graphene epitaxy · single-crystal copper · stacking order · chemical vapor deposition · wafer-scale graphene</description>
+<category>graphene epitaxy</category>
+<category>single-crystal copper</category>
+<category>stacking order</category>
+<category>chemical vapor deposition</category>
+<category>wafer-scale graphene</category>
+</item>
+<item>
+<title>Dead Cell‐Based Carriers: Strategies, Biomedical Applications, and Prospects</title>
+<link>https://doi.org/10.1002/adma.75450</link>
+<guid isPermaLink="false">10.1002/adma.75450</guid>
+<pubDate>Mon, 02 Nov 2026 23:01:39 GMT</pubDate>
+<description>این مرور، راهبردهای ساخت و کاربردهای زیست‌پزشکی حامل‌های مبتنی بر سلول‌های مرده مانند میکروآلگ، مخمر، باکتری و سلول پستانداران را برای درمان بیماری‌هایی چون سرطان و بیماری التهابی روده بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;🏷 dead cell carriers · drug delivery · mammalian cells · microalgae · clinical translation</description>
+<category>dead cell carriers</category>
+<category>drug delivery</category>
+<category>mammalian cells</category>
+<category>microalgae</category>
+<category>clinical translation</category>
+</item>
 <item>
 <title>Potassium-ion batteries for stationary energy storage solutions</title>
 <link>https://doi.org/10.1039/d6cs01228k</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metal-
 <category>frustrated magnetism</category>
 <category>spin density wave</category>
 <category>neutron diffraction</category>
-</item>
-<item>
-<title>Reply to: Evidence of widespread sequencing errors in global avian influenza study</title>
-<link>https://doi.org/10.1038/s41467-026-78540-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78540-7</guid>
-<pubDate>Mon, 02 Nov 2026 17:03:21 GMT</pubDate>
-<description>این پاسخ به نقد خطاهای توالی‌یابی، دفاعیات نویسندگان مطالعه جهانی آنفلوانزای پرندگان را درباره کیفیت داده‌ها و روش‌شناسی ارائه می‌کند.&lt;br&gt;Nature Communications | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 avian influenza · sequencing errors · response · genomic data · methodology</description>
-<category>avian influenza</category>
-<category>sequencing errors</category>
-<category>response</category>
-<category>genomic data</category>
-<category>methodology</category>
-</item>
-<item>
-<title>Evidence of widespread sequencing errors in global avian influenza study</title>
-<link>https://doi.org/10.1038/s41467-026-78539-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-78539-0</guid>
-<pubDate>Mon, 02 Nov 2026 17:03:18 GMT</pubDate>
-<description>این مقاله شواهدی از خطاهای گسترده توالی‌یابی در یک مطالعه جهانی آنفلوانزای پرندگان را ارائه می‌کند و صحت داده‌های ژنومی را زیر سؤال می‌برد.&lt;br&gt;Nature Communications | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 avian influenza · sequencing errors · genomic surveillance · H5N1 · data quality</description>
-<category>avian influenza</category>
-<category>sequencing errors</category>
-<category>genomic surveillance</category>
-<category>H5N1</category>
-<category>data quality</category>
 </item>
 </channel>
 </rss>
