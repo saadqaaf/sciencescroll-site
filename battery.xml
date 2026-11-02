@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 11:02:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 12:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermal Safety Frontiers in Electrochemical Energy Storage: Thermal Runaway Mechanisms, Intelligent Sensing, and Multiscale Suppression Strategies</title>
+<link>https://doi.org/10.1007/s40820-026-02340-3</link>
+<guid isPermaLink="false">10.1007/s40820-026-02340-3</guid>
+<pubDate>Mon, 02 Nov 2026 12:01:44 GMT</pubDate>
+<description>این مرور سازوکارهای فرار حرارتی باتری لیتیوم-یون، حس‌گری هوشمند و راهبردهای چندمقیاسی سرکوب را برای رفع تنش بین انرژی و ایمنی بررسی می‌کند.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The review innovatively establishes a comprehensive framework spanning microscopic mechanisms to macroscopic system-level protection for lithium-ion battery thermal safety. It systematically integrates thermal runaway mechanisms, data-driven prediction, intelligent sensing-identification-warning systems, active cell-level protection, and system-level thermal management, providing theoretical insights and technological pathways to resolve the energy-safety trade-off for next-generation high-energy-density storage.&lt;br&gt;🏷 lithium-ion battery · thermal runaway · thermal safety · early warning sensing · thermal management</description>
+<category>lithium-ion battery</category>
+<category>thermal runaway</category>
+<category>thermal safety</category>
+<category>early warning sensing</category>
+<category>thermal management</category>
+</item>
 <item>
 <title>Stable anode-free sodium batteries enabled by controlled oligomerization</title>
 <link>https://doi.org/10.1038/s41560-026-02154-y</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>coordination unsaturation</category>
 <category>Zn dual texture</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Ion‐Electron Convergent Interphases Enable Ultrahigh Sulfur Utilization for All‐Solid‐State Li–S Batteries</title>
-<link>https://doi.org/10.1002/adma.75518</link>
-<guid isPermaLink="false">10.1002/adma.75518</guid>
-<pubDate>Thu, 29 Oct 2026 19:01:45 GMT</pubDate>
-<description>این کار با ایجاد فاز سطحی Li2FeS2 به‌عنوان رابط یون-الکترون همگرا، بهره‌برداری از گوگرد را در باتری‌های تمام‌جامد Li-S به ۹۷.۸٪ رسانده و چرخه‌پذیری فوق‌العاده‌ای فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in surface-bound ion-electron convergent interphases on Li₂S using Li₂FeS₂, identified via magnetic moment screening, which bridges separated ion and electron pathways. This lowers transport tortuosity and activation barriers, enabling 97.8% sulfur utilization, 10,000-cycle stability, and a record 38.69 mAh cm⁻² areal capacity—establishing a design principle for coupled ion-electron transfer in all-solid-state batteries.&lt;br&gt;🏷 all-solid-state Li-S battery · sulfur utilization · ion-electron interphase · Li2FeS2 · triple-phase contact</description>
-<category>all-solid-state Li-S battery</category>
-<category>sulfur utilization</category>
-<category>ion-electron interphase</category>
-<category>Li2FeS2</category>
-<category>triple-phase contact</category>
 </item>
 </channel>
 </rss>
