@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 12:01:49 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 13:02:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Chemically Reactivatable Sulfide Interfaces for Low‐Pressure Thick‐Cathode Solid‐State Na–S Batteries</title>
+<link>https://doi.org/10.1002/adma.75607</link>
+<guid isPermaLink="false">10.1002/adma.75607</guid>
+<pubDate>Mon, 02 Nov 2026 13:02:19 GMT</pubDate>
+<description>واسط‌های سولفیدی فعال‌شونده شیمیایی با Fe3C–MnO در نانولوله‌های کربنی، باتری تمام‌جامد Na–S با کاتد ضخیم را در فشار 0.2 MPa با استفاده بالای گوگرد و پایداری چرخه‌ای بالا فعال می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in Fe3C–MnO heteropoints embedded in N-doped hollow carbon nanotubes that chemically reactivate sulfide interfaces, suppressing passivation and sustaining sulfur recovery under weak mechanical confinement. This decouples reversible sulfur chemistry from high-pressure requirements, cutting operational pressure from ~2 MPa to 0.2 MPa while enabling thick cathodes (8.3 mg cm−2) and 696 Wh kg−1 pouch cells—significant for practical low-pressure solid-state Na–S batteries.&lt;br&gt;🏷 solid-state Na-S battery · thick sulfur cathode · Fe3C-MnO heterojunction · sulfide interface · low-pressure operation</description>
+<category>solid-state Na-S battery</category>
+<category>thick sulfur cathode</category>
+<category>Fe3C-MnO heterojunction</category>
+<category>sulfide interface</category>
+<category>low-pressure operation</category>
+</item>
+<item>
+<title>Submolecular Selenium Enables Low‐Pressure and Recyclable All‐Solid‐State Li–Se Batteries</title>
+<link>https://doi.org/10.1002/adma.75592</link>
+<guid isPermaLink="false">10.1002/adma.75592</guid>
+<pubDate>Mon, 02 Nov 2026 13:02:14 GMT</pubDate>
+<description>کاتد Se زیرمولکولی روی گرافن همراه با الکترولیت سولفیدی اصلاح‌شده با Li2O، باتری تمام‌جامد Li–Se را در فشار پایین با ظرفیت نظری 673 mAh g−1 و پایداری بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting crystalline cyclo-Se8 into amorphous submolecular Sex (x&amp;lt;4) on graphene, boosting conductivity and Li+ diffusivity, plus a Li2O-nanoshell sulfide electrolyte stabilizing interfaces. Significance: enables low-pressure (2.5–8 MPa), recyclable all-solid-state Li–Se batteries with 673 mAh g−1, 2800-cycle stability, −30°C operation, and 420 Wh kg−1 pouch cells.&lt;br&gt;🏷 all-solid-state Li-Se battery · submolecular selenium · sulfide solid electrolyte · low stack pressure · recyclable cathode</description>
+<category>all-solid-state Li-Se battery</category>
+<category>submolecular selenium</category>
+<category>sulfide solid electrolyte</category>
+<category>low stack pressure</category>
+<category>recyclable cathode</category>
+</item>
+<item>
+<title>Realizing Reversible Photo‐Charging via Stacked 1T/2H MoS 2 Bifunctional Cathodes for Photo‐Rechargeable Batteries</title>
+<link>https://doi.org/10.1002/adma.75600</link>
+<guid isPermaLink="false">10.1002/adma.75600</guid>
+<pubDate>Mon, 02 Nov 2026 13:02:09 GMT</pubDate>
+<description>کاتد دوفانکسیونال MoS2 با فازهای 1T/2H و NiO امکان شارژ نوری برگشت‌پذیر بیش از ده بار را در باتری Zn فراهم کرده و ظرفیت ویژه 110.55 mAh g−1 را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a stacked 1T/2H MoS₂ bifunctional cathode with NiO interface engineering, enabling genuine, reversible light-only photo-charging of Zn²⁺ batteries for over ten cycles—unlike prior pseudo photo-charging. Significance: 100% photo-charging capacity ratio (110.55 mAh g⁻¹) under 2 h illumination and a practical energy harvest-conversion-storage mini-system for portable electronics.&lt;br&gt;🏷 photo-rechargeable battery · MoS2 cathode · 1T/2H phase · zinc-ion battery · photo-charging</description>
+<category>photo-rechargeable battery</category>
+<category>MoS2 cathode</category>
+<category>1T/2H phase</category>
+<category>zinc-ion battery</category>
+<category>photo-charging</category>
+</item>
 <item>
 <title>Thermal Safety Frontiers in Electrochemical Energy Storage: Thermal Runaway Mechanisms, Intelligent Sensing, and Multiscale Suppression Strategies</title>
 <link>https://doi.org/10.1007/s40820-026-02340-3</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>halide electrolyte</category>
 <category>amorphous</category>
 <category>superionic conduction</category>
-</item>
-<item>
-<title>An intrinsically stretchable thin-film organic rechargeable sodium-ion battery enabled for wearable devices</title>
-<link>https://doi.org/10.1016/j.matt.2026.103069</link>
-<guid isPermaLink="false">10.1016/j.matt.2026.103069</guid>
-<pubDate>Thu, 29 Oct 2026 23:01:29 GMT</pubDate>
-<description>یک باتری یون-سدیم آلی و کشسان ذاتی به شکل لایه نازک ساخته شده که برای تغذیه دستگاه‌های پوشیدنی مناسب است.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · stretchable thin-film · organic electrode · wearable devices · intrinsically stretchable</description>
-<category>sodium-ion battery</category>
-<category>stretchable thin-film</category>
-<category>organic electrode</category>
-<category>wearable devices</category>
-<category>intrinsically stretchable</category>
-</item>
-<item>
-<title>Closed‐Pore Engineering Couples Sodium Confinement and Interfacial Stabilization for Dendrite‐Resistant Hard Carbon Anodes</title>
-<link>https://doi.org/10.1002/adfm.79364</link>
-<guid isPermaLink="false">10.1002/adfm.79364</guid>
-<pubDate>Thu, 29 Oct 2026 22:01:43 GMT</pubDate>
-<description>مهندسی حفره‌های بسته در کربن سخت دوپه‌شده با کبالت، ذخیره سدیم و پایداری فصل مشترک را بهبود داده و رشد دندریت را در باتری یون‌سدیم سرکوب می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Closed-pore engineering in cobalt-doped hard carbon couples internal sodium-cluster confinement with interfacial stabilization, redirecting storage from surface accumulation to deep pore filling. This yields a thin, inorganic-rich SEI, suppresses dendrites, and achieves 95% capacity retention after 500 cycles—offering a safer, longer-lasting anode design for sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · closed-pore engineering · dendrite suppression · SEI stabilization</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>closed-pore engineering</category>
-<category>dendrite suppression</category>
-<category>SEI stabilization</category>
-</item>
-<item>
-<title>Coordination‐Unsaturated Cu–OSe Directs (002)/(100) Dual‐Texture Zn Growth via Cu‐Centered Charge Redistribution</title>
-<link>https://doi.org/10.1002/adfm.79339</link>
-<guid isPermaLink="false">10.1002/adfm.79339</guid>
-<pubDate>Thu, 29 Oct 2026 22:01:22 GMT</pubDate>
-<description>چارچوب Cu-OSe با ناهماهنگی کوئوردیناسیونی رشد دوقلمی Zn(002)/(100) را هدایت کرده و پایداری آند روی آبی را به بیش از ۳۱۰۰ ساعت می‌رساند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Coordination-unsaturated Cu–OSe with mixed O/Se coordination stabilizes mixed-valence Cu and redistributes electronic states, creating continuous local-current pathways that direct Zn(002)/(100) dual-texture growth while preventing framework collapse seen in full selenization. This establishes coordination unsaturation as a general electronic-structure design principle for metal-electrodeposition interfaces, enabling 3100 h cycling and 2200-cycle full cells.&lt;br&gt;🏷 aqueous zinc battery · Cu-OSe · coordination unsaturation · Zn dual texture · dendrite suppression</description>
-<category>aqueous zinc battery</category>
-<category>Cu-OSe</category>
-<category>coordination unsaturation</category>
-<category>Zn dual texture</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
