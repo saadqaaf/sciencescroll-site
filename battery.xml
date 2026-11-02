@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 08:01:55 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 09:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Damage mechanism of electrodes in lithium-ion battery under bending loads</title>
+<link>https://doi.org/10.1016/j.est.2026.125174</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125174</guid>
+<pubDate>Mon, 02 Nov 2026 09:01:49 GMT</pubDate>
+<description>سازوکار آسیب الکترودهای باتری لیتیوم-یون تحت بارهای خمشی بررسی و مکانیزم‌های تخریب مکانیکی آن‌ها شناسایی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · bending loads · electrode damage · mechanical degradation · damage mechanism</description>
+<category>lithium-ion battery</category>
+<category>bending loads</category>
+<category>electrode damage</category>
+<category>mechanical degradation</category>
+<category>damage mechanism</category>
+</item>
 <item>
 <title>Deciphering the Interfacial Chemistry Governing Oriented Zinc Electrodeposition in Aqueous Zinc Metal Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105627</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>energy storage</category>
 <category>scale-up</category>
 <category>redox flow</category>
-</item>
-<item>
-<title>Structure-Dynamics Correlations in Ionic Liquid-Based Solid Electrolytes Explored by NMR Spectroscopy</title>
-<link>https://doi.org/10.1039/d6ta07722f</link>
-<guid isPermaLink="false">10.1039/d6ta07722f</guid>
-<pubDate>Thu, 29 Oct 2026 17:01:52 GMT</pubDate>
-<description>دینامیک یون و سازمان‌یابی مولکولی در الکترولیت‌های جامد بر پایه مایع یونی با طیف‌سنجی NMR بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using NMR spectroscopy to correlate structure and dynamics in ionic-liquid-based solid electrolytes, revealing how molecular organization governs ion transport. Its significance is providing mechanistic insight into designing mechanically stable polymer electrolytes with favorable conductivity, advancing safer, high-performance solid-state battery development.&lt;br&gt;🏷 solid electrolyte · ionic liquid · NMR spectroscopy · ion dynamics · polymer matrix</description>
-<category>solid electrolyte</category>
-<category>ionic liquid</category>
-<category>NMR spectroscopy</category>
-<category>ion dynamics</category>
-<category>polymer matrix</category>
 </item>
 </channel>
 </rss>
