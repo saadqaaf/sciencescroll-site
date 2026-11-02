@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 15:02:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 16:02:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Wulff‐Guided (002)/(103) Faceted Step–Terrace Microtopography Enables Rapid and Reversible Zn Deposition</title>
+<link>https://doi.org/10.1002/adfm.79433</link>
+<guid isPermaLink="false">10.1002/adfm.79433</guid>
+<pubDate>Mon, 02 Nov 2026 16:02:39 GMT</pubDate>
+<description>با رشد کریستالی هدایت‌شده توسط Wulff، ریزتوپوگرافی پله-تراس (002)/(103) روی آند Zn ساخته شد که رسوب‌نشینی سریع و بدون دندریت و بازده کولنی ۹۹٫۸۰٪ را ممکن کرد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ion co-driven Wulff-guided growth strategy creating a (002)/(103) faceted step–terrace Zn microtopography, overcoming the stability–kinetics trade-off of single-textured anodes. Its significance: (002) terraces suppress HER for stability, while (103) steps and activated edges accelerate nucleation, enabling spiral, dendrite-free deposition with 99.80% efficiency over 2000 h and long-life aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc anode · Wulff construction · step-terrace · aqueous zinc battery · dendrite-free</description>
+<category>zinc anode</category>
+<category>Wulff construction</category>
+<category>step-terrace</category>
+<category>aqueous zinc battery</category>
+<category>dendrite-free</category>
+</item>
 <item>
 <title>Dynamically Sustained Zn2+-Enriched Electric Double Layer Enables High-Rate and Durable Four-Electron Zn-I2 Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105631</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>sodium hybrid battery</category>
 <category>deprotonation</category>
 <category>dynamic coordination</category>
-</item>
-<item>
-<title>Interweaving Two‐Dimensional Co‐Corrole‐Based Covalent Organic Framework for Significantly Improved Electrocatalytic Oxygen Reduction Reaction</title>
-<link>https://doi.org/10.1002/anie.9952515</link>
-<guid isPermaLink="false">10.1002/anie.9952515</guid>
-<pubDate>Fri, 30 Oct 2026 09:01:49 GMT</pubDate>
-<description>درهم‌بافی لایه‌های COF کبالت-کورول با ستون‌های مولکولی، دسترسی به سایت‌های فعال و انتقال جرم را بهبود داده و ORR و باتری Zn-air را تقویت کرد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interweaving 2D Co-corrole COF layers with bidentate molecular pillars (pyrazine, bipyridine) via axial Co–N coordination, expanding interlayer spacing from 4.2 Å to 6.4/10.3 Å. This boosts active-site accessibility and mass transport, markedly enhancing 4e⁻ ORR activity (half-wave potential up to 0.94 V) and durability. Significance: a pillar-interweaving strategy for high-performance COF electrocatalysts, demonstrated by a Zn-air battery outperforming Pt/Ru benchmarks.&lt;br&gt;🏷 covalent organic framework · cobalt corrole · oxygen reduction reaction · Zn-air battery · interlayer interweaving</description>
-<category>covalent organic framework</category>
-<category>cobalt corrole</category>
-<category>oxygen reduction reaction</category>
-<category>Zn-air battery</category>
-<category>interlayer interweaving</category>
 </item>
 </channel>
 </rss>
