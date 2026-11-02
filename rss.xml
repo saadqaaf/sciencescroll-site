@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 05:01:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 06:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bioelectrical and optogenetic modulation for neuroimmune therapeutics</title>
+<link>https://doi.org/10.1016/j.addr.2026.115985</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.115985</guid>
+<pubDate>Mon, 02 Nov 2026 06:01:41 GMT</pubDate>
+<description>این مقاله به بررسی روش‌های تحریک الکتریکی و اپتوژنتیک برای تنظیم تعاملات عصبی-ایمنی و کاربردهای درمانی نوروایمونولوژیک می‌پردازد.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 optogenetics · bioelectronic medicine · neuroimmune modulation · vagus nerve · cytokine regulation</description>
+<category>optogenetics</category>
+<category>bioelectronic medicine</category>
+<category>neuroimmune modulation</category>
+<category>vagus nerve</category>
+<category>cytokine regulation</category>
+</item>
 <item>
 <title>High-Contrast Broadband Optical Edge Detection by Low-Loss Geometric Phase Gratings</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03626</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NMR st
 <category>burn infection</category>
 <category>boron nitride</category>
 <category>MOF-199</category>
-</item>
-<item>
-<title>Scalable crosslinking-regulated membranes with ultra-high Li+/Mg2+ selectivity for lithium recovery from brines</title>
-<link>https://doi.org/10.1038/s41467-026-79061-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-79061-z</guid>
-<pubDate>Sun, 01 Nov 2026 01:02:47 GMT</pubDate>
-<description>این مقاله غشاهای تنظیم‌شده با درجه اتصال عرضی را ارائه می‌دهد که گزینش‌پذیری فوق‌العاده بالای Li+/Mg2+ را برای استخراج لیتیوم از آب‌های شور نمکی فراهم می‌کنند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium recovery · ion-selective membrane · Li/Mg separation · brine · crosslinking regulation</description>
-<category>lithium recovery</category>
-<category>ion-selective membrane</category>
-<category>Li/Mg separation</category>
-<category>brine</category>
-<category>crosslinking regulation</category>
 </item>
 </channel>
 </rss>
