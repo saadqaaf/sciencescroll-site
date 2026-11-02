@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 07:01:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 08:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hydroxyl-Directed Anchoring and Electronic Structure of Pt–Sn on γ-Al2O3 for Propane Dehydrogenation</title>
+<link>https://doi.org/10.1021/acscatal.6c06553</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06553</guid>
+<pubDate>Mon, 02 Nov 2026 08:01:53 GMT</pubDate>
+<description>با تنظیم سایت‌های هیدروکسیل سطحی γ-Al2O3، کلاسترهای کوچک Pt–Sn پایدار شده و کاتالیزور در dehydrogenation پروپان به تبدیل ۶۰٪ و انتخاب‌پذیری پروپیلن بالای ۹۷٪ دست یافت.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 propane dehydrogenation · Pt-Sn catalyst · gamma-Al2O3 · surface hydroxyls · metal-support interaction</description>
+<category>propane dehydrogenation</category>
+<category>Pt-Sn catalyst</category>
+<category>gamma-Al2O3</category>
+<category>surface hydroxyls</category>
+<category>metal-support interaction</category>
+</item>
 <item>
 <title>TH-positive pulmonary nerve fiber-epithelial interaction promotes adipose thermogenesis in male mice</title>
 <link>https://doi.org/10.1038/s41467-026-79317-8</link>
@@ -1196,19 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 contact-electro-catalysis
 <category>CO2 and NH3 coupling</category>
 <category>interfacial electric field</category>
 <category>carbamic acid</category>
-</item>
-<item>
-<title>Framework Deuteration Regulates Excited-State Dynamics and H2O2 Release in Covalent Organic Framework Photocatalysis</title>
-<link>https://doi.org/10.1021/jacs.6c17492</link>
-<guid isPermaLink="false">10.1021/jacs.6c17492</guid>
-<pubDate>Sun, 01 Nov 2026 01:03:01 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که دوتره‌کردن چارچوب COF با تنظیم دینامیک حالت برانگیخته و آزادسازی H2O2، نرخ تولید فوتوکاتالیستی H2O2 را ۱٫۸ برابر افزایش می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · framework deuteration · H2O2 photocatalysis · exciton-phonon coupling · isotope engineering</description>
-<category>covalent organic framework</category>
-<category>framework deuteration</category>
-<category>H2O2 photocatalysis</category>
-<category>exciton-phonon coupling</category>
-<category>isotope engineering</category>
 </item>
 </channel>
 </rss>
