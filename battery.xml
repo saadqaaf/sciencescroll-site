@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 13:02:32 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 14:02:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Strengthening TMP‐Derived Phosphate SEI via Sn Scaffold and BF 4 − Interphase Chemistry for Ultra‐Stable, High‐Rate Zn Metal Anodes</title>
+<link>https://doi.org/10.1002/aenm.71796</link>
+<guid isPermaLink="false">10.1002/aenm.71796</guid>
+<pubDate>Mon, 02 Nov 2026 14:01:45 GMT</pubDate>
+<description>افزودن Sn(BF4)2 به الکترولیت آلی TMP-EtOH یک SEI گرادیانی روی آند Zn ایجاد می‌کند و دوام ۷۰۰۰ ساعته و بازدهی کولمبی ۹۹.۸٪ را به همراه دارد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 First demonstration of Sn(BF4)2/H2O additive in non-flammable TMP-ethanol organic electrolyte, creating a gradient/bilayer SEI on Zn anodes via solvent-salt-metal synergy (Sn coating, BF4-derived interphase, H2O proton source). This enables 7000 h durability, 10 mA cm−2 rate capability, and 99.8% CE, offering a rare additive strategy to boost stability and lifespan of non-aqueous Zn batteries.&lt;br&gt;🏷 zinc anode · organic electrolyte · solid electrolyte interphase · Sn(BF4)2 additive · trimethyl phosphate</description>
+<category>zinc anode</category>
+<category>organic electrolyte</category>
+<category>solid electrolyte interphase</category>
+<category>Sn(BF4)2 additive</category>
+<category>trimethyl phosphate</category>
+</item>
+<item>
+<title>Chemical Coordination and Pore Confinement Enabling a Bifunctional Interface for Accelerated Desolvation and Oriented Deposition Toward Stable Zinc Metal Anodes</title>
+<link>https://doi.org/10.1002/aenm.71785</link>
+<guid isPermaLink="false">10.1002/aenm.71785</guid>
+<pubDate>Mon, 02 Nov 2026 14:01:39 GMT</pubDate>
+<description>یک رابط دوعملکردی بر پایه UiO-66-NH2 پیوندخورده با باز شیف برای آند روی ساخته شد که با تسریع desolvation و رسوب جهت‌دار Zn(002)، پایداری و بازدهی بالایی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in covalently grafting a Schiff-base-functionalized UiO-66-NH₂ MOF onto the Zn anode to create a bifunctional interface combining chemical chelation (accelerating desolvation, suppressing side reactions) with confined pore channels guiding uniform Zn²⁺ flux and Zn(002)-oriented deposition. Significance: achieves 99.8% Coulombic efficiency over 2000 cycles and &amp;gt;90% capacity retention after 4000 cycles, advancing stable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal anode · UiO-66-NH2 · Schiff base · desolvation · Zn(002) deposition</description>
+<category>zinc metal anode</category>
+<category>UiO-66-NH2</category>
+<category>Schiff base</category>
+<category>desolvation</category>
+<category>Zn(002) deposition</category>
+</item>
 <item>
 <title>Chemically Reactivatable Sulfide Interfaces for Low‐Pressure Thick‐Cathode Solid‐State Na–S Batteries</title>
 <link>https://doi.org/10.1002/adma.75607</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>self-healing</category>
 <category>UiO-66</category>
 <category>polysulfide shuttle</category>
-</item>
-<item>
-<title>CNT-interconnected porous carbon yolk-shell ZnSSe hosts with built-in lithiophilic alloy/heterointerfaces for durable lithium metal anodes</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.049</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.049</guid>
-<pubDate>Fri, 30 Oct 2026 00:01:22 GMT</pubDate>
-<description>میزبان‌های ZnSSe با ساختار پوسته-هسته متخلخل و اتصال CNT با فصل‌مشترک‌های لیتوفیلیک برای آند لیتیوم فلزی پایدار ساخته شدند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · ZnSSe host · yolk-shell carbon · lithiophilic interface · CNT network</description>
-<category>lithium metal anode</category>
-<category>ZnSSe host</category>
-<category>yolk-shell carbon</category>
-<category>lithiophilic interface</category>
-<category>CNT network</category>
-</item>
-<item>
-<title>Sulfur-Induced Lattice Disordering in Halide Electrolytes Enables Superionic Sodium-Ion Conduction</title>
-<link>https://doi.org/10.1021/acsnano.6c11189</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11189</guid>
-<pubDate>Thu, 29 Oct 2026 23:01:43 GMT</pubDate>
-<description>الکترولیت جامد هالیدی بی‌شکل با افزودن گوگرد، رسانایی یونی فوق‌بالای Na+ و عملکرد پایدار در باتری یون-سدیم تمام‌جامد را نشان می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a mixed-anion amorphous Na-ion electrolyte (TaCl5-0.5Na2S) made by ball-milling, where sulfur induces lattice disordering and flexible Ta–S–Cl networks. It achieves ultrahigh conductivity (2.9 mS/cm) and low activation energy (0.276 eV), enabling fast multidimensional Na+ transport and stable all-solid-state battery performance, establishing mixed-anion amorphization as a design strategy.&lt;br&gt;🏷 solid electrolyte · sodium-ion battery · halide electrolyte · amorphous · superionic conduction</description>
-<category>solid electrolyte</category>
-<category>sodium-ion battery</category>
-<category>halide electrolyte</category>
-<category>amorphous</category>
-<category>superionic conduction</category>
 </item>
 </channel>
 </rss>
