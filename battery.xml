@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 21:01:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 22:02:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Potassium-ion batteries for stationary energy storage solutions</title>
+<link>https://doi.org/10.1039/d6cs01228k</link>
+<guid isPermaLink="false">10.1039/d6cs01228k</guid>
+<pubDate>Mon, 02 Nov 2026 22:02:07 GMT</pubDate>
+<description>این مقاله باتری‌های یون پتاسیم را به‌عنوان فناوری پایدار و مقرون‌به‌صرفه برای ذخیره‌سازی انرژی در مقیاس بزرگ معرفی می‌کند.&lt;br&gt;Chemical Society Reviews | 💭 Perspective&lt;br&gt;💡 Potassium-ion batteries offer a sustainable, cost-competitive alternative for large-scale stationary energy storage, addressing reliance on scarce lithium. Their novelty lies in using abundant potassium, enabling cheaper, safer grid-scale systems. Significance: supports renewable integration and energy security by providing scalable, low-cost storage, though further development is needed for commercial viability.&lt;br&gt;🏷 potassium-ion battery · stationary energy storage · sustainability · cost competitiveness · large-scale storage</description>
+<category>potassium-ion battery</category>
+<category>stationary energy storage</category>
+<category>sustainability</category>
+<category>cost competitiveness</category>
+<category>large-scale storage</category>
+</item>
+<item>
+<title>Filler and interface engineering of composite solid electrolytes: critical advances from fundamental design to practical application</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101874</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101874</guid>
+<pubDate>Mon, 02 Nov 2026 22:01:44 GMT</pubDate>
+<description>این مقاله مروری، پیشرفت‌های کلیدی در مهندسی فیلر و فصل مشترک الکترولیت‌های جامد کامپوزیتی را از طراحی بنیادی تا کاربرد عملی بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 composite solid electrolyte · filler engineering · interface engineering · ionic conductivity · solid-state battery</description>
+<category>composite solid electrolyte</category>
+<category>filler engineering</category>
+<category>interface engineering</category>
+<category>ionic conductivity</category>
+<category>solid-state battery</category>
+</item>
 <item>
 <title>Engineering single-atom catalysts for sodium-based batteries</title>
 <link>https://doi.org/10.1039/d6ta07471e</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>mass transport</category>
 <category>Zn desolvation</category>
 <category>surface charge</category>
-</item>
-<item>
-<title>A Particle‐Level Dual‐Polymer Interphase for Coupled Interfacial and Contact Stabilization of Zinc Metal Powder Anodes in Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79402</link>
-<guid isPermaLink="false">10.1002/adfm.79402</guid>
-<pubDate>Fri, 30 Oct 2026 18:02:47 GMT</pubDate>
-<description>یک لایه بین‌فازی دوپلیمری CMC/PAA روی آند پودر روی، پایداری رسوب/انحلال و عملکرد چرخه‌ای باتری آبی یون‌روی را با مهار خوردگی و هیدروژن‌زدایی بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a particle-level dual-polymer (CMC/PAA) interphase on zinc metal powder that simultaneously stabilizes the interface and preserves electrical contact within the powder framework. Its significance is enabling stable Zn plating/stripping over 1500 h and high capacity retention in coin and pouch cells, advancing practical aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal powder · aqueous zinc-ion battery · dual-polymer interphase · CMC-PAA coating · anode stabilization</description>
-<category>zinc metal powder</category>
-<category>aqueous zinc-ion battery</category>
-<category>dual-polymer interphase</category>
-<category>CMC-PAA coating</category>
-<category>anode stabilization</category>
-</item>
-<item>
-<title>Guest Donor With High Electrostatic Potential Enables Low‐Energy‐Loss Ternary All‐Polymer Solar Cells</title>
-<link>https://doi.org/10.1002/adfm.79393</link>
-<guid isPermaLink="false">10.1002/adfm.79393</guid>
-<pubDate>Fri, 30 Oct 2026 18:02:39 GMT</pubDate>
-<description>افزودن دهنده مهمان PTO2 با پتانسیل الکترواستاتیکی منفی به سیستم PM6:PYIT تلفات انرژی را کاهش داده و بازده ternary all-PSC را به ۱۹٫۱۲٪ می‌رساند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a wide-bandgap guest donor (PTO2) with high electrostatic potential to strengthen the intermolecular electric field, enabling efficient exciton dissociation in ternary all-polymer solar cells. This simultaneously reduces energy loss and enhances the built-in field, yielding 19.12% efficiency with improved voltage (0.963 V) without sacrificing current or fill factor—highlighting ESP modulation as a new design strategy.&lt;br&gt;🏷 all-polymer solar cells · ternary blend · electrostatic potential · energy loss · guest donor</description>
-<category>all-polymer solar cells</category>
-<category>ternary blend</category>
-<category>electrostatic potential</category>
-<category>energy loss</category>
-<category>guest donor</category>
 </item>
 </channel>
 </rss>
