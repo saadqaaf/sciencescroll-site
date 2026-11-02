@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 23:01:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 00:00:58 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High-Contrast Broadband Optical Edge Detection by Low-Loss Geometric Phase Gratings</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03626</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03626</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:55 GMT</pubDate>
+<description>گراتینگ‌های فاز هندسی مبتنی بر نانوحفره در شیشه سیلیکا با نوشتار لیزری فوق‌سریع ساخته شدند و تشخیص لبه نوری پهن‌باند با کنتراست بالا تا 0.97 را ممکن کردند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 optical edge detection · geometric phase grating · ultrafast laser writing · silica glass · nanopore</description>
+<category>optical edge detection</category>
+<category>geometric phase grating</category>
+<category>ultrafast laser writing</category>
+<category>silica glass</category>
+<category>nanopore</category>
+</item>
 <item>
 <title>A Stable Terminal Mercury Hydride and Its Reactivity To Form Mercury–Metal Bonds</title>
 <link>https://doi.org/10.1021/jacs.6c18189</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NMR st
 <category>Li/Mg separation</category>
 <category>brine</category>
 <category>crosslinking regulation</category>
-</item>
-<item>
-<title>AI-driven discovery and engineering of human-derived protein scaffolds for mRNA delivery</title>
-<link>https://doi.org/10.1038/s41467-026-79039-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-79039-x</guid>
-<pubDate>Sun, 01 Nov 2026 01:02:43 GMT</pubDate>
-<description>این مقاله از هوش مصنوعی برای کشف و مهندسی اسکافولدهای پروتئینی مشتق از انسان به‌منظور انتقال mRNA استفاده می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mRNA delivery · protein scaffolds · AI protein design · lipid nanoparticles · directed evolution</description>
-<category>mRNA delivery</category>
-<category>protein scaffolds</category>
-<category>AI protein design</category>
-<category>lipid nanoparticles</category>
-<category>directed evolution</category>
 </item>
 </channel>
 </rss>
