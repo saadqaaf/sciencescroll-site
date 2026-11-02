@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 16:02:58 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 17:05:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Improved high-voltage operation and fast-discharge performance of O3-type layered cathodes for Na-ion batteries by regulating the Fe-driven distortion-dissolution cascade</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.038</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.038</guid>
+<pubDate>Mon, 02 Nov 2026 17:05:14 GMT</pubDate>
+<description>با تنظیم آبشار اعوجاج-انحلال ناشی از Fe در کاتدهای لایه‌ای O3، عملکرد ولتاژ بالا و تخلیه سریع باتری‌های یون سدیم بهبود می‌یابد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 O3-type cathode · Na-ion battery · Fe distortion · high-voltage · fast discharge</description>
+<category>O3-type cathode</category>
+<category>Na-ion battery</category>
+<category>Fe distortion</category>
+<category>high-voltage</category>
+<category>fast discharge</category>
+</item>
+<item>
+<title>Stabilizing hydrogen bonds and engineering multi-component hetero-solvation architecture for dendrite-free zinc metal anodes</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.041</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.041</guid>
+<pubDate>Mon, 02 Nov 2026 17:05:06 GMT</pubDate>
+<description>با تثبیت پیوندهای هیدروژنی و طراحی ساختار حل‌پذیری چندجزئی، آندهای فلزی روی بدون دندریت برای باتری‌های آبی روی پایدارتر می‌شوند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 zinc metal anode · hydrogen bonding · solvation structure · dendrite-free · aqueous zinc battery</description>
+<category>zinc metal anode</category>
+<category>hydrogen bonding</category>
+<category>solvation structure</category>
+<category>dendrite-free</category>
+<category>aqueous zinc battery</category>
+</item>
+<item>
+<title>Techno-economic and environmental assessment of next-generation battery-powered farming robots</title>
+<link>https://doi.org/10.1038/s41467-026-78281-7</link>
+<guid isPermaLink="false">10.1038/s41467-026-78281-7</guid>
+<pubDate>Mon, 02 Nov 2026 17:03:12 GMT</pubDate>
+<description>ارزیابی فنی-اقتصادی و زیست‌محیطی ربات‌های کشاورزی باتری‌دار نشان می‌دهد که ارزش آن‌ها بیشتر به کاهش مصرف نهاده و نیروی کار بستگی دارد تا به خود پلتفرم.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study provides the first integrated total cost of ownership and life cycle assessment of autonomous battery-powered agricultural robots across multiple crops and management systems. It reveals that variable inputs, not platform costs, dominate economic and environmental outcomes, showing robot value hinges on reducing input use and labor demand—offering key guidance for sustainable agricultural automation.&lt;br&gt;🏷 agricultural robots · battery-powered robots · life cycle assessment · techno-economic analysis · crop production</description>
+<category>agricultural robots</category>
+<category>battery-powered robots</category>
+<category>life cycle assessment</category>
+<category>techno-economic analysis</category>
+<category>crop production</category>
+</item>
+<item>
+<title>Turning Insulators into Accelerators: Deciphering the Interfacial Ionic Conductivity Boost in Composite Solid-State Electrolytes through Machine Learning Molecular Dynamics Simulations</title>
+<link>https://doi.org/10.1021/acsnano.6c16367</link>
+<guid isPermaLink="false">10.1021/acsnano.6c16367</guid>
+<pubDate>Mon, 02 Nov 2026 17:02:30 GMT</pubDate>
+<description>با شبیه‌سازی‌های دینامیک مولکولی مبتنی بر پتانسیل یادگیری ماشین، آمورف‌شدن خودبه‌خودی در فصل مشترک ZrO2/Li2ZrCl6 و افزایش جهش Li+ به‌عنوان منشأ بهبود رسانایی یونی نشان داده شد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 Novelty: First machine-learned neuroevolution potential enabling large-scale MD of ZrO2/Li2ZrCl6 heterostructures, revealing spontaneous interfacial amorphization from space-charge effects that creates distorted, under-coordinated Li+ polyhedra with enhanced hopping. Significance: Explains the puzzling conductivity boost from insulating ZrO2 additives, provides a validated computational framework for interface modeling, and guides rational design of composite solid-state electrolytes.&lt;br&gt;🏷 halide solid electrolyte · machine-learned potential · interfacial amorphization · Li2ZrCl6 · space-charge effect</description>
+<category>halide solid electrolyte</category>
+<category>machine-learned potential</category>
+<category>interfacial amorphization</category>
+<category>Li2ZrCl6</category>
+<category>space-charge effect</category>
+</item>
+<item>
+<title>Bipolar Redox Molecule-Assembled Freestanding Film Cathodes for Aqueous Zinc-Ion Batteries with Excellent Thermal Adaptivity and Ultralong Life</title>
+<link>https://doi.org/10.1021/acsnano.6c15091</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15091</guid>
+<pubDate>Mon, 02 Nov 2026 17:02:21 GMT</pubDate>
+<description>این مقاله کاتدهای فیلم خودایستای مولکول ردوکس دوقطبی متصل به MXene و نانولوله کربنی را برای باتری آبی Zn-ion با عمر فوق‌طولانی و سازگاری حرارتی بالا ارائه می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in assembling a bipolar redox molecule into a freestanding MXene-bonded single-walled carbon nanotube framework, enabling high capacity (406.6 mAh g–1), ultralong 60,000-cycle life, and thermal adaptivity at 55 °C. Its significance is linking electrode structure design with thermal management, offering insights for high-performance aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · organic cathode · bipolar redox molecule · MXene film · thermal management</description>
+<category>aqueous zinc-ion battery</category>
+<category>organic cathode</category>
+<category>bipolar redox molecule</category>
+<category>MXene film</category>
+<category>thermal management</category>
+</item>
+<item>
+<title>Bonding-Network Reconstruction in LiMn6-Derived Units Enables Durable Anionic Redox in Cobalt-Free Lithium-Rich Cathodes</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112569</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112569</guid>
+<pubDate>Mon, 02 Nov 2026 17:01:56 GMT</pubDate>
+<description>این مقاله با بازسازی شبکه پیوندی واحدهای مشتق از LiMn6، ردوکس آنیونی پایدار و عمر طولانی را در کاتدهای غنی از لیتیم بدون کبالت محقق می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium-rich cathode · anionic redox · LiMn6 units · cobalt-free cathode · bonding reconstruction</description>
+<category>lithium-rich cathode</category>
+<category>anionic redox</category>
+<category>LiMn6 units</category>
+<category>cobalt-free cathode</category>
+<category>bonding reconstruction</category>
+</item>
 <item>
 <title>Wulff‐Guided (002)/(103) Faceted Step–Terrace Microtopography Enables Rapid and Reversible Zn Deposition</title>
 <link>https://doi.org/10.1002/adfm.79433</link>
@@ -1136,78 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>ejected particles</category>
 <category>trajectory analysis</category>
 <category>large-format cell</category>
-</item>
-<item>
-<title>Single-degree-of-freedom adaptive virtual-RC droop with fuzzy fractional-order PI control for battery–supercapacitor hybrid energy storage in DC microgrids</title>
-<link>https://doi.org/10.1016/j.est.2026.125166</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125166</guid>
-<pubDate>Fri, 30 Oct 2026 11:01:29 GMT</pubDate>
-<description>این پژوهش یک کنترل دروپ virtual-RC تطبیقی تک‌درجه‌آزادی با PI کسری-مرتبه فازی برای ذخیره‌سازی هیبریدی باتری-ابرخازن در ریزشبکه DC پیشنهاد می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery-supercapacitor hybrid · DC microgrid · fuzzy fractional-order PI · virtual-RC droop · adaptive control</description>
-<category>battery-supercapacitor hybrid</category>
-<category>DC microgrid</category>
-<category>fuzzy fractional-order PI</category>
-<category>virtual-RC droop</category>
-<category>adaptive control</category>
-</item>
-<item>
-<title>Data-driven event-triggered predictive control for distributed energy storage systems in direct current microgrids</title>
-<link>https://doi.org/10.1016/j.est.2026.125293</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125293</guid>
-<pubDate>Fri, 30 Oct 2026 11:01:25 GMT</pubDate>
-<description>این مقاله یک کنترل پیش‌بینانه رویدادمحور داده‌محور برای سیستم‌های ذخیره‌سازی انرژی توزیع‌شده در ریزشبکه‌های جریان مستقیم ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 distributed energy storage · DC microgrid · predictive control · event-triggered control · data-driven control</description>
-<category>distributed energy storage</category>
-<category>DC microgrid</category>
-<category>predictive control</category>
-<category>event-triggered control</category>
-<category>data-driven control</category>
-</item>
-<item>
-<title>Conjugated covalent organic frameworks with covalently integrated sulfur as cathodes for lithium–sulfur batteries</title>
-<link>https://doi.org/10.1016/j.nantod.2026.103220</link>
-<guid isPermaLink="false">10.1016/j.nantod.2026.103220</guid>
-<pubDate>Fri, 30 Oct 2026 11:01:15 GMT</pubDate>
-<description>این مقاله چارچوب‌های کووالانسی مزدوج با گوگرد کووالانسی یکپارچه را به عنوان کاتد برای باتری‌های لیتیوم-گوگرد معرفی و بررسی می‌کند.&lt;br&gt;Nano Today | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · lithium-sulfur battery · covalent sulfur integration · cathode · conjugated framework</description>
-<category>covalent organic framework</category>
-<category>lithium-sulfur battery</category>
-<category>covalent sulfur integration</category>
-<category>cathode</category>
-<category>conjugated framework</category>
-</item>
-<item>
-<title>Toward Practical Zn‐Ion Batteries Through Separator/Electrolyte Co‐Design</title>
-<link>https://doi.org/10.1002/advs.78250</link>
-<guid isPermaLink="false">10.1002/advs.78250</guid>
-<pubDate>Fri, 30 Oct 2026 10:02:58 GMT</pubDate>
-<description>هم‌طراحی الکترولیت هیبریدی آلی-آبی و جداکننده PP نازک، آبکاری یکنواخت Zn و سرکوب HER را ممکن کرده و چگالی انرژی باتری‌های Zn-ion را افزایش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in co-designing a hybrid organic-aqueous electrolyte with thin polypropylene separators, overcoming the hydrophobicity that makes Li-ion separators incompatible with aqueous Zn-ion batteries. This enables uniform Zn plating, suppresses hydrogen evolution, and extends cycling to 4360 h. Replacing thick glass fiber separators boosts pouch cell energy density over 2.5-fold, offering a practical route to high-performance Zn-ion batteries.&lt;br&gt;🏷 Zn-ion battery · separator design · hybrid electrolyte · Zn plating · hydrogen evolution</description>
-<category>Zn-ion battery</category>
-<category>separator design</category>
-<category>hybrid electrolyte</category>
-<category>Zn plating</category>
-<category>hydrogen evolution</category>
-</item>
-<item>
-<title>Tailoring intermolecular interactions in polyethylene oxide-based solid-state electrolytes for high-performance lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.033</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.033</guid>
-<pubDate>Fri, 30 Oct 2026 09:03:22 GMT</pubDate>
-<description>برهم‌کنش‌های بین‌مولکولی در الکترولیت جامد پلی‌اتیلن‌اکساید برای باتری لیتیوم-فلز تنظیم شد تا عملکرد الکترولیت و پایداری فصل مشترک بهبود یابد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 solid polymer electrolyte · polyethylene oxide · lithium metal battery · intermolecular interactions · ionic conductivity</description>
-<category>solid polymer electrolyte</category>
-<category>polyethylene oxide</category>
-<category>lithium metal battery</category>
-<category>intermolecular interactions</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Deprotonation-enabled dynamic Zn-BTFA−-Na coordination in aqueous zinc-sodium hybrid batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.034</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.034</guid>
-<pubDate>Fri, 30 Oct 2026 09:03:18 GMT</pubDate>
-<description>هماهنگی دینامیکی Zn-BTFA−-Na ناشی از پروتون‌زدایی در باتری هیبریدی آبی روی-سدیم بررسی شد و نقش آن در بهبود رفتار الکتروشیمیایی نشان داده شد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · Zn-BTFA coordination · sodium hybrid battery · deprotonation · dynamic coordination</description>
-<category>aqueous zinc battery</category>
-<category>Zn-BTFA coordination</category>
-<category>sodium hybrid battery</category>
-<category>deprotonation</category>
-<category>dynamic coordination</category>
 </item>
 </channel>
 </rss>
