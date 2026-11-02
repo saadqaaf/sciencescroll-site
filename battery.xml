@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 14:02:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 15:02:46 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamically Sustained Zn2+-Enriched Electric Double Layer Enables High-Rate and Durable Four-Electron Zn-I2 Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105631</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105631</guid>
+<pubDate>Mon, 02 Nov 2026 15:02:35 GMT</pubDate>
+<description>یک لایه دوگانه الکتریکی غنیشده از Zn2+ بهصورت دینامیکی پایدار میسازد تا باتریهای چهارالکترونی Zn-I2 با نرخ بالا و دوام طولانی کار کنند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Zn-I2 battery · electric double layer · four-electron reaction · Zn2+ enrichment · high-rate cycling</description>
+<category>Zn-I2 battery</category>
+<category>electric double layer</category>
+<category>four-electron reaction</category>
+<category>Zn2+ enrichment</category>
+<category>high-rate cycling</category>
+</item>
+<item>
+<title>Built-in Electric Field-Driven Step-Selective Cu-CoO Tandem Catalysis for Highly Reversible Sulfur Redox in Sodium-Sulfur Batteries</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127728</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127728</guid>
+<pubDate>Mon, 02 Nov 2026 15:02:19 GMT</pubDate>
+<description>این مقاله با میدان الکتریکی داخلی، کاتالیز پله‌ای Cu-CoO را برای احیای گوگرد بسیار برگشت‌پذیر در باتری سدیم-گوگرد ارائه می‌دهد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 sodium-sulfur battery · built-in electric field · Cu-CoO catalyst · tandem catalysis · sulfur redox</description>
+<category>sodium-sulfur battery</category>
+<category>built-in electric field</category>
+<category>Cu-CoO catalyst</category>
+<category>tandem catalysis</category>
+<category>sulfur redox</category>
+</item>
+<item>
+<title>In-to-out compressive strain in 2D-on-3D NiOOH/NiCu optimizes H supply for electrocatalytic nitrate reduction and high-performance Zn-Nitrate batteries</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127729</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127729</guid>
+<pubDate>Mon, 02 Nov 2026 15:02:04 GMT</pubDate>
+<description>این مقاله با کرنش فشاری در NiOOH/NiCu تأمین H را برای احیای الکتروکاتالیستی نیترات و باتری Zn-Nitrate بهینه می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · NiOOH/NiCu · compressive strain · Zn-nitrate battery · hydrogen supply</description>
+<category>nitrate reduction</category>
+<category>NiOOH/NiCu</category>
+<category>compressive strain</category>
+<category>Zn-nitrate battery</category>
+<category>hydrogen supply</category>
+</item>
 <item>
 <title>Strengthening TMP‐Derived Phosphate SEI via Sn Scaffold and BF 4 − Interphase Chemistry for Ultra‐Stable, High‐Rate Zn Metal Anodes</title>
 <link>https://doi.org/10.1002/aenm.71796</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>oxygen reduction reaction</category>
 <category>Zn-air battery</category>
 <category>interlayer interweaving</category>
-</item>
-<item>
-<title>Dielectric-engineered separator enables extreme fast charging of commercial Li-ion batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105622</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105622</guid>
-<pubDate>Fri, 30 Oct 2026 07:01:14 GMT</pubDate>
-<description>با مهندسی دی‌الکتریک جداکننده، شارژ فوق‌سریع باتری‌های تجاری Li-ion امکان‌پذیر شد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Li-ion battery · separator · dielectric engineering · fast charging · commercial cells</description>
-<category>Li-ion battery</category>
-<category>separator</category>
-<category>dielectric engineering</category>
-<category>fast charging</category>
-<category>commercial cells</category>
-</item>
-<item>
-<title>Fundamental Inhibition of Polyiodide Formation by a Site‐Separated Binder for Highly Stable Aqueous Zinc–Iodine Batteries</title>
-<link>https://doi.org/10.1002/adma.75534</link>
-<guid isPermaLink="false">10.1002/adma.75534</guid>
-<pubDate>Fri, 30 Oct 2026 05:01:18 GMT</pubDate>
-<description>یک بایندر پلیمری با جداسازی جایگاه‌های فعال، تشکیل پلی‌یدید را در باتری آبی Zn-I2 مهار کرده و ظرفیت و پایداری چرخه‌ای را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a site-separated polymer binder that selectively confines I₂ and I⁻ at distinct side-chain groups, chemically blocking polyiodide formation at its source. This enables direct I₂/I⁻ conversion, superior rate performance (102 mAh g⁻¹ at 50 A g⁻¹), and 97.1% retention over 31,000 cycles—significantly advancing stable aqueous Zn–I₂ battery cathodes.&lt;br&gt;🏷 zinc-iodine battery · polyiodide inhibition · site-separated binder · aqueous battery · cycle stability</description>
-<category>zinc-iodine battery</category>
-<category>polyiodide inhibition</category>
-<category>site-separated binder</category>
-<category>aqueous battery</category>
-<category>cycle stability</category>
-</item>
-<item>
-<title>Super-Toughness Self-Healing MOF-Based Composite Solid Electrolyte with Reaction-Transport Coupling Regulates Transportation of Ions and Polysulfides in High-Performance Solid-State Li–S Batteries</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04006</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04006</guid>
-<pubDate>Fri, 30 Oct 2026 02:01:11 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی خودترمیم‌شونده بر پایه MOF با شبکه‌ی اتصال عرضی بورونیک استر، رسانایی یونی و مهار شاتل پلی‌سولفید را در باتری Li-S بهبود داد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining nanoconfinement polymerization with self-healing dynamic boronic ester cross-linking to create a MOF-based composite solid electrolyte. Its significance: simultaneously addresses polysulfide shuttling, sluggish ion transport, and dendrite growth, achieving high ionic conductivity, toughness, and 94.8% capacity retention at 4 mg cm⁻² sulfur loading—offering a new design pathway for high-energy solid-state Li–S batteries.&lt;br&gt;🏷 solid-state Li-S battery · composite solid electrolyte · self-healing · UiO-66 · polysulfide shuttle</description>
-<category>solid-state Li-S battery</category>
-<category>composite solid electrolyte</category>
-<category>self-healing</category>
-<category>UiO-66</category>
-<category>polysulfide shuttle</category>
 </item>
 </channel>
 </rss>
