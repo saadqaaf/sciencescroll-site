@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 06:01:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 07:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Investigating configuration entropy in ceramic super-ionic conductors</title>
+<link>https://doi.org/10.1039/d6ta03661a</link>
+<guid isPermaLink="false">10.1039/d6ta03661a</guid>
+<pubDate>Tue, 03 Nov 2026 07:01:31 GMT</pubDate>
+<description>نقش آنتروپی پیکربندی در رسانای فوق‌یونی سرامیکی و تأثیر آن بر انتشار یون Li+ و اثرات همبستگی یونی بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in quantifying configuration entropy to link ion correlation effects (concerted motion, paddle-wheel) with fast Li+ diffusion in ceramic super-ionic conductors, moving beyond structural descriptors. Significance: provides a thermodynamic framework connecting dynamic ion correlations to conductivity, aiding rational design of solid electrolytes for safer, higher-performance batteries.&lt;br&gt;🏷 configurational entropy · solid electrolyte · Li+ conduction · ceramic superionic conductor · ion correlation</description>
+<category>configurational entropy</category>
+<category>solid electrolyte</category>
+<category>Li+ conduction</category>
+<category>ceramic superionic conductor</category>
+<category>ion correlation</category>
+</item>
+<item>
+<title>Antiperovskite Nitrides for Bifunctional Oxygen Electrocatalysis and Zinc-Air Battery Powered Water Electrolysis</title>
+<link>https://doi.org/10.1039/d6ta03924c</link>
+<guid isPermaLink="false">10.1039/d6ta03924c</guid>
+<pubDate>Tue, 03 Nov 2026 07:01:16 GMT</pubDate>
+<description>نیترید آنتی‌پروسکایت پایه Sn-Fe به عنوان الکتروکاتالیست دوفункسیونی اکسیژن برای باتری روی-هوا و الکترولیز آب سنتز شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing a Sn-Fe-based antiperovskite nitride as a low-cost, non-precious bifunctional oxygen electrocatalyst. Its significance is enabling efficient bifunctional oxygen electrocatalysis and application in zinc-air battery-powered water electrolysis, offering a promising route for sustainable energy conversion and storage without reliance on precious metals.&lt;br&gt;🏷 antiperovskite nitride · bifunctional electrocatalyst · oxygen electrocatalysis · zinc-air battery · water electrolysis</description>
+<category>antiperovskite nitride</category>
+<category>bifunctional electrocatalyst</category>
+<category>oxygen electrocatalysis</category>
+<category>zinc-air battery</category>
+<category>water electrolysis</category>
+</item>
 <item>
 <title>A practical beginner&#x27;s guide to developing a 3D printed electrochemical cell for soluble lead flow batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125334</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>wet synthesis</category>
 <category>ionic conductivity</category>
 <category>intermediate-phase blocking</category>
-</item>
-<item>
-<title>N‑Substitution‑Directed Molecular Engineering of Organic Solid‑State Electrolytes for Potassium Ion Conduction</title>
-<link>https://doi.org/10.1002/smll.76182</link>
-<guid isPermaLink="false">10.1002/smll.76182</guid>
-<pubDate>Fri, 30 Oct 2026 20:05:16 GMT</pubDate>
-<description>با جایگزینی N در کاربازولید پتاسیم، الکترولیت جامد آلی δ-KNCZ با رسانایی یونی بالا و عدد انتقال 0.98 برای باتری‌های پتاسیم-یونی طراحی شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 N-substitution on potassium carbazolide creates δ-KNCZ, an organic solid-state K⁺ conductor with 2.8×10⁻⁴ S cm⁻¹ at 120°C and transference number 0.98, while unsubstituted and other isomers show no detectable conductivity. This demonstrates molecular-level coordination tuning to weaken K─N bonds and enable K⁺ hopping, offering a new design strategy for organic solid-state potassium-ion electrolytes.&lt;br&gt;🏷 potassium-ion battery · organic solid electrolyte · N-substitution · ionic conductivity · carbazolide</description>
-<category>potassium-ion battery</category>
-<category>organic solid electrolyte</category>
-<category>N-substitution</category>
-<category>ionic conductivity</category>
-<category>carbazolide</category>
-</item>
-<item>
-<title>MLi 2 Ti 6 O 14 (M = 2Na, Sr, Ba, Pb) Titanate Anodes for Hybrid Lithium‐Ion Capacitors</title>
-<link>https://doi.org/10.1002/smll.75916</link>
-<guid isPermaLink="false">10.1002/smll.75916</guid>
-<pubDate>Fri, 30 Oct 2026 20:05:11 GMT</pubDate>
-<description>آندهای تیتانات MLi2Ti6O14 پوشش‌داده‌شده با کربن برای ابرخازن‌های لیتیوم-یونی هیبریدی ساخته شد و مکانیزم ذخیره Li و عملکرد چرخه‌ای آن‌ها بررسی شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in first demonstrating combustion-synthesized carbon-coated MLi2Ti6O14 (M = 2Na, Sr, Ba, Pb) titanates as intercalation anodes for hybrid lithium-ion capacitors, achieving 10–45 Wh/kg and up to 1200 W/kg. Significance includes linking voltage-step behavior to Li-storage sites, migration pathways, and barriers, explaining early-cycle intrinsic versus later-cycle extrinsic effects, and establishing MLTO titanates as a new faradaic anode class.&lt;br&gt;🏷 lithium-ion capacitor · titanate anode · MLi2Ti6O14 · Li-storage mechanism · activated carbon</description>
-<category>lithium-ion capacitor</category>
-<category>titanate anode</category>
-<category>MLi2Ti6O14</category>
-<category>Li-storage mechanism</category>
-<category>activated carbon</category>
 </item>
 </channel>
 </rss>
