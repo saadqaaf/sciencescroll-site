@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 18:02:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 19:03:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ultra‐Long Helical CNFs 3D‐Networks as High‐Conductivity Current Collectors for Efficient Sodium Deposition</title>
+<link>https://doi.org/10.1002/adma.75582</link>
+<guid isPermaLink="false">10.1002/adma.75582</guid>
+<pubDate>Tue, 03 Nov 2026 19:02:40 GMT</pubDate>
+<description>یک لایه Cu با کاتالیزور دواتمی NiY روی کلکتور جریان Al، شبکه‌های سه‌بعدی CNF مارپیچ رشد می‌دهد و رسوب یکنواخت و بدون دندریت Na را در باتری سدیم-فلز ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in confining a NiY diatomic catalyst within a 20 nm Cu layer on Al current collectors, enabling in-situ growth of ultra-long helical CNF 3D-networks. This yields high conductivity, uniform Na deposition, and dendrite suppression, achieving 99.49% Coulombic efficiency over 3000 h and stable full-cell cycling over 1500 cycles—offering a new diatomic-catalyst strategy for high-performance carbon-modified current collectors.&lt;br&gt;🏷 sodium metal battery · current collector · diatomic catalyst · carbon nanofibers · dendrite suppression</description>
+<category>sodium metal battery</category>
+<category>current collector</category>
+<category>diatomic catalyst</category>
+<category>carbon nanofibers</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>A degradation-state-oriented device–material–element framework for high-value recycling of retired lithium-ion battery layered oxide cathodes</title>
+<link>https://doi.org/10.1039/d6ee04515d</link>
+<guid isPermaLink="false">10.1039/d6ee04515d</guid>
+<pubDate>Tue, 03 Nov 2026 19:02:18 GMT</pubDate>
+<description>این مقاله چارچوبی مبتنی بر وضعیت تخریب برای بازیافت ارزشمند کاتدهای اکسید لایه‌ای باتری‌های لیتیوم-یونی مستعمل با ترمیم دستگاه، بازتولید مواد یا استخراج عناصر ارائه می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a degradation-state-oriented device–material–element framework that routes retired layered oxide cathodes to restoration, regeneration, or extraction based on their condition. Its significance is enabling high-value, low-carbon recycling guided by integrated life-cycle and techno-economic assessment, moving beyond one-size-fits-all recycling toward condition-matched, economically and environmentally optimized recovery.&lt;br&gt;🏷 lithium-ion battery recycling · layered oxide cathode · degradation state · cathode regeneration · techno-economic assessment</description>
+<category>lithium-ion battery recycling</category>
+<category>layered oxide cathode</category>
+<category>degradation state</category>
+<category>cathode regeneration</category>
+<category>techno-economic assessment</category>
+</item>
+<item>
+<title>Universally adaptable design of quasi-solid mineral electrolytes for aqueous and non-aqueous batteries</title>
+<link>https://doi.org/10.1039/d6ee04887k</link>
+<guid isPermaLink="false">10.1039/d6ee04887k</guid>
+<pubDate>Tue, 03 Nov 2026 19:02:08 GMT</pubDate>
+<description>این مقاله طراحی جهانی الکترولیت‌های معدنی شبه‌جامد را برای باتری‌های آبی و غیرآبی ارائه می‌دهد تا انتقال یون و ساختار حل‌پوشی میان‌سطحی را بهبود بخشد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a universally adaptable quasi-solid mineral electrolyte design that overcomes disordered ion transport and water-rich interfacial solvation in aqueous electrolytes while extending compatibility to non-aqueous batteries. Its significance is enabling uniform metal deposition and stable cycling across battery chemistries, bridging the performance gap between aqueous and non-aqueous systems and advancing safe, high-rate, broadly applicable energy storage.&lt;br&gt;🏷 quasi-solid electrolyte · mineral electrolyte · aqueous battery · non-aqueous battery · ion transport</description>
+<category>quasi-solid electrolyte</category>
+<category>mineral electrolyte</category>
+<category>aqueous battery</category>
+<category>non-aqueous battery</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Energy System for Wearables</title>
+<link>https://doi.org/10.1002/idm2.70094</link>
+<guid isPermaLink="false">10.1002/idm2.70094</guid>
+<pubDate>Tue, 03 Nov 2026 19:02:03 GMT</pubDate>
+<description>این مرور، سامانه‌های انرژی پوشیدنی را از تحلیل تقاضای انرژی و برداشت چندکاناله تا ذخیره‌سازی انعطاف‌پذیر و یکپارچه‌سازی و مدیریت هوشمند انرژی بررسی می‌کند.&lt;br&gt;Interdisciplinary Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely synthesizes wearable energy systems—demand analysis, multi-channel harvesting, flexible storage, and integration—from modular to monolithic designs. Its significance lies in highlighting multi-source hybrid harvesting and AI-assisted energy management, offering a roadmap for safer, longer-lasting, self-sufficient wearables that advance autonomous, intelligent physiological monitoring and human–machine interaction.&lt;br&gt;🏷 wearable energy systems · energy harvesting · flexible energy storage · self-powered devices · energy management</description>
+<category>wearable energy systems</category>
+<category>energy harvesting</category>
+<category>flexible energy storage</category>
+<category>self-powered devices</category>
+<category>energy management</category>
+</item>
 <item>
 <title>Decoupling the Chemical and Physical Effects of Crosslinking in Starch/Chitosan-Derived Hard Carbon for High-Performance Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1039/d6ta07451k</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>pore-network descriptors</category>
 <category>electrochemical charging</category>
 <category>supercapacitor</category>
-</item>
-<item>
-<title>Correlative Operando X‐Ray Imaging and Diffraction Revealing Mechanical Failure Pathways in Lithium Metal Sulfide‐Based All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/smll.76550</link>
-<guid isPermaLink="false">10.1002/smll.76550</guid>
-<pubDate>Sun, 01 Nov 2026 02:02:23 GMT</pubDate>
-<description>با ترکیب تصویربرداری و پراش پرتو ایکس عملیاتی، مسیرهای شکست مکانیکی و تخریب رابط در باتری تمام‌جامد Li6PS5Cl با آند لیتیوم و کاتد NCM811 بررسی شد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work uniquely correlates operando XCT and XRD with stack pressure monitoring to link particle-level morphology, lattice strain, and interfacial degradation in sulfide-based ASSBs. It reveals reversible NCM811 volume changes, heterogeneous lithiation, LPSC oxidative decomposition, and crack-induced short circuits at the LPSC|Li interface, providing multiscale mechanistic insight and design principles for mechanically robust all-solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · sulfide electrolyte · operando X-ray imaging · lithium metal anode · chemo-mechanical degradation</description>
-<category>all-solid-state battery</category>
-<category>sulfide electrolyte</category>
-<category>operando X-ray imaging</category>
-<category>lithium metal anode</category>
-<category>chemo-mechanical degradation</category>
-</item>
-<item>
-<title>Programming Closed Pores in Hard Carbon Anodes via Alcohol‐Regulated Interfacial Assembly for High‐Rate and Durable Sodium‐Ion Storage</title>
-<link>https://doi.org/10.1002/smll.76471</link>
-<guid isPermaLink="false">10.1002/smll.76471</guid>
-<pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
-<description>این پژوهش با راهبرد خودآرایی بین‌سطحی تنظیم‌شده با الکل، حفرات بسته را در آند کربن سخت برنامه‌ریزی می‌کند و ظرفیت صفحه ولتاژ پایین، نرخ بالا و پایداری چرخه طولانی در SIB فراهم می‌آورد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in programming closed pores during precursor assembly via alcohol-regulated interfacial assembly, rather than post-carbonization reconstruction, enabling control over pore accessibility and interfacial chemistry. This yields hard carbon with abundant closed ultramicropores, thin inorganic-rich SEI, outstanding rate capability (119 mAh g⁻¹ at 10 A g⁻¹), 6000-cycle stability, and excellent low-temperature performance, establishing a general strategy for fast-charging, long-life sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · closed pores · sodium-ion battery · interfacial assembly · SEI layer</description>
-<category>hard carbon anode</category>
-<category>closed pores</category>
-<category>sodium-ion battery</category>
-<category>interfacial assembly</category>
-<category>SEI layer</category>
-</item>
-<item>
-<title>In Situ Assembled Carboxyl‐Functionalized Hexaazatrinaphthylene Enables Accelerated Li + Transport and Localized FEC Enrichment in Silicon Anodes</title>
-<link>https://doi.org/10.1002/smll.76520</link>
-<guid isPermaLink="false">10.1002/smll.76520</guid>
-<pubDate>Sun, 01 Nov 2026 02:01:27 GMT</pubDate>
-<description>این مقاله با مهندسی میان‌سطح مولکولی مبتنی بر HATNTA در آند Si، غنی‌سازی موضعی FEC و تشکیل SEI غنی از LiF را ممکن کرده و انتقال Li+ و پایداری چرخه را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using carboxyl-functionalized HATNTA, a π-conjugated HATN derivative, as a molecular interphase engineer for Si anodes. Its polar C═N sites coordinate Li⁺ while carboxyl groups locally enrich FEC, steering formation of a LiF-rich SEI. This suppresses electrolyte decomposition and electrode degradation, yielding high ICE (92.56%), excellent rate capability, and stable cycling—offering a molecular design strategy for stabilizing Si anodes.&lt;br&gt;🏷 silicon anode · solid electrolyte interphase · HATNTA · LiF-rich SEI · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>solid electrolyte interphase</category>
-<category>HATNTA</category>
-<category>LiF-rich SEI</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Fluorine-driven electrolytes for low-temperature lithium batteries: from atomic substitution to rational design</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112539</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112539</guid>
-<pubDate>Sun, 01 Nov 2026 01:01:28 GMT</pubDate>
-<description>این مقاله راهبردهای الکترولیت مبتنی بر فلوئور را از جانشینی اتمی تا طراحی منطقی برای بهبود عملکرد باتری‌های لیتیومی در دمای پایین مرور می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 low-temperature lithium battery · fluorinated electrolyte · atomic substitution · electrolyte design · Li-ion transport</description>
-<category>low-temperature lithium battery</category>
-<category>fluorinated electrolyte</category>
-<category>atomic substitution</category>
-<category>electrolyte design</category>
-<category>Li-ion transport</category>
 </item>
 </channel>
 </rss>
