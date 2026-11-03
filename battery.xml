@@ -5,8 +5,104 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 14:02:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 15:02:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multi-element inert doping regulates phase transition pathway and electrochemical performance of LiMn0.6Fe0.4PO4 cathodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125332</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125332</guid>
+<pubDate>Tue, 03 Nov 2026 15:02:14 GMT</pubDate>
+<description>دوباره‌کاری چندعنصری خنثی در کاتد LiMn0.6Fe0.4PO4 مسیر گذار فازی و عملکرد الکتروشیمیایی را تنظیم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LiMn0.6Fe0.4PO4 · cathode · inert doping · phase transition · electrochemical performance</description>
+<category>LiMn0.6Fe0.4PO4</category>
+<category>cathode</category>
+<category>inert doping</category>
+<category>phase transition</category>
+<category>electrochemical performance</category>
+</item>
+<item>
+<title>Noise regime determines model choice: A frequency-selective robustness benchmark for lithium-ion battery prognostics</title>
+<link>https://doi.org/10.1016/j.est.2026.125315</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125315</guid>
+<pubDate>Tue, 03 Nov 2026 15:02:10 GMT</pubDate>
+<description>این مقاله نشان می‌دهد رژیم نویز تعیین‌کننده انتخاب مدل است و یک بنچمارک مقاومت فرکانس‌گزین برای پیش‌آگاهی باتری لیتیوم-یونی ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery prognostics · noise regime · robustness benchmark · frequency-selective evaluation · lithium-ion battery</description>
+<category>battery prognostics</category>
+<category>noise regime</category>
+<category>robustness benchmark</category>
+<category>frequency-selective evaluation</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Surface-embedded nano‑copper on bulk SiOx/C microspheres via graphitic carbon layers for durable lithium-ion battery anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125404</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125404</guid>
+<pubDate>Tue, 03 Nov 2026 15:02:06 GMT</pubDate>
+<description>مس نانومتری نشانده‌شده روی سطح میکروسفرهای SiOx/C با لایه‌های کربن گرافیتی، آند باتری لیتیوم-یونی بادوام ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 SiOx/C anode · nano-copper · graphitic carbon layer · lithium-ion battery · surface embedding</description>
+<category>SiOx/C anode</category>
+<category>nano-copper</category>
+<category>graphitic carbon layer</category>
+<category>lithium-ion battery</category>
+<category>surface embedding</category>
+</item>
+<item>
+<title>State prediction of lithium-ion battery via temporal fusion transformer with multi-model feature selection and multi-fidelity optimization</title>
+<link>https://doi.org/10.1016/j.est.2026.125358</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125358</guid>
+<pubDate>Tue, 03 Nov 2026 15:02:01 GMT</pubDate>
+<description>پیش‌بینی وضعیت باتری لیتیوم-یونی با ترانسفورماتور همجوشی زمانی، انتخاب ویژگی چندمدلی و بهینه‌سازی چنددقتی انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state prediction · temporal fusion transformer · feature selection · multi-fidelity optimization</description>
+<category>lithium-ion battery</category>
+<category>state prediction</category>
+<category>temporal fusion transformer</category>
+<category>feature selection</category>
+<category>multi-fidelity optimization</category>
+</item>
+<item>
+<title>Popcorn-puffing engineered Sb/Sb2O3 heterostructure in porous carbon for fast and durable sodium storage</title>
+<link>https://doi.org/10.1016/j.est.2026.125395</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125395</guid>
+<pubDate>Tue, 03 Nov 2026 15:01:52 GMT</pubDate>
+<description>ساختار ناهمگون Sb/Sb2O3 در کربن متخلخل با روش پف‌کردن ذرت‌مانند ساخته شده و ذخیره‌سازی سریع و پایدار سدیم را نشان می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium storage · Sb/Sb2O3 heterostructure · porous carbon · popcorn-puffing · anode material</description>
+<category>sodium storage</category>
+<category>Sb/Sb2O3 heterostructure</category>
+<category>porous carbon</category>
+<category>popcorn-puffing</category>
+<category>anode material</category>
+</item>
+<item>
+<title>Dual-adaptive feature enhancement based self-stacking two-stage random forest fusion for lithium-ion battery state of health estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.125371</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125371</guid>
+<pubDate>Tue, 03 Nov 2026 15:01:46 GMT</pubDate>
+<description>یک روش جنگل تصادفی دو مرحله‌ای خودانباشته با تقویت ویژگی دوگانه-تطبیقی برای تخمین وضعیت سلامت باتری لیتیوم-یونی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · random forest fusion · feature enhancement · self-stacking ensemble</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>random forest fusion</category>
+<category>feature enhancement</category>
+<category>self-stacking ensemble</category>
+</item>
+<item>
+<title>Fragmentation-aware masked multi-task network for battery health diagnostics from incomplete charging profiles</title>
+<link>https://doi.org/10.1016/j.est.2026.125353</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125353</guid>
+<pubDate>Tue, 03 Nov 2026 15:01:42 GMT</pubDate>
+<description>یک شبکه چندوظیفه‌ای ماسک‌دار و آگاه به قطعه‌بندی برای تشخیص سلامت باتری از پروفایل‌های ناقص شارژ لیتیوم-یونی توسعه می‌یابد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery health diagnostics · masked multi-task network · incomplete charging profiles · fragmentation-aware learning · lithium-ion battery</description>
+<category>battery health diagnostics</category>
+<category>masked multi-task network</category>
+<category>incomplete charging profiles</category>
+<category>fragmentation-aware learning</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Consistency sorting of retired lithium-ion batteries based on dual-temperature incremental capacity response features</title>
+<link>https://doi.org/10.1016/j.est.2026.125325</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125325</guid>
+<pubDate>Tue, 03 Nov 2026 15:01:36 GMT</pubDate>
+<description>این مقاله با استفاده از ویژگی‌های پاسخ ظرفیت افزایشی در دو دما، روشی برای دسته‌بندی یکنواخت باتری‌های لیتیوم-یونی بازنشسته ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 retired lithium-ion batteries · consistency sorting · incremental capacity · dual-temperature features · second-life batteries</description>
+<category>retired lithium-ion batteries</category>
+<category>consistency sorting</category>
+<category>incremental capacity</category>
+<category>dual-temperature features</category>
+<category>second-life batteries</category>
+</item>
 <item>
 <title>Spin‐State‐Coupled Redox Chemistry in Rechargeable Battery Materials</title>
 <link>https://doi.org/10.1002/smll.76604</link>
@@ -1112,102 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>battery module</category>
 <category>flame retardancy</category>
 <category>in situ ceramization</category>
-</item>
-<item>
-<title>Electronic Structure Engineering Enables Dynamic Interfacial Adaptation of Zinc Anodes</title>
-<link>https://doi.org/10.1002/adfm.79395</link>
-<guid isPermaLink="false">10.1002/adfm.79395</guid>
-<pubDate>Sat, 31 Oct 2026 14:01:11 GMT</pubDate>
-<description>با مهندسی ساختار الکترونی افزودنی NVP در الکترولیت، سازگاری دینامیکی فصل مشترک Zn/الکترولیت بهبود یافت و آند روی در باتری آبی یون-روی پایداری طولانی‌مدت نشان داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using molecular engineering (vinyl functionalization of pyrrolidone) to create electronically adaptive electrolyte additives that dynamically respond to evolving Zn/electrolyte interfaces via π-electron delocalization and polarization, unlike static additives. This enables superior Zn anode stability (4000 h) and full-cell retention (92.6%), highlighting additive electronic responsiveness as a new design principle for dynamic interfacial regulation.&lt;br&gt;🏷 zinc-ion battery · electrolyte additive · zinc anode · solvation structure · interfacial regulation</description>
-<category>zinc-ion battery</category>
-<category>electrolyte additive</category>
-<category>zinc anode</category>
-<category>solvation structure</category>
-<category>interfacial regulation</category>
-</item>
-<item>
-<title>Coprecipitation‐Enabled Scalable Synthesis of High‐Energy Density Polyanion‐Integrated Disordered Rocksalt Cathodes for Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71730</link>
-<guid isPermaLink="false">10.1002/aenm.71730</guid>
-<pubDate>Sat, 31 Oct 2026 12:01:22 GMT</pubDate>
-<description>سنتز مقیاس‌پذیر کاتد DRXPS با هم‌رسوبی و واکنش حالت جامد کم‌دما، ظرفیت 324 mAh g−1 و انرژی 935 Wh kg−1 را در باتری لیتیوم-یون فراهم کرد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in replacing mechanochemical ball milling with a scalable coprecipitation-enabled solid-state synthesis for metastable polyanion-integrated DRX cathodes (Li1.67Mn1.5P0.17O4), using precursor engineering and eutectic lithium-salt assistance to enable low-temperature (450°C, 30 min) air processing. Significance: this yields 324 mAh g−1 (935 Wh kg−1) in a manufacturing-compatible workflow, enabling scalable production of high-energy-density DRXPS cathodes.&lt;br&gt;🏷 disordered rocksalt cathode · polyanion integration · coprecipitation synthesis · lithium-ion battery · high energy density</description>
-<category>disordered rocksalt cathode</category>
-<category>polyanion integration</category>
-<category>coprecipitation synthesis</category>
-<category>lithium-ion battery</category>
-<category>high energy density</category>
-</item>
-<item>
-<title>Thermodynamically Guided Antisite Ordering Stabilizes Cobalt‐Free Ultrahigh‐Ni Cathodes</title>
-<link>https://doi.org/10.1002/adma.75568</link>
-<guid isPermaLink="false">10.1002/adma.75568</guid>
-<pubDate>Sat, 31 Oct 2026 11:01:28 GMT</pubDate>
-<description>مهندسی نقص هدایت‌شده ترمودینامیکی با دوپه Te6+ آرایش فضایی آنتی‌سایت Li/Ni را در کاتد بدون کبالت فوق‌پرنیکل تثبیت کرده و پایداری و ظرفیت آن را بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in thermodynamics-guided control of antisite spatial organization, not just minimizing Li/Ni mixing. DFT identifies Te⁶⁺ as preferring correlated antisite configurations, enabling an antisite-ordered superlattice in a cobalt-free ultrahigh-Ni cathode. This suppresses H2–H3 phase separation, preserves Li⁺ pathways, and stabilizes lattice oxygen, yielding excellent rate and cycling stability—establishing defect spatial organization as a key design variable.&lt;br&gt;🏷 cobalt-free cathode · ultrahigh-Ni layered oxide · antisite ordering · Li-ion battery · dopant engineering</description>
-<category>cobalt-free cathode</category>
-<category>ultrahigh-Ni layered oxide</category>
-<category>antisite ordering</category>
-<category>Li-ion battery</category>
-<category>dopant engineering</category>
-</item>
-<item>
-<title>Cation-Anchored Chromium Shielding and Thermomechanical Compatibility in High-Entropy Air Electrodes Enabling Robust Reversible Protonic Ceramic Cells</title>
-<link>https://doi.org/10.1039/d6ta06322e</link>
-<guid isPermaLink="false">10.1039/d6ta06322e</guid>
-<pubDate>Sat, 31 Oct 2026 09:01:21 GMT</pubDate>
-<description>با مهندسی کمبود سایت A و الکترود هوای آنتروپی‌بالا، مسمومیت کروم و تخریب ترمو‌مکانیکی در سلول‌های سرامیکی پروتونی برگشت‌پذیر هم‌زمان مهار می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling A-site deficiency engineering with cation-anchored chromium shielding in high-entropy air electrodes, simultaneously addressing chromium poisoning and thermomechanical degradation. This integrated strategy enables robust reversible protonic ceramic cells, offering a dual-function solution that enhances durability and performance, marking a significant advance for sustainable energy conversion and storage technologies.&lt;br&gt;🏷 protonic ceramic cells · high-entropy electrode · chromium poisoning · A-site deficiency · thermomechanical compatibility</description>
-<category>protonic ceramic cells</category>
-<category>high-entropy electrode</category>
-<category>chromium poisoning</category>
-<category>A-site deficiency</category>
-<category>thermomechanical compatibility</category>
-</item>
-<item>
-<title>Settlement-aware virtual power plant co-optimization: Day-ahead bidding with real-time energy storage recourse</title>
-<link>https://doi.org/10.1016/j.est.2026.125349</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125349</guid>
-<pubDate>Sat, 31 Oct 2026 07:01:34 GMT</pubDate>
-<description>یک بهینه‌سازی مشترک آگاه از تسویه برای نیروگاه مجازی ارائه می‌شود که پیشنهاددهی روز-پیش و بازگشت ذخیره‌سازی انرژی در زمان واقعی را ترکیب می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 virtual power plant · energy storage · day-ahead bidding · real-time recourse · settlement-aware optimization</description>
-<category>virtual power plant</category>
-<category>energy storage</category>
-<category>day-ahead bidding</category>
-<category>real-time recourse</category>
-<category>settlement-aware optimization</category>
-</item>
-<item>
-<title>Capacity and operation co-optimization of a solar-integrated liquid CO2 energy storage system with multi-stream thermal management</title>
-<link>https://doi.org/10.1016/j.est.2026.125181</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125181</guid>
-<pubDate>Sat, 31 Oct 2026 07:01:29 GMT</pubDate>
-<description>ظرفیت و بهره‌برداری یک سیستم ذخیره‌سازی انرژی CO2 مایع یکپارچه با خورشید و مدیریت حرارتی چندجریانه به‌صورت هم‌زمان بهینه‌سازی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 liquid CO2 storage · solar integration · thermal management · capacity optimization · energy storage system</description>
-<category>liquid CO2 storage</category>
-<category>solar integration</category>
-<category>thermal management</category>
-<category>capacity optimization</category>
-<category>energy storage system</category>
-</item>
-<item>
-<title>Co-optimization of cost and ancillary services: A dynamic decoupled reserve management framework for hybrid energy storage in industrial parks</title>
-<link>https://doi.org/10.1016/j.est.2026.125306</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125306</guid>
-<pubDate>Sat, 31 Oct 2026 07:01:25 GMT</pubDate>
-<description>یک چارچوب مدیریت ذخیره چرخان به‌صورت دینامیک و تفکیک‌شده برای هم‌بهینه‌سازی هزینه و خدمات جانبی ذخیره‌سازی هیبریدی در پارک‌های صنعتی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · ancillary services · reserve management · industrial parks · cost optimization</description>
-<category>hybrid energy storage</category>
-<category>ancillary services</category>
-<category>reserve management</category>
-<category>industrial parks</category>
-<category>cost optimization</category>
-</item>
-<item>
-<title>Fast prediction of low-frequency electrochemical impedance spectra for lithium-ion batteries via a physics-informed conditional variational autoencoder</title>
-<link>https://doi.org/10.1016/j.est.2026.125319</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125319</guid>
-<pubDate>Sat, 31 Oct 2026 07:01:20 GMT</pubDate>
-<description>یک خودرمزگذار متغیر شرطی آگاه از فیزیک برای پیش‌بینی سریع طیف‌های امپدانس الکتروشیمیایی فرکانس پایین باتری‌های لیتیوم-یونی ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · electrochemical impedance · variational autoencoder · physics-informed model · fast prediction</description>
-<category>lithium-ion battery</category>
-<category>electrochemical impedance</category>
-<category>variational autoencoder</category>
-<category>physics-informed model</category>
-<category>fast prediction</category>
 </item>
 </channel>
 </rss>
