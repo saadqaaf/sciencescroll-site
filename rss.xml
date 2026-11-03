@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 19:03:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Scalable green synthesis of Mn2+-based hybrid halides with multi-responsive luminescence for versatile high-performance applications</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103554</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103554</guid>
+<pubDate>Tue, 03 Nov 2026 20:01:51 GMT</pubDate>
+<description>این مقاله سنتز سبز و مقیاس‌پذیر هالیدهای هیبریدی مبتنی بر Mn2+ با لومینسانس چندپاسخه را برای کاربردهای高性能 ارائه می‌دهد.&lt;br&gt;Materials Today | 🔬 Research Article&lt;br&gt;🏷 Mn2+ halides · hybrid halides · multi-responsive luminescence · green synthesis · scalable synthesis</description>
+<category>Mn2+ halides</category>
+<category>hybrid halides</category>
+<category>multi-responsive luminescence</category>
+<category>green synthesis</category>
+<category>scalable synthesis</category>
+</item>
+<item>
+<title>Exploring the potential of metal complexes as antibiofilm agent</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218720</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218720</guid>
+<pubDate>Tue, 03 Nov 2026 20:01:48 GMT</pubDate>
+<description>این مقاله پتانسیل کمپلکس‌های فلزی را به‌عنوان عوامل ضدبیوفیلم بررسی می‌کند و راهبردهای فلزمحور برای مهار بیوفیلم را مرور می‌نماید.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal complexes · antibiofilm agents · biofilm inhibition · quorum sensing · metal-based therapeutics</description>
+<category>metal complexes</category>
+<category>antibiofilm agents</category>
+<category>biofilm inhibition</category>
+<category>quorum sensing</category>
+<category>metal-based therapeutics</category>
+</item>
 <item>
 <title>Lignin‐Based Supramolecular Dynamic Networks: A General Platform for Energy Harvesting and Sensing</title>
 <link>https://doi.org/10.1002/adma.75521</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 phenol skeletal editing �
 <category>thermoelectric</category>
 <category>nanostructures</category>
 <category>graphene</category>
-</item>
-<item>
-<title>Copper-modified nickel membrane reactor for electrochemical hydrogenation in low-conductivity water</title>
-<link>https://doi.org/10.1038/s41467-026-78930-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-78930-x</guid>
-<pubDate>Tue, 03 Nov 2026 13:04:07 GMT</pubDate>
-<description>یک راکتور غشایی نیکل اصلاح‌شده با مس برای هیدروژناسیون الکتروشیمیایی در آب با رسانایی پایین طراحی و ارزیابی شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 membrane reactor · electrochemical hydrogenation · copper-modified nickel · low-conductivity water · hydrogenation</description>
-<category>membrane reactor</category>
-<category>electrochemical hydrogenation</category>
-<category>copper-modified nickel</category>
-<category>low-conductivity water</category>
-<category>hydrogenation</category>
-</item>
-<item>
-<title>High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing</title>
-<link>https://doi.org/10.1038/s41467-026-79253-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-79253-7</guid>
-<pubDate>Tue, 03 Nov 2026 13:04:04 GMT</pubDate>
-<description>ترانزیستورهای اثر میدانی فروالکتریک وورتزیتی بدون بازپخت با نیمه‌رسانای اکسیدی فوق‌نازک برای محاسبات نورومورفیک ساخته شدند و عملکرد بالایی نشان دادند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 wurtzite ferroelectric · field-effect transistor · oxide semiconductor · neuromorphic computing · annealing-free</description>
-<category>wurtzite ferroelectric</category>
-<category>field-effect transistor</category>
-<category>oxide semiconductor</category>
-<category>neuromorphic computing</category>
-<category>annealing-free</category>
 </item>
 </channel>
 </rss>
