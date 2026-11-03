@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 00:01:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoupling Solvation and Interfacial Kinetics via Competitive Coordination for Low-Temperature Sodium Metal Batteries and Practical Ah-Level Pouch Cells</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105634</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105634</guid>
+<pubDate>Tue, 03 Nov 2026 01:01:36 GMT</pubDate>
+<description>جداسازی حل‌پوشانی و سینتیک سطح مشترک با هماهنگی رقابتی، باتری‌های فلز سدیم دما-پایین و سلول‌های کیسه‌ای Ah را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium metal battery · low temperature · solvation · interfacial kinetics · competitive coordination</description>
+<category>sodium metal battery</category>
+<category>low temperature</category>
+<category>solvation</category>
+<category>interfacial kinetics</category>
+<category>competitive coordination</category>
+</item>
+<item>
+<title>In-Situ Engineering of Hierarchical Rigid-Elastic Dual-Carbon Heterostructures with Interlocking Nanotubes for Fast Ion–Electron Transport in SiOx Anodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105632</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105632</guid>
+<pubDate>Tue, 03 Nov 2026 01:01:32 GMT</pubDate>
+<description>ساخت درجای ناهم‌ساختارهای کربنی دوگانه سخت-انعطاف‌پذیر با نانولوله‌های درهم‌قفل، انتقال سریع یون-الکترون را در آندهای SiOx باتری لیتیوم-یون فراهم می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 SiOx anode · dual-carbon heterostructure · interlocking nanotubes · ion transport · lithium-ion battery</description>
+<category>SiOx anode</category>
+<category>dual-carbon heterostructure</category>
+<category>interlocking nanotubes</category>
+<category>ion transport</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Mastering interfacial stability in solid-state batteries via flux-matching between lithium deposition and creep rate</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105633</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105633</guid>
+<pubDate>Tue, 03 Nov 2026 01:01:27 GMT</pubDate>
+<description>هم‌ترازی شار بین رسوب لیتیوم و نرخ خزش، پایداری سطح مشترک در باتری‌های حالت جامد لیتیومی را بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 solid-state batteries · lithium deposition · creep rate · interfacial stability · flux matching</description>
+<category>solid-state batteries</category>
+<category>lithium deposition</category>
+<category>creep rate</category>
+<category>interfacial stability</category>
+<category>flux matching</category>
+</item>
 <item>
 <title>Potassium-ion batteries for stationary energy storage solutions</title>
 <link>https://doi.org/10.1039/d6cs01228k</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>cation mediation</category>
 <category>interfacial regulation</category>
 <category>cycling durability</category>
-</item>
-<item>
-<title>Interfacial reinforcement relieves mechanical mismatch for stable perovskite photovoltaics</title>
-<link>https://doi.org/10.1038/s41467-026-79172-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-79172-7</guid>
-<pubDate>Fri, 30 Oct 2026 19:03:05 GMT</pubDate>
-<description>این مقاله با تقویت بین‌سطحی، ناسازگاری مکانیکی را در سلول‌های خورشیدی پروسکایتی کاهش داده و پایداری آن‌ها را بهبود می‌بخشد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in identifying C60/ALD-SnO2 interfacial mechanical mismatch as a day-night cycling failure mechanism and using g-C3N4 as a compliant, electron-transporting buffer to relieve stress and suppress microcracks. Significance: 27.05% efficiency and &amp;gt;90% retention after 1056 h of day-night maximum power point tracking, advancing durable perovskite photovoltaics commercialization.&lt;br&gt;🏷 perovskite photovoltaics · interfacial reinforcement · mechanical mismatch · stability · solar cells</description>
-<category>perovskite photovoltaics</category>
-<category>interfacial reinforcement</category>
-<category>mechanical mismatch</category>
-<category>stability</category>
-<category>solar cells</category>
-</item>
-<item>
-<title>Constructing Hybrid Solid–Liquid Li+ Transport Networks for Fast-Charging Thick Electrodes</title>
-<link>https://doi.org/10.1021/acsenergylett.6c03027</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c03027</guid>
-<pubDate>Fri, 30 Oct 2026 18:03:22 GMT</pubDate>
-<description>شبکه انتقال Li+ جامد-مایع هیبریدی با LATP چنداندازه‌ای در کاتدهای ضخیم، انرژی دسولواتاسیون را کاهش داده و عملکرد شارژ سریع باتری لیتیوم-یون را در دمای پایین بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 Hierarchical LATP particles (5–500 nm) build a hybrid solid–liquid Li⁺ network in thick cathodes (27 mg cm⁻²). Nanograins lower desolvation energy and stabilize CEI; submicron particles bridge pores, raising diffusion and transference. This enables 102 vs 36 mAh g⁻¹ at 0.75C and −10 °C, advancing fast-charging high-energy batteries.&lt;br&gt;🏷 thick electrode · fast charging · LATP · Li+ transport · lithium-ion battery</description>
-<category>thick electrode</category>
-<category>fast charging</category>
-<category>LATP</category>
-<category>Li+ transport</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Regulating Liquid‐Phase Mass Transport via Electric Field‐Pore Size Synergy in Separator for Long‐Life Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79385</link>
-<guid isPermaLink="false">10.1002/adfm.79385</guid>
-<pubDate>Fri, 30 Oct 2026 18:03:10 GMT</pubDate>
-<description>جداکننده PTT-GF-D با کانال‌های نانوحفره منظم و سطح بار منفی، انتقال جرم و شار یون را تنظیم کرده و عمر و پایداری باتری آبی Zn-ion را به‌شدت افزایش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multifunctional separator (PTT-GF-D) combining ordered nanoporous channels with a highly negatively charged surface, using electric field–pore size synergy to regulate liquid-phase mass transport. This enables homogeneous Zn nucleation, faster desolvation, and reduced polarization, yielding ultralong cycling (3300 h) and stable pouch cells—offering a practical strategy for high-performance aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc-ion battery · separator engineering · mass transport · Zn desolvation · surface charge</description>
-<category>zinc-ion battery</category>
-<category>separator engineering</category>
-<category>mass transport</category>
-<category>Zn desolvation</category>
-<category>surface charge</category>
 </item>
 </channel>
 </rss>
