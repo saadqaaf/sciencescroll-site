@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 03:03:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 04:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mesoporous Polymer for Metal Ion Adsorption and Its Calcined Product for Oxygen Reduction Reaction</title>
+<link>https://doi.org/10.1002/eem2.70424</link>
+<guid isPermaLink="false">10.1002/eem2.70424</guid>
+<pubDate>Tue, 03 Nov 2026 04:01:15 GMT</pubDate>
+<description>پلیمر مزوپور PDAN با جذب بالای Fe3+ سنتز شده و محصول پیرولیز آن به‌عنوان کاتالیست ORR در باتری Zn-air عملکردی برتر از Pt/C نشان می‌دهد.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an emulsion-assisted oxidative polymerization that yields uniform mesoporous poly(diaminonaphthalene) with ordered pores, overcoming uncontrolled kinetics. It shows exceptional Fe³⁺ adsorption, and the adsorbed iron serves as a precursor for Fe₃C-embedded nitrogen-doped mesoporous carbon. This closed-loop design links metal-ion capture to high-performance ORR catalysis, achieving 0.88 V half-wave potential and superior zinc–air battery performance.&lt;br&gt;🏷 mesoporous polymer · metal ion adsorption · oxygen reduction reaction · Fe3C nanoparticles · zinc-air battery</description>
+<category>mesoporous polymer</category>
+<category>metal ion adsorption</category>
+<category>oxygen reduction reaction</category>
+<category>Fe3C nanoparticles</category>
+<category>zinc-air battery</category>
+</item>
 <item>
 <title>Rethinking lithium content in inorganic solid-state electrolytes</title>
 <link>https://doi.org/10.1016/j.chempr.2026.103324</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>thylakoid</category>
 <category>FGF21 mRNA</category>
 <category>wound healing</category>
-</item>
-<item>
-<title>Alleviating the stability-energy density dilemma via electron-donor-mediated orbital symmetry regulation in sodium phosphate cathodes</title>
-<link>https://doi.org/10.1126/sciadv.aeh8668</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh8668</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:41 GMT</pubDate>
-<description>با مکانیسم اهداکننده الکترون و تنظیم تقارن اوربیتال در کاتد فسفات سدیم، اعوجاج اکتاهدرال ناشی از Mn3+ مهار شده و چگالی انرژی ۴۹۲ Wh/kg با پایداری چرخه‌ای بالا در باتری سدیم-یون حاصل می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electron-donor–mediated mechanism using Fe³⁺/V³⁺ co-doping to delocalize Mn 3d electrons, symmetrizing e_g orbital occupancy and suppressing Mn³⁺-induced octahedral distortion while preserving high-spin activity. This resolves the stability–energy density trade-off, enabling 492.06 Wh kg⁻¹, 178.8 mAh g⁻¹ at 0.1 C, and 80.2% retention over 2000 cycles—advancing high-performance sodium-ion battery cathodes.&lt;br&gt;🏷 sodium-ion battery · sodium phosphate cathode · orbital symmetry · Mn3+ distortion · electron donor</description>
-<category>sodium-ion battery</category>
-<category>sodium phosphate cathode</category>
-<category>orbital symmetry</category>
-<category>Mn3+ distortion</category>
-<category>electron donor</category>
 </item>
 </channel>
 </rss>
