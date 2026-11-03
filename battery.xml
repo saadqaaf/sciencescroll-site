@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 01:01:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 02:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rethinking lithium content in inorganic solid-state electrolytes</title>
+<link>https://doi.org/10.1016/j.chempr.2026.103324</link>
+<guid isPermaLink="false">10.1016/j.chempr.2026.103324</guid>
+<pubDate>Tue, 03 Nov 2026 02:01:13 GMT</pubDate>
+<description>این مقاله با بازنگری نقش میزان لیتیوم در الکترولیت‌های جامد معدنی، دیدگاه جدیدی برای طراحی الکترولیت‌های کارآمدتر باتری ارائه می‌کند.&lt;br&gt;Chem | 💭 Perspective&lt;br&gt;🏷 solid-state electrolyte · lithium content · ionic conductivity · battery safety · electrolyte design</description>
+<category>solid-state electrolyte</category>
+<category>lithium content</category>
+<category>ionic conductivity</category>
+<category>battery safety</category>
+<category>electrolyte design</category>
+</item>
 <item>
 <title>Decoupling Solvation and Interfacial Kinetics via Competitive Coordination for Low-Temperature Sodium Metal Batteries and Practical Ah-Level Pouch Cells</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105634</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>orbital symmetry</category>
 <category>Mn3+ distortion</category>
 <category>electron donor</category>
-</item>
-<item>
-<title>Durable rechargeable aluminum metal batteries enabled by cation-mediated interfacial environment regulation</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.035</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.035</guid>
-<pubDate>Fri, 30 Oct 2026 19:05:00 GMT</pubDate>
-<description>باتری‌های فلزی آلومینیمی قابل شارژ با تنظیم محیط سطح مشترک به‌واسطه کاتیون، پایداری و دوام چرخه‌ای بالایی نشان دادند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 aluminum metal battery · rechargeable battery · cation mediation · interfacial regulation · cycling durability</description>
-<category>aluminum metal battery</category>
-<category>rechargeable battery</category>
-<category>cation mediation</category>
-<category>interfacial regulation</category>
-<category>cycling durability</category>
 </item>
 </channel>
 </rss>
