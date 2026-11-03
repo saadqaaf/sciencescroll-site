@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 15:02:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 16:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Capacity and Electrochromism Decoupling Strategy for Real-Time State-of-Charge Monitoring of High-Areal-Capacity Electrochromic Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04206</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04206</guid>
+<pubDate>Tue, 03 Nov 2026 16:01:26 GMT</pubDate>
+<description>راهبرد جداسازی ظرفیت و الکتروکرومیسم با کاتد دولایه، باتری الکتروکرومیک با ظرفیت 3.4 mAh cm–2 و پایش بلادرنگ SOC از طریق Hue را ارائه می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a capacity–electrochromism decoupling strategy: a bilayer cathode spatially separates optical readout from high-capacity storage, enabling real-time state-of-charge monitoring in high-areal-capacity electrochromic batteries. Significance: it achieves 3.4 mAh cm⁻² with 97.8% retention over 300 cycles and a monotonic SOC–Hue relationship at 1% intervals, offering built-in optical state reporting for advanced battery management.&lt;br&gt;🏷 electrochromic battery · state-of-charge monitoring · areal capacity · bilayer cathode · Hue readout</description>
+<category>electrochromic battery</category>
+<category>state-of-charge monitoring</category>
+<category>areal capacity</category>
+<category>bilayer cathode</category>
+<category>Hue readout</category>
+</item>
 <item>
 <title>Multi-element inert doping regulates phase transition pathway and electrochemical performance of LiMn0.6Fe0.4PO4 cathodes</title>
 <link>https://doi.org/10.1016/j.est.2026.125332</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>aqueous quenching</category>
 <category>fluorination</category>
 <category>cathode stability</category>
-</item>
-<item>
-<title>Multistage Thermally Responsive Aerogel for Full‐Cycle Thermal Protection in Battery Modules to Prevent Thermal Runaway Propagation</title>
-<link>https://doi.org/10.1002/adfm.79404</link>
-<guid isPermaLink="false">10.1002/adfm.79404</guid>
-<pubDate>Sat, 31 Oct 2026 14:01:20 GMT</pubDate>
-<description>یک آئروژل پاسخ‌دهنده حرارتی چندمرحله‌ای برای حفاظت کامل چرخه‌ای ماژول باتری لیتیوم-یونی طراحی شد که با آزادسازی بخار آب، بازدارندگی شعله و سرامیک‌شدن درجا از گسترش فرار حرارتی جلوگیری می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a multistage thermally responsive aerogel that addresses coupled TR hazards—heat, flame, and explosion impact—across full-cycle stages via humidity-based early warning, sustained flame-retardant gas release, in situ ceramization forming a dense barrier, and a tortuous porous pathway. Significance: it raises compressive strength from 1.25 to 4.5 MPa and experimentally prevents thermal runaway propagation in battery modules.&lt;br&gt;🏷 thermal runaway · aerogel · battery module · flame retardancy · in situ ceramization</description>
-<category>thermal runaway</category>
-<category>aerogel</category>
-<category>battery module</category>
-<category>flame retardancy</category>
-<category>in situ ceramization</category>
 </item>
 </channel>
 </rss>

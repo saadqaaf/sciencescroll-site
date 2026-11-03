@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 15:02:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 16:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Capacity and Electrochromism Decoupling Strategy for Real-Time State-of-Charge Monitoring of High-Areal-Capacity Electrochromic Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04206</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04206</guid>
+<pubDate>Tue, 03 Nov 2026 16:01:26 GMT</pubDate>
+<description>راهبرد جداسازی ظرفیت و الکتروکرومیسم با کاتد دولایه، باتری الکتروکرومیک با ظرفیت 3.4 mAh cm–2 و پایش بلادرنگ SOC از طریق Hue را ارائه می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a capacity–electrochromism decoupling strategy: a bilayer cathode spatially separates optical readout from high-capacity storage, enabling real-time state-of-charge monitoring in high-areal-capacity electrochromic batteries. Significance: it achieves 3.4 mAh cm⁻² with 97.8% retention over 300 cycles and a monotonic SOC–Hue relationship at 1% intervals, offering built-in optical state reporting for advanced battery management.&lt;br&gt;🏷 electrochromic battery · state-of-charge monitoring · areal capacity · bilayer cathode · Hue readout</description>
+<category>electrochromic battery</category>
+<category>state-of-charge monitoring</category>
+<category>areal capacity</category>
+<category>bilayer cathode</category>
+<category>Hue readout</category>
+</item>
+<item>
+<title>Atomic-Dispersed and Iron-Doped Carbon Dots by Efficient One-Pot Synthesis for High Peroxidase-like Catalytic Activity</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04331</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04331</guid>
+<pubDate>Tue, 03 Nov 2026 16:01:21 GMT</pubDate>
+<description>با شبکه عصبی و الگوریتم تکامل تفاضلی، نانوزیم کربن‌دات دوپه‌شده با Fe ساخته شد که فعالیت پراکسیدازی آن حدود سه برابر horseradish peroxidase طبیعی است.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 carbon dots · nanozyme · peroxidase-like activity · Fe doping · deep neural network</description>
+<category>carbon dots</category>
+<category>nanozyme</category>
+<category>peroxidase-like activity</category>
+<category>Fe doping</category>
+<category>deep neural network</category>
+</item>
+<item>
+<title>Differential Ester Hydrolysis Enables Spatiotemporally Coordinated Cancer Combination Therapy Validated by Label-Free LC-MS/MS</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04234</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04234</guid>
+<pubDate>Tue, 03 Nov 2026 16:01:18 GMT</pubDate>
+<description>نانوسیستم PLG با هیدرولیز استری متفاوت دو دارو، رهایش هم‌زمان‌مکان در تومور را ممکن و با LC-MS/MS بدون نشانه‌گذاری تأیید شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 combination therapy · ester hydrolysis · PLG nanosystem · LC-MS/MS · drug release kinetics</description>
+<category>combination therapy</category>
+<category>ester hydrolysis</category>
+<category>PLG nanosystem</category>
+<category>LC-MS/MS</category>
+<category>drug release kinetics</category>
+</item>
 <item>
 <title>Multi-element inert doping regulates phase transition pathway and electrochemical performance of LiMn0.6Fe0.4PO4 cathodes</title>
 <link>https://doi.org/10.1016/j.est.2026.125332</link>
@@ -1179,42 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 phenol skeletal editing �
 <category>salvage pathway</category>
 <category>metabolic balance</category>
 <category>cellular metabolism</category>
-</item>
-<item>
-<title>A Cross-scale Catalytic Effect Enabling RWGS Approaching Thermodynamic Limits under Low H2/CO2 Ratio</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127735</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127735</guid>
-<pubDate>Tue, 03 Nov 2026 11:02:03 GMT</pubDate>
-<description>اثر کاتالیستی چندمقیاسی امکان نزدیک‌شدن واکنش RWGS به محدودیت‌های ترمودینامیکی در نسبت پایین H2/CO2 را فراهم می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 RWGS reaction · cross-scale catalysis · H2/CO2 ratio · thermodynamic limits · CO2 conversion</description>
-<category>RWGS reaction</category>
-<category>cross-scale catalysis</category>
-<category>H2/CO2 ratio</category>
-<category>thermodynamic limits</category>
-<category>CO2 conversion</category>
-</item>
-<item>
-<title>Defect-associated lattice oxygen pathway in NiFeMnZn oxide for durable oxygen evolution</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127736</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127736</guid>
-<pubDate>Tue, 03 Nov 2026 11:02:00 GMT</pubDate>
-<description>مسیر اکسیژن شبکه‌ای مرتبط با نقص در اکسید NiFeMnZn برای واکنش پایدار آزادسازی اکسیژن شناسایی می‌شود.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 oxygen evolution reaction · NiFeMnZn oxide · lattice oxygen · defect engineering · electrocatalysis</description>
-<category>oxygen evolution reaction</category>
-<category>NiFeMnZn oxide</category>
-<category>lattice oxygen</category>
-<category>defect engineering</category>
-<category>electrocatalysis</category>
-</item>
-<item>
-<title>A two-stage statistical reconstruction method for characterization of anisotropic Cu–W composites from 2D cross-sections</title>
-<link>https://doi.org/10.1007/s42114-026-02167-x</link>
-<guid isPermaLink="false">10.1007/s42114-026-02167-x</guid>
-<pubDate>Tue, 03 Nov 2026 11:01:56 GMT</pubDate>
-<description>روشی آماری دومرحله‌ای برای بازسازی ریزساختار ناهمسانگرد کامپوزیت‌های Cu-W از مقاطع دوبعدی ارائه می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Cu-W composites · statistical reconstruction · anisotropic microstructure · 2D cross-sections · two-point statistics</description>
-<category>Cu-W composites</category>
-<category>statistical reconstruction</category>
-<category>anisotropic microstructure</category>
-<category>2D cross-sections</category>
-<category>two-point statistics</category>
 </item>
 </channel>
 </rss>
