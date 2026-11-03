@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 04:01:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 05:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A practical beginner&#x27;s guide to developing a 3D printed electrochemical cell for soluble lead flow batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125334</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125334</guid>
+<pubDate>Tue, 03 Nov 2026 05:01:12 GMT</pubDate>
+<description>این راهنمای آموزشی گام‌به‌گام ساخت یک سلول الکتروشیمیایی چاپ سه‌بعدی برای باتری‌های جریان سرب محلول را ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 soluble lead flow battery · 3D printed cell · electrochemical cell design · flow battery · beginner guide</description>
+<category>soluble lead flow battery</category>
+<category>3D printed cell</category>
+<category>electrochemical cell design</category>
+<category>flow battery</category>
+<category>beginner guide</category>
+</item>
 <item>
 <title>Mesoporous Polymer for Metal Ion Adsorption and Its Calcined Product for Oxygen Reduction Reaction</title>
 <link>https://doi.org/10.1002/eem2.70424</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>MLi2Ti6O14</category>
 <category>Li-storage mechanism</category>
 <category>activated carbon</category>
-</item>
-<item>
-<title>Photosynthetic chimeric stem cells function as mitochondrial batteries</title>
-<link>https://doi.org/10.1126/sciadv.aef8069</link>
-<guid isPermaLink="false">10.1126/sciadv.aef8069</guid>
-<pubDate>Fri, 30 Oct 2026 20:03:53 GMT</pubDate>
-<description>سلول‌های بنیادی کایمریک فتوسنتزی با تیلاکوئید گیاهی و mRNA کدکننده FGF21 به‌عنوان باتری میتوکندری، انتقال میتوکندری و هموستاز انرژی را تقویت کرده و ترمیم زخم را در مدل‌های موش و خوک تسریع می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creating cross-kingdom photosynthetic chimeric stem cells by inserting plant thylakoids and FGF21 mRNA into enucleated mesenchymal stem cells. This &amp;quot;mitochondrial battery&amp;quot; uses light to enhance mitochondrial transfer, restore damaged cell metabolism, and sustain energy homeostasis via FGF21. Significance: it overcomes donor stem cell limitations (poor engraftment, aberrant differentiation), enables repeatable modular mRNA therapies, and accelerates wound repair in mouse and pig models.&lt;br&gt;🏷 mitochondrial transfer · chimeric stem cells · thylakoid · FGF21 mRNA · wound healing</description>
-<category>mitochondrial transfer</category>
-<category>chimeric stem cells</category>
-<category>thylakoid</category>
-<category>FGF21 mRNA</category>
-<category>wound healing</category>
 </item>
 </channel>
 </rss>

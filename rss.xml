@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 04:01:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 05:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A practical beginner&#x27;s guide to developing a 3D printed electrochemical cell for soluble lead flow batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125334</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125334</guid>
+<pubDate>Tue, 03 Nov 2026 05:01:12 GMT</pubDate>
+<description>این راهنمای آموزشی گام‌به‌گام ساخت یک سلول الکتروشیمیایی چاپ سه‌بعدی برای باتری‌های جریان سرب محلول را ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 soluble lead flow battery · 3D printed cell · electrochemical cell design · flow battery · beginner guide</description>
+<category>soluble lead flow battery</category>
+<category>3D printed cell</category>
+<category>electrochemical cell design</category>
+<category>flow battery</category>
+<category>beginner guide</category>
+</item>
+<item>
+<title>Targeting the ZNF83-WISP2 Axis Overcomes Metastasis and Immunotherapy Resistance in Renal Cell Carcinoma</title>
+<link>https://doi.org/10.34133/research.1482</link>
+<guid isPermaLink="false">10.34133/research.1482</guid>
+<pubDate>Tue, 03 Nov 2026 05:01:07 GMT</pubDate>
+<description>مطالعه نشان می‌دهد که هدف‌گیری محور ZNF83-WISP2 متاستاز و مقاومت به ایمونوتراپی را در کارسینوم سلول کلیوی سرکوب می‌کند.&lt;br&gt;Research | 🔬 Research Article&lt;br&gt;🏷 renal cell carcinoma · ZNF83 · WISP2 · metastasis · immunotherapy resistance</description>
+<category>renal cell carcinoma</category>
+<category>ZNF83</category>
+<category>WISP2</category>
+<category>metastasis</category>
+<category>immunotherapy resistance</category>
+</item>
 <item>
 <title>Modulation of Electronic Microenvironment for Cu(I) in MOF via C60 Loading for Enhanced Ethylene Capture and Oxidation Resistance</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122296</link>
@@ -1193,30 +1217,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 stacke
 <category>self-standing electrode</category>
 <category>dimensional hybridization</category>
 <category>role assignment</category>
-</item>
-<item>
-<title>Continuous Low-Temperature Photothermal CO2 Desorption Enables Scalable Solar-Driven Direct Air Capture</title>
-<link>https://doi.org/10.1016/j.eng.2026.10.013</link>
-<guid isPermaLink="false">10.1016/j.eng.2026.10.013</guid>
-<pubDate>Mon, 02 Nov 2026 18:03:12 GMT</pubDate>
-<description>این مقاله واجذب فوتوترمال CO2 در دمای پایین را برای جذب مستقیم هوا به‌صورت پیوسته و مقیاس‌پذیر با انرژی خورشیدی ارائه می‌کند.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 direct air capture · photothermal desorption · CO2 capture · solar-driven · low-temperature desorption</description>
-<category>direct air capture</category>
-<category>photothermal desorption</category>
-<category>CO2 capture</category>
-<category>solar-driven</category>
-<category>low-temperature desorption</category>
-</item>
-<item>
-<title>Stretchable Conductive Organic Blends With Robust Dry/Wet Adhesion for All‐Weather Epidermal Biopotential Monitoring of Human and Turtles</title>
-<link>https://doi.org/10.1002/smll.76479</link>
-<guid isPermaLink="false">10.1002/smll.76479</guid>
-<pubDate>Mon, 02 Nov 2026 18:03:08 GMT</pubDate>
-<description>آمیزه‌های آلی PEDOT:PSS/PVB/تاننیک‌اسید با چسبندگی خشک و زیرآبی و رسانایی بالا به‌عنوان الکترود پوستی، سیگنال‌های ECG و EMG انسان و لاک‌پشت را در همه شرایط پایش کردند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 PEDOT:PSS · epidermal electrode · underwater adhesion · biopotential monitoring · ECG</description>
-<category>PEDOT:PSS</category>
-<category>epidermal electrode</category>
-<category>underwater adhesion</category>
-<category>biopotential monitoring</category>
-<category>ECG</category>
 </item>
 </channel>
 </rss>
