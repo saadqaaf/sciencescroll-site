@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 08:01:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 09:03:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anchored Fluoro‐Shielded Solvation for Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adma.75606</link>
+<guid isPermaLink="false">10.1002/adma.75606</guid>
+<pubDate>Tue, 03 Nov 2026 09:03:00 GMT</pubDate>
+<description>استراتژی حل‌پوشی فلورو-محافظ لنگرشده در الکترولیت پلیمری PVDF، مسیرهای آنیون‌غنی و SEI غنی از LiF ایجاد کرده و باتری Li||NCM با حفظ ۸۰٫۲٪ ظرفیت پس از ۲۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium metal battery · PVDF electrolyte · fluoro-shielded solvation · LiF-rich SEI · solid-state electrolyte</description>
+<category>lithium metal battery</category>
+<category>PVDF electrolyte</category>
+<category>fluoro-shielded solvation</category>
+<category>LiF-rich SEI</category>
+<category>solid-state electrolyte</category>
+</item>
+<item>
+<title>Attribution Fingerprinting by Interpretable Machine Learning Reveals Category‐Specific Additive Design Rules for Zinc Anodes</title>
+<link>https://doi.org/10.1002/adma.75609</link>
+<guid isPermaLink="false">10.1002/adma.75609</guid>
+<pubDate>Tue, 03 Nov 2026 09:02:18 GMT</pubDate>
+<description>چارچوب یادگیری ماشین تفسیرپذیر با اثرانگشت SHAP، افزودنی‌های الکترولیت روی آند روی را به سه دسته تقسیم کرده و افزودنی 2FPD با عمر چرخه ۳۰۱۰ ساعت را پیش‌بینی و تأیید می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 zinc anode · electrolyte additives · interpretable machine learning · SHAP · SEI</description>
+<category>zinc anode</category>
+<category>electrolyte additives</category>
+<category>interpretable machine learning</category>
+<category>SHAP</category>
+<category>SEI</category>
+</item>
+<item>
+<title>Cross‐System Recycling of Spent Layered Oxides Boosts Synergistic Optimization of Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathodes via Site‐Selective Ni/Mn Co‐Doping</title>
+<link>https://doi.org/10.1002/adma.75621</link>
+<guid isPermaLink="false">10.1002/adma.75621</guid>
+<pubDate>Tue, 03 Nov 2026 09:02:10 GMT</pubDate>
+<description>بازیافت بین‌سیستمی کاتدهای لایه‌ای مستعمل SIB با دوپینگ انتخابی Ni/Mn، کاتد NFPP با بازده اولیه ۹۲٫۸۴٪، نرخ‌پذیری بالا و پایداری ۱۲۰۰۰ چرخه را بهینه می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · cathode recycling · NFPP · Ni/Mn co-doping · layered oxide waste</description>
+<category>sodium-ion battery</category>
+<category>cathode recycling</category>
+<category>NFPP</category>
+<category>Ni/Mn co-doping</category>
+<category>layered oxide waste</category>
+</item>
 <item>
 <title>Investigating configuration entropy in ceramic super-ionic conductors</title>
 <link>https://doi.org/10.1039/d6ta03661a</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integ
 <category>binder-free electrode</category>
 <category>supramolecular functionalization</category>
 <category>Li-ion battery</category>
-</item>
-<item>
-<title>Revealing Cu 4 SnS 4 Constructed by Composition Regulation Engineering With Enhanced Conversion Reversibility for Superior Zinc Storage Performance</title>
-<link>https://doi.org/10.1002/smll.76582</link>
-<guid isPermaLink="false">10.1002/smll.76582</guid>
-<pubDate>Fri, 30 Oct 2026 20:06:05 GMT</pubDate>
-<description>آند تبدیل‌ی Cu4SnS4 با کانال‌های یونی باز و تنظیم ترکیب، برگشت‌پذیری و پایداری چرخه‌ای بالایی در باتری روی-یون راکینگ‌چیر نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Cu₄SnS₄, synthesized via composition regulation, enables a stable conversion-type anode for rocking-chair zinc-ion batteries. Its open orthorhombic channels lower the Zn²⁺ diffusion barrier (0.06 eV) and boost conductivity, yielding 95.5% retention over 300 cycles and 3000-cycle stability. In situ studies reveal a unique reversible phase-conversion mechanism, offering a design paradigm for durable multimetallic sulfide anodes.&lt;br&gt;🏷 zinc-ion battery · Cu4SnS4 anode · conversion reaction · composition regulation · rocking-chair</description>
-<category>zinc-ion battery</category>
-<category>Cu4SnS4 anode</category>
-<category>conversion reaction</category>
-<category>composition regulation</category>
-<category>rocking-chair</category>
-</item>
-<item>
-<title>High‐Loading and Stable Co‐N 4 Single‐Atom Catalytic Sites for Long‐Cycle Dendrite‐Free Potassium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76553</link>
-<guid isPermaLink="false">10.1002/smll.76553</guid>
-<pubDate>Fri, 30 Oct 2026 20:06:00 GMT</pubDate>
-<description>نانوالیاف کربنی دوپ‌شده با Co تک‌اتمی به‌عنوان میزبان آند پتاسیم، هسته‌زایی را کاهش و پایداری چرخه‌ای طولانی بدون دندریت فراهم کرد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 SA-Co-doped porous carbon nanofibers (1.53 wt% Co) enable stable, high-loading Co-N4 single-atom sites for potassium metal anodes. In situ Co-N-C coordination strengthens C-N/C-C bonds, preventing skeletal degradation, while high K adsorption energy (−2.34 eV) lowers nucleation overpotential to 36 mV. This yields dendrite-free cycling over 2600 h and full cells with 1000-cycle stability, advancing practical PMAs.&lt;br&gt;🏷 potassium metal battery · single-atom catalyst · Co-N4 · dendrite-free · carbon nanofiber</description>
-<category>potassium metal battery</category>
-<category>single-atom catalyst</category>
-<category>Co-N4</category>
-<category>dendrite-free</category>
-<category>carbon nanofiber</category>
-</item>
-<item>
-<title>Intermediate‐Phase Blocking as a Kinetic Lever for High Ionic Conductivity of Wet‐Synthesized Cl‐Rich Li Argyrodite for All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/smll.76533</link>
-<guid isPermaLink="false">10.1002/smll.76533</guid>
-<pubDate>Fri, 30 Oct 2026 20:05:31 GMT</pubDate>
-<description>با افزودن S8 به‌عنوان تعدیل‌کننده سینتیکی و مهار فاز واسط PS3Cl2−، الکترولیت آرژیرودیت Li5.5PS4.5Cl1.5 با رسانایی یونی 6.06 mS/cm به روش تر سنتز شد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using S8 as a kinetic modulator to suppress the PS3Cl2− intermediate phase during wet synthesis, thereby increasing 4d-site Cl occupancy in Cl-rich Li argyrodites. This yields a high ionic conductivity of 6.06 mS cm−1 without specialized processing, enabling scalable all-solid-state batteries with excellent rate capability and 77.8% capacity retention over 500 cycles.&lt;br&gt;🏷 argyrodite electrolyte · all-solid-state battery · wet synthesis · ionic conductivity · intermediate-phase blocking</description>
-<category>argyrodite electrolyte</category>
-<category>all-solid-state battery</category>
-<category>wet synthesis</category>
-<category>ionic conductivity</category>
-<category>intermediate-phase blocking</category>
 </item>
 </channel>
 </rss>
