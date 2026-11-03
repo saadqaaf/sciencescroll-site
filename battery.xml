@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 21:02:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 22:02:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reconfiguring Quinone Cathodes via Transition Metal Coordination for Advanced Calcium Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02552</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02552</guid>
+<pubDate>Tue, 03 Nov 2026 22:02:49 GMT</pubDate>
+<description>هماهنگی فلزات واسطه Cu و Ni با کینون، چارچوب مولکولی را بازآرایی کرده و کاتدهای کلسیمی با ظرفیت ۲۰۳ mAh g–1 و انرژی بالای ۶۰۰ Wh kg–1 فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in molecular engineering of quinone cathodes via transition-metal (Cu, Ni) coordination, reconfiguring the conjugated framework to boost both capacity and voltage. Significance: optimized cathodes reach 203 mAh g–1 at ~3.1 V, exceeding 600 Wh kg–1, with a revealed bipolar Ca2+/TFSI– storage mechanism, offering a promising route to high-energy multivalent calcium batteries.&lt;br&gt;🏷 calcium-ion batteries · quinone cathodes · metal coordination · bipolar charge storage · energy density</description>
+<category>calcium-ion batteries</category>
+<category>quinone cathodes</category>
+<category>metal coordination</category>
+<category>bipolar charge storage</category>
+<category>energy density</category>
+</item>
+<item>
+<title>Domain‐Pinned Ferroelectric‐Like Fields Drive Deep Zn 2+ Intercalation in Bi 2 TeO 5</title>
+<link>https://doi.org/10.1002/adfm.79471</link>
+<guid isPermaLink="false">10.1002/adfm.79471</guid>
+<pubDate>Tue, 03 Nov 2026 22:02:43 GMT</pubDate>
+<description>کاتد Cr-doped Bi2TeO5 با میدان‌های فروالکتریک-مانند پین‌شده، سد مهاجرت Zn2+ را به ۰.۳۴ eV کاهش داده و درهم‌آمیزی عمیق و پایدار در باتری آبی روی-یون را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Cr-doped oxygen-vacancy Bi2TeO5 creates domain-pinned ferroelectric-like fields via Cr/Ov engineering and Bi3+/Te4+ lone pairs, yielding a 77 mV built-in potential and lowering Zn2+ migration barrier from 0.75 to 0.34 eV. This enables reversible deep intercalation (~360 mAh g−1) and 77% capacity retention over 2000 cycles, showing ferroelectric-like fields convert deep Zn2+ intercalation into a sustainable pathway.&lt;br&gt;🏷 aqueous zinc-ion battery · Bi2TeO5 cathode · ferroelectric-like fields · oxygen vacancies · Zn2+ intercalation</description>
+<category>aqueous zinc-ion battery</category>
+<category>Bi2TeO5 cathode</category>
+<category>ferroelectric-like fields</category>
+<category>oxygen vacancies</category>
+<category>Zn2+ intercalation</category>
+</item>
+<item>
+<title>Mechanism‐Guided Inverse Electrolyte Design for Advanced Metal‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.78308</link>
+<guid isPermaLink="false">10.1002/adfm.78308</guid>
+<pubDate>Tue, 03 Nov 2026 22:02:14 GMT</pubDate>
+<description>چارچوبی مبتنی بر توصیف‌گرهای شیمیایی برای طراحی معکوس الکترولیت باتری‌های فلز-یونی ارائه شده که پایداری، انتقال یون، نشتی الکترونی و ایمنی حرارتی را به هم مرتبط می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This work introduces a descriptor-based inverse design framework mapping target electrolyte properties to molecular, polymeric, and lattice building blocks, decomposing performance into stability, transport, leakage, safety, and lifecycle. It challenges frontier-orbital criteria, unifies liquid/solid ion-transport optimization, decouples leakage origins, and proposes the MIESC checklist to overcome data scarcity—offering a rational roadmap for next-generation electrolyte design.&lt;br&gt;🏷 inverse electrolyte design · metal-ion batteries · chemical descriptors · ionic transport · thermal safety</description>
+<category>inverse electrolyte design</category>
+<category>metal-ion batteries</category>
+<category>chemical descriptors</category>
+<category>ionic transport</category>
+<category>thermal safety</category>
+</item>
+<item>
+<title>A Water‐Repellent‐Zincophilic Molecular Strategy for Concurrent Solvation and Interfacial Regulation toward Highly Reversible Zinc Anodes</title>
+<link>https://doi.org/10.1002/adfm.79459</link>
+<guid isPermaLink="false">10.1002/adfm.79459</guid>
+<pubDate>Tue, 03 Nov 2026 22:02:01 GMT</pubDate>
+<description>مولکول THEA با راهبرد آب‌گریز-روی‌دوست، پوستهٔ حل‌پوشی و سطح آند را تنظیم کرده و پایداری و برگشت‌پذیری آند روی آبی را به‌شدت بهبود داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using THEA&amp;#x27;s hydrophobic backbone and zincophilic hydroxyls for dual electrolyte–interface regulation: reconstructing Zn²⁺ solvation to reduce water activity while forming a water-repelling, (002)-guiding interfacial layer. Significance: exceptional cycling (5550 h), high capacity retention, and stable −8°C operation, offering a viable pathway to durable aqueous zinc batteries.&lt;br&gt;🏷 aqueous zinc battery · solvation regulation · interfacial layer · zinc anode · dendrite suppression</description>
+<category>aqueous zinc battery</category>
+<category>solvation regulation</category>
+<category>interfacial layer</category>
+<category>zinc anode</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Molecular design of sulfonate-graphene oxide frameworks (GOF) separators with crystallographic orientation and ion selectivity for high-rate zinc-ion storage</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105636</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>thermal detection</category>
 <category>temperature stability</category>
 <category>Li+ locked domain</category>
-</item>
-<item>
-<title>Transference Number of Electrolytes at Infinite Dilution</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02281</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02281</guid>
-<pubDate>Sun, 01 Nov 2026 10:01:06 GMT</pubDate>
-<description>مقاله روشی بر پایه نظریه محلول غلیظ Newman برای تعیین عدد انتقال کاتیون در رقت بی‌نهایت ارائه و آن را با الکترولیت PEO/NaTFSI اعتبارسنجی می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a new approach, based on Newman&amp;#x27;s concentrated solution theory and dilute-limit constraints, to determine the cation transference number at infinite dilution (t+0), validated with PEO/NaTFSI data. Its significance is deriving a simple quadratic equation linking t+0 to readily measurable transport properties, enabling more accurate modeling of concentration gradients and limiting current for improved electrochemical device design and optimization.&lt;br&gt;🏷 transference number · infinite dilution · polymer electrolyte · ion transport · concentrated solution theory</description>
-<category>transference number</category>
-<category>infinite dilution</category>
-<category>polymer electrolyte</category>
-<category>ion transport</category>
-<category>concentrated solution theory</category>
-</item>
-<item>
-<title>Charge Transfer Mediators for Anodic Corrosion Mitigation and Enhanced Energy Storage via Proton-Coupled Electron Transfer</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105625</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105625</guid>
-<pubDate>Sun, 01 Nov 2026 09:01:40 GMT</pubDate>
-<description>این مقاله با واسطههای انتقال بار و انتقال الکترون همراه با پروتون، خوردگی آندی را کاهش و ذخیره انرژی را در سیستمهای الکتروشیمیایی بهبود میدهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 charge transfer mediator · anodic corrosion · proton-coupled electron transfer · energy storage · redox flow battery</description>
-<category>charge transfer mediator</category>
-<category>anodic corrosion</category>
-<category>proton-coupled electron transfer</category>
-<category>energy storage</category>
-<category>redox flow battery</category>
-</item>
-<item>
-<title>Long-Life Zinc-Nickel Batteries Enabled by a Regional Segregation-Driven Reconstructed Anode</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105626</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105626</guid>
-<pubDate>Sun, 01 Nov 2026 09:01:35 GMT</pubDate>
-<description>این مقاله با بازسازی آند ناشی از جدایش ناحیهای، عمر چرخهای باتریهای روی-نیکل را بهطور قابل توجهی افزایش میدهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-nickel battery · zinc anode · regional segregation · anode reconstruction · long-life cycling</description>
-<category>zinc-nickel battery</category>
-<category>zinc anode</category>
-<category>regional segregation</category>
-<category>anode reconstruction</category>
-<category>long-life cycling</category>
-</item>
-<item>
-<title>Low-Frequency Lattice Dynamics and Zinc Storage in an Intrinsic SnBi4Te7 van der Waals Superlattice</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105628</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105628</guid>
-<pubDate>Sun, 01 Nov 2026 09:01:31 GMT</pubDate>
-<description>این مقاله دینامیک شبکه فرکانسپایین و ذخیرهسازی روی را در ابرشبکه واندروالس SnBi4Te7 بررسی میکند و پتانسیل آن را برای ذخیره انرژی نشان میدهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 SnBi4Te7 superlattice · van der Waals · zinc storage · lattice dynamics · aqueous zinc battery</description>
-<category>SnBi4Te7 superlattice</category>
-<category>van der Waals</category>
-<category>zinc storage</category>
-<category>lattice dynamics</category>
-<category>aqueous zinc battery</category>
 </item>
 </channel>
 </rss>
