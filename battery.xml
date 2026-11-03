@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 13:05:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 14:02:47 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spin‐State‐Coupled Redox Chemistry in Rechargeable Battery Materials</title>
+<link>https://doi.org/10.1002/smll.76604</link>
+<guid isPermaLink="false">10.1002/smll.76604</guid>
+<pubDate>Tue, 03 Nov 2026 14:02:30 GMT</pubDate>
+<description>این مرور، گذارهای اسپینی را به‌عنوان درجات آزادی الکترونی کوپل‌شده با ردکس، اعوجاج ساختاری و سینتیک در الکترودهای باتری قابل شارژ بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This Review is novel in framing spin-state transitions as functional electronic degrees of freedom coupling redox, structure, oxygen activity, kinetics, and interfaces in battery electrodes—beyond formal valence. It consolidates regulation strategies and advanced magnetic/spectroscopic probes for identifying spin evolution, offering a spin-state-aware perspective that links electronic configuration, lattice response, and interfacial chemistry, with significance for understanding and designing rechargeable battery materials.&lt;br&gt;🏷 spin-state transition · rechargeable battery · redox chemistry · spectroscopy · electrode materials</description>
+<category>spin-state transition</category>
+<category>rechargeable battery</category>
+<category>redox chemistry</category>
+<category>spectroscopy</category>
+<category>electrode materials</category>
+</item>
+<item>
+<title>Scalable Self‐Powered Sweat Lactate Patches Based on Bulk‐Catalytic MXene/NiO for Wide‐Range Detection</title>
+<link>https://doi.org/10.1002/smll.76602</link>
+<guid isPermaLink="false">10.1002/smll.76602</guid>
+<pubDate>Tue, 03 Nov 2026 14:02:04 GMT</pubDate>
+<description>وصله‌های خودتوان عرق مبتنی بر MXene/NiO با میکروابرخازن نامتقارن و نانوژنراتور تریبوالکتریک، لاکتات عرق را در محدوده فیزیولوژیکی به‌صورت غیرآنزیمی و بی‌سیم تشخیص می‌دهند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dispensing-printed, mass-producible MXene/NiO hybrid enabling enzyme-free lactate sensing, with elucidated sensing mechanisms. Significance: integrating large-area micro-supercapacitors and triboelectric nanogenerators creates a fully self-powered wearable platform for real-time sweat lactate monitoring, offering a general strategy for multifunctional nanomaterial and device design in wearable biosensing.&lt;br&gt;🏷 MXene/NiO · sweat lactate sensor · self-powered patch · micro-supercapacitor · triboelectric nanogenerator</description>
+<category>MXene/NiO</category>
+<category>sweat lactate sensor</category>
+<category>self-powered patch</category>
+<category>micro-supercapacitor</category>
+<category>triboelectric nanogenerator</category>
+</item>
+<item>
+<title>Na 2 S Cathodes for Safer and High‐Energy Sodium‐Ion Storage</title>
+<link>https://doi.org/10.1002/smll.76523</link>
+<guid isPermaLink="false">10.1002/smll.76523</guid>
+<pubDate>Tue, 03 Nov 2026 14:01:53 GMT</pubDate>
+<description>این مرور کاتدهای Na2S را برای باتری‌های سدیم-گوگرد دمای اتاق بدون سدیم فلزی بررسی و راهکارهای سنتز، تنظیم ساختار و بهینه‌سازی کاتالیستی را برای غلبه بر چالش‌ها ارائه می‌کند.&lt;br&gt;Small | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review is the first to comprehensively compare three Na₂S-based sodium-free RT-Na/S full-cell configurations, systematically detailing Na₂S working mechanisms and inherent merits/demerits. It consolidates performance-enhancement strategies across synthesis, structural regulation, and catalytic optimization, offering a forward-looking roadmap for developing superior Na₂S cathodes. This guides safer, high-energy sodium-free batteries, addressing the safety and activation-barrier bottlenecks hindering practical RT-Na/S deployment.&lt;br&gt;🏷 Na2S cathode · sodium-sulfur battery · sodium-free anode · polysulfide conversion · catalytic optimization</description>
+<category>Na2S cathode</category>
+<category>sodium-sulfur battery</category>
+<category>sodium-free anode</category>
+<category>polysulfide conversion</category>
+<category>catalytic optimization</category>
+</item>
 <item>
 <title>Interfacial Anion Activation for Durable Aqueous Zn-Ion Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c17339</link>
@@ -1172,43 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>variational autoencoder</category>
 <category>physics-informed model</category>
 <category>fast prediction</category>
-</item>
-<item>
-<title>Supercritical Fluid‐Based Synthesis of Nanomaterials for Energy Storage Applications: A Pathway Toward High‐Entropy Oxides</title>
-<link>https://doi.org/10.1002/bte2.70158</link>
-<guid isPermaLink="false">10.1002/bte2.70158</guid>
-<pubDate>Sat, 31 Oct 2026 07:01:15 GMT</pubDate>
-<description>این مرور، سنتز سیال فوق‌بحرانی نانومواد و مسیر آن به‌سوی اکسیدهای آنتروپی بالا را برای کاربردهای ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely bridges supercritical fluid synthesis with high-entropy oxide nanomaterials for energy storage. Its novelty lies in linking SCF processing conditions to multication homogeneity, phase development, and defect modulation. Significance: it establishes scalable, sustainable design pathways for advanced multicomponent oxides, offering a greener alternative to conventional synthesis while guiding rational optimization of electrochemical and catalytic performance.&lt;br&gt;🏷 supercritical fluid synthesis · high-entropy oxides · nanomaterials · energy storage · electrochemical performance</description>
-<category>supercritical fluid synthesis</category>
-<category>high-entropy oxides</category>
-<category>nanomaterials</category>
-<category>energy storage</category>
-<category>electrochemical performance</category>
-</item>
-<item>
-<title>Graphene Ribbons Bridge Functionalized Graphene Microspheres into Dense Self-Supporting Films for Flexible Supercapacitors with High Volumetric Energy Density</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122269</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122269</guid>
-<pubDate>Sat, 31 Oct 2026 06:01:32 GMT</pubDate>
-<description>نانوگسسته‌های گرافنی، میکروسفرهای گرافن عامل‌دار را به فیلم‌های خودایستا و متراکم متصل می‌کنند و ابرخازن انعطاف‌پذیر با چگالی انرژی حجمی بالا ایجاد می‌شود.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 graphene microspheres · graphene ribbons · self-supporting film · flexible supercapacitor · volumetric energy density</description>
-<category>graphene microspheres</category>
-<category>graphene ribbons</category>
-<category>self-supporting film</category>
-<category>flexible supercapacitor</category>
-<category>volumetric energy density</category>
-</item>
-<item>
-<title>Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C</title>
-<link>https://doi.org/10.1021/jacs.6c16293</link>
-<guid isPermaLink="false">10.1021/jacs.6c16293</guid>
-<pubDate>Sat, 31 Oct 2026 05:02:31 GMT</pubDate>
-<description>غربالگری الکترولیت با یادگیری ماشین، DMTMSA را شناسایی کرد که با DEE الکترولیت پاسخ‌ده به دما ساخته و پاکت‌سلول Li-metal با ۳۶۵.۵ Wh/kg در −۴۰ درجه پایدار می‌ماند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning (D-P Compass) to screen electrolyte molecules via dipole moment and polarizability Pareto analysis, identifying DMTMSA. Its thermally sensitive interactions with DEE create a temperature-autoresponsive, anion-dominated solvation structure. Significance: enables stable lithium metal pouch cells exceeding 350 Wh/kg across −40 to 60 °C, establishing a data-driven framework for wide-temperature electrolyte design.&lt;br&gt;🏷 lithium metal battery · wide-temperature electrolyte · machine learning · pouch cell · SEI engineering</description>
-<category>lithium metal battery</category>
-<category>wide-temperature electrolyte</category>
-<category>machine learning</category>
-<category>pouch cell</category>
-<category>SEI engineering</category>
 </item>
 </channel>
 </rss>
