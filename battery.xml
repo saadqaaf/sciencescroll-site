@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 02:01:41 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 03:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Physics-Augmented Interpretable Learning for Accelerated Discovery of Sodium Layered Oxide Cathodes with Balanced Capacity and Cyclability</title>
+<link>https://doi.org/10.1039/d6ta08080d</link>
+<guid isPermaLink="false">10.1039/d6ta08080d</guid>
+<pubDate>Wed, 04 Nov 2026 03:02:02 GMT</pubDate>
+<description>یادگیری تفسیرپذیر تقویت‌شده با فیزیک برای کشف سریع کاتدهای اکسید لایه‌ای سدیم با ظرفیت و پایداری چرخه‌ای متعادل در باتری‌های سدیم-یون به کار رفت.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a physics-augmented interpretable learning framework that decodes the capacity–cyclability trade-off across complex transition-metal combinations for sodium layered oxides. Its significance is accelerating rational cathode discovery by making design rules transparent and balancing capacity against cyclability, moving beyond opaque trial-and-error screening.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · interpretable learning · capacity-cyclability trade-off · materials discovery</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>interpretable learning</category>
+<category>capacity-cyclability trade-off</category>
+<category>materials discovery</category>
+</item>
+<item>
+<title>Fundamental electrochemical mechanisms and performance enhancement strategies of rechargeable zinc-air batteries</title>
+<link>https://doi.org/10.1039/d6ta08817a</link>
+<guid isPermaLink="false">10.1039/d6ta08817a</guid>
+<pubDate>Wed, 04 Nov 2026 03:01:57 GMT</pubDate>
+<description>این مقاله مروری مکانیسم‌های الکتروشیمیایی و راهبردهای بهبود عملکرد باتری‌های قابل شارژ روی-هوا را برای رفع بازدهی پایین و پایداری چرخه‌ای ناکافی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in systematically linking fundamental electrochemical mechanisms—bifunctional oxygen electrocatalysis, zinc dendrite formation, and electrolyte degradation—to targeted performance enhancement strategies. Its significance is providing a mechanistic framework that guides rational design of stable, efficient ZABs, bridging laboratory advances and practical deployment for next-generation energy storage.&lt;br&gt;🏷 zinc-air battery · rechargeable battery · electrochemical mechanism · cycling stability · energy efficiency</description>
+<category>zinc-air battery</category>
+<category>rechargeable battery</category>
+<category>electrochemical mechanism</category>
+<category>cycling stability</category>
+<category>energy efficiency</category>
+</item>
+<item>
+<title>Integrated 3D Porous Covalent Organic Framework Films Fabricated by Liquid-Liquid Interfacial Polymerization for Homogeneous Zn 2+ Flux and Dendrite-Free Zinc Anodes</title>
+<link>https://doi.org/10.1039/d6ta06959b</link>
+<guid isPermaLink="false">10.1039/d6ta06959b</guid>
+<pubDate>Wed, 04 Nov 2026 03:01:52 GMT</pubDate>
+<description>فیلم‌های متخلخل سه‌بعدی COF از طریق پلیمریزاسیون بین‌سطحی مایع-مایع ساخته شدند تا شار Zn2+ یکنواخت و آند روی بدون دندریت در باتری‌های آبی روی-یون فراهم شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in fabricating integrated 3D porous covalent organic framework films via liquid-liquid interfacial polymerization, then using them to homogenize Zn²⁺ flux. This approach suppresses dendrite formation and enables dendrite-free zinc anodes, addressing a key barrier to practical aqueous zinc-ion batteries and offering a scalable, designable strategy for stable metal anodes.&lt;br&gt;🏷 covalent organic framework · zinc anode · interfacial polymerization · dendrite-free · Zn2+ flux</description>
+<category>covalent organic framework</category>
+<category>zinc anode</category>
+<category>interfacial polymerization</category>
+<category>dendrite-free</category>
+<category>Zn2+ flux</category>
+</item>
 <item>
 <title>Amine-assisted route to fabricate FeS@NC nanosheet hybrids with boosted capacity and rate performance for sodium-ion battery</title>
 <link>https://doi.org/10.1016/j.est.2026.125366</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>solid electrolyte interphase</category>
 <category>Sn(BF4)2 additive</category>
 <category>trimethyl phosphate</category>
-</item>
-<item>
-<title>Chemical Coordination and Pore Confinement Enabling a Bifunctional Interface for Accelerated Desolvation and Oriented Deposition Toward Stable Zinc Metal Anodes</title>
-<link>https://doi.org/10.1002/aenm.71785</link>
-<guid isPermaLink="false">10.1002/aenm.71785</guid>
-<pubDate>Mon, 02 Nov 2026 14:01:39 GMT</pubDate>
-<description>یک رابط دوعملکردی بر پایه UiO-66-NH2 پیوندخورده با باز شیف برای آند روی ساخته شد که با تسریع desolvation و رسوب جهت‌دار Zn(002)، پایداری و بازدهی بالایی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in covalently grafting a Schiff-base-functionalized UiO-66-NH₂ MOF onto the Zn anode to create a bifunctional interface combining chemical chelation (accelerating desolvation, suppressing side reactions) with confined pore channels guiding uniform Zn²⁺ flux and Zn(002)-oriented deposition. Significance: achieves 99.8% Coulombic efficiency over 2000 cycles and &amp;gt;90% capacity retention after 4000 cycles, advancing stable aqueous zinc-ion batteries.&lt;br&gt;🏷 zinc metal anode · UiO-66-NH2 · Schiff base · desolvation · Zn(002) deposition</description>
-<category>zinc metal anode</category>
-<category>UiO-66-NH2</category>
-<category>Schiff base</category>
-<category>desolvation</category>
-<category>Zn(002) deposition</category>
-</item>
-<item>
-<title>Chemically Reactivatable Sulfide Interfaces for Low‐Pressure Thick‐Cathode Solid‐State Na–S Batteries</title>
-<link>https://doi.org/10.1002/adma.75607</link>
-<guid isPermaLink="false">10.1002/adma.75607</guid>
-<pubDate>Mon, 02 Nov 2026 13:02:19 GMT</pubDate>
-<description>واسط‌های سولفیدی فعال‌شونده شیمیایی با Fe3C–MnO در نانولوله‌های کربنی، باتری تمام‌جامد Na–S با کاتد ضخیم را در فشار 0.2 MPa با استفاده بالای گوگرد و پایداری چرخه‌ای بالا فعال می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in Fe3C–MnO heteropoints embedded in N-doped hollow carbon nanotubes that chemically reactivate sulfide interfaces, suppressing passivation and sustaining sulfur recovery under weak mechanical confinement. This decouples reversible sulfur chemistry from high-pressure requirements, cutting operational pressure from ~2 MPa to 0.2 MPa while enabling thick cathodes (8.3 mg cm−2) and 696 Wh kg−1 pouch cells—significant for practical low-pressure solid-state Na–S batteries.&lt;br&gt;🏷 solid-state Na-S battery · thick sulfur cathode · Fe3C-MnO heterojunction · sulfide interface · low-pressure operation</description>
-<category>solid-state Na-S battery</category>
-<category>thick sulfur cathode</category>
-<category>Fe3C-MnO heterojunction</category>
-<category>sulfide interface</category>
-<category>low-pressure operation</category>
-</item>
-<item>
-<title>Submolecular Selenium Enables Low‐Pressure and Recyclable All‐Solid‐State Li–Se Batteries</title>
-<link>https://doi.org/10.1002/adma.75592</link>
-<guid isPermaLink="false">10.1002/adma.75592</guid>
-<pubDate>Mon, 02 Nov 2026 13:02:14 GMT</pubDate>
-<description>کاتد Se زیرمولکولی روی گرافن همراه با الکترولیت سولفیدی اصلاح‌شده با Li2O، باتری تمام‌جامد Li–Se را در فشار پایین با ظرفیت نظری 673 mAh g−1 و پایداری بالا ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting crystalline cyclo-Se8 into amorphous submolecular Sex (x&amp;lt;4) on graphene, boosting conductivity and Li+ diffusivity, plus a Li2O-nanoshell sulfide electrolyte stabilizing interfaces. Significance: enables low-pressure (2.5–8 MPa), recyclable all-solid-state Li–Se batteries with 673 mAh g−1, 2800-cycle stability, −30°C operation, and 420 Wh kg−1 pouch cells.&lt;br&gt;🏷 all-solid-state Li-Se battery · submolecular selenium · sulfide solid electrolyte · low stack pressure · recyclable cathode</description>
-<category>all-solid-state Li-Se battery</category>
-<category>submolecular selenium</category>
-<category>sulfide solid electrolyte</category>
-<category>low stack pressure</category>
-<category>recyclable cathode</category>
 </item>
 </channel>
 </rss>

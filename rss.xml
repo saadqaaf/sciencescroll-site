@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 02:01:41 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 03:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Highly effective boron-doped ZnO passivating contacts for crystalline silicon solar cells</title>
+<link>https://doi.org/10.1039/d6ta08045f</link>
+<guid isPermaLink="false">10.1039/d6ta08045f</guid>
+<pubDate>Wed, 04 Nov 2026 03:02:05 GMT</pubDate>
+<description>تأثیر دوپینگ بور در لایه‌های ZnO:B رسوب‌داده‌شده با ALD بر عملکرد پسیواسیون و تماس الکترونی در سلول‌های خورشیدی سیلیکون کریستالی بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 silicon solar cell · ZnO:B · passivating contact · ALD · boron doping</description>
+<category>silicon solar cell</category>
+<category>ZnO:B</category>
+<category>passivating contact</category>
+<category>ALD</category>
+<category>boron doping</category>
+</item>
+<item>
+<title>Physics-Augmented Interpretable Learning for Accelerated Discovery of Sodium Layered Oxide Cathodes with Balanced Capacity and Cyclability</title>
+<link>https://doi.org/10.1039/d6ta08080d</link>
+<guid isPermaLink="false">10.1039/d6ta08080d</guid>
+<pubDate>Wed, 04 Nov 2026 03:02:02 GMT</pubDate>
+<description>یادگیری تفسیرپذیر تقویت‌شده با فیزیک برای کشف سریع کاتدهای اکسید لایه‌ای سدیم با ظرفیت و پایداری چرخه‌ای متعادل در باتری‌های سدیم-یون به کار رفت.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a physics-augmented interpretable learning framework that decodes the capacity–cyclability trade-off across complex transition-metal combinations for sodium layered oxides. Its significance is accelerating rational cathode discovery by making design rules transparent and balancing capacity against cyclability, moving beyond opaque trial-and-error screening.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · interpretable learning · capacity-cyclability trade-off · materials discovery</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>interpretable learning</category>
+<category>capacity-cyclability trade-off</category>
+<category>materials discovery</category>
+</item>
+<item>
+<title>Fundamental electrochemical mechanisms and performance enhancement strategies of rechargeable zinc-air batteries</title>
+<link>https://doi.org/10.1039/d6ta08817a</link>
+<guid isPermaLink="false">10.1039/d6ta08817a</guid>
+<pubDate>Wed, 04 Nov 2026 03:01:57 GMT</pubDate>
+<description>این مقاله مروری مکانیسم‌های الکتروشیمیایی و راهبردهای بهبود عملکرد باتری‌های قابل شارژ روی-هوا را برای رفع بازدهی پایین و پایداری چرخه‌ای ناکافی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in systematically linking fundamental electrochemical mechanisms—bifunctional oxygen electrocatalysis, zinc dendrite formation, and electrolyte degradation—to targeted performance enhancement strategies. Its significance is providing a mechanistic framework that guides rational design of stable, efficient ZABs, bridging laboratory advances and practical deployment for next-generation energy storage.&lt;br&gt;🏷 zinc-air battery · rechargeable battery · electrochemical mechanism · cycling stability · energy efficiency</description>
+<category>zinc-air battery</category>
+<category>rechargeable battery</category>
+<category>electrochemical mechanism</category>
+<category>cycling stability</category>
+<category>energy efficiency</category>
+</item>
+<item>
+<title>Integrated 3D Porous Covalent Organic Framework Films Fabricated by Liquid-Liquid Interfacial Polymerization for Homogeneous Zn 2+ Flux and Dendrite-Free Zinc Anodes</title>
+<link>https://doi.org/10.1039/d6ta06959b</link>
+<guid isPermaLink="false">10.1039/d6ta06959b</guid>
+<pubDate>Wed, 04 Nov 2026 03:01:52 GMT</pubDate>
+<description>فیلم‌های متخلخل سه‌بعدی COF از طریق پلیمریزاسیون بین‌سطحی مایع-مایع ساخته شدند تا شار Zn2+ یکنواخت و آند روی بدون دندریت در باتری‌های آبی روی-یون فراهم شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in fabricating integrated 3D porous covalent organic framework films via liquid-liquid interfacial polymerization, then using them to homogenize Zn²⁺ flux. This approach suppresses dendrite formation and enables dendrite-free zinc anodes, addressing a key barrier to practical aqueous zinc-ion batteries and offering a scalable, designable strategy for stable metal anodes.&lt;br&gt;🏷 covalent organic framework · zinc anode · interfacial polymerization · dendrite-free · Zn2+ flux</description>
+<category>covalent organic framework</category>
+<category>zinc anode</category>
+<category>interfacial polymerization</category>
+<category>dendrite-free</category>
+<category>Zn2+ flux</category>
+</item>
 <item>
 <title>AI-enabled large-format additive manufacturing of thermoplastics: Recent advances and future directions</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114299</link>
@@ -1174,54 +1222,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 carbon
 <category>electron shuttling</category>
 <category>copper catalyst</category>
 <category>biomimetic</category>
-</item>
-<item>
-<title>The ZmGPAT6–ZmMPK2/7–ZmPIP2;1 fine-regulated module confers salt-alkali tolerance via controlling H2O2 transport in maize</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.004</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.004</guid>
-<pubDate>Tue, 03 Nov 2026 21:01:58 GMT</pubDate>
-<description>ماژول ZmGPAT6–ZmMPK2/7–ZmPIP2;1 با کنترل انتقال H2O2، تحمل شوری-قلیایی را در ذرت تنظیم می‌کند.&lt;br&gt;Science Bulletin | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 maize · salt-alkali tolerance · H2O2 transport · ZmGPAT6 · ZmPIP2;1</description>
-<category>maize</category>
-<category>salt-alkali tolerance</category>
-<category>H2O2 transport</category>
-<category>ZmGPAT6</category>
-<category>ZmPIP2;1</category>
-</item>
-<item>
-<title>Lewis acid-base chemistry enables ultrastable zinc iodine battery through overall iodine species management</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.001</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.001</guid>
-<pubDate>Tue, 03 Nov 2026 21:01:55 GMT</pubDate>
-<description>شیمی اسید-باز لوویس با مدیریت کلی گونه‌های ید، باتری روی-ید فوق‌پایدار را ممکن می‌سازد.&lt;br&gt;Science Bulletin | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 zinc-iodine battery · Lewis acid-base · iodine species management · ultrastable anode · aqueous electrolyte</description>
-<category>zinc-iodine battery</category>
-<category>Lewis acid-base</category>
-<category>iodine species management</category>
-<category>ultrastable anode</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Toward neuromorphic photonics with strong exciton–photon coupling in 2D and quasi-2D hybrid perovskites</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.003</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.003</guid>
-<pubDate>Tue, 03 Nov 2026 21:01:51 GMT</pubDate>
-<description>چشم‌انداز فوتونیک نورومورفیک با جفت‌شدگی قوی اکسایتون-فوتون در پروسکایت‌های هیبریدی دوبعدی و شبه‌دوبعدی بررسی می‌شود.&lt;br&gt;Science Bulletin | 💭 Perspective&lt;br&gt;🏷 exciton-photon coupling · hybrid perovskites · neuromorphic photonics · polaritons · 2D perovskites</description>
-<category>exciton-photon coupling</category>
-<category>hybrid perovskites</category>
-<category>neuromorphic photonics</category>
-<category>polaritons</category>
-<category>2D perovskites</category>
-</item>
-<item>
-<title>Coordination-directed photocleavage of mammalian serum albumins by photoexcited uranyl ions</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.002</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.002</guid>
-<pubDate>Tue, 03 Nov 2026 21:01:47 GMT</pubDate>
-<description>شکست نوری آلبومین‌های سرم پستانداران توسط یون‌های اورانیل برانگیخته نوری و با هدایت کوئوردیناسیونی بررسی شد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 uranyl ions · serum albumin · photocleavage · protein coordination · photochemistry</description>
-<category>uranyl ions</category>
-<category>serum albumin</category>
-<category>photocleavage</category>
-<category>protein coordination</category>
-<category>photochemistry</category>
 </item>
 </channel>
 </rss>
