@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 21:07:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 22:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>FeCoNi metal-organic framework on graphene aerogel composite as a multifunctional electrode for energy storage and zinc-air battery applications</title>
+<link>https://doi.org/10.1016/j.est.2026.125411</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125411</guid>
+<pubDate>Wed, 04 Nov 2026 22:01:26 GMT</pubDate>
+<description>کامپوزیت MOF سه‌فلزی FeCoNi روی ایروژل گرافن به‌عنوان الکترود چندکاره برای ذخیره‌سازی انرژی و باتری روی-هوا ساخته می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 FeCoNi MOF · graphene aerogel · zinc-air battery · multifunctional electrode · energy storage</description>
+<category>FeCoNi MOF</category>
+<category>graphene aerogel</category>
+<category>zinc-air battery</category>
+<category>multifunctional electrode</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>Stability and safety of polyethylene-oxide solid-state batteries with optimized cathodes at elevated temperatures</title>
+<link>https://doi.org/10.1016/j.est.2026.125281</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125281</guid>
+<pubDate>Wed, 04 Nov 2026 22:01:22 GMT</pubDate>
+<description>پایداری و ایمنی باتری‌های حالت جامد بر پایه PEO با کاتدهای بهینه‌شده در دماهای بالا بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid-state battery · polyethylene oxide · cathode optimization · thermal stability · elevated temperature safety</description>
+<category>solid-state battery</category>
+<category>polyethylene oxide</category>
+<category>cathode optimization</category>
+<category>thermal stability</category>
+<category>elevated temperature safety</category>
+</item>
+<item>
+<title>Spatially confined lithium storage for stable metal anodes enabled by a conversion-derived interphase</title>
+<link>https://doi.org/10.1016/j.est.2026.125499</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125499</guid>
+<pubDate>Wed, 04 Nov 2026 22:01:18 GMT</pubDate>
+<description>ذخیره‌سازی لیتیوم در فضای محدود به‌واسطه یک فاز میانی حاصل از واکنش تبدیل، آندهای فلزی لیتیوم پایدار را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · conversion-derived interphase · spatial confinement · lithium storage · solid electrolyte interphase</description>
+<category>lithium metal anode</category>
+<category>conversion-derived interphase</category>
+<category>spatial confinement</category>
+<category>lithium storage</category>
+<category>solid electrolyte interphase</category>
+</item>
+<item>
+<title>Robust sequential framework for selection of flow-channel material and performance assessment of heat transfer fluid-assisted battery thermal management schemes</title>
+<link>https://doi.org/10.1016/j.est.2026.125348</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125348</guid>
+<pubDate>Wed, 04 Nov 2026 22:01:14 GMT</pubDate>
+<description>چارچوبی ترتیبی و مقاوم برای انتخاب ماده کانال جریان و ارزیابی عملکرد طرح‌های مدیریت حرارتی باتری با سیال انتقال حرارت ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · flow-channel material · heat transfer fluid · multi-criteria selection · performance assessment</description>
+<category>battery thermal management</category>
+<category>flow-channel material</category>
+<category>heat transfer fluid</category>
+<category>multi-criteria selection</category>
+<category>performance assessment</category>
+</item>
+<item>
+<title>Interfacial iron silicate engineering and surface carbon coating enable high-performance micro‑silicon anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125460</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125460</guid>
+<pubDate>Wed, 04 Nov 2026 22:01:09 GMT</pubDate>
+<description>مهندسی فاز سیلیکات آهن در فصل مشترک همراه با پوشش کربنی سطحی، عملکرد آندهای میکروسیلیکونی در باتری لیتیوم-یون را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 micro-silicon anode · iron silicate · surface carbon coating · lithium-ion battery · interfacial engineering</description>
+<category>micro-silicon anode</category>
+<category>iron silicate</category>
+<category>surface carbon coating</category>
+<category>lithium-ion battery</category>
+<category>interfacial engineering</category>
+</item>
 <item>
 <title>Unveiling Nontrivial Thermally Driven Open-to-Closed Pore Transition in Ultrahigh-Molecular-Weight Polyacrylonitrile-Based Superstructure Hard Carbon for Advanced Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122276</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>NFPP</category>
 <category>Ni/Mn co-doping</category>
 <category>layered oxide waste</category>
-</item>
-<item>
-<title>Investigating configuration entropy in ceramic super-ionic conductors</title>
-<link>https://doi.org/10.1039/d6ta03661a</link>
-<guid isPermaLink="false">10.1039/d6ta03661a</guid>
-<pubDate>Tue, 03 Nov 2026 07:01:31 GMT</pubDate>
-<description>نقش آنتروپی پیکربندی در رسانای فوق‌یونی سرامیکی و تأثیر آن بر انتشار یون Li+ و اثرات همبستگی یونی بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in quantifying configuration entropy to link ion correlation effects (concerted motion, paddle-wheel) with fast Li+ diffusion in ceramic super-ionic conductors, moving beyond structural descriptors. Significance: provides a thermodynamic framework connecting dynamic ion correlations to conductivity, aiding rational design of solid electrolytes for safer, higher-performance batteries.&lt;br&gt;🏷 configurational entropy · solid electrolyte · Li+ conduction · ceramic superionic conductor · ion correlation</description>
-<category>configurational entropy</category>
-<category>solid electrolyte</category>
-<category>Li+ conduction</category>
-<category>ceramic superionic conductor</category>
-<category>ion correlation</category>
-</item>
-<item>
-<title>Antiperovskite Nitrides for Bifunctional Oxygen Electrocatalysis and Zinc-Air Battery Powered Water Electrolysis</title>
-<link>https://doi.org/10.1039/d6ta03924c</link>
-<guid isPermaLink="false">10.1039/d6ta03924c</guid>
-<pubDate>Tue, 03 Nov 2026 07:01:16 GMT</pubDate>
-<description>نیترید آنتی‌پروسکایت پایه Sn-Fe به عنوان الکتروکاتالیست دوفункسیونی اکسیژن برای باتری روی-هوا و الکترولیز آب سنتز شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing a Sn-Fe-based antiperovskite nitride as a low-cost, non-precious bifunctional oxygen electrocatalyst. Its significance is enabling efficient bifunctional oxygen electrocatalysis and application in zinc-air battery-powered water electrolysis, offering a promising route for sustainable energy conversion and storage without reliance on precious metals.&lt;br&gt;🏷 antiperovskite nitride · bifunctional electrocatalyst · oxygen electrocatalysis · zinc-air battery · water electrolysis</description>
-<category>antiperovskite nitride</category>
-<category>bifunctional electrocatalyst</category>
-<category>oxygen electrocatalysis</category>
-<category>zinc-air battery</category>
-<category>water electrolysis</category>
-</item>
-<item>
-<title>A practical beginner&#x27;s guide to developing a 3D printed electrochemical cell for soluble lead flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125334</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125334</guid>
-<pubDate>Tue, 03 Nov 2026 05:01:12 GMT</pubDate>
-<description>این راهنمای آموزشی گام‌به‌گام ساخت یک سلول الکتروشیمیایی چاپ سه‌بعدی برای باتری‌های جریان سرب محلول را ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 soluble lead flow battery · 3D printed cell · electrochemical cell design · flow battery · beginner guide</description>
-<category>soluble lead flow battery</category>
-<category>3D printed cell</category>
-<category>electrochemical cell design</category>
-<category>flow battery</category>
-<category>beginner guide</category>
-</item>
-<item>
-<title>Mesoporous Polymer for Metal Ion Adsorption and Its Calcined Product for Oxygen Reduction Reaction</title>
-<link>https://doi.org/10.1002/eem2.70424</link>
-<guid isPermaLink="false">10.1002/eem2.70424</guid>
-<pubDate>Tue, 03 Nov 2026 04:01:15 GMT</pubDate>
-<description>پلیمر مزوپور PDAN با جذب بالای Fe3+ سنتز شده و محصول پیرولیز آن به‌عنوان کاتالیست ORR در باتری Zn-air عملکردی برتر از Pt/C نشان می‌دهد.&lt;br&gt;ENERGY &amp;amp;amp; ENVIRONMENTAL MATERIALS | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an emulsion-assisted oxidative polymerization that yields uniform mesoporous poly(diaminonaphthalene) with ordered pores, overcoming uncontrolled kinetics. It shows exceptional Fe³⁺ adsorption, and the adsorbed iron serves as a precursor for Fe₃C-embedded nitrogen-doped mesoporous carbon. This closed-loop design links metal-ion capture to high-performance ORR catalysis, achieving 0.88 V half-wave potential and superior zinc–air battery performance.&lt;br&gt;🏷 mesoporous polymer · metal ion adsorption · oxygen reduction reaction · Fe3C nanoparticles · zinc-air battery</description>
-<category>mesoporous polymer</category>
-<category>metal ion adsorption</category>
-<category>oxygen reduction reaction</category>
-<category>Fe3C nanoparticles</category>
-<category>zinc-air battery</category>
-</item>
-<item>
-<title>Rethinking lithium content in inorganic solid-state electrolytes</title>
-<link>https://doi.org/10.1016/j.chempr.2026.103324</link>
-<guid isPermaLink="false">10.1016/j.chempr.2026.103324</guid>
-<pubDate>Tue, 03 Nov 2026 02:01:13 GMT</pubDate>
-<description>این مقاله با بازنگری نقش میزان لیتیوم در الکترولیت‌های جامد معدنی، دیدگاه جدیدی برای طراحی الکترولیت‌های کارآمدتر باتری ارائه می‌کند.&lt;br&gt;Chem | 💭 Perspective&lt;br&gt;🏷 solid-state electrolyte · lithium content · ionic conductivity · battery safety · electrolyte design</description>
-<category>solid-state electrolyte</category>
-<category>lithium content</category>
-<category>ionic conductivity</category>
-<category>battery safety</category>
-<category>electrolyte design</category>
 </item>
 </channel>
 </rss>
