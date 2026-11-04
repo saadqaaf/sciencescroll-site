@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 15:01:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 16:01:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecule-to-System Design Rules for Neutral TEMPO/Viologen Aqueous Organic Redox Flow Batteries</title>
+<link>https://doi.org/10.1039/d6ee03279f</link>
+<guid isPermaLink="false">10.1039/d6ee03279f</guid>
+<pubDate>Wed, 04 Nov 2026 16:01:09 GMT</pubDate>
+<description>این مقاله قواعد طراحی از سطح مولکول تا سیستم را برای باتری‌های جریان ردوکس آبی خنثی بر پایه TEMPO و viologen مرور می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review&lt;br&gt;💡 The novelty lies in deriving molecule-to-system design rules that bridge molecular structure with full-cell performance for neutral TEMPO/viologen AORFBs. Significance: these rules guide rational co-design of catholyte, anolyte, and operating conditions, enabling safer, scalable, long-duration energy storage and accelerating translation from molecule discovery to practical systems.&lt;br&gt;🏷 redox flow battery · TEMPO · viologen · aqueous electrolyte · molecular design</description>
+<category>redox flow battery</category>
+<category>TEMPO</category>
+<category>viologen</category>
+<category>aqueous electrolyte</category>
+<category>molecular design</category>
+</item>
 <item>
 <title>Decoupling the Intrinsic Li/Mn Disorder Mechanism in Li-Rich Layered Oxides</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03411</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>flexible composite</category>
 <category>thermal conductivity</category>
 <category>lithium battery module</category>
-</item>
-<item>
-<title>Inhibition of gas-phase combustion during battery thermal runaway by ferrocene: Mechanistic and atomistic insights</title>
-<link>https://doi.org/10.1016/j.est.2026.125337</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125337</guid>
-<pubDate>Mon, 02 Nov 2026 19:02:27 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که فروسین با بینش‌های مکانیستی و اتمی، احتراق فاز گازی را در فرار حرارتی باتری مهار می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · ferrocene inhibitor · gas-phase combustion · battery safety · atomistic simulation</description>
-<category>thermal runaway</category>
-<category>ferrocene inhibitor</category>
-<category>gas-phase combustion</category>
-<category>battery safety</category>
-<category>atomistic simulation</category>
 </item>
 </channel>
 </rss>
