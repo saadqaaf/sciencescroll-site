@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 04:01:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 05:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Over 95% Optical Reflectance From Structurally Modulated All‐Biopolymer Multilayers</title>
+<link>https://doi.org/10.1002/adma.75473</link>
+<guid isPermaLink="false">10.1002/adma.75473</guid>
+<pubDate>Wed, 04 Nov 2026 05:01:12 GMT</pubDate>
+<description>ساختار چندلایه متناوب چگال-متخلخل از پکتین و نانوالیاف سلولز بازتاب نوری بیش از ۹۵ درصد در ناحیه مرئی و فروسرخ نزدیک را با مواد زیست‌پلیمری فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 biopolymer multilayers · cellulose nanofibers · pectin · optical reflectance · photonic structure</description>
+<category>biopolymer multilayers</category>
+<category>cellulose nanofibers</category>
+<category>pectin</category>
+<category>optical reflectance</category>
+<category>photonic structure</category>
+</item>
+<item>
+<title>Suppressing dynamic energetic disorder for efficient organic solar cells</title>
+<link>https://doi.org/10.1039/d6ee02850k</link>
+<guid isPermaLink="false">10.1039/d6ee02850k</guid>
+<pubDate>Wed, 04 Nov 2026 05:01:08 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که کنترل سازمان‌یابی مولکولی می‌تواند نوسانات انرژی دینامیکی را در نیمه‌رساناهای آلی سرکوب کرده و بازده سلول‌های خورشیدی آلی را بهبود دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 organic solar cells · energetic disorder · molecular organization · non-fullerene acceptor · photovoltaics</description>
+<category>organic solar cells</category>
+<category>energetic disorder</category>
+<category>molecular organization</category>
+<category>non-fullerene acceptor</category>
+<category>photovoltaics</category>
+</item>
 <item>
 <title>Water and air pollution remediation by COFs, ZIFs, MILs, and their composites: green synthesis, structure–property relationships, mechanisms, and future perspectives</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101870</link>
@@ -1198,30 +1222,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 carbon
 <category>passive thermal management</category>
 <category>thermal insulation</category>
 <category>outdoor electronics</category>
-</item>
-<item>
-<title>Molecular design of sulfonate-graphene oxide frameworks (GOF) separators with crystallographic orientation and ion selectivity for high-rate zinc-ion storage</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105636</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105636</guid>
-<pubDate>Tue, 03 Nov 2026 21:02:13 GMT</pubDate>
-<description>طراحی مولکولی جداکننده‌های چارچوب اکسید گرافن سولفوناته با جهت‌گیری بلوری و گزینش‌گری یونی برای ذخیره‌سازی روی-یون پرسرعت انجام شد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene oxide framework · separator · ion selectivity · zinc-ion storage · sulfonate</description>
-<category>graphene oxide framework</category>
-<category>separator</category>
-<category>ion selectivity</category>
-<category>zinc-ion storage</category>
-<category>sulfonate</category>
-</item>
-<item>
-<title>Revealing the interplay between aluminium doping and fluorinated high-concentration electrolyte towards high-voltage and fast-charging LiCoO2</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105635</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105635</guid>
-<pubDate>Tue, 03 Nov 2026 21:02:09 GMT</pubDate>
-<description>برهم‌کنش دوپینگ آلومینیوم و الکترولیت پرغلظت فلوئوره برای LiCoO2 پرولتاژ و شارژ سریع روشن شد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 LiCoO2 cathode · aluminium doping · fluorinated electrolyte · high-voltage · fast charging</description>
-<category>LiCoO2 cathode</category>
-<category>aluminium doping</category>
-<category>fluorinated electrolyte</category>
-<category>high-voltage</category>
-<category>fast charging</category>
 </item>
 </channel>
 </rss>
