@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 06:01:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 07:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cross-modal topology decodes battery faults from sparse voltage snapshots</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105638</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105638</guid>
+<pubDate>Wed, 04 Nov 2026 07:01:17 GMT</pubDate>
+<description>این مقاله با روش توپولوژی چندوجهی، خطاهای باتری را از داده‌های پراکنده ولتاژ تشخیص می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery faults · fault diagnosis · voltage snapshots · cross-modal topology · lithium-ion battery</description>
+<category>battery faults</category>
+<category>fault diagnosis</category>
+<category>voltage snapshots</category>
+<category>cross-modal topology</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Electrolyte regulation chemistry for anode-free lithium metal batteries: Objectives, strategies, and prospects</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218723</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>Cu-CoO catalyst</category>
 <category>tandem catalysis</category>
 <category>sulfur redox</category>
-</item>
-<item>
-<title>In-to-out compressive strain in 2D-on-3D NiOOH/NiCu optimizes H supply for electrocatalytic nitrate reduction and high-performance Zn-Nitrate batteries</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127729</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127729</guid>
-<pubDate>Mon, 02 Nov 2026 15:02:04 GMT</pubDate>
-<description>این مقاله با کرنش فشاری در NiOOH/NiCu تأمین H را برای احیای الکتروکاتالیستی نیترات و باتری Zn-Nitrate بهینه می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · NiOOH/NiCu · compressive strain · Zn-nitrate battery · hydrogen supply</description>
-<category>nitrate reduction</category>
-<category>NiOOH/NiCu</category>
-<category>compressive strain</category>
-<category>Zn-nitrate battery</category>
-<category>hydrogen supply</category>
 </item>
 </channel>
 </rss>
