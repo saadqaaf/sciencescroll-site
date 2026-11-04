@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 14:02:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 15:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>RobPicker: a meta-learning framework for robust identification of macromolecules in cryo-electron tomograms</title>
+<link>https://doi.org/10.1038/s41592-026-03250-3</link>
+<guid isPermaLink="false">10.1038/s41592-026-03250-3</guid>
+<pubDate>Wed, 04 Nov 2026 15:01:26 GMT</pubDate>
+<description>چارچوب یادگیری فراتعاملی RobPicker برای شناسایی مقاوم ماکرومولکول‌ها در توموگرام‌های کرایو-الکترونی معرفی می‌شود و دقت تشخیص ذرات را بهبود می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 cryo-electron tomography · meta-learning · macromolecule identification · particle picking · robustness</description>
+<category>cryo-electron tomography</category>
+<category>meta-learning</category>
+<category>macromolecule identification</category>
+<category>particle picking</category>
+<category>robustness</category>
+</item>
+<item>
+<title>More is more: why cell number matters in microscopy</title>
+<link>https://doi.org/10.1038/s41592-026-03297-2</link>
+<guid isPermaLink="false">10.1038/s41592-026-03297-2</guid>
+<pubDate>Wed, 04 Nov 2026 15:01:23 GMT</pubDate>
+<description>این مقاله توضیح می‌دهد که چرا تعداد سلول‌های بررسی‌شده در آزمایش‌های میکروسکوپی بر توان آماری و اعتبار نتایج تصویربرداری تأثیر می‌گذارد.&lt;br&gt;Nature Methods | 💭 Perspective&lt;br&gt;🏷 cell number · microscopy · statistical power · imaging · experimental design</description>
+<category>cell number</category>
+<category>microscopy</category>
+<category>statistical power</category>
+<category>imaging</category>
+<category>experimental design</category>
+</item>
+<item>
+<title>Pure-blue quantum-dot light-emitting diodes with minimal efficiency roll-off and high brightness</title>
+<link>https://doi.org/10.1038/s41566-026-02041-8</link>
+<guid isPermaLink="false">10.1038/s41566-026-02041-8</guid>
+<pubDate>Wed, 04 Nov 2026 15:01:17 GMT</pubDate>
+<description>دیودهای نورگسیل نقطه‌کوانتومی آبی خالص با افت بازده کمینه و روشنایی بالا ارائه می‌شود که گامی مهم در نمایشگرهای با کیفیت رنگ بالاست.&lt;br&gt;Nature Photonics | 🔬 Research Article&lt;br&gt;🏷 quantum-dot LED · blue emission · efficiency roll-off · high brightness · charge balance</description>
+<category>quantum-dot LED</category>
+<category>blue emission</category>
+<category>efficiency roll-off</category>
+<category>high brightness</category>
+<category>charge balance</category>
+</item>
 <item>
 <title>A serendipitous CMOS quantum sensor</title>
 <link>https://doi.org/10.1038/s41928-026-01735-9</link>
@@ -1177,42 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 chiral MOF · nonlinear o
 <category>Fe anchoring</category>
 <category>H2O2 activation</category>
 <category>Fenton-like catalysis</category>
-</item>
-<item>
-<title>From Four-Diagnostic Signals to Trustworthy Clinical Intelligence: Engineering Digital Characterization and AI-Assisted Decision Support in TCM</title>
-<link>https://doi.org/10.1016/j.eng.2026.10.014</link>
-<guid isPermaLink="false">10.1016/j.eng.2026.10.014</guid>
-<pubDate>Wed, 04 Nov 2026 00:02:00 GMT</pubDate>
-<description>این مقاله چارچوبی برای دیجیتالی‌سازی چهار سیگنال تشخیصی طب سنتی چینی و ساخت سیستم پشتیبانی تصمیم مبتنی بر هوش مصنوعی برای هوشمندی بالینی قابل اعتماد ارائه می‌دهد.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 TCM diagnosis · four diagnostic signals · digital characterization · AI decision support · clinical intelligence</description>
-<category>TCM diagnosis</category>
-<category>four diagnostic signals</category>
-<category>digital characterization</category>
-<category>AI decision support</category>
-<category>clinical intelligence</category>
-</item>
-<item>
-<title>Concerted mass transport governs anomalous diffusion in dynamically-stabilized bcc metals</title>
-<link>https://doi.org/10.1038/s41524-026-02376-4</link>
-<guid isPermaLink="false">10.1038/s41524-026-02376-4</guid>
-<pubDate>Wed, 04 Nov 2026 00:01:56 GMT</pubDate>
-<description>شبیه‌سازی AIMD و MLIP-MD نشان داد که آنهارمونیسیته شدید شبکه در فلزات bcc گروه ۳ و ۴، انتقال جرم جمعی و خودنفوذی غیرآرنیوسی نزدیک نقطه ذوب را ایجاد می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 anomalous diffusion · bcc metals · machine-learning potential · Frenkel pairs · lattice anharmonicity</description>
-<category>anomalous diffusion</category>
-<category>bcc metals</category>
-<category>machine-learning potential</category>
-<category>Frenkel pairs</category>
-<category>lattice anharmonicity</category>
-</item>
-<item>
-<title>Ambient-Pressure CO2 Hydrogenation to Olefins over Ag-Tailored CoFe2O4 Catalyst Powered by Natural Sunlight</title>
-<link>https://doi.org/10.1021/acscatal.6c05484</link>
-<guid isPermaLink="false">10.1021/acscatal.6c05484</guid>
-<pubDate>Wed, 04 Nov 2026 00:01:53 GMT</pubDate>
-<description>کاتالیزور Ag/CoFe2O4 با تقویت تأمین CO از RWGS و تشکیل Fe5C2، هیدروژناسیون CO2 به الفین‌های سبک را در فشار اتمسفر و تحت نور خورشید ممکن کرد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 CO2 hydrogenation · light olefins · Ag/CoFe2O4 · Fe5C2 · photothermal catalysis</description>
-<category>CO2 hydrogenation</category>
-<category>light olefins</category>
-<category>Ag/CoFe2O4</category>
-<category>Fe5C2</category>
-<category>photothermal catalysis</category>
 </item>
 </channel>
 </rss>
