@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 03:02:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 04:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Water and air pollution remediation by COFs, ZIFs, MILs, and their composites: green synthesis, structure–property relationships, mechanisms, and future perspectives</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101870</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101870</guid>
+<pubDate>Wed, 04 Nov 2026 04:01:05 GMT</pubDate>
+<description>این مرور، سنتز سبز و روابط ساختار-خواص کامپوزیت‌های COF، ZIF و MIL را برای پاکسازی آلودگی آب و هوا و سازوکارهای آن‌ها بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 COF · ZIF · MIL · water pollution · air pollution</description>
+<category>COF</category>
+<category>ZIF</category>
+<category>MIL</category>
+<category>water pollution</category>
+<category>air pollution</category>
+</item>
+<item>
+<title>Bionic intelligent surfaces based on deformable micro/nanostructures</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101876</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101876</guid>
+<pubDate>Wed, 04 Nov 2026 04:01:02 GMT</pubDate>
+<description>این مقاله مروری، سطوح هوشمند زیست‌الهام‌گرفته از ریز/نانوساختارهای تغییرشکل‌پذیر را بررسی می‌کند و راهبردهای طراحی و کاربردهای آن‌ها را جمع‌بندی می‌نماید.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 deformable microstructures · bionic surface · smart surface · wettability switching · nanostructure actuation</description>
+<category>deformable microstructures</category>
+<category>bionic surface</category>
+<category>smart surface</category>
+<category>wettability switching</category>
+<category>nanostructure actuation</category>
+</item>
 <item>
 <title>Highly effective boron-doped ZnO passivating contacts for crystalline silicon solar cells</title>
 <link>https://doi.org/10.1039/d6ta08045f</link>
@@ -1198,30 +1222,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 carbon
 <category>fluorinated electrolyte</category>
 <category>high-voltage</category>
 <category>fast charging</category>
-</item>
-<item>
-<title>Stability of Co, Ni, and Fe in CoNiFeP electrocatalyst during hydrogen and oxygen evolution reactions in alkaline media</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127734</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127734</guid>
-<pubDate>Tue, 03 Nov 2026 21:02:04 GMT</pubDate>
-<description>پایداری Co، Ni و Fe در الکتروکاتالیست CoNiFeP طی واکنش‌های آزادسازی هیدروژن و اکسیژن در محیط قلیایی بررسی شد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CoNiFeP electrocatalyst · oxygen evolution · hydrogen evolution · alkaline media · catalyst stability</description>
-<category>CoNiFeP electrocatalyst</category>
-<category>oxygen evolution</category>
-<category>hydrogen evolution</category>
-<category>alkaline media</category>
-<category>catalyst stability</category>
-</item>
-<item>
-<title>Biomimetic Phenol-Quinone Electron Shuttling for Efficient Copper-Based Photo-Fenton Catalysis</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127738</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127738</guid>
-<pubDate>Tue, 03 Nov 2026 21:02:02 GMT</pubDate>
-<description>انتقال الکترون زیست‌الهام فنول-کینون برای کاتالیز فوتو-فنتون مؤثر بر پایه مس به کار گرفته شد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 photo-Fenton catalysis · phenol-quinone · electron shuttling · copper catalyst · biomimetic</description>
-<category>photo-Fenton catalysis</category>
-<category>phenol-quinone</category>
-<category>electron shuttling</category>
-<category>copper catalyst</category>
-<category>biomimetic</category>
 </item>
 </channel>
 </rss>
