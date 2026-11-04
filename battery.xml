@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 19:02:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 20:04:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Universal In-Plane Confined Growth of Mesoporous Metal–Organic Framework Crystalline Heterostructures</title>
+<link>https://doi.org/10.1021/acsnano.6c13368</link>
+<guid isPermaLink="false">10.1021/acsnano.6c13368</guid>
+<pubDate>Wed, 04 Nov 2026 20:02:38 GMT</pubDate>
+<description>رشد درون‌صفحه‌ای محدود، ناهم‌ساختار مزوپور UiO-66-NH2/MXene با کانال‌های عمودی و تماس سطحی پیوسته می‌سازد که ذخیره‌سازی Zn2+ با انرژی ۱۶۳.۹ Wh kg–1 و پایداری ۵۰٬۰۰۰ چرخه ارائه می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The work introduces a universal in-plane confined growth strategy for mesoporous MOF/MXene heterostructures with continuous interfacial contact and vertically accessible mesochannels, overcoming the trade-off between contact and pore accessibility. The optimized electrode achieves 163.9 Wh kg–1, excellent rate capability, and ~100% retention over 50,000 cycles, offering a generalizable design principle for mesoporous crystalline heterostructures in energy storage.&lt;br&gt;🏷 mesoporous MOF · MXene heterostructure · UiO-66-NH2 · Zn2+ storage · confined growth</description>
+<category>mesoporous MOF</category>
+<category>MXene heterostructure</category>
+<category>UiO-66-NH2</category>
+<category>Zn2+ storage</category>
+<category>confined growth</category>
+</item>
+<item>
+<title>Porphyrin Integration Enhances Bipolar Redox Accessibility for High‐Rate Sodium‐Based Dual‐Ion Storage</title>
+<link>https://doi.org/10.1002/anie.5985645</link>
+<guid isPermaLink="false">10.1002/anie.5985645</guid>
+<pubDate>Wed, 04 Nov 2026 20:02:12 GMT</pubDate>
+<description>ادغام پورفیرین در پلیمر مزدوج غنی از گوگرد، دسترسی دوقطبی به واکنش‌های ردوکس را بهبود می‌دهد و با استفاده ۹۴.۲ درصدی از ظرفیت نظری، ذخیره‌سازی سریع سدیم-یون دوگانه را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating a porphyrin motif into a sulfur-rich conjugated polymer (BTTP) to align electronic structure and ion interactions across the bipolar window. This yields 94.2% capacity utilization (477 mAh g⁻¹) versus 53.5% for BTB, plus 166 mAh g⁻¹ at 20 A g⁻¹ over 25,000 cycles. Significance: molecular regulation of complementary ion-interaction environments, not merely adding redox units, enables high-rate sodium dual-ion storage.&lt;br&gt;🏷 sodium dual-ion battery · porphyrin polymer · bipolar redox · PF6- anion storage · rate capability</description>
+<category>sodium dual-ion battery</category>
+<category>porphyrin polymer</category>
+<category>bipolar redox</category>
+<category>PF6- anion storage</category>
+<category>rate capability</category>
+</item>
 <item>
 <title>Covalent-Bond Engineering Stabilizes Layered Oxide Cathodes for Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02456</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>ion transport</category>
 <category>interfacial processes</category>
 <category>redox regulation</category>
-</item>
-<item>
-<title>A comprehensive review of sputter grown thin film electrodes: developments, strategies, and advancements</title>
-<link>https://doi.org/10.1039/d6ta01029f</link>
-<guid isPermaLink="false">10.1039/d6ta01029f</guid>
-<pubDate>Mon, 02 Nov 2026 21:01:20 GMT</pubDate>
-<description>این مرور جامع، پیشرفت‌ها و راهبردهای ساخت الکترودهای لایه نازک به روش اسپاترینگ را برای ابرخازن‌های نسل آینده بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The review consolidates recent progress in sputter-grown thin-film electrodes for supercapacitors, uniquely linking deposition parameters to electrochemical performance. Its significance lies in systematically mapping development strategies and advancements, offering a unified framework that guides rational design of micro and flexible energy storage devices, thereby accelerating practical translation of sputtered electrode technologies.&lt;br&gt;🏷 thin-film electrodes · sputtering · supercapacitors · flexible energy storage · micro-devices</description>
-<category>thin-film electrodes</category>
-<category>sputtering</category>
-<category>supercapacitors</category>
-<category>flexible energy storage</category>
-<category>micro-devices</category>
-</item>
-<item>
-<title>Framework for Understanding Electrochemical Behavior in Synthetic Graphites</title>
-<link>https://doi.org/10.1039/d6ta07206b</link>
-<guid isPermaLink="false">10.1039/d6ta07206b</guid>
-<pubDate>Mon, 02 Nov 2026 21:01:15 GMT</pubDate>
-<description>این مقاله چارچوبی برای درک رفتار الکتروشیمیایی گرافیت‌های مصنوعی ارائه می‌دهد و نشان می‌دهد مشخصات فعلی باتری تضمین‌کننده عملکرد پایدار نیستند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in proposing a framework that links synthetic graphite properties to electrochemical performance, addressing gaps in current battery-grade specifications that fail to ensure consistency as new producers enter the market. Its significance is enabling reliable qualification of diverse synthetic graphites, supporting the scale-up of global supply needed for electrification.&lt;br&gt;🏷 synthetic graphite · anode · electrochemical performance · battery-grade specifications · quality control</description>
-<category>synthetic graphite</category>
-<category>anode</category>
-<category>electrochemical performance</category>
-<category>battery-grade specifications</category>
-<category>quality control</category>
 </item>
 </channel>
 </rss>
