@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 00:02:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 01:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amine-assisted route to fabricate FeS@NC nanosheet hybrids with boosted capacity and rate performance for sodium-ion battery</title>
+<link>https://doi.org/10.1016/j.est.2026.125366</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125366</guid>
+<pubDate>Wed, 04 Nov 2026 01:01:51 GMT</pubDate>
+<description>روشی با کمک آمین برای ساخت نانوصفحه‌های FeS@NC به‌کار رفت که ظرفیت و نرخ عملکرد باتری یون سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · FeS@NC · nanosheet hybrid · amine-assisted synthesis · rate performance</description>
+<category>sodium-ion battery</category>
+<category>FeS@NC</category>
+<category>nanosheet hybrid</category>
+<category>amine-assisted synthesis</category>
+<category>rate performance</category>
+</item>
+<item>
+<title>Residual alkali conversion and near-surface Na+ extraction enabling high-voltage O3-type Ni-Mn-based sodium-ion battery cathodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125495</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125495</guid>
+<pubDate>Wed, 04 Nov 2026 01:01:46 GMT</pubDate>
+<description>تبدیل قلیای باقی‌مانده و استخراج Na+ از نزدیک سطح، کاتد O3-type بر پایه Ni-Mn را قادر به کارکرد در ولتاژ بالا در باتری یون سدیم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · O3-type cathode · Ni-Mn oxide · residual alkali conversion · near-surface Na+ extraction</description>
+<category>sodium-ion battery</category>
+<category>O3-type cathode</category>
+<category>Ni-Mn oxide</category>
+<category>residual alkali conversion</category>
+<category>near-surface Na+ extraction</category>
+</item>
+<item>
+<title>In-situ construction of Ce-Doped ZnBi layered double hydroxide/ZnO heterostructure coating for long-life aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125442</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125442</guid>
+<pubDate>Wed, 04 Nov 2026 01:01:42 GMT</pubDate>
+<description>پوشش ناهم‌ساختار Ce-doped ZnBi LDH/ZnO به‌صورت درجا ساخته شد و عمر چرخه‌ای طولانی برای باتری آبی یون روی فراهم کرد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · ZnBi layered double hydroxide · Ce doping · heterostructure coating · long cycle life</description>
+<category>aqueous zinc-ion battery</category>
+<category>ZnBi layered double hydroxide</category>
+<category>Ce doping</category>
+<category>heterostructure coating</category>
+<category>long cycle life</category>
+</item>
 <item>
 <title>An Aqueous Phase Transition Electrolyte Retaining High Ionic Conductivity after Solidification for Low-Temperature Zinc–Iodine Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c15158</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>sulfide solid electrolyte</category>
 <category>low stack pressure</category>
 <category>recyclable cathode</category>
-</item>
-<item>
-<title>Realizing Reversible Photo‐Charging via Stacked 1T/2H MoS 2 Bifunctional Cathodes for Photo‐Rechargeable Batteries</title>
-<link>https://doi.org/10.1002/adma.75600</link>
-<guid isPermaLink="false">10.1002/adma.75600</guid>
-<pubDate>Mon, 02 Nov 2026 13:02:09 GMT</pubDate>
-<description>کاتد دوفانکسیونال MoS2 با فازهای 1T/2H و NiO امکان شارژ نوری برگشت‌پذیر بیش از ده بار را در باتری Zn فراهم کرده و ظرفیت ویژه 110.55 mAh g−1 را نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a stacked 1T/2H MoS₂ bifunctional cathode with NiO interface engineering, enabling genuine, reversible light-only photo-charging of Zn²⁺ batteries for over ten cycles—unlike prior pseudo photo-charging. Significance: 100% photo-charging capacity ratio (110.55 mAh g⁻¹) under 2 h illumination and a practical energy harvest-conversion-storage mini-system for portable electronics.&lt;br&gt;🏷 photo-rechargeable battery · MoS2 cathode · 1T/2H phase · zinc-ion battery · photo-charging</description>
-<category>photo-rechargeable battery</category>
-<category>MoS2 cathode</category>
-<category>1T/2H phase</category>
-<category>zinc-ion battery</category>
-<category>photo-charging</category>
-</item>
-<item>
-<title>Thermal Safety Frontiers in Electrochemical Energy Storage: Thermal Runaway Mechanisms, Intelligent Sensing, and Multiscale Suppression Strategies</title>
-<link>https://doi.org/10.1007/s40820-026-02340-3</link>
-<guid isPermaLink="false">10.1007/s40820-026-02340-3</guid>
-<pubDate>Mon, 02 Nov 2026 12:01:44 GMT</pubDate>
-<description>این مرور سازوکارهای فرار حرارتی باتری لیتیوم-یون، حس‌گری هوشمند و راهبردهای چندمقیاسی سرکوب را برای رفع تنش بین انرژی و ایمنی بررسی می‌کند.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The review innovatively establishes a comprehensive framework spanning microscopic mechanisms to macroscopic system-level protection for lithium-ion battery thermal safety. It systematically integrates thermal runaway mechanisms, data-driven prediction, intelligent sensing-identification-warning systems, active cell-level protection, and system-level thermal management, providing theoretical insights and technological pathways to resolve the energy-safety trade-off for next-generation high-energy-density storage.&lt;br&gt;🏷 lithium-ion battery · thermal runaway · thermal safety · early warning sensing · thermal management</description>
-<category>lithium-ion battery</category>
-<category>thermal runaway</category>
-<category>thermal safety</category>
-<category>early warning sensing</category>
-<category>thermal management</category>
-</item>
-<item>
-<title>Stable anode-free sodium batteries enabled by controlled oligomerization</title>
-<link>https://doi.org/10.1038/s41560-026-02154-y</link>
-<guid isPermaLink="false">10.1038/s41560-026-02154-y</guid>
-<pubDate>Mon, 02 Nov 2026 11:01:47 GMT</pubDate>
-<description>این پژوهش با اولیگومریزاسیون کنترل‌شده الکترولیت، باتری‌های سدیمی بدون آند با پایداری بالا را ممکن می‌سازد.&lt;br&gt;Nature Energy | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using 1,3-dioxane to weakly coordinate Na+ and undergo controlled oligomerization, forming a thin robust SEI that suppresses electrolyte decomposition. This minimizes irreversible sodium loss, enabling 300-mAh anode-free sodium pouch cells with ~80% capacity retention over 1,400 cycles, 3 C rates, −40 °C operation, and ~98% efficiency—significantly advancing practical anode-free sodium battery lifetime.&lt;br&gt;🏷 anode-free sodium battery · oligomerization · sodium metal · solid electrolyte interphase · electrolyte design</description>
-<category>anode-free sodium battery</category>
-<category>oligomerization</category>
-<category>sodium metal</category>
-<category>solid electrolyte interphase</category>
-<category>electrolyte design</category>
 </item>
 </channel>
 </rss>
