@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 21:04:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 22:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering a borate-rich interphase for highly stable all-solid-state sodium batteries</title>
+<link>https://doi.org/10.1016/j.joule.2026.102718</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102718</guid>
+<pubDate>Thu, 05 Nov 2026 22:01:22 GMT</pubDate>
+<description>این مقاله با مهندسی یک لایه میانی غنی از بورات، پایداری باتری‌های سدیم تمام‌جامد را بهبود می‌دهد.&lt;br&gt;Joule | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 all-solid-state sodium battery · borate-rich interphase · solid electrolyte · interface engineering · stability</description>
+<category>all-solid-state sodium battery</category>
+<category>borate-rich interphase</category>
+<category>solid electrolyte</category>
+<category>interface engineering</category>
+<category>stability</category>
+</item>
 <item>
 <title>Design and performance analysis of a structurally integrated thermoelectric–heat pipe hybrid battery thermal management system</title>
 <link>https://doi.org/10.1016/j.est.2026.125427</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pha
 <category>SEI</category>
 <category>mesoporous carbon</category>
 <category>initial Coulombic efficiency</category>
-</item>
-<item>
-<title>Direct Measurement of Scale-Dependent Ion Transport in Individual Solid-Electrolyte Particles</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112580</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112580</guid>
-<pubDate>Tue, 03 Nov 2026 23:02:56 GMT</pubDate>
-<description>انتقال یون وابسته به مقیاس در ذرات منفرد الکترولیت جامد به‌طور مستقیم اندازه‌گیری می‌شود.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 ion transport · solid electrolyte · single particle · scale-dependent · direct measurement</description>
-<category>ion transport</category>
-<category>solid electrolyte</category>
-<category>single particle</category>
-<category>scale-dependent</category>
-<category>direct measurement</category>
 </item>
 </channel>
 </rss>
