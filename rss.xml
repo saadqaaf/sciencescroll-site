@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 08:02:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 09:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High-Robust, Conformally Printed Silver Circuits on Composite Structures via Capillary-Infiltration Interlocking</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114356</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114356</guid>
+<pubDate>Thu, 05 Nov 2026 09:01:30 GMT</pubDate>
+<description>مدارهای نقره‌ای چاپ‌شده به‌صورت هم‌شکل روی ساختارهای کامپوزیتی از طریق قفل‌شدگی نفوذ مویینگی، استحکام و چسبندگی بالایی ارائه می‌دهند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 silver circuits · printed electronics · capillary infiltration · interlocking · conformal printing</description>
+<category>silver circuits</category>
+<category>printed electronics</category>
+<category>capillary infiltration</category>
+<category>interlocking</category>
+<category>conformal printing</category>
+</item>
+<item>
+<title>In-Plane Heterostructures Enable Deterministic and Repeated Biomolecular Sensing by Surface-Enhanced Raman Scattering</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04560</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04560</guid>
+<pubDate>Thu, 05 Nov 2026 09:01:26 GMT</pubDate>
+<description>معماری ناهم‌ساختار درون‌صفحه‌ای با SERS و شبیه‌سازی دینامیک مولکولی، انتقال کنترل‌شده و خوانش مکرر تک‌مولکول‌های DNA و پلی‌گلوتامین را ممکن می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 plasmonic nanopore · SERS · in-plane heterostructure · DNA sequencing · molecular dynamics</description>
+<category>plasmonic nanopore</category>
+<category>SERS</category>
+<category>in-plane heterostructure</category>
+<category>DNA sequencing</category>
+<category>molecular dynamics</category>
+</item>
+<item>
+<title>Light-Induced Néel Vector Reversal in 2D van der Waals Antiferromagnets</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04110</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04110</guid>
+<pubDate>Thu, 05 Nov 2026 09:01:23 GMT</pubDate>
+<description>با شبیه‌سازی‌های اول‌اصول و TDDFT بلادرنگ، سازوکاری برای برگشت قطعی بردار نئل در آنتی‌فرومغناطیس‌های دوبعدی van der Waals مانند NiICl و YI2 با پالس‌های لیزری ارائه می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 van der Waals antiferromagnet · Néel vector reversal · spintronics · TDDFT · laser pulses</description>
+<category>van der Waals antiferromagnet</category>
+<category>Néel vector reversal</category>
+<category>spintronics</category>
+<category>TDDFT</category>
+<category>laser pulses</category>
+</item>
+<item>
+<title>Molecular and Nanoscale Control of Exciton Transfer in TADF-Sensitized Fluorescence</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04407</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04407</guid>
+<pubDate>Thu, 05 Nov 2026 09:01:19 GMT</pubDate>
+<description>این مرور، مهندسی انتقال اکسایتون در مقیاس نانو در فلورسانس حساس‌شده با TADF را بررسی می‌کند و بر دینامیک حالت برانگیخته، کنترل فضایی دوپانت و مسیرهای متنوع انتقال انرژی برای OLEDهای باریک‌باند تمرکز دارد.&lt;br&gt;Nano Letters | ⭐ Review&lt;br&gt;🏷 TADF-sensitized fluorescence · exciton transfer · hyperfluorescence · OLED · energy transfer</description>
+<category>TADF-sensitized fluorescence</category>
+<category>exciton transfer</category>
+<category>hyperfluorescence</category>
+<category>OLED</category>
+<category>energy transfer</category>
+</item>
+<item>
+<title>Sequence-Switchable MOF-on-MOF Photonic Crystals for Broadband Visible Structural Color Modulation</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04600</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04600</guid>
+<pubDate>Thu, 05 Nov 2026 09:01:16 GMT</pubDate>
+<description>ساختارهای MOF-on-MOF با ترتیب لایه قابل‌تعویض، رنگ ساختاری مرئی پهن‌باند و پاسخ‌های نوری متمایز به ترکیبات آلی فرار را از طریق کنترل مسیر انتقال مولکولی فراهم می‌کنند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 MOF-on-MOF · photonic crystals · structural color · VOC sensing · Bragg stack</description>
+<category>MOF-on-MOF</category>
+<category>photonic crystals</category>
+<category>structural color</category>
+<category>VOC sensing</category>
+<category>Bragg stack</category>
+</item>
 <item>
 <title>Semi-supervised learning for battery cycle life prediction using a smoothed self-attention mechanism</title>
 <link>https://doi.org/10.1016/j.est.2026.125312</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 biomolecular condensate �
 <category>magnesium hydrolysis</category>
 <category>hydrogen production</category>
 <category>interfacial electron transfer</category>
-</item>
-<item>
-<title>Proton sponge-modified graphene oxide membranes as hydroxide ion conductors for catalytic hydroxylation and water vapor electrolysis</title>
-<link>https://doi.org/10.1039/d6ta04822f</link>
-<guid isPermaLink="false">10.1039/d6ta04822f</guid>
-<pubDate>Thu, 05 Nov 2026 00:01:50 GMT</pubDate>
-<description>غشاهای اکسید گرافن اصلاح‌شده با پروتون اسفنج رسانش یون هیدروکسید را ممکن کرده و برای هیدروکسیل‌دار کردن کاتالیزی و الکترولیز بخار آب به کار می‌روند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 graphene oxide membrane · hydroxide conduction · proton sponge · water electrolysis · catalytic hydroxylation</description>
-<category>graphene oxide membrane</category>
-<category>hydroxide conduction</category>
-<category>proton sponge</category>
-<category>water electrolysis</category>
-<category>catalytic hydroxylation</category>
-</item>
-<item>
-<title>Sustainable synthesis of graphene/Mn3O4 nanocomposites by direct reuse of Hummers-derived manganese residues for aqueous sodiumion energy storage</title>
-<link>https://doi.org/10.1039/d6ta06567h</link>
-<guid isPermaLink="false">10.1039/d6ta06567h</guid>
-<pubDate>Thu, 05 Nov 2026 00:01:47 GMT</pubDate>
-<description>نانوکامپوزیت rGO/Mn3O4 با استفاده مجدد از بقایای منگنز روش Hummers ساخته و به‌عنوان ماده ذخیره‌سازی سدیم‌یون آبی ارزیابی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in directly reusing Hummers-derived manganese residues to synthesize rGO/Mn3O4 nanocomposites, avoiding waste and extra precursors. This sustainable route is significant because it valorizes hazardous byproducts, reduces environmental impact, and yields functional nanocomposites for aqueous sodium-ion energy storage, offering a greener, cost-effective alternative for electrode material production.&lt;br&gt;🏷 graphene-Mn3O4 · sodium-ion battery · Hummers residues · nanocomposite anode · aqueous energy storage</description>
-<category>graphene-Mn3O4</category>
-<category>sodium-ion battery</category>
-<category>Hummers residues</category>
-<category>nanocomposite anode</category>
-<category>aqueous energy storage</category>
-</item>
-<item>
-<title>Exploring the Phase Diagram of FAPbI 3 Using In-Situ Reflectance Spectroscopy</title>
-<link>https://doi.org/10.1039/d6ta08191f</link>
-<guid isPermaLink="false">10.1039/d6ta08191f</guid>
-<pubDate>Thu, 05 Nov 2026 00:01:42 GMT</pubDate>
-<description>با طیف‌سنجی بازتابشی درجا، نمودار فازی FAPbI3 و تبدیل فاز آلفا به فاز شش‌گوش دلتا در شرایط محیطی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 FAPbI3 · perovskite phase diagram · in-situ spectroscopy · reflectance spectroscopy · delta phase</description>
-<category>FAPbI3</category>
-<category>perovskite phase diagram</category>
-<category>in-situ spectroscopy</category>
-<category>reflectance spectroscopy</category>
-<category>delta phase</category>
-</item>
-<item>
-<title>Dynamic CuCrP2S6-supported single atoms for hydrogen and oxygen electrocatalysis beyond conventional scaling relations†</title>
-<link>https://doi.org/10.1039/d6ta06231h</link>
-<guid isPermaLink="false">10.1039/d6ta06231h</guid>
-<pubDate>Thu, 05 Nov 2026 00:01:38 GMT</pubDate>
-<description>با DFT و مدل‌سازی توصیفگرمحور، نقش تک‌اتم‌های فلزی روی CuCrP2S6 در الکتروکاتالیز هیدروژن و اکسیژن و عبور از روابط مقیاس‌بندی خطی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CuCrP2S6 · single-atom catalyst · oxygen electrocatalysis · hydrogen electrocatalysis · scaling relations</description>
-<category>CuCrP2S6</category>
-<category>single-atom catalyst</category>
-<category>oxygen electrocatalysis</category>
-<category>hydrogen electrocatalysis</category>
-<category>scaling relations</category>
-</item>
-<item>
-<title>CRISPR mutagenesis of the MYC locus reveals a druggable ultraconserved RNA element</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.002</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.002</guid>
-<pubDate>Wed, 04 Nov 2026 23:01:36 GMT</pubDate>
-<description>با جهش‌زایی CRISPR در لوکوس MYC، یک عنصر RNA فوق‌حفاظت‌شده و قابل هدف‌گیری دارویی شناسایی شد که تنظیم بیان MYC را کنترل می‌کند.&lt;br&gt;Cell | 🔬 Research Article&lt;br&gt;🏷 CRISPR mutagenesis · MYC locus · ultraconserved RNA element · druggable target · gene regulation</description>
-<category>CRISPR mutagenesis</category>
-<category>MYC locus</category>
-<category>ultraconserved RNA element</category>
-<category>druggable target</category>
-<category>gene regulation</category>
 </item>
 </channel>
 </rss>
