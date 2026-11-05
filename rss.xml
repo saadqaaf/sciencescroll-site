@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 22:01:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 23:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring Aggregation Pathways to Narrow Excited-State Energetic Disorder in Ternary Organic Solar Cells</title>
+<link>https://doi.org/10.1039/d6ee06636d</link>
+<guid isPermaLink="false">10.1039/d6ee06636d</guid>
+<pubDate>Thu, 05 Nov 2026 23:01:00 GMT</pubDate>
+<description>این مقاله مسیرهای تجمع پذیرنده را برای کاهش بی‌نظمی انرژی حالت برانگیخته در سلول‌های خورشیدی آلی سه‌جزئی تنظیم می‌کند و نقش دینامیک تجمع را در بهبود عملکرد نشان می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 ternary organic solar cells · acceptor aggregation · energetic disorder · excited-state dynamics · bulk morphology</description>
+<category>ternary organic solar cells</category>
+<category>acceptor aggregation</category>
+<category>energetic disorder</category>
+<category>excited-state dynamics</category>
+<category>bulk morphology</category>
+</item>
 <item>
 <title>Nondisruptive 3D profiling of combinations of epigenetic marks in single cells</title>
 <link>https://doi.org/10.1038/s41592-026-03253-0</link>
@@ -1194,18 +1206,6 @@
 <category>magnetic nanoparticles</category>
 <category>biocatalysis</category>
 <category>amine oxidase</category>
-</item>
-<item>
-<title>Surface‐State‐Driven Selectivity of Electrocatalytic Glucose Oxidation: Metallic Au, Au─OH, and CuO</title>
-<link>https://doi.org/10.1002/advs.78627</link>
-<guid isPermaLink="false">10.1002/advs.78627</guid>
-<pubDate>Thu, 05 Nov 2026 18:01:35 GMT</pubDate>
-<description>مکانیسم اکسیداسیون الکتروکاتالیستی گلوکز روی Au و CuO بررسی شد و حالت سطحی، باز شدن حلقه و شکست پیوند C-C را تعیین می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 glucose oxidation · Au catalyst · CuO · product selectivity · C-C cleavage</description>
-<category>glucose oxidation</category>
-<category>Au catalyst</category>
-<category>CuO</category>
-<category>product selectivity</category>
-<category>C-C cleavage</category>
 </item>
 </channel>
 </rss>
