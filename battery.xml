@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 07:02:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 08:02:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Semi-supervised learning for battery cycle life prediction using a smoothed self-attention mechanism</title>
+<link>https://doi.org/10.1016/j.est.2026.125312</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125312</guid>
+<pubDate>Thu, 05 Nov 2026 08:01:57 GMT</pubDate>
+<description>این مقاله روشی نیمه‌نظارتی با مکانیزم خودتوجهی هموارشده برای پیش‌بینی عمر چرخه‌ای باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery cycle life · semi-supervised learning · self-attention · life prediction · machine learning</description>
+<category>battery cycle life</category>
+<category>semi-supervised learning</category>
+<category>self-attention</category>
+<category>life prediction</category>
+<category>machine learning</category>
+</item>
+<item>
+<title>Surface-modulated non-stoichiometric multiphase Cu–Mn–Ni oxides for enhanced diffusion-controlled charge storage in asymmetric supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125421</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125421</guid>
+<pubDate>Thu, 05 Nov 2026 08:01:53 GMT</pubDate>
+<description>این مقاله اکسیدهای چندفازی غیراستوکیومتری Cu–Mn–Ni را با اصلاح سطح برای ذخیره‌سازی بار کنترل‌شده با نفوذ در ابرخازن‌های نامتقارن بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Cu-Mn-Ni oxide · asymmetric supercapacitor · diffusion-controlled storage · surface modulation · non-stoichiometric oxide</description>
+<category>Cu-Mn-Ni oxide</category>
+<category>asymmetric supercapacitor</category>
+<category>diffusion-controlled storage</category>
+<category>surface modulation</category>
+<category>non-stoichiometric oxide</category>
+</item>
+<item>
+<title>Reveal the influence mechanism of current activation on the structure, interface and electrochemical performance of cobalt-free Li-rich Mn-based cathode for halide-based all-solid-state batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125507</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125507</guid>
+<pubDate>Thu, 05 Nov 2026 08:01:45 GMT</pubDate>
+<description>این مقاله سازوکار اثر فعال‌سازی جریانی بر ساختار، فصل مشترک و عملکرد الکتروشیمیایی کاتد غنی از Li و Mn بدون کبالت را در باتری‌های تمام‌جامد هالیدی آشکار می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cobalt-free cathode · Li-rich Mn-based · all-solid-state battery · halide electrolyte · current activation</description>
+<category>cobalt-free cathode</category>
+<category>Li-rich Mn-based</category>
+<category>all-solid-state battery</category>
+<category>halide electrolyte</category>
+<category>current activation</category>
+</item>
+<item>
+<title>Next-generation bio-energy storage: Design principles of engineered peptide and protein-based electrolytes in batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125368</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125368</guid>
+<pubDate>Thu, 05 Nov 2026 08:01:41 GMT</pubDate>
+<description>این مقاله اصول طراحی الکترولیت‌های مهندسی‌شده بر پایه پپتید و پروتئین را برای ذخیره‌سازی انرژی زیستی نسل بعدی در باتری‌ها مرور می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 peptide electrolyte · protein electrolyte · bio-energy storage · battery design · ion transport</description>
+<category>peptide electrolyte</category>
+<category>protein electrolyte</category>
+<category>bio-energy storage</category>
+<category>battery design</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>A review of carbon-based electrode materials for asymmetric supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125396</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125396</guid>
+<pubDate>Thu, 05 Nov 2026 08:01:37 GMT</pubDate>
+<description>این مرور، مواد الکترودی کربن‌پایه را برای ابرخازن‌های نامتقارن بررسی می‌کند و راهبردهای طراحی و عملکرد آن‌ها را جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 asymmetric supercapacitor · carbon electrode · energy storage · electrode materials · capacitance</description>
+<category>asymmetric supercapacitor</category>
+<category>carbon electrode</category>
+<category>energy storage</category>
+<category>electrode materials</category>
+<category>capacitance</category>
+</item>
 <item>
 <title>Formation‐Stage Interfacial Regulation of δ‐MnO 2 Enables Stable and Reversible Aqueous Zn‐Ion Storage</title>
 <link>https://doi.org/10.1002/advs.78465</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>free-standing electrolyte</category>
 <category>high voltage</category>
 <category>NCM811</category>
-</item>
-<item>
-<title>A Thermodynamic‐Decoupling‐Empowered Defect Engineering Guide: Uncovering the Substantial Yet Overlooked Stress Role in Electrode Potential Regulation</title>
-<link>https://doi.org/10.1002/adfm.79431</link>
-<guid isPermaLink="false">10.1002/adfm.79431</guid>
-<pubDate>Tue, 03 Nov 2026 12:02:03 GMT</pubDate>
-<description>با جداکردن ترمودینامیکی انرژی تشکیل نقص، نقش تنش شبکه‌ای در تنظیم پتانسیل الکترود نشان داده و دوپینگ La-Zr پتانسیل لیتیم‌شدن Li4Ti5O12 را از 1.55 به 1.00 ولت کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in thermodynamically decoupling defect formation energy to extract a stress dimension alongside concentration, enabling dual-descriptor screening. Significance: this overcomes defect-saturation bottlenecks, showing confined stress lowers Li₄Ti₅O₁₂ potential from 1.55 to 1.00 V via optimal La-Zr doping while preserving zero-strain, and guides stable expansive silicon electrodes—expanding defect-chemistry boundaries.&lt;br&gt;🏷 defect engineering · lattice stress · electrode potential · Li4Ti5O12 · dual doping</description>
-<category>defect engineering</category>
-<category>lattice stress</category>
-<category>electrode potential</category>
-<category>Li4Ti5O12</category>
-<category>dual doping</category>
-</item>
-<item>
-<title>Formulating the Dual‐Function Separator‐Enabled Homogenizing Ion Flux in Nonflammable Phosphate toward High Stable Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79461</link>
-<guid isPermaLink="false">10.1002/adfm.79461</guid>
-<pubDate>Tue, 03 Nov 2026 12:01:54 GMT</pubDate>
-<description>این پژوهش با جداکننده دوکاره، شار یون همگن در الکترولیت فسفات غیرقابل اشتعال و پایداری چرخه‌ای باتری لیتیم-فلز را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dual-function separators that enable fast ion dissociation and homogeneous ion flux in nonflammable phosphate electrolytes, suppressing concentration polarization and parasitic reactions at both electrodes. Significance: Li||Li cells cycle over 1000 h at 2 mA cm⁻², and Li||NCM811 retains &amp;gt;90% capacity after 300 cycles at 1C, offering a promising separator-engineering route for safe, stable lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · nonflammable phosphate · dual-function separator · ion flux · NCM811 cathode</description>
-<category>lithium metal battery</category>
-<category>nonflammable phosphate</category>
-<category>dual-function separator</category>
-<category>ion flux</category>
-<category>NCM811 cathode</category>
-</item>
-<item>
-<title>Liquid Metal Spheres Achieving Stable Residual SEI for Dendrite‐Free Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79445</link>
-<guid isPermaLink="false">10.1002/adfm.79445</guid>
-<pubDate>Tue, 03 Nov 2026 12:01:49 GMT</pubDate>
-<description>این پژوهش با لایه GaIn@C کروی، SEI باقی‌مانده پایدار و رسوب لیتیم بدون دندریت با عمر 3500 ساعت ایجاد می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spherical GaIn@C liquid-metal nanoparticle current collector that suppresses the tip effect and stabilizes a residual SEI, enabling dendrite-free lithium deposition. Significance: 3500 h cycling at 5 mAh cm⁻², 99.9% retention over 100 cycles in anode-free cells, and pouch energy density above 410 Wh kg⁻¹, offering a general strategy for stable-SEI current collectors in high-energy lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · liquid metal · residual SEI · dendrite-free deposition · GaIn nanoparticles</description>
-<category>lithium metal battery</category>
-<category>liquid metal</category>
-<category>residual SEI</category>
-<category>dendrite-free deposition</category>
-<category>GaIn nanoparticles</category>
-</item>
-<item>
-<title>Cross‐Component Coupling in Rechargeable Zinc‐Air Batteries: From Reaction Competition to Device Reversibility</title>
-<link>https://doi.org/10.1002/adfm.79177</link>
-<guid isPermaLink="false">10.1002/adfm.79177</guid>
-<pubDate>Tue, 03 Nov 2026 12:01:44 GMT</pubDate>
-<description>این مرور چارچوبی برای پیوند رقابت واکنش‌ها با برگشت‌پذیری دستگاه در باتری‌های روی-هوا ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review&amp;#x27;s novelty lies in an operating-state-resolved framework linking reaction-pathway competition across discharge, charge, and rest to shared-electrolyte transport, cross-component coupling, and device reversibility, plus an evidence hierarchy separating operando observations from inference. Its significance is enabling rigorous failure attribution, fair comparison of cycling claims within declared load and inventory boundaries, and reaction-selectivity-oriented co-design of air electrode, electrolyte, and Zn interface.&lt;br&gt;🏷 zinc-air battery · cross-component coupling · reaction competition · device reversibility · operando evidence</description>
-<category>zinc-air battery</category>
-<category>cross-component coupling</category>
-<category>reaction competition</category>
-<category>device reversibility</category>
-<category>operando evidence</category>
-</item>
-<item>
-<title>Fluorine‐Rich Lewis Acidic MOF as Ion Modulator to Enable Dendrite‐Free Li Plating for Ah‐Level Li‐Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79452</link>
-<guid isPermaLink="false">10.1002/adfm.79452</guid>
-<pubDate>Tue, 03 Nov 2026 12:01:39 GMT</pubDate>
-<description>این پژوهش با MOF اسید لوئیس غنی از فلوئور به‌عنوان تنظیم‌کننده یون، آبکاری لیتیم بدون دندریت و باتری کیسه‌ای 300 Wh/kg را محقق می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a fluorine-rich Lewis acidic MOF as a bifunctional ion modulator—capturing anions and accelerating cations—to suppress concentration polarization and dendrite growth. Its significance is enabling dendrite-free Li plating, 2000 h symmetric-cell cycling, 700-cycle NCM811 batteries, and 300 Wh kg⁻¹ pouch cells, plus a 600 mAh multilayer FeF₃ conversion pouch cell.&lt;br&gt;🏷 lithium metal battery · Lewis acidic MOF · dendrite-free plating · ion modulator · NCM811 cathode</description>
-<category>lithium metal battery</category>
-<category>Lewis acidic MOF</category>
-<category>dendrite-free plating</category>
-<category>ion modulator</category>
-<category>NCM811 cathode</category>
 </item>
 </channel>
 </rss>
