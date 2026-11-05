@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 12:01:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 13:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fast Dynamic Re‐Equilibration of Chloroaluminate Speciation Enables a Stable Electrode‐Electrolyte Interface in Aluminum Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71750</link>
+<guid isPermaLink="false">10.1002/aenm.71750</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:35 GMT</pubDate>
+<description>افزودن دیکلرواتان به الکترولیت AlCl3/EMIC تعادل گونه‌های کلروآلومینات را تسریع کرده و پایداری فصل مشترک الکترود-الکترولیت و آند آلومینیم را در باتری یون آلومینیم بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using a low-polarity, small-molecule moderator (dichloroethane) to reconfigure the interionic interaction network in AlCl₃/EMIC electrolyte, accelerating chloroaluminate speciation re-equilibration and suppressing charge-carrier depletion. This enables reversible AlCl₄⁻/Al₂Cl₇⁻ conversion, dendrite suppression, and unprecedented Al anode stability, boosting graphite-cathode capacity 120.7% (92→203 mAh g⁻¹) over 7000 cycles—establishing a dynamic speciation regulation principle for long-life aluminum-ion batteries.&lt;br&gt;🏷 aluminum-ion battery · chloroaluminate speciation · ionic liquid electrolyte · dichloroethane moderator · Al anode stability</description>
+<category>aluminum-ion battery</category>
+<category>chloroaluminate speciation</category>
+<category>ionic liquid electrolyte</category>
+<category>dichloroethane moderator</category>
+<category>Al anode stability</category>
+</item>
+<item>
+<title>Non‐Stoichiometric Molybdenum Oxides Enable Phase‐Stable Proton Storage</title>
+<link>https://doi.org/10.1002/aenm.71805</link>
+<guid isPermaLink="false">10.1002/aenm.71805</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:29 GMT</pubDate>
+<description>اکسید مولیبدن غیراستوکیومتری Mo5O14 با ساختار تونلی، درج برگشت‌پذیر H3O+ بدون تغییر فاز را ممکن کرده و ظرفیت بالا و پایداری بیش از ۳۱۰ هزار چرخه در باتری پروتونی آبی ارائه می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Non-stoichiometric tunnel-structured Mo5O14 enables reversible H3O+ intercalation without phase transition or lattice strain, overcoming proton-induced instability in aqueous proton batteries. It delivers 271 mAh g−1, ultrahigh-rate capability (300 A g−1), and 310,000-cycle stability, plus a full cell with 73.3 Wh kg−1 and flexible micro-cells, establishing phase-stable non-stoichiometric oxides as a design strategy for durable proton storage.&lt;br&gt;🏷 proton battery · molybdenum oxide · tunnel structure · H3O+ intercalation · phase stability</description>
+<category>proton battery</category>
+<category>molybdenum oxide</category>
+<category>tunnel structure</category>
+<category>H3O+ intercalation</category>
+<category>phase stability</category>
+</item>
+<item>
+<title>Engineering Energy‐Storage Interfaces With Atomic and Molecular Layer Deposition: From Surface Chemistry to Process Design</title>
+<link>https://doi.org/10.1002/aenm.71803</link>
+<guid isPermaLink="false">10.1002/aenm.71803</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:23 GMT</pubDate>
+<description>این مرور چارچوب شیمی-فرآیند-ساختار-عملکرد ALD و MLD را برای مهندسی دقیق فصل مشترک الکترود، الکترولیت و جداکننده در باتری‌های لیتیومی و فراتر از لیتیوم بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This Review uniquely bridges ALD/MLD surface chemistry with process design for energy-storage interfaces, addressing complex real-world substrates beyond ideal oxides. Its chemistry–process–structure–function framework links precursor pathways and nucleation to ionic transport, kinetics, and mechanical stability across Li and beyond-Li systems, while assessing scalability and validation. Six design rules presented as a decision flow translate mechanistic insight into practical interface engineering guidance.&lt;br&gt;🏷 atomic layer deposition · molecular layer deposition · battery interfaces · solid electrolyte · surface chemistry</description>
+<category>atomic layer deposition</category>
+<category>molecular layer deposition</category>
+<category>battery interfaces</category>
+<category>solid electrolyte</category>
+<category>surface chemistry</category>
+</item>
 <item>
 <title>Non‐Selective Suppression of Cation and Anion Crosstalk from an Anode Perspective</title>
 <link>https://doi.org/10.1002/adma.75632</link>
@@ -1171,44 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pha
 <category>self-powered patch</category>
 <category>micro-supercapacitor</category>
 <category>triboelectric nanogenerator</category>
-</item>
-<item>
-<title>Na 2 S Cathodes for Safer and High‐Energy Sodium‐Ion Storage</title>
-<link>https://doi.org/10.1002/smll.76523</link>
-<guid isPermaLink="false">10.1002/smll.76523</guid>
-<pubDate>Tue, 03 Nov 2026 14:01:53 GMT</pubDate>
-<description>این مرور کاتدهای Na2S را برای باتری‌های سدیم-گوگرد دمای اتاق بدون سدیم فلزی بررسی و راهکارهای سنتز، تنظیم ساختار و بهینه‌سازی کاتالیستی را برای غلبه بر چالش‌ها ارائه می‌کند.&lt;br&gt;Small | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review is the first to comprehensively compare three Na₂S-based sodium-free RT-Na/S full-cell configurations, systematically detailing Na₂S working mechanisms and inherent merits/demerits. It consolidates performance-enhancement strategies across synthesis, structural regulation, and catalytic optimization, offering a forward-looking roadmap for developing superior Na₂S cathodes. This guides safer, high-energy sodium-free batteries, addressing the safety and activation-barrier bottlenecks hindering practical RT-Na/S deployment.&lt;br&gt;🏷 Na2S cathode · sodium-sulfur battery · sodium-free anode · polysulfide conversion · catalytic optimization</description>
-<category>Na2S cathode</category>
-<category>sodium-sulfur battery</category>
-<category>sodium-free anode</category>
-<category>polysulfide conversion</category>
-<category>catalytic optimization</category>
-</item>
-<item>
-<title>Interfacial Anion Activation for Durable Aqueous Zn-Ion Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c17339</link>
-<guid isPermaLink="false">10.1021/jacs.6c17339</guid>
-<pubDate>Tue, 03 Nov 2026 13:05:12 GMT</pubDate>
-<description>افزودنی آلیل‌اوره با ایجاد ناحیه غنی از آنیون و کم‌آب، SEI هیبریدی غنی از ZnS روی آند Zn می‌سازد و پایداری باتری آبی Zn-ion را بهبود می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using an allylurea additive to create an anion-rich, water-deficient interfacial region, enabling electric-field-driven anion reduction and allyl cation-mediated conversion of sulfate into ZnS. This forms an organic-inorganic hybrid SEI. Its significance is markedly enhanced interfacial stability, yielding over 2500 h Zn||Zn cycling at 5 mA cm–2 and over 10,000 cycles in full cells.&lt;br&gt;🏷 aqueous Zn-ion battery · solid electrolyte interphase · allylurea additive · ZnS interphase · anion activation</description>
-<category>aqueous Zn-ion battery</category>
-<category>solid electrolyte interphase</category>
-<category>allylurea additive</category>
-<category>ZnS interphase</category>
-<category>anion activation</category>
-</item>
-<item>
-<title>Harnessing Asymmetric Electrode Dissolution for Highly Reversible Fluorination of Trivalent Metals to Enable Long-Life F-Ion Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c18595</link>
-<guid isPermaLink="false">10.1021/jacs.6c18595</guid>
-<pubDate>Tue, 03 Nov 2026 13:04:51 GMT</pubDate>
-<description>با تنظیم انحلال نامتقارن الکترود و حلال کم‌کوئوردینه، فلوریناسیون برگشت‌پذیر فلزات سه‌ظرفیتی در باتری یون فلوراید و عمر چرخه‌ای طولانی فراهم می‌شود.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining multiscale solvent screening with asymmetric electrode dissolution regulation: a solid-state migration-fluorination mechanism at the FeF3 cathode minimizes dissolution, while Al3+ complexation-dissolution-redeposition converts insulating AlF3 into soluble complexes, enabling reversible Al anodes for the first time. Significance: low-polarization, highly reversible F-ion batteries with 2000+ cycle life.&lt;br&gt;🏷 fluoride-ion battery · asymmetric dissolution · trivalent metal · weakly coordinating solvent · FeF3 cathode</description>
-<category>fluoride-ion battery</category>
-<category>asymmetric dissolution</category>
-<category>trivalent metal</category>
-<category>weakly coordinating solvent</category>
-<category>FeF3 cathode</category>
 </item>
 </channel>
 </rss>

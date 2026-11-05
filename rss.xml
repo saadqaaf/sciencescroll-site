@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 12:01:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 13:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fractal basin geometry and the limits to predictability and reproducibility in deep learning</title>
+<link>https://doi.org/10.1038/s42256-026-01336-3</link>
+<guid isPermaLink="false">10.1038/s42256-026-01336-3</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:38 GMT</pubDate>
+<description>هندسه حوضه آشفته (riddled basin) به عنوان سازوکار دینامیکی یکپارچه برای غیرقابل‌پیش‌بینی و غیرقابل‌تکرار بودن نتایج آموزش شبکه‌های عصبی عمیق معرفی و با نمای عدم‌قطعیت نزدیک صفر تحلیل می‌شود.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 riddled basins · deep learning reproducibility · fractal geometry · uncertainty exponent · initialization sensitivity</description>
+<category>riddled basins</category>
+<category>deep learning reproducibility</category>
+<category>fractal geometry</category>
+<category>uncertainty exponent</category>
+<category>initialization sensitivity</category>
+</item>
+<item>
+<title>Fast Dynamic Re‐Equilibration of Chloroaluminate Speciation Enables a Stable Electrode‐Electrolyte Interface in Aluminum Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71750</link>
+<guid isPermaLink="false">10.1002/aenm.71750</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:35 GMT</pubDate>
+<description>افزودن دیکلرواتان به الکترولیت AlCl3/EMIC تعادل گونه‌های کلروآلومینات را تسریع کرده و پایداری فصل مشترک الکترود-الکترولیت و آند آلومینیم را در باتری یون آلومینیم بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using a low-polarity, small-molecule moderator (dichloroethane) to reconfigure the interionic interaction network in AlCl₃/EMIC electrolyte, accelerating chloroaluminate speciation re-equilibration and suppressing charge-carrier depletion. This enables reversible AlCl₄⁻/Al₂Cl₇⁻ conversion, dendrite suppression, and unprecedented Al anode stability, boosting graphite-cathode capacity 120.7% (92→203 mAh g⁻¹) over 7000 cycles—establishing a dynamic speciation regulation principle for long-life aluminum-ion batteries.&lt;br&gt;🏷 aluminum-ion battery · chloroaluminate speciation · ionic liquid electrolyte · dichloroethane moderator · Al anode stability</description>
+<category>aluminum-ion battery</category>
+<category>chloroaluminate speciation</category>
+<category>ionic liquid electrolyte</category>
+<category>dichloroethane moderator</category>
+<category>Al anode stability</category>
+</item>
+<item>
+<title>Non‐Stoichiometric Molybdenum Oxides Enable Phase‐Stable Proton Storage</title>
+<link>https://doi.org/10.1002/aenm.71805</link>
+<guid isPermaLink="false">10.1002/aenm.71805</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:29 GMT</pubDate>
+<description>اکسید مولیبدن غیراستوکیومتری Mo5O14 با ساختار تونلی، درج برگشت‌پذیر H3O+ بدون تغییر فاز را ممکن کرده و ظرفیت بالا و پایداری بیش از ۳۱۰ هزار چرخه در باتری پروتونی آبی ارائه می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Non-stoichiometric tunnel-structured Mo5O14 enables reversible H3O+ intercalation without phase transition or lattice strain, overcoming proton-induced instability in aqueous proton batteries. It delivers 271 mAh g−1, ultrahigh-rate capability (300 A g−1), and 310,000-cycle stability, plus a full cell with 73.3 Wh kg−1 and flexible micro-cells, establishing phase-stable non-stoichiometric oxides as a design strategy for durable proton storage.&lt;br&gt;🏷 proton battery · molybdenum oxide · tunnel structure · H3O+ intercalation · phase stability</description>
+<category>proton battery</category>
+<category>molybdenum oxide</category>
+<category>tunnel structure</category>
+<category>H3O+ intercalation</category>
+<category>phase stability</category>
+</item>
+<item>
+<title>Engineering Energy‐Storage Interfaces With Atomic and Molecular Layer Deposition: From Surface Chemistry to Process Design</title>
+<link>https://doi.org/10.1002/aenm.71803</link>
+<guid isPermaLink="false">10.1002/aenm.71803</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:23 GMT</pubDate>
+<description>این مرور چارچوب شیمی-فرآیند-ساختار-عملکرد ALD و MLD را برای مهندسی دقیق فصل مشترک الکترود، الکترولیت و جداکننده در باتری‌های لیتیومی و فراتر از لیتیوم بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This Review uniquely bridges ALD/MLD surface chemistry with process design for energy-storage interfaces, addressing complex real-world substrates beyond ideal oxides. Its chemistry–process–structure–function framework links precursor pathways and nucleation to ionic transport, kinetics, and mechanical stability across Li and beyond-Li systems, while assessing scalability and validation. Six design rules presented as a decision flow translate mechanistic insight into practical interface engineering guidance.&lt;br&gt;🏷 atomic layer deposition · molecular layer deposition · battery interfaces · solid electrolyte · surface chemistry</description>
+<category>atomic layer deposition</category>
+<category>molecular layer deposition</category>
+<category>battery interfaces</category>
+<category>solid electrolyte</category>
+<category>surface chemistry</category>
+</item>
+<item>
+<title>Synergistic Fluoride and Polymer‑Regulated Interfacial Engineering of NiFe‑LDH Anodes for Ampere‑Scale Natural Seawater Electrolysis</title>
+<link>https://doi.org/10.1002/aenm.71792</link>
+<guid isPermaLink="false">10.1002/aenm.71792</guid>
+<pubDate>Thu, 05 Nov 2026 13:01:17 GMT</pubDate>
+<description>آند NiFe-LDH با مدیریت فلوراید، نقص کاتیونی و پوشش پلی(کالماژیت) ساخته شد و در الکترولیز آب دریای طبیعی به مدت ۱۶۵۰ ساعت در چگالی جریان آمپرپیمانه پایدار ماند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 seawater electrolysis · NiFe-LDH · oxygen evolution · chloride corrosion · polymer coating</description>
+<category>seawater electrolysis</category>
+<category>NiFe-LDH</category>
+<category>oxygen evolution</category>
+<category>chloride corrosion</category>
+<category>polymer coating</category>
+</item>
 <item>
 <title>Reversible thermal degradation in organic solar cells governed by triplet exciton dynamics and interfacial energetics</title>
 <link>https://doi.org/10.1016/j.mser.2026.101329</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 biomolecular condensate �
 <category>resonant melting</category>
 <category>quantum simulation</category>
 <category>nonequilibrium dynamics</category>
-</item>
-<item>
-<title>Synergy in viral–bacterial co-infection expedites algal bloom demise</title>
-<link>https://doi.org/10.1038/s41586-026-11243-7</link>
-<guid isPermaLink="false">10.1038/s41586-026-11243-7</guid>
-<pubDate>Thu, 05 Nov 2026 00:03:39 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد هم‌افزایی میان هم‌آلودگی ویروسی و باکتریایی روند فروپاشی شکوفه‌های جلبکی را تسریع می‌کند و برهم‌کنش‌های میکروبی را روشن می‌سازد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 viral-bacterial co-infection · algal bloom · synergy · phytoplankton · microbial ecology</description>
-<category>viral-bacterial co-infection</category>
-<category>algal bloom</category>
-<category>synergy</category>
-<category>phytoplankton</category>
-<category>microbial ecology</category>
-</item>
-<item>
-<title>Aggression experience and observation drive shared behavioural and neural changes</title>
-<link>https://doi.org/10.1038/s41586-026-11217-9</link>
-<guid isPermaLink="false">10.1038/s41586-026-11217-9</guid>
-<pubDate>Thu, 05 Nov 2026 00:03:36 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد تجربه و مشاهده‌ی پرخاشگری تغییرات رفتاری و عصبی مشترکی ایجاد می‌کند و مکانیسم‌های هم‌زمانی در مغز را روشن می‌سازد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 aggression · social behavior · neural plasticity · observation · experience</description>
-<category>aggression</category>
-<category>social behavior</category>
-<category>neural plasticity</category>
-<category>observation</category>
-<category>experience</category>
-</item>
-<item>
-<title>Twist-angle-dependent quantum phase diagrams in moiré bilayer MoTe2</title>
-<link>https://doi.org/10.1038/s41586-026-11274-0</link>
-<guid isPermaLink="false">10.1038/s41586-026-11274-0</guid>
-<pubDate>Thu, 05 Nov 2026 00:03:32 GMT</pubDate>
-<description>این مقاله نمودارهای فاز کوانتومی وابسته به زاویه‌ی پیچش را در دوقلایه‌ی مویره‌ای MoTe2 مشاهده و نقش زاویه را در حالت‌های هم‌بسته نشان می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 moiré bilayer · MoTe2 · twist angle · quantum phase diagram · correlated states</description>
-<category>moiré bilayer</category>
-<category>MoTe2</category>
-<category>twist angle</category>
-<category>quantum phase diagram</category>
-<category>correlated states</category>
-</item>
-<item>
-<title>Comprehensive mapping of essential-gene interactions in M. tuberculosis</title>
-<link>https://doi.org/10.1038/s41586-026-11212-0</link>
-<guid isPermaLink="false">10.1038/s41586-026-11212-0</guid>
-<pubDate>Thu, 05 Nov 2026 00:03:28 GMT</pubDate>
-<description>این پژوهش با پلتفرم CRISPRi دوگانه نقشه‌های جامع برهم‌کنش ژن‌های ضروری M. tuberculosis را ترسیم می‌کند و ارتباطات ژنی و اهداف دارویی جدیدی را آشکار می‌سازد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Mycobacterium tuberculosis · genetic interaction · CRISPR interference · essential genes · drug targets</description>
-<category>Mycobacterium tuberculosis</category>
-<category>genetic interaction</category>
-<category>CRISPR interference</category>
-<category>essential genes</category>
-<category>drug targets</category>
-</item>
-<item>
-<title>An AI-native experimental laboratory for autonomous biomolecular operations</title>
-<link>https://doi.org/10.1038/s41586-026-11228-6</link>
-<guid isPermaLink="false">10.1038/s41586-026-11228-6</guid>
-<pubDate>Thu, 05 Nov 2026 00:03:24 GMT</pubDate>
-<description>این مقاله یک آزمایشگاه خودکار مبتنی بر هوش مصنوعی معرفی می‌کند که عملیات زیست‌مولکولی را به‌صورت خودمختار برنامه‌ریزی و اجرا می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 autonomous laboratory · AI · biomolecular operations · lab automation · experiment planning</description>
-<category>autonomous laboratory</category>
-<category>AI</category>
-<category>biomolecular operations</category>
-<category>lab automation</category>
-<category>experiment planning</category>
 </item>
 </channel>
 </rss>
