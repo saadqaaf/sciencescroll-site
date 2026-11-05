@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 17:04:44 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 18:03:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Liquid Metals for Energy Storage Devices: Progress and Challenges</title>
+<link>https://doi.org/10.1002/smll.76446</link>
+<guid isPermaLink="false">10.1002/smll.76446</guid>
+<pubDate>Thu, 05 Nov 2026 18:03:21 GMT</pubDate>
+<description>این مرور پیشرفت‌های فلزات مایع در ذخیره‌سازی انرژی را از خواص فیزیکوشیمیایی تا مهندسی ساختار و مدل‌سازی چندفیزیکی برای پایدارسازی الکتروشیمیایی بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely integrates liquid metals&amp;#x27; physicochemical properties, structural engineering (porous, patterned, 3D-printed), and multiphysics/DFT/MD modeling to reveal mechanisms of electric-field regulation, ion transport, and dendrite suppression. It bridges fundamental understanding with electrode, electrolyte, and interface applications, offering a roadmap for overcoming stability, compatibility, and scalability challenges in next-generation energy storage.&lt;br&gt;🏷 liquid metals · energy storage · dendrite suppression · DFT modeling · interface engineering</description>
+<category>liquid metals</category>
+<category>energy storage</category>
+<category>dendrite suppression</category>
+<category>DFT modeling</category>
+<category>interface engineering</category>
+</item>
+<item>
+<title>A‐Site Spin‐State Engineering in Antiperovskites for Enhanced Polysulfide Adsorption and Sulfur Redox Catalysis</title>
+<link>https://doi.org/10.1002/smll.76578</link>
+<guid isPermaLink="false">10.1002/smll.76578</guid>
+<pubDate>Thu, 05 Nov 2026 18:02:51 GMT</pubDate>
+<description>مهندسی اسپین جایگاه A در آنتی‌پروسکایت نیتریدی، جذب پلی‌سولفید و کاتالیز ردوکس گوگرد را در باتری Li-S بهبود داد و پایداری چرخه‌ای و ظرفیت سطحی بالا حاصل شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in A-site In doping of antiperovskite nitride to tune Co spin state (low-to-high spin transition), enhancing polysulfide adsorption and catalysis. It also converts 2D Li₂S deposition into mixed 2D/3D growth, improving redox reversibility. Significance: achieves ultralow capacity decay (0.06%/cycle over 600 cycles) and high areal capacity (6.1 mAh cm⁻² at 4.3 mg cm⁻² sulfur loading), advancing practical lithium-sulfur batteries.&lt;br&gt;🏷 lithium-sulfur battery · antiperovskite · spin-state engineering · polysulfide adsorption · separator modification</description>
+<category>lithium-sulfur battery</category>
+<category>antiperovskite</category>
+<category>spin-state engineering</category>
+<category>polysulfide adsorption</category>
+<category>separator modification</category>
+</item>
+<item>
+<title>UV‐Cured Semi‐Interpenetrating Polymer Network Electrolyte for High‐Performance Bipolar‐Stacked Quasi‐Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76636</link>
+<guid isPermaLink="false">10.1002/smll.76636</guid>
+<pubDate>Thu, 05 Nov 2026 18:02:46 GMT</pubDate>
+<description>الکترولیت پلیمری شبه‌جامد نیمه‌IPN با رسانایی یونی بالا و پنجره پایداری 4.8 V ساخته شد و باتری‌های دوقطبی لیتیوم-فلز با ولتاژ 6.36 V و پایداری چرخه‌ای خوب به دست آمد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a UV-cured semi-interpenetrating polymer network quasi-solid electrolyte combining PEGMA, PEGDA, and VEC in a PVA matrix, achieving high ionic conductivity (1.36×10⁻³ S cm⁻¹), Li-ion transference number 0.78, 4.8 V stability, and flexibility. Its significance is enabling stable 6.36 V bipolar-stacked quasi-solid-state Li metal batteries with 144 mAh g⁻¹ and 77% retention after 100 cycles.&lt;br&gt;🏷 quasi-solid electrolyte · lithium metal battery · semi-IPN · UV curing · bipolar stacking</description>
+<category>quasi-solid electrolyte</category>
+<category>lithium metal battery</category>
+<category>semi-IPN</category>
+<category>UV curing</category>
+<category>bipolar stacking</category>
+</item>
+<item>
+<title>Synergistic Regulation of Ion‐Transport Networks via Polar Segment–MOF Coupling for Long‐Cycling Solid‐State Li–CO 2 Batteries</title>
+<link>https://doi.org/10.1002/smll.76620</link>
+<guid isPermaLink="false">10.1002/smll.76620</guid>
+<pubDate>Thu, 05 Nov 2026 18:02:34 GMT</pubDate>
+<description>الکترولیت جامد کامپوزیتی با مهندسی قطعات قطبی PAAA و UiO-66-NH2 رسانایی یونی و انتقال Li+ را بهبود داده و باتری حالت جامد Li-CO2 با چرخه‌پذیری ۳۶۰۰ ساعته می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling polar poly(allyl acetoacetate) segments with amino-functionalized UiO-66-NH2 MOF to build synergistic Li+-transport networks, immobilizing TFSI− and enhancing salt dissociation. Significance: this yields high ionic conductivity (6.64×10−4 S cm−1), Li+ transference number 0.46, and 4.96 V stability, enabling solid-state Li–CO2 batteries with 28908 mAh g−1 capacity and 3600 h cycling, advancing practical CO2 utilization.&lt;br&gt;🏷 Li-CO2 battery · solid electrolyte · MOF UiO-66-NH2 · ion transport · polar segment</description>
+<category>Li-CO2 battery</category>
+<category>solid electrolyte</category>
+<category>MOF UiO-66-NH2</category>
+<category>ion transport</category>
+<category>polar segment</category>
+</item>
+<item>
+<title>Gd‐Mediated Spin‐State Modulation of Co Sites Enhances Oxygen Electrocatalysis in Zn‐Air Battery</title>
+<link>https://doi.org/10.1002/advs.78659</link>
+<guid isPermaLink="false">10.1002/advs.78659</guid>
+<pubDate>Thu, 05 Nov 2026 18:01:43 GMT</pubDate>
+<description>ورود Gd به سایت‌های Co در GdCo/NC با تنظیم حالت اسپینی، فعالیت ORR را افزایش داده و باتری Zn-air با توان و ظرفیت بالا ساخته می‌شود.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Gd incorporation into Co─N─C modulates Co spin states via pronounced spin splitting and orbital-selective polarization, shifting dominant polarization from dz² to dyz and lifting dxz/dyz degeneracy. This optimizes oxygen intermediate adsorption and shifts the rate-determining step from *O protonation to *OH desorption, boosting ORR activity (0.861 V half-wave) and Zn-air battery performance beyond Pt/C benchmarks.&lt;br&gt;🏷 Zn-air battery · spin-state modulation · ORR · Co-N-C · Gd doping</description>
+<category>Zn-air battery</category>
+<category>spin-state modulation</category>
+<category>ORR</category>
+<category>Co-N-C</category>
+<category>Gd doping</category>
+</item>
 <item>
 <title>Unraveling electrochemical mechanisms, material innovations, and device architectures of battery-type hybrid supercapacitors</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.039</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pha
 <category>fluorinated electrolyte</category>
 <category>high-voltage</category>
 <category>fast charging</category>
-</item>
-<item>
-<title>Lewis acid-base chemistry enables ultrastable zinc iodine battery through overall iodine species management</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.001</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.001</guid>
-<pubDate>Tue, 03 Nov 2026 21:01:55 GMT</pubDate>
-<description>شیمی اسید-باز لوویس با مدیریت کلی گونه‌های ید، باتری روی-ید فوق‌پایدار را ممکن می‌سازد.&lt;br&gt;Science Bulletin | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 zinc-iodine battery · Lewis acid-base · iodine species management · ultrastable anode · aqueous electrolyte</description>
-<category>zinc-iodine battery</category>
-<category>Lewis acid-base</category>
-<category>iodine species management</category>
-<category>ultrastable anode</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Ultra‐Long Helical CNFs 3D‐Networks as High‐Conductivity Current Collectors for Efficient Sodium Deposition</title>
-<link>https://doi.org/10.1002/adma.75582</link>
-<guid isPermaLink="false">10.1002/adma.75582</guid>
-<pubDate>Tue, 03 Nov 2026 19:02:40 GMT</pubDate>
-<description>یک لایه Cu با کاتالیزور دواتمی NiY روی کلکتور جریان Al، شبکه‌های سه‌بعدی CNF مارپیچ رشد می‌دهد و رسوب یکنواخت و بدون دندریت Na را در باتری سدیم-فلز ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in confining a NiY diatomic catalyst within a 20 nm Cu layer on Al current collectors, enabling in-situ growth of ultra-long helical CNF 3D-networks. This yields high conductivity, uniform Na deposition, and dendrite suppression, achieving 99.49% Coulombic efficiency over 3000 h and stable full-cell cycling over 1500 cycles—offering a new diatomic-catalyst strategy for high-performance carbon-modified current collectors.&lt;br&gt;🏷 sodium metal battery · current collector · diatomic catalyst · carbon nanofibers · dendrite suppression</description>
-<category>sodium metal battery</category>
-<category>current collector</category>
-<category>diatomic catalyst</category>
-<category>carbon nanofibers</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>A degradation-state-oriented device–material–element framework for high-value recycling of retired lithium-ion battery layered oxide cathodes</title>
-<link>https://doi.org/10.1039/d6ee04515d</link>
-<guid isPermaLink="false">10.1039/d6ee04515d</guid>
-<pubDate>Tue, 03 Nov 2026 19:02:18 GMT</pubDate>
-<description>این مقاله چارچوبی مبتنی بر وضعیت تخریب برای بازیافت ارزشمند کاتدهای اکسید لایه‌ای باتری‌های لیتیوم-یونی مستعمل با ترمیم دستگاه، بازتولید مواد یا استخراج عناصر ارائه می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a degradation-state-oriented device–material–element framework that routes retired layered oxide cathodes to restoration, regeneration, or extraction based on their condition. Its significance is enabling high-value, low-carbon recycling guided by integrated life-cycle and techno-economic assessment, moving beyond one-size-fits-all recycling toward condition-matched, economically and environmentally optimized recovery.&lt;br&gt;🏷 lithium-ion battery recycling · layered oxide cathode · degradation state · cathode regeneration · techno-economic assessment</description>
-<category>lithium-ion battery recycling</category>
-<category>layered oxide cathode</category>
-<category>degradation state</category>
-<category>cathode regeneration</category>
-<category>techno-economic assessment</category>
-</item>
-<item>
-<title>Universally adaptable design of quasi-solid mineral electrolytes for aqueous and non-aqueous batteries</title>
-<link>https://doi.org/10.1039/d6ee04887k</link>
-<guid isPermaLink="false">10.1039/d6ee04887k</guid>
-<pubDate>Tue, 03 Nov 2026 19:02:08 GMT</pubDate>
-<description>این مقاله طراحی جهانی الکترولیت‌های معدنی شبه‌جامد را برای باتری‌های آبی و غیرآبی ارائه می‌دهد تا انتقال یون و ساختار حل‌پوشی میان‌سطحی را بهبود بخشد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a universally adaptable quasi-solid mineral electrolyte design that overcomes disordered ion transport and water-rich interfacial solvation in aqueous electrolytes while extending compatibility to non-aqueous batteries. Its significance is enabling uniform metal deposition and stable cycling across battery chemistries, bridging the performance gap between aqueous and non-aqueous systems and advancing safe, high-rate, broadly applicable energy storage.&lt;br&gt;🏷 quasi-solid electrolyte · mineral electrolyte · aqueous battery · non-aqueous battery · ion transport</description>
-<category>quasi-solid electrolyte</category>
-<category>mineral electrolyte</category>
-<category>aqueous battery</category>
-<category>non-aqueous battery</category>
-<category>ion transport</category>
-</item>
-<item>
-<title>Energy System for Wearables</title>
-<link>https://doi.org/10.1002/idm2.70094</link>
-<guid isPermaLink="false">10.1002/idm2.70094</guid>
-<pubDate>Tue, 03 Nov 2026 19:02:03 GMT</pubDate>
-<description>این مرور، سامانه‌های انرژی پوشیدنی را از تحلیل تقاضای انرژی و برداشت چندکاناله تا ذخیره‌سازی انعطاف‌پذیر و یکپارچه‌سازی و مدیریت هوشمند انرژی بررسی می‌کند.&lt;br&gt;Interdisciplinary Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely synthesizes wearable energy systems—demand analysis, multi-channel harvesting, flexible storage, and integration—from modular to monolithic designs. Its significance lies in highlighting multi-source hybrid harvesting and AI-assisted energy management, offering a roadmap for safer, longer-lasting, self-sufficient wearables that advance autonomous, intelligent physiological monitoring and human–machine interaction.&lt;br&gt;🏷 wearable energy systems · energy harvesting · flexible energy storage · self-powered devices · energy management</description>
-<category>wearable energy systems</category>
-<category>energy harvesting</category>
-<category>flexible energy storage</category>
-<category>self-powered devices</category>
-<category>energy management</category>
 </item>
 </channel>
 </rss>
