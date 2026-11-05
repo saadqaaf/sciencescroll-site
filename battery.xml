@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 11:01:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 12:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Non‐Selective Suppression of Cation and Anion Crosstalk from an Anode Perspective</title>
+<link>https://doi.org/10.1002/adma.75632</link>
+<guid isPermaLink="false">10.1002/adma.75632</guid>
+<pubDate>Thu, 05 Nov 2026 12:01:37 GMT</pubDate>
+<description>آند نانوآلیاژ غنی از Na با تنظیم سینتیکی و لایه SEI نازک غنی از Na2O، هم‌زمان کاتیون و آنیون محلول را مهار کرده و پایداری چرخه و نرخ بالا را در باتری‌های FeF2 و S/C فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an anode-centric strategy using a Na-rich nanoalloy (NaxSn) to simultaneously suppress cation and anion crosstalk via ultrafast kinetics (raising the Damköhler number) and an ultrathin Na2O-rich SEI that physically blocks crossover. This enables high-efficiency FeF2 and S/C full cells with extreme rate capability and 1000-cycle pouch-cell stability, advancing sustainable high-energy batteries.&lt;br&gt;🏷 anode crosstalk · Na-rich nanoalloy · metal fluoride cathode · solid electrolyte interphase · sodium battery</description>
+<category>anode crosstalk</category>
+<category>Na-rich nanoalloy</category>
+<category>metal fluoride cathode</category>
+<category>solid electrolyte interphase</category>
+<category>sodium battery</category>
+</item>
+<item>
+<title>High‐Entropy Complementary d‐Band Decoupling of Redox Kinetics for Bidirectional Catalysis in Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1002/adma.75620</link>
+<guid isPermaLink="false">10.1002/adma.75620</guid>
+<pubDate>Thu, 05 Nov 2026 12:01:29 GMT</pubDate>
+<description>مدل مراکز d-band مکمل در کاتالیزور سلنید آنتروپی‌بالا، سینتیک ردوکس دوطرفه پلی‌سولفیدها را در باتری Li-S هماهنگ کرده و با مسیر جذب-تبدیل-واجذب، اثر شاتل را مهار می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in extending d-band center theory to a high-entropy complementary model, using multi-metal d-band alignment to match sulfur species&amp;#x27; HOMO/LUMO and balance electron transfer. This enables a closed-loop capture-conversion-desorption pathway that suppresses shuttle effects, yielding high-entropy selenide catalysts with superior cycle stability and rate performance in Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · high-entropy selenide · d-band center · polysulfide conversion · shuttle effect</description>
+<category>lithium-sulfur battery</category>
+<category>high-entropy selenide</category>
+<category>d-band center</category>
+<category>polysulfide conversion</category>
+<category>shuttle effect</category>
+</item>
+<item>
+<title>Coordination Bridges in Confined‐Water Domains Enable Partially Desolvated Zn 2 + Transport in Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75498</link>
+<guid isPermaLink="false">10.1002/adma.75498</guid>
+<pubDate>Thu, 05 Nov 2026 12:01:20 GMT</pubDate>
+<description>یک لایه پلیمری چندکاره با گروه‌های آمید و ایمیدازولیوم، دامنه آب محدود و پل‌های کوئوردیناسیون ایجاد می‌کند که انتقال Zn2+ نیمه‌دسولواته را ممکن ساخته و رشد دندریت و تولید هیدروژن را در باتری آبی Zn-I2 مهار می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a multifunctional polymeric layer with amide and imidazolium groups creating confined-water domains where water acts as a transient coordination bridge for partially desolvated Zn²⁺ transport while its mobility is restricted. This simultaneously boosts single-ion conductivity 6.55-fold and cuts hydrogen evolution 79.1%, enabling 2200 h Zn//Zn cycling and 4000-cycle Zn–I₂ cells with &amp;gt;85% retention—a robust interfacial strategy for durable aqueous ZIBs.&lt;br&gt;🏷 aqueous zinc-ion battery · polymer protective layer · confined-water domain · Zn dendrite suppression · hydrogen evolution</description>
+<category>aqueous zinc-ion battery</category>
+<category>polymer protective layer</category>
+<category>confined-water domain</category>
+<category>Zn dendrite suppression</category>
+<category>hydrogen evolution</category>
+</item>
 <item>
 <title>Calendar Aging Triggers Critical Performance Degradation of Lithium Primary Batteries</title>
 <link>https://doi.org/10.1007/s40820-026-02354-x</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>trivalent metal</category>
 <category>weakly coordinating solvent</category>
 <category>FeF3 cathode</category>
-</item>
-<item>
-<title>Carbonyl‐Rich Polyimide Covalent Organic Frameworks as Anode Coating for Uniform Sodium Deposition</title>
-<link>https://doi.org/10.1002/anie.3787629</link>
-<guid isPermaLink="false">10.1002/anie.3787629</guid>
-<pubDate>Tue, 03 Nov 2026 13:02:38 GMT</pubDate>
-<description>این مقاله دو COF پلی‌ایمیدی غنی از کربونیل را به‌عنوان پوشش آند باتری سدیم فلزی معرفی می‌کند که رسوب یکنواخت Na و پایداری چرخه‌ای بالا را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing two isocyanurate-based polyimide COFs with abundant carbonyl ion-binding sites and ordered frameworks as artificial anode coatings. This enables uniform sodium deposition, dendrite suppression, and stable cycling (1200 h symmetric; &amp;gt;90% retention after 1390 cycles at 5 C). It demonstrates rational carbonyl-rich 2D COF design as a significant strategy for durable sodium metal battery anodes.&lt;br&gt;🏷 sodium metal battery · covalent organic framework · anode coating · uniform Na deposition · polyimide COF</description>
-<category>sodium metal battery</category>
-<category>covalent organic framework</category>
-<category>anode coating</category>
-<category>uniform Na deposition</category>
-<category>polyimide COF</category>
-</item>
-<item>
-<title>An Ether‐Chain‐Functionalized Zwitterion Enables Mild Zinc‐Ion Coordination and Dual‐Site Polyiodide Capture in Aqueous Zinc–Iodine Batteries</title>
-<link>https://doi.org/10.1002/anie.1404617</link>
-<guid isPermaLink="false">10.1002/anie.1404617</guid>
-<pubDate>Tue, 03 Nov 2026 13:02:20 GMT</pubDate>
-<description>این مقاله با افزودنی زویتریون ZEG، هم‌آرایی ملایم Zn2+ و به‌دام‌اندازی دوگانه پلی‌یدید را در باتری آبی Zn–I2 ممکن کرده و پایداری بیش از 35000 چرخه را نشان می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 ZEG, an ether-chain-functionalized imidazolium sulfonate zwitterion, uniquely combines mild Zn2+ coordination—lowering the ligand-dissociation barrier while regulating solvation—with dual-site polyiodide capture via electrostatic and ion–dipole interactions. This reconciles solvation regulation with fast interfacial charge transfer, enabling 35,000-cycle Zn–I2 cells and stable 300 mAh pouch cells, offering a new multifunctional additive design principle.&lt;br&gt;🏷 zinc-iodine battery · zwitterion additive · polyiodide capture · solvation regulation · zinc dendrite</description>
-<category>zinc-iodine battery</category>
-<category>zwitterion additive</category>
-<category>polyiodide capture</category>
-<category>solvation regulation</category>
-<category>zinc dendrite</category>
-</item>
-<item>
-<title>Diagnosis of Mechanisms of Kinetics in Lithium-Rich Manganese-Based Cathode Materials</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02146</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02146</guid>
-<pubDate>Tue, 03 Nov 2026 12:02:19 GMT</pubDate>
-<description>با EIS و LSV درجا، مرحله تعیین‌کننده سرعت در کاتدهای LRMO تشخیص داده شد: در 4.4 ولت انتقال الکترون و در 3.0 ولت نفوذ حالت جامد غالب است و افزایش C-rate سهم نفوذ Li+ را برجسته می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a quantitative diagnostic method combining in-situ EIS and LSV to identify the rate-determining step in LRMO cathodes across SOC and C-rates. It reveals SOC sets the intrinsic bottleneck while C-rate drives single-to-mixed control transition, with Li+ diffusion dominating at high rates. This provides quantitative criteria for designing improved cathode materials.&lt;br&gt;🏷 lithium-rich manganese oxide · rate-determining step · in-situ EIS · solid-state diffusion · Jahn-Teller distortion</description>
-<category>lithium-rich manganese oxide</category>
-<category>rate-determining step</category>
-<category>in-situ EIS</category>
-<category>solid-state diffusion</category>
-<category>Jahn-Teller distortion</category>
 </item>
 </channel>
 </rss>
