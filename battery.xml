@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 06:03:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 07:02:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Formation‐Stage Interfacial Regulation of δ‐MnO 2 Enables Stable and Reversible Aqueous Zn‐Ion Storage</title>
+<link>https://doi.org/10.1002/advs.78465</link>
+<guid isPermaLink="false">10.1002/advs.78465</guid>
+<pubDate>Thu, 05 Nov 2026 07:01:59 GMT</pubDate>
+<description>تنظیم بین‌سطحی Fe در مرحله تشکیل δ-MnO2 روی نانوالیاف کربنی، دسترسی سینتیکی را بهبود و انحلال Mn را سرکوب کرده و ذخیره‌سازی پایدار روی-یون آبی را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a formation-stage Fe interfacial regulation strategy that avoids bulk substitution, instead creating low-content, highly dispersed surface/interface Fe species that tune the local Mn─O environment and nanosheet growth. This improves Zn2+ kinetics and suppresses Mn dissolution while preserving Mn redox chemistry, enabling high capacity (409.29 mAh g−1) and durable cycling (81.1% retention after 3000 cycles), offering a design route for stable Mn-based aqueous Zn-ion cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · delta-MnO2 cathode · Fe interfacial regulation · Mn dissolution · cycling stability</description>
+<category>aqueous zinc-ion battery</category>
+<category>delta-MnO2 cathode</category>
+<category>Fe interfacial regulation</category>
+<category>Mn dissolution</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Zr Incorporation Into Lithium Nickel Oxides: Bulk or Surface Substitution?</title>
+<link>https://doi.org/10.1002/advs.78453</link>
+<guid isPermaLink="false">10.1002/advs.78453</guid>
+<pubDate>Thu, 05 Nov 2026 07:01:46 GMT</pubDate>
+<description>مطالعه نشان می‌دهد Zr در LNO دوپه‌شده عمدتاً در سطح ذرات قرار می‌گیرد و تنها ۱ تا ۳ درصد Zr برای بهبود پایداری چرخه و حفظ ظرفیت اولیه کافی است.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing that Zr in LiNiO₂ predominantly enriches at primary particle surfaces under oxygen-rich conditions, while oxygen-deficient synthesis stabilizes a cation-disordered Li₁₋ₓNi₁₊ₓO₂ phase promoting grain elongation. Significance: only 1–3% Zr suffices to boost cyclability via surface enrichment and low bulk doping, whereas excess Zr forms insulating Li₂ZrO₃, reducing capacity—guiding optimal doping design.&lt;br&gt;🏷 lithium nickel oxide · Zr doping · surface substitution · cathode · cation ordering</description>
+<category>lithium nickel oxide</category>
+<category>Zr doping</category>
+<category>surface substitution</category>
+<category>cathode</category>
+<category>cation ordering</category>
+</item>
+<item>
+<title>Weak‑Solvation‑Mediated Localized High‑Concentration Electrolyte for Sodium Metal Batteries</title>
+<link>https://doi.org/10.1002/advs.78680</link>
+<guid isPermaLink="false">10.1002/advs.78680</guid>
+<pubDate>Thu, 05 Nov 2026 07:01:40 GMT</pubDate>
+<description>الکترولیت با غلظت بالای موضعی مبتنی بر رقیق‌کننده ضعیف MTBE، سینتیک دسولواتاسیون و اینترفاز معدنی غنی از آنیون را بهبود داده و باتری سدیم-فلز پایدار و سریع‌شارژ می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using fluorine-free methyl tert-butyl ether as a weakly coordinating diluent in THF/NaFSI to create a localized high-concentration electrolyte that shifts solvation from solvent-separated ion pairs to contact ion pairs/aggregates. This weak-solvation design accelerates desolvation, forms an inorganic-rich interphase, and enables fast-charging, dendrite-free sodium metal batteries with high-loading cathodes and PFAS-free sustainability.&lt;br&gt;🏷 sodium metal battery · localized high-concentration electrolyte · weak solvation · MTBE diluent · solid electrolyte interphase</description>
+<category>sodium metal battery</category>
+<category>localized high-concentration electrolyte</category>
+<category>weak solvation</category>
+<category>MTBE diluent</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Operando Quantifying Li Plating Processes in Lithium‐Ion Pouch Cells</title>
 <link>https://doi.org/10.1002/anie.1710608</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>dendrite-free plating</category>
 <category>ion modulator</category>
 <category>NCM811 cathode</category>
-</item>
-<item>
-<title>Asymmetric Cooperative Solvation Structure Enables Entropy‐Enthalpy Compensation for Ultralow Temperature Sodium‐Metal and Sodium–Ion Pouch Cells</title>
-<link>https://doi.org/10.1002/aenm.71782</link>
-<guid isPermaLink="false">10.1002/aenm.71782</guid>
-<pubDate>Tue, 03 Nov 2026 10:02:23 GMT</pubDate>
-<description>ساختار سولواتاسیون نامتقارن مشارکتی با جبران آنتالپی-آنتروپی، باتری‌های سدیم-فلز و سدیم-یون را در دمای زیر ۴۰- درجه سانتی‌گراد پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an asymmetric cooperative solvation structure using DME/DEE to spatially decouple thermodynamic stability from kinetic transport via enthalpy–entropy compensation. This enables ultralow-temperature operation below −40°C, suppresses dendrites through anion-rich SEI formation, and achieves 94% capacity retention plus stable cycling in scaled 1.2 Ah pouch cells, demonstrating practical viability for sodium-metal and sodium-ion batteries.&lt;br&gt;🏷 sodium metal battery · low-temperature electrolyte · solvation structure · entropy-enthalpy compensation · pouch cell</description>
-<category>sodium metal battery</category>
-<category>low-temperature electrolyte</category>
-<category>solvation structure</category>
-<category>entropy-enthalpy compensation</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Zwitterionic Thermoplastic Polyurethane‐Based Quasi‐Solid Polymer Electrolytes for Lithium Metal Batteries With Machine‐Learning‐Assisted Mechanistic Insights</title>
-<link>https://doi.org/10.1002/aenm.71793</link>
-<guid isPermaLink="false">10.1002/aenm.71793</guid>
-<pubDate>Tue, 03 Nov 2026 10:02:13 GMT</pubDate>
-<description>الکترولیت شبه‌جامد زوئیتریونی TPU با تنظیم دوگانه یون‌ها و مدل‌سازی یادگیری ماشین، رسانایی و پایداری باتری لیتیوم فلزی را بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing zwitterionic TPU as an active ion-regulating matrix, not a passive reservoir: phosphate sites coordinate Li⁺ while quaternary ammonium and urethane N-H immobilize TFSI⁻, suppressing swelling via ionic crosslinking. Machine-learning modeling reveals reduced ion-pair separation penalties, enabling uniform Li⁺ flux and stable inorganic-rich SEI. This yields improved cycling, rate capability, and flexible pouch-cell performance, establishing zwitterionic molecular engineering as a promising interface-stabilizing strategy.&lt;br&gt;🏷 quasi-solid electrolyte · zwitterionic polyurethane · lithium metal battery · machine learning · ion regulation</description>
-<category>quasi-solid electrolyte</category>
-<category>zwitterionic polyurethane</category>
-<category>lithium metal battery</category>
-<category>machine learning</category>
-<category>ion regulation</category>
-</item>
-<item>
-<title>Surpassing Metal‐Centric E‐Waste Recycling: Unveiling Graphite in Spent Lithium‐Ion Batteries Towards Electrocatalytic Upcycling</title>
-<link>https://doi.org/10.1002/aenm.71733</link>
-<guid isPermaLink="false">10.1002/aenm.71733</guid>
-<pubDate>Tue, 03 Nov 2026 10:02:04 GMT</pubDate>
-<description>گرافیت باتری‌های لیتیوم-یونی مستعمل از طریق فعال‌سازی مکانیکی و زیست‌شویی برای واکنش آزادسازی اکسیژن بازیافت می‌شود و اورپتانسیل ۲۴۹ میلی‌ول به دست می‌آید.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in shifting e-waste recycling from metal-centric recovery to valorizing spent graphite from battery black mass as an OER electrocatalyst. Significance: mechanochemical and bioleaching-derived functionalized graphite achieved record-low overpotentials (260 mV and 249 mV at 10 mA cm⁻²), revealing metal-graphite synergism and offering a sustainable, life-cycle-assessed upcycling pathway for energy applications.&lt;br&gt;🏷 spent graphite · black mass upcycling · oxygen evolution reaction · electrocatalysis · Li-ion battery recycling</description>
-<category>spent graphite</category>
-<category>black mass upcycling</category>
-<category>oxygen evolution reaction</category>
-<category>electrocatalysis</category>
-<category>Li-ion battery recycling</category>
 </item>
 </channel>
 </rss>
