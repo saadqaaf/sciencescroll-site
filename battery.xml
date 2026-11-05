@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 05:01:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:03:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Operando Quantifying Li Plating Processes in Lithium‐Ion Pouch Cells</title>
+<link>https://doi.org/10.1002/anie.1710608</link>
+<guid isPermaLink="false">10.1002/anie.1710608</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:46 GMT</pubDate>
+<description>با DEIS و اعتبارسنجی با ssNMR و تیتراسیون جرمی، ظرفیت بحرانی پوشش لیتیم در پاکت‌سل‌های Li-ion به‌صورت operando کمّی شده و امکان هشدار زودهنگام و شارژ سریع تطبیقی فراهم می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in defining a critical Li-plating areal capacity (qLi) via dynamic electrochemical impedance spectroscopy, enabling operando quantification of Li plating validated by ssNMR, incremental capacity analysis, and mass spectrometry titration. Significance: high accuracy (R²&amp;gt;0.97), broad validity (0–45°C, 4–110 mAh), a transmission line model explaining qLi&amp;#x27;s physical origin, and temperature-controlled nucleation switching for early warning and adaptive fast charging.&lt;br&gt;🏷 Li plating · lithium-ion pouch cells · dynamic impedance spectroscopy · operando quantification · fast charging</description>
+<category>Li plating</category>
+<category>lithium-ion pouch cells</category>
+<category>dynamic impedance spectroscopy</category>
+<category>operando quantification</category>
+<category>fast charging</category>
+</item>
+<item>
+<title>Direct Evidence of Intermediate Oxygen Species Evolution in Cathode Oxides With Nominally Stable Superstructure</title>
+<link>https://doi.org/10.1002/anie.3374613</link>
+<guid isPermaLink="false">10.1002/anie.3374613</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:30 GMT</pubDate>
+<description>در کاتدهای Na0.6Li0.2Mn0.8O2 با ابرساختار پایدار، گونه‌های اکسیژن اکسیدشده طی چرخه از حفره‌های الکترونی و (O2)n− به O2 مولکولی تکامل می‌یابند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in directly showing that oxidized oxygen species in a nominally stable superstructure continuously evolve during cycling—from O₂⁻ electron holes and (O₂)ⁿ⁻ dimers to molecular O₂—coupled with Li-vacancy cluster expansion and Mn-domain growth. This establishes molecular O₂ as the inevitable ultimate oxygen-redox product, even when Mn migration is restricted, resolving a key controversy in anionic redox cathodes.&lt;br&gt;🏷 anionic redox · sodium cathode · molecular oxygen · oxygen species evolution · Li-vacancy clusters</description>
+<category>anionic redox</category>
+<category>sodium cathode</category>
+<category>molecular oxygen</category>
+<category>oxygen species evolution</category>
+<category>Li-vacancy clusters</category>
+</item>
 <item>
 <title>Why sulfur stays present but inaccessible in practical lithium-sulfur pouch cells</title>
 <link>https://doi.org/10.1016/j.joule.2026.102716</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>oxygen evolution reaction</category>
 <category>electrocatalysis</category>
 <category>Li-ion battery recycling</category>
-</item>
-<item>
-<title>N‐Heterocyclic Molecular Additives Enable Solvation and Interfacial Chemistry Regulation for High‐Stability, High‐Rate, and High‐Capacity Lithium Metal Anodes</title>
-<link>https://doi.org/10.1002/aenm.71794</link>
-<guid isPermaLink="false">10.1002/aenm.71794</guid>
-<pubDate>Tue, 03 Nov 2026 10:01:58 GMT</pubDate>
-<description>افزودنی مولکول N-هتروسیکل TPTC با تنظیم هم‌زمان سولواتاسیون و شیمی سطح مشترک، آند لیتیوم فلزی را در نرخ و ظرفیت بالا پایدار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using TPTC, an N-heterocyclic molecule with four pyridine units, as an electrolyte additive that simultaneously regulates Li+ solvation and interfacial chemistry via ion-dipole interactions and anion enrichment. This enables stable Li plating/stripping at 10 mA cm−2/10 mAh cm−2 for 3000 h and 87.8% capacity retention after 400 cycles in practical high-loading LMBs.&lt;br&gt;🏷 lithium metal anode · electrolyte additive · solvation regulation · interfacial chemistry · N-heterocyclic molecule</description>
-<category>lithium metal anode</category>
-<category>electrolyte additive</category>
-<category>solvation regulation</category>
-<category>interfacial chemistry</category>
-<category>N-heterocyclic molecule</category>
-</item>
-<item>
-<title>Anchored Fluoro‐Shielded Solvation for Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75606</link>
-<guid isPermaLink="false">10.1002/adma.75606</guid>
-<pubDate>Tue, 03 Nov 2026 09:03:00 GMT</pubDate>
-<description>استراتژی حل‌پوشی فلورو-محافظ لنگرشده در الکترولیت پلیمری PVDF، مسیرهای آنیون‌غنی و SEI غنی از LiF ایجاد کرده و باتری Li||NCM با حفظ ۸۰٫۲٪ ظرفیت پس از ۲۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium metal battery · PVDF electrolyte · fluoro-shielded solvation · LiF-rich SEI · solid-state electrolyte</description>
-<category>lithium metal battery</category>
-<category>PVDF electrolyte</category>
-<category>fluoro-shielded solvation</category>
-<category>LiF-rich SEI</category>
-<category>solid-state electrolyte</category>
 </item>
 </channel>
 </rss>

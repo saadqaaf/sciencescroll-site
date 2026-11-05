@@ -5,8 +5,395 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 05:01:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:03:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Adaptive Discovery of Uncharted Zeolitic Imidazolate Frameworks</title>
+<link>https://doi.org/10.1021/jacs.6c19914</link>
+<guid isPermaLink="false">10.1021/jacs.6c19914</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:29 GMT</pubDate>
+<description>با طراحی لیگاندهای بنزیمیدازول پهن‌تر و راهبرد یادگیری ماشین تطبیقی، نه ZIF جدید از جمله شش ساختار با توپولوژی bcv کشف شد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 zeolitic imidazolate frameworks · linker design · machine learning · bcv topology · high-throughput synthesis</description>
+<category>zeolitic imidazolate frameworks</category>
+<category>linker design</category>
+<category>machine learning</category>
+<category>bcv topology</category>
+<category>high-throughput synthesis</category>
+</item>
+<item>
+<title>Revised Biosynthetic Pathway of Alnumycin Involves a Complex Interplay of Redox Reactions, Stereoisomerization, and an Atypical DUF6081 Isomerase</title>
+<link>https://doi.org/10.1021/jacs.6c09857</link>
+<guid isPermaLink="false">10.1021/jacs.6c09857</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:26 GMT</pubDate>
+<description>مسیر بیوسنتز آلنومایسین A بازنگری شد و نشان داده شد Aln6 ایزومرازی ردوکس-خنثی و Aln4 حلقه‌گشایی احیایی NADPH-وابسته را کاتالیز می‌کنند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 alnumycin biosynthesis · DUF6081 · Aln6 isomerase · redox reactions · polyketide</description>
+<category>alnumycin biosynthesis</category>
+<category>DUF6081</category>
+<category>Aln6 isomerase</category>
+<category>redox reactions</category>
+<category>polyketide</category>
+</item>
+<item>
+<title>Competing Effects Modulate the Rate of Poly(A) RNA Deadenylation in a Biomolecular Condensate</title>
+<link>https://doi.org/10.1021/jacs.6c13716</link>
+<guid isPermaLink="false">10.1021/jacs.6c13716</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:23 GMT</pubDate>
+<description>در کندانسه‌های CAPRIN1، غلظت‌شدن آنزیم CNOT7 و RNA سرعت دآدنیله‌شدن poly(A) را افزایش می‌دهد اما کاهش کارایی کاتالیزوری آن را متعادل می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;🏷 biomolecular condensate · RNA deadenylation · CNOT7 · CAPRIN1 · enzyme kinetics</description>
+<category>biomolecular condensate</category>
+<category>RNA deadenylation</category>
+<category>CNOT7</category>
+<category>CAPRIN1</category>
+<category>enzyme kinetics</category>
+</item>
+<item>
+<title>An accessible Python framework for real-time magnetic tweezers microscope control and image processing</title>
+<link>https://doi.org/10.1038/s41467-026-78849-3</link>
+<guid isPermaLink="false">10.1038/s41467-026-78849-3</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:20 GMT</pubDate>
+<description>یک چارچوب پایتون متن‌باز برای کنترل بلادرنگ میکروسکوپ موچین مغناطیسی و پردازش تصویر ارائه شده است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 magnetic tweezers · Python framework · real-time control · image processing · open-source software</description>
+<category>magnetic tweezers</category>
+<category>Python framework</category>
+<category>real-time control</category>
+<category>image processing</category>
+<category>open-source software</category>
+</item>
+<item>
+<title>Bell nonlocality with directly generated telecom-band spin–photon entanglement</title>
+<link>https://doi.org/10.1038/s41467-026-79099-z</link>
+<guid isPermaLink="false">10.1038/s41467-026-79099-z</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:16 GMT</pubDate>
+<description>درهم‌تنیدگی اسپین-فوتون در باند مخابراتی به‌صورت مستقیم تولید و نابرابری بل با آن نقض شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Bell nonlocality · spin-photon entanglement · telecom band · quantum entanglement · quantum communication</description>
+<category>Bell nonlocality</category>
+<category>spin-photon entanglement</category>
+<category>telecom band</category>
+<category>quantum entanglement</category>
+<category>quantum communication</category>
+</item>
+<item>
+<title>Toward Ternary Computing Enabled by Origami-Inspired Modular Architectures</title>
+<link>https://doi.org/10.1038/s41467-026-79187-0</link>
+<guid isPermaLink="false">10.1038/s41467-026-79187-0</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:11 GMT</pubDate>
+<description>معماری ماژولار الهام‌گرفته از اوریگامی با استفاده از حالت‌های چندپایدار Kresling، محاسبات مکانیکی دودویی و سه‌تایی و گیت‌های منطقی را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mechanical computing · Kresling origami · ternary logic · logic gates · metamaterials</description>
+<category>mechanical computing</category>
+<category>Kresling origami</category>
+<category>ternary logic</category>
+<category>logic gates</category>
+<category>metamaterials</category>
+</item>
+<item>
+<title>Molecular-level control of nitrogen sites enables CO2 electro-reduction under industrially relevant conditions</title>
+<link>https://doi.org/10.1038/s41467-026-79247-5</link>
+<guid isPermaLink="false">10.1038/s41467-026-79247-5</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:08 GMT</pubDate>
+<description>با غنی‌سازی نیتروژن پیریدینیک در کاتالیزور تک‌اتمی Ni-N-C، احیای الکتروشیمیایی CO2 در شرایط رقیق و صنعتی ممکن شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 electroreduction · single-atom catalyst · pyridinic nitrogen · dilute CO2 · Ni-N-C</description>
+<category>CO2 electroreduction</category>
+<category>single-atom catalyst</category>
+<category>pyridinic nitrogen</category>
+<category>dilute CO2</category>
+<category>Ni-N-C</category>
+</item>
+<item>
+<title>Dislocation Arrays Hosting Topological Bound States in Epitaxial Tetragonal FeSe Films</title>
+<link>https://doi.org/10.1021/acsnano.6c11893</link>
+<guid isPermaLink="false">10.1021/acsnano.6c11893</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:04 GMT</pubDate>
+<description>اپیتاکسی ناهم‌تقارن فیلم‌های FeSe چهارگوشه بر SrTiO3(111) شبکه‌های نابجایی می‌سازد که با STM/STS و محاسبات، حالت‌های مرزی توپولوژیکی محلی در هسته نابجایی‌ها شناسایی شد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 screw dislocations · topological bound states · FeSe films · symmetry-mismatched epitaxy · scanning tunneling spectroscopy</description>
+<category>screw dislocations</category>
+<category>topological bound states</category>
+<category>FeSe films</category>
+<category>symmetry-mismatched epitaxy</category>
+<category>scanning tunneling spectroscopy</category>
+</item>
+<item>
+<title>Ferroelectric AlScN Four-Mode Reconfigurable Transistors Enabling Unified Logic, Memory, and Neuromorphic Computing</title>
+<link>https://doi.org/10.1021/acsnano.6c13212</link>
+<guid isPermaLink="false">10.1021/acsnano.6c13212</guid>
+<pubDate>Thu, 05 Nov 2026 06:03:01 GMT</pubDate>
+<description>ترانزیستور چهارحالته بازپیکربندی‌پذیر بر پایه AlScN فروالکتریک و کانال MoTe2، منطق، حافظه غیرفرار و عملکرد سیناپسی نورومورفیک را در یک دستگاه یکپارچه می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 AlScN ferroelectric · reconfigurable transistor · MoTe2 channel · neuromorphic computing · ternary content-addressable memory</description>
+<category>AlScN ferroelectric</category>
+<category>reconfigurable transistor</category>
+<category>MoTe2 channel</category>
+<category>neuromorphic computing</category>
+<category>ternary content-addressable memory</category>
+</item>
+<item>
+<title>Lipid Tail Chemistry Regulates Selective Membrane Interactions with Model DNA Nanoprobes and DNA-Based Coacervates</title>
+<link>https://doi.org/10.1021/acsnano.6c10347</link>
+<guid isPermaLink="false">10.1021/acsnano.6c10347</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:58 GMT</pubDate>
+<description>طول و اشباع زنجیره آسیل لیپیدها با تنظیم بسته‌بندی، سیالیت و بار سطح غشا، برهم‌کنش غشا با نانوپروب‌های DNA و کواسرویت‌های DNA را کنترل می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lipid acyl chains · DNA nanoprobes · membrane interactions · DNA coacervates · lipid packing</description>
+<category>lipid acyl chains</category>
+<category>DNA nanoprobes</category>
+<category>membrane interactions</category>
+<category>DNA coacervates</category>
+<category>lipid packing</category>
+</item>
+<item>
+<title>The Crystal Structural Foundation of the “Rippled” Beta‐Sheet</title>
+<link>https://doi.org/10.1002/anie.5445857</link>
+<guid isPermaLink="false">10.1002/anie.5445857</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:54 GMT</pubDate>
+<description>این مرور، بنیان ساختاری بلوری صفحه بتای «موج‌دار» را از پیش‌بینی پاولینگ تا ساختارهای بلوری اخیر و موتیف‌های کایرالیته مختلط و ماکروسیکل‌ها بررسی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | ⭐ Review&lt;br&gt;🏷 rippled beta-sheet · crystal structure · peptide self-assembly · mixed chirality · macrocyclic peptides</description>
+<category>rippled beta-sheet</category>
+<category>crystal structure</category>
+<category>peptide self-assembly</category>
+<category>mixed chirality</category>
+<category>macrocyclic peptides</category>
+</item>
+<item>
+<title>Atroposelective Access to Bicyclic Peptides via an Amide Photocaging Strategy</title>
+<link>https://doi.org/10.1002/anie.5669165</link>
+<guid isPermaLink="false">10.1002/anie.5669165</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:49 GMT</pubDate>
+<description>راهبرد فتوکِیجینگ پیوند آمیدی روی پیش‌ماده‌های پپتیدی تک‌حلقه‌ای، سنتز آتروپوگزینشی ایزومرهای P ansa و M ansa پپتیدهای دوقلقه‌ای را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 bicyclic peptides · atroposelectivity · amide photocaging · amatoxin · DFT calculations</description>
+<category>bicyclic peptides</category>
+<category>atroposelectivity</category>
+<category>amide photocaging</category>
+<category>amatoxin</category>
+<category>DFT calculations</category>
+</item>
+<item>
+<title>Operando Quantifying Li Plating Processes in Lithium‐Ion Pouch Cells</title>
+<link>https://doi.org/10.1002/anie.1710608</link>
+<guid isPermaLink="false">10.1002/anie.1710608</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:46 GMT</pubDate>
+<description>با DEIS و اعتبارسنجی با ssNMR و تیتراسیون جرمی، ظرفیت بحرانی پوشش لیتیم در پاکت‌سل‌های Li-ion به‌صورت operando کمّی شده و امکان هشدار زودهنگام و شارژ سریع تطبیقی فراهم می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in defining a critical Li-plating areal capacity (qLi) via dynamic electrochemical impedance spectroscopy, enabling operando quantification of Li plating validated by ssNMR, incremental capacity analysis, and mass spectrometry titration. Significance: high accuracy (R²&amp;gt;0.97), broad validity (0–45°C, 4–110 mAh), a transmission line model explaining qLi&amp;#x27;s physical origin, and temperature-controlled nucleation switching for early warning and adaptive fast charging.&lt;br&gt;🏷 Li plating · lithium-ion pouch cells · dynamic impedance spectroscopy · operando quantification · fast charging</description>
+<category>Li plating</category>
+<category>lithium-ion pouch cells</category>
+<category>dynamic impedance spectroscopy</category>
+<category>operando quantification</category>
+<category>fast charging</category>
+</item>
+<item>
+<title>Beyond Formate Trapping: A Mechanistic Framework for Homogeneous CO 2 ‐to‐Methanol Conversion With First‐Row Transition Metals</title>
+<link>https://doi.org/10.1002/anie.1285310</link>
+<guid isPermaLink="false">10.1002/anie.1285310</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:40 GMT</pubDate>
+<description>این مرور، محدودیت‌های تبدیل همگن CO2 به متانول با فلزات واسطه ردیف اول را فراتر از تثبیت فرمات بررسی کرده و چارچوب مکانیستی برای فعال‌سازی H2 و هیدریدهای فلزی ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 CO2 hydrogenation · methanol synthesis · first-row metals · homogeneous catalysis · metal hydrides</description>
+<category>CO2 hydrogenation</category>
+<category>methanol synthesis</category>
+<category>first-row metals</category>
+<category>homogeneous catalysis</category>
+<category>metal hydrides</category>
+</item>
+<item>
+<title>Palladium‐Catalyzed Synthesis of Multisubstituted Conjugated Dienes from Unactivated Alkenes</title>
+<link>https://doi.org/10.1002/anie.4624585</link>
+<guid isPermaLink="false">10.1002/anie.4624585</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:37 GMT</pubDate>
+<description>واکنش آلکنیل‌دار کردن آلکن‌های غیرفعال با وینیل یدیدها به کمک لیگاند NBphos و پالادیم، دی‌ان‌های 1,3 مزدوج چنداستخلافی را با کنترل دقیق منطقه‌شیمی و استریوشیمی می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 palladium catalysis · conjugated dienes · unactivated alkenes · stereodivergent synthesis · NBphos ligand</description>
+<category>palladium catalysis</category>
+<category>conjugated dienes</category>
+<category>unactivated alkenes</category>
+<category>stereodivergent synthesis</category>
+<category>NBphos ligand</category>
+</item>
+<item>
+<title>Cu‐Bi 2 O 3 /g‐C 3 N 4 Single‐Atom Catalysts for Boosting Near‐Infrared Light‐Driven Liquid Biomass Valorization</title>
+<link>https://doi.org/10.1002/anie.5405959</link>
+<guid isPermaLink="false">10.1002/anie.5405959</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:33 GMT</pubDate>
+<description>کاتالیزور تک‌اتمی Cu روی هتروجانکشن Bi2O3/g-C3N4 با میدان الکتریکی داخلی، استری‌شدن زیست‌توده مایع را تحت نور NIR با بازده 98.9% ممکن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 Cu single-atom catalyst · Bi2O3/g-C3N4 heterojunction · NIR photocatalysis · biomass valorization · esterification</description>
+<category>Cu single-atom catalyst</category>
+<category>Bi2O3/g-C3N4 heterojunction</category>
+<category>NIR photocatalysis</category>
+<category>biomass valorization</category>
+<category>esterification</category>
+</item>
+<item>
+<title>Direct Evidence of Intermediate Oxygen Species Evolution in Cathode Oxides With Nominally Stable Superstructure</title>
+<link>https://doi.org/10.1002/anie.3374613</link>
+<guid isPermaLink="false">10.1002/anie.3374613</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:30 GMT</pubDate>
+<description>در کاتدهای Na0.6Li0.2Mn0.8O2 با ابرساختار پایدار، گونه‌های اکسیژن اکسیدشده طی چرخه از حفره‌های الکترونی و (O2)n− به O2 مولکولی تکامل می‌یابند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in directly showing that oxidized oxygen species in a nominally stable superstructure continuously evolve during cycling—from O₂⁻ electron holes and (O₂)ⁿ⁻ dimers to molecular O₂—coupled with Li-vacancy cluster expansion and Mn-domain growth. This establishes molecular O₂ as the inevitable ultimate oxygen-redox product, even when Mn migration is restricted, resolving a key controversy in anionic redox cathodes.&lt;br&gt;🏷 anionic redox · sodium cathode · molecular oxygen · oxygen species evolution · Li-vacancy clusters</description>
+<category>anionic redox</category>
+<category>sodium cathode</category>
+<category>molecular oxygen</category>
+<category>oxygen species evolution</category>
+<category>Li-vacancy clusters</category>
+</item>
+<item>
+<title>Dimerization‐Enabled Thermally Activated Delayed Fluorescence and 500‐Fold Enhanced Emission in Gold Nanoclusters</title>
+<link>https://doi.org/10.1002/anie.6060934</link>
+<guid isPermaLink="false">10.1002/anie.6060934</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:20 GMT</pubDate>
+<description>دایمری‌شدن نانوخوشه‌های طلا با لیگاند دی‌فسفین، فلورسانس تأخیری گرمایی فعال و بازده کوانتومی را از حدود 0.1% به 50% افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 gold nanoclusters · thermally activated delayed fluorescence · dimerization · photoluminescence quantum yield · diphosphine ligands</description>
+<category>gold nanoclusters</category>
+<category>thermally activated delayed fluorescence</category>
+<category>dimerization</category>
+<category>photoluminescence quantum yield</category>
+<category>diphosphine ligands</category>
+</item>
+<item>
+<title>Adaptive Spirobifluorene Chromophore in Pillared‐Layer Zr‐MOFs for Record Electrochemiluminescence Efficiency and Femtomolar Tetracycline Detection</title>
+<link>https://doi.org/10.1002/anie.2272127</link>
+<guid isPermaLink="false">10.1002/anie.2272127</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:17 GMT</pubDate>
+<description>سه Zr-MOF ایزورتیکولار با لیگاند اسپیروبی‌فلورن ساخته شد که NKM-612 رکورد بازده ECL و حس‌گر NKM-613 حد تشخیص فمتومولاری تتراسایکلین را ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 Zr-MOF · electrochemiluminescence · spirobifluorene · tetracycline detection · pillared-layer</description>
+<category>Zr-MOF</category>
+<category>electrochemiluminescence</category>
+<category>spirobifluorene</category>
+<category>tetracycline detection</category>
+<category>pillared-layer</category>
+</item>
+<item>
+<title>Decoupling of Reaction Network for Ultra‐High Yield Synthesis of Olefins From CO 2 Hydrogenation Over Fe‐Based Catalysts</title>
+<link>https://doi.org/10.1002/anie.1470781</link>
+<guid isPermaLink="false">10.1002/anie.1470781</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:13 GMT</pubDate>
+<description>جداسازی شبکه واکنش با γ-Al2O3 در کاتالیزور آهن، فعال‌سازی C=O و محیط H2O را بهبود می‌دهد و بازده فوق‌العاده بالای الفین‌ها از هیدروژناسیون CO2 را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 CO2 hydrogenation · iron catalyst · olefins · reaction network decoupling · gamma-Al2O3</description>
+<category>CO2 hydrogenation</category>
+<category>iron catalyst</category>
+<category>olefins</category>
+<category>reaction network decoupling</category>
+<category>gamma-Al2O3</category>
+</item>
+<item>
+<title>Tracing Structural Distortions and Orbital Population During Spin‐Crossover in Transition Metal Complexes via Ligand K‐edge Spectroscopy</title>
+<link>https://doi.org/10.1002/anie.1660388</link>
+<guid isPermaLink="false">10.1002/anie.1660388</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:10 GMT</pubDate>
+<description>با طیف‌سنجی K-edge لیگاند و پراکندگی رزونانسی، جمعیت حالت سه‌گانه و کشیدگی پیوند Fe-N در گذار اسپین کمپلکس آهن(II)-بی‌پیریدین شناسایی شد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 spin crossover · ligand K-edge · resonant inelastic scattering · iron bipyridine · ultrafast dynamics</description>
+<category>spin crossover</category>
+<category>ligand K-edge</category>
+<category>resonant inelastic scattering</category>
+<category>iron bipyridine</category>
+<category>ultrafast dynamics</category>
+</item>
+<item>
+<title>Magnetically Induced Reactive Carbon Capture With Ferromagnetic Multi‐Function Materials</title>
+<link>https://doi.org/10.1002/anie.4875918</link>
+<guid isPermaLink="false">10.1002/anie.4875918</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:04 GMT</pubDate>
+<description>گرمایش القایی مغناطیسی با کاتالیزورهای فرومغناطیسی، جذب و تبدیل انتخابی CO2 رقیق به متان را سریع و پایدار می‌کند و مکانیسم متفاوت با گرمایش معمولی را نشان می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 reactive carbon capture · magnetic induction · ferromagnetic catalyst · CO2 methanation · multi-function materials</description>
+<category>reactive carbon capture</category>
+<category>magnetic induction</category>
+<category>ferromagnetic catalyst</category>
+<category>CO2 methanation</category>
+<category>multi-function materials</category>
+</item>
+<item>
+<title>Nitrogen‐Atom Insertion by Sequential Electrophilic Amination and Ring Expansion Enabled by Sulfilimine‐Substituted Benziodoxolon</title>
+<link>https://doi.org/10.1002/anie.8657432</link>
+<guid isPermaLink="false">10.1002/anie.8657432</guid>
+<pubDate>Thu, 05 Nov 2026 06:02:01 GMT</pubDate>
+<description>معرفی یک واکنشگر ید هایپروالانسی جدید (SIBX) برای آمین‌دار کردن الکتروفیلی و درج اتم نیتروژن با بازآرایی حلقه‌ای، بدون فلز واسطه و با دامنه سوبسترای گسترده.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nitrogen-atom insertion · sulfilimine · hypervalent iodine · ring expansion · electrophilic amination</description>
+<category>nitrogen-atom insertion</category>
+<category>sulfilimine</category>
+<category>hypervalent iodine</category>
+<category>ring expansion</category>
+<category>electrophilic amination</category>
+</item>
+<item>
+<title>Macrocycle Exo‐Wall Complexation‐Mediated Supramolecular Slide‐Ring Networks</title>
+<link>https://doi.org/10.1002/anie.8393760</link>
+<guid isPermaLink="false">10.1002/anie.8393760</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:57 GMT</pubDate>
+<description>این مطالعه شبکه‌های سوپرامولکولی حلقه‌لغزان را با اتصال‌های عرضی برگشت‌پذیر مبتنی بر کمپلکس‌شدن دیواره بیرونی ماکروسیکل می‌سازد و فرآوری‌پذیری را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 slide-ring polymer · macrocycle complexation · supramolecular network · exo-wall interaction · processability</description>
+<category>slide-ring polymer</category>
+<category>macrocycle complexation</category>
+<category>supramolecular network</category>
+<category>exo-wall interaction</category>
+<category>processability</category>
+</item>
+<item>
+<title>Enantioconvergent and Regioselective Deaminative Alkenylation of α‐Amino Acid Derivatives With Internal Alkynes</title>
+<link>https://doi.org/10.1002/anie.6203848</link>
+<guid isPermaLink="false">10.1002/anie.6203848</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:54 GMT</pubDate>
+<description>این پژوهش اولین آلکنیلاسیون دآمیناتیو انانتیوکنورژنت و ناحیه‌گزین مشتقات آمینواسید با آلکین‌های داخلی را با کاتالیز Ni گزارش می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 deaminative alkenylation · amino acids · nickel catalysis · enantioconvergent · internal alkynes</description>
+<category>deaminative alkenylation</category>
+<category>amino acids</category>
+<category>nickel catalysis</category>
+<category>enantioconvergent</category>
+<category>internal alkynes</category>
+</item>
+<item>
+<title>Centrosymmetric Coupling Strategy Enabling High‐Color‐Purity Green Multi‐Resonance Thermally Activated Delayed Fluorescence Emitters With 40.84% EQE and CIE y &amp;gt; 0.70</title>
+<link>https://doi.org/10.1002/anie.2922945</link>
+<guid isPermaLink="false">10.1002/anie.2922945</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:48 GMT</pubDate>
+<description>این مطالعه با راهبرد جفت‌شدن مرکزتقارن، گسیل‌گرهای سبز MR-TADF با خلوص رنگ بالا و بازده کوانتومی خارجی ۴۰.۸۴ درصد و CIE y بالای ۰.۷۰ ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 MR-TADF · green emitter · OLED · centrosymmetric coupling · narrowband emission</description>
+<category>MR-TADF</category>
+<category>green emitter</category>
+<category>OLED</category>
+<category>centrosymmetric coupling</category>
+<category>narrowband emission</category>
+</item>
+<item>
+<title>Multiresponsive Nonconjugated Polyelectrolyte Fluorescence Films</title>
+<link>https://doi.org/10.1002/anie.6823246</link>
+<guid isPermaLink="false">10.1002/anie.6823246</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:45 GMT</pubDate>
+<description>این پژوهش فیلم‌های فلورسنت پلی‌الکترولیت غیرمزدوج چندپاسخه بر پایه Poly(1,2,4-triazolium) را برای رمزنگاری نوری چندحالته معرفی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 nonconjugated polyelectrolyte · fluorescence film · multiresponsive · optical encryption · triazolium polymer</description>
+<category>nonconjugated polyelectrolyte</category>
+<category>fluorescence film</category>
+<category>multiresponsive</category>
+<category>optical encryption</category>
+<category>triazolium polymer</category>
+</item>
+<item>
+<title>Control of Sequences and H‐Bonding Motifs in IEM‐Derived Copolymers Enables Mechanical Tunability, Self‐Healing, and Clusterization‐Triggered Emission</title>
+<link>https://doi.org/10.1002/anie.8733433</link>
+<guid isPermaLink="false">10.1002/anie.8733433</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:41 GMT</pubDate>
+<description>این مطالعه با کنترل توالی و موتیف‌های پیوند هیدروژنی در کوپلیمرهای مشتق از IEM، تنظیم‌پذیری مکانیکی، خودترمیمی و گسیل القاشده با خوشه‌شدن را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hydrogen-bonding motifs · gradient copolymer · self-healing · clusterization-triggered emission · mechanical tunability</description>
+<category>hydrogen-bonding motifs</category>
+<category>gradient copolymer</category>
+<category>self-healing</category>
+<category>clusterization-triggered emission</category>
+<category>mechanical tunability</category>
+</item>
+<item>
+<title>Single‐Vesicle Electrochemical Profiling Unveils Chemical Gating of Delayed and Sustained Exocytosis by Vitamin D</title>
+<link>https://doi.org/10.1002/anie.4119216</link>
+<guid isPermaLink="false">10.1002/anie.4119216</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:38 GMT</pubDate>
+<description>این پژوهش با پروفایل‌گیری الکتروشیمیایی تک‌وزیکولی نشان می‌دهد ویتامین D3 ترشح نوروترانسمیتر تأخیری و پایدار را از طریق کانال‌زنی شیمیایی کنترل می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 single-vesicle electrochemistry · exocytosis · vitamin D · neurotransmission · calcium signaling</description>
+<category>single-vesicle electrochemistry</category>
+<category>exocytosis</category>
+<category>vitamin D</category>
+<category>neurotransmission</category>
+<category>calcium signaling</category>
+</item>
+<item>
+<title>Contact-Electrification Activated Immunoadjuvant with Intrinsic Tumoricidal Activity for Colorectal Cancer Immunotherapy</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112573</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112573</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:35 GMT</pubDate>
+<description>این مطالعه یک ایمونوادجووانت فعال‌شده با برق‌مالش تماسی با فعالیت ضدتوموری ذاتی برای ایمونوتراپی سرطان کولورکتال معرفی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 contact electrification · immunoadjuvant · colorectal cancer · immunotherapy · tumoricidal activity</description>
+<category>contact electrification</category>
+<category>immunoadjuvant</category>
+<category>colorectal cancer</category>
+<category>immunotherapy</category>
+<category>tumoricidal activity</category>
+</item>
+<item>
+<title>A Triboelectric Nanogenerator-Based Self-Powered Embodied Flow Perception System for Uncrewed Underwater Vehicles</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112589</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112589</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:31 GMT</pubDate>
+<description>این پژوهش یک سیستم خودتوان ادراک جریان مبتنی بر نانوژنراتور تریبوالکتریک برای وسایل نقلیه زیرآبی بدون سرنشین ارائه می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 triboelectric nanogenerator · self-powered sensor · flow perception · underwater vehicle · energy harvesting</description>
+<category>triboelectric nanogenerator</category>
+<category>self-powered sensor</category>
+<category>flow perception</category>
+<category>underwater vehicle</category>
+<category>energy harvesting</category>
+</item>
+<item>
+<title>Chiral phonons: lattice angular momentum and beyond</title>
+<link>https://doi.org/10.1093/nsr/nwag695</link>
+<guid isPermaLink="false">10.1093/nsr/nwag695</guid>
+<pubDate>Thu, 05 Nov 2026 06:01:28 GMT</pubDate>
+<description>این مقاله مروری به فونون‌های کایرال و مفهوم تکانه زاویه‌ای شبکه می‌پردازد و مبانی نظری و کاربردهای آن را بررسی می‌کند.&lt;br&gt;National Science Review | ⭐ Review&lt;br&gt;🏷 chiral phonons · lattice angular momentum · phonon chirality · spin-phonon coupling · Berry curvature</description>
+<category>chiral phonons</category>
+<category>lattice angular momentum</category>
+<category>phonon chirality</category>
+<category>spin-phonon coupling</category>
+<category>Berry curvature</category>
+</item>
 <item>
 <title>Exceptional compressive performance in additively manufactured CoCrNi-based hybrid metamaterials enabled by sequential yielding and gradual strain release</title>
 <link>https://doi.org/10.1007/s42114-026-02156-0</link>
@@ -822,390 +1209,6 @@
 <category>threshold voltage</category>
 <category>memory window</category>
 <category>in-memory computing</category>
-</item>
-<item>
-<title>Honeycomb-Confined Carbon-Magnetic Hybrids in Polymer Skeleton Enable Optimized Impedance-Attenuation Balance for Broadband Microwave Absorption</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122298</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122298</guid>
-<pubDate>Wed, 04 Nov 2026 21:07:17 GMT</pubDate>
-<description>هیبریدهای کربن-مغناطیسی محصور در ساختار لانه‌زنبوری در بستر پلیمری با توازن بهینه امپدانس-تضعیف، جذب مایکروویو پهن‌باند را بهبود می‌دهند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 microwave absorption · carbon-magnetic hybrids · honeycomb structure · impedance matching · polymer skeleton</description>
-<category>microwave absorption</category>
-<category>carbon-magnetic hybrids</category>
-<category>honeycomb structure</category>
-<category>impedance matching</category>
-<category>polymer skeleton</category>
-</item>
-<item>
-<title>Multifunctional Integrated Composite Metasurfaces with Multilayer Patterned Resistive Films toward Broadband Microwave Absorption and Electrothermal De-icing</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122221</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122221</guid>
-<pubDate>Wed, 04 Nov 2026 21:07:13 GMT</pubDate>
-<description>متاسطح‌های کامپوزیتی چندلایه با فیلم‌های مقاومتی الگودار برای جذب مایکروویو پهن‌باند و یخ‌زدایی الکتروحرارتی طراحی و ساخته شدند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 composite metasurfaces · resistive films · microwave absorption · electrothermal de-icing · broadband absorber</description>
-<category>composite metasurfaces</category>
-<category>resistive films</category>
-<category>microwave absorption</category>
-<category>electrothermal de-icing</category>
-<category>broadband absorber</category>
-</item>
-<item>
-<title>Unveiling Nontrivial Thermally Driven Open-to-Closed Pore Transition in Ultrahigh-Molecular-Weight Polyacrylonitrile-Based Superstructure Hard Carbon for Advanced Sodium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122276</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122276</guid>
-<pubDate>Wed, 04 Nov 2026 21:07:10 GMT</pubDate>
-<description>گذار حرارتی غیرمعمول از منافذ باز به بسته در کربن سخت سوپراستراکچر بر پایه PAN با وزن مولکولی فوق‌بالا برای آند باتری یون‌سدیم بررسی و آشکارسازی شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium-ion battery · polyacrylonitrile · pore transition · anode</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>polyacrylonitrile</category>
-<category>pore transition</category>
-<category>anode</category>
-</item>
-<item>
-<title>Adhesive Conductive Nanocomposite Gel-Based Durable Wearable Sensor Enabled by Carbon Nanofiber-Induced Dynamic Intermolecular Bonding</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122299</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122299</guid>
-<pubDate>Wed, 04 Nov 2026 21:07:05 GMT</pubDate>
-<description>ژل نانوکامپوزیت رسانای چسبنده بر پایه نانوالیاف کربن با پیوندهای بین‌مولکولی دینامیک، حسگر پوشیدنی بادوام با چسبندگی و رسانایی بهبودیافته ارائه می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 conductive nanocomposite gel · carbon nanofiber · wearable sensor · dynamic hydrogen bonding · adhesive hydrogel</description>
-<category>conductive nanocomposite gel</category>
-<category>carbon nanofiber</category>
-<category>wearable sensor</category>
-<category>dynamic hydrogen bonding</category>
-<category>adhesive hydrogel</category>
-</item>
-<item>
-<title>Interfacial Strain Selects Metastable Lonsdaleite During Diamond Nucleation</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122303</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122303</guid>
-<pubDate>Wed, 04 Nov 2026 21:07:02 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که کرنش بین‌سطحی در حین هسته‌زنی الماس، فاز شبه‌پایدار لونسدالیت را انتخاب می‌کند و مسیر تبلور کربن را کنترل می‌نماید.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 lonsdaleite · diamond nucleation · interfacial strain · metastable phase · crystal nucleation</description>
-<category>lonsdaleite</category>
-<category>diamond nucleation</category>
-<category>interfacial strain</category>
-<category>metastable phase</category>
-<category>crystal nucleation</category>
-</item>
-<item>
-<title>GPU-Accelerated Mathematical Programming via First-Order Methods: A New Computational Paradigm for Modern Operations Research</title>
-<link>https://doi.org/10.1016/j.eng.2026.10.016</link>
-<guid isPermaLink="false">10.1016/j.eng.2026.10.016</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:58 GMT</pubDate>
-<description>این مقاله اجرای شتاب‌یافته با GPU برای روش‌های مرتبه اول در برنامه‌ریزی ریاضی را به‌عنوان پارادایم محاسباتی جدید برای تحقیقات عملیات مدرن معرفی می‌کند.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 GPU acceleration · first-order methods · mathematical programming · operations research · optimization algorithms</description>
-<category>GPU acceleration</category>
-<category>first-order methods</category>
-<category>mathematical programming</category>
-<category>operations research</category>
-<category>optimization algorithms</category>
-</item>
-<item>
-<title>Aligning Temporal EEG Components: A Framework for Enhanced Motor Decoding</title>
-<link>https://doi.org/10.1016/j.eng.2026.10.015</link>
-<guid isPermaLink="false">10.1016/j.eng.2026.10.015</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:55 GMT</pubDate>
-<description>این مقاله چارچوبی برای هم‌ترازی مؤلفه‌های زمانی EEG ارائه می‌دهد که دقت رمزگشایی حرکتی را در رابط‌های مغز-کامپیوتر بهبود می‌بخشد.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 EEG decoding · motor imagery · temporal components · signal alignment · brain-computer interface</description>
-<category>EEG decoding</category>
-<category>motor imagery</category>
-<category>temporal components</category>
-<category>signal alignment</category>
-<category>brain-computer interface</category>
-</item>
-<item>
-<title>OptiMat Alloys: a FAIR-aligned living database of multi-principal element alloys enabled by a conversational agent</title>
-<link>https://doi.org/10.1038/s41524-026-02377-3</link>
-<guid isPermaLink="false">10.1038/s41524-026-02377-3</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:51 GMT</pubDate>
-<description>OptiMat Alloys، یک عامل مکالمه‌ای مبتنی بر LLM، با هماهنگ‌سازی محاسبات و پایگاه داده زنده، غربالگری آلیاژهای چندعنصری اصلی را با سوابق FAIR و کمّی‌سازی عدم‌قطعیت فراهم می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 multi-principal element alloys · large language model · FAIR database · machine learning potentials · conversational agent</description>
-<category>multi-principal element alloys</category>
-<category>large language model</category>
-<category>FAIR database</category>
-<category>machine learning potentials</category>
-<category>conversational agent</category>
-</item>
-<item>
-<title>Physics-informed Bayesian optimization for quantitative high-resolution transmission electron microscopy</title>
-<link>https://doi.org/10.1038/s41524-026-02364-8</link>
-<guid isPermaLink="false">10.1038/s41524-026-02364-8</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:48 GMT</pubDate>
-<description>یک چارچوب بهینه‌سازی بیزی مبتنی بر فیزیک برای کمّی‌سازی خودکار HRTEM ارائه شد که ساختار سه‌بعدی بلور BaTiO3 را از یک تصویر با بهبود چند مرتبه‌ای زمان تعیین می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 HRTEM · Bayesian optimization · image quantification · BaTiO3 · automated analysis</description>
-<category>HRTEM</category>
-<category>Bayesian optimization</category>
-<category>image quantification</category>
-<category>BaTiO3</category>
-<category>automated analysis</category>
-</item>
-<item>
-<title>A Magnetic Apoptotic Body‐Loaded Triblock Hydrogel Amplifies Efferocytosis for Hyaline Cartilage Regeneration</title>
-<link>https://doi.org/10.1002/smll.76577</link>
-<guid isPermaLink="false">10.1002/smll.76577</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:45 GMT</pubDate>
-<description>هیدروژل ترموسنسیتیو بارگذاری‌شده با اجسام آپوپتوزی مغناطیسی (FP-NAB) با تقویت افروسیتوز ماکروفاژها و بازسازی ریز محیط سینوویال، بازسازی غضروف هیالین را در مدل موش بهبود داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 apoptotic bodies · efferocytosis · magnetic nanorods · thermosensitive hydrogel · cartilage regeneration</description>
-<category>apoptotic bodies</category>
-<category>efferocytosis</category>
-<category>magnetic nanorods</category>
-<category>thermosensitive hydrogel</category>
-<category>cartilage regeneration</category>
-</item>
-<item>
-<title>A Single‐Channel Capacitive Sensor for Sequential Discrimination of Proximity, Pressure, and Shear With High Sensitivity in All Three</title>
-<link>https://doi.org/10.1002/smll.76621</link>
-<guid isPermaLink="false">10.1002/smll.76621</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:42 GMT</pubDate>
-<description>یک حسگر خازنی تک‌کاناله با الکترودهای مارپیچی و نانوکامپوزیت CNT/Ecoflex برای تشخیص متوالی نزدیکی، فشار و برش با حساسیت بالا در هر سه حالت ساخته شد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 capacitive tactile sensor · proximity-pressure-shear · CNT/Ecoflex nanocomposite · interfacial polarization · robotic manipulation</description>
-<category>capacitive tactile sensor</category>
-<category>proximity-pressure-shear</category>
-<category>CNT/Ecoflex nanocomposite</category>
-<category>interfacial polarization</category>
-<category>robotic manipulation</category>
-</item>
-<item>
-<title>Interfacial Engineering of MXene‐Assisted Advanced Coaxial Nanofibers for High‐Performance Energy Harvesters</title>
-<link>https://doi.org/10.1002/smll.76544</link>
-<guid isPermaLink="false">10.1002/smll.76544</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:38 GMT</pubDate>
-<description>نانوالیاف هم‌محور PVDF-MXene-MnFe2O4/AlN-(PVDF-TrFE) با اصلاح سطحی UV، ضرایب پیزوالکتریک و مگنتوالکتریک بالا و برداشت انرژی کارآمد از ارتعاش و میدان مغناطیسی ضعیف را نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 MXene · coaxial nanofiber · magnetoelectric composite · energy harvester · piezoelectric</description>
-<category>MXene</category>
-<category>coaxial nanofiber</category>
-<category>magnetoelectric composite</category>
-<category>energy harvester</category>
-<category>piezoelectric</category>
-</item>
-<item>
-<title>Light‐Driven CO 2 Hydrogenation to Methanol: Photothermal Catalysis and Beyond</title>
-<link>https://doi.org/10.1002/smll.76608</link>
-<guid isPermaLink="false">10.1002/smll.76608</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:34 GMT</pubDate>
-<description>این مرور، سازوکارهای نوری و حرارتی موضعی در هیدروژناسیون فوتوترمال CO2 به متانول و مهندسی دو ناحیه دمایی را برای طراحی کاتالیزور و راکتور بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 photothermal catalysis · CO2 hydrogenation · methanol synthesis · charge carriers · thermal management</description>
-<category>photothermal catalysis</category>
-<category>CO2 hydrogenation</category>
-<category>methanol synthesis</category>
-<category>charge carriers</category>
-<category>thermal management</category>
-</item>
-<item>
-<title>Synergistic Li 3 Sb/LiF Hybrid Networks in Poly(Tetrahydrofuran) Electrolyte for High‐Performance Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76625</link>
-<guid isPermaLink="false">10.1002/smll.76625</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:29 GMT</pubDate>
-<description>الکترولیت پلیمری نازک SF@PF با شبکه هیبریدی Li3Sb/LiF به‌صورت درجا ساخته شد و رسانایی یونی و پایداری چرخه‌ای بالا در باتری لیتیوم-فلز حالت جامد ارائه داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in situ strategy where SbF₃ both initiates cationic ring-opening polymerization of PTHF and reacts with Li to form a Li₃Sb/LiF hybrid network, eliminating pre-synthesized fillers. This enables an ultrathin (~5 µm) electrolyte with high ionic conductivity and Li⁺ transference number, suppressing dendrites and enabling durable, foldable solid-state Li metal batteries.&lt;br&gt;🏷 solid-state electrolyte · lithium metal battery · Li3Sb/LiF · poly(tetrahydrofuran) · in situ polymerization</description>
-<category>solid-state electrolyte</category>
-<category>lithium metal battery</category>
-<category>Li3Sb/LiF</category>
-<category>poly(tetrahydrofuran)</category>
-<category>in situ polymerization</category>
-</item>
-<item>
-<title>Synergizing Tunable Hydration and Robust Adsorption in Cobaltocenium‐Based Metallo‐Polyzwitterions for Superior Water Lubrication</title>
-<link>https://doi.org/10.1002/smll.76599</link>
-<guid isPermaLink="false">10.1002/smll.76599</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:24 GMT</pubDate>
-<description>پلی‌زویتریون‌های فلزی مبتنی بر cobaltocenium با آب‌پوشانی قوی و جذب سطحی مستحکم، اصطکاک و سایش را در روانکاری آبی به‌طور چشمگیری کاهش دادند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 metallo-polyzwitterion · cobaltocenium · aqueous lubrication · hydration · surface adsorption</description>
-<category>metallo-polyzwitterion</category>
-<category>cobaltocenium</category>
-<category>aqueous lubrication</category>
-<category>hydration</category>
-<category>surface adsorption</category>
-</item>
-<item>
-<title>Site‐Ordering/Disordering‐Induced Magnetic Textures in a vdW Ferromagnet via Engineered Inversion‐Symmetry Breaking</title>
-<link>https://doi.org/10.1002/smll.76596</link>
-<guid isPermaLink="false">10.1002/smll.76596</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:20 GMT</pubDate>
-<description>با MFM و STM، نقش نظم/بی‌نظمی جایگاه Fe(1) و شکست تقارن وارونی در ایجاد بافت‌های مغناطیسی و رفتارهای متفاوت فازهای NQ و QC در Fe5-xGeTe2 روشن شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 Fe5-xGeTe2 · van der Waals ferromagnet · Dzyaloshinskii-Moriya interaction · magnetic domains · inversion symmetry</description>
-<category>Fe5-xGeTe2</category>
-<category>van der Waals ferromagnet</category>
-<category>Dzyaloshinskii-Moriya interaction</category>
-<category>magnetic domains</category>
-<category>inversion symmetry</category>
-</item>
-<item>
-<title>Activatable Self‐Reporting Nanoplatform for Metabolic Blockade and Cascade Amplification of Oxidative Stress</title>
-<link>https://doi.org/10.1002/smll.76614</link>
-<guid isPermaLink="false">10.1002/smll.76614</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:16 GMT</pubDate>
-<description>نانوپلتفرم فعال‌شونده در TME با مسدودسازی متابولیک و تقویت آبشاری ROS، فعال‌سازی ایمنی دوگانه و مهار تومور 4T1 را به همراه گزارش‌دهی 19F MRI نشان داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 metabolic blockade · oxidative stress · self-reporting nanoplatform · 19F MRI · cGAS-STING</description>
-<category>metabolic blockade</category>
-<category>oxidative stress</category>
-<category>self-reporting nanoplatform</category>
-<category>19F MRI</category>
-<category>cGAS-STING</category>
-</item>
-<item>
-<title>Nano‐Optical Biomolecular Interaction Sensing Within Complex Media via Peptide Hybrid Ligand Conjugation</title>
-<link>https://doi.org/10.1002/smll.75794</link>
-<guid isPermaLink="false">10.1002/smll.75794</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:13 GMT</pubDate>
-<description>یک پلتفرم نوری محلولی مبتنی بر نانوذرات پلاسمونی و لیگاندهای پپتیدی برای تشخیص بدون برچسب برهم‌کنش پروتئین-پروتئین در سرم رقیق‌نشده ارائه شد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 plasmonic biosensing · protein-protein interaction · peptide ligand · LSPR · serum detection</description>
-<category>plasmonic biosensing</category>
-<category>protein-protein interaction</category>
-<category>peptide ligand</category>
-<category>LSPR</category>
-<category>serum detection</category>
-</item>
-<item>
-<title>Intensity‐Driven Mott‐Like Transition in a 2D Ruddlesden‐Popper Perovskite</title>
-<link>https://doi.org/10.1002/smll.76500</link>
-<guid isPermaLink="false">10.1002/smll.76500</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:08 GMT</pubDate>
-<description>در perovskite دوبعدی (BA) با تحریک IR، گذار Mott مانند از حالت اگزیتونی به پلاسمای الکترون-حفره و پاسخ نوری غیرخطی قابل‌سوئیچ مشاهده شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 2D perovskite · Mott transition · nonlinear optics · transient absorption · exciton</description>
-<category>2D perovskite</category>
-<category>Mott transition</category>
-<category>nonlinear optics</category>
-<category>transient absorption</category>
-<category>exciton</category>
-</item>
-<item>
-<title>Defining epidemiologically relevant units of cholera transmission in sub-Saharan Africa</title>
-<link>https://doi.org/10.1126/sciadv.aeb4683</link>
-<guid isPermaLink="false">10.1126/sciadv.aeb4683</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:04 GMT</pubDate>
-<description>با ترکیب داده‌های اپیدمیولوژیک و ژنومی، واحدهای انتقال وبا در آفریقا شناسایی شد که برای کنترل و ارزیابی خطر گسترش بین‌المللی کاربرد دارد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 cholera transmission · phylogeography · genomic epidemiology · sub-Saharan Africa · cross-border spread</description>
-<category>cholera transmission</category>
-<category>phylogeography</category>
-<category>genomic epidemiology</category>
-<category>sub-Saharan Africa</category>
-<category>cross-border spread</category>
-</item>
-<item>
-<title>Common transcriptional changes in the brain during hibernation and Alzheimer’s disease</title>
-<link>https://doi.org/10.1126/sciadv.aeg3486</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg3486</guid>
-<pubDate>Wed, 04 Nov 2026 21:06:01 GMT</pubDate>
-<description>با توالی‌یابی RNA تک‌هسته‌ای هیپوکامپ همستر، تغییرات رونویسی مشترک و پاسخ التهابی میکروگلیا در خواب زمستانی و Alzheimer شناسایی شد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 hibernation · Alzheimer&amp;#x27;s disease · single-nucleus RNA-seq · microglia · Tau phosphorylation</description>
-<category>hibernation</category>
-<category>Alzheimer&#x27;s disease</category>
-<category>single-nucleus RNA-seq</category>
-<category>microglia</category>
-<category>Tau phosphorylation</category>
-</item>
-<item>
-<title>METTL3-mediated m 6 A modification of DNMT1 enhances ovarian cancer progression</title>
-<link>https://doi.org/10.1126/sciadv.aec2297</link>
-<guid isPermaLink="false">10.1126/sciadv.aec2297</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:58 GMT</pubDate>
-<description>METTL3 با m6A ترجمه DNMT1 را تقویت می‌کند و محور m6A-METTL3-DNMT1 با خاموش‌سازی سرکوبگرهای تومور TNFAIP3 و FBXO32 پیشرفت کارسینومای سروز تخمدان را پیش می‌برد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 METTL3 · m6A modification · DNMT1 · ovarian cancer · DNA methylation</description>
-<category>METTL3</category>
-<category>m6A modification</category>
-<category>DNMT1</category>
-<category>ovarian cancer</category>
-<category>DNA methylation</category>
-</item>
-<item>
-<title>Dynamic redox reactivation of platinum sites for long-term glycolate electrosynthesis from polyethylene terephthalate wastes</title>
-<link>https://doi.org/10.1126/sciadv.aei5545</link>
-<guid isPermaLink="false">10.1126/sciadv.aei5545</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:54 GMT</pubDate>
-<description>راهبرد فعال‌سازی مجدد ردوکس دینامیکی، پایداری بیش از ۳۰۰۰ ساعت را برای اکسیداسیون الکتروشیمیایی ethylene glycol به glycolate فراهم و تبدیل PET به محصولات ارزشمند با بازده بالا را در مقیاس بزرگ ممکن می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 glycolate electrosynthesis · PET upcycling · platinum reactivation · ethylene glycol oxidation · redox reactivation</description>
-<category>glycolate electrosynthesis</category>
-<category>PET upcycling</category>
-<category>platinum reactivation</category>
-<category>ethylene glycol oxidation</category>
-<category>redox reactivation</category>
-</item>
-<item>
-<title>A functional connectome identifies vulnerability to cognitive decline and Alzheimer’s disease progression</title>
-<link>https://doi.org/10.1126/sciadv.aed9351</link>
-<guid isPermaLink="false">10.1126/sciadv.aed9351</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:51 GMT</pubDate>
-<description>کانکتوم ARC با مقایسه SuperAgers و بیماران Alzheimer از fMRI استراحت، زیرگروه‌های مقاوم و آسیب‌پذیر را در افراد بدون اختلال شناختی شناسایی می‌کند و افت شناختی سریع‌تر و تجمع آمیلوئید بیشتر را پیش‌بینی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 functional connectome · Alzheimer&amp;#x27;s disease · SuperAgers · cognitive decline · risk stratification</description>
-<category>functional connectome</category>
-<category>Alzheimer&#x27;s disease</category>
-<category>SuperAgers</category>
-<category>cognitive decline</category>
-<category>risk stratification</category>
-</item>
-<item>
-<title>Toxic mercury, aquatic ecosystem collapse, and the ancient Lowland Maya</title>
-<link>https://doi.org/10.1126/sciadv.aeh3280</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh3280</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:47 GMT</pubDate>
-<description>غلظت جیوه در رسوبات دو دریاچه یوکاتان در دوره کلاسیک مایا به‌مراتب از آستانه‌های سمیت مدرن فراتر رفته و با فروپاشی شبکه غذایی آبی هم‌زمان بوده است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 mercury pollution · Maya · cinnabar · aquatic ecosystem collapse · sediment cores</description>
-<category>mercury pollution</category>
-<category>Maya</category>
-<category>cinnabar</category>
-<category>aquatic ecosystem collapse</category>
-<category>sediment cores</category>
-</item>
-<item>
-<title>Hoxa10 governs lifelong skeletal stem cell maintenance and bone repair</title>
-<link>https://doi.org/10.1126/sciadv.aeg2088</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg2088</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:44 GMT</pubDate>
-<description>Hoxa10 به‌صورت خودمختار سلولی هویت سلول‌های بنیادی اسکلتی را با مهار تمایز زودرس و تقویت کلاژن III حفظ می‌کند و حذف آن باعث تخلیه SSPC و نقص ترمیم استخوان می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Hoxa10 · skeletal stem cells · bone regeneration · collagen III · lineage tracing</description>
-<category>Hoxa10</category>
-<category>skeletal stem cells</category>
-<category>bone regeneration</category>
-<category>collagen III</category>
-<category>lineage tracing</category>
-</item>
-<item>
-<title>Unveiling the underlying spin mechanism in quasi-2D perovskite spin-polarized lasing</title>
-<link>https://doi.org/10.1126/sciadv.aeg4834</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg4834</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:40 GMT</pubDate>
-<description>با تنظیم اگزایتون‌های تریپلت توسط کاتیون‌های PEA و NMA، سازوکار BAP سرکوب و عمر اسپین تا ۳۵.۴ پیکوثانیه در ۷۷ کلوین افزایش یافت و لیزر قطبش‌اسپینی پروسکایت شبه‌دوبعدی زیر ۲۰۰ کلوین محقق شد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 quasi-2D perovskite · spin-polarized lasing · spin relaxation · triplet excitons · spin-orbit coupling</description>
-<category>quasi-2D perovskite</category>
-<category>spin-polarized lasing</category>
-<category>spin relaxation</category>
-<category>triplet excitons</category>
-<category>spin-orbit coupling</category>
-</item>
-<item>
-<title>A biofilm-derived peptide as an underwater adhesive</title>
-<link>https://doi.org/10.1126/sciadv.aei1795</link>
-<guid isPermaLink="false">10.1126/sciadv.aei1795</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:37 GMT</pubDate>
-<description>پپتیدی مشتق از بیوفیلم Vibrio cholerae به سطوح مرطوب می‌چسبد و با میکروسفرها کوآگلومره می‌شود و مسیر جدیدی برای طراحی چسب‌های زیرآبی الهام‌گرفته از بیوفیلم ارائه می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 underwater adhesive · biofilm peptide · Vibrio cholerae · lap shear · flocculant</description>
-<category>underwater adhesive</category>
-<category>biofilm peptide</category>
-<category>Vibrio cholerae</category>
-<category>lap shear</category>
-<category>flocculant</category>
-</item>
-<item>
-<title>Cooper’s Ferry/Nipéhe, stratigraphic integrity, and confirming early inland dispersal: Evaluating peopling of the Americas modeling</title>
-<link>https://doi.org/10.1126/sciadv.aek3138</link>
-<guid isPermaLink="false">10.1126/sciadv.aek3138</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:33 GMT</pubDate>
-<description>شاخص ASI نمی‌تواند اختلاط لایه‌ای در محوطه Cooper’s Ferry را اثبات کند و شواهد مستقل، یکپارچگی اشغال حدود ۱۶۰۰۰ سال پیش و پراکندگی زودهنگام درون‌قاره‌ای را تأیید می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Cooper&amp;#x27;s Ferry · stratigraphic integrity · peopling of Americas · artifact frequency · coastal migration</description>
-<category>Cooper&#x27;s Ferry</category>
-<category>stratigraphic integrity</category>
-<category>peopling of Americas</category>
-<category>artifact frequency</category>
-<category>coastal migration</category>
-</item>
-<item>
-<title>Independent origin of genomic imprinting in placental fish</title>
-<link>https://doi.org/10.1126/sciadv.aeh5487</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh5487</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:28 GMT</pubDate>
-<description>برای نخستین بار در یک مهره‌دار غیرپستاندار، نقش‌پذیری ژنومی در ماهی جفت‌دار Poeciliopsis prolifica شناسایی شد که شامل ژن grb10 و ژن‌های متضاد dpp4 و gcga با متیلاسیون آللی است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 genomic imprinting · placental fish · Poeciliopsis prolifica · parental conflict · DNA methylation</description>
-<category>genomic imprinting</category>
-<category>placental fish</category>
-<category>Poeciliopsis prolifica</category>
-<category>parental conflict</category>
-<category>DNA methylation</category>
-</item>
-<item>
-<title>On-going retinal neuronal degeneration despite clinical stability in glaucoma</title>
-<link>https://doi.org/10.1126/sciadv.aef3222</link>
-<guid isPermaLink="false">10.1126/sciadv.aef3222</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:24 GMT</pubDate>
-<description>با استفاده از AO-OCT، کاهش سالانه ۴.۱۶ تا ۶.۸۶ درصدی تراکم سلول‌های گانگلیونی شبکیه در گلوکوم نشان داده شد که بسیار سریع‌تر از پیری طبیعی و زودتر از OCT معمولی و آزمون میدان بینایی قابل تشخیص است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 glaucoma · retinal ganglion cells · adaptive optics OCT · neurodegeneration · cell density</description>
-<category>glaucoma</category>
-<category>retinal ganglion cells</category>
-<category>adaptive optics OCT</category>
-<category>neurodegeneration</category>
-<category>cell density</category>
-</item>
-<item>
-<title>Enigmatic HCl detections as a potential signature of igneous activity on Mars</title>
-<link>https://doi.org/10.1126/sciadv.aeb9422</link>
-<guid isPermaLink="false">10.1126/sciadv.aeb9422</guid>
-<pubDate>Wed, 04 Nov 2026 21:05:20 GMT</pubDate>
-<description>شناسایی HCl جوی در فصل اوج‌خورشید در ناحیه Alba Mons همراه با شکاف‌های تازه، احتمال فعالیت آذرین فعال در داخل مریخ را مطرح می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 HCl on Mars · igneous activity · Alba Mons · atmospheric chemistry · magmatic degassing</description>
-<category>HCl on Mars</category>
-<category>igneous activity</category>
-<category>Alba Mons</category>
-<category>atmospheric chemistry</category>
-<category>magmatic degassing</category>
 </item>
 </channel>
 </rss>
