@@ -5,8 +5,140 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 10:01:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 11:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Integration and annotation of spatial multi-omic data with DIRAC</title>
+<link>https://doi.org/10.1038/s41592-026-03282-9</link>
+<guid isPermaLink="false">10.1038/s41592-026-03282-9</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:41 GMT</pubDate>
+<description>مقاله ابزار DIRAC را برای یکپارچه‌سازی و حاشیه‌نویسی داده‌های چندگانه‌ی اُمیک فضایی معرفی می‌کند و کاربرد آن را در تحلیل بافت نشان می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 spatial multi-omics · data integration · annotation · DIRAC · bioinformatics tool</description>
+<category>spatial multi-omics</category>
+<category>data integration</category>
+<category>annotation</category>
+<category>DIRAC</category>
+<category>bioinformatics tool</category>
+</item>
+<item>
+<title>Automated identification of individual birds by song enables multi-year recapture from passive acoustic monitoring data</title>
+<link>https://doi.org/10.1038/s41592-026-03303-7</link>
+<guid isPermaLink="false">10.1038/s41592-026-03303-7</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:38 GMT</pubDate>
+<description>این پژوهش روشی خودکار برای شناسایی تک‌تک پرندگان از روی آوازشان ارائه می‌دهد که بازگرفت چندساله را از داده‌های پایش صوتی غیرفعال ممکن می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 bird song · passive acoustic monitoring · individual identification · recapture · bioacoustics</description>
+<category>bird song</category>
+<category>passive acoustic monitoring</category>
+<category>individual identification</category>
+<category>recapture</category>
+<category>bioacoustics</category>
+</item>
+<item>
+<title>Unlocking spatial diversity of circular RNAs with abcFISH</title>
+<link>https://doi.org/10.1038/s41592-026-03288-3</link>
+<guid isPermaLink="false">10.1038/s41592-026-03288-3</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:34 GMT</pubDate>
+<description>این مقاله چشم‌اندازی درباره روش abcFISH و توان آن در آشکارسازی تنوع فضایی RNAهای حلقوی ارائه می‌دهد.&lt;br&gt;Nature Methods | 💭 Perspective&lt;br&gt;🏷 circular RNA · abcFISH · spatial diversity · single-molecule imaging · RNA localization</description>
+<category>circular RNA</category>
+<category>abcFISH</category>
+<category>spatial diversity</category>
+<category>single-molecule imaging</category>
+<category>RNA localization</category>
+</item>
+<item>
+<title>abcFISH enables multiplexed, single-molecule visualization of circular RNA spatial heterogeneity</title>
+<link>https://doi.org/10.1038/s41592-026-03299-0</link>
+<guid isPermaLink="false">10.1038/s41592-026-03299-0</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:31 GMT</pubDate>
+<description>این مقاله روش abcFISH را معرفی می‌کند که امکان تصویربرداری چندگانه تک‌مولکولی از ناهمگنی فضایی RNA حلقوی را فراهم می‌سازد.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 circular RNA · abcFISH · single-molecule imaging · spatial heterogeneity · multiplexed visualization</description>
+<category>circular RNA</category>
+<category>abcFISH</category>
+<category>single-molecule imaging</category>
+<category>spatial heterogeneity</category>
+<category>multiplexed visualization</category>
+</item>
+<item>
+<title>Repurposed endogenous virus-like vesicles mediate dendritic cell long-range antigen presentation and T cell activation for enhanced cancer vaccination</title>
+<link>https://doi.org/10.1038/s41565-026-02312-z</link>
+<guid isPermaLink="false">10.1038/s41565-026-02312-z</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:28 GMT</pubDate>
+<description>این مطالعه نشان می‌دهد وزیکول‌های شبه‌ویروسی درون‌زا بازمهندسی‌شده ارائه دوربرد آنتی‌ژن توسط سلول‌های دندریتیک و فعال‌سازی سلول T را برای واکسیناسیون سرطان تقویت می‌کنند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 cancer vaccination · virus-like vesicles · dendritic cells · T cell activation · antigen presentation</description>
+<category>cancer vaccination</category>
+<category>virus-like vesicles</category>
+<category>dendritic cells</category>
+<category>T cell activation</category>
+<category>antigen presentation</category>
+</item>
+<item>
+<title>Atomically resolved exciton emission from single defects in MoS2</title>
+<link>https://doi.org/10.1038/s41565-026-02314-x</link>
+<guid isPermaLink="false">10.1038/s41565-026-02314-x</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:25 GMT</pubDate>
+<description>این پژوهش با لومینسانس القایی STM انتشار اکسایتونی تک‌نقص‌ها در تک‌لایه MoS2 را با تفکیک اتمی تصویربرداری کرده و کمپلکس‌های کربن-هیدروژن بارمنفی را عامل باند گسیل نقص شناسایی می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 MoS2 · exciton emission · single defects · STM luminescence · hBN substrate</description>
+<category>MoS2</category>
+<category>exciton emission</category>
+<category>single defects</category>
+<category>STM luminescence</category>
+<category>hBN substrate</category>
+</item>
+<item>
+<title>Endogenous virus-like extracellular vesicles enhance the efficacy of cancer vaccines</title>
+<link>https://doi.org/10.1038/s41565-026-02303-0</link>
+<guid isPermaLink="false">10.1038/s41565-026-02303-0</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:22 GMT</pubDate>
+<description>این مطالعه نشان می‌دهد که وزیکول‌های خارج‌سلولی شبه‌ویروسی درون‌زا می‌توانند اثربخشی واکسن‌های سرطان را افزایش دهند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 cancer vaccines · extracellular vesicles · virus-like vesicles · immunotherapy · antigen presentation</description>
+<category>cancer vaccines</category>
+<category>extracellular vesicles</category>
+<category>virus-like vesicles</category>
+<category>immunotherapy</category>
+<category>antigen presentation</category>
+</item>
+<item>
+<title>Calendar Aging Triggers Critical Performance Degradation of Lithium Primary Batteries</title>
+<link>https://doi.org/10.1007/s40820-026-02354-x</link>
+<guid isPermaLink="false">10.1007/s40820-026-02354-x</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:19 GMT</pubDate>
+<description>این پژوهش با بررسی باتری‌های اولیه لیتیمی پس از ۱۰ سال پیرشدگی تقویمی نشان می‌دهد که رسوب گونه‌های بین‌سطحی امپدانس را افزایش داده و عملکرد C-rate را تخریب می‌کند.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing that 10-year calendar aging of lithium primary cells forms interfacial species with a dual role: enabling low self-discharge yet depositing between active materials and conductive agents, raising interfacial impedance and degrading C-rate performance. This clarifies why accelerated-aging capacity laws fail under calendar conditions, offering new insights for lifetime evaluation and cell design.&lt;br&gt;🏷 lithium primary batteries · calendar aging · interfacial impedance · capacity degradation · C-rate performance</description>
+<category>lithium primary batteries</category>
+<category>calendar aging</category>
+<category>interfacial impedance</category>
+<category>capacity degradation</category>
+<category>C-rate performance</category>
+</item>
+<item>
+<title>Model systems and integration strategies to capture human biology</title>
+<link>https://doi.org/10.1038/s41563-026-02784-3</link>
+<guid isPermaLink="false">10.1038/s41563-026-02784-3</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:14 GMT</pubDate>
+<description>این مقاله مروری سیستم‌های مدل و راهبردهای یکپارچه‌سازی برای بازنمایی زیست‌شناسی انسان را بررسی می‌کند.&lt;br&gt;Nature Materials | ⭐ Review&lt;br&gt;🏷 model systems · human biology · integration strategies · organoids · microphysiological systems</description>
+<category>model systems</category>
+<category>human biology</category>
+<category>integration strategies</category>
+<category>organoids</category>
+<category>microphysiological systems</category>
+</item>
+<item>
+<title>Mechanical adaptation drives out-of-equilibrium network reorganization and self-strengthening in adapt-ring networks</title>
+<link>https://doi.org/10.1038/s41563-026-02795-0</link>
+<guid isPermaLink="false">10.1038/s41563-026-02795-0</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:11 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که سازگاری مکانیکی در شبکه‌های adapt-ring باعث بازآرایی شبکه در حالت غیرتعادلی و خودتقویتی این مواد می‌شود.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 adapt-ring networks · self-strengthening · network reorganization · mechanical adaptation · out-of-equilibrium</description>
+<category>adapt-ring networks</category>
+<category>self-strengthening</category>
+<category>network reorganization</category>
+<category>mechanical adaptation</category>
+<category>out-of-equilibrium</category>
+</item>
+<item>
+<title>Liquid metal biomimetics: a chemical perspective</title>
+<link>https://doi.org/10.1039/d6cs00623j</link>
+<guid isPermaLink="false">10.1039/d6cs00623j</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:07 GMT</pubDate>
+<description>این مقاله چارچوبی شیمی‌محور برای شبیه‌سازی زیستی با فلزات مایع مبتنی بر Ga ارائه می‌دهد که طراحی چندمقیاسی مواد و واکنش‌های سطحی را به تبدیل انرژی و پردازش اطلاعات پیوند می‌زند.&lt;br&gt;Chemical Society Reviews | 💭 Perspective&lt;br&gt;🏷 liquid metal · biomimetics · gallium · interfacial reactions · energy conversion</description>
+<category>liquid metal</category>
+<category>biomimetics</category>
+<category>gallium</category>
+<category>interfacial reactions</category>
+<category>energy conversion</category>
+</item>
 <item>
 <title>Ancient DNA charts spread of Celtic and Germanic languages</title>
 <link>https://doi.org/10.1038/d41586-026-03582-2</link>
@@ -1077,138 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 biomolecular condensate �
 <category>single-cell multi-omics</category>
 <category>spatial atlas</category>
 <category>tumor heterogeneity</category>
-</item>
-<item>
-<title>Nectin-4 mediates rubella virus entry in airway and placental cells</title>
-<link>https://doi.org/10.1038/s41586-026-11248-2</link>
-<guid isPermaLink="false">10.1038/s41586-026-11248-2</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:59 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد که گیرنده Nectin-4 واسطه ورود ویروس سرخجه به سلول‌های راه هوایی و جفت می‌شود.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 rubella virus · Nectin-4 · viral entry · airway cells · placental cells</description>
-<category>rubella virus</category>
-<category>Nectin-4</category>
-<category>viral entry</category>
-<category>airway cells</category>
-<category>placental cells</category>
-</item>
-<item>
-<title>A conserved flowering-time module underlies double-season cropping</title>
-<link>https://doi.org/10.1038/s41586-026-11187-y</link>
-<guid isPermaLink="false">10.1038/s41586-026-11187-y</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:55 GMT</pubDate>
-<description>یک ماژول حفظ‌شده زمان گلدهی شناسایی می‌شود که زیربنای کشت دو‌فصله است و به سازگاری محصولات کشاورزی کمک می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 flowering-time module · double-season cropping · conserved module · crop adaptation · genetics</description>
-<category>flowering-time module</category>
-<category>double-season cropping</category>
-<category>conserved module</category>
-<category>crop adaptation</category>
-<category>genetics</category>
-</item>
-<item>
-<title>An open structure-guided RNA foundation model for generalizable prediction</title>
-<link>https://doi.org/10.1038/s41586-026-11210-2</link>
-<guid isPermaLink="false">10.1038/s41586-026-11210-2</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:52 GMT</pubDate>
-<description>یک مدل بنیادی RNA با راهنمایی ساختار ارائه می‌شود که پیش‌بینی‌های قابل‌تعمیم درباره ساختار و عملکرد RNA فراهم می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 RNA foundation model · structure-guided prediction · generalizable prediction · deep learning · RNA structure</description>
-<category>RNA foundation model</category>
-<category>structure-guided prediction</category>
-<category>generalizable prediction</category>
-<category>deep learning</category>
-<category>RNA structure</category>
-</item>
-<item>
-<title>Microbiome-wide PheWAS links gut microbial SNVs to health and exposures</title>
-<link>https://doi.org/10.1038/s41586-026-11220-0</link>
-<guid isPermaLink="false">10.1038/s41586-026-11220-0</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:48 GMT</pubDate>
-<description>یک مطالعه PheWAS در سطح میکروبیوم، ارتباط بین واریانت‌های تک‌نوکلئوتیدی میکروب‌های روده و سلامت و مواجهه‌های میزبان را شناسایی می‌کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 gut microbiome · PheWAS · microbial SNVs · host health · exposures</description>
-<category>gut microbiome</category>
-<category>PheWAS</category>
-<category>microbial SNVs</category>
-<category>host health</category>
-<category>exposures</category>
-</item>
-<item>
-<title>A two-dimensional reticular triaxial molecularly woven fabric</title>
-<link>https://doi.org/10.1038/s41586-026-11218-8</link>
-<guid isPermaLink="false">10.1038/s41586-026-11218-8</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:45 GMT</pubDate>
-<description>این مقاله ساخت و مشخصه‌یابی یک پارچه مولکولی دو‌بعدی شبکه‌ای با بافت سه‌محوره را گزارش می‌کند که ساختار و خواص منحصربه‌فردی دارد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 molecularly woven fabric · two-dimensional polymer · triaxial weaving · reticular chemistry · mechanical properties</description>
-<category>molecularly woven fabric</category>
-<category>two-dimensional polymer</category>
-<category>triaxial weaving</category>
-<category>reticular chemistry</category>
-<category>mechanical properties</category>
-</item>
-<item>
-<title>Towards observing interstitial hydrogen in solution in metal lattices</title>
-<link>https://doi.org/10.1038/s41586-026-11238-4</link>
-<guid isPermaLink="false">10.1038/s41586-026-11238-4</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:42 GMT</pubDate>
-<description>با استفاده از دوتریوم و آلیاژهای چندعنصری FCC، نشان داده می‌شود که APT می‌تواند هیدروژن محلول بین‌نشین را از هیدروژن به‌دام‌افتاده در نقص‌ها تفکیک کند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 atom probe tomography · interstitial hydrogen · deuterium · multi-principal-element alloys · hydrogen solution energy</description>
-<category>atom probe tomography</category>
-<category>interstitial hydrogen</category>
-<category>deuterium</category>
-<category>multi-principal-element alloys</category>
-<category>hydrogen solution energy</category>
-</item>
-<item>
-<title>Venousization enables angiogenesis in the absence of VEGFR signalling</title>
-<link>https://doi.org/10.1038/s41586-026-11224-w</link>
-<guid isPermaLink="false">10.1038/s41586-026-11224-w</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:39 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که سلول‌های اندوتلیال فاقد VEGFR2 از طریق ونوزایی (venousization) قادر به رگ‌زایی مستقل از VEGF هستند و در شبکه عروقی ادغام می‌شوند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 angiogenesis · VEGFR2 · venousization · endothelial cells · VEGF-independent</description>
-<category>angiogenesis</category>
-<category>VEGFR2</category>
-<category>venousization</category>
-<category>endothelial cells</category>
-<category>VEGF-independent</category>
-</item>
-<item>
-<title>Ecological and social cues orchestrate concerted courtship in Drosophila</title>
-<link>https://doi.org/10.1038/s41586-026-11209-9</link>
-<guid isPermaLink="false">10.1038/s41586-026-11209-9</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:35 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که در مگس Drosophila erecta، ترکیبات فرار غذا و نشانه‌های اجتماعی از طریق یک حلقه بازخورد چندحسی، خواستگاری را هماهنگ و فعال می‌کنند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Drosophila courtship · multisensory feedback · food volatiles · sexual arousal · environmental cues</description>
-<category>Drosophila courtship</category>
-<category>multisensory feedback</category>
-<category>food volatiles</category>
-<category>sexual arousal</category>
-<category>environmental cues</category>
-</item>
-<item>
-<title>Tracing the spread of Celtic languages using ancient genomics</title>
-<link>https://doi.org/10.1038/s41586-026-11198-9</link>
-<guid isPermaLink="false">10.1038/s41586-026-11198-9</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:32 GMT</pubDate>
-<description>این مقاله با تحلیل ژنوم ۴۵۸۷ فرد باستانی، سه جریان جمعیتی مؤثر بر گسترش زبان‌های سلتی را شناسایی کرده و حرکت از اروپای مرکزی شرقی را محتمل‌ترین مسیر می‌داند.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Celtic languages · ancient genomics · population dispersal · Bronze Age migration · ancient DNA</description>
-<category>Celtic languages</category>
-<category>ancient genomics</category>
-<category>population dispersal</category>
-<category>Bronze Age migration</category>
-<category>ancient DNA</category>
-</item>
-<item>
-<title>The deep Earth origin of the Great Unconformity</title>
-<link>https://doi.org/10.1038/s41586-026-11156-5</link>
-<guid isPermaLink="false">10.1038/s41586-026-11156-5</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:29 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که بالا‌آمدگی و فرونشست قاره‌ای ناشی از توپوگرافی دینامیکی گوشته، عامل اصلی تشکیل و حفظ ناپیوستگی بزرگ (Great Unconformity) بوده است.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Great Unconformity · dynamic topography · mantle convection · continental uplift · Neoproterozoic erosion</description>
-<category>Great Unconformity</category>
-<category>dynamic topography</category>
-<category>mantle convection</category>
-<category>continental uplift</category>
-<category>Neoproterozoic erosion</category>
-</item>
-<item>
-<title>Conjugation-regulated self-assembled molecules for tandem solar cells</title>
-<link>https://doi.org/10.1038/s41586-026-11226-8</link>
-<guid isPermaLink="false">10.1038/s41586-026-11226-8</guid>
-<pubDate>Thu, 05 Nov 2026 00:02:26 GMT</pubDate>
-<description>این مقاله مولکول‌های خودآرا با تنظیم کونژوگاسیون را برای بهبود عملکرد سلول‌های خورشیدی تاندم طراحی و بررسی می‌کند.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 tandem solar cells · self-assembled molecules · conjugation regulation · hole transport layer · perovskite</description>
-<category>tandem solar cells</category>
-<category>self-assembled molecules</category>
-<category>conjugation regulation</category>
-<category>hole transport layer</category>
-<category>perovskite</category>
 </item>
 </channel>
 </rss>

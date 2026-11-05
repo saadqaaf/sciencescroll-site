@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 10:01:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 11:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Calendar Aging Triggers Critical Performance Degradation of Lithium Primary Batteries</title>
+<link>https://doi.org/10.1007/s40820-026-02354-x</link>
+<guid isPermaLink="false">10.1007/s40820-026-02354-x</guid>
+<pubDate>Thu, 05 Nov 2026 11:01:19 GMT</pubDate>
+<description>این پژوهش با بررسی باتری‌های اولیه لیتیمی پس از ۱۰ سال پیرشدگی تقویمی نشان می‌دهد که رسوب گونه‌های بین‌سطحی امپدانس را افزایش داده و عملکرد C-rate را تخریب می‌کند.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing that 10-year calendar aging of lithium primary cells forms interfacial species with a dual role: enabling low self-discharge yet depositing between active materials and conductive agents, raising interfacial impedance and degrading C-rate performance. This clarifies why accelerated-aging capacity laws fail under calendar conditions, offering new insights for lifetime evaluation and cell design.&lt;br&gt;🏷 lithium primary batteries · calendar aging · interfacial impedance · capacity degradation · C-rate performance</description>
+<category>lithium primary batteries</category>
+<category>calendar aging</category>
+<category>interfacial impedance</category>
+<category>capacity degradation</category>
+<category>C-rate performance</category>
+</item>
 <item>
 <title>Semi-supervised learning for battery cycle life prediction using a smoothed self-attention mechanism</title>
 <link>https://doi.org/10.1016/j.est.2026.125312</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combi
 <category>in-situ EIS</category>
 <category>solid-state diffusion</category>
 <category>Jahn-Teller distortion</category>
-</item>
-<item>
-<title>Solvent Toughened Glass Gel Electrolyte for High‐Voltage Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79466</link>
-<guid isPermaLink="false">10.1002/adfm.79466</guid>
-<pubDate>Tue, 03 Nov 2026 12:02:08 GMT</pubDate>
-<description>یک الکترولیت ژل شیشه‌ای خودایستا با نمک فسفونیوم در ماتریس PAA ساخته شد که رسانایی 2.2 mS cm−1 و استحکام کششی 30 MPa داشته و پایداری چرخه‌ای Li//NCM811 و Li//LiCoO2 را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a free-standing &amp;quot;glass gel&amp;quot; electrolyte using tributylmethylphosphonium dimethyl phosphate in a PAA matrix, whose strong non-covalent interactions yield high toughness (30 MPa, 700% elongation) without a separator. Its significance is enabling high-voltage, dendrite-resistant lithium-metal batteries: stable Li||Li cycling for 1900 h and 90% capacity retention after 420 cycles in Li//NCM811 cells.&lt;br&gt;🏷 glass gel electrolyte · lithium metal battery · free-standing electrolyte · high voltage · NCM811</description>
-<category>glass gel electrolyte</category>
-<category>lithium metal battery</category>
-<category>free-standing electrolyte</category>
-<category>high voltage</category>
-<category>NCM811</category>
 </item>
 </channel>
 </rss>
