@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 00:04:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 01:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why sulfur stays present but inaccessible in practical lithium-sulfur pouch cells</title>
+<link>https://doi.org/10.1016/j.joule.2026.102716</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102716</guid>
+<pubDate>Thu, 05 Nov 2026 01:01:05 GMT</pubDate>
+<description>این مقاله بررسی می‌کند چرا گوگرد در سلول‌های کیسه‌ای عملی Li-S حاضر اما غیرقابل‌دسترس می‌ماند و سازوکارهای محدودکننده دسترسی به گوگرد را روشن می‌سازد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · pouch cell · sulfur accessibility · polysulfide · electrode passivation</description>
+<category>lithium-sulfur battery</category>
+<category>pouch cell</category>
+<category>sulfur accessibility</category>
+<category>polysulfide</category>
+<category>electrode passivation</category>
+</item>
 <item>
 <title>Is social media changing children’s brains? Here’s what the science says</title>
 <link>https://doi.org/10.1038/d41586-026-03343-1</link>
@@ -1194,18 +1206,6 @@
 <category>type 1 diabetes</category>
 <category>antigen presentation</category>
 <category>JAK-STAT</category>
-</item>
-<item>
-<title>Massively parallel self-assembly of suspendable microcompartments for functional cell screening</title>
-<link>https://doi.org/10.1126/sciadv.aei7819</link>
-<guid isPermaLink="false">10.1126/sciadv.aei7819</guid>
-<pubDate>Wed, 04 Nov 2026 21:04:56 GMT</pubDate>
-<description>نانوویال‌های درپوش‌دار هیدروژلی خودآرا امکان جداسازی و غربالگری موازی تک‌سلول‌ها و کلون‌های سلولی را با بازده بالا و بدون تجهیزات سفارشی فراهم می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 capped nanovials · single-cell screening · hydrogel compartments · flow cytometry · antibody-secreting cells</description>
-<category>capped nanovials</category>
-<category>single-cell screening</category>
-<category>hydrogel compartments</category>
-<category>flow cytometry</category>
-<category>antibody-secreting cells</category>
 </item>
 </channel>
 </rss>
