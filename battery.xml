@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 13:01:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 14:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermodynamic Partitioning Engineering of Multicomponent Layered Oxides through Diffusion-Limited Reconstruction</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105637</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105637</guid>
+<pubDate>Thu, 05 Nov 2026 14:01:51 GMT</pubDate>
+<description>این کار با مهندسی تفکیک ترمودینامیکی از طریق بازسازی محدودشده با نفوذ، اکسیدهای لایه‌ای چندجزئی برای کاتدهای باتری طراحی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 layered oxide cathode · thermodynamic partitioning · diffusion-limited reconstruction · multicomponent oxide · surface reconstruction</description>
+<category>layered oxide cathode</category>
+<category>thermodynamic partitioning</category>
+<category>diffusion-limited reconstruction</category>
+<category>multicomponent oxide</category>
+<category>surface reconstruction</category>
+</item>
+<item>
+<title>Anion Packing and Li⁺ Coordination Topology in Ether-Functionalized Imidazolium Ionic-Liquid Electrolytes: FSI versus TFSI</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105629</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105629</guid>
+<pubDate>Thu, 05 Nov 2026 14:01:46 GMT</pubDate>
+<description>این مقاله چیدمان آنیونی و توپولوژی هم‌آرایی Li⁺ را در الکترولیت‌های مایع یونی ایمیدازولیوم اتری‌دار با آنیون‌های FSI و TFSI مقایسه می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ionic liquid electrolyte · Li+ coordination · anion packing · FSI versus TFSI · ether-functionalized imidazolium</description>
+<category>ionic liquid electrolyte</category>
+<category>Li+ coordination</category>
+<category>anion packing</category>
+<category>FSI versus TFSI</category>
+<category>ether-functionalized imidazolium</category>
+</item>
 <item>
 <title>Fast Dynamic Re‐Equilibration of Chloroaluminate Speciation Enables a Stable Electrode‐Electrolyte Interface in Aluminum Ion Batteries</title>
 <link>https://doi.org/10.1002/aenm.71750</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pha
 <category>incremental capacity</category>
 <category>dual-temperature features</category>
 <category>second-life batteries</category>
-</item>
-<item>
-<title>Spin‐State‐Coupled Redox Chemistry in Rechargeable Battery Materials</title>
-<link>https://doi.org/10.1002/smll.76604</link>
-<guid isPermaLink="false">10.1002/smll.76604</guid>
-<pubDate>Tue, 03 Nov 2026 14:02:30 GMT</pubDate>
-<description>این مرور، گذارهای اسپینی را به‌عنوان درجات آزادی الکترونی کوپل‌شده با ردکس، اعوجاج ساختاری و سینتیک در الکترودهای باتری قابل شارژ بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This Review is novel in framing spin-state transitions as functional electronic degrees of freedom coupling redox, structure, oxygen activity, kinetics, and interfaces in battery electrodes—beyond formal valence. It consolidates regulation strategies and advanced magnetic/spectroscopic probes for identifying spin evolution, offering a spin-state-aware perspective that links electronic configuration, lattice response, and interfacial chemistry, with significance for understanding and designing rechargeable battery materials.&lt;br&gt;🏷 spin-state transition · rechargeable battery · redox chemistry · spectroscopy · electrode materials</description>
-<category>spin-state transition</category>
-<category>rechargeable battery</category>
-<category>redox chemistry</category>
-<category>spectroscopy</category>
-<category>electrode materials</category>
-</item>
-<item>
-<title>Scalable Self‐Powered Sweat Lactate Patches Based on Bulk‐Catalytic MXene/NiO for Wide‐Range Detection</title>
-<link>https://doi.org/10.1002/smll.76602</link>
-<guid isPermaLink="false">10.1002/smll.76602</guid>
-<pubDate>Tue, 03 Nov 2026 14:02:04 GMT</pubDate>
-<description>وصله‌های خودتوان عرق مبتنی بر MXene/NiO با میکروابرخازن نامتقارن و نانوژنراتور تریبوالکتریک، لاکتات عرق را در محدوده فیزیولوژیکی به‌صورت غیرآنزیمی و بی‌سیم تشخیص می‌دهند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dispensing-printed, mass-producible MXene/NiO hybrid enabling enzyme-free lactate sensing, with elucidated sensing mechanisms. Significance: integrating large-area micro-supercapacitors and triboelectric nanogenerators creates a fully self-powered wearable platform for real-time sweat lactate monitoring, offering a general strategy for multifunctional nanomaterial and device design in wearable biosensing.&lt;br&gt;🏷 MXene/NiO · sweat lactate sensor · self-powered patch · micro-supercapacitor · triboelectric nanogenerator</description>
-<category>MXene/NiO</category>
-<category>sweat lactate sensor</category>
-<category>self-powered patch</category>
-<category>micro-supercapacitor</category>
-<category>triboelectric nanogenerator</category>
 </item>
 </channel>
 </rss>
