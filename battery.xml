@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 20:02:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 21:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistically enhancing bulk-interface kinetics towards fast-charging hard carbon anodes in Na-ion full batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105642</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105642</guid>
+<pubDate>Fri, 06 Nov 2026 21:01:28 GMT</pubDate>
+<description>مهندسی هم‌افزای سینتیک توده-رابط، آندهای کربن سخت شارژ سریع را در باتری‌های کامل Na-ion بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 hard carbon anode · Na-ion battery · fast charging · bulk-interface kinetics · full cell</description>
+<category>hard carbon anode</category>
+<category>Na-ion battery</category>
+<category>fast charging</category>
+<category>bulk-interface kinetics</category>
+<category>full cell</category>
+</item>
+<item>
+<title>Dual-Nitrate-Releasing Electrospun PAN Nanofiber Separators to Suppress Post-Cycle Corrosion Through Anti-Corrosive Interphase Engineering in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1007/s42765-026-00795-y</link>
+<guid isPermaLink="false">10.1007/s42765-026-00795-y</guid>
+<pubDate>Fri, 06 Nov 2026 21:01:10 GMT</pubDate>
+<description>جداکننده‌های نانوالیاف PAN رهاساز نیترات دوگانه با مهندسی فاز میانی ضدخوردگی، خوردگی پس از چرخه در باتری‌های لیتیوم-فلز را سرکوب می‌کنند.&lt;br&gt;Advanced Fiber Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium metal battery · PAN nanofiber separator · dual-nitrate release · anti-corrosive interphase · post-cycle corrosion</description>
+<category>lithium metal battery</category>
+<category>PAN nanofiber separator</category>
+<category>dual-nitrate release</category>
+<category>anti-corrosive interphase</category>
+<category>post-cycle corrosion</category>
+</item>
 <item>
 <title>Mechanically Robust Thermal Insulation With High Compression Stability for Suppressing Thermal Runaway Propagation in Sodium‐Ion Battery Modules</title>
 <link>https://doi.org/10.1002/cey2.70358</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>self-attention</category>
 <category>life prediction</category>
 <category>machine learning</category>
-</item>
-<item>
-<title>Surface-modulated non-stoichiometric multiphase Cu–Mn–Ni oxides for enhanced diffusion-controlled charge storage in asymmetric supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125421</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125421</guid>
-<pubDate>Thu, 05 Nov 2026 08:01:53 GMT</pubDate>
-<description>این مقاله اکسیدهای چندفازی غیراستوکیومتری Cu–Mn–Ni را با اصلاح سطح برای ذخیره‌سازی بار کنترل‌شده با نفوذ در ابرخازن‌های نامتقارن بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Cu-Mn-Ni oxide · asymmetric supercapacitor · diffusion-controlled storage · surface modulation · non-stoichiometric oxide</description>
-<category>Cu-Mn-Ni oxide</category>
-<category>asymmetric supercapacitor</category>
-<category>diffusion-controlled storage</category>
-<category>surface modulation</category>
-<category>non-stoichiometric oxide</category>
-</item>
-<item>
-<title>Reveal the influence mechanism of current activation on the structure, interface and electrochemical performance of cobalt-free Li-rich Mn-based cathode for halide-based all-solid-state batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125507</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125507</guid>
-<pubDate>Thu, 05 Nov 2026 08:01:45 GMT</pubDate>
-<description>این مقاله سازوکار اثر فعال‌سازی جریانی بر ساختار، فصل مشترک و عملکرد الکتروشیمیایی کاتد غنی از Li و Mn بدون کبالت را در باتری‌های تمام‌جامد هالیدی آشکار می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cobalt-free cathode · Li-rich Mn-based · all-solid-state battery · halide electrolyte · current activation</description>
-<category>cobalt-free cathode</category>
-<category>Li-rich Mn-based</category>
-<category>all-solid-state battery</category>
-<category>halide electrolyte</category>
-<category>current activation</category>
 </item>
 </channel>
 </rss>
