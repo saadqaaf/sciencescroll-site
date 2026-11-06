@@ -5,8 +5,94 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 12:03:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 13:04:47 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Oxygen-centered polyhedron for understanding and regulating anionic redox in Li-rich cathodes</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.054</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.054</guid>
+<pubDate>Fri, 06 Nov 2026 13:04:42 GMT</pubDate>
+<description>این مقاله با معرفی مفهوم چندوجهی مرکز اکسیژن، سازوکار ردکس آنیونی در کاتدهای غنی از لیتیوم را بررسی و تنظیم می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-rich cathode · anionic redox · oxygen-centered polyhedron · lattice oxygen · redox regulation</description>
+<category>Li-rich cathode</category>
+<category>anionic redox</category>
+<category>oxygen-centered polyhedron</category>
+<category>lattice oxygen</category>
+<category>redox regulation</category>
+</item>
+<item>
+<title>Orbital-Enabled Intrinsic Defect Healing via Charge Compensation toward Accelerated Sodium Storage in Mn-Rich Composite Phosphates</title>
+<link>https://doi.org/10.1021/jacs.6c20504</link>
+<guid isPermaLink="false">10.1021/jacs.6c20504</guid>
+<pubDate>Fri, 06 Nov 2026 13:04:37 GMT</pubDate>
+<description>دوپینگ جزئی V در کاتد فسفات کامپوزیتی غنی از Mn با کاهش نقص‌های اکسیژن و مکان‌های آنتی‌سایت Mn/Na، سینتیک Na+ و پایداری باتری سدیم-یون را بهبود می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying intrinsic oxygen vacancies as the root cause of Mn/Na antisite defects in Mn-rich composite phosphates, and using trace V3+ doping with unique empty eg*0 orbitals and modest charge compensation to heal these defects. This enables 421.1 Wh/kg energy density, 97.0% initial Coulombic efficiency, and 93.6% capacity retention after 1000 cycles, advancing high-performance sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · Mn-rich phosphate cathode · oxygen vacancies · V doping · charge compensation</description>
+<category>sodium-ion battery</category>
+<category>Mn-rich phosphate cathode</category>
+<category>oxygen vacancies</category>
+<category>V doping</category>
+<category>charge compensation</category>
+</item>
+<item>
+<title>Machine Learning-Driven Electrolyte Additive Discovery for Ultrafast Charging of Sodium Metal Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c10960</link>
+<guid isPermaLink="false">10.1021/jacs.6c10960</guid>
+<pubDate>Fri, 06 Nov 2026 13:04:10 GMT</pubDate>
+<description>با یادگیری ماشین فعال، افزودنی NaCDFA برای باتری سدیم-فلز شناسایی شد که با ساخت میان‌فاز غنی از NaF شارژ فوق‌سریع را ممکن می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using active machine learning (Gaussian process regression) to discover a trace-level NaCDFA additive that triggers targeted PF6– anion decomposition, forming conductive NaF-rich interphases. Significance: enables ultrafast charging (50,000 cycles at 200 C) and practical high-loading, anode-free sodium metal batteries, demonstrating machine learning-guided electrolyte discovery as a cost-effective strategy for fast-charging battery design.&lt;br&gt;🏷 sodium metal battery · electrolyte additive · machine learning · fast charging · NaF interphase</description>
+<category>sodium metal battery</category>
+<category>electrolyte additive</category>
+<category>machine learning</category>
+<category>fast charging</category>
+<category>NaF interphase</category>
+</item>
+<item>
+<title>Full-sunlight-driven photocatalytic recovery of critical metals from spent lithium-ion batteries via organic acid leaching</title>
+<link>https://doi.org/10.1038/s41467-026-78307-0</link>
+<guid isPermaLink="false">10.1038/s41467-026-78307-0</guid>
+<pubDate>Fri, 06 Nov 2026 13:03:52 GMT</pubDate>
+<description>این مقاله بازیابی فوتوکاتالیستی فلزات حیاتی از باتری‌های لیتیوم-یونی مستعمل را با لیچینگ اسید آلی تحت نور کامل خورشید انجام می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a sunlight-driven photocatalytic leaching framework coupling mild organic acids with a reusable photocatalyst, generating hydrogen peroxide in situ and activating it via UV to enhance metal extraction without external oxidants. Its significance is enabling versatile, profitable, low-energy recovery of critical metals from diverse spent lithium-ion cathodes, with reduced emissions and scalable circular-economy potential.&lt;br&gt;🏷 spent lithium-ion batteries · photocatalytic leaching · critical metals · organic acid · full-sunlight</description>
+<category>spent lithium-ion batteries</category>
+<category>photocatalytic leaching</category>
+<category>critical metals</category>
+<category>organic acid</category>
+<category>full-sunlight</category>
+</item>
+<item>
+<title>Unraveling the Impact of Surface Lithiation on the Initial Solid Electrolyte Interphase Formation on Graphite via Machine Learning Molecular Dynamics</title>
+<link>https://doi.org/10.1021/acsnano.6c13417</link>
+<guid isPermaLink="false">10.1021/acsnano.6c13417</guid>
+<pubDate>Fri, 06 Nov 2026 13:03:08 GMT</pubDate>
+<description>با یک پتانسیل یادگیری ماشین واکنشی، مسیرهای واکنش و گونه‌های فعال در تشکیل اولیه SEI روی گرافیت در بارگذاری‌های مختلف Li شبیه‌سازی و شناسایی شد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in developing a reactive machine learning potential enabling nanosecond-scale MD simulations of SEI formation on graphite, revealing how Li loading at edge sites controls reduction pathways. Significance: provides atomic-level mechanistic insight into potential-dependent SEI evolution, distinguishing insufficient reduction at low Li loading from inorganic-rich cluster formation at high loading, offering a computational framework to guide rational interfacial engineering for high-performance batteries.&lt;br&gt;🏷 solid electrolyte interphase · graphite anode · machine learning potential · molecular dynamics · Li loading</description>
+<category>solid electrolyte interphase</category>
+<category>graphite anode</category>
+<category>machine learning potential</category>
+<category>molecular dynamics</category>
+<category>Li loading</category>
+</item>
+<item>
+<title>A Multi‐Topologically Superposed Mechanically Interlocked Polymer</title>
+<link>https://doi.org/10.1002/anie.5492549</link>
+<guid isPermaLink="false">10.1002/anie.5492549</guid>
+<pubDate>Fri, 06 Nov 2026 13:02:12 GMT</pubDate>
+<description>پلیمر مکانیکی درهم‌قفل با چهار موتیف توپولوژیکی به‌عنوان ASEI برای باتری سدیم، پس از ۱۰۰۰۰ چرخه ۸۷.۸٪ ظرفیت را حفظ می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creating a mechanically interlocked polymer with four distinct topological motifs superposed, overcoming the single-topology limitation of prior MIS. This multi-topological architecture yields exceptional mechanical strength and efficient Na+ transport, enabling ultralong cycling stability (87.8% retention after 10,000 cycles at 20 C) as an artificial solid electrolyte interphase, thereby expanding topological design and advanced battery applications.&lt;br&gt;🏷 mechanically interlocked polymer · artificial SEI · sodium metal battery · Na+ transport · topological motifs</description>
+<category>mechanically interlocked polymer</category>
+<category>artificial SEI</category>
+<category>sodium metal battery</category>
+<category>Na+ transport</category>
+<category>topological motifs</category>
+</item>
+<item>
+<title>Dynamic Mn Evolution Chemistry Governs Anode Degradation and Guides Electrolyte Engineering in LiNi0.5Mn1.5O4||Graphite Pouch Cells</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112597</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112597</guid>
+<pubDate>Fri, 06 Nov 2026 13:01:59 GMT</pubDate>
+<description>این مقاله تکامل دینامیکی منگنز را به‌عنوان عامل تخریب آند در سلول‌های کیسه‌ای LiNi0.5Mn1.5O4||گرافیت بررسی و مهندسی الکترولیت را برای بهبود پایداری هدایت می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 LiNi0.5Mn1.5O4 · graphite anode · Mn dissolution · electrolyte engineering · pouch cells</description>
+<category>LiNi0.5Mn1.5O4</category>
+<category>graphite anode</category>
+<category>Mn dissolution</category>
+<category>electrolyte engineering</category>
+<category>pouch cells</category>
+</item>
 <item>
 <title>Breaking Quasi‐Chelation in Thioether Electrolytes for Synergistic Interfacial Stabilization in Lithium‐Sulfur Batteries</title>
 <link>https://doi.org/10.1002/adfm.79507</link>
@@ -1123,90 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>molecular adsorption</category>
 <category>electrocrystallization</category>
 <category>facet engineering</category>
-</item>
-<item>
-<title>Molecule-to-System Design Rules for Neutral TEMPO/Viologen Aqueous Organic Redox Flow Batteries</title>
-<link>https://doi.org/10.1039/d6ee03279f</link>
-<guid isPermaLink="false">10.1039/d6ee03279f</guid>
-<pubDate>Wed, 04 Nov 2026 16:01:09 GMT</pubDate>
-<description>این مقاله قواعد طراحی از سطح مولکول تا سیستم را برای باتری‌های جریان ردوکس آبی خنثی بر پایه TEMPO و viologen مرور می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review&lt;br&gt;💡 The novelty lies in deriving molecule-to-system design rules that bridge molecular structure with full-cell performance for neutral TEMPO/viologen AORFBs. Significance: these rules guide rational co-design of catholyte, anolyte, and operating conditions, enabling safer, scalable, long-duration energy storage and accelerating translation from molecule discovery to practical systems.&lt;br&gt;🏷 redox flow battery · TEMPO · viologen · aqueous electrolyte · molecular design</description>
-<category>redox flow battery</category>
-<category>TEMPO</category>
-<category>viologen</category>
-<category>aqueous electrolyte</category>
-<category>molecular design</category>
-</item>
-<item>
-<title>Decoupling the Intrinsic Li/Mn Disorder Mechanism in Li-Rich Layered Oxides</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03411</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03411</guid>
-<pubDate>Wed, 04 Nov 2026 13:01:18 GMT</pubDate>
-<description>این کار وجود بی‌نظمی درون‌لایه‌ای Li/Mn در دامنه‌های Li2MnO3 را تأیید کرده و با DFT نشان می‌دهد پیکربندی‌های Li-excess و TM-excess به‌طور مکمل redox آنیونی را تقویت و چارچوب را پایدار می‌کنند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in confirming intrinsic intralayer Li/Mn disorder within Li2MnO3 domains, classified as Li-excess and TM-excess configurations. Significance: DFT reveals complementary roles—Li-excess promotes oxygen redox activity, TM-excess stabilizes TM–O bonding and framework. Coupling these configurations enables more reversible anionic redox, suppresses oxygen release and TM migration, improving electrochemical stability of Li-rich cathodes.&lt;br&gt;🏷 Li-rich layered oxides · Li/Mn disorder · anionic redox · Li2MnO3 domains · DFT calculations</description>
-<category>Li-rich layered oxides</category>
-<category>Li/Mn disorder</category>
-<category>anionic redox</category>
-<category>Li2MnO3 domains</category>
-<category>DFT calculations</category>
-</item>
-<item>
-<title>Reaction-Programmed Interphase Reconstruction by an Ultrathin Zinc Phosphate Nanofilm for Reversible Lithium Metal Anodes</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03951</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03951</guid>
-<pubDate>Wed, 04 Nov 2026 13:01:07 GMT</pubDate>
-<description>نانوفیلم نازک zinc phosphate به عنوان پیش‌ماده واکنشی، در حین آبکاری Li ساختار بین‌سطحی را بازسازی کرده و با ایجاد سایت‌های lithiophilic و فاز Li3PO4-rich، رسوب یکنواخت و پایداری آند lithium را بهبود می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ultrathin zinc phosphate nanofilm that reconstructs during initial lithiation into Zn and a Li₃PO₄-rich phase, integrating nucleation regulation and interphase protection in one precursor layer. This enables dendrite-free, compact Li deposition, low overpotential, and stable cycling over 1400 h, improving LiFePO₄, NCM811, and sulfur full cells—offering a simple, scalable route to reversible Li metal anodes.&lt;br&gt;🏷 zinc phosphate nanofilm · lithium metal anode · interphase reconstruction · lithiophilic Zn alloy · nucleation regulation</description>
-<category>zinc phosphate nanofilm</category>
-<category>lithium metal anode</category>
-<category>interphase reconstruction</category>
-<category>lithiophilic Zn alloy</category>
-<category>nucleation regulation</category>
-</item>
-<item>
-<title>Interfacial charge coupling in CeO2-Fe2O3@rGO ternary nanocomposite electrodes for high-energy density asymmetric supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125277</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125277</guid>
-<pubDate>Wed, 04 Nov 2026 12:02:08 GMT</pubDate>
-<description>این مقاله الکترودهای نانوکامپوزیت سه‌تایی CeO2-Fe2O3@rGO را با جفت‌شدگی بار بین‌سطحی برای ابرخازن‌های نامتقارن با چگالی انرژی بالا بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 CeO2-Fe2O3@rGO · asymmetric supercapacitor · interfacial charge coupling · ternary nanocomposite · energy density</description>
-<category>CeO2-Fe2O3@rGO</category>
-<category>asymmetric supercapacitor</category>
-<category>interfacial charge coupling</category>
-<category>ternary nanocomposite</category>
-<category>energy density</category>
-</item>
-<item>
-<title>Optimization of percolation threshold in lithium cobalt oxide‑carbon nanotubes composites for high-performance aqueous lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125360</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125360</guid>
-<pubDate>Wed, 04 Nov 2026 12:02:04 GMT</pubDate>
-<description>این مقاله آستانه نفوذ در کامپوزیت‌های LiCoO2-نانولوله کربنی را برای باتری‌های یون‌لیتیم آبی بهینه‌سازی می‌کند و نقش آن در بهبود عملکرد الکترود را نشان می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LiCoO2-CNT composite · aqueous lithium-ion battery · percolation threshold · carbon nanotubes · electrode conductivity</description>
-<category>LiCoO2-CNT composite</category>
-<category>aqueous lithium-ion battery</category>
-<category>percolation threshold</category>
-<category>carbon nanotubes</category>
-<category>electrode conductivity</category>
-</item>
-<item>
-<title>Comparative assessment of pumped hydro and battery storage in a hybrid renewable energy system with excess-energy-driven desalination</title>
-<link>https://doi.org/10.1016/j.est.2026.125284</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125284</guid>
-<pubDate>Wed, 04 Nov 2026 12:02:00 GMT</pubDate>
-<description>ذخیره‌سازی تلمبه‌ای و باتری در یک سیستم تجدیدپذیر هیبریدی با نمک‌زدایی مبتنی بر انرژی مازاد مقایسه می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 pumped hydro storage · battery storage · hybrid renewable system · desalination · excess energy</description>
-<category>pumped hydro storage</category>
-<category>battery storage</category>
-<category>hybrid renewable system</category>
-<category>desalination</category>
-<category>excess energy</category>
-</item>
-<item>
-<title>A state-of-the-art review of heat pump integrated with latent heat storage for heat utilization electrification</title>
-<link>https://doi.org/10.1016/j.est.2026.125323</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125323</guid>
-<pubDate>Wed, 04 Nov 2026 12:01:52 GMT</pubDate>
-<description>این مرور به‌روز، ادغام پمپ حرارتی با ذخیره‌سازی گرمای نهان را برای برقی‌سازی استفاده از گرما بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 heat pump · latent heat storage · phase change material · electrification of heat · thermal energy storage</description>
-<category>heat pump</category>
-<category>latent heat storage</category>
-<category>phase change material</category>
-<category>electrification of heat</category>
-<category>thermal energy storage</category>
 </item>
 </channel>
 </rss>
