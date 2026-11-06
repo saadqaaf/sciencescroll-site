@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 03:02:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 04:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>6400-cycle durable zinc–air batteries enabled by molten-salt-constructed Ni9S8@Bi2S3 core–shell nanoarrays with p–d heterointerfaces</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.047</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.047</guid>
+<pubDate>Fri, 06 Nov 2026 04:01:15 GMT</pubDate>
+<description>نانوآرایه‌های هسته-پوسته Ni9S8@Bi2S3 با فصل مشترک ناهمگون p-d به روش نمک مذاب ساخته شد و باتری روی-هوا با دوام 6400 چرخه را ممکن کرد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 zinc-air battery · core-shell nanoarray · p-d heterointerface · molten salt synthesis · oxygen electrocatalysis</description>
+<category>zinc-air battery</category>
+<category>core-shell nanoarray</category>
+<category>p-d heterointerface</category>
+<category>molten salt synthesis</category>
+<category>oxygen electrocatalysis</category>
+</item>
 <item>
 <title>In-Situ Conversion of Li2CO3 on Garnet Electrolyte Mediated by Fluoride for Solid-State Lithium Metal Batteries</title>
 <link>https://doi.org/10.1016/j.nanoen.2026.112587</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>nanosheet hybrid</category>
 <category>amine-assisted synthesis</category>
 <category>rate performance</category>
-</item>
-<item>
-<title>Residual alkali conversion and near-surface Na+ extraction enabling high-voltage O3-type Ni-Mn-based sodium-ion battery cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125495</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125495</guid>
-<pubDate>Wed, 04 Nov 2026 01:01:46 GMT</pubDate>
-<description>تبدیل قلیای باقی‌مانده و استخراج Na+ از نزدیک سطح، کاتد O3-type بر پایه Ni-Mn را قادر به کارکرد در ولتاژ بالا در باتری یون سدیم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · O3-type cathode · Ni-Mn oxide · residual alkali conversion · near-surface Na+ extraction</description>
-<category>sodium-ion battery</category>
-<category>O3-type cathode</category>
-<category>Ni-Mn oxide</category>
-<category>residual alkali conversion</category>
-<category>near-surface Na+ extraction</category>
 </item>
 </channel>
 </rss>
