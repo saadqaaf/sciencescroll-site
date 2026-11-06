@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 00:01:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 01:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring Zeolite Acidity to Regulate Dynamic NH3 Adsorption-Desorption for Enhanced Plasma-Catalytic Ammonia Synthesis</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127755</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127755</guid>
+<pubDate>Fri, 06 Nov 2026 01:01:02 GMT</pubDate>
+<description>این پژوهش با تنظیم اسیدیته زئولیت، جذب و واجذب دینامیکی NH3 را برای بهبود سنتز آمونیاک به روش پلاسما-کاتالیستی کنترل می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 zeolite acidity · plasma catalysis · ammonia synthesis · NH3 adsorption-desorption · nitrogen fixation</description>
+<category>zeolite acidity</category>
+<category>plasma catalysis</category>
+<category>ammonia synthesis</category>
+<category>NH3 adsorption-desorption</category>
+<category>nitrogen fixation</category>
+</item>
+<item>
+<title>Layered double hydroxide-based composites for catalysis: a review of morphology and structure modification strategies</title>
+<link>https://doi.org/10.1007/s42114-026-02112-y</link>
+<guid isPermaLink="false">10.1007/s42114-026-02112-y</guid>
+<pubDate>Fri, 06 Nov 2026 01:00:58 GMT</pubDate>
+<description>این مرور به بررسی راهبردهای اصلاح مورفولوژی و ساختار کامپوزیت‌های بر پایه هیدروکسید دوگانه لایه‌ای برای کاربردهای کاتالیستی می‌پردازد.&lt;br&gt;Advanced Composites and Hybrid Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 layered double hydroxide · catalysis · morphology control · structure modification · composite catalysts</description>
+<category>layered double hydroxide</category>
+<category>catalysis</category>
+<category>morphology control</category>
+<category>structure modification</category>
+<category>composite catalysts</category>
+</item>
 <item>
 <title>Unlocking lignin valorization: heterogeneous photocatalysts for Cβ−O bond cleavage</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218735</link>
@@ -1182,30 +1206,6 @@
 <category>stereoselectivity</category>
 <category>lipid substrates</category>
 <category>enzyme orthologues</category>
-</item>
-<item>
-<title>The Novel Viral Non‐Coding RNA LMP2A‐IT1 Promotes the Lytic Replication of EBV</title>
-<link>https://doi.org/10.1002/advs.78488</link>
-<guid isPermaLink="false">10.1002/advs.78488</guid>
-<pubDate>Thu, 05 Nov 2026 18:02:16 GMT</pubDate>
-<description>یک ncRNA ویروسی جدید به نام LMP2A-IT1 شناسایی شد که با فعال‌سازی پاسخ التهابی و افزایش BZLF1 تکثیر لیتیک EBV را تقویت می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Epstein-Barr virus · viral ncRNA · lytic replication · glycoRNA · BZLF1</description>
-<category>Epstein-Barr virus</category>
-<category>viral ncRNA</category>
-<category>lytic replication</category>
-<category>glycoRNA</category>
-<category>BZLF1</category>
-</item>
-<item>
-<title>Mechanically‐Gated Stochastic Resonance for All‐Optical Acoustic Sensing in Noisy Environments</title>
-<link>https://doi.org/10.1002/advs.78634</link>
-<guid isPermaLink="false">10.1002/advs.78634</guid>
-<pubDate>Thu, 05 Nov 2026 18:02:13 GMT</pubDate>
-<description>پدیده رزونانس تصادفی مکانیکی‌گیت‌شده در یک سیستم تمام‌نوری با فیبر Bragg برای آشکارسازی صوتی ضعیف در محیط پرنویز با افزایش SNR ارائه شد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 stochastic resonance · acoustic sensing · fiber Bragg grating · all-optical system · signal-to-noise ratio</description>
-<category>stochastic resonance</category>
-<category>acoustic sensing</category>
-<category>fiber Bragg grating</category>
-<category>all-optical system</category>
-<category>signal-to-noise ratio</category>
 </item>
 </channel>
 </rss>
