@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 18:01:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 19:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking the Capacity‐Reversibility Linear Trade‐Off in Li–O 2 Batteries via Amorphous Non‐Precious High‐Entropy Alloy Catalysts</title>
+<link>https://doi.org/10.1002/adma.75403</link>
+<guid isPermaLink="false">10.1002/adma.75403</guid>
+<pubDate>Fri, 06 Nov 2026 19:01:47 GMT</pubDate>
+<description>کاتالیزور آلیاژ آنتروپی بالا و آمورف MnFeCoNiCu، مبادله خطی ظرفیت-بازگشت‌پذیری در باتری Li–O2 را شکسته و ظرفیت و عمر بالاتری ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Amorphous non-precious MnFeCoNiCu high-entropy alloy catalyst breaks the capacity-reversibility trade-off in Li–O₂ batteries. Its porous structure promotes solution-mediated Li₂O₂ growth (10.8 mAh cm⁻²), while multielement electron redistribution lowers overpotential to 0.75 V and extends lifetime 4–5×. Scalable (&amp;gt;100 g) and viable in pouch cells (754 Wh kg⁻¹, 400 mA, −30°C), offering a cost-effective alternative to precious metals.&lt;br&gt;🏷 Li-O2 battery · high-entropy alloy · amorphous catalyst · capacity-reversibility trade-off · Li2O2 growth</description>
+<category>Li-O2 battery</category>
+<category>high-entropy alloy</category>
+<category>amorphous catalyst</category>
+<category>capacity-reversibility trade-off</category>
+<category>Li2O2 growth</category>
+</item>
+<item>
+<title>Coupling Iodine Conversion and Zinc Ion Transport via Molecular Catalysis for Long‐Life Zinc‐Iodine Batteries</title>
+<link>https://doi.org/10.1002/adma.75537</link>
+<guid isPermaLink="false">10.1002/adma.75537</guid>
+<pubDate>Fri, 06 Nov 2026 19:01:39 GMT</pubDate>
+<description>مقاله با کاتالیزور مولکولی Fe–TCPP، تبدیل ید و انتقال یون روی را هم‌زمان تنظیم کرده و باتری روی-ید با عمر چرخه‌ای طولانی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Fe–TCPP porphyrin catalyst uniquely resolves the adsorption–transport conflict in Zn–I₂ batteries: its Fe–N₄ center moderately binds polyiodides (suppressing shuttling without passivation), while carboxyphenyl groups create a zincophilic microenvironment for Zn²⁺ access. This synchronized redox and ion regulation enables 50,000 cycles at 5 A g⁻¹ and stable pouch cells at 22 mg cm⁻² loading, establishing a molecular-catalytic design framework for aqueous batteries with soluble redox species.&lt;br&gt;🏷 zinc-iodine battery · molecular catalysis · polyiodide shuttling · porphyrin catalyst · long-life cycling</description>
+<category>zinc-iodine battery</category>
+<category>molecular catalysis</category>
+<category>polyiodide shuttling</category>
+<category>porphyrin catalyst</category>
+<category>long-life cycling</category>
+</item>
 <item>
 <title>Tailoring Interfacial Li + Transport and Polysulfide Behavior via a Functionalized Separator for Stable Li-S Batteries</title>
 <link>https://doi.org/10.1039/d6ta07037j</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>bio-energy storage</category>
 <category>battery design</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>A review of carbon-based electrode materials for asymmetric supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125396</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125396</guid>
-<pubDate>Thu, 05 Nov 2026 08:01:37 GMT</pubDate>
-<description>این مرور، مواد الکترودی کربن‌پایه را برای ابرخازن‌های نامتقارن بررسی می‌کند و راهبردهای طراحی و عملکرد آن‌ها را جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 asymmetric supercapacitor · carbon electrode · energy storage · electrode materials · capacitance</description>
-<category>asymmetric supercapacitor</category>
-<category>carbon electrode</category>
-<category>energy storage</category>
-<category>electrode materials</category>
-<category>capacitance</category>
-</item>
-<item>
-<title>Formation‐Stage Interfacial Regulation of δ‐MnO 2 Enables Stable and Reversible Aqueous Zn‐Ion Storage</title>
-<link>https://doi.org/10.1002/advs.78465</link>
-<guid isPermaLink="false">10.1002/advs.78465</guid>
-<pubDate>Thu, 05 Nov 2026 07:01:59 GMT</pubDate>
-<description>تنظیم بین‌سطحی Fe در مرحله تشکیل δ-MnO2 روی نانوالیاف کربنی، دسترسی سینتیکی را بهبود و انحلال Mn را سرکوب کرده و ذخیره‌سازی پایدار روی-یون آبی را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a formation-stage Fe interfacial regulation strategy that avoids bulk substitution, instead creating low-content, highly dispersed surface/interface Fe species that tune the local Mn─O environment and nanosheet growth. This improves Zn2+ kinetics and suppresses Mn dissolution while preserving Mn redox chemistry, enabling high capacity (409.29 mAh g−1) and durable cycling (81.1% retention after 3000 cycles), offering a design route for stable Mn-based aqueous Zn-ion cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · delta-MnO2 cathode · Fe interfacial regulation · Mn dissolution · cycling stability</description>
-<category>aqueous zinc-ion battery</category>
-<category>delta-MnO2 cathode</category>
-<category>Fe interfacial regulation</category>
-<category>Mn dissolution</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
