@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 07:01:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 08:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Defect-to-Phase Transduction and Interface Reconstruction Enable Regeneration of Spent LiFePO4 Cathodes</title>
+<link>https://doi.org/10.1007/s40820-026-02451-x</link>
+<guid isPermaLink="false">10.1007/s40820-026-02451-x</guid>
+<pubDate>Fri, 06 Nov 2026 08:01:28 GMT</pubDate>
+<description>این پژوهش با تبدیل نقص به فاز و بازسازی فصل مشترک کربنی، کاتد LiFePO4 مستعمل را بازتولید می‌کند و ظرفیت 167 mAh g-1 و پایداری 99.2 درصدی پس از 500 چرخه را نشان می‌دهد.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in defect-to-phase transduction: controlled oxidation converts spent olivine into Li3Fe2(PO4)3 and Fe2O3 intermediates, erasing inherited defect topology, then lithiation/reduction rebuilds LiFePO4, cutting Fe-on-Li occupancy from 5.72% to 0.35% via guanidine-assisted carbon-interface reconstruction. Significance: 167 mAh g-1 at 0.1 C, 99.2% retention over 500 cycles, and US$2.28 kg-1 profit with lower energy and emissions than hydrometallurgy.&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · spent lithium battery · defect reconstruction · interface reconstruction</description>
+<category>LiFePO4 cathode</category>
+<category>direct regeneration</category>
+<category>spent lithium battery</category>
+<category>defect reconstruction</category>
+<category>interface reconstruction</category>
+</item>
+<item>
+<title>Creation of high-performance ionized solid-state electrolyte by dissolving Li10SnP2S12 in poly(vinylene carbonate): A breakthrough from filler effect to ion effect</title>
+<link>https://doi.org/10.1016/j.esci.2026.100670</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100670</guid>
+<pubDate>Fri, 06 Nov 2026 08:01:23 GMT</pubDate>
+<description>این پژوهش با حل‌کردن Li10SnP2S12 در poly(vinylene carbonate) یک الکترولیت جامد یونیزه با عملکرد بالا می‌سازد و از اثر پرکننده به اثر یونی می‌رسد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid electrolyte · Li10SnP2S12 · poly(vinylene carbonate) · ionized electrolyte · lithium battery</description>
+<category>solid electrolyte</category>
+<category>Li10SnP2S12</category>
+<category>poly(vinylene carbonate)</category>
+<category>ionized electrolyte</category>
+<category>lithium battery</category>
+</item>
+<item>
+<title>Bubble coalescence in electrochemical and photoelectrochemical water splitting: Fundamentals, transport coupling, and engineering implications</title>
+<link>https://doi.org/10.1016/j.pecs.2026.101314</link>
+<guid isPermaLink="false">10.1016/j.pecs.2026.101314</guid>
+<pubDate>Fri, 06 Nov 2026 08:01:18 GMT</pubDate>
+<description>این مقاله مروری مبانی هم‌آمیزی حباب و جفت‌شدگی انتقال جرم را در شکافت آب الکتروشیمیایی و فوتوالکتروشیمیایی و پیامدهای مهندسی آن را بررسی می‌کند.&lt;br&gt;Progress in Energy and Combustion Science | ⭐ Review&lt;br&gt;🏷 bubble coalescence · water splitting · gas transport · electrochemical engineering · photoelectrochemistry</description>
+<category>bubble coalescence</category>
+<category>water splitting</category>
+<category>gas transport</category>
+<category>electrochemical engineering</category>
+<category>photoelectrochemistry</category>
+</item>
+<item>
+<title>3D printing across the crop growth Cycle: Toward sustainable agricultural systems</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101884</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101884</guid>
+<pubDate>Fri, 06 Nov 2026 08:01:14 GMT</pubDate>
+<description>این مقاله مروری کاربردهای چاپ سه‌بعدی را در سراسر چرخه رشد محصول برای دستیابی به سامانه‌های کشاورزی پایدار بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 3D printing · crop growth cycle · sustainable agriculture · additive manufacturing · agri-tech</description>
+<category>3D printing</category>
+<category>crop growth cycle</category>
+<category>sustainable agriculture</category>
+<category>additive manufacturing</category>
+<category>agri-tech</category>
+</item>
 <item>
 <title>Switchable Photo/Dark Modes Catalysis Enabled by Single-Metal Immobilized-Covalent Organic Frameworks for NAD+/Nitrobenzene Reduction, Oxidative Cyclization, and Suzuki-Miyaura Coupling</title>
 <link>https://doi.org/10.1039/d6ta07636j</link>
@@ -1162,54 +1210,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 supram
 <category>drug discovery</category>
 <category>nanobody</category>
 <category>PPAR gamma</category>
-</item>
-<item>
-<title>Privacy, accuracy, and objectivity of census data</title>
-<link>https://doi.org/10.1126/science.aem6487</link>
-<guid isPermaLink="false">10.1126/science.aem6487</guid>
-<pubDate>Thu, 05 Nov 2026 21:02:34 GMT</pubDate>
-<description>این مقاله یک الگوریتم جدید حفظ حریم خصوصی را معرفی می‌کند که دقت آمارهای جمعیتی سرشماری را بهبود می‌بخشد.&lt;br&gt;Science | 💭 Perspective&lt;br&gt;🏷 census data · privacy algorithm · population statistics · data accuracy · differential privacy</description>
-<category>census data</category>
-<category>privacy algorithm</category>
-<category>population statistics</category>
-<category>data accuracy</category>
-<category>differential privacy</category>
-</item>
-<item>
-<title>Tumor metastasis co-opts liver hematopoiesis to promote immunosuppression</title>
-<link>https://doi.org/10.1126/science.aea3046</link>
-<guid isPermaLink="false">10.1126/science.aea3046</guid>
-<pubDate>Thu, 05 Nov 2026 21:02:31 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد متاستاز کبدی با بازبرنامه‌ریزی خون‌سازی کبدی و تولید نوتروفیل‌های نابالغ ANXA1+ موجب سرکوب ایمنی و آنرژی سلول‌های CD8+ T و NK می‌شود.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 liver metastasis · extramedullary hematopoiesis · immunosuppression · immature neutrophils · glucocorticoids</description>
-<category>liver metastasis</category>
-<category>extramedullary hematopoiesis</category>
-<category>immunosuppression</category>
-<category>immature neutrophils</category>
-<category>glucocorticoids</category>
-</item>
-<item>
-<title>Obesity pharmacotherapies and cognition</title>
-<link>https://doi.org/10.1126/science.aek9987</link>
-<guid isPermaLink="false">10.1126/science.aek9987</guid>
-<pubDate>Thu, 05 Nov 2026 21:02:28 GMT</pubDate>
-<description>این مرور شواهد اثر داروهای چاقی و دیابت مانند GLP-1 بر شناخت و سلامت مغز را در بیماری قلبی‌متابولیک، سالمندی و آلزایمر بررسی می‌کند.&lt;br&gt;Science | ⭐ Review&lt;br&gt;🏷 obesity pharmacotherapy · GLP-1 · cognition · brain health · Alzheimer&amp;#x27;s disease</description>
-<category>obesity pharmacotherapy</category>
-<category>GLP-1</category>
-<category>cognition</category>
-<category>brain health</category>
-<category>Alzheimer&#x27;s disease</category>
-</item>
-<item>
-<title>When fat adapts: From physiological remodeling to disease</title>
-<link>https://doi.org/10.1126/science.aee9044</link>
-<guid isPermaLink="false">10.1126/science.aee9044</guid>
-<pubDate>Thu, 05 Nov 2026 21:02:23 GMT</pubDate>
-<description>این مرور نشان می‌دهد بازآرایی بافت چربی از سازگاری فیزیولوژیک تا بیماری‌هایی مانند چاقی و سرطان گسترده است و اهداف درمانی را فراتر از کاهش توده چربی می‌برد.&lt;br&gt;Science | ⭐ Review&lt;br&gt;🏷 adipose tissue remodeling · obesity · tumor microenvironment · adipogenesis · thermogenesis</description>
-<category>adipose tissue remodeling</category>
-<category>obesity</category>
-<category>tumor microenvironment</category>
-<category>adipogenesis</category>
-<category>thermogenesis</category>
 </item>
 </channel>
 </rss>
