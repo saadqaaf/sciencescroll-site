@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 16:01:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 17:02:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tailoring Interfacial Li + Transport and Polysulfide Behavior via a Functionalized Separator for Stable Li-S Batteries</title>
+<link>https://doi.org/10.1039/d6ta07037j</link>
+<guid isPermaLink="false">10.1039/d6ta07037j</guid>
+<pubDate>Fri, 06 Nov 2026 17:02:25 GMT</pubDate>
+<description>یک جداکننده عامل‌دار با تنظیم انتقال Li+ و رفتار polysulfide، پایداری بین‌سطحی و عملکرد باتری Li-S را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a functionalized separator that simultaneously tailors interfacial Li⁺ transport and suppresses polysulfide migration, addressing both Li-dendrite formation and LiPS shuttling. Its significance is enabling stable Li-S batteries with improved interfacial stability and cycling performance, advancing high-energy-density battery viability.&lt;br&gt;🏷 Li-S battery · functionalized separator · polysulfide shuttle · Li+ transport · Li metal anode</description>
+<category>Li-S battery</category>
+<category>functionalized separator</category>
+<category>polysulfide shuttle</category>
+<category>Li+ transport</category>
+<category>Li metal anode</category>
+</item>
+<item>
+<title>Protocol-aware evaluation of capacity and retention in Prussian blue analogue cathodes</title>
+<link>https://doi.org/10.1039/d6ta06173g</link>
+<guid isPermaLink="false">10.1039/d6ta06173g</guid>
+<pubDate>Fri, 06 Nov 2026 17:02:13 GMT</pubDate>
+<description>ارزیابی آگاه از پروتکل با یادگیری ماشین برای کاتدهای Prussian blue analogue نشان می‌دهد که دقت پیش‌بینی ظرفیت و پایداری به هدف و نمایش داده وابسته است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in protocol-aware machine learning for Prussian blue analogue cathodes, showing performance gains depend on target and representation. Compact models best predict retention, while rankings shift with rate and cycling stage. Significance: matched-protocol validation is essential for reliable cathode evaluation.&lt;br&gt;🏷 Prussian blue analogues · cathode capacity retention · machine learning · protocol-aware evaluation · battery cycling</description>
+<category>Prussian blue analogues</category>
+<category>cathode capacity retention</category>
+<category>machine learning</category>
+<category>protocol-aware evaluation</category>
+<category>battery cycling</category>
+</item>
+<item>
+<title>A high voltage aqueous manganese–cadmium flow-assisted battery with a simple acidic electrolyte</title>
+<link>https://doi.org/10.1039/d6ta05503f</link>
+<guid isPermaLink="false">10.1039/d6ta05503f</guid>
+<pubDate>Fri, 06 Nov 2026 17:02:07 GMT</pubDate>
+<description>باتری آبی اسیدی جریان‌کمکی Mn-Cd با واکنش‌های Mn2+/MnO2 و Cd2+/Cd ولتاژ متوسط 1.70 V و بازده کولمبی 89% در 300 چرخه را نشان می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is an aqueous Mn–Cd flow-assisted battery using a simple acidic electrolyte, achieving a high average discharge voltage of 1.70 V via Mn²⁺/MnO₂ and Cd²⁺/Cd redox couples. Its significance lies in demonstrating stable cycling—89% coulombic efficiency over 300 cycles—showing that high-voltage, low-cost aqueous flow batteries are feasible with straightforward chemistry.&lt;br&gt;🏷 aqueous battery · Mn-Cd · flow-assisted cell · acidic electrolyte · high voltage</description>
+<category>aqueous battery</category>
+<category>Mn-Cd</category>
+<category>flow-assisted cell</category>
+<category>acidic electrolyte</category>
+<category>high voltage</category>
+</item>
+<item>
+<title>MXene-enabled zinc anode stabilization in aqueous zinc-ion batteries: mechanistic insights into interface, architecture, and electrolyte engineering</title>
+<link>https://doi.org/10.1039/d6ta05949j</link>
+<guid isPermaLink="false">10.1039/d6ta05949j</guid>
+<pubDate>Fri, 06 Nov 2026 17:02:02 GMT</pubDate>
+<description>این مرور سازوکارهای مهندسی رابط، ساختار و الکترولیت با MXene را برای یکنواخت‌سازی شار Zn2+ و سرکوب دندریت، HER و خوردگی در آند روی آبی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 MXene uniquely engineers Zn²⁺ transport, water structure, and interfacial reactions simultaneously, converting random deposition into uniform flux. This mechanistic integration of interface, architecture, and electrolyte design suppresses dendrites, hydrogen evolution, and corrosion, enabling stable, long-life aqueous zinc-ion battery anodes—advancing beyond single-factor approaches toward holistic anode stabilization.&lt;br&gt;🏷 MXene · zinc anode · aqueous zinc-ion battery · dendrite suppression · interface engineering</description>
+<category>MXene</category>
+<category>zinc anode</category>
+<category>aqueous zinc-ion battery</category>
+<category>dendrite suppression</category>
+<category>interface engineering</category>
+</item>
+<item>
+<title>Coupled Direct-Contact Presodiation and Interphase Stabilization of Hard Carbon Anodes Using a SnCl2 Electrolyte Additive</title>
+<link>https://doi.org/10.1039/d6ta05436f</link>
+<guid isPermaLink="false">10.1039/d6ta05436f</guid>
+<pubDate>Fri, 06 Nov 2026 17:01:56 GMT</pubDate>
+<description>افزودنی الکترولیت SnCl2 با پیش‌سدیم‌دار کردن مستقیم و تثبیت SEI، بازده کولمبی اولیه آند کربن سخت در باتری‌های سدیم-یون را افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a SnCl2 electrolyte additive to achieve coupled direct-contact presodiation and interphase stabilization of hard carbon anodes. This dual-function approach compensates for irreversible sodium loss during SEI formation, boosting initial coulombic efficiency while forming a stable interphase. It offers a simple, scalable strategy to overcome the low-ICE bottleneck limiting hard carbon anodes in sodium-ion batteries.&lt;br&gt;🏷 hard carbon · presodiation · SnCl2 additive · SEI stabilization · sodium-ion battery</description>
+<category>hard carbon</category>
+<category>presodiation</category>
+<category>SnCl2 additive</category>
+<category>SEI stabilization</category>
+<category>sodium-ion battery</category>
+</item>
+<item>
+<title>Stabilization of O-redox in Layered Na-Co-Mn-O Cathode via Liion Substitution for High-Capacity Sodium-ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta05495a</link>
+<guid isPermaLink="false">10.1039/d6ta05495a</guid>
+<pubDate>Fri, 06 Nov 2026 17:01:51 GMT</pubDate>
+<description>جایگزینی یون Li در کاتد لایه‌ای Na-Co-Mn-O، رد‌وکس اکسیژن را پایدار کرده و ظرفیت بالا و برگشت‌پذیری ولتاژ را در باتری‌های سدیم-یون بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Li-ion substitution to stabilize irreversible O-redox in layered Na-Co-Mn-O cathodes, enabling reversible lattice-oxygen activity. This significance is achieving high-capacity, high-energy-density sodium-ion batteries with improved cycling stability and suppressed voltage decay, advancing practical SIB cathodes.&lt;br&gt;🏷 sodium-ion battery · O-redox · layered cathode · Li substitution · Na-Co-Mn-O</description>
+<category>sodium-ion battery</category>
+<category>O-redox</category>
+<category>layered cathode</category>
+<category>Li substitution</category>
+<category>Na-Co-Mn-O</category>
+</item>
 <item>
 <title>Atomic-Scale Signatures of Structural Irreversibility during Oxygen Redox in Li-Rich Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04127</link>
@@ -1137,78 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>Fe interfacial regulation</category>
 <category>Mn dissolution</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Zr Incorporation Into Lithium Nickel Oxides: Bulk or Surface Substitution?</title>
-<link>https://doi.org/10.1002/advs.78453</link>
-<guid isPermaLink="false">10.1002/advs.78453</guid>
-<pubDate>Thu, 05 Nov 2026 07:01:46 GMT</pubDate>
-<description>مطالعه نشان می‌دهد Zr در LNO دوپه‌شده عمدتاً در سطح ذرات قرار می‌گیرد و تنها ۱ تا ۳ درصد Zr برای بهبود پایداری چرخه و حفظ ظرفیت اولیه کافی است.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing that Zr in LiNiO₂ predominantly enriches at primary particle surfaces under oxygen-rich conditions, while oxygen-deficient synthesis stabilizes a cation-disordered Li₁₋ₓNi₁₊ₓO₂ phase promoting grain elongation. Significance: only 1–3% Zr suffices to boost cyclability via surface enrichment and low bulk doping, whereas excess Zr forms insulating Li₂ZrO₃, reducing capacity—guiding optimal doping design.&lt;br&gt;🏷 lithium nickel oxide · Zr doping · surface substitution · cathode · cation ordering</description>
-<category>lithium nickel oxide</category>
-<category>Zr doping</category>
-<category>surface substitution</category>
-<category>cathode</category>
-<category>cation ordering</category>
-</item>
-<item>
-<title>Weak‑Solvation‑Mediated Localized High‑Concentration Electrolyte for Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/advs.78680</link>
-<guid isPermaLink="false">10.1002/advs.78680</guid>
-<pubDate>Thu, 05 Nov 2026 07:01:40 GMT</pubDate>
-<description>الکترولیت با غلظت بالای موضعی مبتنی بر رقیق‌کننده ضعیف MTBE، سینتیک دسولواتاسیون و اینترفاز معدنی غنی از آنیون را بهبود داده و باتری سدیم-فلز پایدار و سریع‌شارژ می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using fluorine-free methyl tert-butyl ether as a weakly coordinating diluent in THF/NaFSI to create a localized high-concentration electrolyte that shifts solvation from solvent-separated ion pairs to contact ion pairs/aggregates. This weak-solvation design accelerates desolvation, forms an inorganic-rich interphase, and enables fast-charging, dendrite-free sodium metal batteries with high-loading cathodes and PFAS-free sustainability.&lt;br&gt;🏷 sodium metal battery · localized high-concentration electrolyte · weak solvation · MTBE diluent · solid electrolyte interphase</description>
-<category>sodium metal battery</category>
-<category>localized high-concentration electrolyte</category>
-<category>weak solvation</category>
-<category>MTBE diluent</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Operando Quantifying Li Plating Processes in Lithium‐Ion Pouch Cells</title>
-<link>https://doi.org/10.1002/anie.1710608</link>
-<guid isPermaLink="false">10.1002/anie.1710608</guid>
-<pubDate>Thu, 05 Nov 2026 06:02:46 GMT</pubDate>
-<description>با DEIS و اعتبارسنجی با ssNMR و تیتراسیون جرمی، ظرفیت بحرانی پوشش لیتیم در پاکت‌سل‌های Li-ion به‌صورت operando کمّی شده و امکان هشدار زودهنگام و شارژ سریع تطبیقی فراهم می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in defining a critical Li-plating areal capacity (qLi) via dynamic electrochemical impedance spectroscopy, enabling operando quantification of Li plating validated by ssNMR, incremental capacity analysis, and mass spectrometry titration. Significance: high accuracy (R²&amp;gt;0.97), broad validity (0–45°C, 4–110 mAh), a transmission line model explaining qLi&amp;#x27;s physical origin, and temperature-controlled nucleation switching for early warning and adaptive fast charging.&lt;br&gt;🏷 Li plating · lithium-ion pouch cells · dynamic impedance spectroscopy · operando quantification · fast charging</description>
-<category>Li plating</category>
-<category>lithium-ion pouch cells</category>
-<category>dynamic impedance spectroscopy</category>
-<category>operando quantification</category>
-<category>fast charging</category>
-</item>
-<item>
-<title>Direct Evidence of Intermediate Oxygen Species Evolution in Cathode Oxides With Nominally Stable Superstructure</title>
-<link>https://doi.org/10.1002/anie.3374613</link>
-<guid isPermaLink="false">10.1002/anie.3374613</guid>
-<pubDate>Thu, 05 Nov 2026 06:02:30 GMT</pubDate>
-<description>در کاتدهای Na0.6Li0.2Mn0.8O2 با ابرساختار پایدار، گونه‌های اکسیژن اکسیدشده طی چرخه از حفره‌های الکترونی و (O2)n− به O2 مولکولی تکامل می‌یابند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in directly showing that oxidized oxygen species in a nominally stable superstructure continuously evolve during cycling—from O₂⁻ electron holes and (O₂)ⁿ⁻ dimers to molecular O₂—coupled with Li-vacancy cluster expansion and Mn-domain growth. This establishes molecular O₂ as the inevitable ultimate oxygen-redox product, even when Mn migration is restricted, resolving a key controversy in anionic redox cathodes.&lt;br&gt;🏷 anionic redox · sodium cathode · molecular oxygen · oxygen species evolution · Li-vacancy clusters</description>
-<category>anionic redox</category>
-<category>sodium cathode</category>
-<category>molecular oxygen</category>
-<category>oxygen species evolution</category>
-<category>Li-vacancy clusters</category>
-</item>
-<item>
-<title>Why sulfur stays present but inaccessible in practical lithium-sulfur pouch cells</title>
-<link>https://doi.org/10.1016/j.joule.2026.102716</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102716</guid>
-<pubDate>Thu, 05 Nov 2026 01:01:05 GMT</pubDate>
-<description>این مقاله بررسی می‌کند چرا گوگرد در سلول‌های کیسه‌ای عملی Li-S حاضر اما غیرقابل‌دسترس می‌ماند و سازوکارهای محدودکننده دسترسی به گوگرد را روشن می‌سازد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · pouch cell · sulfur accessibility · polysulfide · electrode passivation</description>
-<category>lithium-sulfur battery</category>
-<category>pouch cell</category>
-<category>sulfur accessibility</category>
-<category>polysulfide</category>
-<category>electrode passivation</category>
-</item>
-<item>
-<title>Sustainable synthesis of graphene/Mn3O4 nanocomposites by direct reuse of Hummers-derived manganese residues for aqueous sodiumion energy storage</title>
-<link>https://doi.org/10.1039/d6ta06567h</link>
-<guid isPermaLink="false">10.1039/d6ta06567h</guid>
-<pubDate>Thu, 05 Nov 2026 00:01:47 GMT</pubDate>
-<description>نانوکامپوزیت rGO/Mn3O4 با استفاده مجدد از بقایای منگنز روش Hummers ساخته و به‌عنوان ماده ذخیره‌سازی سدیم‌یون آبی ارزیابی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in directly reusing Hummers-derived manganese residues to synthesize rGO/Mn3O4 nanocomposites, avoiding waste and extra precursors. This sustainable route is significant because it valorizes hazardous byproducts, reduces environmental impact, and yields functional nanocomposites for aqueous sodium-ion energy storage, offering a greener, cost-effective alternative for electrode material production.&lt;br&gt;🏷 graphene-Mn3O4 · sodium-ion battery · Hummers residues · nanocomposite anode · aqueous energy storage</description>
-<category>graphene-Mn3O4</category>
-<category>sodium-ion battery</category>
-<category>Hummers residues</category>
-<category>nanocomposite anode</category>
-<category>aqueous energy storage</category>
 </item>
 </channel>
 </rss>
