@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 19:01:53 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 20:02:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanically Robust Thermal Insulation With High Compression Stability for Suppressing Thermal Runaway Propagation in Sodium‐Ion Battery Modules</title>
+<link>https://doi.org/10.1002/cey2.70358</link>
+<guid isPermaLink="false">10.1002/cey2.70358</guid>
+<pubDate>Fri, 06 Nov 2026 20:01:36 GMT</pubDate>
+<description>یک عایق حرارتی نانوالیاف سیلیکا با استحکام فشاری بالا ساخته شد که انتشار فرار حرارتی را در ماژول‌های باتری سدیم-یون تا ۹۴.۸۳ درصد کاهش می‌دهد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in the first dedicated thermal insulation material suppressing thermal runaway propagation in sodium-ion battery modules, combining flexible silica nanofibers with self-crosslinked PVA and modified aerogel particles. Its significance is achieving ultrahigh compressive strength (4.7 MPa at 80% strain) with cyclic stability while reducing heat transfer power by 94.83%, offering a scalable pathway to safer energy storage.&lt;br&gt;🏷 sodium-ion battery · thermal runaway · thermal insulation · silica nanofiber · compression stability</description>
+<category>sodium-ion battery</category>
+<category>thermal runaway</category>
+<category>thermal insulation</category>
+<category>silica nanofiber</category>
+<category>compression stability</category>
+</item>
 <item>
 <title>Breaking the Capacity‐Reversibility Linear Trade‐Off in Li–O 2 Batteries via Amorphous Non‐Precious High‐Entropy Alloy Catalysts</title>
 <link>https://doi.org/10.1002/adma.75403</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>all-solid-state battery</category>
 <category>halide electrolyte</category>
 <category>current activation</category>
-</item>
-<item>
-<title>Next-generation bio-energy storage: Design principles of engineered peptide and protein-based electrolytes in batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125368</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125368</guid>
-<pubDate>Thu, 05 Nov 2026 08:01:41 GMT</pubDate>
-<description>این مقاله اصول طراحی الکترولیت‌های مهندسی‌شده بر پایه پپتید و پروتئین را برای ذخیره‌سازی انرژی زیستی نسل بعدی در باتری‌ها مرور می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 peptide electrolyte · protein electrolyte · bio-energy storage · battery design · ion transport</description>
-<category>peptide electrolyte</category>
-<category>protein electrolyte</category>
-<category>bio-energy storage</category>
-<category>battery design</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
