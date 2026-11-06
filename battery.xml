@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 09:02:16 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:01:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistically Modulating Electronic Structure and Interfacial Wettability of MnF 2 /NF−CNF Toward Enhanced Oxygen Reduction in Zinc−Air Batteries</title>
+<link>https://doi.org/10.1002/aenm.71812</link>
+<guid isPermaLink="false">10.1002/aenm.71812</guid>
+<pubDate>Fri, 06 Nov 2026 10:01:11 GMT</pubDate>
+<description>نانوالیاف کربنی دوپ‌شده با N/F و تثبیت‌شده با MnF2 برای واکنش کاهش اکسیژن در باتری روی-هوا ساخته شد و با تنظیم هم‌زمان ساختار الکترونی و ترشوندگی، توان و پایداری بالا حاصل شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an N/F source modulation strategy creating MnF₂/NF−CNF catalysts that synergistically tune electronic structure and interfacial wettability. Significance: surface N dopants serve as active sites while MnF₂ modulates p-orbital configuration, and F dopants plus porous architecture extend triple-phase interfaces, achieving superior ORR activity (0.87 V half-wave) and ZAB performance (181.5 mW cm⁻²), offering a versatile design strategy.&lt;br&gt;🏷 zinc-air battery · oxygen reduction reaction · MnF2 nanocrystals · N/F doping · interfacial wettability</description>
+<category>zinc-air battery</category>
+<category>oxygen reduction reaction</category>
+<category>MnF2 nanocrystals</category>
+<category>N/F doping</category>
+<category>interfacial wettability</category>
+</item>
 <item>
 <title>Cathode‐Driven Aluminothermic Fronts Amplify Thermal Runaway in Lithium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/adma.75673</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>sodium-ion battery</category>
 <category>cathode</category>
 <category>structural stability</category>
-</item>
-<item>
-<title>Safety assessment and mechanistic analysis of large-format LiCoO2 batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.043</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.043</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:40 GMT</pubDate>
-<description>این مقاله ایمنی باتری‌های بزرگ‌مقیاس LiCoO2 را ارزیابی کرده و سازوکارهای شکست و رفتار گرمایی آن‌ها را تحلیل می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 LiCoO2 batteries · large-format cells · safety assessment · thermal runaway · failure mechanism</description>
-<category>LiCoO2 batteries</category>
-<category>large-format cells</category>
-<category>safety assessment</category>
-<category>thermal runaway</category>
-<category>failure mechanism</category>
 </item>
 </channel>
 </rss>
