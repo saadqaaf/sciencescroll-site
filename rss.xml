@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 15:02:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 16:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Atomic-Scale Signatures of Structural Irreversibility during Oxygen Redox in Li-Rich Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04127</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04127</guid>
+<pubDate>Fri, 06 Nov 2026 16:01:02 GMT</pubDate>
+<description>با STEM و EELS اتمی و DFT نشان داده می‌شود که تخلیه Li از لایه فلز واسطه در ولتاژ بالا بازآرایی اکسیژن و برگشت‌ناپذیری ساختاری کاتد Li1.2Ni0.13Co0.13Mn0.54O2 را سبب می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in atomic-scale evidence linking Li depletion from the transition-metal slab to short O–O pairs and oxygen rearrangement at high voltage, using STEM, NBED-ePDF, EELS, and DFT. Significance: it identifies slab Li occupancy as a controllable lever for improving oxygen-redox reversibility and reducing first-cycle irreversibility in Li-rich layered oxide cathodes.&lt;br&gt;🏷 Li-rich layered oxide · oxygen redox · structural irreversibility · STEM-EELS · DFT</description>
+<category>Li-rich layered oxide</category>
+<category>oxygen redox</category>
+<category>structural irreversibility</category>
+<category>STEM-EELS</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Electroelasticity-Regulated Vacancy Diffusion Enables Frequency-Adaptive Neuromorphic Perception and Control</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04459</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04459</guid>
+<pubDate>Fri, 06 Nov 2026 16:00:56 GMT</pubDate>
+<description>تنظیم الکتروالاستیک انتشار تهی‌جای در ممریستورهای MoSe2 دینامیک سیناپسی وابسته به فرکانس را ممکن می‌کند و کنترل پهپاد نورومورفیک را محقق می‌سازد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 MoSe2 memristor · vacancy diffusion · electroelasticity · neuromorphic computing · spiking neural network</description>
+<category>MoSe2 memristor</category>
+<category>vacancy diffusion</category>
+<category>electroelasticity</category>
+<category>neuromorphic computing</category>
+<category>spiking neural network</category>
+</item>
 <item>
 <title>Alkoxy-modified 1-(trimethylsilyl)imidazole: A theoretical investigation of electrolyte additives for high-voltage lithium batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125462</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 covale
 <category>clinical trial</category>
 <category>nicotinamide riboside</category>
 <category>neuroprotection</category>
-</item>
-<item>
-<title>Synthesis of molecular 85 and 51 knots from azaindolyl bithiophene ligands</title>
-<link>https://doi.org/10.1038/s44160-026-01211-4</link>
-<guid isPermaLink="false">10.1038/s44160-026-01211-4</guid>
-<pubDate>Fri, 06 Nov 2026 11:02:00 GMT</pubDate>
-<description>این مقاله سنتز گره‌های مولکولی 85 و 51 را از لیگاندهای آزایندولیل بی‌تیوفن گزارش می‌کند و راهبرد طراحی لیگاند برای تشکیل گره‌های مولکولی پیچیده را نشان می‌دهد.&lt;br&gt;Nature Synthesis | 🔬 Research Article&lt;br&gt;🏷 molecular knots · azaindolyl bithiophene · ligand design · self-assembly · coordination chemistry</description>
-<category>molecular knots</category>
-<category>azaindolyl bithiophene</category>
-<category>ligand design</category>
-<category>self-assembly</category>
-<category>coordination chemistry</category>
-</item>
-<item>
-<title>TiI4- Mediated Mechanochemical Reconstruction of Cathodes Enabling Stable All-Solid-State Lithium Sulfur Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105640</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105640</guid>
-<pubDate>Fri, 06 Nov 2026 11:01:57 GMT</pubDate>
-<description>بازسازی مکانیکی-شیمیایی کاتدها با واسطه TiI4، پایداری باتری‌های لیتیوم-گوگرد تمام‌جامد را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur battery · TiI4 · mechanochemical reconstruction · cathode</description>
-<category>all-solid-state battery</category>
-<category>lithium-sulfur battery</category>
-<category>TiI4</category>
-<category>mechanochemical reconstruction</category>
-<category>cathode</category>
 </item>
 </channel>
 </rss>
