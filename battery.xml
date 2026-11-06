@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 22:01:07 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 23:04:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electronic Polarization Induced Coordination Directs Crystal Facet Engineering for Cryogenic Rechargeable Li||Cl 2 Batteries</title>
+<link>https://doi.org/10.1002/anie.7616531</link>
+<guid isPermaLink="false">10.1002/anie.7616531</guid>
+<pubDate>Fri, 06 Nov 2026 23:02:06 GMT</pubDate>
+<description>راهبرد هماهنگی القاشده با قطبش الکترونی، رشد وجه‌های بلوری LiCl را هدایت کرده و باتری Li||Cl2 با چرخه‌پذیری پایدار در دمای ۴۰- درجه سانتی‌گراد ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electronic polarization induced coordination (EPIC) strategy using an in situ [AlCl₂(BZA)₂]⁺ cation to direct LiCl crystal facet engineering—shifting growth from passivating {100} cubes to reversible {111} nanocrystals—via N─H···Cl hydrogen bonds that weaken Al─Cl bonds. This links coordination chemistry to catalytic kinetics and facet control, enabling 2500+ cycles at −40°C and 30 A g⁻¹.&lt;br&gt;🏷 Li-Cl2 battery · crystal facet engineering · electronic polarization · coordination cation · cryogenic operation</description>
+<category>Li-Cl2 battery</category>
+<category>crystal facet engineering</category>
+<category>electronic polarization</category>
+<category>coordination cation</category>
+<category>cryogenic operation</category>
+</item>
+<item>
+<title>Polyanionic-Framework Regulation of Fe–O Coupling in Alluaudite Sodium Iron Sulfate Cathodes with Enhanced Rate Capability</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112595</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112595</guid>
+<pubDate>Fri, 06 Nov 2026 23:01:46 GMT</pubDate>
+<description>تنظیم چارچوب پلی‌آنیونی جفت‌شدگی Fe-O در کاتد آلواودیت سدیم آهن سولفات، قابلیت نرخ را در باتری سدیم بهبود می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 alluaudite cathode · sodium iron sulfate · polyanionic framework · Fe-O coupling · rate capability</description>
+<category>alluaudite cathode</category>
+<category>sodium iron sulfate</category>
+<category>polyanionic framework</category>
+<category>Fe-O coupling</category>
+<category>rate capability</category>
+</item>
+<item>
+<title>Rational Aqueous Electrolytes Design for High-Performance Aluminum Ion Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112594</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112594</guid>
+<pubDate>Fri, 06 Nov 2026 23:01:42 GMT</pubDate>
+<description>طراحی منطقی الکترولیت‌های آبی برای دستیابی به باتری‌های یون آلومینیم با عملکرد بالا ارائه و بررسی شد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 aluminum ion battery · aqueous electrolyte · electrolyte design · high performance · rechargeable</description>
+<category>aluminum ion battery</category>
+<category>aqueous electrolyte</category>
+<category>electrolyte design</category>
+<category>high performance</category>
+<category>rechargeable</category>
+</item>
 <item>
 <title>Synergistically enhancing bulk-interface kinetics towards fast-charging hard carbon anodes in Na-ion full batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105642</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>d-band center</category>
 <category>polysulfide conversion</category>
 <category>shuttle effect</category>
-</item>
-<item>
-<title>Coordination Bridges in Confined‐Water Domains Enable Partially Desolvated Zn 2 + Transport in Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75498</link>
-<guid isPermaLink="false">10.1002/adma.75498</guid>
-<pubDate>Thu, 05 Nov 2026 12:01:20 GMT</pubDate>
-<description>یک لایه پلیمری چندکاره با گروه‌های آمید و ایمیدازولیوم، دامنه آب محدود و پل‌های کوئوردیناسیون ایجاد می‌کند که انتقال Zn2+ نیمه‌دسولواته را ممکن ساخته و رشد دندریت و تولید هیدروژن را در باتری آبی Zn-I2 مهار می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a multifunctional polymeric layer with amide and imidazolium groups creating confined-water domains where water acts as a transient coordination bridge for partially desolvated Zn²⁺ transport while its mobility is restricted. This simultaneously boosts single-ion conductivity 6.55-fold and cuts hydrogen evolution 79.1%, enabling 2200 h Zn//Zn cycling and 4000-cycle Zn–I₂ cells with &amp;gt;85% retention—a robust interfacial strategy for durable aqueous ZIBs.&lt;br&gt;🏷 aqueous zinc-ion battery · polymer protective layer · confined-water domain · Zn dendrite suppression · hydrogen evolution</description>
-<category>aqueous zinc-ion battery</category>
-<category>polymer protective layer</category>
-<category>confined-water domain</category>
-<category>Zn dendrite suppression</category>
-<category>hydrogen evolution</category>
-</item>
-<item>
-<title>Calendar Aging Triggers Critical Performance Degradation of Lithium Primary Batteries</title>
-<link>https://doi.org/10.1007/s40820-026-02354-x</link>
-<guid isPermaLink="false">10.1007/s40820-026-02354-x</guid>
-<pubDate>Thu, 05 Nov 2026 11:01:19 GMT</pubDate>
-<description>این پژوهش با بررسی باتری‌های اولیه لیتیمی پس از ۱۰ سال پیرشدگی تقویمی نشان می‌دهد که رسوب گونه‌های بین‌سطحی امپدانس را افزایش داده و عملکرد C-rate را تخریب می‌کند.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing that 10-year calendar aging of lithium primary cells forms interfacial species with a dual role: enabling low self-discharge yet depositing between active materials and conductive agents, raising interfacial impedance and degrading C-rate performance. This clarifies why accelerated-aging capacity laws fail under calendar conditions, offering new insights for lifetime evaluation and cell design.&lt;br&gt;🏷 lithium primary batteries · calendar aging · interfacial impedance · capacity degradation · C-rate performance</description>
-<category>lithium primary batteries</category>
-<category>calendar aging</category>
-<category>interfacial impedance</category>
-<category>capacity degradation</category>
-<category>C-rate performance</category>
-</item>
-<item>
-<title>Semi-supervised learning for battery cycle life prediction using a smoothed self-attention mechanism</title>
-<link>https://doi.org/10.1016/j.est.2026.125312</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125312</guid>
-<pubDate>Thu, 05 Nov 2026 08:01:57 GMT</pubDate>
-<description>این مقاله روشی نیمه‌نظارتی با مکانیزم خودتوجهی هموارشده برای پیش‌بینی عمر چرخه‌ای باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery cycle life · semi-supervised learning · self-attention · life prediction · machine learning</description>
-<category>battery cycle life</category>
-<category>semi-supervised learning</category>
-<category>self-attention</category>
-<category>life prediction</category>
-<category>machine learning</category>
 </item>
 </channel>
 </rss>
