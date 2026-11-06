@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:01:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 07:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Interlayer Engineering and Phase Modulation of V−doped MoS2/rGO Composites for High-performance Aqueous Zn−ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta07897d</link>
+<guid isPermaLink="false">10.1039/d6ta07897d</guid>
+<pubDate>Fri, 06 Nov 2026 07:01:10 GMT</pubDate>
+<description>کامپوزیت V-doped MoS2/rGO با مهندسی بین‌لایه‌ای و تنظیم فاز برای کاتد باتری آبی Zn-ion سنتز شد و عملکرد الکتروشیمیایی و پایداری چرخه‌ای آن بهبود یافت.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining V-doping with interlayer engineering of MoS2/rGO composites to simultaneously address poor conductivity and structural instability. This synergistic strategy enhances interlayer spacing, phase modulation, and electron transport, delivering improved capacity and cycling stability. It offers a promising design route for high-performance, durable AZIB cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · MoS2 cathode · vanadium doping · interlayer engineering · rGO composite</description>
+<category>aqueous zinc-ion battery</category>
+<category>MoS2 cathode</category>
+<category>vanadium doping</category>
+<category>interlayer engineering</category>
+<category>rGO composite</category>
+</item>
 <item>
 <title>Oxygen Evolution along Grain Boundaries of LiNi0.5Co0.2Mn0.3O2 Particles as an Early Stage Degradation of High-Voltage All-Solid-State Batteries</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04111</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>electrolyte regulation</category>
 <category>solid electrolyte interphase</category>
 <category>lithium deposition</category>
-</item>
-<item>
-<title>Physics-Augmented Interpretable Learning for Accelerated Discovery of Sodium Layered Oxide Cathodes with Balanced Capacity and Cyclability</title>
-<link>https://doi.org/10.1039/d6ta08080d</link>
-<guid isPermaLink="false">10.1039/d6ta08080d</guid>
-<pubDate>Wed, 04 Nov 2026 03:02:02 GMT</pubDate>
-<description>یادگیری تفسیرپذیر تقویت‌شده با فیزیک برای کشف سریع کاتدهای اکسید لایه‌ای سدیم با ظرفیت و پایداری چرخه‌ای متعادل در باتری‌های سدیم-یون به کار رفت.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a physics-augmented interpretable learning framework that decodes the capacity–cyclability trade-off across complex transition-metal combinations for sodium layered oxides. Its significance is accelerating rational cathode discovery by making design rules transparent and balancing capacity against cyclability, moving beyond opaque trial-and-error screening.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · interpretable learning · capacity-cyclability trade-off · materials discovery</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>interpretable learning</category>
-<category>capacity-cyclability trade-off</category>
-<category>materials discovery</category>
 </item>
 </channel>
 </rss>
