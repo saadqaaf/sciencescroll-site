@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 02:01:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 03:02:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In-Situ Conversion of Li2CO3 on Garnet Electrolyte Mediated by Fluoride for Solid-State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112587</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112587</guid>
+<pubDate>Fri, 06 Nov 2026 03:02:13 GMT</pubDate>
+<description>این پژوهش تبدیل درجای Li2CO3 روی الکترولیت گارنت را با واسطه فلوراید انجام می‌دهد تا انتقال یون و پایداری در باتری لیتیوم-فلز حالت جامد بهبود یابد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · garnet electrolyte · Li2CO3 conversion · fluoride mediation · lithium metal anode</description>
+<category>solid-state lithium battery</category>
+<category>garnet electrolyte</category>
+<category>Li2CO3 conversion</category>
+<category>fluoride mediation</category>
+<category>lithium metal anode</category>
+</item>
 <item>
 <title>A Sustainable Fully Fluorine‐Free Interfacial Chemistry for Reversible Anode‐Free Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adfm.79374</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>Ni-Mn oxide</category>
 <category>residual alkali conversion</category>
 <category>near-surface Na+ extraction</category>
-</item>
-<item>
-<title>In-situ construction of Ce-Doped ZnBi layered double hydroxide/ZnO heterostructure coating for long-life aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125442</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125442</guid>
-<pubDate>Wed, 04 Nov 2026 01:01:42 GMT</pubDate>
-<description>پوشش ناهم‌ساختار Ce-doped ZnBi LDH/ZnO به‌صورت درجا ساخته شد و عمر چرخه‌ای طولانی برای باتری آبی یون روی فراهم کرد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · ZnBi layered double hydroxide · Ce doping · heterostructure coating · long cycle life</description>
-<category>aqueous zinc-ion battery</category>
-<category>ZnBi layered double hydroxide</category>
-<category>Ce doping</category>
-<category>heterostructure coating</category>
-<category>long cycle life</category>
 </item>
 </channel>
 </rss>
