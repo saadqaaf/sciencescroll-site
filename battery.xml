@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 08:01:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 09:02:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cathode‐Driven Aluminothermic Fronts Amplify Thermal Runaway in Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adma.75673</link>
+<guid isPermaLink="false">10.1002/adma.75673</guid>
+<pubDate>Fri, 06 Nov 2026 09:01:51 GMT</pubDate>
+<description>واکنش آلومینوترمیک کاتد-آلومینیوم به‌صورت جبهه خودپایدار در آرگون منتشر شده و به‌عنوان سازوکار تقویت گرمای فرار حرارتی باتری لیتیوم-یونی شناسایی می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying cathode-driven aluminothermic fronts as a self-sustained heat-amplification pathway in lithium-ion batteries, isolated from other failure modes. Significance: this internal redox chemistry can release heat equivalent to ~half the stored electrical energy, so it must be considered in battery hazard assessment and high-energy-cell safety design.&lt;br&gt;🏷 thermal runaway · aluminothermic reaction · lithium-ion battery · cathode · oxygen transfer</description>
+<category>thermal runaway</category>
+<category>aluminothermic reaction</category>
+<category>lithium-ion battery</category>
+<category>cathode</category>
+<category>oxygen transfer</category>
+</item>
+<item>
+<title>Interface‐Confined Cationic Polarization Enables Rapid and Reversible Polyiodide Conversion for High‐Rate Zinc–Iodine Batteries</title>
+<link>https://doi.org/10.1002/adma.75017</link>
+<guid isPermaLink="false">10.1002/adma.75017</guid>
+<pubDate>Fri, 06 Nov 2026 09:01:30 GMT</pubDate>
+<description>قطبش کاتیونی محدودشده در فصل مشترک با گوانیدینیوم، تبدیل سریع و برگشت‌پذیر پلی‌یدید را ممکن کرده و باتری Zn-I2 با نرخ بالا و عمر 40000 چرخه ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interface-confined cationic polarization: guanidinium cations anchored on Ketjen Black via cation–π interactions electrostatically enrich polyiodides and polarize iodine electron clouds, enabling reversible conversion without trapping. This yields 100 mAh g⁻¹ at 50 A g⁻¹ and 40,000-cycle stability, offering a new route to high-rate, long-life Zn–I₂ batteries.&lt;br&gt;🏷 zinc-iodine battery · polyiodide conversion · cationic polarization · guanidinium · shuttle effect</description>
+<category>zinc-iodine battery</category>
+<category>polyiodide conversion</category>
+<category>cationic polarization</category>
+<category>guanidinium</category>
+<category>shuttle effect</category>
+</item>
 <item>
 <title>Defect-to-Phase Transduction and Interface Reconstruction Enable Regeneration of Spent LiFePO4 Cathodes</title>
 <link>https://doi.org/10.1007/s40820-026-02451-x</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>safety assessment</category>
 <category>thermal runaway</category>
 <category>failure mechanism</category>
-</item>
-<item>
-<title>In Situ Nanoscale Visualization of Stripping-Induced Failure Behavior in Aqueous Zinc Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c08435</link>
-<guid isPermaLink="false">10.1021/acsnano.6c08435</guid>
-<pubDate>Wed, 04 Nov 2026 09:01:54 GMT</pubDate>
-<description>تصویربرداری درجای نانومقیاس با پرتو ایکس، چهار مسیر تشکیل روی باقی‌مانده و نقش فرایند stripping در شکست باتری‌های آبی روی را نشان می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 This study provides the first in situ nanoscale visualization of stripping-induced failure in aqueous zinc batteries, categorizing residual zinc into four distinct pathways. It reveals crystallographically selective dissolution (Zn(100)/Zn(101) over Zn(002)) as a key degradation mechanism, establishing stripping—not just plating—as critical to reversibility and offering kinetic modulation strategies for improved battery longevity.&lt;br&gt;🏷 aqueous zinc battery · stripping failure · in situ X-ray microscopy · residual zinc · zinc reversibility</description>
-<category>aqueous zinc battery</category>
-<category>stripping failure</category>
-<category>in situ X-ray microscopy</category>
-<category>residual zinc</category>
-<category>zinc reversibility</category>
-</item>
-<item>
-<title>Robust Vertical Nanosheet Arrays Enable Dendrite-Free and Ultra-Stable Molten Salt Aluminum Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112585</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112585</guid>
-<pubDate>Wed, 04 Nov 2026 09:01:42 GMT</pubDate>
-<description>آرایه‌های عمودی نانوصفحه‌ای برای باتری‌های آلومینیومی مذاب نمکی، آند بدون دندریت و پایداری چرخه‌ای فوق‌العاده فراهم می‌کنند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 aluminum battery · molten salt electrolyte · vertical nanosheet arrays · dendrite-free anode · ultra-stable cycling</description>
-<category>aluminum battery</category>
-<category>molten salt electrolyte</category>
-<category>vertical nanosheet arrays</category>
-<category>dendrite-free anode</category>
-<category>ultra-stable cycling</category>
 </item>
 </channel>
 </rss>
