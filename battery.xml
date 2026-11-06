@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 01:01:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 02:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Sustainable Fully Fluorine‐Free Interfacial Chemistry for Reversible Anode‐Free Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79374</link>
+<guid isPermaLink="false">10.1002/adfm.79374</guid>
+<pubDate>Fri, 06 Nov 2026 02:01:37 GMT</pubDate>
+<description>با پوشش ASEI بدون فلوئور بر روی کلکتور جریان مس و الکترولیت بدون فلوئور، رسوب‌دهی یکنواخت لیتیوم و پایداری چرخه در باتری لیتیوم-فلز بدون آند بهبود یافت.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fully fluorine-free interfacial strategy combining a cross-linked VC-MBA artificial SEI on Cu with a fluorine-free electrolyte, avoiding fluorinated SEI-formers and alloy interlayers. This enables homogeneous Li deposition and an inorganic-rich (Li2O, Li3N) SEI, improving reversibility. Significance: demonstrates sustainable anode-free Li metal batteries, with LFP cells retaining 84.5% over 350 cycles and NCM811 86.6% over 100 cycles.&lt;br&gt;🏷 anode-free lithium battery · fluorine-free electrolyte · artificial SEI · lithium deposition · current collector</description>
+<category>anode-free lithium battery</category>
+<category>fluorine-free electrolyte</category>
+<category>artificial SEI</category>
+<category>lithium deposition</category>
+<category>current collector</category>
+</item>
 <item>
 <title>Green and efficient recycling strategies for spent LFP/LMFP batteries: from technical comparison to economic analysis</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218737</link>
@@ -1195,19 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>Ce doping</category>
 <category>heterostructure coating</category>
 <category>long cycle life</category>
-</item>
-<item>
-<title>An Aqueous Phase Transition Electrolyte Retaining High Ionic Conductivity after Solidification for Low-Temperature Zinc–Iodine Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c15158</link>
-<guid isPermaLink="false">10.1021/jacs.6c15158</guid>
-<pubDate>Tue, 03 Nov 2026 23:05:27 GMT</pubDate>
-<description>یک الکترولیت گذار فازی آبی با حفظ رسانایی یونی بالا پس از انجماد، چرخه‌پذیری فوق‌العاده باتری Zn||I2 را در دمای پایین ممکن کرد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a phase-transition electrolyte that, unlike anti-freezing strategies, retains high ionic conductivity after solidification via an interconnected ice framework with continuous liquid pathways. This enables 1.870 mS cm⁻¹ at −60 °C and record 430,000-cycle Zn||I₂ battery life at −40 °C, shifting the paradigm from preventing freezing to sustaining ion transport in the solid state.&lt;br&gt;🏷 zinc-iodine battery · phase-transition electrolyte · low temperature · ionic conductivity · aqueous electrolyte</description>
-<category>zinc-iodine battery</category>
-<category>phase-transition electrolyte</category>
-<category>low temperature</category>
-<category>ionic conductivity</category>
-<category>aqueous electrolyte</category>
 </item>
 </channel>
 </rss>
