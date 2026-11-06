@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:02:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 12:03:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking Quasi‐Chelation in Thioether Electrolytes for Synergistic Interfacial Stabilization in Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/adfm.79507</link>
+<guid isPermaLink="false">10.1002/adfm.79507</guid>
+<pubDate>Fri, 06 Nov 2026 12:02:50 GMT</pubDate>
+<description>جایگزینی اتر با تیواتر در الکترولیت نیتریل، شبه‌کیلاسیون را می‌شکند و با ایجاد اینترفاز غنی از گوگرد، دندریت لیتیوم و شاتلینگ پلی‌سولفید را در باتری Li-S مهار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying a hidden quasi-chelation effect in ether-based nitrile solvents that undermines weakly solvating electrolyte design, and overcoming it via thioether substitution (replacing oxygen with sulfur). This breaks quasi-chelation, weakens Li⁺-solvent interactions, lowers desolvation barriers, and forms sulfur-rich inorganic interphases, enabling stable Li anode and SPAN cathode with 86% capacity retention over 600 cycles.&lt;br&gt;🏷 lithium-sulfur battery · thioether electrolyte · quasi-chelation · solid electrolyte interphase · polysulfide shuttling</description>
+<category>lithium-sulfur battery</category>
+<category>thioether electrolyte</category>
+<category>quasi-chelation</category>
+<category>solid electrolyte interphase</category>
+<category>polysulfide shuttling</category>
+</item>
+<item>
+<title>Unlocking Cooperative Interfacial Orbital Coupling via Phosphorus‐Induced Bond Reconstruction in MoSe 2 /MXene for Accelerated Sulfur Redox Kinetics</title>
+<link>https://doi.org/10.1002/adfm.79442</link>
+<guid isPermaLink="false">10.1002/adfm.79442</guid>
+<pubDate>Fri, 06 Nov 2026 12:02:35 GMT</pubDate>
+<description>دوپینگ فسفر در MoSe2/MXene با بازسازی پیوند و جفت‌شدگی اوربیتالی، سینتیک تبدیل پلی‌سولفید را تسریع کرده و باتری Li-S با ظرفیت 537 mAh g−1 در 4C ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 P-doping induces local strain in MoSe₂/MXene, reconstructing Mo-Se bonds to create undercoordinated Mo sites and Se vacancies. This shifts Mo-d/Se-p band centers upward, enhancing cooperative Mo-S and Li-Se orbital coupling at the polysulfide interface. The result is accelerated sulfur redox kinetics, lower Li₂S barriers, and Li-S cells with 537 mAh g⁻¹ at 4C and stable high-loading performance.&lt;br&gt;🏷 lithium-sulfur battery · MoSe2/MXene · phosphorus doping · orbital coupling · polysulfide conversion</description>
+<category>lithium-sulfur battery</category>
+<category>MoSe2/MXene</category>
+<category>phosphorus doping</category>
+<category>orbital coupling</category>
+<category>polysulfide conversion</category>
+</item>
+<item>
+<title>Thermally Engineered Defects and Surface Architecture for High‐Performance Reversible Solid Oxide Cells Air Electrode</title>
+<link>https://doi.org/10.1002/adfm.79539</link>
+<guid isPermaLink="false">10.1002/adfm.79539</guid>
+<pubDate>Fri, 06 Nov 2026 12:02:30 GMT</pubDate>
+<description>کاهش دمای کلسینه‌کردن LSCF از 1000 به 800 درجه، عیوب و معماری سطح را تنظیم کرده و مقاومت قطبش و نرخ تخریب الکترود هوا را در سلول‌های اکسید جامد برگشت‌پذیر کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Thermal processing alone—lowering calcination from 1000 to 800°C—coordinately tunes defect chemistry and surface architecture of LSCF, activating Co/Fe redox centers, enriching oxygen vacancies, and suppressing Sr segregation without complex compositional modification. This scalable strategy yields exceptional performance (0.014 Ω cm², 0.057% h⁻¹ degradation at 700°C), establishing thermal regulation as a simple route to high-performance reversible solid oxide cell air electrodes.&lt;br&gt;🏷 reversible solid oxide cell · LSCF air electrode · oxygen vacancies · Sr segregation · thermal processing</description>
+<category>reversible solid oxide cell</category>
+<category>LSCF air electrode</category>
+<category>oxygen vacancies</category>
+<category>Sr segregation</category>
+<category>thermal processing</category>
+</item>
+<item>
+<title>Mechanochemical Regulating Competitive Phase Transformation of Fe 3 (PO 4 ) 2 Toward Industrial‐Grade Regenerated LiFePO 4</title>
+<link>https://doi.org/10.1002/adfm.79513</link>
+<guid isPermaLink="false">10.1002/adfm.79513</guid>
+<pubDate>Fri, 06 Nov 2026 12:02:11 GMT</pubDate>
+<description>با کنترل رفتار مکانیکی-شیمیایی و جایگزینی آسیاب گلوله‌ای با آسیاب جت، تبدیل فاز رقابتی Fe3(PO4)2 تنظیم شده و LiFePO4 بازیافتی با ظرفیت 148.2 mAh g−1 به دست می‌آید.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing how mechanochemical behaviors expose a metastable Li1−xFePO4 region, driving competitive phase transformation into Fe3(PO4)2 coated with dense Fe2O3, causing uneven carbon and lattice stress. Replacing ball milling with jet milling avoids excessive stress, enabling effective regeneration of cycled retired LiFePO4 with 148.2 mAh g−1 over 200 cycles and kg-scale validation, offering a practical industrial recycling strategy.&lt;br&gt;🏷 LiFePO4 regeneration · spent battery recycling · mechanochemistry · phase transformation · jet milling</description>
+<category>LiFePO4 regeneration</category>
+<category>spent battery recycling</category>
+<category>mechanochemistry</category>
+<category>phase transformation</category>
+<category>jet milling</category>
+</item>
+<item>
+<title>Molecular Polarization Engineering Homogenizes Interfacial Potential for Long‐Life Wide‐Temperature Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79529</link>
+<guid isPermaLink="false">10.1002/adfm.79529</guid>
+<pubDate>Fri, 06 Nov 2026 12:01:59 GMT</pubDate>
+<description>این کار با مهندسی قطبش مولکولی در الکترولیت PEO/polyurethane/MOF-177 میدان الکترواستاتیک مرزی را همگن می‌کند و عمر و دمای کاری باتری لیتیوم فلزی حالت جامد را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using molecular polarization to homogenize interfacial electrostatic fields, a previously unexplored strategy beyond mechanical or chemical regulation. Polar polymer/MOF networks redistribute local field fluctuations, homogenizing Li⁺ flux and suppressing dendrites. Significance: enables 9000 h cycling, wide-temperature operation (−15°C to 100°C), and establishes a transferable electrostatic design principle for durable solid-state lithium metal batteries.&lt;br&gt;🏷 solid-state lithium battery · interfacial potential homogenization · molecular polarization · PEO electrolyte · MOF-177</description>
+<category>solid-state lithium battery</category>
+<category>interfacial potential homogenization</category>
+<category>molecular polarization</category>
+<category>PEO electrolyte</category>
+<category>MOF-177</category>
+</item>
+<item>
+<title>Ordered Macroporous Prussian Blue Analogues for Rechargeable Na‐Cl 2 Batteries</title>
+<link>https://doi.org/10.1002/adfm.79523</link>
+<guid isPermaLink="false">10.1002/adfm.79523</guid>
+<pubDate>Fri, 06 Nov 2026 12:01:48 GMT</pubDate>
+<description>این مطالعه کاتدی از آنالوگ پروسیان بلو با تخلخل ماکروی منظم برای باتری Na-Cl2 می‌سازد که ظرفیت 2000 mAh g−1 و چرخه‌پذیری پایدار نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a 3D ordered macroporous Prussian blue analog cathode made via stepwise vacuum impregnation templating, with tunable metal-site doping. Its hierarchical micro-to-macro porosity enables ion transport, Cl₂ storage, and NaCl deposition, while doping boosts conductivity and catalytic Cl₂/Cl⁻ conversion. Significance: the Na-Cl₂ battery achieves 2000 mAh g⁻¹ and 2500-cycle stability at 15,000 mA g⁻¹, advancing high-energy rechargeable battery cathodes.&lt;br&gt;🏷 Na-Cl2 battery · Prussian blue analogue · ordered macroporous cathode · metal site doping · Cl2 conversion</description>
+<category>Na-Cl2 battery</category>
+<category>Prussian blue analogue</category>
+<category>ordered macroporous cathode</category>
+<category>metal site doping</category>
+<category>Cl2 conversion</category>
+</item>
 <item>
 <title>TiI4- Mediated Mechanochemical Reconstruction of Cathodes Enabling Stable All-Solid-State Lithium Sulfur Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105640</link>
@@ -1135,78 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>phase change material</category>
 <category>electrification of heat</category>
 <category>thermal energy storage</category>
-</item>
-<item>
-<title>Hierarchical nitrogen-doped carbon nanotube networks encapsulating Co3O4 nanoparticles on carbon felt enable high-rate vanadium flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125484</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125484</guid>
-<pubDate>Wed, 04 Nov 2026 12:01:47 GMT</pubDate>
-<description>شبکه‌های سلسله‌مراتبی نانولوله کربنی دوپ‌شده با نیتروژن حاوی نانوذرات Co3O4 روی نمد کربنی، عملکرد نرخ بالا در باتری جریان وانادیوم را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium flow battery · Co3O4 nanoparticles · nitrogen-doped carbon nanotube · carbon felt · high-rate performance</description>
-<category>vanadium flow battery</category>
-<category>Co3O4 nanoparticles</category>
-<category>nitrogen-doped carbon nanotube</category>
-<category>carbon felt</category>
-<category>high-rate performance</category>
-</item>
-<item>
-<title>Interpretable transfer learning for lithium-ion battery state-of-health estimation across different chemistries, temperature and operating conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.125304</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125304</guid>
-<pubDate>Wed, 04 Nov 2026 12:01:39 GMT</pubDate>
-<description>یک چارچوب یادگیری انتقالی تفسیرپذیر برای تخمین وضعیت سلامت باتری لیتیوم-یون در شیمی‌ها، دماها و شرایط عملیاتی مختلف ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · state of health · transfer learning · interpretability · battery degradation</description>
-<category>lithium-ion battery</category>
-<category>state of health</category>
-<category>transfer learning</category>
-<category>interpretability</category>
-<category>battery degradation</category>
-</item>
-<item>
-<title>Coordination engineering-triggered high-performance lithium-sulfur batteries in single-atom-site-based catalysts</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.052</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.052</guid>
-<pubDate>Wed, 04 Nov 2026 09:03:08 GMT</pubDate>
-<description>مهندسی هماهنگی در کاتالیزورهای تک‌اتمی، عملکرد باتری‌های لیتیوم-سولفور را از طریق بهبود تبدیل پلی‌سولفیدها ارتقا می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · single-atom catalyst · coordination engineering · polysulfide conversion · cathode catalysis</description>
-<category>lithium-sulfur battery</category>
-<category>single-atom catalyst</category>
-<category>coordination engineering</category>
-<category>polysulfide conversion</category>
-<category>cathode catalysis</category>
-</item>
-<item>
-<title>Supramolecular-based binders for durable silicon anodes: Advances, mechanisms, and challenges</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.051</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.051</guid>
-<pubDate>Wed, 04 Nov 2026 09:03:04 GMT</pubDate>
-<description>این مرور پیشرفت‌ها، سازوکارها و چالش‌های چسب‌های سوپرمولکولی را برای آندهای سیلیکونی بادوام در باتری‌های لیتیوم-یون بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 supramolecular binder · silicon anode · lithium-ion battery · anode durability · self-healing</description>
-<category>supramolecular binder</category>
-<category>silicon anode</category>
-<category>lithium-ion battery</category>
-<category>anode durability</category>
-<category>self-healing</category>
-</item>
-<item>
-<title>Quasi-solid-state electrolyte enabling sustained discharge in Li-Mars gas batteries by coordinating reaction zones and discharge product growth</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.044</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.044</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:57 GMT</pubDate>
-<description>الکترولیت شبه‌جامد با هماهنگ‌سازی نواحی واکنش و رشد محصولات تخلیه، تخلیه پایدار را در باتری‌های گازی Li-Mars ممکن می‌سازد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-Mars gas battery · quasi-solid-state electrolyte · discharge product growth · reaction zone · CO2 atmosphere</description>
-<category>Li-Mars gas battery</category>
-<category>quasi-solid-state electrolyte</category>
-<category>discharge product growth</category>
-<category>reaction zone</category>
-<category>CO2 atmosphere</category>
-</item>
-<item>
-<title>Highly reactive benzyl-hydroxyl-induced efficient crosslinking of pitch toward improved sodium storage</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.049</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.049</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:53 GMT</pubDate>
-<description>این مقاله با ایجاد گروه‌های بنزیل-هیدروکسیل واکنش‌پذیر، اتصال عرضی قیر را بهبود داده و ظرفیت ذخیره‌سازی سدیم آن را افزایش می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 pitch · benzyl-hydroxyl · crosslinking · sodium storage · anode</description>
-<category>pitch</category>
-<category>benzyl-hydroxyl</category>
-<category>crosslinking</category>
-<category>sodium storage</category>
-<category>anode</category>
 </item>
 </channel>
 </rss>
