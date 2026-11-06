@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 04:02:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 05:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tracking academic and technological evolution of battery recycling based on bibliometric and patent analysis</title>
+<link>https://doi.org/10.1016/j.est.2026.125405</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125405</guid>
+<pubDate>Fri, 06 Nov 2026 05:01:17 GMT</pubDate>
+<description>این مقاله با تحلیل کتاب‌سنجی و بررسی پتنت‌ها، تحول علمی و فناورانه بازیافت باتری را در طول زمان ردیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery recycling · bibliometric analysis · patent analysis · technological evolution · circular economy</description>
+<category>battery recycling</category>
+<category>bibliometric analysis</category>
+<category>patent analysis</category>
+<category>technological evolution</category>
+<category>circular economy</category>
+</item>
+<item>
+<title>Energy, exergy, economic, and environmental assessment of metal foam enhanced phase change material hybrid thermal management for high-rate lithium-ion battery systems</title>
+<link>https://doi.org/10.1016/j.est.2026.125420</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125420</guid>
+<pubDate>Fri, 06 Nov 2026 05:01:13 GMT</pubDate>
+<description>این پژوهش مدیریت حرارتی هیبریدی مبتنی بر PCM تقویت‌شده با فوم فلزی را برای باتری‌های لیتیوم-یونی پرتوان از نظر انرژی، اگزرژی، اقتصادی و زیست‌محیطی ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · thermal management · phase change material · metal foam · exergy analysis</description>
+<category>lithium-ion battery</category>
+<category>thermal management</category>
+<category>phase change material</category>
+<category>metal foam</category>
+<category>exergy analysis</category>
+</item>
 <item>
 <title>6400-cycle durable zinc–air batteries enabled by molten-salt-constructed Ni9S8@Bi2S3 core–shell nanoarrays with p–d heterointerfaces</title>
 <link>https://doi.org/10.1016/j.jmst.2026.10.047</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>electrochemical mechanism</category>
 <category>cycling stability</category>
 <category>energy efficiency</category>
-</item>
-<item>
-<title>Integrated 3D Porous Covalent Organic Framework Films Fabricated by Liquid-Liquid Interfacial Polymerization for Homogeneous Zn 2+ Flux and Dendrite-Free Zinc Anodes</title>
-<link>https://doi.org/10.1039/d6ta06959b</link>
-<guid isPermaLink="false">10.1039/d6ta06959b</guid>
-<pubDate>Wed, 04 Nov 2026 03:01:52 GMT</pubDate>
-<description>فیلم‌های متخلخل سه‌بعدی COF از طریق پلیمریزاسیون بین‌سطحی مایع-مایع ساخته شدند تا شار Zn2+ یکنواخت و آند روی بدون دندریت در باتری‌های آبی روی-یون فراهم شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in fabricating integrated 3D porous covalent organic framework films via liquid-liquid interfacial polymerization, then using them to homogenize Zn²⁺ flux. This approach suppresses dendrite formation and enables dendrite-free zinc anodes, addressing a key barrier to practical aqueous zinc-ion batteries and offering a scalable, designable strategy for stable metal anodes.&lt;br&gt;🏷 covalent organic framework · zinc anode · interfacial polymerization · dendrite-free · Zn2+ flux</description>
-<category>covalent organic framework</category>
-<category>zinc anode</category>
-<category>interfacial polymerization</category>
-<category>dendrite-free</category>
-<category>Zn2+ flux</category>
-</item>
-<item>
-<title>Amine-assisted route to fabricate FeS@NC nanosheet hybrids with boosted capacity and rate performance for sodium-ion battery</title>
-<link>https://doi.org/10.1016/j.est.2026.125366</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125366</guid>
-<pubDate>Wed, 04 Nov 2026 01:01:51 GMT</pubDate>
-<description>روشی با کمک آمین برای ساخت نانوصفحه‌های FeS@NC به‌کار رفت که ظرفیت و نرخ عملکرد باتری یون سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · FeS@NC · nanosheet hybrid · amine-assisted synthesis · rate performance</description>
-<category>sodium-ion battery</category>
-<category>FeS@NC</category>
-<category>nanosheet hybrid</category>
-<category>amine-assisted synthesis</category>
-<category>rate performance</category>
 </item>
 </channel>
 </rss>
