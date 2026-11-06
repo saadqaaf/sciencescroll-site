@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 10:01:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 11:02:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>TiI4- Mediated Mechanochemical Reconstruction of Cathodes Enabling Stable All-Solid-State Lithium Sulfur Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105640</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105640</guid>
+<pubDate>Fri, 06 Nov 2026 11:01:57 GMT</pubDate>
+<description>بازسازی مکانیکی-شیمیایی کاتدها با واسطه TiI4، پایداری باتری‌های لیتیوم-گوگرد تمام‌جامد را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · lithium-sulfur battery · TiI4 · mechanochemical reconstruction · cathode</description>
+<category>all-solid-state battery</category>
+<category>lithium-sulfur battery</category>
+<category>TiI4</category>
+<category>mechanochemical reconstruction</category>
+<category>cathode</category>
+</item>
+<item>
+<title>Lattice-matched epitaxial Na2ZrO3 enabling chemo-mechanical robustness in NaNi1/3Fe1/3Mn1/3O2</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105641</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105641</guid>
+<pubDate>Fri, 06 Nov 2026 11:01:52 GMT</pubDate>
+<description>پوشش اپیتاکسیال Na2ZrO3 با تطابق شبکه‌ای، استحکام شیمیایی-مکانیکی کاتد NaNi1/3Fe1/3Mn1/3O2 را در باتری سدیم‌یون بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Na2ZrO3 coating · epitaxial lattice matching · cathode · chemo-mechanical robustness</description>
+<category>sodium-ion battery</category>
+<category>Na2ZrO3 coating</category>
+<category>epitaxial lattice matching</category>
+<category>cathode</category>
+<category>chemo-mechanical robustness</category>
+</item>
 <item>
 <title>Synergistically Modulating Electronic Structure and Interfacial Wettability of MnF 2 /NF−CNF Toward Enhanced Oxygen Reduction in Zinc−Air Batteries</title>
 <link>https://doi.org/10.1002/aenm.71812</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>crosslinking</category>
 <category>sodium storage</category>
 <category>anode</category>
-</item>
-<item>
-<title>Synergistic interfacial self-assembly of multifunctional groups for quasi-static zincophilic electrical double layers toward dendrite-free Zn anodes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.050</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.050</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:49 GMT</pubDate>
-<description>این مقاله با خودآرایی هم‌افزای گروه‌های multifunctional، لایه دوگانه الکتریکی روی‌دوست شبه‌ایستا ایجاد کرده و آندهای Zn بدون دندریت را ممکن می‌سازد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Zn anode · zincophilic interface · electrical double layer · self-assembly · dendrite-free</description>
-<category>Zn anode</category>
-<category>zincophilic interface</category>
-<category>electrical double layer</category>
-<category>self-assembly</category>
-<category>dendrite-free</category>
-</item>
-<item>
-<title>Mitigating intrinsic structural instability of sodium iron sulfate cathodes via trace fluorine doping enables high-rate and long-life sodium-ion batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.045</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.045</guid>
-<pubDate>Wed, 04 Nov 2026 09:02:44 GMT</pubDate>
-<description>این مقاله با دوپینگ جزئی فلوئور، ناپایداری ساختاری کاتدهای سولفات آهن سدیم را کاهش داده و باتری‌های یون‌سدیم با نرخ بالا و عمر طولانی ارائه می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 sodium iron sulfate · fluorine doping · sodium-ion battery · cathode · structural stability</description>
-<category>sodium iron sulfate</category>
-<category>fluorine doping</category>
-<category>sodium-ion battery</category>
-<category>cathode</category>
-<category>structural stability</category>
 </item>
 </channel>
 </rss>
