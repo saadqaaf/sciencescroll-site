@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 17:01:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 18:03:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Structural Evolution of State-Dependent Kinetics during Potassium Storage in Layered CrSe2</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02828</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02828</guid>
+<pubDate>Sat, 07 Nov 2026 18:03:12 GMT</pubDate>
+<description>این مقاله با SXRD operando مسیر فازی P-3m1-R3m-C2/m را در ذخیره‌سازی پتاسیم در CrSe2 لایه‌ای آشکار می‌کند و نشان می‌دهد محدودکردن ولتاژ بالا ظرفیت را کاهش اما حفظ ظرفیت چرخه‌ای را بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 Operando SXRD reveals the sequential P-3m1-R3m-C2/m phase pathway in layered CrSe2 during potassium storage, showing the P-3m1/R3m transformation becomes incomplete at higher rates due to lattice discontinuity and sluggish kinetics near full deintercalation. This identifies a rate-sensitive structural region and demonstrates how phase-resolved characterization guides voltage-window selection to improve cycling retention.&lt;br&gt;🏷 potassium storage · layered CrSe2 · operando SXRD · phase transformation · rate-dependent kinetics</description>
+<category>potassium storage</category>
+<category>layered CrSe2</category>
+<category>operando SXRD</category>
+<category>phase transformation</category>
+<category>rate-dependent kinetics</category>
+</item>
+<item>
+<title>Coordination Geometry Reconstruction Mitigates α‑Dihedral Angle Restriction of Polyanionic‐Type Cathodes for Ultrafast Sodium Storage</title>
+<link>https://doi.org/10.1002/adfm.79398</link>
+<guid isPermaLink="false">10.1002/adfm.79398</guid>
+<pubDate>Sat, 07 Nov 2026 18:02:46 GMT</pubDate>
+<description>بازسازی هندسه کوئوردیناسیون با چرخش صفحه α در کاتد پلی‌آنیونی، سد مهاجرت Na+ را کاهش داد و ذخیره‌سازی سریع سدیم با عملکرد دمایی گسترده را ممکن ساخت.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying the α-plane (transition metal plus dangling anions) as the key bottleneck for Na+ diffusion and reconstructing coordination geometry to twist it into α1/α2 planes, relieving stress and lowering migration barriers. This enables ultrafast, wide-temperature sodium storage and offers a tunable structural design paradigm for high-power polyanionic cathodes.&lt;br&gt;🏷 sodium-ion battery · polyanionic cathode · coordination geometry · Na-ion diffusion · rate capability</description>
+<category>sodium-ion battery</category>
+<category>polyanionic cathode</category>
+<category>coordination geometry</category>
+<category>Na-ion diffusion</category>
+<category>rate capability</category>
+</item>
+<item>
+<title>Beyond Superlattice Order: Full‐Composition Li Stoichiometry Screening Identifies Interfacial Spinel Passivation as the Decisive Factor for Durable Cobalt‐Free Li‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/adfm.79560</link>
+<guid isPermaLink="false">10.1002/adfm.79560</guid>
+<pubDate>Sat, 07 Nov 2026 18:02:25 GMT</pubDate>
+<description>غربالگری کامل استوکیومتری Li در کاتدهای غنی از لیتیوم بدون کبالت نشان داد پسیواسیون اسپینلی سطحی، نه نظم ابرشبکه، عامل تعیین‌کننده پایداری و برگشت‌پذیری ردوکس آنیونی است.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This study overturns the superlattice-centered design paradigm for cobalt-free Li-rich cathodes, using full-composition Li stoichiometry screening to decouple bulk ordering from surface chemistry. It identifies in situ spinel passivation, combined with dispersed Li2MnO3 nanodomains and antisite pillars, as decisive for anionic redox reversibility, enabling ultralow voltage fade and durable full cells, and provides stoichiometric guidelines for interfacial-stability-focused cathode design.&lt;br&gt;🏷 Li-rich cathode · cobalt-free · spinel passivation · anionic redox · Li stoichiometry</description>
+<category>Li-rich cathode</category>
+<category>cobalt-free</category>
+<category>spinel passivation</category>
+<category>anionic redox</category>
+<category>Li stoichiometry</category>
+</item>
+<item>
+<title>High‐Entropy Sulfides Enable Dual‐Pathway Sulfur Conversion in PEO‐Based All‐Solid‐State Li–S Batteries</title>
+<link>https://doi.org/10.1002/adfm.79559</link>
+<guid isPermaLink="false">10.1002/adfm.79559</guid>
+<pubDate>Sat, 07 Nov 2026 18:01:52 GMT</pubDate>
+<description>سولفیدهای آنتروپی بالا به‌عنوان میزبان گوگرد، تبدیل دو مسیره گوگرد را در باتری‌های Li-S تمام‌جامد بر پایه PEO فعال کرده و شاتل پلی‌سولفید را مهار می‌کنند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dual-phase high-entropy sulfide (FeCoNiCuMoSₓ) nanoflowers enabling a dual-pathway sulfur reduction: a restrained LiPSs-mediated liquid route plus a dominant solid-solid S-to-Li₂S pathway that blocks dissolution and shuttling. Significance: 1319.3 mAh g⁻¹ at 0.1 C, 0.0458% decay per cycle over 1000 cycles, stable 40–60°C operation, and flexible pouch cells—advancing practical all-solid-state Li–S batteries.&lt;br&gt;🏷 all-solid-state Li-S battery · high-entropy sulfide · sulfur host · polysulfide shuttle · PEO electrolyte</description>
+<category>all-solid-state Li-S battery</category>
+<category>high-entropy sulfide</category>
+<category>sulfur host</category>
+<category>polysulfide shuttle</category>
+<category>PEO electrolyte</category>
+</item>
+<item>
+<title>A Fluorinated 3D Interphase With Built‐In Si‐Gradient Lithiophilicity Enables Spatially Adaptive Li Deposition for Stable Li Metal Anode</title>
+<link>https://doi.org/10.1002/adfm.79549</link>
+<guid isPermaLink="false">10.1002/adfm.79549</guid>
+<pubDate>Sat, 07 Nov 2026 18:01:47 GMT</pubDate>
+<description>لایه میان‌فاز مصنوعی فلورینه سه‌بعدی با گرادیان Si و لیتوفیلیسیتی، رسوب لیتیوم را یکنواخت کرده و پایداری آند لیتیوم-فلز را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fluorinated 3D artificial SEI with a built-in vertical Si-gradient lithiophilicity, formed by Li-catalyzed in situ copolymerization for seamless integration. It enables bottom-up Li deposition, buffers volume changes, and forms a stable LiF-rich SEI. Significance: 99.4% Coulombic efficiency, 3500 h cycling, and improved full-cell performance, offering a blueprint for practical Li metal anodes.&lt;br&gt;🏷 lithium metal anode · artificial SEI · Si-gradient lithiophilicity · fluorinated interphase · dendrite suppression</description>
+<category>lithium metal anode</category>
+<category>artificial SEI</category>
+<category>Si-gradient lithiophilicity</category>
+<category>fluorinated interphase</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Grape Cluster Inspired Biomimetic Composite Solid Electrolyte for High‐Voltage and Long‐Life Solid‐State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79519</link>
+<guid isPermaLink="false">10.1002/adfm.79519</guid>
+<pubDate>Sat, 07 Nov 2026 18:01:38 GMT</pubDate>
+<description>الکترولیت جامد کامپوزیتی زیست‌الهام‌گرفته از خوشه انگور با کانال‌های Li+ بلندبرد، باتری‌های لیتیوم-فلز حالت جامد با ولتاژ بالا و عمر طولانی را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a grape-cluster biomimetic electrolyte combining electrospun PAN &amp;quot;pedicels&amp;quot; with mesoporous SiO₂-SO₃Li &amp;quot;berries,&amp;quot; enabling dual Li⁺ pathways and TFSI⁻ immobilization. It achieves high conductivity (1.44×10⁻³ S cm⁻¹), transference number 0.65, and 520 MPa modulus, yielding long-life high-voltage cells and a 414.9 Wh kg⁻¹ pouch cell. A PINN framework decouples interface aging kinetics, offering data-driven design for solid-state batteries.&lt;br&gt;🏷 composite solid electrolyte · solid-state lithium battery · biomimetic electrolyte · lithium dendrite · PAN electrospinning</description>
+<category>composite solid electrolyte</category>
+<category>solid-state lithium battery</category>
+<category>biomimetic electrolyte</category>
+<category>lithium dendrite</category>
+<category>PAN electrospinning</category>
+</item>
 <item>
 <title>Anchoring LiZn Nanocrystals With Oligomer Binders for Enhanced Interfacial Stability in Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/aenm.71814</link>
@@ -1137,78 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>LLZTO interface</category>
 <category>PVDF beta phase</category>
 <category>lithium metal battery</category>
-</item>
-<item>
-<title>Rethinking Battery Safety: Unveiling Aluminum Propellant‐Like Reactions During Thermal Runaway and Developing Protective Solutions</title>
-<link>https://doi.org/10.1002/aenm.71790</link>
-<guid isPermaLink="false">10.1002/aenm.71790</guid>
-<pubDate>Fri, 06 Nov 2026 00:01:21 GMT</pubDate>
-<description>واکنش شدید گرمازای آلومینیوم کلکتور با کاتد در دمای بالای ۶۰۰ درجه، سهم مهمی در thermal runaway دارد و الکترولیت بدون فلوراید آن را مهار می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that supposedly inert aluminum current collectors undergo intense exothermic reactions with cathodes above 600°C, catalyzed by fluorides and resembling rocket propellant combustion. This overlooked heat source rivals electrolyte contribution. Significance: fluorine-free electrolytes plus flame retardants suppress this reaction, cutting peak pouch-cell temperatures below 400°C, offering new thermal-safety design strategies.&lt;br&gt;🏷 thermal runaway · aluminum current collector · battery safety · fluoride catalysis · fluorine-free electrolyte</description>
-<category>thermal runaway</category>
-<category>aluminum current collector</category>
-<category>battery safety</category>
-<category>fluoride catalysis</category>
-<category>fluorine-free electrolyte</category>
-</item>
-<item>
-<title>Synergistic Anion Regulation Inducing Fluoride‐Rich SEI and Defect‐Rich MnO 2 for Stable Dual Electrode‐Free Zn‐MnO 2 Batteries</title>
-<link>https://doi.org/10.1002/aenm.71804</link>
-<guid isPermaLink="false">10.1002/aenm.71804</guid>
-<pubDate>Fri, 06 Nov 2026 00:01:16 GMT</pubDate>
-<description>تنظیم آنیونی با الکترولیت OTf−/Ac− در باتری DEF Zn–MnO2، SEI غنی از فلوراید و نقص‌های MnO2 را ایجاد کرده و پایداری چرخه را بسیار افزایش می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in anion regulation using OTf⁻/Ac⁻ hybrid electrolyte to form fluoride-rich SEI at the anode and induce defect-rich MnO₂ via instantaneous nucleation at the cathode. This dual regulation enables stable dual electrode-free Zn-MnO₂ batteries with 7500+ cycles, addressing dead manganese accumulation and interfacial irreversibility—a transformative strategy for high-energy aqueous batteries.&lt;br&gt;🏷 Zn-MnO2 battery · anion regulation · fluoride-rich SEI · Ruetschi defects · electrode-free battery</description>
-<category>Zn-MnO2 battery</category>
-<category>anion regulation</category>
-<category>fluoride-rich SEI</category>
-<category>Ruetschi defects</category>
-<category>electrode-free battery</category>
-</item>
-<item>
-<title>Stress‐Regulated Li Plating in Hybrid Ag–Carbon/Carbon Nanofiber Anodes for Durable All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/aenm.71816</link>
-<guid isPermaLink="false">10.1002/aenm.71816</guid>
-<pubDate>Fri, 06 Nov 2026 00:01:11 GMT</pubDate>
-<description>آند هیبریدی Ag–کربن/CNF با تنظیم تنش و آلیاژسازی Ag–Li، نوسانات فشار و ناپایداری مکانیکی را در باتری تمام‌جامد Li کاهش می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in identifying stress accumulation from repetitive Li plating/stripping as a key degradation cause in all-solid-state batteries, and designing a mechanically adaptive Ag–carbon/CNF hybrid anode that combines Ag–Li alloying for uniform nucleation with a porous CNF framework for stress dissipation. This enables stable cycling over 250 cycles at high loading and pouch-cell operation at practical pressures, advancing durable high-energy-density ASSBs.&lt;br&gt;🏷 all-solid-state battery · Ag-carbon nanofiber anode · Li plating stress · mechanical buffering · phase-field modeling</description>
-<category>all-solid-state battery</category>
-<category>Ag-carbon nanofiber anode</category>
-<category>Li plating stress</category>
-<category>mechanical buffering</category>
-<category>phase-field modeling</category>
-</item>
-<item>
-<title>Engineering a borate-rich interphase for highly stable all-solid-state sodium batteries</title>
-<link>https://doi.org/10.1016/j.joule.2026.102718</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102718</guid>
-<pubDate>Thu, 05 Nov 2026 22:01:22 GMT</pubDate>
-<description>این مقاله با مهندسی یک لایه میانی غنی از بورات، پایداری باتری‌های سدیم تمام‌جامد را بهبود می‌دهد.&lt;br&gt;Joule | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 all-solid-state sodium battery · borate-rich interphase · solid electrolyte · interface engineering · stability</description>
-<category>all-solid-state sodium battery</category>
-<category>borate-rich interphase</category>
-<category>solid electrolyte</category>
-<category>interface engineering</category>
-<category>stability</category>
-</item>
-<item>
-<title>Design and performance analysis of a structurally integrated thermoelectric–heat pipe hybrid battery thermal management system</title>
-<link>https://doi.org/10.1016/j.est.2026.125427</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125427</guid>
-<pubDate>Thu, 05 Nov 2026 19:02:27 GMT</pubDate>
-<description>یک سیستم مدیریت حرارتی باتری هیبریدی ترموالکتریک-لوله حرارتی با ساختار یکپارچه طراحی و عملکرد آن تحلیل می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · thermoelectric · heat pipe · structural integration · performance analysis</description>
-<category>battery thermal management</category>
-<category>thermoelectric</category>
-<category>heat pipe</category>
-<category>structural integration</category>
-<category>performance analysis</category>
-</item>
-<item>
-<title>Activated cellulose-enabled multilayer fluorinated polyimide film for high-temperature energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125457</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125457</guid>
-<pubDate>Thu, 05 Nov 2026 19:02:18 GMT</pubDate>
-<description>فیلم چندلایه پلی‌ایمید فلوئوردار فعال‌شده با سلولز برای ذخیره‌سازی انرژی در دمای بالا طراحی و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cellulose · fluorinated polyimide · multilayer film · high-temperature · energy storage</description>
-<category>cellulose</category>
-<category>fluorinated polyimide</category>
-<category>multilayer film</category>
-<category>high-temperature</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
