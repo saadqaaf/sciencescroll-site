@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 06:01:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 07:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Resolving the graphite compatibility boundary with an electrolyte-native anion 19F NMR descriptor</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105643</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105643</guid>
+<pubDate>Sat, 07 Nov 2026 07:01:03 GMT</pubDate>
+<description>این مقاله با معرفی یک توصیفگر 19F NMR بومی الکترولیت برای آنیون‌ها، مرز سازگاری گرافیت با الکترولیت‌ها را در باتری‌های لیتیوم-یونی روشن می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 graphite anode · electrolyte design · 19F NMR · anion descriptor · Li-ion battery</description>
+<category>graphite anode</category>
+<category>electrolyte design</category>
+<category>19F NMR</category>
+<category>anion descriptor</category>
+<category>Li-ion battery</category>
+</item>
 <item>
 <title>Meta-learning framework with sample discrimination and label optimization for lithium-ion battery lifetime prediction under label noise</title>
 <link>https://doi.org/10.1016/j.est.2026.125426</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>Bi0.5Na0.5TiO3</category>
 <category>energy storage</category>
 <category>dielectric capacitor</category>
-</item>
-<item>
-<title>Core–Shell Solvation Structure Engineering Enables Practical Lithium Metal Batteries With 475 Wh Kg −1</title>
-<link>https://doi.org/10.1002/adfm.79182</link>
-<guid isPermaLink="false">10.1002/adfm.79182</guid>
-<pubDate>Thu, 05 Nov 2026 15:02:31 GMT</pubDate>
-<description>الکترولیت کم‌غلظت با ساختار حلال‌پوشی هسته-پوسته، رسانایی 4.42 mS/cm و عدد انتقال Li+ برابر 0.74 داده و پیل کیسه‌ای NCM811||Li با چگالی انرژی 475 Wh/kg را ممکن کرد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a functionally partitioned core–shell solvation strategy using a low-concentration electrolyte, where methyl sulfone dominates Li⁺ coordination while fluoroethylene carbonate regulates the outer shell. This enables fast desolvation, high ionic conductivity, and a high Li⁺ transference number, inducing a gradient SEI. Significance: stable cycling across wide temperatures and a 2.2 Ah pouch cell reaching 475 Wh kg⁻¹, advancing practical high-energy LMBs.&lt;br&gt;🏷 lithium metal battery · solvation structure · low-concentration electrolyte · solid electrolyte interphase · pouch cell</description>
-<category>lithium metal battery</category>
-<category>solvation structure</category>
-<category>low-concentration electrolyte</category>
-<category>solid electrolyte interphase</category>
-<category>pouch cell</category>
 </item>
 </channel>
 </rss>

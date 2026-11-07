@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 06:01:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 07:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Resolving the graphite compatibility boundary with an electrolyte-native anion 19F NMR descriptor</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105643</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105643</guid>
+<pubDate>Sat, 07 Nov 2026 07:01:03 GMT</pubDate>
+<description>این مقاله با معرفی یک توصیفگر 19F NMR بومی الکترولیت برای آنیون‌ها، مرز سازگاری گرافیت با الکترولیت‌ها را در باتری‌های لیتیوم-یونی روشن می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 graphite anode · electrolyte design · 19F NMR · anion descriptor · Li-ion battery</description>
+<category>graphite anode</category>
+<category>electrolyte design</category>
+<category>19F NMR</category>
+<category>anion descriptor</category>
+<category>Li-ion battery</category>
+</item>
 <item>
 <title>Recent advances in multi-atom catalysts for oxygen electrocatalysis: From synthesis, structure-activity relationships to electrocatalytic applications</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218751</link>
@@ -1202,18 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 peptide backbone editing 
 <category>tumor microenvironment</category>
 <category>ovarian cancer</category>
 <category>caveolae uptake</category>
-</item>
-<item>
-<title>Tunable Chiroptical Response in Helically Stacked Multilayers of Achiral Polythiophene</title>
-<link>https://doi.org/10.1021/acsnano.6c07118</link>
-<guid isPermaLink="false">10.1021/acsnano.6c07118</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:17 GMT</pubDate>
-<description>چندلایه‌های مارپیچی از پلی‌تیوفن آکایرال پاسخ CD قابل تنظیم در ناحیه مرئی و نزدیک‌فروسرخ نشان می‌دهند که با شبیه‌سازی Mueller matrix توصیف می‌شود.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 polythiophene · helical chirality · circular dichroism · multilayer films · Mueller matrix</description>
-<category>polythiophene</category>
-<category>helical chirality</category>
-<category>circular dichroism</category>
-<category>multilayer films</category>
-<category>Mueller matrix</category>
 </item>
 </channel>
 </rss>
