@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 14:00:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 15:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Atomic-level reconstruction of electrocatalysts during reaction processes</title>
+<link>https://doi.org/10.1016/j.mser.2026.101331</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101331</guid>
+<pubDate>Sat, 07 Nov 2026 15:01:08 GMT</pubDate>
+<description>این مقاله بازسازی ساختاری الکتروکاتالیزورها را در سطح اتمی در حین واکنش‌های الکتروشیمیایی بررسی می‌کند و نقش آن در فعالیت و پایداری کاتالیزور را روشن می‌سازد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 electrocatalyst reconstruction · operando characterization · atomic-level structure · oxygen evolution reaction · catalyst stability</description>
+<category>electrocatalyst reconstruction</category>
+<category>operando characterization</category>
+<category>atomic-level structure</category>
+<category>oxygen evolution reaction</category>
+<category>catalyst stability</category>
+</item>
 <item>
 <title>Revealing hidden patterns and HOMO-LUMO gap prediction on a curated phthalocyanine-based HER electrocatalyst database using machine learning models</title>
 <link>https://doi.org/10.1039/d6ta06834k</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>additionality</category>
 <category>carbon sequestration</category>
 <category>Southern Ocean</category>
-</item>
-<item>
-<title>Temporal dynamics of antigen-specific T cell expansion in primary SARS-CoV-2 infection</title>
-<link>https://doi.org/10.1126/sciadv.aec4195</link>
-<guid isPermaLink="false">10.1126/sciadv.aec4195</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:40 GMT</pubDate>
-<description>با چالش کنترل‌شده SARS-CoV-2 نشان می‌دهد سرعت و اوج گسترش کلون‌های T به فراوانی پیش‌ساز و زیرگروه CD4/CD8 بستگی دارد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 T cell kinetics · SARS-CoV-2 · human challenge · clonal expansion · single-cell profiling</description>
-<category>T cell kinetics</category>
-<category>SARS-CoV-2</category>
-<category>human challenge</category>
-<category>clonal expansion</category>
-<category>single-cell profiling</category>
 </item>
 </channel>
 </rss>
