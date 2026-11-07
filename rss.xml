@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 07:01:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 08:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Enabling Outdoor Operation of Tin–Lead Perovskite Solar Cells via Lamination-Based Encapsulation</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02375</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02375</guid>
+<pubDate>Sat, 07 Nov 2026 08:01:08 GMT</pubDate>
+<description>کپسوله‌سازی لایه‌ای با polyolefin elastomer و درزگیری polyisobutylene امکان آزمون outdoor سلول‌های Sn-Pb perovskite را فراهم کرد و پس از ۱۲ روز حدود ۸۰٪ بازده اولیه حفظ شد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Sn-Pb perovskite · tandem solar cells · lamination encapsulation · outdoor stability · polyolefin elastomer</description>
+<category>Sn-Pb perovskite</category>
+<category>tandem solar cells</category>
+<category>lamination encapsulation</category>
+<category>outdoor stability</category>
+<category>polyolefin elastomer</category>
+</item>
+<item>
+<title>Plasma electrolytic oxidation for integrated luminescent ceramics: when the coating itself becomes the device</title>
+<link>https://doi.org/10.1016/j.cis.2026.104088</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104088</guid>
+<pubDate>Sat, 07 Nov 2026 08:01:05 GMT</pubDate>
+<description>این مقاله مروری نشان می‌دهد چگونه پوشش‌های سرامیکی luminescent حاصل از plasma electrolytic oxidation خود به‌عنوان دستگاه نوری یکپارچه عمل می‌کنند.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 plasma electrolytic oxidation · luminescent ceramics · functional coatings · integrated device · rare-earth doping</description>
+<category>plasma electrolytic oxidation</category>
+<category>luminescent ceramics</category>
+<category>functional coatings</category>
+<category>integrated device</category>
+<category>rare-earth doping</category>
+</item>
 <item>
 <title>Resolving the graphite compatibility boundary with an electrolyte-native anion 19F NMR descriptor</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105643</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 peptide backbone editing 
 <category>cancer vaccine</category>
 <category>FeOOH coating</category>
 <category>cross-presentation</category>
-</item>
-<item>
-<title>Combating the Bloodstream Infection Cascade: Sequential Therapeutic Nanomaterials for Pathogen Elimination, Immunomodulation, and Organ Protection</title>
-<link>https://doi.org/10.1021/acsnano.6c12330</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12330</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:23 GMT</pubDate>
-<description>این مرور، استراتژی‌های نانودرمانی مرحله‌محور برای عفونت جریان خون را از حذف پاتوژن تا تعدیل ایمنی و محافظت از اندام‌ها بررسی می‌کند.&lt;br&gt;ACS Nano | ⭐ Review&lt;br&gt;🏷 bloodstream infections · nanomaterials · immunomodulation · sequential therapy · organ protection</description>
-<category>bloodstream infections</category>
-<category>nanomaterials</category>
-<category>immunomodulation</category>
-<category>sequential therapy</category>
-<category>organ protection</category>
-</item>
-<item>
-<title>An Organo–Inorganic Hybrid Nanomaterial to Disrupt Multicellular Communication within Tumor Microenvironment</title>
-<link>https://doi.org/10.1021/acsnano.6c09857</link>
-<guid isPermaLink="false">10.1021/acsnano.6c09857</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:20 GMT</pubDate>
-<description>نانوماده هیبریدی با خاموش‌سازی IGFBP2 ارتباط چندسلولی ریزenvironment تومور را مختل کرده و رگ‌زایی و فعال‌سازی استرومایی را در سرطان تخمدان سرکوب می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hybrid nanomaterial · IGFBP2 silencing · tumor microenvironment · ovarian cancer · caveolae uptake</description>
-<category>hybrid nanomaterial</category>
-<category>IGFBP2 silencing</category>
-<category>tumor microenvironment</category>
-<category>ovarian cancer</category>
-<category>caveolae uptake</category>
 </item>
 </channel>
 </rss>
