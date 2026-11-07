@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 12:01:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 13:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Revealing hidden patterns and HOMO-LUMO gap prediction on a curated phthalocyanine-based HER electrocatalyst database using machine learning models</title>
+<link>https://doi.org/10.1039/d6ta06834k</link>
+<guid isPermaLink="false">10.1039/d6ta06834k</guid>
+<pubDate>Sat, 07 Nov 2026 13:01:08 GMT</pubDate>
+<description>با مدل‌های یادگیری ماشین، الگوهای پنهان و شکاف HOMO-LUMO در پایگاه داده کاتالیزورهای HER بر پایه فتالوسیانین پیش‌بینی و آشکار می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 hydrogen evolution reaction · phthalocyanine catalysts · machine learning · HOMO-LUMO gap · electrocatalyst database</description>
+<category>hydrogen evolution reaction</category>
+<category>phthalocyanine catalysts</category>
+<category>machine learning</category>
+<category>HOMO-LUMO gap</category>
+<category>electrocatalyst database</category>
+</item>
+<item>
+<title>Single-Atom Pd/TiO2 Cooperative Catalyst for Selective Oxidative Upcycling of Polyester Waste into Biodegradable Monomers</title>
+<link>https://doi.org/10.1039/d6ta06941j</link>
+<guid isPermaLink="false">10.1039/d6ta06941j</guid>
+<pubDate>Sat, 07 Nov 2026 13:01:04 GMT</pubDate>
+<description>کاتالیزور هم‌افزای تک‌اتمی Pd/TiO2 برای تبدیل گزینشی و اکسایشی ضایعات PET به مونومرهای زیست‌تخریب‌پذیر TPA و GA معرفی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 PET upcycling · single-atom Pd · TiO2 photocatalyst · terephthalic acid · glycolic acid</description>
+<category>PET upcycling</category>
+<category>single-atom Pd</category>
+<category>TiO2 photocatalyst</category>
+<category>terephthalic acid</category>
+<category>glycolic acid</category>
+</item>
 <item>
 <title>Photoinduced Carrier Doping of α-RuCl3 through Interlayer Charge Transfer</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04835</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>human challenge</category>
 <category>clonal expansion</category>
 <category>single-cell profiling</category>
-</item>
-<item>
-<title>Quantum-interference metrology of dissipative Kerr solitons</title>
-<link>https://doi.org/10.1126/sciadv.aei0654</link>
-<guid isPermaLink="false">10.1126/sciadv.aei0654</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:37 GMT</pubDate>
-<description>با تداخل Hong-Ou-Mandel، ساختار زمانی فمتوثانیه‌ای سالیتون‌های Kerr را بدون تقویت یا جبران پاشش اندازه‌گیری می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Kerr solitons · microresonator combs · Hong-Ou-Mandel interference · quantum metrology · pulse characterization</description>
-<category>Kerr solitons</category>
-<category>microresonator combs</category>
-<category>Hong-Ou-Mandel interference</category>
-<category>quantum metrology</category>
-<category>pulse characterization</category>
-</item>
-<item>
-<title>Spatial control of enzyme orientation at the lipid droplet interface enables regio- and chemoselective metabolic flux</title>
-<link>https://doi.org/10.1126/sciadv.aeg5924</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg5924</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:33 GMT</pubDate>
-<description>با مهندسی سطح قطرات لیپیدی مخمر و جهت‌دهی آنزیم‌ها، آبشار سه‌آنزیمی بازآرایی شده و تولید prodeoxyviolacein ۱۳۰۰ درصد افزایش می‌یابد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 lipid droplets · enzyme cascade · spatial organization · prodeoxyviolacein · synthetic biology</description>
-<category>lipid droplets</category>
-<category>enzyme cascade</category>
-<category>spatial organization</category>
-<category>prodeoxyviolacein</category>
-<category>synthetic biology</category>
 </item>
 </channel>
 </rss>
