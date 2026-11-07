@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 02:01:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 03:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>These AI agents design your perfect robot-powered lab — and run it for you</title>
+<link>https://doi.org/10.1038/d41586-026-03587-x</link>
+<guid isPermaLink="false">10.1038/d41586-026-03587-x</guid>
+<pubDate>Sat, 07 Nov 2026 03:01:12 GMT</pubDate>
+<description>این مقاله گزارش می‌دهد که عامل‌های هوش مصنوعی آزمایشگاه رباتیک را طراحی و به‌طور خودکار اجرا می‌کنند.&lt;br&gt;Nature | 💭 Perspective&lt;br&gt;🏷 AI agents · self-driving lab · robotics · laboratory automation · autonomous experimentation</description>
+<category>AI agents</category>
+<category>self-driving lab</category>
+<category>robotics</category>
+<category>laboratory automation</category>
+<category>autonomous experimentation</category>
+</item>
+<item>
+<title>In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering</title>
+<link>https://doi.org/10.1038/s41586-026-11233-9</link>
+<guid isPermaLink="false">10.1038/s41586-026-11233-9</guid>
+<pubDate>Sat, 07 Nov 2026 03:01:09 GMT</pubDate>
+<description>ویرایش پایه CRISPR درون‌تنی ژن ANGPTL3 به‌صورت پایدار سطح لیپیدها را کاهش می‌دهد.&lt;br&gt;Nature | 🔬 Research Article&lt;br&gt;🏷 CRISPR base editing · ANGPTL3 · lipid lowering · in vivo gene editing · hypercholesterolemia</description>
+<category>CRISPR base editing</category>
+<category>ANGPTL3</category>
+<category>lipid lowering</category>
+<category>in vivo gene editing</category>
+<category>hypercholesterolemia</category>
+</item>
 <item>
 <title>Influence of In-Plane Shear-deformed 3D Woven Preforms on Vibration Characteristics of Corresponding Composites</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114377</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 peptide backbone editing 
 <category>hydrogen bonds</category>
 <category>mass transport</category>
 <category>aqueous electrosynthesis</category>
-</item>
-<item>
-<title>Electronic Polarization Induced Coordination Directs Crystal Facet Engineering for Cryogenic Rechargeable Li||Cl 2 Batteries</title>
-<link>https://doi.org/10.1002/anie.7616531</link>
-<guid isPermaLink="false">10.1002/anie.7616531</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:06 GMT</pubDate>
-<description>راهبرد هماهنگی القاشده با قطبش الکترونی، رشد وجه‌های بلوری LiCl را هدایت کرده و باتری Li||Cl2 با چرخه‌پذیری پایدار در دمای ۴۰- درجه سانتی‌گراد ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electronic polarization induced coordination (EPIC) strategy using an in situ [AlCl₂(BZA)₂]⁺ cation to direct LiCl crystal facet engineering—shifting growth from passivating {100} cubes to reversible {111} nanocrystals—via N─H···Cl hydrogen bonds that weaken Al─Cl bonds. This links coordination chemistry to catalytic kinetics and facet control, enabling 2500+ cycles at −40°C and 30 A g⁻¹.&lt;br&gt;🏷 Li-Cl2 battery · crystal facet engineering · electronic polarization · coordination cation · cryogenic operation</description>
-<category>Li-Cl2 battery</category>
-<category>crystal facet engineering</category>
-<category>electronic polarization</category>
-<category>coordination cation</category>
-<category>cryogenic operation</category>
-</item>
-<item>
-<title>Dynamic Non‐Covalent Interactions at Oxide–Organic Heterointerfaces Enable Simultaneous Dielectric Enhancement and Mechanical Reinforcement of Organic Photovoltaic Devices and Modules</title>
-<link>https://doi.org/10.1002/anie.3153458</link>
-<guid isPermaLink="false">10.1002/anie.3153458</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:00 GMT</pubDate>
-<description>برهم‌کنش‌های غیرکووالانسی دینامیک در ناهم‌سطح اکسید-آلی، بهبود هم‌زمان ثابت دی‌الکتریک و استحکام مکانیکی فتوولتائیک آلی انعطاف‌پذیر را فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 organic photovoltaics · Al2O3 nanofiller · dielectric enhancement · mechanical robustness · non-covalent interactions</description>
-<category>organic photovoltaics</category>
-<category>Al2O3 nanofiller</category>
-<category>dielectric enhancement</category>
-<category>mechanical robustness</category>
-<category>non-covalent interactions</category>
 </item>
 </channel>
 </rss>
