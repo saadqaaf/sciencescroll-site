@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 19:02:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 20:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Impact of the glass transition temperature on Li-ion diffusion in amorphous alloy anodes via machine learning</title>
+<link>https://doi.org/10.1038/s41524-026-02383-5</link>
+<guid isPermaLink="false">10.1038/s41524-026-02383-5</guid>
+<pubDate>Sat, 07 Nov 2026 20:01:10 GMT</pubDate>
+<description>این مقاله با روش‌های یادگیری ماشین اثر دمای گذار شیشه‌ای بر نفوذ یون لیتیوم در آندهای آلیاژ آمورف را بررسی می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work builds high-precision machine-learning potentials for Li–Si/Ge/Sn/Pb amorphous anodes, revealing that conventional Arrhenius extrapolation overestimates room-temperature Li diffusivity by 1–2 orders of magnitude. It identifies glass transition temperature as a key descriptor governing the transition from localized to extended Li motion, establishing a composition–local-structure–diffusion relationship and proposing composition optimization to lower Tg for improved Li transport.&lt;br&gt;🏷 amorphous alloy anode · Li-ion diffusion · glass transition temperature · machine learning · molecular dynamics</description>
+<category>amorphous alloy anode</category>
+<category>Li-ion diffusion</category>
+<category>glass transition temperature</category>
+<category>machine learning</category>
+<category>molecular dynamics</category>
+</item>
 <item>
 <title>Direct Synthesis and Electrochemical Deintercalation of Mg-Intercalated Graphullerite</title>
 <link>https://doi.org/10.1021/jacs.6c14534</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>p-d heterointerface</category>
 <category>molten salt synthesis</category>
 <category>oxygen electrocatalysis</category>
-</item>
-<item>
-<title>In-Situ Conversion of Li2CO3 on Garnet Electrolyte Mediated by Fluoride for Solid-State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112587</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112587</guid>
-<pubDate>Fri, 06 Nov 2026 03:02:13 GMT</pubDate>
-<description>این پژوهش تبدیل درجای Li2CO3 روی الکترولیت گارنت را با واسطه فلوراید انجام می‌دهد تا انتقال یون و پایداری در باتری لیتیوم-فلز حالت جامد بهبود یابد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 solid-state lithium battery · garnet electrolyte · Li2CO3 conversion · fluoride mediation · lithium metal anode</description>
-<category>solid-state lithium battery</category>
-<category>garnet electrolyte</category>
-<category>Li2CO3 conversion</category>
-<category>fluoride mediation</category>
-<category>lithium metal anode</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 19:02:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 20:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Impact of the glass transition temperature on Li-ion diffusion in amorphous alloy anodes via machine learning</title>
+<link>https://doi.org/10.1038/s41524-026-02383-5</link>
+<guid isPermaLink="false">10.1038/s41524-026-02383-5</guid>
+<pubDate>Sat, 07 Nov 2026 20:01:10 GMT</pubDate>
+<description>این مقاله با روش‌های یادگیری ماشین اثر دمای گذار شیشه‌ای بر نفوذ یون لیتیوم در آندهای آلیاژ آمورف را بررسی می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work builds high-precision machine-learning potentials for Li–Si/Ge/Sn/Pb amorphous anodes, revealing that conventional Arrhenius extrapolation overestimates room-temperature Li diffusivity by 1–2 orders of magnitude. It identifies glass transition temperature as a key descriptor governing the transition from localized to extended Li motion, establishing a composition–local-structure–diffusion relationship and proposing composition optimization to lower Tg for improved Li transport.&lt;br&gt;🏷 amorphous alloy anode · Li-ion diffusion · glass transition temperature · machine learning · molecular dynamics</description>
+<category>amorphous alloy anode</category>
+<category>Li-ion diffusion</category>
+<category>glass transition temperature</category>
+<category>machine learning</category>
+<category>molecular dynamics</category>
+</item>
+<item>
+<title>Unseen but Avoidable: How Impurities Bias Electrocatalysis from Interface to Interpretation</title>
+<link>https://doi.org/10.1021/acscatal.6c07253</link>
+<guid isPermaLink="false">10.1021/acscatal.6c07253</guid>
+<pubDate>Sat, 07 Nov 2026 20:01:03 GMT</pubDate>
+<description>این مرور دسته‌بندی اثرات ناخالصی‌ها بر اندازه‌گیری‌های الکتروکاتالیستی و راهکارهای شناسایی، جداسازی و کاهش آن‌ها را برای داده‌های قابل‌اعتماد ارائه می‌دهد.&lt;br&gt;ACS Catalysis | ⭐ Review&lt;br&gt;🏷 electrocatalysis · impurity effects · trace contaminants · catalyst stability · product selectivity</description>
+<category>electrocatalysis</category>
+<category>impurity effects</category>
+<category>trace contaminants</category>
+<category>catalyst stability</category>
+<category>product selectivity</category>
+</item>
 <item>
 <title>Asymmetric Total Syntheses of (+)-Asperterpenoids D and E with a Concurrent Synthesis of ent -(−)-Homoverrucosanol</title>
 <link>https://doi.org/10.1021/jacs.6c16353</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>insecticide sensitivity</category>
 <category>genome-wide screen</category>
 <category>pest genetics</category>
-</item>
-<item>
-<title>Biscoordinated Strontium–Phenolic Networks for Bidirectional Repair of Dentin Hypersensitivity</title>
-<link>https://doi.org/10.1021/acsnano.6c15303</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15303</guid>
-<pubDate>Sat, 07 Nov 2026 09:03:25 GMT</pubDate>
-<description>نانوذرات شبکه استرانسیم-فنولیک با ساختار بیس‌کووردینه، انسداد توبول‌های عاجی و بازسازی دوطرفه عاج را با معدنی‌سازی و القای عاج ثالثیه در حساسیت عاجی فراهم می‌کنند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 strontium-phenolic networks · dentin hypersensitivity · remineralization · tubule occlusion · antibacterial</description>
-<category>strontium-phenolic networks</category>
-<category>dentin hypersensitivity</category>
-<category>remineralization</category>
-<category>tubule occlusion</category>
-<category>antibacterial</category>
-</item>
-<item>
-<title>Unusual CD-ee Dependence in Self-Assembled Chiral Nanocomposites through Nanoparticle-Mediated Interactions</title>
-<link>https://doi.org/10.1021/acsnano.6c19623</link>
-<guid isPermaLink="false">10.1021/acsnano.6c19623</guid>
-<pubDate>Sat, 07 Nov 2026 09:03:22 GMT</pubDate>
-<description>افزودن نانوذرات طلا به خودآرایی مولکول‌های کایرال PDI وابستگی غیرخطی و حتی منفی CD به ee ایجاد می‌کند که با دما قابل تنظیم است.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 chiral self-assembly · perylene diimide · gold nanoparticles · CD-ee dependence · majority rules</description>
-<category>chiral self-assembly</category>
-<category>perylene diimide</category>
-<category>gold nanoparticles</category>
-<category>CD-ee dependence</category>
-<category>majority rules</category>
 </item>
 </channel>
 </rss>
