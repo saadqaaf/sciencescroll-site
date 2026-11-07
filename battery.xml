@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 00:04:26 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 01:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meta-learning framework with sample discrimination and label optimization for lithium-ion battery lifetime prediction under label noise</title>
+<link>https://doi.org/10.1016/j.est.2026.125426</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125426</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:55 GMT</pubDate>
+<description>این مقاله یک چارچوب meta-learning با تشخیص نمونه و بهینه‌سازی برچسب برای پیش‌بینی عمر باتری لیتیوم-یونی تحت نویز برچسب ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · lifetime prediction · meta-learning · label noise · sample discrimination</description>
+<category>lithium-ion battery</category>
+<category>lifetime prediction</category>
+<category>meta-learning</category>
+<category>label noise</category>
+<category>sample discrimination</category>
+</item>
+<item>
+<title>Sandwich-structured thermoelectric aerogel sensor with integrated early warning and thermal insulation for suppressing thermal runaway propagation of lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125491</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125491</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:51 GMT</pubDate>
+<description>این مقاله حسگر آئروژل ترموالکتریک ساختار ساندویچی با هشدار زودهنگام و عایق حرارتی یکپارچه را برای مهار انتشار فرار حرارتی باتری لیتیوم-یونی ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermoelectric aerogel · thermal runaway · early warning sensor · thermal insulation · lithium-ion battery</description>
+<category>thermoelectric aerogel</category>
+<category>thermal runaway</category>
+<category>early warning sensor</category>
+<category>thermal insulation</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Deep learning-enhanced early detection of internal short circuits in lithium-ion batteries via low-frequency electrochemical impedance spectroscopy</title>
+<link>https://doi.org/10.1016/j.est.2026.125552</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125552</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:46 GMT</pubDate>
+<description>این مقاله با یادگیری عمیق و طیف‌سنجی امپدانس الکتروشیمیایی فرکانس پایین، تشخیص زودهنگام اتصال کوتاه داخلی باتری لیتیوم-یونی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 internal short circuit · lithium-ion battery · deep learning · electrochemical impedance spectroscopy · early detection</description>
+<category>internal short circuit</category>
+<category>lithium-ion battery</category>
+<category>deep learning</category>
+<category>electrochemical impedance spectroscopy</category>
+<category>early detection</category>
+</item>
+<item>
+<title>A category of solid solution-type phosphorus alloys (Fe,M)P (M = Ni,Co,Cu) with enhanced electrical conductivity and Li-ion storage performance</title>
+<link>https://doi.org/10.1016/j.est.2026.125505</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125505</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:42 GMT</pubDate>
+<description>این مقاله خانواده‌ای از آلیاژهای فسفری محلول جامد (Fe,M)P را با رسانایی الکتریکی و عملکرد ذخیره‌سازی Li-ion بهبودیافته معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phosphorus alloys · solid solution · Li-ion storage · electrical conductivity · anode materials</description>
+<category>phosphorus alloys</category>
+<category>solid solution</category>
+<category>Li-ion storage</category>
+<category>electrical conductivity</category>
+<category>anode materials</category>
+</item>
+<item>
+<title>Auditable thermal descriptors for machine-learning-assisted supercapacitor electrode design: A critical review and framework for sustainable energy storage</title>
+<link>https://doi.org/10.1016/j.est.2026.125367</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125367</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:38 GMT</pubDate>
+<description>این مرور انتقادی، توصیف‌گرهای حرارتی قابل‌حسابرسی را برای طراحی الکترود ابرخازن به‌کمک یادگیری ماشین و ذخیره انرژی پایدار ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 supercapacitor electrode · machine learning · thermal descriptors · sustainable energy storage · electrode design</description>
+<category>supercapacitor electrode</category>
+<category>machine learning</category>
+<category>thermal descriptors</category>
+<category>sustainable energy storage</category>
+<category>electrode design</category>
+</item>
+<item>
+<title>A review of immersion cooling fluids of lithium-ion batteries for energy storage and its application in battery thermal safety</title>
+<link>https://doi.org/10.1016/j.est.2026.125202</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125202</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:33 GMT</pubDate>
+<description>این مرور، سیالات خنک‌کاری غوطه‌وری باتری‌های لیتیوم-یونی برای ذخیره انرژی و کاربرد آن در ایمنی حرارتی باتری را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 immersion cooling · lithium-ion battery · thermal safety · cooling fluids · battery thermal management</description>
+<category>immersion cooling</category>
+<category>lithium-ion battery</category>
+<category>thermal safety</category>
+<category>cooling fluids</category>
+<category>battery thermal management</category>
+</item>
+<item>
+<title>Three-step sequential direct regeneration for structural and electrochemical restoration of deeply degraded LiNi0.6Co0.2Mn0.2O2 cathodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125470</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125470</guid>
+<pubDate>Sat, 07 Nov 2026 01:01:28 GMT</pubDate>
+<description>این مقاله روش بازتولید مستقیم سه‌مرحله‌ای را برای بازیابی ساختاری و الکتروشیمیایی کاتدهای NCM622 به‌شدت تخریب‌شده ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 direct regeneration · NCM622 cathode · spent lithium-ion battery · sequential relithiation · cathode restoration</description>
+<category>direct regeneration</category>
+<category>NCM622 cathode</category>
+<category>spent lithium-ion battery</category>
+<category>sequential relithiation</category>
+<category>cathode restoration</category>
+</item>
 <item>
 <title>Reconfigurable Poly(Ionic Liquid) Hydrogel Electrolytes for Ultrawide‐Temperature, Damage‐Tolerant Hybrid Supercapacitors</title>
 <link>https://doi.org/10.1002/eem2.70519</link>
@@ -1125,90 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 Introduces q/Mcluster, a 
 <category>low-concentration electrolyte</category>
 <category>solid electrolyte interphase</category>
 <category>pouch cell</category>
-</item>
-<item>
-<title>Optimized Small Polaron Hopping Enhances the Conductivity Barrier of Polyanionic Frameworks</title>
-<link>https://doi.org/10.1002/adfm.79494</link>
-<guid isPermaLink="false">10.1002/adfm.79494</guid>
-<pubDate>Thu, 05 Nov 2026 15:02:11 GMT</pubDate>
-<description>این کار با افزودن Cs+ به NFPP، پرش پلارون کوچک و رسانایی الکترونی را بهبود می‌دهد و شارژ سریع کاتد سدیم‌یون را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in introducing low-valence Cs⁺ into NFPP to trigger charge compensation that pre-stabilizes Fe³⁺, creating a built-in electric field and electron-relaying states that lower the small-polaron hopping barrier. Hall-effect measurements directly validate enhanced carrier mobility and concentration without the usual doping trade-off. This enables ultrafast charging (80% in 7.9 min at 5 C; full charge in 58 s at 50 C), offering a design paradigm for conductive polyanionic cathodes.&lt;br&gt;🏷 small polaron hopping · polyanionic cathode · sodium-ion battery · Cs doping · electronic conductivity</description>
-<category>small polaron hopping</category>
-<category>polyanionic cathode</category>
-<category>sodium-ion battery</category>
-<category>Cs doping</category>
-<category>electronic conductivity</category>
-</item>
-<item>
-<title>Electrolyte‐Enabled Suppression of Static Corrosion for Long‐Cycle Calendar Life in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79415</link>
-<guid isPermaLink="false">10.1002/adfm.79415</guid>
-<pubDate>Thu, 05 Nov 2026 15:02:05 GMT</pubDate>
-<description>این مقاله خوردگی استاتیک را به‌عنوان سازوکار متمایز پیری تقویمی باتری لیتیوم‌فلزی معرفی و با طراحی الکترولیت LiNO3-15C5-CsBr آن را مهار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying static, non-Faradaic interfacial corrosion as a distinct degradation mode governing calendar aging, separate from cycling failure, and introducing a kinetic descriptor (λ) to quantify it. Significance: this enables quantitative evaluation and electrolyte-based regulation of calendar aging, with the LiNO3-15C5-CsBr electrolyte extending storage lifetime 2.7–3.4-fold, offering a new framework beyond cycling metrics.&lt;br&gt;🏷 lithium metal battery · calendar aging · static corrosion · electrolyte design · solid electrolyte interphase</description>
-<category>lithium metal battery</category>
-<category>calendar aging</category>
-<category>static corrosion</category>
-<category>electrolyte design</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Precursor Size Governs Thermally Activated Solid State Conversion Into the Redox Active Framework Formation in Na 4 Fe 3 (PO 4 ) 2 P 2 O 7</title>
-<link>https://doi.org/10.1002/adfm.79457</link>
-<guid isPermaLink="false">10.1002/adfm.79457</guid>
-<pubDate>Thu, 05 Nov 2026 15:01:56 GMT</pubDate>
-<description>این مطالعه نشان می‌دهد اندازه پیش‌ماده Fe3(PO4)2، طول واکنش حالت جامد و تشکیل کاتد NFPP در باتری سدیم‌یون را کنترل می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying precursor domain size as the key variable governing solid-state NFPP formation, using reaction–diffusion simulations and size-controlled Fe₃(PO₄)₂ precursors. This establishes reaction length scale as a practical design rule, enabling scalable, nitrate/oxalate-free synthesis with improved kinetics and electrochemical performance (104.1 mAh g⁻¹ at 0.1 C, 61.8 mAh g⁻¹ at 20 C).&lt;br&gt;🏷 NFPP cathode · sodium-ion battery · precursor size · solid-state synthesis · reaction-diffusion</description>
-<category>NFPP cathode</category>
-<category>sodium-ion battery</category>
-<category>precursor size</category>
-<category>solid-state synthesis</category>
-<category>reaction-diffusion</category>
-</item>
-<item>
-<title>Building‐Block Design of Nonflammable Quasi‐Solid Electrolytes for Ampere‐Hour‐Scale Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79157</link>
-<guid isPermaLink="false">10.1002/adfm.79157</guid>
-<pubDate>Thu, 05 Nov 2026 15:01:51 GMT</pubDate>
-<description>این کار یک الکترولیت شبه‌جامد غیرقابل اشتعال با طراحی بلوک‌سازمان‌دهنده برای باتری‌های سدیم‌یون آمپرساعتی ارائه می‌دهد که ایمنی و پایداری چرخه را بهبود می‌بخشد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a building-block modular assembly of VC/HFBA monomers to create a quasi-solid electrolyte with tuned electron density, enabling high ionic conductivity (5.60 mS cm⁻¹), a 0.58 transference number, and a NaF-rich interphase. Significance: it suppresses dendrites and solvent decomposition, delivers 94.9% retention over 3000 cycles, and demonstrates safe, ampere-hour-scale pouch cells, advancing intrinsically safe sodium-ion battery commercialization.&lt;br&gt;🏷 sodium-ion battery · quasi-solid electrolyte · nonflammable · pouch cell · solid electrolyte interphase</description>
-<category>sodium-ion battery</category>
-<category>quasi-solid electrolyte</category>
-<category>nonflammable</category>
-<category>pouch cell</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Thermodynamic Partitioning Engineering of Multicomponent Layered Oxides through Diffusion-Limited Reconstruction</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105637</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105637</guid>
-<pubDate>Thu, 05 Nov 2026 14:01:51 GMT</pubDate>
-<description>این کار با مهندسی تفکیک ترمودینامیکی از طریق بازسازی محدودشده با نفوذ، اکسیدهای لایه‌ای چندجزئی برای کاتدهای باتری طراحی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 layered oxide cathode · thermodynamic partitioning · diffusion-limited reconstruction · multicomponent oxide · surface reconstruction</description>
-<category>layered oxide cathode</category>
-<category>thermodynamic partitioning</category>
-<category>diffusion-limited reconstruction</category>
-<category>multicomponent oxide</category>
-<category>surface reconstruction</category>
-</item>
-<item>
-<title>Anion Packing and Li⁺ Coordination Topology in Ether-Functionalized Imidazolium Ionic-Liquid Electrolytes: FSI versus TFSI</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105629</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105629</guid>
-<pubDate>Thu, 05 Nov 2026 14:01:46 GMT</pubDate>
-<description>این مقاله چیدمان آنیونی و توپولوژی هم‌آرایی Li⁺ را در الکترولیت‌های مایع یونی ایمیدازولیوم اتری‌دار با آنیون‌های FSI و TFSI مقایسه می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ionic liquid electrolyte · Li+ coordination · anion packing · FSI versus TFSI · ether-functionalized imidazolium</description>
-<category>ionic liquid electrolyte</category>
-<category>Li+ coordination</category>
-<category>anion packing</category>
-<category>FSI versus TFSI</category>
-<category>ether-functionalized imidazolium</category>
-</item>
-<item>
-<title>Fast Dynamic Re‐Equilibration of Chloroaluminate Speciation Enables a Stable Electrode‐Electrolyte Interface in Aluminum Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71750</link>
-<guid isPermaLink="false">10.1002/aenm.71750</guid>
-<pubDate>Thu, 05 Nov 2026 13:01:35 GMT</pubDate>
-<description>افزودن دیکلرواتان به الکترولیت AlCl3/EMIC تعادل گونه‌های کلروآلومینات را تسریع کرده و پایداری فصل مشترک الکترود-الکترولیت و آند آلومینیم را در باتری یون آلومینیم بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using a low-polarity, small-molecule moderator (dichloroethane) to reconfigure the interionic interaction network in AlCl₃/EMIC electrolyte, accelerating chloroaluminate speciation re-equilibration and suppressing charge-carrier depletion. This enables reversible AlCl₄⁻/Al₂Cl₇⁻ conversion, dendrite suppression, and unprecedented Al anode stability, boosting graphite-cathode capacity 120.7% (92→203 mAh g⁻¹) over 7000 cycles—establishing a dynamic speciation regulation principle for long-life aluminum-ion batteries.&lt;br&gt;🏷 aluminum-ion battery · chloroaluminate speciation · ionic liquid electrolyte · dichloroethane moderator · Al anode stability</description>
-<category>aluminum-ion battery</category>
-<category>chloroaluminate speciation</category>
-<category>ionic liquid electrolyte</category>
-<category>dichloroethane moderator</category>
-<category>Al anode stability</category>
 </item>
 </channel>
 </rss>
