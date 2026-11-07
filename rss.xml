@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 11:02:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 12:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Photoinduced Carrier Doping of α-RuCl3 through Interlayer Charge Transfer</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04835</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04835</guid>
+<pubDate>Sat, 07 Nov 2026 12:01:03 GMT</pubDate>
+<description>انتقال بار نوری بین لایه‌ای در ناهم‌ساختار MoS2/α-RuCl3 دوپینگ الکترونی قابل تنظیم با نور را در عایق مات α-RuCl3 ممکن می‌سازد و راهی برای کنترل نوری حالت‌های الکترونی همبسته فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 α-RuCl3 · MoS2 heterostructure · interlayer charge transfer · photoinduced doping · Mott insulator</description>
+<category>α-RuCl3</category>
+<category>MoS2 heterostructure</category>
+<category>interlayer charge transfer</category>
+<category>photoinduced doping</category>
+<category>Mott insulator</category>
+</item>
+<item>
+<title>Ultrathin SrTiO3 Capping Stabilizes the Surface Chemistry of Brownmillerite Ferrites during Reduction</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04202</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04202</guid>
+<pubDate>Sat, 07 Nov 2026 12:00:59 GMT</pubDate>
+<description>لایه نازک SrTiO3 به ضخامت ۱ نانومتر پایداری سطح فیلم‌های La0.05Sr0.95FeO2.5-δ را در کاهش با H2 با مهار تشکیل فاز Fe0 فلزی بیش از ۶ برابر بهبود می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 SrTiO3 capping · brownmillerite ferrite · oxide surface stability · H2 reduction · AP-XPS</description>
+<category>SrTiO3 capping</category>
+<category>brownmillerite ferrite</category>
+<category>oxide surface stability</category>
+<category>H2 reduction</category>
+<category>AP-XPS</category>
+</item>
 <item>
 <title>Biomass-derived porous carbons for supercapacitors: A critical review of precursors, synthesis, performance and environmental sustainability</title>
 <link>https://doi.org/10.1016/j.est.2026.125467</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>spatial organization</category>
 <category>prodeoxyviolacein</category>
 <category>synthetic biology</category>
-</item>
-<item>
-<title>Three-way circulation–soil moisture–temperature feedbacks amplify the most extreme mid-latitudinal heat waves</title>
-<link>https://doi.org/10.1126/sciadv.aeh9111</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh9111</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:30 GMT</pubDate>
-<description>با یادگیری ماشین نشان می‌دهد برهم‌کنش سه‌گانه گردش جو، رطوبت خاک و دما امواج گرمایی حدی را تشدید می‌کند و در مدل‌های CMIP6 کم‌برآورد می‌شود.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 heat waves · soil moisture · land-atmosphere feedback · machine learning · climate models</description>
-<category>heat waves</category>
-<category>soil moisture</category>
-<category>land-atmosphere feedback</category>
-<category>machine learning</category>
-<category>climate models</category>
-</item>
-<item>
-<title>The (amide-)N-methylnicotinamide is a microbe-derived NAD + precursor that drives gut stem cell renewal</title>
-<link>https://doi.org/10.1126/sciadv.aef2882</link>
-<guid isPermaLink="false">10.1126/sciadv.aef2882</guid>
-<pubDate>Sat, 07 Nov 2026 00:03:27 GMT</pubDate>
-<description>نشان می‌دهد باکتری‌های روده‌ای N-MNA تولید می‌کنند که به NAD+ تبدیل شده و بازسازی سلول‌های بنیادی روده را تقویت می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 N-methylnicotinamide · NAD precursor · gut stem cells · microbiome · Preiss-Handler pathway</description>
-<category>N-methylnicotinamide</category>
-<category>NAD precursor</category>
-<category>gut stem cells</category>
-<category>microbiome</category>
-<category>Preiss-Handler pathway</category>
 </item>
 </channel>
 </rss>
