@@ -5,8 +5,57 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 18:03:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 19:02:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Direct Synthesis and Electrochemical Deintercalation of Mg-Intercalated Graphullerite</title>
+<link>https://doi.org/10.1021/jacs.6c14534</link>
+<guid isPermaLink="false">10.1021/jacs.6c14534</guid>
+<pubDate>Sat, 07 Nov 2026 19:02:48 GMT</pubDate>
+<description>سنتز تک‌کریستال‌های میلی‌متری (Mg4C60)∞ و (Mg2C60)∞ با بازده بالا و خلوص فازی امکان بررسی درون‌شوندگی و خروج الکتروشیمیایی Mg2+ در گرافولریت را فراهم کرد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two chemical vapor transport methods yielding millimeter-sized single crystals of (Mg4C60)∞ and (Mg2C60)∞ with near-complete conversion, overcoming prior low yield and phase impurity by spatially separating precursors. Using Mg2Si gives phase-pure (Mg4C60)∞ at 55–62% yield, enabling the first electrochemical Mg2+ intercalation/deintercalation studies and comprehensive investigation of graphullerite and graphullerene properties.&lt;br&gt;🏷 graphullerite · Mg4C60 · chemical vapor transport · electrochemical deintercalation · 2D carbon</description>
+<category>graphullerite</category>
+<category>Mg4C60</category>
+<category>chemical vapor transport</category>
+<category>electrochemical deintercalation</category>
+<category>2D carbon</category>
+</item>
+<item>
+<title>Coupling electrolyte mechanical reinforcement and interfacial stress relaxation for near-ambient sulfide all-solid-state lithium metal batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79393-w</link>
+<guid isPermaLink="false">10.1038/s41467-026-79393-w</guid>
+<pubDate>Sat, 07 Nov 2026 19:02:19 GMT</pubDate>
+<description>با تقویت مکانیکی الکترولیت و آرامش تنش بین‌سطحی، باتری‌های تمام‌جامد لیتیوم-فلز سولفیدی در دمای نزدیک محیط بهبود می‌یابند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling a self-polymerizable thioctic acid-modified composite sulfide electrolyte, which suppresses lithium creep with high stress tolerance, with a porous carbon current collector that relaxes interfacial stress and hosts lithium in voids. This enables stable room-temperature cycling at ≤0.3 MPa and high areal loading (2.4 mAh cm−2), highlighting controlled lithium deformation and stress relaxation as key for practical all-solid-state batteries.&lt;br&gt;🏷 sulfide solid electrolyte · all-solid-state battery · lithium metal · interfacial stress · mechanical reinforcement</description>
+<category>sulfide solid electrolyte</category>
+<category>all-solid-state battery</category>
+<category>lithium metal</category>
+<category>interfacial stress</category>
+<category>mechanical reinforcement</category>
+</item>
+<item>
+<title>Regioisomeric Engineering of Pyridone Electrolyte Additives Enables Stably High‐Voltage LiCoO 2 Cathodes Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.2372098</link>
+<guid isPermaLink="false">10.1002/anie.2372098</guid>
+<pubDate>Sat, 07 Nov 2026 19:01:45 GMT</pubDate>
+<description>افزودنی پیریدونی p-HNFP با هماهنگی سطحی و تشکیل CEI غنی از LiF، پایداری کاتد LiCoO2 را در ولتاژ 4.6 V بهبود می‌دهد و 92.4% ظرفیت را پس از 400 چرخه حفظ می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This study establishes regioisomeric engineering of pyridone additives as a molecular design strategy for high-voltage LiCoO₂. The para-isomer (p-HNFP) uniquely combines σ-type lone-pair coordination to Co⁴⁺—lowering the O 2p band center and widening the Co 3d–O 2p gap—with regioselective formation of a compact LiF/nitrogen-rich CEI, enabling 2 Ah pouch cells to retain 92.4% capacity after 400 cycles at 4.6 V.&lt;br&gt;🏷 LiCoO2 cathode · electrolyte additive · pyridone regioisomer · cathode-electrolyte interphase · high-voltage lithium-ion</description>
+<category>LiCoO2 cathode</category>
+<category>electrolyte additive</category>
+<category>pyridone regioisomer</category>
+<category>cathode-electrolyte interphase</category>
+<category>high-voltage lithium-ion</category>
+</item>
+<item>
+<title>Advancing Moisture-Enabled Electric Generators: Ion Synergy, Technical Roadmap and Battery Hybridization Toward Real-World Self-Powered Systems</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112601</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112601</guid>
+<pubDate>Sat, 07 Nov 2026 19:01:32 GMT</pubDate>
+<description>این مقاله با مرور هم‌افزایی یونی و نقشه راه فنی، مسیر ترکیب مولدهای برق رطوبتی با باتری‌ها را برای سامانه‌های خودتوان واقعی ترسیم می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 moisture electric generator · ion synergy · battery hybridization · self-powered systems · technical roadmap</description>
+<category>moisture electric generator</category>
+<category>ion synergy</category>
+<category>battery hybridization</category>
+<category>self-powered systems</category>
+<category>technical roadmap</category>
+</item>
 <item>
 <title>Structural Evolution of State-Dependent Kinetics during Potassium Storage in Layered CrSe2</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02828</link>
@@ -1161,54 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>Li2CO3 conversion</category>
 <category>fluoride mediation</category>
 <category>lithium metal anode</category>
-</item>
-<item>
-<title>A Sustainable Fully Fluorine‐Free Interfacial Chemistry for Reversible Anode‐Free Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79374</link>
-<guid isPermaLink="false">10.1002/adfm.79374</guid>
-<pubDate>Fri, 06 Nov 2026 02:01:37 GMT</pubDate>
-<description>با پوشش ASEI بدون فلوئور بر روی کلکتور جریان مس و الکترولیت بدون فلوئور، رسوب‌دهی یکنواخت لیتیوم و پایداری چرخه در باتری لیتیوم-فلز بدون آند بهبود یافت.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fully fluorine-free interfacial strategy combining a cross-linked VC-MBA artificial SEI on Cu with a fluorine-free electrolyte, avoiding fluorinated SEI-formers and alloy interlayers. This enables homogeneous Li deposition and an inorganic-rich (Li2O, Li3N) SEI, improving reversibility. Significance: demonstrates sustainable anode-free Li metal batteries, with LFP cells retaining 84.5% over 350 cycles and NCM811 86.6% over 100 cycles.&lt;br&gt;🏷 anode-free lithium battery · fluorine-free electrolyte · artificial SEI · lithium deposition · current collector</description>
-<category>anode-free lithium battery</category>
-<category>fluorine-free electrolyte</category>
-<category>artificial SEI</category>
-<category>lithium deposition</category>
-<category>current collector</category>
-</item>
-<item>
-<title>Green and efficient recycling strategies for spent LFP/LMFP batteries: from technical comparison to economic analysis</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218737</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218737</guid>
-<pubDate>Fri, 06 Nov 2026 00:01:42 GMT</pubDate>
-<description>این مرور استراتژی‌های بازیافت سبز باتری‌های مستعمل LFP/LMFP را از دید فنی مقایسه و تحلیل اقتصادی آن‌ها را ارائه می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 LFP recycling · LMFP battery · hydrometallurgy · economic analysis · spent battery</description>
-<category>LFP recycling</category>
-<category>LMFP battery</category>
-<category>hydrometallurgy</category>
-<category>economic analysis</category>
-<category>spent battery</category>
-</item>
-<item>
-<title>Unlocking Wide‐Temperature Battery States via Noninvasive Nonlinear Ultrasound</title>
-<link>https://doi.org/10.1002/aenm.71798</link>
-<guid isPermaLink="false">10.1002/aenm.71798</guid>
-<pubDate>Fri, 06 Nov 2026 00:01:32 GMT</pubDate>
-<description>روش اولتراسونیک غیرخطی غیرمخرب با جبران دمایی، SOC و SOCN باتری لیتیوم-یونی را در بازه دمایی −۱۰ تا ۴۰ درجه پیش‌بینی می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Novelty: A non-destructive framework using the quasi-static component of nonlinear ultrasonic guided waves, with an operando electro-acoustic-thermal platform that statistically isolates temperature artefacts from intrinsic signals. Significance: Enables simultaneous, precise prediction of SOC and SOCN across −10°C to 40°C, maps ultrasonic signatures to temperature-dependent mechanics and irreversible capacity fade, and offers a scalable diagnostic tool for batteries in extreme environments.&lt;br&gt;🏷 nonlinear ultrasound · state of charge · wide temperature · nondestructive diagnosis · lithium-ion battery</description>
-<category>nonlinear ultrasound</category>
-<category>state of charge</category>
-<category>wide temperature</category>
-<category>nondestructive diagnosis</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Super‐Toughness Self‐Healing Composite Solid Electrolyte With Structured Interfacial Reconstruction Enabling Fast Ion Transport and Stable Interface for High‐Performance Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71809</link>
-<guid isPermaLink="false">10.1002/aenm.71809</guid>
-<pubDate>Fri, 06 Nov 2026 00:01:26 GMT</pubDate>
-<description>الکترولیت جامد پلیمری خودترمیم با تبدیل درجای سطح LLZTO و فاز β PVDF، رسانش یونی سریع و پایداری چرخه بالا در باتری Li فلزی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining in-situ conversion of Li₂CO₃ to a Li₂PO₃F interfacial layer with EDTA-induced PVDF α→β phase transition, creating a self-healing solid electrolyte with fast ion transport and stable interfaces. Its significance is enabling high-performance LiNi₀.₈Co₀.₁Mn₀.₁O₂||Li batteries, plus a non-destructive differential monitoring method for tracking electrochemical-mechanical-thermal responses.&lt;br&gt;🏷 composite solid electrolyte · self-healing polymer · LLZTO interface · PVDF beta phase · lithium metal battery</description>
-<category>composite solid electrolyte</category>
-<category>self-healing polymer</category>
-<category>LLZTO interface</category>
-<category>PVDF beta phase</category>
-<category>lithium metal battery</category>
 </item>
 </channel>
 </rss>
