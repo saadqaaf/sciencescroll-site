@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 15:01:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 16:01:43 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anchoring LiZn Nanocrystals With Oligomer Binders for Enhanced Interfacial Stability in Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71814</link>
+<guid isPermaLink="false">10.1002/aenm.71814</guid>
+<pubDate>Sat, 07 Nov 2026 16:01:41 GMT</pubDate>
+<description>لایه میانی کامپوزیتی LiZn تثبیتشده با الیگومر روی آند لیتیوم، رسوب یکنواخت Li و پایداری 700 چرخه را فراهم کرده و دمای شروع runaway حرارتی را از 124 به 191 درجه سانتیگراد افزایش داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a bio-inspired oligomer-anchored LiZn nanocrystal interphase, spray-coated on Li metal, which mimics plant roots to bind particles and ensure structural integrity. It enables uniform Li deposition, extends coin-cell life to 700 cycles, achieves 86% retention in 1.38 Ah pouch cells, and raises thermal runaway trigger temperature from 124°C to 191°C, significantly enhancing lifespan and safety of high-energy batteries.&lt;br&gt;🏷 lithium metal batteries · LiZn nanocrystals · oligomer binder · composite interphase · thermal safety</description>
+<category>lithium metal batteries</category>
+<category>LiZn nanocrystals</category>
+<category>oligomer binder</category>
+<category>composite interphase</category>
+<category>thermal safety</category>
+</item>
+<item>
+<title>Non‐Planar Chlorine‐Coordinated Activation of Triatomic Ruthenium Sites for Efficient Oxygen Reduction</title>
+<link>https://doi.org/10.1002/aenm.71826</link>
+<guid isPermaLink="false">10.1002/aenm.71826</guid>
+<pubDate>Sat, 07 Nov 2026 16:01:31 GMT</pubDate>
+<description>کاتالیزور سهاتمی Ru3ClNC با هماهنگی غیرمسطح Cl، پتانسیل نیمموج 0.90 V در محیط قلیایی برای ORR و عملکرد برجسته باتری روی-هوا را ارائه میدهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a chlorine-coordinated triatomic Ru₃ON₆Cl site with non-planar geometry that breaks symmetry and charge redistribution, disrupting d-band linear scaling. This enables simultaneous optimization of the rate-determining step and OH* desorption, overcoming thermodynamic limits. Significance: high ORR activity (0.90 V alkaline, 0.79 V acidic) and durable zinc-air batteries, offering a new design concept for Ru-based catalysts.&lt;br&gt;🏷 oxygen reduction reaction · Ru3 cluster · chlorine coordination · zinc-air battery · electronic structure</description>
+<category>oxygen reduction reaction</category>
+<category>Ru3 cluster</category>
+<category>chlorine coordination</category>
+<category>zinc-air battery</category>
+<category>electronic structure</category>
+</item>
+<item>
+<title>Ultra‐High Ionic Conductivity Sulfide‐Based Composite Membranes Paired With Stable Interfacial Layer Enables High‐Energy‐Density All‐Solid‐State Batteries</title>
+<link>https://doi.org/10.1002/aenm.71813</link>
+<guid isPermaLink="false">10.1002/aenm.71813</guid>
+<pubDate>Sat, 07 Nov 2026 16:01:26 GMT</pubDate>
+<description>غشای کامپوزیتی رسانای یونی بالا از Li5.4PS4.4Cl0.8Br0.8 همراه لایه LiF درجا، باتری تمامجامد FeS2//LiF-Li را با چگالی انرژی 416.5 Wh kg-1 و پایداری 2000 ساعت ممکن کرد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable dry-formed Li₅.₄PS₄.₄Cl₀.₈Br₀.₈/PTFE composite membrane (HICCM) with ultra-high ionic conductivity, paired with an in-situ LiF-rich interfacial layer that suppresses sulfide–Li side reactions. Significance: enables stable cycling (2000 h, 1.3 mA cm⁻² CCD) and 416.5 Wh kg⁻¹ at 3.4 mAh cm⁻², advancing practical high-energy all-solid-state batteries.&lt;br&gt;🏷 all-solid-state batteries · sulfide electrolyte · composite membrane · LiF interlayer · energy density</description>
+<category>all-solid-state batteries</category>
+<category>sulfide electrolyte</category>
+<category>composite membrane</category>
+<category>LiF interlayer</category>
+<category>energy density</category>
+</item>
 <item>
 <title>Biomass-derived porous carbons for supercapacitors: A critical review of precursors, synthesis, performance and environmental sustainability</title>
 <link>https://doi.org/10.1016/j.est.2026.125467</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>multilayer film</category>
 <category>high-temperature</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Manganese recovery from spent lithium-ion battery cathodes: Technologies for leaching, separation, and sustainable recycling</title>
-<link>https://doi.org/10.1016/j.est.2026.125412</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125412</guid>
-<pubDate>Thu, 05 Nov 2026 19:02:13 GMT</pubDate>
-<description>این مقاله فناوری‌های لیچینگ، جداسازی و بازیافت پایدار منگنز از کاتدهای مستعمل باتری لیتیوم-یون را مرور می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 manganese recovery · spent LIB cathodes · leaching · separation · sustainable recycling</description>
-<category>manganese recovery</category>
-<category>spent LIB cathodes</category>
-<category>leaching</category>
-<category>separation</category>
-<category>sustainable recycling</category>
-</item>
-<item>
-<title>Structural evolution of Mn-based metal-organic framework -derived MnO/C from nanosheets to coral-like rods for stable cycling in magnesium‑sulfur batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125465</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125465</guid>
-<pubDate>Thu, 05 Nov 2026 19:02:08 GMT</pubDate>
-<description>ساختار MnO/C مشتق از MOF منگنز از نانوصفحه به میله‌های مرجانی تغییر می‌کند و چرخه‌پذیری پایدار در باتری منیزیم-گوگرد را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 magnesium-sulfur battery · MnO/C · MOF-derived · coral-like rods · cycling stability</description>
-<category>magnesium-sulfur battery</category>
-<category>MnO/C</category>
-<category>MOF-derived</category>
-<category>coral-like rods</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Physics-based modeling of cyclic and calendar aging of silicon-graphite composite anodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125327</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125327</guid>
-<pubDate>Thu, 05 Nov 2026 19:02:00 GMT</pubDate>
-<description>مدل‌سازی مبتنی بر فیزیک، پیری چرخه‌ای و تقویمی آندهای کامپوزیتی سیلیکون-گرافیت را در باتری‌های لیتیوم-یون توصیف می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silicon-graphite anode · calendar aging · cyclic aging · physics-based modeling · lithium-ion battery</description>
-<category>silicon-graphite anode</category>
-<category>calendar aging</category>
-<category>cyclic aging</category>
-<category>physics-based modeling</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
