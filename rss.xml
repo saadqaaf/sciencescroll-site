@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 05:00:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 06:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Recent advances in multi-atom catalysts for oxygen electrocatalysis: From synthesis, structure-activity relationships to electrocatalytic applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218751</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218751</guid>
+<pubDate>Sat, 07 Nov 2026 06:01:19 GMT</pubDate>
+<description>این مرور پیشرفت‌های اخیر کاتالیزورهای چنداتمی برای الکتروکاتالیز اکسیژن را از سنتز و روابط ساختار-فعالیت تا کاربردهای الکتروکاتالیستی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 multi-atom catalysts · oxygen electrocatalysis · structure-activity relationships · ORR/OER · synthesis strategies</description>
+<category>multi-atom catalysts</category>
+<category>oxygen electrocatalysis</category>
+<category>structure-activity relationships</category>
+<category>ORR/OER</category>
+<category>synthesis strategies</category>
+</item>
+<item>
+<title>Heme interactions with Aβ, Tau and Prion protein in neurodegeneration: coordination chemistry at the crossroads of oxidative stress and protein aggregation</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218752</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218752</guid>
+<pubDate>Sat, 07 Nov 2026 06:01:15 GMT</pubDate>
+<description>این مقاله برهم‌کنش هم با پروتئین‌های Aβ، Tau و Prion را در نورودژنراسیون بررسی می‌کند و نقش شیمی کوئوردیناسیون در استرس اکسیداتیو و تجمع پروتئین را روشن می‌سازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 heme · amyloid beta · Tau protein · prion protein · oxidative stress</description>
+<category>heme</category>
+<category>amyloid beta</category>
+<category>Tau protein</category>
+<category>prion protein</category>
+<category>oxidative stress</category>
+</item>
 <item>
 <title>These AI agents design your perfect robot-powered lab — and run it for you</title>
 <link>https://doi.org/10.1038/d41586-026-03587-x</link>
@@ -1190,30 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 peptide backbone editing 
 <category>circular dichroism</category>
 <category>multilayer films</category>
 <category>Mueller matrix</category>
-</item>
-<item>
-<title>An Iron Catalyzed Markovnikov‐Selective trans ‐Hydrogermylation of Terminal Alkynes</title>
-<link>https://doi.org/10.1002/anie.4445463</link>
-<guid isPermaLink="false">10.1002/anie.4445463</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:13 GMT</pubDate>
-<description>کمپلکس آهن نیم‌ساندویچی، هیدروژرمیلاسیون ترانس انتخابی مارکونیکوف آلکین‌های انتهایی را با بازده و گزینش‌پذیری بالا کاتالیز می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 iron catalysis · hydrogermylation · terminal alkynes · Markovnikov selectivity · alkenylgermanes</description>
-<category>iron catalysis</category>
-<category>hydrogermylation</category>
-<category>terminal alkynes</category>
-<category>Markovnikov selectivity</category>
-<category>alkenylgermanes</category>
-</item>
-<item>
-<title>Overcoming Mass‐Transport Limitations in Electrocatalytic Dehalogenation via DMSO‐Engineered Hydrogen Bonds</title>
-<link>https://doi.org/10.1002/anie.3824462</link>
-<guid isPermaLink="false">10.1002/anie.3824462</guid>
-<pubDate>Fri, 06 Nov 2026 23:02:09 GMT</pubDate>
-<description>با افزودن DMSO و بازسازی شبکه پیوند هیدروژنی، انتقال جرم در الکتروکاتالیز آبی بهبود یافته و بازده فارادایک حذف هالوژن در چگالی جریان بالا افزایش می‌یابد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 electrocatalytic dehalogenation · DMSO · hydrogen bonds · mass transport · aqueous electrosynthesis</description>
-<category>electrocatalytic dehalogenation</category>
-<category>DMSO</category>
-<category>hydrogen bonds</category>
-<category>mass transport</category>
-<category>aqueous electrosynthesis</category>
 </item>
 </channel>
 </rss>
