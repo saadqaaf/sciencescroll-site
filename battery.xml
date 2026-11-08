@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 12:01:44 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 13:01:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermodynamics-guided cation pre-exchange in oxygen electrodes for superior reversible solid oxide cells</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127770</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127770</guid>
+<pubDate>Sun, 08 Nov 2026 13:01:43 GMT</pubDate>
+<description>پیش‌تیمار کاتیونی هدایت‌شده با ترمودینامیک در الکترود اکسیژن، بازگشت‌پذیری و عملکرد سلول‌های اکسید جامد را بهبود می‌دهد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 solid oxide cells · oxygen electrode · cation pre-exchange · thermodynamics · reversible operation</description>
+<category>solid oxide cells</category>
+<category>oxygen electrode</category>
+<category>cation pre-exchange</category>
+<category>thermodynamics</category>
+<category>reversible operation</category>
+</item>
 <item>
 <title>Nanofluid wetting of Cu enables thin lithium negative electrodes for high-energy and long-cycling lithium metal batteries</title>
 <link>https://doi.org/10.1038/s41467-026-79376-x</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>poly(vinylene carbonate)</category>
 <category>ionized electrolyte</category>
 <category>lithium battery</category>
-</item>
-<item>
-<title>Synergistic Interlayer Engineering and Phase Modulation of V−doped MoS2/rGO Composites for High-performance Aqueous Zn−ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta07897d</link>
-<guid isPermaLink="false">10.1039/d6ta07897d</guid>
-<pubDate>Fri, 06 Nov 2026 07:01:10 GMT</pubDate>
-<description>کامپوزیت V-doped MoS2/rGO با مهندسی بین‌لایه‌ای و تنظیم فاز برای کاتد باتری آبی Zn-ion سنتز شد و عملکرد الکتروشیمیایی و پایداری چرخه‌ای آن بهبود یافت.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining V-doping with interlayer engineering of MoS2/rGO composites to simultaneously address poor conductivity and structural instability. This synergistic strategy enhances interlayer spacing, phase modulation, and electron transport, delivering improved capacity and cycling stability. It offers a promising design route for high-performance, durable AZIB cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · MoS2 cathode · vanadium doping · interlayer engineering · rGO composite</description>
-<category>aqueous zinc-ion battery</category>
-<category>MoS2 cathode</category>
-<category>vanadium doping</category>
-<category>interlayer engineering</category>
-<category>rGO composite</category>
 </item>
 </channel>
 </rss>
