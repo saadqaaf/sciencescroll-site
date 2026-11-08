@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 16:01:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 17:01:47 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking tradeoff between ionic conductivity and electrochemical stability of polyurethane electrolytes by ion-conductive multifunctional nanosheets toward long-life lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125472</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125472</guid>
+<pubDate>Sun, 08 Nov 2026 17:01:45 GMT</pubDate>
+<description>با نانوصفحات multifunctional رسانای یون، مبادله بین رسانایی یونی و پایداری الکتروشیمیایی الکترولیت پلی‌یورتان شکسته شده و باتری لیتیوم-فلز با عمر طولانی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 polyurethane electrolyte · ion-conductive nanosheets · lithium metal battery · electrochemical stability · ionic conductivity</description>
+<category>polyurethane electrolyte</category>
+<category>ion-conductive nanosheets</category>
+<category>lithium metal battery</category>
+<category>electrochemical stability</category>
+<category>ionic conductivity</category>
+</item>
 <item>
 <title>Thermodynamics-guided cation pre-exchange in oxygen electrodes for superior reversible solid oxide cells</title>
 <link>https://doi.org/10.1016/j.apcatb.2026.127770</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>spent lithium battery</category>
 <category>defect reconstruction</category>
 <category>interface reconstruction</category>
-</item>
-<item>
-<title>Creation of high-performance ionized solid-state electrolyte by dissolving Li10SnP2S12 in poly(vinylene carbonate): A breakthrough from filler effect to ion effect</title>
-<link>https://doi.org/10.1016/j.esci.2026.100670</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100670</guid>
-<pubDate>Fri, 06 Nov 2026 08:01:23 GMT</pubDate>
-<description>این پژوهش با حل‌کردن Li10SnP2S12 در poly(vinylene carbonate) یک الکترولیت جامد یونیزه با عملکرد بالا می‌سازد و از اثر پرکننده به اثر یونی می‌رسد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid electrolyte · Li10SnP2S12 · poly(vinylene carbonate) · ionized electrolyte · lithium battery</description>
-<category>solid electrolyte</category>
-<category>Li10SnP2S12</category>
-<category>poly(vinylene carbonate)</category>
-<category>ionized electrolyte</category>
-<category>lithium battery</category>
 </item>
 </channel>
 </rss>
