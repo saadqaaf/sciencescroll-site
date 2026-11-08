@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 06:01:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 07:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual-crosslinked anisotropic alginate aerogels with Ca/Si–O synergistic networks for high-efficiency building energy management</title>
+<link>https://doi.org/10.1016/j.nantod.2026.103229</link>
+<guid isPermaLink="false">10.1016/j.nantod.2026.103229</guid>
+<pubDate>Sun, 08 Nov 2026 07:01:38 GMT</pubDate>
+<description>این مقاله ایروژل‌های آلژینات آنیزوتروپیک دوتایی‌شبکه‌ای با شبکه هم‌افزای Ca/Si–O می‌سازد که برای مدیریت کارآمد انرژی ساختمان و عایق‌کاری حرارتی طراحی شده‌اند.&lt;br&gt;Nano Today | 🔬 Research Article&lt;br&gt;🏷 alginate aerogel · anisotropic structure · dual crosslinking · thermal insulation · building energy management</description>
+<category>alginate aerogel</category>
+<category>anisotropic structure</category>
+<category>dual crosslinking</category>
+<category>thermal insulation</category>
+<category>building energy management</category>
+</item>
 <item>
 <title>Facile fabrication enabling dual built-in electric field engineering to boost electromagnetic wave responses of biomass-derived carbon</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122307</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>anode</category>
 <category>first-principles</category>
 <category>DFT</category>
-</item>
-<item>
-<title>Effects of testing substrate stability and practical binder formulation on the electrochemical evaluation of porous carbon electrodes in NH4Cl electrolyte</title>
-<link>https://doi.org/10.1016/j.est.2026.125567</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125567</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:29 GMT</pubDate>
-<description>اثر پایداری بستر و فرمولاسیون چسب بر ارزیابی الکتروشیمیایی الکترودهای کربن متخلخل در الکترولیت NH4Cl بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 porous carbon electrodes · NH4Cl electrolyte · binder formulation · substrate stability · electrochemical evaluation</description>
-<category>porous carbon electrodes</category>
-<category>NH4Cl electrolyte</category>
-<category>binder formulation</category>
-<category>substrate stability</category>
-<category>electrochemical evaluation</category>
 </item>
 </channel>
 </rss>
