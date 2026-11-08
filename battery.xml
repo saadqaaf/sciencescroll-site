@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 04:00:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 05:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nanofluid wetting of Cu enables thin lithium negative electrodes for high-energy and long-cycling lithium metal batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79376-x</link>
+<guid isPermaLink="false">10.1038/s41467-026-79376-x</guid>
+<pubDate>Sun, 08 Nov 2026 05:01:10 GMT</pubDate>
+<description>با بهره‌گیری از نانوسیال حاصل از نانوذرات معدنی در Li مذاب، الکترود نازک Li@LiFSI با ترشوندگی بهبودیافته روی Cu ساخته شد و پاکت‌سل‌ها چرخه‌پذیری پایدار و انرژی ویژه 498 Wh kg−1 نشان دادند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using molten-salt-derived nanocomposite Li@LiX electrodes, where in-situ nanofluid formation regulates Li surface and Li|Cu bonding, enabling 800-nm-thick Li foils with enhanced Cu wetting. Significance: this yields inorganic-rich interphases that suppress Li corrosion, enabling 10-μm Li pouch cells cycling over 250 cycles and 20-μm cells achieving 498 Wh kg⁻¹ and 1,142 Wh L⁻¹.&lt;br&gt;🏷 lithium metal battery · thin Li foil · nanofluid wetting · Li@LiFSI · pouch cell</description>
+<category>lithium metal battery</category>
+<category>thin Li foil</category>
+<category>nanofluid wetting</category>
+<category>Li@LiFSI</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>Cu2O/CuO heterojunction with dual lithiophilic sites and built-in electric field for dendrite-free lithium metal anodes</title>
 <link>https://doi.org/10.1016/j.est.2026.125500</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>vanadium doping</category>
 <category>interlayer engineering</category>
 <category>rGO composite</category>
-</item>
-<item>
-<title>Oxygen Evolution along Grain Boundaries of LiNi0.5Co0.2Mn0.3O2 Particles as an Early Stage Degradation of High-Voltage All-Solid-State Batteries</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04111</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04111</guid>
-<pubDate>Fri, 06 Nov 2026 06:01:07 GMT</pubDate>
-<description>در باتری‌های تمام‌جامد سولفیدی، آزادسازی O2 در NCM523 پلی‌کریستالی عمدتاً در امتداد مرزهای دانه رخ می‌دهد و پوشش سطحی با مهار تشکیل جای خالی اکسیژن آن را سرکوب می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying grain boundaries as the dominant pathway for O2 release in polycrystalline NCM523, with surface oxygen-vacancy formation initiating propagation along GBs. This explains early degradation of high-voltage sulfide all-solid-state batteries and establishes suppressing surface oxygen vacancies, e.g., via coating, as a key strategy for long-term stability.&lt;br&gt;🏷 all-solid-state battery · NCM523 cathode · oxygen evolution · grain boundary · surface coating</description>
-<category>all-solid-state battery</category>
-<category>NCM523 cathode</category>
-<category>oxygen evolution</category>
-<category>grain boundary</category>
-<category>surface coating</category>
 </item>
 </channel>
 </rss>
