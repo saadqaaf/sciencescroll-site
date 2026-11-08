@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 07:01:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 08:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Emergent Giant Topological Hall Effect at the van der Waals Ferromagnet/Topological Insulator Interface</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03255</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03255</guid>
+<pubDate>Sun, 08 Nov 2026 08:01:01 GMT</pubDate>
+<description>با اتصال فرومغناطیس واندروالس Fe3GeTe2 به عایق توپولوژیکی BiSbTeSe2، اثر هال توپولوژیکی غول‌آسا ناشی از برهم‌کنش DMI در فصل مشترک مشاهده شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 van der Waals ferromagnet · topological Hall effect · Fe3GeTe2 · Dzyaloshinskii-Moriya interaction · spintronics</description>
+<category>van der Waals ferromagnet</category>
+<category>topological Hall effect</category>
+<category>Fe3GeTe2</category>
+<category>Dzyaloshinskii-Moriya interaction</category>
+<category>spintronics</category>
+</item>
 <item>
 <title>Dual-crosslinked anisotropic alginate aerogels with Ca/Si–O synergistic networks for high-efficiency building energy management</title>
 <link>https://doi.org/10.1016/j.nantod.2026.103229</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>particle swarm optimization</category>
 <category>robustness</category>
 <category>efficiency</category>
-</item>
-<item>
-<title>SiP2 monolayer as a prospective anode for Li-ion batteries: A first-principles study</title>
-<link>https://doi.org/10.1016/j.est.2026.125597</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125597</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:34 GMT</pubDate>
-<description>با محاسبات اصول اولیه، مونولایه SiP2 به عنوان آند امیدبخش برای باتری‌های یون لیتیوم ارزیابی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 SiP2 monolayer · Li-ion battery · anode · first-principles · DFT</description>
-<category>SiP2 monolayer</category>
-<category>Li-ion battery</category>
-<category>anode</category>
-<category>first-principles</category>
-<category>DFT</category>
 </item>
 </channel>
 </rss>
