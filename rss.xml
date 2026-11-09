@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:03:12 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 12:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Structure-Interface Regulation in Rare-Earth High-Entropy/N-rGO Heterojunctions for Microwave Absorption Performance</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122309</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122309</guid>
+<pubDate>Mon, 09 Nov 2026 12:01:33 GMT</pubDate>
+<description>این مقاله با تنظیم هم‌افزای ساختار و فصل مشترک در ناهم‌پیوندهای high-entropy خاکی کمیاب/N-rGO، جذب مایکروویو را بهبود می‌بخشد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 rare-earth high-entropy · N-rGO heterojunction · microwave absorption · interface regulation · structure engineering</description>
+<category>rare-earth high-entropy</category>
+<category>N-rGO heterojunction</category>
+<category>microwave absorption</category>
+<category>interface regulation</category>
+<category>structure engineering</category>
+</item>
+<item>
+<title>Dynamic Spectral Modulation via Reversible Metal Electrodeposition: From Visible‐Light Devices to Multispectral Adaptive Platforms</title>
+<link>https://doi.org/10.1002/eom2.70104</link>
+<guid isPermaLink="false">10.1002/eom2.70104</guid>
+<pubDate>Mon, 09 Nov 2026 12:01:30 GMT</pubDate>
+<description>این مرور، تنظیم طیفی دینامیکی مبتنی بر الکتروانباشت برگشت‌پذیر فلز را از دستگاه‌های نور مرئی تا سکوهای تطبیقی چندطیفی بررسی می‌کند.&lt;br&gt;EcoMat | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 reversible metal electrodeposition · dynamic spectral modulation · multispectral adaptive platform · visible-light devices · optical switching</description>
+<category>reversible metal electrodeposition</category>
+<category>dynamic spectral modulation</category>
+<category>multispectral adaptive platform</category>
+<category>visible-light devices</category>
+<category>optical switching</category>
+</item>
 <item>
 <title>Effects of Chemically Activated L-Nucleotides on Nonenzymatic RNA Copying</title>
 <link>https://doi.org/10.1021/jacs.6c14723</link>
@@ -1195,30 +1219,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>phosphorylation</category>
 <category>oncogenic protein</category>
 <category>degrader</category>
-</item>
-<item>
-<title>Transposable element polymorphisms underlie epigenetic variation and phenotypic diversification during foxtail millet domestication</title>
-<link>https://doi.org/10.1038/s41467-026-79325-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79325-8</guid>
-<pubDate>Sat, 07 Nov 2026 19:02:23 GMT</pubDate>
-<description>چندشکلی‌های عناصر جابه‌جاشونده زمینه‌ساز تنوع اپی‌ژنتیکی و تنوع فنوتیپی در اهلی‌سازی ارزن دم‌روباهی هستند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 transposable elements · foxtail millet · domestication · epigenetic variation · phenotypic diversification</description>
-<category>transposable elements</category>
-<category>foxtail millet</category>
-<category>domestication</category>
-<category>epigenetic variation</category>
-<category>phenotypic diversification</category>
-</item>
-<item>
-<title>Coupling electrolyte mechanical reinforcement and interfacial stress relaxation for near-ambient sulfide all-solid-state lithium metal batteries</title>
-<link>https://doi.org/10.1038/s41467-026-79393-w</link>
-<guid isPermaLink="false">10.1038/s41467-026-79393-w</guid>
-<pubDate>Sat, 07 Nov 2026 19:02:19 GMT</pubDate>
-<description>با تقویت مکانیکی الکترولیت و آرامش تنش بین‌سطحی، باتری‌های تمام‌جامد لیتیوم-فلز سولفیدی در دمای نزدیک محیط بهبود می‌یابند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in coupling a self-polymerizable thioctic acid-modified composite sulfide electrolyte, which suppresses lithium creep with high stress tolerance, with a porous carbon current collector that relaxes interfacial stress and hosts lithium in voids. This enables stable room-temperature cycling at ≤0.3 MPa and high areal loading (2.4 mAh cm−2), highlighting controlled lithium deformation and stress relaxation as key for practical all-solid-state batteries.&lt;br&gt;🏷 sulfide solid electrolyte · all-solid-state battery · lithium metal · interfacial stress · mechanical reinforcement</description>
-<category>sulfide solid electrolyte</category>
-<category>all-solid-state battery</category>
-<category>lithium metal</category>
-<category>interfacial stress</category>
-<category>mechanical reinforcement</category>
 </item>
 </channel>
 </rss>
