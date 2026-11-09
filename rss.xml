@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 05:01:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 06:01:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial Electronic Regulation in N-Doped Carbon-Encapsulated NiCo Alloy Enables High-Current Nitrate-to-Ammonia Electrosynthesis</title>
+<link>https://doi.org/10.1007/s40820-026-02359-6</link>
+<guid isPermaLink="false">10.1007/s40820-026-02359-6</guid>
+<pubDate>Mon, 09 Nov 2026 06:01:21 GMT</pubDate>
+<description>کاتالیزور آلیاژ NiCo پوشش‌داده‌شده با کربن دوپه‌شده با نیتروژن، با تنظیم الکترونیکی بین‌سطحی، احیای نیترات به آمونیاک را با بازده فارادایک بالا در چگالی جریان زیاد ممکن می‌سازد.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nitrate reduction · ammonia electrosynthesis · NiCo alloy · N-doped carbon · methanol oxidation</description>
+<category>nitrate reduction</category>
+<category>ammonia electrosynthesis</category>
+<category>NiCo alloy</category>
+<category>N-doped carbon</category>
+<category>methanol oxidation</category>
+</item>
 <item>
 <title>Melting and resistivity of iron at Earth core conditions using pulsed Joule heating</title>
 <link>https://doi.org/10.1126/science.aeh5267</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>hepatocellular carcinoma</category>
 <category>microenvironment remodeling</category>
 <category>drug response</category>
-</item>
-<item>
-<title>Grape Cluster Inspired Biomimetic Composite Solid Electrolyte for High‐Voltage and Long‐Life Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79519</link>
-<guid isPermaLink="false">10.1002/adfm.79519</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:38 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی زیست‌الهام‌گرفته از خوشه انگور با کانال‌های Li+ بلندبرد، باتری‌های لیتیوم-فلز حالت جامد با ولتاژ بالا و عمر طولانی را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a grape-cluster biomimetic electrolyte combining electrospun PAN &amp;quot;pedicels&amp;quot; with mesoporous SiO₂-SO₃Li &amp;quot;berries,&amp;quot; enabling dual Li⁺ pathways and TFSI⁻ immobilization. It achieves high conductivity (1.44×10⁻³ S cm⁻¹), transference number 0.65, and 520 MPa modulus, yielding long-life high-voltage cells and a 414.9 Wh kg⁻¹ pouch cell. A PINN framework decouples interface aging kinetics, offering data-driven design for solid-state batteries.&lt;br&gt;🏷 composite solid electrolyte · solid-state lithium battery · biomimetic electrolyte · lithium dendrite · PAN electrospinning</description>
-<category>composite solid electrolyte</category>
-<category>solid-state lithium battery</category>
-<category>biomimetic electrolyte</category>
-<category>lithium dendrite</category>
-<category>PAN electrospinning</category>
 </item>
 </channel>
 </rss>
