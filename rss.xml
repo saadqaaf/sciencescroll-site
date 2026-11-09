@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 06:01:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 07:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Quantum Saturation of the Electro‐Optic Effect</title>
+<link>https://doi.org/10.1002/adma.75543</link>
+<guid isPermaLink="false">10.1002/adma.75543</guid>
+<pubDate>Mon, 09 Nov 2026 07:01:27 GMT</pubDate>
+<description>با تنظیم مرزهای فاز فروالکتریک تا صفر کلوین، نوسانات کوانتومی پاسخ الکترواپتیکی بزرگ و تقریباً مستقل از دما در دمای زیر ۲۵ کلوین در BaTiO3 و Ba1-xCaxTiO3 ایجاد میکنند.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electro-optic effect · BaTiO3 · quantum fluctuations · cryogenic photonics · phase boundaries</description>
+<category>electro-optic effect</category>
+<category>BaTiO3</category>
+<category>quantum fluctuations</category>
+<category>cryogenic photonics</category>
+<category>phase boundaries</category>
+</item>
 <item>
 <title>Interfacial Electronic Regulation in N-Doped Carbon-Encapsulated NiCo Alloy Enables High-Current Nitrate-to-Ammonia Electrosynthesis</title>
 <link>https://doi.org/10.1007/s40820-026-02359-6</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>Si-gradient lithiophilicity</category>
 <category>fluorinated interphase</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Spatially Programmed 3D‐Bioprinted Tumor–Stromal Assembloids Reveal Progressive Microenvironmental Remodeling and Phase‐Dependent Drug Responses in Hepatocellular Carcinoma</title>
-<link>https://doi.org/10.1002/adfm.79460</link>
-<guid isPermaLink="false">10.1002/adfm.79460</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:41 GMT</pubDate>
-<description>پلتفرم اَسِمبلوئید تومور-استرومای چاپ سه‌بعدی با فاصله برنامه‌ریزی‌شده، بازآرایی تدریجی ریزمحیط و پاسخ‌های دارویی وابسته به فاز در کارسینومای هپاتوسلولار را نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 3D bioprinting · tumor-stromal assembloid · hepatocellular carcinoma · microenvironment remodeling · drug response</description>
-<category>3D bioprinting</category>
-<category>tumor-stromal assembloid</category>
-<category>hepatocellular carcinoma</category>
-<category>microenvironment remodeling</category>
-<category>drug response</category>
 </item>
 </channel>
 </rss>
