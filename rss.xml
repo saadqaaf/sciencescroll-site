@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 07:01:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 08:02:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High‐mobility p‐type Te 0.65 Se 0.35 thin‐film transistors with self‐passivating contacts</title>
+<link>https://doi.org/10.1002/inf2.70205</link>
+<guid isPermaLink="false">10.1002/inf2.70205</guid>
+<pubDate>Mon, 09 Nov 2026 08:02:28 GMT</pubDate>
+<description>با استفاده از لایه خودغیرفعال‌شونده TeOx در اتصال فلز/نیمه‌رسانا، مقاومت تماسی و سد شاتکی در ترانزیستورهای لایه نازک p-type Te0.65Se0.35 کاهش یافته و تحرک حفره به 88.8 cm2 V−1 s−1 رسیده است.&lt;br&gt;InfoMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Te0.65Se0.35 · thin-film transistor · self-passivating contact · TeOx · hole mobility</description>
+<category>Te0.65Se0.35</category>
+<category>thin-film transistor</category>
+<category>self-passivating contact</category>
+<category>TeOx</category>
+<category>hole mobility</category>
+</item>
 <item>
 <title>Quantum Saturation of the Electro‐Optic Effect</title>
 <link>https://doi.org/10.1002/adma.75543</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>sulfur host</category>
 <category>polysulfide shuttle</category>
 <category>PEO electrolyte</category>
-</item>
-<item>
-<title>A Fluorinated 3D Interphase With Built‐In Si‐Gradient Lithiophilicity Enables Spatially Adaptive Li Deposition for Stable Li Metal Anode</title>
-<link>https://doi.org/10.1002/adfm.79549</link>
-<guid isPermaLink="false">10.1002/adfm.79549</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:47 GMT</pubDate>
-<description>لایه میان‌فاز مصنوعی فلورینه سه‌بعدی با گرادیان Si و لیتوفیلیسیتی، رسوب لیتیوم را یکنواخت کرده و پایداری آند لیتیوم-فلز را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fluorinated 3D artificial SEI with a built-in vertical Si-gradient lithiophilicity, formed by Li-catalyzed in situ copolymerization for seamless integration. It enables bottom-up Li deposition, buffers volume changes, and forms a stable LiF-rich SEI. Significance: 99.4% Coulombic efficiency, 3500 h cycling, and improved full-cell performance, offering a blueprint for practical Li metal anodes.&lt;br&gt;🏷 lithium metal anode · artificial SEI · Si-gradient lithiophilicity · fluorinated interphase · dendrite suppression</description>
-<category>lithium metal anode</category>
-<category>artificial SEI</category>
-<category>Si-gradient lithiophilicity</category>
-<category>fluorinated interphase</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
