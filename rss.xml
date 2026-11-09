@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 04:00:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 05:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Melting and resistivity of iron at Earth core conditions using pulsed Joule heating</title>
+<link>https://doi.org/10.1126/science.aeh5267</link>
+<guid isPermaLink="false">10.1126/science.aeh5267</guid>
+<pubDate>Mon, 09 Nov 2026 05:01:07 GMT</pubDate>
+<description>با روش گرمایش ژول پالسی در سلول سندان الماس، منحنی ذوب کمشیب آهن تا 4160 کلوین در 200 گیگاپاسکال و مقاومت ویژه آهن مذاب اندازهگیری شد و هسته-گوشته سردتر با شارش گرمایی کم استنباط گردید.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 iron melting · Earth&amp;#x27;s core · pulsed Joule heating · electrical resistivity · diamond anvil cell</description>
+<category>iron melting</category>
+<category>Earth&#x27;s core</category>
+<category>pulsed Joule heating</category>
+<category>electrical resistivity</category>
+<category>diamond anvil cell</category>
+</item>
 <item>
 <title>High‐Entropy Alloys for Sustainable Electrocatalysis: Minimizing Precious Metal Consumption via Multicomponent Design Principles</title>
 <link>https://doi.org/10.1002/eom2.70102</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>biomimetic electrolyte</category>
 <category>lithium dendrite</category>
 <category>PAN electrospinning</category>
-</item>
-<item>
-<title>Wireless Electrical Stimulation via Piezoelectric Nanogenerator for Parkinson&#x27;s Disease Therapy Through Activating Calcium Channels and Mitigating Oxidative Damage</title>
-<link>https://doi.org/10.1002/adfm.79517</link>
-<guid isPermaLink="false">10.1002/adfm.79517</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:32 GMT</pubDate>
-<description>نانوژنراتور پیزوالکتریک فعال‌شده با اولتراسوند برای درمان پارکینسون، با ورود کلسیم و آزادسازی هیدروژن، علائم بیماری را در موش کاهش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 piezoelectric nanogenerator · Parkinson&amp;#x27;s disease · calcium channels · hydrogen therapy · wireless stimulation</description>
-<category>piezoelectric nanogenerator</category>
-<category>Parkinson&#x27;s disease</category>
-<category>calcium channels</category>
-<category>hydrogen therapy</category>
-<category>wireless stimulation</category>
 </item>
 </channel>
 </rss>
