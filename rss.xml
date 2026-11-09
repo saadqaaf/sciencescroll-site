@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 01:02:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 02:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High‐Entropy Alloys for Sustainable Electrocatalysis: Minimizing Precious Metal Consumption via Multicomponent Design Principles</title>
+<link>https://doi.org/10.1002/eom2.70102</link>
+<guid isPermaLink="false">10.1002/eom2.70102</guid>
+<pubDate>Mon, 09 Nov 2026 02:01:14 GMT</pubDate>
+<description>این مرور، پیشرفت‌های آلیاژهای آنتروپی بالا را برای الکتروکاتالیز پایدار بررسی می‌کند و نشان می‌دهد طراحی چندجزئی مصرف فلزات گران‌بها را بدون افت عملکرد کاهش می‌دهد.&lt;br&gt;EcoMat | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 high-entropy alloys · electrocatalysis · precious metal reduction · nanoporous frameworks · DFT calculations</description>
+<category>high-entropy alloys</category>
+<category>electrocatalysis</category>
+<category>precious metal reduction</category>
+<category>nanoporous frameworks</category>
+<category>DFT calculations</category>
+</item>
 <item>
 <title>CHARMM-Compatible Molecular Mechanics Force Fields for Multiscale Modeling of HIV-1 Replication Inhibitors</title>
 <link>https://doi.org/10.1021/jacs.6c11578</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CdSe nanocrystals · soli
 <category>calcium channels</category>
 <category>hydrogen therapy</category>
 <category>wireless stimulation</category>
-</item>
-<item>
-<title>Engineering the Interfacial Microenvironment of Reconstructed Cu(0)/Cu(I) Valence-Tandem Nanoarrays for Low-Potential Ethanol Electrosynthesis</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127765</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127765</guid>
-<pubDate>Sat, 07 Nov 2026 17:01:17 GMT</pubDate>
-<description>مهندسی ریز محیط سطحی نانوزره‌های بازسازی‌شده Cu(0)/Cu(I) با آرایش ظرفیتی پشت‌سرهم، الکتروسنتز اتانول را در پتانسیل پایین ممکن می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Cu(0)/Cu(I) nanoarrays · ethanol electrosynthesis · interfacial microenvironment · valence-tandem · low potential</description>
-<category>Cu(0)/Cu(I) nanoarrays</category>
-<category>ethanol electrosynthesis</category>
-<category>interfacial microenvironment</category>
-<category>valence-tandem</category>
-<category>low potential</category>
 </item>
 </channel>
 </rss>
