@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 17:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 18:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Data‐Driven Host Microstructure Design Toward Efficient and Durable Room‐Temperature Sodium–Sulfur Batteries</title>
+<link>https://doi.org/10.1002/aenm.71823</link>
+<guid isPermaLink="false">10.1002/aenm.71823</guid>
+<pubDate>Mon, 09 Nov 2026 18:01:23 GMT</pubDate>
+<description>با یادگیری ماشین پنجره‌های ساختار حفره کربن متخلخل را برای Na-S دمای اتاق غربال می‌کند و نشان می‌دهد کربن متعادل با CEI بهینه ظرفیت و پایداری بالایی ارائه می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Machine learning screened pore-structure windows from a large dataset, guiding synthesis of three model carbon hosts. The work reveals how pore structure governs sulfur speciation and CEI spatial-composition, dictating competition between polysulfide reactions and solvent decomposition. This data-driven strategy links physical host metrics to complex reaction mechanisms, enabling balanced carbon cathodes with 1249.4 mAh g⁻¹ initial capacity and 784.8 mAh g⁻¹ retention after 500 cycles.&lt;br&gt;🏷 sodium-sulfur battery · porous carbon host · machine learning · cathode-electrolyte interphase · polysulfide conversion</description>
+<category>sodium-sulfur battery</category>
+<category>porous carbon host</category>
+<category>machine learning</category>
+<category>cathode-electrolyte interphase</category>
+<category>polysulfide conversion</category>
+</item>
+<item>
+<title>Understanding Charge Acceptance Limitations During Extreme Fast‐Charging of Li‐ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71806</link>
+<guid isPermaLink="false">10.1002/aenm.71806</guid>
+<pubDate>Mon, 09 Nov 2026 18:01:17 GMT</pubDate>
+<description>با تحلیل تلفات اضافه‌پتانسیل در شارژ فوق‌سریع Li-ion نشان می‌دهد که گرادیان غلظت عامل اصلی است و افزودن acetonitrile به الکترولیت کربناته پذیرش شارژ را بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using overpotential decoupling and molecular dynamics to show acetonitrile co-solvent improves fast-charge acceptance by reducing concentration gradients via lower viscosity and enhanced Li+ solvation-shell lability. Significance: identifies transport limitations as the primary barrier, demonstrates electrolyte engineering with interface-stabilizing additives, and reveals NMC811 electrode architecture/loading dominates overpotential, guiding electrode design for extreme fast charging.&lt;br&gt;🏷 extreme fast charging · lithium-ion battery · acetonitrile electrolyte · overpotential analysis · NMC811 electrode</description>
+<category>extreme fast charging</category>
+<category>lithium-ion battery</category>
+<category>acetonitrile electrolyte</category>
+<category>overpotential analysis</category>
+<category>NMC811 electrode</category>
+</item>
 <item>
 <title>Bismuth‐Mediated Zinc Extraction‐Induced Carbon Defects Boost Fe Single‐Atom Catalysis for Efficient Oxygen Reduction</title>
 <link>https://doi.org/10.1002/adma.75626</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>supercapacitor</category>
 <category>organic blend</category>
 <category>electrolyte</category>
-</item>
-<item>
-<title>Hydrothermally synthesized MoO3/CoWO4 nanocomposite electrodes for high-performance asymmetric supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125350</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125350</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:33 GMT</pubDate>
-<description>نانوکامپوزیت MoO3/CoWO4 به روش هیدروترمال ساخته شده و به‌عنوان الکترود ابرخازن نامتقارن با عملکرد بالا ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 MoO3/CoWO4 · nanocomposite electrode · asymmetric supercapacitor · hydrothermal synthesis · energy storage</description>
-<category>MoO3/CoWO4</category>
-<category>nanocomposite electrode</category>
-<category>asymmetric supercapacitor</category>
-<category>hydrothermal synthesis</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Geometrically adaptable MXene/Li4Ti5O12 fibrous electrodes for flexible and yarn-type lithium-ion storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125501</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125501</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:29 GMT</pubDate>
-<description>الکترودهای الیافی MXene/Li4Ti5O12 با انطباق‌پذیری هندسی برای ذخیره‌سازی لیتیوم-یونی انعطاف‌پذیر و نخ‌مانند ساخته می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 MXene · Li4Ti5O12 · fibrous electrode · flexible battery · yarn-type storage</description>
-<category>MXene</category>
-<category>Li4Ti5O12</category>
-<category>fibrous electrode</category>
-<category>flexible battery</category>
-<category>yarn-type storage</category>
 </item>
 </channel>
 </rss>
