@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 16:01:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 17:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bismuth‐Mediated Zinc Extraction‐Induced Carbon Defects Boost Fe Single‐Atom Catalysis for Efficient Oxygen Reduction</title>
+<link>https://doi.org/10.1002/adma.75626</link>
+<guid isPermaLink="false">10.1002/adma.75626</guid>
+<pubDate>Mon, 09 Nov 2026 17:01:45 GMT</pubDate>
+<description>این مقاله با استخراج Zn به‌واسطه Bi نقص‌های کربنی مجاور Fe-N4 ایجاد کرده و فعالیت ORR و عملکرد باتری Zn-air را بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Bi-mediated Zn extraction to create carbon defects adjacent to Fe-N4 sites, tuning the local microenvironment. This lowers the Fe d-band center, weakens excessive *OH binding, and shifts the potential-limiting step, boosting ORR activity (0.918 V half-wave) and durability (3000 h at −40°C in Zn-air battery). It offers a neighboring-template route for designing efficient single-atom catalysts.&lt;br&gt;🏷 Fe single-atom catalyst · oxygen reduction · carbon defects · Zn-air battery · defect engineering</description>
+<category>Fe single-atom catalyst</category>
+<category>oxygen reduction</category>
+<category>carbon defects</category>
+<category>Zn-air battery</category>
+<category>defect engineering</category>
+</item>
+<item>
+<title>Structure–performance relationships of redox mediators in the lithium–sulfur battery</title>
+<link>https://doi.org/10.1039/d6ee01899h</link>
+<guid isPermaLink="false">10.1039/d6ee01899h</guid>
+<pubDate>Mon, 09 Nov 2026 17:01:24 GMT</pubDate>
+<description>این مقاله روابط ساختار-عملکرد واسطه‌های ردوکس را در باتری لیتیوم-گوگرد با چگالی انرژی بالا بررسی می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in systematically linking redox mediator molecular structure to lithium–sulfur battery performance, moving beyond trial-and-error mediator selection. Its significance is providing design principles for rational mediator engineering to suppress polysulfide shuttling and enhance sulfur utilization, thereby advancing high-energy-density batteries toward practical application.&lt;br&gt;🏷 lithium-sulfur battery · redox mediators · structure-performance · energy density · polysulfide conversion</description>
+<category>lithium-sulfur battery</category>
+<category>redox mediators</category>
+<category>structure-performance</category>
+<category>energy density</category>
+<category>polysulfide conversion</category>
+</item>
 <item>
 <title>Polyaniline-hybridized quantum-confined 1D lepidocrocite titania for ultra-high-energy supercapacitors</title>
 <link>https://doi.org/10.1039/d6ta05686e</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>fibrous electrode</category>
 <category>flexible battery</category>
 <category>yarn-type storage</category>
-</item>
-<item>
-<title>High-performance catalyst strategy for alleviating material and system allocation inconsistency to boost efficiency and energy density of iron-chromium redox flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125474</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125474</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:26 GMT</pubDate>
-<description>یک راهبرد کاتالیستی برای رفع ناسازگاری تخصیص مواد و سیستم و افزایش بازده و چگالی انرژی باتری جریان ردوکس آهن-کروم ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 iron-chromium flow battery · redox flow battery · catalyst strategy · energy density · system allocation</description>
-<category>iron-chromium flow battery</category>
-<category>redox flow battery</category>
-<category>catalyst strategy</category>
-<category>energy density</category>
-<category>system allocation</category>
-</item>
-<item>
-<title>One-step and low-alkali conversion of pitch to high-density supercapacitor carbons using a waste-derived scaffold</title>
-<link>https://doi.org/10.1016/j.est.2026.125445</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125445</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:22 GMT</pubDate>
-<description>تبدیل یک‌مرحله‌ای و کم‌قلیا pitch به کربن‌های چگال ابرخازنی با کمک یک قالب مشتق از پسماند انجام می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pitch-derived carbon · supercapacitor · low-alkali conversion · waste-derived scaffold · high-density carbon</description>
-<category>pitch-derived carbon</category>
-<category>supercapacitor</category>
-<category>low-alkali conversion</category>
-<category>waste-derived scaffold</category>
-<category>high-density carbon</category>
 </item>
 </channel>
 </rss>
