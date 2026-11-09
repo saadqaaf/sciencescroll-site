@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 21:02:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 22:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Development of pitch-derived hard carbon materials for Na-ion batteries: from fossil fuel- to biomass-based precursors</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122312</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122312</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:23 GMT</pubDate>
+<description>پیشرفت کربن سخت مشتق از قطران برای آند باتری‌های یون سدیم از پیش‌ماده‌های فسیلی تا زیست‌توده مرور می‌شود.&lt;br&gt;Carbon | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 hard carbon · Na-ion batteries · pitch precursors · biomass precursors · anode</description>
+<category>hard carbon</category>
+<category>Na-ion batteries</category>
+<category>pitch precursors</category>
+<category>biomass precursors</category>
+<category>anode</category>
+</item>
+<item>
+<title>Cellulose-rich loquat leaf-derived hard carbon with abundant closed pores for efficient sodium storage</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.073</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.073</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:11 GMT</pubDate>
+<description>کربن سخت مشتق از برگ درخت ازگیل با حفرات بسته فراوان برای ذخیره‌سازی کارآمد سدیم سنتز شد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium storage · closed pores · loquat leaf · biomass carbon</description>
+<category>hard carbon</category>
+<category>sodium storage</category>
+<category>closed pores</category>
+<category>loquat leaf</category>
+<category>biomass carbon</category>
+</item>
 <item>
 <title>Polarity Field Engineering Enhances Redox Charge Transfer in Hydrated Vanadate Cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105645</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>magnetic field growth</category>
 <category>carbon cloth</category>
 <category>flexible electrode</category>
-</item>
-<item>
-<title>Valorization of anaerobic digestion biogas residue into hierarchical porous carbon electrodes for high-performance symmetric supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125492</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125492</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:49 GMT</pubDate>
-<description>پسماند بیوگاز هضم بی‌هوازی به کربن متخلخل سلسله‌مراتبی برای الکترود ابرخازن متقارن با عملکرد بالا تبدیل می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 biogas residue · porous carbon · symmetric supercapacitor · waste valorization · hierarchical carbon</description>
-<category>biogas residue</category>
-<category>porous carbon</category>
-<category>symmetric supercapacitor</category>
-<category>waste valorization</category>
-<category>hierarchical carbon</category>
-</item>
-<item>
-<title>From crystal chemistry to rational design: A comprehensive review of advanced cathode materials for sustainable Lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125451</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125451</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:45 GMT</pubDate>
-<description>این مرور جامع از شیمی بلور تا طراحی منطقی، مواد کاتدی پیشرفته برای باتری‌های لیتیوم-یونی پایدار را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 cathode materials · lithium-ion battery · crystal chemistry · rational design · sustainability</description>
-<category>cathode materials</category>
-<category>lithium-ion battery</category>
-<category>crystal chemistry</category>
-<category>rational design</category>
-<category>sustainability</category>
 </item>
 </channel>
 </rss>

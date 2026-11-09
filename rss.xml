@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 21:02:39 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 22:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Gas-phase chemistry of C3 H3+: A key building block for carbon mass growth in space</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122297</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122297</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:27 GMT</pubDate>
+<description>شیمی فاز گازی یون C3H3+ به عنوان واحد سازنده کلیدی رشد جرم کربن در فضا بررسی شد.&lt;br&gt;Carbon | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 C3H3+ · astrochemistry · gas-phase chemistry · carbon growth · interstellar molecules</description>
+<category>C3H3+</category>
+<category>astrochemistry</category>
+<category>gas-phase chemistry</category>
+<category>carbon growth</category>
+<category>interstellar molecules</category>
+</item>
+<item>
+<title>Development of pitch-derived hard carbon materials for Na-ion batteries: from fossil fuel- to biomass-based precursors</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122312</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122312</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:23 GMT</pubDate>
+<description>پیشرفت کربن سخت مشتق از قطران برای آند باتری‌های یون سدیم از پیش‌ماده‌های فسیلی تا زیست‌توده مرور می‌شود.&lt;br&gt;Carbon | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 hard carbon · Na-ion batteries · pitch precursors · biomass precursors · anode</description>
+<category>hard carbon</category>
+<category>Na-ion batteries</category>
+<category>pitch precursors</category>
+<category>biomass precursors</category>
+<category>anode</category>
+</item>
+<item>
+<title>Accelerating CO2 Biocatalysis through Multimodal AI-Guided Enzyme Prioritization and Spatial Confinement</title>
+<link>https://doi.org/10.1021/acscatal.6c07072</link>
+<guid isPermaLink="false">10.1021/acscatal.6c07072</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:19 GMT</pubDate>
+<description>با یادگیری عمیق چندوجهی و مهندسی آنزیم، کربنیک آنهیدراز فعال‌تر در carboxysome کپسوله شد و تولید l-malate به 22.7 g/L رسید.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 CO2 biocatalysis · carbonic anhydrase · deep learning · carboxysome · malate</description>
+<category>CO2 biocatalysis</category>
+<category>carbonic anhydrase</category>
+<category>deep learning</category>
+<category>carboxysome</category>
+<category>malate</category>
+</item>
+<item>
+<title>Catalytic Stereoselective Inverse Electron Demand Formal Aza-Diels–Alder: Access to Highly Congested Molecular Bowl-Shaped 3D Tertiary Amines</title>
+<link>https://doi.org/10.1021/acscatal.6c06092</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06092</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:15 GMT</pubDate>
+<description>یک واکنش آزا-دیلز-آلدر معکوس الکترونی کاتالیز شده با آهن برای ساخت آمین‌های سه‌گانه سه‌بعدی کاسه‌ای پرازدحام ارائه شد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 aza-Diels-Alder · iron catalysis · dearomatization · tertiary amines · diastereoselectivity</description>
+<category>aza-Diels-Alder</category>
+<category>iron catalysis</category>
+<category>dearomatization</category>
+<category>tertiary amines</category>
+<category>diastereoselectivity</category>
+</item>
+<item>
+<title>Cellulose-rich loquat leaf-derived hard carbon with abundant closed pores for efficient sodium storage</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.073</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.073</guid>
+<pubDate>Mon, 09 Nov 2026 22:01:11 GMT</pubDate>
+<description>کربن سخت مشتق از برگ درخت ازگیل با حفرات بسته فراوان برای ذخیره‌سازی کارآمد سدیم سنتز شد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium storage · closed pores · loquat leaf · biomass carbon</description>
+<category>hard carbon</category>
+<category>sodium storage</category>
+<category>closed pores</category>
+<category>loquat leaf</category>
+<category>biomass carbon</category>
+</item>
 <item>
 <title>Quantized Photocatalysis Using Bandgap-Engineered Metal Halide Perovskite Nanocrystals</title>
 <link>https://doi.org/10.1021/jacs.6c16299</link>
@@ -1151,66 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polyph
 <category>lithium-ion battery</category>
 <category>unseen temperatures</category>
 <category>support-aware learning</category>
-</item>
-<item>
-<title>Characteristics of CaCO3/CaO thermochemical heat storage under reduced-pressure calcination and CO2-rich carbonation in a novel rotary kiln reactor</title>
-<link>https://doi.org/10.1016/j.est.2026.125596</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125596</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:11 GMT</pubDate>
-<description>ذخیره‌سازی گرمای ترموشیمیایی CaCO3/CaO تحت کلسیناسیون فشار پایین و کربناته‌شدن غنی از CO2 در راکتور کوره دوار جدید بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermochemical heat storage · CaCO3/CaO · rotary kiln · calcination · carbonation</description>
-<category>thermochemical heat storage</category>
-<category>CaCO3/CaO</category>
-<category>rotary kiln</category>
-<category>calcination</category>
-<category>carbonation</category>
-</item>
-<item>
-<title>Dual‑carbon protection strategy for Bi2S3/ZIF-67-derived carbon/carbon fibers with enhanced sodium storage capability</title>
-<link>https://doi.org/10.1016/j.est.2026.125541</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125541</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:08 GMT</pubDate>
-<description>استراتژی حفاظت کربن دوگانه برای Bi2S3/کربن مشتق از ZIF-67/الیاف کربن، قابلیت ذخیره‌سازی سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Bi2S3 · sodium storage · carbon fibers · ZIF-67-derived carbon · dual-carbon protection</description>
-<category>Bi2S3</category>
-<category>sodium storage</category>
-<category>carbon fibers</category>
-<category>ZIF-67-derived carbon</category>
-<category>dual-carbon protection</category>
-</item>
-<item>
-<title>Activation temperature-engineered Arundo donax porous carbon for in-situ growth of NiCo-LDH nanowires: Toward ultrahigh-capacitance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125591</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125591</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:04 GMT</pubDate>
-<description>کربن متخلخل Arundo donax با دمای فعال‌سازی تنظیم‌شده برای رشد درجای نانوسیم‌های NiCo-LDH، ابرخازنی با ظرفیت فوق‌بالا فراهم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Arundo donax carbon · NiCo-LDH nanowires · supercapacitor · porous carbon · activation temperature</description>
-<category>Arundo donax carbon</category>
-<category>NiCo-LDH nanowires</category>
-<category>supercapacitor</category>
-<category>porous carbon</category>
-<category>activation temperature</category>
-</item>
-<item>
-<title>Support-vector-machine-based diagnosis and graded early warning of slight overcharge faults in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125436</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125436</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:00 GMT</pubDate>
-<description>روشی مبتنی بر ماشین بردار پشتیبان برای تشخیص و هشدار زودهنگام درجه‌بندی‌شده خطاهای اضافه‌شارژ خفیف در باتری‌های لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 overcharge fault diagnosis · support vector machine · early warning · lithium-ion battery · fault detection</description>
-<category>overcharge fault diagnosis</category>
-<category>support vector machine</category>
-<category>early warning</category>
-<category>lithium-ion battery</category>
-<category>fault detection</category>
-</item>
-<item>
-<title>A review on fracture resistance and thermal insulation of hybrid composite materials for hydrogen storage vessel</title>
-<link>https://doi.org/10.1016/j.est.2026.125481</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125481</guid>
-<pubDate>Mon, 09 Nov 2026 13:01:56 GMT</pubDate>
-<description>این مرور، مقاومت به شکست و عایق‌کاری حرارتی مواد کامپوزیت هیبریدی برای مخازن ذخیره هیدروژن را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 hydrogen storage vessel · hybrid composites · fracture resistance · thermal insulation · composite materials</description>
-<category>hydrogen storage vessel</category>
-<category>hybrid composites</category>
-<category>fracture resistance</category>
-<category>thermal insulation</category>
-<category>composite materials</category>
 </item>
 </channel>
 </rss>
