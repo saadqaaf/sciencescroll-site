@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 13:03:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 14:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Operando Imaging of Battery Interfaces through Combined Analysis of Broadband Optical Backgrounds and Raman Features</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04439</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04439</guid>
+<pubDate>Mon, 09 Nov 2026 14:01:15 GMT</pubDate>
+<description>یک راهبرد طیف‌سنجی operando با تحلیل هم‌زمان پس‌زمینه نوری پهن‌باند و ویژگی‌های رامان، توزیع لیتیوم و شیمی و تنش interfacial باتری حالت جامد را به‌صورت چندوجهی تصویربرداری می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a single operando spectroscopic measurement that jointly analyzes broadband optical backgrounds (via asymmetric least-squares baseline estimation) and Raman features, unifying optical, chemical, and mechanical information at buried battery interfaces. Its significance is enabling real-time multimodal visualization of interfacial dynamics in solid-state batteries, offering a broadly applicable route to study buried interphases and advance safer, longer-lasting energy storage.&lt;br&gt;🏷 solid-state battery · operando Raman · buried interface · lithium distribution · spectroscopic imaging</description>
+<category>solid-state battery</category>
+<category>operando Raman</category>
+<category>buried interface</category>
+<category>lithium distribution</category>
+<category>spectroscopic imaging</category>
+</item>
 <item>
 <title>Stone-Wales graphene: A superior two-dimensional carbon anode for high-capacity and fast-charging potassium-ion batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125486</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>ice templating</category>
 <category>porous electrode</category>
 <category>plasma synthesis</category>
-</item>
-<item>
-<title>Interfacial Electronic Reconstruction in Cu 2 O Modified Niobium Phosphate Oxide for Efficient Oxygen Evolution and High‐Performance Energy Storage</title>
-<link>https://doi.org/10.1002/eom2.70106</link>
-<guid isPermaLink="false">10.1002/eom2.70106</guid>
-<pubDate>Fri, 06 Nov 2026 14:01:31 GMT</pubDate>
-<description>پوشش Cu2O روی نیوبیوم فسفات یک فصل مشترک ناهمگون می‌سازد که انتقال بار را تسریع کرده و ظرفیت ذخیره‌سازی انرژی و فعالیت OER را بهبود می‌دهد.&lt;br&gt;EcoMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Cu₂O coating on niobium phosphate creates a heterointerface with charge redistribution and strong electronic coupling, enabling fast ion diffusion and stable redox-active Cu sites. This bifunctional electrode delivers 2.4× higher capacity than pristine NbP, 100000-cycle stability, and low OER overpotential (275.2 mV at 100 mA/cm²). It demonstrates phosphate-oxide heterointerface engineering as a promising route for simultaneous energy storage and conversion.&lt;br&gt;🏷 Cu2O heterointerface · niobium phosphate · oxygen evolution · supercapacitor · energy storage</description>
-<category>Cu2O heterointerface</category>
-<category>niobium phosphate</category>
-<category>oxygen evolution</category>
-<category>supercapacitor</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
