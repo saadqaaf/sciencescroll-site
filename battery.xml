@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 08:02:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 09:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual Electric Field-Driven Ion Transport in 3D Spiny Heteronanofiber-Based Composite Polymer Electrolyte</title>
+<link>https://doi.org/10.1007/s42765-026-00797-w</link>
+<guid isPermaLink="false">10.1007/s42765-026-00797-w</guid>
+<pubDate>Mon, 09 Nov 2026 09:01:47 GMT</pubDate>
+<description>الکترولیت پلیمری کامپوزیتی بر پایه نانوالیاف خاردار سه‌بعدی با میدان الکتریکی دوگانه طراحی شد که انتقال یون را تقویت می‌کند.&lt;br&gt;Advanced Fiber Materials | 🔬 Research Article&lt;br&gt;🏷 composite polymer electrolyte · dual electric field · ion transport · heteronanofiber · 3D spiny structure</description>
+<category>composite polymer electrolyte</category>
+<category>dual electric field</category>
+<category>ion transport</category>
+<category>heteronanofiber</category>
+<category>3D spiny structure</category>
+</item>
+<item>
+<title>Interface-engineered CoMoN/MXene hybrids with enhanced discharge ion-transport characteristics for advanced supercapattery applications</title>
+<link>https://doi.org/10.1007/s42114-026-02172-0</link>
+<guid isPermaLink="false">10.1007/s42114-026-02172-0</guid>
+<pubDate>Mon, 09 Nov 2026 09:01:42 GMT</pubDate>
+<description>هیبرید CoMoN/MXene با مهندسی سطح مشترک ساخته شد که انتقال یون در تخلیه را بهبود داده و عملکرد supercapattery را ارتقا می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in interface-engineered CoMoN/MXene hybrids with hierarchical nanosheet architecture, revealing asymmetric ion transport—faster charging in pristine CoMoN versus enhanced discharge transport in the hybrid via conductive MXene frameworks and possible K⁺ participation. Significance includes reversible CoOOH/Co(OH)₂ phase evolution, suppressed Mo dissolution, and DFT-validated migration barriers, offering mechanistic insight for designing advanced supercapattery electrodes.&lt;br&gt;🏷 supercapattery · CoMoN/MXene hybrid · ion transport · GITT diffusion · DFT migration barrier</description>
+<category>supercapattery</category>
+<category>CoMoN/MXene hybrid</category>
+<category>ion transport</category>
+<category>GITT diffusion</category>
+<category>DFT migration barrier</category>
+</item>
 <item>
 <title>Breaking tradeoff between ionic conductivity and electrochemical stability of polyurethane electrolytes by ion-conductive multifunctional nanosheets toward long-life lithium metal batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125472</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>lithium-ion battery</category>
 <category>cathode</category>
 <category>oxygen transfer</category>
-</item>
-<item>
-<title>Interface‐Confined Cationic Polarization Enables Rapid and Reversible Polyiodide Conversion for High‐Rate Zinc–Iodine Batteries</title>
-<link>https://doi.org/10.1002/adma.75017</link>
-<guid isPermaLink="false">10.1002/adma.75017</guid>
-<pubDate>Fri, 06 Nov 2026 09:01:30 GMT</pubDate>
-<description>قطبش کاتیونی محدودشده در فصل مشترک با گوانیدینیوم، تبدیل سریع و برگشت‌پذیر پلی‌یدید را ممکن کرده و باتری Zn-I2 با نرخ بالا و عمر 40000 چرخه ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interface-confined cationic polarization: guanidinium cations anchored on Ketjen Black via cation–π interactions electrostatically enrich polyiodides and polarize iodine electron clouds, enabling reversible conversion without trapping. This yields 100 mAh g⁻¹ at 50 A g⁻¹ and 40,000-cycle stability, offering a new route to high-rate, long-life Zn–I₂ batteries.&lt;br&gt;🏷 zinc-iodine battery · polyiodide conversion · cationic polarization · guanidinium · shuttle effect</description>
-<category>zinc-iodine battery</category>
-<category>polyiodide conversion</category>
-<category>cationic polarization</category>
-<category>guanidinium</category>
-<category>shuttle effect</category>
-</item>
-<item>
-<title>Defect-to-Phase Transduction and Interface Reconstruction Enable Regeneration of Spent LiFePO4 Cathodes</title>
-<link>https://doi.org/10.1007/s40820-026-02451-x</link>
-<guid isPermaLink="false">10.1007/s40820-026-02451-x</guid>
-<pubDate>Fri, 06 Nov 2026 08:01:28 GMT</pubDate>
-<description>این پژوهش با تبدیل نقص به فاز و بازسازی فصل مشترک کربنی، کاتد LiFePO4 مستعمل را بازتولید می‌کند و ظرفیت 167 mAh g-1 و پایداری 99.2 درصدی پس از 500 چرخه را نشان می‌دهد.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in defect-to-phase transduction: controlled oxidation converts spent olivine into Li3Fe2(PO4)3 and Fe2O3 intermediates, erasing inherited defect topology, then lithiation/reduction rebuilds LiFePO4, cutting Fe-on-Li occupancy from 5.72% to 0.35% via guanidine-assisted carbon-interface reconstruction. Significance: 167 mAh g-1 at 0.1 C, 99.2% retention over 500 cycles, and US$2.28 kg-1 profit with lower energy and emissions than hydrometallurgy.&lt;br&gt;🏷 LiFePO4 cathode · direct regeneration · spent lithium battery · defect reconstruction · interface reconstruction</description>
-<category>LiFePO4 cathode</category>
-<category>direct regeneration</category>
-<category>spent lithium battery</category>
-<category>defect reconstruction</category>
-<category>interface reconstruction</category>
 </item>
 </channel>
 </rss>
