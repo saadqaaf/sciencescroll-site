@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 18:01:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 19:01:54 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Polarity Field Engineering Enhances Redox Charge Transfer in Hydrated Vanadate Cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105645</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105645</guid>
+<pubDate>Mon, 09 Nov 2026 19:01:49 GMT</pubDate>
+<description>این مقاله با مهندسی میدان قطبی، انتقال بار ردوکس را در کاتدهای وانادات آب‌دار بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 hydrated vanadate · cathode · polarity field · redox charge transfer · zinc-ion battery</description>
+<category>hydrated vanadate</category>
+<category>cathode</category>
+<category>polarity field</category>
+<category>redox charge transfer</category>
+<category>zinc-ion battery</category>
+</item>
+<item>
+<title>Symmetry Breaking Drives Topological Dissociation of Grain-Boundary Heterophases for Single-Crystal Regeneration of Spent NCM Cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105644</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105644</guid>
+<pubDate>Mon, 09 Nov 2026 19:01:44 GMT</pubDate>
+<description>این مقاله با شکست تقارن، تفکیک توپولوژیکی فازهای مرزدانه را برای بازتولید تک‌بلور کاتدهای NCM مستعمل انجام می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 NCM cathodes · single-crystal regeneration · grain-boundary heterophases · symmetry breaking · spent lithium batteries</description>
+<category>NCM cathodes</category>
+<category>single-crystal regeneration</category>
+<category>grain-boundary heterophases</category>
+<category>symmetry breaking</category>
+<category>spent lithium batteries</category>
+</item>
 <item>
 <title>Data‐Driven Host Microstructure Design Toward Efficient and Durable Room‐Temperature Sodium–Sulfur Batteries</title>
 <link>https://doi.org/10.1002/aenm.71823</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>crystal chemistry</category>
 <category>rational design</category>
 <category>sustainability</category>
-</item>
-<item>
-<title>Lithium-ion battery health prediction using self-learning physics-informed neural networks</title>
-<link>https://doi.org/10.1016/j.est.2026.125230</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125230</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:41 GMT</pubDate>
-<description>شبکه‌های عصبی خودآموز آگاه از فیزیک برای پیش‌بینی سلامت باتری لیتیوم-یونی به کار گرفته می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · health prediction · physics-informed neural network · self-learning · battery degradation</description>
-<category>lithium-ion battery</category>
-<category>health prediction</category>
-<category>physics-informed neural network</category>
-<category>self-learning</category>
-<category>battery degradation</category>
-</item>
-<item>
-<title>Tuning solvent–salt interactions in ionic liquid–organic blends for enhanced supercapacitor performance</title>
-<link>https://doi.org/10.1016/j.est.2026.125354</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125354</guid>
-<pubDate>Fri, 06 Nov 2026 15:01:37 GMT</pubDate>
-<description>تنظیم برهم‌کنش حلال-نمک در مخلوط‌های مایع یونی-آلی برای بهبود عملکرد ابرخازن بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ionic liquid · solvent-salt interaction · supercapacitor · organic blend · electrolyte</description>
-<category>ionic liquid</category>
-<category>solvent-salt interaction</category>
-<category>supercapacitor</category>
-<category>organic blend</category>
-<category>electrolyte</category>
 </item>
 </channel>
 </rss>
