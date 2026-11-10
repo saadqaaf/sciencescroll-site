@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 03:01:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 04:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination chemistry and structure-performance relationships in Ni3S2-based materials for oxygen evolution and supercapacitive energy storage</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218740</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218740</guid>
+<pubDate>Tue, 10 Nov 2026 04:01:48 GMT</pubDate>
+<description>این مرور، شیمی کوئوردیناسیون و روابط ساختار-عملکرد در مواد بر پایه Ni3S2 را برای واکنش آزادسازی اکسیژن و ذخیره‌سازی انرژی ابرخازنی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Ni3S2 · oxygen evolution reaction · supercapacitor · coordination chemistry · structure-performance relationship</description>
+<category>Ni3S2</category>
+<category>oxygen evolution reaction</category>
+<category>supercapacitor</category>
+<category>coordination chemistry</category>
+<category>structure-performance relationship</category>
+</item>
+<item>
+<title>Highly Enhanced Blue-light Absorption and Record Optical Pressure Sensing Sensitivity in Mn4+-activated Luminescent Material</title>
+<link>https://doi.org/10.1016/j.apmate.2026.100483</link>
+<guid isPermaLink="false">10.1016/j.apmate.2026.100483</guid>
+<pubDate>Tue, 10 Nov 2026 04:01:43 GMT</pubDate>
+<description>این مقاله یک ماده درخشان فعال‌شده با Mn4+ با جذب نور آبی به‌شدت تقویت‌شده معرفی می‌کند که حساسیت بی‌سابقه‌ای در حسگری فشار نوری نشان می‌دهد.&lt;br&gt;Advanced Powder Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Mn4+ luminescence · blue-light absorption · optical pressure sensing · luminescent material · sensitivity</description>
+<category>Mn4+ luminescence</category>
+<category>blue-light absorption</category>
+<category>optical pressure sensing</category>
+<category>luminescent material</category>
+<category>sensitivity</category>
+</item>
 <item>
 <title>A further acceleration of clean energy is needed for global CO2 emissions to peak and decline</title>
 <link>https://doi.org/10.1038/s41558-026-02821-8</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polyph
 <category>polyaniline</category>
 <category>quantum confinement</category>
 <category>organic electrolyte</category>
-</item>
-<item>
-<title>Bridging Transport Properties Across Length Scales via Local Ionic Current Distributions in Solid Electrolytes</title>
-<link>https://doi.org/10.1039/d6ta06030g</link>
-<guid isPermaLink="false">10.1039/d6ta06030g</guid>
-<pubDate>Mon, 09 Nov 2026 15:02:02 GMT</pubDate>
-<description>این کار با استفاده از توزیع‌های جریان یونی موضعی، یک راهبرد میان‌مقیاس داده‌محور برای پیش‌بینی انتقال یون در الکترولیت‌های جامد ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a mesoscale, data-driven strategy that uses local ionic current distributions to bridge transport properties across length scales in solid electrolytes. Its significance is enabling more reliable prediction of ionic transport for computational design, overcoming the gap between atomistic and continuum scales.&lt;br&gt;🏷 solid electrolyte · ionic transport · mesoscale modeling · current distribution · length scales</description>
-<category>solid electrolyte</category>
-<category>ionic transport</category>
-<category>mesoscale modeling</category>
-<category>current distribution</category>
-<category>length scales</category>
-</item>
-<item>
-<title>A new paradigm for reverse water-gas shift catalyst development: from data to materials</title>
-<link>https://doi.org/10.1039/d6ta06268g</link>
-<guid isPermaLink="false">10.1039/d6ta06268g</guid>
-<pubDate>Mon, 09 Nov 2026 15:01:56 GMT</pubDate>
-<description>این مقاله رویکردی داده‌محور برای توسعه کاتالیزورهای واکنش معکوس گاز-آب را به‌منظور تبدیل CO2 به مواد شیمیایی ارزشمند مرور می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;🏷 reverse water-gas shift · CO2 conversion · catalyst discovery · data-driven · machine learning</description>
-<category>reverse water-gas shift</category>
-<category>CO2 conversion</category>
-<category>catalyst discovery</category>
-<category>data-driven</category>
-<category>machine learning</category>
 </item>
 </channel>
 </rss>

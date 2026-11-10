@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 03:01:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 04:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination chemistry and structure-performance relationships in Ni3S2-based materials for oxygen evolution and supercapacitive energy storage</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218740</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218740</guid>
+<pubDate>Tue, 10 Nov 2026 04:01:48 GMT</pubDate>
+<description>این مرور، شیمی کوئوردیناسیون و روابط ساختار-عملکرد در مواد بر پایه Ni3S2 را برای واکنش آزادسازی اکسیژن و ذخیره‌سازی انرژی ابرخازنی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Ni3S2 · oxygen evolution reaction · supercapacitor · coordination chemistry · structure-performance relationship</description>
+<category>Ni3S2</category>
+<category>oxygen evolution reaction</category>
+<category>supercapacitor</category>
+<category>coordination chemistry</category>
+<category>structure-performance relationship</category>
+</item>
 <item>
 <title>Stabilizing Cerium Dioxide Composite Electrodes with Nitrogen-Doped Carbon Nanofibers for Rapid TiO2+/Ti3+ redox kinetics in Ti-Ce redox flow batteries</title>
 <link>https://doi.org/10.1039/d6ta07536c</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>flow-assisted cell</category>
 <category>acidic electrolyte</category>
 <category>high voltage</category>
-</item>
-<item>
-<title>MXene-enabled zinc anode stabilization in aqueous zinc-ion batteries: mechanistic insights into interface, architecture, and electrolyte engineering</title>
-<link>https://doi.org/10.1039/d6ta05949j</link>
-<guid isPermaLink="false">10.1039/d6ta05949j</guid>
-<pubDate>Fri, 06 Nov 2026 17:02:02 GMT</pubDate>
-<description>این مرور سازوکارهای مهندسی رابط، ساختار و الکترولیت با MXene را برای یکنواخت‌سازی شار Zn2+ و سرکوب دندریت، HER و خوردگی در آند روی آبی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 MXene uniquely engineers Zn²⁺ transport, water structure, and interfacial reactions simultaneously, converting random deposition into uniform flux. This mechanistic integration of interface, architecture, and electrolyte design suppresses dendrites, hydrogen evolution, and corrosion, enabling stable, long-life aqueous zinc-ion battery anodes—advancing beyond single-factor approaches toward holistic anode stabilization.&lt;br&gt;🏷 MXene · zinc anode · aqueous zinc-ion battery · dendrite suppression · interface engineering</description>
-<category>MXene</category>
-<category>zinc anode</category>
-<category>aqueous zinc-ion battery</category>
-<category>dendrite suppression</category>
-<category>interface engineering</category>
 </item>
 </channel>
 </rss>
