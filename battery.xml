@@ -5,8 +5,57 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 06:01:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 07:02:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Modified interfacial electronic environment of Fe–N4 molecules coupling on 2D molybdenum-based platforms for reversible zinc–air batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.057</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.057</guid>
+<pubDate>Tue, 10 Nov 2026 07:02:34 GMT</pubDate>
+<description>محیط الکترونیکی فصل مشترک مولکول‌های Fe–N4 جفت‌شده روی بسترهای دوبعدی مبتنی بر مولیبدن اصلاح می‌شود و باتری روی-هوا با چرخه‌پذیری بالا حاصل می‌گردد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Zn-air battery · Fe-N4 · single-atom catalyst · Mo-based platform · oxygen electrocatalysis</description>
+<category>Zn-air battery</category>
+<category>Fe-N4</category>
+<category>single-atom catalyst</category>
+<category>Mo-based platform</category>
+<category>oxygen electrocatalysis</category>
+</item>
+<item>
+<title>P-site multi-anion-engineered NASICON-type cathode with quasi-solid-solution triphasic behavior for high-rate sodium storage</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.056</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.056</guid>
+<pubDate>Tue, 10 Nov 2026 07:02:30 GMT</pubDate>
+<description>کاتدی از نوع NASICON با مهندسی چندآنیونی در جایگاه P و رفتار سه‌فازی شبه‌محلول جامد طراحی می‌شود که ذخیره‌سازی سریع سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 NASICON cathode · sodium storage · multi-anion engineering · quasi-solid-solution · high-rate</description>
+<category>NASICON cathode</category>
+<category>sodium storage</category>
+<category>multi-anion engineering</category>
+<category>quasi-solid-solution</category>
+<category>high-rate</category>
+</item>
+<item>
+<title>Band alignment modulation mitigates space-charge-layer effects at Ni-rich cathode/sulfide electrolyte interfaces in all-solid-state batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.059</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.059</guid>
+<pubDate>Tue, 10 Nov 2026 07:02:27 GMT</pubDate>
+<description>تنظیم هم‌ترازی نوارها اثرات لایه بار فضایی را در فصل مشترک کاتد غنی از نیکل/الکترولیت سولفیدی در باتری‌های تمام‌جامد کاهش می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · Ni-rich cathode · sulfide electrolyte · band alignment · space-charge layer</description>
+<category>all-solid-state battery</category>
+<category>Ni-rich cathode</category>
+<category>sulfide electrolyte</category>
+<category>band alignment</category>
+<category>space-charge layer</category>
+</item>
+<item>
+<title>Catalytic Interphases Enable Sulfur Redox Catalysis in All-Solid-State Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c13825</link>
+<guid isPermaLink="false">10.1021/jacs.6c13825</guid>
+<pubDate>Tue, 10 Nov 2026 07:02:14 GMT</pubDate>
+<description>یک فاز میانی کاتالیستی S–W–O بر پایه WO3 روی Li2S ساخته می‌شود که با تسهیل انتقال الکترون/Li+ و تنظیم ردوکس گوگرد، چرخه‌پذیری و ظرفیت بالای باتری تمام‌جامد Li–S را بهبود می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an interphase catalysis strategy converting discrete catalyst/reactant interfaces into a chemically integrated S–W–O catalytic interphase on Li2S, using WO3 selected via work-function screening. This enables coupled electron/Li+ transport and dynamic sulfur redox regulation, achieving 15,000-cycle stability and a record 30 mg cm–2 Li2S loading (21.2 mAh cm–2), overcoming solid-state sulfur-conversion limits in practical ASSLSBs.&lt;br&gt;🏷 all-solid-state Li-S battery · catalytic interphase · WO3 · Li2S cathode · sulfur redox</description>
+<category>all-solid-state Li-S battery</category>
+<category>catalytic interphase</category>
+<category>WO3</category>
+<category>Li2S cathode</category>
+<category>sulfur redox</category>
+</item>
 <item>
 <title>Unraveling Ion Transport Limitation in Thick Electrodes for Guiding Pore-Gradient Structure Design in Electrochemical Capacitors</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105647</link>
@@ -1160,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>thermal insulation</category>
 <category>silica nanofiber</category>
 <category>compression stability</category>
-</item>
-<item>
-<title>Breaking the Capacity‐Reversibility Linear Trade‐Off in Li–O 2 Batteries via Amorphous Non‐Precious High‐Entropy Alloy Catalysts</title>
-<link>https://doi.org/10.1002/adma.75403</link>
-<guid isPermaLink="false">10.1002/adma.75403</guid>
-<pubDate>Fri, 06 Nov 2026 19:01:47 GMT</pubDate>
-<description>کاتالیزور آلیاژ آنتروپی بالا و آمورف MnFeCoNiCu، مبادله خطی ظرفیت-بازگشت‌پذیری در باتری Li–O2 را شکسته و ظرفیت و عمر بالاتری ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Amorphous non-precious MnFeCoNiCu high-entropy alloy catalyst breaks the capacity-reversibility trade-off in Li–O₂ batteries. Its porous structure promotes solution-mediated Li₂O₂ growth (10.8 mAh cm⁻²), while multielement electron redistribution lowers overpotential to 0.75 V and extends lifetime 4–5×. Scalable (&amp;gt;100 g) and viable in pouch cells (754 Wh kg⁻¹, 400 mA, −30°C), offering a cost-effective alternative to precious metals.&lt;br&gt;🏷 Li-O2 battery · high-entropy alloy · amorphous catalyst · capacity-reversibility trade-off · Li2O2 growth</description>
-<category>Li-O2 battery</category>
-<category>high-entropy alloy</category>
-<category>amorphous catalyst</category>
-<category>capacity-reversibility trade-off</category>
-<category>Li2O2 growth</category>
-</item>
-<item>
-<title>Coupling Iodine Conversion and Zinc Ion Transport via Molecular Catalysis for Long‐Life Zinc‐Iodine Batteries</title>
-<link>https://doi.org/10.1002/adma.75537</link>
-<guid isPermaLink="false">10.1002/adma.75537</guid>
-<pubDate>Fri, 06 Nov 2026 19:01:39 GMT</pubDate>
-<description>مقاله با کاتالیزور مولکولی Fe–TCPP، تبدیل ید و انتقال یون روی را هم‌زمان تنظیم کرده و باتری روی-ید با عمر چرخه‌ای طولانی ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 Fe–TCPP porphyrin catalyst uniquely resolves the adsorption–transport conflict in Zn–I₂ batteries: its Fe–N₄ center moderately binds polyiodides (suppressing shuttling without passivation), while carboxyphenyl groups create a zincophilic microenvironment for Zn²⁺ access. This synchronized redox and ion regulation enables 50,000 cycles at 5 A g⁻¹ and stable pouch cells at 22 mg cm⁻² loading, establishing a molecular-catalytic design framework for aqueous batteries with soluble redox species.&lt;br&gt;🏷 zinc-iodine battery · molecular catalysis · polyiodide shuttling · porphyrin catalyst · long-life cycling</description>
-<category>zinc-iodine battery</category>
-<category>molecular catalysis</category>
-<category>polyiodide shuttling</category>
-<category>porphyrin catalyst</category>
-<category>long-life cycling</category>
-</item>
-<item>
-<title>Tailoring Interfacial Li + Transport and Polysulfide Behavior via a Functionalized Separator for Stable Li-S Batteries</title>
-<link>https://doi.org/10.1039/d6ta07037j</link>
-<guid isPermaLink="false">10.1039/d6ta07037j</guid>
-<pubDate>Fri, 06 Nov 2026 17:02:25 GMT</pubDate>
-<description>یک جداکننده عامل‌دار با تنظیم انتقال Li+ و رفتار polysulfide، پایداری بین‌سطحی و عملکرد باتری Li-S را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a functionalized separator that simultaneously tailors interfacial Li⁺ transport and suppresses polysulfide migration, addressing both Li-dendrite formation and LiPS shuttling. Its significance is enabling stable Li-S batteries with improved interfacial stability and cycling performance, advancing high-energy-density battery viability.&lt;br&gt;🏷 Li-S battery · functionalized separator · polysulfide shuttle · Li+ transport · Li metal anode</description>
-<category>Li-S battery</category>
-<category>functionalized separator</category>
-<category>polysulfide shuttle</category>
-<category>Li+ transport</category>
-<category>Li metal anode</category>
-</item>
-<item>
-<title>Protocol-aware evaluation of capacity and retention in Prussian blue analogue cathodes</title>
-<link>https://doi.org/10.1039/d6ta06173g</link>
-<guid isPermaLink="false">10.1039/d6ta06173g</guid>
-<pubDate>Fri, 06 Nov 2026 17:02:13 GMT</pubDate>
-<description>ارزیابی آگاه از پروتکل با یادگیری ماشین برای کاتدهای Prussian blue analogue نشان می‌دهد که دقت پیش‌بینی ظرفیت و پایداری به هدف و نمایش داده وابسته است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in protocol-aware machine learning for Prussian blue analogue cathodes, showing performance gains depend on target and representation. Compact models best predict retention, while rankings shift with rate and cycling stage. Significance: matched-protocol validation is essential for reliable cathode evaluation.&lt;br&gt;🏷 Prussian blue analogues · cathode capacity retention · machine learning · protocol-aware evaluation · battery cycling</description>
-<category>Prussian blue analogues</category>
-<category>cathode capacity retention</category>
-<category>machine learning</category>
-<category>protocol-aware evaluation</category>
-<category>battery cycling</category>
 </item>
 </channel>
 </rss>
