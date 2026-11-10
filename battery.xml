@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 12:01:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 13:03:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rate Capability of Lithium‐Rich Manganese‐Based Oxide Cathodes: Charge–Discharge Kinetics, Multiscale Bottlenecks, and Dynamic Rate‐Determining Steps</title>
+<link>https://doi.org/10.1002/adma.75619</link>
+<guid isPermaLink="false">10.1002/adma.75619</guid>
+<pubDate>Tue, 10 Nov 2026 13:03:29 GMT</pubDate>
+<description>این مرور، موانع نرخ‌پذیری کاتدهای اکسید منگنز غنی از لیتیوم را در سه سطح انتقال بار، کندی ردوکس آنیونی و تخریب ساختاری تحلیل کرده و جابه‌جایی مرحله تعیین‌کننده نرخ را بررسی می‌کند.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely deconstructs LRMO rate limits across three levels—charge transport, anionic redox kinetics, and degradation cascades—revealing that the rate-determining step shifts from electron transfer to ion diffusion, governed by j0 and jd. It highlights the overlooked charging bottleneck from asymmetric anionic redox and critiques cross-study C-rate comparability, providing a theoretical foundation for rational high-rate cathode design.&lt;br&gt;🏷 lithium-rich manganese oxide · rate capability · anionic redox · fast charging · cathode kinetics</description>
+<category>lithium-rich manganese oxide</category>
+<category>rate capability</category>
+<category>anionic redox</category>
+<category>fast charging</category>
+<category>cathode kinetics</category>
+</item>
+<item>
+<title>Designing a Thermochemically Active Hydrogel With In Situ‐Formed Ceramic–Carbon Hybrid Barrier for Suppressing Thermal Runaway Propagation</title>
+<link>https://doi.org/10.1002/adma.75659</link>
+<guid isPermaLink="false">10.1002/adma.75659</guid>
+<pubDate>Tue, 10 Nov 2026 13:03:03 GMT</pubDate>
+<description>هیدروژل پلی(AMPS) با اتصال‌دهنده فعال بوریک اسید، از طریق جذب گرما و تشکیل درجای سد سرامیک-کربن، انتشار فرار حرارتی در باتری لیتیوم-یون را مهار می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using boric acid as a thermochemically active cross-linker in poly(AMPS) hydrogel, enhancing strength by 567% and enabling dual-mode protection: synergistic heat absorption plus in situ ceramic–carbon barrier formation via B─O─C bonds. Significance: this establishes a general design principle for reactive fillers that combine multi-stage energy management and tailored barrier synthesis, reducing adjacent cell peak temperature by over 500°C and advancing battery safety materials.&lt;br&gt;🏷 thermal runaway propagation · hydrogel interlayer · boric acid crosslinker · ceramic-carbon barrier · lithium-ion battery safety</description>
+<category>thermal runaway propagation</category>
+<category>hydrogel interlayer</category>
+<category>boric acid crosslinker</category>
+<category>ceramic-carbon barrier</category>
+<category>lithium-ion battery safety</category>
+</item>
+<item>
+<title>Polymer‐Directed Crystal Growth Regulation: Template‐Free Synthesis of Mesoporous Single‐Crystalline Mn 2 OBO 3</title>
+<link>https://doi.org/10.1002/adma.75700</link>
+<guid isPermaLink="false">10.1002/adma.75700</guid>
+<pubDate>Tue, 10 Nov 2026 13:02:40 GMT</pubDate>
+<description>سنتز بدون قالب Mn2OBO3 مزوپور تک‌بلوری با تنظیم رشد بلور توسط پلیمر، ظرفیت آندی ۱۴۴۰ mAh g−1 در باتری لیتیوم-یون فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a polymer-directed, template-free strategy using polyethyleneimine as a bifunctional regulator to synthesize mesoporous single-crystalline Mn₂OBO₃. This yields a high reversible capacity of 1440 mAh g⁻¹, over twice that of bulk material, and the approach is extendable to doped variants, offering a versatile platform for porous single-crystalline energy-storage materials.&lt;br&gt;🏷 Mn2OBO3 anode · mesoporous single crystal · polymer-directed synthesis · lithium-ion battery · crystal growth regulation</description>
+<category>Mn2OBO3 anode</category>
+<category>mesoporous single crystal</category>
+<category>polymer-directed synthesis</category>
+<category>lithium-ion battery</category>
+<category>crystal growth regulation</category>
+</item>
+<item>
+<title>Cell Configuration Dependent Perturbations for in Situ/Operando Raman Spectroscopy of Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ee06696h</link>
+<guid isPermaLink="false">10.1039/d6ee06696h</guid>
+<pubDate>Tue, 10 Nov 2026 13:02:16 GMT</pubDate>
+<description>این مقاله اثر پیکربندی سلول بر اندازه‌گیری‌های Raman در situ/operando در باتری‌های لیتیوم-یون را بررسی و اختلالات ناشی از آن را تحلیل می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in systematically analyzing how different cell configurations introduce perturbations in in situ/operando Raman spectroscopy of lithium-ion batteries, an often-overlooked issue. Its significance is in providing guidance to minimize configuration-induced artifacts, improving the reliability and interpretation of operando measurements for accurate mechanism elucidation and performance optimization.&lt;br&gt;🏷 operando Raman spectroscopy · lithium-ion battery · cell configuration · in situ characterization · spectral artifacts</description>
+<category>operando Raman spectroscopy</category>
+<category>lithium-ion battery</category>
+<category>cell configuration</category>
+<category>in situ characterization</category>
+<category>spectral artifacts</category>
+</item>
 <item>
 <title>Bimetallic (Cu,Zn)ZIF-8/Ti 3 C 2 T x Heterointerfaces for Synergistic Polysulfide Adsorption and Catalytic Conversion in Lithium-Sulfur Batteries</title>
 <link>https://doi.org/10.1039/d6ta05754c</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>composite membrane</category>
 <category>LiF interlayer</category>
 <category>energy density</category>
-</item>
-<item>
-<title>Biomass-derived porous carbons for supercapacitors: A critical review of precursors, synthesis, performance and environmental sustainability</title>
-<link>https://doi.org/10.1016/j.est.2026.125467</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125467</guid>
-<pubDate>Sat, 07 Nov 2026 11:02:06 GMT</pubDate>
-<description>این مرور به بررسی پیش‌ماده‌های زیست‌توده، روش‌های سنتز، عملکرد و پایداری زیست‌محیطی کربن‌های متخلخل مشتق از زیست‌توده برای ابرخازن‌ها می‌پردازد.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 biomass-derived carbon · supercapacitors · porous carbon · synthesis routes · environmental sustainability</description>
-<category>biomass-derived carbon</category>
-<category>supercapacitors</category>
-<category>porous carbon</category>
-<category>synthesis routes</category>
-<category>environmental sustainability</category>
-</item>
-<item>
-<title>Alumina nanofiber engineered separators with synergistically enhanced mechanical, thermal, and electrochemical properties for high performance sodium ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125489</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125489</guid>
-<pubDate>Sat, 07 Nov 2026 11:02:02 GMT</pubDate>
-<description>جداکننده‌های مهندسی‌شده با نانوالیاف آلومینا خواص مکانیکی، حرارتی و الکتروشیمیایی را برای باتری‌های یون سدیم به‌طور هم‌افزا بهبود دادند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 alumina nanofiber · separator · sodium-ion battery · thermal stability · mechanical properties</description>
-<category>alumina nanofiber</category>
-<category>separator</category>
-<category>sodium-ion battery</category>
-<category>thermal stability</category>
-<category>mechanical properties</category>
-</item>
-<item>
-<title>Extract-assisted solvothermal synthesis of LiNi0.8Mn0.1Co0.1O2 using Uncaria gambir Roxb. leaf extract: Structural, morphological, and electrochemical characteristics</title>
-<link>https://doi.org/10.1016/j.est.2026.125374</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125374</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:57 GMT</pubDate>
-<description>LiNi0.8Mn0.1Co0.1O2 با کمک عصاره برگ Uncaria gambir Roxb. به روش سولوترمال سنتز و ویژگی‌های ساختاری، ریخت‌شناسی و الکتروشیمیایی آن بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NMC811 · solvothermal synthesis · Uncaria gambir · leaf extract · cathode material</description>
-<category>NMC811</category>
-<category>solvothermal synthesis</category>
-<category>Uncaria gambir</category>
-<category>leaf extract</category>
-<category>cathode material</category>
-</item>
-<item>
-<title>Electronic and carrier-dynamics engineering for Co-doped V2O5 bifunctional cathode boosting photon harvesting and Li+ storage in photo-assisted Li-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125464</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125464</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:53 GMT</pubDate>
-<description>مهندسی الکترونیکی و دینامیک حامل‌ها در کاتد دوفункسیونی V2O5 دوپ‌شده با Co، جذب نور و ذخیره‌سازی Li+ را در باتری یون لیتیوم نوری تقویت کرد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Co-doped V2O5 · photo-assisted Li-ion battery · bifunctional cathode · carrier dynamics · Li+ storage</description>
-<category>Co-doped V2O5</category>
-<category>photo-assisted Li-ion battery</category>
-<category>bifunctional cathode</category>
-<category>carrier dynamics</category>
-<category>Li+ storage</category>
 </item>
 </channel>
 </rss>
