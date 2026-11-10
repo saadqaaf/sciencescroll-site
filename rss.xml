@@ -5,8 +5,284 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 08:08:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 09:03:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Contrastive learning for battery capacity estimation through electrochemical impedance spectroscopy</title>
+<link>https://doi.org/10.1016/j.est.2026.125409</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125409</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:48 GMT</pubDate>
+<description>این پژوهش با یادگیری تقابلی و استفاده از طیف‌سنجی امپدانس الکتروشیمیایی، ظرفیت باتری را تخمین می‌زند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 capacity estimation · contrastive learning · electrochemical impedance spectroscopy · lithium-ion battery · deep learning</description>
+<category>capacity estimation</category>
+<category>contrastive learning</category>
+<category>electrochemical impedance spectroscopy</category>
+<category>lithium-ion battery</category>
+<category>deep learning</category>
+</item>
+<item>
+<title>Lithium-ion battery state-of-health prediction with missing data using RBF-KAN-enhanced neural ordinary differential equations</title>
+<link>https://doi.org/10.1016/j.est.2026.125339</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125339</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:44 GMT</pubDate>
+<description>این مقاله با ترکیب معادلات دیفرانسیل معمولی عصبی و RBF-KAN، وضعیت سلامت باتری لیتیوم-یونی را حتی با داده‌های ناقص پیش‌بینی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · lithium-ion battery · neural ODE · RBF-KAN · missing data</description>
+<category>state-of-health</category>
+<category>lithium-ion battery</category>
+<category>neural ODE</category>
+<category>RBF-KAN</category>
+<category>missing data</category>
+</item>
+<item>
+<title>Stress dispersion and an inorganic-rich solid electrolyte interphase facilitate long-cycle stability of high-Sn-content sodium-ion anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125452</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125452</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:40 GMT</pubDate>
+<description>پراکندگی تنش و تشکیل لایه الکترولیت جامد غنی از ترکیبات معدنی، پایداری چرخه‌ای طولانی آندهای سدیم-یونی با محتوای بالای Sn را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Sn anode · solid electrolyte interphase · stress dispersion · inorganic-rich SEI</description>
+<category>sodium-ion battery</category>
+<category>Sn anode</category>
+<category>solid electrolyte interphase</category>
+<category>stress dispersion</category>
+<category>inorganic-rich SEI</category>
+</item>
+<item>
+<title>Structure engineering modulation via physical vapor deposition for superior organic cathode of aluminum batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125471</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125471</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:36 GMT</pubDate>
+<description>مهندسی ساختار با رسوب فیزیکی بخار برای بهبود کاتد آلی باتری آلومینیمی به‌کار گرفته شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aluminum battery · organic cathode · physical vapor deposition · structure engineering · cathode modulation</description>
+<category>aluminum battery</category>
+<category>organic cathode</category>
+<category>physical vapor deposition</category>
+<category>structure engineering</category>
+<category>cathode modulation</category>
+</item>
+<item>
+<title>Pre-trained large models for battery management systems: Techniques, applications, challenges, and prospects</title>
+<link>https://doi.org/10.1016/j.est.2026.125448</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125448</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:32 GMT</pubDate>
+<description>کاربردها، چالش‌ها و چشم‌انداز مدل‌های بزرگ پیش‌آموزش‌دیده در سیستم‌های مدیریت باتری مرور می‌شود.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 battery management system · pre-trained large models · state estimation · transfer learning · smart battery</description>
+<category>battery management system</category>
+<category>pre-trained large models</category>
+<category>state estimation</category>
+<category>transfer learning</category>
+<category>smart battery</category>
+</item>
+<item>
+<title>Dual-layer energy management strategy for hybrid energy storage system combining rule-based and improve dream optimization algorithm with model predictive control</title>
+<link>https://doi.org/10.1016/j.est.2026.125333</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125333</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:28 GMT</pubDate>
+<description>راهبرد مدیریت انرژی دولایه برای سیستم ذخیره‌سازی هیبریدی با ترکیب کنترل قاعده‌محور، الگوریتم بهینه‌سازی dream و کنترل پیش‌بین مدل ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · energy management strategy · model predictive control · dream optimization · rule-based control</description>
+<category>hybrid energy storage</category>
+<category>energy management strategy</category>
+<category>model predictive control</category>
+<category>dream optimization</category>
+<category>rule-based control</category>
+</item>
+<item>
+<title>Geological energy storage for resilient microgrids: Functional roles, geology-constrained operation, and geotechnical risk management</title>
+<link>https://doi.org/10.1016/j.est.2026.125428</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125428</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:25 GMT</pubDate>
+<description>نقش‌ها و بهره‌برداری محدودشده توسط زمین‌شناسی و مدیریت ریسک ژئوتکنیکی ذخیره‌سازی انرژی زمین‌شناسی برای ریزشبکه‌های تاب‌آور مرور می‌شود.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 geological energy storage · microgrid · geotechnical risk · constrained operation · resilience</description>
+<category>geological energy storage</category>
+<category>microgrid</category>
+<category>geotechnical risk</category>
+<category>constrained operation</category>
+<category>resilience</category>
+</item>
+<item>
+<title>Selective etching and depassivation of Zn crystal facets for highly reversible Zn anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125593</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125593</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:22 GMT</pubDate>
+<description>اچ‌کردن انتخابی و رفع غیرفعال‌شدگی وجوه بلوری Zn برای آندهای روی با برگشت‌پذیری بالا بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · crystal facet · selective etching · depassivation · reversibility</description>
+<category>zinc anode</category>
+<category>crystal facet</category>
+<category>selective etching</category>
+<category>depassivation</category>
+<category>reversibility</category>
+</item>
+<item>
+<title>Stabilization mechanisms and design strategies of 1,3-dioxolane-based electrolytes for high-voltage lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125568</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125568</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:18 GMT</pubDate>
+<description>مکانیسم‌های پایداری و راهبردهای طراحی الکترولیت‌های مبتنی بر 1,3-dioxolane برای باتری‌های لیتیوم فلزی ولتاژ بالا مرور می‌شود.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 1,3-dioxolane electrolyte · lithium metal battery · high-voltage · stabilization mechanism · electrolyte design</description>
+<category>1,3-dioxolane electrolyte</category>
+<category>lithium metal battery</category>
+<category>high-voltage</category>
+<category>stabilization mechanism</category>
+<category>electrolyte design</category>
+</item>
+<item>
+<title>Uncovering component interactions and improvement potentials: Advanced exergy analysis of a compressed CO₂ energy storage system with 13X zeolite temperature-swing adsorption</title>
+<link>https://doi.org/10.1016/j.est.2026.125517</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125517</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:14 GMT</pubDate>
+<description>تحلیل اگزرژی پیشرفته سیستم ذخیره‌سازی انرژی CO2 فشرده با جذب دمایی 13X zeolite و پتانسیل بهبود آن بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed CO2 storage · exergy analysis · 13X zeolite · temperature-swing adsorption · energy storage system</description>
+<category>compressed CO2 storage</category>
+<category>exergy analysis</category>
+<category>13X zeolite</category>
+<category>temperature-swing adsorption</category>
+<category>energy storage system</category>
+</item>
+<item>
+<title>Service-based life cycle and uncertainty assessment of nanoadditive-modified molten salts for concentrated solar power thermal energy storage</title>
+<link>https://doi.org/10.1016/j.est.2026.125514</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125514</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:11 GMT</pubDate>
+<description>ارزیابی چرخه عمر و عدم‌قطعیت نمک‌های مذاب اصلاح‌شده با نانوافزودنی برای ذخیره‌سازی انرژی حرارتی نیروگاه خورشیدی متمرکز انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 molten salt · thermal energy storage · concentrated solar power · nanoadditive · life cycle assessment</description>
+<category>molten salt</category>
+<category>thermal energy storage</category>
+<category>concentrated solar power</category>
+<category>nanoadditive</category>
+<category>life cycle assessment</category>
+</item>
+<item>
+<title>Mechanistic insights into zinc ion storage in microporous and small-mesoporous architectures for high-performance porous carbon cathodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125543</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125543</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:08 GMT</pubDate>
+<description>مکانیسم ذخیره‌سازی یون روی در ساختارهای میکروحفره و مزوحفره کوچک کربن متخلخل برای کاتدهای کارآمد بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion storage · porous carbon cathode · micropore · small mesopore · storage mechanism</description>
+<category>zinc-ion storage</category>
+<category>porous carbon cathode</category>
+<category>micropore</category>
+<category>small mesopore</category>
+<category>storage mechanism</category>
+</item>
+<item>
+<title>Manganese oxide nanoparticles anchored on heteroatom incorporated pumpkin-derived activated carbon as an advanced anode for rechargeable lithium and sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125551</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125551</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:04 GMT</pubDate>
+<description>نانوذرات اکسید منگنز تثبیت‌شده بر کربن فعال مشتق از کدو حلوایی با دوپه هترواتم به‌عنوان آند پیشرفته برای باتری‌های یون‌لیتیم و یون‌سدیم بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pumpkin-derived carbon · manganese oxide · lithium-ion battery · sodium-ion battery · heteroatom doping</description>
+<category>pumpkin-derived carbon</category>
+<category>manganese oxide</category>
+<category>lithium-ion battery</category>
+<category>sodium-ion battery</category>
+<category>heteroatom doping</category>
+</item>
+<item>
+<title>Suppressing interfacial passivation of magnesium-metal anode by ligand coordination configuration regulation</title>
+<link>https://doi.org/10.1016/j.est.2026.125606</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125606</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:00 GMT</pubDate>
+<description>تنظیم پیکربندی هماهنگی لیگاند، غیرفعال‌سازی سطحی آند منیزیم-فلز را در باتری منیزیمی سرکوب می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 magnesium-metal anode · interfacial passivation · ligand coordination · magnesium battery · electrolyte</description>
+<category>magnesium-metal anode</category>
+<category>interfacial passivation</category>
+<category>ligand coordination</category>
+<category>magnesium battery</category>
+<category>electrolyte</category>
+</item>
+<item>
+<title>Optimal energy management with fused battery-informed dynamics for intelligent connected battery electric vehicles</title>
+<link>https://doi.org/10.1016/j.est.2026.125450</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125450</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:56 GMT</pubDate>
+<description>مدیریت بهینه انرژی با دینامیک آگاه از باتری برای خودروهای برقی متصل هوشمند توسعه یافته است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy management · battery electric vehicle · battery-informed dynamics · connected vehicles · optimization</description>
+<category>energy management</category>
+<category>battery electric vehicle</category>
+<category>battery-informed dynamics</category>
+<category>connected vehicles</category>
+<category>optimization</category>
+</item>
+<item>
+<title>Glycolamide-regulated electrical double layer enables corrosion-resistant Zn anode for highly stable alkaline zinc-ion flow batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125583</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125583</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:52 GMT</pubDate>
+<description>تنظیم لایه دوگانه الکتریکی با glycolamide آند روی را در باتری جریان یون-روی قلیایی در برابر خوردگی مقاوم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · alkaline zinc-ion battery · glycolamide · electrical double layer · corrosion resistance</description>
+<category>zinc anode</category>
+<category>alkaline zinc-ion battery</category>
+<category>glycolamide</category>
+<category>electrical double layer</category>
+<category>corrosion resistance</category>
+</item>
+<item>
+<title>Realistic data-driven deep learning framework with multi-objective optimization for lithium-ion battery state estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.125433</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125433</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:48 GMT</pubDate>
+<description>چارچوب یادگیری عمیق داده‌محور با بهینه‌سازی چندهدفه برای تخمین وضعیت باتری لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · deep learning · state estimation · multi-objective optimization · data-driven</description>
+<category>lithium-ion battery</category>
+<category>deep learning</category>
+<category>state estimation</category>
+<category>multi-objective optimization</category>
+<category>data-driven</category>
+</item>
+<item>
+<title>State-of-charge estimation for vanadium redox flow batteries by integrating a fractional-order model with adaptive extended Kalman filtering</title>
+<link>https://doi.org/10.1016/j.est.2026.125520</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125520</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:44 GMT</pubDate>
+<description>تخمین وضعیت شارژ باتری جریان وانادیوم با ترکیب مدل مرتبه کسری و فیلتر کالمن توسعه‌یافته تطبیقی انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · state of charge · fractional-order model · extended Kalman filter · estimation</description>
+<category>vanadium redox flow battery</category>
+<category>state of charge</category>
+<category>fractional-order model</category>
+<category>extended Kalman filter</category>
+<category>estimation</category>
+</item>
+<item>
+<title>A lithium-ion battery state of health transfer prediction based on sensitive segment voltage feature extraction and dynamic parameter freezing</title>
+<link>https://doi.org/10.1016/j.est.2026.125558</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125558</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:40 GMT</pubDate>
+<description>روشی برای پیش‌بینی انتقالی وضعیت سلامت باتری لیتیوم-یون با استخراج ویژگی ولتاژ از قطعه حساس و انجماد پارامترهای دینامیک ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · transfer prediction · feature extraction · parameter freezing</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>transfer prediction</category>
+<category>feature extraction</category>
+<category>parameter freezing</category>
+</item>
+<item>
+<title>Near-infrared optoelectronic synapses based on Yb3+/Er3+ doped two-dimensional BiOI nanosheets for neuromorphic computing</title>
+<link>https://doi.org/10.1039/d6mh01778a</link>
+<guid isPermaLink="false">10.1039/d6mh01778a</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:32 GMT</pubDate>
+<description>سیناپس‌های نوری-الکترونیکی مبتنی بر نانوصفحات BiOI دوپه‌شده با Yb3+/Er3+ برای محاسبات نورومورفیک در ناحیه فروسرخ نزدیک ساخته شد.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 optoelectronic synapse · BiOI nanosheets · Yb3+/Er3+ doping · near-infrared · neuromorphic computing</description>
+<category>optoelectronic synapse</category>
+<category>BiOI nanosheets</category>
+<category>Yb3+/Er3+ doping</category>
+<category>near-infrared</category>
+<category>neuromorphic computing</category>
+</item>
+<item>
+<title>Design principles for entrepreneurial validation: An integrative review from a design science perspective</title>
+<link>https://doi.org/10.1016/j.technovation.2026.103753</link>
+<guid isPermaLink="false">10.1016/j.technovation.2026.103753</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:29 GMT</pubDate>
+<description>این مرور یکپارچه از دیدگاه علم طراحی، اصول طراحی برای اعتبارسنجی کارآفرینانه را بررسی و چارچوب‌بندی می‌کند.&lt;br&gt;Technovation | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 entrepreneurial validation · design science · integrative review · design principles · innovation</description>
+<category>entrepreneurial validation</category>
+<category>design science</category>
+<category>integrative review</category>
+<category>design principles</category>
+<category>innovation</category>
+</item>
+<item>
+<title>Dual‐Function Ammonium Treatment for Robust Prussian White Cathodes</title>
+<link>https://doi.org/10.1002/sstr.70658</link>
+<guid isPermaLink="false">10.1002/sstr.70658</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:25 GMT</pubDate>
+<description>دوپه‌سازی NH4+ در کاتد Prussian White ساختار مونوکلینیک پایدار ایجاد کرده و ظرفیت، نرخ و پایداری رطوبتی باتری سدیم‌یونی را بهبود می‌دهد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using low-cost NH4+ doping via aqueous coprecipitation to form a stable monoclinic Prussian White structure, distinct from the moisture-dependent phase in pristine material. This dual-function dopant enhances structural integrity, suppresses water-induced degradation, and improves cycling stability, rate capability, and moisture tolerance—offering a safe, scalable route to robust sodium-ion battery cathodes.&lt;br&gt;🏷 Prussian White · sodium-ion battery · ammonium doping · cathode · structural stability</description>
+<category>Prussian White</category>
+<category>sodium-ion battery</category>
+<category>ammonium doping</category>
+<category>cathode</category>
+<category>structural stability</category>
+</item>
+<item>
+<title>Organometallic Solution and Surface Routes to Highly Dispersed Carbon Nanotube‐Based Fe–N–C Electrocatalysts</title>
+<link>https://doi.org/10.1002/sstr.70646</link>
+<guid isPermaLink="false">10.1002/sstr.70646</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:20 GMT</pubDate>
+<description>با روش‌های آلی‌فلزی در محلول و سطح، کاتالیزورهای Fe–N–C با سایت‌های تک‌اتمی آهن روی نانولوله‌های کربنی دوپه‌شده با نیتروژن سنتز شد که در واکنش کاهش اکسیژن فعال‌اند.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Fe-N-C catalyst · single-atom catalyst · carbon nanotubes · organometallic precursor · oxygen reduction reaction</description>
+<category>Fe-N-C catalyst</category>
+<category>single-atom catalyst</category>
+<category>carbon nanotubes</category>
+<category>organometallic precursor</category>
+<category>oxygen reduction reaction</category>
+</item>
 <item>
 <title>Comprehensive Four-Dimensional Scanning Transmission Electron Microscopy Nanodiffraction Analysis of Carbon Nanotubes Supported on Graphene via Tensor Decomposition</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122313</link>
@@ -930,286 +1206,6 @@
 <category>photon avalanche</category>
 <category>transmission backlight</category>
 <category>nonlinear optics</category>
-</item>
-<item>
-<title>Solute‐Induced Modulation of Hydrogen Bonding, Ion Hydration, and Protonation in Hydrogels for Enhanced Microwave Absorption</title>
-<link>https://doi.org/10.1002/advs.78744</link>
-<guid isPermaLink="false">10.1002/advs.78744</guid>
-<pubDate>Tue, 10 Nov 2026 08:03:45 GMT</pubDate>
-<description>تنظیم پیوند هیدروژنی، هیدراتاسیون یون و پروتونه‌شدن در هیدروژل‌ها پاسخ دی‌الکتریک را از رسانش به قطبش تغییر داده و جذب مایکروویو با پهنای باند 7.1 گیگاهرتز را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hydrogel microwave absorber · hydrogen bonding · ion hydration · protonation · dielectric polarization</description>
-<category>hydrogel microwave absorber</category>
-<category>hydrogen bonding</category>
-<category>ion hydration</category>
-<category>protonation</category>
-<category>dielectric polarization</category>
-</item>
-<item>
-<title>Fully Integrated Wearable Ultrasound System for Continuous Promotion of Wound Healing</title>
-<link>https://doi.org/10.1002/advs.78619</link>
-<guid isPermaLink="false">10.1002/advs.78619</guid>
-<pubDate>Tue, 10 Nov 2026 08:03:42 GMT</pubDate>
-<description>یک سیستم اولتراسوند پوشیدنی یکپارچه با پچ دارویی، رهایش کنترل‌شده PHMB و تحریک فراصوت، ترمیم زخم مزمن را با مهار باکتری و تعدیل التهاب تسریع می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 wearable ultrasound · wound healing · drug-loaded patch · antibacterial release · chronic wounds</description>
-<category>wearable ultrasound</category>
-<category>wound healing</category>
-<category>drug-loaded patch</category>
-<category>antibacterial release</category>
-<category>chronic wounds</category>
-</item>
-<item>
-<title>A Citrulline‐Functionalized Patch Coordinates Macrophage NRF2 Signaling and Arginine Metabolism for Tendon‐to‐Bone Repair</title>
-<link>https://doi.org/10.1002/advs.78630</link>
-<guid isPermaLink="false">10.1002/advs.78630</guid>
-<pubDate>Tue, 10 Nov 2026 08:03:38 GMT</pubDate>
-<description>پچ عمل‌دار شده با سیترولین با هماهنگ‌سازی سیگنالینگ NRF2 ماکروفاژ و متابولیسم آرژنین، ترمیم اتصال تاندون به استخوان را در مدل‌های حیوانی بهبود می‌بخشد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 citrulline-functionalized patch · macrophage NRF2 · arginine metabolism · tendon-to-bone repair · carbon dots</description>
-<category>citrulline-functionalized patch</category>
-<category>macrophage NRF2</category>
-<category>arginine metabolism</category>
-<category>tendon-to-bone repair</category>
-<category>carbon dots</category>
-</item>
-<item>
-<title>TIPIN Couples Epigenetic Rewiring to EGFR Stabilization and Lenvatinib Resistance in Liver Cancer</title>
-<link>https://doi.org/10.1002/advs.78638</link>
-<guid isPermaLink="false">10.1002/advs.78638</guid>
-<pubDate>Tue, 10 Nov 2026 08:03:34 GMT</pubDate>
-<description>TIPIN با اتصال رقابتی به رابط Tyr1045 از یوبیکویتیناسیون EGFR توسط c-Cbl جلوگیری کرده و پیشرفت سرطان کبد و مقاومت به lenvatinib را تقویت می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 TIPIN · EGFR stabilization · liver cancer · lenvatinib resistance · DNA hypomethylation</description>
-<category>TIPIN</category>
-<category>EGFR stabilization</category>
-<category>liver cancer</category>
-<category>lenvatinib resistance</category>
-<category>DNA hypomethylation</category>
-</item>
-<item>
-<title>Tailoring the solidified microstructure and mechanical properties of Zr50Cu40Al10 amorphous alloy via Nb microalloying under electromagnetic levitation</title>
-<link>https://doi.org/10.1016/j.jmst.2026.11.008</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.11.008</guid>
-<pubDate>Tue, 10 Nov 2026 08:03:30 GMT</pubDate>
-<description>ریزساختار انجمادی و خواص مکانیکی آلیاژ آمورف Zr50Cu40Al10 با ریزآلیاژسازی Nb تحت شناوری الکترومغناطیسی تنظیم شد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 Zr-based amorphous alloy · Nb microalloying · electromagnetic levitation · solidified microstructure · mechanical properties</description>
-<category>Zr-based amorphous alloy</category>
-<category>Nb microalloying</category>
-<category>electromagnetic levitation</category>
-<category>solidified microstructure</category>
-<category>mechanical properties</category>
-</item>
-<item>
-<title>Microwave-driven construction of bamboo-derived NbC particle-fiber heterostructures toward high-performance electromagnetic wave absorption</title>
-<link>https://doi.org/10.1016/j.jmst.2026.11.009</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.11.009</guid>
-<pubDate>Tue, 10 Nov 2026 08:03:26 GMT</pubDate>
-<description>ساخت هتروساختارهای ذرات-الیاف NbC مشتق از بامبو با روش مایکروویو برای جذب امواج الکترومغناطیسی با کارایی بالا انجام شد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 NbC heterostructures · bamboo-derived carbon · microwave absorption · electromagnetic wave absorber · particle-fiber structure</description>
-<category>NbC heterostructures</category>
-<category>bamboo-derived carbon</category>
-<category>microwave absorption</category>
-<category>electromagnetic wave absorber</category>
-<category>particle-fiber structure</category>
-</item>
-<item>
-<title>Modified interfacial electronic environment of Fe–N4 molecules coupling on 2D molybdenum-based platforms for reversible zinc–air batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.057</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.057</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:34 GMT</pubDate>
-<description>محیط الکترونیکی فصل مشترک مولکول‌های Fe–N4 جفت‌شده روی بسترهای دوبعدی مبتنی بر مولیبدن اصلاح می‌شود و باتری روی-هوا با چرخه‌پذیری بالا حاصل می‌گردد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Zn-air battery · Fe-N4 · single-atom catalyst · Mo-based platform · oxygen electrocatalysis</description>
-<category>Zn-air battery</category>
-<category>Fe-N4</category>
-<category>single-atom catalyst</category>
-<category>Mo-based platform</category>
-<category>oxygen electrocatalysis</category>
-</item>
-<item>
-<title>P-site multi-anion-engineered NASICON-type cathode with quasi-solid-solution triphasic behavior for high-rate sodium storage</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.056</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.056</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:30 GMT</pubDate>
-<description>کاتدی از نوع NASICON با مهندسی چندآنیونی در جایگاه P و رفتار سه‌فازی شبه‌محلول جامد طراحی می‌شود که ذخیره‌سازی سریع سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 NASICON cathode · sodium storage · multi-anion engineering · quasi-solid-solution · high-rate</description>
-<category>NASICON cathode</category>
-<category>sodium storage</category>
-<category>multi-anion engineering</category>
-<category>quasi-solid-solution</category>
-<category>high-rate</category>
-</item>
-<item>
-<title>Band alignment modulation mitigates space-charge-layer effects at Ni-rich cathode/sulfide electrolyte interfaces in all-solid-state batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.059</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.059</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:27 GMT</pubDate>
-<description>تنظیم هم‌ترازی نوارها اثرات لایه بار فضایی را در فصل مشترک کاتد غنی از نیکل/الکترولیت سولفیدی در باتری‌های تمام‌جامد کاهش می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · Ni-rich cathode · sulfide electrolyte · band alignment · space-charge layer</description>
-<category>all-solid-state battery</category>
-<category>Ni-rich cathode</category>
-<category>sulfide electrolyte</category>
-<category>band alignment</category>
-<category>space-charge layer</category>
-</item>
-<item>
-<title>Ion-Pair Receptors Couple Cation Binding with Molecular Electron Storage for Room-Temperature Birch-Type Reduction</title>
-<link>https://doi.org/10.1021/jacs.6c16532</link>
-<guid isPermaLink="false">10.1021/jacs.6c16532</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:23 GMT</pubDate>
-<description>گیرنده‌های جفت‌یون بر پایه دی‌ایمید، اتصال Na+ را با ذخیره الکترون مولکولی جفت می‌کنند و رادیکال‌آنیون پایدار در دمای اتاق ایجاد می‌کنند که احیای نوع Birch را ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 ion-pair receptor · electron storage · Birch reduction · radical anion · diimide</description>
-<category>ion-pair receptor</category>
-<category>electron storage</category>
-<category>Birch reduction</category>
-<category>radical anion</category>
-<category>diimide</category>
-</item>
-<item>
-<title>Cationic Ionomer Coatings Promote Anion Electroreduction: Nitrate Reduction as a Model Reaction</title>
-<link>https://doi.org/10.1021/jacs.6c12410</link>
-<guid isPermaLink="false">10.1021/jacs.6c12410</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:20 GMT</pubDate>
-<description>پوشش‌های یونومر کاتیونی با ایجاد پتانسیل دانان، غلظت نیترات موضعی را تا ۱۰ برابر افزایش داده و احیای الکتروشیمیایی آنیون نیترات به آمونیوم را به‌شدت تقویت می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cationic ionomer · nitrate reduction · Donnan potential · electroreduction · ATR-SEIRAS</description>
-<category>cationic ionomer</category>
-<category>nitrate reduction</category>
-<category>Donnan potential</category>
-<category>electroreduction</category>
-<category>ATR-SEIRAS</category>
-</item>
-<item>
-<title>X-Shaped Multichannel Conjugation Enabled by Excited-State Aromaticity</title>
-<link>https://doi.org/10.1021/jacs.6c15627</link>
-<guid isPermaLink="false">10.1021/jacs.6c15627</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:17 GMT</pubDate>
-<description>در دی‌هیدروفنازین‌های π-گسترش‌یافته، آروماتیسیته حالت برانگیخته Baird توپولوژی کونژوگاسیون را بازآرایی می‌کند و گسترش زاویه‌ای را بر خطی پیشی می‌دهد و شبکه کونژوگاسیون X-شکل ایجاد می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 Baird aromaticity · dihydrophenazine · π-conjugation · excited state · fluorescence</description>
-<category>Baird aromaticity</category>
-<category>dihydrophenazine</category>
-<category>π-conjugation</category>
-<category>excited state</category>
-<category>fluorescence</category>
-</item>
-<item>
-<title>Catalytic Interphases Enable Sulfur Redox Catalysis in All-Solid-State Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c13825</link>
-<guid isPermaLink="false">10.1021/jacs.6c13825</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:14 GMT</pubDate>
-<description>یک فاز میانی کاتالیستی S–W–O بر پایه WO3 روی Li2S ساخته می‌شود که با تسهیل انتقال الکترون/Li+ و تنظیم ردوکس گوگرد، چرخه‌پذیری و ظرفیت بالای باتری تمام‌جامد Li–S را بهبود می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an interphase catalysis strategy converting discrete catalyst/reactant interfaces into a chemically integrated S–W–O catalytic interphase on Li2S, using WO3 selected via work-function screening. This enables coupled electron/Li+ transport and dynamic sulfur redox regulation, achieving 15,000-cycle stability and a record 30 mg cm–2 Li2S loading (21.2 mAh cm–2), overcoming solid-state sulfur-conversion limits in practical ASSLSBs.&lt;br&gt;🏷 all-solid-state Li-S battery · catalytic interphase · WO3 · Li2S cathode · sulfur redox</description>
-<category>all-solid-state Li-S battery</category>
-<category>catalytic interphase</category>
-<category>WO3</category>
-<category>Li2S cathode</category>
-<category>sulfur redox</category>
-</item>
-<item>
-<title>A national baseline for methane sink habitats and methanotroph diversity</title>
-<link>https://doi.org/10.1038/s41467-026-79316-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-79316-9</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:08 GMT</pubDate>
-<description>این مقاله یک خط پایه ملی برای زیستگاه‌های مخزن متان و تنوع متانوتروف‌ها ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 methane sink · methanotrophs · national baseline · habitat mapping · diversity</description>
-<category>methane sink</category>
-<category>methanotrophs</category>
-<category>national baseline</category>
-<category>habitat mapping</category>
-<category>diversity</category>
-</item>
-<item>
-<title>Machine-Learning Dynamics of Redox-Active Materials: Polaron Diffusion on the TiO2(110) Surface</title>
-<link>https://doi.org/10.1021/acsnano.6c13435</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13435</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:05 GMT</pubDate>
-<description>یک چارچوب یادگیری ماشین برای دینامیک مولکولی، پخش پلارون و تغییر حالت اکسایش را روی سطح TiO2(110) شبیه‌سازی می‌کند و نشان می‌دهد پلارون‌ها نزدیک جای خالی اکسیژن جایگزین می‌شوند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polaron diffusion · TiO2(110) · machine-learning MD · oxygen vacancies · charge transport</description>
-<category>polaron diffusion</category>
-<category>TiO2(110)</category>
-<category>machine-learning MD</category>
-<category>oxygen vacancies</category>
-<category>charge transport</category>
-</item>
-<item>
-<title>Charge-Induced Formation and Field-Driven Directional Motion of Vacancies in a Two-Dimensional Halide</title>
-<link>https://doi.org/10.1021/acsnano.6c11067</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11067</guid>
-<pubDate>Tue, 10 Nov 2026 07:02:02 GMT</pubDate>
-<description>با STM دمای پایین و DFT نشان داده می‌شود که میدان الکتریکی و تزریق بار به‌ترتیب باعث مهاجرت جهت‌دار و تشکیل جای خالی هالوژن در تک‌لایه PbBr2 می‌شوند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PbBr2 monolayer · halogen vacancies · scanning tunneling microscopy · DFT · vacancy migration</description>
-<category>PbBr2 monolayer</category>
-<category>halogen vacancies</category>
-<category>scanning tunneling microscopy</category>
-<category>DFT</category>
-<category>vacancy migration</category>
-</item>
-<item>
-<title>Unraveling Ion Transport Limitation in Thick Electrodes for Guiding Pore-Gradient Structure Design in Electrochemical Capacitors</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105647</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105647</guid>
-<pubDate>Tue, 10 Nov 2026 05:01:54 GMT</pubDate>
-<description>این مقاله محدودیت انتقال یون در الکترودهای ضخیم را روشن می‌کند و طراحی ساختار گرادیان تخلخل را برای ابرخازن‌های الکتروشیمیایی هدایت می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 thick electrodes · ion transport · pore-gradient structure · electrochemical capacitors · electrode design</description>
-<category>thick electrodes</category>
-<category>ion transport</category>
-<category>pore-gradient structure</category>
-<category>electrochemical capacitors</category>
-<category>electrode design</category>
-</item>
-<item>
-<title>Microbiota-derived metabolites in the tumor microenvironment: mechanistic insights and translational perspectives</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.009</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.009</guid>
-<pubDate>Tue, 10 Nov 2026 05:01:50 GMT</pubDate>
-<description>این مرور، بینش‌های مکانیسمی و چشم‌اندازهای ترجمه‌ای متابولیت‌های مشتق از میکروبیوتا را در ریزمحیط تومور بررسی می‌کند.&lt;br&gt;Science Bulletin | ⭐ Review&lt;br&gt;🏷 microbiota metabolites · tumor microenvironment · mechanistic insights · translational perspectives · cancer therapy</description>
-<category>microbiota metabolites</category>
-<category>tumor microenvironment</category>
-<category>mechanistic insights</category>
-<category>translational perspectives</category>
-<category>cancer therapy</category>
-</item>
-<item>
-<title>Targeting mitochondrial dysfunction and ferroptosis in cerebral ischemia-reperfusion injury by a self-assembled nanomedicine with dual functions: GPX4 mimicry and energy metabolism restoration</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.010</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.010</guid>
-<pubDate>Tue, 10 Nov 2026 05:01:47 GMT</pubDate>
-<description>این مقاله یک نانوداروی خودآرا با عملکرد دوگانه تقلید GPX4 و بازیابی متابولیسم انرژی را برای هدف‌گیری اختلال میتوکندری و فروپتوز در آسیب ایسکمی-رپرفیوژن مغزی معرفی می‌کند.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 cerebral ischemia-reperfusion · ferroptosis · mitochondrial dysfunction · self-assembled nanomedicine · GPX4 mimicry</description>
-<category>cerebral ischemia-reperfusion</category>
-<category>ferroptosis</category>
-<category>mitochondrial dysfunction</category>
-<category>self-assembled nanomedicine</category>
-<category>GPX4 mimicry</category>
-</item>
-<item>
-<title>Bridging mechanisms and performance: engineering zirconium-based nanomaterials for high-efficiency photocatalysis</title>
-<link>https://doi.org/10.1007/s42114-026-02162-2</link>
-<guid isPermaLink="false">10.1007/s42114-026-02162-2</guid>
-<pubDate>Tue, 10 Nov 2026 05:01:43 GMT</pubDate>
-<description>این مرور، نانومواد پایه زیرکونیوم را برای فتوکاتالیزوری کارآمد بررسی می‌کند و بر مسیرهای سنتز، راهبردهای اصلاح و تفسیر مکانیسمی با مشخصه‌یابی پیشرفته و محاسبات نظری تمرکز دارد.&lt;br&gt;Advanced Composites and Hybrid Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 zirconium nanomaterials · photocatalysis · modification strategies · band structure · mechanism elucidation</description>
-<category>zirconium nanomaterials</category>
-<category>photocatalysis</category>
-<category>modification strategies</category>
-<category>band structure</category>
-<category>mechanism elucidation</category>
-</item>
-<item>
-<title>Coordination chemistry and structure-performance relationships in Ni3S2-based materials for oxygen evolution and supercapacitive energy storage</title>
-<link>https://doi.org/10.1016/j.ccr.2026.218740</link>
-<guid isPermaLink="false">10.1016/j.ccr.2026.218740</guid>
-<pubDate>Tue, 10 Nov 2026 04:01:48 GMT</pubDate>
-<description>این مرور، شیمی کوئوردیناسیون و روابط ساختار-عملکرد در مواد بر پایه Ni3S2 را برای واکنش آزادسازی اکسیژن و ذخیره‌سازی انرژی ابرخازنی بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 Ni3S2 · oxygen evolution reaction · supercapacitor · coordination chemistry · structure-performance relationship</description>
-<category>Ni3S2</category>
-<category>oxygen evolution reaction</category>
-<category>supercapacitor</category>
-<category>coordination chemistry</category>
-<category>structure-performance relationship</category>
-</item>
-<item>
-<title>Highly Enhanced Blue-light Absorption and Record Optical Pressure Sensing Sensitivity in Mn4+-activated Luminescent Material</title>
-<link>https://doi.org/10.1016/j.apmate.2026.100483</link>
-<guid isPermaLink="false">10.1016/j.apmate.2026.100483</guid>
-<pubDate>Tue, 10 Nov 2026 04:01:43 GMT</pubDate>
-<description>این مقاله یک ماده درخشان فعال‌شده با Mn4+ با جذب نور آبی به‌شدت تقویت‌شده معرفی می‌کند که حساسیت بی‌سابقه‌ای در حسگری فشار نوری نشان می‌دهد.&lt;br&gt;Advanced Powder Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Mn4+ luminescence · blue-light absorption · optical pressure sensing · luminescent material · sensitivity</description>
-<category>Mn4+ luminescence</category>
-<category>blue-light absorption</category>
-<category>optical pressure sensing</category>
-<category>luminescent material</category>
-<category>sensitivity</category>
-</item>
-<item>
-<title>A further acceleration of clean energy is needed for global CO2 emissions to peak and decline</title>
-<link>https://doi.org/10.1038/s41558-026-02821-8</link>
-<guid isPermaLink="false">10.1038/s41558-026-02821-8</guid>
-<pubDate>Tue, 10 Nov 2026 03:01:51 GMT</pubDate>
-<description>این مقاله روند انتشار CO2 جهانی را تا ۲۰۲۸ بررسی می‌کند و نشان می‌دهد خودروهای برقی و انرژی خورشیدی و بادی بخش زیادی از افزایش انتشار ناشی از رشد تقاضا را جبران می‌کنند، اما برای تضمین اوج و کاهش انتشار، شتاب‌بخشی به فناوری‌های پاک لازم است.&lt;br&gt;Nature Climate Change | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 emissions · clean energy · electric vehicles · solar and wind · emissions peak</description>
-<category>CO2 emissions</category>
-<category>clean energy</category>
-<category>electric vehicles</category>
-<category>solar and wind</category>
-<category>emissions peak</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,200 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 08:08:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 09:03:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Contrastive learning for battery capacity estimation through electrochemical impedance spectroscopy</title>
+<link>https://doi.org/10.1016/j.est.2026.125409</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125409</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:48 GMT</pubDate>
+<description>این پژوهش با یادگیری تقابلی و استفاده از طیف‌سنجی امپدانس الکتروشیمیایی، ظرفیت باتری را تخمین می‌زند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 capacity estimation · contrastive learning · electrochemical impedance spectroscopy · lithium-ion battery · deep learning</description>
+<category>capacity estimation</category>
+<category>contrastive learning</category>
+<category>electrochemical impedance spectroscopy</category>
+<category>lithium-ion battery</category>
+<category>deep learning</category>
+</item>
+<item>
+<title>Lithium-ion battery state-of-health prediction with missing data using RBF-KAN-enhanced neural ordinary differential equations</title>
+<link>https://doi.org/10.1016/j.est.2026.125339</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125339</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:44 GMT</pubDate>
+<description>این مقاله با ترکیب معادلات دیفرانسیل معمولی عصبی و RBF-KAN، وضعیت سلامت باتری لیتیوم-یونی را حتی با داده‌های ناقص پیش‌بینی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-health · lithium-ion battery · neural ODE · RBF-KAN · missing data</description>
+<category>state-of-health</category>
+<category>lithium-ion battery</category>
+<category>neural ODE</category>
+<category>RBF-KAN</category>
+<category>missing data</category>
+</item>
+<item>
+<title>Stress dispersion and an inorganic-rich solid electrolyte interphase facilitate long-cycle stability of high-Sn-content sodium-ion anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125452</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125452</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:40 GMT</pubDate>
+<description>پراکندگی تنش و تشکیل لایه الکترولیت جامد غنی از ترکیبات معدنی، پایداری چرخه‌ای طولانی آندهای سدیم-یونی با محتوای بالای Sn را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Sn anode · solid electrolyte interphase · stress dispersion · inorganic-rich SEI</description>
+<category>sodium-ion battery</category>
+<category>Sn anode</category>
+<category>solid electrolyte interphase</category>
+<category>stress dispersion</category>
+<category>inorganic-rich SEI</category>
+</item>
+<item>
+<title>Structure engineering modulation via physical vapor deposition for superior organic cathode of aluminum batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125471</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125471</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:36 GMT</pubDate>
+<description>مهندسی ساختار با رسوب فیزیکی بخار برای بهبود کاتد آلی باتری آلومینیمی به‌کار گرفته شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aluminum battery · organic cathode · physical vapor deposition · structure engineering · cathode modulation</description>
+<category>aluminum battery</category>
+<category>organic cathode</category>
+<category>physical vapor deposition</category>
+<category>structure engineering</category>
+<category>cathode modulation</category>
+</item>
+<item>
+<title>Pre-trained large models for battery management systems: Techniques, applications, challenges, and prospects</title>
+<link>https://doi.org/10.1016/j.est.2026.125448</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125448</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:32 GMT</pubDate>
+<description>کاربردها، چالش‌ها و چشم‌انداز مدل‌های بزرگ پیش‌آموزش‌دیده در سیستم‌های مدیریت باتری مرور می‌شود.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 battery management system · pre-trained large models · state estimation · transfer learning · smart battery</description>
+<category>battery management system</category>
+<category>pre-trained large models</category>
+<category>state estimation</category>
+<category>transfer learning</category>
+<category>smart battery</category>
+</item>
+<item>
+<title>Selective etching and depassivation of Zn crystal facets for highly reversible Zn anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125593</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125593</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:22 GMT</pubDate>
+<description>اچ‌کردن انتخابی و رفع غیرفعال‌شدگی وجوه بلوری Zn برای آندهای روی با برگشت‌پذیری بالا بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · crystal facet · selective etching · depassivation · reversibility</description>
+<category>zinc anode</category>
+<category>crystal facet</category>
+<category>selective etching</category>
+<category>depassivation</category>
+<category>reversibility</category>
+</item>
+<item>
+<title>Stabilization mechanisms and design strategies of 1,3-dioxolane-based electrolytes for high-voltage lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125568</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125568</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:18 GMT</pubDate>
+<description>مکانیسم‌های پایداری و راهبردهای طراحی الکترولیت‌های مبتنی بر 1,3-dioxolane برای باتری‌های لیتیوم فلزی ولتاژ بالا مرور می‌شود.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 1,3-dioxolane electrolyte · lithium metal battery · high-voltage · stabilization mechanism · electrolyte design</description>
+<category>1,3-dioxolane electrolyte</category>
+<category>lithium metal battery</category>
+<category>high-voltage</category>
+<category>stabilization mechanism</category>
+<category>electrolyte design</category>
+</item>
+<item>
+<title>Mechanistic insights into zinc ion storage in microporous and small-mesoporous architectures for high-performance porous carbon cathodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125543</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125543</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:08 GMT</pubDate>
+<description>مکانیسم ذخیره‌سازی یون روی در ساختارهای میکروحفره و مزوحفره کوچک کربن متخلخل برای کاتدهای کارآمد بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion storage · porous carbon cathode · micropore · small mesopore · storage mechanism</description>
+<category>zinc-ion storage</category>
+<category>porous carbon cathode</category>
+<category>micropore</category>
+<category>small mesopore</category>
+<category>storage mechanism</category>
+</item>
+<item>
+<title>Manganese oxide nanoparticles anchored on heteroatom incorporated pumpkin-derived activated carbon as an advanced anode for rechargeable lithium and sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125551</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125551</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:04 GMT</pubDate>
+<description>نانوذرات اکسید منگنز تثبیت‌شده بر کربن فعال مشتق از کدو حلوایی با دوپه هترواتم به‌عنوان آند پیشرفته برای باتری‌های یون‌لیتیم و یون‌سدیم بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pumpkin-derived carbon · manganese oxide · lithium-ion battery · sodium-ion battery · heteroatom doping</description>
+<category>pumpkin-derived carbon</category>
+<category>manganese oxide</category>
+<category>lithium-ion battery</category>
+<category>sodium-ion battery</category>
+<category>heteroatom doping</category>
+</item>
+<item>
+<title>Suppressing interfacial passivation of magnesium-metal anode by ligand coordination configuration regulation</title>
+<link>https://doi.org/10.1016/j.est.2026.125606</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125606</guid>
+<pubDate>Tue, 10 Nov 2026 09:03:00 GMT</pubDate>
+<description>تنظیم پیکربندی هماهنگی لیگاند، غیرفعال‌سازی سطحی آند منیزیم-فلز را در باتری منیزیمی سرکوب می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 magnesium-metal anode · interfacial passivation · ligand coordination · magnesium battery · electrolyte</description>
+<category>magnesium-metal anode</category>
+<category>interfacial passivation</category>
+<category>ligand coordination</category>
+<category>magnesium battery</category>
+<category>electrolyte</category>
+</item>
+<item>
+<title>Optimal energy management with fused battery-informed dynamics for intelligent connected battery electric vehicles</title>
+<link>https://doi.org/10.1016/j.est.2026.125450</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125450</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:56 GMT</pubDate>
+<description>مدیریت بهینه انرژی با دینامیک آگاه از باتری برای خودروهای برقی متصل هوشمند توسعه یافته است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy management · battery electric vehicle · battery-informed dynamics · connected vehicles · optimization</description>
+<category>energy management</category>
+<category>battery electric vehicle</category>
+<category>battery-informed dynamics</category>
+<category>connected vehicles</category>
+<category>optimization</category>
+</item>
+<item>
+<title>Glycolamide-regulated electrical double layer enables corrosion-resistant Zn anode for highly stable alkaline zinc-ion flow batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125583</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125583</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:52 GMT</pubDate>
+<description>تنظیم لایه دوگانه الکتریکی با glycolamide آند روی را در باتری جریان یون-روی قلیایی در برابر خوردگی مقاوم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · alkaline zinc-ion battery · glycolamide · electrical double layer · corrosion resistance</description>
+<category>zinc anode</category>
+<category>alkaline zinc-ion battery</category>
+<category>glycolamide</category>
+<category>electrical double layer</category>
+<category>corrosion resistance</category>
+</item>
+<item>
+<title>Realistic data-driven deep learning framework with multi-objective optimization for lithium-ion battery state estimation</title>
+<link>https://doi.org/10.1016/j.est.2026.125433</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125433</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:48 GMT</pubDate>
+<description>چارچوب یادگیری عمیق داده‌محور با بهینه‌سازی چندهدفه برای تخمین وضعیت باتری لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · deep learning · state estimation · multi-objective optimization · data-driven</description>
+<category>lithium-ion battery</category>
+<category>deep learning</category>
+<category>state estimation</category>
+<category>multi-objective optimization</category>
+<category>data-driven</category>
+</item>
+<item>
+<title>State-of-charge estimation for vanadium redox flow batteries by integrating a fractional-order model with adaptive extended Kalman filtering</title>
+<link>https://doi.org/10.1016/j.est.2026.125520</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125520</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:44 GMT</pubDate>
+<description>تخمین وضعیت شارژ باتری جریان وانادیوم با ترکیب مدل مرتبه کسری و فیلتر کالمن توسعه‌یافته تطبیقی انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · state of charge · fractional-order model · extended Kalman filter · estimation</description>
+<category>vanadium redox flow battery</category>
+<category>state of charge</category>
+<category>fractional-order model</category>
+<category>extended Kalman filter</category>
+<category>estimation</category>
+</item>
+<item>
+<title>A lithium-ion battery state of health transfer prediction based on sensitive segment voltage feature extraction and dynamic parameter freezing</title>
+<link>https://doi.org/10.1016/j.est.2026.125558</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125558</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:40 GMT</pubDate>
+<description>روشی برای پیش‌بینی انتقالی وضعیت سلامت باتری لیتیوم-یون با استخراج ویژگی ولتاژ از قطعه حساس و انجماد پارامترهای دینامیک ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · transfer prediction · feature extraction · parameter freezing</description>
+<category>state of health</category>
+<category>lithium-ion battery</category>
+<category>transfer prediction</category>
+<category>feature extraction</category>
+<category>parameter freezing</category>
+</item>
+<item>
+<title>Dual‐Function Ammonium Treatment for Robust Prussian White Cathodes</title>
+<link>https://doi.org/10.1002/sstr.70658</link>
+<guid isPermaLink="false">10.1002/sstr.70658</guid>
+<pubDate>Tue, 10 Nov 2026 09:02:25 GMT</pubDate>
+<description>دوپه‌سازی NH4+ در کاتد Prussian White ساختار مونوکلینیک پایدار ایجاد کرده و ظرفیت، نرخ و پایداری رطوبتی باتری سدیم‌یونی را بهبود می‌دهد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using low-cost NH4+ doping via aqueous coprecipitation to form a stable monoclinic Prussian White structure, distinct from the moisture-dependent phase in pristine material. This dual-function dopant enhances structural integrity, suppresses water-induced degradation, and improves cycling stability, rate capability, and moisture tolerance—offering a safe, scalable route to robust sodium-ion battery cathodes.&lt;br&gt;🏷 Prussian White · sodium-ion battery · ammonium doping · cathode · structural stability</description>
+<category>Prussian White</category>
+<category>sodium-ion battery</category>
+<category>ammonium doping</category>
+<category>cathode</category>
+<category>structural stability</category>
+</item>
 <item>
 <title>DFT Simulation and Synthesis of 2D/2D/0D Ternary NanoHybrid Heterostructure with Ti3C2Tx/Graphene/NiCo2S4 for High-performance Supercapacitor</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122318</link>
@@ -1016,199 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>rural power system</category>
 <category>framework comparison</category>
 <category>sustainability</category>
-</item>
-<item>
-<title>Optimization of fuzzy logic-based battery equalization strategy via particle swarm algorithm for enhanced measurement robustness and efficiency</title>
-<link>https://doi.org/10.1016/j.est.2026.125477</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125477</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:38 GMT</pubDate>
-<description>استراتژی یکسان‌سازی باتری مبتنی بر منطق فازی با الگوریتم ازدحام ذرات برای بهبود استحکام اندازه‌گیری و کارایی بهینه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery equalization · fuzzy logic · particle swarm optimization · robustness · efficiency</description>
-<category>battery equalization</category>
-<category>fuzzy logic</category>
-<category>particle swarm optimization</category>
-<category>robustness</category>
-<category>efficiency</category>
-</item>
-<item>
-<title>SiP2 monolayer as a prospective anode for Li-ion batteries: A first-principles study</title>
-<link>https://doi.org/10.1016/j.est.2026.125597</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125597</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:34 GMT</pubDate>
-<description>با محاسبات اصول اولیه، مونولایه SiP2 به عنوان آند امیدبخش برای باتری‌های یون لیتیوم ارزیابی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 SiP2 monolayer · Li-ion battery · anode · first-principles · DFT</description>
-<category>SiP2 monolayer</category>
-<category>Li-ion battery</category>
-<category>anode</category>
-<category>first-principles</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Effects of testing substrate stability and practical binder formulation on the electrochemical evaluation of porous carbon electrodes in NH4Cl electrolyte</title>
-<link>https://doi.org/10.1016/j.est.2026.125567</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125567</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:29 GMT</pubDate>
-<description>اثر پایداری بستر و فرمولاسیون چسب بر ارزیابی الکتروشیمیایی الکترودهای کربن متخلخل در الکترولیت NH4Cl بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 porous carbon electrodes · NH4Cl electrolyte · binder formulation · substrate stability · electrochemical evaluation</description>
-<category>porous carbon electrodes</category>
-<category>NH4Cl electrolyte</category>
-<category>binder formulation</category>
-<category>substrate stability</category>
-<category>electrochemical evaluation</category>
-</item>
-<item>
-<title>Cation-Effect-Driven Modulation of Interfacial Solvation Structures Enables Fast-Charging Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c21052</link>
-<guid isPermaLink="false">10.1021/jacs.6c21052</guid>
-<pubDate>Sat, 07 Nov 2026 09:03:52 GMT</pubDate>
-<description>اثر کاتیونی با بازآرایی میدان الکتریکی بین‌سطحی و ساخت ISS غنی از آنیون، شارژ سریع باتری لیتیوم-یون گرافیتی را ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a cation effect—borrowed from electrocatalysis—to reshape the interfacial electric field and build anion-rich solvation structures in commercial electrolytes, countering negative polarization. This redirects SEI formation toward anion-derived pathways, enabling fast Li+ desolvation. Significance: graphite pouch cells reach ~88.2% charge in 6 min and stable 2000-cycle cycling, offering a practical fast-charging route.&lt;br&gt;🏷 fast charging · interfacial solvation · cation effect · solid electrolyte interphase · lithium-ion battery</description>
-<category>fast charging</category>
-<category>interfacial solvation</category>
-<category>cation effect</category>
-<category>solid electrolyte interphase</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Conjugation‐Activity Regulated Molecular Templates Enable Microcrystallite‐Refined Hard Carbon for High‐Performance Sodium Storage</title>
-<link>https://doi.org/10.1002/anie.2802612</link>
-<guid isPermaLink="false">10.1002/anie.2802612</guid>
-<pubDate>Sat, 07 Nov 2026 09:03:01 GMT</pubDate>
-<description>با راهبرد قالب مولکولی تنظیم‌شده با فعالیت کونژوگاسیون، ساختار میکروکریستالیت کربن سخت مشتق از زغال برای ذخیره‌سازی سدیم بهبود یافت و ظرفیت 250.3 mAh g−1 پس از 5600 چرخه حفظ شد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a conjugation-activity regulated molecular template strategy using aromatic N-heterocycles (e.g., N-phenylcarbazole) to program microcrystallite evolution in coal-derived hard carbon. Significance: it enables refined, dispersed turbostratic microcrystallites with enlarged interlayer spacing and regulated defects, delivering 250.3 mAh g⁻¹ after 5600 cycles (83.6% retention) and establishing an activity-window design principle for sodium storage carbons.&lt;br&gt;🏷 hard carbon · sodium storage · molecular template · microcrystallite · coal-derived carbon</description>
-<category>hard carbon</category>
-<category>sodium storage</category>
-<category>molecular template</category>
-<category>microcrystallite</category>
-<category>coal-derived carbon</category>
-</item>
-<item>
-<title>A General Deep Eutectic Solvent‐Mediated Scalable Preparation of Halide Solid‐State Electrolytes for All‐Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/anie.6271513</link>
-<guid isPermaLink="false">10.1002/anie.6271513</guid>
-<pubDate>Sat, 07 Nov 2026 09:02:56 GMT</pubDate>
-<description>روش مرطوب مبتنی بر حلال اوتکتیک عمیق، تهیه مقیاس‌پذیر Li3YCl6 و سایر هالید الکترولیت‌های جامد با رسانایی بالای 0.30 mS cm−1 و باتری تمام‌جامد با بازده اولیه 98.6% را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a universal deep eutectic solvent-mediated wet-chemical method for scalable, low-cost halide solid-state electrolyte preparation, with revealed competitive coordination and hydrogen-bond mechanisms. It enables regeneration of humidity-degraded electrolytes and delivers high-performance all-solid-state batteries (98.6% Coulombic efficiency; 195.9 mAh g⁻¹), establishing a sustainable manufacturing paradigm.&lt;br&gt;🏷 halide solid electrolyte · deep eutectic solvent · all-solid-state battery · Li3YCl6 · scalable synthesis</description>
-<category>halide solid electrolyte</category>
-<category>deep eutectic solvent</category>
-<category>all-solid-state battery</category>
-<category>Li3YCl6</category>
-<category>scalable synthesis</category>
-</item>
-<item>
-<title>Rational Design of Nucleophilic Organic Additives for Stable Four‐Electron Aqueous Zinc–Iodine Batteries: A Triple‐Parameter Screening Criterion</title>
-<link>https://doi.org/10.1002/anie.8448116</link>
-<guid isPermaLink="false">10.1002/anie.8448116</guid>
-<pubDate>Sat, 07 Nov 2026 09:02:38 GMT</pubDate>
-<description>با معیار سه‌گانه نوکلئوفیلیسیتی-pKa-اثر فضایی، افزودنی آلی acetamide برای تثبیت I+ و اصلاح پوسته حل‌پوشی Zn2+ طراحی شد و باتری Zn-I2 ظرفیت 418 mAh g−1 و عمر 2500 چرخه یافت.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a triple-parameter (nucleophilicity–pKa–steric) screening framework for halogen-free organic additives, identifying acetamide as a bifunctional stabilizer that locks I⁺ and reconstructs Zn²⁺ solvation. Significance: enables 418 mAh g⁻¹ and 2500-cycle stability in four-electron Zn–I₂ batteries, overcoming the cathode–anode trade-off and providing a validated design guideline for multivalent aqueous energy storage.&lt;br&gt;🏷 zinc-iodine battery · four-electron redox · organic additive · acetamide · electrolyte engineering</description>
-<category>zinc-iodine battery</category>
-<category>four-electron redox</category>
-<category>organic additive</category>
-<category>acetamide</category>
-<category>electrolyte engineering</category>
-</item>
-<item>
-<title>Weak Solvation Engineering of Reduction‐Stable Electrolytes for Durable Continuous Lithium‐Mediated Ammonia Electrosynthesis</title>
-<link>https://doi.org/10.1002/anie.1880547</link>
-<guid isPermaLink="false">10.1002/anie.1880547</guid>
-<pubDate>Sat, 07 Nov 2026 09:02:14 GMT</pubDate>
-<description>مهندسی حلال‌پوشی ضعیف، پایداری کاهشی الکترولیت را بهبود داده و با SEI غنی از LiF، سنتز الکتروشیمیایی آمونیاک پایدار با بازده فارادی ۶۹.۵٪ را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in uncovering solvent reductive decomposition mechanisms in ion–solvent complex electrolytes and proposing weak-solvent modulation to boost reduction stability. This forms an anion-enriched sheath and LiF-rich SEI, suppressing decomposition and enabling fast Li⁺ transport. Significance: 300 h stable Li-NRR operation with 69.5% NH₃ Faradaic efficiency and 23.2% energy efficiency, advancing durable ambient ammonia electrosynthesis.&lt;br&gt;🏷 lithium-mediated NRR · weak solvation · solid electrolyte interphase · ammonia synthesis · electrolyte design</description>
-<category>lithium-mediated NRR</category>
-<category>weak solvation</category>
-<category>solid electrolyte interphase</category>
-<category>ammonia synthesis</category>
-<category>electrolyte design</category>
-</item>
-<item>
-<title>Synergistic Dual-Interfacial Regulation via H2O-Poor EDL and Inorganic-Rich SEI for Long-Life Zinc Anodes with High Depth Discharge</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112593</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112593</guid>
-<pubDate>Sat, 07 Nov 2026 09:01:44 GMT</pubDate>
-<description>با تنظیم دوگانه‌ی بین‌سطحی از طریق EDL کم‌آب و SEI غنی از مواد معدنی، آندهای روی با عمر طولانی و تخلیه عمیق ارائه می‌شود.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 zinc anode · solid electrolyte interphase · electric double layer · depth discharge · interfacial regulation</description>
-<category>zinc anode</category>
-<category>solid electrolyte interphase</category>
-<category>electric double layer</category>
-<category>depth discharge</category>
-<category>interfacial regulation</category>
-</item>
-<item>
-<title>A Zwitterionic Dye Cathode Enables Ultra-Stable and Scalable Aqueous Organic Redox Flow Batteries</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112596</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112596</guid>
-<pubDate>Sat, 07 Nov 2026 09:01:39 GMT</pubDate>
-<description>یک کاتد رنگدانه زویتریونی برای باتری‌های جریان ردوکس آبی آلی معرفی می‌کند که پایداری فوق‌العاده و قابلیت مقیاس‌پذیری را فراهم می‌آورد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 organic redox flow battery · zwitterionic dye · aqueous electrolyte · cathode · stability</description>
-<category>organic redox flow battery</category>
-<category>zwitterionic dye</category>
-<category>aqueous electrolyte</category>
-<category>cathode</category>
-<category>stability</category>
-</item>
-<item>
-<title>Resolving the graphite compatibility boundary with an electrolyte-native anion 19F NMR descriptor</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105643</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105643</guid>
-<pubDate>Sat, 07 Nov 2026 07:01:03 GMT</pubDate>
-<description>این مقاله با معرفی یک توصیفگر 19F NMR بومی الکترولیت برای آنیون‌ها، مرز سازگاری گرافیت با الکترولیت‌ها را در باتری‌های لیتیوم-یونی روشن می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 graphite anode · electrolyte design · 19F NMR · anion descriptor · Li-ion battery</description>
-<category>graphite anode</category>
-<category>electrolyte design</category>
-<category>19F NMR</category>
-<category>anion descriptor</category>
-<category>Li-ion battery</category>
-</item>
-<item>
-<title>Meta-learning framework with sample discrimination and label optimization for lithium-ion battery lifetime prediction under label noise</title>
-<link>https://doi.org/10.1016/j.est.2026.125426</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125426</guid>
-<pubDate>Sat, 07 Nov 2026 01:01:55 GMT</pubDate>
-<description>این مقاله یک چارچوب meta-learning با تشخیص نمونه و بهینه‌سازی برچسب برای پیش‌بینی عمر باتری لیتیوم-یونی تحت نویز برچسب ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · lifetime prediction · meta-learning · label noise · sample discrimination</description>
-<category>lithium-ion battery</category>
-<category>lifetime prediction</category>
-<category>meta-learning</category>
-<category>label noise</category>
-<category>sample discrimination</category>
-</item>
-<item>
-<title>Sandwich-structured thermoelectric aerogel sensor with integrated early warning and thermal insulation for suppressing thermal runaway propagation of lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125491</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125491</guid>
-<pubDate>Sat, 07 Nov 2026 01:01:51 GMT</pubDate>
-<description>این مقاله حسگر آئروژل ترموالکتریک ساختار ساندویچی با هشدار زودهنگام و عایق حرارتی یکپارچه را برای مهار انتشار فرار حرارتی باتری لیتیوم-یونی ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermoelectric aerogel · thermal runaway · early warning sensor · thermal insulation · lithium-ion battery</description>
-<category>thermoelectric aerogel</category>
-<category>thermal runaway</category>
-<category>early warning sensor</category>
-<category>thermal insulation</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Deep learning-enhanced early detection of internal short circuits in lithium-ion batteries via low-frequency electrochemical impedance spectroscopy</title>
-<link>https://doi.org/10.1016/j.est.2026.125552</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125552</guid>
-<pubDate>Sat, 07 Nov 2026 01:01:46 GMT</pubDate>
-<description>این مقاله با یادگیری عمیق و طیف‌سنجی امپدانس الکتروشیمیایی فرکانس پایین، تشخیص زودهنگام اتصال کوتاه داخلی باتری لیتیوم-یونی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 internal short circuit · lithium-ion battery · deep learning · electrochemical impedance spectroscopy · early detection</description>
-<category>internal short circuit</category>
-<category>lithium-ion battery</category>
-<category>deep learning</category>
-<category>electrochemical impedance spectroscopy</category>
-<category>early detection</category>
-</item>
-<item>
-<title>A category of solid solution-type phosphorus alloys (Fe,M)P (M = Ni,Co,Cu) with enhanced electrical conductivity and Li-ion storage performance</title>
-<link>https://doi.org/10.1016/j.est.2026.125505</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125505</guid>
-<pubDate>Sat, 07 Nov 2026 01:01:42 GMT</pubDate>
-<description>این مقاله خانواده‌ای از آلیاژهای فسفری محلول جامد (Fe,M)P را با رسانایی الکتریکی و عملکرد ذخیره‌سازی Li-ion بهبودیافته معرفی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phosphorus alloys · solid solution · Li-ion storage · electrical conductivity · anode materials</description>
-<category>phosphorus alloys</category>
-<category>solid solution</category>
-<category>Li-ion storage</category>
-<category>electrical conductivity</category>
-<category>anode materials</category>
-</item>
-<item>
-<title>Auditable thermal descriptors for machine-learning-assisted supercapacitor electrode design: A critical review and framework for sustainable energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125367</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125367</guid>
-<pubDate>Sat, 07 Nov 2026 01:01:38 GMT</pubDate>
-<description>این مرور انتقادی، توصیف‌گرهای حرارتی قابل‌حسابرسی را برای طراحی الکترود ابرخازن به‌کمک یادگیری ماشین و ذخیره انرژی پایدار ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 supercapacitor electrode · machine learning · thermal descriptors · sustainable energy storage · electrode design</description>
-<category>supercapacitor electrode</category>
-<category>machine learning</category>
-<category>thermal descriptors</category>
-<category>sustainable energy storage</category>
-<category>electrode design</category>
 </item>
 </channel>
 </rss>
