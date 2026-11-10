@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 00:01:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 01:01:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stabilizing Cerium Dioxide Composite Electrodes with Nitrogen-Doped Carbon Nanofibers for Rapid TiO2+/Ti3+ redox kinetics in Ti-Ce redox flow batteries</title>
+<link>https://doi.org/10.1039/d6ta07536c</link>
+<guid isPermaLink="false">10.1039/d6ta07536c</guid>
+<pubDate>Tue, 10 Nov 2026 01:01:19 GMT</pubDate>
+<description>الکترودهای کامپوزیتی CeO2 با نانوالیاف کربنی دوپ‌شده با نیتروژن پایدارسازی می‌شوند تا سینتیک سریع ردوکس TiO2+/Ti3+ در باتری‌های جریان ردوکس Ti-Ce بهبود یابد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating nitrogen-doped carbon nanofibers with cerium dioxide composite electrodes to accelerate TiO2+/Ti3+ redox kinetics in Ti-Ce redox flow batteries. This addresses sluggish electrode catalysis, a key barrier to RFB performance. The significance is enabling faster kinetics and improved electrode stability, supporting scalable, cost-effective large-scale energy storage.&lt;br&gt;🏷 redox flow battery · Ti-Ce electrolyte · CeO2 electrode · N-doped carbon nanofiber · redox kinetics</description>
+<category>redox flow battery</category>
+<category>Ti-Ce electrolyte</category>
+<category>CeO2 electrode</category>
+<category>N-doped carbon nanofiber</category>
+<category>redox kinetics</category>
+</item>
+<item>
+<title>Scalable and low-cost SiO2-based composite coating for passive radiative cooling</title>
+<link>https://doi.org/10.1039/d6ta07720j</link>
+<guid isPermaLink="false">10.1039/d6ta07720j</guid>
+<pubDate>Tue, 10 Nov 2026 01:01:14 GMT</pubDate>
+<description>پوشش کامپوزیتی SiO2 با هزینه کم و مقیاس‌پذیر برای خنک‌سازی تابشی غیرفعال روزانه ارائه می‌شود که جایگزینی بدون انرژی برای فناوری‌های سرمایش ساختمان است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 radiative cooling · SiO2 composite coating · passive cooling · building energy · scalable coating</description>
+<category>radiative cooling</category>
+<category>SiO2 composite coating</category>
+<category>passive cooling</category>
+<category>building energy</category>
+<category>scalable coating</category>
+</item>
 <item>
 <title>Polydopamine-Functionalized Carbon Fiber Reinforced Shear Thickening Gel/NPR Sandwich Composites for Impact Resistance</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114386</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polyph
 <category>iodine host</category>
 <category>mixed-phase interface</category>
 <category>conversion kinetics</category>
-</item>
-<item>
-<title>Nucleation, orientation, and optical properties of ultrathin iron oxide grown by atomic layer deposition</title>
-<link>https://doi.org/10.1039/d6ta07010h</link>
-<guid isPermaLink="false">10.1039/d6ta07010h</guid>
-<pubDate>Mon, 09 Nov 2026 15:01:48 GMT</pubDate>
-<description>این کار رشد هم‌جهت هماتیت نازک روی sapphire را با ALD در دمای پایین ۲۰۰ درجه نشان می‌دهد و خواص نوری آن را بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hematite · atomic layer deposition · sapphire · epitaxial growth · refractive index</description>
-<category>hematite</category>
-<category>atomic layer deposition</category>
-<category>sapphire</category>
-<category>epitaxial growth</category>
-<category>refractive index</category>
-</item>
-<item>
-<title>Research progress on potassium-based solid-state batteries</title>
-<link>https://doi.org/10.1039/d6ta09012e</link>
-<guid isPermaLink="false">10.1039/d6ta09012e</guid>
-<pubDate>Mon, 09 Nov 2026 15:01:44 GMT</pubDate>
-<description>این مقاله پیشرفت‌های پژوهشی باتری‌های حالت‌جامد پتاسیمی را به‌عنوان فناوری امیدبخش برای ذخیره‌سازی انرژی در مقیاس بزرگ مرور می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 PSSBs are novel for combining potassium&amp;#x27;s abundance and low cost with solid-state safety and high energy density, targeting scalable grid storage. Their significance lies in addressing lithium scarcity and liquid-electrolyte hazards, advancing sustainable, safe, high-performance alternatives for large-scale energy storage.&lt;br&gt;🏷 potassium solid-state battery · solid electrolyte · K-ion · large-scale storage · interface</description>
-<category>potassium solid-state battery</category>
-<category>solid electrolyte</category>
-<category>K-ion</category>
-<category>large-scale storage</category>
-<category>interface</category>
 </item>
 </channel>
 </rss>

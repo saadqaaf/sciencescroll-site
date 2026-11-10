@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 00:01:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 01:01:26 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Stabilizing Cerium Dioxide Composite Electrodes with Nitrogen-Doped Carbon Nanofibers for Rapid TiO2+/Ti3+ redox kinetics in Ti-Ce redox flow batteries</title>
+<link>https://doi.org/10.1039/d6ta07536c</link>
+<guid isPermaLink="false">10.1039/d6ta07536c</guid>
+<pubDate>Tue, 10 Nov 2026 01:01:19 GMT</pubDate>
+<description>الکترودهای کامپوزیتی CeO2 با نانوالیاف کربنی دوپ‌شده با نیتروژن پایدارسازی می‌شوند تا سینتیک سریع ردوکس TiO2+/Ti3+ در باتری‌های جریان ردوکس Ti-Ce بهبود یابد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating nitrogen-doped carbon nanofibers with cerium dioxide composite electrodes to accelerate TiO2+/Ti3+ redox kinetics in Ti-Ce redox flow batteries. This addresses sluggish electrode catalysis, a key barrier to RFB performance. The significance is enabling faster kinetics and improved electrode stability, supporting scalable, cost-effective large-scale energy storage.&lt;br&gt;🏷 redox flow battery · Ti-Ce electrolyte · CeO2 electrode · N-doped carbon nanofiber · redox kinetics</description>
+<category>redox flow battery</category>
+<category>Ti-Ce electrolyte</category>
+<category>CeO2 electrode</category>
+<category>N-doped carbon nanofiber</category>
+<category>redox kinetics</category>
+</item>
 <item>
 <title>Ni single-atom-induced interfacial polarization promotes electric double-layer energy storage</title>
 <link>https://doi.org/10.1016/j.est.2026.125565</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>aqueous zinc-ion battery</category>
 <category>dendrite suppression</category>
 <category>interface engineering</category>
-</item>
-<item>
-<title>Coupled Direct-Contact Presodiation and Interphase Stabilization of Hard Carbon Anodes Using a SnCl2 Electrolyte Additive</title>
-<link>https://doi.org/10.1039/d6ta05436f</link>
-<guid isPermaLink="false">10.1039/d6ta05436f</guid>
-<pubDate>Fri, 06 Nov 2026 17:01:56 GMT</pubDate>
-<description>افزودنی الکترولیت SnCl2 با پیش‌سدیم‌دار کردن مستقیم و تثبیت SEI، بازده کولمبی اولیه آند کربن سخت در باتری‌های سدیم-یون را افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a SnCl2 electrolyte additive to achieve coupled direct-contact presodiation and interphase stabilization of hard carbon anodes. This dual-function approach compensates for irreversible sodium loss during SEI formation, boosting initial coulombic efficiency while forming a stable interphase. It offers a simple, scalable strategy to overcome the low-ICE bottleneck limiting hard carbon anodes in sodium-ion batteries.&lt;br&gt;🏷 hard carbon · presodiation · SnCl2 additive · SEI stabilization · sodium-ion battery</description>
-<category>hard carbon</category>
-<category>presodiation</category>
-<category>SnCl2 additive</category>
-<category>SEI stabilization</category>
-<category>sodium-ion battery</category>
 </item>
 </channel>
 </rss>
