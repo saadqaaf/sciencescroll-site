@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 11:02:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 12:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In situ profiling of plasma cell clonality with image-based single-cell transcriptomics</title>
+<link>https://doi.org/10.1038/s41592-026-03296-3</link>
+<guid isPermaLink="false">10.1038/s41592-026-03296-3</guid>
+<pubDate>Tue, 10 Nov 2026 12:01:34 GMT</pubDate>
+<description>روش BCR-MERFISH با ترکیب پروفایل‌گیری ترانسکریپتوم و شناسایی V gene، کلونالیتی پلاسما سل‌ها را در بافت‌های سالم و روده موش مشخص می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 single-cell transcriptomics · plasma cell clonality · BCR-MERFISH · V(D)J recombination · gut microbiota</description>
+<category>single-cell transcriptomics</category>
+<category>plasma cell clonality</category>
+<category>BCR-MERFISH</category>
+<category>V(D)J recombination</category>
+<category>gut microbiota</category>
+</item>
+<item>
+<title>Soft polymer coatings form hard directional bonding</title>
+<link>https://doi.org/10.1038/s41563-026-02797-y</link>
+<guid isPermaLink="false">10.1038/s41563-026-02797-y</guid>
+<pubDate>Tue, 10 Nov 2026 12:01:30 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که پوشش‌های پلیمری نرم می‌توانند پیوندهای جهت‌دار و سخت تشکیل دهند.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 polymer coating · directional bonding · soft polymer · hard bonding · surface interaction</description>
+<category>polymer coating</category>
+<category>directional bonding</category>
+<category>soft polymer</category>
+<category>hard bonding</category>
+<category>surface interaction</category>
+</item>
 <item>
 <title>Benchmarking mechanistic credibility in electrocatalysis through data-driven evaluation</title>
 <link>https://doi.org/10.1038/s41929-026-01631-7</link>
@@ -1182,30 +1206,6 @@
 <category>split intein</category>
 <category>mechanosensing promoter</category>
 <category>synthetic biology</category>
-</item>
-<item>
-<title>Automated Conformational Clustering Reveals Desolvation Mechanisms in a Wide‐Temperature‐Range Sodium‐Ion Electrolytes</title>
-<link>https://doi.org/10.1002/advs.78718</link>
-<guid isPermaLink="false">10.1002/advs.78718</guid>
-<pubDate>Tue, 10 Nov 2026 08:04:45 GMT</pubDate>
-<description>با ترکیب یادگیری ماشین و DFT-MD، تحول سالواسیون و مکانیزم دسولواتاسیون الکترولیت کربناته سدیم-یون در بازه دمایی وسیع بررسی و گذار از SSIP به CIP کمّی‌سازی شد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an automated conformational clustering framework combining unsupervised machine learning with multiscale DFT-MD to resolve temperature-dependent solvation, overcoming spherical-symmetry limitations of conventional RDF analysis. It quantifies SSIP-to-CIP shifts and links them to reduced desolvation energy and enhanced Na+ mobility, providing molecular design principles for wide-temperature sodium-ion battery electrolytes.&lt;br&gt;🏷 sodium-ion battery · desolvation mechanism · conformational clustering · carbonate electrolyte · machine learning MD</description>
-<category>sodium-ion battery</category>
-<category>desolvation mechanism</category>
-<category>conformational clustering</category>
-<category>carbonate electrolyte</category>
-<category>machine learning MD</category>
-</item>
-<item>
-<title>Targeting a Calcium‐Associated Mitochondrial Vulnerability in TET2‐Deficient Myeloid Cells</title>
-<link>https://doi.org/10.1002/advs.78748</link>
-<guid isPermaLink="false">10.1002/advs.78748</guid>
-<pubDate>Tue, 10 Nov 2026 08:04:39 GMT</pubDate>
-<description>ماکروفاژهای دچار کمبود TET2 آسیب‌پذیری میتوکندریایی وابسته به کلسیم دارند و Lanatoside C به‌طور ترجیحی آپوپتوز آن‌ها را القا کرده و بازسازی التهابی قلبی را در مدل‌ها کاهش می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 TET2 deficiency · clonal hematopoiesis · Lanatoside C · mitochondrial calcium · macrophages</description>
-<category>TET2 deficiency</category>
-<category>clonal hematopoiesis</category>
-<category>Lanatoside C</category>
-<category>mitochondrial calcium</category>
-<category>macrophages</category>
 </item>
 </channel>
 </rss>
