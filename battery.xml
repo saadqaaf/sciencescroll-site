@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 20:01:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 21:03:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond boundary lines: predicting P2/O3 phase fractions in layered Na-ion cathodes</title>
+<link>https://doi.org/10.1039/d6ta05776d</link>
+<guid isPermaLink="false">10.1039/d6ta05776d</guid>
+<pubDate>Tue, 10 Nov 2026 21:02:05 GMT</pubDate>
+<description>چارچوب یادگیری ماشین با استفاده از توصیف‌گرهای ترکیب و سنتز، کسر فازهای P2/O3 در کاتدهای لایه‌ای Na-ion را پیش‌بینی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using machine learning with composition and synthesis descriptors to quantitatively predict P2/O3 phase fractions in Na-ion layered cathodes, moving beyond qualitative phase control. Its significance is providing actionable design guidance for engineering biphasic P2/O3 materials with optimized performance.&lt;br&gt;🏷 Na-ion cathode · P2/O3 biphasic · machine learning · phase fraction prediction · layered oxide</description>
+<category>Na-ion cathode</category>
+<category>P2/O3 biphasic</category>
+<category>machine learning</category>
+<category>phase fraction prediction</category>
+<category>layered oxide</category>
+</item>
+<item>
+<title>Interfacial Phosphide-Phosphate Engineering in NiCoP-POₓ/Carbon Heterostructures for Efficient Piezoelectric-Driven Self-Charging Asymmetric Supercapacitors</title>
+<link>https://doi.org/10.1039/d6ta05900g</link>
+<guid isPermaLink="false">10.1039/d6ta05900g</guid>
+<pubDate>Tue, 10 Nov 2026 21:01:50 GMT</pubDate>
+<description>مهندسی بین‌سطحی فسفید-فسفات در نانوکامپوزیت NiCoP-POx/C برای ابرخازن نامتقارن خودشارژ پیزوالکتریک کارآمد به کار می‌رود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interfacial phosphide-phosphate (NiCoP-POₓ/carbon) heterostructure engineering, which enhances charge transfer and active sites for efficient piezoelectric-driven self-charging asymmetric supercapacitors. Its significance is integrating energy harvesting and storage into one wearable-compatible device, offering a sustainable, compact power solution for portable electronics.&lt;br&gt;🏷 self-charging supercapacitor · NiCoP-phosphate heterostructure · piezoelectric separator · asymmetric supercapacitor · interfacial engineering</description>
+<category>self-charging supercapacitor</category>
+<category>NiCoP-phosphate heterostructure</category>
+<category>piezoelectric separator</category>
+<category>asymmetric supercapacitor</category>
+<category>interfacial engineering</category>
+</item>
+<item>
+<title>Tin Stabilised Lithium-Rich Cobalt-Free Cathodes for High Voltage Lithium-ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta05845k</link>
+<guid isPermaLink="false">10.1039/d6ta05845k</guid>
+<pubDate>Tue, 10 Nov 2026 21:01:41 GMT</pubDate>
+<description>کاتدهای غنی از لیتیوم و بدون کبالت با تثبیت قلع برای باتری‌های لیتیوم-یونی ولتاژ بالا توسعه داده می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in tin stabilisation of lithium-rich cobalt-free cathodes, addressing intrinsic instabilities to enable high-voltage operation. This is significant because it offers a sustainable, cobalt-free high-capacity alternative for next-generation lithium-ion batteries, potentially improving cycling stability and energy density while reducing reliance on critical raw materials.&lt;br&gt;🏷 lithium-rich cathode · cobalt-free · tin doping · high voltage · Li-ion battery</description>
+<category>lithium-rich cathode</category>
+<category>cobalt-free</category>
+<category>tin doping</category>
+<category>high voltage</category>
+<category>Li-ion battery</category>
+</item>
+<item>
+<title>Structural Characterization of Low-Temperature Synthesized Cathodes, LT-LiMn x Ni 1-x O 2 (0.5 ≤x ≤ 0.75), for Li-ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta07552e</link>
+<guid isPermaLink="false">10.1039/d6ta07552e</guid>
+<pubDate>Tue, 10 Nov 2026 21:01:32 GMT</pubDate>
+<description>ساختار کاتدهای کم‌دما سنتزشده LT-LiMnxNi1-xO2 برای باتری‌های لیتیوم-یونی بدون کبالت بررسی و شناسایی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in low-temperature synthesis of cobalt-free LT-LiMnxNi1-xO2 (0.5≤x≤0.75) cathodes with composite structural design, moving beyond conventional layered oxides. Significance: offers a pathway to overcome limitations of standard layered cathodes and supports development of sustainable, cobalt-free Li-ion batteries through new structural designs.&lt;br&gt;🏷 cobalt-free cathode · LMNO · layered oxide · Li-ion battery · structural characterization</description>
+<category>cobalt-free cathode</category>
+<category>LMNO</category>
+<category>layered oxide</category>
+<category>Li-ion battery</category>
+<category>structural characterization</category>
+</item>
 <item>
 <title>Steam temperature control strategies based on metal thermal storage for solar tower power plants considering peak-shaving dynamic characteristics</title>
 <link>https://doi.org/10.1016/j.est.2026.125441</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in
 <category>supercapacitor</category>
 <category>porous carbon</category>
 <category>activation temperature</category>
-</item>
-<item>
-<title>Support-vector-machine-based diagnosis and graded early warning of slight overcharge faults in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125436</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125436</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:00 GMT</pubDate>
-<description>روشی مبتنی بر ماشین بردار پشتیبان برای تشخیص و هشدار زودهنگام درجه‌بندی‌شده خطاهای اضافه‌شارژ خفیف در باتری‌های لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 overcharge fault diagnosis · support vector machine · early warning · lithium-ion battery · fault detection</description>
-<category>overcharge fault diagnosis</category>
-<category>support vector machine</category>
-<category>early warning</category>
-<category>lithium-ion battery</category>
-<category>fault detection</category>
-</item>
-<item>
-<title>Elastic polydopamine coating modified silicon kerf waste enables ultra-stable anodes for high-energy lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125530</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125530</guid>
-<pubDate>Mon, 09 Nov 2026 13:01:53 GMT</pubDate>
-<description>پوشش الاستیک پلی‌دوپامین روی ضایعات برش سیلیکون، آندهای فوق‌پایدار برای باتری‌های لیتیوم-یون با انرژی بالا فراهم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 silicon kerf waste · polydopamine coating · silicon anode · lithium-ion battery · elastic coating</description>
-<category>silicon kerf waste</category>
-<category>polydopamine coating</category>
-<category>silicon anode</category>
-<category>lithium-ion battery</category>
-<category>elastic coating</category>
-</item>
-<item>
-<title>Anti-crease-inspired multicomponent crosslinked binder for mechanically robust gas-phase-derived silicon-carbon anodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125577</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125577</guid>
-<pubDate>Mon, 09 Nov 2026 13:01:48 GMT</pubDate>
-<description>چسب چندجزئی شبکه‌ای الهام‌گرفته از ضدچین‌خوردگی برای آندهای سیلیکون-کربن فاز گازی، پایداری مکانیکی و عملکرد الکتروشیمیایی باتری لیتیوم-یون را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 silicon-carbon anode · crosslinked binder · anti-crease structure · gas-phase synthesis · lithium-ion battery</description>
-<category>silicon-carbon anode</category>
-<category>crosslinked binder</category>
-<category>anti-crease structure</category>
-<category>gas-phase synthesis</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Dual Electric Field-Driven Ion Transport in 3D Spiny Heteronanofiber-Based Composite Polymer Electrolyte</title>
-<link>https://doi.org/10.1007/s42765-026-00797-w</link>
-<guid isPermaLink="false">10.1007/s42765-026-00797-w</guid>
-<pubDate>Mon, 09 Nov 2026 09:01:47 GMT</pubDate>
-<description>الکترولیت پلیمری کامپوزیتی بر پایه نانوالیاف خاردار سه‌بعدی با میدان الکتریکی دوگانه طراحی شد که انتقال یون را تقویت می‌کند.&lt;br&gt;Advanced Fiber Materials | 🔬 Research Article&lt;br&gt;🏷 composite polymer electrolyte · dual electric field · ion transport · heteronanofiber · 3D spiny structure</description>
-<category>composite polymer electrolyte</category>
-<category>dual electric field</category>
-<category>ion transport</category>
-<category>heteronanofiber</category>
-<category>3D spiny structure</category>
 </item>
 </channel>
 </rss>
