@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 10:01:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 11:02:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bimetallic (Cu,Zn)ZIF-8/Ti 3 C 2 T x Heterointerfaces for Synergistic Polysulfide Adsorption and Catalytic Conversion in Lithium-Sulfur Batteries</title>
+<link>https://doi.org/10.1039/d6ta05754c</link>
+<guid isPermaLink="false">10.1039/d6ta05754c</guid>
+<pubDate>Tue, 10 Nov 2026 11:01:51 GMT</pubDate>
+<description>هترو‌رابط‌های (Cu,Zn)ZIF-8/Ti3C2Tx با جذب هم‌افزا و تبدیل کاتالیستی پلی‌سولفیدها، عملکرد باتری‌های لیتیوم-گوگرد را بهبود می‌بخشند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in bimetallic (Cu,Zn)ZIF-8/Ti3C2Tx heterointerfaces that synergistically combine polysulfide adsorption with catalytic conversion. This dual function addresses shuttling and sluggish redox kinetics, advancing Li-S battery performance beyond single-component approaches.&lt;br&gt;🏷 lithium-sulfur battery · MXene · ZIF-8 · polysulfide adsorption · catalytic conversion</description>
+<category>lithium-sulfur battery</category>
+<category>MXene</category>
+<category>ZIF-8</category>
+<category>polysulfide adsorption</category>
+<category>catalytic conversion</category>
+</item>
+<item>
+<title>Local transition-metal coordination and lithium site occupancy energetics govern structural evolution in layered NMC cathodes</title>
+<link>https://doi.org/10.1039/d6ta07290a</link>
+<guid isPermaLink="false">10.1039/d6ta07290a</guid>
+<pubDate>Tue, 10 Nov 2026 11:01:42 GMT</pubDate>
+<description>هم‌آرایی موضعی فلزات واسطه و انرژی اشغال جایگاه لیتیوم، تکامل ساختاری کاتدهای لایه‌ای NMC غنی از نیکل را در باتری‌های لیتیوم-یون کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in linking local transition-metal coordination and lithium site-occupancy energetics to structural evolution in Ni-rich NMC cathodes, moving beyond bulk Ni content as the sole descriptor. This mechanistic insight identifies local coordination environments as key levers governing stability, offering a design principle for tuning cation mixing and phase transitions to improve cycling stability of high-energy-density layered oxide cathodes.&lt;br&gt;🏷 NMC cathode · layered oxide · Li site occupancy · transition-metal coordination · structural evolution</description>
+<category>NMC cathode</category>
+<category>layered oxide</category>
+<category>Li site occupancy</category>
+<category>transition-metal coordination</category>
+<category>structural evolution</category>
+</item>
 <item>
 <title>Contrastive learning for battery capacity estimation through electrochemical impedance spectroscopy</title>
 <link>https://doi.org/10.1016/j.est.2026.125409</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>bifunctional cathode</category>
 <category>carrier dynamics</category>
 <category>Li+ storage</category>
-</item>
-<item>
-<title>Cleaner recycling and selective separation of lithium and manganese from waste NCM cathode material via pomelo peel pyrolytic reduction</title>
-<link>https://doi.org/10.1016/j.est.2026.125475</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125475</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:47 GMT</pubDate>
-<description>با کاهش پیرولیتی پوست گریپ‌فروت، بازیافت پاک‌تر و جداسازی گزینشی لیتیوم و منگنز از کاتد مستعمل NCM انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 NCM cathode · lithium recovery · manganese separation · pomelo peel · pyrolytic reduction</description>
-<category>NCM cathode</category>
-<category>lithium recovery</category>
-<category>manganese separation</category>
-<category>pomelo peel</category>
-<category>pyrolytic reduction</category>
-</item>
-<item>
-<title>Comparison of energy storage systems framework and the potential of energy sharing in enhancing rural power system</title>
-<link>https://doi.org/10.1016/j.est.2026.125437</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125437</guid>
-<pubDate>Sat, 07 Nov 2026 11:01:43 GMT</pubDate>
-<description>چارچوب سیستم‌های ذخیره انرژی مقایسه و پتانسیل اشتراک انرژی برای تقویت سیستم برق روستایی بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy storage systems · energy sharing · rural power system · framework comparison · sustainability</description>
-<category>energy storage systems</category>
-<category>energy sharing</category>
-<category>rural power system</category>
-<category>framework comparison</category>
-<category>sustainability</category>
 </item>
 </channel>
 </rss>
