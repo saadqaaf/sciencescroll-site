@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 04:01:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 05:01:56 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unraveling Ion Transport Limitation in Thick Electrodes for Guiding Pore-Gradient Structure Design in Electrochemical Capacitors</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105647</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105647</guid>
+<pubDate>Tue, 10 Nov 2026 05:01:54 GMT</pubDate>
+<description>این مقاله محدودیت انتقال یون در الکترودهای ضخیم را روشن می‌کند و طراحی ساختار گرادیان تخلخل را برای ابرخازن‌های الکتروشیمیایی هدایت می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 thick electrodes · ion transport · pore-gradient structure · electrochemical capacitors · electrode design</description>
+<category>thick electrodes</category>
+<category>ion transport</category>
+<category>pore-gradient structure</category>
+<category>electrochemical capacitors</category>
+<category>electrode design</category>
+</item>
 <item>
 <title>Coordination chemistry and structure-performance relationships in Ni3S2-based materials for oxygen evolution and supercapacitive energy storage</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218740</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>machine learning</category>
 <category>protocol-aware evaluation</category>
 <category>battery cycling</category>
-</item>
-<item>
-<title>A high voltage aqueous manganese–cadmium flow-assisted battery with a simple acidic electrolyte</title>
-<link>https://doi.org/10.1039/d6ta05503f</link>
-<guid isPermaLink="false">10.1039/d6ta05503f</guid>
-<pubDate>Fri, 06 Nov 2026 17:02:07 GMT</pubDate>
-<description>باتری آبی اسیدی جریان‌کمکی Mn-Cd با واکنش‌های Mn2+/MnO2 و Cd2+/Cd ولتاژ متوسط 1.70 V و بازده کولمبی 89% در 300 چرخه را نشان می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is an aqueous Mn–Cd flow-assisted battery using a simple acidic electrolyte, achieving a high average discharge voltage of 1.70 V via Mn²⁺/MnO₂ and Cd²⁺/Cd redox couples. Its significance lies in demonstrating stable cycling—89% coulombic efficiency over 300 cycles—showing that high-voltage, low-cost aqueous flow batteries are feasible with straightforward chemistry.&lt;br&gt;🏷 aqueous battery · Mn-Cd · flow-assisted cell · acidic electrolyte · high voltage</description>
-<category>aqueous battery</category>
-<category>Mn-Cd</category>
-<category>flow-assisted cell</category>
-<category>acidic electrolyte</category>
-<category>high voltage</category>
 </item>
 </channel>
 </rss>
