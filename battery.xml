@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 17:03:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 18:03:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Conversion of sulfur forms by high-energy ball milling strategy to enhance sodium-ion storage performance for S-doped carbon anodes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122315</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122315</guid>
+<pubDate>Tue, 10 Nov 2026 18:03:22 GMT</pubDate>
+<description>آسیاب‌کاری گلوله‌ای پرانرژی با تبدیل شکل‌های گوگرد، عملکرد ذخیره‌سازی یون سدیم آندهای کربن آلایش‌شده با گوگرد را بهبود می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · sulfur-doped carbon · ball milling · anode · sulfur forms</description>
+<category>sodium-ion battery</category>
+<category>sulfur-doped carbon</category>
+<category>ball milling</category>
+<category>anode</category>
+<category>sulfur forms</category>
+</item>
+<item>
+<title>Coupling Fast Zn 2+ Kinetics With V–O Framework Stabilization via Nitrogen‐Rich Interfacial Engineering of Spinel ZnV 2 O 4</title>
+<link>https://doi.org/10.1002/advs.78612</link>
+<guid isPermaLink="false">10.1002/advs.78612</guid>
+<pubDate>Tue, 10 Nov 2026 18:02:23 GMT</pubDate>
+<description>با مهندسی بین‌سطحی غنی از نیتروژن با GCN در کاتد اسپینل ZnV2O4، سینتیک Zn2+ و پایداری چارچوب V-O در باتری آبی روی-یون بهبود یافت.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using graphitic carbon nitride as a nitrogen-rich interfacial regulator to physically integrate with spinel ZnV₂O₄, enabling polar N sites that boost Zn²⁺ kinetics and stabilize the V–O framework. Significance: this interfacial engineering strategy delivers high-rate, durable vanadate cathodes (405 mAh g⁻¹, 3000-cycle stability), advancing practical aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · ZnV2O4 cathode · g-C3N4 interface · Zn2+ kinetics · V-O stabilization</description>
+<category>aqueous zinc-ion battery</category>
+<category>ZnV2O4 cathode</category>
+<category>g-C3N4 interface</category>
+<category>Zn2+ kinetics</category>
+<category>V-O stabilization</category>
+</item>
 <item>
 <title>Electric vehicle battery materials supply disruptions can be mitigated with chemistry changes and recycling</title>
 <link>https://doi.org/10.1038/s41467-026-79046-y</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>lithium metal</category>
 <category>interfacial stress</category>
 <category>mechanical reinforcement</category>
-</item>
-<item>
-<title>Regioisomeric Engineering of Pyridone Electrolyte Additives Enables Stably High‐Voltage LiCoO 2 Cathodes Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/anie.2372098</link>
-<guid isPermaLink="false">10.1002/anie.2372098</guid>
-<pubDate>Sat, 07 Nov 2026 19:01:45 GMT</pubDate>
-<description>افزودنی پیریدونی p-HNFP با هماهنگی سطحی و تشکیل CEI غنی از LiF، پایداری کاتد LiCoO2 را در ولتاژ 4.6 V بهبود می‌دهد و 92.4% ظرفیت را پس از 400 چرخه حفظ می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This study establishes regioisomeric engineering of pyridone additives as a molecular design strategy for high-voltage LiCoO₂. The para-isomer (p-HNFP) uniquely combines σ-type lone-pair coordination to Co⁴⁺—lowering the O 2p band center and widening the Co 3d–O 2p gap—with regioselective formation of a compact LiF/nitrogen-rich CEI, enabling 2 Ah pouch cells to retain 92.4% capacity after 400 cycles at 4.6 V.&lt;br&gt;🏷 LiCoO2 cathode · electrolyte additive · pyridone regioisomer · cathode-electrolyte interphase · high-voltage lithium-ion</description>
-<category>LiCoO2 cathode</category>
-<category>electrolyte additive</category>
-<category>pyridone regioisomer</category>
-<category>cathode-electrolyte interphase</category>
-<category>high-voltage lithium-ion</category>
-</item>
-<item>
-<title>Advancing Moisture-Enabled Electric Generators: Ion Synergy, Technical Roadmap and Battery Hybridization Toward Real-World Self-Powered Systems</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112601</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112601</guid>
-<pubDate>Sat, 07 Nov 2026 19:01:32 GMT</pubDate>
-<description>این مقاله با مرور هم‌افزایی یونی و نقشه راه فنی، مسیر ترکیب مولدهای برق رطوبتی با باتری‌ها را برای سامانه‌های خودتوان واقعی ترسیم می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 moisture electric generator · ion synergy · battery hybridization · self-powered systems · technical roadmap</description>
-<category>moisture electric generator</category>
-<category>ion synergy</category>
-<category>battery hybridization</category>
-<category>self-powered systems</category>
-<category>technical roadmap</category>
 </item>
 </channel>
 </rss>
