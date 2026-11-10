@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 14:02:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 15:02:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial Orchestration of High-Entropy MXene Separator and Composite Collectors Enables Energy-dense Anode-Free Pouch Cells</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105648</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105648</guid>
+<pubDate>Tue, 10 Nov 2026 15:02:05 GMT</pubDate>
+<description>با طراحی جداکننده MXene با آنتروپی بالا و کلکتورهای کامپوزیتی، سلول‌های کیسه‌ای بدون آند با چگالی انرژی بالا ساخته می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 high-entropy MXene · anode-free pouch cell · separator · composite collector · energy density</description>
+<category>high-entropy MXene</category>
+<category>anode-free pouch cell</category>
+<category>separator</category>
+<category>composite collector</category>
+<category>energy density</category>
+</item>
 <item>
 <title>Nonlinear Kinetic Optimization via Strong–Weak Cosolvent Synergy in Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1002/aenm.71824</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>biomimetic electrolyte</category>
 <category>lithium dendrite</category>
 <category>PAN electrospinning</category>
-</item>
-<item>
-<title>Anchoring LiZn Nanocrystals With Oligomer Binders for Enhanced Interfacial Stability in Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71814</link>
-<guid isPermaLink="false">10.1002/aenm.71814</guid>
-<pubDate>Sat, 07 Nov 2026 16:01:41 GMT</pubDate>
-<description>لایه میانی کامپوزیتی LiZn تثبیتشده با الیگومر روی آند لیتیوم، رسوب یکنواخت Li و پایداری 700 چرخه را فراهم کرده و دمای شروع runaway حرارتی را از 124 به 191 درجه سانتیگراد افزایش داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a bio-inspired oligomer-anchored LiZn nanocrystal interphase, spray-coated on Li metal, which mimics plant roots to bind particles and ensure structural integrity. It enables uniform Li deposition, extends coin-cell life to 700 cycles, achieves 86% retention in 1.38 Ah pouch cells, and raises thermal runaway trigger temperature from 124°C to 191°C, significantly enhancing lifespan and safety of high-energy batteries.&lt;br&gt;🏷 lithium metal batteries · LiZn nanocrystals · oligomer binder · composite interphase · thermal safety</description>
-<category>lithium metal batteries</category>
-<category>LiZn nanocrystals</category>
-<category>oligomer binder</category>
-<category>composite interphase</category>
-<category>thermal safety</category>
 </item>
 </channel>
 </rss>
