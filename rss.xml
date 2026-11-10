@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 02:01:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 03:01:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A further acceleration of clean energy is needed for global CO2 emissions to peak and decline</title>
+<link>https://doi.org/10.1038/s41558-026-02821-8</link>
+<guid isPermaLink="false">10.1038/s41558-026-02821-8</guid>
+<pubDate>Tue, 10 Nov 2026 03:01:51 GMT</pubDate>
+<description>این مقاله روند انتشار CO2 جهانی را تا ۲۰۲۸ بررسی می‌کند و نشان می‌دهد خودروهای برقی و انرژی خورشیدی و بادی بخش زیادی از افزایش انتشار ناشی از رشد تقاضا را جبران می‌کنند، اما برای تضمین اوج و کاهش انتشار، شتاب‌بخشی به فناوری‌های پاک لازم است.&lt;br&gt;Nature Climate Change | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 emissions · clean energy · electric vehicles · solar and wind · emissions peak</description>
+<category>CO2 emissions</category>
+<category>clean energy</category>
+<category>electric vehicles</category>
+<category>solar and wind</category>
+<category>emissions peak</category>
+</item>
 <item>
 <title>Stabilizing Cerium Dioxide Composite Electrodes with Nitrogen-Doped Carbon Nanofibers for Rapid TiO2+/Ti3+ redox kinetics in Ti-Ce redox flow batteries</title>
 <link>https://doi.org/10.1039/d6ta07536c</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polyph
 <category>catalyst discovery</category>
 <category>data-driven</category>
 <category>machine learning</category>
-</item>
-<item>
-<title>Hollow carbon nanocages with mixed-phase interfaces for durable aqueous zinc–iodine batteries</title>
-<link>https://doi.org/10.1039/d6ta03959f</link>
-<guid isPermaLink="false">10.1039/d6ta03959f</guid>
-<pubDate>Mon, 09 Nov 2026 15:01:53 GMT</pubDate>
-<description>نانوقفسه‌های کربنی توخالی با فصل‌های مختلط و قطبیت سطحی بهبودیافته به‌عنوان میزبان ید، محدودسازی ید و سینتیک تبدیل را در باتری آبی Zn-I2 تقویت می‌کنند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a hollow carbon nanocage with crystalline/amorphous mixed-phase interfaces and enhanced polarity, derived from a hierarchical core–shell ZIF precursor. As an iodine host, it strengthens iodine confinement and accelerates conversion kinetics, enabling durable aqueous zinc–iodine batteries. This design advances host engineering for high-performance, long-life Zn–I₂ energy storage.&lt;br&gt;🏷 zinc-iodine battery · hollow carbon nanocage · iodine host · mixed-phase interface · conversion kinetics</description>
-<category>zinc-iodine battery</category>
-<category>hollow carbon nanocage</category>
-<category>iodine host</category>
-<category>mixed-phase interface</category>
-<category>conversion kinetics</category>
 </item>
 </channel>
 </rss>
