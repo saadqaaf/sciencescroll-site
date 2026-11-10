@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 22:01:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bioinspired node-welded ceramic fiber aerogels enabled by sol-gel kinetic regulation for mechanical robustness and efficient thermal insulation</title>
+<link>https://doi.org/10.1016/j.mser.2026.101332</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101332</guid>
+<pubDate>Tue, 10 Nov 2026 23:01:06 GMT</pubDate>
+<description>با تنظیم سینتیک سل-ژل، آئروژل الیاف سرامیکی با گره‌های جوش‌خورده به‌صورت الهام‌گرفته از طبیعت ساخته شد که استحکام مکانیکی و عایق‌کاری حرارتی کارآمد را همزمان فراهم می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 ceramic fiber aerogel · sol-gel kinetics · node welding · thermal insulation · mechanical robustness</description>
+<category>ceramic fiber aerogel</category>
+<category>sol-gel kinetics</category>
+<category>node welding</category>
+<category>thermal insulation</category>
+<category>mechanical robustness</category>
+</item>
 <item>
 <title>Boundary density predicts catalyst-layer utilization in membrane-electrode assemblies</title>
 <link>https://doi.org/10.1016/j.joule.2026.102719</link>
@@ -1195,19 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 strong metal-support inte
 <category>TiO2 amorphization</category>
 <category>encapsulation dynamics</category>
 <category>molecular dynamics</category>
-</item>
-<item>
-<title>Unlocking Intrinsic Chirality in Luminescent Copper Clusters via Intramolecular Spatial Confinement</title>
-<link>https://doi.org/10.1021/jacs.6c17674</link>
-<guid isPermaLink="false">10.1021/jacs.6c17674</guid>
-<pubDate>Tue, 10 Nov 2026 17:03:07 GMT</pubDate>
-<description>محدودیت فضایی درون‌مولکولی در خوشه‌های Cu2 بدون لیگاند کایرال، کایرالیته ذاتی را روشن/خاموش کرده و لایه‌های نازک درخشان برای تصویربرداری پرتو ایکس فراهم می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 copper clusters · intrinsic chirality · spatial confinement · luminescence · X-ray imaging</description>
-<category>copper clusters</category>
-<category>intrinsic chirality</category>
-<category>spatial confinement</category>
-<category>luminescence</category>
-<category>X-ray imaging</category>
 </item>
 </channel>
 </rss>
