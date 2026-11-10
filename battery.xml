@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 15:02:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 16:04:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Operando Time-of-Flight Secondary Ion Mass Spectrometry Reveals Iodine-Mediated Redox Chemistry in Solid-State Li–S Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02036</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02036</guid>
+<pubDate>Tue, 10 Nov 2026 16:04:16 GMT</pubDate>
+<description>با operando طیف‌سنجی جرمی یونی TOF-SIMS، تشکیل ید عنصری و نقش گونه‌های ید در واکنش‌های ردوکس باتری حالت‌جامد Li-S به‌طور مستقیم مشاهده شد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is a dynamic operando ToF-SIMS platform that directly detects transient species at buried solid–solid interfaces under bias. Its significance lies in revealing iodine-mediated redox chemistry in solid-state Li–S batteries—specifically elemental iodine formation during charging—enabling identification of reactive intermediates in conversion-type batteries, which conventional operando techniques cannot detect.&lt;br&gt;🏷 solid-state Li-S battery · operando TOF-SIMS · iodine redox chemistry · buried interface · reaction intermediates</description>
+<category>solid-state Li-S battery</category>
+<category>operando TOF-SIMS</category>
+<category>iodine redox chemistry</category>
+<category>buried interface</category>
+<category>reaction intermediates</category>
+</item>
+<item>
+<title>Dual‐Anion Mutual‐Facilitation Effect Directs Surface Reconstruction for Reversible Anion Redox in Cobalt‐Free Li‐Rich Mn‐Based Cathodes</title>
+<link>https://doi.org/10.1002/adfm.79532</link>
+<guid isPermaLink="false">10.1002/adfm.79532</guid>
+<pubDate>Tue, 10 Nov 2026 16:03:51 GMT</pubDate>
+<description>دوپینگ هم‌زمان F/S در کاتد لایه‌ای غنی از Li و Mn، بازسازی سطحی و آزادسازی اکسیژن را مهار کرده و ظرفیت ۸۴.۴٪ پس از ۲۰۰ چرخه با افت ولتاژ کم را حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a mutual-assisted F/S dual-anion doping strategy that overcomes S-induced lattice strain, creating a depth-dependent architecture with regulated oxygen vacancies and a stabilized interphase. This enables reversible anion redox, suppressing oxygen release and voltage decay. Significance: it delivers high capacity retention (84.4% after 200 cycles, 88.63% after 1000 cycles), demonstrating dual-anion doping as an effective route for durable cobalt-free Li-rich cathodes.&lt;br&gt;🏷 Li-rich Mn-based cathode · dual-anion doping · anion redox · surface reconstruction · voltage decay</description>
+<category>Li-rich Mn-based cathode</category>
+<category>dual-anion doping</category>
+<category>anion redox</category>
+<category>surface reconstruction</category>
+<category>voltage decay</category>
+</item>
+<item>
+<title>Six‐Electron‐Storage Polynuclear Quinoxaline Derivatives with Multiple S ‐Propanoic Acid Side‐Groups for High‐Capacity Aqueous Redox Flow Batteries</title>
+<link>https://doi.org/10.1002/adfm.79601</link>
+<guid isPermaLink="false">10.1002/adfm.79601</guid>
+<pubDate>Tue, 10 Nov 2026 16:02:32 GMT</pubDate>
+<description>مشتقات تری‌کینوکسالین با شش الکترون ذخیره‌سازی و گروه‌های S-پروپانوئیک اسید، ظرفیت بی‌سابقه ۱۵۰ Ah L−1 و پایداری چرخه‌ای بالا در باتری جریان آبی ارائه می‌دهند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing triquinoxalinylene derivatives with six-electron storage and S-propanoic acid groups, achieving high solubility (1.26 m) and theoretical capacity (202.62 Ah L⁻¹). Significance: record 150 Ah L⁻¹ flow battery capacity and 98.4% retention after 600 cycles, enabling scalable, durable organic redox flow batteries for grid storage.&lt;br&gt;🏷 aqueous redox flow battery · six-electron storage · quinoxaline derivative · S-propanoic acid · high capacity</description>
+<category>aqueous redox flow battery</category>
+<category>six-electron storage</category>
+<category>quinoxaline derivative</category>
+<category>S-propanoic acid</category>
+<category>high capacity</category>
+</item>
 <item>
 <title>Interfacial Orchestration of High-Entropy MXene Separator and Composite Collectors Enables Energy-dense Anode-Free Pouch Cells</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105648</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>spinel passivation</category>
 <category>anionic redox</category>
 <category>Li stoichiometry</category>
-</item>
-<item>
-<title>High‐Entropy Sulfides Enable Dual‐Pathway Sulfur Conversion in PEO‐Based All‐Solid‐State Li–S Batteries</title>
-<link>https://doi.org/10.1002/adfm.79559</link>
-<guid isPermaLink="false">10.1002/adfm.79559</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:52 GMT</pubDate>
-<description>سولفیدهای آنتروپی بالا به‌عنوان میزبان گوگرد، تبدیل دو مسیره گوگرد را در باتری‌های Li-S تمام‌جامد بر پایه PEO فعال کرده و شاتل پلی‌سولفید را مهار می‌کنند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dual-phase high-entropy sulfide (FeCoNiCuMoSₓ) nanoflowers enabling a dual-pathway sulfur reduction: a restrained LiPSs-mediated liquid route plus a dominant solid-solid S-to-Li₂S pathway that blocks dissolution and shuttling. Significance: 1319.3 mAh g⁻¹ at 0.1 C, 0.0458% decay per cycle over 1000 cycles, stable 40–60°C operation, and flexible pouch cells—advancing practical all-solid-state Li–S batteries.&lt;br&gt;🏷 all-solid-state Li-S battery · high-entropy sulfide · sulfur host · polysulfide shuttle · PEO electrolyte</description>
-<category>all-solid-state Li-S battery</category>
-<category>high-entropy sulfide</category>
-<category>sulfur host</category>
-<category>polysulfide shuttle</category>
-<category>PEO electrolyte</category>
-</item>
-<item>
-<title>A Fluorinated 3D Interphase With Built‐In Si‐Gradient Lithiophilicity Enables Spatially Adaptive Li Deposition for Stable Li Metal Anode</title>
-<link>https://doi.org/10.1002/adfm.79549</link>
-<guid isPermaLink="false">10.1002/adfm.79549</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:47 GMT</pubDate>
-<description>لایه میان‌فاز مصنوعی فلورینه سه‌بعدی با گرادیان Si و لیتوفیلیسیتی، رسوب لیتیوم را یکنواخت کرده و پایداری آند لیتیوم-فلز را به‌شدت بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fluorinated 3D artificial SEI with a built-in vertical Si-gradient lithiophilicity, formed by Li-catalyzed in situ copolymerization for seamless integration. It enables bottom-up Li deposition, buffers volume changes, and forms a stable LiF-rich SEI. Significance: 99.4% Coulombic efficiency, 3500 h cycling, and improved full-cell performance, offering a blueprint for practical Li metal anodes.&lt;br&gt;🏷 lithium metal anode · artificial SEI · Si-gradient lithiophilicity · fluorinated interphase · dendrite suppression</description>
-<category>lithium metal anode</category>
-<category>artificial SEI</category>
-<category>Si-gradient lithiophilicity</category>
-<category>fluorinated interphase</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Grape Cluster Inspired Biomimetic Composite Solid Electrolyte for High‐Voltage and Long‐Life Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79519</link>
-<guid isPermaLink="false">10.1002/adfm.79519</guid>
-<pubDate>Sat, 07 Nov 2026 18:01:38 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی زیست‌الهام‌گرفته از خوشه انگور با کانال‌های Li+ بلندبرد، باتری‌های لیتیوم-فلز حالت جامد با ولتاژ بالا و عمر طولانی را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a grape-cluster biomimetic electrolyte combining electrospun PAN &amp;quot;pedicels&amp;quot; with mesoporous SiO₂-SO₃Li &amp;quot;berries,&amp;quot; enabling dual Li⁺ pathways and TFSI⁻ immobilization. It achieves high conductivity (1.44×10⁻³ S cm⁻¹), transference number 0.65, and 520 MPa modulus, yielding long-life high-voltage cells and a 414.9 Wh kg⁻¹ pouch cell. A PINN framework decouples interface aging kinetics, offering data-driven design for solid-state batteries.&lt;br&gt;🏷 composite solid electrolyte · solid-state lithium battery · biomimetic electrolyte · lithium dendrite · PAN electrospinning</description>
-<category>composite solid electrolyte</category>
-<category>solid-state lithium battery</category>
-<category>biomimetic electrolyte</category>
-<category>lithium dendrite</category>
-<category>PAN electrospinning</category>
 </item>
 </channel>
 </rss>
