@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 16:04:25 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 17:03:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electric vehicle battery materials supply disruptions can be mitigated with chemistry changes and recycling</title>
+<link>https://doi.org/10.1038/s41467-026-79046-y</link>
+<guid isPermaLink="false">10.1038/s41467-026-79046-y</guid>
+<pubDate>Tue, 10 Nov 2026 17:02:17 GMT</pubDate>
+<description>این مقاله نشان می‌دهد تغییر شیمی باتری و بازیافت می‌تواند اختلالات تأمین مواد باتری خودروهای برقی را کاهش دهد.&lt;br&gt;Nature Communications | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 The novelty lies in quantifying 2030 supply-disruption impacts on US automotive production and consumer costs using an equilibrium model, and showing that feasible chemistry shifts (85% LFP) plus recycled lithium (≥100 kt LCE) cut disruption costs by over half. Significance: disruptions could cost $14–17 billion, but recycling and chemistry changes substantially mitigate them.&lt;br&gt;🏷 EV battery · supply chain · recycling · cathode chemistry · critical materials</description>
+<category>EV battery</category>
+<category>supply chain</category>
+<category>recycling</category>
+<category>cathode chemistry</category>
+<category>critical materials</category>
+</item>
+<item>
+<title>Breaking the Capacity–Stability Trade-Off in High-Voltage LiCoO2 via Opposite Co/O Redox Activity</title>
+<link>https://doi.org/10.1021/acsnano.6c15741</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15741</guid>
+<pubDate>Tue, 10 Nov 2026 17:01:58 GMT</pubDate>
+<description>این مقاله با تقویت Co3+/4+ و مهار اکسایش اکسیژن، مبادله ظرفیت-پایداری را در کاتد LiCoO2 ولتاژ بالا می‌شکند و ظرفیت ۲۱۲.۱ mAh g–1 با پایداری بالا به دست می‌آورد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in simultaneously enhancing Co3+/4+ redox while suppressing O redox by amplifying Co t2g and reducing O 2p density of states, breaking the capacity–stability trade-off. This yields 212.1 mAh g–1 at 4.6 V with 88.4% retention over 330 cycles, mitigating phase transitions, O loss, and parasitic reactions—offering a valuable electronic-structure engineering strategy for high-voltage LiCoO2 cathodes.&lt;br&gt;🏷 LiCoO2 cathode · high-voltage · oxygen redox · Co redox · capacity retention</description>
+<category>LiCoO2 cathode</category>
+<category>high-voltage</category>
+<category>oxygen redox</category>
+<category>Co redox</category>
+<category>capacity retention</category>
+</item>
+<item>
+<title>Multiscale insights into zinc metal anodes for aqueous zinc ion batteries</title>
+<link>https://doi.org/10.1016/j.matt.2026.103058</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.103058</guid>
+<pubDate>Tue, 10 Nov 2026 17:01:42 GMT</pubDate>
+<description>این مرور، بینش‌های چندمقیاسی درباره آندهای فلزی روی در باتری‌های یون‌روی آبی ارائه می‌دهد و چالش‌ها و راهبردهای پایدارسازی آن‌ها را تحلیل می‌کند.&lt;br&gt;Matter | ⭐ Review&lt;br&gt;🏷 zinc metal anode · aqueous zinc battery · Zn dendrites · multiscale characterization · electrolyte interface</description>
+<category>zinc metal anode</category>
+<category>aqueous zinc battery</category>
+<category>Zn dendrites</category>
+<category>multiscale characterization</category>
+<category>electrolyte interface</category>
+</item>
 <item>
 <title>Operando Time-of-Flight Secondary Ion Mass Spectrometry Reveals Iodine-Mediated Redox Chemistry in Solid-State Li–S Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02036</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in two c
 <category>battery hybridization</category>
 <category>self-powered systems</category>
 <category>technical roadmap</category>
-</item>
-<item>
-<title>Structural Evolution of State-Dependent Kinetics during Potassium Storage in Layered CrSe2</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02828</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02828</guid>
-<pubDate>Sat, 07 Nov 2026 18:03:12 GMT</pubDate>
-<description>این مقاله با SXRD operando مسیر فازی P-3m1-R3m-C2/m را در ذخیره‌سازی پتاسیم در CrSe2 لایه‌ای آشکار می‌کند و نشان می‌دهد محدودکردن ولتاژ بالا ظرفیت را کاهش اما حفظ ظرفیت چرخه‌ای را بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 Operando SXRD reveals the sequential P-3m1-R3m-C2/m phase pathway in layered CrSe2 during potassium storage, showing the P-3m1/R3m transformation becomes incomplete at higher rates due to lattice discontinuity and sluggish kinetics near full deintercalation. This identifies a rate-sensitive structural region and demonstrates how phase-resolved characterization guides voltage-window selection to improve cycling retention.&lt;br&gt;🏷 potassium storage · layered CrSe2 · operando SXRD · phase transformation · rate-dependent kinetics</description>
-<category>potassium storage</category>
-<category>layered CrSe2</category>
-<category>operando SXRD</category>
-<category>phase transformation</category>
-<category>rate-dependent kinetics</category>
-</item>
-<item>
-<title>Coordination Geometry Reconstruction Mitigates α‑Dihedral Angle Restriction of Polyanionic‐Type Cathodes for Ultrafast Sodium Storage</title>
-<link>https://doi.org/10.1002/adfm.79398</link>
-<guid isPermaLink="false">10.1002/adfm.79398</guid>
-<pubDate>Sat, 07 Nov 2026 18:02:46 GMT</pubDate>
-<description>بازسازی هندسه کوئوردیناسیون با چرخش صفحه α در کاتد پلی‌آنیونی، سد مهاجرت Na+ را کاهش داد و ذخیره‌سازی سریع سدیم با عملکرد دمایی گسترده را ممکن ساخت.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying the α-plane (transition metal plus dangling anions) as the key bottleneck for Na+ diffusion and reconstructing coordination geometry to twist it into α1/α2 planes, relieving stress and lowering migration barriers. This enables ultrafast, wide-temperature sodium storage and offers a tunable structural design paradigm for high-power polyanionic cathodes.&lt;br&gt;🏷 sodium-ion battery · polyanionic cathode · coordination geometry · Na-ion diffusion · rate capability</description>
-<category>sodium-ion battery</category>
-<category>polyanionic cathode</category>
-<category>coordination geometry</category>
-<category>Na-ion diffusion</category>
-<category>rate capability</category>
-</item>
-<item>
-<title>Beyond Superlattice Order: Full‐Composition Li Stoichiometry Screening Identifies Interfacial Spinel Passivation as the Decisive Factor for Durable Cobalt‐Free Li‐Rich Cathodes</title>
-<link>https://doi.org/10.1002/adfm.79560</link>
-<guid isPermaLink="false">10.1002/adfm.79560</guid>
-<pubDate>Sat, 07 Nov 2026 18:02:25 GMT</pubDate>
-<description>غربالگری کامل استوکیومتری Li در کاتدهای غنی از لیتیوم بدون کبالت نشان داد پسیواسیون اسپینلی سطحی، نه نظم ابرشبکه، عامل تعیین‌کننده پایداری و برگشت‌پذیری ردوکس آنیونی است.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 This study overturns the superlattice-centered design paradigm for cobalt-free Li-rich cathodes, using full-composition Li stoichiometry screening to decouple bulk ordering from surface chemistry. It identifies in situ spinel passivation, combined with dispersed Li2MnO3 nanodomains and antisite pillars, as decisive for anionic redox reversibility, enabling ultralow voltage fade and durable full cells, and provides stoichiometric guidelines for interfacial-stability-focused cathode design.&lt;br&gt;🏷 Li-rich cathode · cobalt-free · spinel passivation · anionic redox · Li stoichiometry</description>
-<category>Li-rich cathode</category>
-<category>cobalt-free</category>
-<category>spinel passivation</category>
-<category>anionic redox</category>
-<category>Li stoichiometry</category>
 </item>
 </channel>
 </rss>
