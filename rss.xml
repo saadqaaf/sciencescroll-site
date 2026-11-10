@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 21:03:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 22:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Boundary density predicts catalyst-layer utilization in membrane-electrode assemblies</title>
+<link>https://doi.org/10.1016/j.joule.2026.102719</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102719</guid>
+<pubDate>Tue, 10 Nov 2026 22:01:22 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که چگالی مرزها می‌تواند میزان بهره‌گیری از لایه کاتالیزور در مجموعه‌های غشا-الکترود را پیش‌بینی کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 membrane-electrode assembly · catalyst layer · boundary density · utilization · fuel cell</description>
+<category>membrane-electrode assembly</category>
+<category>catalyst layer</category>
+<category>boundary density</category>
+<category>utilization</category>
+<category>fuel cell</category>
+</item>
+<item>
+<title>Hydrogen borrowing with heterogeneous catalysis</title>
+<link>https://doi.org/10.1039/d3cs00314k</link>
+<guid isPermaLink="false">10.1039/d3cs00314k</guid>
+<pubDate>Tue, 10 Nov 2026 22:01:19 GMT</pubDate>
+<description>این مقاله مروری نشان می‌دهد که کاتالیزورهای ناهمگن در واکنش هیدروژن‌قرض‌گیری، تشکیل پیوند C–N، C–C و C–S با الکل‌ها را پایدارتر و مقیاس‌پذیرتر می‌کنند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 hydrogen borrowing · heterogeneous catalysis · alcohol alkylation · C-N bond formation · recyclable catalyst</description>
+<category>hydrogen borrowing</category>
+<category>heterogeneous catalysis</category>
+<category>alcohol alkylation</category>
+<category>C-N bond formation</category>
+<category>recyclable catalyst</category>
+</item>
+<item>
+<title>Electrochemical conversion of low-concentration carbon dioxide to multicarbon products: advances, challenges, and perspectives</title>
+<link>https://doi.org/10.1039/d6cs00916f</link>
+<guid isPermaLink="false">10.1039/d6cs00916f</guid>
+<pubDate>Tue, 10 Nov 2026 22:01:16 GMT</pubDate>
+<description>این مرور، پیشرفت‌ها و چالش‌های تبدیل الکتروشیمیایی CO2 کم‌غلظت به محصولات چندکربنه شامل الکترولیز محلول جذب و تحلیل فنی-اقتصادی را بررسی می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review&lt;br&gt;🏷 CO2 electroreduction · multicarbon products · dilute CO2 · capture-solution electrolysis · techno-economic analysis</description>
+<category>CO2 electroreduction</category>
+<category>multicarbon products</category>
+<category>dilute CO2</category>
+<category>capture-solution electrolysis</category>
+<category>techno-economic analysis</category>
+</item>
+<item>
+<title>Post-treatment engineering of graphene aerogels: linking defect evolution to functional performance</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101885</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101885</guid>
+<pubDate>Tue, 10 Nov 2026 22:01:13 GMT</pubDate>
+<description>این مقاله مروری، اثر روش‌های پس‌پردازش بر تکامل عیوب ایروژل‌های گرافنی و ارتباط آن با عملکرد کاربردی این مواد را بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 graphene aerogel · post-treatment · defect engineering · functional performance · structure-property relation</description>
+<category>graphene aerogel</category>
+<category>post-treatment</category>
+<category>defect engineering</category>
+<category>functional performance</category>
+<category>structure-property relation</category>
+</item>
+<item>
+<title>Biomass-derived hard carbon for sodium-ion batteries: From microstructure engineering to commercial sustainability</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101886</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101886</guid>
+<pubDate>Tue, 10 Nov 2026 22:01:10 GMT</pubDate>
+<description>این مقاله مروری، مسیر توسعه کربن سخت مشتق از زیست‌توده را از مهندسی ریزساختار تا پایداری تجاری برای آند باتری‌های یون‌سدیم بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 hard carbon · sodium-ion battery · biomass precursor · microstructure engineering · commercial sustainability</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>biomass precursor</category>
+<category>microstructure engineering</category>
+<category>commercial sustainability</category>
+</item>
 <item>
 <title>Deployability of biotechnologies for environmentally resilient agriculture</title>
 <link>https://doi.org/10.1038/s41587-026-03373-0</link>
@@ -1148,70 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 copper clusters · intrin
 <category>spatial confinement</category>
 <category>luminescence</category>
 <category>X-ray imaging</category>
-</item>
-<item>
-<title>Dye-Sensitization Enables Visible-Light-Driven N–N Bond Cleavage in a Dinuclear Rhenium Dinitrogen Complex</title>
-<link>https://doi.org/10.1021/jacs.6c10170</link>
-<guid isPermaLink="false">10.1021/jacs.6c10170</guid>
-<pubDate>Tue, 10 Nov 2026 17:03:04 GMT</pubDate>
-<description>حساس‌سازی رنگی با 4DPAIPN تحت نور آبی، شکست پیوند N–N در کمپلکس دیرنیوم μ-N2 را با بازده ۹۶٪ و بدون نیاز به نور UV ممکن می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 N2 fixation · N–N cleavage · dye sensitization · rhenium complex · visible light</description>
-<category>N2 fixation</category>
-<category>N–N cleavage</category>
-<category>dye sensitization</category>
-<category>rhenium complex</category>
-<category>visible light</category>
-</item>
-<item>
-<title>Programming Oxygen Reduction Selectivity via Peroxo Basicity: Acid-Controlled 2e–/4e– Reduction Switching at a Dicobalt Platform</title>
-<link>https://doi.org/10.1021/jacs.6c17908</link>
-<guid isPermaLink="false">10.1021/jacs.6c17908</guid>
-<pubDate>Tue, 10 Nov 2026 17:03:00 GMT</pubDate>
-<description>در یک کمپلکس دی‌کبالت μ-1,2-peroxo، قدرت اسید خارجی با تغییر مسیر PT/PCET گزینش‌پذیری کاهش اکسیژن را بین H2O2 و H2O به‌طور کامل جابه‌جا می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 oxygen reduction · peroxo basicity · dicobalt complex · selectivity switching · PCET</description>
-<category>oxygen reduction</category>
-<category>peroxo basicity</category>
-<category>dicobalt complex</category>
-<category>selectivity switching</category>
-<category>PCET</category>
-</item>
-<item>
-<title>Synthesis and Crystal Structure of Bulk Methanetetrol C(OH)4</title>
-<link>https://doi.org/10.1021/jacs.6c12079</link>
-<guid isPermaLink="false">10.1021/jacs.6c12079</guid>
-<pubDate>Tue, 10 Nov 2026 17:02:57 GMT</pubDate>
-<description>سنتز انبوه C(OH)4 در سل الماس تحت فشار ۴۵ تا ۵۰ گیگاپاسکال و تعیین ساختار بلوری آن، امکان ذخیره کربن اکسیدی در گوشته سیارات یخی را نشان می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 methanetetrol · orthocarbonic acid · high pressure · diamond anvil cell · carbon sequestration</description>
-<category>methanetetrol</category>
-<category>orthocarbonic acid</category>
-<category>high pressure</category>
-<category>diamond anvil cell</category>
-<category>carbon sequestration</category>
-</item>
-<item>
-<title>Dynamic Acidic Adsorbates Govern Fast Oxygen Incorporation in Ceria through Interfacial Electrostatics</title>
-<link>https://doi.org/10.1021/jacs.6c11743</link>
-<guid isPermaLink="false">10.1021/jacs.6c11743</guid>
-<pubDate>Tue, 10 Nov 2026 17:02:54 GMT</pubDate>
-<description>قطبش کاتدی در لایه‌های نازک CGO دوپ‌شده با Gd در ۵۰۰ درجه سانتی‌گراد، جذب سولفات را به‌صورت برگشت‌پذیر تعدیل و سرعت ورود اکسیژن را به‌شدت افزایش می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 oxygen reduction reaction · Gd-doped ceria · sulfate adsorbates · space-charge model · NAP-XPS</description>
-<category>oxygen reduction reaction</category>
-<category>Gd-doped ceria</category>
-<category>sulfate adsorbates</category>
-<category>space-charge model</category>
-<category>NAP-XPS</category>
-</item>
-<item>
-<title>Porphyrin-Driven Redox Tuning in Structurally Defined De Novo Heme Proteins</title>
-<link>https://doi.org/10.1021/jacs.6c11808</link>
-<guid isPermaLink="false">10.1021/jacs.6c11808</guid>
-<pubDate>Tue, 10 Nov 2026 17:02:51 GMT</pubDate>
-<description>جایگزینی heme B با پورفیرین‌های غیرطبیعی در پروتئین‌های de novo طراحی‌شده، پتانسیل ردوکس را تا ۴۰۰ میلی‌ولت تنظیم می‌کند بدون تغییر ساختار پروتئین.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 de novo proteins · metalloporphyrins · redox tuning · heme proteins · bioenergetics</description>
-<category>de novo proteins</category>
-<category>metalloporphyrins</category>
-<category>redox tuning</category>
-<category>heme proteins</category>
-<category>bioenergetics</category>
 </item>
 </channel>
 </rss>

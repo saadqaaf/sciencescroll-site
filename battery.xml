@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 21:03:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 22:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Biomass-derived hard carbon for sodium-ion batteries: From microstructure engineering to commercial sustainability</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101886</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101886</guid>
+<pubDate>Tue, 10 Nov 2026 22:01:10 GMT</pubDate>
+<description>این مقاله مروری، مسیر توسعه کربن سخت مشتق از زیست‌توده را از مهندسی ریزساختار تا پایداری تجاری برای آند باتری‌های یون‌سدیم بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 hard carbon · sodium-ion battery · biomass precursor · microstructure engineering · commercial sustainability</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>biomass precursor</category>
+<category>microstructure engineering</category>
+<category>commercial sustainability</category>
+</item>
 <item>
 <title>Beyond boundary lines: predicting P2/O3 phase fractions in layered Na-ion cathodes</title>
 <link>https://doi.org/10.1039/d6ta05776d</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in
 <category>carbon fibers</category>
 <category>ZIF-67-derived carbon</category>
 <category>dual-carbon protection</category>
-</item>
-<item>
-<title>Activation temperature-engineered Arundo donax porous carbon for in-situ growth of NiCo-LDH nanowires: Toward ultrahigh-capacitance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125591</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125591</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:04 GMT</pubDate>
-<description>کربن متخلخل Arundo donax با دمای فعال‌سازی تنظیم‌شده برای رشد درجای نانوسیم‌های NiCo-LDH، ابرخازنی با ظرفیت فوق‌بالا فراهم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Arundo donax carbon · NiCo-LDH nanowires · supercapacitor · porous carbon · activation temperature</description>
-<category>Arundo donax carbon</category>
-<category>NiCo-LDH nanowires</category>
-<category>supercapacitor</category>
-<category>porous carbon</category>
-<category>activation temperature</category>
 </item>
 </channel>
 </rss>
