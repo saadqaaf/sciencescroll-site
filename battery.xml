@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 16:01:30 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 17:04:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Non-halogen aqueous electrolytes for four-electron iodine conversion</title>
+<link>https://doi.org/10.1038/s41586-026-11282-0</link>
+<guid isPermaLink="false">10.1038/s41586-026-11282-0</guid>
+<pubDate>Wed, 11 Nov 2026 17:02:57 GMT</pubDate>
+<description>این مقاله یک چارچوب الکترولیت آبی بدون هالوژن بر پایه آنیون‌های کوزموتروپیک و هسته‌دوست معرفی می‌کند که تبدیل برگشت‌پذیر چهارالکترونی ید را در باتری‌های Zn–I2 و Al–I2 ممکن می‌سازد.&lt;br&gt;Nature | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a halogen-free kosmotropic/polar anion/nucleophilic electrolyte framework that stabilizes hypervalent iodine via Nuc–I⁺–Nuc halogen bonds instead of interhalogen complexation, enabling reversible four-electron iodine conversion in aqueous Zn–I₂ and Al–I₂ batteries. This mechanistic shift offers a safer, high-energy route for aqueous multi-electron iodine chemistry.&lt;br&gt;🏷 aqueous iodine battery · four-electron redox · halogen-free electrolyte · Zn-I2 battery · kosmotropic anion</description>
+<category>aqueous iodine battery</category>
+<category>four-electron redox</category>
+<category>halogen-free electrolyte</category>
+<category>Zn-I2 battery</category>
+<category>kosmotropic anion</category>
+</item>
 <item>
 <title>Na3.4Zr1.9Zn0.1Si2.2P0.8O12-based flexible composite solid electrolyte for sodium batteries with high-rate capability and long-cycle stability</title>
 <link>https://doi.org/10.1016/j.est.2026.125628</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>lignin-derived carbon</category>
 <category>hierarchical porous carbon</category>
 <category>zinc-air battery</category>
-</item>
-<item>
-<title>Boron Crosslinking Enables Anion‐Lean Solvation and Stable Interfaces for Dendrite‐Free Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/advs.78679</link>
-<guid isPermaLink="false">10.1002/advs.78679</guid>
-<pubDate>Tue, 10 Nov 2026 08:05:33 GMT</pubDate>
-<description>الکترولیت ژل پلیمری شبکه‌ای بوردار با حلال‌پوشی کم‌آنیونی و SEI پایدار، رسانش یون Li+ و پایداری چرخه باتری لیتیوم-فلزی بدون دندریت را بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using sp²-hybridized boron crosslinks to trap TFSI⁻ anions, creating anion-lean, Li⁺-dominant solvation within a gel polymer electrolyte. This enables single-ion conduction, a robust inorganic-rich SEI, and dendrite-free cycling. Significance: a single-platform strategy simultaneously optimizing solvation, interfacial stability, conductivity, and safety for high-voltage, dendrite-free lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · gel polymer electrolyte · boron crosslinking · anion-lean solvation · dendrite-free</description>
-<category>lithium metal battery</category>
-<category>gel polymer electrolyte</category>
-<category>boron crosslinking</category>
-<category>anion-lean solvation</category>
-<category>dendrite-free</category>
 </item>
 </channel>
 </rss>
