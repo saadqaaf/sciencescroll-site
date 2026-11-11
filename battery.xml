@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 19:01:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 20:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Visions for hydrogen-based materials for energy applications</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103533</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103533</guid>
+<pubDate>Wed, 11 Nov 2026 20:01:38 GMT</pubDate>
+<description>این مقاله دیدگاه‌محور، چشم‌اندازهایی برای مواد مبتنی بر هیدروژن در کاربردهای انرژی ارائه می‌کند.&lt;br&gt;Materials Today | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 hydrogen-based materials · energy applications · hydrogen storage · fuel cells · materials vision</description>
+<category>hydrogen-based materials</category>
+<category>energy applications</category>
+<category>hydrogen storage</category>
+<category>fuel cells</category>
+<category>materials vision</category>
+</item>
 <item>
 <title>Interfacial engineering accelerates desolvation kinetics for high-performance alkaline zinc–iron flow batteries</title>
 <link>https://doi.org/10.1039/d6ee06441h</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>solid-state batteries</category>
 <category>supercapacitors</category>
 <category>interface engineering</category>
-</item>
-<item>
-<title>Synergistic Copper and Carbon Nanotube Coatings Enable High‐Performance Na 2+2x Fe 2‐x (SO 4 ) 3 Cathode Material for Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76611</link>
-<guid isPermaLink="false">10.1002/smll.76611</guid>
-<pubDate>Tue, 10 Nov 2026 08:07:12 GMT</pubDate>
-<description>پوشش همزمان مس و کربن روی کاتد Na2.5Fe1.75(SO4)3 ظرفیت 103.1 mAh/g و حفظ 87.2% ظرفیت پس از 10000 چرخه در باتری یون سدیم را به‌دست آورد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a one-step solid-state process using CuSO₄ and carbon nanotubes to simultaneously co-coat Na₂.₅Fe₁.₇₅(SO₄)₃ with copper and carbon. This dual coating markedly enhances electronic conductivity and reduces cell resistance, delivering 103.1 mA h g⁻¹ (near theoretical) and 87.2% retention after 10,000 cycles at 50 C—significantly outperforming carbon-only coating and offering a promising route for high-performance polyanion cathodes.&lt;br&gt;🏷 sodium-ion battery · sodium iron sulfate · cathode material · copper coating · carbon nanotubes</description>
-<category>sodium-ion battery</category>
-<category>sodium iron sulfate</category>
-<category>cathode material</category>
-<category>copper coating</category>
-<category>carbon nanotubes</category>
 </item>
 </channel>
 </rss>
