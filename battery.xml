@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 22:00:58 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 23:04:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coupled microengineering strategies for carbon-coated SiO anodes toward mitigated chemo-mechanical degradation and long-term cycling stability</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.060</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.060</guid>
+<pubDate>Wed, 11 Nov 2026 23:04:11 GMT</pubDate>
+<description>راهبردهای مهندسی ریزساختار همراه با پوشش کربنی برای آند SiO به کاهش تخریب شیمیایی-مکانیکی و بهبود پایداری چرخه بلندمدت منجر می‌شود.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 SiO anode · carbon coating · chemo-mechanical degradation · cycling stability · microengineering</description>
+<category>SiO anode</category>
+<category>carbon coating</category>
+<category>chemo-mechanical degradation</category>
+<category>cycling stability</category>
+<category>microengineering</category>
+</item>
+<item>
+<title>Switchable nucleophile-electrophile chemistry enables functional four-electron Li-I2 batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79413-9</link>
+<guid isPermaLink="false">10.1038/s41467-026-79413-9</guid>
+<pubDate>Wed, 11 Nov 2026 23:03:13 GMT</pubDate>
+<description>فعال‌سازی شیمی چهارالکترونی ید با فتالیمید قابل‌سوئیچ‌پذیری قطبیت، شاتلینگ پلی‌یدید را مهار کرده و باتری Li-I2 با انرژی ویژه بالای 1200 Wh kgI−1 و چرخه‌پذیری پایدار ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a single-molecule polarity-switching phthalimide that toggles between electrophilic (δ+) and nucleophilic (δ−) states, simultaneously suppressing polyiodide shuttling and stabilizing reactive I+ species. This enables four-electron Li-I2 pouch cells with ~400 mAh gI−1, &amp;gt;1200 Wh kgI−1, and 1000-cycle stability, advancing flexible, wearable energy storage.&lt;br&gt;🏷 Li-I2 battery · four-electron redox · phthalimide · polarity switching · iodine shuttling</description>
+<category>Li-I2 battery</category>
+<category>four-electron redox</category>
+<category>phthalimide</category>
+<category>polarity switching</category>
+<category>iodine shuttling</category>
+</item>
+<item>
+<title>Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers</title>
+<link>https://doi.org/10.1002/anie.4691596</link>
+<guid isPermaLink="false">10.1002/anie.4691596</guid>
+<pubDate>Wed, 11 Nov 2026 23:02:21 GMT</pubDate>
+<description>کاتالیزور اکسیدی CuCoCeOx با سایت‌های هم‌افزای Cu–Co ذخیره و آزادسازی برگشت‌پذیر هیدروژن در حامل‌های آلی مایع را بدون فلز نجیب ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an earth-abundant CuCoCeOx catalyst enabling reversible, pretreatment-free LOHC hydrogenation–dehydrogenation via in situ reconstruction into stable Cu(δ+)–CoOx interfacial sites. Significance: Cu–Co synergy prevents Cu sintering and enables low-valence Co, achieving 98.4% H2 uptake, near-quantitative release, and five stable cycles—surpassing noble-metal benchmarks and advancing practical clean-energy storage.&lt;br&gt;🏷 liquid organic hydrogen carrier · hydrogen storage · Cu-Co catalyst · dehydrogenation · interfacial sites</description>
+<category>liquid organic hydrogen carrier</category>
+<category>hydrogen storage</category>
+<category>Cu-Co catalyst</category>
+<category>dehydrogenation</category>
+<category>interfacial sites</category>
+</item>
+<item>
+<title>Layer Stacking Structure Governed Transition‐Metal Interlayer Migration for Reversible High‐Voltage Oxygen Redox Plateau</title>
+<link>https://doi.org/10.1002/anie.3309393</link>
+<guid isPermaLink="false">10.1002/anie.3309393</guid>
+<pubDate>Wed, 11 Nov 2026 23:02:16 GMT</pubDate>
+<description>ساختار چیدمان لایه‌ای در کاتدهای سدیمی P3 و P2 مهاجرت بین‌لایه‌ای فلز واسطه را کنترل کرده و برگشت‌پذیری پلاتوی اکسیژن ولتاژ بالا را تعیین می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that layered stacking structure governs interlayer transition-metal migration, where the P3 &amp;quot;ABBCCA&amp;quot; ribbon superlattice suppresses O-type stacking faults and enables reversible high-voltage oxygen redox, unlike P2 &amp;quot;ABBA&amp;quot;. This is significant because it explains how stacking structure controls oxygen plateau reversibility, offering a design principle for high-capacity, low-hysteresis layered cathodes.&lt;br&gt;🏷 sodium layered cathode · oxygen redox · layer stacking · transition-metal migration · voltage hysteresis</description>
+<category>sodium layered cathode</category>
+<category>oxygen redox</category>
+<category>layer stacking</category>
+<category>transition-metal migration</category>
+<category>voltage hysteresis</category>
+</item>
+<item>
+<title>Catalyst-within-Catalyst Maneuver via Graphene Skin Enables Long-Duration Li–S Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112615</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112615</guid>
+<pubDate>Wed, 11 Nov 2026 23:01:39 GMT</pubDate>
+<description>این مقاله با طراحی کاتالیزور درون‌کاتالیزور با پوسته گرافنی، عمر چرخه‌ی طولانی و پایداری بالاتر برای باتری‌های لیتیوم-گوگرد فراهم می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 Li-S battery · graphene skin · catalyst-within-catalyst · polysulfide conversion · long cycling</description>
+<category>Li-S battery</category>
+<category>graphene skin</category>
+<category>catalyst-within-catalyst</category>
+<category>polysulfide conversion</category>
+<category>long cycling</category>
+</item>
 <item>
 <title>Visions for hydrogen-based materials for energy applications</title>
 <link>https://doi.org/10.1016/j.mattod.2026.103533</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>NiCo2S4</category>
 <category>DFT simulation</category>
 <category>heterostructure</category>
-</item>
-<item>
-<title>Hollow Nanostructure and Electronic Structure Synergistic Modulation of Metal Sulfide Anodes for Sodium–Ion Batteries: Recent Progress and Perspectives</title>
-<link>https://doi.org/10.1002/smll.76662</link>
-<guid isPermaLink="false">10.1002/smll.76662</guid>
-<pubDate>Tue, 10 Nov 2026 08:08:15 GMT</pubDate>
-<description>این مرور، پیشرفت‌های اخیر در طراحی ساختارهای توخالی سلسله‌مراتبی و تنظیم ساختار الکترونی آندهای سولفید فلزی برای باتری‌های یون سدیم و اثر هم‌افزایی آن‌ها بر ذخیره‌سازی سدیم را تحلیل می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely integrates hierarchical hollow nanostructure design with electronic structure modulation for metal sulfide sodium-ion battery anodes, addressing conductivity, kinetics, and volume expansion limits. Its significance lies in systematically analyzing synergistic mechanisms often overlooked, offering mechanistic insights and design guidance for high-performance electrode materials.&lt;br&gt;🏷 sodium-ion battery · metal sulfide anode · hollow nanostructure · electronic structure modulation · synergistic engineering</description>
-<category>sodium-ion battery</category>
-<category>metal sulfide anode</category>
-<category>hollow nanostructure</category>
-<category>electronic structure modulation</category>
-<category>synergistic engineering</category>
-</item>
-<item>
-<title>Electronic Modulation via Dual‐Phase Coupling of CoNi Alloy and NiCo 2 S 4 on N, S‐Co‐Doped Porous Carbon Spheres for High‐Performance Rechargeable Zn‐Air Batteries</title>
-<link>https://doi.org/10.1002/smll.76638</link>
-<guid isPermaLink="false">10.1002/smll.76638</guid>
-<pubDate>Tue, 10 Nov 2026 08:08:09 GMT</pubDate>
-<description>ساخت هتروساختار دوفازی CoNi/NiCo2S4 روی کربن متخلخل دوپ‌شده با N و S، با تنظیم الکترونی، کاتالیزور دوفункسیونی اکسیژن برای باتری Zn-air با ولتاژ مدار باز 1.44 V و ظرفیت بالا ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in controlled partial sulfidation creating a CoNi alloy/NiCo₂S₄ dual-phase heterostructure on N,S-codoped porous carbon, preserving alloy conductivity while adding sulfide active sites. This interfacial electronic modulation optimizes oxygen-intermediate adsorption, enabling superior bifunctional ORR/OER activity and durable flexible Zn-air batteries (1.44 V, 656.77 mAh g⁻¹, &amp;gt;100 h), establishing partial sulfidation as a general design strategy.&lt;br&gt;🏷 Zn-air battery · bifunctional oxygen electrocatalyst · CoNi alloy · NiCo2S4 heterostructure · DFT</description>
-<category>Zn-air battery</category>
-<category>bifunctional oxygen electrocatalyst</category>
-<category>CoNi alloy</category>
-<category>NiCo2S4 heterostructure</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Cation‐Anion Co‐Adsorption With Facet‐Preferential Tendency for Stable Wide‐Temperature Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76689</link>
-<guid isPermaLink="false">10.1002/smll.76689</guid>
-<pubDate>Tue, 10 Nov 2026 08:07:59 GMT</pubDate>
-<description>افزودنی NH4I با جذب ترجیحی وجهِ هم‌افزای کاتیون و آنیون، رشد دندریت و شاتل پلی‌یودید را مهار کرده و باتری Zn//PANI را در −30°C پایدار می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a trace NH4I dual-ion additive enabling facet-preferential co-adsorption: I− guides uniform Zn deposition, while NH4+ shields tips and captures polyiodides, suppressing shuttling and side reactions. This low-polarization interphase delivers record stability—90.05% retention over 70,000 cycles at −30°C and 85.53% over 900 cycles in Zn/I2 pouch cells—breaking the low-temperature bottleneck for practical aqueous batteries.&lt;br&gt;🏷 zinc-ion battery · NH4I additive · facet-preferential adsorption · low temperature · polyiodide shuttle</description>
-<category>zinc-ion battery</category>
-<category>NH4I additive</category>
-<category>facet-preferential adsorption</category>
-<category>low temperature</category>
-<category>polyiodide shuttle</category>
-</item>
-<item>
-<title>Potassium Regulation at Na1 Sites for Enhanced Redox Utilization and Structural Reversibility in Multimetal NASICON Cathodes</title>
-<link>https://doi.org/10.1002/smll.76656</link>
-<guid isPermaLink="false">10.1002/smll.76656</guid>
-<pubDate>Tue, 10 Nov 2026 08:07:41 GMT</pubDate>
-<description>جایگزینی K در سایت‌های Na1 کاتد NASICON چندفلزی NKVMFP استفاده از ردوکس Mn/V و برگشت‌پذیری ساختاری را بهبود داده و چگالی انرژی 381 Wh kg−1 و 12000 چرخه را ممکن می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Potassium doping at Na1 sites in a multimetal NASICON cathode regulates the alkali environment, modifies the MnO6 crystal field, boosts Mn/V redox utilization, and suppresses Na+/vacancy ordering. This yields 381 Wh kg−1, 12,000-cycle stability, and only 4.13% volume change, demonstrating a practical strategy to enhance energy density and reversibility in sodium-ion battery cathodes.&lt;br&gt;🏷 NASICON cathode · sodium-ion battery · potassium doping · redox utilization · structural reversibility</description>
-<category>NASICON cathode</category>
-<category>sodium-ion battery</category>
-<category>potassium doping</category>
-<category>redox utilization</category>
-<category>structural reversibility</category>
-</item>
-<item>
-<title>Laser‐Enabled Solid–Solid Interface Engineering for Electrochemical Energy Storage: Nonequilibrium Evolution and Cross‐System Strategies</title>
-<link>https://doi.org/10.1002/smll.76618</link>
-<guid isPermaLink="false">10.1002/smll.76618</guid>
-<pubDate>Tue, 10 Nov 2026 08:07:18 GMT</pubDate>
-<description>این مرور، مهندسی رابط جامد-جامد با لیزربه‌عنوان کنترل تحول غیرتعادلی را بررسی و استراتژی‌های LT، LIM، LS و PLD را در باتری‌ها و ابرخازن‌ها مقایسه می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely frames laser-enabled solid–solid interface engineering as controlled nonequilibrium interfacial evolution, comparing four laser strategies across solid-state batteries, rechargeable batteries, and supercapacitors. Its Constraint–Physics–Evolution–Strategy framework links dominant interfacial constraints to physical origins and compatible laser approaches, offering a transferable cross-system basis and a roadmap for descriptors, dynamic characterization, multiscale modeling, and closed-loop optimization.&lt;br&gt;🏷 laser processing · solid-solid interfaces · solid-state batteries · supercapacitors · interface engineering</description>
-<category>laser processing</category>
-<category>solid-solid interfaces</category>
-<category>solid-state batteries</category>
-<category>supercapacitors</category>
-<category>interface engineering</category>
 </item>
 </channel>
 </rss>
