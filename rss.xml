@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 03:03:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 04:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beneficial Reduction of Surface Compositional Complexity in High-Entropy Oxide Oxygen Evolution Reaction Catalysts into a Ternary Phase</title>
+<link>https://doi.org/10.1021/acscatal.6c04972</link>
+<guid isPermaLink="false">10.1021/acscatal.6c04972</guid>
+<pubDate>Wed, 11 Nov 2026 04:01:08 GMT</pubDate>
+<description>طیف‌سنجی پرتو ایکس نشان می‌دهد تبدیل سطحی اکسیدهای پرآنتروپی Ni/Co/Fe/Mn/Cr به فاز سه‌تایی Ni/Co/Fe یا Ni/Co/Mn، عملکرد پایدار OER را ممکن می‌سازد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 high-entropy oxide · oxygen evolution reaction · surface reconstruction · X-ray spectroscopy · electrocatalyst</description>
+<category>high-entropy oxide</category>
+<category>oxygen evolution reaction</category>
+<category>surface reconstruction</category>
+<category>X-ray spectroscopy</category>
+<category>electrocatalyst</category>
+</item>
+<item>
+<title>Enhancing hydrogen storage performance of porous carbon materials by co-doping B and N combined with pore texture tuning</title>
+<link>https://doi.org/10.1016/j.jmst.2026.11.010</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.11.010</guid>
+<pubDate>Wed, 11 Nov 2026 04:01:04 GMT</pubDate>
+<description>با هم‌افزایی دوپینگ همزمان B و N و تنظیم بافت حفره، عملکرد ذخیره‌سازی هیدروژن در مواد کربن متخلخل بهبود یافته است.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 hydrogen storage · porous carbon · B and N co-doping · pore texture tuning · physisorption</description>
+<category>hydrogen storage</category>
+<category>porous carbon</category>
+<category>B and N co-doping</category>
+<category>pore texture tuning</category>
+<category>physisorption</category>
+</item>
 <item>
 <title>Structural design strategies of zinc metal anode</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.063</link>
@@ -1189,30 +1213,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methanol ste
 <category>pilot-scale system</category>
 <category>passive thermal retention</category>
 <category>heat transfer fluid</category>
-</item>
-<item>
-<title>Experimental evaluation of pulse-current-constant-voltage charging for capacity fade reduction in Li-Po pouch batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125459</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125459</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:24 GMT</pubDate>
-<description>روش شارژ پالسی-جریان ثابت-ولتاژ ثابت برای کاهش افت ظرفیت باتری‌های کیسه‌ای Li-Po به‌صورت تجربی ارزیابی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pulse current charging · Li-Po pouch cell · capacity fade · constant voltage · cycle aging</description>
-<category>pulse current charging</category>
-<category>Li-Po pouch cell</category>
-<category>capacity fade</category>
-<category>constant voltage</category>
-<category>cycle aging</category>
-</item>
-<item>
-<title>Binary fatty acid-based phase change composites for latent thermal energy storage: molecular mechanisms and microfluidic encapsulation</title>
-<link>https://doi.org/10.1016/j.est.2026.125613</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125613</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:10 GMT</pubDate>
-<description>کامپوزیت‌های تغییر فاز بر پایه اسیدهای چرب دوتایی برای ذخیره‌سازی گرمای نهان با بررسی سازوکارهای مولکولی و ریزپوشانی میکروسیالی ساخته و ارزیابی شدند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change composite · fatty acid · microfluidic encapsulation · latent heat storage · molecular dynamics</description>
-<category>phase change composite</category>
-<category>fatty acid</category>
-<category>microfluidic encapsulation</category>
-<category>latent heat storage</category>
-<category>molecular dynamics</category>
 </item>
 </channel>
 </rss>
