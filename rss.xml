@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 09:02:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 10:02:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Metabolic Nanomedicine Reprograms Mesenchymal Stem Cells for Durable Exosome‐Mediated Immunomodulation</title>
+<link>https://doi.org/10.1002/exp2.70249</link>
+<guid isPermaLink="false">10.1002/exp2.70249</guid>
+<pubDate>Wed, 11 Nov 2026 10:01:58 GMT</pubDate>
+<description>نانوذرات حامل NAD+ با بازبرنامه‌ریزی عملکرد اگزوزوم از طریق محور NAD+/α-ketoglutarate/TET1-SMPD3، بقا و ایمونومدولاسیون سلول‌های بنیادی مزانشیمی را در کولیت موش بهبود می‌دهند.&lt;br&gt;Exploration | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mesenchymal stem cells · NAD+ delivery · exosome · immunomodulation · colitis</description>
+<category>mesenchymal stem cells</category>
+<category>NAD+ delivery</category>
+<category>exosome</category>
+<category>immunomodulation</category>
+<category>colitis</category>
+</item>
+<item>
+<title>A Cuproptosis Nanoparticle Reverses Lung Adenocarcinoma Drug Resistance</title>
+<link>https://doi.org/10.1002/exp2.70250</link>
+<guid isPermaLink="false">10.1002/exp2.70250</guid>
+<pubDate>Wed, 11 Nov 2026 10:01:55 GMT</pubDate>
+<description>نانوذرات مس با القای cuproptosis و کاهش ATP7B، مقاومت دارویی آدنوکارسینوم ریه با جهش KRAS را در برابر AMG-510 معکوس می‌کنند.&lt;br&gt;Exploration | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cuproptosis · lung adenocarcinoma · drug resistance · copper nanoparticles · KRAS</description>
+<category>cuproptosis</category>
+<category>lung adenocarcinoma</category>
+<category>drug resistance</category>
+<category>copper nanoparticles</category>
+<category>KRAS</category>
+</item>
 <item>
 <title>Constructing Low‐Friction Ion Transport Pathways in Crosslinked Polymer Electrolyte for Practical Quasi‐Solid‐State Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adma.75615</link>
@@ -1189,30 +1213,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methanol ste
 <category>gene drive</category>
 <category>vector control</category>
 <category>public health</category>
-</item>
-<item>
-<title>Dual-layer engineering of herbicide resistance in crops</title>
-<link>https://doi.org/10.1038/s41587-026-03391-y</link>
-<guid isPermaLink="false">10.1038/s41587-026-03391-y</guid>
-<pubDate>Tue, 10 Nov 2026 21:02:50 GMT</pubDate>
-<description>این پژوهش با مهندسی دولایه مقاومت به علف‌کش‌ها را در گیاهان زراعی ایجاد می‌کند.&lt;br&gt;Nature Biotechnology | 🔬 Research Article&lt;br&gt;🏷 herbicide resistance · crops · dual-layer engineering · genetic engineering · weed control</description>
-<category>herbicide resistance</category>
-<category>crops</category>
-<category>dual-layer engineering</category>
-<category>genetic engineering</category>
-<category>weed control</category>
-</item>
-<item>
-<title>A new era for Parkinson’s: this time with better stem cells</title>
-<link>https://doi.org/10.1038/s41587-026-03383-y</link>
-<guid isPermaLink="false">10.1038/s41587-026-03383-y</guid>
-<pubDate>Tue, 10 Nov 2026 21:02:39 GMT</pubDate>
-<description>این دیدگاه چشم‌انداز درمان بیماری پارکینسون با سلول‌های بنیادی بهبودیافته را ترسیم می‌کند و بر پیشرفت‌های اخیر در پیوند سلول‌های دوپامینرژیک تأکید دارد.&lt;br&gt;Nature Biotechnology | 💭 Perspective&lt;br&gt;🏷 Parkinson&amp;#x27;s disease · stem cell therapy · dopaminergic neurons · cell transplantation · regenerative medicine</description>
-<category>Parkinson&#x27;s disease</category>
-<category>stem cell therapy</category>
-<category>dopaminergic neurons</category>
-<category>cell transplantation</category>
-<category>regenerative medicine</category>
 </item>
 </channel>
 </rss>
