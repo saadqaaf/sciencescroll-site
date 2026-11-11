@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 00:01:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 01:02:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Solvent-protect-solvent strategy enables fast-charging and low-temperature 1,3-dioxolane-based electrolytes in lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105649</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105649</guid>
+<pubDate>Wed, 11 Nov 2026 01:02:05 GMT</pubDate>
+<description>راهبرد solvent-protect-solvent الکترولیت‌های مبتنی بر 1,3-dioxolane را برای شارژ سریع و عملکرد دمای پایین در باتری‌های لیتیوم-یون ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 1,3-dioxolane electrolyte · lithium-ion battery · fast charging · low temperature · solvent-protect-solvent</description>
+<category>1,3-dioxolane electrolyte</category>
+<category>lithium-ion battery</category>
+<category>fast charging</category>
+<category>low temperature</category>
+<category>solvent-protect-solvent</category>
+</item>
 <item>
 <title>Biomass-derived hard carbon for sodium-ion batteries: From microstructure engineering to commercial sustainability</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101886</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in
 <category>lithium-ion battery</category>
 <category>unseen temperatures</category>
 <category>support-aware learning</category>
-</item>
-<item>
-<title>Dual‑carbon protection strategy for Bi2S3/ZIF-67-derived carbon/carbon fibers with enhanced sodium storage capability</title>
-<link>https://doi.org/10.1016/j.est.2026.125541</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125541</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:08 GMT</pubDate>
-<description>استراتژی حفاظت کربن دوگانه برای Bi2S3/کربن مشتق از ZIF-67/الیاف کربن، قابلیت ذخیره‌سازی سدیم را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Bi2S3 · sodium storage · carbon fibers · ZIF-67-derived carbon · dual-carbon protection</description>
-<category>Bi2S3</category>
-<category>sodium storage</category>
-<category>carbon fibers</category>
-<category>ZIF-67-derived carbon</category>
-<category>dual-carbon protection</category>
 </item>
 </channel>
 </rss>
