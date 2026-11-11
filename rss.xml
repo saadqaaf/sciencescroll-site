@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 01:02:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Self-Driving Laboratory for Accelerated Electrolyte Discovery</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01693</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01693</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:42 GMT</pubDate>
+<description>این مقاله یک آزمایشگاه خودگردان با رباتیک و بهینه‌سازی Bayesian را برای کشف الکترولیت معرفی می‌کند و الکترولیت آبی high-entropy با رسانایی 134.1 mS cm–1 و پنجره پایداری 2.50 V برای باتری روی دماپایین می‌یابد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating liquid-handling robotics, online electroanalysis, and Bayesian optimization into a self-driving 96-well laboratory that autonomously formulates and screens electrolytes. Its significance is accelerating high-dimensional electrolyte discovery with minimal labor, demonstrated by a high-entropy aqueous electrolyte achieving 134.1 mS cm–1 conductivity, a 2.50 V stability window, and ~2019 h cycling at –20 °C.&lt;br&gt;🏷 self-driving laboratory · electrolyte discovery · Bayesian optimization · aqueous zinc battery · high-entropy electrolyte</description>
+<category>self-driving laboratory</category>
+<category>electrolyte discovery</category>
+<category>Bayesian optimization</category>
+<category>aqueous zinc battery</category>
+<category>high-entropy electrolyte</category>
+</item>
+<item>
+<title>Mesoscale Chiroptical Order in Achiral Metal-Halide Nanoplatelet Assemblies</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03368</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03368</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:37 GMT</pubDate>
+<description>این دیدگاه نشان می‌دهد که خودآرایی نانوپلیت‌های پروسکایت هالید فلزی غیرکایرال مانند Cs3Cd2Cl7 و CsPbBr3، حتی در تجمع‌های کوتاه‌برد، خواص نوری کایرال در مقیاس مزو ایجاد می‌کند.&lt;br&gt;ACS Energy Letters | 💭 Perspective&lt;br&gt;🏷 metal-halide perovskite · nanoplatelets · circular dichroism · self-assembly · mesoscale chirality</description>
+<category>metal-halide perovskite</category>
+<category>nanoplatelets</category>
+<category>circular dichroism</category>
+<category>self-assembly</category>
+<category>mesoscale chirality</category>
+</item>
+<item>
+<title>Nanobubbles, pristine emulsions, high ionic strength electrokinetics – Paradoxes of Colloid and Interface Science</title>
+<link>https://doi.org/10.1016/j.cis.2026.104091</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104091</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:34 GMT</pubDate>
+<description>این دیدگاه، پارادوکس‌های علوم کلوئید و سطح مشترک را در زمینه nanobubbleها، امولسیون‌های خالص و electrokinetics با قدرت یونی بالا بررسی می‌کند.&lt;br&gt;Advances in Colloid and Interface Science | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 nanobubbles · pristine emulsions · electrokinetics · ionic strength · colloid interface science</description>
+<category>nanobubbles</category>
+<category>pristine emulsions</category>
+<category>electrokinetics</category>
+<category>ionic strength</category>
+<category>colloid interface science</category>
+</item>
+<item>
+<title>Biopolymer-based gel platforms for food systems: From design principles to advanced applications</title>
+<link>https://doi.org/10.1016/j.cis.2026.104094</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104094</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:31 GMT</pubDate>
+<description>این مرور، اصول طراحی و کاربردهای پیشرفته پلتفرم‌های ژل مبتنی بر biopolymer را در سیستم‌های غذایی، از جمله کپسوله‌سازی و بسته‌بندی، جمع‌بندی می‌کند.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 biopolymer gel · food systems · hydrogel design · encapsulation · food packaging</description>
+<category>biopolymer gel</category>
+<category>food systems</category>
+<category>hydrogel design</category>
+<category>encapsulation</category>
+<category>food packaging</category>
+</item>
+<item>
+<title>Hierarchically engineered aerogels with synergistic structure–function properties: From extreme shielding to smart adaptability</title>
+<link>https://doi.org/10.1016/j.cis.2026.104092</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104092</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:28 GMT</pubDate>
+<description>این مقاله مروری، aerogelهای مهندسی‌شده به‌صورت سلسله‌مراتبی را برای سپرگیری شدید و سازگاری هوشمند بررسی می‌کند و هم‌افزایی ساختار-عملکرد آن‌ها را نشان می‌دهد.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 aerogels · hierarchical structure · EMI shielding · thermal insulation · smart adaptability</description>
+<category>aerogels</category>
+<category>hierarchical structure</category>
+<category>EMI shielding</category>
+<category>thermal insulation</category>
+<category>smart adaptability</category>
+</item>
 <item>
 <title>Solvent-protect-solvent strategy enables fast-charging and low-temperature 1,3-dioxolane-based electrolytes in lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105649</link>
@@ -1146,66 +1206,6 @@
 <category>thermoelectric</category>
 <category>phonon engineering</category>
 <category>synthesis route</category>
-</item>
-<item>
-<title>Coupling Fast Zn 2+ Kinetics With V–O Framework Stabilization via Nitrogen‐Rich Interfacial Engineering of Spinel ZnV 2 O 4</title>
-<link>https://doi.org/10.1002/advs.78612</link>
-<guid isPermaLink="false">10.1002/advs.78612</guid>
-<pubDate>Tue, 10 Nov 2026 18:02:23 GMT</pubDate>
-<description>با مهندسی بین‌سطحی غنی از نیتروژن با GCN در کاتد اسپینل ZnV2O4، سینتیک Zn2+ و پایداری چارچوب V-O در باتری آبی روی-یون بهبود یافت.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using graphitic carbon nitride as a nitrogen-rich interfacial regulator to physically integrate with spinel ZnV₂O₄, enabling polar N sites that boost Zn²⁺ kinetics and stabilize the V–O framework. Significance: this interfacial engineering strategy delivers high-rate, durable vanadate cathodes (405 mAh g⁻¹, 3000-cycle stability), advancing practical aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · ZnV2O4 cathode · g-C3N4 interface · Zn2+ kinetics · V-O stabilization</description>
-<category>aqueous zinc-ion battery</category>
-<category>ZnV2O4 cathode</category>
-<category>g-C3N4 interface</category>
-<category>Zn2+ kinetics</category>
-<category>V-O stabilization</category>
-</item>
-<item>
-<title>Space‐Charge‐Driven Nonlinear Charge Transport in Silicon Reconfigurable Nonlinear‐Processing Units</title>
-<link>https://doi.org/10.1002/advs.78644</link>
-<guid isPermaLink="false">10.1002/advs.78644</guid>
-<pubDate>Tue, 10 Nov 2026 18:02:18 GMT</pubDate>
-<description>با اندازه‌گیری‌های دما و طول و شبیه‌سازی TCAD نشان داده شد که غیرخطی‌بودن دمای اتاق در واحدهای پردازش سیلیکونی ناشی از اثرات بار فضایی است.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silicon RNPU · space-charge transport · nonlinear transport · neuromorphic computing · TCAD simulation</description>
-<category>silicon RNPU</category>
-<category>space-charge transport</category>
-<category>nonlinear transport</category>
-<category>neuromorphic computing</category>
-<category>TCAD simulation</category>
-</item>
-<item>
-<title>Bioorthogonal Click‐to‐Disassemble Phthalocyanine Nanoassemblies for Precise Chemo‐Photodynamic Therapy against Hypoxic Tumors</title>
-<link>https://doi.org/10.1002/advs.78624</link>
-<guid isPermaLink="false">10.1002/advs.78624</guid>
-<pubDate>Tue, 10 Nov 2026 18:02:15 GMT</pubDate>
-<description>استراتژی کلیک زیست‌متعادل برای تجزیه نانواسمبلی‌های فتالوسیانین رویین طراحی شد که فعال‌سازی انتخابی توموری و شیمی‌درمانی-فتودینامیک علیه تومورهای هیپوکسیک را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 phthalocyanine nanoassemblies · bioorthogonal click · photodynamic therapy · hypoxic tumor · tirapazamine</description>
-<category>phthalocyanine nanoassemblies</category>
-<category>bioorthogonal click</category>
-<category>photodynamic therapy</category>
-<category>hypoxic tumor</category>
-<category>tirapazamine</category>
-</item>
-<item>
-<title>Beyond the Debye Temperature: A Unified Microscopic Framework for Designing Thermally Stable Red‐Emitting Phosphors</title>
-<link>https://doi.org/10.1002/advs.78623</link>
-<guid isPermaLink="false">10.1002/advs.78623</guid>
-<pubDate>Tue, 10 Nov 2026 18:02:12 GMT</pubDate>
-<description>دو فسفر اکسیدی Eu3+ غیرمرکزی سنتز شد و نشان داده شد پاسخ موضعی فعال‌کننده، نه سختی شبکه، عامل کلیدی پایداری حرارتی است.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Eu3+ phosphors · thermal quenching · local symmetry · rare-earth luminescence · solid-state lighting</description>
-<category>Eu3+ phosphors</category>
-<category>thermal quenching</category>
-<category>local symmetry</category>
-<category>rare-earth luminescence</category>
-<category>solid-state lighting</category>
-</item>
-<item>
-<title>Development‐Informed Microsphere Assemblies Enable Spatiotemporally Programmed Bone–Vascular Organoid‐Like Constructs for Large Bone Defect Repair</title>
-<link>https://doi.org/10.1002/advs.78616</link>
-<guid isPermaLink="false">10.1002/advs.78616</guid>
-<pubDate>Tue, 10 Nov 2026 18:02:09 GMT</pubDate>
-<description>یک پلتفرم ارگانوئید استخوان-عروق بدون Matrigel با برنامه‌ریزی ژنی BMP4 و VEGFA و میکروسفرهای GelMA ساخت شد که ترمیم نقص استخوانی بزرگ را در خرگوش بهبود داد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 bone organoid · vascularization · microspheres · BMP4/VEGFA · bone defect repair</description>
-<category>bone organoid</category>
-<category>vascularization</category>
-<category>microspheres</category>
-<category>BMP4/VEGFA</category>
-<category>bone defect repair</category>
 </item>
 </channel>
 </rss>

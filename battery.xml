@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 01:02:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Self-Driving Laboratory for Accelerated Electrolyte Discovery</title>
+<link>https://doi.org/10.1021/acsenergylett.6c01693</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c01693</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:42 GMT</pubDate>
+<description>این مقاله یک آزمایشگاه خودگردان با رباتیک و بهینه‌سازی Bayesian را برای کشف الکترولیت معرفی می‌کند و الکترولیت آبی high-entropy با رسانایی 134.1 mS cm–1 و پنجره پایداری 2.50 V برای باتری روی دماپایین می‌یابد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating liquid-handling robotics, online electroanalysis, and Bayesian optimization into a self-driving 96-well laboratory that autonomously formulates and screens electrolytes. Its significance is accelerating high-dimensional electrolyte discovery with minimal labor, demonstrated by a high-entropy aqueous electrolyte achieving 134.1 mS cm–1 conductivity, a 2.50 V stability window, and ~2019 h cycling at –20 °C.&lt;br&gt;🏷 self-driving laboratory · electrolyte discovery · Bayesian optimization · aqueous zinc battery · high-entropy electrolyte</description>
+<category>self-driving laboratory</category>
+<category>electrolyte discovery</category>
+<category>Bayesian optimization</category>
+<category>aqueous zinc battery</category>
+<category>high-entropy electrolyte</category>
+</item>
 <item>
 <title>Solvent-protect-solvent strategy enables fast-charging and low-temperature 1,3-dioxolane-based electrolytes in lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105649</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in
 <category>conductive network</category>
 <category>electrochemical energy storage</category>
 <category>slurry electrode</category>
-</item>
-<item>
-<title>Robust lithium-ion battery state-of-charge estimation under unseen temperatures via support-aware domain generalization</title>
-<link>https://doi.org/10.1016/j.est.2026.125537</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125537</guid>
-<pubDate>Mon, 09 Nov 2026 13:02:15 GMT</pubDate>
-<description>روشی مبتنی بر تعمیم دامنه آگاه از پشتیبان برای تخمین استوار وضعیت شارژ باتری لیتیوم-یون در دماهای دیده‌نشده ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge estimation · domain generalization · lithium-ion battery · unseen temperatures · support-aware learning</description>
-<category>state-of-charge estimation</category>
-<category>domain generalization</category>
-<category>lithium-ion battery</category>
-<category>unseen temperatures</category>
-<category>support-aware learning</category>
 </item>
 </channel>
 </rss>
