@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 06:01:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 07:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanochemical-induced structural evolution governs lithium extraction kinetics in LiMn₂O₄ ion sieves</title>
+<link>https://doi.org/10.1039/d6ta07519c</link>
+<guid isPermaLink="false">10.1039/d6ta07519c</guid>
+<pubDate>Wed, 11 Nov 2026 07:01:47 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که آسیاب مکانیکی در غربال‌های یونی LiMn2O4 ساختار را تغییر داده و سینتیک استخراج مستقیم لیتیوم را از طریق تحول ساختاری القاشده کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Mechanochemical milling is shown to govern lithium extraction kinetics in LiMn₂O₄ ion sieves through mechanochemically induced structural evolution—a mechanism previously poorly understood. This links processing-induced structural changes to DLE performance, offering a design lever for tuning lithium extraction kinetics and advancing efficient direct lithium extraction sorbents.&lt;br&gt;🏷 lithium ion sieve · LiMn2O4 · direct lithium extraction · mechanochemical milling · extraction kinetics</description>
+<category>lithium ion sieve</category>
+<category>LiMn2O4</category>
+<category>direct lithium extraction</category>
+<category>mechanochemical milling</category>
+<category>extraction kinetics</category>
+</item>
+<item>
+<title>Interfacial In-N orbital hybridization-induced p-band center shift: modulation of intermediate activation and adsorption for enhanced red-light-driven redox catalysis in crystalline carbon nitride/indium sulfide</title>
+<link>https://doi.org/10.1039/d6ta07939c</link>
+<guid isPermaLink="false">10.1039/d6ta07939c</guid>
+<pubDate>Wed, 11 Nov 2026 07:01:42 GMT</pubDate>
+<description>با راهبرد نمک مذاب KSCN، هتروجانکشن کریستالی carbon nitride/In2S3 با هیبریداسیون اوربیتالی In-N ساخته شد که جابه‌جایی p-band center و فعال‌سازی بهتر واسطه‌ها را برای کاتالیز ردوکس تحت نور قرمز به همراه دارد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 carbon nitride · indium sulfide · red-light photocatalysis · orbital hybridization · p-band center</description>
+<category>carbon nitride</category>
+<category>indium sulfide</category>
+<category>red-light photocatalysis</category>
+<category>orbital hybridization</category>
+<category>p-band center</category>
+</item>
 <item>
 <title>Mesoscale modelling of compaction-induced wrinkles in laminated composites at the cost of a macroscale simulation</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114385</link>
@@ -1189,30 +1213,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methanol ste
 <category>alkaline HER</category>
 <category>interfacial electronic reconstruction</category>
 <category>spontaneous reduction</category>
-</item>
-<item>
-<title>Tin Stabilised Lithium-Rich Cobalt-Free Cathodes for High Voltage Lithium-ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta05845k</link>
-<guid isPermaLink="false">10.1039/d6ta05845k</guid>
-<pubDate>Tue, 10 Nov 2026 21:01:41 GMT</pubDate>
-<description>کاتدهای غنی از لیتیوم و بدون کبالت با تثبیت قلع برای باتری‌های لیتیوم-یونی ولتاژ بالا توسعه داده می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in tin stabilisation of lithium-rich cobalt-free cathodes, addressing intrinsic instabilities to enable high-voltage operation. This is significant because it offers a sustainable, cobalt-free high-capacity alternative for next-generation lithium-ion batteries, potentially improving cycling stability and energy density while reducing reliance on critical raw materials.&lt;br&gt;🏷 lithium-rich cathode · cobalt-free · tin doping · high voltage · Li-ion battery</description>
-<category>lithium-rich cathode</category>
-<category>cobalt-free</category>
-<category>tin doping</category>
-<category>high voltage</category>
-<category>Li-ion battery</category>
-</item>
-<item>
-<title>Controllable synthesis of functionalized graphynes for photocatalytic hydrogen production</title>
-<link>https://doi.org/10.1039/d6ta04073j</link>
-<guid isPermaLink="false">10.1039/d6ta04073j</guid>
-<pubDate>Tue, 10 Nov 2026 21:01:36 GMT</pubDate>
-<description>فیلم‌های γ-graphyne عامل‌دار با گروه‌های هیدروکسیل فنولی به‌عنوان بستر کربنی کارآمد برای تولید فوتوکاتالیستی هیدروژن معرفی می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 graphyne · photocatalytic hydrogen · phenolic hydroxyl · proton-coupled electron transfer · carbon film</description>
-<category>graphyne</category>
-<category>photocatalytic hydrogen</category>
-<category>phenolic hydroxyl</category>
-<category>proton-coupled electron transfer</category>
-<category>carbon film</category>
 </item>
 </channel>
 </rss>

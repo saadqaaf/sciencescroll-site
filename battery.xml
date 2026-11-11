@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 06:01:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 07:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanochemical-induced structural evolution governs lithium extraction kinetics in LiMn₂O₄ ion sieves</title>
+<link>https://doi.org/10.1039/d6ta07519c</link>
+<guid isPermaLink="false">10.1039/d6ta07519c</guid>
+<pubDate>Wed, 11 Nov 2026 07:01:47 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که آسیاب مکانیکی در غربال‌های یونی LiMn2O4 ساختار را تغییر داده و سینتیک استخراج مستقیم لیتیوم را از طریق تحول ساختاری القاشده کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Mechanochemical milling is shown to govern lithium extraction kinetics in LiMn₂O₄ ion sieves through mechanochemically induced structural evolution—a mechanism previously poorly understood. This links processing-induced structural changes to DLE performance, offering a design lever for tuning lithium extraction kinetics and advancing efficient direct lithium extraction sorbents.&lt;br&gt;🏷 lithium ion sieve · LiMn2O4 · direct lithium extraction · mechanochemical milling · extraction kinetics</description>
+<category>lithium ion sieve</category>
+<category>LiMn2O4</category>
+<category>direct lithium extraction</category>
+<category>mechanochemical milling</category>
+<category>extraction kinetics</category>
+</item>
 <item>
 <title>Research progress on molecular engineering of multifunctional electrolyte additives for aqueous zinc-ion batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125578</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in
 <category>polyaniline</category>
 <category>quantum confinement</category>
 <category>organic electrolyte</category>
-</item>
-<item>
-<title>Bridging Transport Properties Across Length Scales via Local Ionic Current Distributions in Solid Electrolytes</title>
-<link>https://doi.org/10.1039/d6ta06030g</link>
-<guid isPermaLink="false">10.1039/d6ta06030g</guid>
-<pubDate>Mon, 09 Nov 2026 15:02:02 GMT</pubDate>
-<description>این کار با استفاده از توزیع‌های جریان یونی موضعی، یک راهبرد میان‌مقیاس داده‌محور برای پیش‌بینی انتقال یون در الکترولیت‌های جامد ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a mesoscale, data-driven strategy that uses local ionic current distributions to bridge transport properties across length scales in solid electrolytes. Its significance is enabling more reliable prediction of ionic transport for computational design, overcoming the gap between atomistic and continuum scales.&lt;br&gt;🏷 solid electrolyte · ionic transport · mesoscale modeling · current distribution · length scales</description>
-<category>solid electrolyte</category>
-<category>ionic transport</category>
-<category>mesoscale modeling</category>
-<category>current distribution</category>
-<category>length scales</category>
 </item>
 </channel>
 </rss>
