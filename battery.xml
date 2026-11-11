@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 12:03:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:03:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Physics-Aware Multi-Timescale Hierarchical Coordinated Control for Heavy-Duty Electric Commercial Vehicles</title>
+<link>https://doi.org/10.1016/j.etran.2026.100651</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100651</guid>
+<pubDate>Wed, 11 Nov 2026 13:02:04 GMT</pubDate>
+<description>یک کنترل هماهنگ سلسله‌مراتبی چندمقیاسی و فیزیک‌آگاه برای خودروهای تجاری برقی سنگین ارائه می‌دهد.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 electric commercial vehicles · hierarchical control · multi-timescale · physics-aware · energy management</description>
+<category>electric commercial vehicles</category>
+<category>hierarchical control</category>
+<category>multi-timescale</category>
+<category>physics-aware</category>
+<category>energy management</category>
+</item>
 <item>
 <title>Decoding Symmetry-Breaking Band Structures in Nanocatalysts for Kinetically Favorable Li-S Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02914</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an in
 <category>interfacial regulation</category>
 <category>aqueous zinc battery</category>
 <category>reversibility</category>
-</item>
-<item>
-<title>Development of pitch-derived hard carbon materials for Na-ion batteries: from fossil fuel- to biomass-based precursors</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122312</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122312</guid>
-<pubDate>Mon, 09 Nov 2026 22:01:23 GMT</pubDate>
-<description>پیشرفت کربن سخت مشتق از قطران برای آند باتری‌های یون سدیم از پیش‌ماده‌های فسیلی تا زیست‌توده مرور می‌شود.&lt;br&gt;Carbon | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 hard carbon · Na-ion batteries · pitch precursors · biomass precursors · anode</description>
-<category>hard carbon</category>
-<category>Na-ion batteries</category>
-<category>pitch precursors</category>
-<category>biomass precursors</category>
-<category>anode</category>
 </item>
 </channel>
 </rss>
