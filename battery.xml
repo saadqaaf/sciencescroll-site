@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 18:01:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 19:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial engineering accelerates desolvation kinetics for high-performance alkaline zinc–iron flow batteries</title>
+<link>https://doi.org/10.1039/d6ee06441h</link>
+<guid isPermaLink="false">10.1039/d6ee06441h</guid>
+<pubDate>Wed, 11 Nov 2026 19:01:18 GMT</pubDate>
+<description>سیکلوکتاآمیلوز با تنظیم فرایند desolvation زینکات در سطح مشترک و هسته‌بندی یکنواخت روی، چگالی توان و ظرفیت سطحی بالایی در باتری جریان روی-آهن قلیایی فراهم می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Cyclooctaamylose is introduced as an interfacial regulator that accelerates zincate desolvation and promotes uniform zinc nucleation and growth in alkaline zinc–iron flow batteries. This interfacial engineering suppresses dendrite formation and enables simultaneously high power density and high areal capacity, addressing a key bottleneck in aqueous flow battery performance.&lt;br&gt;🏷 zinc-iron flow battery · desolvation kinetics · interfacial engineering · cyclooctaamylose · zinc nucleation</description>
+<category>zinc-iron flow battery</category>
+<category>desolvation kinetics</category>
+<category>interfacial engineering</category>
+<category>cyclooctaamylose</category>
+<category>zinc nucleation</category>
+</item>
 <item>
 <title>Non-halogen aqueous electrolytes for four-electron iodine conversion</title>
 <link>https://doi.org/10.1038/s41586-026-11282-0</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>cathode material</category>
 <category>copper coating</category>
 <category>carbon nanotubes</category>
-</item>
-<item>
-<title>Oxygen‐Mediated Fe‐N 3 O Single‐Atom Sites Enabled by Lignin‐Derived Hierarchical Carbon for Efficient Oxygen Reduction</title>
-<link>https://doi.org/10.1002/advs.78503</link>
-<guid isPermaLink="false">10.1002/advs.78503</guid>
-<pubDate>Tue, 10 Nov 2026 08:06:14 GMT</pubDate>
-<description>کاتالیزور تک‌اتمی Fe با کوئوردیناسیون نامتقارن Fe-N3O روی کربن سلسله‌مراتبی مشتق از لیگنین، فعالیت ORR و عملکرد باتری روی-هوا را با جابه‌جایی مرکز نوار d بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a dual-template strategy using oxygen-rich lignin as both carbon precursor and coordination modulator to create asymmetric Fe-N₃O single-atom sites in hierarchical porous carbon. This downshifts the Fe d-band center, weakening *OOH adsorption and boosting ORR activity. Significance: the catalyst outperforms Pt/C (0.87 V half-wave, 40 mV higher) with superior durability and high zinc-air battery performance, offering a cost-effective design route.&lt;br&gt;🏷 Fe-N3O single-atom catalyst · oxygen reduction reaction · lignin-derived carbon · hierarchical porous carbon · zinc-air battery</description>
-<category>Fe-N3O single-atom catalyst</category>
-<category>oxygen reduction reaction</category>
-<category>lignin-derived carbon</category>
-<category>hierarchical porous carbon</category>
-<category>zinc-air battery</category>
 </item>
 </channel>
 </rss>
