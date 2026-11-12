@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 22:02:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:04:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A bifunctional silazane additive for simultaneous HF scavenging and dual-interface stabilization in high-voltage lithium metal batteries</title>
+<link>https://doi.org/10.1039/d6ta07861c</link>
+<guid isPermaLink="false">10.1039/d6ta07861c</guid>
+<pubDate>Thu, 12 Nov 2026 23:01:50 GMT</pubDate>
+<description>افزودنی TMDS با جذب HF و پایدارسازی دو سطح مشترک از طریق CEI و SEI غنی از LiF، عملکرد باتری‌های لیتیوم-فلز ولتاژ بالا با NCM811 را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using TMDS, a bifunctional silazane additive, to simultaneously scavenge HF and stabilize both electrode interfaces via a Si-containing, LiF-rich CEI and robust LiF SEI. Its significance: suppressing LiPF6 hydrolysis enables &amp;gt;1500 h Li‖Li cycling, and 1 wt% TMDS optimizes high-voltage Li‖NCM811 cycling and rate performance.&lt;br&gt;🏷 silazane additive · HF scavenging · lithium metal battery · CEI/SEI stabilization · LiF-rich interphase</description>
+<category>silazane additive</category>
+<category>HF scavenging</category>
+<category>lithium metal battery</category>
+<category>CEI/SEI stabilization</category>
+<category>LiF-rich interphase</category>
+</item>
+<item>
+<title>Design Principles of Electrolytes for Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1039/d6ta07209g</link>
+<guid isPermaLink="false">10.1039/d6ta07209g</guid>
+<pubDate>Thu, 12 Nov 2026 23:01:45 GMT</pubDate>
+<description>این مقاله اصول طراحی الکترولیت‌ها را برای باتری‌های آبی روی با هدف بهبود برگشت‌پذیری Zn و رفع موانع کاربرد در ذخیره‌سازی انرژی در مقیاس بزرگ مرور می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in systematically deriving electrolyte design principles specifically for aqueous zinc batteries to overcome poor Zn reversibility. Its significance is providing a rational framework guiding electrolyte selection and engineering, enabling safer, low-cost, sustainable large-scale energy storage and accelerating practical adoption of this promising technology.&lt;br&gt;🏷 aqueous zinc battery · electrolyte design · Zn reversibility · large-scale storage · design principles</description>
+<category>aqueous zinc battery</category>
+<category>electrolyte design</category>
+<category>Zn reversibility</category>
+<category>large-scale storage</category>
+<category>design principles</category>
+</item>
+<item>
+<title>Experimental Insights into the Limiting Mechanism of Vacancy Transport in Sodium Metal Anodes for Solid State Batteries</title>
+<link>https://doi.org/10.1039/d6ta06991f</link>
+<guid isPermaLink="false">10.1039/d6ta06991f</guid>
+<pubDate>Thu, 12 Nov 2026 23:01:40 GMT</pubDate>
+<description>این پژوهش مکانیسم محدودکننده انتقال تهی‌جای فلز سدیم در آندهای فلزی سدیم برای باتری‌های حالت جامد سرامیکی را به‌صورت تجربی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in experimentally identifying the limiting mechanism of vacancy transport in Na metal anodes, moving beyond theoretical predictions. This is significant because contact loss during stripping limits solid-state battery performance; clarifying vacancy transport provides mechanistic insight essential for designing stable Na-metal/ceramic interfaces and advancing safe, long-life solid-state batteries.&lt;br&gt;🏷 sodium metal anode · solid-state battery · vacancy transport · contact loss · ceramic electrolyte</description>
+<category>sodium metal anode</category>
+<category>solid-state battery</category>
+<category>vacancy transport</category>
+<category>contact loss</category>
+<category>ceramic electrolyte</category>
+</item>
 <item>
 <title>Biomass-derived hierarchical carbon hosting Ni,Mo-MOF Nanoflowers for synergistically enhanced Electron-ion transport in supercapacitors</title>
 <link>https://doi.org/10.1016/j.est.2026.125646</link>
@@ -1175,42 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>fast charging</category>
 <category>low temperature</category>
 <category>solvent-protect-solvent</category>
-</item>
-<item>
-<title>Biomass-derived hard carbon for sodium-ion batteries: From microstructure engineering to commercial sustainability</title>
-<link>https://doi.org/10.1016/j.pmatsci.2026.101886</link>
-<guid isPermaLink="false">10.1016/j.pmatsci.2026.101886</guid>
-<pubDate>Tue, 10 Nov 2026 22:01:10 GMT</pubDate>
-<description>این مقاله مروری، مسیر توسعه کربن سخت مشتق از زیست‌توده را از مهندسی ریزساختار تا پایداری تجاری برای آند باتری‌های یون‌سدیم بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 hard carbon · sodium-ion battery · biomass precursor · microstructure engineering · commercial sustainability</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>biomass precursor</category>
-<category>microstructure engineering</category>
-<category>commercial sustainability</category>
-</item>
-<item>
-<title>Beyond boundary lines: predicting P2/O3 phase fractions in layered Na-ion cathodes</title>
-<link>https://doi.org/10.1039/d6ta05776d</link>
-<guid isPermaLink="false">10.1039/d6ta05776d</guid>
-<pubDate>Tue, 10 Nov 2026 21:02:05 GMT</pubDate>
-<description>چارچوب یادگیری ماشین با استفاده از توصیف‌گرهای ترکیب و سنتز، کسر فازهای P2/O3 در کاتدهای لایه‌ای Na-ion را پیش‌بینی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using machine learning with composition and synthesis descriptors to quantitatively predict P2/O3 phase fractions in Na-ion layered cathodes, moving beyond qualitative phase control. Its significance is providing actionable design guidance for engineering biphasic P2/O3 materials with optimized performance.&lt;br&gt;🏷 Na-ion cathode · P2/O3 biphasic · machine learning · phase fraction prediction · layered oxide</description>
-<category>Na-ion cathode</category>
-<category>P2/O3 biphasic</category>
-<category>machine learning</category>
-<category>phase fraction prediction</category>
-<category>layered oxide</category>
-</item>
-<item>
-<title>Interfacial Phosphide-Phosphate Engineering in NiCoP-POₓ/Carbon Heterostructures for Efficient Piezoelectric-Driven Self-Charging Asymmetric Supercapacitors</title>
-<link>https://doi.org/10.1039/d6ta05900g</link>
-<guid isPermaLink="false">10.1039/d6ta05900g</guid>
-<pubDate>Tue, 10 Nov 2026 21:01:50 GMT</pubDate>
-<description>مهندسی بین‌سطحی فسفید-فسفات در نانوکامپوزیت NiCoP-POx/C برای ابرخازن نامتقارن خودشارژ پیزوالکتریک کارآمد به کار می‌رود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interfacial phosphide-phosphate (NiCoP-POₓ/carbon) heterostructure engineering, which enhances charge transfer and active sites for efficient piezoelectric-driven self-charging asymmetric supercapacitors. Its significance is integrating energy harvesting and storage into one wearable-compatible device, offering a sustainable, compact power solution for portable electronics.&lt;br&gt;🏷 self-charging supercapacitor · NiCoP-phosphate heterostructure · piezoelectric separator · asymmetric supercapacitor · interfacial engineering</description>
-<category>self-charging supercapacitor</category>
-<category>NiCoP-phosphate heterostructure</category>
-<category>piezoelectric separator</category>
-<category>asymmetric supercapacitor</category>
-<category>interfacial engineering</category>
 </item>
 </channel>
 </rss>
