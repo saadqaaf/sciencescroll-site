@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 14:02:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 15:02:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anion-Dipole Tailoring and Directional Dipole Coordination Enable Ultrahigh-Energy-Density Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ee05977e</link>
+<guid isPermaLink="false">10.1039/d6ee05977e</guid>
+<pubDate>Thu, 12 Nov 2026 15:01:50 GMT</pubDate>
+<description>تنظیم آنیون-دوقطبی و هماهنگی جهت‌دار دوقطبی، پایداری سطحی کاتد LRMO را بهبود داده و باتری‌های لیتیوم-یونی با چگالی انرژی فوق‌بالا را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using anion-dipole tailoring and directional dipole coordination to stabilize the LRMO cathode-electrolyte interface, suppressing Mn dissolution and anion hydrolysis-driven acid generation. This enables ultrahigh-energy-density lithium-ion batteries with improved high-voltage and high-temperature performance, addressing a key failure mechanism and offering a promising electrolyte design strategy for durable high-energy cathodes.&lt;br&gt;🏷 lithium-rich manganese oxide · anion-dipole tailoring · high-voltage cathode · interfacial stability · lithium-ion battery</description>
+<category>lithium-rich manganese oxide</category>
+<category>anion-dipole tailoring</category>
+<category>high-voltage cathode</category>
+<category>interfacial stability</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Dynamically Constrained yet Thermally Buffered Polyimide Dielectrics Unlock Exceptional Capacitive Energy Storage at 250 °C</title>
+<link>https://doi.org/10.1039/d6ee05984h</link>
+<guid isPermaLink="false">10.1039/d6ee05984h</guid>
+<pubDate>Thu, 12 Nov 2026 15:01:42 GMT</pubDate>
+<description>دی‌الکتریک‌های پلی‌آمیدی با محدودیت دینامیکی و بافر حرارتی، ذخیره‌سازی انرژی خازنی استثنایی را در دمای ۲۵۰ درجه سانتی‌گراد ممکن می‌کنند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dynamically constrained yet thermally buffered polyimide dielectrics that overcome coupled thermal-electrical stress at 250 °C. Significance: enables exceptional capacitive energy storage at extreme temperatures, advancing all-organic dielectric capacitors for high-temperature applications beyond 200 °C.&lt;br&gt;🏷 polyimide dielectric · capacitive energy storage · high temperature · thermal buffering · electrostatic energy</description>
+<category>polyimide dielectric</category>
+<category>capacitive energy storage</category>
+<category>high temperature</category>
+<category>thermal buffering</category>
+<category>electrostatic energy</category>
+</item>
 <item>
 <title>Thiourea-Based Porous Organic Polymer/Carbon Nanotubes Interlayer for the Entrapment of Lithium Polysulfides in Lithium-Sulfur Batteries</title>
 <link>https://doi.org/10.1039/d6ta08095b</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>ball milling</category>
 <category>anode</category>
 <category>sulfur forms</category>
-</item>
-<item>
-<title>Coupling Fast Zn 2+ Kinetics With V–O Framework Stabilization via Nitrogen‐Rich Interfacial Engineering of Spinel ZnV 2 O 4</title>
-<link>https://doi.org/10.1002/advs.78612</link>
-<guid isPermaLink="false">10.1002/advs.78612</guid>
-<pubDate>Tue, 10 Nov 2026 18:02:23 GMT</pubDate>
-<description>با مهندسی بین‌سطحی غنی از نیتروژن با GCN در کاتد اسپینل ZnV2O4، سینتیک Zn2+ و پایداری چارچوب V-O در باتری آبی روی-یون بهبود یافت.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using graphitic carbon nitride as a nitrogen-rich interfacial regulator to physically integrate with spinel ZnV₂O₄, enabling polar N sites that boost Zn²⁺ kinetics and stabilize the V–O framework. Significance: this interfacial engineering strategy delivers high-rate, durable vanadate cathodes (405 mAh g⁻¹, 3000-cycle stability), advancing practical aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · ZnV2O4 cathode · g-C3N4 interface · Zn2+ kinetics · V-O stabilization</description>
-<category>aqueous zinc-ion battery</category>
-<category>ZnV2O4 cathode</category>
-<category>g-C3N4 interface</category>
-<category>Zn2+ kinetics</category>
-<category>V-O stabilization</category>
-</item>
-<item>
-<title>Electric vehicle battery materials supply disruptions can be mitigated with chemistry changes and recycling</title>
-<link>https://doi.org/10.1038/s41467-026-79046-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-79046-y</guid>
-<pubDate>Tue, 10 Nov 2026 17:02:17 GMT</pubDate>
-<description>این مقاله نشان می‌دهد تغییر شیمی باتری و بازیافت می‌تواند اختلالات تأمین مواد باتری خودروهای برقی را کاهش دهد.&lt;br&gt;Nature Communications | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 The novelty lies in quantifying 2030 supply-disruption impacts on US automotive production and consumer costs using an equilibrium model, and showing that feasible chemistry shifts (85% LFP) plus recycled lithium (≥100 kt LCE) cut disruption costs by over half. Significance: disruptions could cost $14–17 billion, but recycling and chemistry changes substantially mitigate them.&lt;br&gt;🏷 EV battery · supply chain · recycling · cathode chemistry · critical materials</description>
-<category>EV battery</category>
-<category>supply chain</category>
-<category>recycling</category>
-<category>cathode chemistry</category>
-<category>critical materials</category>
 </item>
 </channel>
 </rss>
