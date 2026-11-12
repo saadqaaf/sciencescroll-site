@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 04:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 05:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond electronic pathways: Conducting agent design for lithium-ion and emerging battery electrodes</title>
+<link>https://doi.org/10.1016/j.mser.2026.101333</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101333</guid>
+<pubDate>Thu, 12 Nov 2026 05:01:19 GMT</pubDate>
+<description>این مقاله طراحی عوامل رسانا را فراتر از مسیرهای الکترونی برای الکترودهای باتری لیتیوم-یون و باتری‌های نوظهور بررسی می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 conducting agent · lithium-ion battery · electrode design · electronic conductivity · battery electrodes</description>
+<category>conducting agent</category>
+<category>lithium-ion battery</category>
+<category>electrode design</category>
+<category>electronic conductivity</category>
+<category>battery electrodes</category>
+</item>
 <item>
 <title>Lithium–Oxygen Batteries: Fundamental and Practical Considerations</title>
 <link>https://doi.org/10.1021/acs.chemrev.5c00647</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>glycolamide</category>
 <category>electrical double layer</category>
 <category>corrosion resistance</category>
-</item>
-<item>
-<title>Realistic data-driven deep learning framework with multi-objective optimization for lithium-ion battery state estimation</title>
-<link>https://doi.org/10.1016/j.est.2026.125433</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125433</guid>
-<pubDate>Tue, 10 Nov 2026 09:02:48 GMT</pubDate>
-<description>چارچوب یادگیری عمیق داده‌محور با بهینه‌سازی چندهدفه برای تخمین وضعیت باتری لیتیوم-یون ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · deep learning · state estimation · multi-objective optimization · data-driven</description>
-<category>lithium-ion battery</category>
-<category>deep learning</category>
-<category>state estimation</category>
-<category>multi-objective optimization</category>
-<category>data-driven</category>
 </item>
 </channel>
 </rss>

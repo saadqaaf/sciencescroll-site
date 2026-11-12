@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 04:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 05:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Polyimides for extreme environments: design, performance and applications</title>
+<link>https://doi.org/10.1016/j.progpolymsci.2026.102205</link>
+<guid isPermaLink="false">10.1016/j.progpolymsci.2026.102205</guid>
+<pubDate>Thu, 12 Nov 2026 05:01:22 GMT</pubDate>
+<description>این مقاله طراحی، عملکرد و کاربردهای پلی‌ایمیدها را در محیط‌های سخت و دما بالا مرور می‌کند.&lt;br&gt;Progress in Polymer Science | ⭐ Review&lt;br&gt;🏷 polyimide · extreme environments · high-temperature polymer · structure-property · polymer applications</description>
+<category>polyimide</category>
+<category>extreme environments</category>
+<category>high-temperature polymer</category>
+<category>structure-property</category>
+<category>polymer applications</category>
+</item>
+<item>
+<title>Beyond electronic pathways: Conducting agent design for lithium-ion and emerging battery electrodes</title>
+<link>https://doi.org/10.1016/j.mser.2026.101333</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101333</guid>
+<pubDate>Thu, 12 Nov 2026 05:01:19 GMT</pubDate>
+<description>این مقاله طراحی عوامل رسانا را فراتر از مسیرهای الکترونی برای الکترودهای باتری لیتیوم-یون و باتری‌های نوظهور بررسی می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 conducting agent · lithium-ion battery · electrode design · electronic conductivity · battery electrodes</description>
+<category>conducting agent</category>
+<category>lithium-ion battery</category>
+<category>electrode design</category>
+<category>electronic conductivity</category>
+<category>battery electrodes</category>
+</item>
+<item>
+<title>Heavy metal acrobatics: Learning dynamic control for skid-steer loaders</title>
+<link>https://doi.org/10.1126/scirobotics.aef0894</link>
+<guid isPermaLink="false">10.1126/scirobotics.aef0894</guid>
+<pubDate>Thu, 12 Nov 2026 05:01:16 GMT</pubDate>
+<description>با یادگیری تقویتی در شبیه‌سازی و انتقال به واقعیت، حرکات آکروباتیک یک لودر اسکید-استیر ۵ تنی به‌صورت خودکار اجرا شد.&lt;br&gt;Science Robotics | 🔬 Research Article&lt;br&gt;🏷 reinforcement learning · sim-to-real transfer · skid-steer loader · heavy machinery · dynamic control</description>
+<category>reinforcement learning</category>
+<category>sim-to-real transfer</category>
+<category>skid-steer loader</category>
+<category>heavy machinery</category>
+<category>dynamic control</category>
+</item>
+<item>
+<title>Autane: An autonomous crane for sustained port operations</title>
+<link>https://doi.org/10.1126/scirobotics.ady5784</link>
+<guid isPermaLink="false">10.1126/scirobotics.ady5784</guid>
+<pubDate>Thu, 12 Nov 2026 05:01:13 GMT</pubDate>
+<description>سیستم Autane با ترکیب حسگرها و SLAM جرثقیل‌های RTG بندری را به‌صورت خودکار و دقیق برای جابه‌جایی کانتینرها به کار می‌گیرد و بیش از دو میلیون TEU را جابه‌جا کرده است.&lt;br&gt;Science Robotics | 🔬 Research Article&lt;br&gt;🏷 autonomous crane · port automation · RTG crane · multisensor fusion · SLAM</description>
+<category>autonomous crane</category>
+<category>port automation</category>
+<category>RTG crane</category>
+<category>multisensor fusion</category>
+<category>SLAM</category>
+</item>
+<item>
+<title>Through human eyes: How perception and interaction shape humanoid robot acceptance</title>
+<link>https://doi.org/10.1126/scirobotics.aek1050</link>
+<guid isPermaLink="false">10.1126/scirobotics.aek1050</guid>
+<pubDate>Thu, 12 Nov 2026 05:01:09 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که تعاملات چندوجهی و ادراک انسان، اعتماد و پذیرش ربات‌های انسان‌نما را شکل می‌دهد.&lt;br&gt;Science Robotics | 🔬 Research Article&lt;br&gt;🏷 humanoid robot · robot acceptance · human-robot interaction · perception · trust</description>
+<category>humanoid robot</category>
+<category>robot acceptance</category>
+<category>human-robot interaction</category>
+<category>perception</category>
+<category>trust</category>
+</item>
 <item>
 <title>Photothermal CO2 Hydrogenation to Multicarbon Products: Mechanisms, Catalyst Design, and Scale Demonstration</title>
 <link>https://doi.org/10.1007/s40820-026-02351-0</link>
@@ -1151,66 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 DUF4243 oxidase · OzmD �
 <category>hindered ethers</category>
 <category>deuteration</category>
 <category>borane</category>
-</item>
-<item>
-<title>Structural Evolution and Oxygen Evolution Performance of NiFe‐Based Electrocatalysts in Phosphate‐Containing Electrolytes at Non‐Extreme pH</title>
-<link>https://doi.org/10.1002/anie.7929527</link>
-<guid isPermaLink="false">10.1002/anie.7929527</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:25 GMT</pubDate>
-<description>افزودن فسفات در pH حدود ۹ عملکرد OER کاتالیزورهای NiFeOx غنی از Ni را به‌صورت برگشت‌پذیر سرکوب کرده و حالت γ-NiOOH را کاهش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 NiFe electrocatalyst · oxygen evolution · phosphate electrolyte · operando Raman · XAS</description>
-<category>NiFe electrocatalyst</category>
-<category>oxygen evolution</category>
-<category>phosphate electrolyte</category>
-<category>operando Raman</category>
-<category>XAS</category>
-</item>
-<item>
-<title>Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers</title>
-<link>https://doi.org/10.1002/anie.4691596</link>
-<guid isPermaLink="false">10.1002/anie.4691596</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:21 GMT</pubDate>
-<description>کاتالیزور اکسیدی CuCoCeOx با سایت‌های هم‌افزای Cu–Co ذخیره و آزادسازی برگشت‌پذیر هیدروژن در حامل‌های آلی مایع را بدون فلز نجیب ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an earth-abundant CuCoCeOx catalyst enabling reversible, pretreatment-free LOHC hydrogenation–dehydrogenation via in situ reconstruction into stable Cu(δ+)–CoOx interfacial sites. Significance: Cu–Co synergy prevents Cu sintering and enables low-valence Co, achieving 98.4% H2 uptake, near-quantitative release, and five stable cycles—surpassing noble-metal benchmarks and advancing practical clean-energy storage.&lt;br&gt;🏷 liquid organic hydrogen carrier · hydrogen storage · Cu-Co catalyst · dehydrogenation · interfacial sites</description>
-<category>liquid organic hydrogen carrier</category>
-<category>hydrogen storage</category>
-<category>Cu-Co catalyst</category>
-<category>dehydrogenation</category>
-<category>interfacial sites</category>
-</item>
-<item>
-<title>Layer Stacking Structure Governed Transition‐Metal Interlayer Migration for Reversible High‐Voltage Oxygen Redox Plateau</title>
-<link>https://doi.org/10.1002/anie.3309393</link>
-<guid isPermaLink="false">10.1002/anie.3309393</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:16 GMT</pubDate>
-<description>ساختار چیدمان لایه‌ای در کاتدهای سدیمی P3 و P2 مهاجرت بین‌لایه‌ای فلز واسطه را کنترل کرده و برگشت‌پذیری پلاتوی اکسیژن ولتاژ بالا را تعیین می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that layered stacking structure governs interlayer transition-metal migration, where the P3 &amp;quot;ABBCCA&amp;quot; ribbon superlattice suppresses O-type stacking faults and enables reversible high-voltage oxygen redox, unlike P2 &amp;quot;ABBA&amp;quot;. This is significant because it explains how stacking structure controls oxygen plateau reversibility, offering a design principle for high-capacity, low-hysteresis layered cathodes.&lt;br&gt;🏷 sodium layered cathode · oxygen redox · layer stacking · transition-metal migration · voltage hysteresis</description>
-<category>sodium layered cathode</category>
-<category>oxygen redox</category>
-<category>layer stacking</category>
-<category>transition-metal migration</category>
-<category>voltage hysteresis</category>
-</item>
-<item>
-<title>Covalent Organic Frameworks for Exceptional Removal of PFAS From Water</title>
-<link>https://doi.org/10.1002/anie.6005895</link>
-<guid isPermaLink="false">10.1002/anie.6005895</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:11 GMT</pubDate>
-<description>چارچوب‌های آلی کووالانسی با جفت سایت‌های آمونیوم کواترنری برای حذف فوق‌سریع PFAS از آب طراحی شد و غلظت PFOA را به زیر ng/L رساند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · PFAS removal · water treatment · quaternary ammonium · adsorption</description>
-<category>covalent organic framework</category>
-<category>PFAS removal</category>
-<category>water treatment</category>
-<category>quaternary ammonium</category>
-<category>adsorption</category>
-</item>
-<item>
-<title>Chemically Anchored Rebar Perovskites for Deterministic Layer‐by‐Layer Integration</title>
-<link>https://doi.org/10.1002/anie.1677300</link>
-<guid isPermaLink="false">10.1002/anie.1677300</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:05 GMT</pubDate>
-<description>این مقاله با داربست نانوالیاف پلی‌آکریلونیتریل، فیلم‌های پروسکایتی تقویت‌شده‌ی مستقل می‌سازد و ادغام لایه‌به‌لایه‌ی ناهم‌ساختارهای 2D/3D را برای آشکارسازی پرتو ایکس ممکن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 halide perovskite · rebar film · layer-by-layer integration · nanofiber scaffold · X-ray detection</description>
-<category>halide perovskite</category>
-<category>rebar film</category>
-<category>layer-by-layer integration</category>
-<category>nanofiber scaffold</category>
-<category>X-ray detection</category>
 </item>
 </channel>
 </rss>
