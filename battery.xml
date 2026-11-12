@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 23:04:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 00:04:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Non-Monotonic Na2CO3 Regulation of MOF-Derived ZnS-Embedded N, S Co-doped Carbon for Sodium-Ion Storage</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122310</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122310</guid>
+<pubDate>Thu, 12 Nov 2026 00:04:08 GMT</pubDate>
+<description>تنظیم غیریکنوا Na2CO3 در کربن هم‌دوپ‌شده N,S مشتق از MOF حاوی ZnS برای ذخیره‌سازی سدیم بررسی و بهینه شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 sodium-ion storage · ZnS · MOF-derived carbon · Na2CO3 regulation · N,S co-doped carbon</description>
+<category>sodium-ion storage</category>
+<category>ZnS</category>
+<category>MOF-derived carbon</category>
+<category>Na2CO3 regulation</category>
+<category>N,S co-doped carbon</category>
+</item>
 <item>
 <title>Coupled microengineering strategies for carbon-coated SiO anodes toward mitigated chemo-mechanical degradation and long-term cycling stability</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.060</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>ammonium doping</category>
 <category>cathode</category>
 <category>structural stability</category>
-</item>
-<item>
-<title>DFT Simulation and Synthesis of 2D/2D/0D Ternary NanoHybrid Heterostructure with Ti3C2Tx/Graphene/NiCo2S4 for High-performance Supercapacitor</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122318</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122318</guid>
-<pubDate>Tue, 10 Nov 2026 08:08:50 GMT</pubDate>
-<description>سنتز و شبیه‌سازی DFT نانوهیبرید سه‌تایی Ti3C2Tx/graphene/NiCo2S4 برای ابرخازن با عملکرد بالا و بررسی مکانیزم ذخیره انرژی.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 Ti3C2Tx MXene · supercapacitor · NiCo2S4 · DFT simulation · heterostructure</description>
-<category>Ti3C2Tx MXene</category>
-<category>supercapacitor</category>
-<category>NiCo2S4</category>
-<category>DFT simulation</category>
-<category>heterostructure</category>
 </item>
 </channel>
 </rss>
