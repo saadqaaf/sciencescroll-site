@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 03:01:44 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 04:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Photothermal CO2 Hydrogenation to Multicarbon Products: Mechanisms, Catalyst Design, and Scale Demonstration</title>
+<link>https://doi.org/10.1007/s40820-026-02351-0</link>
+<guid isPermaLink="false">10.1007/s40820-026-02351-0</guid>
+<pubDate>Thu, 12 Nov 2026 04:01:14 GMT</pubDate>
+<description>این مرور اصول فوتوترمال، مسیرهای فعال‌سازی CO2 و جفت‌شدن C-C و راهبردهای طراحی کاتالیزور برای تولید فوتوترمالی محصولات چندکربنی از CO2 را بررسی می‌کند.&lt;br&gt;Nano-Micro Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 photothermal catalysis · CO2 hydrogenation · C-C coupling · multicarbon products · catalyst design</description>
+<category>photothermal catalysis</category>
+<category>CO2 hydrogenation</category>
+<category>C-C coupling</category>
+<category>multicarbon products</category>
+<category>catalyst design</category>
+</item>
 <item>
 <title>Lithium–Oxygen Batteries: Fundamental and Practical Considerations</title>
 <link>https://doi.org/10.1021/acs.chemrev.5c00647</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 DUF4243 oxidase · OzmD �
 <category>layer-by-layer integration</category>
 <category>nanofiber scaffold</category>
 <category>X-ray detection</category>
-</item>
-<item>
-<title>Operando X‐Ray Micro‐Imaging Reveals Spatiotemporal Evolution of the Oxidation State of Nickel During Dry Methane Reforming</title>
-<link>https://doi.org/10.1002/anie.5531620</link>
-<guid isPermaLink="false">10.1002/anie.5531620</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:02 GMT</pubDate>
-<description>این مقاله با تصویربرداری پرتو ایکس operando، تحول مکانی-زمانی حالت اکسایش نیکل در کاتالیزورهای Ni را در ریفرمینگ خشک متان آشکار می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 dry methane reforming · operando X-ray imaging · nickel oxidation state · spatiotemporal dynamics · Ni catalysts</description>
-<category>dry methane reforming</category>
-<category>operando X-ray imaging</category>
-<category>nickel oxidation state</category>
-<category>spatiotemporal dynamics</category>
-<category>Ni catalysts</category>
 </item>
 </channel>
 </rss>
