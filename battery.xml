@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 20:01:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 21:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Biomass-derived hierarchical carbon hosting Ni,Mo-MOF Nanoflowers for synergistically enhanced Electron-ion transport in supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125646</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125646</guid>
+<pubDate>Thu, 12 Nov 2026 21:01:38 GMT</pubDate>
+<description>کربن سلسله‌مراتبی زیست‌توده میزبان نانوفلاورهای Ni,Mo-MOF برای بهبود هم‌افزای انتقال الکترون-یون در ابرخازن‌ها ساخته می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 biomass-derived carbon · Ni,Mo-MOF · supercapacitors · electron-ion transport · hierarchical carbon</description>
+<category>biomass-derived carbon</category>
+<category>Ni,Mo-MOF</category>
+<category>supercapacitors</category>
+<category>electron-ion transport</category>
+<category>hierarchical carbon</category>
+</item>
+<item>
+<title>Multi-timescale electricity‑carbon trading optimization for wind-storage systems with a physics-informed safety-aware actor-critic algorithm</title>
+<link>https://doi.org/10.1016/j.est.2026.125423</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125423</guid>
+<pubDate>Thu, 12 Nov 2026 21:01:32 GMT</pubDate>
+<description>بهینه‌سازی چندمقیاسه تجارت برق-کربن برای سیستم‌های باد-ذخیره‌ساز با الگوریتم actor-critic آگاه از فیزیک و ایمنی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 wind-storage systems · electricity-carbon trading · actor-critic algorithm · multi-timescale optimization · physics-informed learning</description>
+<category>wind-storage systems</category>
+<category>electricity-carbon trading</category>
+<category>actor-critic algorithm</category>
+<category>multi-timescale optimization</category>
+<category>physics-informed learning</category>
+</item>
 <item>
 <title>Vertically aligned microstructure in ultra-thick graphite anodes made by directional ice templating</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122322</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>piezoelectric separator</category>
 <category>asymmetric supercapacitor</category>
 <category>interfacial engineering</category>
-</item>
-<item>
-<title>Tin Stabilised Lithium-Rich Cobalt-Free Cathodes for High Voltage Lithium-ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta05845k</link>
-<guid isPermaLink="false">10.1039/d6ta05845k</guid>
-<pubDate>Tue, 10 Nov 2026 21:01:41 GMT</pubDate>
-<description>کاتدهای غنی از لیتیوم و بدون کبالت با تثبیت قلع برای باتری‌های لیتیوم-یونی ولتاژ بالا توسعه داده می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in tin stabilisation of lithium-rich cobalt-free cathodes, addressing intrinsic instabilities to enable high-voltage operation. This is significant because it offers a sustainable, cobalt-free high-capacity alternative for next-generation lithium-ion batteries, potentially improving cycling stability and energy density while reducing reliance on critical raw materials.&lt;br&gt;🏷 lithium-rich cathode · cobalt-free · tin doping · high voltage · Li-ion battery</description>
-<category>lithium-rich cathode</category>
-<category>cobalt-free</category>
-<category>tin doping</category>
-<category>high voltage</category>
-<category>Li-ion battery</category>
-</item>
-<item>
-<title>Structural Characterization of Low-Temperature Synthesized Cathodes, LT-LiMn x Ni 1-x O 2 (0.5 ≤x ≤ 0.75), for Li-ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta07552e</link>
-<guid isPermaLink="false">10.1039/d6ta07552e</guid>
-<pubDate>Tue, 10 Nov 2026 21:01:32 GMT</pubDate>
-<description>ساختار کاتدهای کم‌دما سنتزشده LT-LiMnxNi1-xO2 برای باتری‌های لیتیوم-یونی بدون کبالت بررسی و شناسایی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in low-temperature synthesis of cobalt-free LT-LiMnxNi1-xO2 (0.5≤x≤0.75) cathodes with composite structural design, moving beyond conventional layered oxides. Significance: offers a pathway to overcome limitations of standard layered cathodes and supports development of sustainable, cobalt-free Li-ion batteries through new structural designs.&lt;br&gt;🏷 cobalt-free cathode · LMNO · layered oxide · Li-ion battery · structural characterization</description>
-<category>cobalt-free cathode</category>
-<category>LMNO</category>
-<category>layered oxide</category>
-<category>Li-ion battery</category>
-<category>structural characterization</category>
 </item>
 </channel>
 </rss>
