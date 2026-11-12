@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 05:01:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 06:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nucleic acid therapeutic strategies for reprogramming immune tolerance</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103572</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103572</guid>
+<pubDate>Thu, 12 Nov 2026 06:01:19 GMT</pubDate>
+<description>این مقاله مروری، راهبردهای درمانی مبتنی بر nucleic acid را برای بازبرنامه‌ریزی تحمل ایمنی و کاربردهای immunotherapy بررسی می‌کند.&lt;br&gt;Materials Today | ⭐ Review&lt;br&gt;🏷 nucleic acid therapeutics · immune tolerance · immunotherapy · reprogramming · drug delivery</description>
+<category>nucleic acid therapeutics</category>
+<category>immune tolerance</category>
+<category>immunotherapy</category>
+<category>reprogramming</category>
+<category>drug delivery</category>
+</item>
+<item>
+<title>Magnetic Photocatalysts from Type-II to Z-Scheme and S-Scheme Heterojunctions: Mechanistic Roles and Design Principles</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218750</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218750</guid>
+<pubDate>Thu, 12 Nov 2026 06:01:16 GMT</pubDate>
+<description>این مقاله مروری، نقش مکانیسمی و اصول طراحی photocatalystهای مغناطیسی را از heterojunction نوع-II به Z-Scheme و S-Scheme بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 magnetic photocatalyst · Z-scheme heterojunction · S-scheme heterojunction · charge transfer · heterojunction design</description>
+<category>magnetic photocatalyst</category>
+<category>Z-scheme heterojunction</category>
+<category>S-scheme heterojunction</category>
+<category>charge transfer</category>
+<category>heterojunction design</category>
+</item>
 <item>
 <title>Polyimides for extreme environments: design, performance and applications</title>
 <link>https://doi.org/10.1016/j.progpolymsci.2026.102205</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 DUF4243 oxidase · OzmD �
 <category>cycloaddition</category>
 <category>chiral copper</category>
 <category>arylpyrrolidine</category>
-</item>
-<item>
-<title>A General Entry to Strong Cationic Acids Featuring Weakly Coordinating Anions From Sulfonamides</title>
-<link>https://doi.org/10.1002/anie.4342720</link>
-<guid isPermaLink="false">10.1002/anie.4342720</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:32 GMT</pubDate>
-<description>پروتون‌دار کردن سولفونامیدها با آنیون TPFPB دسته‌ای جدید از اسیدهای آلی قوی و قابل تنظیم با کاربرد در کاتالیز کاتیونی فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 weakly coordinating anion · sulfonamide protonation · organoacid · TPFPB · cationic catalysis</description>
-<category>weakly coordinating anion</category>
-<category>sulfonamide protonation</category>
-<category>organoacid</category>
-<category>TPFPB</category>
-<category>cationic catalysis</category>
-</item>
-<item>
-<title>Iridium‐Catalyzed Borane Reduction of Esters for the Construction of Sterically Hindered and α , α ‐Dideuterated Ethers</title>
-<link>https://doi.org/10.1002/anie.5382742</link>
-<guid isPermaLink="false">10.1002/anie.5382742</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:28 GMT</pubDate>
-<description>کمپلکس ایریدیم با BH3·DMS یا BD3·THF اترهای ممانعت‌دار و α,α-دیده‌تره‌شده را با بازده و درج دوتریوم بالا سنتز می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 iridium catalysis · ester reduction · hindered ethers · deuteration · borane</description>
-<category>iridium catalysis</category>
-<category>ester reduction</category>
-<category>hindered ethers</category>
-<category>deuteration</category>
-<category>borane</category>
 </item>
 </channel>
 </rss>
