@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 13:02:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 14:02:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>PANGEA: an integrated cell atlas across diverse biological contexts enables systematic profiling of multicellular responses in human diseases</title>
+<link>https://doi.org/10.1038/s41592-026-03295-4</link>
+<guid isPermaLink="false">10.1038/s41592-026-03295-4</guid>
+<pubDate>Thu, 12 Nov 2026 14:02:03 GMT</pubDate>
+<description>مقاله PANGEA را معرفی می‌کند، اطلس سلولی یکپارچه‌ای برای پروفایل‌گیری سیستماتیک پاسخ‌های چندسلولی در بیماری‌های انسانی.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cell atlas · PANGEA · multicellular responses · human diseases · single-cell profiling</description>
+<category>cell atlas</category>
+<category>PANGEA</category>
+<category>multicellular responses</category>
+<category>human diseases</category>
+<category>single-cell profiling</category>
+</item>
+<item>
+<title>Proximal redox coupling enables oxidation damping for stable water electrolysis</title>
+<link>https://doi.org/10.1038/s41563-026-02783-4</link>
+<guid isPermaLink="false">10.1038/s41563-026-02783-4</guid>
+<pubDate>Thu, 12 Nov 2026 14:01:59 GMT</pubDate>
+<description>این مقاله با استفاده از جفت‌شدگی ردوکس نزدیک، میرایی اکسیداسیون را ممکن می‌سازد تا الکترولیز آب پایدار بماند.&lt;br&gt;Nature Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 water electrolysis · redox coupling · oxidation damping · electrocatalyst stability · proximal redox</description>
+<category>water electrolysis</category>
+<category>redox coupling</category>
+<category>oxidation damping</category>
+<category>electrocatalyst stability</category>
+<category>proximal redox</category>
+</item>
 <item>
 <title>A smart display woven on your sleeve</title>
 <link>https://doi.org/10.1038/s41928-026-01743-9</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 chromium catalysis · pho
 <category>lithium storage</category>
 <category>single-source precursor</category>
 <category>built-in electric field</category>
-</item>
-<item>
-<title>Catalyst-modulated discharge behavior in SDBD-driven oxidation of n-butane to CO 2 over MnO 2 /CuO/CaO coatings</title>
-<link>https://doi.org/10.1039/d6ta06744a</link>
-<guid isPermaLink="false">10.1039/d6ta06744a</guid>
-<pubDate>Thu, 12 Nov 2026 03:01:22 GMT</pubDate>
-<description>رفتار تخلیه در اکسیداسیون پلاسمایی n-butane به CO2 روی پوشش‌های MnO2/CuO/CaO با تنظیم کاتالیست بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 n-butane oxidation · SDBD plasma · MnO2/CuO/CaO · VOC abatement · catalytic coatings</description>
-<category>n-butane oxidation</category>
-<category>SDBD plasma</category>
-<category>MnO2/CuO/CaO</category>
-<category>VOC abatement</category>
-<category>catalytic coatings</category>
-</item>
-<item>
-<title>Metal chloride functionalized porous organic polymers for highly selective adsorption and separation of ammonia gas</title>
-<link>https://doi.org/10.1039/d6ta07669f</link>
-<guid isPermaLink="false">10.1039/d6ta07669f</guid>
-<pubDate>Thu, 12 Nov 2026 03:01:19 GMT</pubDate>
-<description>پلیمرهای آلی متخلخل عامل‌دارشده با کلرید فلز برای جذب انتخابی و جداسازی گاز آمونیاک سنتز و ارزیابی می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 porous organic polymers · ammonia adsorption · metal chloride · gas separation · selective adsorption</description>
-<category>porous organic polymers</category>
-<category>ammonia adsorption</category>
-<category>metal chloride</category>
-<category>gas separation</category>
-<category>selective adsorption</category>
 </item>
 </channel>
 </rss>
