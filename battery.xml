@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 00:04:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 01:01:19 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Rufigallol-based 2D metal–organic frameworks as bifunctional electrocatalysts for rechargeable Zn–air batteries</title>
+<link>https://doi.org/10.1039/d6mh02124g</link>
+<guid isPermaLink="false">10.1039/d6mh02124g</guid>
+<pubDate>Thu, 12 Nov 2026 01:01:14 GMT</pubDate>
+<description>نانوصفحات MOF دوبعدی بر پایه rufigallol به‌عنوان کاتالیزور دوفункسیونی کاتد برای باتری‌های قابل شارژ Zn-air با سایت‌های فعال متمایز عمل می‌کنند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;💡 Rufigallol-based 2D MOF nanosheets are introduced as bifunctional cathode catalysts for rechargeable Zn–air batteries. Their novelty lies in the ligand&amp;#x27;s two distinct coordination environments, generating separate active sites with different catalytic tendencies toward oxygen reduction and evolution. This design enables efficient bifunctional catalysis, highlighting the potential of tailored MOF ligands for advanced energy storage.&lt;br&gt;🏷 Zn-air battery · 2D MOF · rufigallol · bifunctional electrocatalyst · oxygen electrocatalysis</description>
+<category>Zn-air battery</category>
+<category>2D MOF</category>
+<category>rufigallol</category>
+<category>bifunctional electrocatalyst</category>
+<category>oxygen electrocatalysis</category>
+</item>
 <item>
 <title>Non-Monotonic Na2CO3 Regulation of MOF-Derived ZnS-Embedded N, S Co-doped Carbon for Sodium-Ion Storage</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122310</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>transfer prediction</category>
 <category>feature extraction</category>
 <category>parameter freezing</category>
-</item>
-<item>
-<title>Dual‐Function Ammonium Treatment for Robust Prussian White Cathodes</title>
-<link>https://doi.org/10.1002/sstr.70658</link>
-<guid isPermaLink="false">10.1002/sstr.70658</guid>
-<pubDate>Tue, 10 Nov 2026 09:02:25 GMT</pubDate>
-<description>دوپه‌سازی NH4+ در کاتد Prussian White ساختار مونوکلینیک پایدار ایجاد کرده و ظرفیت، نرخ و پایداری رطوبتی باتری سدیم‌یونی را بهبود می‌دهد.&lt;br&gt;Small Structures | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using low-cost NH4+ doping via aqueous coprecipitation to form a stable monoclinic Prussian White structure, distinct from the moisture-dependent phase in pristine material. This dual-function dopant enhances structural integrity, suppresses water-induced degradation, and improves cycling stability, rate capability, and moisture tolerance—offering a safe, scalable route to robust sodium-ion battery cathodes.&lt;br&gt;🏷 Prussian White · sodium-ion battery · ammonium doping · cathode · structural stability</description>
-<category>Prussian White</category>
-<category>sodium-ion battery</category>
-<category>ammonium doping</category>
-<category>cathode</category>
-<category>structural stability</category>
 </item>
 </channel>
 </rss>
