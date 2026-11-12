@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 11:03:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 12:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Hierarchical vision transformer-based AnomFormer for automated internal defect diagnosis in composite wind turbine blades using thermographic image sequences</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114369</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114369</guid>
+<pubDate>Thu, 12 Nov 2026 12:01:14 GMT</pubDate>
+<description>یک ترانسفورمر بینایی سلسلهمراتبی به نام AnomFormer برای تشخیص خودکار عیوب داخلی پرههای کامپوزیتی توربین بادی با استفاده از تصاویر حرارتی متوالی ارائه میشود.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 wind turbine blades · thermography · vision transformer · defect diagnosis · composite materials</description>
+<category>wind turbine blades</category>
+<category>thermography</category>
+<category>vision transformer</category>
+<category>defect diagnosis</category>
+<category>composite materials</category>
+</item>
+<item>
+<title>Exciton Transport in Disordered Perovskite Nanocrystal Solids</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04718</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04718</guid>
+<pubDate>Thu, 12 Nov 2026 12:01:10 GMT</pubDate>
+<description>ردیابی فضایی-زمانی-انرژی اگزیتونها نشان میدهد بیبینظمی انرژیایی، نه بیبینظمی ساختاری، عامل تعیینکننده انتقال اگزیتون در جامدات نانوبلور پروسکایتی است.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 perovskite nanocrystals · exciton transport · energetic disorder · ligand length · polydispersity</description>
+<category>perovskite nanocrystals</category>
+<category>exciton transport</category>
+<category>energetic disorder</category>
+<category>ligand length</category>
+<category>polydispersity</category>
+</item>
+<item>
+<title>Resolving the Quantum Origin of Anisotropic Raman Response in Quasi-1D Ta2Ni3Te5</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02468</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02468</guid>
+<pubDate>Thu, 12 Nov 2026 12:01:07 GMT</pubDate>
+<description>با رامان قطبیشده زاویهای و محاسبات DFPT، منشأ کوانتومی پاسخ رامان ناهمسانگرد در Ta2Ni3Te5 به برهمکنشهای الکترون-فونون وابسته به مود و تکانه نسبت داده میشود.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Ta2Ni3Te5 · polarized Raman · electron-phonon interaction · anisotropy · DFPT</description>
+<category>Ta2Ni3Te5</category>
+<category>polarized Raman</category>
+<category>electron-phonon interaction</category>
+<category>anisotropy</category>
+<category>DFPT</category>
+</item>
+<item>
+<title>Sequential Monomer Addition Regulates Hydration in Branched Poly(aryl piperidinium) Membranes for Water Electrolysis</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04157</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04157</guid>
+<pubDate>Thu, 12 Nov 2026 12:01:04 GMT</pubDate>
+<description>افزودن زودهنگام TPM در سنتز غشای پلی(آریل پیپریدینیوم) توزیع یکنواختتر حوزههای آبدوست و تعادل رسانایی-تورم را بهبود میدهد و الکترولایزر آبی با آن بیش از ۱۱۰۰ ساعت کار میکند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 anion exchange membrane · water electrolysis · poly(aryl piperidinium) · hydration · conductivity-swelling</description>
+<category>anion exchange membrane</category>
+<category>water electrolysis</category>
+<category>poly(aryl piperidinium)</category>
+<category>hydration</category>
+<category>conductivity-swelling</category>
+</item>
 <item>
 <title>Recycling and high-value regeneration of lithium-ion batteries: Technologies, system integration, and sustainable paradigm evolution</title>
 <link>https://doi.org/10.1016/j.est.2026.125438</link>
@@ -1165,54 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 chromium catalysis · pho
 <category>gastric leakage</category>
 <category>metagel</category>
 <category>implantable sensor</category>
-</item>
-<item>
-<title>Mechanical forces enable human stem cell modeling of protein aggregation cardiomyopathy</title>
-<link>https://doi.org/10.1126/sciadv.aee9464</link>
-<guid isPermaLink="false">10.1126/sciadv.aee9464</guid>
-<pubDate>Thu, 12 Nov 2026 00:03:58 GMT</pubDate>
-<description>مدل انسانی DRM با iPSC و بارگذاری مکانیکی سه‌بعدی ساخته شد که نقص انقباضی و اختلال کلسیم را نشان داده و itacitinib آن را تا حدی نجات می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 desmin-related cardiomyopathy · CRYAB-R120G · induced pluripotent stem cells · mechanical loading · itacitinib</description>
-<category>desmin-related cardiomyopathy</category>
-<category>CRYAB-R120G</category>
-<category>induced pluripotent stem cells</category>
-<category>mechanical loading</category>
-<category>itacitinib</category>
-</item>
-<item>
-<title>Boosting stability and charge transfer of conducting polymer poly(benzodifurandione) (PBFDO) through complementary topology</title>
-<link>https://doi.org/10.1126/sciadv.aej0737</link>
-<guid isPermaLink="false">10.1126/sciadv.aej0737</guid>
-<pubDate>Thu, 12 Nov 2026 00:03:55 GMT</pubDate>
-<description>دوپینگ PBFDO با choline chloride از طریق توپولوژی مکمل، پایداری حرارتی و رسانایی و انتقال یون را بهبود داده و عملکرد OECT را ارتقا می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 PBFDO · n-type conducting polymer · choline chloride doping · organic electrochemical transistor · charge transport</description>
-<category>PBFDO</category>
-<category>n-type conducting polymer</category>
-<category>choline chloride doping</category>
-<category>organic electrochemical transistor</category>
-<category>charge transport</category>
-</item>
-<item>
-<title>Nonlinear cooling and control of a mechanical quantum harmonic oscillator</title>
-<link>https://doi.org/10.1126/sciadv.aee5380</link>
-<guid isPermaLink="false">10.1126/sciadv.aee5380</guid>
-<pubDate>Thu, 12 Nov 2026 00:03:52 GMT</pubDate>
-<description>با استفاده از نوسانگر یون به‌دام‌افتاده در رژیم غیرخطی قوی، حالت‌های چندجزئی Schrödinger cat تولید و کنترل شد که ابزاری برای تصحیح خطای بوزونی فراهم می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 quantum harmonic oscillator · Schrödinger cat states · trapped ion · nonlinear reservoir engineering · quantum control</description>
-<category>quantum harmonic oscillator</category>
-<category>Schrödinger cat states</category>
-<category>trapped ion</category>
-<category>nonlinear reservoir engineering</category>
-<category>quantum control</category>
-</item>
-<item>
-<title>A TROP2-targeting aptamer enables selective drug delivery and potent antitumor activity in pancreatic cancer</title>
-<link>https://doi.org/10.1126/sciadv.aee3585</link>
-<guid isPermaLink="false">10.1126/sciadv.aee3585</guid>
-<pubDate>Thu, 12 Nov 2026 00:03:48 GMT</pubDate>
-<description>آپتامر T17 متصل به MMAE (T17-M) با هدف‌گیری TROP2 در PDAC رشد تومور و متاستاز کبدی را مهار کرده و با مهار PD-1 اثر هم‌افزا دارد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 TROP2 aptamer · aptamer-drug conjugate · pancreatic cancer · immunogenic cell death · PD-1 blockade</description>
-<category>TROP2 aptamer</category>
-<category>aptamer-drug conjugate</category>
-<category>pancreatic cancer</category>
-<category>immunogenic cell death</category>
-<category>PD-1 blockade</category>
 </item>
 </channel>
 </rss>
