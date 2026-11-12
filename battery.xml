@@ -5,8 +5,70 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 18:03:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 19:04:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Micron-sized silicon anodes for high-energy lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.10.065</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.10.065</guid>
+<pubDate>Thu, 12 Nov 2026 19:04:26 GMT</pubDate>
+<description>این مقاله مروری، پیشرفت‌های آندهای سیلیکونی میکرونی را برای باتری‌های لیتیوم-یونی پرانرژی بررسی می‌کند و راهبردهای غلبه بر تورم حجمی و ناپایداری واسط را جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 silicon anode · lithium-ion battery · micron-sized silicon · high-energy density · volume expansion</description>
+<category>silicon anode</category>
+<category>lithium-ion battery</category>
+<category>micron-sized silicon</category>
+<category>high-energy density</category>
+<category>volume expansion</category>
+</item>
+<item>
+<title>Hybrid Weakly Coordinated Solvents for Fast-Charging and Wide-Temperature Sodium-Ion Full Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c15956</link>
+<guid isPermaLink="false">10.1021/jacs.6c15956</guid>
+<pubDate>Thu, 12 Nov 2026 19:04:03 GMT</pubDate>
+<description>الکترولیت هیبریدی اتیل پروپیونات و PFPN با تضعیف حل‌پوشی، باتری‌های یون سدیم را در دمای ۵۰− تا ۱۰۰ درجه و شارژ سریع پایدار می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a hybrid ethyl propionate/PFPN solvent system with weak coordination that boosts anion participation, lowers desolvation barriers, and forms inorganic-rich interphases. Its significance: enabling fast-charging, wide-temperature (−50 to 100 °C) sodium-ion full cells, including ampere-hour pouch cells with 86.3% retention after 300 cycles and stable operation at −20 and 80 °C, offering a practical electrolyte design pathway.&lt;br&gt;🏷 sodium-ion battery · weakly coordinated solvent · fast charging · wide temperature · solvation structure</description>
+<category>sodium-ion battery</category>
+<category>weakly coordinated solvent</category>
+<category>fast charging</category>
+<category>wide temperature</category>
+<category>solvation structure</category>
+</item>
+<item>
+<title>A Crystalline LaCl3 Reinforced Amorphous Oxyhalide Electrolyte for Thermally Stable All-Solid-State Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c17602</link>
+<guid isPermaLink="false">10.1021/jacs.6c17602</guid>
+<pubDate>Thu, 12 Nov 2026 19:03:39 GMT</pubDate>
+<description>الکترولیت کامپوزیتی Li–La–Al–O–Cl با نانوکریستال‌های LaCl3 در ماتریس آمورف، رسانایی بالای ۱ mS cm⁻¹ و پایداری گرمایی تا ۱۵۰ درجه را برای باتری تمام‌جامد فراهم می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embedding LaCl3 nanocrystals within an amorphous Li–Al–O–Cl matrix, creating a composite electrolyte that combines high ionic conductivity (&amp;gt;1 mS cm–1) with exceptional thermal stability (solid at 150 °C, where baseline LAOC melts). This enables stable ASSB operation at 80 °C, unlike LAOC cells. The strategy of reinforcing a soft amorphous matrix with a rigid crystalline phase offers a cost-effective pathway for thermally robust, high-performance solid-state electrolytes.&lt;br&gt;🏷 solid electrolyte · oxyhalide electrolyte · LaCl3 nanocrystals · all-solid-state battery · thermal stability</description>
+<category>solid electrolyte</category>
+<category>oxyhalide electrolyte</category>
+<category>LaCl3 nanocrystals</category>
+<category>all-solid-state battery</category>
+<category>thermal stability</category>
+</item>
+<item>
+<title>Hybridization State Engineering of Coal Pitch-Based Carbon Materials Enabling Ultrastable Aqueous Zinc–Iodine Batteries with 150,000 Cycles</title>
+<link>https://doi.org/10.1021/acsnano.6c17915</link>
+<guid isPermaLink="false">10.1021/acsnano.6c17915</guid>
+<pubDate>Thu, 12 Nov 2026 19:02:22 GMT</pubDate>
+<description>مهندسی نسبت C(sp2)/C(sp3) در کربن مشتق از قطران زغال‌سنگ، باتری آبی روی-ید با پایداری چرخه‌ای ۱۵۰٬۰۰۰ چرخه و خودتخلیلی کم را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing the overlooked role of carbon hybridization state (C(sp2)/C(sp3) ratio) in tuning intrinsic activity for iodine conversion, rather than pore or doping engineering. This lowers activation energy, suppresses polyiodide shuttle, and enables 150,000-cycle stability, Ah-level pouch cells, and extended commercial carbon lifespan—offering a new design principle for high-performance zinc–iodine batteries.&lt;br&gt;🏷 zinc-iodine battery · coal pitch carbon · hybridization state · polyiodide shuttle · cycling stability</description>
+<category>zinc-iodine battery</category>
+<category>coal pitch carbon</category>
+<category>hybridization state</category>
+<category>polyiodide shuttle</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>Spatially heterogeneous solid electrolyte interphase degradation reconstructs incipient self-heating pathways in aged lithium-ion power batteries</title>
+<link>https://doi.org/10.1016/j.etran.2026.100652</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100652</guid>
+<pubDate>Thu, 12 Nov 2026 19:01:58 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که تخریب ناهمگن مکانی لایه SEI در باتری‌های لیتیوم-یونی پیرشده، مسیرهای خودگرمایشی اولیه را بازسازی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 solid electrolyte interphase · lithium-ion battery · self-heating · aging · degradation</description>
+<category>solid electrolyte interphase</category>
+<category>lithium-ion battery</category>
+<category>self-heating</category>
+<category>aging</category>
+<category>degradation</category>
+</item>
 <item>
 <title>Engineering Ultrathin, Tough Polymer Networks for Stable Lithium Metal Anode Interphases</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02511</link>
@@ -1149,66 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>steam temperature control</category>
 <category>peak shaving</category>
 <category>dynamic characteristics</category>
-</item>
-<item>
-<title>Optical fiber monitoring for battery safety: A hierarchical review from fundamental parameter sensing to intelligent early warning systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125480</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125480</guid>
-<pubDate>Tue, 10 Nov 2026 19:03:07 GMT</pubDate>
-<description>مروری سلسله‌مراتبی بر پایش فیبر نوری برای ایمنی باتری، از حس‌گری پارامترهای بنیادی تا سامانه‌های هشدار زودهنگام هوشمند ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 battery safety · optical fiber sensing · early warning · thermal runaway · hierarchical monitoring</description>
-<category>battery safety</category>
-<category>optical fiber sensing</category>
-<category>early warning</category>
-<category>thermal runaway</category>
-<category>hierarchical monitoring</category>
-</item>
-<item>
-<title>Electromagnetic-mechanical characteristics of multi-layer highly flexible cable for superconducting magnetic energy storage magnets</title>
-<link>https://doi.org/10.1016/j.est.2026.125344</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125344</guid>
-<pubDate>Tue, 10 Nov 2026 19:03:00 GMT</pubDate>
-<description>مشخصات الکترومغناطیسی-مکانیکی کابل چندلایه بسیار انعطاف‌پذیر برای آهنرباهای ذخیره‌سازی انرژی مغناطیسی ابررسانا بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 superconducting magnetic energy storage · flexible cable · electromagnetic-mechanical coupling · SMES magnet · multi-layer conductor</description>
-<category>superconducting magnetic energy storage</category>
-<category>flexible cable</category>
-<category>electromagnetic-mechanical coupling</category>
-<category>SMES magnet</category>
-<category>multi-layer conductor</category>
-</item>
-<item>
-<title>Ionic liquid-engineered hydrogel electrolyte with dual-action stabilization for durable zinc batteries and integrated sensing systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125498</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125498</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:55 GMT</pubDate>
-<description>الکترولیت هیدروژلی مهندسی‌شده با مایع یونی و تثبیت دوگانه برای باتری‌های روی پایدار و سامانه‌های حسگری یکپارچه ساخته شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hydrogel electrolyte · ionic liquid · zinc battery · dual-action stabilization · integrated sensing</description>
-<category>hydrogel electrolyte</category>
-<category>ionic liquid</category>
-<category>zinc battery</category>
-<category>dual-action stabilization</category>
-<category>integrated sensing</category>
-</item>
-<item>
-<title>Reactivating feedback under weak observability: Residual-driven state-of-charge estimation for LiFePO₄ batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125547</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125547</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:47 GMT</pubDate>
-<description>روشی مبتنی بر باقیمانده برای فعال‌سازی مجدد بازخورد در شرایط رصدپذیری ضعیف جهت تخمین وضعیت شارژ باتری‌های LiFePO₄ ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · LiFePO4 battery · weak observability · residual-driven estimation · feedback reactivation</description>
-<category>state of charge</category>
-<category>LiFePO4 battery</category>
-<category>weak observability</category>
-<category>residual-driven estimation</category>
-<category>feedback reactivation</category>
-</item>
-<item>
-<title>Predicting battery state of health using the graph convolution network-autoencoder model with multi-health features extraction methods</title>
-<link>https://doi.org/10.1016/j.est.2026.125444</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125444</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:43 GMT</pubDate>
-<description>مدل شبکه کانولوشن گرافی-اتوآنکودر همراه با استخراج چندویژگی سلامت برای پیش‌بینی وضعیت سلامت باتری ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · graph convolution network · autoencoder · feature extraction · lithium-ion battery</description>
-<category>state of health</category>
-<category>graph convolution network</category>
-<category>autoencoder</category>
-<category>feature extraction</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
