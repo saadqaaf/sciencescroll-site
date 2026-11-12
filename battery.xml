@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 19:04:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Vertically aligned microstructure in ultra-thick graphite anodes made by directional ice templating</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122322</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122322</guid>
+<pubDate>Thu, 12 Nov 2026 20:01:48 GMT</pubDate>
+<description>با روش قالب‌گیری یخی جهت‌دار، ریزساختار عمودی‌تراز در آندهای گرافیتی فوق‌ضخیم ایجاد شد که احتمالاً انتقال یون و عملکرد باتری را بهبود می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphite anode · ice templating · vertically aligned microstructure · ultra-thick electrode · lithium-ion battery</description>
+<category>graphite anode</category>
+<category>ice templating</category>
+<category>vertically aligned microstructure</category>
+<category>ultra-thick electrode</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Micron-sized silicon anodes for high-energy lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.065</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>layered oxide</category>
 <category>Li-ion battery</category>
 <category>structural characterization</category>
-</item>
-<item>
-<title>Steam temperature control strategies based on metal thermal storage for solar tower power plants considering peak-shaving dynamic characteristics</title>
-<link>https://doi.org/10.1016/j.est.2026.125441</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125441</guid>
-<pubDate>Tue, 10 Nov 2026 19:03:11 GMT</pubDate>
-<description>راهبردهای کنترل دمای بخار مبتنی بر ذخیره‌سازی حرارتی فلزی برای نیروگاه خورشیدی برجی با در نظر گرفتن ویژگی‌های دینامیکی پیک‌سایی بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 metal thermal storage · solar tower plant · steam temperature control · peak shaving · dynamic characteristics</description>
-<category>metal thermal storage</category>
-<category>solar tower plant</category>
-<category>steam temperature control</category>
-<category>peak shaving</category>
-<category>dynamic characteristics</category>
 </item>
 </channel>
 </rss>
