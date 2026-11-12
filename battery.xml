@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 12:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 13:02:39 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thiourea-Based Porous Organic Polymer/Carbon Nanotubes Interlayer for the Entrapment of Lithium Polysulfides in Lithium-Sulfur Batteries</title>
+<link>https://doi.org/10.1039/d6ta08095b</link>
+<guid isPermaLink="false">10.1039/d6ta08095b</guid>
+<pubDate>Thu, 12 Nov 2026 13:02:12 GMT</pubDate>
+<description>این مقاله یک لایه میانی از پلیمر آلی متخلخل تیواوره/نانولوله کربنی برای به دام انداختن پلی‌سولفیدهای لیتیوم در باتری‌های لیتیوم-گوگرد معرفی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining a thiourea-based porous organic polymer with carbon nanotubes as an interlayer, exploiting thiourea groups to chemically entrap lithium polysulfides. This addresses the shuttle effect, a key barrier to Li-S commercialization. The significance is enhanced sulfur utilization and cycling stability, offering a low-cost, earth-abundant route toward practical high-energy Li-S batteries.&lt;br&gt;🏷 lithium-sulfur battery · thiourea porous organic polymer · carbon nanotube interlayer · lithium polysulfide · shuttle effect</description>
+<category>lithium-sulfur battery</category>
+<category>thiourea porous organic polymer</category>
+<category>carbon nanotube interlayer</category>
+<category>lithium polysulfide</category>
+<category>shuttle effect</category>
+</item>
+<item>
+<title>Effect of Cation and Cosolvent on the Solvation Nanostructure, Ion Transport, and Interfacial Kinetics in Ionic Liquid Electrolytes</title>
+<link>https://doi.org/10.1039/d6ta06998c</link>
+<guid isPermaLink="false">10.1039/d6ta06998c</guid>
+<pubDate>Thu, 12 Nov 2026 13:01:57 GMT</pubDate>
+<description>این مقاله اثر کاتیون و هم‌حلال را بر ساختار حلال‌پوشی، انتقال یون و سینتیک سطح مشترک در الکترولیت‌های مایع یونی برای باتری لیتیوم-فلز بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals how cation chemistry and cosolvent choice govern solvation nanostructure, ion transport, and interfacial kinetics in ionic liquid electrolytes—an underexplored fundamental gap. By linking molecular-level solvation organization to macroscopic transport and interfacial behavior, it provides design principles for high-voltage lithium metal batteries, enabling rational electrolyte engineering beyond empirical trial-and-error approaches.&lt;br&gt;🏷 ionic liquid electrolyte · lithium metal battery · solvation structure · ion transport · interfacial kinetics</description>
+<category>ionic liquid electrolyte</category>
+<category>lithium metal battery</category>
+<category>solvation structure</category>
+<category>ion transport</category>
+<category>interfacial kinetics</category>
+</item>
+<item>
+<title>Experimental validation of universal machine learning interatomic potentials for lithium-ion dynamics in solid electrolytes via 7 Li NMR</title>
+<link>https://doi.org/10.1039/d6ta03615e</link>
+<guid isPermaLink="false">10.1039/d6ta03615e</guid>
+<pubDate>Thu, 12 Nov 2026 13:01:53 GMT</pubDate>
+<description>این مقاله پتانسیل‌های بین‌اتمی یادگیری ماشین برای دینامیک لیتیوم در الکترولیت‌های جامد را با NMR لیتیوم-۷ اعتبارسنجی تجربی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in experimentally validating universal machine learning interatomic potentials using 7Li NMR to assess lithium-ion dynamics in solid electrolytes. Its significance is enabling accurate, large-scale simulations of ion transport that overcome the high computational cost of quantum methods, bridging simulation and experiment to advance solid-state battery design.&lt;br&gt;🏷 solid electrolyte · machine learning potential · Li-ion dynamics · 7Li NMR · ion transport</description>
+<category>solid electrolyte</category>
+<category>machine learning potential</category>
+<category>Li-ion dynamics</category>
+<category>7Li NMR</category>
+<category>ion transport</category>
+</item>
 <item>
 <title>Recycling and high-value regeneration of lithium-ion batteries: Technologies, system integration, and sustainable paradigm evolution</title>
 <link>https://doi.org/10.1016/j.est.2026.125438</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>recycling</category>
 <category>cathode chemistry</category>
 <category>critical materials</category>
-</item>
-<item>
-<title>Breaking the Capacity–Stability Trade-Off in High-Voltage LiCoO2 via Opposite Co/O Redox Activity</title>
-<link>https://doi.org/10.1021/acsnano.6c15741</link>
-<guid isPermaLink="false">10.1021/acsnano.6c15741</guid>
-<pubDate>Tue, 10 Nov 2026 17:01:58 GMT</pubDate>
-<description>این مقاله با تقویت Co3+/4+ و مهار اکسایش اکسیژن، مبادله ظرفیت-پایداری را در کاتد LiCoO2 ولتاژ بالا می‌شکند و ظرفیت ۲۱۲.۱ mAh g–1 با پایداری بالا به دست می‌آورد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in simultaneously enhancing Co3+/4+ redox while suppressing O redox by amplifying Co t2g and reducing O 2p density of states, breaking the capacity–stability trade-off. This yields 212.1 mAh g–1 at 4.6 V with 88.4% retention over 330 cycles, mitigating phase transitions, O loss, and parasitic reactions—offering a valuable electronic-structure engineering strategy for high-voltage LiCoO2 cathodes.&lt;br&gt;🏷 LiCoO2 cathode · high-voltage · oxygen redox · Co redox · capacity retention</description>
-<category>LiCoO2 cathode</category>
-<category>high-voltage</category>
-<category>oxygen redox</category>
-<category>Co redox</category>
-<category>capacity retention</category>
-</item>
-<item>
-<title>Multiscale insights into zinc metal anodes for aqueous zinc ion batteries</title>
-<link>https://doi.org/10.1016/j.matt.2026.103058</link>
-<guid isPermaLink="false">10.1016/j.matt.2026.103058</guid>
-<pubDate>Tue, 10 Nov 2026 17:01:42 GMT</pubDate>
-<description>این مرور، بینش‌های چندمقیاسی درباره آندهای فلزی روی در باتری‌های یون‌روی آبی ارائه می‌دهد و چالش‌ها و راهبردهای پایدارسازی آن‌ها را تحلیل می‌کند.&lt;br&gt;Matter | ⭐ Review&lt;br&gt;🏷 zinc metal anode · aqueous zinc battery · Zn dendrites · multiscale characterization · electrolyte interface</description>
-<category>zinc metal anode</category>
-<category>aqueous zinc battery</category>
-<category>Zn dendrites</category>
-<category>multiscale characterization</category>
-<category>electrolyte interface</category>
-</item>
-<item>
-<title>Operando Time-of-Flight Secondary Ion Mass Spectrometry Reveals Iodine-Mediated Redox Chemistry in Solid-State Li–S Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02036</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02036</guid>
-<pubDate>Tue, 10 Nov 2026 16:04:16 GMT</pubDate>
-<description>با operando طیف‌سنجی جرمی یونی TOF-SIMS، تشکیل ید عنصری و نقش گونه‌های ید در واکنش‌های ردوکس باتری حالت‌جامد Li-S به‌طور مستقیم مشاهده شد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is a dynamic operando ToF-SIMS platform that directly detects transient species at buried solid–solid interfaces under bias. Its significance lies in revealing iodine-mediated redox chemistry in solid-state Li–S batteries—specifically elemental iodine formation during charging—enabling identification of reactive intermediates in conversion-type batteries, which conventional operando techniques cannot detect.&lt;br&gt;🏷 solid-state Li-S battery · operando TOF-SIMS · iodine redox chemistry · buried interface · reaction intermediates</description>
-<category>solid-state Li-S battery</category>
-<category>operando TOF-SIMS</category>
-<category>iodine redox chemistry</category>
-<category>buried interface</category>
-<category>reaction intermediates</category>
 </item>
 </channel>
 </rss>
