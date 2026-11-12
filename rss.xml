@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 07:01:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 08:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bioorthogonal chemistry-enabled multiscale engineering of cancer immunotherapy</title>
+<link>https://doi.org/10.1016/j.addr.2026.115998</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.115998</guid>
+<pubDate>Thu, 12 Nov 2026 08:01:28 GMT</pubDate>
+<description>این مقاله مروری بررسی می‌کند چگونه شیمی بیوارتوگونال برای مهندسی چندمقیاسی ایمونوتراپی سرطان و تقویت پاسخ‌های ایمنی به کار می‌رود.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 bioorthogonal chemistry · cancer immunotherapy · multiscale engineering · immune modulation · nanomaterials</description>
+<category>bioorthogonal chemistry</category>
+<category>cancer immunotherapy</category>
+<category>multiscale engineering</category>
+<category>immune modulation</category>
+<category>nanomaterials</category>
+</item>
+<item>
+<title>Star polymer nanomedicine: From orthogonal synthetic chemistry to precision in therapeutic interventions</title>
+<link>https://doi.org/10.1016/j.addr.2026.115996</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.115996</guid>
+<pubDate>Thu, 12 Nov 2026 08:01:25 GMT</pubDate>
+<description>این مقاله مروری نشان می‌دهد چگونه شیمی سنتز اورتوگونال امکان ساخت پلیمرهای ستاره‌ای دقیق را برای کاربردهای نانومدیسین و درمان هدفمند فراهم می‌کند.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 star polymers · nanomedicine · orthogonal chemistry · drug delivery · polymer synthesis</description>
+<category>star polymers</category>
+<category>nanomedicine</category>
+<category>orthogonal chemistry</category>
+<category>drug delivery</category>
+<category>polymer synthesis</category>
+</item>
 <item>
 <title>Multi-component M-Site Doping Enhances Na-Ion Transport in Na3Fe2(PO4)3 NASICON Cathodes: A High-Throughput Computational Study</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105651</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 DUF4243 oxidase · OzmD �
 <category>miniaturized spectrometer</category>
 <category>interlayer exciton</category>
 <category>ultralow noise</category>
-</item>
-<item>
-<title>Cucurbit[ n ]uril-Programmed Chlorogenic Acid Release for Collagen Mineralization and Pulp–Dentin Repair in Near-Pulp Bonding</title>
-<link>https://doi.org/10.1021/acsnano.6c13621</link>
-<guid isPermaLink="false">10.1021/acsnano.6c13621</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:52 GMT</pubDate>
-<description>کمپلکس‌های CGA@Q[n] رهش کلروژنیک اسید را تنظیم می‌کنند و CGA@Q[8] با معدنی‌سازی کامل کلاژن و مهار MMP-9، ترمیم عاج-پالپ و باندینگ رزینی را بهبود می‌بخشد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 cucurbituril · chlorogenic acid · collagen mineralization · dentin bonding · supramolecular complex</description>
-<category>cucurbituril</category>
-<category>chlorogenic acid</category>
-<category>collagen mineralization</category>
-<category>dentin bonding</category>
-<category>supramolecular complex</category>
-</item>
-<item>
-<title>Receptor-Modular Nanocaptors for Programmable Cytokine Sequestration</title>
-<link>https://doi.org/10.1021/acsnano.6c14874</link>
-<guid isPermaLink="false">10.1021/acsnano.6c14874</guid>
-<pubDate>Wed, 11 Nov 2026 23:02:48 GMT</pubDate>
-<description>نانوکپتورهای مدولار مبتنی بر اتصال دامنه‌های گیرنده به PLLA سیتوکین‌ها را به‌صورت قابل‌برنامه‌ریزی مهار می‌کنند و پاسخ التهابی و ایمنی‌سرکوبی را در بیماری‌های مختلف تعدیل می‌نمایند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 cytokine sequestration · nanocaptors · receptor modules · inflammation · immunosuppression</description>
-<category>cytokine sequestration</category>
-<category>nanocaptors</category>
-<category>receptor modules</category>
-<category>inflammation</category>
-<category>immunosuppression</category>
 </item>
 </channel>
 </rss>
