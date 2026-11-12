@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 02:01:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 03:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Lithium–Oxygen Batteries: Fundamental and Practical Considerations</title>
+<link>https://doi.org/10.1021/acs.chemrev.5c00647</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.5c00647</guid>
+<pubDate>Thu, 12 Nov 2026 03:01:36 GMT</pubDate>
+<description>این مرور ملاحظات بنیادی و عملی باتری‌های لیتیوم-اکسیژن را با تمرکز بر طراحی الکترولیت، مهندسی الکترود و واکنش‌های انگلی بررسی می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely bridges material-level properties with system-level constraints in lithium–oxygen batteries, addressing oxygen management in open and closed architectures. It comprehensively assesses electrolyte design, electrode engineering, and parasitic reaction mitigation, offering a critical perspective on achieving practical high-energy LOB systems for aviation—a timely synthesis distinguishing it from narrower, component-focused reviews.&lt;br&gt;🏷 lithium-oxygen battery · oxygen redox · electrolyte design · round-trip efficiency · energy density</description>
+<category>lithium-oxygen battery</category>
+<category>oxygen redox</category>
+<category>electrolyte design</category>
+<category>round-trip efficiency</category>
+<category>energy density</category>
+</item>
+<item>
+<title>From Single-Source Precursor Design to Built-in Electric Field Engineering: Unlocking High-Rate Lithium Storage in SnS2 / Expanded Graphite Anodes</title>
+<link>https://doi.org/10.1039/d6ta07926a</link>
+<guid isPermaLink="false">10.1039/d6ta07926a</guid>
+<pubDate>Thu, 12 Nov 2026 03:01:28 GMT</pubDate>
+<description>آندهای SnS2/گرافیت منبسط‌شده با طراحی پیش‌ماده تک‌منبع و مهندسی میدان الکتریکی داخلی برای ذخیره‌سازی سریع لیتیوم ساخته می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing a single-source precursor for phase-pure SnS2 and engineering a built-in electric field in SnS2/expanded graphite anodes. This enables high-rate lithium storage, addressing the slow kinetics and instability of tin-based anodes. The work offers a greener, controlled synthesis route and demonstrates a viable strategy for high-performance anode design.&lt;br&gt;🏷 SnS2 anode · expanded graphite · lithium storage · single-source precursor · built-in electric field</description>
+<category>SnS2 anode</category>
+<category>expanded graphite</category>
+<category>lithium storage</category>
+<category>single-source precursor</category>
+<category>built-in electric field</category>
+</item>
 <item>
 <title>Rufigallol-based 2D metal–organic frameworks as bifunctional electrocatalysts for rechargeable Zn–air batteries</title>
 <link>https://doi.org/10.1039/d6mh02124g</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>state estimation</category>
 <category>multi-objective optimization</category>
 <category>data-driven</category>
-</item>
-<item>
-<title>State-of-charge estimation for vanadium redox flow batteries by integrating a fractional-order model with adaptive extended Kalman filtering</title>
-<link>https://doi.org/10.1016/j.est.2026.125520</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125520</guid>
-<pubDate>Tue, 10 Nov 2026 09:02:44 GMT</pubDate>
-<description>تخمین وضعیت شارژ باتری جریان وانادیوم با ترکیب مدل مرتبه کسری و فیلتر کالمن توسعه‌یافته تطبیقی انجام شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · state of charge · fractional-order model · extended Kalman filter · estimation</description>
-<category>vanadium redox flow battery</category>
-<category>state of charge</category>
-<category>fractional-order model</category>
-<category>extended Kalman filter</category>
-<category>estimation</category>
-</item>
-<item>
-<title>A lithium-ion battery state of health transfer prediction based on sensitive segment voltage feature extraction and dynamic parameter freezing</title>
-<link>https://doi.org/10.1016/j.est.2026.125558</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125558</guid>
-<pubDate>Tue, 10 Nov 2026 09:02:40 GMT</pubDate>
-<description>روشی برای پیش‌بینی انتقالی وضعیت سلامت باتری لیتیوم-یون با استخراج ویژگی ولتاژ از قطعه حساس و انجماد پارامترهای دینامیک ارائه شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · transfer prediction · feature extraction · parameter freezing</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>transfer prediction</category>
-<category>feature extraction</category>
-<category>parameter freezing</category>
 </item>
 </channel>
 </rss>
