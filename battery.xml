@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 17:01:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 18:03:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering Ultrathin, Tough Polymer Networks for Stable Lithium Metal Anode Interphases</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02511</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02511</guid>
+<pubDate>Thu, 12 Nov 2026 18:03:20 GMT</pubDate>
+<description>پوشش نانومتری پلیمری pDMAEMA با piCVD اینترفاز LiF-rich و پایدار ایجاد کرده و آند لیتیوم فلزی را برای باتری‌های پرانرژی بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using photo-initiated chemical vapor deposition to create ultrathin, tough pDMAEMA nanolayers with tunable crosslinking on Li metal. This optimized network balances toughness and viscoelasticity, promotes LiF-rich interphases, and enables uniform Li deposition. Significance: 100 nm coatings achieve 338 Wh kg–1 pouch cells with 80% retention after 90 cycles, offering a design principle for high-energy Li metal batteries.&lt;br&gt;🏷 lithium metal anode · polymer nanolayer · solid electrolyte interphase · piCVD · pouch cell</description>
+<category>lithium metal anode</category>
+<category>polymer nanolayer</category>
+<category>solid electrolyte interphase</category>
+<category>piCVD</category>
+<category>pouch cell</category>
+</item>
+<item>
+<title>Covalent sulfur-rich a-CoS5 as a sulfur-equivalent cathode material for Li-S batteries with larger gravimetric and volumetric capacities</title>
+<link>https://doi.org/10.1016/j.chempr.2026.103333</link>
+<guid isPermaLink="false">10.1016/j.chempr.2026.103333</guid>
+<pubDate>Thu, 12 Nov 2026 18:02:30 GMT</pubDate>
+<description>این مقاله a-CoS5 غنی از گوگرد کووالانسی را به عنوان کاتد معادل گوگرد برای باتری‌های Li-S با ظرفیت وزنی و حجمی بالاتر معرفی می‌کند.&lt;br&gt;Chem | 🔬 Research Article&lt;br&gt;🏷 Li-S battery · a-CoS5 cathode · sulfur-equivalent cathode · volumetric capacity · covalent sulfur</description>
+<category>Li-S battery</category>
+<category>a-CoS5 cathode</category>
+<category>sulfur-equivalent cathode</category>
+<category>volumetric capacity</category>
+<category>covalent sulfur</category>
+</item>
+<item>
+<title>Following molecules from synthesis to batteries—And back</title>
+<link>https://doi.org/10.1016/j.chempr.2026.103330</link>
+<guid isPermaLink="false">10.1016/j.chempr.2026.103330</guid>
+<pubDate>Thu, 12 Nov 2026 18:02:17 GMT</pubDate>
+<description>این مقاله مسیر مولکول‌ها را از سنتز تا کاربرد در باتری‌ها و بازگشت به طراحی مولکولی بررسی می‌کند.&lt;br&gt;Chem | 💭 Perspective&lt;br&gt;🏷 molecular synthesis · battery electrolytes · redox molecules · lithium batteries · molecular design</description>
+<category>molecular synthesis</category>
+<category>battery electrolytes</category>
+<category>redox molecules</category>
+<category>lithium batteries</category>
+<category>molecular design</category>
+</item>
+<item>
+<title>Hard and soft ions team up to tune metal electrode potentials</title>
+<link>https://doi.org/10.1016/j.chempr.2026.103321</link>
+<guid isPermaLink="false">10.1016/j.chempr.2026.103321</guid>
+<pubDate>Thu, 12 Nov 2026 18:02:03 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که ترکیب یون‌های سخت و نرم می‌تواند پتانسیل الکترودهای فلزی را در سامانه‌های الکتروشیمیایی تنظیم کند.&lt;br&gt;Chem | 🔬 Research Article&lt;br&gt;🏷 metal electrode potential · hard-soft ions · electrolyte engineering · ion pairing · interfacial chemistry</description>
+<category>metal electrode potential</category>
+<category>hard-soft ions</category>
+<category>electrolyte engineering</category>
+<category>ion pairing</category>
+<category>interfacial chemistry</category>
+</item>
 <item>
 <title>High-Performance Lithium Metal Anodes Enabled by Multi-dimensional Host Materials</title>
 <link>https://doi.org/10.1016/j.apmate.2026.100485</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>autoencoder</category>
 <category>feature extraction</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Simple battery health estimation for lithium-ion batteries from charging curves under changing operating conditions</title>
-<link>https://doi.org/10.1016/j.est.2026.125443</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125443</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:38 GMT</pubDate>
-<description>روشی ساده برای تخمین سلامت باتری‌های لیتیم-یون از منحنی‌های شارژ تحت شرایط کاری متغیر ارائه و ارزیابی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery health estimation · lithium-ion battery · charging curves · state of health · operating conditions</description>
-<category>battery health estimation</category>
-<category>lithium-ion battery</category>
-<category>charging curves</category>
-<category>state of health</category>
-<category>operating conditions</category>
-</item>
-<item>
-<title>Experimental evaluation of pulse-current-constant-voltage charging for capacity fade reduction in Li-Po pouch batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125459</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125459</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:24 GMT</pubDate>
-<description>روش شارژ پالسی-جریان ثابت-ولتاژ ثابت برای کاهش افت ظرفیت باتری‌های کیسه‌ای Li-Po به‌صورت تجربی ارزیابی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pulse current charging · Li-Po pouch cell · capacity fade · constant voltage · cycle aging</description>
-<category>pulse current charging</category>
-<category>Li-Po pouch cell</category>
-<category>capacity fade</category>
-<category>constant voltage</category>
-<category>cycle aging</category>
-</item>
-<item>
-<title>Learning-enabled cell balancing using improved policy-based deep reinforcement learning</title>
-<link>https://doi.org/10.1016/j.est.2026.125468</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125468</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:07 GMT</pubDate>
-<description>این پژوهش با یادگیری تقویتی عمیق مبتنی بر سیاست بهبودیافته، متعادل‌سازی سلول‌های باتری را یاد می‌گیرد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cell balancing · deep reinforcement learning · policy-based learning · battery management · state of charge</description>
-<category>cell balancing</category>
-<category>deep reinforcement learning</category>
-<category>policy-based learning</category>
-<category>battery management</category>
-<category>state of charge</category>
-</item>
-<item>
-<title>Concurrent charging and balancing of battery packs using deep reinforcement learning</title>
-<link>https://doi.org/10.1016/j.est.2026.125407</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125407</guid>
-<pubDate>Tue, 10 Nov 2026 19:02:03 GMT</pubDate>
-<description>این مقاله با یادگیری تقویتی عمیق، شارژ هم‌زمان و متعادل‌سازی سلول‌ها را در بسته‌های باتری انجام می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery pack · cell balancing · deep reinforcement learning · concurrent charging · state of charge</description>
-<category>battery pack</category>
-<category>cell balancing</category>
-<category>deep reinforcement learning</category>
-<category>concurrent charging</category>
-<category>state of charge</category>
 </item>
 </channel>
 </rss>
