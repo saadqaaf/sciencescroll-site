@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 06:01:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multi-component M-Site Doping Enhances Na-Ion Transport in Na3Fe2(PO4)3 NASICON Cathodes: A High-Throughput Computational Study</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105651</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105651</guid>
+<pubDate>Thu, 12 Nov 2026 07:01:19 GMT</pubDate>
+<description>این مطالعه محاسباتی با آلایش چندجزئی در جایگاه M، انتقال یون سدیم را در کاتدهای NASICON نوع Na3Fe2(PO4)3 بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 NASICON cathode · Na3Fe2(PO4)3 · sodium-ion battery · multi-component doping · high-throughput computation</description>
+<category>NASICON cathode</category>
+<category>Na3Fe2(PO4)3</category>
+<category>sodium-ion battery</category>
+<category>multi-component doping</category>
+<category>high-throughput computation</category>
+</item>
+<item>
+<title>Mo 4d Orbital Occupancy Engineering Reshapes the d‑Band Center of MoO3 Cathodes for High-Capacity and Stable Aqueous Zinc‑Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105646</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105646</guid>
+<pubDate>Thu, 12 Nov 2026 07:01:15 GMT</pubDate>
+<description>این مقاله با مهندسی اشغال اوربیتال 4d مولیبدن، مرکز نوار d کاتد MoO3 را برای باتری آبی روی-یون با ظرفیت بالا و پایدار بازطراحی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · MoO3 cathode · orbital occupancy · d-band center · zinc storage</description>
+<category>aqueous zinc-ion battery</category>
+<category>MoO3 cathode</category>
+<category>orbital occupancy</category>
+<category>d-band center</category>
+<category>zinc storage</category>
+</item>
 <item>
 <title>Beyond electronic pathways: Conducting agent design for lithium-ion and emerging battery electrodes</title>
 <link>https://doi.org/10.1016/j.mser.2026.101333</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>ligand coordination</category>
 <category>magnesium battery</category>
 <category>electrolyte</category>
-</item>
-<item>
-<title>Optimal energy management with fused battery-informed dynamics for intelligent connected battery electric vehicles</title>
-<link>https://doi.org/10.1016/j.est.2026.125450</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125450</guid>
-<pubDate>Tue, 10 Nov 2026 09:02:56 GMT</pubDate>
-<description>مدیریت بهینه انرژی با دینامیک آگاه از باتری برای خودروهای برقی متصل هوشمند توسعه یافته است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy management · battery electric vehicle · battery-informed dynamics · connected vehicles · optimization</description>
-<category>energy management</category>
-<category>battery electric vehicle</category>
-<category>battery-informed dynamics</category>
-<category>connected vehicles</category>
-<category>optimization</category>
-</item>
-<item>
-<title>Glycolamide-regulated electrical double layer enables corrosion-resistant Zn anode for highly stable alkaline zinc-ion flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125583</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125583</guid>
-<pubDate>Tue, 10 Nov 2026 09:02:52 GMT</pubDate>
-<description>تنظیم لایه دوگانه الکتریکی با glycolamide آند روی را در باتری جریان یون-روی قلیایی در برابر خوردگی مقاوم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · alkaline zinc-ion battery · glycolamide · electrical double layer · corrosion resistance</description>
-<category>zinc anode</category>
-<category>alkaline zinc-ion battery</category>
-<category>glycolamide</category>
-<category>electrical double layer</category>
-<category>corrosion resistance</category>
 </item>
 </channel>
 </rss>
