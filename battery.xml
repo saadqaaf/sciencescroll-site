@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 10:01:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 11:01:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Unlocking the Energy Potential of Lithium: From Rechargeable Batteries to Future Nuclear Technologies</title>
+<link>https://doi.org/10.1039/d6ee03222b</link>
+<guid isPermaLink="false">10.1039/d6ee03222b</guid>
+<pubDate>Fri, 13 Nov 2026 11:01:25 GMT</pubDate>
+<description>این Perspective پتانسیل انرژی لیتیوم را از باتری‌های قابل شارژ تا فناوری‌های هسته‌ای آینده بررسی می‌کند و کاربردهای گسترده‌تر آن را بازمی‌نمایاند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 💭 Perspective&lt;br&gt;💡 The novelty lies in bridging lithium&amp;#x27;s established role in electrochemical energy storage with its emerging potential in nuclear technologies, expanding the element&amp;#x27;s energy applications beyond batteries. Its significance is in proposing a unified perspective on lithium as a versatile energy carrier, potentially guiding future research and technology development across both rechargeable battery systems and nuclear energy, thereby reshaping global energy strategies.&lt;br&gt;🏷 lithium · lithium-ion battery · nuclear technology · energy storage · lithium-6</description>
+<category>lithium</category>
+<category>lithium-ion battery</category>
+<category>nuclear technology</category>
+<category>energy storage</category>
+<category>lithium-6</category>
+</item>
 <item>
 <title>Engineering robust hydrogen-bonded interlocking viaducts towards homogeneous and fast lithium-ion flux in solid polymer electrolytes</title>
 <link>https://doi.org/10.1016/j.esci.2026.100671</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>lithium-ion battery</category>
 <category>anode</category>
 <category>precursor engineering</category>
-</item>
-<item>
-<title>Electrochemically accessible ultrahigh-surface-area carbon derived from Pithecellobium dulce leaves for high-energy aqueous supercapacitor: Atomistic insights into defect-oxygen regulated interfacial charge storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125600</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125600</guid>
-<pubDate>Wed, 11 Nov 2026 05:02:14 GMT</pubDate>
-<description>این مقاله کربن متخلخل فوق‌بالا از برگ Pithecellobium dulce را برای ابرخازن آبی پرانرژی ساخته و نقش نقص-اکسیژن در ذخیره بار را روشن می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 porous carbon · Pithecellobium dulce · aqueous supercapacitor · defect-oxygen · charge storage</description>
-<category>porous carbon</category>
-<category>Pithecellobium dulce</category>
-<category>aqueous supercapacitor</category>
-<category>defect-oxygen</category>
-<category>charge storage</category>
 </item>
 </channel>
 </rss>

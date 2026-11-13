@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 10:01:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 11:01:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toward Computationally Guided ATRP for Energy Materials: An Evidence-Graded Parameter–Structure–Function Framework</title>
+<link>https://doi.org/10.1016/j.progpolymsci.2026.102206</link>
+<guid isPermaLink="false">10.1016/j.progpolymsci.2026.102206</guid>
+<pubDate>Fri, 13 Nov 2026 11:01:39 GMT</pubDate>
+<description>این مقاله چارچوبی مبتنی بر شواهد برای هدایت محاسباتی ATRP در مواد انرژی با پیوند پارامتر، ساختار و عملکرد ارائه می‌دهد.&lt;br&gt;Progress in Polymer Science | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 ATRP · energy materials · computational guidance · polymer synthesis · structure-function</description>
+<category>ATRP</category>
+<category>energy materials</category>
+<category>computational guidance</category>
+<category>polymer synthesis</category>
+<category>structure-function</category>
+</item>
+<item>
+<title>Declining environmental predictability erodes reproduction in a tropical seabird</title>
+<link>https://doi.org/10.1038/s41558-026-02795-7</link>
+<guid isPermaLink="false">10.1038/s41558-026-02795-7</guid>
+<pubDate>Fri, 13 Nov 2026 11:01:35 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد که کاهش پیش‌بینی‌پذیری محیطی، تولیدمثل یک پرنده دریایی گرمسیری را تضعیف می‌کند.&lt;br&gt;Nature Climate Change | 🔬 Research Article&lt;br&gt;🏷 seabird · reproduction · environmental predictability · tropical · climate variability</description>
+<category>seabird</category>
+<category>reproduction</category>
+<category>environmental predictability</category>
+<category>tropical</category>
+<category>climate variability</category>
+</item>
+<item>
+<title>Parton distribution functions and theory parameters: An NNPDF perspective</title>
+<link>https://doi.org/10.1016/j.physrep.2026.11.002</link>
+<guid isPermaLink="false">10.1016/j.physrep.2026.11.002</guid>
+<pubDate>Fri, 13 Nov 2026 11:01:32 GMT</pubDate>
+<description>این مقاله از دیدگاه NNPDF به بررسی توابع توزیع پارتونی و پارامترهای نظری و تعیین آن‌ها از داده‌ها می‌پردازد.&lt;br&gt;Physics Reports | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 parton distribution functions · NNPDF · theory parameters · QCD · proton structure</description>
+<category>parton distribution functions</category>
+<category>NNPDF</category>
+<category>theory parameters</category>
+<category>QCD</category>
+<category>proton structure</category>
+</item>
+<item>
+<title>Relieving Space Charge Accumulation via Spatial Potential Modulation to Prepare High-Performance Semi-transparent Organic Photovoltaic</title>
+<link>https://doi.org/10.1039/d6ee05805a</link>
+<guid isPermaLink="false">10.1039/d6ee05805a</guid>
+<pubDate>Fri, 13 Nov 2026 11:01:28 GMT</pubDate>
+<description>این مقاله با تعدیل فضایی پتانسیل، تجمع بار فضایی را در OPV نیمه‌شفاف کاهش می‌دهد و بازده تبدیل توان را بهبود می‌بخشد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 semi-transparent OPV · space charge · potential modulation · charge transfer · power conversion efficiency</description>
+<category>semi-transparent OPV</category>
+<category>space charge</category>
+<category>potential modulation</category>
+<category>charge transfer</category>
+<category>power conversion efficiency</category>
+</item>
+<item>
+<title>Unlocking the Energy Potential of Lithium: From Rechargeable Batteries to Future Nuclear Technologies</title>
+<link>https://doi.org/10.1039/d6ee03222b</link>
+<guid isPermaLink="false">10.1039/d6ee03222b</guid>
+<pubDate>Fri, 13 Nov 2026 11:01:25 GMT</pubDate>
+<description>این Perspective پتانسیل انرژی لیتیوم را از باتری‌های قابل شارژ تا فناوری‌های هسته‌ای آینده بررسی می‌کند و کاربردهای گسترده‌تر آن را بازمی‌نمایاند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 💭 Perspective&lt;br&gt;💡 The novelty lies in bridging lithium&amp;#x27;s established role in electrochemical energy storage with its emerging potential in nuclear technologies, expanding the element&amp;#x27;s energy applications beyond batteries. Its significance is in proposing a unified perspective on lithium as a versatile energy carrier, potentially guiding future research and technology development across both rechargeable battery systems and nuclear energy, thereby reshaping global energy strategies.&lt;br&gt;🏷 lithium · lithium-ion battery · nuclear technology · energy storage · lithium-6</description>
+<category>lithium</category>
+<category>lithium-ion battery</category>
+<category>nuclear technology</category>
+<category>energy storage</category>
+<category>lithium-6</category>
+</item>
 <item>
 <title>Engineering robust hydrogen-bonded interlocking viaducts towards homogeneous and fast lithium-ion flux in solid polymer electrolytes</title>
 <link>https://doi.org/10.1016/j.esci.2026.100671</link>
@@ -1156,66 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 ThDP-dependent enzyme · 
 <category>mouse brain</category>
 <category>chromatin atlas</category>
 <category>cell-type annotation</category>
-</item>
-<item>
-<title>Harmonized brain ontology and 3D atlases for human, macaque, and marmoset basal ganglia</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.033</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.033</guid>
-<pubDate>Thu, 12 Nov 2026 22:02:22 GMT</pubDate>
-<description>این مقاله یک آنتولوژی هماهنگ‌شده مغزی و اطلس‌های سه‌بعدی عقده‌های قاعده‌ای برای انسان، ماکاک و مارموست ارائه می‌دهد.&lt;br&gt;Cell | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 basal ganglia · brain ontology · 3D atlas · primate brain · cross-species alignment</description>
-<category>basal ganglia</category>
-<category>brain ontology</category>
-<category>3D atlas</category>
-<category>primate brain</category>
-<category>cross-species alignment</category>
-</item>
-<item>
-<title>Disruption of cell-type-specific molecular programs of striatal spiny projection neurons in autism</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.027</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.027</guid>
-<pubDate>Thu, 12 Nov 2026 22:02:20 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که برنامه‌های مولکولی اختصاصی انواع سلول‌های نورون‌های خاردار استریاتوم در اوتیسم مختل می‌شوند.&lt;br&gt;Cell | 🔬 Research Article&lt;br&gt;🏷 autism · striatal spiny projection neurons · cell-type-specific programs · molecular disruption · transcriptomics</description>
-<category>autism</category>
-<category>striatal spiny projection neurons</category>
-<category>cell-type-specific programs</category>
-<category>molecular disruption</category>
-<category>transcriptomics</category>
-</item>
-<item>
-<title>Mesoscale molecular architecture of the striatum across cell types and adult aging</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.029</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.029</guid>
-<pubDate>Thu, 12 Nov 2026 22:02:16 GMT</pubDate>
-<description>این مقاله معماری مولکولی میان‌مقیاس استریاتوم را در انواع سلول‌ها و در جریان پیری بزرگسالان ترسیم می‌کند.&lt;br&gt;Cell | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 striatum · molecular architecture · cell types · adult aging · mesoscale mapping</description>
-<category>striatum</category>
-<category>molecular architecture</category>
-<category>cell types</category>
-<category>adult aging</category>
-<category>mesoscale mapping</category>
-</item>
-<item>
-<title>Toward an integrated framework for a human and mammalian brain cell atlas</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.031</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.031</guid>
-<pubDate>Thu, 12 Nov 2026 22:02:10 GMT</pubDate>
-<description>این مقاله چارچوبی یکپارچه برای اطلس سلول‌های مغز انسان و پستانداران پیشنهاد می‌کند تا داده‌ها و استانداردها هماهنگ شوند.&lt;br&gt;Cell | 💭 Perspective&lt;br&gt;🏷 brain cell atlas · mammalian brain · integrated framework · data standards · neuroscience</description>
-<category>brain cell atlas</category>
-<category>mammalian brain</category>
-<category>integrated framework</category>
-<category>data standards</category>
-<category>neuroscience</category>
-</item>
-<item>
-<title>Cross-species multiomic atlas of the primate basal ganglia</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.012</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.012</guid>
-<pubDate>Thu, 12 Nov 2026 22:02:07 GMT</pubDate>
-<description>این مطالعه یک اطلس مولتی‌اومیکس بین‌گونه‌ای از عقده‌های قاعده‌ای پستانداران ارائه می‌دهد و انواع سلولی را مقایسه می‌کند.&lt;br&gt;Cell | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 basal ganglia · cross-species atlas · primate brain · multiomics · cell types</description>
-<category>basal ganglia</category>
-<category>cross-species atlas</category>
-<category>primate brain</category>
-<category>multiomics</category>
-<category>cell types</category>
 </item>
 </channel>
 </rss>
