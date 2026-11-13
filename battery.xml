@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 09:01:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 10:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering robust hydrogen-bonded interlocking viaducts towards homogeneous and fast lithium-ion flux in solid polymer electrolytes</title>
+<link>https://doi.org/10.1016/j.esci.2026.100671</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100671</guid>
+<pubDate>Fri, 13 Nov 2026 10:01:12 GMT</pubDate>
+<description>این مقاله با مهندسی پل‌های درهم‌قفل هیدروژن‌پیوندی، شار یون لیتیوم یکنواخت و سریع را در الکترولیت پلیمری جامد برای باتری‌های لیتیومی فراهم می‌کند.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid polymer electrolyte · lithium-ion flux · hydrogen-bonded viaducts · interlocking structure · ionic conductivity</description>
+<category>solid polymer electrolyte</category>
+<category>lithium-ion flux</category>
+<category>hydrogen-bonded viaducts</category>
+<category>interlocking structure</category>
+<category>ionic conductivity</category>
+</item>
 <item>
 <title>Regulating the Spin-State and Frontier Orbital of a Molecular FePc Catalyst by Interlayer Electronic Coupling for Enhanced ORR Activity</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04631</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>aqueous supercapacitor</category>
 <category>defect-oxygen</category>
 <category>charge storage</category>
-</item>
-<item>
-<title>Nickel Molybdates emerging as prominent transition-metal Molybdates for supercapacitor applications: Energy and power densities review</title>
-<link>https://doi.org/10.1016/j.est.2026.125497</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125497</guid>
-<pubDate>Wed, 11 Nov 2026 05:02:10 GMT</pubDate>
-<description>این مرور، مولیبدات‌های نیکل را به‌عنوان مولیبدات‌های برجسته فلزات واسطه برای ابرخازن‌ها با تمرکز بر چگالی انرژی و توان بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 nickel molybdate · supercapacitor · energy density · power density · transition-metal molybdates</description>
-<category>nickel molybdate</category>
-<category>supercapacitor</category>
-<category>energy density</category>
-<category>power density</category>
-<category>transition-metal molybdates</category>
 </item>
 </channel>
 </rss>
