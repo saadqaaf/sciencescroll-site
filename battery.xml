@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 15:04:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:02:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial covalent anchoring of reduced graphene oxide on graphite felt for durable high-power vanadium redox flow batteries</title>
+<link>https://doi.org/10.1016/j.jmst.2026.11.014</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.11.014</guid>
+<pubDate>Fri, 13 Nov 2026 16:02:27 GMT</pubDate>
+<description>این کار با لنگراندازی کووالانسی گرافن اکسید احیا شده روی نمد گرافیتی، الکترود بادوامی برای باتری جریان ردوکس وانادیوم با توان بالا ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · graphite felt · reduced graphene oxide · covalent anchoring · high-power durability</description>
+<category>vanadium redox flow battery</category>
+<category>graphite felt</category>
+<category>reduced graphene oxide</category>
+<category>covalent anchoring</category>
+<category>high-power durability</category>
+</item>
 <item>
 <title>Spin Exchange Enables Two-Electron TEMPO Catholytes for Aqueous Organic Flow Batteries</title>
 <link>https://doi.org/10.1021/jacs.6c18715</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>charge transfer</category>
 <category>electronic coupling</category>
 <category>Marcus theory</category>
-</item>
-<item>
-<title>Mechanochemical-induced structural evolution governs lithium extraction kinetics in LiMn₂O₄ ion sieves</title>
-<link>https://doi.org/10.1039/d6ta07519c</link>
-<guid isPermaLink="false">10.1039/d6ta07519c</guid>
-<pubDate>Wed, 11 Nov 2026 07:01:47 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که آسیاب مکانیکی در غربال‌های یونی LiMn2O4 ساختار را تغییر داده و سینتیک استخراج مستقیم لیتیوم را از طریق تحول ساختاری القاشده کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Mechanochemical milling is shown to govern lithium extraction kinetics in LiMn₂O₄ ion sieves through mechanochemically induced structural evolution—a mechanism previously poorly understood. This links processing-induced structural changes to DLE performance, offering a design lever for tuning lithium extraction kinetics and advancing efficient direct lithium extraction sorbents.&lt;br&gt;🏷 lithium ion sieve · LiMn2O4 · direct lithium extraction · mechanochemical milling · extraction kinetics</description>
-<category>lithium ion sieve</category>
-<category>LiMn2O4</category>
-<category>direct lithium extraction</category>
-<category>mechanochemical milling</category>
-<category>extraction kinetics</category>
 </item>
 </channel>
 </rss>
