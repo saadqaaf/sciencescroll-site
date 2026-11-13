@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 11:01:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoupling lattice stabilization and interfacial kinetics through asymmetric heterointerfaces for high-voltage LiCoO2 cathode</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103573</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103573</guid>
+<pubDate>Fri, 13 Nov 2026 12:01:19 GMT</pubDate>
+<description>این مقاله با ایجاد ناهمگون‌سطح‌های نامتقارن، پایداری شبکه و سینتیک بین‌سطحی را در کاتد LiCoO2 ولتاژ بالا از هم جدا کرده و عملکرد آن را بهبود می‌بخشد.&lt;br&gt;Materials Today | 🔬 Research Article&lt;br&gt;🏷 LiCoO2 cathode · high-voltage · heterointerface · lattice stabilization · interfacial kinetics</description>
+<category>LiCoO2 cathode</category>
+<category>high-voltage</category>
+<category>heterointerface</category>
+<category>lattice stabilization</category>
+<category>interfacial kinetics</category>
+</item>
 <item>
 <title>Unlocking the Energy Potential of Lithium: From Rechargeable Batteries to Future Nuclear Technologies</title>
 <link>https://doi.org/10.1039/d6ee03222b</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>polyaniline coating</category>
 <category>dual conduction</category>
 <category>high-rate</category>
-</item>
-<item>
-<title>Precursor-driven microstructural engineering of porous silicon anodes via magnesiothermic reduction for lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125473</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125473</guid>
-<pubDate>Wed, 11 Nov 2026 05:02:18 GMT</pubDate>
-<description>این مقاله با مهندسی پیش‌ماده در فرآیند احیای منیزیموترمیک، ساختار میکروسکوپی آندهای سیلیکون متخلخل را برای باتری‌های لیتیوم-یون تنظیم می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 porous silicon · magnesiothermic reduction · lithium-ion battery · anode · precursor engineering</description>
-<category>porous silicon</category>
-<category>magnesiothermic reduction</category>
-<category>lithium-ion battery</category>
-<category>anode</category>
-<category>precursor engineering</category>
 </item>
 </channel>
 </rss>
