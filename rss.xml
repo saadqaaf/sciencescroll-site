@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 17:01:58 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 18:01:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial Kinetic Gating Mechanism via Controllable SEI Regulation toward Robust Zinc Anodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04267</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04267</guid>
+<pubDate>Fri, 13 Nov 2026 18:01:27 GMT</pubDate>
+<description>با تنظیم چگالی جریان به‌عنوان متغیر فعال، مسیر تشکیل SEI روی آند Zn کنترل و یک لایه فشرده غنی از ZnS و Zn–N ساخته می‌شود که پایداری deposition و عمر چرخه را افزایش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using applied current as an active control variable to select SEI reaction pathways on Zn anodes, rather than relying solely on electrolyte composition. High current forms a compact ZnS/Zn–N-rich interphase enabling 5300 h stability and 700 pouch-cell cycles, establishing programmable, formation-history-dependent interphase chemistry beyond composition-only design.&lt;br&gt;🏷 zinc anode · SEI regulation · kinetic gating · current density · Zn-ion battery</description>
+<category>zinc anode</category>
+<category>SEI regulation</category>
+<category>kinetic gating</category>
+<category>current density</category>
+<category>Zn-ion battery</category>
+</item>
+<item>
+<title>In Situ Growth of Polyanionic DNA Hydrogel Networks for Nanoconfined Iontronic Analysis of DNA Methylation</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03915</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03915</guid>
+<pubDate>Fri, 13 Nov 2026 18:01:22 GMT</pubDate>
+<description>با رشد درجای هیدروژل DNA پلی‌آنیونی در نانوکانال‌های AAO، یک پلتفرم iontronic برای تشخیص فوق‌حساس متیلاسیون ژن p16 در نمونه پلاسما و تشخیص سرطان ریه ارائه می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 DNA hydrogel · nanofluidic iontronics · DNA methylation · rolling circle amplification · cancer diagnostics</description>
+<category>DNA hydrogel</category>
+<category>nanofluidic iontronics</category>
+<category>DNA methylation</category>
+<category>rolling circle amplification</category>
+<category>cancer diagnostics</category>
+</item>
+<item>
+<title>Dark Exciton Signatures in the Infrared Transient Absorption of MoS2 Monolayer</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04299</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04299</guid>
+<pubDate>Fri, 13 Nov 2026 18:01:17 GMT</pubDate>
+<description>با توسعه روش GW+BSE برای محاسبه طیف جذب گذرای exciton-exciton، نشان داده می‌شود که سیگنال MoS2 تک‌لایه از دره‌های Γ، K، M و Q ناشی می‌شود نه فقط از Γ.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 dark exciton · MoS2 monolayer · transient absorption · GW+BSE · exciton-exciton dipole</description>
+<category>dark exciton</category>
+<category>MoS2 monolayer</category>
+<category>transient absorption</category>
+<category>GW+BSE</category>
+<category>exciton-exciton dipole</category>
+</item>
+<item>
+<title>Accelerated Oxygen Redox Kinetics via Synergistic Electron Modulation at Asymmetric Dual 180° Oxygen Bonds in Co-Free Li-Rich Cathodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03622</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03622</guid>
+<pubDate>Fri, 13 Nov 2026 18:01:13 GMT</pubDate>
+<description>با ایجاد پیکربندی‌های نامتقارن Li–O–Al و Li–O–Na در کاتد غنی از لیتیوم و بدون کبالت، سینتیک redox اکسیژن تسریع و ظرفیت و نرخ‌پذیری به‌طور چشمگیری بهبود می‌یابد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creating asymmetric near-180° Li–O–Al and Li–O–Na configurations to synergistically modulate oxygen redox in Co-free Li-rich cathodes. This dual-configuration strategy lowers oxygen electron excitation barriers and enhances electron-loss capability, accelerating electronic and ionic transport. It significantly boosts capacity and rate performance, enabling high-capacity, fast oxygen redox in sustainable Mn-rich cathodes.&lt;br&gt;🏷 Li-rich cathode · oxygen redox · Co-free cathode · Al/Na codoping · redox kinetics</description>
+<category>Li-rich cathode</category>
+<category>oxygen redox</category>
+<category>Co-free cathode</category>
+<category>Al/Na codoping</category>
+<category>redox kinetics</category>
+</item>
 <item>
 <title>Interpretable system-level forecasting of Nordic day-ahead electricity prices using PCA-augmented selection-shrinkage</title>
 <link>https://doi.org/10.1016/j.esr.2026.102388</link>
@@ -1176,54 +1224,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 ThDP-dependent enzyme · 
 <category>cellular representations</category>
 <category>scMomer</category>
 <category>deep learning</category>
-</item>
-<item>
-<title>Anion manipulation for breaking through 3.0 V of aluminium–graphite batteries</title>
-<link>https://doi.org/10.1038/s41467-026-79156-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-79156-7</guid>
-<pubDate>Fri, 13 Nov 2026 05:02:00 GMT</pubDate>
-<description>این مقاله با دستکاری آنیون، ولتاژ باتری‌های آلومینیوم-گرافیت را برای عبور از 3.0 ولت افزایش می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a fluorine-rich, framework-confined quasi-solid-state electrolyte using AlF3 and a fluorinated ether to regulate Al2Cl7− and form a fluorine-rich interface, suppressing decomposition. This enables a 3.0 V cut-off, delivering 137 mAh g−1 at 5.0 A g−1 with over 35,000 stable cycles—significantly advancing high-voltage aluminium–graphite battery viability.&lt;br&gt;🏷 aluminium-graphite battery · anion manipulation · high voltage · chloroaluminate · energy storage</description>
-<category>aluminium-graphite battery</category>
-<category>anion manipulation</category>
-<category>high voltage</category>
-<category>chloroaluminate</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Room-temperature continuous-wave lasing-like emission from solution-processed bulk monolayer MoS2 thin films</title>
-<link>https://doi.org/10.1038/s41467-026-79012-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79012-8</guid>
-<pubDate>Fri, 13 Nov 2026 05:01:52 GMT</pubDate>
-<description>این مقاله گسیل شبه‌لیزر پیوسته در دمای اتاق را از لایه‌های نازک انبوه تک‌لایه MoS2 محلول‌فرآوری‌شده در کاواک‌های WGM با آستانه حدود 1.4 نانووات گزارش می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 MoS2 thin films · lasing emission · whispering-gallery-mode · solution processing · transition metal dichalcogenides</description>
-<category>MoS2 thin films</category>
-<category>lasing emission</category>
-<category>whispering-gallery-mode</category>
-<category>solution processing</category>
-<category>transition metal dichalcogenides</category>
-</item>
-<item>
-<title>Signatures of a Kondo insulator in a multilayer moiré Superlattice</title>
-<link>https://doi.org/10.1038/s41467-026-78687-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-78687-3</guid>
-<pubDate>Fri, 13 Nov 2026 05:01:47 GMT</pubDate>
-<description>این مقاله با میکروسکوپی امپدانس مایکروویو نشانه‌های عایق کوندو را در ابرشبکه موآره WS2/WSe2 چندلایه گزارش می‌کند که با میدان مغناطیسی فلزی می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Kondo insulator · moiré superlattice · WS2/WSe2 · microwave impedance microscopy · strong correlation</description>
-<category>Kondo insulator</category>
-<category>moiré superlattice</category>
-<category>WS2/WSe2</category>
-<category>microwave impedance microscopy</category>
-<category>strong correlation</category>
-</item>
-<item>
-<title>The posterior paraventricular nucleus of the thalamus to nucleus accumbens medial shell circuit mediates an anti-pruritic response</title>
-<link>https://doi.org/10.1038/s41467-026-78362-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78362-7</guid>
-<pubDate>Fri, 13 Nov 2026 05:01:43 GMT</pubDate>
-<description>این مقاله نشان می‌دهد مدار هسته پاراونتریکولار خلفی تالاموس به پوسته میانی هسته اکومبنس پاسخ ضدخارش را واسطه‌گری می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 paraventricular thalamus · nucleus accumbens · neural circuit · anti-pruritic response · itch</description>
-<category>paraventricular thalamus</category>
-<category>nucleus accumbens</category>
-<category>neural circuit</category>
-<category>anti-pruritic response</category>
-<category>itch</category>
 </item>
 </channel>
 </rss>
