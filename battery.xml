@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 14:02:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 15:04:46 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spin Exchange Enables Two-Electron TEMPO Catholytes for Aqueous Organic Flow Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c18715</link>
+<guid isPermaLink="false">10.1021/jacs.6c18715</guid>
+<pubDate>Fri, 13 Nov 2026 15:04:16 GMT</pubDate>
+<description>این مقاله با راهبرد تبادل اسپین القاشده توسط قفس هیدراتاسیون، کاتولیت دوالکترونی TEMPO را برای باتری جریان آبی آلی پایدار و پرظرفیت می‌کند.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a hydration-cage-induced spin-exchange strategy that stabilizes two-electron TEMPO catholytes by folding the diradical and enabling intramolecular spin exchange, suppressing proton-induced ring opening. Its significance: enabling the first two-electron/two-electron neutral all-organic flow battery, boosting energy density 1.4–1.7-fold and cutting electrolyte demand 26–42%, with &amp;gt;98% capacity retention over 1200 cycles.&lt;br&gt;🏷 organic flow battery · TEMPO catholyte · two-electron · spin exchange · aqueous electrolyte</description>
+<category>organic flow battery</category>
+<category>TEMPO catholyte</category>
+<category>two-electron</category>
+<category>spin exchange</category>
+<category>aqueous electrolyte</category>
+</item>
+<item>
+<title>Sulfur Doping-Induced Surface Reconstruction of High-Entropy Composites Boosts Bifunctional Oxygen Electrocatalysis for Zinc-Air Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c18638</link>
+<guid isPermaLink="false">10.1021/acsnano.6c18638</guid>
+<pubDate>Fri, 13 Nov 2026 15:03:17 GMT</pubDate>
+<description>آلایش گوگرد در نانوذرات آلیاژ آنتروپی بالا FeCoNiMnMo@CNT بازسازی سطح را القا کرده و الکتروکاتالیز دوعملکردی ORR/OER و عملکرد باتری روی-هوا را بهبود می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 S-doping of high-entropy alloy nanoparticles on carbon nanotubes triggers surface reconstruction during OER while immobilizing single atoms for ORR, enabling superior bifunctional activity (247 mV overpotential, 0.746 V half-wave). This advances durable, high-performance zinc-air batteries (229.8 mW cm⁻², 800+ h cycling) and flexible devices.&lt;br&gt;🏷 zinc-air battery · high-entropy alloy · oxygen electrocatalysis · sulfur doping · surface reconstruction</description>
+<category>zinc-air battery</category>
+<category>high-entropy alloy</category>
+<category>oxygen electrocatalysis</category>
+<category>sulfur doping</category>
+<category>surface reconstruction</category>
+</item>
 <item>
 <title>Decoupling lattice stabilization and interfacial kinetics through asymmetric heterointerfaces for high-voltage LiCoO2 cathode</title>
 <link>https://doi.org/10.1016/j.mattod.2026.103573</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>direct lithium extraction</category>
 <category>mechanochemical milling</category>
 <category>extraction kinetics</category>
-</item>
-<item>
-<title>Research progress on molecular engineering of multifunctional electrolyte additives for aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125578</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125578</guid>
-<pubDate>Wed, 11 Nov 2026 05:02:27 GMT</pubDate>
-<description>این مرور، پیشرفت‌های مهندسی مولکولی افزودنی‌های الکترولیت چندکاره را برای باتری‌های آبی روی-یون جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 aqueous zinc-ion battery · electrolyte additives · molecular engineering · multifunctional additives · zinc anode</description>
-<category>aqueous zinc-ion battery</category>
-<category>electrolyte additives</category>
-<category>molecular engineering</category>
-<category>multifunctional additives</category>
-<category>zinc anode</category>
-</item>
-<item>
-<title>Polyaniline-encapsulated V6O13 nanorods with synergistic electron/ion dual-conduction for high-rate aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125535</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125535</guid>
-<pubDate>Wed, 11 Nov 2026 05:02:23 GMT</pubDate>
-<description>نانومیله‌های V6O13 پوشش‌داده‌شده با پلی‌آنلاین با هدایت دوگانه الکترون/یون برای باتری آبی روی-یون با نرخ بالا ساخته می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · V6O13 nanorods · polyaniline coating · dual conduction · high-rate</description>
-<category>aqueous zinc-ion battery</category>
-<category>V6O13 nanorods</category>
-<category>polyaniline coating</category>
-<category>dual conduction</category>
-<category>high-rate</category>
 </item>
 </channel>
 </rss>
