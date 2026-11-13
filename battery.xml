@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 07:01:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 08:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Regulating the Spin-State and Frontier Orbital of a Molecular FePc Catalyst by Interlayer Electronic Coupling for Enhanced ORR Activity</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04631</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04631</guid>
+<pubDate>Fri, 13 Nov 2026 08:01:03 GMT</pubDate>
+<description>کوپلاژ الکترونیکی بین‌لایه‌ای در FePc@CoNC اسپین و اوربیتال‌های مرزی Fe را تنظیم کرده و فعالیت ORR را با پتانسیل نیم‌موج 0.927 V بهبود می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using interlayer electronic coupling with adjacent Co single atoms and nanoparticles to tune FePc&amp;#x27;s spin state and frontier orbitals. This suppresses Fe 3d spin polarization and enhances dz2 electron localization, optimizing intermediate adsorption. The strategy yields high ORR activity (0.927 V half-wave potential, 336 mW cm–2 peak power) and durability, offering a general approach for engineering molecular Fe–N4 electrocatalysts.&lt;br&gt;🏷 oxygen reduction reaction · FePc catalyst · interlayer electronic coupling · spin-state regulation · zinc-air battery</description>
+<category>oxygen reduction reaction</category>
+<category>FePc catalyst</category>
+<category>interlayer electronic coupling</category>
+<category>spin-state regulation</category>
+<category>zinc-air battery</category>
+</item>
 <item>
 <title>Hard carbon anodes for sodium-ion batteries: from sodium storage mechanisms to multi-dimensional performance optimization strategies</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.058</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>energy density</category>
 <category>power density</category>
 <category>transition-metal molybdates</category>
-</item>
-<item>
-<title>Phase-modulated MoS2@functionalized multi-walled carbon nanotube hybrids with distorted metallic domains for high-performance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125571</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125571</guid>
-<pubDate>Wed, 11 Nov 2026 05:02:05 GMT</pubDate>
-<description>این پژوهش هیبریدهای MoS2@MWCNT با دامنه‌های فلزی اعوجاج‌یافته را با تنظیم فاز برای ابرخازن‌های با عملکرد بالا مهندسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 MoS2 · carbon nanotube · metallic domains · supercapacitor · phase modulation</description>
-<category>MoS2</category>
-<category>carbon nanotube</category>
-<category>metallic domains</category>
-<category>supercapacitor</category>
-<category>phase modulation</category>
 </item>
 </channel>
 </rss>
