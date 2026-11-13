@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 05:02:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Local strain within intercalated materials: example of HOPG blisters</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122323</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122323</guid>
+<pubDate>Fri, 13 Nov 2026 06:01:05 GMT</pubDate>
+<description>این مقاله کرنش موضعی در مواد میان‌لایه‌ای را با مطالعه تاول‌های HOPG بررسی می‌کند و رفتار ساختاری ناشی از میان‌لایه‌شدن را روشن می‌سازد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 HOPG blisters · local strain · intercalated materials · graphite · strain analysis</description>
+<category>HOPG blisters</category>
+<category>local strain</category>
+<category>intercalated materials</category>
+<category>graphite</category>
+<category>strain analysis</category>
+</item>
+<item>
+<title>Reverse Water Gas Shift Reaction over a Homogeneous Iron Catalyst and the Underlying Mechanism</title>
+<link>https://doi.org/10.1021/acscatal.6c06259</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06259</guid>
+<pubDate>Fri, 13 Nov 2026 06:01:02 GMT</pubDate>
+<description>کاتالیزور همگن FePc در DMF واکنش RWGS را از دمای ۱۲۰ درجه با گزینش‌پذیری ۹۸.۱٪ CO انجام می‌دهد و مکانیسم سه‌مرکزی فعال با نقش برهم‌کنش‌های پراکندگی حلال را نشان می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 reverse water gas shift · iron phthalocyanine · homogeneous catalysis · CO2 conversion · DFT calculations</description>
+<category>reverse water gas shift</category>
+<category>iron phthalocyanine</category>
+<category>homogeneous catalysis</category>
+<category>CO2 conversion</category>
+<category>DFT calculations</category>
+</item>
 <item>
 <title>Hard carbon anodes for sodium-ion batteries: from sodium storage mechanisms to multi-dimensional performance optimization strategies</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.058</link>
@@ -1192,30 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 ThDP-dependent enzyme · 
 <category>single-cell transcriptome</category>
 <category>human brain</category>
 <category>multiomics</category>
-</item>
-<item>
-<title>Stepping (hi)stones: Charting a single-cell multiomic path toward understanding the human brain</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.020</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.020</guid>
-<pubDate>Thu, 12 Nov 2026 22:01:23 GMT</pubDate>
-<description>این مقاله چشم‌اندازی برای استفاده از داده‌های مولتی‌اومیک تک‌سلولی در درک سازمان‌یابی و تنوع سلولی مغز انسان ترسیم می‌کند.&lt;br&gt;Cell | 💭 Perspective&lt;br&gt;🏷 single-cell multiomics · human brain · brain atlas · cell types · multiomic integration</description>
-<category>single-cell multiomics</category>
-<category>human brain</category>
-<category>brain atlas</category>
-<category>cell types</category>
-<category>multiomic integration</category>
-</item>
-<item>
-<title>Single-cell, multi-region profiling of the macaque brain across the lifespan</title>
-<link>https://doi.org/10.1016/j.cell.2026.09.014</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.09.014</guid>
-<pubDate>Thu, 12 Nov 2026 22:01:20 GMT</pubDate>
-<description>پروفایل‌گیری تک‌سلولی و چندناحیه‌ای مغز ماکاک در طول عمر، نقشه سلولی جامعی از تغییرات وابسته به سن ارائه می‌دهد.&lt;br&gt;Cell | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 macaque brain · single-cell profiling · multi-region atlas · lifespan · transcriptomics</description>
-<category>macaque brain</category>
-<category>single-cell profiling</category>
-<category>multi-region atlas</category>
-<category>lifespan</category>
-<category>transcriptomics</category>
 </item>
 </channel>
 </rss>
