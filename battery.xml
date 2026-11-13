@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 01:01:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 02:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial Field Coherence Enables Stable Zn Powder Anodes in Temperature-Resilient Aqueous Batteries</title>
+<link>https://doi.org/10.1016/j.apmate.2026.100480</link>
+<guid isPermaLink="false">10.1016/j.apmate.2026.100480</guid>
+<pubDate>Fri, 13 Nov 2026 02:01:10 GMT</pubDate>
+<description>هماهنگی میدان بین‌سطحی برای دستیابی به آندهای پودری Zn پایدار در باتری‌های آبی مقاوم به دما و سرکوب دندریت‌ها به کار گرفته می‌شود.&lt;br&gt;Advanced Powder Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Zn powder anode · aqueous battery · interfacial field coherence · Zn dendrite · temperature resilience</description>
+<category>Zn powder anode</category>
+<category>aqueous battery</category>
+<category>interfacial field coherence</category>
+<category>Zn dendrite</category>
+<category>temperature resilience</category>
+</item>
 <item>
 <title>Diffusion Enhancement in Lithium Secondary Batteries for Safe and Long-Term Cycling</title>
 <link>https://doi.org/10.1007/s41918-026-00298-9</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The no
 <category>flame retardancy</category>
 <category>citric acid</category>
 <category>ammonium polyphosphate</category>
-</item>
-<item>
-<title>A Self-Driving Laboratory for Accelerated Electrolyte Discovery</title>
-<link>https://doi.org/10.1021/acsenergylett.6c01693</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c01693</guid>
-<pubDate>Wed, 11 Nov 2026 02:01:42 GMT</pubDate>
-<description>این مقاله یک آزمایشگاه خودگردان با رباتیک و بهینه‌سازی Bayesian را برای کشف الکترولیت معرفی می‌کند و الکترولیت آبی high-entropy با رسانایی 134.1 mS cm–1 و پنجره پایداری 2.50 V برای باتری روی دماپایین می‌یابد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating liquid-handling robotics, online electroanalysis, and Bayesian optimization into a self-driving 96-well laboratory that autonomously formulates and screens electrolytes. Its significance is accelerating high-dimensional electrolyte discovery with minimal labor, demonstrated by a high-entropy aqueous electrolyte achieving 134.1 mS cm–1 conductivity, a 2.50 V stability window, and ~2019 h cycling at –20 °C.&lt;br&gt;🏷 self-driving laboratory · electrolyte discovery · Bayesian optimization · aqueous zinc battery · high-entropy electrolyte</description>
-<category>self-driving laboratory</category>
-<category>electrolyte discovery</category>
-<category>Bayesian optimization</category>
-<category>aqueous zinc battery</category>
-<category>high-entropy electrolyte</category>
 </item>
 </channel>
 </rss>
