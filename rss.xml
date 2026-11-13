@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 00:01:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 01:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Insight into Glass Problems from Machine-Learned Softness</title>
+<link>https://doi.org/10.1146/annurev-conmatphys-062226-113838</link>
+<guid isPermaLink="false">10.1146/annurev-conmatphys-062226-113838</guid>
+<pubDate>Fri, 13 Nov 2026 01:01:08 GMT</pubDate>
+<description>این مقاله کمیت ساختاری موضعی softness را که با یادگیری ماشین به‌دست آمده و جهش‌های ذرات را پیش‌بینی می‌کند، برای فهم گذار شیشه‌ای و پلاستیسیته شیشه‌ها بررسی می‌کند.&lt;br&gt;Annual Review of Condensed Matter Physics | ⭐ Review&lt;br&gt;🏷 glass transition · softness · machine learning · plasticity · particle hops</description>
+<category>glass transition</category>
+<category>softness</category>
+<category>machine learning</category>
+<category>plasticity</category>
+<category>particle hops</category>
+</item>
+<item>
+<title>Beads, Springs, and Fields: Particle-Based Versus Continuum Models in Cell Biophysics</title>
+<link>https://doi.org/10.1146/annurev-conmatphys-031424-024231</link>
+<guid isPermaLink="false">10.1146/annurev-conmatphys-031424-024231</guid>
+<pubDate>Fri, 13 Nov 2026 01:01:05 GMT</pubDate>
+<description>این مقاله مدل‌های ذره‌ای و پیوسته را در زیست‌فیزیک سلولی مقایسه می‌کند و چارچوبی برای انتخاب راهبرد مدل‌سازی مناسب در سیستم‌هایی مانند اسکلت سلولی، غشا و کروماتین ارائه می‌دهد.&lt;br&gt;Annual Review of Condensed Matter Physics | ⭐ Review&lt;br&gt;🏷 particle-based models · continuum models · cytoskeleton · biomolecular condensates · cell biophysics</description>
+<category>particle-based models</category>
+<category>continuum models</category>
+<category>cytoskeleton</category>
+<category>biomolecular condensates</category>
+<category>cell biophysics</category>
+</item>
 <item>
 <title>Diffusion Enhancement in Lithium Secondary Batteries for Safe and Long-Term Cycling</title>
 <link>https://doi.org/10.1007/s41918-026-00298-9</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 1,3-diamines · azoarenes
 <category>multimodal reinforcement learning</category>
 <category>vision-language model</category>
 <category>clinical error</category>
-</item>
-<item>
-<title>A prefrontal microcircuit computes trial-wise discount of reinforcement during threat learning in male mice</title>
-<link>https://doi.org/10.1038/s41467-026-79254-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-79254-6</guid>
-<pubDate>Thu, 12 Nov 2026 19:03:10 GMT</pubDate>
-<description>یک میکرو مدار پیش‌پیشانی در موش‌های نر، تخفیف تقویت‌کننده را به‌صورت آزمایش‌به‌آزمایش در طول یادگیری تهدید محاسبه می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 prefrontal microcircuit · threat learning · reinforcement discounting · trial-wise computation · mice</description>
-<category>prefrontal microcircuit</category>
-<category>threat learning</category>
-<category>reinforcement discounting</category>
-<category>trial-wise computation</category>
-<category>mice</category>
-</item>
-<item>
-<title>Evolution of the molybdenum and vanadium cycles through time and their impact on ancient nitrogen fixation</title>
-<link>https://doi.org/10.1038/s41467-026-79171-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79171-8</guid>
-<pubDate>Thu, 12 Nov 2026 19:03:05 GMT</pubDate>
-<description>این مقاله تحول چرخه‌های مولیبدن و وانادیم در طول زمان و تأثیر آن‌ها بر تثبیت نیتروژن در محیط‌های باستانی را بررسی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 molybdenum cycle · vanadium cycle · nitrogen fixation · ancient oceans · trace metals</description>
-<category>molybdenum cycle</category>
-<category>vanadium cycle</category>
-<category>nitrogen fixation</category>
-<category>ancient oceans</category>
-<category>trace metals</category>
 </item>
 </channel>
 </rss>
