@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 18:01:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 19:02:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Optimizing dibenzo-fused cathodes for high-voltage organic dual-ion batteries: a combined DFT-ML approach</title>
+<link>https://doi.org/10.1039/d6ta07497a</link>
+<guid isPermaLink="false">10.1039/d6ta07497a</guid>
+<pubDate>Fri, 13 Nov 2026 19:02:12 GMT</pubDate>
+<description>رویکرد ترکیبی DFT و یادگیری ماشین ساختار الکترونی را به عملکرد الکتروشیمیایی مرتبط می‌کند و طراحی کاتدهای آلی پرولتاژ برای باتری‌های دو-یونی را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining DFT with machine learning to link electronic structure directly to electrochemical performance, enabling predictive design of dibenzo-fused organic cathodes. Its significance is accelerating discovery of high-voltage cathodes and electrode–electrolyte pairs for dual-ion batteries, moving beyond trial-and-error toward rational, data-driven materials optimization.&lt;br&gt;🏷 organic cathode · dual-ion battery · dibenzo-fused · machine learning · DFT</description>
+<category>organic cathode</category>
+<category>dual-ion battery</category>
+<category>dibenzo-fused</category>
+<category>machine learning</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Stable liquid-phase thiophosphate enables rapid reaction time for Li 6 PS 5 Cl sulfide electrolytes</title>
+<link>https://doi.org/10.1039/d6ta05260f</link>
+<guid isPermaLink="false">10.1039/d6ta05260f</guid>
+<pubDate>Fri, 13 Nov 2026 19:02:07 GMT</pubDate>
+<description>الکترولیت جامد سولفیدی Li6PS5Cl با فاز مایع تیوفسفات پایدار و زمان واکنش سریع سنتز شد و مسیرهای واکنش تیوفسفات روشن‌تر شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in stabilizing liquid-phase thiophosphate intermediates to control the reaction pathway for Li6PS5Cl synthesis. This enables rapid reaction times, overcoming a key barrier in liquid-phase sulfide electrolyte production. The significance is a scalable, faster route to high-performance solid electrolytes for all-solid-state batteries.&lt;br&gt;🏷 sulfide electrolyte · Li6PS5Cl · liquid-phase synthesis · thiophosphate · solid electrolyte</description>
+<category>sulfide electrolyte</category>
+<category>Li6PS5Cl</category>
+<category>liquid-phase synthesis</category>
+<category>thiophosphate</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Precursor composition engineering of cotton stalks enables synergistic pseudo-graphitic ordering and closed-pore development in hard carbon for sodium storage</title>
+<link>https://doi.org/10.1039/d6ta07452a</link>
+<guid isPermaLink="false">10.1039/d6ta07452a</guid>
+<pubDate>Fri, 13 Nov 2026 19:01:56 GMT</pubDate>
+<description>مهندسی ترکیب پیش‌ماده ساقه پنبه نظم شبه‌گرافیتی و حفرات بسته را در کربن سخت هم‌افزا می‌کند و سهم ظرفیت فلات ولتاژ پایین 74 درصد به دست می‌آید.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Selective precursor etching of cotton stalks is novel, enabling synergistic pseudo-graphitic ordering and closed-pore development in hard carbon. This dual structural engineering yields a 74% low-voltage plateau capacity contribution for sodium storage, significantly boosting usable capacity and offering a sustainable, tunable route to high-performance anodes from biomass waste.&lt;br&gt;🏷 hard carbon · sodium storage · cotton stalks · closed pores · pseudo-graphitic domains</description>
+<category>hard carbon</category>
+<category>sodium storage</category>
+<category>cotton stalks</category>
+<category>closed pores</category>
+<category>pseudo-graphitic domains</category>
+</item>
 <item>
 <title>Interfacial Kinetic Gating Mechanism via Controllable SEI Regulation toward Robust Zinc Anodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04267</link>
@@ -1175,42 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>CoS/Co9S8</category>
 <category>shell thickness</category>
 <category>anode</category>
-</item>
-<item>
-<title>Nitrogen Harmonized Fluoride Solid‐State Electrolytes With Modulus‐Mismatch‐Induced Interfacial Defects for Fast Li + Transport</title>
-<link>https://doi.org/10.1002/adfm.79600</link>
-<guid isPermaLink="false">10.1002/adfm.79600</guid>
-<pubDate>Wed, 11 Nov 2026 12:02:14 GMT</pubDate>
-<description>الکترولیت جامد فلوریدی حاوی نیتروژن با ناهمخوانی مدول و نقص‌های بین‌سطحی، رسانایی یونی و پایداری چرخه باتری‌های لیتیومی حالت جامد را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in fused-salt-etched nitrogen-modulated fluoride electrolyte (LAFN) using modulus-mismatch-induced interfacial defects between K(Na)Cl and LAFN to create continuous fast Li+ pathways, plus nitrogen doping that forms a stable Li3N-LiF layer and enriches lithium vacancies. Significance: raises room-temperature ionic conductivity to 2.04×10−4 S cm−1, enabling excellent rate capability and long cycling in solid-state cells.&lt;br&gt;🏷 solid electrolyte · fluoride electrolyte · ionic conductivity · Li3N-LiF layer · lithium metal battery</description>
-<category>solid electrolyte</category>
-<category>fluoride electrolyte</category>
-<category>ionic conductivity</category>
-<category>Li3N-LiF layer</category>
-<category>lithium metal battery</category>
-</item>
-<item>
-<title>Ion‐Induced Symmetry Breaking in 2D FePS 3 Enables Rational‐Polarized Sulfur Sites for Accelerated Li‐O 2 Batteries Kinetics</title>
-<link>https://doi.org/10.1002/adfm.79578</link>
-<guid isPermaLink="false">10.1002/adfm.79578</guid>
-<pubDate>Wed, 11 Nov 2026 12:02:08 GMT</pubDate>
-<description>دوپه‌سازی Li+ در FePS3 با شکست تقارن، قطبش گوگرد را تنظیم کرده و با بهینه‌سازی جذب واسطه‌ها، سینتیک باتری Li-O2 را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Ion-exchange doping of FePS3 with Li+ breaks symmetry, moderately shifting the S p-band center to optimize LiO2/Li2O2 adsorption without passivation. This yields a low 1.53 V overpotential, 11287 mAh g−1 capacity, and stable cycling in Li-O2 batteries. The work establishes ion-mediated symmetry breaking as a strategy for tuning anion-site reactivity in oxygen electrocatalysis.&lt;br&gt;🏷 Li-O2 battery · FePS3 · sulfur polarization · ion doping · electrocatalysis</description>
-<category>Li-O2 battery</category>
-<category>FePS3</category>
-<category>sulfur polarization</category>
-<category>ion doping</category>
-<category>electrocatalysis</category>
-</item>
-<item>
-<title>Constructing Low‐Friction Ion Transport Pathways in Crosslinked Polymer Electrolyte for Practical Quasi‐Solid‐State Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75615</link>
-<guid isPermaLink="false">10.1002/adma.75615</guid>
-<pubDate>Wed, 11 Nov 2026 09:02:32 GMT</pubDate>
-<description>با تنظیم ساختار مونومر و کاهش برهم‌کنش قطعات فلورینه با Li+، مسیرهای انتقال یون کم‌اصطکاک در الکترولیت پلیمری شبکه‌ای ایجاد شد و پیل‌های کیسه‌ای NCM811/Li عمری بیش از ۵۲۰ چرخه یافتند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in tuning monomer Li+-affinity to reveal that weakly coordinating fluorinated ether segments create &amp;quot;low-friction&amp;quot; Li+ transport pathways, unlike sticky ether chains. This enables crosslinked polymer electrolytes with high conductivity, yielding 2 Ah and 8.7 Ah pouch cells stable from −50 to +90°C, 550 Wh kg−1, and lean-electrolyte operation (1.3 g Ah−1), advancing practical quasi-solid-state lithium metal batteries.&lt;br&gt;🏷 polymer electrolyte · lithium metal battery · Li+ transport · fluorinated ether · crosslinked electrolyte</description>
-<category>polymer electrolyte</category>
-<category>lithium metal battery</category>
-<category>Li+ transport</category>
-<category>fluorinated ether</category>
-<category>crosslinked electrolyte</category>
 </item>
 </channel>
 </rss>
