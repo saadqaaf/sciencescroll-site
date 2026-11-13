@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 20:01:23 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 21:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Highly Efficient Functionalization of hBN With Lithium Oxalate: A Multifunctional Platform for Composites, Ion Transport, and Spin Labeling</title>
+<link>https://doi.org/10.1002/adma.75599</link>
+<guid isPermaLink="false">10.1002/adma.75599</guid>
+<pubDate>Fri, 13 Nov 2026 21:01:28 GMT</pubDate>
+<description>این مقاله یک روش مکانیکی-شیمیایی بدون حلال برای عامل‌دارکردن hBN با اگزالات لیتیوم معرفی می‌کند که نانوساختار LBNCO با رسانایی یونی و پایداری حرارتی برای باتری‌های حالت جامد لیتیوم فراهم می‌آورد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a solvent-free mechanochemical method that overcomes hBN&amp;#x27;s inertness, creating lithium-rich oxalate-functionalized boron nitride (LBNCO) with tunable ionic conductivity, electronic insulation, and high thermal stability. Its significance is establishing a multifunctional solid-state platform integrating ion transport, mechanical robustness, and thermal stability for safer lithium batteries and related technologies.&lt;br&gt;🏷 hexagonal boron nitride · lithium oxalate · mechanochemical functionalization · ionic conductivity · solid-state battery</description>
+<category>hexagonal boron nitride</category>
+<category>lithium oxalate</category>
+<category>mechanochemical functionalization</category>
+<category>ionic conductivity</category>
+<category>solid-state battery</category>
+</item>
 <item>
 <title>Optimizing dibenzo-fused cathodes for high-voltage organic dual-ion batteries: a combined DFT-ML approach</title>
 <link>https://doi.org/10.1039/d6ta07497a</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>solvation regulation</category>
 <category>aqueous zinc battery</category>
 <category>molecular-ionic coupling</category>
-</item>
-<item>
-<title>Hollow CoS/Co 9 S 8 Prisms With Tunable Shell Thickness for Fast and Durable Sodium Storage</title>
-<link>https://doi.org/10.1002/adfm.79622</link>
-<guid isPermaLink="false">10.1002/adfm.79622</guid>
-<pubDate>Wed, 11 Nov 2026 12:02:29 GMT</pubDate>
-<description>منشورهای توخالی CoS/Co9S8 با ضخامت پوسته بهینه ۶۵ نانومتر، تعادل سینتیک و پایداری ساختاری را برای ذخیره‌سازی سریع و پایدار سدیم فراهم می‌کنند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in tuning hollow CoS/Co9S8 prism shell thickness (95, 65, 45 nm) to reveal how shell geometry governs sodium storage kinetics versus mechanical stability. Significance: identifying 65 nm as optimal via finite element analysis yields high capacity (638 mAh g−1), superior rate performance, and 2000-cycle durability, with full-cell validation, advancing rational hollow-electrode design for practical sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · hollow prisms · CoS/Co9S8 · shell thickness · anode</description>
-<category>sodium-ion battery</category>
-<category>hollow prisms</category>
-<category>CoS/Co9S8</category>
-<category>shell thickness</category>
-<category>anode</category>
 </item>
 </channel>
 </rss>
