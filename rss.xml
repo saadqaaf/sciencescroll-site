@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 23:04:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 00:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Diffusion Enhancement in Lithium Secondary Batteries for Safe and Long-Term Cycling</title>
+<link>https://doi.org/10.1007/s41918-026-00298-9</link>
+<guid isPermaLink="false">10.1007/s41918-026-00298-9</guid>
+<pubDate>Fri, 13 Nov 2026 00:01:16 GMT</pubDate>
+<description>این مقاله به بهبود نفوذ در باتری‌های ثانویه لیتیومی برای چرخه‌پذیری ایمن و طولانی‌مدت می‌پردازد و راهبردهای افزایش انتقال یون را بررسی می‌کند.&lt;br&gt;Electrochemical Energy Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 lithium secondary batteries · diffusion enhancement · safe cycling · long-term cycling · ion transport</description>
+<category>lithium secondary batteries</category>
+<category>diffusion enhancement</category>
+<category>safe cycling</category>
+<category>long-term cycling</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>Thin-film lithium niobate photonics for quantum technologies</title>
+<link>https://doi.org/10.1038/s42254-026-01003-x</link>
+<guid isPermaLink="false">10.1038/s42254-026-01003-x</guid>
+<pubDate>Fri, 13 Nov 2026 00:01:12 GMT</pubDate>
+<description>این مقاله مروری به فوتونیک لیتیوم نیوبات لایه‌نازک برای فناوری‌های کوانتومی می‌پردازد و قابلیت‌های آن را در یکپارچه‌سازی و کاربردهای کوانتومی بررسی می‌کند.&lt;br&gt;Nature Reviews Physics | ⭐ Review&lt;br&gt;🏷 thin-film lithium niobate · quantum photonics · integrated photonics · nonlinear optics · quantum technologies</description>
+<category>thin-film lithium niobate</category>
+<category>quantum photonics</category>
+<category>integrated photonics</category>
+<category>nonlinear optics</category>
+<category>quantum technologies</category>
+</item>
 <item>
 <title>Long-term local circulation of an Andes virus lineage in northern Patagonia is linked to the M/V Hondius outbreak</title>
 <link>https://doi.org/10.1126/science.aej1679</link>
@@ -1191,30 +1215,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 1,3-diamines · azoarenes
 <category>nitrogen fixation</category>
 <category>ancient oceans</category>
 <category>trace metals</category>
-</item>
-<item>
-<title>ISG15 promotes PARP inhibitor resistance in BRCA1-deficient cells by facilitating DNA replication and repair</title>
-<link>https://doi.org/10.1038/s41467-026-78554-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-78554-1</guid>
-<pubDate>Thu, 12 Nov 2026 19:03:02 GMT</pubDate>
-<description>در سلول‌های BRCA1-/- مقاوم به مهارکننده PARP، ISG15 با پشتیبانی از پیشروی و راه‌اندازی مجدد فورک همانندسازی و ترمیم شکست دورشته‌ای، مقاومت دارویی را تقویت می‌کند و مهار آن حساسیت را بازمی‌گرداند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 PARP inhibitor resistance · ISG15 · BRCA1 deficiency · DNA replication · homologous recombination</description>
-<category>PARP inhibitor resistance</category>
-<category>ISG15</category>
-<category>BRCA1 deficiency</category>
-<category>DNA replication</category>
-<category>homologous recombination</category>
-</item>
-<item>
-<title>Engineering CAR-Vδ2 T cells to boost persistence and anti-tumor function</title>
-<link>https://doi.org/10.1038/s41467-026-79155-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79155-8</guid>
-<pubDate>Thu, 12 Nov 2026 19:02:58 GMT</pubDate>
-<description>مهندسی سلول‌های T CAR-Vδ2 برای افزایش بقا و عملکرد ضدتوموری، راهبردی برای بهبود ایمونوتراپی سلول‌های T گاما-دلتا ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CAR-Vδ2 T cells · persistence · antitumor function · gamma-delta T cells · immunotherapy</description>
-<category>CAR-Vδ2 T cells</category>
-<category>persistence</category>
-<category>antitumor function</category>
-<category>gamma-delta T cells</category>
-<category>immunotherapy</category>
 </item>
 </channel>
 </rss>
