@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 21:01:33 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:02:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Proton Competition Induced Stabilization in TEMPO‐Based Redox‐Targeting Flow Batteries</title>
+<link>https://doi.org/10.1002/aenm.71832</link>
+<guid isPermaLink="false">10.1002/aenm.71832</guid>
+<pubDate>Fri, 13 Nov 2026 22:02:00 GMT</pubDate>
+<description>باتری جریان redox-targeting مبتنی بر TEMPO با مکانیسم رقابت پروتون و بافرینگ PANI، ظرفیت 35.72 Ah/L و حفظ ظرفیت 99.94 درصد در هر چرخه را فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a proton-competition strategy using polyaniline as a solid redox-targeting material to stabilize TEMPO radicals without molecular engineering. This suppresses hydrogenation via PANI&amp;#x27;s reversible doping/de-doping, enabling 4.37-fold capacity enhancement, 99.99% coulombic efficiency, and 99.94% capacity retention per cycle over 500 cycles. It provides design principles for stable, long-duration aqueous organic redox flow batteries.&lt;br&gt;🏷 redox-targeting flow battery · TEMPO · polyaniline · proton competition · radical stabilization</description>
+<category>redox-targeting flow battery</category>
+<category>TEMPO</category>
+<category>polyaniline</category>
+<category>proton competition</category>
+<category>radical stabilization</category>
+</item>
+<item>
+<title>Breaking the Thermal Limits: Solvation Chemistry of Hydrogel Electrolytes for Extreme‐Temperature Stable Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71795</link>
+<guid isPermaLink="false">10.1002/aenm.71795</guid>
+<pubDate>Fri, 13 Nov 2026 22:01:48 GMT</pubDate>
+<description>این مرور پنج راهبرد طراحی هیدروژل الکترولیت را برای تنظیم سولواسیون Zn2+ و پایداری سطح مشترک، به‌منظور باتری‌های روی-یون پایدار در دماهای حدی بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely links hydrogel electrolyte solvation chemistry to extreme-temperature zinc-ion battery stability, systematically comparing five design strategies (high-entropy, water-deficient, deep eutectic, zwitterionic, nanofiller). Its novelty lies in quantitative solvation/kinetic descriptor benchmarking and temperature-resolved analysis, offering standardized guidance for rational wide-temperature electrolyte design.&lt;br&gt;🏷 hydrogel electrolyte · zinc-ion battery · solvation chemistry · extreme temperature · Zn2+ transport</description>
+<category>hydrogel electrolyte</category>
+<category>zinc-ion battery</category>
+<category>solvation chemistry</category>
+<category>extreme temperature</category>
+<category>Zn2+ transport</category>
+</item>
+<item>
+<title>Fabrication of Tri‐Phase Lithium Alloy in Seconds via an Implosion‐Popcorn Reaction Toward Stable Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71820</link>
+<guid isPermaLink="false">10.1002/aenm.71820</guid>
+<pubDate>Fri, 13 Nov 2026 22:01:36 GMT</pubDate>
+<description>واکنش انفجاری implosion-popcorn در چند ثانیه آلیاژ سه‌فازی Fe/Li3P/Li با شبکه درهم‌تنیده می‌سازد که رشد یکنواخت Li و عمر چرخه بیش از 3000 ساعت را ممکن می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ultrafast, spontaneous implosion-popcorn reaction that disintegrates centimeter-scale precursors into ultrafine particles within seconds, creating a homogeneous tri-phase Fe/Li₃P/Li alloy with an interpenetrating network. This shifts alloy fabrication from passive to active, efficient, and uniform. Significance: enhanced Young&amp;#x27;s modulus, versatile processability (slurries, foils, powders), and stable cycling over 3000 h via regulated Li nucleation and uniform growth.&lt;br&gt;🏷 lithium metal anode · tri-phase alloy · implosion-popcorn reaction · Li3P · dendrite suppression</description>
+<category>lithium metal anode</category>
+<category>tri-phase alloy</category>
+<category>implosion-popcorn reaction</category>
+<category>Li3P</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Sabatier Principle‐Guided Co‐Solvent Selection for Highly Reversible Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1002/aenm.71839</link>
+<guid isPermaLink="false">10.1002/aenm.71839</guid>
+<pubDate>Fri, 13 Nov 2026 22:01:31 GMT</pubDate>
+<description>با استفاده از شاخص قطبیت مولکولی به‌عنوان توصیفگر، یک چارچوب شبه‌ساباتیه برای انتخاب هم‌حلال الکترولیت ارائه می‌دهد که با 1,3-propanediol آند Zn پایدار و باتری Zn//I2 با عمر طولانی فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 This work introduces a Sabatier-principle-analogous framework using molecular polarity index (MPI) as a quantitative descriptor for rational co-solvent selection in aqueous zinc batteries, revealing a volcano-type MPI–performance relationship. The optimal intermediate polarity balances interfacial homogeneity and kinetics, enabling ultralong cycling and high-loading pouch cells, and successfully predicts 1,2,4-butanetriol as a new efficient co-solvent, transforming electrolyte formulation from empirical to predictive.&lt;br&gt;🏷 aqueous zinc battery · co-solvent electrolyte · molecular polarity index · Sabatier principle · Zn anode stability</description>
+<category>aqueous zinc battery</category>
+<category>co-solvent electrolyte</category>
+<category>molecular polarity index</category>
+<category>Sabatier principle</category>
+<category>Zn anode stability</category>
+</item>
 <item>
 <title>Highly Efficient Functionalization of hBN With Lithium Oxalate: A Multifunctional Platform for Composites, Ion Transport, and Spin Labeling</title>
 <link>https://doi.org/10.1002/adma.75599</link>
@@ -1163,54 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>redox-active nanocomposite</category>
 <category>supercapacitor</category>
 <category>energy density</category>
-</item>
-<item>
-<title>Multi-objective weight tuning of model predictive control for battery thermal management using constraint-penalized push-and-pull search</title>
-<link>https://doi.org/10.1016/j.est.2026.125522</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125522</guid>
-<pubDate>Wed, 11 Nov 2026 15:02:03 GMT</pubDate>
-<description>این مقاله روشی مبتنی بر جست‌وجوی کششی-فشاری با جریمه قید برای تنظیم چندهدفه وزن‌های کنترل پیش‌بین مدل در مدیریت حرارتی باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · model predictive control · multi-objective optimization · constraint-penalized search · weight tuning</description>
-<category>battery thermal management</category>
-<category>model predictive control</category>
-<category>multi-objective optimization</category>
-<category>constraint-penalized search</category>
-<category>weight tuning</category>
-</item>
-<item>
-<title>Physics-Aware Multi-Timescale Hierarchical Coordinated Control for Heavy-Duty Electric Commercial Vehicles</title>
-<link>https://doi.org/10.1016/j.etran.2026.100651</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100651</guid>
-<pubDate>Wed, 11 Nov 2026 13:02:04 GMT</pubDate>
-<description>یک کنترل هماهنگ سلسله‌مراتبی چندمقیاسی و فیزیک‌آگاه برای خودروهای تجاری برقی سنگین ارائه می‌دهد.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 electric commercial vehicles · hierarchical control · multi-timescale · physics-aware · energy management</description>
-<category>electric commercial vehicles</category>
-<category>hierarchical control</category>
-<category>multi-timescale</category>
-<category>physics-aware</category>
-<category>energy management</category>
-</item>
-<item>
-<title>Decoding Symmetry-Breaking Band Structures in Nanocatalysts for Kinetically Favorable Li-S Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02914</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02914</guid>
-<pubDate>Wed, 11 Nov 2026 12:03:22 GMT</pubDate>
-<description>با ترکیب شیمی کوانتومی و یادگیری ماشین، موقعیت قله باند d به‌عنوان توصیفگر جدید برهم‌کنش آلیاژ-پلی‌سولفید در باتری Li-S معرفی شد و CoFe عملکرد بهینه نشان داد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in replacing the averaged d-band center with the transformed d-band peak position (Epp), an interpretable descriptor capturing d-band position, bandwidth, and shape via quantum chemistry and machine learning. It links Epp to S3p–Md antibonding occupation and polysulfide adsorption, enabling rational alloy catalyst design; CoFe validated experimentally in an ampere-hour pouch cell (426 Wh kg–1).&lt;br&gt;🏷 Li-S battery · alloy catalysts · d-band descriptor · machine learning · polysulfide adsorption</description>
-<category>Li-S battery</category>
-<category>alloy catalysts</category>
-<category>d-band descriptor</category>
-<category>machine learning</category>
-<category>polysulfide adsorption</category>
-</item>
-<item>
-<title>Molecular‐Ionic Coupling Enables Solvation‐Regulated Hydrogel Electrolytes to Stabilize Zinc Anodes</title>
-<link>https://doi.org/10.1002/adfm.79626</link>
-<guid isPermaLink="false">10.1002/adfm.79626</guid>
-<pubDate>Wed, 11 Nov 2026 12:02:36 GMT</pubDate>
-<description>هیدروژل الکترولیت PAMPS با کوپلینگ مولکولی-یونی، ساختار آب و محیط Zn2+ را تنظیم کرده و آند روی را در باتری‌های آبی روی-یون پایدار می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling glycerol-mediated hydrogen-bond regulation with sulfonate outer-sphere interactions to simultaneously tune water states, Zn²⁺ solvation, and ion transport in a hydrogel electrolyte. This multiscale molecular-ionic coupling enables high conductivity (27.3 mS cm⁻¹), suppresses side reactions, and delivers ultrastable Zn anodes (2000 h) and long-cycle full cells, offering a practical electrolyte-engineering strategy for durable aqueous Zn-ion batteries.&lt;br&gt;🏷 hydrogel electrolyte · zinc anode · solvation regulation · aqueous zinc battery · molecular-ionic coupling</description>
-<category>hydrogel electrolyte</category>
-<category>zinc anode</category>
-<category>solvation regulation</category>
-<category>aqueous zinc battery</category>
-<category>molecular-ionic coupling</category>
 </item>
 </channel>
 </rss>
