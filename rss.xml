@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 22:01:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 23:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Architecting spatial distribution of silicon in solvent-free double-layered high-loading graphite/silicon anodes for structurally durable lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114395</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114395</guid>
+<pubDate>Sat, 14 Nov 2026 23:01:07 GMT</pubDate>
+<description>با معماری توزیع فضایی سیلیسیم در آندهای دوجزئی گرافیت/سیلیسیم بدون حلال و با بارگذاری بالا، آندهای ساختاری پایدار برای باتری‌های لیتیوم-یون طراحی شد.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 silicon-graphite anode · lithium-ion battery · solvent-free electrode · high loading · spatial distribution</description>
+<category>silicon-graphite anode</category>
+<category>lithium-ion battery</category>
+<category>solvent-free electrode</category>
+<category>high loading</category>
+<category>spatial distribution</category>
+</item>
+<item>
+<title>Physics-Informed Topological Graph Neural Networks for micromechanical insights and uncertainty quantification in void-containing composites</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114371</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114371</guid>
+<pubDate>Sat, 14 Nov 2026 23:01:02 GMT</pubDate>
+<description>شبکه عصبی گرافی فیزیک‌محور برای پیش‌بینی رفتار میکرومکانیکی و کمّی‌سازی عدم‌قطعیت در کامپوزیت‌های دارای حفره ارائه شده است.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 graph neural network · uncertainty quantification · void-containing composites · micromechanics · physics-informed model</description>
+<category>graph neural network</category>
+<category>uncertainty quantification</category>
+<category>void-containing composites</category>
+<category>micromechanics</category>
+<category>physics-informed model</category>
+</item>
+<item>
+<title>Phonon-Activated Optical Transitions in Graphullerene Monolayers</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03572</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03572</guid>
+<pubDate>Sat, 14 Nov 2026 23:00:59 GMT</pubDate>
+<description>با نظریه اختلال چندجسمی، بازبهنجارش شکاف‌های شبه‌ذره و نوری گرافولرن تک‌لایه بر اثر حرکت هسته‌ای محاسبه شد و سازوکار هرتزبرگ-تلر عامل انتقال قرمز نوری بزرگ شناخته شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 graphullerene monolayer · vibronic coupling · optical band gap · Herzberg-Teller effect · many-body perturbation theory</description>
+<category>graphullerene monolayer</category>
+<category>vibronic coupling</category>
+<category>optical band gap</category>
+<category>Herzberg-Teller effect</category>
+<category>many-body perturbation theory</category>
+</item>
 <item>
 <title>Mission-oriented integrated assessment of aviation decarbonization pathways: a comparative review of sustainable aviation fuel, hydrogen and electricity</title>
 <link>https://doi.org/10.1016/j.esr.2026.102402</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>climate policy</category>
 <category>asset pricing</category>
 <category>emissions</category>
-</item>
-<item>
-<title>Energy-water-carbon coordination dynamics under China&#x27;s transition toward carbon neutrality: A vine copula-aided CGE model</title>
-<link>https://doi.org/10.1016/j.esr.2026.102403</link>
-<guid isPermaLink="false">10.1016/j.esr.2026.102403</guid>
-<pubDate>Sat, 14 Nov 2026 12:01:56 GMT</pubDate>
-<description>این مقاله با مدل CGE و copula واین، دینامیک هماهنگی انرژی-آب-کربن را در مسیر گذار چین به بی‌طرفی کربنی تحلیل می‌کند.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 carbon neutrality · energy-water-carbon nexus · CGE model · vine copula · China</description>
-<category>carbon neutrality</category>
-<category>energy-water-carbon nexus</category>
-<category>CGE model</category>
-<category>vine copula</category>
-<category>China</category>
-</item>
-<item>
-<title>Coupled electron/Li+ transport and interfacial engineering enabled by a crosslinkable PEDOT:PSS-based binder for silicon anodes</title>
-<link>https://doi.org/10.1039/d6mh01921h</link>
-<guid isPermaLink="false">10.1039/d6mh01921h</guid>
-<pubDate>Sat, 14 Nov 2026 12:01:53 GMT</pubDate>
-<description>این مقاله یک بایندر شبکه‌ای PEDOT:PSS را برای آندهای سیلیکونی طراحی می‌کند که انتقال الکترون و Li+ و پایداری مکانیکی را هم‌زمان بهبود می‌دهد.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a crosslinkable PEDOT:PSS-based binder that couples electron/Li+ transport with interfacial engineering, addressing the trade-off between mechanical stability and ionic/electronic conduction in Si anodes. Its significance is enabling Si anodes to accommodate large volume expansion while maintaining efficient charge transport, a key step toward high-performance, long-life lithium-ion batteries.&lt;br&gt;🏷 silicon anode · PEDOT:PSS binder · Li+ transport · interfacial engineering · crosslinkable binder</description>
-<category>silicon anode</category>
-<category>PEDOT:PSS binder</category>
-<category>Li+ transport</category>
-<category>interfacial engineering</category>
-<category>crosslinkable binder</category>
-</item>
-<item>
-<title>Inductively Proprioceptive Liquid Crystal Elastomers with Unified Sensing and Actuation</title>
-<link>https://doi.org/10.1039/d6mh01379a</link>
-<guid isPermaLink="false">10.1039/d6mh01379a</guid>
-<pubDate>Sat, 14 Nov 2026 12:01:47 GMT</pubDate>
-<description>این مقاله الاستومرهای بلور مایع را با حس‌گری و عمل‌گری یکپارچه برای کنترل حلقه‌بسته بدون حس‌گر خارجی در رباتیک نرم ارائه می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 liquid crystal elastomer · self-sensing · soft actuator · proprioception · soft robotics</description>
-<category>liquid crystal elastomer</category>
-<category>self-sensing</category>
-<category>soft actuator</category>
-<category>proprioception</category>
-<category>soft robotics</category>
 </item>
 </channel>
 </rss>

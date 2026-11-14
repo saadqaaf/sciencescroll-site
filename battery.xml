@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 22:01:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 23:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Architecting spatial distribution of silicon in solvent-free double-layered high-loading graphite/silicon anodes for structurally durable lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114395</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114395</guid>
+<pubDate>Sat, 14 Nov 2026 23:01:07 GMT</pubDate>
+<description>با معماری توزیع فضایی سیلیسیم در آندهای دوجزئی گرافیت/سیلیسیم بدون حلال و با بارگذاری بالا، آندهای ساختاری پایدار برای باتری‌های لیتیوم-یون طراحی شد.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 silicon-graphite anode · lithium-ion battery · solvent-free electrode · high loading · spatial distribution</description>
+<category>silicon-graphite anode</category>
+<category>lithium-ion battery</category>
+<category>solvent-free electrode</category>
+<category>high loading</category>
+<category>spatial distribution</category>
+</item>
 <item>
 <title>Lithiothermic-Twinning Built-In LiF Ionic Mediators within Li2S@Graphene Cathodes for Anode-Less/Free Li–S Batteries</title>
 <link>https://doi.org/10.1021/acsnano.6c17373</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>dendrite suppression</category>
 <category>multi-dimensional structure</category>
 <category>lithium deposition</category>
-</item>
-<item>
-<title>Anion-Dipole Tailoring and Directional Dipole Coordination Enable Ultrahigh-Energy-Density Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ee05977e</link>
-<guid isPermaLink="false">10.1039/d6ee05977e</guid>
-<pubDate>Thu, 12 Nov 2026 15:01:50 GMT</pubDate>
-<description>تنظیم آنیون-دوقطبی و هماهنگی جهت‌دار دوقطبی، پایداری سطحی کاتد LRMO را بهبود داده و باتری‌های لیتیوم-یونی با چگالی انرژی فوق‌بالا را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using anion-dipole tailoring and directional dipole coordination to stabilize the LRMO cathode-electrolyte interface, suppressing Mn dissolution and anion hydrolysis-driven acid generation. This enables ultrahigh-energy-density lithium-ion batteries with improved high-voltage and high-temperature performance, addressing a key failure mechanism and offering a promising electrolyte design strategy for durable high-energy cathodes.&lt;br&gt;🏷 lithium-rich manganese oxide · anion-dipole tailoring · high-voltage cathode · interfacial stability · lithium-ion battery</description>
-<category>lithium-rich manganese oxide</category>
-<category>anion-dipole tailoring</category>
-<category>high-voltage cathode</category>
-<category>interfacial stability</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
