@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 12:02:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bimodal Pore Engineering of Mesoporous Carbon onto Ti3C2T x via a Soft–Hard Templating Route for Highly Durable Potassium-Ion Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04347</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04347</guid>
+<pubDate>Sat, 14 Nov 2026 13:01:15 GMT</pubDate>
+<description>کربن مزوپور دووجهی N,P-doped به‌صورت درجا روی Ti3C2Tx MXene رشد داده شد و به‌عنوان آند باتری یون پتاسیم ظرفیت بالا و پایداری چرخه‌ای ۳۵۰۰ چرخه‌ای نشان داد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a phytic acid-mediated soft–hard dual-templating route that in situ grows N,P-co-doped bimodal mesoporous carbon on Ti3C2Tx MXene, using PA as a molecular bridge to orchestrate coassembly. This yields durable potassium-ion battery anodes with high capacity (303.6 mAh g–1) and ultra-stable cycling (148.3 mAh g–1 after 3500 cycles), enabled by a stable inorganic-rich SEI.&lt;br&gt;🏷 potassium-ion battery · Ti3C2Tx MXene · mesoporous carbon · bimodal pores · solid electrolyte interphase</description>
+<category>potassium-ion battery</category>
+<category>Ti3C2Tx MXene</category>
+<category>mesoporous carbon</category>
+<category>bimodal pores</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Coupled electron/Li+ transport and interfacial engineering enabled by a crosslinkable PEDOT:PSS-based binder for silicon anodes</title>
 <link>https://doi.org/10.1039/d6mh01921h</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>gradient pore</category>
 <category>LiPAA binder</category>
 <category>high-rate</category>
-</item>
-<item>
-<title>Deep generative learning-enabled lithium-plating-free variable-frequency pulse heating for lithium-ion batteries at low-temperatures</title>
-<link>https://doi.org/10.1016/j.est.2026.125562</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125562</guid>
-<pubDate>Thu, 12 Nov 2026 11:02:04 GMT</pubDate>
-<description>گرمایش پالسی با فرکانس متغیر مبتنی بر یادگیری مولد عمیق برای جلوگیری از رسوب لیتیوم در باتری‌های لیتیوم-یون در دمای پایین ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium plating · low-temperature heating · variable-frequency pulse · deep generative learning · lithium-ion battery</description>
-<category>lithium plating</category>
-<category>low-temperature heating</category>
-<category>variable-frequency pulse</category>
-<category>deep generative learning</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
