@@ -5,8 +5,224 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 10:07:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 11:08:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Fish Gill-Inspired Self-Breathing Dissolved Oxygen Seawater Battery with Ultrahigh Power Density</title>
+<link>https://doi.org/10.1016/j.eng.2026.09.016</link>
+<guid isPermaLink="false">10.1016/j.eng.2026.09.016</guid>
+<pubDate>Sat, 14 Nov 2026 11:07:56 GMT</pubDate>
+<description>باتری آب دریا با الهام از آبشش ماهی و طراحی خودتنفس برای مصرف اکسیژن محلول ساخته شد که چگالی توان فوق‌بالایی ارائه می‌دهد.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 seawater battery · dissolved oxygen · self-breathing · fish gill · power density</description>
+<category>seawater battery</category>
+<category>dissolved oxygen</category>
+<category>self-breathing</category>
+<category>fish gill</category>
+<category>power density</category>
+</item>
+<item>
+<title>Breaking the Porosity‐Strength Trade‐Off in Hierarchical Current Collectors for Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76716</link>
+<guid isPermaLink="false">10.1002/smll.76716</guid>
+<pubDate>Sat, 14 Nov 2026 11:07:25 GMT</pubDate>
+<description>کلکتور جریان سلسله‌مراتبی گرادیانی FeNi/Cu/Al2O3 با تخلخل ۸۰.۱۳٪ و استحکام فشاری ۰.۳۰۹ MPa، مبادله تخلخل-استحکام را شکسته و باتری لیتیوم-فلز با بازده کولمبی ۹۸.۷٪ را ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a gradient-designed hierarchical current collector combining an FeNi alloy skeleton, Cu shell, and Al2O3-modified faces to break the porosity-strength trade-off. It achieves 80.13% porosity with 0.309 MPa yield strength, enabling center-outward Li plating and stable cycling. Significance: mechanical reinforcement is established as a key design dimension for high-porosity Li hosts, yielding 172.49 Wh kg−1 pouch cells.&lt;br&gt;🏷 lithium metal battery · porous current collector · mechanical reinforcement · gradient design · FeNi alloy</description>
+<category>lithium metal battery</category>
+<category>porous current collector</category>
+<category>mechanical reinforcement</category>
+<category>gradient design</category>
+<category>FeNi alloy</category>
+</item>
+<item>
+<title>Rechargeable Metal‐Catalysis Batteries for Energy‐Storing Decoupled Electrosynthesis</title>
+<link>https://doi.org/10.1002/smll.76661</link>
+<guid isPermaLink="false">10.1002/smll.76661</guid>
+<pubDate>Sat, 14 Nov 2026 11:07:15 GMT</pubDate>
+<description>این مرور چارچوبی یکپارچه برای باتری‌های کاتالیز فلزی قابل شارژ ارائه می‌دهد که با ذخیره انرژی به‌صورت موقت، الکتروسنتز جداشده زمانی و قابل برنامه‌ریزی برای تولید مواد شیمیایی را ممکن می‌سازد.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This Review is novel in establishing a unified thermodynamic/mechanistic framework for energy-storing decoupled electrosynthesis, categorizing storage media, and introducing full-cycle energy metrics. It significantly advances programmable, intermittent-power-compatible chemical manufacturing by showing how intermediate storage reshapes reaction pathways beyond conventional electrolysis, while mapping challenges in efficiency, stability, mechanism, and reactor engineering.&lt;br&gt;🏷 metal-catalysis battery · decoupled electrosynthesis · energy storage · rechargeable battery · chemical manufacturing</description>
+<category>metal-catalysis battery</category>
+<category>decoupled electrosynthesis</category>
+<category>energy storage</category>
+<category>rechargeable battery</category>
+<category>chemical manufacturing</category>
+</item>
+<item>
+<title>Multifunctional Design of 2D MoS 2‐x Se x /Carbon Heterostructures Enabling High‐Performance Lithium‐based Batteries</title>
+<link>https://doi.org/10.1002/smll.76612</link>
+<guid isPermaLink="false">10.1002/smll.76612</guid>
+<pubDate>Sat, 14 Nov 2026 11:07:10 GMT</pubDate>
+<description>سنتز هیدروترمال یک‌مرحله‌ای ناهم‌ساختارهای MoS2-xSex/کربن نشان می‌دهد MSS/G ظرفیت ۸۰۶ mAh/g و میزبان گوگرد MoS2/MWCNT پایداری چرخه‌ای بالا در باتری‌های لیتیومی فراهم می‌کند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a generalized one-step hydrothermal strategy to tune both chalcogen composition (MoS₂, MoS₂₋ₓSeₓ, MoSe₂) and carbon architecture (graphene, MWCNTs) in 2D TMD/carbon heterostructures. Significance: Se incorporation expands interlayer spacing and lowers bandgap, while carbon growth improves conductivity and stability, enabling high-performance lithium-ion anodes (~806 mAh g⁻¹) and robust lithium-sulfur hosts under high sulfur loading.&lt;br&gt;🏷 MoS2-xSex · TMD heterostructure · lithium-ion battery · lithium-sulfur battery · carbon composite</description>
+<category>MoS2-xSex</category>
+<category>TMD heterostructure</category>
+<category>lithium-ion battery</category>
+<category>lithium-sulfur battery</category>
+<category>carbon composite</category>
+</item>
+<item>
+<title>Nanoscale Interface Engineering of Solid‐State Electrolytes for High‐Performance Solid‐State Alkali Metal Sulfur Batteries</title>
+<link>https://doi.org/10.1002/smll.76543</link>
+<guid isPermaLink="false">10.1002/smll.76543</guid>
+<pubDate>Sat, 14 Nov 2026 11:07:05 GMT</pubDate>
+<description>این مرور، راهبردهای بهینه‌سازی نانومقیاس فصل مشترک الکترولیت‌های حالت جامد را برای بهبود انتقال بار و سینتیک گونه‌های گوگرد در باتری‌های لیتیوم-گوگرد تمام‌جامد جمع‌بندی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates nanoscale interface engineering strategies for solid-state electrolytes in all-solid-state metal-sulfur batteries, addressing sluggish reaction kinetics. Its significance lies in systematically linking phase interface optimization, catalytic modification, nanostructural regulation, and hybrid conductive domains to enhanced ion/electron transport, offering actionable guidance for developing high-performance, safe, next-generation energy storage systems.&lt;br&gt;🏷 solid electrolyte · lithium-sulfur battery · interface engineering · all-solid-state · sulfur kinetics</description>
+<category>solid electrolyte</category>
+<category>lithium-sulfur battery</category>
+<category>interface engineering</category>
+<category>all-solid-state</category>
+<category>sulfur kinetics</category>
+</item>
+<item>
+<title>Coordinative Organic–Inorganic Heterostructured Hierarchical Composite Gel Polymer Electrolytes Enabling Ultrahigh‐Power and Ultra‐Durable Solid‐State Zinc–Air Batteries</title>
+<link>https://doi.org/10.1002/smll.76717</link>
+<guid isPermaLink="false">10.1002/smll.76717</guid>
+<pubDate>Sat, 14 Nov 2026 11:06:58 GMT</pubDate>
+<description>الکترولیت ژل پلیمری کامپوزیت PANa-NCF-NiFeLDH با ساختار ناهمگون آلی-معدنی، رسانایی یونی بالا و پایداری آب را فراهم کرده و باتری روی-هوا حالت جامد با توان ۲۲۹ mW/cm2 و عمر ۱۴۹۴ چرخه می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an organic–inorganic heterostructured composite gel electrolyte (PANa-NCF-NiFeLDH) using electrostatic coordination to create nano-crack networks, tune polymer polarity, and immobilize water via NiFeLDH hydroxyl groups. This yields ultrahigh uptake, conductivity, and strength, enabling solid-state zinc–air batteries with 229 mW/cm² peak power and 1494-cycle durability, even after three-week alkaline storage—advancing high-power, durable solid-state energy storage.&lt;br&gt;🏷 zinc-air battery · gel polymer electrolyte · NiFeLDH · solid-state battery · dendrite suppression</description>
+<category>zinc-air battery</category>
+<category>gel polymer electrolyte</category>
+<category>NiFeLDH</category>
+<category>solid-state battery</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Sulfur‐Regulated Atomically Dispersed Fe Sites in Interconnected Hollow Tubular Carbon for Efficient Oxygen Reduction</title>
+<link>https://doi.org/10.1002/smll.76704</link>
+<guid isPermaLink="false">10.1002/smll.76704</guid>
+<pubDate>Sat, 14 Nov 2026 11:06:42 GMT</pubDate>
+<description>کاتالیزور تک‌اتمی Fe-N4 با تنظیم گوگرد در کربن نانولوله‌ای توخالی، جذب واسطه‌های اکسیژن را بهینه کرده و در واکنش کاهش اکسیژن و باتری روی-هوا عملکردی بهتر از Pt/C نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining sulfur-modulated Fe─N₄ single-atom sites with an interconnected hollow tubular carbon architecture, created via sulfur-ligand-mediated surface regulation of Fe-ZIF nanocrystals. This dual strategy enhances site accessibility and optimizes oxygen-intermediate adsorption. Significance: FeNS-HTC outperforms Pt/C in alkaline ORR (0.903 V half-wave) and zinc-air batteries, offering a promising non-noble-metal catalyst design approach.&lt;br&gt;🏷 single-atom catalyst · Fe-N-C · oxygen reduction · sulfur modulation · zinc-air battery</description>
+<category>single-atom catalyst</category>
+<category>Fe-N-C</category>
+<category>oxygen reduction</category>
+<category>sulfur modulation</category>
+<category>zinc-air battery</category>
+</item>
+<item>
+<title>Lattice Engineering of the Copper Sulfide Cathodes via Mn 2+ Substitution for High‐Rate Magnesium Storage</title>
+<link>https://doi.org/10.1002/smll.76688</link>
+<guid isPermaLink="false">10.1002/smll.76688</guid>
+<pubDate>Sat, 14 Nov 2026 11:06:31 GMT</pubDate>
+<description>جانشینی Mn2+ در کاتد CuS با تقویت پیوند Mn-S و حذف جای خالی گوگرد، پایداری ساختاری و سینتیک انتقال Mg2+ را در باتری منیزیمی بهبود می‌دهد و ظرفیت و نرخ بالاتری ارائه می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Mn²⁺ substitution into CuS microspheres is the key novelty: redox-inactive Mn²⁺ forms stronger Mn─S bonds that eliminate sulfur vacancies while preserving CuS&amp;#x27;s conversion mechanism. This lattice engineering boosts capacity (~487 mAh g⁻¹), cycling stability (~500 mAh g⁻¹ after 40 cycles), and rate performance (213 mAh g⁻¹ over 350 cycles at 500 mA g⁻¹). It offers a promising strategy using redox-inactive dopants to improve Mg²⁺ storage in conversion-type sulfide cathodes.&lt;br&gt;🏷 magnesium battery · CuS cathode · Mn doping · lattice engineering · conversion reaction</description>
+<category>magnesium battery</category>
+<category>CuS cathode</category>
+<category>Mn doping</category>
+<category>lattice engineering</category>
+<category>conversion reaction</category>
+</item>
+<item>
+<title>Mitigating Failure Modes in Next‐Generation Batteries via High‐Entropy Materials: A Cross‐System Review</title>
+<link>https://doi.org/10.1002/smll.76735</link>
+<guid isPermaLink="false">10.1002/smll.76735</guid>
+<pubDate>Sat, 14 Nov 2026 11:06:04 GMT</pubDate>
+<description>این مرور نشان می‌دهد مواد آنتروپی‌بالا با پایدارسازی ساختار و اثر کوکتل، رشد دندریت، انبساط حجمی و واکنش‌های جانبی را در باتری‌های نسل جدید کاهش می‌دهند.&lt;br&gt;Small | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely bridges high-entropy materials across diverse battery systems—anodes, cathodes, electrolytes, Li–S, and metal–air—mapping shared failure modes to entropy-driven mitigation strategies. Its cross-system perspective, semi-quantitative catalyst comparisons, and identification of characterization gaps and AI-guided design directions offer a unifying framework advancing next-generation battery development.&lt;br&gt;🏷 high-entropy materials · battery failure modes · solid electrolytes · Li-S batteries · dendrite suppression</description>
+<category>high-entropy materials</category>
+<category>battery failure modes</category>
+<category>solid electrolytes</category>
+<category>Li-S batteries</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Interfacial Chemo‐Mechanical Engineering of a Vertically Aligned Host for Reversible Anode‐Less Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76713</link>
+<guid isPermaLink="false">10.1002/smll.76713</guid>
+<pubDate>Sat, 14 Nov 2026 11:05:33 GMT</pubDate>
+<description>میزبان MXene با ساختار عمودی و عامل‌دارشده با PVdF غنی از F، هسته‌زنی همگن Li و انتقال یون را بهبود داده و چرخه‌پذیری باتری لیتیوم فلزی بدون آند را ارتقا می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in chemo-mechanically engineering a MXene host via freeze-casting to create a vertically aligned, low-tortuosity framework, combined with F-aligned PVdF surface functionalization for homogeneous Li nucleation. This synergy reduces current density, enables rapid ion transport, and suppresses dendrites, offering a promising pathway toward dendrite-free, high-energy-density anode-less lithium metal batteries.&lt;br&gt;🏷 anode-less lithium battery · MXene host · vertical alignment · lithium dendrite · PVdF</description>
+<category>anode-less lithium battery</category>
+<category>MXene host</category>
+<category>vertical alignment</category>
+<category>lithium dendrite</category>
+<category>PVdF</category>
+</item>
+<item>
+<title>A Multifunctional Epoxy–Polyether Network for Chemo‐Mechanical Stabilization of High‐Loading Ni‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/smll.76504</link>
+<guid isPermaLink="false">10.1002/smll.76504</guid>
+<pubDate>Sat, 14 Nov 2026 11:05:29 GMT</pubDate>
+<description>شبکه اپوکسی-پلی‌اتر اتصال‌عرضی X-EP به‌عنوان چسب بدون فلوئور، با بهبود انتقال Li+ و پایداری مکانیکی-شیمیایی، پایداری چرخه کاتد پرنیکل NCM811 با بارگذاری بالا را به‌شدت افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a fluorine-free epoxy–polyether crosslinked binder (X-EP) integrating ion-accessible polyether segments, hydroxyl-rich interfacial functionality, and mechanical resilience. Its significance: unlike passive PVDF, X-EP simultaneously addresses ion transport, mechanical damage, and interfacial degradation, enabling high-loading NCM811 cathodes with markedly improved cycling stability in half, coin full, and pouch cells.&lt;br&gt;🏷 Ni-rich cathode · epoxy-polyether binder · NCM811 · high-loading electrode · chemo-mechanical stabilization</description>
+<category>Ni-rich cathode</category>
+<category>epoxy-polyether binder</category>
+<category>NCM811</category>
+<category>high-loading electrode</category>
+<category>chemo-mechanical stabilization</category>
+</item>
+<item>
+<title>A Photo‐Charging Time Regulation Strategy for Enhancing the Solar‐to‐Electrochemical Energy Efficiency of Photo‐Rechargeable Devices</title>
+<link>https://doi.org/10.1002/smll.76755</link>
+<guid isPermaLink="false">10.1002/smll.76755</guid>
+<pubDate>Sat, 14 Nov 2026 11:05:18 GMT</pubDate>
+<description>تنظیم زمان فتوشارژ به‌عنوان چارچوبی جهانی برای بیشینه‌سازی راندمان دستگاه‌های فتو-قابل شارژ، بازده کل 11.61% را در ترکیب سلول PERC و ابرخازن Co-doped Ni(OH)2 محقق می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a photo-charging time regulation strategy as a universal optimization framework for photo-rechargeable devices, maximizing the product of photovoltaic and storage unit efficiencies via precise time control—revealing optimal time deviates from the maximum power point voltage. Significance: achieves 11.61% overall efficiency in PERC/Co-doped Ni(OH)₂ supercapacitor devices, offering a scalable route to high-performance off-grid power.&lt;br&gt;🏷 photo-rechargeable devices · supercapacitor · solar cells · photo-charging time · energy efficiency</description>
+<category>photo-rechargeable devices</category>
+<category>supercapacitor</category>
+<category>solar cells</category>
+<category>photo-charging time</category>
+<category>energy efficiency</category>
+</item>
+<item>
+<title>Rigid‐Flexible Synergized Semi‐Crystalline Polyimide Dielectrics for High‐Temperature Capacitive Energy Storage</title>
+<link>https://doi.org/10.1002/smll.76631</link>
+<guid isPermaLink="false">10.1002/smll.76631</guid>
+<pubDate>Sat, 14 Nov 2026 11:05:13 GMT</pubDate>
+<description>وارد کردن گروه‌های فاصله‌انداز انعطاف‌پذیر در زنجیره پلی‌آمید، ساختار نیمه‌بلوری ایجاد کرده و چگالی انرژی 4.41 J cm−3 با راندمان 90% در 200°C را ممکن می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Introducing flexible spacer groups into the polyimide main chain inhibits charge transfer and constructs semi-crystalline PI. The crystalline regions enhance thermal/mechanical properties and suppress carrier transport, synergizing with flexible spacers to boost high-temperature energy storage. This yields 4.41 J cm⁻³ at 200°C with 90% efficiency, offering a feasible strategy for next-generation high-temperature capacitor films.&lt;br&gt;🏷 polyimide dielectric · high-temperature capacitors · semi-crystalline polymer · energy storage · flexible spacers</description>
+<category>polyimide dielectric</category>
+<category>high-temperature capacitors</category>
+<category>semi-crystalline polymer</category>
+<category>energy storage</category>
+<category>flexible spacers</category>
+</item>
+<item>
+<title>Time-evolved hetero-alkali interphases enable long-life sulfide-based anode-free solid-state batteries</title>
+<link>https://doi.org/10.1126/sciadv.ael0210</link>
+<guid isPermaLink="false">10.1126/sciadv.ael0210</guid>
+<pubDate>Sat, 14 Nov 2026 11:03:12 GMT</pubDate>
+<description>افزودن NaFSI به الکترولیت جامد سولفیدی LPSC باعث تکامل زمانی لایه میانی غنی از NaF/LiF/Li3N شده و پایداری و عمر باتری حالت‌جامد بدون آند را بهبود می‌دهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using NaFSI-doped LPSC to create a time-evolved gradient interphase: an initial NaF/LiF-rich layer chemically passivates the interface, then converts to a LiF/Li₃N-rich surface with buried NaF, combining early Li conservation with improved long-term ion transport. This enables 77.6% capacity retention after 500 cycles versus 32.1% after 100 cycles, establishing temporally programmed interphases as a general strategy for sulfide anode-free batteries.&lt;br&gt;🏷 anode-free solid-state battery · sulfide electrolyte · NaFSI · interphase · lithium plating</description>
+<category>anode-free solid-state battery</category>
+<category>sulfide electrolyte</category>
+<category>NaFSI</category>
+<category>interphase</category>
+<category>lithium plating</category>
+</item>
+<item>
+<title>Bioinspired Multi-metallic Relay Catalyst for Efficient Nitrate Reduction and Zn-NO3– Battery Performance</title>
+<link>https://doi.org/10.1021/acscatal.6c04945</link>
+<guid isPermaLink="false">10.1021/acscatal.6c04945</guid>
+<pubDate>Sat, 14 Nov 2026 11:02:54 GMT</pubDate>
+<description>کاتالیزور چندفلزی کبالت-مس-مولیبدات با مکانیسم رله‌ای، بازده بالای تولید آمونیاک از نیترات و عملکرد باتری Zn-NO3 را ممکن می‌سازد.&lt;br&gt;ACS Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a bioinspired multi-metallic Co-Cu-Mo catalyst using relay-type catalysis, where spatially distinct metal centers cascade nitrate-to-ammonia conversion. It achieves 2.6 mmol h⁻¹ cm⁻² ammonia yield and 92% Faradaic efficiency, with a Zn-NO3⁻ battery delivering 1.34 V and 4.1 mW cm⁻². This demonstrates multi-metallic relay catalysis as an effective strategy for coupled ammonia synthesis and energy generation.&lt;br&gt;🏷 nitrate reduction · Zn-NO3 battery · multi-metallic catalyst · ammonia synthesis · relay catalysis</description>
+<category>nitrate reduction</category>
+<category>Zn-NO3 battery</category>
+<category>multi-metallic catalyst</category>
+<category>ammonia synthesis</category>
+<category>relay catalysis</category>
+</item>
+<item>
+<title>Carbon-free Mott–Schottky heterostructures with tailored interfaces for concomitant promotion of solid-liquid-solid sulfur conversion in advanced lithium–sulfur batteries</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.081</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.081</guid>
+<pubDate>Sat, 14 Nov 2026 11:02:39 GMT</pubDate>
+<description>هتروساختارهای Mott-Schottky بدون کربن با سطوح مشترک مهندسی‌شده برای تقویت همزمان تبدیل گوگرد جامد-مایع-جامد در باتری‌های لیتیم-گوگرد پیشرفته ارائه می‌شوند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · Mott-Schottky heterostructure · sulfur conversion · carbon-free · solid-liquid-solid</description>
+<category>lithium-sulfur battery</category>
+<category>Mott-Schottky heterostructure</category>
+<category>sulfur conversion</category>
+<category>carbon-free</category>
+<category>solid-liquid-solid</category>
+</item>
+<item>
+<title>Laser processing and carbon interaction engineering of graphene materials for energy storage applications: Principles, recent progress, and prospects</title>
+<link>https://doi.org/10.1016/j.jmst.2026.11.013</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.11.013</guid>
+<pubDate>Sat, 14 Nov 2026 11:02:30 GMT</pubDate>
+<description>این مقاله مروری اصول و پیشرفت‌های اخیر پردازش لیزری و مهندسی برهم‌کنش کربن در مواد گرافنی برای کاربردهای ذخیره‌سازی انرژی را بررسی می‌کند.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | ⭐ Review&lt;br&gt;🏷 laser processing · graphene · carbon interaction · energy storage · supercapacitors</description>
+<category>laser processing</category>
+<category>graphene</category>
+<category>carbon interaction</category>
+<category>energy storage</category>
+<category>supercapacitors</category>
+</item>
+<item>
+<title>Hydrolysis-triggered surface reconstruction enable composite interphase for high-energy density lithium-rich manganese-based cathode</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.082</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.082</guid>
+<pubDate>Sat, 14 Nov 2026 11:02:26 GMT</pubDate>
+<description>بازسازی سطحی ناشی از هیدرولیز برای ساخت لایه میانی کامپوزیتی در کاتد غنی از لیتیم و منگنز با چگالی انرژی بالا به کار گرفته می‌شود.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 lithium-rich cathode · surface reconstruction · hydrolysis · composite interphase · high-energy density</description>
+<category>lithium-rich cathode</category>
+<category>surface reconstruction</category>
+<category>hydrolysis</category>
+<category>composite interphase</category>
+<category>high-energy density</category>
+</item>
 <item>
 <title>Interfacial flow damping and electrostatic adsorption synergistically regulating the electrode-electrolyte interface for highly reversible rechargeable aluminum batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.09.077</link>
@@ -996,223 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>distributionally robust optimization</category>
 <category>bi-level optimization</category>
 <category>optimal configuration</category>
-</item>
-<item>
-<title>A lightweight multi-scale framework for state-of-health estimation of Lithium-ion batteries in resource-constrained systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125584</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125584</guid>
-<pubDate>Thu, 12 Nov 2026 11:01:56 GMT</pubDate>
-<description>چارچوب سبک چندمقیاسی برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون در سیستم‌های با منابع محدود ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · lightweight framework · multi-scale · edge computing</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>lightweight framework</category>
-<category>multi-scale</category>
-<category>edge computing</category>
-</item>
-<item>
-<title>Haar wavelet-driven physics-informed long short-term memory for thermal-inertia-aware temperature prediction of liquid-cooled battery energy storage systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125607</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125607</guid>
-<pubDate>Thu, 12 Nov 2026 11:01:52 GMT</pubDate>
-<description>مدل LSTM فیزیک‌آگاه مبتنی بر موجک Haar برای پیش‌بینی دما با در نظر گرفتن اینرسی حرارتی در سیستم‌های ذخیره انرژی باتری خنک‌شونده با مایع ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · liquid cooling · physics-informed LSTM · Haar wavelet · temperature prediction</description>
-<category>battery thermal management</category>
-<category>liquid cooling</category>
-<category>physics-informed LSTM</category>
-<category>Haar wavelet</category>
-<category>temperature prediction</category>
-</item>
-<item>
-<title>Highly compressible fast-ion conducting catholyte LixNbOxCl5-x for stable dual electrolyte solid-state batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125542</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125542</guid>
-<pubDate>Thu, 12 Nov 2026 11:01:47 GMT</pubDate>
-<description>کاتولیت بسیار فشرده‌پذیر و رسانای یون سریع LixNbOxCl5-x برای باتری‌های حالت جامد با الکترولیت دوگانه پایدار معرفی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state battery · catholyte · fast-ion conductor · dual electrolyte · compressibility</description>
-<category>solid-state battery</category>
-<category>catholyte</category>
-<category>fast-ion conductor</category>
-<category>dual electrolyte</category>
-<category>compressibility</category>
-</item>
-<item>
-<title>Robust carbon-Ni network in-situ derived from spent methane decomposition catalyst as substrate for CoNi-layered double hydroxides enabling high-performance supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125631</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125631</guid>
-<pubDate>Thu, 12 Nov 2026 11:01:43 GMT</pubDate>
-<description>شبکه کربن-نیکل حاصل از کاتالیزور مستعمل تجزیه متان به‌عنوان بستر CoNi-LDH برای ابرخازن‌های高性能 به کار می‌رود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor · CoNi-LDH · carbon-Ni network · methane decomposition catalyst · waste valorization</description>
-<category>supercapacitor</category>
-<category>CoNi-LDH</category>
-<category>carbon-Ni network</category>
-<category>methane decomposition catalyst</category>
-<category>waste valorization</category>
-</item>
-<item>
-<title>Surface Chemistry Engineering of Lignin-Derived Hard Carbon for Highly Stable Anode-Less Sodium Metal Batteries</title>
-<link>https://doi.org/10.34133/research.1487</link>
-<guid isPermaLink="false">10.34133/research.1487</guid>
-<pubDate>Thu, 12 Nov 2026 11:01:35 GMT</pubDate>
-<description>این مقاله با مهندسی شیمی سطح کربن سخت مشتق از لیگنین، آند بدون آند پایدار برای باتری‌های سدیم-فلز ارائه می‌دهد.&lt;br&gt;Research | 🔬 Research Article&lt;br&gt;🏷 hard carbon · anode-less sodium battery · lignin · surface chemistry · solid electrolyte interphase</description>
-<category>hard carbon</category>
-<category>anode-less sodium battery</category>
-<category>lignin</category>
-<category>surface chemistry</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>From CO2 conversion to durable battery operation: Advances and perspectives on rechargeable alkali metal–CO2 batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.068</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.068</guid>
-<pubDate>Thu, 12 Nov 2026 09:03:30 GMT</pubDate>
-<description>این مقاله مروری، پیشرفت‌ها و چشم‌اندازهای باتری‌های قابل شارژ فلز قلیایی–CO2 را از تبدیل CO2 تا عملکرد پایدار باتری، با تمرکز بر طراحی کاتالیزور و دوام چرخه بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 alkali metal-CO2 battery · CO2 conversion · rechargeable battery · catalyst design · cycle durability</description>
-<category>alkali metal-CO2 battery</category>
-<category>CO2 conversion</category>
-<category>rechargeable battery</category>
-<category>catalyst design</category>
-<category>cycle durability</category>
-</item>
-<item>
-<title>Evolution of transition metal oxide anodes: From single-component to multicomponent and high-entropy architectures</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.064</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.064</guid>
-<pubDate>Thu, 12 Nov 2026 09:03:10 GMT</pubDate>
-<description>این مرور تحول آندهای اکسید فلز واسطه را از تک‌جزئی به چندجزئی و ساختارهای آنتروپی بالا برای ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 transition metal oxide · anode · high-entropy oxide · multicomponent · lithium-ion battery</description>
-<category>transition metal oxide</category>
-<category>anode</category>
-<category>high-entropy oxide</category>
-<category>multicomponent</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Decoupling bulk and interfacial gas evolution mechanisms in Li-rich Mn-based cathodes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.067</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.067</guid>
-<pubDate>Thu, 12 Nov 2026 09:03:06 GMT</pubDate>
-<description>مکانیسم‌های تولید گاز در حجم و سطح مشترک کاتدهای غنی از لیتیوم و منگنز از هم جدا شدند تا واپاشی و آزادسازی گاز در باتری‌های لیتیوم-یون بهتر درک شود.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-rich Mn-based cathode · gas evolution · interfacial mechanism · bulk degradation · lithium-ion battery</description>
-<category>Li-rich Mn-based cathode</category>
-<category>gas evolution</category>
-<category>interfacial mechanism</category>
-<category>bulk degradation</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Visible-Light-Driven Dearomatization via Electrocyclic Ring Expansion for Solar Energy Storage</title>
-<link>https://doi.org/10.1021/jacs.6c19284</link>
-<guid isPermaLink="false">10.1021/jacs.6c19284</guid>
-<pubDate>Thu, 12 Nov 2026 09:02:52 GMT</pubDate>
-<description>اکسیدهای 9-آریل آکریدین با بازآرایی حلقوی ناشی از نور مرئی، چگالی ذخیره انرژی تا 0.54 MJ/kg و نیمه‌عمر تا 1.4 سال را برای ذخیره انرژی خورشیدی فراهم می‌کنند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-aryl acridine N-oxides that undergo visible-light (470 nm) dearomative ring expansion to metastable 1,2-oxazepines for molecular solar thermal storage. Significance: energy densities up to 0.54 MJ/kg, red-shifted absorption, solid-state lifetimes up to 1.4 years, tunable half-lives, and a substituent strategy suppressing decomposition—establishing ring expansion as a viable MOST design principle.&lt;br&gt;🏷 molecular solar thermal · solar energy storage · acridine N-oxide · ring expansion · photoisomerization</description>
-<category>molecular solar thermal</category>
-<category>solar energy storage</category>
-<category>acridine N-oxide</category>
-<category>ring expansion</category>
-<category>photoisomerization</category>
-</item>
-<item>
-<title>Wireless battery-free deep brain stimulators with extendable microelectrode probes</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112611</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112611</guid>
-<pubDate>Thu, 12 Nov 2026 09:01:48 GMT</pubDate>
-<description>این مقاله محرک‌های مغزی عمیق بی‌سیم و بدون باتری با پروب‌های میکروالکترودی قابل گسترش را ارائه می‌دهد که امکان تحریک عصبی پایدار را فراهم می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 battery-free stimulator · deep brain stimulation · microelectrode probe · wireless power · implantable device</description>
-<category>battery-free stimulator</category>
-<category>deep brain stimulation</category>
-<category>microelectrode probe</category>
-<category>wireless power</category>
-<category>implantable device</category>
-</item>
-<item>
-<title>Multi-component M-Site Doping Enhances Na-Ion Transport in Na3Fe2(PO4)3 NASICON Cathodes: A High-Throughput Computational Study</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105651</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105651</guid>
-<pubDate>Thu, 12 Nov 2026 07:01:19 GMT</pubDate>
-<description>این مطالعه محاسباتی با آلایش چندجزئی در جایگاه M، انتقال یون سدیم را در کاتدهای NASICON نوع Na3Fe2(PO4)3 بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 NASICON cathode · Na3Fe2(PO4)3 · sodium-ion battery · multi-component doping · high-throughput computation</description>
-<category>NASICON cathode</category>
-<category>Na3Fe2(PO4)3</category>
-<category>sodium-ion battery</category>
-<category>multi-component doping</category>
-<category>high-throughput computation</category>
-</item>
-<item>
-<title>Mo 4d Orbital Occupancy Engineering Reshapes the d‑Band Center of MoO3 Cathodes for High-Capacity and Stable Aqueous Zinc‑Ion Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105646</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105646</guid>
-<pubDate>Thu, 12 Nov 2026 07:01:15 GMT</pubDate>
-<description>این مقاله با مهندسی اشغال اوربیتال 4d مولیبدن، مرکز نوار d کاتد MoO3 را برای باتری آبی روی-یون با ظرفیت بالا و پایدار بازطراحی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc-ion battery · MoO3 cathode · orbital occupancy · d-band center · zinc storage</description>
-<category>aqueous zinc-ion battery</category>
-<category>MoO3 cathode</category>
-<category>orbital occupancy</category>
-<category>d-band center</category>
-<category>zinc storage</category>
-</item>
-<item>
-<title>Beyond electronic pathways: Conducting agent design for lithium-ion and emerging battery electrodes</title>
-<link>https://doi.org/10.1016/j.mser.2026.101333</link>
-<guid isPermaLink="false">10.1016/j.mser.2026.101333</guid>
-<pubDate>Thu, 12 Nov 2026 05:01:19 GMT</pubDate>
-<description>این مقاله طراحی عوامل رسانا را فراتر از مسیرهای الکترونی برای الکترودهای باتری لیتیوم-یون و باتری‌های نوظهور بررسی می‌کند.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 conducting agent · lithium-ion battery · electrode design · electronic conductivity · battery electrodes</description>
-<category>conducting agent</category>
-<category>lithium-ion battery</category>
-<category>electrode design</category>
-<category>electronic conductivity</category>
-<category>battery electrodes</category>
-</item>
-<item>
-<title>Lithium–Oxygen Batteries: Fundamental and Practical Considerations</title>
-<link>https://doi.org/10.1021/acs.chemrev.5c00647</link>
-<guid isPermaLink="false">10.1021/acs.chemrev.5c00647</guid>
-<pubDate>Thu, 12 Nov 2026 03:01:36 GMT</pubDate>
-<description>این مرور ملاحظات بنیادی و عملی باتری‌های لیتیوم-اکسیژن را با تمرکز بر طراحی الکترولیت، مهندسی الکترود و واکنش‌های انگلی بررسی می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review&lt;br&gt;💡 This review uniquely bridges material-level properties with system-level constraints in lithium–oxygen batteries, addressing oxygen management in open and closed architectures. It comprehensively assesses electrolyte design, electrode engineering, and parasitic reaction mitigation, offering a critical perspective on achieving practical high-energy LOB systems for aviation—a timely synthesis distinguishing it from narrower, component-focused reviews.&lt;br&gt;🏷 lithium-oxygen battery · oxygen redox · electrolyte design · round-trip efficiency · energy density</description>
-<category>lithium-oxygen battery</category>
-<category>oxygen redox</category>
-<category>electrolyte design</category>
-<category>round-trip efficiency</category>
-<category>energy density</category>
-</item>
-<item>
-<title>From Single-Source Precursor Design to Built-in Electric Field Engineering: Unlocking High-Rate Lithium Storage in SnS2 / Expanded Graphite Anodes</title>
-<link>https://doi.org/10.1039/d6ta07926a</link>
-<guid isPermaLink="false">10.1039/d6ta07926a</guid>
-<pubDate>Thu, 12 Nov 2026 03:01:28 GMT</pubDate>
-<description>آندهای SnS2/گرافیت منبسط‌شده با طراحی پیش‌ماده تک‌منبع و مهندسی میدان الکتریکی داخلی برای ذخیره‌سازی سریع لیتیوم ساخته می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing a single-source precursor for phase-pure SnS2 and engineering a built-in electric field in SnS2/expanded graphite anodes. This enables high-rate lithium storage, addressing the slow kinetics and instability of tin-based anodes. The work offers a greener, controlled synthesis route and demonstrates a viable strategy for high-performance anode design.&lt;br&gt;🏷 SnS2 anode · expanded graphite · lithium storage · single-source precursor · built-in electric field</description>
-<category>SnS2 anode</category>
-<category>expanded graphite</category>
-<category>lithium storage</category>
-<category>single-source precursor</category>
-<category>built-in electric field</category>
-</item>
-<item>
-<title>Rufigallol-based 2D metal–organic frameworks as bifunctional electrocatalysts for rechargeable Zn–air batteries</title>
-<link>https://doi.org/10.1039/d6mh02124g</link>
-<guid isPermaLink="false">10.1039/d6mh02124g</guid>
-<pubDate>Thu, 12 Nov 2026 01:01:14 GMT</pubDate>
-<description>نانوصفحات MOF دوبعدی بر پایه rufigallol به‌عنوان کاتالیزور دوفункسیونی کاتد برای باتری‌های قابل شارژ Zn-air با سایت‌های فعال متمایز عمل می‌کنند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;💡 Rufigallol-based 2D MOF nanosheets are introduced as bifunctional cathode catalysts for rechargeable Zn–air batteries. Their novelty lies in the ligand&amp;#x27;s two distinct coordination environments, generating separate active sites with different catalytic tendencies toward oxygen reduction and evolution. This design enables efficient bifunctional catalysis, highlighting the potential of tailored MOF ligands for advanced energy storage.&lt;br&gt;🏷 Zn-air battery · 2D MOF · rufigallol · bifunctional electrocatalyst · oxygen electrocatalysis</description>
-<category>Zn-air battery</category>
-<category>2D MOF</category>
-<category>rufigallol</category>
-<category>bifunctional electrocatalyst</category>
-<category>oxygen electrocatalysis</category>
-</item>
-<item>
-<title>Non-Monotonic Na2CO3 Regulation of MOF-Derived ZnS-Embedded N, S Co-doped Carbon for Sodium-Ion Storage</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122310</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122310</guid>
-<pubDate>Thu, 12 Nov 2026 00:04:08 GMT</pubDate>
-<description>تنظیم غیریکنوا Na2CO3 در کربن هم‌دوپ‌شده N,S مشتق از MOF حاوی ZnS برای ذخیره‌سازی سدیم بررسی و بهینه شد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 sodium-ion storage · ZnS · MOF-derived carbon · Na2CO3 regulation · N,S co-doped carbon</description>
-<category>sodium-ion storage</category>
-<category>ZnS</category>
-<category>MOF-derived carbon</category>
-<category>Na2CO3 regulation</category>
-<category>N,S co-doped carbon</category>
-</item>
-<item>
-<title>Coupled microengineering strategies for carbon-coated SiO anodes toward mitigated chemo-mechanical degradation and long-term cycling stability</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.060</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.060</guid>
-<pubDate>Wed, 11 Nov 2026 23:04:11 GMT</pubDate>
-<description>راهبردهای مهندسی ریزساختار همراه با پوشش کربنی برای آند SiO به کاهش تخریب شیمیایی-مکانیکی و بهبود پایداری چرخه بلندمدت منجر می‌شود.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 SiO anode · carbon coating · chemo-mechanical degradation · cycling stability · microengineering</description>
-<category>SiO anode</category>
-<category>carbon coating</category>
-<category>chemo-mechanical degradation</category>
-<category>cycling stability</category>
-<category>microengineering</category>
 </item>
 </channel>
 </rss>
