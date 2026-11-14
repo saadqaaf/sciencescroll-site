@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 14:01:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 15:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamics of excess renewable energy and implications for its potential use</title>
+<link>https://doi.org/10.1016/j.joule.2026.102683</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102683</guid>
+<pubDate>Sat, 14 Nov 2026 15:01:13 GMT</pubDate>
+<description>این مقاله دینامیک انرژی تجدیدپذیر مازاد و پیامدهای آن برای استفاده بالقوه از این انرژی را بررسی می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 excess renewable energy · energy storage · curtailment · renewable integration · energy system dynamics</description>
+<category>excess renewable energy</category>
+<category>energy storage</category>
+<category>curtailment</category>
+<category>renewable integration</category>
+<category>energy system dynamics</category>
+</item>
 <item>
 <title>Transition-Metal-Catalyzed Multicomponent Cycloadditions</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00445</link>
@@ -1194,18 +1206,6 @@
 <category>CRISPR epigenome editing</category>
 <category>chromatin accessibility</category>
 <category>gene regulation</category>
-</item>
-<item>
-<title>An end-to-end machine-learning system for global eddy-resolving ocean forecast</title>
-<link>https://doi.org/10.1126/sciadv.aeh9058</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh9058</guid>
-<pubDate>Sat, 14 Nov 2026 11:03:26 GMT</pubDate>
-<description>سیستم یادگیری ماشین سرتاسری WenHai-E2E پیش‌بینی اقیانوس جهانی با تفکیک‌پذیری گردابه را مستقیماً از مشاهدات چندمنبعی انجام می‌دهد و از سیستم عددی پیشرفته دقیق‌تر است.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 ocean forecast · machine learning · eddy-resolving · end-to-end model · global ocean</description>
-<category>ocean forecast</category>
-<category>machine learning</category>
-<category>eddy-resolving</category>
-<category>end-to-end model</category>
-<category>global ocean</category>
 </item>
 </channel>
 </rss>
