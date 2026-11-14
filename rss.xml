@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 13:01:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 14:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transition-Metal-Catalyzed Multicomponent Cycloadditions</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00445</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.6c00445</guid>
+<pubDate>Sat, 14 Nov 2026 14:01:12 GMT</pubDate>
+<description>این مرور، پیشرفت‌های سیکلوافزایش‌های چندجزئی کاتالیزشده با فلزات واسطه را بر اساس اندازه حلقه و اجزای واکنش سازمان‌دهی و مکانیسم‌ها را تحلیل می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 multicomponent cycloaddition · transition-metal catalysis · ring formation · reactive intermediates · synthetic methodology</description>
+<category>multicomponent cycloaddition</category>
+<category>transition-metal catalysis</category>
+<category>ring formation</category>
+<category>reactive intermediates</category>
+<category>synthetic methodology</category>
+</item>
+<item>
+<title>Stacking-Dependent Multifunctional Responses in GeC/MoSe2 van der Waals Heterostructures: Photocatalysis, Thermoelectric Transport and Polarization Photoresponse</title>
+<link>https://doi.org/10.1039/d6ta04546d</link>
+<guid isPermaLink="false">10.1039/d6ta04546d</guid>
+<pubDate>Sat, 14 Nov 2026 14:01:09 GMT</pubDate>
+<description>پاسخ‌های چندکاره‌ی وابسته به چیدمان در ناهم‌ساختارهای واندروالس GeC/MoSe2 برای فوتوکاتالیزی، ترموالکتریک و پاسخ نوری قطبشی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 GeC/MoSe2 heterostructure · van der Waals · photocatalysis · thermoelectric transport · polarization photoresponse</description>
+<category>GeC/MoSe2 heterostructure</category>
+<category>van der Waals</category>
+<category>photocatalysis</category>
+<category>thermoelectric transport</category>
+<category>polarization photoresponse</category>
+</item>
 <item>
 <title>Continuum damage modeling of size effects in 3D woven composites with a strain-gradient regularization: Application to DENT and CT specimens</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114372</link>
@@ -1182,30 +1206,6 @@
 <category>eddy-resolving</category>
 <category>end-to-end model</category>
 <category>global ocean</category>
-</item>
-<item>
-<title>Single-nucleus multiomic profiling uncovers epigenetic dysregulation driving hippocampal vulnerability in Alzheimer’s disease</title>
-<link>https://doi.org/10.1126/sciadv.aee4760</link>
-<guid isPermaLink="false">10.1126/sciadv.aee4760</guid>
-<pubDate>Sat, 14 Nov 2026 11:03:24 GMT</pubDate>
-<description>پروفایل‌گیری تک‌هسته‌ای RNA-seq و ATAC-seq هیپوکامپ انسان، اختلال تنظیمی اپی‌ژنتیکی و آسیب‌پذیری نورون‌های EX.CA و برنامه‌های التهابی میکروگلیا در آلزایمر را آشکار کرد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Alzheimer&amp;#x27;s disease · single-nucleus multiomics · hippocampus · chromatin accessibility · microglia</description>
-<category>Alzheimer&#x27;s disease</category>
-<category>single-nucleus multiomics</category>
-<category>hippocampus</category>
-<category>chromatin accessibility</category>
-<category>microglia</category>
-</item>
-<item>
-<title>Origins of low density and low accretion rate in classical T Tauri stars</title>
-<link>https://doi.org/10.1126/sciadv.aed1073</link>
-<guid isPermaLink="false">10.1126/sciadv.aed1073</guid>
-<pubDate>Sat, 14 Nov 2026 11:03:21 GMT</pubDate>
-<description>مدلی مبتنی بر تبادل انرژی و فرآیندهای تبادل بار در شوک برافزایشی ستارگان T Tauri، چگالی الکترون و نرخ برافزایش کم استخراج‌شده از O VII را با مشاهدات و شبیه‌سازی آزمایشگاهی همخوان می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 T Tauri stars · accretion shock · O VII spectroscopy · charge exchange · laboratory astrophysics</description>
-<category>T Tauri stars</category>
-<category>accretion shock</category>
-<category>O VII spectroscopy</category>
-<category>charge exchange</category>
-<category>laboratory astrophysics</category>
 </item>
 </channel>
 </rss>
