@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 20:03:11 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 21:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dielectrophoresis–Lyophilization Coupled Assembly for Preserving Suspended Carbon Nanotubes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122332</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122332</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:31 GMT</pubDate>
+<description>روش ترکیبی dielectrophoresis و lyophilization برای حفظ و مونتاژ نانولوله‌های کربنی معلق ارائه و ارزیابی می‌شود.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 dielectrophoresis · lyophilization · carbon nanotubes · assembly · suspension preservation</description>
+<category>dielectrophoresis</category>
+<category>lyophilization</category>
+<category>carbon nanotubes</category>
+<category>assembly</category>
+<category>suspension preservation</category>
+</item>
+<item>
+<title>Effect of film morphology on carbon nanotube cleaning procedures for transistors</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122331</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122331</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:27 GMT</pubDate>
+<description>این مقاله اثر مورفولوژی فیلم را بر روش‌های پاک‌سازی نانولوله‌های کربنی برای ساخت ترانزیستورها بررسی می‌کند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 carbon nanotubes · film morphology · transistors · nanotube cleaning · thin films</description>
+<category>carbon nanotubes</category>
+<category>film morphology</category>
+<category>transistors</category>
+<category>nanotube cleaning</category>
+<category>thin films</category>
+</item>
+<item>
+<title>Tuning molten pool dynamics and keyhole formation during laser powder bed fusion through laser beam shaping</title>
+<link>https://doi.org/10.1038/s41524-026-02394-2</link>
+<guid isPermaLink="false">10.1038/s41524-026-02394-2</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:24 GMT</pubDate>
+<description>این مقاله نشان می‌دهد شکل‌دهی پرتو لیزر چگونه دینامیک حوضچه مذاب و تشکیل keyhole را در فرآیند laser powder bed fusion تنظیم می‌کند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 laser powder bed fusion · beam shaping · keyhole formation · molten pool dynamics · additive manufacturing</description>
+<category>laser powder bed fusion</category>
+<category>beam shaping</category>
+<category>keyhole formation</category>
+<category>molten pool dynamics</category>
+<category>additive manufacturing</category>
+</item>
+<item>
+<title>MatBind: a shared embedding space for multimodal materials characterization</title>
+<link>https://doi.org/10.1038/s41524-026-02382-6</link>
+<guid isPermaLink="false">10.1038/s41524-026-02382-6</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:20 GMT</pubDate>
+<description>MatBind با یادگیری تقابلی، ساختار بلوری، pXRD، DOS و متن را در یک فضای جاسازی مشترک هم‌راستا کرده و بازیابی میان‌وجهی zero-shot را ممکن می‌سازد.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 multimodal embedding · materials characterization · contrastive learning · pXRD · zero-shot retrieval</description>
+<category>multimodal embedding</category>
+<category>materials characterization</category>
+<category>contrastive learning</category>
+<category>pXRD</category>
+<category>zero-shot retrieval</category>
+</item>
+<item>
+<title>An Alternative Superoxide-Mediated Pathway for Flavin-Dependent Oxidative Dechlorination in HcbA1</title>
+<link>https://doi.org/10.1021/acscatal.6c07219</link>
+<guid isPermaLink="false">10.1021/acscatal.6c07219</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:16 GMT</pubDate>
+<description>محاسبات چندمقیاسی مسیر جایگزین سوپراکسید-واسطه را برای دکلریناسیون اکسایشی HCB توسط آنزیم HcbA1 محتمل می‌داند و فرضیه‌های آزمون‌پذیر ارائه می‌کند.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 flavin monooxygenase · superoxide pathway · dechlorination · QM/MM · hexachlorobenzene</description>
+<category>flavin monooxygenase</category>
+<category>superoxide pathway</category>
+<category>dechlorination</category>
+<category>QM/MM</category>
+<category>hexachlorobenzene</category>
+</item>
+<item>
+<title>The Oxygen Reduction Reaction over Pt Nanoparticles Studied with First-Principles-Based Kinetic Monte Carlo Simulations</title>
+<link>https://doi.org/10.1021/acscatal.6c05662</link>
+<guid isPermaLink="false">10.1021/acscatal.6c05662</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:12 GMT</pubDate>
+<description>شبیه‌سازی kinetic Monte Carlo مبتنی بر اصول اولیه نشان می‌دهد اضافه‌پتانسیل ORR روی نانوذرات Pt ناشی از پوشش گونه‌های اکسیژنی و مسدودشدن جایگاه‌های جذب O2 است.&lt;br&gt;ACS Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 oxygen reduction reaction · Pt nanoparticles · kinetic Monte Carlo · overpotential · site blocking</description>
+<category>oxygen reduction reaction</category>
+<category>Pt nanoparticles</category>
+<category>kinetic Monte Carlo</category>
+<category>overpotential</category>
+<category>site blocking</category>
+</item>
+<item>
+<title>Secondary Sphere Modification Tunes C–OH Bond Cleavage and Redistributes Rate Control in Electrocatalytic CO2 Reduction by Molecular Cr Complexes</title>
+<link>https://doi.org/10.1021/acscatal.6c06513</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06513</guid>
+<pubDate>Sat, 14 Nov 2026 21:01:08 GMT</pubDate>
+<description>کمپلکس‌های Cr با گروه‌های –OMe در کاتالیز الکتروشیمیایی CO2، شکست پیوند C–OH را تنظیم کرده و سهم کنترل سرعت را میان اتصال CO2 و شکست پیوند بازتوزیع می‌کنند.&lt;br&gt;ACS Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 reduction · chromium complex · secondary sphere · C-OH cleavage · rate control</description>
+<category>CO2 reduction</category>
+<category>chromium complex</category>
+<category>secondary sphere</category>
+<category>C-OH cleavage</category>
+<category>rate control</category>
+</item>
 <item>
 <title>Directional Nitrite Spillover Couples to Interfacial Hydrogen-Bond Networks for Ampere-Level Nitrate-to-Ammonia Electrosynthesis</title>
 <link>https://doi.org/10.1021/jacs.6c20417</link>
@@ -1123,90 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>additive manufacturing</category>
 <category>solidification</category>
 <category>microstructure</category>
-</item>
-<item>
-<title>High-Stress Creep Rupture and Long-Term Interfacial Evolution in 304/P91 Graded Composite Transition Joints (GCTJs)</title>
-<link>https://doi.org/10.1016/j.addma.2026.105440</link>
-<guid isPermaLink="false">10.1016/j.addma.2026.105440</guid>
-<pubDate>Sat, 14 Nov 2026 12:01:30 GMT</pubDate>
-<description>این پژوهش رفتار خزش تنش بالا و تحول بلندمدت فصل مشترک را در اتصالات انتقال کامپوزیت درجه‌بندی‌شده 304/P91 بررسی می‌کند.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 graded composite joint · creep rupture · 304/P91 steel · interfacial evolution · dissimilar weld</description>
-<category>graded composite joint</category>
-<category>creep rupture</category>
-<category>304/P91 steel</category>
-<category>interfacial evolution</category>
-<category>dissimilar weld</category>
-</item>
-<item>
-<title>HYBRID ADDITIVE MANUFACTURING OF TOPOLOGY-OPTIMIZED CUTTING TOOL IN AISI H11 FOR IMPROVED MACHINING PERFORMANCE</title>
-<link>https://doi.org/10.1016/j.addma.2026.105437</link>
-<guid isPermaLink="false">10.1016/j.addma.2026.105437</guid>
-<pubDate>Sat, 14 Nov 2026 12:01:27 GMT</pubDate>
-<description>این مقاله ساخت افزودنی هیبریدی یک ابزار برش بهینه‌شده از نظر توپولوژی را در فولاد AISI H11 بررسی کرده و بهبود عملکرد ماشین‌کاری را نشان می‌دهد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hybrid additive manufacturing · cutting tool · topology optimization · AISI H11 · machining performance</description>
-<category>hybrid additive manufacturing</category>
-<category>cutting tool</category>
-<category>topology optimization</category>
-<category>AISI H11</category>
-<category>machining performance</category>
-</item>
-<item>
-<title>Lignin-derived hierarchical porous carbon enables efficient nickel utilization for high-rate benzyl alcohol electrooxidation</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122327</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122327</guid>
-<pubDate>Sat, 14 Nov 2026 11:08:02 GMT</pubDate>
-<description>کربن متخلخل سلسله‌مراتبی مشتق از لیگنین با بهبود بهره‌برداری از نیکل، اکسیداسیون الکتروشیمیایی سریع بنزیل الکل را ممکن می‌سازد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 lignin-derived carbon · hierarchical porous carbon · nickel electrocatalyst · benzyl alcohol oxidation · electrooxidation</description>
-<category>lignin-derived carbon</category>
-<category>hierarchical porous carbon</category>
-<category>nickel electrocatalyst</category>
-<category>benzyl alcohol oxidation</category>
-<category>electrooxidation</category>
-</item>
-<item>
-<title>Hierarchical wall engineering in guar gum derived carbon-based aerogel for strong and broadband electromagnetic wave absorption</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122328</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122328</guid>
-<pubDate>Sat, 14 Nov 2026 11:07:59 GMT</pubDate>
-<description>ایروژل کربنی مشتق از صمغ گوار با مهندسی دیواره سلسله‌مراتبی ساخته شد که جذب موج الکترومغناطیسی قوی و پهن‌باند ارائه می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 guar gum aerogel · carbon aerogel · electromagnetic wave absorption · hierarchical wall · broadband absorption</description>
-<category>guar gum aerogel</category>
-<category>carbon aerogel</category>
-<category>electromagnetic wave absorption</category>
-<category>hierarchical wall</category>
-<category>broadband absorption</category>
-</item>
-<item>
-<title>A Fish Gill-Inspired Self-Breathing Dissolved Oxygen Seawater Battery with Ultrahigh Power Density</title>
-<link>https://doi.org/10.1016/j.eng.2026.09.016</link>
-<guid isPermaLink="false">10.1016/j.eng.2026.09.016</guid>
-<pubDate>Sat, 14 Nov 2026 11:07:56 GMT</pubDate>
-<description>باتری آب دریا با الهام از آبشش ماهی و طراحی خودتنفس برای مصرف اکسیژن محلول ساخته شد که چگالی توان فوق‌بالایی ارائه می‌دهد.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 seawater battery · dissolved oxygen · self-breathing · fish gill · power density</description>
-<category>seawater battery</category>
-<category>dissolved oxygen</category>
-<category>self-breathing</category>
-<category>fish gill</category>
-<category>power density</category>
-</item>
-<item>
-<title>A Scattering-Enhanced Radiative Cooling Metastructure for Thermal Management, Daylight Redistribution, and Privacy Protection</title>
-<link>https://doi.org/10.1016/j.eng.2026.11.005</link>
-<guid isPermaLink="false">10.1016/j.eng.2026.11.005</guid>
-<pubDate>Sat, 14 Nov 2026 11:07:52 GMT</pubDate>
-<description>این مقاله یک فراساختار تقویت‌شده با پراکندگی را برای خنک‌سازی تابشی، مدیریت حرارتی، بازتوزیع نور روز و حفظ حریم خصوصی ارائه می‌کند.&lt;br&gt;Engineering | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 radiative cooling · metastructure · thermal management · daylight redistribution · privacy protection</description>
-<category>radiative cooling</category>
-<category>metastructure</category>
-<category>thermal management</category>
-<category>daylight redistribution</category>
-<category>privacy protection</category>
-</item>
-<item>
-<title>One‐Pot CVD Growth of WS 2 /MoS 2 Vertical Heterobilayers With Twist‐Angle‐Dependent Optoelectronic Characteristics</title>
-<link>https://doi.org/10.1002/smll.76728</link>
-<guid isPermaLink="false">10.1002/smll.76728</guid>
-<pubDate>Sat, 14 Nov 2026 11:07:49 GMT</pubDate>
-<description>هم‌رسوب‌گذاری یک‌مرحله‌ای CVD برای رشد ناهم‌دولایه‌های عمودی WS2/MoS2 با زاویه پیچش نزدیک ۰ یا ۶۰ درجه انجام شد و وابستگی خواص اپتوالکترونیکی به این زاویه نشان داده شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 WS2/MoS2 heterobilayer · twist angle · CVD growth · valleytronics · interlayer coupling</description>
-<category>WS2/MoS2 heterobilayer</category>
-<category>twist angle</category>
-<category>CVD growth</category>
-<category>valleytronics</category>
-<category>interlayer coupling</category>
 </item>
 </channel>
 </rss>
