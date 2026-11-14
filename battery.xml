@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 08:29:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 09:02:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrostatically Engineered Soft Interphases Enable Fast Ion Transport in High‐Loading Solid‐State Cathodes</title>
+<link>https://doi.org/10.1002/adfm.79619</link>
+<guid isPermaLink="false">10.1002/adfm.79619</guid>
+<pubDate>Sat, 14 Nov 2026 09:01:54 GMT</pubDate>
+<description>لایه بینفازی نرم خودآرای کربوکسیمتیل کیتوسان روی LLTO، انتقال یون را در کاتدهای کامپوزیت پرچگالی NCM تقویت کرده و ظرفیت سطحی ۲.۲ میلیآمپرساعت بر سانتیمتر مربع را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using electrostatic self-assembly of carboxymethyl chitosan onto Li0.33La0.56TiO3 nanoparticles to create a soft, compliant ion-conducting interphase that strengthens interparticle contact and builds continuous ion pathways. This overcomes ionic bottlenecks in high-loading solid-state cathodes, enabling 2.2 mAh cm−2 at 2 C in 20 mg cm−2 NCM622 cathodes and extension to lean-lithium and anode-free cells.&lt;br&gt;🏷 solid-state battery · composite cathode · ion transport · soft interphase · LLTO</description>
+<category>solid-state battery</category>
+<category>composite cathode</category>
+<category>ion transport</category>
+<category>soft interphase</category>
+<category>LLTO</category>
+</item>
+<item>
+<title>Local Symmetry Engineering Unlocks Stable Multi‐Electron Chemistry in NASICON Cathodes for High‐Energy‐Density Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79462</link>
+<guid isPermaLink="false">10.1002/adfm.79462</guid>
+<pubDate>Sat, 14 Nov 2026 09:01:40 GMT</pubDate>
+<description>مهندسی کاهش تقارن موضعی اکتاهدرای [VO6] در کاتد NASICON با جانشینی Fe و Al، انتقال ۲.۶ الکترونی و پایداری چرخهای عالی در باتری یون سدیم را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in local symmetry engineering of [VO6] octahedra via Fe2+/Al3+ co-substitution, tuning V 3d orbital configuration and electron delocalization to stabilize the V4+/V5+ multi-electron redox. This yields Na3.6V1.2Fe0.6Al0.2(PO4)3 with 151.4 mAh g−1 (2.6-electron transfer) and 84.6% retention after 10,000 cycles, establishing octahedral symmetry control as a design principle for stable polyanionic cathodes.&lt;br&gt;🏷 sodium-ion battery · NASICON cathode · symmetry engineering · multi-electron redox · cycling stability</description>
+<category>sodium-ion battery</category>
+<category>NASICON cathode</category>
+<category>symmetry engineering</category>
+<category>multi-electron redox</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Nanoscale Confinement of Cu x S Conversion Products in Na 2 Ti 3 O 7 ‐Derived TiO 2 Matrix for Durable Sodium‐Ion Storage</title>
 <link>https://doi.org/10.1002/adfm.79515</link>
@@ -1187,30 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in 9-ary
 <category>reaction kinetics</category>
 <category>symmetric current pulse</category>
 <category>kinetics determination</category>
-</item>
-<item>
-<title>Two-stage design of a battery-integrated truck frame for heavy-duty electric trucks</title>
-<link>https://doi.org/10.1016/j.est.2026.125506</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125506</guid>
-<pubDate>Wed, 11 Nov 2026 15:03:27 GMT</pubDate>
-<description>این مقاله یک طراحی دو مرحله‌ای برای شاسی کامیون یکپارچه با باتری در کامیون‌های برقی سنگین ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric truck · battery-integrated frame · heavy-duty vehicle · two-stage design · structural integration</description>
-<category>electric truck</category>
-<category>battery-integrated frame</category>
-<category>heavy-duty vehicle</category>
-<category>two-stage design</category>
-<category>structural integration</category>
-</item>
-<item>
-<title>Optimal operating interval demarcated by internal resistance analysis for energy-based sodium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125559</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125559</guid>
-<pubDate>Wed, 11 Nov 2026 15:03:22 GMT</pubDate>
-<description>این مقاله با تحلیل مقاومت داخلی، بازه عملیاتی بهینه برای باتری‌های سدیم-یونی انرژی‌محور را تعیین می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · internal resistance · operating interval · energy-based battery · resistance analysis</description>
-<category>sodium-ion battery</category>
-<category>internal resistance</category>
-<category>operating interval</category>
-<category>energy-based battery</category>
-<category>resistance analysis</category>
 </item>
 </channel>
 </rss>
