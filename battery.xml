@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 18:01:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 19:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High Atomic Utilization of V 2 AlC MAX Unlocking the Integrated Cathode‐Anode Stabilization Toward Anode‐Less Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/adfm.79658</link>
+<guid isPermaLink="false">10.1002/adfm.79658</guid>
+<pubDate>Sat, 14 Nov 2026 19:01:27 GMT</pubDate>
+<description>AlF3/V2C مشتق از MAX با استفاده اتمی بالا، هم آند و هم کاتد باتری لیتیوم-گوگرد بدون آند را پایدار کرده و ۷۷۸.۶ mAh g−1 پس از ۳۰۰ چرخه حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting sacrificed Al layers of V2AlC MAX into functional AlF3 nanoparticles via gas-solid reaction, achieving simultaneous MXene conversion and interfacial functionalization. This dual-interface strategy enables stable Li plating/stripping over 4000 h and catalyzes polysulfide conversion, significantly advancing anode-less lithium-sulfur batteries with high atomic utilization and durable performance.&lt;br&gt;🏷 anode-less lithium-sulfur · V2AlC MAX · AlF3/V2C MXene · polysulfide conversion · dual-interface regulation</description>
+<category>anode-less lithium-sulfur</category>
+<category>V2AlC MAX</category>
+<category>AlF3/V2C MXene</category>
+<category>polysulfide conversion</category>
+<category>dual-interface regulation</category>
+</item>
+<item>
+<title>Dual‐Anion‐Regulated Localized Weakly Solvating Electrolyte Via Trace Additive for Wide‐Temperature 4.5 V Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/adfm.79634</link>
+<guid isPermaLink="false">10.1002/adfm.79634</guid>
+<pubDate>Sat, 14 Nov 2026 19:01:15 GMT</pubDate>
+<description>الکترولیت کم‌حل‌کننده موضعی با آنیون دوگانه و افزودنی LiDFBOP، پایداری باتری لیتیوم-فلز ۴.۵ ولت را در دمای ۱۰− تا ۷۵ درجه سانتی‌گراد فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a trace LiDFBOP additive to suppress DFOB⁻-rich aggregates, creating a dual-anion CIP-dominated weakly solvating electrolyte. This molecular-level solvation regulation builds robust B/F/P-containing interphases on both electrodes, enabling 4.5 V lithium metal batteries from −10°C to 75°C. Significance: stable lean-electrolyte, lean-Li cycling in Li||LMFP, NCM811, LCO cells and Ah-level pouch cells, outperforming reported strategies.&lt;br&gt;🏷 lithium metal battery · weakly solvating electrolyte · dual-anion · wide temperature · interphase</description>
+<category>lithium metal battery</category>
+<category>weakly solvating electrolyte</category>
+<category>dual-anion</category>
+<category>wide temperature</category>
+<category>interphase</category>
+</item>
 <item>
 <title>Beyond Predictive Accuracy: Validating Feature Importance in Battery Health Prediction via Leave-Top-Feature-Out Framework</title>
 <link>https://doi.org/10.1016/j.xinn.2026.101641</link>
@@ -1188,30 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>carbon nanotube interlayer</category>
 <category>lithium polysulfide</category>
 <category>shuttle effect</category>
-</item>
-<item>
-<title>Effect of Cation and Cosolvent on the Solvation Nanostructure, Ion Transport, and Interfacial Kinetics in Ionic Liquid Electrolytes</title>
-<link>https://doi.org/10.1039/d6ta06998c</link>
-<guid isPermaLink="false">10.1039/d6ta06998c</guid>
-<pubDate>Thu, 12 Nov 2026 13:01:57 GMT</pubDate>
-<description>این مقاله اثر کاتیون و هم‌حلال را بر ساختار حلال‌پوشی، انتقال یون و سینتیک سطح مشترک در الکترولیت‌های مایع یونی برای باتری لیتیوم-فلز بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This study reveals how cation chemistry and cosolvent choice govern solvation nanostructure, ion transport, and interfacial kinetics in ionic liquid electrolytes—an underexplored fundamental gap. By linking molecular-level solvation organization to macroscopic transport and interfacial behavior, it provides design principles for high-voltage lithium metal batteries, enabling rational electrolyte engineering beyond empirical trial-and-error approaches.&lt;br&gt;🏷 ionic liquid electrolyte · lithium metal battery · solvation structure · ion transport · interfacial kinetics</description>
-<category>ionic liquid electrolyte</category>
-<category>lithium metal battery</category>
-<category>solvation structure</category>
-<category>ion transport</category>
-<category>interfacial kinetics</category>
-</item>
-<item>
-<title>Experimental validation of universal machine learning interatomic potentials for lithium-ion dynamics in solid electrolytes via 7 Li NMR</title>
-<link>https://doi.org/10.1039/d6ta03615e</link>
-<guid isPermaLink="false">10.1039/d6ta03615e</guid>
-<pubDate>Thu, 12 Nov 2026 13:01:53 GMT</pubDate>
-<description>این مقاله پتانسیل‌های بین‌اتمی یادگیری ماشین برای دینامیک لیتیوم در الکترولیت‌های جامد را با NMR لیتیوم-۷ اعتبارسنجی تجربی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in experimentally validating universal machine learning interatomic potentials using 7Li NMR to assess lithium-ion dynamics in solid electrolytes. Its significance is enabling accurate, large-scale simulations of ion transport that overcome the high computational cost of quantum methods, bridging simulation and experiment to advance solid-state battery design.&lt;br&gt;🏷 solid electrolyte · machine learning potential · Li-ion dynamics · 7Li NMR · ion transport</description>
-<category>solid electrolyte</category>
-<category>machine learning potential</category>
-<category>Li-ion dynamics</category>
-<category>7Li NMR</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
