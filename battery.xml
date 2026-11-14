@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 11:08:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:02:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coupled electron/Li+ transport and interfacial engineering enabled by a crosslinkable PEDOT:PSS-based binder for silicon anodes</title>
+<link>https://doi.org/10.1039/d6mh01921h</link>
+<guid isPermaLink="false">10.1039/d6mh01921h</guid>
+<pubDate>Sat, 14 Nov 2026 12:01:53 GMT</pubDate>
+<description>این مقاله یک بایندر شبکه‌ای PEDOT:PSS را برای آندهای سیلیکونی طراحی می‌کند که انتقال الکترون و Li+ و پایداری مکانیکی را هم‌زمان بهبود می‌دهد.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a crosslinkable PEDOT:PSS-based binder that couples electron/Li+ transport with interfacial engineering, addressing the trade-off between mechanical stability and ionic/electronic conduction in Si anodes. Its significance is enabling Si anodes to accommodate large volume expansion while maintaining efficient charge transport, a key step toward high-performance, long-life lithium-ion batteries.&lt;br&gt;🏷 silicon anode · PEDOT:PSS binder · Li+ transport · interfacial engineering · crosslinkable binder</description>
+<category>silicon anode</category>
+<category>PEDOT:PSS binder</category>
+<category>Li+ transport</category>
+<category>interfacial engineering</category>
+<category>crosslinkable binder</category>
+</item>
 <item>
 <title>A Fish Gill-Inspired Self-Breathing Dissolved Oxygen Seawater Battery with Ultrahigh Power Density</title>
 <link>https://doi.org/10.1016/j.eng.2026.09.016</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>variable-frequency pulse</category>
 <category>deep generative learning</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Research on bi-level distributionally robust optimal configuration and operation method for integrated energy system with hybrid energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125518</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125518</guid>
-<pubDate>Thu, 12 Nov 2026 11:02:00 GMT</pubDate>
-<description>روش بهینه‌سازی تصادفی دوسطحی مقاوم برای پیکربندی و بهره‌برداری سیستم انرژی یکپارچه با ذخیره‌سازی هیبریدی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 integrated energy system · hybrid energy storage · distributionally robust optimization · bi-level optimization · optimal configuration</description>
-<category>integrated energy system</category>
-<category>hybrid energy storage</category>
-<category>distributionally robust optimization</category>
-<category>bi-level optimization</category>
-<category>optimal configuration</category>
 </item>
 </channel>
 </rss>
