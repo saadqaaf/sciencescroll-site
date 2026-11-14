@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 16:03:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 17:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond Predictive Accuracy: Validating Feature Importance in Battery Health Prediction via Leave-Top-Feature-Out Framework</title>
+<link>https://doi.org/10.1016/j.xinn.2026.101641</link>
+<guid isPermaLink="false">10.1016/j.xinn.2026.101641</guid>
+<pubDate>Sat, 14 Nov 2026 17:01:24 GMT</pubDate>
+<description>این کار چارچوب Leave-Top-Feature-Out را برای اعتبارسنجی اهمیت ویژگی‌ها در پیش‌بینی سلامت باتری معرفی می‌کند و فراتر از دقت پیش‌بینی، تفسیرپذیری مدل را می‌سنجد.&lt;br&gt;The Innovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery health prediction · feature importance · leave-top-feature-out · machine learning · validation framework</description>
+<category>battery health prediction</category>
+<category>feature importance</category>
+<category>leave-top-feature-out</category>
+<category>machine learning</category>
+<category>validation framework</category>
+</item>
+<item>
+<title>Boosting Oxygen Transport with Nanoporous Graphdiyne for High‐Capacity Li−O 2 Batteries</title>
+<link>https://doi.org/10.1002/aenm.71827</link>
+<guid isPermaLink="false">10.1002/aenm.71827</guid>
+<pubDate>Sat, 14 Nov 2026 17:01:17 GMT</pubDate>
+<description>افزودن گرافدایین نانوحفره‌دار به کاتد، انتقال O2 را تسریع کرده و ظرفیت دشارژ باتری Li-O2 را بیش از چهار برابر به 10.36 mAh cm−2 افزایش می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Introducing nanoporous graphdiyne into carbon-black cathodes creates low-resistance O₂ diffusion pathways, boosting Li−O₂ discharge capacity over 4× to 10.36 mAh cm⁻² (950 mAh g⁻¹). This enables deeper O₂ penetration, altering Li₂O₂ growth into larger particles throughout the cathode. The strategy advances mass transport engineering for high-energy-density Li−O₂ batteries.&lt;br&gt;🏷 Li-O2 battery · graphdiyne · oxygen transport · nanoporous cathode · discharge capacity</description>
+<category>Li-O2 battery</category>
+<category>graphdiyne</category>
+<category>oxygen transport</category>
+<category>nanoporous cathode</category>
+<category>discharge capacity</category>
+</item>
+<item>
+<title>Regulating Sulfur Redox Microenvironment Through Phase Separation for High‐Energy‐Density Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/aenm.71841</link>
+<guid isPermaLink="false">10.1002/aenm.71841</guid>
+<pubDate>Sat, 14 Nov 2026 17:01:12 GMT</pubDate>
+<description>الکترود جدایش فازی با تخلخل کم‌پیچش، محیط ردوکس گوگرد را تنظیم کرده و باتری Li-S با بارگذاری بالای گوگرد و انرژی ۲۹۸ Wh/kg را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using phase separation to engineer low-tortuosity, electrolyte-accessible pores that regulate the sulfur redox microenvironment. This suppresses polarization and resistance evolution, enabling reversible sulfur conversion. Significance: achieves 13.5 mg cm⁻² sulfur loading, 14.6 mAh cm⁻² areal capacity at lean E/S 5 µL mg⁻¹, and a 298 Wh kg⁻¹ pouch cell under practical conditions.&lt;br&gt;🏷 lithium-sulfur battery · phase separation electrode · sulfur redox · lean electrolyte · pouch cell</description>
+<category>lithium-sulfur battery</category>
+<category>phase separation electrode</category>
+<category>sulfur redox</category>
+<category>lean electrolyte</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>A Scalable Protrusion‐Targeted Electrolyte Enables 500 Wh Kg −1 Lithium Metal Batteries With 500‐Cycle Stability</title>
 <link>https://doi.org/10.1002/adma.75687</link>
@@ -1176,42 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>Li-ion dynamics</category>
 <category>7Li NMR</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>Recycling and high-value regeneration of lithium-ion batteries: Technologies, system integration, and sustainable paradigm evolution</title>
-<link>https://doi.org/10.1016/j.est.2026.125438</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125438</guid>
-<pubDate>Thu, 12 Nov 2026 11:03:04 GMT</pubDate>
-<description>این مرور، فناوری‌ها، یکپارچه‌سازی سیستم و تحول پارادایم پایدار برای بازیافت و بازتولید باارزش باتری‌های لیتیوم-یون را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-ion battery recycling · high-value regeneration · system integration · sustainable paradigm · cathode materials</description>
-<category>lithium-ion battery recycling</category>
-<category>high-value regeneration</category>
-<category>system integration</category>
-<category>sustainable paradigm</category>
-<category>cathode materials</category>
-</item>
-<item>
-<title>Iron oxide template-assisted porous polyacrylonitrile-based self-supporting carbon electrodes for enhanced zinc-ion hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125554</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125554</guid>
-<pubDate>Thu, 12 Nov 2026 11:03:00 GMT</pubDate>
-<description>این مقاله الکترودهای کربنی خودایستای متخلخل بر پایه پلی‌آکریلونیتریل را با الگوی اکسید آهن برای بهبود ابرخازن‌های هیبریدی یون روی سنتز و ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · porous carbon electrode · polyacrylonitrile · iron oxide template · self-supporting electrode</description>
-<category>zinc-ion hybrid supercapacitor</category>
-<category>porous carbon electrode</category>
-<category>polyacrylonitrile</category>
-<category>iron oxide template</category>
-<category>self-supporting electrode</category>
-</item>
-<item>
-<title>Coordinated demand restoration for power distribution network resilience enhancement considering repair crews, mobile energy storage systems and V2G service</title>
-<link>https://doi.org/10.1016/j.est.2026.125555</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125555</guid>
-<pubDate>Thu, 12 Nov 2026 11:02:56 GMT</pubDate>
-<description>این مقاله یک مدل هماهنگ برای بازگرداندن تقاضا در شبکه توزیع با همکاری تیم‌های تعمیر، سیستم‌های ذخیره‌سازی انرژی سیار و خدمات V2G ارائه می‌دهد تا تاب‌آوری شبکه افزایش یابد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 distribution network resilience · mobile energy storage · V2G service · repair crews · demand restoration</description>
-<category>distribution network resilience</category>
-<category>mobile energy storage</category>
-<category>V2G service</category>
-<category>repair crews</category>
-<category>demand restoration</category>
 </item>
 </channel>
 </rss>
