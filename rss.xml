@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 12:01:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 13:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Single-molecule magnets: from Mn12 to machine-guided discovery</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218778</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218778</guid>
+<pubDate>Sun, 15 Nov 2026 13:01:11 GMT</pubDate>
+<description>این مقاله مروری، مسیر تکامل single-molecule magnets از Mn12 تا کشف هدایت‌شده با machine learning را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 single-molecule magnets · Mn12 · magnetic anisotropy · machine learning · molecular magnetism</description>
+<category>single-molecule magnets</category>
+<category>Mn12</category>
+<category>magnetic anisotropy</category>
+<category>machine learning</category>
+<category>molecular magnetism</category>
+</item>
 <item>
 <title>Asymmetric metal-coordination engineered covalent organic frameworks with pronounced electronic polarization for efficient photocatalytic CO2 reduction and biomass valorization</title>
 <link>https://doi.org/10.1016/j.mser.2026.101334</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>inverse design</category>
 <category>hepatocellular carcinoma</category>
 <category>piezocatalytic therapy</category>
-</item>
-<item>
-<title>A Perspective on Continuous Superlattices and Device‐by‐Design Pathways Toward Electrically Driven Perovskite Lasers and Cooperative Emission</title>
-<link>https://doi.org/10.1002/adma.75665</link>
-<guid isPermaLink="false">10.1002/adma.75665</guid>
-<pubDate>Sat, 14 Nov 2026 16:02:54 GMT</pubDate>
-<description>این مقاله چشم‌انداز پیشرفت لیزرهای پروسکایتی و طرح‌های مواد و دستگاه را برای رسیدن به لیزینگ الکتریکی و گسیل همکارانه بررسی می‌کند.&lt;br&gt;Advanced Materials | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 perovskite laser · electrically driven lasing · superlattice · cooperative emission · superfluorescence</description>
-<category>perovskite laser</category>
-<category>electrically driven lasing</category>
-<category>superlattice</category>
-<category>cooperative emission</category>
-<category>superfluorescence</category>
 </item>
 </channel>
 </rss>
