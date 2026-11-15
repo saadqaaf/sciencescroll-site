@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 04:01:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Recent advances in nanotechnology for enhanced pesticide deposition and precision regulation on target leaf surfaces: tailoring and functionalization</title>
+<link>https://doi.org/10.1016/j.cis.2026.104095</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104095</guid>
+<pubDate>Sun, 15 Nov 2026 05:01:07 GMT</pubDate>
+<description>این مقاله پیشرفت‌های اخیر نانوفناوری برای بهبود رسوب آفت‌کش‌ها و تنظیم دقیق روی سطح برگ هدف را با تمرکز بر طراحی و عامل‌دارسازی نانوحامل‌ها مرور می‌کند.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 pesticide deposition · leaf surface · nanocarriers · targeted delivery · surface functionalization</description>
+<category>pesticide deposition</category>
+<category>leaf surface</category>
+<category>nanocarriers</category>
+<category>targeted delivery</category>
+<category>surface functionalization</category>
+</item>
 <item>
 <title>Advanced data-driven surrogate modelling for high-fidelity P2D electrochemical simulation of Lithium-Ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105650</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>AEM water electrolyzer</category>
 <category>dilute alloy</category>
 <category>DFT</category>
-</item>
-<item>
-<title>Dynamic Spatial Programming of Active–Active Antagonistic Fiber Architectures for Enhanced Morphing</title>
-<link>https://doi.org/10.1002/adma.75697</link>
-<guid isPermaLink="false">10.1002/adma.75697</guid>
-<pubDate>Sat, 14 Nov 2026 16:01:35 GMT</pubDate>
-<description>چاپ چندموادی چرخشی با ترکیب دو فاز LCE با کرنش‌های حرارتی متضاد، فیبرهای فعال-فعال با تغییرشکل برنامه‌ریزی‌شده و استحکام پیوند بالا ایجاد می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 liquid crystal elastomer · multimaterial printing · antagonistic fibers · morphing actuator · soft robotics</description>
-<category>liquid crystal elastomer</category>
-<category>multimaterial printing</category>
-<category>antagonistic fibers</category>
-<category>morphing actuator</category>
-<category>soft robotics</category>
 </item>
 </channel>
 </rss>
