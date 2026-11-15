@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 15:01:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Facet-dependent anion adsorption for electrolyte-Cu interfacial stability in initially anode-free Li-metal batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79429-1</link>
+<guid isPermaLink="false">10.1038/s41467-026-79429-1</guid>
+<pubDate>Sun, 15 Nov 2026 16:01:44 GMT</pubDate>
+<description>وابستگی جذب آنیون به وجه کریستالی مس، پایداری فصل مشترک الکترولیت-Cu را در باتری‌های لیتیوم-فلزی بدون آند اولیه کنترل می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing facet-dependent anion adsorption: tetrafluoroborate&amp;#x27;s isotropic tetrahedral charge binds strongly to Cu(111)/(100) and native oxides, forming a passivating interfacial layer, whereas solvents preferentially adsorb via van der Waals forces. This adsorption-driven design enables 62% capacity retention after 300 cycles under lean electrolyte conditions, establishing a mechanistic basis for stabilizing initially anode-free Li-metal battery interfaces.&lt;br&gt;🏷 anode-free Li battery · anion adsorption · Cu facet · electrolyte interface · Li-metal</description>
+<category>anode-free Li battery</category>
+<category>anion adsorption</category>
+<category>Cu facet</category>
+<category>electrolyte interface</category>
+<category>Li-metal</category>
+</item>
 <item>
 <title>Non‐Precious Metal High‐Entropy Oxide Sub‐1 nm Nanowires for Li‐O 2 Batteries</title>
 <link>https://doi.org/10.1002/adma.75717</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low
 <category>vertically aligned microstructure</category>
 <category>ultra-thick electrode</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Micron-sized silicon anodes for high-energy lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.065</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.065</guid>
-<pubDate>Thu, 12 Nov 2026 19:04:26 GMT</pubDate>
-<description>این مقاله مروری، پیشرفت‌های آندهای سیلیکونی میکرونی را برای باتری‌های لیتیوم-یونی پرانرژی بررسی می‌کند و راهبردهای غلبه بر تورم حجمی و ناپایداری واسط را جمع‌بندی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 silicon anode · lithium-ion battery · micron-sized silicon · high-energy density · volume expansion</description>
-<category>silicon anode</category>
-<category>lithium-ion battery</category>
-<category>micron-sized silicon</category>
-<category>high-energy density</category>
-<category>volume expansion</category>
 </item>
 </channel>
 </rss>
