@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 11:01:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 12:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Non‐Precious Metal High‐Entropy Oxide Sub‐1 nm Nanowires for Li‐O 2 Batteries</title>
+<link>https://doi.org/10.1002/adma.75717</link>
+<guid isPermaLink="false">10.1002/adma.75717</guid>
+<pubDate>Sun, 15 Nov 2026 12:01:29 GMT</pubDate>
+<description>نانوسیم‌های زیر ۱ نانومتر اکسید آنتروپی بالا با POM به‌عنوان کاتد Li-O2 ظرفیت 9944 mAh g−1 و پایداری 312 چرخه را در باتری لیتیوم-اکسیژن فراهم می‌کنند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a general POM-induced synthesis of non-precious metal high-entropy oxide sub-1 nm nanowires, guided by MD simulations revealing Coulomb and van der Waals driving forces. Significance: ultrafine 1D structure exposes active sites, tunable components optimize LiO2*/Li2O2 adsorption, and oxide-POM interactions enhance stability, enabling 9944 mAh g−1 capacity and 312-cycle durability in Li-O2 batteries.&lt;br&gt;🏷 Li-O2 battery · high-entropy oxide · nanowires · polyoxometalate · cathode catalyst</description>
+<category>Li-O2 battery</category>
+<category>high-entropy oxide</category>
+<category>nanowires</category>
+<category>polyoxometalate</category>
+<category>cathode catalyst</category>
+</item>
+<item>
+<title>Topological Superlattice Stabilized Layered Oxide Cathodes With Sustainable Anionic Redox</title>
+<link>https://doi.org/10.1002/adma.75716</link>
+<guid isPermaLink="false">10.1002/adma.75716</guid>
+<pubDate>Sun, 15 Nov 2026 12:01:23 GMT</pubDate>
+<description>یک ابرشبکه توپولوژیکی Li/Mg/Ni در کاتد اکسید لایه‌ای باتری سدیم‌یون، ردوکس آنیونی برگشت‌پذیر را فعال کرده و ظرفیت 242 mAh g−1 با پایداری چرخه بالا ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a topological superlattice strategy creating a Li/Mg/Ni triple-center honeycomb superlattice, which activates reversible oxygen anionic redox while suppressing phase transitions and cation migration. This yields a high-capacity (242 mAh g⁻¹), stable sodium-ion cathode (91.8% retention after 100 cycles), offering new design principles for sustainable, high-energy batteries.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · anionic redox · superlattice · phase transition</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>anionic redox</category>
+<category>superlattice</category>
+<category>phase transition</category>
+</item>
+<item>
+<title>Charge Dynamics-Guided Polymer Structural Engineering for High-Temperature Energy Storage</title>
+<link>https://doi.org/10.1039/d6ee06785a</link>
+<guid isPermaLink="false">10.1039/d6ee06785a</guid>
+<pubDate>Sun, 15 Nov 2026 12:01:14 GMT</pubDate>
+<description>با مهندسی ساختار پلیمری مبتنی بر دینامیک بار، محدودیت دمای بالا در خازن‌های فیلم دی‌الکتریک پلیمری برای ذخیره انرژی بررسی و بهبود یافته است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using charge dynamics to guide polymer structural engineering, overcoming the Tg–capacitive trade-off that limits high-temperature polymer dielectrics. This approach enables rational design of polymer films with simultaneously enhanced thermal stability and energy storage performance, offering significant potential for advanced power electronics and electrical systems operating under harsh high-temperature conditions.&lt;br&gt;🏷 polymer dielectric · high-temperature capacitors · energy storage · charge dynamics · glass transition</description>
+<category>polymer dielectric</category>
+<category>high-temperature capacitors</category>
+<category>energy storage</category>
+<category>charge dynamics</category>
+<category>glass transition</category>
+</item>
 <item>
 <title>Nitrogen-Directed Semi-Ionic C-F Bonding Enables LiF-Rich Interphase Formation for Fast-Charging Graphite Anodes</title>
 <link>https://doi.org/10.1039/d6ta06874j</link>
@@ -1174,44 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low
 <category>micron-sized silicon</category>
 <category>high-energy density</category>
 <category>volume expansion</category>
-</item>
-<item>
-<title>Hybrid Weakly Coordinated Solvents for Fast-Charging and Wide-Temperature Sodium-Ion Full Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c15956</link>
-<guid isPermaLink="false">10.1021/jacs.6c15956</guid>
-<pubDate>Thu, 12 Nov 2026 19:04:03 GMT</pubDate>
-<description>الکترولیت هیبریدی اتیل پروپیونات و PFPN با تضعیف حل‌پوشی، باتری‌های یون سدیم را در دمای ۵۰− تا ۱۰۰ درجه و شارژ سریع پایدار می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a hybrid ethyl propionate/PFPN solvent system with weak coordination that boosts anion participation, lowers desolvation barriers, and forms inorganic-rich interphases. Its significance: enabling fast-charging, wide-temperature (−50 to 100 °C) sodium-ion full cells, including ampere-hour pouch cells with 86.3% retention after 300 cycles and stable operation at −20 and 80 °C, offering a practical electrolyte design pathway.&lt;br&gt;🏷 sodium-ion battery · weakly coordinated solvent · fast charging · wide temperature · solvation structure</description>
-<category>sodium-ion battery</category>
-<category>weakly coordinated solvent</category>
-<category>fast charging</category>
-<category>wide temperature</category>
-<category>solvation structure</category>
-</item>
-<item>
-<title>A Crystalline LaCl3 Reinforced Amorphous Oxyhalide Electrolyte for Thermally Stable All-Solid-State Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c17602</link>
-<guid isPermaLink="false">10.1021/jacs.6c17602</guid>
-<pubDate>Thu, 12 Nov 2026 19:03:39 GMT</pubDate>
-<description>الکترولیت کامپوزیتی Li–La–Al–O–Cl با نانوکریستال‌های LaCl3 در ماتریس آمورف، رسانایی بالای ۱ mS cm⁻¹ و پایداری گرمایی تا ۱۵۰ درجه را برای باتری تمام‌جامد فراهم می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embedding LaCl3 nanocrystals within an amorphous Li–Al–O–Cl matrix, creating a composite electrolyte that combines high ionic conductivity (&amp;gt;1 mS cm–1) with exceptional thermal stability (solid at 150 °C, where baseline LAOC melts). This enables stable ASSB operation at 80 °C, unlike LAOC cells. The strategy of reinforcing a soft amorphous matrix with a rigid crystalline phase offers a cost-effective pathway for thermally robust, high-performance solid-state electrolytes.&lt;br&gt;🏷 solid electrolyte · oxyhalide electrolyte · LaCl3 nanocrystals · all-solid-state battery · thermal stability</description>
-<category>solid electrolyte</category>
-<category>oxyhalide electrolyte</category>
-<category>LaCl3 nanocrystals</category>
-<category>all-solid-state battery</category>
-<category>thermal stability</category>
-</item>
-<item>
-<title>Hybridization State Engineering of Coal Pitch-Based Carbon Materials Enabling Ultrastable Aqueous Zinc–Iodine Batteries with 150,000 Cycles</title>
-<link>https://doi.org/10.1021/acsnano.6c17915</link>
-<guid isPermaLink="false">10.1021/acsnano.6c17915</guid>
-<pubDate>Thu, 12 Nov 2026 19:02:22 GMT</pubDate>
-<description>مهندسی نسبت C(sp2)/C(sp3) در کربن مشتق از قطران زغال‌سنگ، باتری آبی روی-ید با پایداری چرخه‌ای ۱۵۰٬۰۰۰ چرخه و خودتخلیلی کم را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing the overlooked role of carbon hybridization state (C(sp2)/C(sp3) ratio) in tuning intrinsic activity for iodine conversion, rather than pore or doping engineering. This lowers activation energy, suppresses polyiodide shuttle, and enables 150,000-cycle stability, Ah-level pouch cells, and extended commercial carbon lifespan—offering a new design principle for high-performance zinc–iodine batteries.&lt;br&gt;🏷 zinc-iodine battery · coal pitch carbon · hybridization state · polyiodide shuttle · cycling stability</description>
-<category>zinc-iodine battery</category>
-<category>coal pitch carbon</category>
-<category>hybridization state</category>
-<category>polyiodide shuttle</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
