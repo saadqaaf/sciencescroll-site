@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 03:01:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 04:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Advanced data-driven surrogate modelling for high-fidelity P2D electrochemical simulation of Lithium-Ion batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105650</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105650</guid>
+<pubDate>Sun, 15 Nov 2026 04:01:30 GMT</pubDate>
+<description>مدل‌سازی جانشین داده‌محور برای شبیه‌سازی الکتروشیمیایی P2D با دقت بالا در باتری‌های لیتیوم-یون ارائه می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 P2D model · surrogate modelling · lithium-ion battery · data-driven simulation · electrochemical modeling</description>
+<category>P2D model</category>
+<category>surrogate modelling</category>
+<category>lithium-ion battery</category>
+<category>data-driven simulation</category>
+<category>electrochemical modeling</category>
+</item>
+<item>
+<title>The Double-Edged Sword of Dibutyl Ether in Hybrid Ether-based Electrolytes: Balancing Dissociation and Dilution of Salts for Li-SPAN Cells</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105652</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105652</guid>
+<pubDate>Sun, 15 Nov 2026 04:01:25 GMT</pubDate>
+<description>نقش دوگانه دی‌بوتیل اتر در الکترولیت‌های هیبریدی اتری برای توازن تفکیک و رقت نمک در سلول‌های Li-SPAN بررسی می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Li-SPAN cell · dibutyl ether · hybrid ether electrolyte · salt dissociation · lithium anode</description>
+<category>Li-SPAN cell</category>
+<category>dibutyl ether</category>
+<category>hybrid ether electrolyte</category>
+<category>salt dissociation</category>
+<category>lithium anode</category>
+</item>
+<item>
+<title>Halide-Mediated Chemistry for Enhancing Wide-Temperature Performance of Zinc-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105653</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105653</guid>
+<pubDate>Sun, 15 Nov 2026 04:01:20 GMT</pubDate>
+<description>شیمی واسطه‌گری هالید برای بهبود عملکرد باتری‌های یون-روی در محدوده دمایی گسترده به کار گرفته می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-ion battery · halide chemistry · wide-temperature · electrolyte additive · zinc anode</description>
+<category>zinc-ion battery</category>
+<category>halide chemistry</category>
+<category>wide-temperature</category>
+<category>electrolyte additive</category>
+<category>zinc anode</category>
+</item>
+<item>
+<title>Primary-solvation and free-state molecule design enables durable and safe lithium metal batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105655</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105655</guid>
+<pubDate>Sun, 15 Nov 2026 04:01:15 GMT</pubDate>
+<description>طراحی هم‌زمان ساختار حل‌پوشی اولیه و مولکول‌های آزاد الکترولیت، باتری‌های لیتیوم-فلزی بادوام و ایمن را ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · solvation structure · electrolyte design · free-state molecules · dendrite suppression</description>
+<category>lithium metal battery</category>
+<category>solvation structure</category>
+<category>electrolyte design</category>
+<category>free-state molecules</category>
+<category>dendrite suppression</category>
+</item>
 <item>
 <title>Advances in single-atom catalytic ceramic membranes: mechanisms, transport synergy, and applications in water purification</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218764</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>antagonistic fibers</category>
 <category>morphing actuator</category>
 <category>soft robotics</category>
-</item>
-<item>
-<title>Spin‐State Regulation Engineering of Pyrophosphate‐Based Polyanionic Cathodes for Ultra‐Long‐Life Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adma.75698</link>
-<guid isPermaLink="false">10.1002/adma.75698</guid>
-<pubDate>Sat, 14 Nov 2026 16:01:31 GMT</pubDate>
-<description>با جایگزینی هم‌زمان Mn و F در کاتد پیروفسفات آهن، تنظیم حالت اسپین Fe2+ و کاهش موانع انتقال Na+ موجب عمر چرخه فوق‌طولانی و انرژی بالای باتری سدیم-یون می‌شود.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using Mn/F co-doping to regulate Fe²⁺ spin state in pyrophosphate cathodes, redistributing charge and enabling cooperative Fe─O/Mn─O bond evolution. This narrows the band gap, lowers Na⁺ migration barriers, and suppresses volume change, yielding 336 Wh kg⁻¹ and 70% retention after 24,000 cycles. It establishes spin-state engineering as a design principle for durable polyanionic sodium-ion cathodes.&lt;br&gt;🏷 sodium-ion battery · pyrophosphate cathode · spin-state regulation · Mn/F co-doping · long cycling life</description>
-<category>sodium-ion battery</category>
-<category>pyrophosphate cathode</category>
-<category>spin-state regulation</category>
-<category>Mn/F co-doping</category>
-<category>long cycling life</category>
-</item>
-<item>
-<title>Dynamics of excess renewable energy and implications for its potential use</title>
-<link>https://doi.org/10.1016/j.joule.2026.102683</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102683</guid>
-<pubDate>Sat, 14 Nov 2026 15:01:13 GMT</pubDate>
-<description>این مقاله دینامیک انرژی تجدیدپذیر مازاد و پیامدهای آن برای استفاده بالقوه از این انرژی را بررسی می‌کند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 excess renewable energy · energy storage · curtailment · renewable integration · energy system dynamics</description>
-<category>excess renewable energy</category>
-<category>energy storage</category>
-<category>curtailment</category>
-<category>renewable integration</category>
-<category>energy system dynamics</category>
-</item>
-<item>
-<title>Transition-Metal-Catalyzed Multicomponent Cycloadditions</title>
-<link>https://doi.org/10.1021/acs.chemrev.6c00445</link>
-<guid isPermaLink="false">10.1021/acs.chemrev.6c00445</guid>
-<pubDate>Sat, 14 Nov 2026 14:01:12 GMT</pubDate>
-<description>این مرور، پیشرفت‌های سیکلوافزایش‌های چندجزئی کاتالیزشده با فلزات واسطه را بر اساس اندازه حلقه و اجزای واکنش سازمان‌دهی و مکانیسم‌ها را تحلیل می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 multicomponent cycloaddition · transition-metal catalysis · ring formation · reactive intermediates · synthetic methodology</description>
-<category>multicomponent cycloaddition</category>
-<category>transition-metal catalysis</category>
-<category>ring formation</category>
-<category>reactive intermediates</category>
-<category>synthetic methodology</category>
-</item>
-<item>
-<title>Stacking-Dependent Multifunctional Responses in GeC/MoSe2 van der Waals Heterostructures: Photocatalysis, Thermoelectric Transport and Polarization Photoresponse</title>
-<link>https://doi.org/10.1039/d6ta04546d</link>
-<guid isPermaLink="false">10.1039/d6ta04546d</guid>
-<pubDate>Sat, 14 Nov 2026 14:01:09 GMT</pubDate>
-<description>پاسخ‌های چندکاره‌ی وابسته به چیدمان در ناهم‌ساختارهای واندروالس GeC/MoSe2 برای فوتوکاتالیزی، ترموالکتریک و پاسخ نوری قطبشی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 GeC/MoSe2 heterostructure · van der Waals · photocatalysis · thermoelectric transport · polarization photoresponse</description>
-<category>GeC/MoSe2 heterostructure</category>
-<category>van der Waals</category>
-<category>photocatalysis</category>
-<category>thermoelectric transport</category>
-<category>polarization photoresponse</category>
 </item>
 </channel>
 </rss>
