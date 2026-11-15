@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 16:01:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 17:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Heteronuclear Ru–Fe Dual Single-Atom Sites Anchored on Lanthanum Metal–Organic Framework Catalyzing the Base-Free Selective Oxidation of 5-Hydroxymethylfurfural</title>
+<link>https://doi.org/10.1021/acscatal.6c06246</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06246</guid>
+<pubDate>Sun, 15 Nov 2026 17:01:05 GMT</pubDate>
+<description>کاتالیزور RuFe/LaMOF با سایت‌های دوگانه Ru–O–Fe اکسیداسیون HMF به FDCA را بدون باز و با بازده نزدیک ۹۹٪ انجام می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 dual single-atom catalyst · Ru-Fe sites · HMF oxidation · LaMOF · FDCA</description>
+<category>dual single-atom catalyst</category>
+<category>Ru-Fe sites</category>
+<category>HMF oxidation</category>
+<category>LaMOF</category>
+<category>FDCA</category>
+</item>
+<item>
+<title>Location-Dependent Phase Evolution of Nickel in Fe2O3@LaFeO3 Oxygen Carriers for Chemical Looping Hydrogen Production</title>
+<link>https://doi.org/10.1021/acscatal.6c07912</link>
+<guid isPermaLink="false">10.1021/acscatal.6c07912</guid>
+<pubDate>Sun, 15 Nov 2026 17:01:01 GMT</pubDate>
+<description>جایگاه اولیه Ni در حامل‌های اکسیژن Fe2O3@LaFeO3 فاز و پایداری redox را تعیین می‌کند و Ni در پوسته با تشکیل NiFe2O4 چرخه‌های پایدارتری نشان می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;🏷 chemical looping hydrogen · oxygen carrier · Ni incorporation · core-shell Fe2O3@LaFeO3 · redox stability</description>
+<category>chemical looping hydrogen</category>
+<category>oxygen carrier</category>
+<category>Ni incorporation</category>
+<category>core-shell Fe2O3@LaFeO3</category>
+<category>redox stability</category>
+</item>
 <item>
 <title>An optimized PanFlu-IOA-based mRNA vaccine targeting hemagglutinin confers broad-spectrum protection against heterosubtypic influenza viruses in mice</title>
 <link>https://doi.org/10.1038/s41467-026-79813-x</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>electron redistribution</category>
 <category>oxygen activation</category>
 <category>chlorine transfer</category>
-</item>
-<item>
-<title>Deciphering the Origin of the Particle-Size Effect in Cu/Al2O3 Catalysts for Methanol Steam Reforming</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127803</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127803</guid>
-<pubDate>Sat, 14 Nov 2026 18:01:18 GMT</pubDate>
-<description>این مقاله منشأ اثر اندازه ذره در کاتالیزورهای Cu/Al2O3 برای reforming بخار متانول را روشن می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Cu/Al2O3 catalyst · methanol steam reforming · particle-size effect · hydrogen production · structure sensitivity</description>
-<category>Cu/Al2O3 catalyst</category>
-<category>methanol steam reforming</category>
-<category>particle-size effect</category>
-<category>hydrogen production</category>
-<category>structure sensitivity</category>
-</item>
-<item>
-<title>A molecularly bridged organic-inorganic interface enables visible-light-assisted photothermal upgrading of biomass-derived aldehydes to value-added N-heterocycles</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127796</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127796</guid>
-<pubDate>Sat, 14 Nov 2026 18:01:15 GMT</pubDate>
-<description>یک رابط مولکولی پل‌زده آلی-معدنی، ارتقای فتوترمال آلدئیدهای زیست‌توده به N-heterocycles ارزشمند را با کمک نور مرئی ممکن می‌سازد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 biomass aldehydes · N-heterocycles · photothermal catalysis · organic-inorganic interface · visible light</description>
-<category>biomass aldehydes</category>
-<category>N-heterocycles</category>
-<category>photothermal catalysis</category>
-<category>organic-inorganic interface</category>
-<category>visible light</category>
 </item>
 </channel>
 </rss>
