@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 18:01:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 19:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ferroelectric Polarization Dynamics of HZO FeCAPs at a Verified Subnanosecond Time Scale</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02293</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02293</guid>
+<pubDate>Sun, 15 Nov 2026 19:01:00 GMT</pubDate>
+<description>پویایی قطبش فروالکتریک در خازن‌های HZO با ساختار سازگار با RF در مقیاس زیرنانوثانیه و با تفکیک زمانی زیر ۱۰۰ پیکوثانیه اندازه‌گیری و پنجره سوئیچینگ فراسریع تعیین شد.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 HfZrO2 · ferroelectric capacitor · FeRAM · polarization switching · subnanosecond</description>
+<category>HfZrO2</category>
+<category>ferroelectric capacitor</category>
+<category>FeRAM</category>
+<category>polarization switching</category>
+<category>subnanosecond</category>
+</item>
 <item>
 <title>Thermal Runaway of Lithium‐Ion Batteries in Underground Mining Environments: Mechanism, Combustion Products Characterization, and Mine‐Specific Testing Frameworks</title>
 <link>https://doi.org/10.1002/bte2.70161</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>Fe3O4/Cu heterostructure</category>
 <category>C-N coupling</category>
 <category>near-thermoneutral</category>
-</item>
-<item>
-<title>Synergy of Ce-insertion and Hydrothermal Treatment Inducing Robust Active Sites in Cu-SSZ-13 for Phosphorous-Durable NOx Catalytic Reduction</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127799</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127799</guid>
-<pubDate>Sat, 14 Nov 2026 18:01:29 GMT</pubDate>
-<description>هم‌افزایی درج Ce و تیمار هیدروترمال، سایت‌های فعال پایدار در Cu-SSZ-13 برای کاهش کاتالیستی NOx مقاوم به فسفر ایجاد می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Cu-SSZ-13 · NOx reduction · Ce insertion · hydrothermal treatment · phosphorus durability</description>
-<category>Cu-SSZ-13</category>
-<category>NOx reduction</category>
-<category>Ce insertion</category>
-<category>hydrothermal treatment</category>
-<category>phosphorus durability</category>
 </item>
 </channel>
 </rss>
