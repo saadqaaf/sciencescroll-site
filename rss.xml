@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:00:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nitrogen-Directed Semi-Ionic C-F Bonding Enables LiF-Rich Interphase Formation for Fast-Charging Graphite Anodes</title>
+<link>https://doi.org/10.1039/d6ta06874j</link>
+<guid isPermaLink="false">10.1039/d6ta06874j</guid>
+<pubDate>Sun, 15 Nov 2026 10:01:28 GMT</pubDate>
+<description>با ایجاد پیوند نیمه‌یونی C-F هدایت‌شده توسط نیتروژن، تشکیل لایه میانی غنی از LiF برای آند گرافیتی امکان شارژ سریع فراهم می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using nitrogen-directed semi-ionic C-F bonding to engineer a LiF-rich interphase on graphite anodes. This addresses the interfacial Li+ transport bottleneck limiting fast charging. The significance is enabling fast-charging graphite anodes with suppressed polarization and uniform SEI growth, advancing practical high-rate lithium-ion batteries.&lt;br&gt;🏷 graphite anode · LiF-rich interphase · semi-ionic C-F bond · fast charging · Li+ transport</description>
+<category>graphite anode</category>
+<category>LiF-rich interphase</category>
+<category>semi-ionic C-F bond</category>
+<category>fast charging</category>
+<category>Li+ transport</category>
+</item>
 <item>
 <title>UV laser activation of NV centers in CVD diamond</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122320</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>microwave absorption</category>
 <category>multispectral camouflage</category>
 <category>reconfigurable metamaterials</category>
-</item>
-<item>
-<title>Colloidal Photonic Crystals Toward Scalable Manufacturing and Reliable Functions</title>
-<link>https://doi.org/10.1002/adma.202505302</link>
-<guid isPermaLink="false">10.1002/adma.202505302</guid>
-<pubDate>Sat, 14 Nov 2026 16:02:19 GMT</pubDate>
-<description>این مرور به راهبردهای خودآرایی مقیاس‌پذیر، پایداری ساختاری و کاربردهای بلورهای فوتونی کلوئیدی برای تولید صنعتی و عملکرد قابل‌اعتماد می‌پردازد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;🏷 colloidal photonic crystals · scalable assembly · structural color · self-assembly · anti-counterfeiting</description>
-<category>colloidal photonic crystals</category>
-<category>scalable assembly</category>
-<category>structural color</category>
-<category>self-assembly</category>
-<category>anti-counterfeiting</category>
 </item>
 </channel>
 </rss>

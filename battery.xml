@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:00:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:01:30 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nitrogen-Directed Semi-Ionic C-F Bonding Enables LiF-Rich Interphase Formation for Fast-Charging Graphite Anodes</title>
+<link>https://doi.org/10.1039/d6ta06874j</link>
+<guid isPermaLink="false">10.1039/d6ta06874j</guid>
+<pubDate>Sun, 15 Nov 2026 10:01:28 GMT</pubDate>
+<description>با ایجاد پیوند نیمه‌یونی C-F هدایت‌شده توسط نیتروژن، تشکیل لایه میانی غنی از LiF برای آند گرافیتی امکان شارژ سریع فراهم می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using nitrogen-directed semi-ionic C-F bonding to engineer a LiF-rich interphase on graphite anodes. This addresses the interfacial Li+ transport bottleneck limiting fast charging. The significance is enabling fast-charging graphite anodes with suppressed polarization and uniform SEI growth, advancing practical high-rate lithium-ion batteries.&lt;br&gt;🏷 graphite anode · LiF-rich interphase · semi-ionic C-F bond · fast charging · Li+ transport</description>
+<category>graphite anode</category>
+<category>LiF-rich interphase</category>
+<category>semi-ionic C-F bond</category>
+<category>fast charging</category>
+<category>Li+ transport</category>
+</item>
 <item>
 <title>Advanced data-driven surrogate modelling for high-fidelity P2D electrochemical simulation of Lithium-Ion batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105650</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>hybridization state</category>
 <category>polyiodide shuttle</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Spatially heterogeneous solid electrolyte interphase degradation reconstructs incipient self-heating pathways in aged lithium-ion power batteries</title>
-<link>https://doi.org/10.1016/j.etran.2026.100652</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100652</guid>
-<pubDate>Thu, 12 Nov 2026 19:01:58 GMT</pubDate>
-<description>این پژوهش نشان می‌دهد که تخریب ناهمگن مکانی لایه SEI در باتری‌های لیتیوم-یونی پیرشده، مسیرهای خودگرمایشی اولیه را بازسازی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 solid electrolyte interphase · lithium-ion battery · self-heating · aging · degradation</description>
-<category>solid electrolyte interphase</category>
-<category>lithium-ion battery</category>
-<category>self-heating</category>
-<category>aging</category>
-<category>degradation</category>
 </item>
 </channel>
 </rss>
