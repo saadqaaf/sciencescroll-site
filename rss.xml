@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 17:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermal Runaway of Lithium‐Ion Batteries in Underground Mining Environments: Mechanism, Combustion Products Characterization, and Mine‐Specific Testing Frameworks</title>
+<link>https://doi.org/10.1002/bte2.70161</link>
+<guid isPermaLink="false">10.1002/bte2.70161</guid>
+<pubDate>Sun, 15 Nov 2026 18:01:21 GMT</pubDate>
+<description>این مقاله دانش موجود درباره‌ی thermal runaway باتری‌های Li-ion را در محیط معدن زیرزمینی بررسی کرده و چارچوب آزمایشی متناسب با شرایط معدن برای ارزیابی ایمنی پیشنهاد می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in contextualizing LIB thermal runaway within underground mining environments, where ventilation constraints and ambient conditions alter hazard profiles—an understudied setting. Its significance is synthesizing TR mechanisms, combustion product characterization, and testing limitations to propose a mine-specific experimental framework enabling representative hazard assessment and safer LIB deployment in underground mines.&lt;br&gt;🏷 lithium-ion battery · thermal runaway · underground mining · combustion products · safety testing framework</description>
+<category>lithium-ion battery</category>
+<category>thermal runaway</category>
+<category>underground mining</category>
+<category>combustion products</category>
+<category>safety testing framework</category>
+</item>
+<item>
+<title>Overcoming the leading-edge bulge in ceramic stereolithography: towards a digital twin to optimize the fluid flow by part positioning and sacrificial structures</title>
+<link>https://doi.org/10.1016/j.addma.2026.105430</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105430</guid>
+<pubDate>Sun, 15 Nov 2026 18:01:16 GMT</pubDate>
+<description>این مقاله راهکاری برای رفع برآمدگی لبه‌ی پیشرو در استریولیتوگرافی سرامیکی و حرکت به‌سوی دوقلوی دیجیتال برای بهینه‌سازی جریان سیال با جای‌گذاری قطعه و ساختارهای فداشونده ارائه می‌دهد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 ceramic stereolithography · leading-edge bulge · digital twin · fluid flow · sacrificial structures</description>
+<category>ceramic stereolithography</category>
+<category>leading-edge bulge</category>
+<category>digital twin</category>
+<category>fluid flow</category>
+<category>sacrificial structures</category>
+</item>
 <item>
 <title>Heteronuclear Ru–Fe Dual Single-Atom Sites Anchored on Lanthanum Metal–Organic Framework Catalyzing the Base-Free Selective Oxidation of 5-Hydroxymethylfurfural</title>
 <link>https://doi.org/10.1021/acscatal.6c06246</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>Ce insertion</category>
 <category>hydrothermal treatment</category>
 <category>phosphorus durability</category>
-</item>
-<item>
-<title>Interfacial Bridges Bridge Light and Heat to Accelerate Charge Transfer for Efficient CO2 Reduction</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127797</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127797</guid>
-<pubDate>Sat, 14 Nov 2026 18:01:26 GMT</pubDate>
-<description>پل‌های بین‌سطحی نور و گرما را به هم متصل کرده و انتقال بار را برای احیای کارآمد CO2 تسریع می‌کنند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 reduction · interfacial bridges · charge transfer · photothermal · catalysis</description>
-<category>CO2 reduction</category>
-<category>interfacial bridges</category>
-<category>charge transfer</category>
-<category>photothermal</category>
-<category>catalysis</category>
-</item>
-<item>
-<title>Polyoxometalate-Mediated Interfacial Electron Redistribution Enables Efficient Chlorobenzene Oxidation through Coupled Oxygen Activation and Chlorine Transfer</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127802</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127802</guid>
-<pubDate>Sat, 14 Nov 2026 18:01:22 GMT</pubDate>
-<description>واسطه polyoxometalate با بازتوزیع الکترون در سطح، اکسیداسیون کلروبنزن را از طریق فعال‌سازی اکسیژن و انتقال کلر کارآمد می‌کند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 polyoxometalate · chlorobenzene oxidation · electron redistribution · oxygen activation · chlorine transfer</description>
-<category>polyoxometalate</category>
-<category>chlorobenzene oxidation</category>
-<category>electron redistribution</category>
-<category>oxygen activation</category>
-<category>chlorine transfer</category>
 </item>
 </channel>
 </rss>

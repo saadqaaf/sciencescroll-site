@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 17:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermal Runaway of Lithium‐Ion Batteries in Underground Mining Environments: Mechanism, Combustion Products Characterization, and Mine‐Specific Testing Frameworks</title>
+<link>https://doi.org/10.1002/bte2.70161</link>
+<guid isPermaLink="false">10.1002/bte2.70161</guid>
+<pubDate>Sun, 15 Nov 2026 18:01:21 GMT</pubDate>
+<description>این مقاله دانش موجود درباره‌ی thermal runaway باتری‌های Li-ion را در محیط معدن زیرزمینی بررسی کرده و چارچوب آزمایشی متناسب با شرایط معدن برای ارزیابی ایمنی پیشنهاد می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in contextualizing LIB thermal runaway within underground mining environments, where ventilation constraints and ambient conditions alter hazard profiles—an understudied setting. Its significance is synthesizing TR mechanisms, combustion product characterization, and testing limitations to propose a mine-specific experimental framework enabling representative hazard assessment and safer LIB deployment in underground mines.&lt;br&gt;🏷 lithium-ion battery · thermal runaway · underground mining · combustion products · safety testing framework</description>
+<category>lithium-ion battery</category>
+<category>thermal runaway</category>
+<category>underground mining</category>
+<category>combustion products</category>
+<category>safety testing framework</category>
+</item>
 <item>
 <title>Facet-dependent anion adsorption for electrolyte-Cu interfacial stability in initially anode-free Li-metal batteries</title>
 <link>https://doi.org/10.1038/s41467-026-79429-1</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low
 <category>actor-critic algorithm</category>
 <category>multi-timescale optimization</category>
 <category>physics-informed learning</category>
-</item>
-<item>
-<title>Vertically aligned microstructure in ultra-thick graphite anodes made by directional ice templating</title>
-<link>https://doi.org/10.1016/j.carbon.2026.122322</link>
-<guid isPermaLink="false">10.1016/j.carbon.2026.122322</guid>
-<pubDate>Thu, 12 Nov 2026 20:01:48 GMT</pubDate>
-<description>با روش قالب‌گیری یخی جهت‌دار، ریزساختار عمودی‌تراز در آندهای گرافیتی فوق‌ضخیم ایجاد شد که احتمالاً انتقال یون و عملکرد باتری را بهبود می‌دهد.&lt;br&gt;Carbon | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphite anode · ice templating · vertically aligned microstructure · ultra-thick electrode · lithium-ion battery</description>
-<category>graphite anode</category>
-<category>ice templating</category>
-<category>vertically aligned microstructure</category>
-<category>ultra-thick electrode</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
