@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 00:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 01:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Machine learning-driven battery electrolyte innovation: From molecular design to autonomous research</title>
+<link>https://doi.org/10.1016/j.esci.2026.100672</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100672</guid>
+<pubDate>Sun, 15 Nov 2026 01:01:05 GMT</pubDate>
+<description>این مقاله مروری نشان می‌دهد چگونه یادگیری ماشین از طراحی مولکولی تا پژوهش خودکار، نوآوری در الکترولیت‌های باتری را تسریع می‌کند.&lt;br&gt;eScience | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 battery electrolytes · machine learning · molecular design · autonomous research · electrolyte discovery</description>
+<category>battery electrolytes</category>
+<category>machine learning</category>
+<category>molecular design</category>
+<category>autonomous research</category>
+<category>electrolyte discovery</category>
+</item>
+<item>
+<title>Electroactive smart fluids</title>
+<link>https://doi.org/10.1016/j.esci.2026.100673</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100673</guid>
+<pubDate>Sun, 15 Nov 2026 01:01:01 GMT</pubDate>
+<description>این مقاله به بررسی سیالات هوشمند الکتروفعال و رفتار آن‌ها تحت میدان الکتریکی می‌پردازد.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electroactive fluids · smart fluids · electrorheological fluids · field-responsive materials · dielectric particles</description>
+<category>electroactive fluids</category>
+<category>smart fluids</category>
+<category>electrorheological fluids</category>
+<category>field-responsive materials</category>
+<category>dielectric particles</category>
+</item>
 <item>
 <title>Architecting spatial distribution of silicon in solvent-free double-layered high-loading graphite/silicon anodes for structurally durable lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114395</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>mesoporous carbon</category>
 <category>bimodal pores</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Internal Symmetry-Driven Modal Convergence Enhances Chiral Scattering</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c05145</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c05145</guid>
-<pubDate>Sat, 14 Nov 2026 13:01:09 GMT</pubDate>
-<description>با شبیه‌سازی الکترومغناطیسی و طیف‌سنجی CDS روی دایمرهای نانومیله پلاسمونی نشان می‌دهد که عدم‌تقارن چرخشی و انتقالی، هم‌گرایی مودهای الکتریکی-مغناطیسی و پراکندگی کایرال تقویت‌شده را کنترل می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 chiral scattering · plasmonic nanorod dimers · circular differential scattering · mode convergence · internal symmetry</description>
-<category>chiral scattering</category>
-<category>plasmonic nanorod dimers</category>
-<category>circular differential scattering</category>
-<category>mode convergence</category>
-<category>internal symmetry</category>
-</item>
-<item>
-<title>How do carbon prices impact the carbon premium?</title>
-<link>https://doi.org/10.1016/j.esr.2026.102380</link>
-<guid isPermaLink="false">10.1016/j.esr.2026.102380</guid>
-<pubDate>Sat, 14 Nov 2026 12:01:59 GMT</pubDate>
-<description>این مقاله بررسی می‌کند که قیمت کربن چگونه بر صرفه کربنی (carbon premium) دارایی‌ها و شرکت‌ها اثر می‌گذارد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 carbon price · carbon premium · climate policy · asset pricing · emissions</description>
-<category>carbon price</category>
-<category>carbon premium</category>
-<category>climate policy</category>
-<category>asset pricing</category>
-<category>emissions</category>
 </item>
 </channel>
 </rss>

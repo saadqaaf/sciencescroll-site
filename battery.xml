@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 00:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 01:01:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Machine learning-driven battery electrolyte innovation: From molecular design to autonomous research</title>
+<link>https://doi.org/10.1016/j.esci.2026.100672</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100672</guid>
+<pubDate>Sun, 15 Nov 2026 01:01:05 GMT</pubDate>
+<description>این مقاله مروری نشان می‌دهد چگونه یادگیری ماشین از طراحی مولکولی تا پژوهش خودکار، نوآوری در الکترولیت‌های باتری را تسریع می‌کند.&lt;br&gt;eScience | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 battery electrolytes · machine learning · molecular design · autonomous research · electrolyte discovery</description>
+<category>battery electrolytes</category>
+<category>machine learning</category>
+<category>molecular design</category>
+<category>autonomous research</category>
+<category>electrolyte discovery</category>
+</item>
 <item>
 <title>Architecting spatial distribution of silicon in solvent-free double-layered high-loading graphite/silicon anodes for structurally durable lithium-ion batteries</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114395</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embed
 <category>electrolyte engineering</category>
 <category>ion pairing</category>
 <category>interfacial chemistry</category>
-</item>
-<item>
-<title>High-Performance Lithium Metal Anodes Enabled by Multi-dimensional Host Materials</title>
-<link>https://doi.org/10.1016/j.apmate.2026.100485</link>
-<guid isPermaLink="false">10.1016/j.apmate.2026.100485</guid>
-<pubDate>Thu, 12 Nov 2026 16:01:37 GMT</pubDate>
-<description>این مقاله مروری، میزبان‌های چندبعدی برای آندهای فلز لیتیوم را بررسی می‌کند و نقش آن‌ها در بهبود عملکرد و مهار دندریت‌ها را نشان می‌دهد.&lt;br&gt;Advanced Powder Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 lithium metal anode · host materials · dendrite suppression · multi-dimensional structure · lithium deposition</description>
-<category>lithium metal anode</category>
-<category>host materials</category>
-<category>dendrite suppression</category>
-<category>multi-dimensional structure</category>
-<category>lithium deposition</category>
 </item>
 </channel>
 </rss>
