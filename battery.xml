@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 12:07:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 13:11:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Na 4 Fe 3 (PO 4 ) 2 P 2 O 7 Cathodes for Sodium‐Ion Batteries: From Fundamental Research to Practical Application</title>
+<link>https://doi.org/10.1002/smll.76760</link>
+<guid isPermaLink="false">10.1002/smll.76760</guid>
+<pubDate>Mon, 16 Nov 2026 13:10:26 GMT</pubDate>
+<description>این مرور، ساختار و مکانیزم ذخیره‌سازی سدیم در کاتد Na4Fe3(PO4)2P2O7 را با چالش‌ها و راهکارهای اصلاحی و پیشرفت صنعتی آن برای باتری‌های سدیم-یون بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely bridges fundamental mechanisms and industrial application for Na4Fe3(PO4)2P2O7 cathodes, clarifying structure, degradation mechanisms, and modification strategies while compiling industrial progress from material production to system deployment. Its integrated perspective addresses the research-to-industry gap, accelerating adoption of low-cost, long-life sodium-ion batteries for large-scale energy storage.&lt;br&gt;🏷 sodium-ion battery · NFPP cathode · mixed phosphate · industrial application · modification strategies</description>
+<category>sodium-ion battery</category>
+<category>NFPP cathode</category>
+<category>mixed phosphate</category>
+<category>industrial application</category>
+<category>modification strategies</category>
+</item>
+<item>
+<title>Synergistic Electronic‐Ionic Regulation in LMFP Cathodes Enabled by Mn‐Vacancy Engineering and D–p Orbital Hybridization</title>
+<link>https://doi.org/10.1002/smll.76363</link>
+<guid isPermaLink="false">10.1002/smll.76363</guid>
+<pubDate>Mon, 16 Nov 2026 13:10:06 GMT</pubDate>
+<description>هم‌تنظیمی Zn/Zr با مهندسی تهی‌جای Mn و هیبریداسیون اوربیتال d-p، انتقال یون و الکترون را در کاتد LMFP بهبود داده و ظرفیت و پایداری چرخه را افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling Mn-vacancy engineering with Zn/Zr-induced d–p orbital hybridization to simultaneously boost ionic and electronic transport in LMFP cathodes. This synergistic electronic-ionic regulation lowers the band gap, enhances electron delocalization, and reduces Li⁺ diffusion barriers, yielding high capacity (156.8 mAh g⁻¹ at 0.2 C), excellent rate performance, and long cycling stability, establishing a general design strategy for olivine cathodes.&lt;br&gt;🏷 LMFP cathode · Mn vacancy · d-p orbital hybridization · lithium-ion battery · Zn/Zr doping</description>
+<category>LMFP cathode</category>
+<category>Mn vacancy</category>
+<category>d-p orbital hybridization</category>
+<category>lithium-ion battery</category>
+<category>Zn/Zr doping</category>
+</item>
+<item>
+<title>Layer‐by‐Layer Solvent‐Free Additive Manufacturing Enabling Controllable Ultrathick Electrode Coating for Lithium‐Ion Battery</title>
+<link>https://doi.org/10.1002/advs.78763</link>
+<guid isPermaLink="false">10.1002/advs.78763</guid>
+<pubDate>Mon, 16 Nov 2026 13:08:22 GMT</pubDate>
+<description>ساخت افزودنی بدون حلال و لایه‌به‌لایه، کاتدهای فوق‌ضخیم NMC811 با شبکه رسانای rGO-بایندر ایجاد کرده و ظرفیت سطحی حدود ۱۰ mAh cm⁻² را ممکن می‌سازد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a solvent-free, layer-by-layer additive manufacturing strategy using rGO-binder molecular coupling to build ultrathick cathodes (300–1000 µm, 20–100 mg cm⁻²) with homogeneous conductive networks. Significance: it overcomes thick-electrode heterogeneity, enabling scalable, sustainable production of high-areal-capacity (∼10 mAh cm⁻²) lithium-ion batteries for next-generation high-energy-density applications.&lt;br&gt;🏷 dry electrode · ultrathick cathode · NMC811 · additive manufacturing · lithium-ion battery</description>
+<category>dry electrode</category>
+<category>ultrathick cathode</category>
+<category>NMC811</category>
+<category>additive manufacturing</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Unified Deep Learning Framework for Interpretable Remaining Useful Life Prediction of Lithium–Ion Batteries under Stochastic Group‐Behavioral Usage Scenarios</title>
+<link>https://doi.org/10.1002/advs.78745</link>
+<guid isPermaLink="false">10.1002/advs.78745</guid>
+<pubDate>Mon, 16 Nov 2026 13:06:56 GMT</pubDate>
+<description>این مقاله یک چارچوب یادگیری عمیق یکپارچه برای پیش‌بینی عمر مفید باقی‌مانده باتری‌های لیتیوم-یون تحت الگوهای مصرف تصادفی گروهی ارائه می‌دهد و با انتخاب ویژگی نظام‌مند به خطای NRMSE حدود ۶.۲۰٪ دست می‌یابد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The study introduces a unified deep learning framework for battery RUL prediction under stochastic group-behavioral usage, using a Markov-based synthetic dataset and 13 engineered health indicators. Its novelty lies in interpretable, lightweight models that rival complex architectures across heterogeneous datasets (NRMSE &amp;lt;6.20%), enabling group-specific, real-world prognostics.&lt;br&gt;🏷 lithium-ion battery · remaining useful life · deep learning · feature engineering · ensemble learning</description>
+<category>lithium-ion battery</category>
+<category>remaining useful life</category>
+<category>deep learning</category>
+<category>feature engineering</category>
+<category>ensemble learning</category>
+</item>
 <item>
 <title>Reshaping interfacial solvation structures with lithium–graphite–catalyst composite anodes for long-lifespan lithium metal batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.10.084</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>kinetic gating</category>
 <category>current density</category>
 <category>Zn-ion battery</category>
-</item>
-<item>
-<title>Accelerated Oxygen Redox Kinetics via Synergistic Electron Modulation at Asymmetric Dual 180° Oxygen Bonds in Co-Free Li-Rich Cathodes</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03622</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03622</guid>
-<pubDate>Fri, 13 Nov 2026 18:01:13 GMT</pubDate>
-<description>با ایجاد پیکربندی‌های نامتقارن Li–O–Al و Li–O–Na در کاتد غنی از لیتیوم و بدون کبالت، سینتیک redox اکسیژن تسریع و ظرفیت و نرخ‌پذیری به‌طور چشمگیری بهبود می‌یابد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in creating asymmetric near-180° Li–O–Al and Li–O–Na configurations to synergistically modulate oxygen redox in Co-free Li-rich cathodes. This dual-configuration strategy lowers oxygen electron excitation barriers and enhances electron-loss capability, accelerating electronic and ionic transport. It significantly boosts capacity and rate performance, enabling high-capacity, fast oxygen redox in sustainable Mn-rich cathodes.&lt;br&gt;🏷 Li-rich cathode · oxygen redox · Co-free cathode · Al/Na codoping · redox kinetics</description>
-<category>Li-rich cathode</category>
-<category>oxygen redox</category>
-<category>Co-free cathode</category>
-<category>Al/Na codoping</category>
-<category>redox kinetics</category>
-</item>
-<item>
-<title>Interfacial covalent anchoring of reduced graphene oxide on graphite felt for durable high-power vanadium redox flow batteries</title>
-<link>https://doi.org/10.1016/j.jmst.2026.11.014</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.11.014</guid>
-<pubDate>Fri, 13 Nov 2026 16:02:27 GMT</pubDate>
-<description>این کار با لنگراندازی کووالانسی گرافن اکسید احیا شده روی نمد گرافیتی، الکترود بادوامی برای باتری جریان ردوکس وانادیوم با توان بالا ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 vanadium redox flow battery · graphite felt · reduced graphene oxide · covalent anchoring · high-power durability</description>
-<category>vanadium redox flow battery</category>
-<category>graphite felt</category>
-<category>reduced graphene oxide</category>
-<category>covalent anchoring</category>
-<category>high-power durability</category>
-</item>
-<item>
-<title>Spin Exchange Enables Two-Electron TEMPO Catholytes for Aqueous Organic Flow Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c18715</link>
-<guid isPermaLink="false">10.1021/jacs.6c18715</guid>
-<pubDate>Fri, 13 Nov 2026 15:04:16 GMT</pubDate>
-<description>این مقاله با راهبرد تبادل اسپین القاشده توسط قفس هیدراتاسیون، کاتولیت دوالکترونی TEMPO را برای باتری جریان آبی آلی پایدار و پرظرفیت می‌کند.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a hydration-cage-induced spin-exchange strategy that stabilizes two-electron TEMPO catholytes by folding the diradical and enabling intramolecular spin exchange, suppressing proton-induced ring opening. Its significance: enabling the first two-electron/two-electron neutral all-organic flow battery, boosting energy density 1.4–1.7-fold and cutting electrolyte demand 26–42%, with &amp;gt;98% capacity retention over 1200 cycles.&lt;br&gt;🏷 organic flow battery · TEMPO catholyte · two-electron · spin exchange · aqueous electrolyte</description>
-<category>organic flow battery</category>
-<category>TEMPO catholyte</category>
-<category>two-electron</category>
-<category>spin exchange</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Sulfur Doping-Induced Surface Reconstruction of High-Entropy Composites Boosts Bifunctional Oxygen Electrocatalysis for Zinc-Air Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c18638</link>
-<guid isPermaLink="false">10.1021/acsnano.6c18638</guid>
-<pubDate>Fri, 13 Nov 2026 15:03:17 GMT</pubDate>
-<description>آلایش گوگرد در نانوذرات آلیاژ آنتروپی بالا FeCoNiMnMo@CNT بازسازی سطح را القا کرده و الکتروکاتالیز دوعملکردی ORR/OER و عملکرد باتری روی-هوا را بهبود می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 S-doping of high-entropy alloy nanoparticles on carbon nanotubes triggers surface reconstruction during OER while immobilizing single atoms for ORR, enabling superior bifunctional activity (247 mV overpotential, 0.746 V half-wave). This advances durable, high-performance zinc-air batteries (229.8 mW cm⁻², 800+ h cycling) and flexible devices.&lt;br&gt;🏷 zinc-air battery · high-entropy alloy · oxygen electrocatalysis · sulfur doping · surface reconstruction</description>
-<category>zinc-air battery</category>
-<category>high-entropy alloy</category>
-<category>oxygen electrocatalysis</category>
-<category>sulfur doping</category>
-<category>surface reconstruction</category>
 </item>
 </channel>
 </rss>
