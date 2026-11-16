@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 07:01:38 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 08:02:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermodynamically Controlled Multiphase Evolution in Single‐Crystal Cation‐Disordered Li‐Ion Cathode Materials</title>
+<link>https://doi.org/10.1002/adma.75720</link>
+<guid isPermaLink="false">10.1002/adma.75720</guid>
+<pubDate>Mon, 16 Nov 2026 08:01:50 GMT</pubDate>
+<description>با کنترل ترمودینامیکی تحول چندفازی در کاتدهای Mn-DRX تک‌بلور، نانوکامپوزیت‌های DRX-اسپینل-لایه‌ای با ظرفیت نزدیک 300 mAh g−1 و انرژی بالای 800 Wh kg−1 ساخته شد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Thermodynamic control of multiphase evolution in single-crystal Mn-DRX cathodes yields DRX–spinel–monoclinic nanocomposites via oxidative annealing, with composition governing phase selection. The monoclinic phase boosts first-charge Li extraction, enabling ~300 mAh g⁻¹ and &amp;gt;800 Wh kg⁻¹. This establishes thermodynamically guided multiphase engineering as a strategy overcoming transport and stability limits in disordered rock-salt cathodes.&lt;br&gt;🏷 Mn-DRX cathode · multiphase evolution · Li-ion battery · single crystal · nanocomposite</description>
+<category>Mn-DRX cathode</category>
+<category>multiphase evolution</category>
+<category>Li-ion battery</category>
+<category>single crystal</category>
+<category>nanocomposite</category>
+</item>
+<item>
+<title>Multiscale Characterizations Toward Energy Storage Carbon Materials From Precursors to Electrodes</title>
+<link>https://doi.org/10.1002/adma.75617</link>
+<guid isPermaLink="false">10.1002/adma.75617</guid>
+<pubDate>Mon, 16 Nov 2026 08:01:44 GMT</pubDate>
+<description>این مرور چارچوبی جامع برای مشخصه‌یابی چندمقیاسی مواد کربنی از پیش‌ماده تا الکترود ارائه می‌دهد تا درک ساختار و عملکرد آندهای باتری یون‌فلز قلیایی بهبود یابد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely builds a comprehensive multiscale characterization framework spanning carbon precursors, pyrolysis, particles, microcrystals, pores, and ion transport kinetics. Its decision-making framework helps researchers rapidly move from problem definition to characterization strategy, addressing structural complexity that limits deeper understanding and rational design of high-performance carbon anodes for alkali-metal-ion batteries.&lt;br&gt;🏷 carbon anodes · multiscale characterization · alkali-metal-ion batteries · pyrolysis behavior · ion transport</description>
+<category>carbon anodes</category>
+<category>multiscale characterization</category>
+<category>alkali-metal-ion batteries</category>
+<category>pyrolysis behavior</category>
+<category>ion transport</category>
+</item>
 <item>
 <title>Trigonal Prismatic Coordination Field‐Induced d‐Orbital Splitting Enables σ Electron Activation for Efficient Polysulfide Conversion in Li–S Batteries</title>
 <link>https://doi.org/10.1002/anie.5340472</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low
 <category>Zn reversibility</category>
 <category>large-scale storage</category>
 <category>design principles</category>
-</item>
-<item>
-<title>Experimental Insights into the Limiting Mechanism of Vacancy Transport in Sodium Metal Anodes for Solid State Batteries</title>
-<link>https://doi.org/10.1039/d6ta06991f</link>
-<guid isPermaLink="false">10.1039/d6ta06991f</guid>
-<pubDate>Thu, 12 Nov 2026 23:01:40 GMT</pubDate>
-<description>این پژوهش مکانیسم محدودکننده انتقال تهی‌جای فلز سدیم در آندهای فلزی سدیم برای باتری‌های حالت جامد سرامیکی را به‌صورت تجربی بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in experimentally identifying the limiting mechanism of vacancy transport in Na metal anodes, moving beyond theoretical predictions. This is significant because contact loss during stripping limits solid-state battery performance; clarifying vacancy transport provides mechanistic insight essential for designing stable Na-metal/ceramic interfaces and advancing safe, long-life solid-state batteries.&lt;br&gt;🏷 sodium metal anode · solid-state battery · vacancy transport · contact loss · ceramic electrolyte</description>
-<category>sodium metal anode</category>
-<category>solid-state battery</category>
-<category>vacancy transport</category>
-<category>contact loss</category>
-<category>ceramic electrolyte</category>
-</item>
-<item>
-<title>Biomass-derived hierarchical carbon hosting Ni,Mo-MOF Nanoflowers for synergistically enhanced Electron-ion transport in supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125646</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125646</guid>
-<pubDate>Thu, 12 Nov 2026 21:01:38 GMT</pubDate>
-<description>کربن سلسله‌مراتبی زیست‌توده میزبان نانوفلاورهای Ni,Mo-MOF برای بهبود هم‌افزای انتقال الکترون-یون در ابرخازن‌ها ساخته می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 biomass-derived carbon · Ni,Mo-MOF · supercapacitors · electron-ion transport · hierarchical carbon</description>
-<category>biomass-derived carbon</category>
-<category>Ni,Mo-MOF</category>
-<category>supercapacitors</category>
-<category>electron-ion transport</category>
-<category>hierarchical carbon</category>
 </item>
 </channel>
 </rss>
