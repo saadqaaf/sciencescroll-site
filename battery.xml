@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 14:03:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 15:02:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Governing Ionic Migration via Polaron-like Engineering in Copper Selenide</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03730</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03730</guid>
+<pubDate>Mon, 16 Nov 2026 15:01:57 GMT</pubDate>
+<description>ترکیب DFT و طیف‌سنجی همگام پرتوی درجا در Cu2Se نشان می‌دهد که حالت‌های شبه‌پلارونی جفت‌شده با شبکه، سد مهاجرت یون Cu+ را به‌صورت قابل تنظیم تغییر می‌دهند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in proposing a polaron-like coupled ion–lattice–electron picture, revealed via DFT and in situ synchrotron analysis, where migrating Cu+ ions form transient polaron-like states acting as tunable migration switches. Significance: bond contraction/expansion and polaron delocalization/localization tune Cu+ migration barriers, offering a unified strategy to govern ionic transport in superionic conductors for energy storage and conversion.&lt;br&gt;🏷 Cu2Se · ion migration · polaron-like states · XANES · superionic conductor</description>
+<category>Cu2Se</category>
+<category>ion migration</category>
+<category>polaron-like states</category>
+<category>XANES</category>
+<category>superionic conductor</category>
+</item>
 <item>
 <title>Multiscale modeling of oil-water two-phase flow in zinc-bromine flow batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125616</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>cathode materials</category>
 <category>Na+ storage</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Proton Competition Induced Stabilization in TEMPO‐Based Redox‐Targeting Flow Batteries</title>
-<link>https://doi.org/10.1002/aenm.71832</link>
-<guid isPermaLink="false">10.1002/aenm.71832</guid>
-<pubDate>Fri, 13 Nov 2026 22:02:00 GMT</pubDate>
-<description>باتری جریان redox-targeting مبتنی بر TEMPO با مکانیسم رقابت پروتون و بافرینگ PANI، ظرفیت 35.72 Ah/L و حفظ ظرفیت 99.94 درصد در هر چرخه را فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a proton-competition strategy using polyaniline as a solid redox-targeting material to stabilize TEMPO radicals without molecular engineering. This suppresses hydrogenation via PANI&amp;#x27;s reversible doping/de-doping, enabling 4.37-fold capacity enhancement, 99.99% coulombic efficiency, and 99.94% capacity retention per cycle over 500 cycles. It provides design principles for stable, long-duration aqueous organic redox flow batteries.&lt;br&gt;🏷 redox-targeting flow battery · TEMPO · polyaniline · proton competition · radical stabilization</description>
-<category>redox-targeting flow battery</category>
-<category>TEMPO</category>
-<category>polyaniline</category>
-<category>proton competition</category>
-<category>radical stabilization</category>
 </item>
 </channel>
 </rss>
