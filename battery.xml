@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 01:01:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 02:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Trigonal Prismatic Coordination Field‐Induced d‐Orbital Splitting Enables σ Electron Activation for Efficient Polysulfide Conversion in Li–S Batteries</title>
+<link>https://doi.org/10.1002/anie.5340472</link>
+<guid isPermaLink="false">10.1002/anie.5340472</guid>
+<pubDate>Mon, 16 Nov 2026 02:01:23 GMT</pubDate>
+<description>کاتالیزور NbSe2 با میدان هم‌آرایی منشوری سه‌گوش و شکافت اوربیتال d، انتقال الکترون σ را فعال کرده و تبدیل پلی‌سولفید و عملکرد باتری Li-S را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using trigonal prismatic NbSe₂ to modulate d-orbital splitting and identify σ*–σ and π*–σ electron-transfer channels at sublayer cation sites, showing σ*–σ enables efficient polysulfide conversion. Significance: links coordination-field geometry to catalytic activity, yielding 799 mAh g⁻¹ at 5 C and 95.85% retention under high sulfur loading, guiding catalyst design for Li–S batteries.&lt;br&gt;🏷 Li-S battery · NbSe2 catalyst · polysulfide conversion · coordination field · d-orbital splitting</description>
+<category>Li-S battery</category>
+<category>NbSe2 catalyst</category>
+<category>polysulfide conversion</category>
+<category>coordination field</category>
+<category>d-orbital splitting</category>
+</item>
 <item>
 <title>Thermal Runaway of Lithium‐Ion Batteries in Underground Mining Environments: Mechanism, Combustion Products Characterization, and Mine‐Specific Testing Frameworks</title>
 <link>https://doi.org/10.1002/bte2.70161</link>
@@ -1198,18 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low
 <category>supercapacitors</category>
 <category>electron-ion transport</category>
 <category>hierarchical carbon</category>
-</item>
-<item>
-<title>Multi-timescale electricity‑carbon trading optimization for wind-storage systems with a physics-informed safety-aware actor-critic algorithm</title>
-<link>https://doi.org/10.1016/j.est.2026.125423</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125423</guid>
-<pubDate>Thu, 12 Nov 2026 21:01:32 GMT</pubDate>
-<description>بهینه‌سازی چندمقیاسه تجارت برق-کربن برای سیستم‌های باد-ذخیره‌ساز با الگوریتم actor-critic آگاه از فیزیک و ایمنی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 wind-storage systems · electricity-carbon trading · actor-critic algorithm · multi-timescale optimization · physics-informed learning</description>
-<category>wind-storage systems</category>
-<category>electricity-carbon trading</category>
-<category>actor-critic algorithm</category>
-<category>multi-timescale optimization</category>
-<category>physics-informed learning</category>
 </item>
 </channel>
 </rss>
