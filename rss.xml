@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 23:01:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 00:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tetrahedral Ni-S4 Single Atoms Trigger Localized Polarization in CdMnS for Efficient H2 Evolution</title>
+<link>https://doi.org/10.1016/j.apcatb.2026.127804</link>
+<guid isPermaLink="false">10.1016/j.apcatb.2026.127804</guid>
+<pubDate>Mon, 16 Nov 2026 00:01:00 GMT</pubDate>
+<description>جایگزینی اتم‌های Ni با هندسه چهاروجهی Ni-S4 در CdMnS قطبش موضعی ایجاد کرده و بازده تولید هیدروژن نوری را به‌طور چشمگیری افزایش می‌دهد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 Ni-S4 single atoms · CdMnS · photocatalytic H2 evolution · localized polarization · single-atom catalyst</description>
+<category>Ni-S4 single atoms</category>
+<category>CdMnS</category>
+<category>photocatalytic H2 evolution</category>
+<category>localized polarization</category>
+<category>single-atom catalyst</category>
+</item>
 <item>
 <title>Innovative metallic and metal-composite materials for the first wall of thermonuclear reactors: perspectives and critical overview</title>
 <link>https://doi.org/10.1016/j.mattod.2026.103544</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>physical intelligence</category>
 <category>programmable magnetization</category>
 <category>shape morphing</category>
-</item>
-<item>
-<title>Dual‐Anion‐Regulated Localized Weakly Solvating Electrolyte Via Trace Additive for Wide‐Temperature 4.5 V Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79634</link>
-<guid isPermaLink="false">10.1002/adfm.79634</guid>
-<pubDate>Sat, 14 Nov 2026 19:01:15 GMT</pubDate>
-<description>الکترولیت کم‌حل‌کننده موضعی با آنیون دوگانه و افزودنی LiDFBOP، پایداری باتری لیتیوم-فلز ۴.۵ ولت را در دمای ۱۰− تا ۷۵ درجه سانتی‌گراد فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a trace LiDFBOP additive to suppress DFOB⁻-rich aggregates, creating a dual-anion CIP-dominated weakly solvating electrolyte. This molecular-level solvation regulation builds robust B/F/P-containing interphases on both electrodes, enabling 4.5 V lithium metal batteries from −10°C to 75°C. Significance: stable lean-electrolyte, lean-Li cycling in Li||LMFP, NCM811, LCO cells and Ah-level pouch cells, outperforming reported strategies.&lt;br&gt;🏷 lithium metal battery · weakly solvating electrolyte · dual-anion · wide temperature · interphase</description>
-<category>lithium metal battery</category>
-<category>weakly solvating electrolyte</category>
-<category>dual-anion</category>
-<category>wide temperature</category>
-<category>interphase</category>
 </item>
 </channel>
 </rss>
