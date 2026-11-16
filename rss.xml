@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 22:04:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 23:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Broadband Microwave Absorption Beyond Attenuation Maximization via Intermediate Multiphase-State Selection in LDH-Derived Carbon-Based Heterostructures</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122335</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122335</guid>
+<pubDate>Mon, 16 Nov 2026 23:01:22 GMT</pubDate>
+<description>انتخاب حالت چندفازی میانی در هتروساختارهای کربنی مشتق از LDH، جذب مایکروویو پهن‌باند را فراتر از بیشینه تضعیف ممکن می‌سازد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 microwave absorption · LDH-derived carbon · heterostructures · multiphase state · impedance matching</description>
+<category>microwave absorption</category>
+<category>LDH-derived carbon</category>
+<category>heterostructures</category>
+<category>multiphase state</category>
+<category>impedance matching</category>
+</item>
+<item>
+<title>MatSKRAFT: A framework for large-scale materials knowledge extraction from scientific tables</title>
+<link>https://doi.org/10.1038/s41524-026-02359-5</link>
+<guid isPermaLink="false">10.1038/s41524-026-02359-5</guid>
+<pubDate>Mon, 16 Nov 2026 23:01:19 GMT</pubDate>
+<description>MatSKRAFT چارچوبی برای استخراج دانش مواد در مقیاس بزرگ از جداول علمی ارائه می‌کند و امکان بازیابی ساختاریافته داده‌های مواد را فراهم می‌سازد.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 knowledge extraction · scientific tables · materials science · large language models · dataset</description>
+<category>knowledge extraction</category>
+<category>scientific tables</category>
+<category>materials science</category>
+<category>large language models</category>
+<category>dataset</category>
+</item>
+<item>
+<title>Multimodal Nanohybrid Artificial Antibodies as PD‐L1 Immune Checkpoint Antagonists for Potentiated Combination Cancer Immunotherapy</title>
+<link>https://doi.org/10.1002/smll.76751</link>
+<guid isPermaLink="false">10.1002/smll.76751</guid>
+<pubDate>Mon, 16 Nov 2026 23:01:15 GMT</pubDate>
+<description>نانوآنتی‌بادی‌های مصنوعی مبتنی بر MoSe2-FNP با اتصال قوی به PD-L1 و اثر فوتوترمال، ایمنی‌درمانی ترکیبی سرطان را نسبت به آنتی‌بادی مونوکلونال تقویت می‌کنند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 PD-L1 blockade · artificial antibodies · photothermal therapy · cancer immunotherapy · MoSe2 nanosheets</description>
+<category>PD-L1 blockade</category>
+<category>artificial antibodies</category>
+<category>photothermal therapy</category>
+<category>cancer immunotherapy</category>
+<category>MoSe2 nanosheets</category>
+</item>
+<item>
+<title>Ultrafine Ru Nanocluster Reservoirs Enable Dynamic Access to Mn‐Related Sites for Stabilizing Lattice Oxygen in Li‐Rich Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/smll.76707</link>
+<guid isPermaLink="false">10.1002/smll.76707</guid>
+<pubDate>Mon, 16 Nov 2026 23:01:12 GMT</pubDate>
+<description>رسوب نانوخوشه‌های فوق‌ریز RuOx بر کاتد Li1.2Mn0.54Co0.13Ni0.13O2 با افزایش انرژی تشکیل اکسیژن-خالی، اکسیژن شبکه را پایدار کرده و واپاشی ولتاژ را کاهش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Ultralow-loading (0.165 wt.%) ultrafine RuOx nanoclusters on Li-rich layered oxide act as defect-responsive reservoirs that redistribute into Mn-related octahedral sites during cycling, raising oxygen-vacancy formation energy (1.11→1.36 eV). This suppresses oxygen release and voltage decay (2.6 mV/cycle), yielding 79.38% retention after 350 cycles—demonstrating an atom-efficient spatial-electronic strategy for stabilizing oxygen-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · Ru nanoclusters · lattice oxygen · cathode · oxygen vacancies</description>
+<category>Li-rich layered oxide</category>
+<category>Ru nanoclusters</category>
+<category>lattice oxygen</category>
+<category>cathode</category>
+<category>oxygen vacancies</category>
+</item>
 <item>
 <title>Regio- and Diastereoselective Thiol-ene Click Reaction and Application for the Synthesis of Semicrystalline Polythioethers</title>
 <link>https://doi.org/10.1021/jacs.6c15220</link>
@@ -1173,54 +1221,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cage catalys
 <category>absorption-dominant</category>
 <category>thermal management</category>
 <category>double gradient</category>
-</item>
-<item>
-<title>Dual-function interfacial molecular engineering enabling simultaneous fire retardancy and mechanical reinforcement in carbon fiber-reinforced composites</title>
-<link>https://doi.org/10.1039/d6ta07611d</link>
-<guid isPermaLink="false">10.1039/d6ta07611d</guid>
-<pubDate>Mon, 16 Nov 2026 16:01:40 GMT</pubDate>
-<description>مهندسی مولکولی در فصل مشترک، هم‌زمان مقاومت آتش و استحکام مکانیکی کامپوزیت‌های اپوکسی/الیاف کربن را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 carbon fiber composite · epoxy composite · flame retardancy · interfacial engineering · mechanical reinforcement</description>
-<category>carbon fiber composite</category>
-<category>epoxy composite</category>
-<category>flame retardancy</category>
-<category>interfacial engineering</category>
-<category>mechanical reinforcement</category>
-</item>
-<item>
-<title>Domino effect of synergistic adsorption–catalysis of CoS/CoNi 2 S 4 anchored carbon tubes in modified separators toward superior redox reaction kinetics of lithium–sulfur batteries</title>
-<link>https://doi.org/10.1039/d6ta07090f</link>
-<guid isPermaLink="false">10.1039/d6ta07090f</guid>
-<pubDate>Mon, 16 Nov 2026 16:01:36 GMT</pubDate>
-<description>کاتالیزور CoS/CoNi2S4 روی نانولوله‌های کربنی در جداکننده اصلاح‌شده، با جذب و کاتالیز هم‌افزا، سینتیک واکنش‌های ردوکس و عملکرد Li-S را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in CoS/CoNi₂S₄ heterostructures anchored on carbon tubes, creating a synergistic adsorption–catalysis &amp;quot;domino effect&amp;quot; that accelerates multi-step polysulfide conversion. Integrated into modified separators, this design simultaneously suppresses shuttle effects and boosts redox kinetics, offering a significant, scalable strategy to enhance Li–S battery electrochemical performance.&lt;br&gt;🏷 lithium-sulfur battery · CoS/CoNi2S4 · modified separator · polysulfide catalysis · redox kinetics</description>
-<category>lithium-sulfur battery</category>
-<category>CoS/CoNi2S4</category>
-<category>modified separator</category>
-<category>polysulfide catalysis</category>
-<category>redox kinetics</category>
-</item>
-<item>
-<title>Chaotropic Solvation Activates a Mobile PVA Interfacial Phase for Adhesive and Low-Impedance Hydrogels</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03658</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03658</guid>
-<pubDate>Mon, 16 Nov 2026 15:02:01 GMT</pubDate>
-<description>حل‌پذیری کائوتروپیک با آنیون SCN– فاز PVA را در هیدروژل PAM فعال می‌کند و چسبندگی حدود ۷۵ نیوتن بر متر با امپدانس فوق‌پایین ۱۸ اهم ایجاد می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 chaotropic solvation · PVA hydrogel · interfacial adhesion · low impedance · biointerface</description>
-<category>chaotropic solvation</category>
-<category>PVA hydrogel</category>
-<category>interfacial adhesion</category>
-<category>low impedance</category>
-<category>biointerface</category>
-</item>
-<item>
-<title>Governing Ionic Migration via Polaron-like Engineering in Copper Selenide</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03730</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03730</guid>
-<pubDate>Mon, 16 Nov 2026 15:01:57 GMT</pubDate>
-<description>ترکیب DFT و طیف‌سنجی همگام پرتوی درجا در Cu2Se نشان می‌دهد که حالت‌های شبه‌پلارونی جفت‌شده با شبکه، سد مهاجرت یون Cu+ را به‌صورت قابل تنظیم تغییر می‌دهند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in proposing a polaron-like coupled ion–lattice–electron picture, revealed via DFT and in situ synchrotron analysis, where migrating Cu+ ions form transient polaron-like states acting as tunable migration switches. Significance: bond contraction/expansion and polaron delocalization/localization tune Cu+ migration barriers, offering a unified strategy to govern ionic transport in superionic conductors for energy storage and conversion.&lt;br&gt;🏷 Cu2Se · ion migration · polaron-like states · XANES · superionic conductor</description>
-<category>Cu2Se</category>
-<category>ion migration</category>
-<category>polaron-like states</category>
-<category>XANES</category>
-<category>superionic conductor</category>
 </item>
 </channel>
 </rss>

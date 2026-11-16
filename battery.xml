@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 22:04:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 23:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ultrafine Ru Nanocluster Reservoirs Enable Dynamic Access to Mn‐Related Sites for Stabilizing Lattice Oxygen in Li‐Rich Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/smll.76707</link>
+<guid isPermaLink="false">10.1002/smll.76707</guid>
+<pubDate>Mon, 16 Nov 2026 23:01:12 GMT</pubDate>
+<description>رسوب نانوخوشه‌های فوق‌ریز RuOx بر کاتد Li1.2Mn0.54Co0.13Ni0.13O2 با افزایش انرژی تشکیل اکسیژن-خالی، اکسیژن شبکه را پایدار کرده و واپاشی ولتاژ را کاهش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Ultralow-loading (0.165 wt.%) ultrafine RuOx nanoclusters on Li-rich layered oxide act as defect-responsive reservoirs that redistribute into Mn-related octahedral sites during cycling, raising oxygen-vacancy formation energy (1.11→1.36 eV). This suppresses oxygen release and voltage decay (2.6 mV/cycle), yielding 79.38% retention after 350 cycles—demonstrating an atom-efficient spatial-electronic strategy for stabilizing oxygen-redox cathodes.&lt;br&gt;🏷 Li-rich layered oxide · Ru nanoclusters · lattice oxygen · cathode · oxygen vacancies</description>
+<category>Li-rich layered oxide</category>
+<category>Ru nanoclusters</category>
+<category>lattice oxygen</category>
+<category>cathode</category>
+<category>oxygen vacancies</category>
+</item>
 <item>
 <title>Proton-Coupled Electrostatic Regulation of Anion Electrosorption in Electric Double Layers</title>
 <link>https://doi.org/10.1021/jacs.6c19805</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>interfacial engineering</category>
 <category>Ni-rich cathode</category>
 <category>Li2.4Yb0.4Zr0.6Cl6</category>
-</item>
-<item>
-<title>Unveiling the Intrinsic Disparity of Ethylene Carbonate and Fluoroethylene Carbonate in Lithium Metal Battery Exceeding 600 Wh kg −1</title>
-<link>https://doi.org/10.1002/anie.6121408</link>
-<guid isPermaLink="false">10.1002/anie.6121408</guid>
-<pubDate>Sat, 14 Nov 2026 10:03:31 GMT</pubDate>
-<description>جایگزینی EC با FEC در الکترولیت LiPF6 باعث تشکیل SEI غنی از LiF و پلیمرهای پایدار شده و پایداری چرخه و چگالی انرژی بالای 600 Wh kg−1 را در باتری لیتیوم-فلزی فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing why FEC outperforms EC: FEC forms a LiF-rich SEI with high-molecular-weight lithiated polymers resistant to dissolution, while EC generates soluble low-molecular-weight carbonates. This mechanistic insight inspired artificial SEI layers combining rubber polymers with LiF, enabling a 601.2 Wh kg⁻¹ pouch cell stable over 100 cycles, advancing high-energy-density lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · fluoroethylene carbonate · solid electrolyte interphase · solvent engineering · high energy density</description>
-<category>lithium metal battery</category>
-<category>fluoroethylene carbonate</category>
-<category>solid electrolyte interphase</category>
-<category>solvent engineering</category>
-<category>high energy density</category>
 </item>
 </channel>
 </rss>
