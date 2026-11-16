@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 02:01:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 03:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Colorimetric/Fluorometric Sequential-Detection of Cu2+ and Histidine based on N, S Co-Doped Carbon Dots Test Strips and Membranes</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122334</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122334</guid>
+<pubDate>Mon, 16 Nov 2026 03:01:19 GMT</pubDate>
+<description>نانوذرات کربنی دوپ‌شده با N و S به‌صورت نوار تست و غشا برای تشخیص رنگ‌سنجی/فلورسانسی متوالی Cu2+ و هیستیدین ساخته و ارزیابی شدند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 carbon dots · Cu2+ detection · histidine sensing · test strips · fluorescence</description>
+<category>carbon dots</category>
+<category>Cu2+ detection</category>
+<category>histidine sensing</category>
+<category>test strips</category>
+<category>fluorescence</category>
+</item>
 <item>
 <title>Colloidally Prepared Homogeneous Wide-Bandgap Perovskites for Efficient Tandem Solar Cells with Industrial Silicon</title>
 <link>https://doi.org/10.1021/jacs.6c10873</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nitrate reduction · ammo
 <category>wireless communication</category>
 <category>convolutional neural network</category>
 <category>beam control</category>
-</item>
-<item>
-<title>Spiro-OMeTAD-Inspired Molecular Design: Electron Tunneling Meets Halogen Bonding for Robust Buried Interfaces</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02986</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02986</guid>
-<pubDate>Sat, 14 Nov 2026 19:01:33 GMT</pubDate>
-<description>مولکول الهام‌گرفته از spiro-OMeTAD به‌صورت SAM روی NiOx، با پیوند هالوژنی و تونل‌زنی الکترون، فصل مشترک مدفون و پایداری سلول‌های پروسکایتی قلعی را بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 tin perovskite solar cells · self-assembled monolayer · halogen bonding · buried interface · hole transport</description>
-<category>tin perovskite solar cells</category>
-<category>self-assembled monolayer</category>
-<category>halogen bonding</category>
-<category>buried interface</category>
-<category>hole transport</category>
 </item>
 </channel>
 </rss>
