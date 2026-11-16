@@ -5,8 +5,94 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 21:01:51 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 22:04:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Proton-Coupled Electrostatic Regulation of Anion Electrosorption in Electric Double Layers</title>
+<link>https://doi.org/10.1021/jacs.6c19805</link>
+<guid isPermaLink="false">10.1021/jacs.6c19805</guid>
+<pubDate>Mon, 16 Nov 2026 22:04:01 GMT</pubDate>
+<description>با بازسازی TiO2-x به ساختار عمق‌درجه‌بندی‌شده، میدان الکتریکی داخلی و تجمع پروتون زیرسطحی برای تنظیم جذب آنیون در لایه دوگانه الکتریکی ایجاد شد و ابرخازن آبی تا 3.0 ولت پایدار ماند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using anodic polarization to create a depth-graded TiO2–x architecture whose internal electric field drives subsurface proton accumulation, electrostatically regulating anion electrosorption and lateral anion interactions. A thin crystalline anatase surface extends the anodic operating range. This enables 3.0 V aqueous supercapacitors in Na2SO4 over 45,000 cycles and 2.7 V in seawater, establishing subsurface ionic chemistry as a design variable.&lt;br&gt;🏷 aqueous supercapacitor · electric double layer · anion electrosorption · TiO2-x · proton accumulation</description>
+<category>aqueous supercapacitor</category>
+<category>electric double layer</category>
+<category>anion electrosorption</category>
+<category>TiO2-x</category>
+<category>proton accumulation</category>
+</item>
+<item>
+<title>Regulating Functionalized MXene Crystal-Field Splitting toward Efficient Bifunctional Oxygen Electrocatalysis of Lithium–Oxygen Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c18918</link>
+<guid isPermaLink="false">10.1021/jacs.6c18918</guid>
+<pubDate>Mon, 16 Nov 2026 22:03:51 GMT</pubDate>
+<description>مهندسی شکافت میدان بلوری در Ti3C2-MXene با اصلاح آنیونی و کاتیونی، الکتروکاتالیز دوفعالیتی اکسیژن و عملکرد باتری لیتیوم-اکسیژن را بهبود می‌دهد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers crystal-field splitting engineering at Ti sites in MXenes as a predictive electronic descriptor for bifunctional oxygen electrocatalysis. By weakening Ti ligand fields through anionic/cationic modification, it enhances electron delocalization, enabling asymmetric Li₂O₂ adsorption and lower ORR/OER barriers. Cu–Ti₃C₂Br₂ achieves 11,662 mAh g⁻¹ capacity and 50% reduced overpotential, establishing a rational design strategy for lithium–oxygen battery catalysts.&lt;br&gt;🏷 lithium-oxygen battery · MXene · crystal-field splitting · oxygen electrocatalysis · Ti3C2</description>
+<category>lithium-oxygen battery</category>
+<category>MXene</category>
+<category>crystal-field splitting</category>
+<category>oxygen electrocatalysis</category>
+<category>Ti3C2</category>
+</item>
+<item>
+<title>Highly conductive halide Na-ion conductor enabled by cost-effective aliovalent carbonate polyanion substitution for all-solid-state sodium batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79386-9</link>
+<guid isPermaLink="false">10.1038/s41467-026-79386-9</guid>
+<pubDate>Mon, 16 Nov 2026 22:03:36 GMT</pubDate>
+<description>مقاله با جایگزینی آنیونی کربنات آلواالنتی، رسانای یونی Na هالیدی بسیار رسانا برای باتری‌های تمام‌جامد سدیم ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using cost-effective soda ash (Na2CO3) to introduce aliovalent carbonate polyanions into Zr-based halide solid electrolytes, inducing structural disorder and amorphization that enhance Na+ transport. This yields 1.02 mS cm−1 ionic conductivity at 25 °C and stable all-solid-state battery cycling for 850 cycles, offering a practical, low-cost route to high-performance sodium batteries.&lt;br&gt;🏷 solid electrolyte · sodium-ion conductor · halide · all-solid-state battery · aliovalent substitution</description>
+<category>solid electrolyte</category>
+<category>sodium-ion conductor</category>
+<category>halide</category>
+<category>all-solid-state battery</category>
+<category>aliovalent substitution</category>
+</item>
+<item>
+<title>Leveraging Parameter Coupling for Signal Enhancement and Early Detection of Battery Thermal Runaway</title>
+<link>https://doi.org/10.1021/acsnano.6c11980</link>
+<guid isPermaLink="false">10.1021/acsnano.6c11980</guid>
+<pubDate>Mon, 16 Nov 2026 22:02:55 GMT</pubDate>
+<description>یک حسگر با کوپلینگ دوگانه دما-فشار، پیش‌نشانه‌های فرار حرارتی باتری لیتیوم-یون را حدود ۴۰ دقیقه پیش از وقوع تشخیص داده و در سلول‌های تجاری ۳۱۴ آمپرساعت اعتبارسنجی می‌شود.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a temperature–pressure dual-signal coupling sensor that detects coupled precursors within battery packs, flagging abnormalities ~40 min before thermal runaway. Its significance is validation in commercial 314 Ah cells and a 12-month real-world energy storage deployment, offering a practical early-warning approach for commercial systems.&lt;br&gt;🏷 thermal runaway · early warning sensor · temperature-pressure coupling · lithium-ion battery · energy storage safety</description>
+<category>thermal runaway</category>
+<category>early warning sensor</category>
+<category>temperature-pressure coupling</category>
+<category>lithium-ion battery</category>
+<category>energy storage safety</category>
+</item>
+<item>
+<title>Engineering Amino‐Induced p‐π Conjugation for Electronic Regulation of Li + Transport in PVDF‐Based Solid‐State Electrolytes</title>
+<link>https://doi.org/10.1002/anie.5164505</link>
+<guid isPermaLink="false">10.1002/anie.5164505</guid>
+<pubDate>Mon, 16 Nov 2026 22:02:50 GMT</pubDate>
+<description>افزودن UiO66-NH2 به الکترولیت PVDF/LiFSI با ایجاد کونژوگاسیون p-π و تقویت LMCT، انتقال Li+ را بهبود بخشیده و رسانایی یونی و پایداری اکسایشی را افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Amino-functionalized UiO66-NH₂ in PVDF/LiFSI induces p-π conjugation and enhanced ligand-to-metal charge transfer, reshaping the electrostatic landscape to weaken Li⁺-FSI⁻ pairing. This yields high ionic conductivity (2.41×10⁻³ S cm⁻¹), Li⁺ transference number 0.56, and stable high-loading NCM811 cycling, establishing electronic-structure engineering of MOF fillers as a novel route to high-performance solid-state electrolytes.&lt;br&gt;🏷 PVDF electrolyte · UiO66-NH2 · p-π conjugation · Li+ transport · solid-state battery</description>
+<category>PVDF electrolyte</category>
+<category>UiO66-NH2</category>
+<category>p-π conjugation</category>
+<category>Li+ transport</category>
+<category>solid-state battery</category>
+</item>
+<item>
+<title>Reconfiguring Interfacial Electrochemical Potential for Boosting Sodium‐Ion Transport in Composite Solid Electrolytes</title>
+<link>https://doi.org/10.1002/anie.8057428</link>
+<guid isPermaLink="false">10.1002/anie.8057428</guid>
+<pubDate>Mon, 16 Nov 2026 22:02:43 GMT</pubDate>
+<description>مهندسی ساختار الکترونی با پیوند سیلان در فصل مشترک Na3Zr2Si2PO12-PEO، اختلاف پتانسیل را کاهش داده و رسانایی یونی الکترولیت جامد کامپوزیتی سدیمی را دو مرتبه بزرگی افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in molecular design-enabled electronic structure engineering to reconfigure the interfacial electrochemical environment, using dual-axis screening of electron-donating capability and molecular asymmetry. Significance: grafting phenyltrimethoxysilane reduces potential mismatch by 87%, boosting Na-ion conductivity two orders of magnitude and enabling high-performance all-solid-state sodium batteries, establishing a screening framework to overcome ceramic–polymer interfacial ion-transport bottlenecks.&lt;br&gt;🏷 composite solid electrolyte · sodium-ion transport · interfacial potential · NASICON · solid-state battery</description>
+<category>composite solid electrolyte</category>
+<category>sodium-ion transport</category>
+<category>interfacial potential</category>
+<category>NASICON</category>
+<category>solid-state battery</category>
+</item>
+<item>
+<title>A Scalable Presodiation Strategy Enabling Dry‐Air‐Processable Hard Carbon Anodes for High Energy Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.5975631</link>
+<guid isPermaLink="false">10.1002/anie.5975631</guid>
+<pubDate>Mon, 16 Nov 2026 22:02:32 GMT</pubDate>
+<description>پیش‌سدیم‌دار کردن با کمک امواج فراصوت و مهندسی میان‌سطح، آند کربن سخت سازگار با هوای خشک با بازده کولمبی اولیه نزدیک ۱۰۰٪ برای باتری‌های سدیم‌یون ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in synchronizing ultrasound-enhanced mass transport with in situ interfacial engineering to achieve ~100% ICE in one minute and dry-air processability via a B/F-rich interphase. This resolves kinetic and stability bottlenecks, enabling scalable presodiation for high-loading hard carbon anodes, with pouch cells showing 76% retention over 700 cycles and wide-temperature operation.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · presodiation · solid electrolyte interphase · dry-air processing</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>presodiation</category>
+<category>solid electrolyte interphase</category>
+<category>dry-air processing</category>
+</item>
 <item>
 <title>Tailored Functional Group Design in In‐Situ Polymerized Gel Electrolytes for High‐Voltage, Wide‐Temperature, and Safe Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/adfm.79589</link>
@@ -1125,90 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>solid electrolyte interphase</category>
 <category>solvent engineering</category>
 <category>high energy density</category>
-</item>
-<item>
-<title>Beyond Lithiophilicity: Multistage Rate Matching in Lithium‐Metal Electrodeposition</title>
-<link>https://doi.org/10.1002/anie.4815215</link>
-<guid isPermaLink="false">10.1002/anie.4815215</guid>
-<pubDate>Sat, 14 Nov 2026 10:02:57 GMT</pubDate>
-<description>این مقاله دیدگاه جدیدی از رسوب‌دهی لیتیوم فلزی به‌صورت زنجیره‌ای از مراحل جنبشی دینامیکی ارائه می‌دهد و بر تطابق نرخ چندمرحله‌ای به‌جای بهینه‌سازی ویژگی‌های منفرد تأکید می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 💭 Perspective&lt;br&gt;💡 The novelty lies in reframing Li-metal deposition as a dynamically coupled multistage process—transport, interfacial entry, charge transfer, surface redistribution, nucleation, growth—rather than static descriptors like lithiophilicity. Its significance is shifting design strategy from maximizing isolated properties toward engineering multistage kinetic compatibility and a self-leveling deposition field, unifying solvent, additive, polymer, and solid-electrolyte effects as upstream regulators of the coupled rate chain.&lt;br&gt;🏷 lithium metal anode · electrodeposition · rate matching · surface diffusion · solid electrolyte interphase</description>
-<category>lithium metal anode</category>
-<category>electrodeposition</category>
-<category>rate matching</category>
-<category>surface diffusion</category>
-<category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Anion‐Specific Concentration Effects Governing Ionic Additive Failure in Aqueous Zinc Batteries</title>
-<link>https://doi.org/10.1002/anie.2759716</link>
-<guid isPermaLink="false">10.1002/anie.2759716</guid>
-<pubDate>Sat, 14 Nov 2026 10:02:48 GMT</pubDate>
-<description>مقایسه KNO3 و KCl نشان می‌دهد شکست افزودنی‌های یونی در باتری روی-آبی به غلظت و آنیون وابسته است و KCl تعادل بهتری حفظ می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in shifting focus from why additives work to why they fail, revealing anion-specific concentration-dependent failure modes (NO₃⁻ reactive passivation vs. Cl⁻ coordination-corrosion competition). Significance: establishes a failure-oriented electrolyte design framework showing ionic additives must be screened by interfacial chemistry and degradation pathways, not just solvation effects, guiding more stable aqueous zinc battery electrolytes.&lt;br&gt;🏷 aqueous zinc battery · electrolyte additives · anion effects · zinc dendrites · solvation regulation</description>
-<category>aqueous zinc battery</category>
-<category>electrolyte additives</category>
-<category>anion effects</category>
-<category>zinc dendrites</category>
-<category>solvation regulation</category>
-</item>
-<item>
-<title>Synergistic Electronic Push–Pull Modulation Enables Reversible Mn/O Redox in P2-Type Cathodes</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112620</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112620</guid>
-<pubDate>Sat, 14 Nov 2026 10:02:24 GMT</pubDate>
-<description>مدولاسیون الکترونی کششی-فشاری هم‌افزا، برگشت‌پذیری ردوکس Mn/O را در کاتدهای P2-type باتری سدیم-یون فعال می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 P2-type cathode · Mn/O redox · sodium-ion battery · push-pull modulation · anionic redox</description>
-<category>P2-type cathode</category>
-<category>Mn/O redox</category>
-<category>sodium-ion battery</category>
-<category>push-pull modulation</category>
-<category>anionic redox</category>
-</item>
-<item>
-<title>Electrostatically Engineered Soft Interphases Enable Fast Ion Transport in High‐Loading Solid‐State Cathodes</title>
-<link>https://doi.org/10.1002/adfm.79619</link>
-<guid isPermaLink="false">10.1002/adfm.79619</guid>
-<pubDate>Sat, 14 Nov 2026 09:01:54 GMT</pubDate>
-<description>لایه بینفازی نرم خودآرای کربوکسیمتیل کیتوسان روی LLTO، انتقال یون را در کاتدهای کامپوزیت پرچگالی NCM تقویت کرده و ظرفیت سطحی ۲.۲ میلیآمپرساعت بر سانتیمتر مربع را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using electrostatic self-assembly of carboxymethyl chitosan onto Li0.33La0.56TiO3 nanoparticles to create a soft, compliant ion-conducting interphase that strengthens interparticle contact and builds continuous ion pathways. This overcomes ionic bottlenecks in high-loading solid-state cathodes, enabling 2.2 mAh cm−2 at 2 C in 20 mg cm−2 NCM622 cathodes and extension to lean-lithium and anode-free cells.&lt;br&gt;🏷 solid-state battery · composite cathode · ion transport · soft interphase · LLTO</description>
-<category>solid-state battery</category>
-<category>composite cathode</category>
-<category>ion transport</category>
-<category>soft interphase</category>
-<category>LLTO</category>
-</item>
-<item>
-<title>Local Symmetry Engineering Unlocks Stable Multi‐Electron Chemistry in NASICON Cathodes for High‐Energy‐Density Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79462</link>
-<guid isPermaLink="false">10.1002/adfm.79462</guid>
-<pubDate>Sat, 14 Nov 2026 09:01:40 GMT</pubDate>
-<description>مهندسی کاهش تقارن موضعی اکتاهدرای [VO6] در کاتد NASICON با جانشینی Fe و Al، انتقال ۲.۶ الکترونی و پایداری چرخهای عالی در باتری یون سدیم را ممکن میسازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in local symmetry engineering of [VO6] octahedra via Fe2+/Al3+ co-substitution, tuning V 3d orbital configuration and electron delocalization to stabilize the V4+/V5+ multi-electron redox. This yields Na3.6V1.2Fe0.6Al0.2(PO4)3 with 151.4 mAh g−1 (2.6-electron transfer) and 84.6% retention after 10,000 cycles, establishing octahedral symmetry control as a design principle for stable polyanionic cathodes.&lt;br&gt;🏷 sodium-ion battery · NASICON cathode · symmetry engineering · multi-electron redox · cycling stability</description>
-<category>sodium-ion battery</category>
-<category>NASICON cathode</category>
-<category>symmetry engineering</category>
-<category>multi-electron redox</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Nanoscale Confinement of Cu x S Conversion Products in Na 2 Ti 3 O 7 ‐Derived TiO 2 Matrix for Durable Sodium‐Ion Storage</title>
-<link>https://doi.org/10.1002/adfm.79515</link>
-<guid isPermaLink="false">10.1002/adfm.79515</guid>
-<pubDate>Sat, 14 Nov 2026 00:04:44 GMT</pubDate>
-<description>نانوهیبرید CuxS-TiO2 از بازسازی Na2Ti3O7 ساخته شد که با محدودسازی نانومقیاس محصولات تبدیلی، ذخیره پایدار سدیم و مسیر واکنش Cu(I)/Cu را نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in precursor-directed reconstruction of Na2Ti3O7 into a Cu x S–TiO2(B)/(A) nanohybrid with defect-rich heterointerfaces, combining Cu sulfide conversion chemistry with robust Ti-based buffering. Its significance is mechanistic: voltage-resolved XANES/EXAFS, XPS, and TEM reveal the sodiation/desodiation pathway, enabling 364.6 mAh g−1 and 88.2% retention over 1500 cycles—advancing durable, high-rate sodium storage.&lt;br&gt;🏷 sodium-ion battery · CuxS anode · TiO2 matrix · conversion reaction · heterointerface</description>
-<category>sodium-ion battery</category>
-<category>CuxS anode</category>
-<category>TiO2 matrix</category>
-<category>conversion reaction</category>
-<category>heterointerface</category>
-</item>
-<item>
-<title>A Photo‐Assisted Calcium−Oxygen Battery Based on Dipole Heterogeneity Regulation</title>
-<link>https://doi.org/10.1002/adfm.79648</link>
-<guid isPermaLink="false">10.1002/adfm.79648</guid>
-<pubDate>Sat, 14 Nov 2026 00:04:38 GMT</pubDate>
-<description>باتری Ca-O2 با راهبرد نورکمکی و تنظیم ناهمگنی دوقطبی، اضافه‌ولتاژ بسیار پایین ۱.۱۱ ولت و بازده رفت‌وبرگشت ۶۶.۱۲ درصد تحت روشنایی به دست آورد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a photo-assisted Ca–O₂ battery using dipole heterogeneity regulation to establish oxygen diffusion pathways and lower the CaO₂ decomposition barrier. Significance: it achieves an ultralow overpotential of 1.11 V and 66.12% round-trip efficiency under illumination, overcoming inherent kinetic limitations and offering insights for new photo-assisted energy storage systems.&lt;br&gt;🏷 calcium-oxygen battery · photo-assisted · dipole heterogeneity · overpotential · CaO2 chemistry</description>
-<category>calcium-oxygen battery</category>
-<category>photo-assisted</category>
-<category>dipole heterogeneity</category>
-<category>overpotential</category>
-<category>CaO2 chemistry</category>
 </item>
 </channel>
 </rss>
