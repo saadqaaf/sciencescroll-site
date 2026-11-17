@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 05:01:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 06:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Calendering simulation and structural property analysis of dry coated sulfide solid-state battery cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105661</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105661</guid>
+<pubDate>Tue, 17 Nov 2026 06:01:35 GMT</pubDate>
+<description>این مقاله شبیه‌سازی کالندری‌کردن و تحلیل خواص ساختاری کاتدهای خشک‌پوشش‌داده‌شده باتری حالت جامد سولفیدی را ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 sulfide solid electrolyte · dry coating · calendering simulation · solid-state battery cathode · structural property</description>
+<category>sulfide solid electrolyte</category>
+<category>dry coating</category>
+<category>calendering simulation</category>
+<category>solid-state battery cathode</category>
+<category>structural property</category>
+</item>
 <item>
 <title>Protocol for the probabilistic analysis of electrochemical impedance spectroscopy data using the distribution of relaxation times</title>
 <link>https://doi.org/10.1002/inf2.70184</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>sulfur redox</category>
 <category>lean electrolyte</category>
 <category>pouch cell</category>
-</item>
-<item>
-<title>A Scalable Protrusion‐Targeted Electrolyte Enables 500 Wh Kg −1 Lithium Metal Batteries With 500‐Cycle Stability</title>
-<link>https://doi.org/10.1002/adma.75687</link>
-<guid isPermaLink="false">10.1002/adma.75687</guid>
-<pubDate>Sat, 14 Nov 2026 16:02:40 GMT</pubDate>
-<description>الکترولیت مقیاس‌پذیر با مولکول‌های جذب‌شونده روی برجستگی‌ها از جوانه‌زنی دندریت لیتیوم جلوگیری کرده و پاکت‌سل 8 Ah با 500 Wh/kg و حفظ ۸۰٪ ظرفیت پس از ۵۲۵ چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable, protrusion-targeted electrolyte using site-selective-blocking molecules that adsorb onto lithium protrusions to suppress dendrite initiation, while polar groups enrich anions for interfacial repair. This synergy enables an 8 Ah pouch cell with 500 Wh kg⁻¹ retaining over 80% capacity after 525 cycles, demonstrating industry-compatible, long-life lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · dendrite suppression · electrolyte additive · pouch cell · protrusion-targeted adsorption</description>
-<category>lithium metal battery</category>
-<category>dendrite suppression</category>
-<category>electrolyte additive</category>
-<category>pouch cell</category>
-<category>protrusion-targeted adsorption</category>
 </item>
 </channel>
 </rss>
