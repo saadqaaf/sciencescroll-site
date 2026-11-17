@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 01:01:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 02:02:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>An Operando XPS Methodology for investigating All-Solid-State Batteries under Controlled Pressure and Temperature</title>
+<link>https://doi.org/10.1039/d6ta06347k</link>
+<guid isPermaLink="false">10.1039/d6ta06347k</guid>
+<pubDate>Tue, 17 Nov 2026 02:01:42 GMT</pubDate>
+<description>یک روش operando XPS برای بررسی باتری‌های تمام‌جامد تحت فشار و دمای کنترل‌شده ارائه شده تا تحولات فصل مشترک جامد-جامد روشن شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an operando XPS methodology enabling real-time study of solid–solid interfaces in all-solid-state batteries under controlled pressure and temperature—conditions mimicking realistic operation. Its significance is providing unique insight into dynamic interfacial evolution, which is critical for designing durable, high-energy-density SSBs and overcoming a key characterization gap.&lt;br&gt;🏷 all-solid-state batteries · operando XPS · solid-solid interfaces · controlled pressure · temperature</description>
+<category>all-solid-state batteries</category>
+<category>operando XPS</category>
+<category>solid-solid interfaces</category>
+<category>controlled pressure</category>
+<category>temperature</category>
+</item>
+<item>
+<title>Wide-Temperature Solvation Structures for Lithium Batteries: Principles and Regulation Strategies</title>
+<link>https://doi.org/10.1039/d6ta06528g</link>
+<guid isPermaLink="false">10.1039/d6ta06528g</guid>
+<pubDate>Tue, 17 Nov 2026 02:01:30 GMT</pubDate>
+<description>این مقاله اصول و راهبردهای تنظیم ساختار حلال‌پوشی الکترولیت را برای عملکرد مطمئن باتری‌های لیتیمی در محدوده دمایی گسترده مرور می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in shifting electrolyte design from macroscopic optimization to regulating solvation structures across wide temperatures. Its significance is providing principles and strategies to tailor Li-ion solvation for reliable battery operation from subzero to high temperatures, enabling electric vehicles, aerospace, and polar applications.&lt;br&gt;🏷 lithium batteries · wide temperature · solvation structure · electrolyte design · regulation strategies</description>
+<category>lithium batteries</category>
+<category>wide temperature</category>
+<category>solvation structure</category>
+<category>electrolyte design</category>
+<category>regulation strategies</category>
+</item>
 <item>
 <title>Synergistic bulk lattice and interfacial chemistry regulation in LiMnxFe1-xPO4 cathodes via W/Ce co-doping for robust wide-temperature operation</title>
 <link>https://doi.org/10.1016/j.est.2026.125636</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>S-O bonding</category>
 <category>sodium-ion battery</category>
 <category>electron confinement</category>
-</item>
-<item>
-<title>Li–B–Mg Composite Foils With a LiB 0.88 Microrod Array Enable Ultrathin Self‐Supporting Lithium Metal Anodes</title>
-<link>https://doi.org/10.1002/adma.75747</link>
-<guid isPermaLink="false">10.1002/adma.75747</guid>
-<pubDate>Sat, 14 Nov 2026 16:02:07 GMT</pubDate>
-<description>فویل کامپوزیتی Li-B-Mg با آرایه میکرومیله LiB0.88، آندهای لیتیومی خودنگهدار نازک تا 15 میکرومتر با چرخه‌پذیری پایدار بیش از 5000 ساعت فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Li–B–Mg composite foil with an interconnected LiB0.88 microrod array plus lithiophilic LiMg/MgB2 phases, enabling large-area, self-supporting foils down to 15 µm. Its significance is a self-sustained coupling of stress redistribution and lithiophilic Li guidance, suppressing surface accumulation and enabling over 5000 h cycling with minimal thickness expansion—advancing practical ultrathin lithium anodes.&lt;br&gt;🏷 lithium metal anode · Li-B-Mg foil · LiB0.88 microrod · ultrathin foil · stress regulation</description>
-<category>lithium metal anode</category>
-<category>Li-B-Mg foil</category>
-<category>LiB0.88 microrod</category>
-<category>ultrathin foil</category>
-<category>stress regulation</category>
-</item>
-<item>
-<title>Molecular Bridging Flexibility Enables Closed‐Pore Engineering in Hard Carbon for Enhanced Plateau Sodium Storage</title>
-<link>https://doi.org/10.1002/adma.75718</link>
-<guid isPermaLink="false">10.1002/adma.75718</guid>
-<pubDate>Sat, 14 Nov 2026 16:02:01 GMT</pubDate>
-<description>انعطاف پیوند مولکولی پیش‌ماده، تشکیل حفرات بسته در کربن سخت را کنترل کرده و ظرفیت پلاتوی بالای 242.7 mAh/g و پاکت‌سل 217.2 Wh/kg را در باتری سدیم-یون ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using molecular bridging flexibility (Ar─O─C vs. Ar─CH₂─Ar) as a design principle to control closed-pore formation in hard carbon. Flexible precursors create curved skeletons and semi-open sub-1 nm pores that close during pyrolysis, yielding closed porosity of 0.12 cm³ g⁻¹. This enables 356.1 mAh g⁻¹ capacity, 242.7 mAh g⁻¹ plateau capacity, and a 217.2 Wh kg⁻¹ pouch cell—advancing practical sodium-ion batteries.&lt;br&gt;🏷 hard carbon anode · closed pores · sodium-ion battery · plateau capacity · precursor design</description>
-<category>hard carbon anode</category>
-<category>closed pores</category>
-<category>sodium-ion battery</category>
-<category>plateau capacity</category>
-<category>precursor design</category>
 </item>
 </channel>
 </rss>
