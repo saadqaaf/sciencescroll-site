@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 13:02:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 14:04:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sequential Regulation of Dendrite Initiation and Propagation for High‐Current Hydroborate‐Based Solid‐State Sodium Metal Batteries</title>
+<link>https://doi.org/10.1002/adma.75760</link>
+<guid isPermaLink="false">10.1002/adma.75760</guid>
+<pubDate>Tue, 17 Nov 2026 14:04:29 GMT</pubDate>
+<description>معماری دو لایه‌ای هماهنگ‌شده فضایی، آغاز و انتشار دندریت را در باتری‌های سدیم فلزی تمام‌جامد مبتنی بر هیدروبورات تنظیم کرده و چگالی جریان بحرانی را از ۰٫۵ به ۳٫۳ میلی‌آمپر بر سانتی‌متر مربع افزایش می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially coordinated dual-interlayer design that sequentially suppresses Na dendrite initiation (3D Sn/C framework at Na|NBH) and propagation (NPSC sulfide interlayer within NBH). This raises critical current density from 0.5 to 3.3 mA cm⁻², enables 7000 h cycling, and supports high-loading full cells, establishing sequential dendrite control as a design principle for high-current hydroborate solid-state Na batteries.&lt;br&gt;🏷 solid-state sodium battery · hydroborate electrolyte · dendrite suppression · dual interlayer · critical current density</description>
+<category>solid-state sodium battery</category>
+<category>hydroborate electrolyte</category>
+<category>dendrite suppression</category>
+<category>dual interlayer</category>
+<category>critical current density</category>
+</item>
+<item>
+<title>Interfacial Electronic Reconstruction Activates TiO 2 in MnO 2 /TiO 2 Heterostructures for Accelerated Sulfur Redox Chemistry</title>
+<link>https://doi.org/10.1002/adma.75753</link>
+<guid isPermaLink="false">10.1002/adma.75753</guid>
+<pubDate>Tue, 17 Nov 2026 14:04:18 GMT</pubDate>
+<description>بازسازی الکترونیکی فصل مشترک در ناهمگون MnO2/TiO2 با پیوند Ti─O─Mn و کربن باقیمانده، سینتیک ردوکس گوگرد را تسریع کرده و باتری Li-S با ظرفیت 1569 mAh/g و پایداری ۱۰۰۰ چرخه ارائه میدهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a chemically integrated MnO₂/TiO₂ heterointerface with Ti─O─Mn bonding and residual carbon, inducing interfacial electronic reconstruction (reduced Ti states, charge redistribution, bond polarization). This activates Ti sites for enhanced polysulfide regulation, accelerating sulfur redox. Significance: enables stable cycling at 9.2 mg cm⁻² sulfur loading and 1569 mAh g⁻¹ capacity with only 0.054% decay per cycle over 1000 cycles, demonstrating oxide heterointerfaces as effective catalysts.&lt;br&gt;🏷 lithium-sulfur battery · MnO2/TiO2 heterostructure · interfacial electronic reconstruction · polysulfide catalysis · sulfur redox</description>
+<category>lithium-sulfur battery</category>
+<category>MnO2/TiO2 heterostructure</category>
+<category>interfacial electronic reconstruction</category>
+<category>polysulfide catalysis</category>
+<category>sulfur redox</category>
+</item>
+<item>
+<title>Reconceptualizing Thermal Runaway Mechanisms in Sulfide Solid‐State Batteries via Dynamic Interfacial Reconstruction</title>
+<link>https://doi.org/10.1002/adma.75766</link>
+<guid isPermaLink="false">10.1002/adma.75766</guid>
+<pubDate>Tue, 17 Nov 2026 14:04:13 GMT</pubDate>
+<description>این مقاله دیدگاه رایج درباره ایمنی ذاتی باتریهای تمامحالتجامد سولفیدی را بهچالش میکشد و شکست حرارتی را ناشی از بازسازی دینامیک فصل مشترک در حین چرخه میداند.&lt;br&gt;Advanced Materials | 💭 Perspective&lt;br&gt;💡 The novelty lies in shifting from a static, material-centric view to a dynamic interface-centric framework, arguing that cycling-induced interphase evolution (polysulfides, mixed-conducting interphases) preconditions sulfide ASSB thermal runaway. This explains inconsistent SO2 profiles and trigger temperatures, and reframes safety design toward dynamic interfacial control for truly robust solid-state batteries.&lt;br&gt;🏷 sulfide solid-state battery · thermal runaway · interfacial reconstruction · battery safety · interphase evolution</description>
+<category>sulfide solid-state battery</category>
+<category>thermal runaway</category>
+<category>interfacial reconstruction</category>
+<category>battery safety</category>
+<category>interphase evolution</category>
+</item>
+<item>
+<title>Anode-free zinc batteries enabled by structurally robust solid–electrolyte interphase</title>
+<link>https://doi.org/10.1038/s41893-026-01993-7</link>
+<guid isPermaLink="false">10.1038/s41893-026-01993-7</guid>
+<pubDate>Tue, 17 Nov 2026 14:02:57 GMT</pubDate>
+<description>باتری‌های روی بدون آند با ایجاد یک لایه بین‌سطحی جامد-الکترولیت از نظر ساختاری پایدار فعال‌سازی می‌شوند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that deep discharge causes structural collapse of the SEI exoskeleton, and in mitigating this by retaining trace reserved zinc during stripping to buffer electrode shape changes. This preserves SEI integrity, enabling 99.96% Coulombic efficiency, 38-fold cycling stability, and anode-free pouch cells retaining 90.47% capacity after 350 cycles—advancing high-energy, long-life zinc batteries.&lt;br&gt;🏷 anode-free zinc battery · solid-electrolyte interphase · zinc anode · interphase stability · aqueous battery</description>
+<category>anode-free zinc battery</category>
+<category>solid-electrolyte interphase</category>
+<category>zinc anode</category>
+<category>interphase stability</category>
+<category>aqueous battery</category>
+</item>
+<item>
+<title>Stage-Resolved Evolution of Lithium-Metal Anodes: Origins of Cycle-Life Gains and Losses</title>
+<link>https://doi.org/10.1039/d6ee07369g</link>
+<guid isPermaLink="false">10.1039/d6ee07369g</guid>
+<pubDate>Tue, 17 Nov 2026 14:02:48 GMT</pubDate>
+<description>تحلیل مرحله‌به‌مرحله تکامل آندهای لیتیم-فلز نشان می‌دهد که سود و زیان عمر چرخه از تحولات مورفولوژیکی و بین‌سطحی پیچیده ناشی می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in stage-resolved tracking of lithium-metal anode morphological and interfacial evolution, linking specific stages to cycle-life gains and losses rather than relying on aggregate cycle-life metrics or discrete characterization. This resolves why durability varies, enabling targeted interventions and better prediction of anode failure, which is significant for designing longer-lasting high-capacity lithium-metal batteries.&lt;br&gt;🏷 lithium-metal anode · cycle life · interfacial evolution · morphology · anode degradation</description>
+<category>lithium-metal anode</category>
+<category>cycle life</category>
+<category>interfacial evolution</category>
+<category>morphology</category>
+<category>anode degradation</category>
+</item>
 <item>
 <title>The need for electrolyte innovation in next-generation batteries</title>
 <link>https://doi.org/10.1038/s41578-026-00987-3</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>hybrid ether electrolyte</category>
 <category>salt dissociation</category>
 <category>lithium anode</category>
-</item>
-<item>
-<title>Halide-Mediated Chemistry for Enhancing Wide-Temperature Performance of Zinc-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105653</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105653</guid>
-<pubDate>Sun, 15 Nov 2026 04:01:20 GMT</pubDate>
-<description>شیمی واسطه‌گری هالید برای بهبود عملکرد باتری‌های یون-روی در محدوده دمایی گسترده به کار گرفته می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-ion battery · halide chemistry · wide-temperature · electrolyte additive · zinc anode</description>
-<category>zinc-ion battery</category>
-<category>halide chemistry</category>
-<category>wide-temperature</category>
-<category>electrolyte additive</category>
-<category>zinc anode</category>
-</item>
-<item>
-<title>Primary-solvation and free-state molecule design enables durable and safe lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105655</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105655</guid>
-<pubDate>Sun, 15 Nov 2026 04:01:15 GMT</pubDate>
-<description>طراحی هم‌زمان ساختار حل‌پوشی اولیه و مولکول‌های آزاد الکترولیت، باتری‌های لیتیوم-فلزی بادوام و ایمن را ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · solvation structure · electrolyte design · free-state molecules · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>solvation structure</category>
-<category>electrolyte design</category>
-<category>free-state molecules</category>
-<category>dendrite suppression</category>
-</item>
-<item>
-<title>Machine learning-driven battery electrolyte innovation: From molecular design to autonomous research</title>
-<link>https://doi.org/10.1016/j.esci.2026.100672</link>
-<guid isPermaLink="false">10.1016/j.esci.2026.100672</guid>
-<pubDate>Sun, 15 Nov 2026 01:01:05 GMT</pubDate>
-<description>این مقاله مروری نشان می‌دهد چگونه یادگیری ماشین از طراحی مولکولی تا پژوهش خودکار، نوآوری در الکترولیت‌های باتری را تسریع می‌کند.&lt;br&gt;eScience | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 battery electrolytes · machine learning · molecular design · autonomous research · electrolyte discovery</description>
-<category>battery electrolytes</category>
-<category>machine learning</category>
-<category>molecular design</category>
-<category>autonomous research</category>
-<category>electrolyte discovery</category>
-</item>
-<item>
-<title>Architecting spatial distribution of silicon in solvent-free double-layered high-loading graphite/silicon anodes for structurally durable lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.compositesb.2026.114395</link>
-<guid isPermaLink="false">10.1016/j.compositesb.2026.114395</guid>
-<pubDate>Sat, 14 Nov 2026 23:01:07 GMT</pubDate>
-<description>با معماری توزیع فضایی سیلیسیم در آندهای دوجزئی گرافیت/سیلیسیم بدون حلال و با بارگذاری بالا، آندهای ساختاری پایدار برای باتری‌های لیتیوم-یون طراحی شد.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 silicon-graphite anode · lithium-ion battery · solvent-free electrode · high loading · spatial distribution</description>
-<category>silicon-graphite anode</category>
-<category>lithium-ion battery</category>
-<category>solvent-free electrode</category>
-<category>high loading</category>
-<category>spatial distribution</category>
-</item>
-<item>
-<title>Lithiothermic-Twinning Built-In LiF Ionic Mediators within Li2S@Graphene Cathodes for Anode-Less/Free Li–S Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c17373</link>
-<guid isPermaLink="false">10.1021/acsnano.6c17373</guid>
-<pubDate>Sat, 14 Nov 2026 20:01:39 GMT</pubDate>
-<description>کاتد Li2S-LiF@graphene با ساخت درجای LiF دوقلوشده از طریق سنتز لیتیوترمیک ساخته شد و در باتری Li-S بدون آند ظرفیت ۸۸۲ mAh g–1 و پایداری چرخه‌ای بهبودیافته نشان داد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a one-step lithiothermic symbiosis creating built-in LiF nanocrystals twinned with Li2S within graphene capsules, enabling fast Li-ion transport and polysulfide confinement. This enables high-areal-capacity (6.3 mAh cm–2) Li2S cathodes under lean electrolyte and thin-Li conditions, and anode-free cells retaining 650 mAh g–1 after 100 cycles—advancing practical anode-less/free Li–S batteries.&lt;br&gt;🏷 Li2S cathode · LiF ionic mediator · anode-free Li-S · lithiothermic synthesis · graphene capsule</description>
-<category>Li2S cathode</category>
-<category>LiF ionic mediator</category>
-<category>anode-free Li-S</category>
-<category>lithiothermic synthesis</category>
-<category>graphene capsule</category>
 </item>
 </channel>
 </rss>
