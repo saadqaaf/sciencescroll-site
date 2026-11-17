@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 11:01:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 12:02:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The need for electrolyte innovation in next-generation batteries</title>
+<link>https://doi.org/10.1038/s41578-026-00987-3</link>
+<guid isPermaLink="false">10.1038/s41578-026-00987-3</guid>
+<pubDate>Tue, 17 Nov 2026 12:02:14 GMT</pubDate>
+<description>این مقاله دیدگاهی بر ضرورت نوآوری در الکترولیت‌ها برای باتری‌های نسل آینده و نقش کلیدی آن در بهبود عملکرد و پایداری ذخیره‌سازی انرژی تأکید می‌کند.&lt;br&gt;Nature Reviews Materials | 💭 Perspective&lt;br&gt;💡 The novelty lies in reconceptualizing electrolytes from passive ion conductors to active regulators of electrode reactions and interfacial chemistry. Its significance is enabling safer, higher-energy, application-specific batteries through innovations across liquid, solid-state, and emerging electrolyte systems—advancing next-generation battery performance and cycling stability.&lt;br&gt;🏷 battery electrolyte · next-generation batteries · electrolyte innovation · energy storage · interfaces</description>
+<category>battery electrolyte</category>
+<category>next-generation batteries</category>
+<category>electrolyte innovation</category>
+<category>energy storage</category>
+<category>interfaces</category>
+</item>
 <item>
 <title>Site-selective cation and orbital engineering in spinel-type materials for lithium–sulfur batteries</title>
 <link>https://doi.org/10.1016/j.est.2026.125429</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>anode-free Li-S</category>
 <category>lithiothermic synthesis</category>
 <category>graphene capsule</category>
-</item>
-<item>
-<title>Molecular Engineering of Carboxylate-Based Electrolytes for High-Voltage Lithium Metal Batteries with a Wide Temperature Range</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112619</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112619</guid>
-<pubDate>Sat, 14 Nov 2026 20:01:30 GMT</pubDate>
-<description>مهندسی مولکولی الکترولیت‌های مبتنی بر کربوکسیلات برای باتری‌های لیتیوم-فلز ولتاژ بالا در محدوده دمایی گسترده ارائه می‌شود.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · carboxylate electrolyte · high voltage · wide temperature range · molecular engineering</description>
-<category>lithium metal battery</category>
-<category>carboxylate electrolyte</category>
-<category>high voltage</category>
-<category>wide temperature range</category>
-<category>molecular engineering</category>
 </item>
 </channel>
 </rss>
