@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 16:02:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 17:03:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dynamic staged solid electrolyte interphase via sequential chemical and electrochemical reactions for highly reversible zinc battery</title>
+<link>https://doi.org/10.1016/j.chempr.2026.103335</link>
+<guid isPermaLink="false">10.1016/j.chempr.2026.103335</guid>
+<pubDate>Tue, 17 Nov 2026 17:01:47 GMT</pubDate>
+<description>این مقاله یک لایه الکترولیت جامد (SEI) مرحله‌ای پویا را از طریق واکنش‌های شیمیایی و الکتروشیمیایی متوالی برای باتری روی با برگشت‌پذیری بالا ارائه می‌دهد.&lt;br&gt;Chem | 🔬 Research Article&lt;br&gt;🏷 zinc battery · solid electrolyte interphase · staged SEI · electrochemical reaction · reversibility</description>
+<category>zinc battery</category>
+<category>solid electrolyte interphase</category>
+<category>staged SEI</category>
+<category>electrochemical reaction</category>
+<category>reversibility</category>
+</item>
 <item>
 <title>Sequential Regulation of Dendrite Initiation and Propagation for High‐Current Hydroborate‐Based Solid‐State Sodium Metal Batteries</title>
 <link>https://doi.org/10.1002/adma.75760</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>lithium-ion battery</category>
 <category>data-driven simulation</category>
 <category>electrochemical modeling</category>
-</item>
-<item>
-<title>The Double-Edged Sword of Dibutyl Ether in Hybrid Ether-based Electrolytes: Balancing Dissociation and Dilution of Salts for Li-SPAN Cells</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105652</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105652</guid>
-<pubDate>Sun, 15 Nov 2026 04:01:25 GMT</pubDate>
-<description>نقش دوگانه دی‌بوتیل اتر در الکترولیت‌های هیبریدی اتری برای توازن تفکیک و رقت نمک در سلول‌های Li-SPAN بررسی می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Li-SPAN cell · dibutyl ether · hybrid ether electrolyte · salt dissociation · lithium anode</description>
-<category>Li-SPAN cell</category>
-<category>dibutyl ether</category>
-<category>hybrid ether electrolyte</category>
-<category>salt dissociation</category>
-<category>lithium anode</category>
 </item>
 </channel>
 </rss>
