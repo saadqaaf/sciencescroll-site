@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 02:02:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 03:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Neutrinos and the origins of particle dark matter</title>
+<link>https://doi.org/10.1038/s42254-026-01008-6</link>
+<guid isPermaLink="false">10.1038/s42254-026-01008-6</guid>
+<pubDate>Tue, 17 Nov 2026 03:01:25 GMT</pubDate>
+<description>این مقاله مروری به بررسی نقش نوترینوها در منشأ و تولید ماده تاریک ذرهای در چارچوب فیزیک فراتر از مدل استاندارد میپردازد.&lt;br&gt;Nature Reviews Physics | ⭐ Review&lt;br&gt;🏷 neutrino · dark matter · particle physics · cosmology · beyond Standard Model</description>
+<category>neutrino</category>
+<category>dark matter</category>
+<category>particle physics</category>
+<category>cosmology</category>
+<category>beyond Standard Model</category>
+</item>
 <item>
 <title>Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integrated circuits</title>
 <link>https://doi.org/10.1038/s41928-026-01737-7</link>
@@ -1209,18 +1221,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cage catalys
 <category>oxygen reduction reaction</category>
 <category>Fe atomization</category>
 <category>electrocatalysis</category>
-</item>
-<item>
-<title>Thermogalvanic Cells Driven by Thermo-Osmosis-Assisted Trans-Phase Cycling</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112626</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112626</guid>
-<pubDate>Mon, 16 Nov 2026 22:01:52 GMT</pubDate>
-<description>سلول‌های ترموگالوانیک با چرخه فازی گذرا و کمک ترمواسمز، تبدیل کارآمدتر گرمای کم‌دما به انرژی الکتریکی را ممکن می‌سازند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 thermogalvanic cell · thermo-osmosis · trans-phase cycling · waste heat harvesting · thermoelectric conversion</description>
-<category>thermogalvanic cell</category>
-<category>thermo-osmosis</category>
-<category>trans-phase cycling</category>
-<category>waste heat harvesting</category>
-<category>thermoelectric conversion</category>
 </item>
 </channel>
 </rss>
