@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 18:06:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 19:02:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>High‐Entropy Prussian Blue Analogues Enable Ultrastable Sodium Storage Via Charge Redistribution‐Induced Jahn–Teller Suppression</title>
+<link>https://doi.org/10.1002/smll.76634</link>
+<guid isPermaLink="false">10.1002/smll.76634</guid>
+<pubDate>Tue, 17 Nov 2026 19:02:40 GMT</pubDate>
+<description>مهندسی آنتروپی بالا در Prussian blue analogues با پنج فلز، توزیع بار و سرکوب Jahn-Teller را تقویت کرده و پایداری چرخه کاتد سدیم‌یون را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using high-entropy engineering with five transition metals (Mn, Fe, Co, Ni, Cu) to create a compositionally complex N-coordinated sublattice in Prussian blue analogues, redistributing charge and suppressing Jahn–Teller distortion. This significantly enhances sodium-ion battery cathode stability, retaining 75.3% capacity after 600 cycles versus 33.0% for Mn-PBA, demonstrating a viable strategy for durable PBA cathodes.&lt;br&gt;🏷 high-entropy PBA · sodium-ion battery cathode · Jahn-Teller suppression · charge redistribution · Prussian blue analogues</description>
+<category>high-entropy PBA</category>
+<category>sodium-ion battery cathode</category>
+<category>Jahn-Teller suppression</category>
+<category>charge redistribution</category>
+<category>Prussian blue analogues</category>
+</item>
+<item>
+<title>Designing Air‐Stable Electrolytes for Low‐Cost Rechargeable Aqueous Iron Metal Batteries With Ultralong Cycling Life</title>
+<link>https://doi.org/10.1002/smll.76761</link>
+<guid isPermaLink="false">10.1002/smll.76761</guid>
+<pubDate>Tue, 17 Nov 2026 19:02:30 GMT</pubDate>
+<description>الکترولیت Fe(OTF)3 با افزودن diglyme برای باتری آبی آهن طراحی می‌کند که ساخت در هوا را ممکن کرده و با سرکوب HER عمر چرخه فوق‌طولانی فراهم می‌آورد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in intentionally sacrificing Fe anode to reduce Fe³⁺, enabling air-operated assembly of aqueous Fe metal batteries with a Fe(OTF)₃ electrolyte, plus diglyme suppressing hydrogen evolution. Significance: 97.41% Coulombic efficiency, 5,500 h symmetric cycling, and 20,000-cycle full-cell stability, offering a low-cost, air-tolerant strategy for practical Fe-based energy storage.&lt;br&gt;🏷 aqueous iron battery · air-stable electrolyte · diglyme additive · hydrogen evolution suppression · ultralong cycling</description>
+<category>aqueous iron battery</category>
+<category>air-stable electrolyte</category>
+<category>diglyme additive</category>
+<category>hydrogen evolution suppression</category>
+<category>ultralong cycling</category>
+</item>
+<item>
+<title>Synthesis of Curved Nanoplatelet Graphite From Calcium Carbide and Amorphous Carbon at Low Temperature</title>
+<link>https://doi.org/10.1002/smll.76792</link>
+<guid isPermaLink="false">10.1002/smll.76792</guid>
+<pubDate>Tue, 17 Nov 2026 19:02:19 GMT</pubDate>
+<description>روشی جدید برای گرافیتی‌کردن کم‌دما با استفاده از کاربید کلسیم و کربن آمورف ارائه می‌دهد که گرافیت نانوورقه‌ای خمیده با عملکرد عالی به‌عنوان آند Li-ion تولید می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low-temperature oxidative-reductive graphitization method converting amorphous carbon and calcium carbide into curved nanoplatelet graphite at 1100°C, avoiding high-pressure/high-temperature routes. Significance: the resulting material shows excellent lithium-ion anode performance (441 mAh/g at 0.1 A/g, 412.1 mAh/g after 500 cycles), offering an efficient, simple path for graphite synthesis and anode optimization.&lt;br&gt;🏷 curved nanoplatelet graphite · calcium carbide · low-temperature graphitization · lithium-ion battery anode · amorphous carbon</description>
+<category>curved nanoplatelet graphite</category>
+<category>calcium carbide</category>
+<category>low-temperature graphitization</category>
+<category>lithium-ion battery anode</category>
+<category>amorphous carbon</category>
+</item>
+<item>
+<title>Sacrificial Nitrogen‐Rich Molecule‐Modified Resin for Fabricating Hard Carbon With Enhanced Plateau Sodium Storage</title>
+<link>https://doi.org/10.1002/smll.76748</link>
+<guid isPermaLink="false">10.1002/smll.76748</guid>
+<pubDate>Tue, 17 Nov 2026 19:01:48 GMT</pubDate>
+<description>این مقاله با وارد کردن مولکول‌های فداشونده غنی از نیتروژن در رزین فنولی، هارد کربنی با حفرات بسته و ظرفیت پلاتوی بالای 256 mAh g−1 برای ذخیره سدیم می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using sacrificial nitrogen-rich melamine co-condensed into phenolic resin to reconstruct the pyrolysis pathway, creating disordered carbon with abundant intrinsic closed pores. This enables a high plateau capacity of 256 mAh g⁻¹, 91.7% initial Coulombic efficiency, and superior rate/cycling stability, demonstrating a versatile molecular design strategy for advanced hard carbon anodes in sodium-ion batteries.&lt;br&gt;🏷 hard carbon · closed pores · sodium storage · melamine · phenolic resin</description>
+<category>hard carbon</category>
+<category>closed pores</category>
+<category>sodium storage</category>
+<category>melamine</category>
+<category>phenolic resin</category>
+</item>
+<item>
+<title>Foam‐Carbon Surface Reconstruction for Fast and Durable Sodium Storage in Lignite‐Derived Hard Carbon</title>
+<link>https://doi.org/10.1002/smll.76773</link>
+<guid isPermaLink="false">10.1002/smll.76773</guid>
+<pubDate>Tue, 17 Nov 2026 19:01:42 GMT</pubDate>
+<description>این مقاله با پوشش فوم کربنی سطح هارد کربن مشتق از لیگنیت را بازسازی می‌کند و آند سدیم‌یونی با ظرفیت 401.4 mAh g−1 و بازدهی اولیه 91.7% به دست می‌آورد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a starch-derived carbon foam coating that reconstructs lignite-derived hard carbon surfaces, creating interconnected Na⁺ channels and oxygen-rich species that promote closed-pore development. This yields 401.4 mAh g⁻¹, 91.7% initial Coulombic efficiency, and 75.8% retention after 15,000 cycles. It offers a scalable interface-engineering strategy for activating low-rank coal as practical, sustainable sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · carbon foam coating · lignite · surface reconstruction</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>carbon foam coating</category>
+<category>lignite</category>
+<category>surface reconstruction</category>
+</item>
 <item>
 <title>Leachate-to-cathode reconstructive recycling of spent LiFePO4 cathodes</title>
 <link>https://doi.org/10.1016/j.jechem.2026.11.005</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>polysulfide conversion</category>
 <category>coordination field</category>
 <category>d-orbital splitting</category>
-</item>
-<item>
-<title>Thermal Runaway of Lithium‐Ion Batteries in Underground Mining Environments: Mechanism, Combustion Products Characterization, and Mine‐Specific Testing Frameworks</title>
-<link>https://doi.org/10.1002/bte2.70161</link>
-<guid isPermaLink="false">10.1002/bte2.70161</guid>
-<pubDate>Sun, 15 Nov 2026 18:01:21 GMT</pubDate>
-<description>این مقاله دانش موجود درباره‌ی thermal runaway باتری‌های Li-ion را در محیط معدن زیرزمینی بررسی کرده و چارچوب آزمایشی متناسب با شرایط معدن برای ارزیابی ایمنی پیشنهاد می‌کند.&lt;br&gt;Battery Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in contextualizing LIB thermal runaway within underground mining environments, where ventilation constraints and ambient conditions alter hazard profiles—an understudied setting. Its significance is synthesizing TR mechanisms, combustion product characterization, and testing limitations to propose a mine-specific experimental framework enabling representative hazard assessment and safer LIB deployment in underground mines.&lt;br&gt;🏷 lithium-ion battery · thermal runaway · underground mining · combustion products · safety testing framework</description>
-<category>lithium-ion battery</category>
-<category>thermal runaway</category>
-<category>underground mining</category>
-<category>combustion products</category>
-<category>safety testing framework</category>
-</item>
-<item>
-<title>Facet-dependent anion adsorption for electrolyte-Cu interfacial stability in initially anode-free Li-metal batteries</title>
-<link>https://doi.org/10.1038/s41467-026-79429-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-79429-1</guid>
-<pubDate>Sun, 15 Nov 2026 16:01:44 GMT</pubDate>
-<description>وابستگی جذب آنیون به وجه کریستالی مس، پایداری فصل مشترک الکترولیت-Cu را در باتری‌های لیتیوم-فلزی بدون آند اولیه کنترل می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in revealing facet-dependent anion adsorption: tetrafluoroborate&amp;#x27;s isotropic tetrahedral charge binds strongly to Cu(111)/(100) and native oxides, forming a passivating interfacial layer, whereas solvents preferentially adsorb via van der Waals forces. This adsorption-driven design enables 62% capacity retention after 300 cycles under lean electrolyte conditions, establishing a mechanistic basis for stabilizing initially anode-free Li-metal battery interfaces.&lt;br&gt;🏷 anode-free Li battery · anion adsorption · Cu facet · electrolyte interface · Li-metal</description>
-<category>anode-free Li battery</category>
-<category>anion adsorption</category>
-<category>Cu facet</category>
-<category>electrolyte interface</category>
-<category>Li-metal</category>
-</item>
-<item>
-<title>Non‐Precious Metal High‐Entropy Oxide Sub‐1 nm Nanowires for Li‐O 2 Batteries</title>
-<link>https://doi.org/10.1002/adma.75717</link>
-<guid isPermaLink="false">10.1002/adma.75717</guid>
-<pubDate>Sun, 15 Nov 2026 12:01:29 GMT</pubDate>
-<description>نانوسیم‌های زیر ۱ نانومتر اکسید آنتروپی بالا با POM به‌عنوان کاتد Li-O2 ظرفیت 9944 mAh g−1 و پایداری 312 چرخه را در باتری لیتیوم-اکسیژن فراهم می‌کنند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a general POM-induced synthesis of non-precious metal high-entropy oxide sub-1 nm nanowires, guided by MD simulations revealing Coulomb and van der Waals driving forces. Significance: ultrafine 1D structure exposes active sites, tunable components optimize LiO2*/Li2O2 adsorption, and oxide-POM interactions enhance stability, enabling 9944 mAh g−1 capacity and 312-cycle durability in Li-O2 batteries.&lt;br&gt;🏷 Li-O2 battery · high-entropy oxide · nanowires · polyoxometalate · cathode catalyst</description>
-<category>Li-O2 battery</category>
-<category>high-entropy oxide</category>
-<category>nanowires</category>
-<category>polyoxometalate</category>
-<category>cathode catalyst</category>
-</item>
-<item>
-<title>Topological Superlattice Stabilized Layered Oxide Cathodes With Sustainable Anionic Redox</title>
-<link>https://doi.org/10.1002/adma.75716</link>
-<guid isPermaLink="false">10.1002/adma.75716</guid>
-<pubDate>Sun, 15 Nov 2026 12:01:23 GMT</pubDate>
-<description>یک ابرشبکه توپولوژیکی Li/Mg/Ni در کاتد اکسید لایه‌ای باتری سدیم‌یون، ردوکس آنیونی برگشت‌پذیر را فعال کرده و ظرفیت 242 mAh g−1 با پایداری چرخه بالا ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a topological superlattice strategy creating a Li/Mg/Ni triple-center honeycomb superlattice, which activates reversible oxygen anionic redox while suppressing phase transitions and cation migration. This yields a high-capacity (242 mAh g⁻¹), stable sodium-ion cathode (91.8% retention after 100 cycles), offering new design principles for sustainable, high-energy batteries.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · anionic redox · superlattice · phase transition</description>
-<category>sodium-ion battery</category>
-<category>layered oxide cathode</category>
-<category>anionic redox</category>
-<category>superlattice</category>
-<category>phase transition</category>
-</item>
-<item>
-<title>Charge Dynamics-Guided Polymer Structural Engineering for High-Temperature Energy Storage</title>
-<link>https://doi.org/10.1039/d6ee06785a</link>
-<guid isPermaLink="false">10.1039/d6ee06785a</guid>
-<pubDate>Sun, 15 Nov 2026 12:01:14 GMT</pubDate>
-<description>با مهندسی ساختار پلیمری مبتنی بر دینامیک بار، محدودیت دمای بالا در خازن‌های فیلم دی‌الکتریک پلیمری برای ذخیره انرژی بررسی و بهبود یافته است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using charge dynamics to guide polymer structural engineering, overcoming the Tg–capacitive trade-off that limits high-temperature polymer dielectrics. This approach enables rational design of polymer films with simultaneously enhanced thermal stability and energy storage performance, offering significant potential for advanced power electronics and electrical systems operating under harsh high-temperature conditions.&lt;br&gt;🏷 polymer dielectric · high-temperature capacitors · energy storage · charge dynamics · glass transition</description>
-<category>polymer dielectric</category>
-<category>high-temperature capacitors</category>
-<category>energy storage</category>
-<category>charge dynamics</category>
-<category>glass transition</category>
 </item>
 </channel>
 </rss>
