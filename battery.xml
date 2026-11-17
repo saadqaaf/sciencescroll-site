@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 04:01:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 05:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Protocol for the probabilistic analysis of electrochemical impedance spectroscopy data using the distribution of relaxation times</title>
+<link>https://doi.org/10.1002/inf2.70184</link>
+<guid isPermaLink="false">10.1002/inf2.70184</guid>
+<pubDate>Tue, 17 Nov 2026 05:01:19 GMT</pubDate>
+<description>این کار پروتکلی برای تحلیل احتمالاتی داده‌های EIS با استفاده از فرآیندهای گاوسی و توزیع زمان‌های آسایش ارائه می‌دهد و آن را با داده‌های واقعی پیل سوختی و باتری نشان می‌دهد.&lt;br&gt;InfoMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in proposing a standardized, step-by-step protocol for Gaussian process-based DRT deconvolution of EIS data, avoiding manual parameter tuning required by regularized regression. Its significance is highlighting regularized regression variability and demonstrating GP analysis on real fuel cell and battery data, thereby clarifying and standardizing EIS analysis to improve understanding of energy storage technologies.&lt;br&gt;🏷 electrochemical impedance spectroscopy · distribution of relaxation times · Gaussian processes · DRT deconvolution · fuel cell</description>
+<category>electrochemical impedance spectroscopy</category>
+<category>distribution of relaxation times</category>
+<category>Gaussian processes</category>
+<category>DRT deconvolution</category>
+<category>fuel cell</category>
+</item>
 <item>
 <title>An Operando XPS Methodology for investigating All-Solid-State Batteries under Controlled Pressure and Temperature</title>
 <link>https://doi.org/10.1039/d6ta06347k</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>electrolyte additive</category>
 <category>pouch cell</category>
 <category>protrusion-targeted adsorption</category>
-</item>
-<item>
-<title>Dynamic Interfacial S–O Bonding Stabilizes Oxygen Redox Through Reversible Electron Confinement</title>
-<link>https://doi.org/10.1002/adma.75712</link>
-<guid isPermaLink="false">10.1002/adma.75712</guid>
-<pubDate>Sat, 14 Nov 2026 16:02:28 GMT</pubDate>
-<description>پیوند برگشت‌پذیر S-O در سطح کاتد اکسید لایه‌ای Na0.72Li0.24Mn0.76O2 حالت‌های حفره اکسیژن را محدود کرده و ردوکس اکسیژن پایدار و پایداری چرخه‌ای را بهبود می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using reversible interfacial S–O bonding to dynamically confine oxygen hole states during charging and restore them on discharge, suppressing oxygen loss and reconstruction. This stabilizes oxygen redox in a Na0.72Li0.24Mn0.76O2 cathode, mitigating voltage decay and improving cycling. It establishes reversible interfacial electron confinement as a general design principle for durable high-energy electrodes.&lt;br&gt;🏷 oxygen redox · layered oxide cathode · S-O bonding · sodium-ion battery · electron confinement</description>
-<category>oxygen redox</category>
-<category>layered oxide cathode</category>
-<category>S-O bonding</category>
-<category>sodium-ion battery</category>
-<category>electron confinement</category>
 </item>
 </channel>
 </rss>

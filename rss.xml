@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 04:01:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 05:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Protocol for the probabilistic analysis of electrochemical impedance spectroscopy data using the distribution of relaxation times</title>
+<link>https://doi.org/10.1002/inf2.70184</link>
+<guid isPermaLink="false">10.1002/inf2.70184</guid>
+<pubDate>Tue, 17 Nov 2026 05:01:19 GMT</pubDate>
+<description>این کار پروتکلی برای تحلیل احتمالاتی داده‌های EIS با استفاده از فرآیندهای گاوسی و توزیع زمان‌های آسایش ارائه می‌دهد و آن را با داده‌های واقعی پیل سوختی و باتری نشان می‌دهد.&lt;br&gt;InfoMat | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in proposing a standardized, step-by-step protocol for Gaussian process-based DRT deconvolution of EIS data, avoiding manual parameter tuning required by regularized regression. Its significance is highlighting regularized regression variability and demonstrating GP analysis on real fuel cell and battery data, thereby clarifying and standardizing EIS analysis to improve understanding of energy storage technologies.&lt;br&gt;🏷 electrochemical impedance spectroscopy · distribution of relaxation times · Gaussian processes · DRT deconvolution · fuel cell</description>
+<category>electrochemical impedance spectroscopy</category>
+<category>distribution of relaxation times</category>
+<category>Gaussian processes</category>
+<category>DRT deconvolution</category>
+<category>fuel cell</category>
+</item>
+<item>
+<title>Transition metal oxides for oxygen electrocatalysis: Electronic structure engineering, benchmarking strategies, and advanced OER catalysis</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218742</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218742</guid>
+<pubDate>Tue, 17 Nov 2026 05:01:14 GMT</pubDate>
+<description>این مقاله مروری به مهندسی ساختار الکترونی اکسیدهای فلزات واسطه برای الکتروکاتالیز اکسیژن، راهبردهای بنچمارک و کاتالیز پیشرفته OER می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 oxygen electrocatalysis · transition metal oxides · electronic structure · OER · benchmarking strategies</description>
+<category>oxygen electrocatalysis</category>
+<category>transition metal oxides</category>
+<category>electronic structure</category>
+<category>OER</category>
+<category>benchmarking strategies</category>
+</item>
 <item>
 <title>Precision electroweak physics of neutral currents below the Z-pole</title>
 <link>https://doi.org/10.1016/j.physrep.2026.10.007</link>
@@ -1197,30 +1221,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cage catalys
 <category>presodiation</category>
 <category>solid electrolyte interphase</category>
 <category>dry-air processing</category>
-</item>
-<item>
-<title>Irradiation‐Wavelength‐Tuned Stepwise [2+2] Cycloaddition of Indolylphenylpropenone Derivatives as a Platform for Light–Mechanical Energy Conversion</title>
-<link>https://doi.org/10.1002/anie.9063097</link>
-<guid isPermaLink="false">10.1002/anie.9063097</guid>
-<pubDate>Mon, 16 Nov 2026 22:02:27 GMT</pubDate>
-<description>سیکلواَدیشن پله‌ای [2+2] با طول‌موج نور تنظیم‌شده در کریستال‌های ایندولیل‌فنیل‌پروپنون، حرکت مکانیکی ماکروسکوپی و تبدیل انرژی نور به مکانیکی را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 [2+2] cycloaddition · photomechanical effect · indolylphenylpropenone · single-crystal transformation · light-mechanical conversion</description>
-<category>[2+2] cycloaddition</category>
-<category>photomechanical effect</category>
-<category>indolylphenylpropenone</category>
-<category>single-crystal transformation</category>
-<category>light-mechanical conversion</category>
-</item>
-<item>
-<title>Topological Regioisomerism Enables Triplet–Triplet Energy‐Transfer for Reversible Dual Delayed Fluorescence–Phosphorescence Multicolor Afterglow</title>
-<link>https://doi.org/10.1002/anie.5881625</link>
-<guid isPermaLink="false">10.1002/anie.5881625</guid>
-<pubDate>Mon, 16 Nov 2026 22:02:23 GMT</pubDate>
-<description>رگیوایزومری در یک سامانه میزبان-میهمان، انتقال انرژی سه‌گانه-سه‌گانه را ممکن کرده و درخشش تأخیری دوگانه TADF-RTP با رنگ قابل‌تنظیم ایجاد می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 regioisomerism · triplet-triplet energy transfer · delayed fluorescence · room-temperature phosphorescence · afterglow</description>
-<category>regioisomerism</category>
-<category>triplet-triplet energy transfer</category>
-<category>delayed fluorescence</category>
-<category>room-temperature phosphorescence</category>
-<category>afterglow</category>
 </item>
 </channel>
 </rss>
