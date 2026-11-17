@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 12:02:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 13:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Contemporary synthetic tools for the total synthesis of natural products</title>
+<link>https://doi.org/10.1039/d5cs01517k</link>
+<guid isPermaLink="false">10.1039/d5cs01517k</guid>
+<pubDate>Tue, 17 Nov 2026 13:02:12 GMT</pubDate>
+<description>این مرور آموزشی ابزارهای نوین سنتز مانند فوتوکاتالیز، الکتروشیمی، زیست‌کاتالیز، ویرایش اسکلت، شیمی جریان و مکانیکوشیمی را در سنتز تام محصولات طبیعی پنج سال اخیر بررسی می‌کند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 total synthesis · natural products · photocatalysis · electrochemistry · flow chemistry</description>
+<category>total synthesis</category>
+<category>natural products</category>
+<category>photocatalysis</category>
+<category>electrochemistry</category>
+<category>flow chemistry</category>
+</item>
 <item>
 <title>Photobiocatalysis at the interface of biocatalysis and biomimetic chemocatalysis</title>
 <link>https://doi.org/10.1038/s41929-026-01632-6</link>
@@ -1199,18 +1211,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 fluoro
 <category>sliding-pressure operation</category>
 <category>adiabatic CAES</category>
 <category>wide-range conditions</category>
-</item>
-<item>
-<title>A systematic sensitivity study of electrolyte transport parameters in physico-chemical battery models</title>
-<link>https://doi.org/10.1016/j.est.2026.125582</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125582</guid>
-<pubDate>Tue, 17 Nov 2026 00:03:47 GMT</pubDate>
-<description>این مقاله حساسیت پارامترهای انتقال الکترولیت را در مدل‌های فیزیکوشیمیایی باتری به‌صورت سیستماتیک بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 electrolyte transport parameters · physico-chemical model · sensitivity analysis · battery modeling · parameter identification</description>
-<category>electrolyte transport parameters</category>
-<category>physico-chemical model</category>
-<category>sensitivity analysis</category>
-<category>battery modeling</category>
-<category>parameter identification</category>
 </item>
 </channel>
 </rss>
