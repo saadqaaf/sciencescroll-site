@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 08:02:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 09:03:31 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spatially Programmed Coordination Relay by Zwitterionic COF Nanosheets for Low‐Temperature Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/smll.76640</link>
+<guid isPermaLink="false">10.1002/smll.76640</guid>
+<pubDate>Tue, 17 Nov 2026 09:03:09 GMT</pubDate>
+<description>نانوصفحات COF زویتریونی با ایجاد رله هم‌آرایی، انتقال Li+ و دسولواتاسیون سطحی را در دمای پایین جدا کرده و باتری لیتیوم-فلز را در −10°C پایدار ساخت.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in zwitterionic COF nanosheets creating spatially programmed coordination relay sites that decouple bulk Li⁺ transport from interfacial desolvation—unlike conventional electrolytes that couple both processes. This enables 97.0% capacity retention after 500 cycles at −10°C and 83.9% after 200 cycles at 10C, offering a new design strategy for high-performance low-temperature lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · zwitterionic COF · low temperature · desolvation · coordination relay</description>
+<category>lithium metal battery</category>
+<category>zwitterionic COF</category>
+<category>low temperature</category>
+<category>desolvation</category>
+<category>coordination relay</category>
+</item>
 <item>
 <title>From Nonstep to Step: Voltage‑Response‑Driven Interfacial Evolution and Closed‑Pore Sodium Filling in Hard Carbon Anode</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02924</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>AlF3/V2C MXene</category>
 <category>polysulfide conversion</category>
 <category>dual-interface regulation</category>
-</item>
-<item>
-<title>Dual‐Anion‐Regulated Localized Weakly Solvating Electrolyte Via Trace Additive for Wide‐Temperature 4.5 V Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79634</link>
-<guid isPermaLink="false">10.1002/adfm.79634</guid>
-<pubDate>Sat, 14 Nov 2026 19:01:15 GMT</pubDate>
-<description>الکترولیت کم‌حل‌کننده موضعی با آنیون دوگانه و افزودنی LiDFBOP، پایداری باتری لیتیوم-فلز ۴.۵ ولت را در دمای ۱۰− تا ۷۵ درجه سانتی‌گراد فراهم می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a trace LiDFBOP additive to suppress DFOB⁻-rich aggregates, creating a dual-anion CIP-dominated weakly solvating electrolyte. This molecular-level solvation regulation builds robust B/F/P-containing interphases on both electrodes, enabling 4.5 V lithium metal batteries from −10°C to 75°C. Significance: stable lean-electrolyte, lean-Li cycling in Li||LMFP, NCM811, LCO cells and Ah-level pouch cells, outperforming reported strategies.&lt;br&gt;🏷 lithium metal battery · weakly solvating electrolyte · dual-anion · wide temperature · interphase</description>
-<category>lithium metal battery</category>
-<category>weakly solvating electrolyte</category>
-<category>dual-anion</category>
-<category>wide temperature</category>
-<category>interphase</category>
 </item>
 </channel>
 </rss>
