@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 00:05:40 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>In situ X-ray computed tomography and digital volume correlation for composite materials: A review</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114396</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114396</guid>
+<pubDate>Tue, 17 Nov 2026 01:01:09 GMT</pubDate>
+<description>این مقاله مروری، کاربرد توموگرافی کامپیوتری اشعه ایکس درجا و همبستگی حجم دیجیتال را برای مشخصه‌یابی سه‌بعدی ریزساختار و میدان تغییرشکل مواد کامپوزیتی بررسی می‌کند.&lt;br&gt;Composites Part B: Engineering | ⭐ Review&lt;br&gt;🏷 X-ray computed tomography · digital volume correlation · composite materials · in situ testing · damage characterization</description>
+<category>X-ray computed tomography</category>
+<category>digital volume correlation</category>
+<category>composite materials</category>
+<category>in situ testing</category>
+<category>damage characterization</category>
+</item>
+<item>
+<title>Skin-like Prototissues Integrating Pro-Angiogenic Signaling with Antibacterial Barrier Function</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c02798</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c02798</guid>
+<pubDate>Tue, 17 Nov 2026 01:01:05 GMT</pubDate>
+<description>پروتوبافت شبه‌پوست با پروتوسل‌های کواکرویت و هیدروژل کیتوسان ساخته شد که با تولید NO رگ‌زایی را تقویت و از عفونت باکتریایی جلوگیری کرده و بهبود زخم دیابتی را تسریع می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 prototissues · coacervate protocells · nitric oxide signaling · antibacterial barrier · diabetic wound healing</description>
+<category>prototissues</category>
+<category>coacervate protocells</category>
+<category>nitric oxide signaling</category>
+<category>antibacterial barrier</category>
+<category>diabetic wound healing</category>
+</item>
 <item>
 <title>A reinforcement learning framework for coordinated grid and electric vehicle scheduling</title>
 <link>https://doi.org/10.1016/j.est.2026.125510</link>
@@ -1197,30 +1221,6 @@ the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 cage catalys
 <category>water electrolysis</category>
 <category>hydrogen evolution</category>
 <category>scale-up</category>
-</item>
-<item>
-<title>Tailored Functional Group Design in In‐Situ Polymerized Gel Electrolytes for High‐Voltage, Wide‐Temperature, and Safe Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79589</link>
-<guid isPermaLink="false">10.1002/adfm.79589</guid>
-<pubDate>Mon, 16 Nov 2026 21:01:33 GMT</pubDate>
-<description>این مرور، طراحی گروه عاملی در الکترولیت‌های ژلی پلیمری درجا را برای دستیابی به باتری‌های لیتیوم فلزی پرولتاژ، دمای گسترده و ایمن تحلیل می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely applies molecular-level functional-group design to resolve the trilemma of ionic conductivity, electrochemical stability, and interfacial compatibility in in-situ polymerized gel electrolytes. It establishes theoretical frameworks from five dimensions and systematically links functional groups to high-voltage stability, wide-temperature operation, and intrinsic safety, providing actionable guidelines for high-energy-density, safe lithium metal batteries.&lt;br&gt;🏷 gel polymer electrolyte · in situ polymerization · lithium metal battery · functional group · high voltage</description>
-<category>gel polymer electrolyte</category>
-<category>in situ polymerization</category>
-<category>lithium metal battery</category>
-<category>functional group</category>
-<category>high voltage</category>
-</item>
-<item>
-<title>Frenkel Pair Stabilizes the Stoichiometric One‐Dimensional Charged Domain Walls in ZrO 2</title>
-<link>https://doi.org/10.1002/adfm.79633</link>
-<guid isPermaLink="false">10.1002/adfm.79633</guid>
-<pubDate>Mon, 16 Nov 2026 21:01:26 GMT</pubDate>
-<description>جفت‌های فرنکل ذاتی، دیواره‌های دامنه باردار یک‌بعدی استوکیومتری در ZrO2 را پایدار می‌کنند و امکان دامنه‌های فروالکتریک آنگسترومی متحرک را فراهم می‌سازند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 charged domain walls · Frenkel pair · ZrO2 · ferroelectric · oxygen vacancy</description>
-<category>charged domain walls</category>
-<category>Frenkel pair</category>
-<category>ZrO2</category>
-<category>ferroelectric</category>
-<category>oxygen vacancy</category>
 </item>
 </channel>
 </rss>
