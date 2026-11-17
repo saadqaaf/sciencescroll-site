@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 22:01:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 23:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Metal-oxo clusters stabilize electron-selective interfaces for efficient perovskite solar cells</title>
+<link>https://doi.org/10.1016/j.joule.2026.102737</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102737</guid>
+<pubDate>Tue, 17 Nov 2026 23:01:18 GMT</pubDate>
+<description>خوشه‌های فلز-اکسو برای پایدارسازی فصل مشترک گزینش‌گر الکترون در سلول‌های خورشیدی پروسکایتی به کار رفته و بازده و پایداری را بهبود می‌دهند.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · metal-oxo clusters · electron-selective interface · interface passivation · stability</description>
+<category>perovskite solar cells</category>
+<category>metal-oxo clusters</category>
+<category>electron-selective interface</category>
+<category>interface passivation</category>
+<category>stability</category>
+</item>
 <item>
 <title>Hydrogen-bonding engineering to boost high-temperature energy storage in all-organic composite dielectrics</title>
 <link>https://doi.org/10.1039/d6ta07984a</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 spin glass · MnNCN · tr
 <category>piezochromism</category>
 <category>photonic logic</category>
 <category>through-space charge transfer</category>
-</item>
-<item>
-<title>Interfacial Electronic Reconstruction Activates TiO 2 in MnO 2 /TiO 2 Heterostructures for Accelerated Sulfur Redox Chemistry</title>
-<link>https://doi.org/10.1002/adma.75753</link>
-<guid isPermaLink="false">10.1002/adma.75753</guid>
-<pubDate>Tue, 17 Nov 2026 14:04:18 GMT</pubDate>
-<description>بازسازی الکترونیکی فصل مشترک در ناهمگون MnO2/TiO2 با پیوند Ti─O─Mn و کربن باقیمانده، سینتیک ردوکس گوگرد را تسریع کرده و باتری Li-S با ظرفیت 1569 mAh/g و پایداری ۱۰۰۰ چرخه ارائه میدهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a chemically integrated MnO₂/TiO₂ heterointerface with Ti─O─Mn bonding and residual carbon, inducing interfacial electronic reconstruction (reduced Ti states, charge redistribution, bond polarization). This activates Ti sites for enhanced polysulfide regulation, accelerating sulfur redox. Significance: enables stable cycling at 9.2 mg cm⁻² sulfur loading and 1569 mAh g⁻¹ capacity with only 0.054% decay per cycle over 1000 cycles, demonstrating oxide heterointerfaces as effective catalysts.&lt;br&gt;🏷 lithium-sulfur battery · MnO2/TiO2 heterostructure · interfacial electronic reconstruction · polysulfide catalysis · sulfur redox</description>
-<category>lithium-sulfur battery</category>
-<category>MnO2/TiO2 heterostructure</category>
-<category>interfacial electronic reconstruction</category>
-<category>polysulfide catalysis</category>
-<category>sulfur redox</category>
 </item>
 </channel>
 </rss>
