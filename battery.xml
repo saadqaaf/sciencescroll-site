@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 06:01:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 07:02:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From Nonstep to Step: Voltage‑Response‑Driven Interfacial Evolution and Closed‑Pore Sodium Filling in Hard Carbon Anode</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02924</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02924</guid>
+<pubDate>Tue, 17 Nov 2026 07:02:13 GMT</pubDate>
+<description>این مقاله با راهبرد تخلیه پلکانی، SEI نازک و رسانای یونی روی آند کربن سخت ایجاد کرده و دسترسی به حفرات بسته برای ذخیره سدیم شبه‌فلزی را بهبود داد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a customized step-voltage discharge strategy that rapidly passivates the hard carbon interface, steering electrolyte decomposition toward a thin, uniform, ionically conductive SEI via field-induced concentration effects. This lowers diffusion barriers, enhances closed-pore accessibility for sodium cluster storage, and improves rate performance in full batteries and hybrid capacitors, offering a facile field-modulated formation protocol.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · SEI · step voltage · closed-pore filling</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>SEI</category>
+<category>step voltage</category>
+<category>closed-pore filling</category>
+</item>
+<item>
+<title>Anion‐Field Interface Separators with selective Zn 2+ Channel for (002)‐Textured Zn Deposition in Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/adfm.79684</link>
+<guid isPermaLink="false">10.1002/adfm.79684</guid>
+<pubDate>Tue, 17 Nov 2026 07:02:06 GMT</pubDate>
+<description>این مقاله با جداکننده SCOF-CMC/CS و میدان آنیونی پایدار، انتقال انتخابی Zn2+ و رسوب متراکم (002) روی آند روی را در باتری آبی یون روی ممکن ساخت.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an anion-field interface (AFI) separator strategy using a biodegradable sulfonated COF in a CMC/chitosan dual-network, creating persistent negative electrostatic sites that suppress anions and enable selective Zn2+ transport. This guides dense (002)-textured Zn deposition, achieving over 2400 h cycling at 10 mA cm−2 and stable full cells, offering a sustainable route to durable aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · Zn anode · separator · covalent organic framework · (002) texture</description>
+<category>aqueous zinc-ion battery</category>
+<category>Zn anode</category>
+<category>separator</category>
+<category>covalent organic framework</category>
+<category>(002) texture</category>
+</item>
+<item>
+<title>Constructing Room‐Temperature Core–Shell Hydride Ion Conductors via In Situ Formation of Ternary Hydrides</title>
+<link>https://doi.org/10.1002/adfm.79674</link>
+<guid isPermaLink="false">10.1002/adfm.79674</guid>
+<pubDate>Tue, 17 Nov 2026 07:01:50 GMT</pubDate>
+<description>این مقاله با ساخت پوسته هیدرید سه‌تایی Ce0.50Sr0.50H2.05 رسانای یون هیدرید هسته-پوسته در دمای اتاق با رسانایی 2.8×10−4 S cm−1 و عدد انتقال یونی بالای 0.99 ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in mechanochemically constructing a ternary-hydride shell (Ce0.50Sr0.50H2.05) that blocks electronic transport while enabling H− migration, yielding a core–shell conductor with high ionic conductivity (2.8×10−4 S cm−1) and transference number &amp;gt;0.99 at room temperature. Significance: cation substitution concurrently engineers electronic structure and hydrogen-vacancy topology, offering a general route to hydride conductors with negligible electronic leakage and fast ionic transport.&lt;br&gt;🏷 hydride ion conductor · core-shell hydride · CeH3 · ionic conductivity · solid electrolyte</description>
+<category>hydride ion conductor</category>
+<category>core-shell hydride</category>
+<category>CeH3</category>
+<category>ionic conductivity</category>
+<category>solid electrolyte</category>
+</item>
 <item>
 <title>Calendering simulation and structural property analysis of dry coated sulfide solid-state battery cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105661</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>dual-anion</category>
 <category>wide temperature</category>
 <category>interphase</category>
-</item>
-<item>
-<title>Beyond Predictive Accuracy: Validating Feature Importance in Battery Health Prediction via Leave-Top-Feature-Out Framework</title>
-<link>https://doi.org/10.1016/j.xinn.2026.101641</link>
-<guid isPermaLink="false">10.1016/j.xinn.2026.101641</guid>
-<pubDate>Sat, 14 Nov 2026 17:01:24 GMT</pubDate>
-<description>این کار چارچوب Leave-Top-Feature-Out را برای اعتبارسنجی اهمیت ویژگی‌ها در پیش‌بینی سلامت باتری معرفی می‌کند و فراتر از دقت پیش‌بینی، تفسیرپذیری مدل را می‌سنجد.&lt;br&gt;The Innovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery health prediction · feature importance · leave-top-feature-out · machine learning · validation framework</description>
-<category>battery health prediction</category>
-<category>feature importance</category>
-<category>leave-top-feature-out</category>
-<category>machine learning</category>
-<category>validation framework</category>
-</item>
-<item>
-<title>Boosting Oxygen Transport with Nanoporous Graphdiyne for High‐Capacity Li−O 2 Batteries</title>
-<link>https://doi.org/10.1002/aenm.71827</link>
-<guid isPermaLink="false">10.1002/aenm.71827</guid>
-<pubDate>Sat, 14 Nov 2026 17:01:17 GMT</pubDate>
-<description>افزودن گرافدایین نانوحفره‌دار به کاتد، انتقال O2 را تسریع کرده و ظرفیت دشارژ باتری Li-O2 را بیش از چهار برابر به 10.36 mAh cm−2 افزایش می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Introducing nanoporous graphdiyne into carbon-black cathodes creates low-resistance O₂ diffusion pathways, boosting Li−O₂ discharge capacity over 4× to 10.36 mAh cm⁻² (950 mAh g⁻¹). This enables deeper O₂ penetration, altering Li₂O₂ growth into larger particles throughout the cathode. The strategy advances mass transport engineering for high-energy-density Li−O₂ batteries.&lt;br&gt;🏷 Li-O2 battery · graphdiyne · oxygen transport · nanoporous cathode · discharge capacity</description>
-<category>Li-O2 battery</category>
-<category>graphdiyne</category>
-<category>oxygen transport</category>
-<category>nanoporous cathode</category>
-<category>discharge capacity</category>
-</item>
-<item>
-<title>Regulating Sulfur Redox Microenvironment Through Phase Separation for High‐Energy‐Density Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/aenm.71841</link>
-<guid isPermaLink="false">10.1002/aenm.71841</guid>
-<pubDate>Sat, 14 Nov 2026 17:01:12 GMT</pubDate>
-<description>الکترود جدایش فازی با تخلخل کم‌پیچش، محیط ردوکس گوگرد را تنظیم کرده و باتری Li-S با بارگذاری بالای گوگرد و انرژی ۲۹۸ Wh/kg را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using phase separation to engineer low-tortuosity, electrolyte-accessible pores that regulate the sulfur redox microenvironment. This suppresses polarization and resistance evolution, enabling reversible sulfur conversion. Significance: achieves 13.5 mg cm⁻² sulfur loading, 14.6 mAh cm⁻² areal capacity at lean E/S 5 µL mg⁻¹, and a 298 Wh kg⁻¹ pouch cell under practical conditions.&lt;br&gt;🏷 lithium-sulfur battery · phase separation electrode · sulfur redox · lean electrolyte · pouch cell</description>
-<category>lithium-sulfur battery</category>
-<category>phase separation electrode</category>
-<category>sulfur redox</category>
-<category>lean electrolyte</category>
-<category>pouch cell</category>
 </item>
 </channel>
 </rss>
