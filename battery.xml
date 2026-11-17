@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 17:03:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:06:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Leachate-to-cathode reconstructive recycling of spent LiFePO4 cathodes</title>
+<link>https://doi.org/10.1016/j.jechem.2026.11.005</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.11.005</guid>
+<pubDate>Tue, 17 Nov 2026 18:05:15 GMT</pubDate>
+<description>این مقاله یک روش بازیافت بازسازانه از شیرابه به کاتد را برای کاتدهای مستعمل LiFePO4 ارائه می‌دهد که مواد شسته‌شده را دوباره به کاتد تبدیل می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 cathode · battery recycling · leachate recycling · cathode reconstruction · spent lithium-ion batteries</description>
+<category>LiFePO4 cathode</category>
+<category>battery recycling</category>
+<category>leachate recycling</category>
+<category>cathode reconstruction</category>
+<category>spent lithium-ion batteries</category>
+</item>
+<item>
+<title>Transforming spinel LiMn2O4 into a Na-layered cathode</title>
+<link>https://doi.org/10.1038/s41467-026-79390-z</link>
+<guid isPermaLink="false">10.1038/s41467-026-79390-z</guid>
+<pubDate>Tue, 17 Nov 2026 18:03:37 GMT</pubDate>
+<description>تبدیل اسپینل LiMn2O4 به کاتد لایه‌ای سدیم‌یونی از طریق مهاجرت یون Mn، در سلول استوانه‌ای 26650 ظرفیت 3.85 Ah و حفظ 95.7 درصد پس از 900 چرخه را به دست داد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in electrochemically transforming spinel LiMn2O4 into a layered/spinel heterostructure sodium-ion cathode via Mn-ion migration, using residual spinel domains to suppress strain and degradation. Significance: this enables a viable Na-ion cathode achieving 3.85 Ah in a 26650 cell with 95.7% capacity retention after 900 cycles, demonstrating electrochemical transformation as a feasible route to design new cathode frameworks.&lt;br&gt;🏷 sodium-ion battery · spinel LiMn2O4 · layered cathode · heterostructure · electrochemical transformation</description>
+<category>sodium-ion battery</category>
+<category>spinel LiMn2O4</category>
+<category>layered cathode</category>
+<category>heterostructure</category>
+<category>electrochemical transformation</category>
+</item>
 <item>
 <title>Dynamic staged solid electrolyte interphase via sequential chemical and electrochemical reactions for highly reversible zinc battery</title>
 <link>https://doi.org/10.1016/j.chempr.2026.103335</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>energy storage</category>
 <category>charge dynamics</category>
 <category>glass transition</category>
-</item>
-<item>
-<title>Nitrogen-Directed Semi-Ionic C-F Bonding Enables LiF-Rich Interphase Formation for Fast-Charging Graphite Anodes</title>
-<link>https://doi.org/10.1039/d6ta06874j</link>
-<guid isPermaLink="false">10.1039/d6ta06874j</guid>
-<pubDate>Sun, 15 Nov 2026 10:01:28 GMT</pubDate>
-<description>با ایجاد پیوند نیمه‌یونی C-F هدایت‌شده توسط نیتروژن، تشکیل لایه میانی غنی از LiF برای آند گرافیتی امکان شارژ سریع فراهم می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using nitrogen-directed semi-ionic C-F bonding to engineer a LiF-rich interphase on graphite anodes. This addresses the interfacial Li+ transport bottleneck limiting fast charging. The significance is enabling fast-charging graphite anodes with suppressed polarization and uniform SEI growth, advancing practical high-rate lithium-ion batteries.&lt;br&gt;🏷 graphite anode · LiF-rich interphase · semi-ionic C-F bond · fast charging · Li+ transport</description>
-<category>graphite anode</category>
-<category>LiF-rich interphase</category>
-<category>semi-ionic C-F bond</category>
-<category>fast charging</category>
-<category>Li+ transport</category>
-</item>
-<item>
-<title>Advanced data-driven surrogate modelling for high-fidelity P2D electrochemical simulation of Lithium-Ion batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105650</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105650</guid>
-<pubDate>Sun, 15 Nov 2026 04:01:30 GMT</pubDate>
-<description>مدل‌سازی جانشین داده‌محور برای شبیه‌سازی الکتروشیمیایی P2D با دقت بالا در باتری‌های لیتیوم-یون ارائه می‌شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 P2D model · surrogate modelling · lithium-ion battery · data-driven simulation · electrochemical modeling</description>
-<category>P2D model</category>
-<category>surrogate modelling</category>
-<category>lithium-ion battery</category>
-<category>data-driven simulation</category>
-<category>electrochemical modeling</category>
 </item>
 </channel>
 </rss>
