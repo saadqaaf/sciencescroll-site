@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 09:03:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 10:02:48 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Site-selective cation and orbital engineering in spinel-type materials for lithium–sulfur batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125429</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125429</guid>
+<pubDate>Tue, 17 Nov 2026 10:02:39 GMT</pubDate>
+<description>مهندسی گزینشی جایگاه کاتیون و اوربیتال در مواد اسپینلی برای بهبود عملکرد باتری لیتیم-گوگرد به کار گرفته شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · spinel · cation engineering · orbital engineering · site-selective</description>
+<category>lithium-sulfur battery</category>
+<category>spinel</category>
+<category>cation engineering</category>
+<category>orbital engineering</category>
+<category>site-selective</category>
+</item>
 <item>
 <title>Spatially Programmed Coordination Relay by Zwitterionic COF Nanosheets for Low‐Temperature Lithium Metal Batteries</title>
 <link>https://doi.org/10.1002/smll.76640</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>high voltage</category>
 <category>wide temperature range</category>
 <category>molecular engineering</category>
-</item>
-<item>
-<title>High Atomic Utilization of V 2 AlC MAX Unlocking the Integrated Cathode‐Anode Stabilization Toward Anode‐Less Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/adfm.79658</link>
-<guid isPermaLink="false">10.1002/adfm.79658</guid>
-<pubDate>Sat, 14 Nov 2026 19:01:27 GMT</pubDate>
-<description>AlF3/V2C مشتق از MAX با استفاده اتمی بالا، هم آند و هم کاتد باتری لیتیوم-گوگرد بدون آند را پایدار کرده و ۷۷۸.۶ mAh g−1 پس از ۳۰۰ چرخه حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in converting sacrificed Al layers of V2AlC MAX into functional AlF3 nanoparticles via gas-solid reaction, achieving simultaneous MXene conversion and interfacial functionalization. This dual-interface strategy enables stable Li plating/stripping over 4000 h and catalyzes polysulfide conversion, significantly advancing anode-less lithium-sulfur batteries with high atomic utilization and durable performance.&lt;br&gt;🏷 anode-less lithium-sulfur · V2AlC MAX · AlF3/V2C MXene · polysulfide conversion · dual-interface regulation</description>
-<category>anode-less lithium-sulfur</category>
-<category>V2AlC MAX</category>
-<category>AlF3/V2C MXene</category>
-<category>polysulfide conversion</category>
-<category>dual-interface regulation</category>
 </item>
 </channel>
 </rss>
