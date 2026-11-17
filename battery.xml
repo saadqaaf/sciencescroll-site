@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 21:01:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic interfacial engineering of MXene/carbon nano-onion heterostructures for accelerated polysulfide kinetics and durable lithium–sulfur batteries</title>
+<link>https://doi.org/10.1039/d6ta07515k</link>
+<guid isPermaLink="false">10.1039/d6ta07515k</guid>
+<pubDate>Tue, 17 Nov 2026 22:01:17 GMT</pubDate>
+<description>هتروساختار MXene/carbon nano-onion با بازتوزیع بار و تخلخل سلسله‌مراتبی، جذب پلی‌سولفید و تبدیل گوگرد را تقویت کرده و پایداری چرخه Li-S را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in MXene/carbon nano-onion heterostructures that combine interfacial charge redistribution with hierarchical porosity. This synergy strengthens polysulfide retention and accelerates sulfur conversion kinetics, enabling durable lithium–sulfur batteries with improved cycling stability. The work highlights rational interfacial engineering as a significant strategy for high-performance energy storage.&lt;br&gt;🏷 lithium-sulfur battery · MXene · carbon nano-onion · polysulfide kinetics · heterostructure</description>
+<category>lithium-sulfur battery</category>
+<category>MXene</category>
+<category>carbon nano-onion</category>
+<category>polysulfide kinetics</category>
+<category>heterostructure</category>
+</item>
+<item>
+<title>Rational interfacial design of Li 4 SiO 4 -coated LiMn 2 O 4 for fast charging and enhanced cycling stability</title>
+<link>https://doi.org/10.1039/d6ta06786g</link>
+<guid isPermaLink="false">10.1039/d6ta06786g</guid>
+<pubDate>Tue, 17 Nov 2026 22:01:05 GMT</pubDate>
+<description>پوشش Li4SiO4 روی LiMn2O4 با کلسیناسیون حالت جامد یک‌مرحله‌ای، فصل‌مشترک اکسید-اکسید پایدار ایجاد کرده و یکپارچگی ساختاری و پایداری چرخه را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a one-step solid-state calcination creating a coherent LSO–LMO oxide–oxide heterostructure interface without atomic reconstruction or bond breaking. This robust interfacial design enables fast charging and enhanced cycling stability, offering a scalable, structurally stable coating strategy for high-power lithium-ion battery cathodes.&lt;br&gt;🏷 LiMn2O4 cathode · Li4SiO4 coating · interfacial design · fast charging · cycling stability</description>
+<category>LiMn2O4 cathode</category>
+<category>Li4SiO4 coating</category>
+<category>interfacial design</category>
+<category>fast charging</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>High‐Entropy Prussian Blue Analogues Enable Ultrastable Sodium Storage Via Charge Redistribution‐Induced Jahn–Teller Suppression</title>
 <link>https://doi.org/10.1002/smll.76634</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>Li-ion battery</category>
 <category>single crystal</category>
 <category>nanocomposite</category>
-</item>
-<item>
-<title>Multiscale Characterizations Toward Energy Storage Carbon Materials From Precursors to Electrodes</title>
-<link>https://doi.org/10.1002/adma.75617</link>
-<guid isPermaLink="false">10.1002/adma.75617</guid>
-<pubDate>Mon, 16 Nov 2026 08:01:44 GMT</pubDate>
-<description>این مرور چارچوبی جامع برای مشخصه‌یابی چندمقیاسی مواد کربنی از پیش‌ماده تا الکترود ارائه می‌دهد تا درک ساختار و عملکرد آندهای باتری یون‌فلز قلیایی بهبود یابد.&lt;br&gt;Advanced Materials | ⭐ Review&lt;br&gt;💡 This review uniquely builds a comprehensive multiscale characterization framework spanning carbon precursors, pyrolysis, particles, microcrystals, pores, and ion transport kinetics. Its decision-making framework helps researchers rapidly move from problem definition to characterization strategy, addressing structural complexity that limits deeper understanding and rational design of high-performance carbon anodes for alkali-metal-ion batteries.&lt;br&gt;🏷 carbon anodes · multiscale characterization · alkali-metal-ion batteries · pyrolysis behavior · ion transport</description>
-<category>carbon anodes</category>
-<category>multiscale characterization</category>
-<category>alkali-metal-ion batteries</category>
-<category>pyrolysis behavior</category>
-<category>ion transport</category>
-</item>
-<item>
-<title>Trigonal Prismatic Coordination Field‐Induced d‐Orbital Splitting Enables σ Electron Activation for Efficient Polysulfide Conversion in Li–S Batteries</title>
-<link>https://doi.org/10.1002/anie.5340472</link>
-<guid isPermaLink="false">10.1002/anie.5340472</guid>
-<pubDate>Mon, 16 Nov 2026 02:01:23 GMT</pubDate>
-<description>کاتالیزور NbSe2 با میدان هم‌آرایی منشوری سه‌گوش و شکافت اوربیتال d، انتقال الکترون σ را فعال کرده و تبدیل پلی‌سولفید و عملکرد باتری Li-S را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using trigonal prismatic NbSe₂ to modulate d-orbital splitting and identify σ*–σ and π*–σ electron-transfer channels at sublayer cation sites, showing σ*–σ enables efficient polysulfide conversion. Significance: links coordination-field geometry to catalytic activity, yielding 799 mAh g⁻¹ at 5 C and 95.85% retention under high sulfur loading, guiding catalyst design for Li–S batteries.&lt;br&gt;🏷 Li-S battery · NbSe2 catalyst · polysulfide conversion · coordination field · d-orbital splitting</description>
-<category>Li-S battery</category>
-<category>NbSe2 catalyst</category>
-<category>polysulfide conversion</category>
-<category>coordination field</category>
-<category>d-orbital splitting</category>
 </item>
 </channel>
 </rss>
