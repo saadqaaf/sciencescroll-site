@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 02:02:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 03:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toward mechanism-informed IVIVC in non-viral gene delivery: From nanoparticle transformation to therapeutic action</title>
+<link>https://doi.org/10.1016/j.addr.2026.116004</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.116004</guid>
+<pubDate>Wed, 18 Nov 2026 03:01:12 GMT</pubDate>
+<description>این مقاله به بررسی IVIVC مبتنی بر مکانیسم در انتقال ژن غیرویروسی می‌پردازد، از تبدیل نانوذرات تا اثر درمانی، برای پیش‌بینی بهتر نتایج بالینی.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 non-viral gene delivery · IVIVC · nanoparticle transformation · transfection · therapeutic action</description>
+<category>non-viral gene delivery</category>
+<category>IVIVC</category>
+<category>nanoparticle transformation</category>
+<category>transfection</category>
+<category>therapeutic action</category>
+</item>
 <item>
 <title>Beyond Anode Damage: Lithium Accessibility Redirects Cross-Electrode Electrolyte Degradation in Li-O2 Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105663</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 spin glass · MnNCN · tr
 <category>phosphorus vacancies</category>
 <category>bifunctional electrocatalyst</category>
 <category>AEM electrolyzer</category>
-</item>
-<item>
-<title>Mechanochemistry‐Mediated Conversion of Surface Alumina From Barrier to Bridge for High Thermal Conductivity Composites</title>
-<link>https://doi.org/10.1002/adfm.79632</link>
-<guid isPermaLink="false">10.1002/adfm.79632</guid>
-<pubDate>Tue, 17 Nov 2026 17:02:00 GMT</pubDate>
-<description>این مقاله با روش مکانیوشیمیایی پوسته Al2O3 را از سد به پل تبدیل کرده و کامپوزیت Al@LM با رسانایی گرمایی همسانگرد 17.59 W/m·K و عایق الکتریکی بالا می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 thermal conductivity · liquid metal · aluminum flakes · mechanochemistry · polymer composite</description>
-<category>thermal conductivity</category>
-<category>liquid metal</category>
-<category>aluminum flakes</category>
-<category>mechanochemistry</category>
-<category>polymer composite</category>
 </item>
 </channel>
 </rss>
