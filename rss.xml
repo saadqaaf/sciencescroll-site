@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 03:01:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 04:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Noncontact Neuromorphic Emotion Inference via Gaze Interaction</title>
+<link>https://doi.org/10.1021/acsnano.6c14473</link>
+<guid isPermaLink="false">10.1021/acsnano.6c14473</guid>
+<pubDate>Wed, 18 Nov 2026 04:01:14 GMT</pubDate>
+<description>این مقاله با رمزگذاری اسپایکی پاسخ‌های مردمک و شبکه عصبی اسپایکی و شبیه‌سازی ممریستور h-BN/WSe2، حالات عاطفی را با دقت ۹۵.۴٪ استنتاج می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 neuromorphic computing · pupil dynamics · spiking neural network · memristor · emotion inference</description>
+<category>neuromorphic computing</category>
+<category>pupil dynamics</category>
+<category>spiking neural network</category>
+<category>memristor</category>
+<category>emotion inference</category>
+</item>
+<item>
+<title>Electric Field-Coupled Photocatalysis-Assisted Membrane Filtration of Dye Wastewater Based on Triboelectric Nanogenerator</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112629</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112629</guid>
+<pubDate>Wed, 18 Nov 2026 04:01:09 GMT</pubDate>
+<description>این مقاله فیلتراسیون غشایی تصفیه پساب رنگزا را با فتوکاتالیز تقویت‌شده توسط میدان الکتریکی حاصل از نانوژنراتور تریبوالکتریک بررسی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 triboelectric nanogenerator · photocatalysis · membrane filtration · dye wastewater · electric field</description>
+<category>triboelectric nanogenerator</category>
+<category>photocatalysis</category>
+<category>membrane filtration</category>
+<category>dye wastewater</category>
+<category>electric field</category>
+</item>
 <item>
 <title>Toward mechanism-informed IVIVC in non-viral gene delivery: From nanoparticle transformation to therapeutic action</title>
 <link>https://doi.org/10.1016/j.addr.2026.116004</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 spin glass · MnNCN · tr
 <category>iron phthalocyanine</category>
 <category>copper interface</category>
 <category>electrocatalysis</category>
-</item>
-<item>
-<title>Geometry‐ and Spin‐Orbit Torque‐Engineered Multistate Antisymmetric Magnetoresistance in a van der Waals Magnet‐Based Heterostructure</title>
-<link>https://doi.org/10.1002/adfm.79399</link>
-<guid isPermaLink="false">10.1002/adfm.79399</guid>
-<pubDate>Tue, 17 Nov 2026 17:02:08 GMT</pubDate>
-<description>این مقاله با مهندسی هندسه و گشتاور اسپین-مدار، مغناطیس‌مقاومت پادمتقارن چندحالته را در ناهم‌ساختار Fe3GaTe2/Pt/Co/Pt تا دمای 500 K کنترل می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 antisymmetric magnetoresistance · van der Waals magnet · spin-orbit torque · Fe3GaTe2 · multistate memory</description>
-<category>antisymmetric magnetoresistance</category>
-<category>van der Waals magnet</category>
-<category>spin-orbit torque</category>
-<category>Fe3GaTe2</category>
-<category>multistate memory</category>
-</item>
-<item>
-<title>Vacancy‐Engineered Ir‐MoP Interfaces for Adaptive Bifunctional Alkaline Water Electrolysis</title>
-<link>https://doi.org/10.1002/adfm.79715</link>
-<guid isPermaLink="false">10.1002/adfm.79715</guid>
-<pubDate>Tue, 17 Nov 2026 17:02:04 GMT</pubDate>
-<description>این مقاله با جای‌خالی فسفر، نانوخوشه‌های Ir را روی MoP لنگر انداخته و کاتالیزوری دوفункسیونی با اضافه‌ولتاژ 42 mV برای HER و 226 mV برای OER در آبکافت قلیایی می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 water electrolysis · Ir-MoP interface · phosphorus vacancies · bifunctional electrocatalyst · AEM electrolyzer</description>
-<category>water electrolysis</category>
-<category>Ir-MoP interface</category>
-<category>phosphorus vacancies</category>
-<category>bifunctional electrocatalyst</category>
-<category>AEM electrolyzer</category>
 </item>
 </channel>
 </rss>
