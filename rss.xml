@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 05:01:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 06:01:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mapping the dominant technological trajectory in global FinTech: The role of cross-border collaboration in country-level entry</title>
+<link>https://doi.org/10.1016/j.technovation.2026.103771</link>
+<guid isPermaLink="false">10.1016/j.technovation.2026.103771</guid>
+<pubDate>Wed, 18 Nov 2026 06:01:04 GMT</pubDate>
+<description>این مقاله مسیر فناورانه غالب در فین‌تک جهانی را ترسیم می‌کند و نقش همکاری فرامرزی را در ورود کشورها به این حوزه بررسی می‌کند.&lt;br&gt;Technovation | 🔬 Research Article&lt;br&gt;🏷 FinTech · technological trajectory · cross-border collaboration · country-level entry · patent analysis</description>
+<category>FinTech</category>
+<category>technological trajectory</category>
+<category>cross-border collaboration</category>
+<category>country-level entry</category>
+<category>patent analysis</category>
+</item>
 <item>
 <title>Dual-network phase-separated ionogel enabling high transparency, mechanical robustness, and broadband electromagnetic wave absorption</title>
 <link>https://doi.org/10.1016/j.jmst.2026.11.015</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 spin glass · MnNCN · tr
 <category>laser microtexturing</category>
 <category>biointerfaced electronics</category>
 <category>force mapping</category>
-</item>
-<item>
-<title>Point Defects and Their Local Environments in Ce1−xZrxO2 as Revealed by Multislice Electron Ptychography</title>
-<link>https://doi.org/10.1002/adfm.79520</link>
-<guid isPermaLink="false">10.1002/adfm.79520</guid>
-<pubDate>Tue, 17 Nov 2026 17:02:29 GMT</pubDate>
-<description>این مقاله با پتیکوگرافی الکترونی چندلایه، جایگاه‌های بین‌نشینی Zr و ارتباط آن‌ها با جای‌خالی‌های اکسیژن را در لایه‌های نازک Ce1−xZrxO2 مستقیماً تصویربرداری می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ceria-zirconia · point defects · electron ptychography · oxygen vacancies · electrostriction</description>
-<category>ceria-zirconia</category>
-<category>point defects</category>
-<category>electron ptychography</category>
-<category>oxygen vacancies</category>
-<category>electrostriction</category>
 </item>
 </channel>
 </rss>
