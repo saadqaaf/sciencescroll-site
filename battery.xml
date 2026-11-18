@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 21:01:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 22:01:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coupling Mechanical Compliance and Conversion Chemistry with a Halide Perovskite Precursor for Anodeless All-Solid-State Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105670</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105670</guid>
+<pubDate>Wed, 18 Nov 2026 22:01:30 GMT</pubDate>
+<description>پیش‌ماده پروسکایت هالیدی با انطباق مکانیکی و شیمی تبدیل، برای باتری‌های تمام‌جامد بدون آند به‌کار می‌رود و چرخه‌پذیری را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anodeless battery · all-solid-state battery · halide perovskite · conversion chemistry · mechanical compliance</description>
+<category>anodeless battery</category>
+<category>all-solid-state battery</category>
+<category>halide perovskite</category>
+<category>conversion chemistry</category>
+<category>mechanical compliance</category>
+</item>
+<item>
+<title>Weak hydrogen–bonding enhanced solvent oxidative stability in an ether–based electrolyte for Li metal battery</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105669</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105669</guid>
+<pubDate>Wed, 18 Nov 2026 22:01:26 GMT</pubDate>
+<description>پیوند هیدروژنی ضعیف، پایداری اکسایشی حلال را در الکترولیت اتری برای باتری فلز لیتیوم بهبود می‌دهد و عملکرد پایدارتری فراهم می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Li metal battery · ether electrolyte · hydrogen bonding · oxidative stability · solvent design</description>
+<category>Li metal battery</category>
+<category>ether electrolyte</category>
+<category>hydrogen bonding</category>
+<category>oxidative stability</category>
+<category>solvent design</category>
+</item>
 <item>
 <title>Interfacial void evolution in solid-state batteries</title>
 <link>https://doi.org/10.1016/j.joule.2026.102736</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>modified separator</category>
 <category>polysulfide catalysis</category>
 <category>redox kinetics</category>
-</item>
-<item>
-<title>Governing Ionic Migration via Polaron-like Engineering in Copper Selenide</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03730</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03730</guid>
-<pubDate>Mon, 16 Nov 2026 15:01:57 GMT</pubDate>
-<description>ترکیب DFT و طیف‌سنجی همگام پرتوی درجا در Cu2Se نشان می‌دهد که حالت‌های شبه‌پلارونی جفت‌شده با شبکه، سد مهاجرت یون Cu+ را به‌صورت قابل تنظیم تغییر می‌دهند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in proposing a polaron-like coupled ion–lattice–electron picture, revealed via DFT and in situ synchrotron analysis, where migrating Cu+ ions form transient polaron-like states acting as tunable migration switches. Significance: bond contraction/expansion and polaron delocalization/localization tune Cu+ migration barriers, offering a unified strategy to govern ionic transport in superionic conductors for energy storage and conversion.&lt;br&gt;🏷 Cu2Se · ion migration · polaron-like states · XANES · superionic conductor</description>
-<category>Cu2Se</category>
-<category>ion migration</category>
-<category>polaron-like states</category>
-<category>XANES</category>
-<category>superionic conductor</category>
-</item>
-<item>
-<title>Multiscale modeling of oil-water two-phase flow in zinc-bromine flow batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125616</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125616</guid>
-<pubDate>Mon, 16 Nov 2026 14:03:06 GMT</pubDate>
-<description>این مقاله جریان دوفازی آب-روغن را در باتری‌های جریان روی-برم با مدل‌سازی چندمقیاسی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-bromine battery · flow battery · two-phase flow · multiscale modeling · oil-water flow</description>
-<category>zinc-bromine battery</category>
-<category>flow battery</category>
-<category>two-phase flow</category>
-<category>multiscale modeling</category>
-<category>oil-water flow</category>
 </item>
 </channel>
 </rss>
