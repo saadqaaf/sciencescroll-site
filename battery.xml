@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 07:01:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 08:03:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Grading the evidence behind electronic-structure descriptors for lithium-sulfur cathode hosts</title>
+<link>https://doi.org/10.1039/d6ta07928h</link>
+<guid isPermaLink="false">10.1039/d6ta07928h</guid>
+<pubDate>Wed, 18 Nov 2026 08:02:09 GMT</pubDate>
+<description>این Perspective شواهد پشت توصیف‌گرهای ساختار الکترونی برای میزبان‌های کاتد لیتیوم-گوگرد را ارزیابی و درجه‌بندی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 💭 Perspective&lt;br&gt;💡 The novelty lies in critically grading, rather than assuming, the evidence behind electronic-structure descriptors used for Li-S cathode host design. Its significance is exposing weaknesses in descriptor-guided screening, clarifying which parameters are genuinely predictive, and guiding more rigorous, evidence-based materials selection for Li-S batteries.&lt;br&gt;🏷 lithium-sulfur battery · cathode host · electronic-structure descriptors · descriptor design · evidence grading</description>
+<category>lithium-sulfur battery</category>
+<category>cathode host</category>
+<category>electronic-structure descriptors</category>
+<category>descriptor design</category>
+<category>evidence grading</category>
+</item>
+<item>
+<title>Single-Atom-Engineered Hard Carbon Anodes for Dendrite-Free Sodium Storage: A Density Functional Theory-Driven and Machine Learning-Assisted Design</title>
+<link>https://doi.org/10.1039/d6ta07447b</link>
+<guid isPermaLink="false">10.1039/d6ta07447b</guid>
+<pubDate>Wed, 18 Nov 2026 08:02:03 GMT</pubDate>
+<description>با ترکیب DFT و یادگیری ماشین، طراحی آندهای کربن سخت با تک‌اتم‌ها برای ذخیره‌سازی سدیم بدون دندریت ارائه می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This work pioneers single-atom engineering of hard carbon anodes for dendrite-free sodium storage, uniquely integrating density functional theory with machine learning to guide design. It addresses the critical challenge of simultaneously regulating reversible Na storage and suppressing dendrites, offering a novel computational-experimental framework that advances rational development of high-performance, safe SIB anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · single-atom doping · density functional theory · machine learning</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>single-atom doping</category>
+<category>density functional theory</category>
+<category>machine learning</category>
+</item>
 <item>
 <title>Beyond Anode Damage: Lithium Accessibility Redirects Cross-Electrode Electrolyte Degradation in Li-O2 Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105663</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>ion-pair decoupling</category>
 <category>Zn(002) texture</category>
 <category>subzero operation</category>
-</item>
-<item>
-<title>Layered Centrosymmetric Copper(II) Coordination Polymer Enabling Four‐Electron Redox Reaction for High‐Performance Sodium‐Ion Battery Cathode</title>
-<link>https://doi.org/10.1002/adfm.79711</link>
-<guid isPermaLink="false">10.1002/adfm.79711</guid>
-<pubDate>Mon, 16 Nov 2026 11:02:02 GMT</pubDate>
-<description>این کار پلیمر کوئوردیناسیونی مس Cu-DDAQ با شبکه π-d مزدوج را به‌عنوان کاتد باتری سدیم-یون معرفی می‌کند که با واکنش ردوکس چهارالکترونی ظرفیت بالا و پایداری چرخه‌ای خوبی ارائه می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a layered centrosymmetric Cu-DDAQ coordination polymer with π-d conjugated Cu–O3N units acting as dual redox centers (Cu2+/Cu+ and C=O/C–O), enabling a four-electron reaction. This boosts capacity (270 mAh/g), suppresses dissolution, and ensures stability (77% retention after 850 cycles), advancing low-cost, high-performance sodium-ion battery cathodes.&lt;br&gt;🏷 sodium-ion battery · copper coordination polymer · four-electron redox · cathode · pi-d conjugation</description>
-<category>sodium-ion battery</category>
-<category>copper coordination polymer</category>
-<category>four-electron redox</category>
-<category>cathode</category>
-<category>pi-d conjugation</category>
-</item>
-<item>
-<title>Calendar Aging Phenomena in Rechargeable Lithium‐Based Batteries: Mechanisms, Diagnosis, and Mitigation</title>
-<link>https://doi.org/10.1002/adfm.79468</link>
-<guid isPermaLink="false">10.1002/adfm.79468</guid>
-<pubDate>Mon, 16 Nov 2026 11:01:57 GMT</pubDate>
-<description>این مرور مکانیسم‌های پیرشدن تقویمی باتری‌های لیتیومی در حالت ذخیره را بررسی کرده و روش‌های تشخیصی و راهکارهای کاهش تخریب مانند مهندسی سطح مشترک را ارزیابی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely integrates calendar-aging mechanisms across lithium battery chemistries, linking interphase chemistry, morphology, and cycling history to degradation modes. Its novelty lies in critically evaluating mitigation strategies by evidence strength and full-cell trade-offs, not electrode-level gains alone. It advances the field by demanding standardized reporting of storage conditions and diagnostic evidence, improving comparability and guiding rational shelf-life extension.&lt;br&gt;🏷 calendar aging · lithium batteries · degradation mechanisms · diagnostics · interfacial engineering</description>
-<category>calendar aging</category>
-<category>lithium batteries</category>
-<category>degradation mechanisms</category>
-<category>diagnostics</category>
-<category>interfacial engineering</category>
 </item>
 </channel>
 </rss>
