@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 12:01:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 13:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Manipulating Spatial Charge Distribution and Electronic Structure in Se‐Doped Hollow Heterostructures for Enhanced Redox Kinetics in Li‐S Batteries</title>
+<link>https://doi.org/10.1002/adfm.79723</link>
+<guid isPermaLink="false">10.1002/adfm.79723</guid>
+<pubDate>Wed, 18 Nov 2026 13:01:56 GMT</pubDate>
+<description>نانوباکس‌های توخالی Co3O4/SnO2 دوپ‌شده با Se به‌عنوان پوشش جداکننده، جذب پلی‌سولفید و سینتیک ردوکس را در باتری Li-S بهبود می‌بخشند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Se-doped Co3O4/SnO2 hollow nanoboxes combine heterointerface engineering with electronic structure modulation for Li-S battery separators. Se doping shifts the Co d-band center upward, strengthening polysulfide adsorption and accelerating redox kinetics while the heterointerface promotes charge redistribution. This spatial-electronic synergy yields ultralow capacity decay (0.049%/cycle over 1000 cycles) and pouch-cell viability, offering a design paradigm for electrocatalytic interfaces.&lt;br&gt;🏷 Li-S battery · heterostructure · Se doping · polysulfide conversion · separator coating</description>
+<category>Li-S battery</category>
+<category>heterostructure</category>
+<category>Se doping</category>
+<category>polysulfide conversion</category>
+<category>separator coating</category>
+</item>
+<item>
+<title>Moisture‐ and Dendrite‐Resistant Argyrodite Electrolytes Enabled by Lithium‐ and Halogen‐Site Synergistic Substitutions for All‐Solid‐State Lithium Batteries</title>
+<link>https://doi.org/10.1002/adfm.79717</link>
+<guid isPermaLink="false">10.1002/adfm.79717</guid>
+<pubDate>Wed, 18 Nov 2026 13:01:50 GMT</pubDate>
+<description>دوپینگ همزمان Ag و Br در الکترولیت آرژیرودایت Li5.4PS4.4Cl1.6 رسانایی یونی، پایداری هوا و سازگاری با لیتیوم فلزی را در باتری تمام‌جامد بهبود داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Ag/Br dual-doping of argyrodite Li5.4PS4.4Cl1.6 simultaneously boosts ionic conductivity (11.44 mS cm−1), air stability (H2S cut to one-third), and Li compatibility via in situ Li-Ag alloy, enabling 1.55 mA cm−2 critical current density, 5000 h cycling, and 84.5% retention after 1000 cycles. This dual-site substitution strategy advances practical all-solid-state batteries.&lt;br&gt;🏷 argyrodite electrolyte · solid-state battery · dual doping · air stability · lithium compatibility</description>
+<category>argyrodite electrolyte</category>
+<category>solid-state battery</category>
+<category>dual doping</category>
+<category>air stability</category>
+<category>lithium compatibility</category>
+</item>
 <item>
 <title>Irreversible Reconstruction of NaVO3 into a Layered MnxV2O5·H2O Phase Enables Reversible Mn2⁺ Storage in Aqueous Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105667</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>bilateral interface</category>
 <category>molecular configuration</category>
 <category>interface stabilization</category>
-</item>
-<item>
-<title>Anion-cation co-engineering enables coupled electronic-lattice regulation for fast Na+ storage in off-stoichiometric iron pyrophosphate cathodes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.083</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.083</guid>
-<pubDate>Mon, 16 Nov 2026 12:06:39 GMT</pubDate>
-<description>هم‌مهندسی آنیون-کاتیون در کاتدهای غیراستوکیومتری پیروفسفات آهن، تنظیم هم‌بسته الکترونی-شبکه‌ای و ذخیره‌سازی سریع Na+ را ممکن کرد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 iron pyrophosphate · sodium-ion battery · anion-cation co-engineering · electronic-lattice coupling · off-stoichiometry</description>
-<category>iron pyrophosphate</category>
-<category>sodium-ion battery</category>
-<category>anion-cation co-engineering</category>
-<category>electronic-lattice coupling</category>
-<category>off-stoichiometry</category>
-</item>
-<item>
-<title>MXene-induced surface electronic regulation for stable Li-rich oxide cathodes in garnet-based solid-state batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.10.080</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.10.080</guid>
-<pubDate>Mon, 16 Nov 2026 12:06:35 GMT</pubDate>
-<description>تنظیم الکترونیکی سطح کاتد اکسید غنی از لیتیوم با MXene برای پایداری در باتری‌های حالت جامد بر پایه گارنت به کار رفت.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-rich oxide cathode · MXene · garnet solid electrolyte · solid-state battery · electronic regulation</description>
-<category>Li-rich oxide cathode</category>
-<category>MXene</category>
-<category>garnet solid electrolyte</category>
-<category>solid-state battery</category>
-<category>electronic regulation</category>
 </item>
 </channel>
 </rss>
