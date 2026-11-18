@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 13:02:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 14:04:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Seawater-Compatible Nanocluster Dilute Electrolyte for Low-Cost Long-Lifespan Four-Electron Zn–I2 Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c16641</link>
+<guid isPermaLink="false">10.1021/acsnano.6c16641</guid>
+<pubDate>Wed, 18 Nov 2026 14:02:28 GMT</pubDate>
+<description>الکترولیت رقیق نانوخوشه‌ای بر پایه SBMA با تفکیک دامنه‌های آب، بازگشت‌پذیری I0/I+ و پایداری آند Zn را بهبود می‌بخشد و باتری Zn–I2 چهارالکترونی با بیش از 16000 چرخه ارائه می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low-cost dilute nanocluster electrolyte (SBMA) that creates hydrophobic-interior nanoclusters, partitioning water into activated/nonactivated domains. This suppresses water activity, enables reversible I⁰/I⁺ conversion via quaternary ammonium–ICl₂⁻ coordination, and stabilizes the Zn anode. Significance: over 16,000 cycles at 10 A g⁻¹, and seawater-compatible operation exceeding 12,000 cycles, enabling sustainable, low-cost four-electron Zn–I₂ batteries.&lt;br&gt;🏷 zinc-iodine battery · four-electron redox · dilute electrolyte · nanocluster electrolyte · seawater electrolyte</description>
+<category>zinc-iodine battery</category>
+<category>four-electron redox</category>
+<category>dilute electrolyte</category>
+<category>nanocluster electrolyte</category>
+<category>seawater electrolyte</category>
+</item>
 <item>
 <title>Manipulating Spatial Charge Distribution and Electronic Structure in Se‐Doped Hollow Heterostructures for Enhanced Redox Kinetics in Li‐S Batteries</title>
 <link>https://doi.org/10.1002/adfm.79723</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>lithium-graphite</category>
 <category>solvation structure</category>
 <category>catalyst</category>
-</item>
-<item>
-<title>Charge-decoupled molecular configuration for bilateral interface stabilization in Zn-I2 batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.11.003</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.11.003</guid>
-<pubDate>Mon, 16 Nov 2026 12:06:43 GMT</pubDate>
-<description>پیکربندی مولکولی جداشده از بار، پایداری دوطرفه فصل مشترک را در باتری‌های Zn-I2 فراهم می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Zn-I2 battery · charge-decoupled configuration · bilateral interface · molecular configuration · interface stabilization</description>
-<category>Zn-I2 battery</category>
-<category>charge-decoupled configuration</category>
-<category>bilateral interface</category>
-<category>molecular configuration</category>
-<category>interface stabilization</category>
 </item>
 </channel>
 </rss>
