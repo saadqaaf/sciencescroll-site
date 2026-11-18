@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 17:01:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 18:05:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Enabling stable lithium batteries via state-dependent Li + coordination in separators: trifluoromethylbenzimidazone-functionalized electrospun polyimide membranes</title>
+<link>https://doi.org/10.1039/d6ta06898g</link>
+<guid isPermaLink="false">10.1039/d6ta06898g</guid>
+<pubDate>Wed, 18 Nov 2026 18:02:21 GMT</pubDate>
+<description>غشای پلی‌ایمید الکتروریسی‌شده با گروه تری‌فلورومتیل‌بنزیمیدازون، با هماهنگی وابسته به حالت Li+، رسوب لیتیوم یکنواخت‌تر و پایداری چرخه‌ای بهتری فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in trifluoromethylbenzimidazone-functionalized electrospun polyimide separators that create state-dependent Li+ coordination, forming a transient ion reservoir to regulate local ion supply. This enables more uniform lithium deposition and improved cycling stability versus commercial PE, offering a promising strategy for stable lithium batteries.&lt;br&gt;🏷 lithium battery · separator · polyimide membrane · Li+ coordination · electrospinning</description>
+<category>lithium battery</category>
+<category>separator</category>
+<category>polyimide membrane</category>
+<category>Li+ coordination</category>
+<category>electrospinning</category>
+</item>
 <item>
 <title>The synergistic effect of Bi vacancy and MXene in MXene (002)/Bi0.8FeO3 (202) heterostructure for dual-ion hybrid supercapacitors</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114400</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>lithiation</category>
 <category>morphology</category>
 <category>multiphysics simulation</category>
-</item>
-<item>
-<title>Data-driven predictive control of battery energy storage with physics-informed sequence modeling</title>
-<link>https://doi.org/10.1016/j.est.2026.125523</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125523</guid>
-<pubDate>Mon, 16 Nov 2026 14:02:55 GMT</pubDate>
-<description>این مقاله کنترل پیش‌بینانه ذخیره‌سازی انرژی باتری را با مدل‌سازی توالی آگاه از فیزیک و رویکرد داده‌محور ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 battery energy storage · predictive control · physics-informed modeling · sequence modeling · data-driven control</description>
-<category>battery energy storage</category>
-<category>predictive control</category>
-<category>physics-informed modeling</category>
-<category>sequence modeling</category>
-<category>data-driven control</category>
 </item>
 </channel>
 </rss>
