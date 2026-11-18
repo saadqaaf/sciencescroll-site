@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 22:01:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 23:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cell-encapsulating polymeric microgels based on droplet microfluidic technology: material design, crosslinking strategies, and biomedical applications</title>
+<link>https://doi.org/10.1016/j.addr.2026.116002</link>
+<guid isPermaLink="false">10.1016/j.addr.2026.116002</guid>
+<pubDate>Wed, 18 Nov 2026 23:01:14 GMT</pubDate>
+<description>این مقاله مروری طراحی مواد، راهبردهای شبکه‌ای‌سازی و کاربردهای زیست‌پزشکی میکروژل‌های پلیمری حاوی سلول را که با فناوری میکروسیال قطره‌ای ساخته می‌شوند بررسی می‌کند.&lt;br&gt;Advanced Drug Delivery Reviews | ⭐ Review&lt;br&gt;🏷 polymeric microgels · droplet microfluidics · cell encapsulation · crosslinking strategies · biomedical applications</description>
+<category>polymeric microgels</category>
+<category>droplet microfluidics</category>
+<category>cell encapsulation</category>
+<category>crosslinking strategies</category>
+<category>biomedical applications</category>
+</item>
+<item>
+<title>Controllable Growth of Micron-Thick Films for Bifacial Perovskite Solar Cells</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02040</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02040</guid>
+<pubDate>Wed, 18 Nov 2026 23:01:10 GMT</pubDate>
+<description>با کنترل بخار IPA در آنیل PbI2، فیلم واسط PbI2–IPA متخلخل و بلوری ساخته شد که تبدیل به α-FAPbI3 را در دمای اتاق ممکن کرده و بازده سلول خورشیدی پروسکایتی دوجهته را به ۲۳٫۷۸٪ رساند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 bifacial perovskite solar cells · micron-thick films · PbI2-IPA intermediate · IPA vapor annealing · alpha-FAPbI3</description>
+<category>bifacial perovskite solar cells</category>
+<category>micron-thick films</category>
+<category>PbI2-IPA intermediate</category>
+<category>IPA vapor annealing</category>
+<category>alpha-FAPbI3</category>
+</item>
 <item>
 <title>Coupling Mechanical Compliance and Conversion Chemistry with a Halide Perovskite Precursor for Anodeless All-Solid-State Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105670</link>
@@ -1182,30 +1206,6 @@
 <category>active learning</category>
 <category>quantile regression</category>
 <category>noisy data</category>
-</item>
-<item>
-<title>CDW gap collapse and Weyl state restoration in Ta2Se8I via coherent phonons: a first-principles study</title>
-<link>https://doi.org/10.1038/s41524-026-02391-5</link>
-<guid isPermaLink="false">10.1038/s41524-026-02391-5</guid>
-<pubDate>Wed, 18 Nov 2026 15:04:37 GMT</pubDate>
-<description>محاسبات اصول اولیه نشان می‌دهد که تحریک فونون همدوس A(18) در (TaSe4)2I تترامریزاسیون زنجیره Ta را تضعیف کرده و گاف CDW را فروپاشیده و حالت ویل را بازمی‌گرداند.&lt;br&gt;npj Computational Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 charge density wave · Weyl semimetal · coherent phonon · Ta2Se8I · first-principles</description>
-<category>charge density wave</category>
-<category>Weyl semimetal</category>
-<category>coherent phonon</category>
-<category>Ta2Se8I</category>
-<category>first-principles</category>
-</item>
-<item>
-<title>Solar Water Evaporation with BiSn Core–Shell Particles: Interfacial Water and Wetting‐Dependent Light Absorption</title>
-<link>https://doi.org/10.1002/smll.76791</link>
-<guid isPermaLink="false">10.1002/smll.76791</guid>
-<pubDate>Wed, 18 Nov 2026 15:04:33 GMT</pubDate>
-<description>ذرات هسته-پوسته BiSn نشان می‌دهند که آبدوستی از طریق بهبود جذب نوری در حالت مرطوب و نه تغییر ترمودینامیک تبخیر، نرخ تبخیر خورشیدی را افزایش می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;🏷 solar evaporation · BiSn core-shell particles · interfacial water · wettability · light absorption</description>
-<category>solar evaporation</category>
-<category>BiSn core-shell particles</category>
-<category>interfacial water</category>
-<category>wettability</category>
-<category>light absorption</category>
 </item>
 </channel>
 </rss>
