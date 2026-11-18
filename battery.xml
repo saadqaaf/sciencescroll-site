@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 10:02:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 11:02:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Targeted Synthesis of Ni–Pt Diatomic Catalysts by Underpotential Deposition and Galvanic Replacement</title>
+<link>https://doi.org/10.1002/aenm.71845</link>
+<guid isPermaLink="false">10.1002/aenm.71845</guid>
+<pubDate>Wed, 18 Nov 2026 11:01:34 GMT</pubDate>
+<description>با ترکیب رسوب زیرپتانسیل و جانشینی گالوانیک، کاتالیزور دواتمی Ni-Pt ساخته شد که در واکنش کاهش اکسیژن و باتری روی-هوا عملکرد و پایداری بالایی نشان داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining underpotential deposition with galvanic replacement for site-selective synthesis of Ni–Pt diatomic catalysts, using sulfur dopants to anchor Cu then Pt. Significance: achieves atomically dispersed Ni–Pt pairs with Ni–N3S/Pt–S4 coordination, 8.1-fold mass activity over Pt/C, 14 mV loss after 10,000 cycles, and 1600 h zinc-air battery stability, validated by DFT.&lt;br&gt;🏷 Ni-Pt diatomic catalyst · underpotential deposition · galvanic replacement · oxygen reduction reaction · zinc-air battery</description>
+<category>Ni-Pt diatomic catalyst</category>
+<category>underpotential deposition</category>
+<category>galvanic replacement</category>
+<category>oxygen reduction reaction</category>
+<category>zinc-air battery</category>
+</item>
+<item>
+<title>Reaction‐Programmed Dual‐State Molecular Engineering Decouples Mechanical Reinforcement and Ion Transport for Durable Flexible Zinc Devices</title>
+<link>https://doi.org/10.1002/aenm.71852</link>
+<guid isPermaLink="false">10.1002/aenm.71852</guid>
+<pubDate>Wed, 18 Nov 2026 11:01:20 GMT</pubDate>
+<description>با مهندسی مولکولی دوحالته مبتنی بر استیل‌اوره، هیدروژل الکترولیتی با کشش ۶۱۰۰٪ و رسانایی یونی بالا ساخته شد که دندریت روی را سرکوب و عمر باتری روی را به بیش از ۱۰۰۰۰ ساعت رساند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 Acetylurea enables reaction-programmed dual-state engineering: it first forms dynamic imine crosslinks with polyacrylamide, reinforcing the network while shielding Zn²⁺ trapping, then free acetylurea tunes solvation and hydrogen bonding. This decouples mechanical durability from ion transport, yielding 6100% strain, 19.1 mS cm⁻¹ conductivity, and 10,000-h Zn cycling—a general principle for durable flexible aqueous zinc devices.&lt;br&gt;🏷 flexible zinc-ion battery · hydrogel electrolyte · acetylurea · Zn dendrite suppression · dual-state molecular engineering</description>
+<category>flexible zinc-ion battery</category>
+<category>hydrogel electrolyte</category>
+<category>acetylurea</category>
+<category>Zn dendrite suppression</category>
+<category>dual-state molecular engineering</category>
+</item>
 <item>
 <title>Manipulating Monomicelle Monolayer Assembly via Salt Effect Toward Tailorable Mesoporous Polydopamine Superstructures for Aqueous Batteries</title>
 <link>https://doi.org/10.1002/adma.75655</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>electrochemical reconstruction</category>
 <category>lithium-ion battery</category>
 <category>direct regeneration</category>
-</item>
-<item>
-<title>Critical Pore Sizes and Distinct Ionic–Metallic Bonding during Lithium, Sodium, and Potassium Filling of Nanoporous Carbon</title>
-<link>https://doi.org/10.1021/acsnano.6c17732</link>
-<guid isPermaLink="false">10.1021/acsnano.6c17732</guid>
-<pubDate>Mon, 16 Nov 2026 12:03:43 GMT</pubDate>
-<description>مطالعه با استفاده از کربن قالب‌زده با زئولیت نشان می‌دهد که تطابق فلز-حفره، نه اندازه حفره، ذخیره‌سازی ولتاژ پایین Li، Na و K را کنترل می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in showing metal–pore matching, not pore size alone, governs low-voltage alkali storage in nanoporous carbon, with distinct ionic–metallic filling mechanisms for Li, Na, and K. Significance: this enables metal-specific pore design, achieving capacities beyond graphite limits and guiding hard-carbon anode optimization beyond one-size-fits-all pore strategies.&lt;br&gt;🏷 nanoporous carbon · alkali metal storage · pore filling · zeolite-templated carbon · hard carbon anode</description>
-<category>nanoporous carbon</category>
-<category>alkali metal storage</category>
-<category>pore filling</category>
-<category>zeolite-templated carbon</category>
-<category>hard carbon anode</category>
-</item>
-<item>
-<title>Achieving Stable Sodium Storage in Sodium Superionic Conductor Anodes via Iron-Enabled Bulk-Interface Confinement for Aqueous Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c16216</link>
-<guid isPermaLink="false">10.1021/acsnano.6c16216</guid>
-<pubDate>Mon, 16 Nov 2026 12:03:15 GMT</pubDate>
-<description>این مقاله با دوپینگ آهن در NaTi2(PO4)3 ساختار هسته-پوسته Fe3O4 ایجاد کرده و با مهار انحلال تیتانات، ظرفیت بالا و پایداری چرخه‌ای استثنایی در باتری سدیم آبی فراهم می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an iron-doping strategy creating a self-organized Fe₃O₄ shell on NASICON NTP, forming a bulk-shell dual-defense that suppresses titanate dissolution by consuming OH⁻ ions. This yields record capacity (164.9 mAh g⁻¹) with 90.9% retention over 2000 cycles and 106.4 Wh kg⁻¹ full-cell energy density, offering a broadly applicable approach for stabilizing electrodes in corrosive environments.&lt;br&gt;🏷 NASICON anode · aqueous sodium-ion battery · iron doping · core-shell confinement · titanium dissolution</description>
-<category>NASICON anode</category>
-<category>aqueous sodium-ion battery</category>
-<category>iron doping</category>
-<category>core-shell confinement</category>
-<category>titanium dissolution</category>
 </item>
 </channel>
 </rss>
