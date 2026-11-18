@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 11:02:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:01:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Irreversible Reconstruction of NaVO3 into a Layered MnxV2O5·H2O Phase Enables Reversible Mn2⁺ Storage in Aqueous Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105667</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105667</guid>
+<pubDate>Wed, 18 Nov 2026 12:01:19 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که بازسازی برگشت‌ناپذیر NaVO3 به فاز لایه‌ای MnxV2O5·H2O ذخیره‌سازی برگشت‌پذیر Mn2⁺ را در باتری‌های آبی ممکن می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 aqueous battery · Mn2+ storage · NaVO3 · layered phase · irreversible reconstruction</description>
+<category>aqueous battery</category>
+<category>Mn2+ storage</category>
+<category>NaVO3</category>
+<category>layered phase</category>
+<category>irreversible reconstruction</category>
+</item>
+<item>
+<title>Impurity-driven electrochemical degradation in carbon-coated Na3V2(PO4)2F3 positive electrode materials for high-power sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105668</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105668</guid>
+<pubDate>Wed, 18 Nov 2026 12:01:15 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که ناخالصی‌ها باعث تخریب الکتروشیمیایی مواد کاتدی پوشش‌کربنی Na3V2(PO4)2F3 برای باتری‌های سدیم-یونی توان‌بالا می‌شوند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Na3V2(PO4)2F3 · carbon coating · impurity · electrochemical degradation</description>
+<category>sodium-ion battery</category>
+<category>Na3V2(PO4)2F3</category>
+<category>carbon coating</category>
+<category>impurity</category>
+<category>electrochemical degradation</category>
+</item>
 <item>
 <title>Targeted Synthesis of Ni–Pt Diatomic Catalysts by Underpotential Deposition and Galvanic Replacement</title>
 <link>https://doi.org/10.1002/aenm.71845</link>
@@ -1184,31 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>garnet solid electrolyte</category>
 <category>solid-state battery</category>
 <category>electronic regulation</category>
-</item>
-<item>
-<title>Secondary Solvation Shell Regulation for Fast-Charging Lithium Metal Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c17148</link>
-<guid isPermaLink="false">10.1021/jacs.6c17148</guid>
-<pubDate>Mon, 16 Nov 2026 12:06:15 GMT</pubDate>
-<description>الکترولیت سه‌حلاله با ساختار حلال‌پوشی گرادیانی، تخلیه یون در فصل مشترک را مهار کرده و شارژ سریع باتری لیتیوم-فلز با بازده ۹۸٫۴٪ را ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targeting the secondary solvation shell, rather than the primary shell, to prevent Li+ depletion at polarized interfaces. The gradient solvation structure, using a tri-solvent electrolyte, suppresses ionic clustering and sustains interfacial kinetics under fast charging, enabling 98.4% Coulombic efficiency at 16 mA cm–2 and 90.4% retention over 200 cycles—establishing a new design principle for fast-charging lithium metal batteries.&lt;br&gt;🏷 lithium metal battery · fast charging · secondary solvation shell · gradient solvation · electrolyte design</description>
-<category>lithium metal battery</category>
-<category>fast charging</category>
-<category>secondary solvation shell</category>
-<category>gradient solvation</category>
-<category>electrolyte design</category>
-</item>
-<item>
-<title>Interfacial Electrochemical Reconstruction Enables Direct Regeneration of Graphite Anodes</title>
-<link>https://doi.org/10.1021/acsnano.6c07366</link>
-<guid isPermaLink="false">10.1021/acsnano.6c07366</guid>
-<pubDate>Mon, 16 Nov 2026 12:03:56 GMT</pubDate>
-<description>یک راهبرد بازیافت انتخابی سطحی مبتنی بر تجزیه الکتروشیمیایی SEI، ظرفیت و پایداری آند گرافیت مصرف‌شده را بدون جداسازی مواد بازمی‌گرداند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an interfacial-selective electrochemical SEI decomposition (ESD) strategy that removes unstable organic SEI and rebuilds a thin inorganic-rich layer, restoring Li+ transport without bulk damage. Its significance: direct regeneration of spent graphite anodes while preserving the full electrode architecture, enabling low-energy, sustainable recycling with near-complete capacity recovery and improved cycling stability in both half and full cells.&lt;br&gt;🏷 graphite anode recycling · SEI decomposition · electrochemical reconstruction · lithium-ion battery · direct regeneration</description>
-<category>graphite anode recycling</category>
-<category>SEI decomposition</category>
-<category>electrochemical reconstruction</category>
-<category>lithium-ion battery</category>
-<category>direct regeneration</category>
 </item>
 </channel>
 </rss>
