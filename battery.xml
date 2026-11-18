@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 18:05:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 19:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interfacial void evolution in solid-state batteries</title>
+<link>https://doi.org/10.1016/j.joule.2026.102736</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102736</guid>
+<pubDate>Wed, 18 Nov 2026 19:01:26 GMT</pubDate>
+<description>این مقاله به بررسی تکامل حفره‌های بین‌سطحی در باتری‌های حالت جامد و نقش آن‌ها در تخریب و عملکرد این باتری‌ها می‌پردازد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 solid-state batteries · interfacial voids · void evolution · interface degradation · chemo-mechanical</description>
+<category>solid-state batteries</category>
+<category>interfacial voids</category>
+<category>void evolution</category>
+<category>interface degradation</category>
+<category>chemo-mechanical</category>
+</item>
 <item>
 <title>Enabling stable lithium batteries via state-dependent Li + coordination in separators: trifluoromethylbenzimidazone-functionalized electrospun polyimide membranes</title>
 <link>https://doi.org/10.1039/d6ta06898g</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>two-phase flow</category>
 <category>multiscale modeling</category>
 <category>oil-water flow</category>
-</item>
-<item>
-<title>Fracture behaviour in Si-based anodes depending on the morphology and lithiation parameters based on multiphysics simulations</title>
-<link>https://doi.org/10.1016/j.est.2026.125569</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125569</guid>
-<pubDate>Mon, 16 Nov 2026 14:03:02 GMT</pubDate>
-<description>این مقاله رفتار شکست در آندهای Si را بر اساس مورفولوژی و پارامترهای لیتیوم‌دار شدن با شبیه‌سازی چندفیزیکی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Si anode · fracture · lithiation · morphology · multiphysics simulation</description>
-<category>Si anode</category>
-<category>fracture</category>
-<category>lithiation</category>
-<category>morphology</category>
-<category>multiphysics simulation</category>
 </item>
 </channel>
 </rss>
