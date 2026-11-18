@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 15:05:01 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 16:02:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Integrating cross-border charging cost differentials into charging infrastructure planning for long-haul battery-electric trucks</title>
+<link>https://doi.org/10.1016/j.esr.2026.102398</link>
+<guid isPermaLink="false">10.1016/j.esr.2026.102398</guid>
+<pubDate>Wed, 18 Nov 2026 16:02:19 GMT</pubDate>
+<description>این مقاله تفاوت‌های هزینه شارژ فرامرزی را در برنامه‌ریزی زیرساخت شارژ برای کامیون‌های برقی مسافت‌طولانی ادغام می‌کند تا تخصیص بهینه ایستگاه‌های شارژ را بهبود دهد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 charging infrastructure · battery-electric trucks · cross-border charging · cost differentials · infrastructure planning</description>
+<category>charging infrastructure</category>
+<category>battery-electric trucks</category>
+<category>cross-border charging</category>
+<category>cost differentials</category>
+<category>infrastructure planning</category>
+</item>
+<item>
+<title>Ionic polymer with polyethylene oxide-based crosslinks enables highly conductive ionogel membrane for room-temperature lithium batteries</title>
+<link>https://doi.org/10.1039/d6mh01833e</link>
+<guid isPermaLink="false">10.1039/d6mh01833e</guid>
+<pubDate>Wed, 18 Nov 2026 16:02:08 GMT</pubDate>
+<description>این پژوهش یک غشای یونوژل با اتصالات عرضی پلی‌اتیلن‌اکساید طراحی می‌کند که رسانایی یونی بالا و خواص مکانیکی مناسب برای باتری‌های لیتیومی دمای اتاق فراهم می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ionic polymer with polyethylene oxide-based crosslinks, creating an ionogel membrane that decouples ionic conductivity from segmental mobility. This enables high conductivity while maintaining mechanical integrity. Significance: it supports room-temperature lithium batteries, overcoming the conductivity–mechanics trade-off of linear polymer electrolytes.&lt;br&gt;🏷 ionogel membrane · polyethylene oxide · crosslinked polymer · lithium battery · ionic conductivity</description>
+<category>ionogel membrane</category>
+<category>polyethylene oxide</category>
+<category>crosslinked polymer</category>
+<category>lithium battery</category>
+<category>ionic conductivity</category>
+</item>
 <item>
 <title>Atomic‐Scale Structural Heterogeneity Regulates Polarization Reversibility for High‐Performance Energy Storage in Lead‐Free Relaxor Ferroelectrics</title>
 <link>https://doi.org/10.1002/smll.76726</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>pore structure</category>
 <category>wide voltage</category>
 <category>supercapacitor</category>
-</item>
-<item>
-<title>State of health estimation of lithium-ion batteries via multi-modal wavelet fusion cumulative residual spectral entropy</title>
-<link>https://doi.org/10.1016/j.est.2026.125496</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125496</guid>
-<pubDate>Mon, 16 Nov 2026 14:02:21 GMT</pubDate>
-<description>تخمین وضعیت سلامت باتری‌های لیتیوم-یون با روش آنتروپی باقیمانده طیفی و همجوشی موجک چندوجهی انجام شده است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion batteries · wavelet fusion · spectral entropy · health estimation</description>
-<category>state of health</category>
-<category>lithium-ion batteries</category>
-<category>wavelet fusion</category>
-<category>spectral entropy</category>
-<category>health estimation</category>
-</item>
-<item>
-<title>Unveiling solid electrolyte interphase nano-structural doping</title>
-<link>https://doi.org/10.1016/j.est.2026.125532</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125532</guid>
-<pubDate>Mon, 16 Nov 2026 14:02:14 GMT</pubDate>
-<description>این مقاله دوپینگ نانوساختاری لایه الکترولیت جامد (SEI) را آشکار می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solid electrolyte interphase · nano-structural doping · SEI · lithium-ion battery · interphase</description>
-<category>solid electrolyte interphase</category>
-<category>nano-structural doping</category>
-<category>SEI</category>
-<category>lithium-ion battery</category>
-<category>interphase</category>
 </item>
 </channel>
 </rss>
