@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 09:01:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 10:02:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Manipulating Monomicelle Monolayer Assembly via Salt Effect Toward Tailorable Mesoporous Polydopamine Superstructures for Aqueous Batteries</title>
+<link>https://doi.org/10.1002/adma.75655</link>
+<guid isPermaLink="false">10.1002/adma.75655</guid>
+<pubDate>Wed, 18 Nov 2026 10:02:32 GMT</pubDate>
+<description>با استفاده از اثر نمک در خودآرایی مونومایسل‌ها، ساختارهای مزوپور تک‌لایه پلی‌دوپامین ساخته شد که به‌عنوان جداکننده یونی، عمر باتری آبی Sn را به 2794 ساعت رساند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a salt-effect-modulated monomicelle assembly strategy that stabilizes monomicelles and drives their lateral monolayer assembly at emulsion interfaces, yielding four tailorable mesoporous polydopamine superstructures. Its significance is demonstrating these monolayer architectures as nano-ion dividers that homogenize ion flux, enabling dendrite-free Sn aqueous batteries with a 2794 h lifespan.&lt;br&gt;🏷 mesoporous polydopamine · monomicelle assembly · salt effect · aqueous battery · nano-ion divider</description>
+<category>mesoporous polydopamine</category>
+<category>monomicelle assembly</category>
+<category>salt effect</category>
+<category>aqueous battery</category>
+<category>nano-ion divider</category>
+</item>
+<item>
+<title>Stage‐Specific Pressure Programming Decouples Low‐Pressure Sulfur Reduction From High‐Pressure Interfacial Reconstruction in All‐Solid‐State Lithium–Sulfur Batteries</title>
+<link>https://doi.org/10.1002/adma.75779</link>
+<guid isPermaLink="false">10.1002/adma.75779</guid>
+<pubDate>Wed, 18 Nov 2026 10:02:16 GMT</pubDate>
+<description>پروتکل فشار برنامهای مرحلهای با دشارژ 1 MPa و شارژ 180 MPa، رفتار نامتقارن فشار-الکتروشیمیایی را در باتری تمامحالت Li-S جدا کرده و 98.8 درصد ظرفیت را پس از ۱۰۰ چرخه حفظ میکند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in treating stack pressure as a stage-specific regulator, decoupling low-pressure discharge from high-pressure charge via a P-R-η threshold algorithm. Significance: pressure-programmed cycling (1 MPa discharge/180 MPa charge) retains 98.8% capacity after 100 cycles, offering a dynamic strategy to ease the &amp;quot;impossible trinity&amp;quot; of energy density, cycle life, and low stack pressure in all-solid-state Li–S batteries.&lt;br&gt;🏷 all-solid-state Li-S · stack pressure · sulfur reduction · interfacial reconstruction · pressure programming</description>
+<category>all-solid-state Li-S</category>
+<category>stack pressure</category>
+<category>sulfur reduction</category>
+<category>interfacial reconstruction</category>
+<category>pressure programming</category>
+</item>
+<item>
+<title>Oxygen Anchoring Enabled by Ce‐Based Pyrochlore Coating for Robust Lithium‐Ion Battery Cathodes</title>
+<link>https://doi.org/10.1002/adma.75701</link>
+<guid isPermaLink="false">10.1002/adma.75701</guid>
+<pubDate>Wed, 18 Nov 2026 10:02:11 GMT</pubDate>
+<description>پوشش پیروکلر پایه Ce همراه با دوپینگ Ce در کاتد NCM، آزادسازی اکسیژن را مهار کرده و پایداری چرخهای بالا در ولتاژ قطع 4.50 ولت فراهم میکند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining a Ce-based pyrochlore coating with bulk Ce doping to anchor oxygen in Ni-rich cathodes, enhancing lattice-oxygen redox reversibility and suppressing release. This dual strategy delivers exceptional cycling stability under harsh conditions (72.2% retention after 400 cycles at 4.50 V, 60°C; 91.0% after 1000 cycles in pouch cells), offering a feasible route to durable high-energy batteries.&lt;br&gt;🏷 Ni-rich cathode · Ce-based pyrochlore · oxygen anchoring · lithium-ion battery · lattice oxygen</description>
+<category>Ni-rich cathode</category>
+<category>Ce-based pyrochlore</category>
+<category>oxygen anchoring</category>
+<category>lithium-ion battery</category>
+<category>lattice oxygen</category>
+</item>
+<item>
+<title>Probing Phonon Dynamics for Kinetic Stabilization of Single‐Crystal Nickel‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/adma.75751</link>
+<guid isPermaLink="false">10.1002/adma.75751</guid>
+<pubDate>Wed, 18 Nov 2026 10:01:58 GMT</pubDate>
+<description>همدoping Si-Ti در کاتد تککریستالی غنینیکل LiNi0.83Co0.12Mn0.05O2 با تغییر دینامیک فونون، آزادسازی اکسیژن را مهار کرده و 83.17 درصد ظرفیت را پس از ۱۰۰۰ چرخه حفظ کرد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targeting kinetic stabilization of oxygen release via Si─Ti co-doping, using phonon dynamics to enhance scattering and modify TM─O modes—an underexplored dimension beyond thermodynamic approaches. Significance: suppressed oxygen release and irreversible phase transitions, retaining 83.17% capacity after 1000 cycles at 5 C, highlighting kinetic factors for durable Ni-rich cathode design.&lt;br&gt;🏷 Ni-rich cathode · single-crystal · phonon dynamics · oxygen release · Si-Ti co-doping</description>
+<category>Ni-rich cathode</category>
+<category>single-crystal</category>
+<category>phonon dynamics</category>
+<category>oxygen release</category>
+<category>Si-Ti co-doping</category>
+</item>
 <item>
 <title>Grading the evidence behind electronic-structure descriptors for lithium-sulfur cathode hosts</title>
 <link>https://doi.org/10.1039/d6ta07928h</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in targe
 <category>iron doping</category>
 <category>core-shell confinement</category>
 <category>titanium dissolution</category>
-</item>
-<item>
-<title>Cofactor‐Inspired Second‐Sphere Engineering of Artificial Metalloenzymes for Neutral Ammonia Synthesis</title>
-<link>https://doi.org/10.1002/anie.2640104</link>
-<guid isPermaLink="false">10.1002/anie.2640104</guid>
-<pubDate>Mon, 16 Nov 2026 12:02:41 GMT</pubDate>
-<description>این مقاله با مهندسی پوسته دوم الهام‌گرفته از کوفاکتور، نانوزیم CuS1/CN را برای سنتز انتخابی آمونیاک از نیترات در شرایط خنثی و ادغام آن در باتری Zn-NO3 طراحی می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in cofactor-inspired second-sphere engineering of CuS1/CN, an artificial nanozyme with atomically defined [3Cu−1S] motifs on ultrasmall Cu clusters. This microenvironment mimics enzyme compartmentalization, overcomes the *NO2-to-*NO2H bottleneck, and lowers the *NH2O-to-*NH2OH barrier. It enables efficient, selective neutral ammonia electrosynthesis at industrial current densities and integration into a Zn−NO3− battery, advancing programmable artificial enzyme design.&lt;br&gt;🏷 artificial metalloenzyme · second-sphere engineering · ammonia electrosynthesis · nitrate reduction · Zn-NO3 battery</description>
-<category>artificial metalloenzyme</category>
-<category>second-sphere engineering</category>
-<category>ammonia electrosynthesis</category>
-<category>nitrate reduction</category>
-<category>Zn-NO3 battery</category>
-</item>
-<item>
-<title>Coking–Crosslinking Competition Shapes Alveolar Hard Carbon Formation From Heterogeneous Precursors for Wide‐Temperature Sodium Storage</title>
-<link>https://doi.org/10.1002/anie.9097834</link>
-<guid isPermaLink="false">10.1002/anie.9097834</guid>
-<pubDate>Mon, 16 Nov 2026 12:02:32 GMT</pubDate>
-<description>این مقاله نشان می‌دهد رقابت کک‌شدن و اتصال عرضی مسیر کربنی‌شدن پیش‌ماده‌های ناهمگن را تعیین می‌کند و کربن سخت آلوئولار با ذخیره‌سازی سدیم پایدار در دمای گسترده تولید می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing a coking–crosslinking competition mechanism that selects carbonization pathways in heterogeneous precursors, enabling alveolar hard carbon via controlled fraction removal. Significance: this pathway-selective design yields 388.3 mAh g⁻¹, 91.3% ICE, 10,500-cycle stability, −25 to 45°C operation, and 35.6% lower material impact, offering a scalable route to sustainable, wide-temperature sodium storage.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · coking-crosslinking competition · wide-temperature storage · alveolar carbon</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>coking-crosslinking competition</category>
-<category>wide-temperature storage</category>
-<category>alveolar carbon</category>
-</item>
-<item>
-<title>Light‐Triggered Hole‐Driven Interfacial Desolvation and Reversible Defect Buffering in a ZnPc‐VOH p‐n Heterojunction for Photo‐Assisted Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/adfm.79704</link>
-<guid isPermaLink="false">10.1002/adfm.79704</guid>
-<pubDate>Mon, 16 Nov 2026 11:02:32 GMT</pubDate>
-<description>همگون‌گاه p-n ZnPc-VOH با نور، جدایش بار و بازآرایی لایه دوگانه را ممکن کرد و با کاهش سد آن‌حلال‌پوشی و بافرپذیری برگشت‌پذیر نقص، ظرفیت و پایداری باتری روی-یون نوری را بهبود داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a ZnPc-VOH p-n heterojunction where photogenerated holes reconfigure the electric double layer to lower Zn2+ desolvation barriers, while electrons drive reversible V5+/V4+ redox and oxygen-vacancy buffering. This dual photo-reconfigurable electro-ionic dynamic boosts capacity 25.2%, cuts resistance 43%, and enables bias-free photo-charging (0.87 V, 0.96%), shifting battery design from static to dynamic interfaces.&lt;br&gt;🏷 photo-assisted Zn-ion battery · ZnPc-VOH heterojunction · interfacial desolvation · oxygen vacancy buffering · photogenerated holes</description>
-<category>photo-assisted Zn-ion battery</category>
-<category>ZnPc-VOH heterojunction</category>
-<category>interfacial desolvation</category>
-<category>oxygen vacancy buffering</category>
-<category>photogenerated holes</category>
-</item>
-<item>
-<title>Zwitterionic Ion‐Pair Decoupling Enables Zn Texture Modulation Toward Subzero Solid‐State Zinc Batteries</title>
-<link>https://doi.org/10.1002/adfm.79660</link>
-<guid isPermaLink="false">10.1002/adfm.79660</guid>
-<pubDate>Mon, 16 Nov 2026 11:02:06 GMT</pubDate>
-<description>این پژوهش با راهبرد جداسازی جفت‌یون زویتریونی در الکترولیت پلیمری، انتقال Zn2+ و رسوب‌گذاری بافت Zn(002) را بهبود می‌بخشد و باتری روی حالت‌جامد را در دمای زیر صفر پایدار می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a zwitterionic ion-pair decoupling strategy using MPC in PVDF-HFP/Zn(OTf)₂/EC electrolyte, simultaneously regulating bulk solvation and interfacial Zn(002) texture. This weakens Zn²⁺–OTf⁻ pairing, accelerates ion transport, and enables dendrite-free deposition, achieving 2000 h cycling and stable −20°C Zn|VO₂ operation. It establishes a molecular design principle linking ion-pair chemistry, interfacial kinetics, and crystallographic deposition for subzero solid-state zinc batteries.&lt;br&gt;🏷 solid-state zinc battery · zwitterionic electrolyte · ion-pair decoupling · Zn(002) texture · subzero operation</description>
-<category>solid-state zinc battery</category>
-<category>zwitterionic electrolyte</category>
-<category>ion-pair decoupling</category>
-<category>Zn(002) texture</category>
-<category>subzero operation</category>
 </item>
 </channel>
 </rss>
