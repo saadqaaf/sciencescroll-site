@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 04:01:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 05:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transforming molecular evolutionary analyses with protein foundation models</title>
+<link>https://doi.org/10.1038/s41592-026-03304-6</link>
+<guid isPermaLink="false">10.1038/s41592-026-03304-6</guid>
+<pubDate>Thu, 19 Nov 2026 05:01:38 GMT</pubDate>
+<description>این مقاله چگونگی تحول تحلیل‌های تکاملی مولکولی با مدل‌های بنیادی پروتئین را بررسی و فرصت‌ها و چالش‌های آن را بیان می‌کند.&lt;br&gt;Nature Methods | 💭 Perspective&lt;br&gt;🏷 protein foundation models · molecular evolution · phylogenetics · protein language models · evolutionary analysis</description>
+<category>protein foundation models</category>
+<category>molecular evolution</category>
+<category>phylogenetics</category>
+<category>protein language models</category>
+<category>evolutionary analysis</category>
+</item>
+<item>
+<title>A zero-shot spillover denoiser for highly multiplexed images</title>
+<link>https://doi.org/10.1038/s41592-026-03263-y</link>
+<guid isPermaLink="false">10.1038/s41592-026-03263-y</guid>
+<pubDate>Thu, 19 Nov 2026 05:01:35 GMT</pubDate>
+<description>این مقاله یک نویززدا با یادگیری صفر-نمونه برای تصاویر بسیار چندگانه ارائه می‌کند که بدون نیاز به داده آموزشی هدف، کیفیت تصاویر را بهبود می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 spillover denoiser · zero-shot learning · highly multiplexed imaging · image denoising · computational imaging</description>
+<category>spillover denoiser</category>
+<category>zero-shot learning</category>
+<category>highly multiplexed imaging</category>
+<category>image denoising</category>
+<category>computational imaging</category>
+</item>
+<item>
+<title>Electronic Synergy of Dual-Atom Co Sites Enables Hydrodeoxygenation of Vanillin to Guaiacol</title>
+<link>https://doi.org/10.1007/s40820-026-02360-z</link>
+<guid isPermaLink="false">10.1007/s40820-026-02360-z</guid>
+<pubDate>Thu, 19 Nov 2026 05:01:31 GMT</pubDate>
+<description>کاتالیزور دواتمی Co با ساختار Co2N6 از طریق مهاجرت حرارتی ساخته شد و در هیدرودی‌اکسیژناسیون وانیلین به گوایاکول با تبدیل و گزینش‌پذیری ۱۰۰٪ عمل کرد.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 dual-atom catalyst · vanillin hydrodeoxygenation · guaiacol · Co2N6 sites · biomass valorization</description>
+<category>dual-atom catalyst</category>
+<category>vanillin hydrodeoxygenation</category>
+<category>guaiacol</category>
+<category>Co2N6 sites</category>
+<category>biomass valorization</category>
+</item>
+<item>
+<title>Luminescent radicals – synthesis, photophysics and applications</title>
+<link>https://doi.org/10.1039/d6cs00975a</link>
+<guid isPermaLink="false">10.1039/d6cs00975a</guid>
+<pubDate>Thu, 19 Nov 2026 05:01:27 GMT</pubDate>
+<description>این مرور به سنتز، خواص فوتوفیزیکی، رابطه ساختار-خاصیت و کاربردهای رادیکال‌های نورتاب در دمای اتاق می‌پردازد.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 luminescent radicals · photophysics · structure-property relationship · radical synthesis · optoelectronic applications</description>
+<category>luminescent radicals</category>
+<category>photophysics</category>
+<category>structure-property relationship</category>
+<category>radical synthesis</category>
+<category>optoelectronic applications</category>
+</item>
+<item>
+<title>Aggregation-induced radical</title>
+<link>https://doi.org/10.1039/d6cs00342g</link>
+<guid isPermaLink="false">10.1039/d6cs00342g</guid>
+<pubDate>Thu, 19 Nov 2026 05:01:23 GMT</pubDate>
+<description>این مقاله مفهوم رادیکال القاشده با تجمع (AIR) را معرفی و مکانیسم، اعتبارسنجی نظری و تجربی، طراحی مواد و کاربردهای آینده آن را در مقایسه با ACQ بررسی می‌کند.&lt;br&gt;Chemical Society Reviews | 💭 Perspective&lt;br&gt;🏷 aggregation-induced radical · AIR mechanism · ACQ · radical stabilization · material design</description>
+<category>aggregation-induced radical</category>
+<category>AIR mechanism</category>
+<category>ACQ</category>
+<category>radical stabilization</category>
+<category>material design</category>
+</item>
 <item>
 <title>An ultralow-cost zeolitic imidazolate framework with nonpolar molecular clamp for efficient coal-bed methane purification</title>
 <link>https://doi.org/10.1039/d6ta08626h</link>
@@ -1146,66 +1206,6 @@
 <category>Cu-FeCoO catalyst</category>
 <category>active-phase switching</category>
 <category>polysulfide production</category>
-</item>
-<item>
-<title>Photothermal driven CO2 methanation over Ni-loaded CaO-decorated SiC nanowires aerogel with ultrahigh conversion and selectivity</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127817</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127817</guid>
-<pubDate>Wed, 18 Nov 2026 22:01:18 GMT</pubDate>
-<description>آئروژل نانوسیم SiC پوشش‌داده‌شده با CaO و بارگذاری‌شده با Ni برای متاناسیون CO2 فتوترمال طراحی شد و تبدیل و گزینش‌پذیری بسیار بالایی به‌دست آمد.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 CO2 methanation · SiC nanowire aerogel · Ni catalyst · photothermal catalysis · CaO promoter</description>
-<category>CO2 methanation</category>
-<category>SiC nanowire aerogel</category>
-<category>Ni catalyst</category>
-<category>photothermal catalysis</category>
-<category>CaO promoter</category>
-</item>
-<item>
-<title>The vicious circle of increasing volatility in international affairs and the implications for food systems</title>
-<link>https://doi.org/10.1038/s43016-026-01440-y</link>
-<guid isPermaLink="false">10.1038/s43016-026-01440-y</guid>
-<pubDate>Wed, 18 Nov 2026 21:01:49 GMT</pubDate>
-<description>این مقاله حلقه معیوب افزایش نوسان در امور بین‌الملل و پیامدهای آن برای نظام‌های غذایی را تحلیل می‌کند.&lt;br&gt;Nature Food | 🔬 Research Article&lt;br&gt;🏷 volatility · international affairs · food systems · vicious circle · food security</description>
-<category>volatility</category>
-<category>international affairs</category>
-<category>food systems</category>
-<category>vicious circle</category>
-<category>food security</category>
-</item>
-<item>
-<title>Competing concepts of food security in a fragmented geopolitical landscape</title>
-<link>https://doi.org/10.1038/s43016-026-01456-4</link>
-<guid isPermaLink="false">10.1038/s43016-026-01456-4</guid>
-<pubDate>Wed, 18 Nov 2026 21:01:45 GMT</pubDate>
-<description>این مقاله مفاهیم رقیب امنیت غذایی را در چشم‌انداز ژئوپلیتیکی چندپاره بررسی و مقایسه می‌کند.&lt;br&gt;Nature Food | 🔬 Research Article&lt;br&gt;🏷 food security concepts · geopolitical fragmentation · policy discourse · food governance · competing framings</description>
-<category>food security concepts</category>
-<category>geopolitical fragmentation</category>
-<category>policy discourse</category>
-<category>food governance</category>
-<category>competing framings</category>
-</item>
-<item>
-<title>Food systems in an age of cascading risks</title>
-<link>https://doi.org/10.1038/s43016-026-01451-9</link>
-<guid isPermaLink="false">10.1038/s43016-026-01451-9</guid>
-<pubDate>Wed, 18 Nov 2026 21:01:40 GMT</pubDate>
-<description>این مقاله به آسیب‌پذیری نظام‌های غذایی در برابر ریسک‌های زنجیره‌ای و راه‌های افزایش تاب‌آوری می‌پردازد.&lt;br&gt;Nature Food | 💭 Perspective&lt;br&gt;🏷 food systems · cascading risks · resilience · global shocks · food security</description>
-<category>food systems</category>
-<category>cascading risks</category>
-<category>resilience</category>
-<category>global shocks</category>
-<category>food security</category>
-</item>
-<item>
-<title>Risks and realities of agricultural commodity market concentration</title>
-<link>https://doi.org/10.1038/s43016-026-01458-2</link>
-<guid isPermaLink="false">10.1038/s43016-026-01458-2</guid>
-<pubDate>Wed, 18 Nov 2026 21:01:35 GMT</pubDate>
-<description>این مقاله ریسک‌ها و واقعیت‌های تمرکز بازار کالاهای کشاورزی و پیامدهای آن برای امنیت غذایی را تحلیل می‌کند.&lt;br&gt;Nature Food | 🔬 Research Article&lt;br&gt;🏷 commodity markets · market concentration · agricultural commodities · food security · market power</description>
-<category>commodity markets</category>
-<category>market concentration</category>
-<category>agricultural commodities</category>
-<category>food security</category>
-<category>market power</category>
 </item>
 </channel>
 </rss>
