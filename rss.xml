@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 15:01:44 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 16:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dispersive folded metasurfaces for visible light communications beyond 1 Tbps</title>
+<link>https://doi.org/10.1186/s43593-026-00146-9</link>
+<guid isPermaLink="false">10.1186/s43593-026-00146-9</guid>
+<pubDate>Thu, 19 Nov 2026 16:01:11 GMT</pubDate>
+<description>مقاله یک متاسطح تاشده پاشنده برای جداسازی همزمان طول‌موج و حالت‌های OAM معرفی می‌کند و با آرایه‌ای از آن به نرخ داده مجموع ۱٫۳۳۹ ترابیت بر ثانیه در ارتباط نوری مرئی دست می‌یابد.&lt;br&gt;eLight | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 visible light communication · metasurface · orbital angular momentum · wavelength multiplexing · optical interconnects</description>
+<category>visible light communication</category>
+<category>metasurface</category>
+<category>orbital angular momentum</category>
+<category>wavelength multiplexing</category>
+<category>optical interconnects</category>
+</item>
 <item>
 <title>Characterizing the solution space of migration histories of metastatic cancers with MACH2</title>
 <link>https://doi.org/10.1038/s41592-026-03321-5</link>
@@ -1203,19 +1215,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 soft p
 <category>Pt nanoparticles</category>
 <category>polymer heterojunction</category>
 <category>photoelectrodeposition</category>
-</item>
-<item>
-<title>Piezocatalytic Sulfonation Enables Nongenetic Competition Therapy for Colorectal Cancer</title>
-<link>https://doi.org/10.1021/jacs.6c20155</link>
-<guid isPermaLink="false">10.1021/jacs.6c20155</guid>
-<pubDate>Thu, 19 Nov 2026 10:03:06 GMT</pubDate>
-<description>این مقاله یک نانوهم‌پیوند پیزوالکتریک KNN@Au-HA را برای سولفوناسیون پروتئینی درجا و درمان رقابتی سرطان کولورکتال با فعال‌سازی فراصوت توسعه می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 piezocatalysis · protein sulfonation · colorectal cancer · KNN@Au · competition therapy</description>
-<category>piezocatalysis</category>
-<category>protein sulfonation</category>
-<category>colorectal cancer</category>
-<category>KNN@Au</category>
-<category>competition therapy</category>
 </item>
 </channel>
 </rss>
