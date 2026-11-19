@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 02:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 03:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Pt-Atom-Based Nanoclusters Ameliorate Intracerebral-Hemorrhage-Induced Brain Injury by Modulating the Neuroinflammatory Microenvironment</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04867</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04867</guid>
+<pubDate>Thu, 19 Nov 2026 03:01:08 GMT</pubDate>
+<description>نانوخوشه‌های Pt با فعالیت چندآنزیمی، ROS را پاک‌سازی و میکروگلیا را به فنوتیپ M2 قطبی می‌کنند و آسیب مغزی ناشی از خونریزی داخل‌مغزی را در موش بهبود می‌بخشند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 Pt nanoclusters · nanozyme · intracerebral hemorrhage · neuroinflammation · ROS scavenging</description>
+<category>Pt nanoclusters</category>
+<category>nanozyme</category>
+<category>intracerebral hemorrhage</category>
+<category>neuroinflammation</category>
+<category>ROS scavenging</category>
+</item>
+<item>
+<title>Nonlinear Sub-Diffraction Imaging with Ultrasmall Upconversion Nanoparticles</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04890</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04890</guid>
+<pubDate>Thu, 19 Nov 2026 03:01:05 GMT</pubDate>
+<description>نانوذرات upconversion فوق‌کوچک β-NaYF4:Yb,Tm@NaYF4 با قطر ۷.۴ نانومتر پاسخ غیرخطی خود را حفظ می‌کنند و تصویربرداری زیر-پراش تک‌پرتویی را ممکن می‌سازند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 upconversion nanoparticles · sub-diffraction imaging · NaYF4:Yb,Tm · nonlinear microscopy · core-shell passivation</description>
+<category>upconversion nanoparticles</category>
+<category>sub-diffraction imaging</category>
+<category>NaYF4:Yb,Tm</category>
+<category>nonlinear microscopy</category>
+<category>core-shell passivation</category>
+</item>
 <item>
 <title>Tracking polyoxometalate redox states during photocatalytic hydrogen evolution</title>
 <link>https://doi.org/10.1016/j.checat.2026.101933</link>
@@ -1182,30 +1206,6 @@
 <category>global governance</category>
 <category>food security</category>
 <category>international relations</category>
-</item>
-<item>
-<title>How steam power and fertilizers created the notion of geopolitics of food</title>
-<link>https://doi.org/10.1038/s43016-026-01445-7</link>
-<guid isPermaLink="false">10.1038/s43016-026-01445-7</guid>
-<pubDate>Wed, 18 Nov 2026 21:01:14 GMT</pubDate>
-<description>این مقاله نشان می‌دهد چگونه نیروی بخار و کودهای شیمیایی مفهوم ژئوپلیتیک غذا را شکل دادند.&lt;br&gt;Nature Food | 💭 Perspective&lt;br&gt;🏷 geopolitics of food · steam power · fertilizers · food history · political economy</description>
-<category>geopolitics of food</category>
-<category>steam power</category>
-<category>fertilizers</category>
-<category>food history</category>
-<category>political economy</category>
-</item>
-<item>
-<title>Innovative cable-driven fine-tuning system for FAST: expanding observation range and enhancing precision</title>
-<link>https://doi.org/10.1016/j.xinn.2026.101642</link>
-<guid isPermaLink="false">10.1016/j.xinn.2026.101642</guid>
-<pubDate>Wed, 18 Nov 2026 21:01:10 GMT</pubDate>
-<description>این مقاله یک سیستم کابلی تنظیم دقیق برای تلسکوپ FAST معرفی می‌کند که دامنه رصد را گسترش و دقت را بهبود می‌دهد.&lt;br&gt;The Innovation | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 FAST telescope · cable-driven system · fine tuning · observation range · precision control</description>
-<category>FAST telescope</category>
-<category>cable-driven system</category>
-<category>fine tuning</category>
-<category>observation range</category>
-<category>precision control</category>
 </item>
 </channel>
 </rss>
