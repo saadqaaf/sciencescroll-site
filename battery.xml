@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 20:01:08 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 21:05:21 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Molecular Interfacial Bridging and Solvation Structure Regulation for High‐Performance Aqueous Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76811</link>
+<guid isPermaLink="false">10.1002/smll.76811</guid>
+<pubDate>Thu, 19 Nov 2026 21:05:15 GMT</pubDate>
+<description>افزودنی pantolactone با تشکیل لایه پل مولکولی روی آند Zn و بازسازی پوسته حلپوشی، رشد دندریت و واکنشهای جانبی را مهار کرد و عمر چرخه Zn||Zn را به بیش از 3400 ساعت رساند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Pantolactone is introduced as a multifunctional electrolyte additive that forms a molecular-bridge interface layer on the Zn anode while coordinating Zn2+ to reconstruct its solvation sheath. This dual strategy accelerates desolvation, guides Zn(002) deposition, and suppresses water activity and side reactions, enabling over 3400 h cycling and 94.1% capacity retention, offering a new paradigm coupling interfacial engineering with solvation regulation for AZIBs.&lt;br&gt;🏷 aqueous zinc-ion battery · pantolactone additive · solvation structure · Zn anode · molecular bridge</description>
+<category>aqueous zinc-ion battery</category>
+<category>pantolactone additive</category>
+<category>solvation structure</category>
+<category>Zn anode</category>
+<category>molecular bridge</category>
+</item>
+<item>
+<title>Qualitative Change Effect of Defects on Carbon Regulates Interfacial Proton Kinetics for Efficient Nitrate Reduction Reaction</title>
+<link>https://doi.org/10.1002/advs.78855</link>
+<guid isPermaLink="false">10.1002/advs.78855</guid>
+<pubDate>Thu, 19 Nov 2026 21:02:57 GMT</pubDate>
+<description>کربن‌های نقص‌دار با چگالی قابل تنظیم، سینتیک پروتون در سطح مشترک را بهبود می‌دهند و بازده فارادایی NH3 برابر 99.1% و باتری Zn-NO3 با پایداری بالا ارائه می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in precisely tuning carbon defect density to reveal a linear correlation with NO₃RR activity, uncovering how defects break interfacial hydrogen-bond ordering to accelerate water dissociation and enable an adsorbed-H mediated pathway. This defect-induced charge asymmetry strengthens *NOₓ adsorption and lowers hydrogenation barriers, achieving 99.1% NH₃ Faradaic efficiency and a durable Zn-NO₃⁻ battery, advancing metal-free electrocatalysis understanding at the inner Helmholtz plane.&lt;br&gt;🏷 carbon defects · nitrate reduction · proton kinetics · Zn-NO3 battery · electrocatalysis</description>
+<category>carbon defects</category>
+<category>nitrate reduction</category>
+<category>proton kinetics</category>
+<category>Zn-NO3 battery</category>
+<category>electrocatalysis</category>
+</item>
+<item>
+<title>Microstructural Orientation Enables Mass‐Efficient Structural Batteries</title>
+<link>https://doi.org/10.1002/advs.78851</link>
+<guid isPermaLink="false">10.1002/advs.78851</guid>
+<pubDate>Thu, 19 Nov 2026 21:02:11 GMT</pubDate>
+<description>این مقاله با جهت‌دهی ریزساختاری LiFePO4 در معماری الیاف کربن، باتری ساختاری تمام‌الیافی با چگالی انرژی 73 Wh/kg و بازده چندعملکردی 1.6 ارائه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Microstructural orientation is introduced as an architectural strategy to decouple ionic transport from mechanical load-bearing in structural batteries. Aligning LiFePO4 within carbon fiber reduces tortuosity while preserving stiffness, yielding 73 Wh/kg, 78 W/kg, and 100 GPa modulus. Multifunctional efficiency exceeds unity (1.6) for the first time, enabling ~37% system-level weight reduction with durable high-rate cycling.&lt;br&gt;🏷 structural battery · LiFePO4 · carbon fiber · microstructural orientation · multifunctional efficiency</description>
+<category>structural battery</category>
+<category>LiFePO4</category>
+<category>carbon fiber</category>
+<category>microstructural orientation</category>
+<category>multifunctional efficiency</category>
+</item>
+<item>
+<title>Decoding the initial coulombic efficiency of MXenes as lithium storage hosts</title>
+<link>https://doi.org/10.1016/j.jmst.2026.10.087</link>
+<guid isPermaLink="false">10.1016/j.jmst.2026.10.087</guid>
+<pubDate>Thu, 19 Nov 2026 21:01:38 GMT</pubDate>
+<description>این مقاله عوامل تعیین‌کننده بازده کولمبی اولیه MXeneها را به‌عنوان میزبان ذخیره‌سازی لیتیم رمزگشایی می‌کند و راهبردهایی برای بهبود آن ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 MXene · initial coulombic efficiency · lithium storage · anode host · surface chemistry</description>
+<category>MXene</category>
+<category>initial coulombic efficiency</category>
+<category>lithium storage</category>
+<category>anode host</category>
+<category>surface chemistry</category>
+</item>
 <item>
 <title>When Is Molecular-Dynamics-Predicted Ionic Diffusivity Reliable in Solid Electrolytes?</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02996</link>
@@ -1159,54 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>low-temperature graphitization</category>
 <category>lithium-ion battery anode</category>
 <category>amorphous carbon</category>
-</item>
-<item>
-<title>Sacrificial Nitrogen‐Rich Molecule‐Modified Resin for Fabricating Hard Carbon With Enhanced Plateau Sodium Storage</title>
-<link>https://doi.org/10.1002/smll.76748</link>
-<guid isPermaLink="false">10.1002/smll.76748</guid>
-<pubDate>Tue, 17 Nov 2026 19:01:48 GMT</pubDate>
-<description>این مقاله با وارد کردن مولکول‌های فداشونده غنی از نیتروژن در رزین فنولی، هارد کربنی با حفرات بسته و ظرفیت پلاتوی بالای 256 mAh g−1 برای ذخیره سدیم می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using sacrificial nitrogen-rich melamine co-condensed into phenolic resin to reconstruct the pyrolysis pathway, creating disordered carbon with abundant intrinsic closed pores. This enables a high plateau capacity of 256 mAh g⁻¹, 91.7% initial Coulombic efficiency, and superior rate/cycling stability, demonstrating a versatile molecular design strategy for advanced hard carbon anodes in sodium-ion batteries.&lt;br&gt;🏷 hard carbon · closed pores · sodium storage · melamine · phenolic resin</description>
-<category>hard carbon</category>
-<category>closed pores</category>
-<category>sodium storage</category>
-<category>melamine</category>
-<category>phenolic resin</category>
-</item>
-<item>
-<title>Foam‐Carbon Surface Reconstruction for Fast and Durable Sodium Storage in Lignite‐Derived Hard Carbon</title>
-<link>https://doi.org/10.1002/smll.76773</link>
-<guid isPermaLink="false">10.1002/smll.76773</guid>
-<pubDate>Tue, 17 Nov 2026 19:01:42 GMT</pubDate>
-<description>این مقاله با پوشش فوم کربنی سطح هارد کربن مشتق از لیگنیت را بازسازی می‌کند و آند سدیم‌یونی با ظرفیت 401.4 mAh g−1 و بازدهی اولیه 91.7% به دست می‌آورد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a starch-derived carbon foam coating that reconstructs lignite-derived hard carbon surfaces, creating interconnected Na⁺ channels and oxygen-rich species that promote closed-pore development. This yields 401.4 mAh g⁻¹, 91.7% initial Coulombic efficiency, and 75.8% retention after 15,000 cycles. It offers a scalable interface-engineering strategy for activating low-rank coal as practical, sustainable sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · carbon foam coating · lignite · surface reconstruction</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>carbon foam coating</category>
-<category>lignite</category>
-<category>surface reconstruction</category>
-</item>
-<item>
-<title>Leachate-to-cathode reconstructive recycling of spent LiFePO4 cathodes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.11.005</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.11.005</guid>
-<pubDate>Tue, 17 Nov 2026 18:05:15 GMT</pubDate>
-<description>این مقاله یک روش بازیافت بازسازانه از شیرابه به کاتد را برای کاتدهای مستعمل LiFePO4 ارائه می‌دهد که مواد شسته‌شده را دوباره به کاتد تبدیل می‌کند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 cathode · battery recycling · leachate recycling · cathode reconstruction · spent lithium-ion batteries</description>
-<category>LiFePO4 cathode</category>
-<category>battery recycling</category>
-<category>leachate recycling</category>
-<category>cathode reconstruction</category>
-<category>spent lithium-ion batteries</category>
-</item>
-<item>
-<title>Transforming spinel LiMn2O4 into a Na-layered cathode</title>
-<link>https://doi.org/10.1038/s41467-026-79390-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-79390-z</guid>
-<pubDate>Tue, 17 Nov 2026 18:03:37 GMT</pubDate>
-<description>تبدیل اسپینل LiMn2O4 به کاتد لایه‌ای سدیم‌یونی از طریق مهاجرت یون Mn، در سلول استوانه‌ای 26650 ظرفیت 3.85 Ah و حفظ 95.7 درصد پس از 900 چرخه را به دست داد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in electrochemically transforming spinel LiMn2O4 into a layered/spinel heterostructure sodium-ion cathode via Mn-ion migration, using residual spinel domains to suppress strain and degradation. Significance: this enables a viable Na-ion cathode achieving 3.85 Ah in a 26650 cell with 95.7% capacity retention after 900 cycles, demonstrating electrochemical transformation as a feasible route to design new cathode frameworks.&lt;br&gt;🏷 sodium-ion battery · spinel LiMn2O4 · layered cathode · heterostructure · electrochemical transformation</description>
-<category>sodium-ion battery</category>
-<category>spinel LiMn2O4</category>
-<category>layered cathode</category>
-<category>heterostructure</category>
-<category>electrochemical transformation</category>
 </item>
 </channel>
 </rss>
