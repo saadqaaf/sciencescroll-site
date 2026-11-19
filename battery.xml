@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 08:01:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 09:02:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Architected Si-Based Anodes for All-Solid-State Lithium Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02554</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02554</guid>
+<pubDate>Thu, 19 Nov 2026 09:02:04 GMT</pubDate>
+<description>لایه میانی Si دوپ‌شده با Mg در فصل مشترک Li-Li6PS5Cl طی چرخه به آند کامپوزیت غنی از Li تبدیل می‌شود و با کاتد NCM، حفظ ظرفیت ۹۲٫۵٪ پس از ۱۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Mg-doped Si interlayer at the Li–Li6PS5Cl interface that electrochemically forms a Li14.39Mg0.61Si4/Li-Mg composite anode, creating a homogeneous, porous lithiated Si framework with continuous ion/electron transport and stress mitigation. This enables 1000-cycle stability at 3 C with 92.5% retention at 17.9 mg cm–2 loading, offering a new paradigm for Si-based anode design in high-energy ASSBs.&lt;br&gt;🏷 silicon anode · all-solid-state battery · Li6PS5Cl · Mg doping · interfacial stability</description>
+<category>silicon anode</category>
+<category>all-solid-state battery</category>
+<category>Li6PS5Cl</category>
+<category>Mg doping</category>
+<category>interfacial stability</category>
+</item>
+<item>
+<title>The Challenges and Solutions of Silicon‐Based Electrodes: A Review on Mesoscale Binder‐Regulated Active‐Material Microenvironment</title>
+<link>https://doi.org/10.1002/adfm.79678</link>
+<guid isPermaLink="false">10.1002/adfm.79678</guid>
+<pubDate>Thu, 19 Nov 2026 09:01:55 GMT</pubDate>
+<description>این مرور چالش‌های آندهای سیلیکونی را از دیدگاه ریزمحیط ماده فعال (AMME) بررسی و راهکارهای طراحی بایندر برای آندهای پرظرفیت حجم‌متغیر ارائه می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review reframes binder roles through the &amp;quot;active-material microenvironment&amp;quot; (AMME) concept—the local charge-transport environment around each particle—rather than mere component binding. It links Si-anode volume-change challenges to binder regulation of AMME formation, activation, and aging across the electrode life cycle, and outlines AMME-guided binder design for dry-processed, all-solid-state, and high-capacity electrodes using operando characterization and AI-driven approaches.&lt;br&gt;🏷 silicon anode · binder design · active-material microenvironment · volume expansion · lithium-ion battery</description>
+<category>silicon anode</category>
+<category>binder design</category>
+<category>active-material microenvironment</category>
+<category>volume expansion</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Polyether-engineering of lignin enables hierarchical porous carbons for high-performance supercapacitors and enhanced holocellulose saccharification</title>
 <link>https://doi.org/10.1007/s42114-026-02039-4</link>
@@ -1183,31 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>anion electrosorption</category>
 <category>TiO2-x</category>
 <category>proton accumulation</category>
-</item>
-<item>
-<title>Regulating Functionalized MXene Crystal-Field Splitting toward Efficient Bifunctional Oxygen Electrocatalysis of Lithium–Oxygen Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c18918</link>
-<guid isPermaLink="false">10.1021/jacs.6c18918</guid>
-<pubDate>Mon, 16 Nov 2026 22:03:51 GMT</pubDate>
-<description>مهندسی شکافت میدان بلوری در Ti3C2-MXene با اصلاح آنیونی و کاتیونی، الکتروکاتالیز دوفعالیتی اکسیژن و عملکرد باتری لیتیوم-اکسیژن را بهبود می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers crystal-field splitting engineering at Ti sites in MXenes as a predictive electronic descriptor for bifunctional oxygen electrocatalysis. By weakening Ti ligand fields through anionic/cationic modification, it enhances electron delocalization, enabling asymmetric Li₂O₂ adsorption and lower ORR/OER barriers. Cu–Ti₃C₂Br₂ achieves 11,662 mAh g⁻¹ capacity and 50% reduced overpotential, establishing a rational design strategy for lithium–oxygen battery catalysts.&lt;br&gt;🏷 lithium-oxygen battery · MXene · crystal-field splitting · oxygen electrocatalysis · Ti3C2</description>
-<category>lithium-oxygen battery</category>
-<category>MXene</category>
-<category>crystal-field splitting</category>
-<category>oxygen electrocatalysis</category>
-<category>Ti3C2</category>
-</item>
-<item>
-<title>Highly conductive halide Na-ion conductor enabled by cost-effective aliovalent carbonate polyanion substitution for all-solid-state sodium batteries</title>
-<link>https://doi.org/10.1038/s41467-026-79386-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-79386-9</guid>
-<pubDate>Mon, 16 Nov 2026 22:03:36 GMT</pubDate>
-<description>مقاله با جایگزینی آنیونی کربنات آلواالنتی، رسانای یونی Na هالیدی بسیار رسانا برای باتری‌های تمام‌جامد سدیم ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using cost-effective soda ash (Na2CO3) to introduce aliovalent carbonate polyanions into Zr-based halide solid electrolytes, inducing structural disorder and amorphization that enhance Na+ transport. This yields 1.02 mS cm−1 ionic conductivity at 25 °C and stable all-solid-state battery cycling for 850 cycles, offering a practical, low-cost route to high-performance sodium batteries.&lt;br&gt;🏷 solid electrolyte · sodium-ion conductor · halide · all-solid-state battery · aliovalent substitution</description>
-<category>solid electrolyte</category>
-<category>sodium-ion conductor</category>
-<category>halide</category>
-<category>all-solid-state battery</category>
-<category>aliovalent substitution</category>
 </item>
 </channel>
 </rss>
