@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 16:01:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:01:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond Hosts: The Emerging Role of Powder Materials as Polyfunctional Auxiliaries in Advanced Rechargeable Metal-ion Batteries</title>
+<link>https://doi.org/10.1016/j.apmate.2026.100487</link>
+<guid isPermaLink="false">10.1016/j.apmate.2026.100487</guid>
+<pubDate>Thu, 19 Nov 2026 17:01:17 GMT</pubDate>
+<description>این مقاله مروری نقش نوظهور مواد پودری را به‌عنوان افزودنی‌های چندکاره در باتری‌های قابل شارژ یون-فلزی پیشرفته بررسی می‌کند.&lt;br&gt;Advanced Powder Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 rechargeable metal-ion batteries · powder materials · polyfunctional auxiliaries · electrode additives · battery hosts</description>
+<category>rechargeable metal-ion batteries</category>
+<category>powder materials</category>
+<category>polyfunctional auxiliaries</category>
+<category>electrode additives</category>
+<category>battery hosts</category>
+</item>
 <item>
 <title>Research on the preparation and application of multifunctional P-doped compounds in lithium–sulfur batteries</title>
 <link>https://doi.org/10.1039/d6ta06590b</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>staged SEI</category>
 <category>electrochemical reaction</category>
 <category>reversibility</category>
-</item>
-<item>
-<title>Sequential Regulation of Dendrite Initiation and Propagation for High‐Current Hydroborate‐Based Solid‐State Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75760</link>
-<guid isPermaLink="false">10.1002/adma.75760</guid>
-<pubDate>Tue, 17 Nov 2026 14:04:29 GMT</pubDate>
-<description>معماری دو لایه‌ای هماهنگ‌شده فضایی، آغاز و انتشار دندریت را در باتری‌های سدیم فلزی تمام‌جامد مبتنی بر هیدروبورات تنظیم کرده و چگالی جریان بحرانی را از ۰٫۵ به ۳٫۳ میلی‌آمپر بر سانتی‌متر مربع افزایش می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a spatially coordinated dual-interlayer design that sequentially suppresses Na dendrite initiation (3D Sn/C framework at Na|NBH) and propagation (NPSC sulfide interlayer within NBH). This raises critical current density from 0.5 to 3.3 mA cm⁻², enables 7000 h cycling, and supports high-loading full cells, establishing sequential dendrite control as a design principle for high-current hydroborate solid-state Na batteries.&lt;br&gt;🏷 solid-state sodium battery · hydroborate electrolyte · dendrite suppression · dual interlayer · critical current density</description>
-<category>solid-state sodium battery</category>
-<category>hydroborate electrolyte</category>
-<category>dendrite suppression</category>
-<category>dual interlayer</category>
-<category>critical current density</category>
 </item>
 </channel>
 </rss>
