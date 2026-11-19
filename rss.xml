@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 12:05:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 13:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Biomimetic Humidity Deformation Enables COF/PVA Actuators with Self-Powered Sensing Integration</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04423</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04423</guid>
+<pubDate>Thu, 19 Nov 2026 13:01:12 GMT</pubDate>
+<description>یک محرک حساس به رطوبت بر پایه COF/PVA با الهام از کاج، با خمش برگشت‌پذیر و حسگری خودتوان، عملکرد یکپارچه محرک و حسگر را در سطح ماده نشان می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 COF/PVA composite · humidity actuator · self-powered sensing · biomimetic deformation · ion transport</description>
+<category>COF/PVA composite</category>
+<category>humidity actuator</category>
+<category>self-powered sensing</category>
+<category>biomimetic deformation</category>
+<category>ion transport</category>
+</item>
+<item>
+<title>All-Dielectric Near-Field Stokes Skyrmions from Spin-Redirection Berry Phase</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04997</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04997</guid>
+<pubDate>Thu, 19 Nov 2026 13:01:08 GMT</pubDate>
+<description>تبدیل اسپین-مدار ناشی از فاز بری در موجبر دی‌الکتریک hBN اسکایرمیون‌های استوکس میدان نزدیک و شبکه‌های آن‌ها را برای فوتونیک توپولوژیک روی‌تراشه ایجاد می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 optical skyrmion · hexagonal boron nitride · Berry phase · near-field photonics · dielectric waveguide</description>
+<category>optical skyrmion</category>
+<category>hexagonal boron nitride</category>
+<category>Berry phase</category>
+<category>near-field photonics</category>
+<category>dielectric waveguide</category>
+</item>
+<item>
+<title>Superneutrality with Brush Layers for Directed Self-Assembly of High-χ Block Copolymers</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04955</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04955</guid>
+<pubDate>Thu, 19 Nov 2026 13:01:05 GMT</pubDate>
+<description>با استفاده از نفوذ برس پلیمری و حالت ابرخنثی، خودآرایی جهت‌دار کوپلیمر بلوکی PDMSB-b-PS با نیم‌گام ۹ نانومتر برای لیتوگرافی زیر ۱۰ نانومتر محقق شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 block copolymer · directed self-assembly · polymer brush · graphoepitaxy · high-χ lithography</description>
+<category>block copolymer</category>
+<category>directed self-assembly</category>
+<category>polymer brush</category>
+<category>graphoepitaxy</category>
+<category>high-χ lithography</category>
+</item>
 <item>
 <title>Site-specific Ca2+ doping enables synergistic lattice widening and electronic tailoring for ultra-fast sodium storage in NaVOPO4 cathodes</title>
 <link>https://doi.org/10.1016/j.est.2026.125723</link>
@@ -1181,42 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 tetracyclic diterpenoids 
 <category>protein-protein interaction</category>
 <category>nitrobenzoxadiazole</category>
 <category>proteomics</category>
-</item>
-<item>
-<title>Impacts of Residence Time and Temperature on CO Electrolysis to Acetate at the 100 cm2 Electrode Scale</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02647</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02647</guid>
-<pubDate>Thu, 19 Nov 2026 09:02:08 GMT</pubDate>
-<description>الکترولایزر CO با مساحت ۱۰۰ سانتی‌متر مربع و طراحی CFD-محور، با تنظیم زمان اقامت آنولیت و دما، بازده فارادایی استات ۶۵٪ و عملکرد پایدار ۱۴۰ ساعته در ۲۰۰ میلی‌آمپر بر سانتی‌متر مربع را نشان داد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO electrolysis · acetate · MEA electrolyzer · residence time · scale-up</description>
-<category>CO electrolysis</category>
-<category>acetate</category>
-<category>MEA electrolyzer</category>
-<category>residence time</category>
-<category>scale-up</category>
-</item>
-<item>
-<title>Architected Si-Based Anodes for All-Solid-State Lithium Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02554</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02554</guid>
-<pubDate>Thu, 19 Nov 2026 09:02:04 GMT</pubDate>
-<description>لایه میانی Si دوپ‌شده با Mg در فصل مشترک Li-Li6PS5Cl طی چرخه به آند کامپوزیت غنی از Li تبدیل می‌شود و با کاتد NCM، حفظ ظرفیت ۹۲٫۵٪ پس از ۱۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Mg-doped Si interlayer at the Li–Li6PS5Cl interface that electrochemically forms a Li14.39Mg0.61Si4/Li-Mg composite anode, creating a homogeneous, porous lithiated Si framework with continuous ion/electron transport and stress mitigation. This enables 1000-cycle stability at 3 C with 92.5% retention at 17.9 mg cm–2 loading, offering a new paradigm for Si-based anode design in high-energy ASSBs.&lt;br&gt;🏷 silicon anode · all-solid-state battery · Li6PS5Cl · Mg doping · interfacial stability</description>
-<category>silicon anode</category>
-<category>all-solid-state battery</category>
-<category>Li6PS5Cl</category>
-<category>Mg doping</category>
-<category>interfacial stability</category>
-</item>
-<item>
-<title>Active Photon Management Enables Broadband Photoprotection and Intrinsic Photostability in Polyesters</title>
-<link>https://doi.org/10.1002/adfm.79743</link>
-<guid isPermaLink="false">10.1002/adfm.79743</guid>
-<pubDate>Thu, 19 Nov 2026 09:01:59 GMT</pubDate>
-<description>کوپلی‌استرهای حاوی مونومر P-BPDA با مدیریت فعال فوتون، محافظت گسترده در برابر UV و نور آبی پرانرژی و پایداری نوری ذاتی بهتری نسبت به PETG نشان می‌دهند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 polyester photostability · photon management · UV shielding · photothermal conversion · copolyester</description>
-<category>polyester photostability</category>
-<category>photon management</category>
-<category>UV shielding</category>
-<category>photothermal conversion</category>
-<category>copolyester</category>
 </item>
 </channel>
 </rss>
