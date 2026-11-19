@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 00:03:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 01:04:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering interfacial nucleation and growth for long-life, ultrahigh-rate anode-free sodium batteries</title>
+<link>https://doi.org/10.1126/sciadv.aeh3524</link>
+<guid isPermaLink="false">10.1126/sciadv.aeh3524</guid>
+<pubDate>Thu, 19 Nov 2026 01:04:24 GMT</pubDate>
+<description>گرافیت با تنظیم دینامیکی هسته‌بندی و رشد سدیم، باتری آنُد-فری سدیمی با نرخ فوق‌بالا و عمر ۱۱۰۰ چرخه در سلول پاکتی ارائه می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using conventional graphite as a dynamic, interactive interface for sodium plating/stripping via ultrafast mixed ion-electron transport, reversible ether cointercalation, and edge-dominant nucleation, forming an ultrathin robust SEI. This enables ultrahigh-rate, long-life anode-free sodium pouch cells (92.3% initial Coulombic efficiency, 84.9% retention after 1100 cycles at 3C) with exceptional safety, establishing a platform for controlling interfacial metal nucleation and growth.&lt;br&gt;🏷 anode-free sodium battery · graphite current collector · sodium plating · SEI formation · pouch cell</description>
+<category>anode-free sodium battery</category>
+<category>graphite current collector</category>
+<category>sodium plating</category>
+<category>SEI formation</category>
+<category>pouch cell</category>
+</item>
+<item>
+<title>Machine-learning-driven identification of cooperative descriptors for polysulfide conversion on spinel oxides</title>
+<link>https://doi.org/10.1126/sciadv.aef1994</link>
+<guid isPermaLink="false">10.1126/sciadv.aef1994</guid>
+<pubDate>Thu, 19 Nov 2026 01:03:26 GMT</pubDate>
+<description>با رویکرد یادگیری ماشین، توصیف‌گرهای همکار برای تبدیل پلی‌سولفید روی اسپینل‌ها شناسایی و Fe2CoO4 و Fe2NiO4 به‌عنوان کاتالیزورهای برتر تجربی تأیید شدند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning to uncover two cooperative structural descriptors governing polysulfide conversion on spinel oxides, overcoming the limits of single descriptors and manual analysis. XGBoost enables rapid, accurate screening, identifying Fe2CoO4 and Fe2NiO4, experimentally validated as superior catalysts. This provides mechanistic insight and a data-driven framework for rational spinel catalyst design, extendable to other applications.&lt;br&gt;🏷 spinel oxides · polysulfide conversion · machine learning · XGBoost · lithium-sulfur battery</description>
+<category>spinel oxides</category>
+<category>polysulfide conversion</category>
+<category>machine learning</category>
+<category>XGBoost</category>
+<category>lithium-sulfur battery</category>
+</item>
 <item>
 <title>Dual-functional-unit modulation enables superior energy storage in high-entropy relaxor ferroelectrics</title>
 <link>https://doi.org/10.1038/s41467-026-79434-4</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>p-π conjugation</category>
 <category>Li+ transport</category>
 <category>solid-state battery</category>
-</item>
-<item>
-<title>Reconfiguring Interfacial Electrochemical Potential for Boosting Sodium‐Ion Transport in Composite Solid Electrolytes</title>
-<link>https://doi.org/10.1002/anie.8057428</link>
-<guid isPermaLink="false">10.1002/anie.8057428</guid>
-<pubDate>Mon, 16 Nov 2026 22:02:43 GMT</pubDate>
-<description>مهندسی ساختار الکترونی با پیوند سیلان در فصل مشترک Na3Zr2Si2PO12-PEO، اختلاف پتانسیل را کاهش داده و رسانایی یونی الکترولیت جامد کامپوزیتی سدیمی را دو مرتبه بزرگی افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in molecular design-enabled electronic structure engineering to reconfigure the interfacial electrochemical environment, using dual-axis screening of electron-donating capability and molecular asymmetry. Significance: grafting phenyltrimethoxysilane reduces potential mismatch by 87%, boosting Na-ion conductivity two orders of magnitude and enabling high-performance all-solid-state sodium batteries, establishing a screening framework to overcome ceramic–polymer interfacial ion-transport bottlenecks.&lt;br&gt;🏷 composite solid electrolyte · sodium-ion transport · interfacial potential · NASICON · solid-state battery</description>
-<category>composite solid electrolyte</category>
-<category>sodium-ion transport</category>
-<category>interfacial potential</category>
-<category>NASICON</category>
-<category>solid-state battery</category>
-</item>
-<item>
-<title>A Scalable Presodiation Strategy Enabling Dry‐Air‐Processable Hard Carbon Anodes for High Energy Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/anie.5975631</link>
-<guid isPermaLink="false">10.1002/anie.5975631</guid>
-<pubDate>Mon, 16 Nov 2026 22:02:32 GMT</pubDate>
-<description>پیش‌سدیم‌دار کردن با کمک امواج فراصوت و مهندسی میان‌سطح، آند کربن سخت سازگار با هوای خشک با بازده کولمبی اولیه نزدیک ۱۰۰٪ برای باتری‌های سدیم‌یون ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in synchronizing ultrasound-enhanced mass transport with in situ interfacial engineering to achieve ~100% ICE in one minute and dry-air processability via a B/F-rich interphase. This resolves kinetic and stability bottlenecks, enabling scalable presodiation for high-loading hard carbon anodes, with pouch cells showing 76% retention over 700 cycles and wide-temperature operation.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · presodiation · solid electrolyte interphase · dry-air processing</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>presodiation</category>
-<category>solid electrolyte interphase</category>
-<category>dry-air processing</category>
 </item>
 </channel>
 </rss>
