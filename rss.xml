@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 01:04:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 02:01:16 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Tracking polyoxometalate redox states during photocatalytic hydrogen evolution</title>
+<link>https://doi.org/10.1016/j.checat.2026.101933</link>
+<guid isPermaLink="false">10.1016/j.checat.2026.101933</guid>
+<pubDate>Thu, 19 Nov 2026 02:01:13 GMT</pubDate>
+<description>این مقاله حالات ردوکس پلی‌اکسومتالات را در طول تولید فوتوکاتالیستی هیدروژن ردیابی می‌کند و بینش‌هایی درباره نقش انتقال بار ارائه می‌دهد.&lt;br&gt;Chem Catalysis | 🔬 Research Article&lt;br&gt;🏷 polyoxometalate · photocatalytic hydrogen evolution · redox states · in situ tracking · charge transfer</description>
+<category>polyoxometalate</category>
+<category>photocatalytic hydrogen evolution</category>
+<category>redox states</category>
+<category>in situ tracking</category>
+<category>charge transfer</category>
+</item>
+<item>
+<title>Non-aqueous hydrogen oxidation enables sustainable lithium-mediated ammonia electrosynthesis</title>
+<link>https://doi.org/10.1016/j.checat.2026.101910</link>
+<guid isPermaLink="false">10.1016/j.checat.2026.101910</guid>
+<pubDate>Thu, 19 Nov 2026 02:01:10 GMT</pubDate>
+<description>این مقاله اکسیداسیون هیدروژن غیرآبی را برای سنتز الکتروشیمیایی پایدار آمونیاک به واسطه لیتیوم معرفی می‌کند و امکان‌پذیری این مسیر را نشان می‌دهد.&lt;br&gt;Chem Catalysis | 🔬 Research Article&lt;br&gt;🏷 lithium-mediated ammonia synthesis · hydrogen oxidation · non-aqueous electrolyte · electrosynthesis · sustainable ammonia</description>
+<category>lithium-mediated ammonia synthesis</category>
+<category>hydrogen oxidation</category>
+<category>non-aqueous electrolyte</category>
+<category>electrosynthesis</category>
+<category>sustainable ammonia</category>
+</item>
 <item>
 <title>Chromatin loci move coherently due to spatially correlated fluctuations</title>
 <link>https://doi.org/10.1126/sciadv.aei5536</link>
@@ -1182,30 +1206,6 @@
 <category>fine tuning</category>
 <category>observation range</category>
 <category>precision control</category>
-</item>
-<item>
-<title>Pluripotent stem cell-derived extracellular vesicles for systemic immune modulation in diabetes therapy</title>
-<link>https://doi.org/10.1038/s41565-026-02320-z</link>
-<guid isPermaLink="false">10.1038/s41565-026-02320-z</guid>
-<pubDate>Wed, 18 Nov 2026 19:01:48 GMT</pubDate>
-<description>این مقاله نشان می‌دهد وزیکول‌های خارج‌سلولی مشتق از سلول‌های بنیادی پرتوان می‌توانند ایمنی را در درمان دیابت به‌صورت سیستمیک تعدیل کنند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 extracellular vesicles · pluripotent stem cells · immune modulation · diabetes therapy · systemic delivery</description>
-<category>extracellular vesicles</category>
-<category>pluripotent stem cells</category>
-<category>immune modulation</category>
-<category>diabetes therapy</category>
-<category>systemic delivery</category>
-</item>
-<item>
-<title>An extracellular contractile injection system for receptor-mediated protein delivery into plant cells</title>
-<link>https://doi.org/10.1038/s41565-026-02323-w</link>
-<guid isPermaLink="false">10.1038/s41565-026-02323-w</guid>
-<pubDate>Wed, 18 Nov 2026 19:01:43 GMT</pubDate>
-<description>این مقاله یک سیستم تزریق انقباضی خارج‌سلولی را برای انتقال پروتئین به سلول‌های گیاهی از طریق گیرنده معرفی می‌کند.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 contractile injection system · protein delivery · plant cells · receptor-mediated uptake · bacterial nanostructure</description>
-<category>contractile injection system</category>
-<category>protein delivery</category>
-<category>plant cells</category>
-<category>receptor-mediated uptake</category>
-<category>bacterial nanostructure</category>
 </item>
 </channel>
 </rss>
