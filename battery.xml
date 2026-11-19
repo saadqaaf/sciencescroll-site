@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 05:01:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 06:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Metallurgical Interface Engineering Constructing In Situ Li 3 N‐Enriched Interphase: A Bulk‐Interface Synergy Strategy Toward Practical Silicon Anodes</title>
+<link>https://doi.org/10.1002/adma.75775</link>
+<guid isPermaLink="false">10.1002/adma.75775</guid>
+<pubDate>Thu, 19 Nov 2026 06:01:40 GMT</pubDate>
+<description>این مقاله با ذوب‌تعلیق خلأ و پوشش کربن دوپه‌شده با نیتروژن، آند SiSnM با فصل مشترک غنی از Li3N می‌سازد که ظرفیت و پایداری بالایی در دماهای گسترده و سلول کیسه‌ای ۵ آمپرساعتی نشان می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in vacuum-suspension-melted bulk multiphase integration creating metallurgically bonded Si/metal interfaces, combined with an in situ Li₃N-enriched interphase from polydopamine-derived N-doped carbon. This bulk-interface synergy simultaneously addresses ionic, electronic, and mechanical limitations, enabling 87.3% retention over 1000 cycles, 5 Ah pouch cells, and wide-temperature operation—offering a practical route to durable high-energy Si anodes.&lt;br&gt;🏷 silicon anode · Li3N interphase · metallurgical interface · lithium-ion battery · pouch cell</description>
+<category>silicon anode</category>
+<category>Li3N interphase</category>
+<category>metallurgical interface</category>
+<category>lithium-ion battery</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>Engineering interfacial nucleation and growth for long-life, ultrahigh-rate anode-free sodium batteries</title>
 <link>https://doi.org/10.1126/sciadv.aeh3524</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>temperature-pressure coupling</category>
 <category>lithium-ion battery</category>
 <category>energy storage safety</category>
-</item>
-<item>
-<title>Engineering Amino‐Induced p‐π Conjugation for Electronic Regulation of Li + Transport in PVDF‐Based Solid‐State Electrolytes</title>
-<link>https://doi.org/10.1002/anie.5164505</link>
-<guid isPermaLink="false">10.1002/anie.5164505</guid>
-<pubDate>Mon, 16 Nov 2026 22:02:50 GMT</pubDate>
-<description>افزودن UiO66-NH2 به الکترولیت PVDF/LiFSI با ایجاد کونژوگاسیون p-π و تقویت LMCT، انتقال Li+ را بهبود بخشیده و رسانایی یونی و پایداری اکسایشی را افزایش می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 Amino-functionalized UiO66-NH₂ in PVDF/LiFSI induces p-π conjugation and enhanced ligand-to-metal charge transfer, reshaping the electrostatic landscape to weaken Li⁺-FSI⁻ pairing. This yields high ionic conductivity (2.41×10⁻³ S cm⁻¹), Li⁺ transference number 0.56, and stable high-loading NCM811 cycling, establishing electronic-structure engineering of MOF fillers as a novel route to high-performance solid-state electrolytes.&lt;br&gt;🏷 PVDF electrolyte · UiO66-NH2 · p-π conjugation · Li+ transport · solid-state battery</description>
-<category>PVDF electrolyte</category>
-<category>UiO66-NH2</category>
-<category>p-π conjugation</category>
-<category>Li+ transport</category>
-<category>solid-state battery</category>
 </item>
 </channel>
 </rss>
