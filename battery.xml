@@ -5,8 +5,116 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 23:01:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:03:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual-functional-unit modulation enables superior energy storage in high-entropy relaxor ferroelectrics</title>
+<link>https://doi.org/10.1038/s41467-026-79434-4</link>
+<guid isPermaLink="false">10.1038/s41467-026-79434-4</guid>
+<pubDate>Thu, 19 Nov 2026 00:03:50 GMT</pubDate>
+<description>این مقاله با مدولاسیون واحدهای دوگانه عملکردی، ذخیره‌سازی انرژی را در فروالکتریک‌های ریلکسور با آنتروپی بالا بهبود می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in dual-functional-unit modulation via configurational-entropy engineering, simultaneously tailoring local polarization configurations and oxygen octahedral tilt in Bi0.47Na0.47Ba0.06TiO3 ceramics. Combined with grain refinement, this overcomes the polarization–breakdown trade-off, achieving 16.19 J cm−3 recoverable energy density and 91.3% efficiency, establishing a general design principle for high-entropy relaxor ferroelectrics in dielectric energy storage.&lt;br&gt;🏷 high-entropy relaxor ferroelectrics · energy storage · dual-functional-unit modulation · polarization · capacitors</description>
+<category>high-entropy relaxor ferroelectrics</category>
+<category>energy storage</category>
+<category>dual-functional-unit modulation</category>
+<category>polarization</category>
+<category>capacitors</category>
+</item>
+<item>
+<title>Low-temperature operation of Ag—C based anodeless all-solid-state pouch cells</title>
+<link>https://doi.org/10.1038/s41467-026-79291-1</link>
+<guid isPermaLink="false">10.1038/s41467-026-79291-1</guid>
+<pubDate>Thu, 19 Nov 2026 00:03:41 GMT</pubDate>
+<description>فعال‌سازی درجای آلیاژ Li-Ag با شارژ کوتاه اولیه در 45 درجه، عملکرد باتری تمام‌جامد بدون آند با لایه Ag-C را در دمای 5 درجه بهبود می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in discovering temperature-dependent Li-Ag alloying kinetics as the failure mechanism in anodeless all-solid-state pouch cells at low temperatures, and in proposing a brief 45 °C formation charge that permanently activates the Ag-C interlayer. This scalable, material-agnostic protocol enables efficient Li transport at 5 °C, retaining 87% capacity after 250 cycles—tripling output versus fixed-temperature cycling—extending sub-ambient operation without redesign.&lt;br&gt;🏷 anodeless all-solid-state battery · Ag-C interlayer · low-temperature operation · Li-Ag alloying · pouch cells</description>
+<category>anodeless all-solid-state battery</category>
+<category>Ag-C interlayer</category>
+<category>low-temperature operation</category>
+<category>Li-Ag alloying</category>
+<category>pouch cells</category>
+</item>
+<item>
+<title>Machine learning-driven regulation of the four-electron LiOH pathway in lithium–oxygen batteries with prolonged cycling</title>
+<link>https://doi.org/10.1038/s41467-026-79335-6</link>
+<guid isPermaLink="false">10.1038/s41467-026-79335-6</guid>
+<pubDate>Thu, 19 Nov 2026 00:03:05 GMT</pubDate>
+<description>با یادگیری ماشین و DFT، کاتالیزورهای دواتمی Ni-Co برای تنظیم مسیر چهارالکترونی LiOH در باتری لیتیوم-اکسیژن شناسایی می‌شوند و عمر 2075 چرخه به دست می‌آید.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using interpretable machine learning plus DFT to screen thousands of active sites, identifying Ni-Co dual-atom catalysts that shift oxygen redox from the two-electron to a four-electron LiOH pathway. Significance: ~60,000 mAh g⁻¹ capacity, 2075 stable cycles with reduced voltage decay, and dual function as a multifunctional protective layer suppressing lithium dendrites—enabling high-energy lithium–oxygen batteries.&lt;br&gt;🏷 lithium-oxygen battery · machine learning · dual-atom catalyst · four-electron pathway · LiOH formation</description>
+<category>lithium-oxygen battery</category>
+<category>machine learning</category>
+<category>dual-atom catalyst</category>
+<category>four-electron pathway</category>
+<category>LiOH formation</category>
+</item>
+<item>
+<title>Hydrolysis-Coordination Competition Unlocks a Hidden Solubility Window for Wide-Temperature Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c18488</link>
+<guid isPermaLink="false">10.1021/acsnano.6c18488</guid>
+<pubDate>Thu, 19 Nov 2026 00:02:57 GMT</pubDate>
+<description>رقابت هیدرولیز-کوئوردیناسیون در Zn(TFA)2 پنجره حلالیت پنهانی ایجاد می‌کند و با افزودن استونیتریل، باتری آبی روی در دمای ‎−25 تا 30 درجه سانتی‌گراد چرخه‌پذیری پایدار نشان می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing nonmonotonic Zn(TFA)2 dissolution governed by a concentration-dependent hydrolysis-coordination balance, and using acetonitrile to widen the clear-solution window. This enables anion-derived interphases suppressing water reactions, yielding ultralong Zn//Zn cycling (8200 h at −25 °C) and high-retention Zn//PANI and Zn//I2 cells. It reframes electrolyte design around speciation and accessible solvation states rather than reported solubility.&lt;br&gt;🏷 aqueous zinc battery · Zn(TFA)2 electrolyte · hydrolysis-coordination balance · solid electrolyte interphase · wide-temperature operation</description>
+<category>aqueous zinc battery</category>
+<category>Zn(TFA)2 electrolyte</category>
+<category>hydrolysis-coordination balance</category>
+<category>solid electrolyte interphase</category>
+<category>wide-temperature operation</category>
+</item>
+<item>
+<title>Towards a Renewable Energy-Driven, Self-Sufficient Expressway Energy System: Optimizing Integrated PV-BESS-Charging Infrastructure in Service Areas</title>
+<link>https://doi.org/10.1016/j.etran.2026.100654</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100654</guid>
+<pubDate>Thu, 19 Nov 2026 00:02:48 GMT</pubDate>
+<description>این مقاله یک سیستم انرژی خودکفا برای آزادراه‌ها با ترکیب فتوولتائیک، ذخیره‌ساز باتری و زیرساخت شارژ طراحی و بهینه‌سازی می‌کند تا انرژی تجدیدپذیر تأمین شود.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 PV-BESS integration · expressway energy system · charging infrastructure · renewable energy · optimization</description>
+<category>PV-BESS integration</category>
+<category>expressway energy system</category>
+<category>charging infrastructure</category>
+<category>renewable energy</category>
+<category>optimization</category>
+</item>
+<item>
+<title>Beyond Lithium Solvation: Tuning Cation‐Solvent‐Anion Interactions for Stable Lithium‐Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.7753082</link>
+<guid isPermaLink="false">10.1002/anie.7753082</guid>
+<pubDate>Thu, 19 Nov 2026 00:02:44 GMT</pubDate>
+<description>برهم‌کنش‌های سه‌گانه کاتیون-حلال-آنیون در الکترولیت‌های اتری فلوئوره‌شده روشن می‌شود و با مهار انحلال پلی‌سولفید، پایداری چرخه‌ای سلول‌های Li||S بهبود می‌یابد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that fluorinated ether solvents, considered non-solvating diluents, selectively solvate high-electron-donating anions via cation-solvent-anion ternary interactions. This revises conventional solvation views and offers a molecular framework for electrolyte design. Its significance is suppressing polysulfide shuttling, improving Li°||S cycling stability, and guiding solvent design for high-energy monovalent cation batteries.&lt;br&gt;🏷 lithium-metal battery · electrolyte solvation · cation-anion interaction · fluorinated ether · polysulfide shuttle</description>
+<category>lithium-metal battery</category>
+<category>electrolyte solvation</category>
+<category>cation-anion interaction</category>
+<category>fluorinated ether</category>
+<category>polysulfide shuttle</category>
+</item>
+<item>
+<title>Electric‐Field Responsive Molecular Switch Unlocks Stable 4.5 V‐Class Sodium Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/anie.4447702</link>
+<guid isPermaLink="false">10.1002/anie.4447702</guid>
+<pubDate>Thu, 19 Nov 2026 00:02:15 GMT</pubDate>
+<description>این مقاله یک عامل جفت‌شونده میدان الکتریکی به‌عنوان کلید مولکولی معرفی می‌کند که با تشکیل CEI خودمحدود، کاتد لایه‌ای سدیم را در ۴.۵ ولت پایدار می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in defining an electric field coupling agent that acts as a threshold-gated molecular switch, activated only above a critical interfacial field. This enables a self-limiting, gradient boron-rich interphase, achieving field-enhanced stability. Significance: it delivers stable 4.5 V sodium layered oxide cathodes (87.9% retention over 1000 cycles, 1 Ah pouch cells), offering a generalizable paradigm for on-demand high-voltage battery protection.&lt;br&gt;🏷 sodium layered oxide · high-voltage cathode · CEI · electric field · molecular switch</description>
+<category>sodium layered oxide</category>
+<category>high-voltage cathode</category>
+<category>CEI</category>
+<category>electric field</category>
+<category>molecular switch</category>
+</item>
+<item>
+<title>Single-atom catalyst–Li2O2 interfacial chemistry governs the activity–stability trade-off in Li–O2 batteries</title>
+<link>https://doi.org/10.1093/nsr/nwag720</link>
+<guid isPermaLink="false">10.1093/nsr/nwag720</guid>
+<pubDate>Thu, 19 Nov 2026 00:02:10 GMT</pubDate>
+<description>این مقاله نشان می‌دهد تک‌اتم‌کاتالیست‌های M–N4 فعالیت را بالا می‌برند اما واکنش‌پذیری Li2O2 با الکترولیت را افزایش می‌دهند و با الکترولیت محلی غلیظ عمر چرخه Li–O2 را از ۴۲ به ۳۹۸ چرخه می‌رسانند.&lt;br&gt;National Science Review | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing that M–N4 single-atom catalysts, while lowering charge overpotential, also increase Li2O2 reactivity toward ether electrolytes, causing carboxylate accumulation and cathode passivation—an overlooked activity–stability trade-off. Significance: this mechanistic insight enables a localized high-concentration electrolyte that suppresses side reactions and extends cycling from 42 to 398 cycles, guiding stable catalyst/electrolyte interface design for high-energy Li–O2 batteries.&lt;br&gt;🏷 Li-O2 battery · single-atom catalyst · Li2O2 interface · electrolyte design · cycling stability</description>
+<category>Li-O2 battery</category>
+<category>single-atom catalyst</category>
+<category>Li2O2 interface</category>
+<category>electrolyte design</category>
+<category>cycling stability</category>
+</item>
+<item>
+<title>High-rate and durable sodium-ion batteries enabled by charge-asymmetric single-atom-energized hard carbon</title>
+<link>https://doi.org/10.1093/nsr/nwag722</link>
+<guid isPermaLink="false">10.1093/nsr/nwag722</guid>
+<pubDate>Thu, 19 Nov 2026 00:01:59 GMT</pubDate>
+<description>این مقاله آندهای hard carbon را با تک‌اتم‌های فلزی در آرایش نامتقارن بار N4–MSA–O2 مهندسی می‌کند و باتری سدیم‌یونی با نرخ بالا و پایداری چرخه‌ای طولانی به دست می‌آورد.&lt;br&gt;National Science Review | 🔬 Research Article&lt;br&gt;💡 The novelty lies in charge-asymmetric N4–MSA–O2 single-atom moieties (Sb, Bi, Sn) on hard carbon, creating a dynamically reversible atomic interface. This enables exceptional rate capability (207.6 mAh g−1 at 20 A g−1) and capacity (422.8 mAh g−1) with durability in coin and pouch cells, offering a promising design pathway for fast-charging, stable sodium-ion battery anodes.&lt;br&gt;🏷 sodium-ion battery · hard carbon anode · single-atom catalyst · charge asymmetry · rate capability</description>
+<category>sodium-ion battery</category>
+<category>hard carbon anode</category>
+<category>single-atom catalyst</category>
+<category>charge asymmetry</category>
+<category>rate capability</category>
+</item>
 <item>
 <title>Coupling Mechanical Compliance and Conversion Chemistry with a Halide Perovskite Precursor for Anodeless All-Solid-State Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105670</link>
@@ -1100,114 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study pioneers cryst
 <category>presodiation</category>
 <category>solid electrolyte interphase</category>
 <category>dry-air processing</category>
-</item>
-<item>
-<title>Tailored Functional Group Design in In‐Situ Polymerized Gel Electrolytes for High‐Voltage, Wide‐Temperature, and Safe Lithium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79589</link>
-<guid isPermaLink="false">10.1002/adfm.79589</guid>
-<pubDate>Mon, 16 Nov 2026 21:01:33 GMT</pubDate>
-<description>این مرور، طراحی گروه عاملی در الکترولیت‌های ژلی پلیمری درجا را برای دستیابی به باتری‌های لیتیوم فلزی پرولتاژ، دمای گسترده و ایمن تحلیل می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review uniquely applies molecular-level functional-group design to resolve the trilemma of ionic conductivity, electrochemical stability, and interfacial compatibility in in-situ polymerized gel electrolytes. It establishes theoretical frameworks from five dimensions and systematically links functional groups to high-voltage stability, wide-temperature operation, and intrinsic safety, providing actionable guidelines for high-energy-density, safe lithium metal batteries.&lt;br&gt;🏷 gel polymer electrolyte · in situ polymerization · lithium metal battery · functional group · high voltage</description>
-<category>gel polymer electrolyte</category>
-<category>in situ polymerization</category>
-<category>lithium metal battery</category>
-<category>functional group</category>
-<category>high voltage</category>
-</item>
-<item>
-<title>Synchronizing Oriented Zn Deposition and Iodine Redox Chemistry via the Multifunctional Imidazolium Iodide</title>
-<link>https://doi.org/10.1002/adfm.79696</link>
-<guid isPermaLink="false">10.1002/adfm.79696</guid>
-<pubDate>Mon, 16 Nov 2026 21:01:23 GMT</pubDate>
-<description>افزودنی EMIMI در الکترولیت باتری آبی روی، با تشکیل لایه دوجانبه کم‌آب و فعال‌سازی redox ید، رشد جهت‌دار Zn و عمر چرخه‌ای فوق‌العاده طولانی را ممکن کرد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using EMIMI as a single multifunctional additive that simultaneously stabilizes the Zn anode via interfacial EMIM⁺ adsorption (suppressing water side reactions and enabling oriented Zn (100) deposition without altering bulk solvation) and boosts cathode capacity through reversible iodine redox chemistry. Its significance is exceptional durability: over 10,000 h in symmetric cells and 84.5% capacity retention after 10,000 cycles, advancing practical AZIBs.&lt;br&gt;🏷 aqueous zinc battery · electrolyte additive · imidazolium iodide · zinc dendrite · iodine redox</description>
-<category>aqueous zinc battery</category>
-<category>electrolyte additive</category>
-<category>imidazolium iodide</category>
-<category>zinc dendrite</category>
-<category>iodine redox</category>
-</item>
-<item>
-<title>A cation/anion-docking electrolyte additive via dipole separation regulates electric double layer for stable lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105659</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105659</guid>
-<pubDate>Mon, 16 Nov 2026 20:01:35 GMT</pubDate>
-<description>یک افزودنی الکترولیت با داکینگ کاتیون/آنیون و جداسازی دوقطبی، لایه دوگانه الکتریکی را برای باتری‌های لیتیوم فلزی پایدار تنظیم می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · electrolyte additive · electric double layer · cation/anion docking · dipole separation</description>
-<category>lithium metal battery</category>
-<category>electrolyte additive</category>
-<category>electric double layer</category>
-<category>cation/anion docking</category>
-<category>dipole separation</category>
-</item>
-<item>
-<title>Poly(ethyl cyanoacrylate) Binder Prepared via Anionic Polymerization for Improved Structural Integrity and Electrochemical Performance of LiFePO4 Cathodes</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105660</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105660</guid>
-<pubDate>Mon, 16 Nov 2026 20:01:30 GMT</pubDate>
-<description>بایندر پلی(اتیل سیانوآکریلات) تهیه‌شده با پلیمریزاسیون آنیونی، یکپارچگی ساختاری و عملکرد الکتروشیمیایی کاتدهای LiFePO4 را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 cathode · poly(ethyl cyanoacrylate) binder · anionic polymerization · structural integrity · lithium-ion battery</description>
-<category>LiFePO4 cathode</category>
-<category>poly(ethyl cyanoacrylate) binder</category>
-<category>anionic polymerization</category>
-<category>structural integrity</category>
-<category>lithium-ion battery</category>
-</item>
-<item>
-<title>Efficient thermal management and flame-retardant performance of lithium-ion battery separators reinforced with microcapsules</title>
-<link>https://doi.org/10.1039/d6ta05561c</link>
-<guid isPermaLink="false">10.1039/d6ta05561c</guid>
-<pubDate>Mon, 16 Nov 2026 16:02:47 GMT</pubDate>
-<description>جداسازهای باتری لیتیوم-یونی تقویت‌شده با میکروکپسول‌ها برای مدیریت حرارتی کارآمد و بهبود بازدارندگی شعله در شرایط بحرانی توسعه یافتند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating microcapsules directly into LIB separators for internal thermal regulation and flame retardancy, unlike external control methods. This approach enhances safety under extreme conditions by combining efficient thermal management with intrinsic flame-retardant performance, offering a simpler, more effective strategy for battery safety.&lt;br&gt;🏷 lithium-ion battery · separator · microcapsules · flame retardancy · thermal management</description>
-<category>lithium-ion battery</category>
-<category>separator</category>
-<category>microcapsules</category>
-<category>flame retardancy</category>
-<category>thermal management</category>
-</item>
-<item>
-<title>Synergistic lattice and defect engineering in BNT-based high-entropy thin films for dielectric energy storage</title>
-<link>https://doi.org/10.1039/d6ta07800a</link>
-<guid isPermaLink="false">10.1039/d6ta07800a</guid>
-<pubDate>Mon, 16 Nov 2026 16:02:14 GMT</pubDate>
-<description>مهندسی هم‌افزای شبکه و نقص با دوپ Mn در لایه‌های نازک BNT-based، استحکام شکست و قطبش بازیابی‌شونده را برای ذخیره انرژی دی‌الکتریک افزایش می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Mn doping in BNCSBT high-entropy films uniquely combines lattice and defect engineering: it suppresses structural distortions while trapping oxygen vacancies into dipoles that create deep barriers and restoring forces. This synergy boosts breakdown strength and elastic polarization, offering a novel route to high-performance dielectric energy storage.&lt;br&gt;🏷 dielectric energy storage · high-entropy film · BNT · defect engineering · breakdown strength</description>
-<category>dielectric energy storage</category>
-<category>high-entropy film</category>
-<category>BNT</category>
-<category>defect engineering</category>
-<category>breakdown strength</category>
-</item>
-<item>
-<title>Ionic liquid electrolytes for graphite in potassium-ion batteries: the effect of anions on solid-electrolyte interphase</title>
-<link>https://doi.org/10.1039/d6ta05861b</link>
-<guid isPermaLink="false">10.1039/d6ta05861b</guid>
-<pubDate>Mon, 16 Nov 2026 16:02:04 GMT</pubDate>
-<description>اثر آنیون‌های الکترولیت‌های مایع یونی پیرولیدینیومی بر ترکیب و رفتار SEI در آند گرافیت باتری‌های پتاسیم-یونی بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in systematically probing how anion choice in pyrrolidinium ionic liquid electrolytes governs solid-electrolyte interphase formation on graphite anodes in potassium-ion batteries. This matters because SEI stability dictates cycling performance and safety; linking anion structure to interphase chemistry provides rational design rules for safer, tunable PIB electrolytes.&lt;br&gt;🏷 potassium-ion battery · ionic liquid electrolyte · solid-electrolyte interphase · graphite anode · anion effect</description>
-<category>potassium-ion battery</category>
-<category>ionic liquid electrolyte</category>
-<category>solid-electrolyte interphase</category>
-<category>graphite anode</category>
-<category>anion effect</category>
-</item>
-<item>
-<title>In situ cross-linked phosphazene binders with artificial interphases for high-rate, flame-retardant lithium-ion batteries</title>
-<link>https://doi.org/10.1039/d6ta06477a</link>
-<guid isPermaLink="false">10.1039/d6ta06477a</guid>
-<pubDate>Mon, 16 Nov 2026 16:01:57 GMT</pubDate>
-<description>بایندر فسفازنی شبکه‌ای‌شده درجا با میان‌فازهای غنی از P–N، انتقال Li+ و مقاومت آتش را در باتری‌های لیتیوم-یونی پرتوان بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in the dual-electrode-compatible xFPDAB phosphazene binder that forms conformal, P–N-rich artificial interphases via in situ cross-linking. This simultaneously regulates Li+ transport and imparts flame retardancy, enabling high-rate discharge capacities and superior full-cell durability—advancing safe, fast-charging lithium-ion batteries.&lt;br&gt;🏷 phosphazene binder · lithium-ion battery · in situ cross-linking · flame retardancy · artificial interphase</description>
-<category>phosphazene binder</category>
-<category>lithium-ion battery</category>
-<category>in situ cross-linking</category>
-<category>flame retardancy</category>
-<category>artificial interphase</category>
-</item>
-<item>
-<title>Domino effect of synergistic adsorption–catalysis of CoS/CoNi 2 S 4 anchored carbon tubes in modified separators toward superior redox reaction kinetics of lithium–sulfur batteries</title>
-<link>https://doi.org/10.1039/d6ta07090f</link>
-<guid isPermaLink="false">10.1039/d6ta07090f</guid>
-<pubDate>Mon, 16 Nov 2026 16:01:36 GMT</pubDate>
-<description>کاتالیزور CoS/CoNi2S4 روی نانولوله‌های کربنی در جداکننده اصلاح‌شده، با جذب و کاتالیز هم‌افزا، سینتیک واکنش‌های ردوکس و عملکرد Li-S را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in CoS/CoNi₂S₄ heterostructures anchored on carbon tubes, creating a synergistic adsorption–catalysis &amp;quot;domino effect&amp;quot; that accelerates multi-step polysulfide conversion. Integrated into modified separators, this design simultaneously suppresses shuttle effects and boosts redox kinetics, offering a significant, scalable strategy to enhance Li–S battery electrochemical performance.&lt;br&gt;🏷 lithium-sulfur battery · CoS/CoNi2S4 · modified separator · polysulfide catalysis · redox kinetics</description>
-<category>lithium-sulfur battery</category>
-<category>CoS/CoNi2S4</category>
-<category>modified separator</category>
-<category>polysulfide catalysis</category>
-<category>redox kinetics</category>
 </item>
 </channel>
 </rss>
