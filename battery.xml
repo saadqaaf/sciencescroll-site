@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 18:01:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 19:01:38 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>When Is Molecular-Dynamics-Predicted Ionic Diffusivity Reliable in Solid Electrolytes?</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02996</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02996</guid>
+<pubDate>Thu, 19 Nov 2026 19:01:11 GMT</pubDate>
+<description>این مقاله محدودیت‌های طول مسیر، اندازه سلول و نمونه‌برداری در پیش‌بینی رسانایی یونی الکترولیت‌های جامد با MD را بررسی و روش‌هایی برای بهبود دقت ارائه می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in showing that finite trajectory length, cell size, and sampling can produce apparently reliable but inaccurate ionic diffusivities in solid electrolytes, hidden behind linear MSDs and Arrhenius behavior. Significance: the α(t) diagnostic quantitatively links dynamical convergence to finite-time bias, enabling accuracy-based analysis-time selection, better material ranking, and more efficient computational screening.&lt;br&gt;🏷 solid electrolyte · molecular dynamics · ionic diffusivity · LLZO · finite-size effects</description>
+<category>solid electrolyte</category>
+<category>molecular dynamics</category>
+<category>ionic diffusivity</category>
+<category>LLZO</category>
+<category>finite-size effects</category>
+</item>
 <item>
 <title>Beyond Hosts: The Emerging Role of Powder Materials as Polyfunctional Auxiliaries in Advanced Rechargeable Metal-ion Batteries</title>
 <link>https://doi.org/10.1016/j.apmate.2026.100487</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>layered cathode</category>
 <category>heterostructure</category>
 <category>electrochemical transformation</category>
-</item>
-<item>
-<title>Dynamic staged solid electrolyte interphase via sequential chemical and electrochemical reactions for highly reversible zinc battery</title>
-<link>https://doi.org/10.1016/j.chempr.2026.103335</link>
-<guid isPermaLink="false">10.1016/j.chempr.2026.103335</guid>
-<pubDate>Tue, 17 Nov 2026 17:01:47 GMT</pubDate>
-<description>این مقاله یک لایه الکترولیت جامد (SEI) مرحله‌ای پویا را از طریق واکنش‌های شیمیایی و الکتروشیمیایی متوالی برای باتری روی با برگشت‌پذیری بالا ارائه می‌دهد.&lt;br&gt;Chem | 🔬 Research Article&lt;br&gt;🏷 zinc battery · solid electrolyte interphase · staged SEI · electrochemical reaction · reversibility</description>
-<category>zinc battery</category>
-<category>solid electrolyte interphase</category>
-<category>staged SEI</category>
-<category>electrochemical reaction</category>
-<category>reversibility</category>
 </item>
 </channel>
 </rss>
