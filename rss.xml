@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 19:01:38 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Antibody-Functionalized Liquid-Solid Triboelectric Interfaces for Preferential Self-Powered Albumin Sensing in Artificial Urine</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112630</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112630</guid>
+<pubDate>Thu, 19 Nov 2026 20:01:06 GMT</pubDate>
+<description>سطح مشترک تریبوالکتریک مایع-جامد عامل‌دارشده با آنتی‌بادی برای حس‌گری خودتوان آلبومین در ادرار مصنوعی با گزینش‌پذیری بالا ارائه شده است.&lt;br&gt;Nano Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 triboelectric nanogenerator · albumin sensing · antibody functionalization · liquid-solid interface · self-powered sensor</description>
+<category>triboelectric nanogenerator</category>
+<category>albumin sensing</category>
+<category>antibody functionalization</category>
+<category>liquid-solid interface</category>
+<category>self-powered sensor</category>
+</item>
 <item>
 <title>Mesoscale eddy modulation of spatial patterns of fishery activities in the Northwest Pacific Ocean</title>
 <link>https://doi.org/10.1016/j.eehl.2026.100303</link>
@@ -1194,18 +1206,6 @@
 <category>gridization</category>
 <category>polygridization</category>
 <category>plastic electronics</category>
-</item>
-<item>
-<title>Cationic potential-driven biphasic engineering: strong framework anchoring enables high-voltage sodium-ion cathodes</title>
-<link>https://doi.org/10.1016/j.jechem.2026.11.008</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.11.008</guid>
-<pubDate>Thu, 19 Nov 2026 10:04:18 GMT</pubDate>
-<description>این مقاله با مهندسی دوفازی مبتنی بر پتانسیل کاتیونی و لنگراندازی قوی چارچوب، کاتدهای ولتاژ بالای سدیم-یون را توسعه می‌دهد.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 sodium-ion cathode · cationic potential · biphasic engineering · framework anchoring · high-voltage</description>
-<category>sodium-ion cathode</category>
-<category>cationic potential</category>
-<category>biphasic engineering</category>
-<category>framework anchoring</category>
-<category>high-voltage</category>
 </item>
 </channel>
 </rss>
