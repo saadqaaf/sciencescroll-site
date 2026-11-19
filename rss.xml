@@ -5,8 +5,104 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 14:02:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 15:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Characterizing the solution space of migration histories of metastatic cancers with MACH2</title>
+<link>https://doi.org/10.1038/s41592-026-03321-5</link>
+<guid isPermaLink="false">10.1038/s41592-026-03321-5</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:42 GMT</pubDate>
+<description>MACH2 با شمارش همه تاریخچه‌های مهاجرت بهینه و معیاری جدید، عدم‌قطعیت تاریخچه‌های متاستاز را در ۱۴۵ سرطان ریه، تخمدان، پستان و پروستات آشکار می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 metastatic migration histories · MACH2 · clonal evolution · DNA sequencing · tumor phylogenetics</description>
+<category>metastatic migration histories</category>
+<category>MACH2</category>
+<category>clonal evolution</category>
+<category>DNA sequencing</category>
+<category>tumor phylogenetics</category>
+</item>
+<item>
+<title>Scalable electron tomography for connectomics</title>
+<link>https://doi.org/10.1038/s41592-026-03345-x</link>
+<guid isPermaLink="false">10.1038/s41592-026-03345-x</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:39 GMT</pubDate>
+<description>این مقاله روشی مقیاس‌پذیر برای electron tomography در connectomics ارائه می‌دهد تا بازسازی مدارهای عصبی با حجم بالا ممکن شود.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 electron tomography · connectomics · neural circuits · volume imaging · scalable reconstruction</description>
+<category>electron tomography</category>
+<category>connectomics</category>
+<category>neural circuits</category>
+<category>volume imaging</category>
+<category>scalable reconstruction</category>
+</item>
+<item>
+<title>Space-map: 3D single-cell atlas reconstruction from serial sections</title>
+<link>https://doi.org/10.1038/s41592-026-03310-8</link>
+<guid isPermaLink="false">10.1038/s41592-026-03310-8</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:36 GMT</pubDate>
+<description>Space-map با ترکیب تطبیق ویژگی چندمقیاسی و diffeomorphic mapping، از برش‌های سریالی، اطلس‌های سه‌بعدی تک‌سلولی با دقت بالا و سرعت چشمگیر می‌سازد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 Space-map · 3D tissue atlas · spatial transcriptomics · serial sections · image registration</description>
+<category>Space-map</category>
+<category>3D tissue atlas</category>
+<category>spatial transcriptomics</category>
+<category>serial sections</category>
+<category>image registration</category>
+</item>
+<item>
+<title>4D ultrasound cerebral angiography reveals the hemodynamics of the circle of Willis in primates</title>
+<link>https://doi.org/10.1038/s41592-026-03314-4</link>
+<guid isPermaLink="false">10.1038/s41592-026-03314-4</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:28 GMT</pubDate>
+<description>این پژوهش با 4D ultrasound cerebral angiography و microbubbles، همودینامیک circle of Willis را تا عمق ۷ سانتی‌متر در پستانداران غیرانسانی به‌صورت کمی تصویربرداری می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 4D ultrasound angiography · cerebral hemodynamics · circle of Willis · microbubbles · primates</description>
+<category>4D ultrasound angiography</category>
+<category>cerebral hemodynamics</category>
+<category>circle of Willis</category>
+<category>microbubbles</category>
+<category>primates</category>
+</item>
+<item>
+<title>The retention of nanoparticles in solid tumours</title>
+<link>https://doi.org/10.1038/s41563-026-02781-6</link>
+<guid isPermaLink="false">10.1038/s41563-026-02781-6</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:24 GMT</pubDate>
+<description>این مقاله دیدگاهی، درباره نگهداشت nanoparticles در تومورهای جامد و مفروضات رایج در این زمینه بحث می‌کند.&lt;br&gt;Nature Materials | 💭 Perspective&lt;br&gt;🏷 nanoparticle retention · solid tumors · EPR effect · cancer nanomedicine · tumor microenvironment</description>
+<category>nanoparticle retention</category>
+<category>solid tumors</category>
+<category>EPR effect</category>
+<category>cancer nanomedicine</category>
+<category>tumor microenvironment</category>
+</item>
+<item>
+<title>Nanoparticle transport and retention in tumours</title>
+<link>https://doi.org/10.1038/s41563-026-02742-z</link>
+<guid isPermaLink="false">10.1038/s41563-026-02742-z</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:21 GMT</pubDate>
+<description>این مقاله مروری، سازوکارهای انتقال و نگهداشت nanoparticles در تومورهای جامد و عوامل مؤثر بر آن را بررسی می‌کند.&lt;br&gt;Nature Materials | ⭐ Review&lt;br&gt;🏷 nanoparticle transport · tumor retention · enhanced permeability retention · cancer nanomedicine · drug delivery</description>
+<category>nanoparticle transport</category>
+<category>tumor retention</category>
+<category>enhanced permeability retention</category>
+<category>cancer nanomedicine</category>
+<category>drug delivery</category>
+</item>
+<item>
+<title>Photonic Ising machines towards and beyond a million spins</title>
+<link>https://doi.org/10.1038/s42254-026-01010-y</link>
+<guid isPermaLink="false">10.1038/s42254-026-01010-y</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:17 GMT</pubDate>
+<description>این مقاله مروری، photonic Ising machines را برای حل مسائل بهینه‌سازی ترکیبیاتی بررسی کرده و مسیر رسیدن به بیش از یک میلیون spin را ترسیم می‌کند.&lt;br&gt;Nature Reviews Physics | ⭐ Review&lt;br&gt;🏷 photonic Ising machines · combinatorial optimization · spin systems · photonic computing · scalability</description>
+<category>photonic Ising machines</category>
+<category>combinatorial optimization</category>
+<category>spin systems</category>
+<category>photonic computing</category>
+<category>scalability</category>
+</item>
+<item>
+<title>Beyond the needle: tetrahedral framework nucleic acids as a new frontier for non-invasive therapy</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101892</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101892</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:14 GMT</pubDate>
+<description>این مقاله مروری، کاربردهای درمانی غیرتهاجمی tetrahedral framework nucleic acids را به عنوان مرزی نوین در نانوفناوری DNA بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 tetrahedral framework nucleic acids · non-invasive therapy · DNA nanostructures · drug delivery · biomedical applications</description>
+<category>tetrahedral framework nucleic acids</category>
+<category>non-invasive therapy</category>
+<category>DNA nanostructures</category>
+<category>drug delivery</category>
+<category>biomedical applications</category>
+</item>
 <item>
 <title>Visualizing surface restructuring and chemical state transitions in Co(OH)2 electrocatalysts during the oxygen evolution reaction</title>
 <link>https://doi.org/10.1038/s41929-026-01636-2</link>
@@ -1120,103 +1216,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 piezocatalysis · protein
 <category>colorectal cancer</category>
 <category>KNN@Au</category>
 <category>competition therapy</category>
-</item>
-<item>
-<title>A Unified Asymmetric Approach to Tetracyclic Diterpenoids via Ring Reconstruction Strategy</title>
-<link>https://doi.org/10.1021/jacs.6c17661</link>
-<guid isPermaLink="false">10.1021/jacs.6c17661</guid>
-<pubDate>Thu, 19 Nov 2026 10:03:03 GMT</pubDate>
-<description>این مقاله با راهبرد بازسازی حلقه، سنتز نامتقارن واگرای خانواده دی‌ترپنوئیدهای چهارحلقه‌ای را از یک پیش‌ماده واحد و با ویرایش اسکلتی انجام می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 tetracyclic diterpenoids · ring reconstruction · skeletal editing · asymmetric synthesis · ent-kaurane</description>
-<category>tetracyclic diterpenoids</category>
-<category>ring reconstruction</category>
-<category>skeletal editing</category>
-<category>asymmetric synthesis</category>
-<category>ent-kaurane</category>
-</item>
-<item>
-<title>Chiral SERS and photochemistry via collective hotspot asymmetry in metasurface-templated gold networks with disordered nanoscale porosity</title>
-<link>https://doi.org/10.1038/s41467-026-78158-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-78158-9</guid>
-<pubDate>Thu, 19 Nov 2026 10:03:00 GMT</pubDate>
-<description>این مقاله با ترکیب شبکه طلای نانومتخلخل و قالب متاسطحی، میدان‌های ابرکایرال ایجاد کرده و تشخیص کایرال در حد آتومول و واکنش‌پذیری نوری انانتیوگزین را نشان می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chiral plasmonics · SERS · metasurface template · nanoporous gold · enantioselective photochemistry</description>
-<category>chiral plasmonics</category>
-<category>SERS</category>
-<category>metasurface template</category>
-<category>nanoporous gold</category>
-<category>enantioselective photochemistry</category>
-</item>
-<item>
-<title>Structure-guided design of a dual-antigen mRNA vaccine conferring broad protection against Henipaviruses</title>
-<link>https://doi.org/10.1038/s41467-026-79459-9</link>
-<guid isPermaLink="false">10.1038/s41467-026-79459-9</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:57 GMT</pubDate>
-<description>این مقاله یک واکسن mRNA دوآنتی‌ژنی را با طراحی ساختارمحور برای ایجاد محافظت گسترده در برابر ویروس‌های Henipavirus معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mRNA vaccine · Henipavirus · dual antigen · structure-guided design · broad protection</description>
-<category>mRNA vaccine</category>
-<category>Henipavirus</category>
-<category>dual antigen</category>
-<category>structure-guided design</category>
-<category>broad protection</category>
-</item>
-<item>
-<title>Interstitial proton buffering enables decoupled transfer dynamics for acidic wastewater decontamination</title>
-<link>https://doi.org/10.1038/s41467-026-78926-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-78926-7</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:54 GMT</pubDate>
-<description>بافرینگ پروتون میان‌بینی، دینامیک انتقال را جدا کرده و تصفیه فاضلاب اسیدی را کارآمد می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 interstitial proton buffering · acidic wastewater · proton transfer · decontamination · decoupled dynamics</description>
-<category>interstitial proton buffering</category>
-<category>acidic wastewater</category>
-<category>proton transfer</category>
-<category>decontamination</category>
-<category>decoupled dynamics</category>
-</item>
-<item>
-<title>The evolutionary plateau of efflux-mediated drug resistance in mycobacteria</title>
-<link>https://doi.org/10.1038/s41467-026-79513-6</link>
-<guid isPermaLink="false">10.1038/s41467-026-79513-6</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:51 GMT</pubDate>
-<description>این مقاله نشان می‌دهد مقاومت دارویی میانجی‌شده توسط پمپ‌های افلاکس در مایکوباکتری‌ها به یک فلات تکاملی می‌رسد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 efflux pumps · drug resistance · mycobacteria · evolutionary plateau · antibiotic tolerance</description>
-<category>efflux pumps</category>
-<category>drug resistance</category>
-<category>mycobacteria</category>
-<category>evolutionary plateau</category>
-<category>antibiotic tolerance</category>
-</item>
-<item>
-<title>Estimating malaria burden in sub-Saharan Africa under intervention disruption using satellite-derived representations</title>
-<link>https://doi.org/10.1038/s41467-026-79054-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-79054-y</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:47 GMT</pubDate>
-<description>با یادگیری نمایش از تصاویر ماهواره‌ای Landsat 8 و مدل بیزی، بار مالاریا در آفریقای زیرصحرا در سناریوی قطع مداخلات ۴۲۲ میلیون مورد تخمین زده می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 malaria burden · satellite imagery · representation learning · Bayesian model · sub-Saharan Africa</description>
-<category>malaria burden</category>
-<category>satellite imagery</category>
-<category>representation learning</category>
-<category>Bayesian model</category>
-<category>sub-Saharan Africa</category>
-</item>
-<item>
-<title>A dual-anchoring mechanism for hemimethylated CG-guided histone ubiquitylation</title>
-<link>https://doi.org/10.1038/s41467-026-79633-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-79633-z</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:44 GMT</pubDate>
-<description>ساختارهای کمپلکس VIM1 با نوکلئوزوم نشان می‌دهند لنگراندازی دوگانه RING2-SRA، نشانه hemiCG را به یوبی‌کویتیله‌شدن پایدار هیستون H3/H4 متصل می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 histone ubiquitylation · hemimethylated CG · VIM1 · nucleosome anchoring · DNA methylation</description>
-<category>histone ubiquitylation</category>
-<category>hemimethylated CG</category>
-<category>VIM1</category>
-<category>nucleosome anchoring</category>
-<category>DNA methylation</category>
-</item>
-<item>
-<title>Atom-level pinning effect reinforced electrooxidative coupling of anilines into azos</title>
-<link>https://doi.org/10.1038/s41467-026-79417-5</link>
-<guid isPermaLink="false">10.1038/s41467-026-79417-5</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:41 GMT</pubDate>
-<description>این مقاله اثر پین‌شدن در سطح اتم را برای تقویت جفت‌شدن الکترواکسیداتیو آنیلین‌ها به آزوها به کار می‌برد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 aniline oxidation · azo compounds · electrooxidative coupling · pinning effect · electrocatalysis</description>
-<category>aniline oxidation</category>
-<category>azo compounds</category>
-<category>electrooxidative coupling</category>
-<category>pinning effect</category>
-<category>electrocatalysis</category>
 </item>
 </channel>
 </rss>
