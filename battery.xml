@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 13:01:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 14:02:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Research on the preparation and application of multifunctional P-doped compounds in lithium–sulfur batteries</title>
+<link>https://doi.org/10.1039/d6ta06590b</link>
+<guid isPermaLink="false">10.1039/d6ta06590b</guid>
+<pubDate>Thu, 19 Nov 2026 14:01:33 GMT</pubDate>
+<description>این مرور به ترکیبات دوپ‌شده با فسفر در باتری‌های لیتیوم-گوگرد برای مهار شاتل، تسریع سینتیک ردوکس و بهبود کاتد و جداکننده می‌پردازد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates phosphorus-doped compounds as multifunctional mediators in lithium–sulfur batteries, integrating shuttle suppression, accelerated redox kinetics, enhanced conductivity, and dendrite inhibition across cathodes and separators. Its significance lies in bridging doping chemistry with full-cell performance, offering a design framework for high-energy, durable Li–S systems and guiding future multifunctional material development.&lt;br&gt;🏷 lithium-sulfur battery · phosphorus doping · shuttle effect · redox kinetics · separator modification</description>
+<category>lithium-sulfur battery</category>
+<category>phosphorus doping</category>
+<category>shuttle effect</category>
+<category>redox kinetics</category>
+<category>separator modification</category>
+</item>
+<item>
+<title>Tuning blend architecture to enhance ion transport in semicrystalline polymer blend electrolytes</title>
+<link>https://doi.org/10.1039/d6ta04101a</link>
+<guid isPermaLink="false">10.1039/d6ta04101a</guid>
+<pubDate>Thu, 19 Nov 2026 14:01:16 GMT</pubDate>
+<description>معماری آمیزه‌های نیمه‌بلوری PEO/POEM/LiTFSI با افزایش اتصال جایگاه‌های حل‌پذیری، رسانایی یونی را در ۴۰ درجه سلسیوس دو برابر می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in tuning blend architecture to achieve a two-fold conductivity increase in semicrystalline PEO-based electrolytes at 40 °C via enhanced solvation site connectivity. This is significant because semicrystalline polymer electrolytes typically suffer low conductivity; improving ion transport without sacrificing mechanical robustness advances safer, high-performance solid-state lithium batteries.&lt;br&gt;🏷 polymer blend electrolyte · ion transport · PEO · LiTFSI · semicrystalline electrolyte</description>
+<category>polymer blend electrolyte</category>
+<category>ion transport</category>
+<category>PEO</category>
+<category>LiTFSI</category>
+<category>semicrystalline electrolyte</category>
+</item>
 <item>
 <title>Site-specific Ca2+ doping enables synergistic lattice widening and electronic tailoring for ultra-fast sodium storage in NaVOPO4 cathodes</title>
 <link>https://doi.org/10.1016/j.est.2026.125723</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>dendrite suppression</category>
 <category>dual interlayer</category>
 <category>critical current density</category>
-</item>
-<item>
-<title>Interfacial Electronic Reconstruction Activates TiO 2 in MnO 2 /TiO 2 Heterostructures for Accelerated Sulfur Redox Chemistry</title>
-<link>https://doi.org/10.1002/adma.75753</link>
-<guid isPermaLink="false">10.1002/adma.75753</guid>
-<pubDate>Tue, 17 Nov 2026 14:04:18 GMT</pubDate>
-<description>بازسازی الکترونیکی فصل مشترک در ناهمگون MnO2/TiO2 با پیوند Ti─O─Mn و کربن باقیمانده، سینتیک ردوکس گوگرد را تسریع کرده و باتری Li-S با ظرفیت 1569 mAh/g و پایداری ۱۰۰۰ چرخه ارائه میدهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a chemically integrated MnO₂/TiO₂ heterointerface with Ti─O─Mn bonding and residual carbon, inducing interfacial electronic reconstruction (reduced Ti states, charge redistribution, bond polarization). This activates Ti sites for enhanced polysulfide regulation, accelerating sulfur redox. Significance: enables stable cycling at 9.2 mg cm⁻² sulfur loading and 1569 mAh g⁻¹ capacity with only 0.054% decay per cycle over 1000 cycles, demonstrating oxide heterointerfaces as effective catalysts.&lt;br&gt;🏷 lithium-sulfur battery · MnO2/TiO2 heterostructure · interfacial electronic reconstruction · polysulfide catalysis · sulfur redox</description>
-<category>lithium-sulfur battery</category>
-<category>MnO2/TiO2 heterostructure</category>
-<category>interfacial electronic reconstruction</category>
-<category>polysulfide catalysis</category>
-<category>sulfur redox</category>
-</item>
-<item>
-<title>Reconceptualizing Thermal Runaway Mechanisms in Sulfide Solid‐State Batteries via Dynamic Interfacial Reconstruction</title>
-<link>https://doi.org/10.1002/adma.75766</link>
-<guid isPermaLink="false">10.1002/adma.75766</guid>
-<pubDate>Tue, 17 Nov 2026 14:04:13 GMT</pubDate>
-<description>این مقاله دیدگاه رایج درباره ایمنی ذاتی باتریهای تمامحالتجامد سولفیدی را بهچالش میکشد و شکست حرارتی را ناشی از بازسازی دینامیک فصل مشترک در حین چرخه میداند.&lt;br&gt;Advanced Materials | 💭 Perspective&lt;br&gt;💡 The novelty lies in shifting from a static, material-centric view to a dynamic interface-centric framework, arguing that cycling-induced interphase evolution (polysulfides, mixed-conducting interphases) preconditions sulfide ASSB thermal runaway. This explains inconsistent SO2 profiles and trigger temperatures, and reframes safety design toward dynamic interfacial control for truly robust solid-state batteries.&lt;br&gt;🏷 sulfide solid-state battery · thermal runaway · interfacial reconstruction · battery safety · interphase evolution</description>
-<category>sulfide solid-state battery</category>
-<category>thermal runaway</category>
-<category>interfacial reconstruction</category>
-<category>battery safety</category>
-<category>interphase evolution</category>
 </item>
 </channel>
 </rss>
