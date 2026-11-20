@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 14:02:05 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 15:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Competitive Coordination of Solvent in Electrolyte to Stabilize Li-Rich Mn-Based Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02523</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02523</guid>
+<pubDate>Fri, 20 Nov 2026 15:01:19 GMT</pubDate>
+<description>این کار با طراحی الکترولیت کم‌غلظت مبتنی بر هماهنگی رقابتی حلال، پایداری باتری‌های Li||LRMO را در ولتاژ 4.8 V بهبود می‌دهد و پس از 450 چرخه 80.5% ظرفیت را حفظ می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in discovering competitive solvent coordination within the electrolyte solvation structure, enabling a low-concentration (0.5 M) binary fluorinated electrolyte (TFP/EDFA). This stabilizes Li-rich Mn-based layered oxide batteries, retaining 80.5% capacity after 450 cycles at 4.8 V. It offers a new molecular-level interfacial model and innovative electrolyte design strategy for high-voltage battery systems.&lt;br&gt;🏷 Li-rich Mn-based cathode · electrolyte solvation · competitive coordination · low-concentration electrolyte · lithium metal battery</description>
+<category>Li-rich Mn-based cathode</category>
+<category>electrolyte solvation</category>
+<category>competitive coordination</category>
+<category>low-concentration electrolyte</category>
+<category>lithium metal battery</category>
+</item>
 <item>
 <title>Modulating HOMO Location Boosting High-Voltage Stability of Fluorine-Free Ether Based Low-Concentration Electrolyte for 4.7 V Level Lithium Metal Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105674</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>separator engineering</category>
 <category>oxygen vacancy</category>
 <category>polyiodide capture</category>
-</item>
-<item>
-<title>Integrating cross-border charging cost differentials into charging infrastructure planning for long-haul battery-electric trucks</title>
-<link>https://doi.org/10.1016/j.esr.2026.102398</link>
-<guid isPermaLink="false">10.1016/j.esr.2026.102398</guid>
-<pubDate>Wed, 18 Nov 2026 16:02:19 GMT</pubDate>
-<description>این مقاله تفاوت‌های هزینه شارژ فرامرزی را در برنامه‌ریزی زیرساخت شارژ برای کامیون‌های برقی مسافت‌طولانی ادغام می‌کند تا تخصیص بهینه ایستگاه‌های شارژ را بهبود دهد.&lt;br&gt;Energy Strategy Reviews | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 charging infrastructure · battery-electric trucks · cross-border charging · cost differentials · infrastructure planning</description>
-<category>charging infrastructure</category>
-<category>battery-electric trucks</category>
-<category>cross-border charging</category>
-<category>cost differentials</category>
-<category>infrastructure planning</category>
 </item>
 </channel>
 </rss>
