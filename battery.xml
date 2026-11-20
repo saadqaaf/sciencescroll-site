@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 11:01:01 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 12:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Trace‐Metal‐Assisted Flash Synthesis for Fast‐Charging Graphite Anodes</title>
+<link>https://doi.org/10.1002/adma.75785</link>
+<guid isPermaLink="false">10.1002/adma.75785</guid>
+<pubDate>Fri, 20 Nov 2026 12:02:25 GMT</pubDate>
+<description>فرآیند فلش با کمک فلز ناچیز، گرافیت کاتالیستی با نظم بالا را در کمتر از یک ثانیه ساخت که ظرفیت ۱۵۸.۸ mAh g−1 در نرخ 15C و پایداری چرخه‌ای عالی دارد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a trace-metal-assisted flash (TMF) process that uses in situ nickel nanoclusters to catalyze ultrafast graphitization of amorphous carbon into highly ordered graphite in under one second. This yields fast-charging graphite anodes with superior rate capability and cyclability, while cutting energy use, emissions, and production cost by over 80%, offering a scalable, sustainable route for next-generation lithium-ion batteries.&lt;br&gt;🏷 graphite anode · fast charging · flash synthesis · lithium-ion battery · nickel catalyst</description>
+<category>graphite anode</category>
+<category>fast charging</category>
+<category>flash synthesis</category>
+<category>lithium-ion battery</category>
+<category>nickel catalyst</category>
+</item>
+<item>
+<title>Interfacial Amorphous Lithium Polysulfide Reservoir Design Enables High‐Power and Energy‐Dense All‐Solid‐State Li─S Battery</title>
+<link>https://doi.org/10.1002/adma.75807</link>
+<guid isPermaLink="false">10.1002/adma.75807</guid>
+<pubDate>Fri, 20 Nov 2026 12:02:02 GMT</pubDate>
+<description>مخزن آمورف پلی‌سولفید لیتیوم در سطح گوگرد، سینتیک انتقال بار در فصل مشترک سه‌فازی را بهبود می‌دهد و باتری تمام‌جامد Li-S با توان و انرژی بالا و پایداری چرخه‌ای عالی فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in constructing an amorphous lithium reservoir (ALR) of short-chained lithium polysulfides on sulfur particles, creating disordered Li─S bonding that stores and anchors Li⁺, enabling fast Li⁺ conduction and continuous supply for accelerated S/Li₂S conversion. This resolves sluggish triple-phase interfacial kinetics, yielding high-power, energy-dense all-solid-state Li─S batteries (1115 mAh g⁻¹ at 1C, 12.8 mAh cm⁻² at 10 mg cm⁻² loading).&lt;br&gt;🏷 all-solid-state Li-S battery · amorphous lithium polysulfide · interfacial kinetics · solid electrolyte · high energy density</description>
+<category>all-solid-state Li-S battery</category>
+<category>amorphous lithium polysulfide</category>
+<category>interfacial kinetics</category>
+<category>solid electrolyte</category>
+<category>high energy density</category>
+</item>
+<item>
+<title>Tuning Ligand Accessibility via Solvation Entropy for Universal Recovery of Spent Ternary Cathodes</title>
+<link>https://doi.org/10.1002/adma.75811</link>
+<guid isPermaLink="false">10.1002/adma.75811</guid>
+<pubDate>Fri, 20 Nov 2026 12:01:57 GMT</pubDate>
+<description>با مهندسی آنتروپی حلال‌پوشی در یک حلال اوتکتیک عمیق پرآنتروپی، دسترسی لیگاند تنظیم شد و جداسازی انتخابی Ni از کاتدهای مستعمل NCM با غنی‌سازی بالا ممکن شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using solvation entropy engineering to create a high-entropy deep eutectic solvent that tunes ligand accessibility and competitive metal-ligand interactions, enabling universal selective Ni recovery from diverse spent NCM cathodes. Its significance is establishing solvent microenvironment engineering as a complementary design principle to ligand engineering for selective metal separation in complex multimetal systems.&lt;br&gt;🏷 spent ternary cathodes · deep eutectic solvent · solvation entropy · selective metal separation · battery recycling</description>
+<category>spent ternary cathodes</category>
+<category>deep eutectic solvent</category>
+<category>solvation entropy</category>
+<category>selective metal separation</category>
+<category>battery recycling</category>
+</item>
+<item>
+<title>O6-type layered oxides for sustainable high-energy battery cathodes</title>
+<link>https://doi.org/10.1038/s41893-026-01987-5</link>
+<guid isPermaLink="false">10.1038/s41893-026-01987-5</guid>
+<pubDate>Fri, 20 Nov 2026 12:01:51 GMT</pubDate>
+<description>اکسیدهای لایه‌ای نوع O6 به‌عنوان کاتدهای پایدار و پرانرژی باتری معرفی می‌شوند و مسیری برای کاتدهای کارآمد و پایدار ارائه می‌دهند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 The novelty is an O6-type layered Li-rich cathode formed by atomic-scale O3/O1 intergrowth, which suppresses transition-metal migration and irreversible oxygen dimerization. Its significance lies in stabilizing oxygen-redox activity, enabling negligible voltage decay and high energy-density retention in a cobalt-free cathode, establishing stacking-sequence design as a general strategy for durable sustainable batteries.&lt;br&gt;🏷 O6-type layered oxides · battery cathodes · high-energy cathodes · sustainable materials · lithium-ion batteries</description>
+<category>O6-type layered oxides</category>
+<category>battery cathodes</category>
+<category>high-energy cathodes</category>
+<category>sustainable materials</category>
+<category>lithium-ion batteries</category>
+</item>
+<item>
+<title>A tri-phase fuel electrode enabling low-temperature co-firing of high-performance reversible protonic ceramic cells</title>
+<link>https://doi.org/10.1039/d6ee05087e</link>
+<guid isPermaLink="false">10.1039/d6ee05087e</guid>
+<pubDate>Fri, 20 Nov 2026 12:01:34 GMT</pubDate>
+<description>یک الکترود سوخت سه‌فازی امکان پخت هم‌زمان در دمای پایین را برای سلول‌های سرامیکی پروتونی برگشت‌پذیر فراهم می‌کند و عملکرد بالایی در تبدیل و ذخیره انرژی به دست می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tri-phase fuel electrode enabling low-temperature co-firing of reversible protonic ceramic cells, overcoming the high sintering temperatures that limit deployment. Its significance is enabling efficient intermediate-temperature energy conversion and storage, improving manufacturability and performance, and advancing practical widespread adoption of RPCC technology.&lt;br&gt;🏷 reversible protonic ceramic cells · tri-phase fuel electrode · low-temperature co-firing · solid oxide cells · hydrogen energy</description>
+<category>reversible protonic ceramic cells</category>
+<category>tri-phase fuel electrode</category>
+<category>low-temperature co-firing</category>
+<category>solid oxide cells</category>
+<category>hydrogen energy</category>
+</item>
 <item>
 <title>Fluorine-Terminated Vacancy-Ordered i-MXene/Graphene Heterostructures for Aqueous Lithium-Ion Batteries without Superconcentrated Electrolytes</title>
 <link>https://doi.org/10.1039/d6ta08077d</link>
@@ -1147,66 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>Lewis acid-base</category>
 <category>desolvation</category>
 <category>micropore confinement</category>
-</item>
-<item>
-<title>Anion‐Anchoring Gel Polymer Electrolytes for Highly Stable Li Metal Batteries</title>
-<link>https://doi.org/10.1002/smll.76742</link>
-<guid isPermaLink="false">10.1002/smll.76742</guid>
-<pubDate>Wed, 18 Nov 2026 15:03:15 GMT</pubDate>
-<description>الکترولیت ژل پلیمری با مونومر فلورینه TFA و اتصال‌دهنده سیلوکسان، آنیون‌ها را تثبیت و ساختار حل‌پوشی Li+ را بازآرایی کرده و پایداری باتری Li فلزی با کاتد NCM811 را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in designing fluorinated amide (TFA) and siloxane crosslinker (DMSEA) monomers that co-participate in Li+ solvation while hydrogen bonding and ─CF3 groups anchor PF6− anions. This dual regulation yields high Li+ conductivity (4.9×10−4 S cm−1), stable Li plating over 1000 h, and 91.44% capacity retention after 200 cycles, establishing a solvation-structure-plus-anion-anchoring paradigm for advanced gel polymer electrolytes.&lt;br&gt;🏷 gel polymer electrolyte · Li metal battery · anion anchoring · solvation structure · NCM811 cathode</description>
-<category>gel polymer electrolyte</category>
-<category>Li metal battery</category>
-<category>anion anchoring</category>
-<category>solvation structure</category>
-<category>NCM811 cathode</category>
-</item>
-<item>
-<title>Entropy‐Engineered Interfacial Alloy Enables Dendrite‐Free and Hydrogen‐Evolution‐Resistant Zn Metal Anodes</title>
-<link>https://doi.org/10.1002/smll.76786</link>
-<guid isPermaLink="false">10.1002/smll.76786</guid>
-<pubDate>Wed, 18 Nov 2026 15:02:52 GMT</pubDate>
-<description>لایه آلیاژ آنتروپی‌بالای SnSbMnBiTe روی آند Zn با مهار HER و هدایت رسوب یکنواخت، رشد دندریت را سرکوب کرده و پایداری چرخه‌ای باتری آبی روی را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a SnSbMnBiTe high-entropy alloy interfacial layer combining HER-suppressing elements (Sn, Sb, Bi) with lattice distortion from five elements to enhance zincophilicity and uniform Zn deposition. This synergy suppresses dendrites and hydrogen evolution, enabling stable, high-performance Zn anodes and full cells—advancing durable aqueous Zn-ion battery design.&lt;br&gt;🏷 Zn metal anode · high-entropy alloy · hydrogen evolution · dendrite suppression · aqueous Zn battery</description>
-<category>Zn metal anode</category>
-<category>high-entropy alloy</category>
-<category>hydrogen evolution</category>
-<category>dendrite suppression</category>
-<category>aqueous Zn battery</category>
-</item>
-<item>
-<title>From Physics‐Informed Deep Learning to Experimental Realization: Unlocking Entropy‐Stabilized Titanium Halide Solid Electrolytes</title>
-<link>https://doi.org/10.1002/smll.76722</link>
-<guid isPermaLink="false">10.1002/smll.76722</guid>
-<pubDate>Wed, 18 Nov 2026 15:02:46 GMT</pubDate>
-<description>با یادگیری عمیق فیزیک‌محور، الکترولیت هالید تیتانیومی Li4TiBr4Cl4 با رسانایی ۱٫۱۴ mS/cm سنتز شد که در باتری تمام‌جامد Li پایداری خوبی نشان می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a physics-informed deep learning platform combining physical constraints with dual-source graph neural networks to screen 280,000+ crystals despite scarce data, identifying cost-effective titanium halide electrolytes. Significance: synthesized Li4TiBr4Cl4 achieves 1.14 mS/cm conductivity, entropy-stabilized cubic phase, and 90.6% capacity retention over 200 cycles, demonstrating a closed-loop paradigm merging physics-constrained learning with thermodynamics for viable energy materials.&lt;br&gt;🏷 solid electrolyte · halide electrolyte · physics-informed learning · Li4TiBr4Cl4 · all-solid-state battery</description>
-<category>solid electrolyte</category>
-<category>halide electrolyte</category>
-<category>physics-informed learning</category>
-<category>Li4TiBr4Cl4</category>
-<category>all-solid-state battery</category>
-</item>
-<item>
-<title>A Seawater-Compatible Nanocluster Dilute Electrolyte for Low-Cost Long-Lifespan Four-Electron Zn–I2 Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c16641</link>
-<guid isPermaLink="false">10.1021/acsnano.6c16641</guid>
-<pubDate>Wed, 18 Nov 2026 14:02:28 GMT</pubDate>
-<description>الکترولیت رقیق نانوخوشه‌ای بر پایه SBMA با تفکیک دامنه‌های آب، بازگشت‌پذیری I0/I+ و پایداری آند Zn را بهبود می‌بخشد و باتری Zn–I2 چهارالکترونی با بیش از 16000 چرخه ارائه می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low-cost dilute nanocluster electrolyte (SBMA) that creates hydrophobic-interior nanoclusters, partitioning water into activated/nonactivated domains. This suppresses water activity, enables reversible I⁰/I⁺ conversion via quaternary ammonium–ICl₂⁻ coordination, and stabilizes the Zn anode. Significance: over 16,000 cycles at 10 A g⁻¹, and seawater-compatible operation exceeding 12,000 cycles, enabling sustainable, low-cost four-electron Zn–I₂ batteries.&lt;br&gt;🏷 zinc-iodine battery · four-electron redox · dilute electrolyte · nanocluster electrolyte · seawater electrolyte</description>
-<category>zinc-iodine battery</category>
-<category>four-electron redox</category>
-<category>dilute electrolyte</category>
-<category>nanocluster electrolyte</category>
-<category>seawater electrolyte</category>
-</item>
-<item>
-<title>Manipulating Spatial Charge Distribution and Electronic Structure in Se‐Doped Hollow Heterostructures for Enhanced Redox Kinetics in Li‐S Batteries</title>
-<link>https://doi.org/10.1002/adfm.79723</link>
-<guid isPermaLink="false">10.1002/adfm.79723</guid>
-<pubDate>Wed, 18 Nov 2026 13:01:56 GMT</pubDate>
-<description>نانوباکس‌های توخالی Co3O4/SnO2 دوپ‌شده با Se به‌عنوان پوشش جداکننده، جذب پلی‌سولفید و سینتیک ردوکس را در باتری Li-S بهبود می‌بخشند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Se-doped Co3O4/SnO2 hollow nanoboxes combine heterointerface engineering with electronic structure modulation for Li-S battery separators. Se doping shifts the Co d-band center upward, strengthening polysulfide adsorption and accelerating redox kinetics while the heterointerface promotes charge redistribution. This spatial-electronic synergy yields ultralow capacity decay (0.049%/cycle over 1000 cycles) and pouch-cell viability, offering a design paradigm for electrocatalytic interfaces.&lt;br&gt;🏷 Li-S battery · heterostructure · Se doping · polysulfide conversion · separator coating</description>
-<category>Li-S battery</category>
-<category>heterostructure</category>
-<category>Se doping</category>
-<category>polysulfide conversion</category>
-<category>separator coating</category>
 </item>
 </channel>
 </rss>
