@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 13:01:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 14:02:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Modulating HOMO Location Boosting High-Voltage Stability of Fluorine-Free Ether Based Low-Concentration Electrolyte for 4.7 V Level Lithium Metal Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105674</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105674</guid>
+<pubDate>Fri, 20 Nov 2026 14:01:59 GMT</pubDate>
+<description>این مقاله با تنظیم موقعیت HOMO، پایداری ولتاژ بالای الکترولیت اتری بدون فلوئور و کم‌غلظت را برای باتری‌های لیتیوم-فلزی در سطح 4.7 V بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · low-concentration electrolyte · fluorine-free ether · HOMO modulation · high-voltage stability</description>
+<category>lithium metal battery</category>
+<category>low-concentration electrolyte</category>
+<category>fluorine-free ether</category>
+<category>HOMO modulation</category>
+<category>high-voltage stability</category>
+</item>
 <item>
 <title>Molecular Engineering of Redox Mediator for Accelerated Multi‐Electron Transfer Reactions in Lithium Batteries</title>
 <link>https://doi.org/10.1002/aenm.71838</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>cross-border charging</category>
 <category>cost differentials</category>
 <category>infrastructure planning</category>
-</item>
-<item>
-<title>Ionic polymer with polyethylene oxide-based crosslinks enables highly conductive ionogel membrane for room-temperature lithium batteries</title>
-<link>https://doi.org/10.1039/d6mh01833e</link>
-<guid isPermaLink="false">10.1039/d6mh01833e</guid>
-<pubDate>Wed, 18 Nov 2026 16:02:08 GMT</pubDate>
-<description>این پژوهش یک غشای یونوژل با اتصالات عرضی پلی‌اتیلن‌اکساید طراحی می‌کند که رسانایی یونی بالا و خواص مکانیکی مناسب برای باتری‌های لیتیومی دمای اتاق فراهم می‌کند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an ionic polymer with polyethylene oxide-based crosslinks, creating an ionogel membrane that decouples ionic conductivity from segmental mobility. This enables high conductivity while maintaining mechanical integrity. Significance: it supports room-temperature lithium batteries, overcoming the conductivity–mechanics trade-off of linear polymer electrolytes.&lt;br&gt;🏷 ionogel membrane · polyethylene oxide · crosslinked polymer · lithium battery · ionic conductivity</description>
-<category>ionogel membrane</category>
-<category>polyethylene oxide</category>
-<category>crosslinked polymer</category>
-<category>lithium battery</category>
-<category>ionic conductivity</category>
 </item>
 </channel>
 </rss>
