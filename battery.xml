@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 23:01:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 00:05:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Site-Competition–Driven Synergistic Li+/Na+ Transport in Li5₋xNaxLa3Ta2O12: The 3:1 Optimum</title>
+<link>https://doi.org/10.1039/d6ta07858c</link>
+<guid isPermaLink="false">10.1039/d6ta07858c</guid>
+<pubDate>Fri, 20 Nov 2026 00:02:04 GMT</pubDate>
+<description>در گارنت Li5-xNaxLa3Ta2O12 رقابت مکان‌های بلوری میان Li+ و Na+ با نسبت بهینه ۳:۱، انتقال یونی هم‌افزا را تقویت می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This study reveals that in mixed-cation Li5₋xNaxLa3Ta2O12 garnets, a 3:1 Li:Na ratio yields optimal ionic conductivity via site-competition-driven synergistic Li+/Na+ transport. It clarifies how competing alkali species interact and provides a design principle for enhancing conductivity in solid electrolytes without extrinsic dopants, advancing understanding of mixed-cation ion-transport mechanisms for battery applications.&lt;br&gt;🏷 garnet solid electrolyte · Li5La3Ta2O12 · mixed-cation · ion transport · site competition</description>
+<category>garnet solid electrolyte</category>
+<category>Li5La3Ta2O12</category>
+<category>mixed-cation</category>
+<category>ion transport</category>
+<category>site competition</category>
+</item>
 <item>
 <title>Synergistic Molecular Interfacial Bridging and Solvation Structure Regulation for High‐Performance Aqueous Zinc‐Ion Batteries</title>
 <link>https://doi.org/10.1002/smll.76811</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>diglyme additive</category>
 <category>hydrogen evolution suppression</category>
 <category>ultralong cycling</category>
-</item>
-<item>
-<title>Synthesis of Curved Nanoplatelet Graphite From Calcium Carbide and Amorphous Carbon at Low Temperature</title>
-<link>https://doi.org/10.1002/smll.76792</link>
-<guid isPermaLink="false">10.1002/smll.76792</guid>
-<pubDate>Tue, 17 Nov 2026 19:02:19 GMT</pubDate>
-<description>روشی جدید برای گرافیتی‌کردن کم‌دما با استفاده از کاربید کلسیم و کربن آمورف ارائه می‌دهد که گرافیت نانوورقه‌ای خمیده با عملکرد عالی به‌عنوان آند Li-ion تولید می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a low-temperature oxidative-reductive graphitization method converting amorphous carbon and calcium carbide into curved nanoplatelet graphite at 1100°C, avoiding high-pressure/high-temperature routes. Significance: the resulting material shows excellent lithium-ion anode performance (441 mAh/g at 0.1 A/g, 412.1 mAh/g after 500 cycles), offering an efficient, simple path for graphite synthesis and anode optimization.&lt;br&gt;🏷 curved nanoplatelet graphite · calcium carbide · low-temperature graphitization · lithium-ion battery anode · amorphous carbon</description>
-<category>curved nanoplatelet graphite</category>
-<category>calcium carbide</category>
-<category>low-temperature graphitization</category>
-<category>lithium-ion battery anode</category>
-<category>amorphous carbon</category>
 </item>
 </channel>
 </rss>
