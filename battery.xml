@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 19:01:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:01:46 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Elucidating Sodium Clusters Formation and Dissociation in Hard Carbon Anodes</title>
+<link>https://doi.org/10.1039/d6ta07681e</link>
+<guid isPermaLink="false">10.1039/d6ta07681e</guid>
+<pubDate>Fri, 20 Nov 2026 20:01:29 GMT</pubDate>
+<description>این مطالعه تشکیل و تفکیک خوشه‌های سدیم را در آند کربن سخت با چگالی نقص بالا برای باتری‌های یون سدیم روشن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a high-defect-density hard carbon to clarify how sodium clusters form and dissociate within HC anodes, addressing a key mechanistic gap in SIB storage. Its significance is providing mechanistic insight into cluster-based sodium storage, guiding rational design of high-performance HC anodes for commercial sodium-ion batteries.&lt;br&gt;🏷 hard carbon · sodium-ion battery · sodium clusters · defect density · anode</description>
+<category>hard carbon</category>
+<category>sodium-ion battery</category>
+<category>sodium clusters</category>
+<category>defect density</category>
+<category>anode</category>
+</item>
+<item>
+<title>Ni-mediated kinetic reconfiguration mechanism in ZnO conversion/alloying anodes for sodium-ion storage</title>
+<link>https://doi.org/10.1039/d6ta06242c</link>
+<guid isPermaLink="false">10.1039/d6ta06242c</guid>
+<pubDate>Fri, 20 Nov 2026 20:01:21 GMT</pubDate>
+<description>این کار نشان می‌دهد که شیمی شبکه و دوپینگ Ni، نه فقط سطح ویژه، سازوکار بازآرایی سینتیکی آندهای تبدیل/آلیاژسازی ZnO در ذخیره‌سازی سدیم را کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in challenging the surface-area paradigm by identifying lattice chemistry—specifically Ni-mediated kinetic reconfiguration—as the dominant factor governing ZnO anode reaction kinetics in sodium-ion storage. Its significance is clarifying the true mechanistic driver, enabling rational lattice-engineering design of conversion/alloying anodes beyond conventional nanostructuring approaches.&lt;br&gt;🏷 ZnO anode · sodium-ion battery · conversion-alloying · nickel doping · reaction kinetics</description>
+<category>ZnO anode</category>
+<category>sodium-ion battery</category>
+<category>conversion-alloying</category>
+<category>nickel doping</category>
+<category>reaction kinetics</category>
+</item>
+<item>
+<title>Regulating zinc interfacial chemistry and iodine redox behavior via a dual-site electrolyte additive for aqueous zinc–iodine batteries</title>
+<link>https://doi.org/10.1039/d6ta07321b</link>
+<guid isPermaLink="false">10.1039/d6ta07321b</guid>
+<pubDate>Fri, 20 Nov 2026 20:01:10 GMT</pubDate>
+<description>یک افزودنی الکترولیت دوگانه‌عملکرد با تری‌اتیل بورات، شیمی سطحی روی و رفتار ردوکس ید را در باتری آبی Zn-I2 تنظیم کرده و چرخه‌پذیری فوق‌طولانی فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using triethyl borate as a dual-site electrolyte additive that simultaneously regulates zinc interfacial chemistry and iodine redox behavior. Its significance is enabling reversible Zn plating/stripping at high current density and ultralong Zn–I₂ battery cycling exceeding 30,000 cycles, advancing stable aqueous zinc–iodine battery performance.&lt;br&gt;🏷 zinc-iodine battery · electrolyte additive · triethyl borate · zinc interface · iodine redox</description>
+<category>zinc-iodine battery</category>
+<category>electrolyte additive</category>
+<category>triethyl borate</category>
+<category>zinc interface</category>
+<category>iodine redox</category>
+</item>
 <item>
 <title>Thermal-performance-based evaluation of assembly timing for a room-temperature-curing paste thermal interface material in electric vehicle battery modules</title>
 <link>https://doi.org/10.1016/j.est.2026.125837</link>
@@ -1178,42 +1214,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>solid-state NMR</category>
 <category>molecular dynamics</category>
 <category>SU-102</category>
-</item>
-<item>
-<title>Screening of Single-Atom Catalysts for Na2S-Mediated Pre-Sodiation and Interfacial Rejuvenation in Low N/P Ratio Sodium Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c14733</link>
-<guid isPermaLink="false">10.1021/acsnano.6c14733</guid>
-<pubDate>Thu, 19 Nov 2026 10:02:07 GMT</pubDate>
-<description>غربالگری تک‌اتم‌های فلزی برای تجزیه Na2S نشان می‌دهد SA-Co با لایه SA-Co/Na2S@C جبران سدیم و جوان‌سازی سطحی را در باتری سدیمی کیسه‌ای با N/P پایین ممکن می‌کند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a rational screening framework for transition-metal single-atom catalysts enabling Na2S-mediated pre-sodiation and interfacial rejuvenation, with SA-Co lowering Na2S decomposition to 3.49 V. This enables low N/P (0.4) sodium batteries achieving 317 Wh/kg, 485 Wh/L, and 97.2% retention over 200 cycles in 1.1 Ah pouch cells, offering a scalable route to high-energy, high-power SIBs.&lt;br&gt;🏷 sodium-ion battery · single-atom catalyst · pre-sodiation · hard carbon · pouch cell</description>
-<category>sodium-ion battery</category>
-<category>single-atom catalyst</category>
-<category>pre-sodiation</category>
-<category>hard carbon</category>
-<category>pouch cell</category>
-</item>
-<item>
-<title>Architected Si-Based Anodes for All-Solid-State Lithium Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02554</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02554</guid>
-<pubDate>Thu, 19 Nov 2026 09:02:04 GMT</pubDate>
-<description>لایه میانی Si دوپ‌شده با Mg در فصل مشترک Li-Li6PS5Cl طی چرخه به آند کامپوزیت غنی از Li تبدیل می‌شود و با کاتد NCM، حفظ ظرفیت ۹۲٫۵٪ پس از ۱۰۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Mg-doped Si interlayer at the Li–Li6PS5Cl interface that electrochemically forms a Li14.39Mg0.61Si4/Li-Mg composite anode, creating a homogeneous, porous lithiated Si framework with continuous ion/electron transport and stress mitigation. This enables 1000-cycle stability at 3 C with 92.5% retention at 17.9 mg cm–2 loading, offering a new paradigm for Si-based anode design in high-energy ASSBs.&lt;br&gt;🏷 silicon anode · all-solid-state battery · Li6PS5Cl · Mg doping · interfacial stability</description>
-<category>silicon anode</category>
-<category>all-solid-state battery</category>
-<category>Li6PS5Cl</category>
-<category>Mg doping</category>
-<category>interfacial stability</category>
-</item>
-<item>
-<title>The Challenges and Solutions of Silicon‐Based Electrodes: A Review on Mesoscale Binder‐Regulated Active‐Material Microenvironment</title>
-<link>https://doi.org/10.1002/adfm.79678</link>
-<guid isPermaLink="false">10.1002/adfm.79678</guid>
-<pubDate>Thu, 19 Nov 2026 09:01:55 GMT</pubDate>
-<description>این مرور چالش‌های آندهای سیلیکونی را از دیدگاه ریزمحیط ماده فعال (AMME) بررسی و راهکارهای طراحی بایندر برای آندهای پرظرفیت حجم‌متغیر ارائه می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;💡 This review reframes binder roles through the &amp;quot;active-material microenvironment&amp;quot; (AMME) concept—the local charge-transport environment around each particle—rather than mere component binding. It links Si-anode volume-change challenges to binder regulation of AMME formation, activation, and aging across the electrode life cycle, and outlines AMME-guided binder design for dry-processed, all-solid-state, and high-capacity electrodes using operando characterization and AI-driven approaches.&lt;br&gt;🏷 silicon anode · binder design · active-material microenvironment · volume expansion · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>binder design</category>
-<category>active-material microenvironment</category>
-<category>volume expansion</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
