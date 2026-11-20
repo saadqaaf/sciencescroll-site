@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 21:01:54 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 22:02:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Machine Learning and Symbolic Regression Enabled Process-Performance Prediction and Inverse Design for TOPCon Solar Cells</title>
+<link>https://doi.org/10.1039/d6ee06674g</link>
+<guid isPermaLink="false">10.1039/d6ee06674g</guid>
+<pubDate>Fri, 20 Nov 2026 22:01:59 GMT</pubDate>
+<description>این پژوهش با ترکیب یادگیری ماشین و رگرسیون نمادین، چارچوبی چندمقیاسی برای پیش‌بینی عملکرد و طراحی معکوس فرآیند سلول‌های خورشیدی TOPCon ارائه می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 TOPCon solar cells · machine learning · symbolic regression · inverse design · process optimization</description>
+<category>TOPCon solar cells</category>
+<category>machine learning</category>
+<category>symbolic regression</category>
+<category>inverse design</category>
+<category>process optimization</category>
+</item>
+<item>
+<title>Beyond Bending: Application-driven durability targets for flexible photovoltaics</title>
+<link>https://doi.org/10.1039/d6ee05362a</link>
+<guid isPermaLink="false">10.1039/d6ee05362a</guid>
+<pubDate>Fri, 20 Nov 2026 22:01:55 GMT</pubDate>
+<description>این مقاله با نگاهی کاربردمحور، اهداف دوام مکانیکی و معیارهای آزمون خمش را برای سلول‌های فتوولتائیک انعطاف‌پذیر تعیین می‌کند تا قابلیت اطمینان در کاربردهای واقعی تضمین شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 flexible photovoltaics · mechanical durability · bending fatigue · reliability targets · solar cells</description>
+<category>flexible photovoltaics</category>
+<category>mechanical durability</category>
+<category>bending fatigue</category>
+<category>reliability targets</category>
+<category>solar cells</category>
+</item>
 <item>
 <title>Tracking local chemomechanics in graphite–silicon composite electrodes</title>
 <link>https://doi.org/10.1038/s41565-026-02328-5</link>
@@ -1205,30 +1229,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 S-scheme heterostructure 
 <category>pipelines</category>
 <category>hydrogen transport</category>
 <category>chemical carrier</category>
-</item>
-<item>
-<title>Modulating HOMO Location Boosting High-Voltage Stability of Fluorine-Free Ether Based Low-Concentration Electrolyte for 4.7 V Level Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105674</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105674</guid>
-<pubDate>Fri, 20 Nov 2026 14:01:59 GMT</pubDate>
-<description>این مقاله با تنظیم موقعیت HOMO، پایداری ولتاژ بالای الکترولیت اتری بدون فلوئور و کم‌غلظت را برای باتری‌های لیتیوم-فلزی در سطح 4.7 V بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · low-concentration electrolyte · fluorine-free ether · HOMO modulation · high-voltage stability</description>
-<category>lithium metal battery</category>
-<category>low-concentration electrolyte</category>
-<category>fluorine-free ether</category>
-<category>HOMO modulation</category>
-<category>high-voltage stability</category>
-</item>
-<item>
-<title>Isolable crystalline oxoboranes</title>
-<link>https://doi.org/10.1038/s41557-026-02310-7</link>
-<guid isPermaLink="false">10.1038/s41557-026-02310-7</guid>
-<pubDate>Fri, 20 Nov 2026 14:01:54 GMT</pubDate>
-<description>این مقاله سنتز و شناسایی اوکسوبوران‌های بلوری جداشدنی را گزارش می‌کند.&lt;br&gt;Nature Chemistry | 🔬 Research Article&lt;br&gt;🏷 oxoboranes · boron chemistry · crystalline compounds · isolable species · main-group chemistry</description>
-<category>oxoboranes</category>
-<category>boron chemistry</category>
-<category>crystalline compounds</category>
-<category>isolable species</category>
-<category>main-group chemistry</category>
 </item>
 </channel>
 </rss>
