@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 18:02:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 19:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Thermal shock cracking behavior of ceramic tiles for gas turbine combustors based on phase-field simulation</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114408</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114408</guid>
+<pubDate>Fri, 20 Nov 2026 19:01:07 GMT</pubDate>
+<description>رفتار ترک‌خوردگی شوک حرارتی کاشی‌های سرامیکی برای محفظه احتراق توربین گاز با شبیه‌سازی میدان فاز بررسی می‌شود.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 ceramic tiles · thermal shock cracking · phase-field simulation · gas turbine combustor · crack propagation</description>
+<category>ceramic tiles</category>
+<category>thermal shock cracking</category>
+<category>phase-field simulation</category>
+<category>gas turbine combustor</category>
+<category>crack propagation</category>
+</item>
 <item>
 <title>Thermal-performance-based evaluation of assembly timing for a room-temperature-curing paste thermal interface material in electric vehicle battery modules</title>
 <link>https://doi.org/10.1016/j.est.2026.125837</link>
@@ -1217,18 +1229,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 S-scheme heterostructure 
 <category>3D gears</category>
 <category>buckling</category>
 <category>shape morphing</category>
-</item>
-<item>
-<title>Buckled Silver Microflake Conductors With In Situ‐Generated Ag–O Coordination Enable 3D‐Printed Stretchable Cardiac Bioelectrodes</title>
-<link>https://doi.org/10.1002/adma.75584</link>
-<guid isPermaLink="false">10.1002/adma.75584</guid>
-<pubDate>Fri, 20 Nov 2026 12:02:12 GMT</pubDate>
-<description>با ترکیب پیوند فلز-آلی Ag-O و ساختارهای کمانش‌یافته، جوهر نقره‌ای رسانای کشسان برای چاپ سه‌بعدی الکترودهای قلبی بدون سوراخ‌کاری ساخته شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;🏷 silver microflakes · stretchable bioelectrodes · 3D printing · Ag-O coordination · cardiac electrodes</description>
-<category>silver microflakes</category>
-<category>stretchable bioelectrodes</category>
-<category>3D printing</category>
-<category>Ag-O coordination</category>
-<category>cardiac electrodes</category>
 </item>
 </channel>
 </rss>
