@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 09:01:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 10:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fluorine-Terminated Vacancy-Ordered i-MXene/Graphene Heterostructures for Aqueous Lithium-Ion Batteries without Superconcentrated Electrolytes</title>
+<link>https://doi.org/10.1039/d6ta08077d</link>
+<guid isPermaLink="false">10.1039/d6ta08077d</guid>
+<pubDate>Fri, 20 Nov 2026 10:01:38 GMT</pubDate>
+<description>این مقاله با ساخت ناهم‌ساختار i-MXene/گرافن با پایانه‌های فلوئور و جای‌خالی منظم، باتری لیتیوم-یونی آبی بدون الکترولیت فوق‌اشباع را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in fluorine-terminated vacancy-ordered i-MXene/graphene heterostructures enabling aqueous lithium-ion batteries without costly, slow superconcentrated electrolytes. Significance: this design widens the water stability window via electrode engineering rather than water-in-salt electrolytes, offering a safer, lower-cost, faster-charging alternative and advancing practical aqueous battery anodes.&lt;br&gt;🏷 aqueous lithium-ion battery · i-MXene · graphene heterostructure · fluorine termination · vacancy ordering</description>
+<category>aqueous lithium-ion battery</category>
+<category>i-MXene</category>
+<category>graphene heterostructure</category>
+<category>fluorine termination</category>
+<category>vacancy ordering</category>
+</item>
+<item>
+<title>Plasma-driven anion chemistry for lithium-battery interfaces: from reactive species to interface design</title>
+<link>https://doi.org/10.1039/d6ta08273d</link>
+<guid isPermaLink="false">10.1039/d6ta08273d</guid>
+<pubDate>Fri, 20 Nov 2026 10:01:24 GMT</pubDate>
+<description>این مرور، شیمی آنیونی مبتنی بر پلاسما را برای طراحی و مهندسی رابط‌های باتری لیتیومی از گونه‌های واکنش‌پذیر تا ساختار فصل مشترک بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in using plasma to generate reactive anion species that precisely tailor lithium-battery interfaces, moving beyond conventional material modification. This plasma-driven anion chemistry links reactive species to rational interface design, enabling controlled interfacial reactions and balanced transport—significant for overcoming cycle-life and safety limits of high-energy-density lithium batteries.&lt;br&gt;🏷 lithium battery interfaces · plasma treatment · anion chemistry · solid electrolyte interphase · interface design</description>
+<category>lithium battery interfaces</category>
+<category>plasma treatment</category>
+<category>anion chemistry</category>
+<category>solid electrolyte interphase</category>
+<category>interface design</category>
+</item>
 <item>
 <title>Responding to potential recovery crises: Recycling, pricing decisions and coordination for electric vehicle battery closed-loop supply chain</title>
 <link>https://doi.org/10.1016/j.est.2026.125598</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>Se doping</category>
 <category>polysulfide conversion</category>
 <category>separator coating</category>
-</item>
-<item>
-<title>Moisture‐ and Dendrite‐Resistant Argyrodite Electrolytes Enabled by Lithium‐ and Halogen‐Site Synergistic Substitutions for All‐Solid‐State Lithium Batteries</title>
-<link>https://doi.org/10.1002/adfm.79717</link>
-<guid isPermaLink="false">10.1002/adfm.79717</guid>
-<pubDate>Wed, 18 Nov 2026 13:01:50 GMT</pubDate>
-<description>دوپینگ همزمان Ag و Br در الکترولیت آرژیرودایت Li5.4PS4.4Cl1.6 رسانایی یونی، پایداری هوا و سازگاری با لیتیوم فلزی را در باتری تمام‌جامد بهبود داد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 Ag/Br dual-doping of argyrodite Li5.4PS4.4Cl1.6 simultaneously boosts ionic conductivity (11.44 mS cm−1), air stability (H2S cut to one-third), and Li compatibility via in situ Li-Ag alloy, enabling 1.55 mA cm−2 critical current density, 5000 h cycling, and 84.5% retention after 1000 cycles. This dual-site substitution strategy advances practical all-solid-state batteries.&lt;br&gt;🏷 argyrodite electrolyte · solid-state battery · dual doping · air stability · lithium compatibility</description>
-<category>argyrodite electrolyte</category>
-<category>solid-state battery</category>
-<category>dual doping</category>
-<category>air stability</category>
-<category>lithium compatibility</category>
-</item>
-<item>
-<title>Irreversible Reconstruction of NaVO3 into a Layered MnxV2O5·H2O Phase Enables Reversible Mn2⁺ Storage in Aqueous Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105667</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105667</guid>
-<pubDate>Wed, 18 Nov 2026 12:01:19 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که بازسازی برگشت‌ناپذیر NaVO3 به فاز لایه‌ای MnxV2O5·H2O ذخیره‌سازی برگشت‌پذیر Mn2⁺ را در باتری‌های آبی ممکن می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 aqueous battery · Mn2+ storage · NaVO3 · layered phase · irreversible reconstruction</description>
-<category>aqueous battery</category>
-<category>Mn2+ storage</category>
-<category>NaVO3</category>
-<category>layered phase</category>
-<category>irreversible reconstruction</category>
 </item>
 </channel>
 </rss>
