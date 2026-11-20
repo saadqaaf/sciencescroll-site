@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 05:01:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 06:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multi-criteria system-level evaluation of hybrid immersion battery thermal management for electric vehicles</title>
+<link>https://doi.org/10.1016/j.etran.2026.100653</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100653</guid>
+<pubDate>Fri, 20 Nov 2026 06:01:18 GMT</pubDate>
+<description>این مقاله یک سیستم خنک‌کاری غوطه‌وری هیبریدی برای مدیریت حرارتی باتری خودروهای برقی را در سطح سیستم و با معیارهای چندگانه ارزیابی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 immersion cooling · battery thermal management · electric vehicles · multi-criteria evaluation · system-level modeling</description>
+<category>immersion cooling</category>
+<category>battery thermal management</category>
+<category>electric vehicles</category>
+<category>multi-criteria evaluation</category>
+<category>system-level modeling</category>
+</item>
 <item>
 <title>A Composite Lithium Anode with High Interfacial Stability and High Modulus for All-Solid-State Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105671</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>oxygen redox</category>
 <category>Mn-rich layered oxide</category>
 <category>coordination flexibility</category>
-</item>
-<item>
-<title>Low‑platinum intermetallic catalyst and decoupled neutral/acidic electrolyte unlock high‑voltage iron–air batteries with near‑theoretical capacity</title>
-<link>https://doi.org/10.1016/j.apcatb.2026.127807</link>
-<guid isPermaLink="false">10.1016/j.apcatb.2026.127807</guid>
-<pubDate>Wed, 18 Nov 2026 02:01:53 GMT</pubDate>
-<description>کاتالیزور بین‌فلزی کم‌پلاتین و الکترولیت خنثی/اسیدی جداگانه، باتری‌های آهن-هوا با ولتاژ بالا و ظرفیت نزدیک به نظری را ممکن می‌سازند.&lt;br&gt;Applied Catalysis B: Environment and Energy | 🔬 Research Article&lt;br&gt;🏷 iron-air battery · low-platinum catalyst · intermetallic · neutral/acidic electrolyte · near-theoretical capacity</description>
-<category>iron-air battery</category>
-<category>low-platinum catalyst</category>
-<category>intermetallic</category>
-<category>neutral/acidic electrolyte</category>
-<category>near-theoretical capacity</category>
 </item>
 </channel>
 </rss>
