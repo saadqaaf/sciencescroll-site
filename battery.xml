@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 12:02:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 13:01:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecular Engineering of Redox Mediator for Accelerated Multi‐Electron Transfer Reactions in Lithium Batteries</title>
+<link>https://doi.org/10.1002/aenm.71838</link>
+<guid isPermaLink="false">10.1002/aenm.71838</guid>
+<pubDate>Fri, 20 Nov 2026 13:01:27 GMT</pubDate>
+<description>این مرور مهندسی مولکولی واسطه‌های ردوکس را برای تسریع واکنش‌های انتقال چندالکترونی در کاتد باتری‌های Li-S و Li-O2 از دیدگاه پتانسیل، حلالیت و پایداری بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely frames redox mediator molecular engineering—tuning redox potential, solubility, size, and stability—as a solution-mediated pathway to overcome sluggish multi-electron transfer in Li–S and Li–O₂ cathodes. It establishes key structure–activity relationships from thermodynamic and kinetic perspectives and proposes solid–liquid synergistic design with functionalized electrolytes/separators, offering systemic guidance beyond isolated liquid-phase catalysis.&lt;br&gt;🏷 redox mediator · lithium-sulfur battery · lithium-oxygen battery · molecular engineering · multi-electron transfer</description>
+<category>redox mediator</category>
+<category>lithium-sulfur battery</category>
+<category>lithium-oxygen battery</category>
+<category>molecular engineering</category>
+<category>multi-electron transfer</category>
+</item>
+<item>
+<title>Advances and Perspectives of Cobalt‐Free Li‐Rich Mn‐Based Layered Oxide Cathodes</title>
+<link>https://doi.org/10.1002/aenm.71846</link>
+<guid isPermaLink="false">10.1002/aenm.71846</guid>
+<pubDate>Fri, 20 Nov 2026 13:01:22 GMT</pubDate>
+<description>این مرور پیشرفت‌های کاتدهای لایه‌ای اکسید منگنز غنی از لیتیوم بدون کبالت را بررسی و راهبردهای اصلاح ساختار، دوپینگ و پوشش سطحی را برای رفع چالش‌های پایداری جمع‌بندی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates recent advances in cobalt-free Li-rich Mn-based layered oxide cathodes, addressing a gap in existing literature. Its significance lies in systematically analyzing structural challenges, electrochemical mechanisms, and modification strategies (microstructure regulation, doping, coating), offering timely guidance for cost-effective, sustainable next-generation battery development.&lt;br&gt;🏷 cobalt-free cathode · Li-rich Mn oxide · layered oxide · doping · surface coating</description>
+<category>cobalt-free cathode</category>
+<category>Li-rich Mn oxide</category>
+<category>layered oxide</category>
+<category>doping</category>
+<category>surface coating</category>
+</item>
+<item>
+<title>Re‐Evaluating the Role of Water in Hexacyanoferrate Cathodes for Sodium and Potassium Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71842</link>
+<guid isPermaLink="false">10.1002/aenm.71842</guid>
+<pubDate>Fri, 20 Nov 2026 13:01:16 GMT</pubDate>
+<description>این مرور نقش آب در کاتدهای هگزاسیانوفرات برای باتری‌های یون سدیم و پتاسیم را از ناخالصی ساختاری به جزء عملکردی بازتعریف می‌کند و راهبردهای تنظیم آن را بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review reframes water in hexacyanoferrate cathodes from a detrimental impurity to a functional component, distinguishing interstitial from coordinated water by binding strength, mobility, and reactivity. It unifies water&amp;#x27;s roles across crystal and electronic structure, ion transport, interfacial reactions, and performance, summarizes advanced characterization (notably neutron methods) and regulation strategies, and provides design guidance for high-performance sodium- and potassium-ion battery cathodes.&lt;br&gt;🏷 hexacyanoferrate cathode · sodium-ion battery · potassium-ion battery · water regulation · neutron characterization</description>
+<category>hexacyanoferrate cathode</category>
+<category>sodium-ion battery</category>
+<category>potassium-ion battery</category>
+<category>water regulation</category>
+<category>neutron characterization</category>
+</item>
 <item>
 <title>Trace‐Metal‐Assisted Flash Synthesis for Fast‐Charging Graphite Anodes</title>
 <link>https://doi.org/10.1002/adma.75785</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>crosslinked polymer</category>
 <category>lithium battery</category>
 <category>ionic conductivity</category>
-</item>
-<item>
-<title>Atomic‐Scale Structural Heterogeneity Regulates Polarization Reversibility for High‐Performance Energy Storage in Lead‐Free Relaxor Ferroelectrics</title>
-<link>https://doi.org/10.1002/smll.76726</link>
-<guid isPermaLink="false">10.1002/smll.76726</guid>
-<pubDate>Wed, 18 Nov 2026 15:04:07 GMT</pubDate>
-<description>ناهمگنی ساختاری اتمی در سرامیک‌های فروالکتریک ریلکسور بدون سرب BNKT-ST برگشت‌پذیری قطبش را بهبود داد و چگالی انرژی 10.7 J cm−3 با بازده 94% حاصل شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in linking atomic-scale structural heterogeneity to polarization reversibility in lead-free BNKT-based relaxors via NaNbO₃/SrTiO₃ regulation, combined with viscous polymer processing. This yields 10.7 J cm⁻³ recoverable energy density and 94% efficiency at 760 kV cm⁻¹ with excellent thermal, frequency, and cycling stability, offering design insights for high-performance dielectric energy storage.&lt;br&gt;🏷 relaxor ferroelectric · energy storage · polarization reversibility · BNKT · structural heterogeneity</description>
-<category>relaxor ferroelectric</category>
-<category>energy storage</category>
-<category>polarization reversibility</category>
-<category>BNKT</category>
-<category>structural heterogeneity</category>
-</item>
-<item>
-<title>Microdomain Ion Modulation Strategy Enabling High Performance Solid‐State Sodium Metal Capacitors</title>
-<link>https://doi.org/10.1002/smll.76766</link>
-<guid isPermaLink="false">10.1002/smll.76766</guid>
-<pubDate>Wed, 18 Nov 2026 15:03:41 GMT</pubDate>
-<description>الکترولیت جامد PVDF-HFP با خوشه‌های هدایت یون سدیم و راهبرد تعدیل یون ریزدامنه، خازن فلز سدیم با چگالی انرژی و توان بالا و پایداری طولانی فراهم کرد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a microdomain ion modulation strategy using sodium-conducting clusters within a PVDF-HFP solid electrolyte to regulate ion solvation and migration, achieving near-balanced Na⁺/anion transport. This enables stable sodium deposition and high performance, delivering 244 Wh kg⁻¹ and 11793 W kg⁻¹ at 4.2 V—significantly advancing solid-state sodium metal capacitors by overcoming the energy-power trade-off.&lt;br&gt;🏷 sodium metal capacitor · solid electrolyte · ion modulation · PVDF-HFP · transference number</description>
-<category>sodium metal capacitor</category>
-<category>solid electrolyte</category>
-<category>ion modulation</category>
-<category>PVDF-HFP</category>
-<category>transference number</category>
-</item>
-<item>
-<title>Breaking Micropore Confinement: N,S‐Codoped Carbon Nanocages With Lewis Acid–Base Synergy for High‐Energy Zinc‐Ion Hybrid Capacitors</title>
-<link>https://doi.org/10.1002/smll.76783</link>
-<guid isPermaLink="false">10.1002/smll.76783</guid>
-<pubDate>Wed, 18 Nov 2026 15:03:21 GMT</pubDate>
-<description>نانوکج‌های کربنی N,S-دوپ‌شده با هم‌افزایی اسید-باز لوئیس برای غلبه بر محدودیت میکروحفره و دستیابی به چگالی انرژی بالا در خازن‌های هیبریدی یون روی ساخته شد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using N,S-codoping with Lewis acid–base synergy to break the ~0.86 nm micropore barrier, lowering the critical limit to 0.79 nm via enhanced desolvation of hydrated zinc ions, with pyridinic N–S dominant. Significance: enables high-energy, durable quasi-solid-state zinc-ion hybrid capacitors (148.8 Wh kg⁻¹, 91.6% retention after 10,000 cycles), offering a new design paradigm.&lt;br&gt;🏷 zinc-ion hybrid capacitor · N,S-codoped carbon · Lewis acid-base · desolvation · micropore confinement</description>
-<category>zinc-ion hybrid capacitor</category>
-<category>N,S-codoped carbon</category>
-<category>Lewis acid-base</category>
-<category>desolvation</category>
-<category>micropore confinement</category>
 </item>
 </channel>
 </rss>
