@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 03:01:23 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 04:02:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Composite Lithium Anode with High Interfacial Stability and High Modulus for All-Solid-State Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105671</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105671</guid>
+<pubDate>Fri, 20 Nov 2026 04:01:58 GMT</pubDate>
+<description>این مقاله یک آند کامپوزیتی لیتیوم با پایداری بین‌سطحی بالا و مدول زیاد برای باتری‌های تمام‌حالت‌جامد ارائه می‌دهد که عملکرد و پایداری آند را بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · all-solid-state battery · composite anode · interfacial stability · high modulus</description>
+<category>lithium metal anode</category>
+<category>all-solid-state battery</category>
+<category>composite anode</category>
+<category>interfacial stability</category>
+<category>high modulus</category>
+</item>
+<item>
+<title>Molecularly Engineered Electron-Bridging Binder for Robust SiOx/Graphite Electrodes in High-Energy Lithium-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105673</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105673</guid>
+<pubDate>Fri, 20 Nov 2026 04:01:54 GMT</pubDate>
+<description>این کار یک بایندر مولکولی با پل‌های الکترونی برای الکترودهای SiOx/graphite طراحی می‌کند که پایداری و عملکرد باتری لیتیوم-یون پرانرژی را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 SiOx/graphite anode · electron-bridging binder · lithium-ion battery · molecular engineering · electrode stability</description>
+<category>SiOx/graphite anode</category>
+<category>electron-bridging binder</category>
+<category>lithium-ion battery</category>
+<category>molecular engineering</category>
+<category>electrode stability</category>
+</item>
+<item>
+<title>An aqueous sulfur-organic redox flow battery</title>
+<link>https://doi.org/10.1016/j.scib.2026.11.032</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.11.032</guid>
+<pubDate>Fri, 20 Nov 2026 04:01:27 GMT</pubDate>
+<description>این کار یک باتری جریان ردوکس آبی مبتنی بر سولفور و ترکیبات آلی معرفی می‌کند که گزینه‌ای پایدار و کم‌هزینه برای ذخیره‌سازی انرژی ارائه می‌دهد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 redox flow battery · aqueous electrolyte · sulfur-organic · energy storage · redox chemistry</description>
+<category>redox flow battery</category>
+<category>aqueous electrolyte</category>
+<category>sulfur-organic</category>
+<category>energy storage</category>
+<category>redox chemistry</category>
+</item>
 <item>
 <title>What if we were to design transport in aqueous electrolytes using learnings from lithium battery research?</title>
 <link>https://doi.org/10.1039/d6cs00073h</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 This study resolves the m
 <category>intermetallic</category>
 <category>neutral/acidic electrolyte</category>
 <category>near-theoretical capacity</category>
-</item>
-<item>
-<title>Synergistic interfacial engineering of MXene/carbon nano-onion heterostructures for accelerated polysulfide kinetics and durable lithium–sulfur batteries</title>
-<link>https://doi.org/10.1039/d6ta07515k</link>
-<guid isPermaLink="false">10.1039/d6ta07515k</guid>
-<pubDate>Tue, 17 Nov 2026 22:01:17 GMT</pubDate>
-<description>هتروساختار MXene/carbon nano-onion با بازتوزیع بار و تخلخل سلسله‌مراتبی، جذب پلی‌سولفید و تبدیل گوگرد را تقویت کرده و پایداری چرخه Li-S را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in MXene/carbon nano-onion heterostructures that combine interfacial charge redistribution with hierarchical porosity. This synergy strengthens polysulfide retention and accelerates sulfur conversion kinetics, enabling durable lithium–sulfur batteries with improved cycling stability. The work highlights rational interfacial engineering as a significant strategy for high-performance energy storage.&lt;br&gt;🏷 lithium-sulfur battery · MXene · carbon nano-onion · polysulfide kinetics · heterostructure</description>
-<category>lithium-sulfur battery</category>
-<category>MXene</category>
-<category>carbon nano-onion</category>
-<category>polysulfide kinetics</category>
-<category>heterostructure</category>
-</item>
-<item>
-<title>Rational interfacial design of Li 4 SiO 4 -coated LiMn 2 O 4 for fast charging and enhanced cycling stability</title>
-<link>https://doi.org/10.1039/d6ta06786g</link>
-<guid isPermaLink="false">10.1039/d6ta06786g</guid>
-<pubDate>Tue, 17 Nov 2026 22:01:05 GMT</pubDate>
-<description>پوشش Li4SiO4 روی LiMn2O4 با کلسیناسیون حالت جامد یک‌مرحله‌ای، فصل‌مشترک اکسید-اکسید پایدار ایجاد کرده و یکپارچگی ساختاری و پایداری چرخه را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a one-step solid-state calcination creating a coherent LSO–LMO oxide–oxide heterostructure interface without atomic reconstruction or bond breaking. This robust interfacial design enables fast charging and enhanced cycling stability, offering a scalable, structurally stable coating strategy for high-power lithium-ion battery cathodes.&lt;br&gt;🏷 LiMn2O4 cathode · Li4SiO4 coating · interfacial design · fast charging · cycling stability</description>
-<category>LiMn2O4 cathode</category>
-<category>Li4SiO4 coating</category>
-<category>interfacial design</category>
-<category>fast charging</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>High‐Entropy Prussian Blue Analogues Enable Ultrastable Sodium Storage Via Charge Redistribution‐Induced Jahn–Teller Suppression</title>
-<link>https://doi.org/10.1002/smll.76634</link>
-<guid isPermaLink="false">10.1002/smll.76634</guid>
-<pubDate>Tue, 17 Nov 2026 19:02:40 GMT</pubDate>
-<description>مهندسی آنتروپی بالا در Prussian blue analogues با پنج فلز، توزیع بار و سرکوب Jahn-Teller را تقویت کرده و پایداری چرخه کاتد سدیم‌یون را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using high-entropy engineering with five transition metals (Mn, Fe, Co, Ni, Cu) to create a compositionally complex N-coordinated sublattice in Prussian blue analogues, redistributing charge and suppressing Jahn–Teller distortion. This significantly enhances sodium-ion battery cathode stability, retaining 75.3% capacity after 600 cycles versus 33.0% for Mn-PBA, demonstrating a viable strategy for durable PBA cathodes.&lt;br&gt;🏷 high-entropy PBA · sodium-ion battery cathode · Jahn-Teller suppression · charge redistribution · Prussian blue analogues</description>
-<category>high-entropy PBA</category>
-<category>sodium-ion battery cathode</category>
-<category>Jahn-Teller suppression</category>
-<category>charge redistribution</category>
-<category>Prussian blue analogues</category>
 </item>
 </channel>
 </rss>
