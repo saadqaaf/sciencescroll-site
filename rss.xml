@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 15:01:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 16:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1039/d6ta09494e</link>
+<guid isPermaLink="false">10.1039/d6ta09494e</guid>
+<pubDate>Sat, 21 Nov 2026 16:01:03 GMT</pubDate>
+<description>افزودن iminodiacetic acid به الکترولیت ZnSO4 با هماهنگی سه‌دندانه‌ای، هسته‌زنی روی را از تدریجی به آنی تغییر داده و پایداری باتری آبی روی را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using iminodiacetic acid (IDA) as a multifunctional electrolyte additive whose tridentate coordination shifts zinc nucleation from progressive to instantaneous, yielding uniform deposition. This suppresses dendrites and side reactions, enabling ultra-stable aqueous zinc batteries and offering a simple, scalable route toward commercialization of AZIBs.&lt;br&gt;🏷 aqueous zinc battery · zinc dendrites · electrolyte additive · iminodiacetic acid · nucleation mechanism</description>
+<category>aqueous zinc battery</category>
+<category>zinc dendrites</category>
+<category>electrolyte additive</category>
+<category>iminodiacetic acid</category>
+<category>nucleation mechanism</category>
+</item>
 <item>
 <title>MXene-Modified Flock/Felt/Fabric Hierarchical CF Framework for Structure-Function Integrated CF/Epoxy Composites with Enhanced Mechanical, Thermal, and Electromagnetic Performance</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114410</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 symmetry breaking · char
 <category>CT guidance</category>
 <category>expert skills learning</category>
 <category>percutaneous intervention</category>
-</item>
-<item>
-<title>Soybean Pb encodes a WD40 protein regulating pubescence tip morphology and seed size during domestication</title>
-<link>https://doi.org/10.1038/s41467-026-79473-x</link>
-<guid isPermaLink="false">10.1038/s41467-026-79473-x</guid>
-<pubDate>Sat, 21 Nov 2026 02:04:59 GMT</pubDate>
-<description>پروتئین WD40 کدشده توسط ژن Pb در سویا مورفولوژی نوک کرک و اندازه دانه را در طول اهلی‌سازی تنظیم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 soybean domestication · WD40 protein · seed size · pubescence tip · Pb gene</description>
-<category>soybean domestication</category>
-<category>WD40 protein</category>
-<category>seed size</category>
-<category>pubescence tip</category>
-<category>Pb gene</category>
 </item>
 </channel>
 </rss>

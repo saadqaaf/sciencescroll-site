@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 15:01:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 16:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1039/d6ta09494e</link>
+<guid isPermaLink="false">10.1039/d6ta09494e</guid>
+<pubDate>Sat, 21 Nov 2026 16:01:03 GMT</pubDate>
+<description>افزودن iminodiacetic acid به الکترولیت ZnSO4 با هماهنگی سه‌دندانه‌ای، هسته‌زنی روی را از تدریجی به آنی تغییر داده و پایداری باتری آبی روی را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using iminodiacetic acid (IDA) as a multifunctional electrolyte additive whose tridentate coordination shifts zinc nucleation from progressive to instantaneous, yielding uniform deposition. This suppresses dendrites and side reactions, enabling ultra-stable aqueous zinc batteries and offering a simple, scalable route toward commercialization of AZIBs.&lt;br&gt;🏷 aqueous zinc battery · zinc dendrites · electrolyte additive · iminodiacetic acid · nucleation mechanism</description>
+<category>aqueous zinc battery</category>
+<category>zinc dendrites</category>
+<category>electrolyte additive</category>
+<category>iminodiacetic acid</category>
+<category>nucleation mechanism</category>
+</item>
 <item>
 <title>State-of-charge estimation of LiFePO₄ batteries via dynamic OCV reconstruction and physics-consistent correction</title>
 <link>https://doi.org/10.1016/j.est.2026.125898</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>lithium-ion battery</category>
 <category>molecular engineering</category>
 <category>electrode stability</category>
-</item>
-<item>
-<title>An aqueous sulfur-organic redox flow battery</title>
-<link>https://doi.org/10.1016/j.scib.2026.11.032</link>
-<guid isPermaLink="false">10.1016/j.scib.2026.11.032</guid>
-<pubDate>Fri, 20 Nov 2026 04:01:27 GMT</pubDate>
-<description>این کار یک باتری جریان ردوکس آبی مبتنی بر سولفور و ترکیبات آلی معرفی می‌کند که گزینه‌ای پایدار و کم‌هزینه برای ذخیره‌سازی انرژی ارائه می‌دهد.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 redox flow battery · aqueous electrolyte · sulfur-organic · energy storage · redox chemistry</description>
-<category>redox flow battery</category>
-<category>aqueous electrolyte</category>
-<category>sulfur-organic</category>
-<category>energy storage</category>
-<category>redox chemistry</category>
 </item>
 </channel>
 </rss>
