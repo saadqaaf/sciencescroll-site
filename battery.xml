@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 18:01:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 19:01:51 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>N‐Doped Coral Carbon for Synergistic Iodine Anchoring in High‐Capacity and Long‐Life Aqueous Zinc‐Iodine Batteries</title>
+<link>https://doi.org/10.1002/aenm.71862</link>
+<guid isPermaLink="false">10.1002/aenm.71862</guid>
+<pubDate>Sat, 21 Nov 2026 19:01:27 GMT</pubDate>
+<description>کربن مرجانی N-doped با نانولوله‌های کربنی درجا به‌عنوان میزبان ید در باتری آبی Zn-I استفاده شده و ظرفیت بالا و چرخه‌پذیری پایدار بیش از ۸۰۰۰ چرخه را فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a coral-like N-doped carbon with in situ grown carbon nanotubes (CNC-CNT), derived from bimetallic core-shell MOFs, as an iodine host combining C–I chemical adsorption with physical confinement and extra electric double-layer capacitance. Significance: it enables 690 mAh g⁻¹ at 1 A g⁻¹, 8000-cycle stability, and ~780 Wh kg⁻¹ pouch-cell energy density, offering a facile route to high-capacity, long-life aqueous zinc-iodine batteries.&lt;br&gt;🏷 zinc-iodine battery · N-doped carbon · iodine host · carbon nanotube · coral-like carbon</description>
+<category>zinc-iodine battery</category>
+<category>N-doped carbon</category>
+<category>iodine host</category>
+<category>carbon nanotube</category>
+<category>coral-like carbon</category>
+</item>
+<item>
+<title>Al/F Co‐Doped Sulfide Electrolyte for Durable All‐Solid‐State Lithium‐Organic Batteries</title>
+<link>https://doi.org/10.1002/aenm.71853</link>
+<guid isPermaLink="false">10.1002/aenm.71853</guid>
+<pubDate>Sat, 21 Nov 2026 19:01:15 GMT</pubDate>
+<description>با جایگزینی دوگانه Al/F در الکترولیت سولفیدی آرژیرودایت، پایداری فصل مشترک کاتد کربونیلی و لیتیم فلزی در باتری تمام‌جامد لیتیم-آلی بهبود یافته و چرخه‌پذیری طولانی‌مدت حاصل شده است.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electrolyte-first strategy using dual-site Al/F substitution of argyrodite sulfide electrolyte, guided by HSAB theory, to stabilize carbonyl cathodes and lithium metal simultaneously. This suppresses interfacial degradation, enabling 100% initial Coulombic efficiency and 81% capacity retention after 2000 cycles, establishing HSAB-guided electrolyte redesign as a route to durable all-solid-state lithium-organic batteries.&lt;br&gt;🏷 solid electrolyte · lithium-organic battery · argyrodite · Al/F co-doping · interface stability</description>
+<category>solid electrolyte</category>
+<category>lithium-organic battery</category>
+<category>argyrodite</category>
+<category>Al/F co-doping</category>
+<category>interface stability</category>
+</item>
 <item>
 <title>Transitioning Zinc Nucleation from Progressive to Instantaneous via Tridentate Coordination for Ultra-Stable Aqueous Zinc Batteries</title>
 <link>https://doi.org/10.1039/d6ta09494e</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>electric vehicles</category>
 <category>multi-criteria evaluation</category>
 <category>system-level modeling</category>
-</item>
-<item>
-<title>A Composite Lithium Anode with High Interfacial Stability and High Modulus for All-Solid-State Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105671</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105671</guid>
-<pubDate>Fri, 20 Nov 2026 04:01:58 GMT</pubDate>
-<description>این مقاله یک آند کامپوزیتی لیتیوم با پایداری بین‌سطحی بالا و مدول زیاد برای باتری‌های تمام‌حالت‌جامد ارائه می‌دهد که عملکرد و پایداری آند را بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal anode · all-solid-state battery · composite anode · interfacial stability · high modulus</description>
-<category>lithium metal anode</category>
-<category>all-solid-state battery</category>
-<category>composite anode</category>
-<category>interfacial stability</category>
-<category>high modulus</category>
-</item>
-<item>
-<title>Molecularly Engineered Electron-Bridging Binder for Robust SiOx/Graphite Electrodes in High-Energy Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105673</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105673</guid>
-<pubDate>Fri, 20 Nov 2026 04:01:54 GMT</pubDate>
-<description>این کار یک بایندر مولکولی با پل‌های الکترونی برای الکترودهای SiOx/graphite طراحی می‌کند که پایداری و عملکرد باتری لیتیوم-یون پرانرژی را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 SiOx/graphite anode · electron-bridging binder · lithium-ion battery · molecular engineering · electrode stability</description>
-<category>SiOx/graphite anode</category>
-<category>electron-bridging binder</category>
-<category>lithium-ion battery</category>
-<category>molecular engineering</category>
-<category>electrode stability</category>
 </item>
 </channel>
 </rss>
