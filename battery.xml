@@ -5,8 +5,80 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 21:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 22:06:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Entropy-engineered polar heterogeneity enables near-decoupled polarization–strain behavior for high-density energy storage</title>
+<link>https://doi.org/10.1038/s41467-026-79625-z</link>
+<guid isPermaLink="false">10.1038/s41467-026-79625-z</guid>
+<pubDate>Sat, 21 Nov 2026 22:05:04 GMT</pubDate>
+<description>این پژوهش با مهندسی آنتروپی و ایجاد ناهمگنی قطبی، رفتار قطبی‌شدن-کرنش تقریباً جدا شده را برای ذخیره‌سازی انرژی با چگالی بالا ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Entropy is introduced as a quantitative design parameter to engineer polar heterogeneity in lead-free relaxor ferroelectrics, disrupting long-range polar coherence and decoupling polarization from strain. This yields an ultralow electrostrictive coefficient and 21.5 J cm⁻³ energy density with minimal electrostrain, establishing configurational entropy as a descriptor for weak electromechanical coupling in high-density dielectric capacitors.&lt;br&gt;🏷 entropy engineering · polar heterogeneity · energy storage · polarization-strain decoupling · dielectric capacitor</description>
+<category>entropy engineering</category>
+<category>polar heterogeneity</category>
+<category>energy storage</category>
+<category>polarization-strain decoupling</category>
+<category>dielectric capacitor</category>
+</item>
+<item>
+<title>Interacting Cosolvents-Regulated Solvation for Rapid Quasi-Solid–State Sulfur Reactions in Li–S Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c12314</link>
+<guid isPermaLink="false">10.1021/acsnano.6c12314</guid>
+<pubDate>Sat, 21 Nov 2026 22:04:18 GMT</pubDate>
+<description>الکترولیت دوجزئی THF-CPME با تنظیم سلواسیون، واکنش شبه‌جامد گوگرد را تسریع کرده و باتری Li-S با ظرفیت 5.2 mAh cm-2 و نسبت E/S پایین را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dipole-interacting binary solvents (THF/CPME) that decouple bulk solvation from surface Li-polysulfide solvation, enabling rapid quasi-solid-state sulfur reactions. This redirects sulfur speciation toward 3D Li2S and β-S8 growth, achieving 5.2 mAh cm⁻² at low E/S ratio (3 μL mg⁻¹) and stable 2.44 Ah pouch-cell cycling—reconciling bulk dissolution with surface kinetics for high-energy Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · sparingly solvating electrolyte · quasi-solid-state reaction · cosolvent solvation · lean electrolyte</description>
+<category>lithium-sulfur battery</category>
+<category>sparingly solvating electrolyte</category>
+<category>quasi-solid-state reaction</category>
+<category>cosolvent solvation</category>
+<category>lean electrolyte</category>
+</item>
+<item>
+<title>Stabilizing High‐Voltage Oxygen Holes via π‐Bonding Mediated Frontier‐Orbital Character Inversion in Intermediate‐Regime Oxide Cathodes</title>
+<link>https://doi.org/10.1002/anie.4101340</link>
+<guid isPermaLink="false">10.1002/anie.4101340</guid>
+<pubDate>Sat, 21 Nov 2026 22:03:24 GMT</pubDate>
+<description>با مهندسی پیوند π در Li2RuO3، حالت‌های حفره اکسیژنی پرولتاژ از طریق وارونگی مشخصه اوربیتال مرزی پایدار می‌شوند و از دیمریزاسیون مخرب O-O جلوگیری می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in stabilizing high-voltage oxygen holes in Li₂RuO₃ by tuning Ru─O π-bonding, inducing a frontier-orbital character inversion during delithiation. This avoids destabilizing O─O dimerization and voltage hysteresis. Significance: it establishes an electronic-structure design principle—orbital engineering in intermediate-regime oxides between Mott–Hubbard and charge-transfer behavior—enabling stable, high-voltage anionic redox and higher energy density.&lt;br&gt;🏷 oxygen redox · layered oxide cathode · Li2RuO3 · orbital engineering · voltage hysteresis</description>
+<category>oxygen redox</category>
+<category>layered oxide cathode</category>
+<category>Li2RuO3</category>
+<category>orbital engineering</category>
+<category>voltage hysteresis</category>
+</item>
+<item>
+<title>Bidirectional Sulfur Redox Regulation Enabling Ultra‐Stable High‐Sulfur‐Loading All‐Solid‐State Lithium‐Sulfur Batteries</title>
+<link>https://doi.org/10.1002/anie.6742507</link>
+<guid isPermaLink="false">10.1002/anie.6742507</guid>
+<pubDate>Sat, 21 Nov 2026 22:03:19 GMT</pubDate>
+<description>الکترولیت آمورف-کریستالی Li6.05P0.95Nb0.05S5Cl0.8I0.2 با تنظیم دوسویه ردوکس گوگرد، بازده گوگرد 84.2% و پایداری 1500 چرخه را در باتری Li-S تمام‌جامد با بارگذاری بالای گوگرد فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an amorphous-crystalline Li6.05P0.95Nb0.05S5Cl0.8I0.2 electrolyte enabling bidirectional sulfur redox regulation: Nb4+→Nb3+ reduction promotes Li2S nucleation during discharge, while I−→I2 mediates Li2S oxidation during charge. This achieves 84.2% sulfur utilization at 6 mg cm−2 loading and 93.1% retention after 1500 cycles, advancing high-loading all-solid-state Li-S batteries.&lt;br&gt;🏷 all-solid-state Li-S battery · solid electrolyte · sulfur redox · high sulfur loading · Nb doping</description>
+<category>all-solid-state Li-S battery</category>
+<category>solid electrolyte</category>
+<category>sulfur redox</category>
+<category>high sulfur loading</category>
+<category>Nb doping</category>
+</item>
+<item>
+<title>Coupled Self‐Alkalization and Chelation Chemistry Enables Highly Reversible Zn Anodes and Rechargeable Alkaline Zn–I 2 Batteries</title>
+<link>https://doi.org/10.1002/anie.2466347</link>
+<guid isPermaLink="false">10.1002/anie.2466347</guid>
+<pubDate>Sat, 21 Nov 2026 22:03:11 GMT</pubDate>
+<description>الکترولیت خودقلیایی و کلاته با اتیلن‌دی‌آمین آند Zn برگشت‌پذیر و باتری آبی Zn-I2 با چگالی انرژی ۸۱۲.۹ Wh kg−1 و ۸۶۰ چرخه را ممکن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using ethylenediamine as both base and chelator to enable in situ OH⁻ generation and soluble Zn chelates, decoupling the redox–concentration–stability trade-off. Significance: 1 M Zn²⁺ at pH 12.45, hybrid interphase, 380 h cycling, 812.9 Wh kg⁻¹ Zn||I₂, and the first anode-free alkaline Zn||I₂ battery (860 cycles).&lt;br&gt;🏷 Zn anode · Zn-I2 battery · ethylenediamine · chelation chemistry · self-alkalization</description>
+<category>Zn anode</category>
+<category>Zn-I2 battery</category>
+<category>ethylenediamine</category>
+<category>chelation chemistry</category>
+<category>self-alkalization</category>
+</item>
+<item>
+<title>Concentration‐Driven Solvation Reorganization Featuring Viologen Clustering Enables Air‐Tolerant Aqueous Organic Redox Flow Batteries</title>
+<link>https://doi.org/10.1002/anie.2444933</link>
+<guid isPermaLink="false">10.1002/anie.2444933</guid>
+<pubDate>Sat, 21 Nov 2026 22:02:14 GMT</pubDate>
+<description>خوشه‌شدن ویولوژن در غلظت بحرانی، بازآرایی حلال‌پوشی و تحمل هوا را در باتری جریان ردوکس آبی آلی بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This study reveals a concentration-driven solvation transition in viologen electrolytes, where viologen clustering sterically shields redox-active species from O₂/OH⁻/ROS attack and restricts Grotthuss-type OH⁻ transport, enabling air-tolerant aqueous organic redox flow batteries. It identifies BV²⁺ as the most degradation-prone state and shows clustering suppresses BV³⁺• disproportionation, offering a concentration-engineering strategy for stable, air-tolerant AORFBs.&lt;br&gt;🏷 viologen anolyte · redox flow battery · solvation reorganization · air tolerance · clustering</description>
+<category>viologen anolyte</category>
+<category>redox flow battery</category>
+<category>solvation reorganization</category>
+<category>air tolerance</category>
+<category>clustering</category>
+</item>
 <item>
 <title>N‐Doped Coral Carbon for Synergistic Iodine Anchoring in High‐Capacity and Long‐Life Aqueous Zinc‐Iodine Batteries</title>
 <link>https://doi.org/10.1002/aenm.71862</link>
@@ -1141,78 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>charge distribution</category>
 <category>cycling stability</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Poly(ethylene oxide)-based composite solid electrolyte synergistically enhanced by 3D ion transport network and multifunctional ceramic fillers</title>
-<link>https://doi.org/10.1016/j.est.2026.125809</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125809</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:18 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی بر پایه PEO با شبکه انتقال یون سه‌بعدی و پرکننده‌های سرامیکی چندمنظوره به‌طور هم‌افزا بهبود می‌یابد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 composite solid electrolyte · poly(ethylene oxide) · ceramic filler · 3D ion transport · lithium battery</description>
-<category>composite solid electrolyte</category>
-<category>poly(ethylene oxide)</category>
-<category>ceramic filler</category>
-<category>3D ion transport</category>
-<category>lithium battery</category>
-</item>
-<item>
-<title>Hybrid metaheuristic-ANN models for predicting the performance of a liquid-cooled battery thermal management system for electric vehicles</title>
-<link>https://doi.org/10.1016/j.est.2026.125670</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125670</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:14 GMT</pubDate>
-<description>مدل‌های ترکیبی فراابتکاری-شبکه عصبی برای پیش‌بینی عملکرد سیستم مدیریت حرارتی خنک‌شونده با مایع باتری خودروهای برقی ارائه و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · liquid cooling · ANN · metaheuristic optimization · electric vehicles</description>
-<category>battery thermal management</category>
-<category>liquid cooling</category>
-<category>ANN</category>
-<category>metaheuristic optimization</category>
-<category>electric vehicles</category>
-</item>
-<item>
-<title>Comparative pore-to-field-scale simulations of relative permeability hysteresis models in underground hydrogen storage: Implementation of the Spiteri et al. wettability-dependent formulation</title>
-<link>https://doi.org/10.1016/j.est.2026.125904</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125904</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:10 GMT</pubDate>
-<description>مدل‌های هیسترزیس تراوایی نسبی در ذخیره‌سازی زیرزمینی هیدروژن با شبیه‌سازی از مقیاس حفره تا میدان و فرمول‌بندی وابسته به ترشوندگی Spiteri مقایسه شدند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 underground hydrogen storage · relative permeability hysteresis · Spiteri model · pore-to-field simulation · wettability</description>
-<category>underground hydrogen storage</category>
-<category>relative permeability hysteresis</category>
-<category>Spiteri model</category>
-<category>pore-to-field simulation</category>
-<category>wettability</category>
-</item>
-<item>
-<title>A novel FeCoNiNx-modified Nb2O5@Nb4N5 heterostructure nanoflower as high-performance supercapacitor electrode</title>
-<link>https://doi.org/10.1016/j.est.2026.125877</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125877</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:06 GMT</pubDate>
-<description>نانوگل FeCoNiNx-اصلاح‌شده Nb2O5@Nb4N5 به‌عنوان الکترود ابرخازن با کارایی بالا ساخته شد و خواص ذخیره‌سازی انرژی آن بهبود یافت.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 supercapacitor electrode · FeCoNiNx modification · Nb2O5@Nb4N5 · heterostructure nanoflower · energy storage</description>
-<category>supercapacitor electrode</category>
-<category>FeCoNiNx modification</category>
-<category>Nb2O5@Nb4N5</category>
-<category>heterostructure nanoflower</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Selenium-based interfacial engineering toward enhanced electrochemical performance of ultrahigh-nickel cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125531</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125531</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:01 GMT</pubDate>
-<description>مهندسی سطحی مبتنی بر سلنیم برای بهبود کارایی الکتروشیمیایی کاتدهای فوق‌پرنیکل باتری لیتیوم-یون به کار گرفته شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ultrahigh-nickel cathode · selenium interfacial engineering · lithium-ion battery · cathode-electrolyte interface · electrochemical performance</description>
-<category>ultrahigh-nickel cathode</category>
-<category>selenium interfacial engineering</category>
-<category>lithium-ion battery</category>
-<category>cathode-electrolyte interface</category>
-<category>electrochemical performance</category>
-</item>
-<item>
-<title>Multi-criteria system-level evaluation of hybrid immersion battery thermal management for electric vehicles</title>
-<link>https://doi.org/10.1016/j.etran.2026.100653</link>
-<guid isPermaLink="false">10.1016/j.etran.2026.100653</guid>
-<pubDate>Fri, 20 Nov 2026 06:01:18 GMT</pubDate>
-<description>این مقاله یک سیستم خنک‌کاری غوطه‌وری هیبریدی برای مدیریت حرارتی باتری خودروهای برقی را در سطح سیستم و با معیارهای چندگانه ارزیابی می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 immersion cooling · battery thermal management · electric vehicles · multi-criteria evaluation · system-level modeling</description>
-<category>immersion cooling</category>
-<category>battery thermal management</category>
-<category>electric vehicles</category>
-<category>multi-criteria evaluation</category>
-<category>system-level modeling</category>
 </item>
 </channel>
 </rss>
