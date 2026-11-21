@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 02:05:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 03:01:45 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Secondary-Shell Phosphorus Engineering of Fe Single-Atom Catalysts for Efficient Electro-Fenton Oxidation</title>
+<link>https://doi.org/10.1021/acscatal.6c06138</link>
+<guid isPermaLink="false">10.1021/acscatal.6c06138</guid>
+<pubDate>Sat, 21 Nov 2026 03:01:36 GMT</pubDate>
+<description>این مقاله با بازیافت سرباره استخراج لیتیوم از باتری‌های مستعمل LiFePO4، کاتالیزور تک‌اتمی Fe-PNC ساخته و با تنظیم فسفر پوسته دوم، تولید رادیکال هیدروکسیل در الکترو-فنتون را بهبود می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;💡 The novelty lies in upcycling spent LiFePO4 battery slag into a phosphorus-modulated Fe single-atom catalyst, with P placed in the secondary coordination shell to electronically tune FeN4 sites. This enhances the three-electron oxygen reduction pathway for efficient ·OH generation, boosting tetracycline degradation and outperforming Fe-NC by 3.3-fold. It offers a sustainable waste-to-catalyst route with lower environmental impact than homogeneous electro-Fenton.&lt;br&gt;🏷 single-atom catalyst · electro-Fenton · phosphorus modulation · LiFePO4 recycling · hydroxyl radical</description>
+<category>single-atom catalyst</category>
+<category>electro-Fenton</category>
+<category>phosphorus modulation</category>
+<category>LiFePO4 recycling</category>
+<category>hydroxyl radical</category>
+</item>
 <item>
 <title>Efficient n–i–p all-perovskite tandem solar cells enabled by interconnection layer engineering</title>
 <link>https://doi.org/10.1038/s41467-026-79553-y</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>chelation</category>
 <category>phase composition</category>
 <category>cathode material</category>
-</item>
-<item>
-<title>Carbon anode materials for sodium-ion batteries: structure–storage relationships, interfacial challenges and industrial prospects: Review</title>
-<link>https://doi.org/10.1016/j.est.2026.125651</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125651</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:47 GMT</pubDate>
-<description>این مرور، روابط ساختار-ذخیره‌سازی، چالش‌های سطح مشترک و چشم‌انداز صنعتی مواد آندی کربنی برای باتری‌های سدیم-یون را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 sodium-ion battery · carbon anode · structure-storage relationship · solid electrolyte interphase · industrialization</description>
-<category>sodium-ion battery</category>
-<category>carbon anode</category>
-<category>structure-storage relationship</category>
-<category>solid electrolyte interphase</category>
-<category>industrialization</category>
 </item>
 </channel>
 </rss>
