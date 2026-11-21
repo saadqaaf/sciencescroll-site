@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 08:01:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 09:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Asymmetric design in electrolytes for rechargeable metal batteries: From molecular engineering to spatial architecture</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218786</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218786</guid>
+<pubDate>Sat, 21 Nov 2026 09:01:22 GMT</pubDate>
+<description>این مرور، طراحی نامتقارن الکترولیت‌ها را از مهندسی مولکولی تا معماری فضایی برای باتری‌های فلزی قابل شارژ بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 metal batteries · electrolyte design · asymmetric electrolytes · molecular engineering · spatial architecture</description>
+<category>metal batteries</category>
+<category>electrolyte design</category>
+<category>asymmetric electrolytes</category>
+<category>molecular engineering</category>
+<category>spatial architecture</category>
+</item>
 <item>
 <title>Nonpolar Micro‐Environment‐Induced Solvation Field Engineering Enables 600 Wh Kg −1 High‐Voltage Lithium Metal Pouch Cells</title>
 <link>https://doi.org/10.1002/adma.75821</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>carbon fiber</category>
 <category>microstructural orientation</category>
 <category>multifunctional efficiency</category>
-</item>
-<item>
-<title>Decoding the initial coulombic efficiency of MXenes as lithium storage hosts</title>
-<link>https://doi.org/10.1016/j.jmst.2026.10.087</link>
-<guid isPermaLink="false">10.1016/j.jmst.2026.10.087</guid>
-<pubDate>Thu, 19 Nov 2026 21:01:38 GMT</pubDate>
-<description>این مقاله عوامل تعیین‌کننده بازده کولمبی اولیه MXeneها را به‌عنوان میزبان ذخیره‌سازی لیتیم رمزگشایی می‌کند و راهبردهایی برای بهبود آن ارائه می‌دهد.&lt;br&gt;Journal of Materials Science &amp;amp;amp; Technology | 🔬 Research Article&lt;br&gt;🏷 MXene · initial coulombic efficiency · lithium storage · anode host · surface chemistry</description>
-<category>MXene</category>
-<category>initial coulombic efficiency</category>
-<category>lithium storage</category>
-<category>anode host</category>
-<category>surface chemistry</category>
 </item>
 </channel>
 </rss>
