@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 13:01:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 14:02:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>State-of-charge estimation of LiFePO₄ batteries via dynamic OCV reconstruction and physics-consistent correction</title>
+<link>https://doi.org/10.1016/j.est.2026.125898</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125898</guid>
+<pubDate>Sat, 21 Nov 2026 14:02:00 GMT</pubDate>
+<description>این مقاله روشی برای تخمین وضعیت شارژ باتری‌های LiFePO4 بر پایه بازسازی دینامیک OCV و تصحیح سازگار با فیزیک ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state-of-charge estimation · LiFePO4 battery · OCV reconstruction · physics-consistent correction · battery management</description>
+<category>state-of-charge estimation</category>
+<category>LiFePO4 battery</category>
+<category>OCV reconstruction</category>
+<category>physics-consistent correction</category>
+<category>battery management</category>
+</item>
+<item>
+<title>Empowering lithium-ion batteries: High-capacity storage and rapid diffusion in Janus ZrSSe monolayer</title>
+<link>https://doi.org/10.1016/j.est.2026.125839</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125839</guid>
+<pubDate>Sat, 21 Nov 2026 14:01:52 GMT</pubDate>
+<description>این مطالعه با محاسبات DFT نشان می‌دهد که مونولایه Janus ZrSSe ظرفیت ذخیره‌سازی بالایی برای یون لیتیوم دارد و انتشار یون در آن سریع است و آن را به گزینه‌ای مناسب برای آند باتری لیتیوم-یون تبدیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Janus ZrSSe monolayer · lithium-ion battery · anode material · ion diffusion · DFT</description>
+<category>Janus ZrSSe monolayer</category>
+<category>lithium-ion battery</category>
+<category>anode material</category>
+<category>ion diffusion</category>
+<category>DFT</category>
+</item>
+<item>
+<title>Sustainable water-processable chitosan binder for graphite anodes in lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125757</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125757</guid>
+<pubDate>Sat, 21 Nov 2026 14:01:47 GMT</pubDate>
+<description>این مقاله یک بایندر کیتوسان قابل‌فرآوری در آب را برای آندهای گرافیتی باتری لیتیوم-یون معرفی می‌کند و پایداری و عملکرد الکتروشیمیایی آن را ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chitosan binder · graphite anode · lithium-ion battery · water-processable · sustainable electrode</description>
+<category>chitosan binder</category>
+<category>graphite anode</category>
+<category>lithium-ion battery</category>
+<category>water-processable</category>
+<category>sustainable electrode</category>
+</item>
+<item>
+<title>Side-chain-engineered triphenylamine-ethylenedioxythiophene polymers for flexible electrochromic supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125847</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125847</guid>
+<pubDate>Sat, 21 Nov 2026 14:01:43 GMT</pubDate>
+<description>پلیمرهای تری‌فنیل‌آمین-اتیلن‌دی‌اکسی‌تیوفن با مهندسی زنجیر جانبی برای ابرخازن‌های الکتروکرومیک انعطاف‌پذیر طراحی و بررسی می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electrochromic supercapacitor · triphenylamine polymer · PEDOT · side-chain engineering · flexible device</description>
+<category>electrochromic supercapacitor</category>
+<category>triphenylamine polymer</category>
+<category>PEDOT</category>
+<category>side-chain engineering</category>
+<category>flexible device</category>
+</item>
+<item>
+<title>Online decomposition of thermodynamic and kinetic capacity losses in series-connected lithium-ion battery clusters for cluster capacity assessment</title>
+<link>https://doi.org/10.1016/j.est.2026.125785</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125785</guid>
+<pubDate>Sat, 21 Nov 2026 14:01:39 GMT</pubDate>
+<description>روشی برخط برای تفکیک تلفات ظرفیت ترمودینامیکی و سینتیکی در خوشه‌های باتری لیتیوم-یونی سری و ارزیابی ظرفیت خوشه ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · cluster capacity · capacity loss decomposition · series-connected cells · thermodynamic-kinetic losses</description>
+<category>lithium-ion battery</category>
+<category>cluster capacity</category>
+<category>capacity loss decomposition</category>
+<category>series-connected cells</category>
+<category>thermodynamic-kinetic losses</category>
+</item>
 <item>
 <title>Asymmetric design in electrolytes for rechargeable metal batteries: From molecular engineering to spatial architecture</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218786</link>
@@ -1153,66 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>sulfur-organic</category>
 <category>energy storage</category>
 <category>redox chemistry</category>
-</item>
-<item>
-<title>What if we were to design transport in aqueous electrolytes using learnings from lithium battery research?</title>
-<link>https://doi.org/10.1039/d6cs00073h</link>
-<guid isPermaLink="false">10.1039/d6cs00073h</guid>
-<pubDate>Fri, 20 Nov 2026 01:01:37 GMT</pubDate>
-<description>این مقاله اصول طراحی الکترولیت آبی برای بهبود انتقال یون را با الهام از پژوهش باتری‌های لیتیومی شناسایی می‌کند که با طراحی الکترولیت لیتیومی تفاوت چشمگیری دارد.&lt;br&gt;Chemical Society Reviews | 💭 Perspective | 🔓 Open Access&lt;br&gt;💡 The novelty lies in transferring lithium battery design heuristics to aqueous electrolytes, revealing that optimal transport rules differ fundamentally from nonaqueous systems. This is significant because it challenges prevailing assumptions, provides new design principles for aqueous batteries, and could accelerate development of safer, lower-cost energy storage.&lt;br&gt;🏷 aqueous electrolytes · ion transport · battery design · lithium batteries · electrolyte heuristics</description>
-<category>aqueous electrolytes</category>
-<category>ion transport</category>
-<category>battery design</category>
-<category>lithium batteries</category>
-<category>electrolyte heuristics</category>
-</item>
-<item>
-<title>Site-Competition–Driven Synergistic Li+/Na+ Transport in Li5₋xNaxLa3Ta2O12: The 3:1 Optimum</title>
-<link>https://doi.org/10.1039/d6ta07858c</link>
-<guid isPermaLink="false">10.1039/d6ta07858c</guid>
-<pubDate>Fri, 20 Nov 2026 00:02:04 GMT</pubDate>
-<description>در گارنت Li5-xNaxLa3Ta2O12 رقابت مکان‌های بلوری میان Li+ و Na+ با نسبت بهینه ۳:۱، انتقال یونی هم‌افزا را تقویت می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This study reveals that in mixed-cation Li5₋xNaxLa3Ta2O12 garnets, a 3:1 Li:Na ratio yields optimal ionic conductivity via site-competition-driven synergistic Li+/Na+ transport. It clarifies how competing alkali species interact and provides a design principle for enhancing conductivity in solid electrolytes without extrinsic dopants, advancing understanding of mixed-cation ion-transport mechanisms for battery applications.&lt;br&gt;🏷 garnet solid electrolyte · Li5La3Ta2O12 · mixed-cation · ion transport · site competition</description>
-<category>garnet solid electrolyte</category>
-<category>Li5La3Ta2O12</category>
-<category>mixed-cation</category>
-<category>ion transport</category>
-<category>site competition</category>
-</item>
-<item>
-<title>Synergistic Molecular Interfacial Bridging and Solvation Structure Regulation for High‐Performance Aqueous Zinc‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76811</link>
-<guid isPermaLink="false">10.1002/smll.76811</guid>
-<pubDate>Thu, 19 Nov 2026 21:05:15 GMT</pubDate>
-<description>افزودنی pantolactone با تشکیل لایه پل مولکولی روی آند Zn و بازسازی پوسته حلپوشی، رشد دندریت و واکنشهای جانبی را مهار کرد و عمر چرخه Zn||Zn را به بیش از 3400 ساعت رساند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 Pantolactone is introduced as a multifunctional electrolyte additive that forms a molecular-bridge interface layer on the Zn anode while coordinating Zn2+ to reconstruct its solvation sheath. This dual strategy accelerates desolvation, guides Zn(002) deposition, and suppresses water activity and side reactions, enabling over 3400 h cycling and 94.1% capacity retention, offering a new paradigm coupling interfacial engineering with solvation regulation for AZIBs.&lt;br&gt;🏷 aqueous zinc-ion battery · pantolactone additive · solvation structure · Zn anode · molecular bridge</description>
-<category>aqueous zinc-ion battery</category>
-<category>pantolactone additive</category>
-<category>solvation structure</category>
-<category>Zn anode</category>
-<category>molecular bridge</category>
-</item>
-<item>
-<title>Qualitative Change Effect of Defects on Carbon Regulates Interfacial Proton Kinetics for Efficient Nitrate Reduction Reaction</title>
-<link>https://doi.org/10.1002/advs.78855</link>
-<guid isPermaLink="false">10.1002/advs.78855</guid>
-<pubDate>Thu, 19 Nov 2026 21:02:57 GMT</pubDate>
-<description>کربن‌های نقص‌دار با چگالی قابل تنظیم، سینتیک پروتون در سطح مشترک را بهبود می‌دهند و بازده فارادایی NH3 برابر 99.1% و باتری Zn-NO3 با پایداری بالا ارائه می‌کنند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in precisely tuning carbon defect density to reveal a linear correlation with NO₃RR activity, uncovering how defects break interfacial hydrogen-bond ordering to accelerate water dissociation and enable an adsorbed-H mediated pathway. This defect-induced charge asymmetry strengthens *NOₓ adsorption and lowers hydrogenation barriers, achieving 99.1% NH₃ Faradaic efficiency and a durable Zn-NO₃⁻ battery, advancing metal-free electrocatalysis understanding at the inner Helmholtz plane.&lt;br&gt;🏷 carbon defects · nitrate reduction · proton kinetics · Zn-NO3 battery · electrocatalysis</description>
-<category>carbon defects</category>
-<category>nitrate reduction</category>
-<category>proton kinetics</category>
-<category>Zn-NO3 battery</category>
-<category>electrocatalysis</category>
-</item>
-<item>
-<title>Microstructural Orientation Enables Mass‐Efficient Structural Batteries</title>
-<link>https://doi.org/10.1002/advs.78851</link>
-<guid isPermaLink="false">10.1002/advs.78851</guid>
-<pubDate>Thu, 19 Nov 2026 21:02:11 GMT</pubDate>
-<description>این مقاله با جهت‌دهی ریزساختاری LiFePO4 در معماری الیاف کربن، باتری ساختاری تمام‌الیافی با چگالی انرژی 73 Wh/kg و بازده چندعملکردی 1.6 ارائه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Microstructural orientation is introduced as an architectural strategy to decouple ionic transport from mechanical load-bearing in structural batteries. Aligning LiFePO4 within carbon fiber reduces tortuosity while preserving stiffness, yielding 73 Wh/kg, 78 W/kg, and 100 GPa modulus. Multifunctional efficiency exceeds unity (1.6) for the first time, enabling ~37% system-level weight reduction with durable high-rate cycling.&lt;br&gt;🏷 structural battery · LiFePO4 · carbon fiber · microstructural orientation · multifunctional efficiency</description>
-<category>structural battery</category>
-<category>LiFePO4</category>
-<category>carbon fiber</category>
-<category>microstructural orientation</category>
-<category>multifunctional efficiency</category>
 </item>
 </channel>
 </rss>
