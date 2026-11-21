@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 07:01:17 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 08:01:42 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nonpolar Micro‐Environment‐Induced Solvation Field Engineering Enables 600 Wh Kg −1 High‐Voltage Lithium Metal Pouch Cells</title>
+<link>https://doi.org/10.1002/adma.75821</link>
+<guid isPermaLink="false">10.1002/adma.75821</guid>
+<pubDate>Sat, 21 Nov 2026 08:01:30 GMT</pubDate>
+<description>مهندسی میدان حل‌پوشی با ریزمحیط غیرقطبی در الکترولیت کربناته، انتقال یون سریع و اینترفاز پایدار LiF/LiPO2F2 را ممکن کرده و پاکت‌سل Li||NCM با 604 Wh kg−1 را ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a nonpolar micro-environment-induced electrolyte using propyl propionate as an amphiphilic inducer to engineer the Li+ solvation field at conventional salt concentration, driving contact-ion-pair-dominated solvation. This decouples interfacial stability from ion transport, enabling a 604 Wh kg−1 Li||NCM95 pouch cell, 87.7% retention over 200 cycles in a 4.2 Ah cell, and −20°C graphite operation—a new principle for high-energy battery electrolytes.&lt;br&gt;🏷 lithium metal battery · solvation field · electrolyte design · pouch cell · high voltage</description>
+<category>lithium metal battery</category>
+<category>solvation field</category>
+<category>electrolyte design</category>
+<category>pouch cell</category>
+<category>high voltage</category>
+</item>
+<item>
+<title>Ni‐Embedded Carbon Fibers Enable Synergistic Confinement and Catalytic Conversion of Iodine Species for Zn–I 2 Batteries</title>
+<link>https://doi.org/10.1002/adma.75711</link>
+<guid isPermaLink="false">10.1002/adma.75711</guid>
+<pubDate>Sat, 21 Nov 2026 08:01:25 GMT</pubDate>
+<description>کاتد خودایستای Ni@CNBs-CMFs با محصورسازی سلسله‌مراتبی و کاتالیز تبدیل ید، شاتل I3− را در باتری آبی Zn–I2 سرکوب کرده و عمر چرخه 16000 چرخه را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in combining hierarchical pore confinement with Ni-catalyzed iodine conversion via d–p orbital interactions in self-standing Ni@CNBs-CMF cathodes. This synergy suppresses the iodine shuttle effect, enabling 16,000-cycle life, 90% Coulombic efficiency after 168-h rest, and 382.8 mAh g⁻¹ via the I⁻/I⁰/I⁺ pathway—significantly advancing practical aqueous Zn–I₂ batteries for large-scale energy storage.&lt;br&gt;🏷 Zn-I2 battery · iodine shuttle · Ni nanoparticles · carbon fibers · catalytic conversion</description>
+<category>Zn-I2 battery</category>
+<category>iodine shuttle</category>
+<category>Ni nanoparticles</category>
+<category>carbon fibers</category>
+<category>catalytic conversion</category>
+</item>
 <item>
 <title>Promoting Dopant Incorporation by Joule Heating: Multimetal-Substituted NASICON Cathode Enables Enhanced Na+ Storage across a Wide Potential Window</title>
 <link>https://doi.org/10.1039/d6ta07241k</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>lithium storage</category>
 <category>anode host</category>
 <category>surface chemistry</category>
-</item>
-<item>
-<title>When Is Molecular-Dynamics-Predicted Ionic Diffusivity Reliable in Solid Electrolytes?</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02996</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02996</guid>
-<pubDate>Thu, 19 Nov 2026 19:01:11 GMT</pubDate>
-<description>این مقاله محدودیت‌های طول مسیر، اندازه سلول و نمونه‌برداری در پیش‌بینی رسانایی یونی الکترولیت‌های جامد با MD را بررسی و روش‌هایی برای بهبود دقت ارائه می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in showing that finite trajectory length, cell size, and sampling can produce apparently reliable but inaccurate ionic diffusivities in solid electrolytes, hidden behind linear MSDs and Arrhenius behavior. Significance: the α(t) diagnostic quantitatively links dynamical convergence to finite-time bias, enabling accuracy-based analysis-time selection, better material ranking, and more efficient computational screening.&lt;br&gt;🏷 solid electrolyte · molecular dynamics · ionic diffusivity · LLZO · finite-size effects</description>
-<category>solid electrolyte</category>
-<category>molecular dynamics</category>
-<category>ionic diffusivity</category>
-<category>LLZO</category>
-<category>finite-size effects</category>
-</item>
-<item>
-<title>Beyond Hosts: The Emerging Role of Powder Materials as Polyfunctional Auxiliaries in Advanced Rechargeable Metal-ion Batteries</title>
-<link>https://doi.org/10.1016/j.apmate.2026.100487</link>
-<guid isPermaLink="false">10.1016/j.apmate.2026.100487</guid>
-<pubDate>Thu, 19 Nov 2026 17:01:17 GMT</pubDate>
-<description>این مقاله مروری نقش نوظهور مواد پودری را به‌عنوان افزودنی‌های چندکاره در باتری‌های قابل شارژ یون-فلزی پیشرفته بررسی می‌کند.&lt;br&gt;Advanced Powder Materials | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 rechargeable metal-ion batteries · powder materials · polyfunctional auxiliaries · electrode additives · battery hosts</description>
-<category>rechargeable metal-ion batteries</category>
-<category>powder materials</category>
-<category>polyfunctional auxiliaries</category>
-<category>electrode additives</category>
-<category>battery hosts</category>
 </item>
 </channel>
 </rss>
