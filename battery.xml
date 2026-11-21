@@ -5,8 +5,92 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 01:03:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 02:05:53 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Efficient n–i–p all-perovskite tandem solar cells enabled by interconnection layer engineering</title>
+<link>https://doi.org/10.1038/s41467-026-79553-y</link>
+<guid isPermaLink="false">10.1038/s41467-026-79553-y</guid>
+<pubDate>Sat, 21 Nov 2026 02:05:12 GMT</pubDate>
+<description>مهندسی لایه اتصال، سلول‌های خورشیدی تاندم تمام‌پروسکیتی n–i–p با بازده بالا را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 First n–i–p double-junction all-perovskite tandem exceeding 25% (25.3%, 0.096 cm²; 24.7%, 1.045 cm²) and first n–i–p-based four-terminal triple-junction reaching 28%. Novelty: 2.0 eV Cs-based wide-bandgap subcell with MeO-2PACz-reconfigured additive-free P3HT hole contact plus PCBM-modified ALD-SnO₂, balancing carrier coupling across the interconnection layer, suppressing charge accumulation and voltage loss.&lt;br&gt;🏷 all-perovskite tandem · solar cells · interconnection layer · n-i-p structure · efficiency</description>
+<category>all-perovskite tandem</category>
+<category>solar cells</category>
+<category>interconnection layer</category>
+<category>n-i-p structure</category>
+<category>efficiency</category>
+</item>
+<item>
+<title>Nanofriction strengthened mechanically adaptive electrolytes for safe lithium metal batteries</title>
+<link>https://doi.org/10.1038/s41467-026-78955-2</link>
+<guid isPermaLink="false">10.1038/s41467-026-78955-2</guid>
+<pubDate>Sat, 21 Nov 2026 02:04:21 GMT</pubDate>
+<description>این مقاله الکترولیت‌های سازگارشونده مکانیکی تقویت‌شده با نانوسایش را برای باتری‌های فلز لیتیوم ایمن معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a &amp;quot;nano-friction-strengthening&amp;quot; strategy: core-shell nanoparticles in a carbonate-swollen shell activate dynamic hydrogen bonds under impact, boosting interparticle friction and viscosity 160-fold for impact hardening. This cuts impact force by 73.1%, preventing short circuits in pouch cells, while phosphate-ester groups suppress thermal runaway, enabling safer lithium metal batteries under mechanical abuse.&lt;br&gt;🏷 lithium metal battery · mechanically adaptive electrolyte · nanofriction · solid electrolyte interphase · dendrite suppression</description>
+<category>lithium metal battery</category>
+<category>mechanically adaptive electrolyte</category>
+<category>nanofriction</category>
+<category>solid electrolyte interphase</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Wafer-scale transferable hexagonal boron nitride membranes via interfacial engineering for multilevel storage</title>
+<link>https://doi.org/10.1038/s41467-026-79354-3</link>
+<guid isPermaLink="false">10.1038/s41467-026-79354-3</guid>
+<pubDate>Sat, 21 Nov 2026 02:02:55 GMT</pubDate>
+<description>غشاهای h-BN در مقیاس ویفر با مهندسی سطح مشترک به‌صورت قابل‌انتقال ساخته شده و برای ذخیره‌سازی چندسطحی به کار می‌روند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using controlled sapphire nitridation with a B–O buffer layer to grow wafer-scale, crack-free, thickness-controllable h-BN membranes that transfer damage-free. This enables memristors with 1.06 V set voltage, 1.57×10⁹ ON/OFF ratio, 30 ns switching, and multilevel stability, offering a scalable route for next-generation in-memory computing.&lt;br&gt;🏷 hexagonal boron nitride · membrane transfer · interfacial engineering · multilevel storage · wafer-scale</description>
+<category>hexagonal boron nitride</category>
+<category>membrane transfer</category>
+<category>interfacial engineering</category>
+<category>multilevel storage</category>
+<category>wafer-scale</category>
+</item>
+<item>
+<title>Spatial-Mechanical-Chemical Synergy in Inorganic-Shelled Cavities Enables Stable Li–Mg Alloy Anodes</title>
+<link>https://doi.org/10.1021/acsnano.6c15492</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15492</guid>
+<pubDate>Sat, 21 Nov 2026 02:02:31 GMT</pubDate>
+<description>آند آلیاژی Li-Mg با حفره‌های پوسته‌ای معدنی از طریق هم‌افزایی فضایی-مکانیکی-شیمیایی، رشد دندریت را مهار کرده و باتری LiFePO4 با حفظ ظرفیت ۸۵.۶٪ در ۴۰۰ چرخه را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Li-Mg alloy framework with in situ LiNO3-derived inorganic-shelled cavities enabling spatial-mechanical-chemical synergy for confined, uniform Li deposition. Significance: scalable roller-pressing yields dendrite-resistant, thermally safe anodes; 1 Ah LFP pouch cells achieve 85.6% retention over 400 cycles at 1 C with nail-penetration safety, advancing practical Li-metal batteries.&lt;br&gt;🏷 Li-Mg alloy anode · lithium metal battery · inorganic shell cavity · dendrite suppression · pouch cell</description>
+<category>Li-Mg alloy anode</category>
+<category>lithium metal battery</category>
+<category>inorganic shell cavity</category>
+<category>dendrite suppression</category>
+<category>pouch cell</category>
+</item>
+<item>
+<title>Weakly Exothermic Intermetallic NiBi Anode Enables Ultrafine Reconstruction for High-Rate Sodium-Ion Storage</title>
+<link>https://doi.org/10.1021/acsnano.6c16600</link>
+<guid isPermaLink="false">10.1021/acsnano.6c16600</guid>
+<pubDate>Sat, 21 Nov 2026 02:02:26 GMT</pubDate>
+<description>این مقاله آند بین‌فلزی NiBi با گرمازایی ضعیف را معرفی می‌کند که از درشت‌شدگی لیگامنت جلوگیری کرده و ذخیره‌سازی سریع سدیم را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using weakly exothermic intermetallic NiBi with small formation energy to suppress Bi atom diffusion and ligament coarsening during desodiation. This enables an ultrafine bicontinuous porous network (65.3 nm ligaments, three times finer than pure Bi), yielding 91.09% initial Coulombic efficiency, 304.2 mAh g–1 capacity, and 20,000-cycle life with 93.1% retention—demonstrating intermetallic design as a route to durable, high-rate sodium storage.&lt;br&gt;🏷 NiBi intermetallic · sodium-ion battery · anode · ligament coarsening · bicontinuous porosity</description>
+<category>NiBi intermetallic</category>
+<category>sodium-ion battery</category>
+<category>anode</category>
+<category>ligament coarsening</category>
+<category>bicontinuous porosity</category>
+</item>
+<item>
+<title>AI-Driven Cross-Scale Simulation of Lithium Batteries</title>
+<link>https://doi.org/10.1021/acsnano.6c15838</link>
+<guid isPermaLink="false">10.1021/acsnano.6c15838</guid>
+<pubDate>Sat, 21 Nov 2026 02:02:13 GMT</pubDate>
+<description>این مرور، شبیه‌سازی چندمقیاسی مبتنی بر هوش مصنوعی برای باتری‌های لیتیومی را از مقیاس اتمی تا سیستم و کاربردهای طراحی باتری مرور می‌کند.&lt;br&gt;ACS Nano | ⭐ Review&lt;br&gt;💡 This review uniquely synthesizes AI-driven cross-scale battery simulation, spanning MLPs, AI-kMC, AI-PFM, and AI-CGMD from micro- to mesoscale, plus surrogate models, reduced-order modeling, and PINNs to macroscale. It highlights multiscale feature fusion, inverse design, and battery design automation toward digital twins, and proposes integrating foundation models and generative AI to overcome generalization and uncertainty-quantification limits, accelerating next-generation energy-storage development.&lt;br&gt;🏷 lithium batteries · cross-scale simulation · machine learning potentials · physics-informed neural networks · digital twins</description>
+<category>lithium batteries</category>
+<category>cross-scale simulation</category>
+<category>machine learning potentials</category>
+<category>physics-informed neural networks</category>
+<category>digital twins</category>
+</item>
+<item>
+<title>Near-Ambient Temperature-Dependent Degradation of Large-Format High-Ni NMC Pouch Cells Associated with Cathode Oxygen Instability</title>
+<link>https://doi.org/10.1016/j.etran.2026.100657</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100657</guid>
+<pubDate>Sat, 21 Nov 2026 02:02:01 GMT</pubDate>
+<description>این مطالعه تخریب سلول‌های کیسه‌ای بزرگ High-Ni NMC را در دمای نزدیک محیط به ناپایداری اکسیژن کاتد مرتبط می‌کند.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 high-Ni NMC · pouch cells · cathode oxygen instability · cell degradation · near-ambient temperature</description>
+<category>high-Ni NMC</category>
+<category>pouch cells</category>
+<category>cathode oxygen instability</category>
+<category>cell degradation</category>
+<category>near-ambient temperature</category>
+</item>
 <item>
 <title>Rethinking Creep in Solid-State Batteries: From a Chemo-mechanical Liability to a Design Parameter</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02770</link>
@@ -1129,90 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>structure-storage relationship</category>
 <category>solid electrolyte interphase</category>
 <category>industrialization</category>
-</item>
-<item>
-<title>A spatiotemporal dynamic feedback neural network for lithium-ion battery temperature prediction</title>
-<link>https://doi.org/10.1016/j.est.2026.125422</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125422</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:39 GMT</pubDate>
-<description>این مقاله یک شبکه عصبی بازخوردی پویا و فضایی-زمانی برای پیش‌بینی دقیق دمای باتری لیتیوم-یون ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · temperature prediction · neural network · spatiotemporal modeling · thermal management</description>
-<category>lithium-ion battery</category>
-<category>temperature prediction</category>
-<category>neural network</category>
-<category>spatiotemporal modeling</category>
-<category>thermal management</category>
-</item>
-<item>
-<title>From molecular adsorption to thin carbon layer: In-situ coating enabled by isophthalic acid as a novel carbon source on LiFe0.5Mn0.5PO4 for advanced lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125717</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125717</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:34 GMT</pubDate>
-<description>این کار با استفاده از اسید ایزوفتالیک به‌عنوان منبع کربن جدید، پوشش کربنی نازک درجا روی LiFe0.5Mn0.5PO4 ایجاد کرده و عملکرد باتری لیتیوم-یون را بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LiFe0.5Mn0.5PO4 · isophthalic acid · in-situ carbon coating · lithium-ion battery · cathode material</description>
-<category>LiFe0.5Mn0.5PO4</category>
-<category>isophthalic acid</category>
-<category>in-situ carbon coating</category>
-<category>lithium-ion battery</category>
-<category>cathode material</category>
-</item>
-<item>
-<title>Multi-criteria assessment of CAES and battery storage technologies for off-grid bifacial PV systems: A water-energy-economic-environmental nexus approach</title>
-<link>https://doi.org/10.1016/j.est.2026.125749</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125749</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:30 GMT</pubDate>
-<description>این مقاله با رویکرد پیوند آب-انرژی-اقتصاد-محیط زیست، فناوری‌های ذخیره‌سازی CAES و باتری را برای سیستم‌های PV دوطرفه خارج از شبکه ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · battery storage · off-grid PV · water-energy nexus · multi-criteria assessment</description>
-<category>compressed air energy storage</category>
-<category>battery storage</category>
-<category>off-grid PV</category>
-<category>water-energy nexus</category>
-<category>multi-criteria assessment</category>
-</item>
-<item>
-<title>Adaptive energy management strategy for hybrid energy storage systems of urban delivery light-duty trucks incorporating mass and grade estimation</title>
-<link>https://doi.org/10.1016/j.est.2026.125831</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125831</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:26 GMT</pubDate>
-<description>استراتژی مدیریت انرژی تطبیقی برای سیستم‌های ذخیره‌سازی هیبریدی کامیون‌های سبک شهری با تخمین جرم و شیب مسیر ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 energy management · hybrid energy storage · light-duty truck · mass estimation · grade estimation</description>
-<category>energy management</category>
-<category>hybrid energy storage</category>
-<category>light-duty truck</category>
-<category>mass estimation</category>
-<category>grade estimation</category>
-</item>
-<item>
-<title>High-toughness polyvinyl alcohol composite hydrogel electrolyte for stable aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125589</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125589</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:22 GMT</pubDate>
-<description>الکترولیت هیدروژل کامپوزیتی PVA با چقرمگی بالا برای باتری‌های آبی روی-یون پایدار ساخته و مشخصه‌یابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hydrogel electrolyte · polyvinyl alcohol · zinc-ion battery · toughness · aqueous electrolyte</description>
-<category>hydrogel electrolyte</category>
-<category>polyvinyl alcohol</category>
-<category>zinc-ion battery</category>
-<category>toughness</category>
-<category>aqueous electrolyte</category>
-</item>
-<item>
-<title>Robust fault diagnosis for lithium-ion batteries under dynamic operating conditions via objective feature weighting and calibrated dual-stream evidence fusion</title>
-<link>https://doi.org/10.1016/j.est.2026.125614</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125614</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:18 GMT</pubDate>
-<description>روشی مبتنی بر وزن‌دهی ویژگی و ادغام شواهد دو جریانه برای تشخیص مقاوم خطا در باتری‌های لیتیوم-یونی تحت شرایط عملیاتی دینامیکی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 fault diagnosis · lithium-ion battery · feature weighting · evidence fusion · dynamic conditions</description>
-<category>fault diagnosis</category>
-<category>lithium-ion battery</category>
-<category>feature weighting</category>
-<category>evidence fusion</category>
-<category>dynamic conditions</category>
-</item>
-<item>
-<title>NiS2/WO3 heterostructure electrocatalyst for high-performance zinc‑iodine redox flow battery</title>
-<link>https://doi.org/10.1016/j.est.2026.125712</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125712</guid>
-<pubDate>Thu, 19 Nov 2026 12:02:14 GMT</pubDate>
-<description>هترواستروکتور NiS2/WO3 به‌عنوان الکتروکاتالیزور، عملکرد باتری جریان ردوکس روی-ید را به‌طور چشمگیری بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-iodine battery · redox flow battery · NiS2/WO3 · heterostructure · electrocatalyst</description>
-<category>zinc-iodine battery</category>
-<category>redox flow battery</category>
-<category>NiS2/WO3</category>
-<category>heterostructure</category>
-<category>electrocatalyst</category>
 </item>
 </channel>
 </rss>
