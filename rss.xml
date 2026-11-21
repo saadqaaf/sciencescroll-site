@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 04:03:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 05:01:04 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Proximity-Triggered DNA Self-Assembly for Selective Regulation of Membrane Receptors on Living Cells</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04530</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04530</guid>
+<pubDate>Sat, 21 Nov 2026 05:01:02 GMT</pubDate>
+<description>استراتژی خودآرایی DNA مبتنی بر مجاورت با آپتامرهای EpCAM و c-Met، گیرنده c-Met را در سلول‌های سرطانی برای تخریب هدفمند هدایت کرده و مهاجرت سلولی را کاهش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 DNA self-assembly · membrane receptor · c-Met degradation · aptamer · cancer cells</description>
+<category>DNA self-assembly</category>
+<category>membrane receptor</category>
+<category>c-Met degradation</category>
+<category>aptamer</category>
+<category>cancer cells</category>
+</item>
 <item>
 <title>Durable aqueous polysulfide/bromine redox flow battery with earth-abundant nickel-sulfide electrocatalyst</title>
 <link>https://doi.org/10.1016/j.est.2026.125720</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 symmetry breaking · char
 <category>cathode oxygen instability</category>
 <category>cell degradation</category>
 <category>near-ambient temperature</category>
-</item>
-<item>
-<title>A Dual-Mode Tactile Sensor Enabling Low-Channel Artificial Touch for Precise Pressure Quantification and Position Mapping</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112636</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112636</guid>
-<pubDate>Sat, 21 Nov 2026 02:01:56 GMT</pubDate>
-<description>این مقاله یک حسگر لمسی دوحالته با کانال کم برای اندازه‌گیری دقیق فشار و نقشه‌برداری موقعیت در لمس مصنوعی معرفی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 tactile sensor · dual-mode sensing · pressure quantification · position mapping · artificial touch</description>
-<category>tactile sensor</category>
-<category>dual-mode sensing</category>
-<category>pressure quantification</category>
-<category>position mapping</category>
-<category>artificial touch</category>
 </item>
 </channel>
 </rss>
