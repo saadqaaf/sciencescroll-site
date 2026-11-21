@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 05:01:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:02:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Promoting Dopant Incorporation by Joule Heating: Multimetal-Substituted NASICON Cathode Enables Enhanced Na+ Storage across a Wide Potential Window</title>
+<link>https://doi.org/10.1039/d6ta07241k</link>
+<guid isPermaLink="false">10.1039/d6ta07241k</guid>
+<pubDate>Sat, 21 Nov 2026 06:01:15 GMT</pubDate>
+<description>با استفاده از گرمایش ژول برای دوپه‌سازی چندفلزی، کاتد NASICON اصلاح‌شده با ذخیره‌سازی Na+ بهبودیافته در پنجره پتانسیل وسیع ارائه می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using Joule heating to drive multimetal dopant incorporation into NASICON Na3V2(PO4)3, overcoming elemental segregation typical of conventional calcination. This yields a multimetal-substituted cathode with improved electronic conductivity and structural robustness, enabling enhanced Na+ storage across a wide potential window—signifying a scalable doping strategy for high-performance sodium-ion battery cathodes.&lt;br&gt;🏷 NASICON cathode · sodium-ion battery · Joule heating · multimetal doping · Na+ storage</description>
+<category>NASICON cathode</category>
+<category>sodium-ion battery</category>
+<category>Joule heating</category>
+<category>multimetal doping</category>
+<category>Na+ storage</category>
+</item>
 <item>
 <title>Durable aqueous polysulfide/bromine redox flow battery with earth-abundant nickel-sulfide electrocatalyst</title>
 <link>https://doi.org/10.1016/j.est.2026.125720</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>polyfunctional auxiliaries</category>
 <category>electrode additives</category>
 <category>battery hosts</category>
-</item>
-<item>
-<title>Research on the preparation and application of multifunctional P-doped compounds in lithium–sulfur batteries</title>
-<link>https://doi.org/10.1039/d6ta06590b</link>
-<guid isPermaLink="false">10.1039/d6ta06590b</guid>
-<pubDate>Thu, 19 Nov 2026 14:01:33 GMT</pubDate>
-<description>این مرور به ترکیبات دوپ‌شده با فسفر در باتری‌های لیتیوم-گوگرد برای مهار شاتل، تسریع سینتیک ردوکس و بهبود کاتد و جداکننده می‌پردازد.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates phosphorus-doped compounds as multifunctional mediators in lithium–sulfur batteries, integrating shuttle suppression, accelerated redox kinetics, enhanced conductivity, and dendrite inhibition across cathodes and separators. Its significance lies in bridging doping chemistry with full-cell performance, offering a design framework for high-energy, durable Li–S systems and guiding future multifunctional material development.&lt;br&gt;🏷 lithium-sulfur battery · phosphorus doping · shuttle effect · redox kinetics · separator modification</description>
-<category>lithium-sulfur battery</category>
-<category>phosphorus doping</category>
-<category>shuttle effect</category>
-<category>redox kinetics</category>
-<category>separator modification</category>
 </item>
 </channel>
 </rss>
