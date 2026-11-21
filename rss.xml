@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 06:02:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A two-platform blueprint for modeling human brain development</title>
+<link>https://doi.org/10.1038/s41592-026-03327-z</link>
+<guid isPermaLink="false">10.1038/s41592-026-03327-z</guid>
+<pubDate>Sat, 21 Nov 2026 07:01:15 GMT</pubDate>
+<description>این مقاله یک نقشه راه دو-سکویی برای مدل‌سازی رشد مغز انسان ارائه می‌دهد و چگونگی ترکیب سکوها برای بازآفرینی دقیق‌تر تکوین عصبی را ترسیم می‌کند.&lt;br&gt;Nature Methods | 💭 Perspective&lt;br&gt;🏷 brain development · human organoids · modeling blueprint · neural development · two-platform model</description>
+<category>brain development</category>
+<category>human organoids</category>
+<category>modeling blueprint</category>
+<category>neural development</category>
+<category>two-platform model</category>
+</item>
+<item>
+<title>Computational methods for cell–cell communication via single cells</title>
+<link>https://doi.org/10.1038/s41592-026-03287-4</link>
+<guid isPermaLink="false">10.1038/s41592-026-03287-4</guid>
+<pubDate>Sat, 21 Nov 2026 07:01:12 GMT</pubDate>
+<description>این مقاله روش‌های محاسباتی تحلیل ارتباط سلول-سلول بر پایه داده‌های تک‌سلولی را مرور می‌کند و رویکردها و چالش‌های استنباط شبکه‌های پیام‌رسانی را بررسی می‌کند.&lt;br&gt;Nature Methods | ⭐ Review&lt;br&gt;🏷 cell-cell communication · single-cell RNA-seq · ligand-receptor · computational methods · cell signaling</description>
+<category>cell-cell communication</category>
+<category>single-cell RNA-seq</category>
+<category>ligand-receptor</category>
+<category>computational methods</category>
+<category>cell signaling</category>
+</item>
+<item>
+<title>Quantum analogue-to-digital converter for phase estimation</title>
+<link>https://doi.org/10.1038/s41566-026-02050-7</link>
+<guid isPermaLink="false">10.1038/s41566-026-02050-7</guid>
+<pubDate>Sat, 21 Nov 2026 07:01:08 GMT</pubDate>
+<description>این کار اولین پیاده‌سازی آزمایشگاهی مبدل آنالوگ به دیجیتال کوانتومی را برای تخمین فاز با مدار فوتونی بازپیکربندی‌پذیر و چشمه نقاط کوانتومی گزارش می‌کند که از راهبردهای کلاسیک پیشی می‌گیرد.&lt;br&gt;Nature Photonics | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 quantum metrology · phase estimation · analogue-to-digital converter · photonic integrated circuit · entangled photons</description>
+<category>quantum metrology</category>
+<category>phase estimation</category>
+<category>analogue-to-digital converter</category>
+<category>photonic integrated circuit</category>
+<category>entangled photons</category>
+</item>
+<item>
+<title>Reassessing the electrode corrosion issue in hydrogen production from low-grade water</title>
+<link>https://doi.org/10.1016/j.esci.2026.100674</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100674</guid>
+<pubDate>Sat, 21 Nov 2026 07:01:05 GMT</pubDate>
+<description>این مقاله مسئله خوردگی الکترود در تولید هیدروژن از آب با کیفیت پایین را بازبینی می‌کند و دیدگاه خود را درباره سازوکارها و راهبردهای کاهش آن ارائه می‌دهد.&lt;br&gt;eScience | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 electrode corrosion · hydrogen production · low-grade water · water electrolysis · electrocatalysis</description>
+<category>electrode corrosion</category>
+<category>hydrogen production</category>
+<category>low-grade water</category>
+<category>water electrolysis</category>
+<category>electrocatalysis</category>
+</item>
 <item>
 <title>CMOS surprises</title>
 <link>https://doi.org/10.1038/s41928-026-01748-4</link>
@@ -1160,54 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 symmetry breaking · char
 <category>paleoclimate</category>
 <category>Pacific Ocean</category>
 <category>Atlantic Ocean</category>
-</item>
-<item>
-<title>Laser ablation rapid evaporative ionisation mass spectrometry imaging with few-micrometer sampling pixels</title>
-<link>https://doi.org/10.1038/s41467-026-79489-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-79489-3</guid>
-<pubDate>Sat, 21 Nov 2026 02:02:59 GMT</pubDate>
-<description>با ترکیب ابلیشن لیزری پیکوثانیه کم‌شارت و REIMS، تصویربرداری طیف‌سنجی جرمی بدون ماتریس با پیکسل‌های ۳ میکرومتر و تفکیک زیرسلولی از متابولیت‌ها و فسفولیپیدها در بافت انجام شد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 mass spectrometry imaging · laser ablation · REIMS · sub-cellular resolution · metabolites</description>
-<category>mass spectrometry imaging</category>
-<category>laser ablation</category>
-<category>REIMS</category>
-<category>sub-cellular resolution</category>
-<category>metabolites</category>
-</item>
-<item>
-<title>Wafer-scale transferable hexagonal boron nitride membranes via interfacial engineering for multilevel storage</title>
-<link>https://doi.org/10.1038/s41467-026-79354-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-79354-3</guid>
-<pubDate>Sat, 21 Nov 2026 02:02:55 GMT</pubDate>
-<description>غشاهای h-BN در مقیاس ویفر با مهندسی سطح مشترک به‌صورت قابل‌انتقال ساخته شده و برای ذخیره‌سازی چندسطحی به کار می‌روند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using controlled sapphire nitridation with a B–O buffer layer to grow wafer-scale, crack-free, thickness-controllable h-BN membranes that transfer damage-free. This enables memristors with 1.06 V set voltage, 1.57×10⁹ ON/OFF ratio, 30 ns switching, and multilevel stability, offering a scalable route for next-generation in-memory computing.&lt;br&gt;🏷 hexagonal boron nitride · membrane transfer · interfacial engineering · multilevel storage · wafer-scale</description>
-<category>hexagonal boron nitride</category>
-<category>membrane transfer</category>
-<category>interfacial engineering</category>
-<category>multilevel storage</category>
-<category>wafer-scale</category>
-</item>
-<item>
-<title>Highly elastic ceramic fibers with a high tensile fracture strain</title>
-<link>https://doi.org/10.1038/s41467-026-79542-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-79542-1</guid>
-<pubDate>Sat, 21 Nov 2026 02:02:46 GMT</pubDate>
-<description>الیاف سرامیکی بسیار کشسان با کرنش شکست کششی بالا ساخته شده‌اند که محدودیت شکنندگی معمول سرامیک‌ها را کنار می‌زند و کاربردهای انعطاف‌پذیر جدیدی ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ceramic fibers · tensile fracture strain · elasticity · fiber processing · microstructure</description>
-<category>ceramic fibers</category>
-<category>tensile fracture strain</category>
-<category>elasticity</category>
-<category>fiber processing</category>
-<category>microstructure</category>
-</item>
-<item>
-<title>Plankton ecological complexity amplifies climate-driven weakening of the ocean biological pump</title>
-<link>https://doi.org/10.1038/s41467-026-79817-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-79817-7</guid>
-<pubDate>Sat, 21 Nov 2026 02:02:42 GMT</pubDate>
-<description>پیچیدگی بوم‌شناختی پلانکتون‌ها تضعیف پمپ زیستی اقیانوس ناشی از تغییر اقلیم را تشدید می‌کند و نشان می‌دهد این اثر فراتر از پیش‌بینی‌های ساده است.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 biological pump · plankton ecology · climate change · ocean carbon · ecological complexity</description>
-<category>biological pump</category>
-<category>plankton ecology</category>
-<category>climate change</category>
-<category>ocean carbon</category>
-<category>ecological complexity</category>
 </item>
 </channel>
 </rss>
