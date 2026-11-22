@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 07:01:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 08:02:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Entropy‐Compensated Electrolyte Enables Low‐Temperature 400 Wh Kg −1 Silicon‐Based Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.8467989</link>
+<guid isPermaLink="false">10.1002/anie.8467989</guid>
+<pubDate>Sun, 22 Nov 2026 08:02:07 GMT</pubDate>
+<description>استراتژی جبران آنتروپی محلول‌پوشی، جفت‌شدگی یون را در دمای پایین سرکوب کرده و باتری لیتیوم-یونی سیلیکونی با انرژی ۴۰۰ Wh kg−1 و عملکرد پایدار در −۲۰°C را ممکن ساخت.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an entropy-compensation strategy that raises solvation entropy to counteract low-temperature ion pairing, forming smaller anion-rich clusters and tripling ionic conductivity at −20°C. Its significance: this thermodynamic descriptor (ΔS_solv) enables Si-anode Li-ion pouch cells achieving 400 Wh kg⁻¹, 339 Wh kg⁻¹ at low temperature, 97.8% capacity retention over 165 cycles at −20°C, and discharge at −81°C.&lt;br&gt;🏷 silicon anode · low-temperature electrolyte · solvation entropy · lithium-ion battery · pouch cell</description>
+<category>silicon anode</category>
+<category>low-temperature electrolyte</category>
+<category>solvation entropy</category>
+<category>lithium-ion battery</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>Solid-state lithium batteries: Challenges and perspectives</title>
 <link>https://doi.org/10.1016/j.esci.2026.100675</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>NCM811</category>
 <category>high-voltage battery</category>
 <category>dual-coordination</category>
-</item>
-<item>
-<title>Bidirectional state-of-power prediction and execution for series battery packs via a custom integrated circuit</title>
-<link>https://doi.org/10.1016/j.est.2026.125447</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125447</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:27 GMT</pubDate>
-<description>پیش‌بینی و اجرای دوسویه توان حالت برای بسته‌های باتری سری با یک مدار مجتمع اختصاصی ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of power · battery pack · integrated circuit · series battery · prediction</description>
-<category>state of power</category>
-<category>battery pack</category>
-<category>integrated circuit</category>
-<category>series battery</category>
-<category>prediction</category>
 </item>
 </channel>
 </rss>
