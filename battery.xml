@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 16:01:17 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 17:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Functionalized Interface Engineering of Cellulose-Based Electrolytes for Safety and Long-Life Li–Metal Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02642</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02642</guid>
+<pubDate>Sun, 22 Nov 2026 17:01:19 GMT</pubDate>
+<description>اصلاح دوگانه‌ی سلولز با گروه‌های فیتیک و سولفات در الکترولیت جامد، رسانایی یونی بالا و خودخاموش‌شوندگی را برای باتری‌های لیتیوم-فلزی ایمن و دیرپا فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-functionalization strategy grafting phytic (flame-retardant) and sulfate (fast Li-ion conducting) groups onto cellulose via a ternary deep eutectic solvent. This yields a safe, flexible solid electrolyte with high conductivity (1.48×10⁻³ S cm⁻¹), 5.2 V oxidation stability, self-extinguishing behavior, and long cycling (542/409 cycles), advancing eco-friendly cellulose electrolytes for next-generation Li-metal batteries.&lt;br&gt;🏷 cellulose electrolyte · Li-metal battery · flame retardancy · deep eutectic solvent · solid-state electrolyte</description>
+<category>cellulose electrolyte</category>
+<category>Li-metal battery</category>
+<category>flame retardancy</category>
+<category>deep eutectic solvent</category>
+<category>solid-state electrolyte</category>
+</item>
 <item>
 <title>ReaxFF-Enabled Atomistic Insights into Electrode/Electrolyte Interphase Evolution on Magnesium Metal Anodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105676</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>anion chemistry</category>
 <category>solid electrolyte interphase</category>
 <category>interface design</category>
-</item>
-<item>
-<title>Responding to potential recovery crises: Recycling, pricing decisions and coordination for electric vehicle battery closed-loop supply chain</title>
-<link>https://doi.org/10.1016/j.est.2026.125598</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125598</guid>
-<pubDate>Fri, 20 Nov 2026 08:03:02 GMT</pubDate>
-<description>بازیابی بحران‌های احتمالی در زنجیره تأمین حلقه‌بسته باتری خودروهای برقی از طریق بازیافت، تصمیم‌های قیمت‌گذاری و هماهنگی زنجیره تأمین بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery recycling · closed-loop supply chain · pricing decisions · supply chain coordination · electric vehicles</description>
-<category>battery recycling</category>
-<category>closed-loop supply chain</category>
-<category>pricing decisions</category>
-<category>supply chain coordination</category>
-<category>electric vehicles</category>
 </item>
 </channel>
 </rss>

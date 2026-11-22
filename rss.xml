@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 16:01:17 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 17:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mitigating the Optical-Electrical Trade-Off in Sb2S3 Solar Cells with a Buried Li-Modified ZnO Interlayer</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03074</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03074</guid>
+<pubDate>Sun, 22 Nov 2026 17:01:23 GMT</pubDate>
+<description>لایه‌ی میانی ZnO اصلاح‌شده با Li در فصل مشترک مدفون، مبادله‌ی نوری-الکتریکی را در سلول‌های خورشیدی Sb2S3 کاهش داده و بازده ۸.۱۰٪ و IQE برابر ۹۴٪ را به دست می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 Sb2S3 solar cell · ZnO interlayer · CdS buffer layer · interface engineering · Li modification</description>
+<category>Sb2S3 solar cell</category>
+<category>ZnO interlayer</category>
+<category>CdS buffer layer</category>
+<category>interface engineering</category>
+<category>Li modification</category>
+</item>
+<item>
+<title>Functionalized Interface Engineering of Cellulose-Based Electrolytes for Safety and Long-Life Li–Metal Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02642</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02642</guid>
+<pubDate>Sun, 22 Nov 2026 17:01:19 GMT</pubDate>
+<description>اصلاح دوگانه‌ی سلولز با گروه‌های فیتیک و سولفات در الکترولیت جامد، رسانایی یونی بالا و خودخاموش‌شوندگی را برای باتری‌های لیتیوم-فلزی ایمن و دیرپا فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-functionalization strategy grafting phytic (flame-retardant) and sulfate (fast Li-ion conducting) groups onto cellulose via a ternary deep eutectic solvent. This yields a safe, flexible solid electrolyte with high conductivity (1.48×10⁻³ S cm⁻¹), 5.2 V oxidation stability, self-extinguishing behavior, and long cycling (542/409 cycles), advancing eco-friendly cellulose electrolytes for next-generation Li-metal batteries.&lt;br&gt;🏷 cellulose electrolyte · Li-metal battery · flame retardancy · deep eutectic solvent · solid-state electrolyte</description>
+<category>cellulose electrolyte</category>
+<category>Li-metal battery</category>
+<category>flame retardancy</category>
+<category>deep eutectic solvent</category>
+<category>solid-state electrolyte</category>
+</item>
 <item>
 <title>ReaxFF-Enabled Atomistic Insights into Electrode/Electrolyte Interphase Evolution on Magnesium Metal Anodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105676</link>
@@ -1193,30 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>H2O2 photosynthesis</category>
 <category>red light</category>
 <category>biomass upgrading</category>
-</item>
-<item>
-<title>Covalent Organic Framework‐Templated Spatial Confinement of Self‐Assembled Monolayers for High‐Performance Perovskite Solar Cells</title>
-<link>https://doi.org/10.1002/anie.4657618</link>
-<guid isPermaLink="false">10.1002/anie.4657618</guid>
-<pubDate>Sat, 21 Nov 2026 22:02:52 GMT</pubDate>
-<description>قید فضایی SAM با قالب COF-TPACz پوشش و نظم لایه انتقال حفره را بهبود داده و بازده سلول خورشیدی پروسکایتی را به ۲۷.۰۳٪ می‌رساند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 perovskite solar cells · self-assembled monolayers · covalent organic framework · buried interface · hole transport</description>
-<category>perovskite solar cells</category>
-<category>self-assembled monolayers</category>
-<category>covalent organic framework</category>
-<category>buried interface</category>
-<category>hole transport</category>
-</item>
-<item>
-<title>Selective Oxidation of Toluene to Benzaldehyde Driven by Electroreduction of Oxygen to Hydrogen Peroxide Coupled With In Situ Electro‐Fenton Reaction</title>
-<link>https://doi.org/10.1002/anie.1330012</link>
-<guid isPermaLink="false">10.1002/anie.1330012</guid>
-<pubDate>Sat, 21 Nov 2026 22:02:49 GMT</pubDate>
-<description>کاتالیزور Co-NC با کوپل احیای الکتروشیمیایی O2 به H2O2 و واکنش الکترو-فنتون درجا، اکسیداسیون انتخابی تولوئن به بنزآلدهید با گزینش‌پذیری ۹۰.۶۳٪ را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 toluene oxidation · benzaldehyde · electro-Fenton · H2O2 electrosynthesis · single-atom catalyst</description>
-<category>toluene oxidation</category>
-<category>benzaldehyde</category>
-<category>electro-Fenton</category>
-<category>H2O2 electrosynthesis</category>
-<category>single-atom catalyst</category>
 </item>
 </channel>
 </rss>
