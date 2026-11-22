@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 15:01:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 16:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ReaxFF-Enabled Atomistic Insights into Electrode/Electrolyte Interphase Evolution on Magnesium Metal Anodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105676</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105676</guid>
+<pubDate>Sun, 22 Nov 2026 16:01:15 GMT</pubDate>
+<description>این مطالعه با شبیه‌سازی ReaxFF، تحول فاز بین‌سطحی الکترود/الکترولیت روی آند فلزی منیزیم را در سطح اتمی بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 magnesium metal anode · ReaxFF simulation · solid electrolyte interphase · electrode/electrolyte interface · atomistic modeling</description>
+<category>magnesium metal anode</category>
+<category>ReaxFF simulation</category>
+<category>solid electrolyte interphase</category>
+<category>electrode/electrolyte interface</category>
+<category>atomistic modeling</category>
+</item>
+<item>
+<title>State-of-charge-dependent intercalation kinetics in NMC622 revealed by nonlinear frequency response analysis</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105654</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105654</guid>
+<pubDate>Sun, 22 Nov 2026 16:01:10 GMT</pubDate>
+<description>این مقاله با روش تحلیل پاسخ فرکانسی غیرخطی، وابستگی سینتیک درج‌یابی یون لیتیوم به حالت شارژ را در کاتد NMC622 بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 NMC622 cathode · intercalation kinetics · nonlinear frequency response · state of charge · lithium-ion battery</description>
+<category>NMC622 cathode</category>
+<category>intercalation kinetics</category>
+<category>nonlinear frequency response</category>
+<category>state of charge</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Decoding the Synergistic Desolvation Mechanism of Ultramicropore Confinement and Heteroatom Chemistry in N/O Co-Doped Porous Carbon Cathodes for High-Performance Aqueous Zinc-Ion Hybrid Capacitors</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122346</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>pricing decisions</category>
 <category>supply chain coordination</category>
 <category>electric vehicles</category>
-</item>
-<item>
-<title>Adaptive differentiable model predictive control-embedded Actor-Critic learning framework for energy management of electric vehicles with hybrid energy storage systems</title>
-<link>https://doi.org/10.1016/j.est.2026.125665</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125665</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:57 GMT</pubDate>
-<description>یک چارچوب یادگیری Actor-Critic با کنترل پیش‌بین مدل مشتق‌پذیر برای مدیریت انرژی خودروهای برقی مجهز به سیستم‌های ذخیره انرژی هیبریدی ارائه و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 hybrid energy storage · model predictive control · Actor-Critic learning · energy management · electric vehicles</description>
-<category>hybrid energy storage</category>
-<category>model predictive control</category>
-<category>Actor-Critic learning</category>
-<category>energy management</category>
-<category>electric vehicles</category>
-</item>
-<item>
-<title>Ethylene carbonate assisted ion transport in calcium nitrate doped methylcellulose based polymer electrolytes for energy storage applications</title>
-<link>https://doi.org/10.1016/j.est.2026.125893</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125893</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:53 GMT</pubDate>
-<description>الکترولیت پلیمری بر پایه متیل‌سلولز دوپ‌شده با نیترات کلسیم و اتیلن کربنات ساخته و نقش اتیلن کربنات در بهبود انتقال یون برای کاربردهای ذخیره انرژی بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 polymer electrolyte · methylcellulose · calcium nitrate · ethylene carbonate · ion transport</description>
-<category>polymer electrolyte</category>
-<category>methylcellulose</category>
-<category>calcium nitrate</category>
-<category>ethylene carbonate</category>
-<category>ion transport</category>
 </item>
 </channel>
 </rss>
