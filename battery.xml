@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 17:01:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 18:01:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Carbonization-Pathway-Directed Structural Bifurcation Enables Fast and Dense Na Storage in Hard Carbons</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112640</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112640</guid>
+<pubDate>Sun, 22 Nov 2026 18:01:11 GMT</pubDate>
+<description>مسیر کربن‌سازی ساختار hard carbon را دوشاخه می‌کند و ذخیره‌سازی سریع و چگال Na را در آند باتری سدیم‌یون ممکن می‌سازد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium storage · carbonization pathway · structural bifurcation · anode</description>
+<category>hard carbon</category>
+<category>sodium storage</category>
+<category>carbonization pathway</category>
+<category>structural bifurcation</category>
+<category>anode</category>
+</item>
 <item>
 <title>Functionalized Interface Engineering of Cellulose-Based Electrolytes for Safety and Long-Life Li–Metal Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02642</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>graphene heterostructure</category>
 <category>fluorine termination</category>
 <category>vacancy ordering</category>
-</item>
-<item>
-<title>Plasma-driven anion chemistry for lithium-battery interfaces: from reactive species to interface design</title>
-<link>https://doi.org/10.1039/d6ta08273d</link>
-<guid isPermaLink="false">10.1039/d6ta08273d</guid>
-<pubDate>Fri, 20 Nov 2026 10:01:24 GMT</pubDate>
-<description>این مرور، شیمی آنیونی مبتنی بر پلاسما را برای طراحی و مهندسی رابط‌های باتری لیتیومی از گونه‌های واکنش‌پذیر تا ساختار فصل مشترک بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in using plasma to generate reactive anion species that precisely tailor lithium-battery interfaces, moving beyond conventional material modification. This plasma-driven anion chemistry links reactive species to rational interface design, enabling controlled interfacial reactions and balanced transport—significant for overcoming cycle-life and safety limits of high-energy-density lithium batteries.&lt;br&gt;🏷 lithium battery interfaces · plasma treatment · anion chemistry · solid electrolyte interphase · interface design</description>
-<category>lithium battery interfaces</category>
-<category>plasma treatment</category>
-<category>anion chemistry</category>
-<category>solid electrolyte interphase</category>
-<category>interface design</category>
 </item>
 </channel>
 </rss>
