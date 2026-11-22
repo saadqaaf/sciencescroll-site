@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 22:00:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Materials-state-driven reconstruction of spent lithium-ion batteries: Mechanisms, boundaries, and decision frameworks</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101895</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101895</guid>
+<pubDate>Sun, 22 Nov 2026 23:01:06 GMT</pubDate>
+<description>این مقاله چارچوب‌ها و سازوکارهای بازسازی باتری‌های لیتیوم-یونی مستعمل را بر اساس وضعیت مواد و مرزهای آن بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 spent lithium-ion batteries · recycling · materials-state reconstruction · decision framework · battery regeneration</description>
+<category>spent lithium-ion batteries</category>
+<category>recycling</category>
+<category>materials-state reconstruction</category>
+<category>decision framework</category>
+<category>battery regeneration</category>
+</item>
 <item>
 <title>A physics-based reduced-order model for battery voltage and state of charge prediction</title>
 <link>https://doi.org/10.1016/j.est.2026.125768</link>
@@ -1199,20 +1211,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>coordination polymer</category>
 <category>solid electrolyte interphase</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Cathode Surface Reconfiguration via Solvent Chemistry for Durable All-Solid-State Lithium Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c19016</link>
-<guid isPermaLink="false">10.1021/jacs.6c19016</guid>
-<pubDate>Fri, 20 Nov 2026 16:01:46 GMT</pubDate>
-<description>این مقاله با بازآرایی شیمیایی سطح کاتد از طریق شیمی حلال، شبکه انتقال Li+ پیوسته‌ای ایجاد می‌کند و پایداری و نرخ انتقال را در باتری‌های لیتیوم تمام‌جامد بهبود می‌دهد.&lt;br&gt;Journal of
-the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a solvation-mediated chemical etching mechanism that reconfigures cathode surfaces via competition between solvent coordination and lattice stabilization, creating a continuous 3D Li+ transport network rather than passive physical isolation. This significantly enhances Li+ diffusion (90-fold), lowers charge-transfer resistance, and enables 80.3% capacity retention over 2800 cycles, offering a scalable strategy for durable all-solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · cathode surface reconfiguration · solvent chemistry · Li+ transport · Li-rich cathode</description>
-<category>all-solid-state battery</category>
-<category>cathode surface reconfiguration</category>
-<category>solvent chemistry</category>
-<category>Li+ transport</category>
-<category>Li-rich cathode</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 22:00:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Materials-state-driven reconstruction of spent lithium-ion batteries: Mechanisms, boundaries, and decision frameworks</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101895</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101895</guid>
+<pubDate>Sun, 22 Nov 2026 23:01:06 GMT</pubDate>
+<description>این مقاله چارچوب‌ها و سازوکارهای بازسازی باتری‌های لیتیوم-یونی مستعمل را بر اساس وضعیت مواد و مرزهای آن بررسی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 spent lithium-ion batteries · recycling · materials-state reconstruction · decision framework · battery regeneration</description>
+<category>spent lithium-ion batteries</category>
+<category>recycling</category>
+<category>materials-state reconstruction</category>
+<category>decision framework</category>
+<category>battery regeneration</category>
+</item>
 <item>
 <title>Enhancing the performance of self-supported electrodes in supercapacitor applications</title>
 <link>https://doi.org/10.1016/j.est.2026.125843</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>quasi-solid-state reaction</category>
 <category>cosolvent solvation</category>
 <category>lean electrolyte</category>
-</item>
-<item>
-<title>Correlating Spin and Optical Properties of Quantum Emitters in hBN</title>
-<link>https://doi.org/10.1021/acsnano.6c14413</link>
-<guid isPermaLink="false">10.1021/acsnano.6c14413</guid>
-<pubDate>Sat, 21 Nov 2026 22:04:13 GMT</pubDate>
-<description>در hBN دوپ‌شده با کربن، بازده 14% امیترهای فعال ODMR به‌دست آمده و پارامتر شکافت میدان صفر با خط فونون صفر همبستگی مستقیم نشان می‌دهد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 hexagonal boron nitride · quantum emitters · ODMR · spin defects · zero-field splitting</description>
-<category>hexagonal boron nitride</category>
-<category>quantum emitters</category>
-<category>ODMR</category>
-<category>spin defects</category>
-<category>zero-field splitting</category>
 </item>
 </channel>
 </rss>
