@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 02:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 03:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Solid-state lithium batteries: Challenges and perspectives</title>
+<link>https://doi.org/10.1016/j.esci.2026.100675</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100675</guid>
+<pubDate>Sun, 22 Nov 2026 03:01:05 GMT</pubDate>
+<description>این مقاله چالش‌ها و چشم‌اندازهای باتری‌های لیتیومی حالت جامد را بررسی می‌کند و بر مسائل الکترولیت جامد، مقاومت سطح مشترک و رشد دندریت تمرکز دارد.&lt;br&gt;eScience | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 solid-state lithium battery · solid electrolyte · interfaces · ionic conductivity · dendrite growth</description>
+<category>solid-state lithium battery</category>
+<category>solid electrolyte</category>
+<category>interfaces</category>
+<category>ionic conductivity</category>
+<category>dendrite growth</category>
+</item>
 <item>
 <title>Using embedded multi-walled carbon nanotube networks for damage sensing in nanocomposite polymer-bonded energetic materials subject to compression–compression cyclic loading</title>
 <link>https://doi.org/10.1016/j.compositesb.2026.114364</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>anode material</category>
 <category>ion diffusion</category>
 <category>DFT</category>
-</item>
-<item>
-<title>Sustainable water-processable chitosan binder for graphite anodes in lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125757</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125757</guid>
-<pubDate>Sat, 21 Nov 2026 14:01:47 GMT</pubDate>
-<description>این مقاله یک بایندر کیتوسان قابل‌فرآوری در آب را برای آندهای گرافیتی باتری لیتیوم-یون معرفی می‌کند و پایداری و عملکرد الکتروشیمیایی آن را ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 chitosan binder · graphite anode · lithium-ion battery · water-processable · sustainable electrode</description>
-<category>chitosan binder</category>
-<category>graphite anode</category>
-<category>lithium-ion battery</category>
-<category>water-processable</category>
-<category>sustainable electrode</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 02:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 03:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Solid-state lithium batteries: Challenges and perspectives</title>
+<link>https://doi.org/10.1016/j.esci.2026.100675</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100675</guid>
+<pubDate>Sun, 22 Nov 2026 03:01:05 GMT</pubDate>
+<description>این مقاله چالش‌ها و چشم‌اندازهای باتری‌های لیتیومی حالت جامد را بررسی می‌کند و بر مسائل الکترولیت جامد، مقاومت سطح مشترک و رشد دندریت تمرکز دارد.&lt;br&gt;eScience | 💭 Perspective | 🔓 Open Access&lt;br&gt;🏷 solid-state lithium battery · solid electrolyte · interfaces · ionic conductivity · dendrite growth</description>
+<category>solid-state lithium battery</category>
+<category>solid electrolyte</category>
+<category>interfaces</category>
+<category>ionic conductivity</category>
+<category>dendrite growth</category>
+</item>
 <item>
 <title>Entropy-engineered polar heterogeneity enables near-decoupled polarization–strain behavior for high-density energy storage</title>
 <link>https://doi.org/10.1038/s41467-026-79625-z</link>
@@ -1201,18 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>integrated circuit</category>
 <category>series battery</category>
 <category>prediction</category>
-</item>
-<item>
-<title>Homogenizing charge distribution in dry-processed thick electrodes for enhanced cycling stability</title>
-<link>https://doi.org/10.1016/j.est.2026.125783</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125783</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:22 GMT</pubDate>
-<description>همگن‌سازی توزیع بار در الکترودهای ضخیم تولید خشک، پایداری چرخه‌ای باتری لیتیوم-یونی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 dry-processed electrode · thick electrode · charge distribution · cycling stability · lithium-ion battery</description>
-<category>dry-processed electrode</category>
-<category>thick electrode</category>
-<category>charge distribution</category>
-<category>cycling stability</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
