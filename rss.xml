@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 04:00:59 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 05:01:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Multifunctional π-conjugated viologens: An account of recent progress from molecular engineering to materials performances</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218802</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218802</guid>
+<pubDate>Sun, 22 Nov 2026 05:01:03 GMT</pubDate>
+<description>این مقاله مروری، پیشرفت‌های اخیر در مهندسی مولکولی ویولوژن‌های π-مزدوج و تأثیر آن بر خواص و عملکرد مواد حاصل را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 viologen · π-conjugated materials · molecular engineering · redox-active materials · structure-property relationship</description>
+<category>viologen</category>
+<category>π-conjugated materials</category>
+<category>molecular engineering</category>
+<category>redox-active materials</category>
+<category>structure-property relationship</category>
+</item>
 <item>
 <title>Solid-state lithium batteries: Challenges and perspectives</title>
 <link>https://doi.org/10.1016/j.esci.2026.100675</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>heat transfer enhancement</category>
 <category>solid storage system</category>
 <category>multi-strategy</category>
-</item>
-<item>
-<title>Empowering lithium-ion batteries: High-capacity storage and rapid diffusion in Janus ZrSSe monolayer</title>
-<link>https://doi.org/10.1016/j.est.2026.125839</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125839</guid>
-<pubDate>Sat, 21 Nov 2026 14:01:52 GMT</pubDate>
-<description>این مطالعه با محاسبات DFT نشان می‌دهد که مونولایه Janus ZrSSe ظرفیت ذخیره‌سازی بالایی برای یون لیتیوم دارد و انتشار یون در آن سریع است و آن را به گزینه‌ای مناسب برای آند باتری لیتیوم-یون تبدیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Janus ZrSSe monolayer · lithium-ion battery · anode material · ion diffusion · DFT</description>
-<category>Janus ZrSSe monolayer</category>
-<category>lithium-ion battery</category>
-<category>anode material</category>
-<category>ion diffusion</category>
-<category>DFT</category>
 </item>
 </channel>
 </rss>
