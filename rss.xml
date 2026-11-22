@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 06:00:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 07:01:01 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Metal–ligand coordination–driven interfacial assembly and colloidal synthesis in conducting polymer systems: a framework for bioresponsive coatings</title>
+<link>https://doi.org/10.1016/j.cis.2026.104090</link>
+<guid isPermaLink="false">10.1016/j.cis.2026.104090</guid>
+<pubDate>Sun, 22 Nov 2026 07:00:59 GMT</pubDate>
+<description>این مقاله چارچوبی برای سنتز کلوئیدی و خودآرایی بین‌سطحی در پلیمرهای رسانا بر پایه هماهنگی فلز-لیگاند ارائه می‌دهد که برای پوشش‌های زیست‌پاسخگو کاربرد دارد.&lt;br&gt;Advances in Colloid and Interface Science | ⭐ Review&lt;br&gt;🏷 conducting polymer · metal-ligand coordination · interfacial assembly · colloidal synthesis · bioresponsive coatings</description>
+<category>conducting polymer</category>
+<category>metal-ligand coordination</category>
+<category>interfacial assembly</category>
+<category>colloidal synthesis</category>
+<category>bioresponsive coatings</category>
+</item>
 <item>
 <title>Multifunctional π-conjugated viologens: An account of recent progress from molecular engineering to materials performances</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218802</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>OCV reconstruction</category>
 <category>physics-consistent correction</category>
 <category>battery management</category>
-</item>
-<item>
-<title>Multi-strategy heat transfer enhancement of a solid-based composite particle thermal energy storage system</title>
-<link>https://doi.org/10.1016/j.est.2026.125664</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125664</guid>
-<pubDate>Sat, 21 Nov 2026 14:01:56 GMT</pubDate>
-<description>این مقاله با به‌کارگیری چند راهبرد هم‌زمان، انتقال حرارت را در یک سیستم ذخیره‌سازی انرژی حرارتی مبتنی بر ذرات جامد کامپوزیتی بهبود می‌بخشد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal energy storage · composite particles · heat transfer enhancement · solid storage system · multi-strategy</description>
-<category>thermal energy storage</category>
-<category>composite particles</category>
-<category>heat transfer enhancement</category>
-<category>solid storage system</category>
-<category>multi-strategy</category>
 </item>
 </channel>
 </rss>
