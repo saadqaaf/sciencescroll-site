@@ -5,8 +5,140 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 19:00:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 20:02:22 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A physics-based reduced-order model for battery voltage and state of charge prediction</title>
+<link>https://doi.org/10.1016/j.est.2026.125768</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125768</guid>
+<pubDate>Sun, 22 Nov 2026 20:02:15 GMT</pubDate>
+<description>این مقاله یک مدل کاهش‌یافته مبتنی بر فیزیک برای پیش‌بینی ولتاژ و حالت شارژ باتری ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 reduced-order model · battery voltage · state of charge · physics-based modeling · prediction</description>
+<category>reduced-order model</category>
+<category>battery voltage</category>
+<category>state of charge</category>
+<category>physics-based modeling</category>
+<category>prediction</category>
+</item>
+<item>
+<title>Evidence-gated evaluation of cross-dataset battery state-of-health transfer with a diagnostic state-of-charge proxy</title>
+<link>https://doi.org/10.1016/j.est.2026.125781</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125781</guid>
+<pubDate>Sun, 22 Nov 2026 20:02:09 GMT</pubDate>
+<description>این مقاله انتقال تخمین سلامت باتری میان مجموعه‌داده‌های مختلف را با یک شاخص جانشین حالت شارژ و ارزیابی مبتنی بر شواهد بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 state of health · cross-dataset transfer · state-of-charge proxy · evidence-gated evaluation · battery diagnostics</description>
+<category>state of health</category>
+<category>cross-dataset transfer</category>
+<category>state-of-charge proxy</category>
+<category>evidence-gated evaluation</category>
+<category>battery diagnostics</category>
+</item>
+<item>
+<title>Investigation and analysis of phase transformations in transition metal oxides and Lithium recovery via combined metallurgy of spent Lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125748</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125748</guid>
+<pubDate>Sun, 22 Nov 2026 20:02:05 GMT</pubDate>
+<description>این مقاله دگرگونی‌های فازی اکسیدهای فلزات واسطه و بازیابی لیتیوم از باتری‌های لیتیوم-یونی مستعمل را با روش متالورژی ترکیبی بررسی و تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 spent lithium-ion batteries · lithium recovery · transition metal oxides · phase transformations · combined metallurgy</description>
+<category>spent lithium-ion batteries</category>
+<category>lithium recovery</category>
+<category>transition metal oxides</category>
+<category>phase transformations</category>
+<category>combined metallurgy</category>
+</item>
+<item>
+<title>Radial gradient failure governs low-temperature degradation in commercial cylindrical sodium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125870</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125870</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:59 GMT</pubDate>
+<description>این مقاله نشان می‌دهد شکست گرادیانی شعاعی، عامل اصلی تخریب دمای پایین در باتری‌های تجاری استوانه‌ای سدیم-یون است.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · low-temperature degradation · cylindrical cell · failure mechanism · radial gradient</description>
+<category>sodium-ion battery</category>
+<category>low-temperature degradation</category>
+<category>cylindrical cell</category>
+<category>failure mechanism</category>
+<category>radial gradient</category>
+</item>
+<item>
+<title>Co@V-MOF-derived Co@V₂O₅ as a promising electrode material for high-performance asymmetric supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125910</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125910</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:55 GMT</pubDate>
+<description>مشتق Co@V₂O₅ از Co@V-MOF به‌عنوان ماده الکترودی امیدبخش برای ابرخازن‌های نامتقارن با عملکرد بالا معرفی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Co@V2O5 · V-MOF · asymmetric supercapacitor · electrode material · energy storage</description>
+<category>Co@V2O5</category>
+<category>V-MOF</category>
+<category>asymmetric supercapacitor</category>
+<category>electrode material</category>
+<category>energy storage</category>
+</item>
+<item>
+<title>A self-adaptive control strategy for battery thermal management system with cold plates</title>
+<link>https://doi.org/10.1016/j.est.2026.125794</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125794</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:49 GMT</pubDate>
+<description>یک استراتژی کنترل خودتطبیق برای سیستم مدیریت حرارتی باتری با صفحات سرد ارائه و ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · cold plate · self-adaptive control · temperature control · electric vehicle</description>
+<category>battery thermal management</category>
+<category>cold plate</category>
+<category>self-adaptive control</category>
+<category>temperature control</category>
+<category>electric vehicle</category>
+</item>
+<item>
+<title>Sulfur-doping-induced electronic density of states modulation for enhanced lithium storage in coal-based porous carbon anodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125798</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125798</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:45 GMT</pubDate>
+<description>دوپینگ گوگرد با تنظیم چگالی حالت‌های الکترونی، ذخیره‌سازی لیتیوم را در آندهای کربن متخلخل زغال‌پایه بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 coal-based carbon · sulfur doping · lithium storage · porous carbon anode · density of states</description>
+<category>coal-based carbon</category>
+<category>sulfur doping</category>
+<category>lithium storage</category>
+<category>porous carbon anode</category>
+<category>density of states</category>
+</item>
+<item>
+<title>Pangolin scales-inspired multilayer composites with gradient structures for superior energy storage performance</title>
+<link>https://doi.org/10.1016/j.est.2026.125764</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125764</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:40 GMT</pubDate>
+<description>کامپوزیت‌های چندلایه با ساختار گرادیانی الهام‌گرفته از فلس پانگولین با عملکرد ذخیره‌سازی انرژی برتر ساخته می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pangolin scales · multilayer composites · gradient structure · energy storage · biomimetic design</description>
+<category>pangolin scales</category>
+<category>multilayer composites</category>
+<category>gradient structure</category>
+<category>energy storage</category>
+<category>biomimetic design</category>
+</item>
+<item>
+<title>Two-stage interpretable framework for sustainable hydrochar-derived carbon electrodes in supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125887</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125887</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:36 GMT</pubDate>
+<description>یک چارچوب تفسیرپذیر دو مرحله‌ای برای طراحی پایدار الکترودهای کربنی مشتق از هیدروچار در ابرخازن‌ها ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hydrochar · carbon electrodes · supercapacitors · interpretable framework · machine learning</description>
+<category>hydrochar</category>
+<category>carbon electrodes</category>
+<category>supercapacitors</category>
+<category>interpretable framework</category>
+<category>machine learning</category>
+</item>
+<item>
+<title>Battery-health-informed energy management for electric bus depots with opportunity charging: Joint optimization of fast-charging strategy selection and charging-load scheduling</title>
+<link>https://doi.org/10.1016/j.est.2026.125784</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125784</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:31 GMT</pubDate>
+<description>این مقاله یک مدیریت انرژی مبتنی بر سلامت باتری برای دپوی اتوبوس برقی با شارژ فرصتی و بهینه‌سازی هم‌زمان استراتژی شارژ سریع و زمان‌بندی بار ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 electric bus depot · battery health · opportunity charging · charging scheduling · energy management</description>
+<category>electric bus depot</category>
+<category>battery health</category>
+<category>opportunity charging</category>
+<category>charging scheduling</category>
+<category>energy management</category>
+</item>
+<item>
+<title>Tailoring V2CTx MXene loading to enhance the electrochemical performance of V2O5 electrodes for high-energy aqueous zinc-ion hybrid supercapacitors</title>
+<link>https://doi.org/10.1016/j.est.2026.125879</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125879</guid>
+<pubDate>Sun, 22 Nov 2026 20:01:27 GMT</pubDate>
+<description>تنظیم مقدار بارگذاری V2CTx MXene عملکرد الکتروشیمیایی الکترود V2O5 را برای ابرخازن هیبریدی آبی روی-یون با انرژی بالا بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 V2CTx MXene · V2O5 electrode · zinc-ion supercapacitor · aqueous electrolyte · energy density</description>
+<category>V2CTx MXene</category>
+<category>V2O5 electrode</category>
+<category>zinc-ion supercapacitor</category>
+<category>aqueous electrolyte</category>
+<category>energy density</category>
+</item>
 <item>
 <title>Carbonization-Pathway-Directed Structural Bifurcation Enables Fast and Dense Na Storage in Hard Carbons</title>
 <link>https://doi.org/10.1016/j.nanoen.2026.112640</link>
@@ -1081,138 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>solvent chemistry</category>
 <category>Li+ transport</category>
 <category>Li-rich cathode</category>
-</item>
-<item>
-<title>Competitive Coordination of Solvent in Electrolyte to Stabilize Li-Rich Mn-Based Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02523</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02523</guid>
-<pubDate>Fri, 20 Nov 2026 15:01:19 GMT</pubDate>
-<description>این کار با طراحی الکترولیت کم‌غلظت مبتنی بر هماهنگی رقابتی حلال، پایداری باتری‌های Li||LRMO را در ولتاژ 4.8 V بهبود می‌دهد و پس از 450 چرخه 80.5% ظرفیت را حفظ می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in discovering competitive solvent coordination within the electrolyte solvation structure, enabling a low-concentration (0.5 M) binary fluorinated electrolyte (TFP/EDFA). This stabilizes Li-rich Mn-based layered oxide batteries, retaining 80.5% capacity after 450 cycles at 4.8 V. It offers a new molecular-level interfacial model and innovative electrolyte design strategy for high-voltage battery systems.&lt;br&gt;🏷 Li-rich Mn-based cathode · electrolyte solvation · competitive coordination · low-concentration electrolyte · lithium metal battery</description>
-<category>Li-rich Mn-based cathode</category>
-<category>electrolyte solvation</category>
-<category>competitive coordination</category>
-<category>low-concentration electrolyte</category>
-<category>lithium metal battery</category>
-</item>
-<item>
-<title>Modulating HOMO Location Boosting High-Voltage Stability of Fluorine-Free Ether Based Low-Concentration Electrolyte for 4.7 V Level Lithium Metal Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105674</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105674</guid>
-<pubDate>Fri, 20 Nov 2026 14:01:59 GMT</pubDate>
-<description>این مقاله با تنظیم موقعیت HOMO، پایداری ولتاژ بالای الکترولیت اتری بدون فلوئور و کم‌غلظت را برای باتری‌های لیتیوم-فلزی در سطح 4.7 V بهبود می‌بخشد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · low-concentration electrolyte · fluorine-free ether · HOMO modulation · high-voltage stability</description>
-<category>lithium metal battery</category>
-<category>low-concentration electrolyte</category>
-<category>fluorine-free ether</category>
-<category>HOMO modulation</category>
-<category>high-voltage stability</category>
-</item>
-<item>
-<title>Molecular Engineering of Redox Mediator for Accelerated Multi‐Electron Transfer Reactions in Lithium Batteries</title>
-<link>https://doi.org/10.1002/aenm.71838</link>
-<guid isPermaLink="false">10.1002/aenm.71838</guid>
-<pubDate>Fri, 20 Nov 2026 13:01:27 GMT</pubDate>
-<description>این مرور مهندسی مولکولی واسطه‌های ردوکس را برای تسریع واکنش‌های انتقال چندالکترونی در کاتد باتری‌های Li-S و Li-O2 از دیدگاه پتانسیل، حلالیت و پایداری بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely frames redox mediator molecular engineering—tuning redox potential, solubility, size, and stability—as a solution-mediated pathway to overcome sluggish multi-electron transfer in Li–S and Li–O₂ cathodes. It establishes key structure–activity relationships from thermodynamic and kinetic perspectives and proposes solid–liquid synergistic design with functionalized electrolytes/separators, offering systemic guidance beyond isolated liquid-phase catalysis.&lt;br&gt;🏷 redox mediator · lithium-sulfur battery · lithium-oxygen battery · molecular engineering · multi-electron transfer</description>
-<category>redox mediator</category>
-<category>lithium-sulfur battery</category>
-<category>lithium-oxygen battery</category>
-<category>molecular engineering</category>
-<category>multi-electron transfer</category>
-</item>
-<item>
-<title>Advances and Perspectives of Cobalt‐Free Li‐Rich Mn‐Based Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/aenm.71846</link>
-<guid isPermaLink="false">10.1002/aenm.71846</guid>
-<pubDate>Fri, 20 Nov 2026 13:01:22 GMT</pubDate>
-<description>این مرور پیشرفت‌های کاتدهای لایه‌ای اکسید منگنز غنی از لیتیوم بدون کبالت را بررسی و راهبردهای اصلاح ساختار، دوپینگ و پوشش سطحی را برای رفع چالش‌های پایداری جمع‌بندی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates recent advances in cobalt-free Li-rich Mn-based layered oxide cathodes, addressing a gap in existing literature. Its significance lies in systematically analyzing structural challenges, electrochemical mechanisms, and modification strategies (microstructure regulation, doping, coating), offering timely guidance for cost-effective, sustainable next-generation battery development.&lt;br&gt;🏷 cobalt-free cathode · Li-rich Mn oxide · layered oxide · doping · surface coating</description>
-<category>cobalt-free cathode</category>
-<category>Li-rich Mn oxide</category>
-<category>layered oxide</category>
-<category>doping</category>
-<category>surface coating</category>
-</item>
-<item>
-<title>Re‐Evaluating the Role of Water in Hexacyanoferrate Cathodes for Sodium and Potassium Ion Batteries</title>
-<link>https://doi.org/10.1002/aenm.71842</link>
-<guid isPermaLink="false">10.1002/aenm.71842</guid>
-<pubDate>Fri, 20 Nov 2026 13:01:16 GMT</pubDate>
-<description>این مرور نقش آب در کاتدهای هگزاسیانوفرات برای باتری‌های یون سدیم و پتاسیم را از ناخالصی ساختاری به جزء عملکردی بازتعریف می‌کند و راهبردهای تنظیم آن را بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review reframes water in hexacyanoferrate cathodes from a detrimental impurity to a functional component, distinguishing interstitial from coordinated water by binding strength, mobility, and reactivity. It unifies water&amp;#x27;s roles across crystal and electronic structure, ion transport, interfacial reactions, and performance, summarizes advanced characterization (notably neutron methods) and regulation strategies, and provides design guidance for high-performance sodium- and potassium-ion battery cathodes.&lt;br&gt;🏷 hexacyanoferrate cathode · sodium-ion battery · potassium-ion battery · water regulation · neutron characterization</description>
-<category>hexacyanoferrate cathode</category>
-<category>sodium-ion battery</category>
-<category>potassium-ion battery</category>
-<category>water regulation</category>
-<category>neutron characterization</category>
-</item>
-<item>
-<title>Trace‐Metal‐Assisted Flash Synthesis for Fast‐Charging Graphite Anodes</title>
-<link>https://doi.org/10.1002/adma.75785</link>
-<guid isPermaLink="false">10.1002/adma.75785</guid>
-<pubDate>Fri, 20 Nov 2026 12:02:25 GMT</pubDate>
-<description>فرآیند فلش با کمک فلز ناچیز، گرافیت کاتالیستی با نظم بالا را در کمتر از یک ثانیه ساخت که ظرفیت ۱۵۸.۸ mAh g−1 در نرخ 15C و پایداری چرخه‌ای عالی دارد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a trace-metal-assisted flash (TMF) process that uses in situ nickel nanoclusters to catalyze ultrafast graphitization of amorphous carbon into highly ordered graphite in under one second. This yields fast-charging graphite anodes with superior rate capability and cyclability, while cutting energy use, emissions, and production cost by over 80%, offering a scalable, sustainable route for next-generation lithium-ion batteries.&lt;br&gt;🏷 graphite anode · fast charging · flash synthesis · lithium-ion battery · nickel catalyst</description>
-<category>graphite anode</category>
-<category>fast charging</category>
-<category>flash synthesis</category>
-<category>lithium-ion battery</category>
-<category>nickel catalyst</category>
-</item>
-<item>
-<title>Interfacial Amorphous Lithium Polysulfide Reservoir Design Enables High‐Power and Energy‐Dense All‐Solid‐State Li─S Battery</title>
-<link>https://doi.org/10.1002/adma.75807</link>
-<guid isPermaLink="false">10.1002/adma.75807</guid>
-<pubDate>Fri, 20 Nov 2026 12:02:02 GMT</pubDate>
-<description>مخزن آمورف پلی‌سولفید لیتیوم در سطح گوگرد، سینتیک انتقال بار در فصل مشترک سه‌فازی را بهبود می‌دهد و باتری تمام‌جامد Li-S با توان و انرژی بالا و پایداری چرخه‌ای عالی فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in constructing an amorphous lithium reservoir (ALR) of short-chained lithium polysulfides on sulfur particles, creating disordered Li─S bonding that stores and anchors Li⁺, enabling fast Li⁺ conduction and continuous supply for accelerated S/Li₂S conversion. This resolves sluggish triple-phase interfacial kinetics, yielding high-power, energy-dense all-solid-state Li─S batteries (1115 mAh g⁻¹ at 1C, 12.8 mAh cm⁻² at 10 mg cm⁻² loading).&lt;br&gt;🏷 all-solid-state Li-S battery · amorphous lithium polysulfide · interfacial kinetics · solid electrolyte · high energy density</description>
-<category>all-solid-state Li-S battery</category>
-<category>amorphous lithium polysulfide</category>
-<category>interfacial kinetics</category>
-<category>solid electrolyte</category>
-<category>high energy density</category>
-</item>
-<item>
-<title>Tuning Ligand Accessibility via Solvation Entropy for Universal Recovery of Spent Ternary Cathodes</title>
-<link>https://doi.org/10.1002/adma.75811</link>
-<guid isPermaLink="false">10.1002/adma.75811</guid>
-<pubDate>Fri, 20 Nov 2026 12:01:57 GMT</pubDate>
-<description>با مهندسی آنتروپی حلال‌پوشی در یک حلال اوتکتیک عمیق پرآنتروپی، دسترسی لیگاند تنظیم شد و جداسازی انتخابی Ni از کاتدهای مستعمل NCM با غنی‌سازی بالا ممکن شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using solvation entropy engineering to create a high-entropy deep eutectic solvent that tunes ligand accessibility and competitive metal-ligand interactions, enabling universal selective Ni recovery from diverse spent NCM cathodes. Its significance is establishing solvent microenvironment engineering as a complementary design principle to ligand engineering for selective metal separation in complex multimetal systems.&lt;br&gt;🏷 spent ternary cathodes · deep eutectic solvent · solvation entropy · selective metal separation · battery recycling</description>
-<category>spent ternary cathodes</category>
-<category>deep eutectic solvent</category>
-<category>solvation entropy</category>
-<category>selective metal separation</category>
-<category>battery recycling</category>
-</item>
-<item>
-<title>O6-type layered oxides for sustainable high-energy battery cathodes</title>
-<link>https://doi.org/10.1038/s41893-026-01987-5</link>
-<guid isPermaLink="false">10.1038/s41893-026-01987-5</guid>
-<pubDate>Fri, 20 Nov 2026 12:01:51 GMT</pubDate>
-<description>اکسیدهای لایه‌ای نوع O6 به‌عنوان کاتدهای پایدار و پرانرژی باتری معرفی می‌شوند و مسیری برای کاتدهای کارآمد و پایدار ارائه می‌دهند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;💡 The novelty is an O6-type layered Li-rich cathode formed by atomic-scale O3/O1 intergrowth, which suppresses transition-metal migration and irreversible oxygen dimerization. Its significance lies in stabilizing oxygen-redox activity, enabling negligible voltage decay and high energy-density retention in a cobalt-free cathode, establishing stacking-sequence design as a general strategy for durable sustainable batteries.&lt;br&gt;🏷 O6-type layered oxides · battery cathodes · high-energy cathodes · sustainable materials · lithium-ion batteries</description>
-<category>O6-type layered oxides</category>
-<category>battery cathodes</category>
-<category>high-energy cathodes</category>
-<category>sustainable materials</category>
-<category>lithium-ion batteries</category>
-</item>
-<item>
-<title>A tri-phase fuel electrode enabling low-temperature co-firing of high-performance reversible protonic ceramic cells</title>
-<link>https://doi.org/10.1039/d6ee05087e</link>
-<guid isPermaLink="false">10.1039/d6ee05087e</guid>
-<pubDate>Fri, 20 Nov 2026 12:01:34 GMT</pubDate>
-<description>یک الکترود سوخت سه‌فازی امکان پخت هم‌زمان در دمای پایین را برای سلول‌های سرامیکی پروتونی برگشت‌پذیر فراهم می‌کند و عملکرد بالایی در تبدیل و ذخیره انرژی به دست می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a tri-phase fuel electrode enabling low-temperature co-firing of reversible protonic ceramic cells, overcoming the high sintering temperatures that limit deployment. Its significance is enabling efficient intermediate-temperature energy conversion and storage, improving manufacturability and performance, and advancing practical widespread adoption of RPCC technology.&lt;br&gt;🏷 reversible protonic ceramic cells · tri-phase fuel electrode · low-temperature co-firing · solid oxide cells · hydrogen energy</description>
-<category>reversible protonic ceramic cells</category>
-<category>tri-phase fuel electrode</category>
-<category>low-temperature co-firing</category>
-<category>solid oxide cells</category>
-<category>hydrogen energy</category>
-</item>
-<item>
-<title>Fluorine-Terminated Vacancy-Ordered i-MXene/Graphene Heterostructures for Aqueous Lithium-Ion Batteries without Superconcentrated Electrolytes</title>
-<link>https://doi.org/10.1039/d6ta08077d</link>
-<guid isPermaLink="false">10.1039/d6ta08077d</guid>
-<pubDate>Fri, 20 Nov 2026 10:01:38 GMT</pubDate>
-<description>این مقاله با ساخت ناهم‌ساختار i-MXene/گرافن با پایانه‌های فلوئور و جای‌خالی منظم، باتری لیتیوم-یونی آبی بدون الکترولیت فوق‌اشباع را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in fluorine-terminated vacancy-ordered i-MXene/graphene heterostructures enabling aqueous lithium-ion batteries without costly, slow superconcentrated electrolytes. Significance: this design widens the water stability window via electrode engineering rather than water-in-salt electrolytes, offering a safer, lower-cost, faster-charging alternative and advancing practical aqueous battery anodes.&lt;br&gt;🏷 aqueous lithium-ion battery · i-MXene · graphene heterostructure · fluorine termination · vacancy ordering</description>
-<category>aqueous lithium-ion battery</category>
-<category>i-MXene</category>
-<category>graphene heterostructure</category>
-<category>fluorine termination</category>
-<category>vacancy ordering</category>
 </item>
 </channel>
 </rss>
