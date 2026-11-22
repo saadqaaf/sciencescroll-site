@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 09:01:23 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 10:00:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>LRG1-targeted nanomicelles deliver camptothecin via a peptide-drug conjugation strategy for breast cancer therapy</title>
+<link>https://doi.org/10.1016/j.nantod.2026.103237</link>
+<guid isPermaLink="false">10.1016/j.nantod.2026.103237</guid>
+<pubDate>Sun, 22 Nov 2026 10:00:55 GMT</pubDate>
+<description>نانومایسل‌های هدفمند LRG1 با کونژوگه پپتید-دارو، کامپتوتسین را برای درمان سرطان پستان انتقال می‌دهند و اثربخشی هدفمند را بهبود می‌بخشند.&lt;br&gt;Nano Today | 🔬 Research Article&lt;br&gt;🏷 LRG1 targeting · nanomicelles · camptothecin · peptide-drug conjugate · breast cancer</description>
+<category>LRG1 targeting</category>
+<category>nanomicelles</category>
+<category>camptothecin</category>
+<category>peptide-drug conjugate</category>
+<category>breast cancer</category>
+</item>
 <item>
 <title>Decoding the Synergistic Desolvation Mechanism of Ultramicropore Confinement and Heteroatom Chemistry in N/O Co-Doped Porous Carbon Cathodes for High-Performance Aqueous Zinc-Ion Hybrid Capacitors</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122346</link>
@@ -1205,18 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>short-range ordering</category>
 <category>self-assembled monolayer</category>
 <category>stability</category>
-</item>
-<item>
-<title>Gold‐Catalyzed “Anti‐Baldwin” Cyclization of Unactivated Alkenes</title>
-<link>https://doi.org/10.1002/anie.1248883</link>
-<guid isPermaLink="false">10.1002/anie.1248883</guid>
-<pubDate>Sat, 21 Nov 2026 22:02:29 GMT</pubDate>
-<description>سیکلیزاسیون ضدبالدوین طلا-کاتالیزشده آلکن‌های غیرفعال از طریق برگشت‌پذیری 4-exo-trig به محصول ترمودینامیکی 5-endo-trig می‌رسد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 gold catalysis · anti-Baldwin cyclization · unactivated alkenes · 5-endo-trig · reversible cyclization</description>
-<category>gold catalysis</category>
-<category>anti-Baldwin cyclization</category>
-<category>unactivated alkenes</category>
-<category>5-endo-trig</category>
-<category>reversible cyclization</category>
 </item>
 </channel>
 </rss>
