@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 14:00:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 15:01:18 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Self-reporting photosensitizers for precise photodynamic therapy: Molecular design, application and perspective</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218797</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218797</guid>
+<pubDate>Sun, 22 Nov 2026 15:01:16 GMT</pubDate>
+<description>این مقاله طراحی مولکولی، کاربردها و چشم‌انداز حساس‌کننده‌های نوری خودگزارش‌دهنده را برای درمان فوتودینامیک دقیق مرور می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 photodynamic therapy · photosensitizers · self-reporting · molecular design · theranostics</description>
+<category>photodynamic therapy</category>
+<category>photosensitizers</category>
+<category>self-reporting</category>
+<category>molecular design</category>
+<category>theranostics</category>
+</item>
+<item>
+<title>Electrochemical recovery of rare earth elements from aqueous systems: mechanisms, materials, and process design</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218798</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218798</guid>
+<pubDate>Sun, 22 Nov 2026 15:01:12 GMT</pubDate>
+<description>این مقاله مروری مکانیزم‌ها، مواد و طراحی فرآیند بازیابی الکتروشیمیایی عناصر خاکی کمیاب از سیستم‌های آبی را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 rare earth elements · electrochemical recovery · aqueous systems · process design · separation mechanisms</description>
+<category>rare earth elements</category>
+<category>electrochemical recovery</category>
+<category>aqueous systems</category>
+<category>process design</category>
+<category>separation mechanisms</category>
+</item>
 <item>
 <title>LRG1-targeted nanomicelles deliver camptothecin via a peptide-drug conjugation strategy for breast cancer therapy</title>
 <link>https://doi.org/10.1016/j.nantod.2026.103237</link>
@@ -1193,30 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>reactive sulfur species</category>
 <category>reactive oxygen species</category>
 <category>safranine T</category>
-</item>
-<item>
-<title>PCET beyond p K a : Disaggregation and Additional Base Effects as Neglected Key Factors for Unlocking Inaccessible Substrates in Direct Intermolecular Photocatalytic Ring‐Opening Remote Alkylation of Cycloalkanols</title>
-<link>https://doi.org/10.1002/anie.5474223</link>
-<guid isPermaLink="false">10.1002/anie.5474223</guid>
-<pubDate>Sat, 21 Nov 2026 22:02:35 GMT</pubDate>
-<description>با تنظیم باز و شکستن تجمع آلکوکل‌ها، واکنش باز شدن حلقه فوتوکاتالیستی آلکیلاسیون دور برای سوبستراهای غیرفعال ممکن شد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 photocatalytic ring-opening · proton-coupled electron transfer · cycloalkanols · substrate disaggregation · base effects</description>
-<category>photocatalytic ring-opening</category>
-<category>proton-coupled electron transfer</category>
-<category>cycloalkanols</category>
-<category>substrate disaggregation</category>
-<category>base effects</category>
-</item>
-<item>
-<title>Short‐Range Molecular Ordering Enables Efficient and Stable Recombination Junction in Monolithic Perovskite/CIGS Tandem Solar Cells</title>
-<link>https://doi.org/10.1002/anie.6252293</link>
-<guid isPermaLink="false">10.1002/anie.6252293</guid>
-<pubDate>Sat, 21 Nov 2026 22:02:32 GMT</pubDate>
-<description>نظم‌مندی مولکولی کوتاه‌برد در اتصال بازترکیبی، بازده 29.60% و پایداری 1000 ساعته را در سلول تاندم پروسکایت/CIGS فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;🏷 perovskite/CIGS tandem · recombination junction · short-range ordering · self-assembled monolayer · stability</description>
-<category>perovskite/CIGS tandem</category>
-<category>recombination junction</category>
-<category>short-range ordering</category>
-<category>self-assembled monolayer</category>
-<category>stability</category>
 </item>
 </channel>
 </rss>
