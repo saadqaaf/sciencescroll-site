@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 23:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 00:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>From isolated component failure to coupled degradation networks in proton exchange membrane fuel cells</title>
+<link>https://doi.org/10.1186/s40580-026-00589-3</link>
+<guid isPermaLink="false">10.1186/s40580-026-00589-3</guid>
+<pubDate>Sun, 22 Nov 2026 00:01:07 GMT</pubDate>
+<description>این مقاله گذار از خرابی اجزای منفرد به شبکه‌های تخریب جفت‌شده در پیل‌های سوختی غشای تبادل پروتون را بررسی می‌کند.&lt;br&gt;Nano Convergence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 proton exchange membrane · fuel cell degradation · coupled degradation networks · component failure · durability</description>
+<category>proton exchange membrane</category>
+<category>fuel cell degradation</category>
+<category>coupled degradation networks</category>
+<category>component failure</category>
+<category>durability</category>
+</item>
+<item>
+<title>Microstructure evolution and in-situ tensile fracture mechanism of oscillating laser-arc hybrid additive manufactured Al alloy with Zr microalloying</title>
+<link>https://doi.org/10.1016/j.addma.2026.105415</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105415</guid>
+<pubDate>Sun, 22 Nov 2026 00:01:04 GMT</pubDate>
+<description>ریزساختار و مکانیزم شکست کششی در-situ آلیاژ آلومینیوم ساخته‌شده با روش افزودنی هیبرید لیزر-قوس نوسانی و ریزآلیاژسازی Zr بررسی می‌شود.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 laser-arc hybrid additive · Al alloy · Zr microalloying · in-situ tensile · fracture mechanism</description>
+<category>laser-arc hybrid additive</category>
+<category>Al alloy</category>
+<category>Zr microalloying</category>
+<category>in-situ tensile</category>
+<category>fracture mechanism</category>
+</item>
 <item>
 <title>Dynamic Cluster Catalysis: Active-Center Formation, Collective Function, and Design Principles</title>
 <link>https://doi.org/10.1021/accountsmr.6c00279</link>
@@ -1193,30 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>graded porosity</category>
 <category>hydrophilicity</category>
 <category>interfacial evaporation</category>
-</item>
-<item>
-<title>Magnetoelastic Wood With Sensitive Magnetoelastic Effect for Stable Pressure Detection</title>
-<link>https://doi.org/10.1039/d6mh02123a</link>
-<guid isPermaLink="false">10.1039/d6mh02123a</guid>
-<pubDate>Sat, 21 Nov 2026 14:01:24 GMT</pubDate>
-<description>چوب مگنتوالاستیک با اثر مگنتوالاستیک حساس برای تشخیص پایدار فشار و کاهش حساسیت به دما و رطوبت در حسگرهای زیست‌توده‌ای ارائه می‌شود.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 magnetoelastic wood · pressure sensor · biomass sensor · magnetoelastic effect · motion detection</description>
-<category>magnetoelastic wood</category>
-<category>pressure sensor</category>
-<category>biomass sensor</category>
-<category>magnetoelastic effect</category>
-<category>motion detection</category>
-</item>
-<item>
-<title>Elytra-Inspired Kinetically Programmable Photonic Films via 3D Printing for Dynamic Anti-Counterfeiting</title>
-<link>https://doi.org/10.1039/d6mh01826b</link>
-<guid isPermaLink="false">10.1039/d6mh01826b</guid>
-<pubDate>Sat, 21 Nov 2026 14:01:21 GMT</pubDate>
-<description>فیلم‌های فوتونیکی برنامه‌پذیر سینتیکی با الهام از بال‌پوش سوسک و چاپ سه‌بعدی برای ضدجعل پویا و قابل تأیید توسط کاربر ساخته می‌شوند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 photonic films · anti-counterfeiting · 3D printing · kinetic programming · structural color</description>
-<category>photonic films</category>
-<category>anti-counterfeiting</category>
-<category>3D printing</category>
-<category>kinetic programming</category>
-<category>structural color</category>
 </item>
 </channel>
 </rss>
