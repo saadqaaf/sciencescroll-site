@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 08:02:44 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 09:01:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoding the Synergistic Desolvation Mechanism of Ultramicropore Confinement and Heteroatom Chemistry in N/O Co-Doped Porous Carbon Cathodes for High-Performance Aqueous Zinc-Ion Hybrid Capacitors</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122346</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122346</guid>
+<pubDate>Sun, 22 Nov 2026 09:01:21 GMT</pubDate>
+<description>این مقاله سازوکار هم‌افزایی محدودسازی فرامیکروحفره و شیمی هترواتم را در کاتدهای کربن متخلخل N/O دوپ‌شده برای خازن‌های هیبریدی یون‌روی آبی رمزگشایی می‌کند.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 Zn-ion hybrid capacitor · N/O co-doped carbon · ultramicropore confinement · desolvation · porous carbon cathode</description>
+<category>Zn-ion hybrid capacitor</category>
+<category>N/O co-doped carbon</category>
+<category>ultramicropore confinement</category>
+<category>desolvation</category>
+<category>porous carbon cathode</category>
+</item>
+<item>
+<title>Plasma-Engineered Defective Graphite Interfaces for Dendrite-Free Zn Anodes via Regulated Nucleation and Deposition</title>
+<link>https://doi.org/10.1016/j.carbon.2026.122345</link>
+<guid isPermaLink="false">10.1016/j.carbon.2026.122345</guid>
+<pubDate>Sun, 22 Nov 2026 09:01:16 GMT</pubDate>
+<description>اصلاح پلاسمایی فصل مشترک گرافیت معیوب، هسته‌زنی و رسوب‌گذاری را تنظیم کرده و آندهای Zn بدون دندریت را ممکن می‌سازد.&lt;br&gt;Carbon | 🔬 Research Article&lt;br&gt;🏷 Zn anode · defective graphite · plasma engineering · dendrite-free · nucleation regulation</description>
+<category>Zn anode</category>
+<category>defective graphite</category>
+<category>plasma engineering</category>
+<category>dendrite-free</category>
+<category>nucleation regulation</category>
+</item>
 <item>
 <title>Entropy‐Compensated Electrolyte Enables Low‐Temperature 400 Wh Kg −1 Silicon‐Based Lithium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/anie.8467989</link>
@@ -1189,30 +1213,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a sol
 <category>calcium nitrate</category>
 <category>ethylene carbonate</category>
 <category>ion transport</category>
-</item>
-<item>
-<title>Spatial basis-enhanced weak-form evolutionary Kolmogorov–Arnold network for temperature prediction of large-format pouch lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125454</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125454</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:46 GMT</pubDate>
-<description>شبکه کولموگروف-آرنولد تکاملی مبتنی بر فرم ضعیف و پایه فضایی برای پیش‌بینی دمای باتری‌های لیتیوم-یونی کیسه‌ای بزرگ ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 pouch lithium-ion battery · temperature prediction · Kolmogorov-Arnold network · weak-form · spatial basis</description>
-<category>pouch lithium-ion battery</category>
-<category>temperature prediction</category>
-<category>Kolmogorov-Arnold network</category>
-<category>weak-form</category>
-<category>spatial basis</category>
-</item>
-<item>
-<title>Intramolecular oxygen/nitrogen dual-coordination fluorine-free additive for synergistic solvation reconstruction in 4.6 V Li||NCM811 batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125821</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125821</guid>
-<pubDate>Fri, 20 Nov 2026 08:02:38 GMT</pubDate>
-<description>یک افزودنی بدون فلوئور با هم‌آرایی دوگانه اکسیژن/نیتروژن برای بازسازی هم‌افزای حلال‌پوشی در باتری‌های 4.6 V Li||NCM811 به کار می‌رود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 fluorine-free additive · solvation reconstruction · NCM811 · high-voltage battery · dual-coordination</description>
-<category>fluorine-free additive</category>
-<category>solvation reconstruction</category>
-<category>NCM811</category>
-<category>high-voltage battery</category>
-<category>dual-coordination</category>
 </item>
 </channel>
 </rss>
