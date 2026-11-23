@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 07:01:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 08:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Net zero emissions won’t reverse climate change — some nations look to ‘net negative’</title>
+<link>https://doi.org/10.1038/d41586-026-03789-3</link>
+<guid isPermaLink="false">10.1038/d41586-026-03789-3</guid>
+<pubDate>Mon, 23 Nov 2026 08:01:35 GMT</pubDate>
+<description>این مقاله استدلال می‌کند که رسیدن به انتشار خالص صفر برای معکوس کردن تغییر اقلیم کافی نیست و برخی کشورها به دنبال انتشار خالص منفی هستند.&lt;br&gt;Nature | 💭 Perspective&lt;br&gt;🏷 net zero emissions · net negative emissions · climate change · carbon dioxide removal · climate policy</description>
+<category>net zero emissions</category>
+<category>net negative emissions</category>
+<category>climate change</category>
+<category>carbon dioxide removal</category>
+<category>climate policy</category>
+</item>
+<item>
+<title>Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00476</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.6c00476</guid>
+<pubDate>Mon, 23 Nov 2026 08:01:31 GMT</pubDate>
+<description>این مقاله راهنمای عملی و توصیه‌های ده‌گانه‌ای برای فرمولاسیون، مشخصه‌یابی و ارزیابی عملکرد و پایداری الکترولیت‌های جدید باتری‌های جریان ردوکس ارائه می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in providing structured, practical guidance for flow battery electrolyte research, addressing inconsistencies in methods and reporting that hinder interlaboratory comparison. Its significance is consolidating best practices into ten recommendations and publishing as a living, community-revisable GitHub document, fostering consensus on experimental and reporting standards in the field.&lt;br&gt;🏷 redox flow battery · electrolyte characterization · capacity fade · testing protocols · electroanalytical screening</description>
+<category>redox flow battery</category>
+<category>electrolyte characterization</category>
+<category>capacity fade</category>
+<category>testing protocols</category>
+<category>electroanalytical screening</category>
+</item>
 <item>
 <title>Strain-driven and electric-field-tunable self-morphotropic phase boundary in nitride perovskite</title>
 <link>https://doi.org/10.1038/s41524-026-02390-6</link>
@@ -1182,30 +1206,6 @@
 <category>flame retardancy</category>
 <category>deep eutectic solvent</category>
 <category>solid-state electrolyte</category>
-</item>
-<item>
-<title>ReaxFF-Enabled Atomistic Insights into Electrode/Electrolyte Interphase Evolution on Magnesium Metal Anodes</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105676</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105676</guid>
-<pubDate>Sun, 22 Nov 2026 16:01:15 GMT</pubDate>
-<description>این مطالعه با شبیه‌سازی ReaxFF، تحول فاز بین‌سطحی الکترود/الکترولیت روی آند فلزی منیزیم را در سطح اتمی بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 magnesium metal anode · ReaxFF simulation · solid electrolyte interphase · electrode/electrolyte interface · atomistic modeling</description>
-<category>magnesium metal anode</category>
-<category>ReaxFF simulation</category>
-<category>solid electrolyte interphase</category>
-<category>electrode/electrolyte interface</category>
-<category>atomistic modeling</category>
-</item>
-<item>
-<title>State-of-charge-dependent intercalation kinetics in NMC622 revealed by nonlinear frequency response analysis</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105654</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105654</guid>
-<pubDate>Sun, 22 Nov 2026 16:01:10 GMT</pubDate>
-<description>این مقاله با روش تحلیل پاسخ فرکانسی غیرخطی، وابستگی سینتیک درج‌یابی یون لیتیوم به حالت شارژ را در کاتد NMC622 بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 NMC622 cathode · intercalation kinetics · nonlinear frequency response · state of charge · lithium-ion battery</description>
-<category>NMC622 cathode</category>
-<category>intercalation kinetics</category>
-<category>nonlinear frequency response</category>
-<category>state of charge</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>

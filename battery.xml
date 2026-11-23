@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 07:01:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 08:01:37 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries</title>
+<link>https://doi.org/10.1021/acs.chemrev.6c00476</link>
+<guid isPermaLink="false">10.1021/acs.chemrev.6c00476</guid>
+<pubDate>Mon, 23 Nov 2026 08:01:31 GMT</pubDate>
+<description>این مقاله راهنمای عملی و توصیه‌های ده‌گانه‌ای برای فرمولاسیون، مشخصه‌یابی و ارزیابی عملکرد و پایداری الکترولیت‌های جدید باتری‌های جریان ردوکس ارائه می‌کند.&lt;br&gt;Chemical Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in providing structured, practical guidance for flow battery electrolyte research, addressing inconsistencies in methods and reporting that hinder interlaboratory comparison. Its significance is consolidating best practices into ten recommendations and publishing as a living, community-revisable GitHub document, fostering consensus on experimental and reporting standards in the field.&lt;br&gt;🏷 redox flow battery · electrolyte characterization · capacity fade · testing protocols · electroanalytical screening</description>
+<category>redox flow battery</category>
+<category>electrolyte characterization</category>
+<category>capacity fade</category>
+<category>testing protocols</category>
+<category>electroanalytical screening</category>
+</item>
 <item>
 <title>Cationic Potential‐Guided Li/K Co‐Doping Enables Fast‐Charging Layered Oxide Cathodes for Sodium‐Ion Batteries</title>
 <link>https://doi.org/10.1002/advs.78640</link>
@@ -1194,18 +1206,6 @@
 <category>aqueous batteries</category>
 <category>solid-electrolyte interphase</category>
 <category>supercapacitors</category>
-</item>
-<item>
-<title>Activating N = O Bond Cleavage Via Geometrically Matched Co‐C Atomic Pairs for Nitrate‐to‐Ammonia Electrosynthesis</title>
-<link>https://doi.org/10.1002/smll.76501</link>
-<guid isPermaLink="false">10.1002/smll.76501</guid>
-<pubDate>Fri, 20 Nov 2026 17:03:48 GMT</pubDate>
-<description>جفت‌های اتمی Co-C با تطابق هندسی، شکست پیوند N=O را فعال کرده و بازده آمونیاک 93.2% و توان 13.98 mW cm−2 در باتری Zn-NO3 حاصل می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 CoO/O-CF introduces geometrically matched Co–C atomic pairs whose spacing mirrors nitrate&amp;#x27;s O–O distance, stabilizing O-bridged bidentate adsorption that stretches N=O bonds and boosts electron transfer, enabling efficient nitrate-to-ammonia electrosynthesis (16.8 mmol g⁻¹ h⁻¹, 93.2% FE) and a Zn–NO₃⁻ battery. This atomic-pair geometric-matching paradigm advances sustainable nitrogen cycling electrocatalysis.&lt;br&gt;🏷 nitrate reduction · ammonia electrosynthesis · Co-C atomic pairs · N=O bond cleavage · Zn-NO3 battery</description>
-<category>nitrate reduction</category>
-<category>ammonia electrosynthesis</category>
-<category>Co-C atomic pairs</category>
-<category>N=O bond cleavage</category>
-<category>Zn-NO3 battery</category>
 </item>
 </channel>
 </rss>
