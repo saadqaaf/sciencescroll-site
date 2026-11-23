@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 12:01:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 13:01:36 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Internal Stress Effects on Electrode Stability in Coin Cells with Different Assembly Configurations</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02869</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02869</guid>
+<pubDate>Mon, 23 Nov 2026 13:01:27 GMT</pubDate>
+<description>این کار با مونتاژ رباتیک سلول‌های سکه‌ای نشان می‌دهد که دو پیکربندی رایج، توزیع تنش متفاوتی در الکترود ایجاد کرده و عملکرد الکتروشیمیایی و پایداری آن را تغییر می‌دهند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using fully automated robotic assembly to systematically compare two widely used coin cell configurations (SS-P vs. SS-N), revealing how internal stress distribution differences affect electrochemical performance, electrode structure, and interphase properties. Its significance is highlighting the urgent need for standardized battery assembly protocols to ensure reproducible, comparable data across laboratories.&lt;br&gt;🏷 coin cell assembly · internal stress · electrode stability · robotic assembly · standardization</description>
+<category>coin cell assembly</category>
+<category>internal stress</category>
+<category>electrode stability</category>
+<category>robotic assembly</category>
+<category>standardization</category>
+</item>
 <item>
 <title>Electrochemo‐mechanical interactions in rechargeable batteries: Mechanisms, characterization, and multiscale regulation</title>
 <link>https://doi.org/10.1002/inf2.70204</link>
@@ -1194,18 +1206,6 @@
 <category>zinc storage</category>
 <category>supramolecular assembly</category>
 <category>porous carbon</category>
-</item>
-<item>
-<title>Surrogate-model-assisted multi-objective optimization of topology-generated liquid cooling plates for battery thermal management</title>
-<link>https://doi.org/10.1016/j.est.2026.125867</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125867</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:48 GMT</pubDate>
-<description>این مقاله با بهینه‌سازی چندهدفه مبتنی بر مدل جانشین، صفحات خنک‌کننده مایع تولیدشده با توپولوژی را برای مدیریت حرارتی باتری طراحی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery thermal management · liquid cooling plate · topology optimization · surrogate model · multi-objective optimization</description>
-<category>battery thermal management</category>
-<category>liquid cooling plate</category>
-<category>topology optimization</category>
-<category>surrogate model</category>
-<category>multi-objective optimization</category>
 </item>
 </channel>
 </rss>
