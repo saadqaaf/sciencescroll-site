@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 17:01:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 18:03:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries</title>
+<link>https://doi.org/10.1038/s41560-026-02172-w</link>
+<guid isPermaLink="false">10.1038/s41560-026-02172-w</guid>
+<pubDate>Mon, 23 Nov 2026 18:02:16 GMT</pubDate>
+<description>ایجاد توپوگرافی جعبه‌تخم‌مرغی در فصل مشترک Li/Li6PS5Cl جریان شروع حفره‌دارشدن را ده برابر افزایش داده و پروفیل‌های تخلیه واقعی خودروی برقی را پایدار می‌سازد.&lt;br&gt;Nature Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Contouring the Li/Li6PS5Cl interface with egg-box topography raises the voiding-onset current tenfold (0.2 to 2 mA cm−2) and sustains pulsed currents up to 3–8 mA cm−2 without failure. It suppresses void growth and polarization, enabling realistic EV drive-cycle discharge where flat interfaces fail. This establishes interface contouring as a practical strategy for achieving relevant discharge rates in solid-state batteries.&lt;br&gt;🏷 solid-state battery · Li/ceramic interface · void formation · interface contouring · discharge rate</description>
+<category>solid-state battery</category>
+<category>Li/ceramic interface</category>
+<category>void formation</category>
+<category>interface contouring</category>
+<category>discharge rate</category>
+</item>
+<item>
+<title>Binder molecular design based on the concept of “rugged mountain and gentle water”: synergistic enhancement of the mechanical, adhesive and kinetic properties of silicon anodes for lithium-ion batteries</title>
+<link>https://doi.org/10.1039/d6ta07750a</link>
+<guid isPermaLink="false">10.1039/d6ta07750a</guid>
+<pubDate>Mon, 23 Nov 2026 18:02:03 GMT</pubDate>
+<description>بایندر PAEG با الهام از «کوه ناهموار و آب آرام» با ترکیب PAEK سفت و PEG متصل، خواص مکانیکی، چسبندگی و سینتیک آندهای سیلیکونی باتری لیتیوم-یونی را هم‌زمان بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a bioinspired &amp;quot;rugged mountain and gentle water&amp;quot; binder design combining rigid PAEK for mechanical confinement with tethered PEG for stress relaxation and Li⁺ conduction. This triple synergy simultaneously enhances mechanical robustness, adhesion, and kinetics of silicon anodes, addressing their large volume expansion and poor cycling stability—offering a significant strategy for high-performance lithium-ion batteries.&lt;br&gt;🏷 silicon anode · binder design · lithium-ion battery · PAEG binder · stress relaxation</description>
+<category>silicon anode</category>
+<category>binder design</category>
+<category>lithium-ion battery</category>
+<category>PAEG binder</category>
+<category>stress relaxation</category>
+</item>
+<item>
+<title>Experimental evidence of electrochemical behaviour in a Ca–Zn alloy for aprotic calcium-based batteries</title>
+<link>https://doi.org/10.1039/d6ta07270d</link>
+<guid isPermaLink="false">10.1039/d6ta07270d</guid>
+<pubDate>Mon, 23 Nov 2026 18:01:53 GMT</pubDate>
+<description>آلیاژ Ca-Zn ذوب‌شده با قوس الکتریکی به‌عنوان الکترود مقابل تکرارپذیر و فعال الکتروشیمیایی در الکترولیت‌های Ca(TFSI)2 برای باتری‌های کلسیمی آپروتیک عمل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using an arc-melted Ca–Zn alloy as a reproducible, electrochemically active counter electrode in Ca(TFSI)₂-based aprotic electrolytes, addressing the challenge of reliable calcium electrochemistry. Its significance is providing experimental evidence of electrochemical behaviour, enabling stable counter electrodes for calcium-based battery research and advancing development of aprotic Ca batteries.&lt;br&gt;🏷 calcium battery · Ca-Zn alloy · aprotic electrolyte · counter electrode · electrochemical behavior</description>
+<category>calcium battery</category>
+<category>Ca-Zn alloy</category>
+<category>aprotic electrolyte</category>
+<category>counter electrode</category>
+<category>electrochemical behavior</category>
+</item>
+<item>
+<title>Boosting Li + transport in Li 3 YCl 6 by cation–anion co-doping: a channel-widening strategy from first-principles</title>
+<link>https://doi.org/10.1039/d6ta08385d</link>
+<guid isPermaLink="false">10.1039/d6ta08385d</guid>
+<pubDate>Mon, 23 Nov 2026 18:01:48 GMT</pubDate>
+<description>هم‌دوپینگ Co/Br در Li3YCl6 با گشادکردن کانال‌های Li+ و تضعیف پیوندهای Li-Cl/Br، سد مهاجرت را کاهش داده و رسانایی اتاقی را به 20.91 mS cm−1 می‌رساند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Co/Br cation–anion co-doping of Li₃YCl₆ is novel, using a channel-widening strategy from first-principles: doping weakens Li–Cl/Br bonds and widens Li⁺ migration channels. This lowers migration barriers and raises room-temperature conductivity to 20.91 mS cm⁻¹, offering a rational design route for high-performance halide solid electrolytes.&lt;br&gt;🏷 Li3YCl6 electrolyte · cation-anion co-doping · Li+ transport · first-principles · solid electrolyte</description>
+<category>Li3YCl6 electrolyte</category>
+<category>cation-anion co-doping</category>
+<category>Li+ transport</category>
+<category>first-principles</category>
+<category>solid electrolyte</category>
+</item>
+<item>
+<title>Unveiling Graphite Embedded Carbon fiber Anodes for Ultralong-Life and High-Power Na-ion Batteries with Na3V2(PO4)3 Cathode</title>
+<link>https://doi.org/10.1039/d6ta07783h</link>
+<guid isPermaLink="false">10.1039/d6ta07783h</guid>
+<pubDate>Mon, 23 Nov 2026 18:01:43 GMT</pubDate>
+<description>آندهای کربن‌فیبر با گرافیت جاسازی‌شده برای باتری‌های سدیم-یونی با عمر فوق‌طولانی و توان بالا در کنار کاتد Na3V2(PO4)3 معرفی و ارزیابی می‌شوند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in graphite-embedded carbon fiber anodes paired with Na3V2(PO4)3 cathodes, enabling ultralong-life and high-power SIBs. Significance: this design addresses sodium-ion commercialization barriers—abundance and low cost—by delivering durable, high-rate performance, offering a viable, sustainable alternative to lithium-ion batteries for grid and large-scale energy storage.&lt;br&gt;🏷 sodium-ion battery · graphite carbon fiber anode · Na3V2(PO4)3 cathode · ultralong life · high power</description>
+<category>sodium-ion battery</category>
+<category>graphite carbon fiber anode</category>
+<category>Na3V2(PO4)3 cathode</category>
+<category>ultralong life</category>
+<category>high power</category>
+</item>
 <item>
 <title>Coupled H+/Na+ Interlayer Regulation and Porous Nanoflower Architecture Enable Superior Zinc-Ion Storage in Hydrogen Sodium Vanadate Cathodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04750</link>
@@ -1148,66 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>thermosensitive</category>
 <category>lithium-ion battery</category>
 <category>safety</category>
-</item>
-<item>
-<title>Multiphase Mechanistic Catalytic Reaction Micro-kinetics of 2-Methylquinoline Hydrogenation Pathways over Ru/Al2O3 for Liquid Organic Hydrogen Carrier (LOHC)-based Hydrogen Storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125700</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125700</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:30 GMT</pubDate>
-<description>این مقاله سینتیک میکرو-واکنشی چندفازی مسیرهای هیدروژناسیون 2-methylquinoline روی Ru/Al2O3 را برای ذخیره‌سازی هیدروژن مبتنی بر LOHC مدل‌سازی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LOHC · 2-methylquinoline hydrogenation · Ru/Al2O3 · micro-kinetics · hydrogen storage</description>
-<category>LOHC</category>
-<category>2-methylquinoline hydrogenation</category>
-<category>Ru/Al2O3</category>
-<category>micro-kinetics</category>
-<category>hydrogen storage</category>
-</item>
-<item>
-<title>Two-stage collaborative optimization for low-carbon and cost-efficient configuration of mobile energy storage in port transportation-energy systems under multiple uncertainties</title>
-<link>https://doi.org/10.1016/j.est.2026.125815</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125815</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:25 GMT</pubDate>
-<description>این مقاله یک بهینه‌سازی دو مرحله‌ای برای پیکربندی کم‌کربن و کم‌هزینه ذخیره‌سازی انرژی موبایل در سیستم‌های حمل‌ونقل-انرژی بندری تحت عدم‌قطعیت‌های متعدد ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 mobile energy storage · port transportation · two-stage optimization · uncertainty · low-carbon configuration</description>
-<category>mobile energy storage</category>
-<category>port transportation</category>
-<category>two-stage optimization</category>
-<category>uncertainty</category>
-<category>low-carbon configuration</category>
-</item>
-<item>
-<title>Secondary-Shell Phosphorus Engineering of Fe Single-Atom Catalysts for Efficient Electro-Fenton Oxidation</title>
-<link>https://doi.org/10.1021/acscatal.6c06138</link>
-<guid isPermaLink="false">10.1021/acscatal.6c06138</guid>
-<pubDate>Sat, 21 Nov 2026 03:01:36 GMT</pubDate>
-<description>این مقاله با بازیافت سرباره استخراج لیتیوم از باتری‌های مستعمل LiFePO4، کاتالیزور تک‌اتمی Fe-PNC ساخته و با تنظیم فسفر پوسته دوم، تولید رادیکال هیدروکسیل در الکترو-فنتون را بهبود می‌دهد.&lt;br&gt;ACS Catalysis | 🔬 Research Article&lt;br&gt;💡 The novelty lies in upcycling spent LiFePO4 battery slag into a phosphorus-modulated Fe single-atom catalyst, with P placed in the secondary coordination shell to electronically tune FeN4 sites. This enhances the three-electron oxygen reduction pathway for efficient ·OH generation, boosting tetracycline degradation and outperforming Fe-NC by 3.3-fold. It offers a sustainable waste-to-catalyst route with lower environmental impact than homogeneous electro-Fenton.&lt;br&gt;🏷 single-atom catalyst · electro-Fenton · phosphorus modulation · LiFePO4 recycling · hydroxyl radical</description>
-<category>single-atom catalyst</category>
-<category>electro-Fenton</category>
-<category>phosphorus modulation</category>
-<category>LiFePO4 recycling</category>
-<category>hydroxyl radical</category>
-</item>
-<item>
-<title>Efficient n–i–p all-perovskite tandem solar cells enabled by interconnection layer engineering</title>
-<link>https://doi.org/10.1038/s41467-026-79553-y</link>
-<guid isPermaLink="false">10.1038/s41467-026-79553-y</guid>
-<pubDate>Sat, 21 Nov 2026 02:05:12 GMT</pubDate>
-<description>مهندسی لایه اتصال، سلول‌های خورشیدی تاندم تمام‌پروسکیتی n–i–p با بازده بالا را ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 First n–i–p double-junction all-perovskite tandem exceeding 25% (25.3%, 0.096 cm²; 24.7%, 1.045 cm²) and first n–i–p-based four-terminal triple-junction reaching 28%. Novelty: 2.0 eV Cs-based wide-bandgap subcell with MeO-2PACz-reconfigured additive-free P3HT hole contact plus PCBM-modified ALD-SnO₂, balancing carrier coupling across the interconnection layer, suppressing charge accumulation and voltage loss.&lt;br&gt;🏷 all-perovskite tandem · solar cells · interconnection layer · n-i-p structure · efficiency</description>
-<category>all-perovskite tandem</category>
-<category>solar cells</category>
-<category>interconnection layer</category>
-<category>n-i-p structure</category>
-<category>efficiency</category>
-</item>
-<item>
-<title>Nanofriction strengthened mechanically adaptive electrolytes for safe lithium metal batteries</title>
-<link>https://doi.org/10.1038/s41467-026-78955-2</link>
-<guid isPermaLink="false">10.1038/s41467-026-78955-2</guid>
-<pubDate>Sat, 21 Nov 2026 02:04:21 GMT</pubDate>
-<description>این مقاله الکترولیت‌های سازگارشونده مکانیکی تقویت‌شده با نانوسایش را برای باتری‌های فلز لیتیوم ایمن معرفی می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a &amp;quot;nano-friction-strengthening&amp;quot; strategy: core-shell nanoparticles in a carbonate-swollen shell activate dynamic hydrogen bonds under impact, boosting interparticle friction and viscosity 160-fold for impact hardening. This cuts impact force by 73.1%, preventing short circuits in pouch cells, while phosphate-ester groups suppress thermal runaway, enabling safer lithium metal batteries under mechanical abuse.&lt;br&gt;🏷 lithium metal battery · mechanically adaptive electrolyte · nanofriction · solid electrolyte interphase · dendrite suppression</description>
-<category>lithium metal battery</category>
-<category>mechanically adaptive electrolyte</category>
-<category>nanofriction</category>
-<category>solid electrolyte interphase</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>
