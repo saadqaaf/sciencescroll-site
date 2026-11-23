@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 04:02:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 05:04:32 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cationic Potential‐Guided Li/K Co‐Doping Enables Fast‐Charging Layered Oxide Cathodes for Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/advs.78640</link>
+<guid isPermaLink="false">10.1002/advs.78640</guid>
+<pubDate>Mon, 23 Nov 2026 05:04:08 GMT</pubDate>
+<description>هم‌دوپینگ Li+/K+ در کاتد اکسید لایه‌ای O3 برای باتری سدیم-یون، با کاهش سد مهاجرت Na+ و انتقال برگشت‌پذیر O3↔P3، شارژ سریع و پایداری ساختاری را بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in cationic-potential-guided Li⁺/K⁺ co-doping of O3-type Na layered oxides, with site-selective K⁺ in alkali layers and Li⁺ across alkali/transition-metal layers. This enables a reversible O3↔P3 transition, lowers the Na⁺ migration barrier (1.21→0.80 eV), and delivers 181.6 mAh g⁻¹ with 89.3% retention over 1000 cycles at 20C—advancing fast-charging, structurally stable sodium-ion battery cathodes.&lt;br&gt;🏷 sodium-ion battery · layered oxide cathode · Li/K co-doping · fast charging · O3-P3 transition</description>
+<category>sodium-ion battery</category>
+<category>layered oxide cathode</category>
+<category>Li/K co-doping</category>
+<category>fast charging</category>
+<category>O3-P3 transition</category>
+</item>
+<item>
+<title>Electrolyte‐Facing Interfacial Engineering of Organic‐Inorganic Hybrid Cathodes for High‐Capacity and Stable Lithium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/advs.78875</link>
+<guid isPermaLink="false">10.1002/advs.78875</guid>
+<pubDate>Mon, 23 Nov 2026 05:02:56 GMT</pubDate>
+<description>کاتد هیبریدی LFP/I-NiPc با لایه LFP رو به الکترولیت، CEI پایدار تشکیل داده و ظرفیت 427 mAh g−1 با پایداری بالا در باتری لیتیوم-یون فراهم می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using the differing electrolyte reactivities of organic and inorganic materials as a design principle: an electrolyte-facing LiFePO4 layer forms a stable CEI that protects the underlying iodine-doped nickel phthalocyanine. This enables 94.6% retention over 3000 cycles and, with more organic content, 427 mAh g−1 and 1091 Wh kg−1 with 93.9% retention over 2000 cycles—advancing stable, high-capacity hybrid cathodes.&lt;br&gt;🏷 organic-inorganic cathode · LiFePO4 · nickel phthalocyanine · cathode-electrolyte interphase · lithium-ion battery</description>
+<category>organic-inorganic cathode</category>
+<category>LiFePO4</category>
+<category>nickel phthalocyanine</category>
+<category>cathode-electrolyte interphase</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Molecular Connectivity Governs Framework Organization and Charge Transport Pathways in Crystalline Organic Electrodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105677</link>
@@ -1182,30 +1206,6 @@
 <category>Co-C atomic pairs</category>
 <category>N=O bond cleavage</category>
 <category>Zn-NO3 battery</category>
-</item>
-<item>
-<title>In Situ Engineering of Porous‐Carbon‐Hosted Black Phosphorus Anode via Spatial Confinement for Ultralong‐Life and High‐Rate Lithium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/smll.76808</link>
-<guid isPermaLink="false">10.1002/smll.76808</guid>
-<pubDate>Fri, 20 Nov 2026 17:03:26 GMT</pubDate>
-<description>آند فسفر سیاه محصور در کربن متخلخل با ساختار هسته-پوسته ساخته شد و ظرفیت بالا، نرخ‌پذیری عالی و پایداری چرخه‌ای فوق‌العاده در باتری لیتیوم-یون ارائه داد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a core–shell G‐BP@PC anode made by in situ growth of black phosphorus within a porous carbon host, using spatial confinement to buffer volume expansion and stabilize interfaces. Its significance is exceptional performance: 714.9 mAh g⁻¹ after 100 cycles, 449.2 mAh g⁻¹ at 10 A g⁻¹, and 90.4% retention over 3000 cycles, with full-cell viability, enabling ultralong-life, high-rate lithium-ion batteries.&lt;br&gt;🏷 black phosphorus anode · lithium-ion battery · porous carbon · spatial confinement · cycling stability</description>
-<category>black phosphorus anode</category>
-<category>lithium-ion battery</category>
-<category>porous carbon</category>
-<category>spatial confinement</category>
-<category>cycling stability</category>
-</item>
-<item>
-<title>Direct Regeneration of Spent Lithium‐Ion Batteries: Degradation Mechanisms, Chemistry‐Specific Repair, and Practical Translation</title>
-<link>https://doi.org/10.1002/smll.76765</link>
-<guid isPermaLink="false">10.1002/smll.76765</guid>
-<pubDate>Fri, 20 Nov 2026 17:02:27 GMT</pubDate>
-<description>این مرور، سازوکارهای تخریب باتری‌های لیتیوم-یونی مستعمل و راهبردهای بازتولید مستقیم مانند relithiation حالت جامد و نمک مذاب را با تمرکز بر چالش‌های صنعتی بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely integrates degradation mechanisms with chemistry-specific direct regeneration strategies for spent lithium-ion batteries, contrasting them with destructive conventional recycling. Its significance lies in emphasizing value-preserving restoration of layered oxides and LiFePO₄, low-temperature processing, and upcycling, while critically addressing practical barriers—sorting, heterogeneous feedstocks, standardization, durability, and life-cycle assessment—bridging laboratory advances toward industrial translation.&lt;br&gt;🏷 direct regeneration · spent LIBs · relithiation · cathode degradation · recycling</description>
-<category>direct regeneration</category>
-<category>spent LIBs</category>
-<category>relithiation</category>
-<category>cathode degradation</category>
-<category>recycling</category>
 </item>
 </channel>
 </rss>
