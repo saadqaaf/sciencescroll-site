@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 08:01:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Loss-window-guided potential clamping enables 27% solar-to-storage efficiency in tandem solar rechargeable batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100676</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100676</guid>
+<pubDate>Mon, 23 Nov 2026 09:01:22 GMT</pubDate>
+<description>روشی مبتنی بر مهار پتانسیل با پنجره تلفات، بازده تبدیل خورشیدی به ذخیره‌سازی ۲۷ درصد را در باتری‌های خورشیدی قابل شارژ تاندم محقق می‌کند.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solar rechargeable battery · tandem solar cell · potential clamping · solar-to-storage efficiency · loss window</description>
+<category>solar rechargeable battery</category>
+<category>tandem solar cell</category>
+<category>potential clamping</category>
+<category>solar-to-storage efficiency</category>
+<category>loss window</category>
+</item>
 <item>
 <title>Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries</title>
 <link>https://doi.org/10.1021/acs.chemrev.6c00476</link>
@@ -1194,18 +1206,6 @@
 <category>RuO2 catalyst</category>
 <category>spin state</category>
 <category>CO2 conversion</category>
-</item>
-<item>
-<title>Transition‐Metal Oxide Electrodes in Water‐in‐Salt Electrolyte for Energy Storage Applications</title>
-<link>https://doi.org/10.1002/smll.76802</link>
-<guid isPermaLink="false">10.1002/smll.76802</guid>
-<pubDate>Fri, 20 Nov 2026 17:04:00 GMT</pubDate>
-<description>این مرور، الکترودهای اکسید فلز واسطه در الکترولیت water-in-salt را برای ذخیره‌سازی انرژی آبی بررسی کرده و نقش حل‌پوشی یون و شیمی فصل مشترک را برجسته می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely evaluates transition metal oxide electrodes in water-in-salt and hybrid electrolytes, emphasizing ion solvation, interface chemistry, and charge-storage behavior across battery- and capacitive-type devices. Its significance lies in consolidating strategies—additive optimization, gel polymer integration, and bisalt or fluorine-free configurations—to overcome oxide dissolution and stability limits, guiding sustainable, high-voltage aqueous energy storage development.&lt;br&gt;🏷 water-in-salt electrolyte · transition metal oxide · aqueous batteries · solid-electrolyte interphase · supercapacitors</description>
-<category>water-in-salt electrolyte</category>
-<category>transition metal oxide</category>
-<category>aqueous batteries</category>
-<category>solid-electrolyte interphase</category>
-<category>supercapacitors</category>
 </item>
 </channel>
 </rss>

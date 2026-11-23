@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 08:01:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 09:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Predicting Asymmetric Organocatalysis via Machine-Learning-Driven Molecular Dynamics of Chiral Deep Eutectic Solvents</title>
+<link>https://doi.org/10.1007/s40820-026-02358-7</link>
+<guid isPermaLink="false">10.1007/s40820-026-02358-7</guid>
+<pubDate>Mon, 23 Nov 2026 09:01:25 GMT</pubDate>
+<description>با ترکیب دینامیک مولکولی مبتنی بر یادگیری ماشین و DFT، نقش شبکه‌های پیوند هیدروژنی در کارایی و استریوکنترل کاتالیزورهای آلی در حلال‌های اوتکتیک عمیق کایرال بررسی می‌شود.&lt;br&gt;Nano-Micro Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 deep eutectic solvent · asymmetric organocatalysis · machine learning · molecular dynamics · hydrogen-bond dynamics</description>
+<category>deep eutectic solvent</category>
+<category>asymmetric organocatalysis</category>
+<category>machine learning</category>
+<category>molecular dynamics</category>
+<category>hydrogen-bond dynamics</category>
+</item>
+<item>
+<title>Loss-window-guided potential clamping enables 27% solar-to-storage efficiency in tandem solar rechargeable batteries</title>
+<link>https://doi.org/10.1016/j.esci.2026.100676</link>
+<guid isPermaLink="false">10.1016/j.esci.2026.100676</guid>
+<pubDate>Mon, 23 Nov 2026 09:01:22 GMT</pubDate>
+<description>روشی مبتنی بر مهار پتانسیل با پنجره تلفات، بازده تبدیل خورشیدی به ذخیره‌سازی ۲۷ درصد را در باتری‌های خورشیدی قابل شارژ تاندم محقق می‌کند.&lt;br&gt;eScience | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 solar rechargeable battery · tandem solar cell · potential clamping · solar-to-storage efficiency · loss window</description>
+<category>solar rechargeable battery</category>
+<category>tandem solar cell</category>
+<category>potential clamping</category>
+<category>solar-to-storage efficiency</category>
+<category>loss window</category>
+</item>
 <item>
 <title>Net zero emissions won’t reverse climate change — some nations look to ‘net negative’</title>
 <link>https://doi.org/10.1038/d41586-026-03789-3</link>
@@ -1182,30 +1206,6 @@
 <category>breakdown suppression</category>
 <category>self-powered sensor</category>
 <category>cycling safety</category>
-</item>
-<item>
-<title>Mitigating the Optical-Electrical Trade-Off in Sb2S3 Solar Cells with a Buried Li-Modified ZnO Interlayer</title>
-<link>https://doi.org/10.1021/acsenergylett.6c03074</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c03074</guid>
-<pubDate>Sun, 22 Nov 2026 17:01:23 GMT</pubDate>
-<description>لایه‌ی میانی ZnO اصلاح‌شده با Li در فصل مشترک مدفون، مبادله‌ی نوری-الکتریکی را در سلول‌های خورشیدی Sb2S3 کاهش داده و بازده ۸.۱۰٪ و IQE برابر ۹۴٪ را به دست می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 Sb2S3 solar cell · ZnO interlayer · CdS buffer layer · interface engineering · Li modification</description>
-<category>Sb2S3 solar cell</category>
-<category>ZnO interlayer</category>
-<category>CdS buffer layer</category>
-<category>interface engineering</category>
-<category>Li modification</category>
-</item>
-<item>
-<title>Functionalized Interface Engineering of Cellulose-Based Electrolytes for Safety and Long-Life Li–Metal Batteries</title>
-<link>https://doi.org/10.1021/acsenergylett.6c02642</link>
-<guid isPermaLink="false">10.1021/acsenergylett.6c02642</guid>
-<pubDate>Sun, 22 Nov 2026 17:01:19 GMT</pubDate>
-<description>اصلاح دوگانه‌ی سلولز با گروه‌های فیتیک و سولفات در الکترولیت جامد، رسانایی یونی بالا و خودخاموش‌شوندگی را برای باتری‌های لیتیوم-فلزی ایمن و دیرپا فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-functionalization strategy grafting phytic (flame-retardant) and sulfate (fast Li-ion conducting) groups onto cellulose via a ternary deep eutectic solvent. This yields a safe, flexible solid electrolyte with high conductivity (1.48×10⁻³ S cm⁻¹), 5.2 V oxidation stability, self-extinguishing behavior, and long cycling (542/409 cycles), advancing eco-friendly cellulose electrolytes for next-generation Li-metal batteries.&lt;br&gt;🏷 cellulose electrolyte · Li-metal battery · flame retardancy · deep eutectic solvent · solid-state electrolyte</description>
-<category>cellulose electrolyte</category>
-<category>Li-metal battery</category>
-<category>flame retardancy</category>
-<category>deep eutectic solvent</category>
-<category>solid-state electrolyte</category>
 </item>
 </channel>
 </rss>
