@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 09:01:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 10:01:49 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Steric Effect of Branch Grafting Enables Highly Soluble and Stable Phenazines in Aqueous Organic Flow Batteries</title>
+<link>https://doi.org/10.1002/adma.75823</link>
+<guid isPermaLink="false">10.1002/adma.75823</guid>
+<pubDate>Mon, 23 Nov 2026 10:01:40 GMT</pubDate>
+<description>با اتصال زنجیره شاخهدار به فنازین، حلالیت و پایداری آن در باتری جریان آبی آلی افزایش یافت و ظرفیت تخلیه ۴۵.۵ Ah/L با افت ظرفیت بسیار کم در ۱۲۰۰ چرخه حاصل شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in introducing branched side chains to phenazine derivatives, which sterically suppress π–π stacking and ether hydrolysis, boosting solubility and stability. This enables a high-capacity (45.5 Ah/L), ultra-stable aqueous organic flow battery (0.00017% decay/cycle, 1200 cycles) and a pilot-scale stack, offering a promising route for large-scale energy storage.&lt;br&gt;🏷 aqueous organic flow battery · phenazine · branch grafting · solubility · steric hindrance</description>
+<category>aqueous organic flow battery</category>
+<category>phenazine</category>
+<category>branch grafting</category>
+<category>solubility</category>
+<category>steric hindrance</category>
+</item>
 <item>
 <title>Loss-window-guided potential clamping enables 27% solar-to-storage efficiency in tandem solar rechargeable batteries</title>
 <link>https://doi.org/10.1016/j.esci.2026.100676</link>
@@ -1194,18 +1206,6 @@
 <category>random charging segments</category>
 <category>data-driven estimation</category>
 <category>battery degradation</category>
-</item>
-<item>
-<title>Electronic and Spin-State Origins of Catalytic Activity in Single-Atom-Doped RuO 2 for Mg–CO 2 Batteries</title>
-<link>https://doi.org/10.1039/d6im00401f</link>
-<guid isPermaLink="false">10.1039/d6im00401f</guid>
-<pubDate>Fri, 20 Nov 2026 17:04:07 GMT</pubDate>
-<description>منشأ الکترونیکی و اسپینی فعالیت کاتالیستی RuO2 دوپ‌شده با اتم تک برای تبدیل CO2 و بهبود برگشت‌پذیری باتری Mg–CO2 بررسی می‌شود.&lt;br&gt;Industrial Chemistry &amp;amp;amp; Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Single-atom doping of RuO2 is shown to tune electronic and spin-state structure to govern CO2 conversion and discharge-product formation in Mg–CO2 batteries. This establishes a mechanistic link between catalyst electronic structure and reversibility, offering a design principle for efficient, reversible carbon-fixation energy storage.&lt;br&gt;🏷 Mg-CO2 battery · single-atom doping · RuO2 catalyst · spin state · CO2 conversion</description>
-<category>Mg-CO2 battery</category>
-<category>single-atom doping</category>
-<category>RuO2 catalyst</category>
-<category>spin state</category>
-<category>CO2 conversion</category>
 </item>
 </channel>
 </rss>
