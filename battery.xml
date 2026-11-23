@@ -5,8 +5,58 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 13:01:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:03:40 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Data-Driven Electrolyte Design by Electrotopological State Descriptors for Na-Ion Batteries with Minimal Solid-Electrolyte Interphase Dissolution</title>
+<link>https://doi.org/10.1021/jacs.6c12939</link>
+<guid isPermaLink="false">10.1021/jacs.6c12939</guid>
+<pubDate>Mon, 23 Nov 2026 14:03:28 GMT</pubDate>
+<description>با رویکرد داده‌محور مبتنی بر توصیفگر EState، الکترولیت‌هایی برای باتری Na-ion طراحی شد که انحلال SEI را به ۶٪ کاهش داده و بازده کولمبی نزدیک به واحد را ممکن ساخت.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 This work establishes the first quantitative, data-driven link between electrolyte physicochemical descriptors—specifically the solvent average electrotopological state (EState) index—and SEI dissolution in Na-ion batteries. High-EState electrolytes cut SEI dissolution to 6% of conventional levels, enabling 99.98% Coulombic efficiency over 1000 cycles in an all-earth-abundant full cell, providing general design principles for high-reversibility NIBs.&lt;br&gt;🏷 Na-ion battery · SEI dissolution · electrolyte design · electrotopological state · data-driven</description>
+<category>Na-ion battery</category>
+<category>SEI dissolution</category>
+<category>electrolyte design</category>
+<category>electrotopological state</category>
+<category>data-driven</category>
+</item>
+<item>
+<title>Hexafluoroisopropanol-Regulated Interfacial Engineering for Rapid Electrochemical Hydrogen Storage of Pyridine</title>
+<link>https://doi.org/10.1021/jacs.6c18427</link>
+<guid isPermaLink="false">10.1021/jacs.6c18427</guid>
+<pubDate>Mon, 23 Nov 2026 14:03:20 GMT</pubDate>
+<description>اصلاح سطحی با HFIP روی کاتالیزور Co9Cu بازده فارادایک هیدروژناسیون پیریدین به پیپریدین را به 83% و نرخ 1.03 mmol h–1 cm–2 می‌رساند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using hexafluoroisopropanol (HFIP) interfacial modification on a Co9Cu catalyst to boost electrochemical pyridine hydrogenation. HFIP anions form a hydrophobic layer that suppresses hydrogen evolution and enriches pyridine via dipole interactions, achieving 83% Faradaic efficiency and 1.03 mmol h⁻¹ cm⁻². This enables rapid, reversible hydrogen storage in pyridine/piperidine LOHC systems, demonstrating practical potential at ampere-scale currents.&lt;br&gt;🏷 LOHC · pyridine hydrogenation · HFIP · Co9Cu catalyst · electrocatalytic hydrogenation</description>
+<category>LOHC</category>
+<category>pyridine hydrogenation</category>
+<category>HFIP</category>
+<category>Co9Cu catalyst</category>
+<category>electrocatalytic hydrogenation</category>
+</item>
+<item>
+<title>Understanding Layered and Particle Electrochemical Heterogeneity in Lithium-Ion Batteries through a Tanks-in-Series Framework</title>
+<link>https://doi.org/10.1016/j.etran.2026.100656</link>
+<guid isPermaLink="false">10.1016/j.etran.2026.100656</guid>
+<pubDate>Mon, 23 Nov 2026 14:01:52 GMT</pubDate>
+<description>با چارچوب تانک‌های سری، ناهمگنی الکتروشیمیایی لایه‌ای و ذره‌ای در باتری‌های لیتیوم-یون مدل‌سازی و تحلیل می‌شود.&lt;br&gt;eTransportation | 🔬 Research Article&lt;br&gt;🏷 layered heterogeneity · tanks-in-series model · lithium-ion battery · particle heterogeneity · electrochemical modeling</description>
+<category>layered heterogeneity</category>
+<category>tanks-in-series model</category>
+<category>lithium-ion battery</category>
+<category>particle heterogeneity</category>
+<category>electrochemical modeling</category>
+</item>
+<item>
+<title>Dual-site combined regulation of local coordination and phase evolution enables ultrahigh-rate stable 5V spinel cathode</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112647</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112647</guid>
+<pubDate>Mon, 23 Nov 2026 14:01:44 GMT</pubDate>
+<description>با تنظیم هم‌زمان جایگاه‌های دوگانه و کنترل تحول فازی، کاتد اسپینل 5V با نرخ فوق‌بالا و پایداری بالا برای باتری لیتیوم-یون ارائه می‌شود.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 5V spinel cathode · dual-site doping · phase evolution · ultrahigh-rate · lithium-ion battery</description>
+<category>5V spinel cathode</category>
+<category>dual-site doping</category>
+<category>phase evolution</category>
+<category>ultrahigh-rate</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Internal Stress Effects on Electrode Stability in Coin Cells with Different Assembly Configurations</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02869</link>
@@ -1158,54 +1208,6 @@
 <category>conversion-alloying</category>
 <category>nickel doping</category>
 <category>reaction kinetics</category>
-</item>
-<item>
-<title>Regulating zinc interfacial chemistry and iodine redox behavior via a dual-site electrolyte additive for aqueous zinc–iodine batteries</title>
-<link>https://doi.org/10.1039/d6ta07321b</link>
-<guid isPermaLink="false">10.1039/d6ta07321b</guid>
-<pubDate>Fri, 20 Nov 2026 20:01:10 GMT</pubDate>
-<description>یک افزودنی الکترولیت دوگانه‌عملکرد با تری‌اتیل بورات، شیمی سطحی روی و رفتار ردوکس ید را در باتری آبی Zn-I2 تنظیم کرده و چرخه‌پذیری فوق‌طولانی فراهم می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using triethyl borate as a dual-site electrolyte additive that simultaneously regulates zinc interfacial chemistry and iodine redox behavior. Its significance is enabling reversible Zn plating/stripping at high current density and ultralong Zn–I₂ battery cycling exceeding 30,000 cycles, advancing stable aqueous zinc–iodine battery performance.&lt;br&gt;🏷 zinc-iodine battery · electrolyte additive · triethyl borate · zinc interface · iodine redox</description>
-<category>zinc-iodine battery</category>
-<category>electrolyte additive</category>
-<category>triethyl borate</category>
-<category>zinc interface</category>
-<category>iodine redox</category>
-</item>
-<item>
-<title>Thermal-performance-based evaluation of assembly timing for a room-temperature-curing paste thermal interface material in electric vehicle battery modules</title>
-<link>https://doi.org/10.1016/j.est.2026.125837</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125837</guid>
-<pubDate>Fri, 20 Nov 2026 18:02:00 GMT</pubDate>
-<description>زمان‌بندی مونتاژ خمیر رسانای حرارتی در دمای اتاق بر عملکرد حرارتی ماژول باتری خودروی برقی ارزیابی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal interface material · battery module · assembly timing · thermal performance · curing paste</description>
-<category>thermal interface material</category>
-<category>battery module</category>
-<category>assembly timing</category>
-<category>thermal performance</category>
-<category>curing paste</category>
-</item>
-<item>
-<title>Mild overcharge damage detection method for lithium-ion batteries based on dual fiber Bragg grating sensing</title>
-<link>https://doi.org/10.1016/j.est.2026.125789</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125789</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:56 GMT</pubDate>
-<description>روشی مبتنی بر دو حسگر تار نوری براگ برای تشخیص آسیب ناشی از اضافه‌شارژ ملایم در باتری‌های لیتیوم-یونی ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 overcharge detection · fiber Bragg grating · lithium-ion battery · strain sensing · thermal sensing</description>
-<category>overcharge detection</category>
-<category>fiber Bragg grating</category>
-<category>lithium-ion battery</category>
-<category>strain sensing</category>
-<category>thermal sensing</category>
-</item>
-<item>
-<title>Anchoring ruthenium oxide onto supramolecular-assembly-derived nitrogen-doped porous carbon for rapid zinc storage performance</title>
-<link>https://doi.org/10.1016/j.est.2026.125822</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125822</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:52 GMT</pubDate>
-<description>با تثبیت RuO2 روی کربن متخلخل دوپه‌شده با نیتروژن حاصل از خودآرایی سوپرمولکولی، ذخیره‌سازی سریع روی بهبود یافت.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ruthenium oxide · nitrogen-doped carbon · zinc storage · supramolecular assembly · porous carbon</description>
-<category>ruthenium oxide</category>
-<category>nitrogen-doped carbon</category>
-<category>zinc storage</category>
-<category>supramolecular assembly</category>
-<category>porous carbon</category>
 </item>
 </channel>
 </rss>
