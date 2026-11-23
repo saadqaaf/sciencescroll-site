@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 14:03:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 15:04:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sequential anion chemistry enables dynamic interphase regulation in high-voltage LiCoO 2</title>
+<link>https://doi.org/10.1126/sciadv.aej8436</link>
+<guid isPermaLink="false">10.1126/sciadv.aej8436</guid>
+<pubDate>Mon, 23 Nov 2026 15:03:47 GMT</pubDate>
+<description>با تنظیم سلواسیون موضعی و شیمی آنیونی متوالی (DFOB− و BF4−)، اینترفیس کاتد-الکترولیت بهصورت دینامیکی ترمیم شده و LiCoO2 در ۴.۵ ولت پایداری بالایی نشان میدهد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a diluent-mediated sequential solvation strategy that selectively redistributes two anions around Li⁺, enabling sequential interfacial chemistry: DFOB⁻ builds the initial CEI, while BF₄⁻ dynamically repairs defects and quenches reactive oxygen. This stabilizes high-voltage LiCoO₂, achieving 500 cycles at 4.5 V (73.5% retention) and 265.8 Wh/kg pouch cells with excellent −20°C performance, providing mechanistic insight into solvation-driven anion chemistry.&lt;br&gt;🏷 LiCoO2 cathode · high-voltage · anion chemistry · CEI regulation · local solvation</description>
+<category>LiCoO2 cathode</category>
+<category>high-voltage</category>
+<category>anion chemistry</category>
+<category>CEI regulation</category>
+<category>local solvation</category>
+</item>
+<item>
+<title>A membrane-guided strategy for optimizing proton exchange membrane fuel cells via spatially controlled acid distribution</title>
+<link>https://doi.org/10.1126/sciadv.aed2935</link>
+<guid isPermaLink="false">10.1126/sciadv.aed2935</guid>
+<pubDate>Mon, 23 Nov 2026 15:02:35 GMT</pubDate>
+<description>غشای PBI پیوندی با سایت‌های اتصال اسید، توزیع اسید فسفریک را در MEA کنترل کرده و بازه بهینه نسبت فسفر به پلاتین در لایه کاتالیست را برای پیل سوختی دما بالا معرفی می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a membrane-guided strategy using side-chain-grafted PBI membranes with tunable acid-binding sites to control PA partitioning, plus a semiquantitative descriptor (PA_CL/Pt_CL) and DRT analysis to decouple acid effects on resistance, kinetics, and transport. Significance: identifying a favorable PA_CL/Pt_CL range (~2–3) enables balanced acid distribution, nearly doubling performance over OPBI.&lt;br&gt;🏷 proton exchange membrane · phosphoric acid · polybenzimidazole · fuel cell · catalyst layer</description>
+<category>proton exchange membrane</category>
+<category>phosphoric acid</category>
+<category>polybenzimidazole</category>
+<category>fuel cell</category>
+<category>catalyst layer</category>
+</item>
 <item>
 <title>Data-Driven Electrolyte Design by Electrotopological State Descriptors for Na-Ion Batteries with Minimal Solid-Electrolyte Interphase Dissolution</title>
 <link>https://doi.org/10.1021/jacs.6c12939</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>sulfur-carbon interface</category>
 <category>high sulfur loading</category>
 <category>solid electrolyte</category>
-</item>
-<item>
-<title>Elucidating Sodium Clusters Formation and Dissociation in Hard Carbon Anodes</title>
-<link>https://doi.org/10.1039/d6ta07681e</link>
-<guid isPermaLink="false">10.1039/d6ta07681e</guid>
-<pubDate>Fri, 20 Nov 2026 20:01:29 GMT</pubDate>
-<description>این مطالعه تشکیل و تفکیک خوشه‌های سدیم را در آند کربن سخت با چگالی نقص بالا برای باتری‌های یون سدیم روشن می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a high-defect-density hard carbon to clarify how sodium clusters form and dissociate within HC anodes, addressing a key mechanistic gap in SIB storage. Its significance is providing mechanistic insight into cluster-based sodium storage, guiding rational design of high-performance HC anodes for commercial sodium-ion batteries.&lt;br&gt;🏷 hard carbon · sodium-ion battery · sodium clusters · defect density · anode</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>sodium clusters</category>
-<category>defect density</category>
-<category>anode</category>
-</item>
-<item>
-<title>Ni-mediated kinetic reconfiguration mechanism in ZnO conversion/alloying anodes for sodium-ion storage</title>
-<link>https://doi.org/10.1039/d6ta06242c</link>
-<guid isPermaLink="false">10.1039/d6ta06242c</guid>
-<pubDate>Fri, 20 Nov 2026 20:01:21 GMT</pubDate>
-<description>این کار نشان می‌دهد که شیمی شبکه و دوپینگ Ni، نه فقط سطح ویژه، سازوکار بازآرایی سینتیکی آندهای تبدیل/آلیاژسازی ZnO در ذخیره‌سازی سدیم را کنترل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in challenging the surface-area paradigm by identifying lattice chemistry—specifically Ni-mediated kinetic reconfiguration—as the dominant factor governing ZnO anode reaction kinetics in sodium-ion storage. Its significance is clarifying the true mechanistic driver, enabling rational lattice-engineering design of conversion/alloying anodes beyond conventional nanostructuring approaches.&lt;br&gt;🏷 ZnO anode · sodium-ion battery · conversion-alloying · nickel doping · reaction kinetics</description>
-<category>ZnO anode</category>
-<category>sodium-ion battery</category>
-<category>conversion-alloying</category>
-<category>nickel doping</category>
-<category>reaction kinetics</category>
 </item>
 </channel>
 </rss>
