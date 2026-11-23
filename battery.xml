@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 10:01:49 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 11:02:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrochemo‐mechanical interactions in rechargeable batteries: Mechanisms, characterization, and multiscale regulation</title>
+<link>https://doi.org/10.1002/inf2.70204</link>
+<guid isPermaLink="false">10.1002/inf2.70204</guid>
+<pubDate>Mon, 23 Nov 2026 11:01:57 GMT</pubDate>
+<description>این مرور، برهم‌کنش‌های الکتروشیمیایی-مکانیکی در باتری‌های قابل شارژ را از سازوکار و مشخصه‌یابی چندمقیاسی تا تنظیم تنش و تخریب بررسی می‌کند.&lt;br&gt;InfoMat | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 This review uniquely integrates mechanisms, advanced multiscale characterization (synchrotron methods, in situ sensors), and regulation of electrochemo-mechanical coupling across battery systems. Its novelty lies in framing mechanical effects as dual—beneficial for ion transport/kinetics and detrimental to structure—and in consolidating multiscale strategies from crystal and electrode to cell level, providing a unified framework for improving mechanical stability and long-term cycling performance.&lt;br&gt;🏷 electrochemo-mechanics · battery degradation · stress characterization · multiscale modeling · in situ sensors</description>
+<category>electrochemo-mechanics</category>
+<category>battery degradation</category>
+<category>stress characterization</category>
+<category>multiscale modeling</category>
+<category>in situ sensors</category>
+</item>
+<item>
+<title>Operando Pressure Monitoring, EIS, and X‐Ray Imaging of Solid‐State Sodium‐Sulfur Batteries — Insights into Chemo‐Mechanical Degradation Mechanisms</title>
+<link>https://doi.org/10.1002/aenm.71844</link>
+<guid isPermaLink="false">10.1002/aenm.71844</guid>
+<pubDate>Mon, 23 Nov 2026 11:01:41 GMT</pubDate>
+<description>با پایش هم‌زمان فشار، EIS و تصویربرداری پرتو ایکس، سازوکارهای تخریب شیمیایی-مکانیکی در باتری سدیم-گوگرد حالت جامد با الکترولیت‌های سولفیدی بررسی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a multi-modal operando platform combining pressure monitoring, EIS, and X-ray imaging to probe chemo-mechanical aging in solid-state Na||S cells. Its significance is revealing how electrolyte composition governs degradation: NPS causes localized sodium plating, while NPS-Cl improves interfacial stability and suppresses dendrites. This offers actionable guidance for sulfide electrolyte development and demonstrates operando diagnostics for resolving coupled chemo-mechanical phenomena.&lt;br&gt;🏷 solid-state sodium-sulfur battery · sulfide electrolyte · operando pressure monitoring · X-ray imaging · chemo-mechanical degradation</description>
+<category>solid-state sodium-sulfur battery</category>
+<category>sulfide electrolyte</category>
+<category>operando pressure monitoring</category>
+<category>X-ray imaging</category>
+<category>chemo-mechanical degradation</category>
+</item>
+<item>
+<title>Synergistic Interfacial and Subsurface Stabilization of O3‐Type Na‐Ni‐Fe‐Mn‐O Cathodes through Integrated Zr Modification</title>
+<link>https://doi.org/10.1002/aenm.71847</link>
+<guid isPermaLink="false">10.1002/aenm.71847</guid>
+<pubDate>Mon, 23 Nov 2026 11:01:36 GMT</pubDate>
+<description>اصلاح یکپارچه Zr در کاتد O3-Na[Ni0.3Fe0.3Mn0.4]O2 لایه سطحی Na2ZrO3 ایجاد کرد و پایداری چرخه و مقاومت به HF را در باتری سدیم-یون بهبود داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an integrated Zr surface/subsurface strategy that converts residual Na₂CO₃/NaOH into a Na₂ZrO₃-rich nanolayer with near-surface Zr doping. This dual modification suppresses HF attack, transition-metal dissolution, cracking, and surface reconstruction, while reducing anisotropic lattice variation. Significantly, it raises capacity retention from 26.4% to 61.8% after 500 cycles, advancing O3-type sodium cathode stability.&lt;br&gt;🏷 O3-type cathode · sodium-ion battery · Zr modification · surface stabilization · HF attack</description>
+<category>O3-type cathode</category>
+<category>sodium-ion battery</category>
+<category>Zr modification</category>
+<category>surface stabilization</category>
+<category>HF attack</category>
+</item>
+<item>
+<title>Direct Solar Storage and On‐Demand Power via Threshold‐Matched Silicon Photovoltaics and Dual‐Ion Batteries</title>
+<link>https://doi.org/10.1002/aenm.71866</link>
+<guid isPermaLink="false">10.1002/aenm.71866</guid>
+<pubDate>Mon, 23 Nov 2026 11:01:26 GMT</pubDate>
+<description>یک معماری تطبیق‌یافته آستانه از ماژول فتوولتائیک سیلیکونی و باتری دو-یونی، ذخیره مستقیم انرژی خورشیدی و تحویل توان لحظه‌ای را بدون الکترونیک قدرت واسط ممکن کرد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in threshold-matched direct coupling of a tailored silicon photovoltaic module with a high-voltage dual-ion battery, eliminating intermediate power electronics. This enables direct solar charging, dual regimes of solar-sustained operation and on-demand burst power (11,430 W/kg), stable drone-relevant dynamic loads, and −10°C operation, validated by indoor/outdoor flight demos—establishing threshold matching as a practical strategy for energy-autonomous mobile systems.&lt;br&gt;🏷 dual-ion battery · silicon photovoltaics · direct solar storage · threshold matching · burst power</description>
+<category>dual-ion battery</category>
+<category>silicon photovoltaics</category>
+<category>direct solar storage</category>
+<category>threshold matching</category>
+<category>burst power</category>
+</item>
 <item>
 <title>Steric Effect of Branch Grafting Enables Highly Soluble and Stable Phenazines in Aqueous Organic Flow Batteries</title>
 <link>https://doi.org/10.1002/adma.75823</link>
@@ -1158,54 +1206,6 @@
 <category>topology optimization</category>
 <category>surrogate model</category>
 <category>multi-objective optimization</category>
-</item>
-<item>
-<title>Interfacial engineering of ring-interlocked CuₓO/nanoporous CuNiO heterostructures for remarkable photo-enhanced energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125675</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125675</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:43 GMT</pubDate>
-<description>این پژوهش با مهندسی سطح مشترک ناهم‌ساختارهای حلقوی درهم‌قفل CuxO/CuNiO متخلخل، ذخیره‌سازی انرژی تقویت‌شده نوری را نشان می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 CuxO/CuNiO heterostructure · interfacial engineering · photo-enhanced energy storage · nanoporous CuNiO · ring-interlocked</description>
-<category>CuxO/CuNiO heterostructure</category>
-<category>interfacial engineering</category>
-<category>photo-enhanced energy storage</category>
-<category>nanoporous CuNiO</category>
-<category>ring-interlocked</category>
-</item>
-<item>
-<title>A structured system-theoretic procedure for analyzing lithium-ion battery degradation</title>
-<link>https://doi.org/10.1016/j.est.2026.125413</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125413</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:39 GMT</pubDate>
-<description>این مقاله یک رویه ساختاریافته نظریه-سیستمی برای تحلیل و مدل‌سازی تخریب باتری‌های لیتیوم-یون ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery · degradation analysis · system-theoretic procedure · battery aging · structured modeling</description>
-<category>lithium-ion battery</category>
-<category>degradation analysis</category>
-<category>system-theoretic procedure</category>
-<category>battery aging</category>
-<category>structured modeling</category>
-</item>
-<item>
-<title>When subsidies backfire: The interplay of financing mechanisms and government subsidies in power battery recycling supply chains</title>
-<link>https://doi.org/10.1016/j.est.2026.125812</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125812</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:35 GMT</pubDate>
-<description>این مقاله برهم‌کنش سازوکارهای تأمین مالی و یارانه‌های دولتی در زنجیره تأمین بازیافت باتری خودرو را تحلیل می‌کند و نشان می‌دهد یارانه‌ها می‌توانند اثر معکوس داشته باشند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery recycling · government subsidies · supply chain · financing mechanisms · game theory</description>
-<category>battery recycling</category>
-<category>government subsidies</category>
-<category>supply chain</category>
-<category>financing mechanisms</category>
-<category>game theory</category>
-</item>
-<item>
-<title>Data-driven state of health estimation of lithium-ion batteries using random charging segments</title>
-<link>https://doi.org/10.1016/j.est.2026.125488</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125488</guid>
-<pubDate>Fri, 20 Nov 2026 18:01:30 GMT</pubDate>
-<description>این پژوهش روشی داده‌محور برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون با استفاده از بخش‌های تصادفی شارژ ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion batteries · random charging segments · data-driven estimation · battery degradation</description>
-<category>state of health</category>
-<category>lithium-ion batteries</category>
-<category>random charging segments</category>
-<category>data-driven estimation</category>
-<category>battery degradation</category>
 </item>
 </channel>
 </rss>
