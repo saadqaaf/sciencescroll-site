@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 16:02:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 17:01:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coupled H+/Na+ Interlayer Regulation and Porous Nanoflower Architecture Enable Superior Zinc-Ion Storage in Hydrogen Sodium Vanadate Cathodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04750</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04750</guid>
+<pubDate>Mon, 23 Nov 2026 17:01:40 GMT</pubDate>
+<description>کاتد HNaV6O16·4H2O با ساختار نانوفلور متخلخل و هم‌میان‌افزایی H+/Na+، انتقال Zn2+ را تسهیل کرده و عملکرد باتری آبی روی-یون را در سل سکه‌ای و کیسه‌ای انعطاف‌پذیر بهبود می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a rapid one-step hydrothermal synthesis of H+/Na+ cointercalated hydrogen sodium vanadate with a porous nanoflower architecture. Na+ pillars stabilize the layered framework while H+ enables local charge compensation, lowering Zn2+ diffusion barriers. This dual-ion strategy yields superior zinc-ion storage in both coin and flexible pouch cells, offering a practical route to high-performance aqueous battery cathodes.&lt;br&gt;🏷 zinc-ion battery · vanadate cathode · H+/Na+ cointercalation · nanoflower · aqueous electrolyte</description>
+<category>zinc-ion battery</category>
+<category>vanadate cathode</category>
+<category>H+/Na+ cointercalation</category>
+<category>nanoflower</category>
+<category>aqueous electrolyte</category>
+</item>
 <item>
 <title>Micropore-confined deposition of amorphous Si in fluidized-bed chemical vapor deposition: Engineering high-strength Si@C anodes with amorphous lithiation for stable cycling</title>
 <link>https://doi.org/10.1016/j.est.2026.125906</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>nanofriction</category>
 <category>solid electrolyte interphase</category>
 <category>dendrite suppression</category>
-</item>
-<item>
-<title>Wafer-scale transferable hexagonal boron nitride membranes via interfacial engineering for multilevel storage</title>
-<link>https://doi.org/10.1038/s41467-026-79354-3</link>
-<guid isPermaLink="false">10.1038/s41467-026-79354-3</guid>
-<pubDate>Sat, 21 Nov 2026 02:02:55 GMT</pubDate>
-<description>غشاهای h-BN در مقیاس ویفر با مهندسی سطح مشترک به‌صورت قابل‌انتقال ساخته شده و برای ذخیره‌سازی چندسطحی به کار می‌روند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using controlled sapphire nitridation with a B–O buffer layer to grow wafer-scale, crack-free, thickness-controllable h-BN membranes that transfer damage-free. This enables memristors with 1.06 V set voltage, 1.57×10⁹ ON/OFF ratio, 30 ns switching, and multilevel stability, offering a scalable route for next-generation in-memory computing.&lt;br&gt;🏷 hexagonal boron nitride · membrane transfer · interfacial engineering · multilevel storage · wafer-scale</description>
-<category>hexagonal boron nitride</category>
-<category>membrane transfer</category>
-<category>interfacial engineering</category>
-<category>multilevel storage</category>
-<category>wafer-scale</category>
 </item>
 </channel>
 </rss>
