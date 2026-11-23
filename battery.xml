@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 00:01:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 01:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coupled coordination and electrochemical interfaces in aqueous zinc batteries: from zinc ion solvation to interphases, cathodes and intelligent diagnostics</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218791</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218791</guid>
+<pubDate>Mon, 23 Nov 2026 01:01:08 GMT</pubDate>
+<description>این مرور برهم‌کنش‌های هماهنگی و فصل‌مشترک الکتروشیمیایی در باتری‌های آبی روی، از حل‌پوشی یون روی تا بین‌فازها، کاتدها و تشخیص هوشمند را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aqueous zinc battery · zinc ion solvation · electrode-electrolyte interphase · cathode interfaces · intelligent diagnostics</description>
+<category>aqueous zinc battery</category>
+<category>zinc ion solvation</category>
+<category>electrode-electrolyte interphase</category>
+<category>cathode interfaces</category>
+<category>intelligent diagnostics</category>
+</item>
 <item>
 <title>Materials-state-driven reconstruction of spent lithium-ion batteries: Mechanisms, boundaries, and decision frameworks</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101895</link>
@@ -1198,19 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in exper
 <category>voltage hysteresis</category>
 <category>charge transfer</category>
 <category>Ru substitution</category>
-</item>
-<item>
-<title>Taming Metal–Electrolyte Interface via Two-Dimensional Organic Metal Chalcogenide Colloids for Anode-Free Sodium Metal Batteries</title>
-<link>https://doi.org/10.1021/jacs.6c21804</link>
-<guid isPermaLink="false">10.1021/jacs.6c21804</guid>
-<pubDate>Fri, 20 Nov 2026 16:01:54 GMT</pubDate>
-<description>این مقاله با افزودنی نانوصفحات پلیمر کوئوردیناسیونی به‌عنوان الکترولیت کلوئیدی، یک SEI شیب‌دار و بدون دندریت می‌سازد و عمر باتری سدیم بدون آند را به‌شدت افزایش می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using 2D organic metal chalcogenide (AgS) coordination polymer nanosheets as colloidal electrolyte additives, which decompose in situ to form a gradient Ag/NaF/Na2S solid electrolyte interphase. This spatially regulates interfacial reactions, enabling dendrite-free Na deposition. Significance: 10-fold lifespan improvement (&amp;gt;1600 cycles) and stable 0.5-Ah anode-free pouch cells, establishing coordination polymer colloids as a new additive class.&lt;br&gt;🏷 anode-free sodium battery · colloid electrolyte · coordination polymer · solid electrolyte interphase · dendrite suppression</description>
-<category>anode-free sodium battery</category>
-<category>colloid electrolyte</category>
-<category>coordination polymer</category>
-<category>solid electrolyte interphase</category>
-<category>dendrite suppression</category>
 </item>
 </channel>
 </rss>

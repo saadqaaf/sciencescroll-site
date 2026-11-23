@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 00:01:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 01:01:10 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coupled coordination and electrochemical interfaces in aqueous zinc batteries: from zinc ion solvation to interphases, cathodes and intelligent diagnostics</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218791</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218791</guid>
+<pubDate>Mon, 23 Nov 2026 01:01:08 GMT</pubDate>
+<description>این مرور برهم‌کنش‌های هماهنگی و فصل‌مشترک الکتروشیمیایی در باتری‌های آبی روی، از حل‌پوشی یون روی تا بین‌فازها، کاتدها و تشخیص هوشمند را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 aqueous zinc battery · zinc ion solvation · electrode-electrolyte interphase · cathode interfaces · intelligent diagnostics</description>
+<category>aqueous zinc battery</category>
+<category>zinc ion solvation</category>
+<category>electrode-electrolyte interphase</category>
+<category>cathode interfaces</category>
+<category>intelligent diagnostics</category>
+</item>
+<item>
+<title>Mechanistic divergence in CH activation: transition-metal-driven pathways to spirooxindole frameworks (2015–2025)</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218795</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218795</guid>
+<pubDate>Mon, 23 Nov 2026 01:01:04 GMT</pubDate>
+<description>این مرور به بررسی مسیرهای مکانیکی متفاوت فعال‌سازی پیوند C-H با واسطه فلزات واسطه برای ساخت چارچوب‌های spirooxindole در بازه ۲۰۱۵ تا ۲۰۲۵ می‌پردازد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 spirooxindole · C-H activation · transition metal catalysis · mechanistic pathways · oxindole synthesis</description>
+<category>spirooxindole</category>
+<category>C-H activation</category>
+<category>transition metal catalysis</category>
+<category>mechanistic pathways</category>
+<category>oxindole synthesis</category>
+</item>
 <item>
 <title>Materials-state-driven reconstruction of spent lithium-ion batteries: Mechanisms, boundaries, and decision frameworks</title>
 <link>https://doi.org/10.1016/j.pmatsci.2026.101895</link>
@@ -1193,30 +1217,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 bacillithiol · BshC · c
 <category>diselenide-bridged silica</category>
 <category>ROS-responsive nanoparticle</category>
 <category>ferrostatin-1</category>
-</item>
-<item>
-<title>Urchin-Like Mesoporous Silica Nanoparticles Lower Intraocular Pressure through PARP1 Inhibition</title>
-<link>https://doi.org/10.1021/acsnano.6c12092</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12092</guid>
-<pubDate>Sat, 21 Nov 2026 22:04:22 GMT</pubDate>
-<description>نانوذرات سیلیکای خارپشتی با پوسته MOF داروی مهارکننده PARP1 و NMN را به‌صورت pH-کنترل‌شده رسانده و با بازیابی NAD+ و AKT-eNOS فشار داخل چشمی را کاهش می‌دهند.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 mesoporous silica nanoparticle · PARP1 inhibition · intraocular pressure · glaucoma · MOF shell</description>
-<category>mesoporous silica nanoparticle</category>
-<category>PARP1 inhibition</category>
-<category>intraocular pressure</category>
-<category>glaucoma</category>
-<category>MOF shell</category>
-</item>
-<item>
-<title>Interacting Cosolvents-Regulated Solvation for Rapid Quasi-Solid–State Sulfur Reactions in Li–S Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c12314</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12314</guid>
-<pubDate>Sat, 21 Nov 2026 22:04:18 GMT</pubDate>
-<description>الکترولیت دوجزئی THF-CPME با تنظیم سلواسیون، واکنش شبه‌جامد گوگرد را تسریع کرده و باتری Li-S با ظرفیت 5.2 mAh cm-2 و نسبت E/S پایین را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dipole-interacting binary solvents (THF/CPME) that decouple bulk solvation from surface Li-polysulfide solvation, enabling rapid quasi-solid-state sulfur reactions. This redirects sulfur speciation toward 3D Li2S and β-S8 growth, achieving 5.2 mAh cm⁻² at low E/S ratio (3 μL mg⁻¹) and stable 2.44 Ah pouch-cell cycling—reconciling bulk dissolution with surface kinetics for high-energy Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · sparingly solvating electrolyte · quasi-solid-state reaction · cosolvent solvation · lean electrolyte</description>
-<category>lithium-sulfur battery</category>
-<category>sparingly solvating electrolyte</category>
-<category>quasi-solid-state reaction</category>
-<category>cosolvent solvation</category>
-<category>lean electrolyte</category>
 </item>
 </channel>
 </rss>
