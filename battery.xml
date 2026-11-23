@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 22:01:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Prestripping Protocol for Reconciling Lithium Dissolution and Galvanic Corrosion in Anode-Free Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02416</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02416</guid>
+<pubDate>Mon, 23 Nov 2026 23:01:06 GMT</pubDate>
+<description>پروتکل پیش‌حذف لیتیوم با گام کوتاه جریان پایین و سپس حذف جریان بالا، با ایجاد جبهه انحلال یکنواخت و کاهش خوردگی گالوانیک، بازگشت‌پذیری لیتیوم را در باتری‌های بدون آند بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pre-stripping protocol—brief low-current stripping followed by higher-current bulk stripping—that creates a uniform dissolution front while limiting Li–Cu galvanic corrosion. Its significance is reconciling the trade-off between morphological regulation and corrosion loss, identifying three governing factors (SEI passivation, corrosion tolerance, dynamic area evolution), and validating improved Li reversibility in 1 Ah anode-free pouch cells.&lt;br&gt;🏷 anode-free lithium battery · lithium stripping · galvanic corrosion · solid electrolyte interphase · pouch cell</description>
+<category>anode-free lithium battery</category>
+<category>lithium stripping</category>
+<category>galvanic corrosion</category>
+<category>solid electrolyte interphase</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries</title>
 <link>https://doi.org/10.1038/s41560-026-02172-w</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>dual-crosslinking</category>
 <category>alkyl dihydrazide</category>
 <category>in-situ crosslinking</category>
-</item>
-<item>
-<title>Thermosensitive composite hydrogel for inhibiting lithium-ion battery thermal runaway: preparation, performance, and mechanisms</title>
-<link>https://doi.org/10.1016/j.est.2026.125838</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125838</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:35 GMT</pubDate>
-<description>این مقاله هیدروژل کامپوزیتی حساس به دما را برای مهار فرار حرارتی باتری لیتیوم-یون تهیه و مکانیزم عملکرد آن را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 thermal runaway · composite hydrogel · thermosensitive · lithium-ion battery · safety</description>
-<category>thermal runaway</category>
-<category>composite hydrogel</category>
-<category>thermosensitive</category>
-<category>lithium-ion battery</category>
-<category>safety</category>
 </item>
 </channel>
 </rss>

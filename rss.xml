@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 22:01:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Prestripping Protocol for Reconciling Lithium Dissolution and Galvanic Corrosion in Anode-Free Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02416</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02416</guid>
+<pubDate>Mon, 23 Nov 2026 23:01:06 GMT</pubDate>
+<description>پروتکل پیش‌حذف لیتیوم با گام کوتاه جریان پایین و سپس حذف جریان بالا، با ایجاد جبهه انحلال یکنواخت و کاهش خوردگی گالوانیک، بازگشت‌پذیری لیتیوم را در باتری‌های بدون آند بهبود می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a pre-stripping protocol—brief low-current stripping followed by higher-current bulk stripping—that creates a uniform dissolution front while limiting Li–Cu galvanic corrosion. Its significance is reconciling the trade-off between morphological regulation and corrosion loss, identifying three governing factors (SEI passivation, corrosion tolerance, dynamic area evolution), and validating improved Li reversibility in 1 Ah anode-free pouch cells.&lt;br&gt;🏷 anode-free lithium battery · lithium stripping · galvanic corrosion · solid electrolyte interphase · pouch cell</description>
+<category>anode-free lithium battery</category>
+<category>lithium stripping</category>
+<category>galvanic corrosion</category>
+<category>solid electrolyte interphase</category>
+<category>pouch cell</category>
+</item>
 <item>
 <title>A shared meaning component across languages in the human brain</title>
 <link>https://doi.org/10.1038/s41593-026-02523-6</link>
@@ -1194,18 +1206,6 @@
 <category>tonotopy</category>
 <category>frequency mapping</category>
 <category>noise canceling</category>
-</item>
-<item>
-<title>LONP-1 deficiency causes dysregulated protein synthesis within mitochondria that is suppressed by mitoribosomal mutations</title>
-<link>https://doi.org/10.1126/sciadv.aeg4754</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg4754</guid>
-<pubDate>Mon, 23 Nov 2026 15:01:59 GMT</pubDate>
-<description>کمبود LONP-1 در C. elegans سنتز پروتئین میتوکندریایی را مختل می‌کند و جهش‌های پروتئین ریبوزوم میتوکندریایی مانند MRPS-38 فسفریلاسیون اکسیداتیو را بازیابی می‌کنند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 LONP-1 protease · mitochondrial translation · mitoribosome · MRPS-38 · C. elegans</description>
-<category>LONP-1 protease</category>
-<category>mitochondrial translation</category>
-<category>mitoribosome</category>
-<category>MRPS-38</category>
-<category>C. elegans</category>
 </item>
 </channel>
 </rss>
