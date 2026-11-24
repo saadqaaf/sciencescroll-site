@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 12:01:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 13:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Suppressing Irreversible Interlayer Migration via Enhancing Intralayer Interaction to Alleviate Voltage Hysteresis in Oxygen-Redox Na-Layered Cathode</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04555</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04555</guid>
+<pubDate>Tue, 24 Nov 2026 13:01:16 GMT</pubDate>
+<description>با تقویت پیوند Zn–O و مهار مهاجرت بین‌لایه‌ای Zn در کاتد لایه‌ای Na0.67Zn0.13Fe0.15Mn0.72O2، هیسترزیس ولتاژ از 1.47 به 0.97 V کاهش یافت.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying weak Zn–O bonds as the cause of irreversible interlayer Zn migration and voltage hysteresis in oxygen-redox Na-layered cathodes, and proposing a local coordination environment regulation strategy that strengthens Zn–O bonds to suppress migration. This reduces voltage hysteresis from 1.47 to 0.97 V and nearly doubles capacity retention, offering a universal design principle for high-energy sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · oxygen-redox cathode · voltage hysteresis · Zn migration · layered oxide</description>
+<category>sodium-ion battery</category>
+<category>oxygen-redox cathode</category>
+<category>voltage hysteresis</category>
+<category>Zn migration</category>
+<category>layered oxide</category>
+</item>
 <item>
 <title>Two-stage adaptive robust dispatch of V2G-enabled community microgrids under renewable generation and price uncertainties</title>
 <link>https://doi.org/10.1016/j.est.2026.125791</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>interfaces</category>
 <category>ionic conductivity</category>
 <category>dendrite growth</category>
-</item>
-<item>
-<title>Entropy-engineered polar heterogeneity enables near-decoupled polarization–strain behavior for high-density energy storage</title>
-<link>https://doi.org/10.1038/s41467-026-79625-z</link>
-<guid isPermaLink="false">10.1038/s41467-026-79625-z</guid>
-<pubDate>Sat, 21 Nov 2026 22:05:04 GMT</pubDate>
-<description>این پژوهش با مهندسی آنتروپی و ایجاد ناهمگنی قطبی، رفتار قطبی‌شدن-کرنش تقریباً جدا شده را برای ذخیره‌سازی انرژی با چگالی بالا ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Entropy is introduced as a quantitative design parameter to engineer polar heterogeneity in lead-free relaxor ferroelectrics, disrupting long-range polar coherence and decoupling polarization from strain. This yields an ultralow electrostrictive coefficient and 21.5 J cm⁻³ energy density with minimal electrostrain, establishing configurational entropy as a descriptor for weak electromechanical coupling in high-density dielectric capacitors.&lt;br&gt;🏷 entropy engineering · polar heterogeneity · energy storage · polarization-strain decoupling · dielectric capacitor</description>
-<category>entropy engineering</category>
-<category>polar heterogeneity</category>
-<category>energy storage</category>
-<category>polarization-strain decoupling</category>
-<category>dielectric capacitor</category>
 </item>
 </channel>
 </rss>
