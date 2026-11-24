@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 22:01:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 23:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Understanding Texture Evolution Dynamics in the Electrodeposition of Copper Current Collectors for Lithium-Metal Batteries via Differential in Situ XRD</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03781</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03781</guid>
+<pubDate>Tue, 24 Nov 2026 23:01:20 GMT</pubDate>
+<description>با XRD همگام‌ترونی درجا، تکامل بافت مس الکترودپوشش‌شده در چگالی جریان و کلرید مختلف بررسی و نشان داده شد بافت {110} قوی باعث کاهش هیسترزیس و پایداری چرخه بیشتر می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a differential in situ XRD method that isolates the texture of newly deposited copper, revealing surface texture emerges earlier than conventional analysis shows. Significance: quantitative links between current density, chloride concentration, and {110} texture enable rapid optimization of copper current collectors, yielding lower voltage hysteresis and improved cycling stability in lithium-metal batteries.&lt;br&gt;🏷 copper current collector · lithium-metal battery · texture evolution · in situ XRD · electrodeposition</description>
+<category>copper current collector</category>
+<category>lithium-metal battery</category>
+<category>texture evolution</category>
+<category>in situ XRD</category>
+<category>electrodeposition</category>
+</item>
 <item>
 <title>Gradient Zn 2+ Desolvation in Hierarchically Confined Carbon Enabled by Recycled H 3 PO 4 Engineering for High‐Density Charge Storage</title>
 <link>https://doi.org/10.1002/smll.76268</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>operando pressure monitoring</category>
 <category>X-ray imaging</category>
 <category>chemo-mechanical degradation</category>
-</item>
-<item>
-<title>Synergistic Interfacial and Subsurface Stabilization of O3‐Type Na‐Ni‐Fe‐Mn‐O Cathodes through Integrated Zr Modification</title>
-<link>https://doi.org/10.1002/aenm.71847</link>
-<guid isPermaLink="false">10.1002/aenm.71847</guid>
-<pubDate>Mon, 23 Nov 2026 11:01:36 GMT</pubDate>
-<description>اصلاح یکپارچه Zr در کاتد O3-Na[Ni0.3Fe0.3Mn0.4]O2 لایه سطحی Na2ZrO3 ایجاد کرد و پایداری چرخه و مقاومت به HF را در باتری سدیم-یون بهبود داد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an integrated Zr surface/subsurface strategy that converts residual Na₂CO₃/NaOH into a Na₂ZrO₃-rich nanolayer with near-surface Zr doping. This dual modification suppresses HF attack, transition-metal dissolution, cracking, and surface reconstruction, while reducing anisotropic lattice variation. Significantly, it raises capacity retention from 26.4% to 61.8% after 500 cycles, advancing O3-type sodium cathode stability.&lt;br&gt;🏷 O3-type cathode · sodium-ion battery · Zr modification · surface stabilization · HF attack</description>
-<category>O3-type cathode</category>
-<category>sodium-ion battery</category>
-<category>Zr modification</category>
-<category>surface stabilization</category>
-<category>HF attack</category>
 </item>
 </channel>
 </rss>
