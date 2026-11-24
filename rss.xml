@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 08:04:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bias-Free Photoelectrochemical Valorization of Glycerol at Both Photoelectrodes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02424</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02424</guid>
+<pubDate>Tue, 24 Nov 2026 09:01:03 GMT</pubDate>
+<description>یک سلول فوتوالکتروشیمیایی بدون بایاس با دو فوتوالکترود برای تبدیل همزمان گلیسرول به گلیسرآلدهید در آند و کاتد ارائه شده و بهره‌وری ترکیبی 32.1 میکرومول بر سانتی‌متر مربع در ساعت دست یافته است.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;🏷 glycerol valorization · photoelectrochemical cell · CuBi2O4 photocathode · TiO2 photoanode · bias-free</description>
+<category>glycerol valorization</category>
+<category>photoelectrochemical cell</category>
+<category>CuBi2O4 photocathode</category>
+<category>TiO2 photoanode</category>
+<category>bias-free</category>
+</item>
 <item>
 <title>Atomic Modulation of Metal-Site Polarization: Achieving Rapid Li+ Transport and Interfacial Stabilization in Polymer Electrolytes for Solid-State Li-Air Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105681</link>
@@ -1198,19 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 hexaphyrin cage · supram
 <category>proton-coupled electron transfer</category>
 <category>aromaticity switching</category>
 <category>cooperative binding</category>
-</item>
-<item>
-<title>Structural Evolution Accompanies Selectivity Changes during the Electrocatalytic Reduction of CO2 on a Vicinal Cu(310) Pre-Catalyst</title>
-<link>https://doi.org/10.1021/jacs.6c12753</link>
-<guid isPermaLink="false">10.1021/jacs.6c12753</guid>
-<pubDate>Tue, 24 Nov 2026 00:03:45 GMT</pubDate>
-<description>سطح پله‌دار Cu(310) در حین CO2RR بازسازی شده و ناهمواری‌های مزوسکوپی ایجاد می‌کند؛ گزینش‌پذیری هیدروکربن با گذشت زمان افت کرده و با تیمار اکسایشی درجا بازگردانده می‌شود.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CO2 electroreduction · Cu(310) · surface reconstruction · hydrocarbon selectivity · deactivation</description>
-<category>CO2 electroreduction</category>
-<category>Cu(310)</category>
-<category>surface reconstruction</category>
-<category>hydrocarbon selectivity</category>
-<category>deactivation</category>
 </item>
 </channel>
 </rss>
