@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 04:02:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 05:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Depth-robust super-resolution nanofabrication for 3D mesoscopic photonic structures</title>
+<link>https://doi.org/10.1038/s41565-026-02335-6</link>
+<guid isPermaLink="false">10.1038/s41565-026-02335-6</guid>
+<pubDate>Tue, 24 Nov 2026 05:01:10 GMT</pubDate>
+<description>این مقاله یک روش نانوساخت دقیق با قدرت تفکیک بالا و مقاوم در عمق برای ساخت ساختارهای فوتونی سه‌بعدی مزوسکوپی ارائه می‌دهد.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;🏷 super-resolution nanofabrication · 3D photonic structures · mesoscopic structures · depth robustness · lithography</description>
+<category>super-resolution nanofabrication</category>
+<category>3D photonic structures</category>
+<category>mesoscopic structures</category>
+<category>depth robustness</category>
+<category>lithography</category>
+</item>
 <item>
 <title>How to make climate anxiety your superpower</title>
 <link>https://doi.org/10.1038/d41586-026-03818-1</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 Pt/γ-Al2O3 · CO adsorpt
 <category>nitrate reduction</category>
 <category>C-N coupling</category>
 <category>molecular coordination</category>
-</item>
-<item>
-<title>Nanofluid-assisted assembly of CuI/CsPbBr3 gradient hybrid absorbers for high-efficiency perovskite laser cells</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112642</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112642</guid>
-<pubDate>Tue, 24 Nov 2026 00:02:17 GMT</pubDate>
-<description>جاذب‌های هیبریدی گرادیانی CuI/CsPbBr3 با کمک نانوسیال مونتاژ شده و برای سلول‌های لیزری پروسکایتی با بازده بالا به کار می‌روند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 perovskite laser cell · CuI/CsPbBr3 · nanofluid assembly · gradient absorber · photovoltaics</description>
-<category>perovskite laser cell</category>
-<category>CuI/CsPbBr3</category>
-<category>nanofluid assembly</category>
-<category>gradient absorber</category>
-<category>photovoltaics</category>
 </item>
 </channel>
 </rss>
