@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 11:01:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:01:28 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Two-stage adaptive robust dispatch of V2G-enabled community microgrids under renewable generation and price uncertainties</title>
+<link>https://doi.org/10.1016/j.est.2026.125791</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125791</guid>
+<pubDate>Tue, 24 Nov 2026 12:01:26 GMT</pubDate>
+<description>این مقاله یک مدل بهینه‌سازی مقاوم دومرحله‌ای برای بهره‌برداری از ریزشبکه‌های اجتماعی مجهز به V2G تحت عدم‌قطعیت تولید تجدیدپذیر و قیمت ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 V2G · community microgrid · robust dispatch · renewable uncertainty · price uncertainty</description>
+<category>V2G</category>
+<category>community microgrid</category>
+<category>robust dispatch</category>
+<category>renewable uncertainty</category>
+<category>price uncertainty</category>
+</item>
 <item>
 <title>Atomic Modulation of Metal-Site Polarization: Achieving Rapid Li+ Transport and Interfacial Stabilization in Polymer Electrolytes for Solid-State Li-Air Batteries</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105681</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>energy storage</category>
 <category>polarization-strain decoupling</category>
 <category>dielectric capacitor</category>
-</item>
-<item>
-<title>Interacting Cosolvents-Regulated Solvation for Rapid Quasi-Solid–State Sulfur Reactions in Li–S Batteries</title>
-<link>https://doi.org/10.1021/acsnano.6c12314</link>
-<guid isPermaLink="false">10.1021/acsnano.6c12314</guid>
-<pubDate>Sat, 21 Nov 2026 22:04:18 GMT</pubDate>
-<description>الکترولیت دوجزئی THF-CPME با تنظیم سلواسیون، واکنش شبه‌جامد گوگرد را تسریع کرده و باتری Li-S با ظرفیت 5.2 mAh cm-2 و نسبت E/S پایین را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;💡 The novelty lies in dipole-interacting binary solvents (THF/CPME) that decouple bulk solvation from surface Li-polysulfide solvation, enabling rapid quasi-solid-state sulfur reactions. This redirects sulfur speciation toward 3D Li2S and β-S8 growth, achieving 5.2 mAh cm⁻² at low E/S ratio (3 μL mg⁻¹) and stable 2.44 Ah pouch-cell cycling—reconciling bulk dissolution with surface kinetics for high-energy Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · sparingly solvating electrolyte · quasi-solid-state reaction · cosolvent solvation · lean electrolyte</description>
-<category>lithium-sulfur battery</category>
-<category>sparingly solvating electrolyte</category>
-<category>quasi-solid-state reaction</category>
-<category>cosolvent solvation</category>
-<category>lean electrolyte</category>
 </item>
 </channel>
 </rss>
