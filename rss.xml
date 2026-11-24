@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 14:02:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 15:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ISOMPRA enables the disambiguation of transcriptional and post-transcriptional effects of genetic variants</title>
+<link>https://doi.org/10.1038/s41592-026-03302-8</link>
+<guid isPermaLink="false">10.1038/s41592-026-03302-8</guid>
+<pubDate>Tue, 24 Nov 2026 15:01:09 GMT</pubDate>
+<description>ISOMPRA روشی برای تفکیک هم‌زمان اثرات رونویسی و پس از رونویسی واریانت‌های ژنتیکی ارائه می‌دهد و enhancerها و UTRهای عملکردی و جهش‌های پراثر را شناسایی می‌کند.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 massively parallel reporter assay · 3&amp;#x27;-UTR · RNA stability · enhancer · genetic variants</description>
+<category>massively parallel reporter assay</category>
+<category>3&#x27;-UTR</category>
+<category>RNA stability</category>
+<category>enhancer</category>
+<category>genetic variants</category>
+</item>
+<item>
+<title>Dynamic reconstruction of Prussian blue analogues for anodic Electrocatalysis: From precatalysts to active phases</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101894</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101894</guid>
+<pubDate>Tue, 24 Nov 2026 15:01:06 GMT</pubDate>
+<description>این مقاله بازسازی دینامیکی آنالوگ‌های آبی پروس را در electrocatalysis آندی بررسی می‌کند و نشان می‌دهد این مواد پیش‌کاتالیست به فازهای فعال تبدیل می‌شوند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 Prussian blue analogues · oxygen evolution reaction · precatalyst reconstruction · electrocatalysis · active phase</description>
+<category>Prussian blue analogues</category>
+<category>oxygen evolution reaction</category>
+<category>precatalyst reconstruction</category>
+<category>electrocatalysis</category>
+<category>active phase</category>
+</item>
 <item>
 <title>Richard of Wallingford and his Rectangulus</title>
 <link>https://doi.org/10.1038/d41586-026-03725-5</link>
@@ -1182,30 +1206,6 @@
 <category>PEM fuel cell</category>
 <category>proton transport</category>
 <category>hydrogen crossover</category>
-</item>
-<item>
-<title>Nanotechnology‐Enabled STING Activation in Cancer Immunotherapy: Is there a Sting in the Tail?</title>
-<link>https://doi.org/10.1002/smll.76841</link>
-<guid isPermaLink="false">10.1002/smll.76841</guid>
-<pubDate>Tue, 24 Nov 2026 01:02:39 GMT</pubDate>
-<description>این مرور، نقش مسیر cGAS–STING در ایمنی ضدتوموری و راهکارهای نانوفناوری و رهایش کنترل‌شده برای غلبه بر موانع ترجمه‌ای آگونیست‌های STING را به‌طور انتقادی بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;🏷 STING agonist · cancer immunotherapy · nanomedicine · cGAS-STING · drug delivery</description>
-<category>STING agonist</category>
-<category>cancer immunotherapy</category>
-<category>nanomedicine</category>
-<category>cGAS-STING</category>
-<category>drug delivery</category>
-</item>
-<item>
-<title>Sulfate‐Anchored Interface via Electrochemical Self‐Reconstruction for Efficient and Chloride‐Resistant Seawater Oxidation</title>
-<link>https://doi.org/10.1002/smll.76838</link>
-<guid isPermaLink="false">10.1002/smll.76838</guid>
-<pubDate>Tue, 24 Nov 2026 01:02:35 GMT</pubDate>
-<description>بازسازی الکتروشیمیایی سطح LNFO یک رابط لنگرگاه سولفات ایجاد می‌کند که OER در آب دریا را با اورپتانسیل ۲۴۸ میلی‌ولت و مقاومت در برابر Cl− برای حدود ۳۵۰ ساعت پایدار می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in electrochemical self-reconstruction converting Ni–S into SO₄²⁻-anchored amorphous NiOOH on LNFO, creating an adaptive sulfate interface. This enables superior OER activity (248 mV overpotential) and Cl⁻ resistance via charge repulsion, achieving ~350 h at 1 A cm⁻² in seawater and 520 h stable cycling in seawater zinc-air batteries—offering a new strategy for durable seawater electrolysis.&lt;br&gt;🏷 seawater oxidation · sulfate anchoring · electrochemical reconstruction · chloride resistance · zinc-air battery</description>
-<category>seawater oxidation</category>
-<category>sulfate anchoring</category>
-<category>electrochemical reconstruction</category>
-<category>chloride resistance</category>
-<category>zinc-air battery</category>
 </item>
 </channel>
 </rss>
