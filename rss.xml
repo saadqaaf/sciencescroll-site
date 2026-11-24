@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 02:02:35 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 03:01:03 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Surface Nanometal Enables Fast and Hysteresis-Free Optical Hydrogen Detection</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04796</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04796</guid>
+<pubDate>Tue, 24 Nov 2026 03:01:01 GMT</pubDate>
+<description>با استفاده از نانوخوشه‌های Pt یا Au روی فیلم Pd، حسگر نوری هیدروژن با پاسخ سریع ۱۵ ثانیه و هیسترزیس تقریباً حذف‌شده (۰٫۳۲٪) ساخته شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 hydrogen sensing · Pd thin film · Pt nanoclusters · hysteresis suppression · hydrogen spillover</description>
+<category>hydrogen sensing</category>
+<category>Pd thin film</category>
+<category>Pt nanoclusters</category>
+<category>hysteresis suppression</category>
+<category>hydrogen spillover</category>
+</item>
 <item>
 <title>Coupled effects of poly(acrylic acid) molecular weight and slurry solid fraction on silicon–graphite electrode performance</title>
 <link>https://doi.org/10.1016/j.est.2026.125804</link>
@@ -1200,18 +1212,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 Pt/γ-Al2O3 · CO adsorpt
 <category>synaptic vesicle</category>
 <category>biomolecular condensates</category>
 <category>neurotransmission</category>
-</item>
-<item>
-<title>Effect of SiC reinforcement on the properties of AA6082 friction surfaced coatings</title>
-<link>https://doi.org/10.1007/s42114-026-02144-4</link>
-<guid isPermaLink="false">10.1007/s42114-026-02144-4</guid>
-<pubDate>Mon, 23 Nov 2026 22:01:05 GMT</pubDate>
-<description>این پژوهش اثر افزودن SiC را بر خواص پوشش‌های کامپوزیتی AA6082 ایجادشده به روش friction surfacing بررسی و بهبود خواص را گزارش می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 AA6082 alloy · SiC reinforcement · friction surfacing · composite coating · wear resistance</description>
-<category>AA6082 alloy</category>
-<category>SiC reinforcement</category>
-<category>friction surfacing</category>
-<category>composite coating</category>
-<category>wear resistance</category>
 </item>
 </channel>
 </rss>
