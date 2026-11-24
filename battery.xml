@@ -5,8 +5,116 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 23:01:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:04:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Atomic mediators screened via target-wise machine learning for practical Li–S batteries</title>
+<link>https://doi.org/10.1016/j.jechem.2026.11.014</link>
+<guid isPermaLink="false">10.1016/j.jechem.2026.11.014</guid>
+<pubDate>Tue, 24 Nov 2026 00:04:02 GMT</pubDate>
+<description>با یادگیری ماشین هدف‌محور، واسطه‌های اتمی برای بهبود تبدیل پلی‌سولفیدها و عملکرد باتری‌های لیتیوم-گوگرد غربالگری می‌شوند.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 Li-S battery · machine learning · atomic mediators · polysulfide conversion · catalyst screening</description>
+<category>Li-S battery</category>
+<category>machine learning</category>
+<category>atomic mediators</category>
+<category>polysulfide conversion</category>
+<category>catalyst screening</category>
+</item>
+<item>
+<title>Fluorination‑driven σ‑bonding design enables practical aqueous zinc-vanadium‑oxide batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79255-5</link>
+<guid isPermaLink="false">10.1038/s41467-026-79255-5</guid>
+<pubDate>Tue, 24 Nov 2026 00:03:21 GMT</pubDate>
+<description>طراحی پیوند σ با فلوئوردار کردن، باتری آبی روی-وانادیوم‌اکسید را برای کاربرد عملی ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Fluorine coordination engineering stabilizes amorphous vanadium oxide by converting labile V-O bonds into robust V-F bonds, suppressing vanadium dissolution and water-induced degradation while preserving fast ion transport. This resolves the stability-kinetics trade-off, enabling 155.6 mAh g−1 at 200 A g−1, 70,000-cycle stability, and six-month operation, offering a microscopic-to-macroscopic design principle for practical aqueous zinc batteries.&lt;br&gt;🏷 aqueous zinc battery · vanadium oxide · fluorination · sigma bonding · cathode</description>
+<category>aqueous zinc battery</category>
+<category>vanadium oxide</category>
+<category>fluorination</category>
+<category>sigma bonding</category>
+<category>cathode</category>
+</item>
+<item>
+<title>Fast‐Discharge‐Induced Non‐Equilibrium Phase Transition in Ni‐Rich Layered Oxide Cathode at High Voltage</title>
+<link>https://doi.org/10.1002/anie.4834219</link>
+<guid isPermaLink="false">10.1002/anie.4834219</guid>
+<pubDate>Tue, 24 Nov 2026 00:02:54 GMT</pubDate>
+<description>XRD عملیاتی نشان می‌دهد گذار فازی غیرتعادلی H3→H2 در دشارژ سریع، تخریب کاتد غنی از نیکل را تسریع می‌کند و پروتکل دشارژ بهینه، حفظ ظرفیت را 29% بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in revealing a rate-dependent non-equilibrium H3→H2 phase transition during fast discharge (≥4 C) that drives Ni migration and rock-salt collapse in Ni-rich cathodes. Its significance is a practical cycling protocol—a brief low-rate discharge at high voltage—that suppresses phase separation and boosts capacity retention by 29% after 1000 cycles, guiding durable fast-charging battery design.&lt;br&gt;🏷 Ni-rich cathode · fast discharge · phase transition · lithium-ion battery · operando XRD</description>
+<category>Ni-rich cathode</category>
+<category>fast discharge</category>
+<category>phase transition</category>
+<category>lithium-ion battery</category>
+<category>operando XRD</category>
+</item>
+<item>
+<title>Solvation‐Directed Electric Double Layer Formation in Low‐Concentration Electrolytes</title>
+<link>https://doi.org/10.1002/anie.2524176</link>
+<guid isPermaLink="false">10.1002/anie.2524176</guid>
+<pubDate>Tue, 24 Nov 2026 00:02:37 GMT</pubDate>
+<description>انتخاب آنیون بر پایه رفتار حل‌پوشی، لایه دوگانه الکتریکی را در الکترولیت رقیق برنامه‌ریزی کرده و پایداری سطحی باتری فلز لیتیوم را بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in programming the electric double layer of low-concentration electrolytes via anion solvation behavior, decoupling interfacial stability from high salt use. Large weakly coordinating anions form a persistent shielding layer; small strongly coordinating anions modulate desolvation kinetics. This establishes a mechanistic link between bulk solvation and interfacial organization, offering a design paradigm for efficient electrolyte engineering.&lt;br&gt;🏷 electric double layer · low-concentration electrolyte · anion solvation · lithium metal battery · interfacial stability</description>
+<category>electric double layer</category>
+<category>low-concentration electrolyte</category>
+<category>anion solvation</category>
+<category>lithium metal battery</category>
+<category>interfacial stability</category>
+</item>
+<item>
+<title>Metal–Backboned Architectures Enable Magneto–Spin–Charge Engineering for High–Performance Li–CO 2 Batteries</title>
+<link>https://doi.org/10.1002/anie.5091498</link>
+<guid isPermaLink="false">10.1002/anie.5091498</guid>
+<pubDate>Tue, 24 Nov 2026 00:02:32 GMT</pubDate>
+<description>پلیمر کبالت با اسپین کنترل‌شده و میدان مغناطیسی خارجی، سینتیک CO2 و عملکرد باتری Li-CO2 را با اورپتانسیل پایین و چرخه‌پذیری طولانی بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a mixed-valence cobalt-backboned polymer enabling spin-charge cooperative engineering for Li-CO2 batteries. Significance: external magnetic field switches Co from low to high spin, enhancing intervalence charge transfer, CO2 adsorption/activation, and electron transfer to CO2 antibonding orbitals—achieving 1.06 V low overpotential and 2700 h stable cycling, opening avenues for magneto-spin-charge accelerated energy storage.&lt;br&gt;🏷 Li-CO2 battery · spin manipulation · cobalt polymer · magnetic field · CO2 reduction</description>
+<category>Li-CO2 battery</category>
+<category>spin manipulation</category>
+<category>cobalt polymer</category>
+<category>magnetic field</category>
+<category>CO2 reduction</category>
+</item>
+<item>
+<title>Bulk Chemical Imbalance Induced by Transition Metal Migration Causes Capacity Decay in Layered Sodium-Ion Battery Cathodes</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112650</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112650</guid>
+<pubDate>Tue, 24 Nov 2026 00:02:10 GMT</pubDate>
+<description>مهاجرت فلزات واسطه در کاتدهای لایه‌ای باتری سدیم-یون عدم‌تعادل شیمیایی توده‌ای ایجاد کرده و موجب افت ظرفیت می‌شود.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · layered cathode · transition metal migration · capacity decay · chemical imbalance</description>
+<category>sodium-ion battery</category>
+<category>layered cathode</category>
+<category>transition metal migration</category>
+<category>capacity decay</category>
+<category>chemical imbalance</category>
+</item>
+<item>
+<title>Marine Biological Pump-Inspired Dual-Electric-Field Synergistic Interface for Highly Stable Aqueous Zinc Batteries</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112648</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112648</guid>
+<pubDate>Tue, 24 Nov 2026 00:02:06 GMT</pubDate>
+<description>یک رابط دوتایی-میدان الکتریکی الهام‌گرفته از پمپ زیستی دریایی برای پایدارسازی باتری آبی روی طراحی شده است.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 aqueous zinc battery · dual electric field · biological pump · interface engineering · zinc anode</description>
+<category>aqueous zinc battery</category>
+<category>dual electric field</category>
+<category>biological pump</category>
+<category>interface engineering</category>
+<category>zinc anode</category>
+</item>
+<item>
+<title>Solar assisted lithium recovery from brines: challenges and opportunities for integrated system</title>
+<link>https://doi.org/10.1093/nsr/nwag732</link>
+<guid isPermaLink="false">10.1093/nsr/nwag732</guid>
+<pubDate>Tue, 24 Nov 2026 00:01:58 GMT</pubDate>
+<description>این مرور روش‌های تبخیر خورشیدی یکپارچه برای استخراج لیتیوم از آب‌های شور را تحلیل کرده و چالش‌های رسوب‌گذاری و فرصت‌های ترکیب تبخیر بین‌سطحی با جاذب‌ها را بررسی می‌کند.&lt;br&gt;National Science Review | ⭐ Review&lt;br&gt;💡 The review uniquely integrates interfacial solar evaporation with adsorption and membrane processes to overcome conventional brine lithium recovery limits—long timescales, environmental impact, and ion interference. Its significance lies in identifying scaling as the critical barrier and highlighting anti-scaling membrane-solar hybrids as a promising, sustainable route for efficient lithium capture from complex brines.&lt;br&gt;🏷 lithium recovery · brine · solar evaporation · interfacial evaporation · anti-scaling</description>
+<category>lithium recovery</category>
+<category>brine</category>
+<category>solar evaporation</category>
+<category>interfacial evaporation</category>
+<category>anti-scaling</category>
+</item>
+<item>
+<title>Nucleophile–electrophile chemistry produces a stable interphase for long-Life anode-Less lithium metal batteries</title>
+<link>https://doi.org/10.1093/nsr/nwag725</link>
+<guid isPermaLink="false">10.1093/nsr/nwag725</guid>
+<pubDate>Tue, 24 Nov 2026 00:01:49 GMT</pubDate>
+<description>راهبرد پل‌زنی نوکلئوفیل-الکتروفیل یک SEI هیبریدی الیگوبورات–LiF می‌سازد که عمر چرخه باتری لیتیوم فلزی بدون آند را ۱۲ برابر افزایش می‌دهد.&lt;br&gt;National Science Review | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a nucleophile–electrophile bridging strategy that covalently integrates solvent-derived nucleophiles with boron-centred electrophiles to form a robust oligoborate–LiF hybrid SEI. This overcomes organic-phase fragility, enabling 12-fold longer anode-less Li metal battery cycling (80% capacity over 300 cycles) and stable operation under practical conditions, establishing a new interphase-engineering paradigm for high-energy, reliable batteries.&lt;br&gt;🏷 anode-less lithium battery · solid-electrolyte interphase · nucleophile-electrophile · oligoborate · LiF</description>
+<category>anode-less lithium battery</category>
+<category>solid-electrolyte interphase</category>
+<category>nucleophile-electrophile</category>
+<category>oligoborate</category>
+<category>LiF</category>
+</item>
 <item>
 <title>Prestripping Protocol for Reconciling Lithium Dissolution and Galvanic Corrosion in Anode-Free Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02416</link>
@@ -1100,114 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>nitrogen-doped carbon</category>
 <category>phenolic resin</category>
 <category>homojunction</category>
-</item>
-<item>
-<title>Self-assembly template strategy for in-situ confined construction of silicon nanoparticles@N-doped carbon nanotubes as high-performance lithium-ion battery anodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125873</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125873</guid>
-<pubDate>Sat, 21 Nov 2026 04:02:21 GMT</pubDate>
-<description>راهبرد قالب خودآرا برای ساخت درجای نانوذرات سیلیکون در نانولوله‌های کربنی دوپه‌شده با نیتروژن، آند باتری لیتیوم-یون با عملکرد بالا ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 silicon anode · N-doped carbon nanotube · lithium-ion battery · self-assembly template · in-situ confinement</description>
-<category>silicon anode</category>
-<category>N-doped carbon nanotube</category>
-<category>lithium-ion battery</category>
-<category>self-assembly template</category>
-<category>in-situ confinement</category>
-</item>
-<item>
-<title>Anion-regulated solvation and interphase chemistry in locally concentrated ionic liquid electrolytes for lithium metal batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125874</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125874</guid>
-<pubDate>Sat, 21 Nov 2026 04:02:17 GMT</pubDate>
-<description>تنظیم آنیونی ساختار حل‌پوشی و شیمی فاز میانی در الکترولیت‌های مایع یونی با غلظت موضعی بالا برای باتری لیتیوم-فلز بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ionic liquid electrolyte · solvation structure · solid electrolyte interphase · lithium metal battery · locally concentrated electrolyte</description>
-<category>ionic liquid electrolyte</category>
-<category>solvation structure</category>
-<category>solid electrolyte interphase</category>
-<category>lithium metal battery</category>
-<category>locally concentrated electrolyte</category>
-</item>
-<item>
-<title>Magnesium ion transport in solid and gel polymer electrolytes and the plasticizing effects of residual solvent</title>
-<link>https://doi.org/10.1016/j.est.2026.125714</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125714</guid>
-<pubDate>Sat, 21 Nov 2026 04:02:13 GMT</pubDate>
-<description>انتقال یون منیزیم در الکترولیت‌های پلیمری جامد و ژلی و اثر نرم‌کنندگی حلال باقی‌مانده بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 magnesium ion transport · polymer electrolyte · gel electrolyte · residual solvent · plasticizing effect</description>
-<category>magnesium ion transport</category>
-<category>polymer electrolyte</category>
-<category>gel electrolyte</category>
-<category>residual solvent</category>
-<category>plasticizing effect</category>
-</item>
-<item>
-<title>Glassy metal-organic frameworks as fillers enabling all-solid-state lithium metal batteries operating from room to elevated temperatures</title>
-<link>https://doi.org/10.1016/j.est.2026.125775</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125775</guid>
-<pubDate>Sat, 21 Nov 2026 04:02:09 GMT</pubDate>
-<description>چارچوب‌های فلز-آلی شیشه‌ای به‌عنوان پرکننده در الکترولیت جامد، باتری لیتیوم-فلز تمام‌جامد با عملکرد گسترده از دمای اتاق تا دمای بالا را ممکن می‌سازند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 solid-state electrolyte · metal-organic framework · lithium metal battery · glassy filler · high-temperature operation</description>
-<category>solid-state electrolyte</category>
-<category>metal-organic framework</category>
-<category>lithium metal battery</category>
-<category>glassy filler</category>
-<category>high-temperature operation</category>
-</item>
-<item>
-<title>Primary-side indirect control strategy for misalignment-tolerant wireless battery charging of autonomous unmanned aerial vehicles</title>
-<link>https://doi.org/10.1016/j.est.2026.125841</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125841</guid>
-<pubDate>Sat, 21 Nov 2026 04:02:05 GMT</pubDate>
-<description>این مقاله یک راهبرد کنترل غیرمستقیم سمت اولیه برای شارژ بی‌سیم باتری پهپادهای خودمختار با تحمل ناهم‌ترازی ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 wireless charging · misalignment tolerance · indirect control · UAV battery · primary-side control</description>
-<category>wireless charging</category>
-<category>misalignment tolerance</category>
-<category>indirect control</category>
-<category>UAV battery</category>
-<category>primary-side control</category>
-</item>
-<item>
-<title>Reliability-aware Mamba for state of charge estimation of lithium-ion batteries under restricted discharge windows</title>
-<link>https://doi.org/10.1016/j.est.2026.125911</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125911</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:53 GMT</pubDate>
-<description>این مقاله یک مدل Mamba آگاه از قابلیت اطمینان برای تخمین وضعیت شارژ باتری لیتیوم-یون در پنجره‌های تخلیه محدود ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of charge · Mamba · reliability-aware · lithium-ion battery · discharge windows</description>
-<category>state of charge</category>
-<category>Mamba</category>
-<category>reliability-aware</category>
-<category>lithium-ion battery</category>
-<category>discharge windows</category>
-</item>
-<item>
-<title>Electrolyte-dependent ion dynamics in anthracite-derived graphene-like carbons with interconnected slit-shaped micro–mesopores</title>
-<link>https://doi.org/10.1016/j.est.2026.125901</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125901</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:49 GMT</pubDate>
-<description>این مقاله دینامیک یون وابسته به الکترولیت را در کربن‌های گرافیت‌مانند مشتق از آنتراسیت با میکرو-مزوپورهای شکافی به‌هم‌پیوسته بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 anthracite-derived carbon · slit-shaped micropores · ion dynamics · electrolyte · supercapacitor</description>
-<category>anthracite-derived carbon</category>
-<category>slit-shaped micropores</category>
-<category>ion dynamics</category>
-<category>electrolyte</category>
-<category>supercapacitor</category>
-</item>
-<item>
-<title>Predicting spatio-temporal reversible and irreversible heat generation in large-format lithium-ion pouch cells</title>
-<link>https://doi.org/10.1016/j.est.2026.125861</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125861</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:44 GMT</pubDate>
-<description>این مقاله تولید گرمای برگشت‌پذیر و برگشت‌ناپذیر را به‌صورت فضایی-زمانی در سلول‌های کیسه‌ای بزرگ لیتیوم-یون پیش‌بینی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 heat generation · lithium-ion pouch cell · reversible heat · irreversible heat · spatio-temporal modeling</description>
-<category>heat generation</category>
-<category>lithium-ion pouch cell</category>
-<category>reversible heat</category>
-<category>irreversible heat</category>
-<category>spatio-temporal modeling</category>
-</item>
-<item>
-<title>Constructing dual-crosslinked polyacrylic acid binders using alkyl dihydrazides via in-situ thermal crosslinking for silicon anodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125790</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125790</guid>
-<pubDate>Sat, 21 Nov 2026 04:01:40 GMT</pubDate>
-<description>این مقاله با اتصال عرضی حرارتی درجا توسط آلکیل دی‌هیدرازید، بایندرهای دوگانه‌شبکه‌ای پلی‌آکریلیک اسید را برای آندهای سیلیکونی باتری لیتیوم-یون می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 silicon anode · polyacrylic acid binder · dual-crosslinking · alkyl dihydrazide · in-situ crosslinking</description>
-<category>silicon anode</category>
-<category>polyacrylic acid binder</category>
-<category>dual-crosslinking</category>
-<category>alkyl dihydrazide</category>
-<category>in-situ crosslinking</category>
 </item>
 </channel>
 </rss>
