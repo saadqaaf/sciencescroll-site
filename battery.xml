@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 07:02:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 08:04:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Atomic Modulation of Metal-Site Polarization: Achieving Rapid Li+ Transport and Interfacial Stabilization in Polymer Electrolytes for Solid-State Li-Air Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105681</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105681</guid>
+<pubDate>Tue, 24 Nov 2026 08:04:15 GMT</pubDate>
+<description>تنظیم اتمی قطبش جایگاه فلزی در الکترولیت پلیمری، انتقال سریع Li+ و پایداری سطح مشترک را در باتری لیتیوم-هوا حالت جامد بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 solid-state Li-air battery · polymer electrolyte · Li+ transport · metal-site polarization · interfacial stabilization</description>
+<category>solid-state Li-air battery</category>
+<category>polymer electrolyte</category>
+<category>Li+ transport</category>
+<category>metal-site polarization</category>
+<category>interfacial stabilization</category>
+</item>
+<item>
+<title>Targeted Redox Removal of Structural Water in High-Entropy Prussian Blue Analogue Cathodes for High-Performance Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105682</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105682</guid>
+<pubDate>Tue, 24 Nov 2026 08:04:08 GMT</pubDate>
+<description>حذف هدفمند آب ساختاری از کاتد آنالوگ پروسی آبی پرآنتروپی، عملکرد باتری یون سدیم را از طریق بهبود انتقال یون و پایداری ساختار ارتقا می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Prussian blue analogue · sodium-ion battery · high-entropy cathode · structural water · redox removal</description>
+<category>Prussian blue analogue</category>
+<category>sodium-ion battery</category>
+<category>high-entropy cathode</category>
+<category>structural water</category>
+<category>redox removal</category>
+</item>
 <item>
 <title>Ion confinement effects in aqueous zinc-ion batteries: From nanoscale space to chemical bonding</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218809</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>quasi-solid-state reaction</category>
 <category>cosolvent solvation</category>
 <category>lean electrolyte</category>
-</item>
-<item>
-<title>Stabilizing High‐Voltage Oxygen Holes via π‐Bonding Mediated Frontier‐Orbital Character Inversion in Intermediate‐Regime Oxide Cathodes</title>
-<link>https://doi.org/10.1002/anie.4101340</link>
-<guid isPermaLink="false">10.1002/anie.4101340</guid>
-<pubDate>Sat, 21 Nov 2026 22:03:24 GMT</pubDate>
-<description>با مهندسی پیوند π در Li2RuO3، حالت‌های حفره اکسیژنی پرولتاژ از طریق وارونگی مشخصه اوربیتال مرزی پایدار می‌شوند و از دیمریزاسیون مخرب O-O جلوگیری می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in stabilizing high-voltage oxygen holes in Li₂RuO₃ by tuning Ru─O π-bonding, inducing a frontier-orbital character inversion during delithiation. This avoids destabilizing O─O dimerization and voltage hysteresis. Significance: it establishes an electronic-structure design principle—orbital engineering in intermediate-regime oxides between Mott–Hubbard and charge-transfer behavior—enabling stable, high-voltage anionic redox and higher energy density.&lt;br&gt;🏷 oxygen redox · layered oxide cathode · Li2RuO3 · orbital engineering · voltage hysteresis</description>
-<category>oxygen redox</category>
-<category>layered oxide cathode</category>
-<category>Li2RuO3</category>
-<category>orbital engineering</category>
-<category>voltage hysteresis</category>
-</item>
-<item>
-<title>Bidirectional Sulfur Redox Regulation Enabling Ultra‐Stable High‐Sulfur‐Loading All‐Solid‐State Lithium‐Sulfur Batteries</title>
-<link>https://doi.org/10.1002/anie.6742507</link>
-<guid isPermaLink="false">10.1002/anie.6742507</guid>
-<pubDate>Sat, 21 Nov 2026 22:03:19 GMT</pubDate>
-<description>الکترولیت آمورف-کریستالی Li6.05P0.95Nb0.05S5Cl0.8I0.2 با تنظیم دوسویه ردوکس گوگرد، بازده گوگرد 84.2% و پایداری 1500 چرخه را در باتری Li-S تمام‌جامد با بارگذاری بالای گوگرد فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an amorphous-crystalline Li6.05P0.95Nb0.05S5Cl0.8I0.2 electrolyte enabling bidirectional sulfur redox regulation: Nb4+→Nb3+ reduction promotes Li2S nucleation during discharge, while I−→I2 mediates Li2S oxidation during charge. This achieves 84.2% sulfur utilization at 6 mg cm−2 loading and 93.1% retention after 1500 cycles, advancing high-loading all-solid-state Li-S batteries.&lt;br&gt;🏷 all-solid-state Li-S battery · solid electrolyte · sulfur redox · high sulfur loading · Nb doping</description>
-<category>all-solid-state Li-S battery</category>
-<category>solid electrolyte</category>
-<category>sulfur redox</category>
-<category>high sulfur loading</category>
-<category>Nb doping</category>
 </item>
 </channel>
 </rss>
