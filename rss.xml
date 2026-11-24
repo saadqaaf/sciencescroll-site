@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 18:01:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 19:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fast-Charging Sodium Solid-State Batteries Enabled by closo -Hydridoborate Anode Interlayers for Sulfide Electrolytes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03131</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03131</guid>
+<pubDate>Tue, 24 Nov 2026 19:01:12 GMT</pubDate>
+<description>لایه میانی closo-hydridoborate در الکترولیت‌های سولفیدی، باتری حالت جامد سدیمی با شارژ سریع و پایداری چرخه‌ای بالا را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using closo-hydridoborate Na4(B10H10)(B12H12) as an interlayer to stabilize sulfide electrolyte interfaces, enabling bilayer separators. This yields fast-charging sodium solid-state batteries with &amp;gt;90% capacity retention over 250 cycles and 30 s charging to 50% SOC at 82 mA cm–2, identifying hydridoborate interlayers as key enablers for high-power sodium batteries.&lt;br&gt;🏷 sodium solid-state battery · sulfide electrolyte · closo-hydridoborate · anode interlayer · fast charging</description>
+<category>sodium solid-state battery</category>
+<category>sulfide electrolyte</category>
+<category>closo-hydridoborate</category>
+<category>anode interlayer</category>
+<category>fast charging</category>
+</item>
+<item>
+<title>Differentiable Solvation Shell Model for Rational Electrolyte Design</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02739</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02739</guid>
+<pubDate>Tue, 24 Nov 2026 19:01:07 GMT</pubDate>
+<description>مدل پوسته حل‌پوشی تمایزپذیر بر پایه مدل آیزینگ، ساختار حل‌پوشی Li+ را پیش‌بینی و طراحی الکترولیت باتری فلز لیتیوم را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty is a differentiable mean-field Ising model predicting Li+ solvation shells from donor/acceptor numbers, molar ratio, and molecular size, parameterized directly from MD. Its significance lies in reproducing MD compositions at low cost, generalizing across electrolyte classes, quantifying DN dominance, and enabling rational design of localized high-concentration electrolytes—identifying fluorobenzene diluent and anion-rich concentration windows validated by MD and experiments.&lt;br&gt;🏷 solvation shell · electrolyte design · Li metal battery · Ising model · donor number</description>
+<category>solvation shell</category>
+<category>electrolyte design</category>
+<category>Li metal battery</category>
+<category>Ising model</category>
+<category>donor number</category>
+</item>
+<item>
+<title>Mechano-redox catalysis enables anthraquinone-inspired H2O2 synthesis at polydopamine-water interfaces</title>
+<link>https://doi.org/10.1016/j.chempr.2026.103343</link>
+<guid isPermaLink="false">10.1016/j.chempr.2026.103343</guid>
+<pubDate>Tue, 24 Nov 2026 19:01:02 GMT</pubDate>
+<description>کاتالیز مکانیکی-ردوکس با الهام از آنتراکینون، سنتز H2O2 را در فصل مشترک پلی‌دوپامین و آب ممکن می‌سازد.&lt;br&gt;Chem | 🔬 Research Article&lt;br&gt;🏷 H2O2 synthesis · mechano-redox catalysis · anthraquinone · polydopamine · water interface</description>
+<category>H2O2 synthesis</category>
+<category>mechano-redox catalysis</category>
+<category>anthraquinone</category>
+<category>polydopamine</category>
+<category>water interface</category>
+</item>
 <item>
 <title>Highly selective visual circuits in mouse frontal cortex</title>
 <link>https://doi.org/10.1038/s41593-026-02520-9</link>
@@ -1170,42 +1206,6 @@
 <category>interfacial engineering</category>
 <category>electrode patterning</category>
 <category>gas transport</category>
-</item>
-<item>
-<title>MoS 2 -modified self-supporting carbon hybrid enabling synergistic polysulfide adsorption and catalytic conversion for high-performance Li–S batteries</title>
-<link>https://doi.org/10.1039/d6ta07837k</link>
-<guid isPermaLink="false">10.1039/d6ta07837k</guid>
-<pubDate>Tue, 24 Nov 2026 04:01:44 GMT</pubDate>
-<description>هیبرید کربنی خودایستای اصلاح‌شده با MoS2 با جذب و تبدیل کاتالیستی هم‌افزای پلی‌سولفیدها، ظرفیت 959 mAh g−1 در 0.2C و چرخه‌پذیری پایدار 500 چرخه در 1C را در باتری Li–S ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a MoS₂-modified self-supporting carbon hybrid (CMoNC-S) that synergistically combines polysulfide adsorption with catalytic conversion while enhancing electron transport. Its significance is delivering high capacity (959 mAh g⁻¹ at 0.2C) and stable 500-cycle life at 1C, advancing high-performance Li–S batteries by addressing polysulfide shuttling and sluggish kinetics simultaneously.&lt;br&gt;🏷 Li-S battery · MoS2 · polysulfide adsorption · catalytic conversion · self-supporting carbon</description>
-<category>Li-S battery</category>
-<category>MoS2</category>
-<category>polysulfide adsorption</category>
-<category>catalytic conversion</category>
-<category>self-supporting carbon</category>
-</item>
-<item>
-<title>MIL-101(Fe)-Based Lubricant Reservoirs Improve Lubricant Retention in PDMS-PUU Slippery Coatings for Marine Antifouling and Anti-Icing</title>
-<link>https://doi.org/10.1039/d6ta07993h</link>
-<guid isPermaLink="false">10.1039/d6ta07993h</guid>
-<pubDate>Tue, 24 Nov 2026 04:01:39 GMT</pubDate>
-<description>مخازن روان‌کننده بر پایه MIL-101(Fe) نگهداشت روان‌کننده را در پوشش‌های لغزنده PDMS-PUU برای ضدرسوب دریایی و ضدیخ‌زدگی بهبود می‌دهند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;🏷 MIL-101(Fe) · slippery coating · lubricant reservoir · marine antifouling · anti-icing</description>
-<category>MIL-101(Fe)</category>
-<category>slippery coating</category>
-<category>lubricant reservoir</category>
-<category>marine antifouling</category>
-<category>anti-icing</category>
-</item>
-<item>
-<title>Electronic transport and Li-metal interfacial degradation in Zr-substituted ternary metal chloride solid electrolytes</title>
-<link>https://doi.org/10.1039/d6ta03840a</link>
-<guid isPermaLink="false">10.1039/d6ta03840a</guid>
-<pubDate>Tue, 24 Nov 2026 04:01:35 GMT</pubDate>
-<description>اثر جانشینی Zr بر انتقال الکترونی و تخریب فصل مشترک با Li در الکترولیت‌های جامد کلریدی سه‌جزئی برای باتری‌های تمام‌جامد بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in substituting Zr into ternary metal chloride solid electrolytes to tune electronic transport and stabilize the Li-metal interface. The significance is revealing how Zr substitution suppresses electronic conductivity and interfacial degradation, enabling dendrite-free Li plating and advancing high-energy all-solid-state batteries with chloride SSEs.&lt;br&gt;🏷 chloride solid electrolyte · Zr substitution · electronic transport · Li-metal interface · all-solid-state battery</description>
-<category>chloride solid electrolyte</category>
-<category>Zr substitution</category>
-<category>electronic transport</category>
-<category>Li-metal interface</category>
-<category>all-solid-state battery</category>
 </item>
 </channel>
 </rss>

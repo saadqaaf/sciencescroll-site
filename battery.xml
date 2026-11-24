@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 18:01:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 19:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fast-Charging Sodium Solid-State Batteries Enabled by closo -Hydridoborate Anode Interlayers for Sulfide Electrolytes</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03131</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03131</guid>
+<pubDate>Tue, 24 Nov 2026 19:01:12 GMT</pubDate>
+<description>لایه میانی closo-hydridoborate در الکترولیت‌های سولفیدی، باتری حالت جامد سدیمی با شارژ سریع و پایداری چرخه‌ای بالا را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using closo-hydridoborate Na4(B10H10)(B12H12) as an interlayer to stabilize sulfide electrolyte interfaces, enabling bilayer separators. This yields fast-charging sodium solid-state batteries with &amp;gt;90% capacity retention over 250 cycles and 30 s charging to 50% SOC at 82 mA cm–2, identifying hydridoborate interlayers as key enablers for high-power sodium batteries.&lt;br&gt;🏷 sodium solid-state battery · sulfide electrolyte · closo-hydridoborate · anode interlayer · fast charging</description>
+<category>sodium solid-state battery</category>
+<category>sulfide electrolyte</category>
+<category>closo-hydridoborate</category>
+<category>anode interlayer</category>
+<category>fast charging</category>
+</item>
+<item>
+<title>Differentiable Solvation Shell Model for Rational Electrolyte Design</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02739</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02739</guid>
+<pubDate>Tue, 24 Nov 2026 19:01:07 GMT</pubDate>
+<description>مدل پوسته حل‌پوشی تمایزپذیر بر پایه مدل آیزینگ، ساختار حل‌پوشی Li+ را پیش‌بینی و طراحی الکترولیت باتری فلز لیتیوم را ممکن می‌سازد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty is a differentiable mean-field Ising model predicting Li+ solvation shells from donor/acceptor numbers, molar ratio, and molecular size, parameterized directly from MD. Its significance lies in reproducing MD compositions at low cost, generalizing across electrolyte classes, quantifying DN dominance, and enabling rational design of localized high-concentration electrolytes—identifying fluorobenzene diluent and anion-rich concentration windows validated by MD and experiments.&lt;br&gt;🏷 solvation shell · electrolyte design · Li metal battery · Ising model · donor number</description>
+<category>solvation shell</category>
+<category>electrolyte design</category>
+<category>Li metal battery</category>
+<category>Ising model</category>
+<category>donor number</category>
+</item>
 <item>
 <title>Synergistic Interface Lubrication and Anion Anchoring in a Composite Solid‐State Electrolyte for Dendrite‐Free and Wide‐Temperature Zinc Metal Batteries</title>
 <link>https://doi.org/10.1002/aenm.71865</link>
@@ -1184,30 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>state of charge</category>
 <category>physics-based modeling</category>
 <category>prediction</category>
-</item>
-<item>
-<title>Evidence-gated evaluation of cross-dataset battery state-of-health transfer with a diagnostic state-of-charge proxy</title>
-<link>https://doi.org/10.1016/j.est.2026.125781</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125781</guid>
-<pubDate>Sun, 22 Nov 2026 20:02:09 GMT</pubDate>
-<description>این مقاله انتقال تخمین سلامت باتری میان مجموعه‌داده‌های مختلف را با یک شاخص جانشین حالت شارژ و ارزیابی مبتنی بر شواهد بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 state of health · cross-dataset transfer · state-of-charge proxy · evidence-gated evaluation · battery diagnostics</description>
-<category>state of health</category>
-<category>cross-dataset transfer</category>
-<category>state-of-charge proxy</category>
-<category>evidence-gated evaluation</category>
-<category>battery diagnostics</category>
-</item>
-<item>
-<title>Investigation and analysis of phase transformations in transition metal oxides and Lithium recovery via combined metallurgy of spent Lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125748</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125748</guid>
-<pubDate>Sun, 22 Nov 2026 20:02:05 GMT</pubDate>
-<description>این مقاله دگرگونی‌های فازی اکسیدهای فلزات واسطه و بازیابی لیتیوم از باتری‌های لیتیوم-یونی مستعمل را با روش متالورژی ترکیبی بررسی و تحلیل می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 spent lithium-ion batteries · lithium recovery · transition metal oxides · phase transformations · combined metallurgy</description>
-<category>spent lithium-ion batteries</category>
-<category>lithium recovery</category>
-<category>transition metal oxides</category>
-<category>phase transformations</category>
-<category>combined metallurgy</category>
 </item>
 </channel>
 </rss>
