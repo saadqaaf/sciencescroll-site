@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 21:03:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Decoupling of geometric truncation and heterogeneous nucleation in wire-arc directed energy deposition of AA2195 Al-Li alloy</title>
+<link>https://doi.org/10.1016/j.addma.2026.105457</link>
+<guid isPermaLink="false">10.1016/j.addma.2026.105457</guid>
+<pubDate>Tue, 24 Nov 2026 22:01:06 GMT</pubDate>
+<description>این مقاله در رسوب‌دهی انرژی‌محور قوسی سیمی آلیاژ AA2195 Al-Li، جداسازی اثر برش هندسی از هسته‌زایی ناهمگن را بررسی می‌کند و سازوکارهای ریزساختاری مربوطه را روشن می‌سازد.&lt;br&gt;Additive Manufacturing | 🔬 Research Article&lt;br&gt;🏷 AA2195 Al-Li alloy · wire-arc directed energy deposition · heterogeneous nucleation · geometric truncation · additive manufacturing</description>
+<category>AA2195 Al-Li alloy</category>
+<category>wire-arc directed energy deposition</category>
+<category>heterogeneous nucleation</category>
+<category>geometric truncation</category>
+<category>additive manufacturing</category>
+</item>
+<item>
+<title>Full-atom neural network design of thermostable biocatalysts</title>
+<link>https://doi.org/10.1016/j.checat.2026.101939</link>
+<guid isPermaLink="false">10.1016/j.checat.2026.101939</guid>
+<pubDate>Tue, 24 Nov 2026 22:01:03 GMT</pubDate>
+<description>این مقاله یک شبکه عصبی تمام‌اتمی برای طراحی biocatalystهای مقاوم به حرارت معرفی می‌کند و نشان می‌دهد این روش می‌تواند پایداری حرارتی آنزیم‌ها را بهبود دهد.&lt;br&gt;Chem Catalysis | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 thermostable biocatalysts · full-atom neural network · protein design · enzyme thermostability · computational protein engineering</description>
+<category>thermostable biocatalysts</category>
+<category>full-atom neural network</category>
+<category>protein design</category>
+<category>enzyme thermostability</category>
+<category>computational protein engineering</category>
+</item>
 <item>
 <title>Constrained-epitaxial-growth-induced lamellar TiC with superior strengthening effect in additive manufactured carbon/titanium composites</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122349</link>
@@ -1182,30 +1206,6 @@
 <category>single-molecule detection</category>
 <category>nanopore transport</category>
 <category>ionic current</category>
-</item>
-<item>
-<title>Synergistic Interface Lubrication and Anion Anchoring in a Composite Solid‐State Electrolyte for Dendrite‐Free and Wide‐Temperature Zinc Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71865</link>
-<guid isPermaLink="false">10.1002/aenm.71865</guid>
-<pubDate>Tue, 24 Nov 2026 17:02:02 GMT</pubDate>
-<description>الکترولیت جامد کامپوزیتی PVDF-HFP حاوی EMIMTFSI و نانوصفحات BN با روان‌سازی سطح مشترک و لنگراندازی آنیون، رسانایی یونی و رشد یکنواخت روی را در باتری روی بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in synergistically combining EMIMTFSI plasticizer with BN nanosheets in PVDF-HFP, where BN anchors TFSI⁻ via Lewis acid-base interactions to regulate Zn²⁺ coordination and guide uniform (002) deposition. This yields high ionic conductivity, a 0.56 transference number, and dendrite-free cycling over 2000 h, enabling wide-temperature (−20 to 50°C) solid-state zinc batteries—advancing durable, flexible energy storage.&lt;br&gt;🏷 solid-state zinc battery · composite polymer electrolyte · BN nanosheets · EMIMTFSI ionic liquid · dendrite-free zinc</description>
-<category>solid-state zinc battery</category>
-<category>composite polymer electrolyte</category>
-<category>BN nanosheets</category>
-<category>EMIMTFSI ionic liquid</category>
-<category>dendrite-free zinc</category>
-</item>
-<item>
-<title>Function‐Decoupled Dual‐Anion Doping via Site‐Preferential Regulation Enables High‐Performance Lithium Argyrodite Electrolytes</title>
-<link>https://doi.org/10.1002/aenm.71857</link>
-<guid isPermaLink="false">10.1002/aenm.71857</guid>
-<pubDate>Tue, 24 Nov 2026 17:01:57 GMT</pubDate>
-<description>دوپینگ دوگانه آنیونی با جهت‌گیری سایت‌گزین در الکترولیت آرژیرودایت Li6PS4.2O0.4Se0.4Cl، رسانایی یونی، پایداری هوا و پنجره الکتروشیمیایی را هم‌زمان بهبود می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in precursor-directed site-preferential dual-anion doping: Li2O directs O to 4d sites while P2O5 directs O to 16e sites. This decouples functions—O at 16e improves air stability and voltage window, Se at 4d boosts conductivity and forms Li2Se/Li2O interphase. Significance: simultaneously achieves high conductivity, air stability, 2.6 mA cm−2 CCD, and 4000 h cycling.&lt;br&gt;🏷 argyrodite electrolyte · dual-anion doping · solid-state battery · site-preferential regulation · air stability</description>
-<category>argyrodite electrolyte</category>
-<category>dual-anion doping</category>
-<category>solid-state battery</category>
-<category>site-preferential regulation</category>
-<category>air stability</category>
 </item>
 </channel>
 </rss>
