@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 06:01:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 07:02:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ion confinement effects in aqueous zinc-ion batteries: From nanoscale space to chemical bonding</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218809</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218809</guid>
+<pubDate>Tue, 24 Nov 2026 07:02:42 GMT</pubDate>
+<description>این مقاله اثرات محدودسازی یون را در باتری‌های آبی یون روی از فضای نانومقیاس تا پیوند شیمیایی بررسی می‌کند و راهبردهایی برای بهبود عملکرد ارائه می‌دهد.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 zinc-ion batteries · ion confinement · nanoscale space · chemical bonding · aqueous electrolytes</description>
+<category>zinc-ion batteries</category>
+<category>ion confinement</category>
+<category>nanoscale space</category>
+<category>chemical bonding</category>
+<category>aqueous electrolytes</category>
+</item>
 <item>
 <title>MoS 2 -modified self-supporting carbon hybrid enabling synergistic polysulfide adsorption and catalytic conversion for high-performance Li–S batteries</title>
 <link>https://doi.org/10.1039/d6ta07837k</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>sulfur redox</category>
 <category>high sulfur loading</category>
 <category>Nb doping</category>
-</item>
-<item>
-<title>Coupled Self‐Alkalization and Chelation Chemistry Enables Highly Reversible Zn Anodes and Rechargeable Alkaline Zn–I 2 Batteries</title>
-<link>https://doi.org/10.1002/anie.2466347</link>
-<guid isPermaLink="false">10.1002/anie.2466347</guid>
-<pubDate>Sat, 21 Nov 2026 22:03:11 GMT</pubDate>
-<description>الکترولیت خودقلیایی و کلاته با اتیلن‌دی‌آمین آند Zn برگشت‌پذیر و باتری آبی Zn-I2 با چگالی انرژی ۸۱۲.۹ Wh kg−1 و ۸۶۰ چرخه را ممکن می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using ethylenediamine as both base and chelator to enable in situ OH⁻ generation and soluble Zn chelates, decoupling the redox–concentration–stability trade-off. Significance: 1 M Zn²⁺ at pH 12.45, hybrid interphase, 380 h cycling, 812.9 Wh kg⁻¹ Zn||I₂, and the first anode-free alkaline Zn||I₂ battery (860 cycles).&lt;br&gt;🏷 Zn anode · Zn-I2 battery · ethylenediamine · chelation chemistry · self-alkalization</description>
-<category>Zn anode</category>
-<category>Zn-I2 battery</category>
-<category>ethylenediamine</category>
-<category>chelation chemistry</category>
-<category>self-alkalization</category>
 </item>
 </channel>
 </rss>
