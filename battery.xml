@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 03:01:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 04:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>MoS 2 -modified self-supporting carbon hybrid enabling synergistic polysulfide adsorption and catalytic conversion for high-performance Li–S batteries</title>
+<link>https://doi.org/10.1039/d6ta07837k</link>
+<guid isPermaLink="false">10.1039/d6ta07837k</guid>
+<pubDate>Tue, 24 Nov 2026 04:01:44 GMT</pubDate>
+<description>هیبرید کربنی خودایستای اصلاح‌شده با MoS2 با جذب و تبدیل کاتالیستی هم‌افزای پلی‌سولفیدها، ظرفیت 959 mAh g−1 در 0.2C و چرخه‌پذیری پایدار 500 چرخه در 1C را در باتری Li–S ارائه می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a MoS₂-modified self-supporting carbon hybrid (CMoNC-S) that synergistically combines polysulfide adsorption with catalytic conversion while enhancing electron transport. Its significance is delivering high capacity (959 mAh g⁻¹ at 0.2C) and stable 500-cycle life at 1C, advancing high-performance Li–S batteries by addressing polysulfide shuttling and sluggish kinetics simultaneously.&lt;br&gt;🏷 Li-S battery · MoS2 · polysulfide adsorption · catalytic conversion · self-supporting carbon</description>
+<category>Li-S battery</category>
+<category>MoS2</category>
+<category>polysulfide adsorption</category>
+<category>catalytic conversion</category>
+<category>self-supporting carbon</category>
+</item>
+<item>
+<title>Electronic transport and Li-metal interfacial degradation in Zr-substituted ternary metal chloride solid electrolytes</title>
+<link>https://doi.org/10.1039/d6ta03840a</link>
+<guid isPermaLink="false">10.1039/d6ta03840a</guid>
+<pubDate>Tue, 24 Nov 2026 04:01:35 GMT</pubDate>
+<description>اثر جانشینی Zr بر انتقال الکترونی و تخریب فصل مشترک با Li در الکترولیت‌های جامد کلریدی سه‌جزئی برای باتری‌های تمام‌جامد بررسی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in substituting Zr into ternary metal chloride solid electrolytes to tune electronic transport and stabilize the Li-metal interface. The significance is revealing how Zr substitution suppresses electronic conductivity and interfacial degradation, enabling dendrite-free Li plating and advancing high-energy all-solid-state batteries with chloride SSEs.&lt;br&gt;🏷 chloride solid electrolyte · Zr substitution · electronic transport · Li-metal interface · all-solid-state battery</description>
+<category>chloride solid electrolyte</category>
+<category>Zr substitution</category>
+<category>electronic transport</category>
+<category>Li-metal interface</category>
+<category>all-solid-state battery</category>
+</item>
+<item>
+<title>A Lithiophilic Bilayer on Cu Current Collectors for Robust and Efficient Anode-Free Lithium Metal Batteries by All-dry Magnetron Sputtering</title>
+<link>https://doi.org/10.1039/d6ta07489h</link>
+<guid isPermaLink="false">10.1039/d6ta07489h</guid>
+<pubDate>Tue, 24 Nov 2026 04:01:19 GMT</pubDate>
+<description>پوشش دوجزئی لیتوفیلیک روی کلکتور جریان Cu به روش اسپاترینگ مغناطیسی تمام‌خشک، رسوب یکنواخت Li و پایداری SEI را در باتری‌های لیتیوم-فلزی بدون آند بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using all-dry magnetron sputtering to fabricate a lithiophilic bilayer on Cu current collectors, a scalable, solvent-free approach. This bilayer promotes uniform Li deposition and a stable SEI, suppressing dendrite growth. Significance: it enables robust, long-life, safe anode-free lithium metal batteries, advancing high-energy-density cell design via a manufacturable coating strategy.&lt;br&gt;🏷 anode-free lithium battery · magnetron sputtering · lithiophilic bilayer · Cu current collector · lithium dendrite</description>
+<category>anode-free lithium battery</category>
+<category>magnetron sputtering</category>
+<category>lithiophilic bilayer</category>
+<category>Cu current collector</category>
+<category>lithium dendrite</category>
+</item>
 <item>
 <title>Coupled effects of poly(acrylic acid) molecular weight and slurry solid fraction on silicon–graphite electrode performance</title>
 <link>https://doi.org/10.1016/j.est.2026.125804</link>
@@ -1172,42 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>ethylenediamine</category>
 <category>chelation chemistry</category>
 <category>self-alkalization</category>
-</item>
-<item>
-<title>Concentration‐Driven Solvation Reorganization Featuring Viologen Clustering Enables Air‐Tolerant Aqueous Organic Redox Flow Batteries</title>
-<link>https://doi.org/10.1002/anie.2444933</link>
-<guid isPermaLink="false">10.1002/anie.2444933</guid>
-<pubDate>Sat, 21 Nov 2026 22:02:14 GMT</pubDate>
-<description>خوشه‌شدن ویولوژن در غلظت بحرانی، بازآرایی حلال‌پوشی و تحمل هوا را در باتری جریان ردوکس آبی آلی بهبود می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This study reveals a concentration-driven solvation transition in viologen electrolytes, where viologen clustering sterically shields redox-active species from O₂/OH⁻/ROS attack and restricts Grotthuss-type OH⁻ transport, enabling air-tolerant aqueous organic redox flow batteries. It identifies BV²⁺ as the most degradation-prone state and shows clustering suppresses BV³⁺• disproportionation, offering a concentration-engineering strategy for stable, air-tolerant AORFBs.&lt;br&gt;🏷 viologen anolyte · redox flow battery · solvation reorganization · air tolerance · clustering</description>
-<category>viologen anolyte</category>
-<category>redox flow battery</category>
-<category>solvation reorganization</category>
-<category>air tolerance</category>
-<category>clustering</category>
-</item>
-<item>
-<title>N‐Doped Coral Carbon for Synergistic Iodine Anchoring in High‐Capacity and Long‐Life Aqueous Zinc‐Iodine Batteries</title>
-<link>https://doi.org/10.1002/aenm.71862</link>
-<guid isPermaLink="false">10.1002/aenm.71862</guid>
-<pubDate>Sat, 21 Nov 2026 19:01:27 GMT</pubDate>
-<description>کربن مرجانی N-doped با نانولوله‌های کربنی درجا به‌عنوان میزبان ید در باتری آبی Zn-I استفاده شده و ظرفیت بالا و چرخه‌پذیری پایدار بیش از ۸۰۰۰ چرخه را فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a coral-like N-doped carbon with in situ grown carbon nanotubes (CNC-CNT), derived from bimetallic core-shell MOFs, as an iodine host combining C–I chemical adsorption with physical confinement and extra electric double-layer capacitance. Significance: it enables 690 mAh g⁻¹ at 1 A g⁻¹, 8000-cycle stability, and ~780 Wh kg⁻¹ pouch-cell energy density, offering a facile route to high-capacity, long-life aqueous zinc-iodine batteries.&lt;br&gt;🏷 zinc-iodine battery · N-doped carbon · iodine host · carbon nanotube · coral-like carbon</description>
-<category>zinc-iodine battery</category>
-<category>N-doped carbon</category>
-<category>iodine host</category>
-<category>carbon nanotube</category>
-<category>coral-like carbon</category>
-</item>
-<item>
-<title>Al/F Co‐Doped Sulfide Electrolyte for Durable All‐Solid‐State Lithium‐Organic Batteries</title>
-<link>https://doi.org/10.1002/aenm.71853</link>
-<guid isPermaLink="false">10.1002/aenm.71853</guid>
-<pubDate>Sat, 21 Nov 2026 19:01:15 GMT</pubDate>
-<description>با جایگزینی دوگانه Al/F در الکترولیت سولفیدی آرژیرودایت، پایداری فصل مشترک کاتد کربونیلی و لیتیم فلزی در باتری تمام‌جامد لیتیم-آلی بهبود یافته و چرخه‌پذیری طولانی‌مدت حاصل شده است.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an electrolyte-first strategy using dual-site Al/F substitution of argyrodite sulfide electrolyte, guided by HSAB theory, to stabilize carbonyl cathodes and lithium metal simultaneously. This suppresses interfacial degradation, enabling 100% initial Coulombic efficiency and 81% capacity retention after 2000 cycles, establishing HSAB-guided electrolyte redesign as a route to durable all-solid-state lithium-organic batteries.&lt;br&gt;🏷 solid electrolyte · lithium-organic battery · argyrodite · Al/F co-doping · interface stability</description>
-<category>solid electrolyte</category>
-<category>lithium-organic battery</category>
-<category>argyrodite</category>
-<category>Al/F co-doping</category>
-<category>interface stability</category>
 </item>
 </channel>
 </rss>
