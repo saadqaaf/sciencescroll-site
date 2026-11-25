@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 11:02:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Highly Adaptable Electrochemical Lithium Extraction From Brine via Heterojunction Engineering</title>
+<link>https://doi.org/10.1002/adma.75723</link>
+<guid isPermaLink="false">10.1002/adma.75723</guid>
+<pubDate>Wed, 25 Nov 2026 12:02:06 GMT</pubDate>
+<description>با مهندسی ناهم‌ساختگی LTO روی LiFePO4، سرعت جداسازی آب‌پوشانی Li+ و گزینش‌پذیری نسبت به Na+ بهبود یافت و استخراج الکتروشیمیایی لیتیوم از آب‌نمک‌های پیچیده با نسبت Na/Li تا ۱۵۰ کارآمد شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in heterojunction engineering: an LTO heterojunction on LiFePO4 (LFP-SEF) creates a built-in electric field that speeds Li+ desolvation and size-sieves competing cations. Significance: it enables stable lithium extraction across diverse brines (Na/Li 1–150), retaining 83.72% capacity after 50 cycles even at Na/Li 150, and scales to 1.5 m², showing strong industrialization potential.&lt;br&gt;🏷 electrochemical lithium extraction · brine · heterojunction engineering · LiFePO4 · desolvation kinetics</description>
+<category>electrochemical lithium extraction</category>
+<category>brine</category>
+<category>heterojunction engineering</category>
+<category>LiFePO4</category>
+<category>desolvation kinetics</category>
+</item>
+<item>
+<title>Data‐Driven Conformational Mismatch Design Enables Extreme‐Temperature Energy Storage in Copolyimides</title>
+<link>https://doi.org/10.1002/adma.75857</link>
+<guid isPermaLink="false">10.1002/adma.75857</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:58 GMT</pubDate>
+<description>طراحی ناسازگاری کنفورماسیونی با کمک یادگیری ماشین و DFT در کوپلی‌آمیدها، ذخیره انرژی خازنی در دمای بالا تا 250 درجه سلسیوس را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using conformational mismatch via a methyl-substituted diamine in semi-alicyclic copolyimides, identified through a machine-learning, DFT, and molecular-dynamics workflow. This decouples the trade-off between wide bandgap and high glass-transition temperature. Significance: Co-PI-tC achieves a record 8.6 J cm⁻³ at 200°C and 6.7 J cm⁻³ at 250°C, offering a molecular-design strategy for high-temperature polymer dielectrics.&lt;br&gt;🏷 polymer dielectric · copolyimide · high-temperature storage · conformational mismatch · machine learning</description>
+<category>polymer dielectric</category>
+<category>copolyimide</category>
+<category>high-temperature storage</category>
+<category>conformational mismatch</category>
+<category>machine learning</category>
+</item>
+<item>
+<title>Synergistic high negative pressure enables direct lithium crystallization from raw salt-lake brine</title>
+<link>https://doi.org/10.1039/d6ee04333j</link>
+<guid isPermaLink="false">10.1039/d6ee04333j</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:28 GMT</pubDate>
+<description>یک پمپ جداسازی-تبلور خورشیدی با ترکیب فشار منفی تبخیر و مویینگی، تبلور مستقیم لیتیوم از آب‌نمک خام دریاچه نمک را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling evaporation and capillary negative pressures in a solar-driven separation–crystallization pump, enabling direct lithium crystallization from raw salt-lake brine without intermediate purification. This simplifies lithium extraction, reduces energy and chemical use, and offers a sustainable route to lithium recovery from complex brines.&lt;br&gt;🏷 lithium extraction · salt-lake brine · negative pressure · crystallization · solar evaporation</description>
+<category>lithium extraction</category>
+<category>salt-lake brine</category>
+<category>negative pressure</category>
+<category>crystallization</category>
+<category>solar evaporation</category>
+</item>
 <item>
 <title>LiO2 Thermodynamics as a Unified Descriptor for the Bifunctional Activity of Dual-Atom Catalysts in Aprotic Lithium-Oxygen Batteries</title>
 <link>https://doi.org/10.1039/d6ta07931h</link>
@@ -1170,42 +1206,6 @@
 <category>Ni2Mo catalyst</category>
 <category>carbon nanofibers</category>
 <category>de/rehydrogenation kinetics</category>
-</item>
-<item>
-<title>Battery Breathomics: Hydrogen evolution feature mapping for crack diagnosis across cycling conditions in cylindrical lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125788</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125788</guid>
-<pubDate>Tue, 24 Nov 2026 02:01:53 GMT</pubDate>
-<description>نقشه‌برداری ویژگی‌های آزادسازی هیدروژن برای تشخیص ترک در باتری‌های لیتیوم-یونی استوانه‌ای در شرایط چرخه‌ای مختلف ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 battery breathomics · hydrogen evolution · crack diagnosis · cylindrical lithium-ion battery · cycling conditions</description>
-<category>battery breathomics</category>
-<category>hydrogen evolution</category>
-<category>crack diagnosis</category>
-<category>cylindrical lithium-ion battery</category>
-<category>cycling conditions</category>
-</item>
-<item>
-<title>Combination of sodium vacancies and multielement incorporation toward high-performance O3-type oxide cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125782</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125782</guid>
-<pubDate>Tue, 24 Nov 2026 02:01:44 GMT</pubDate>
-<description>ترکیب جای خالی سدیم و دوپه‌سازی چندعنصری برای دستیابی به کاتدهای اکسیدی O3 با عملکرد بالا در باتری‌های سدیم-یونی به کار رفت.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 O3-type cathode · sodium-ion battery · sodium vacancies · multielement doping · oxide cathode</description>
-<category>O3-type cathode</category>
-<category>sodium-ion battery</category>
-<category>sodium vacancies</category>
-<category>multielement doping</category>
-<category>oxide cathode</category>
-</item>
-<item>
-<title>Planar cascaded phase change material-liquid cooling for enhanced latent heat recovery and thermal regulation in cell-to-pack battery packs</title>
-<link>https://doi.org/10.1016/j.est.2026.125973</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125973</guid>
-<pubDate>Tue, 24 Nov 2026 02:01:39 GMT</pubDate>
-<description>خنک‌کاری ترکیبی آبشاری ماده تغییر فاز و مایع برای بهبود بازیابی گرمای نهان و تنظیم حرارتی بسته‌های باتری cell-to-pack بررسی شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 phase change material · liquid cooling · cell-to-pack · thermal regulation · latent heat recovery</description>
-<category>phase change material</category>
-<category>liquid cooling</category>
-<category>cell-to-pack</category>
-<category>thermal regulation</category>
-<category>latent heat recovery</category>
 </item>
 </channel>
 </rss>

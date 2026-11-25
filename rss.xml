@@ -5,8 +5,152 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 11:02:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:02:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Sputtered p-channel TeSeO thin-film transistors</title>
+<link>https://doi.org/10.1016/j.mser.2026.101337</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101337</guid>
+<pubDate>Wed, 25 Nov 2026 12:02:09 GMT</pubDate>
+<description>ترانزیستورهای لایه نازک کانال p بر پایه TeSeO به روش اسپاترینگ ساخته شدند و خواص الکتریکی آن‌ها به عنوان نیمه‌رسانای اکسیدی نوع p بررسی شد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 TeSeO · thin-film transistor · p-channel · sputtering · oxide semiconductor</description>
+<category>TeSeO</category>
+<category>thin-film transistor</category>
+<category>p-channel</category>
+<category>sputtering</category>
+<category>oxide semiconductor</category>
+</item>
+<item>
+<title>Highly Adaptable Electrochemical Lithium Extraction From Brine via Heterojunction Engineering</title>
+<link>https://doi.org/10.1002/adma.75723</link>
+<guid isPermaLink="false">10.1002/adma.75723</guid>
+<pubDate>Wed, 25 Nov 2026 12:02:06 GMT</pubDate>
+<description>با مهندسی ناهم‌ساختگی LTO روی LiFePO4، سرعت جداسازی آب‌پوشانی Li+ و گزینش‌پذیری نسبت به Na+ بهبود یافت و استخراج الکتروشیمیایی لیتیوم از آب‌نمک‌های پیچیده با نسبت Na/Li تا ۱۵۰ کارآمد شد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in heterojunction engineering: an LTO heterojunction on LiFePO4 (LFP-SEF) creates a built-in electric field that speeds Li+ desolvation and size-sieves competing cations. Significance: it enables stable lithium extraction across diverse brines (Na/Li 1–150), retaining 83.72% capacity after 50 cycles even at Na/Li 150, and scales to 1.5 m², showing strong industrialization potential.&lt;br&gt;🏷 electrochemical lithium extraction · brine · heterojunction engineering · LiFePO4 · desolvation kinetics</description>
+<category>electrochemical lithium extraction</category>
+<category>brine</category>
+<category>heterojunction engineering</category>
+<category>LiFePO4</category>
+<category>desolvation kinetics</category>
+</item>
+<item>
+<title>Magnetic Switching of Exciton Lifetime in CrSBr</title>
+<link>https://doi.org/10.1002/adma.75715</link>
+<guid isPermaLink="false">10.1002/adma.75715</guid>
+<pubDate>Wed, 25 Nov 2026 12:02:01 GMT</pubDate>
+<description>با طیف‌سنجی فوتولومینسانس زمان‌حل، کاهش پله‌ای عمر اکسیتون CrSBr از ۱۱ به ۷ پیکوثانیه هنگام گذار از فاز آنتی‌فرومغناطیس به فرومغناطیس مشاهده شد که ناشی از محلی‌شدگی اکسیتون است.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CrSBr · exciton lifetime · magnetic semiconductor · exciton localization · time-resolved photoluminescence</description>
+<category>CrSBr</category>
+<category>exciton lifetime</category>
+<category>magnetic semiconductor</category>
+<category>exciton localization</category>
+<category>time-resolved photoluminescence</category>
+</item>
+<item>
+<title>Data‐Driven Conformational Mismatch Design Enables Extreme‐Temperature Energy Storage in Copolyimides</title>
+<link>https://doi.org/10.1002/adma.75857</link>
+<guid isPermaLink="false">10.1002/adma.75857</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:58 GMT</pubDate>
+<description>طراحی ناسازگاری کنفورماسیونی با کمک یادگیری ماشین و DFT در کوپلی‌آمیدها، ذخیره انرژی خازنی در دمای بالا تا 250 درجه سلسیوس را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using conformational mismatch via a methyl-substituted diamine in semi-alicyclic copolyimides, identified through a machine-learning, DFT, and molecular-dynamics workflow. This decouples the trade-off between wide bandgap and high glass-transition temperature. Significance: Co-PI-tC achieves a record 8.6 J cm⁻³ at 200°C and 6.7 J cm⁻³ at 250°C, offering a molecular-design strategy for high-temperature polymer dielectrics.&lt;br&gt;🏷 polymer dielectric · copolyimide · high-temperature storage · conformational mismatch · machine learning</description>
+<category>polymer dielectric</category>
+<category>copolyimide</category>
+<category>high-temperature storage</category>
+<category>conformational mismatch</category>
+<category>machine learning</category>
+</item>
+<item>
+<title>An Electrically Gated Solid‐State Thermal Transistor for Energy‐Efficient Thermal Management</title>
+<link>https://doi.org/10.1002/adma.75838</link>
+<guid isPermaLink="false">10.1002/adma.75838</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:53 GMT</pubDate>
+<description>ترانزیستور حرارتی حالت جامد مبتنی بر BaTiO3 با دروازه الکتریکی، تنظیم پیوسته رسانش گرمایی و مدیریت حرارتی کارآمد انرژی را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 thermal transistor · barium titanate · ferroelectric domains · thermal management · phonon transport</description>
+<category>thermal transistor</category>
+<category>barium titanate</category>
+<category>ferroelectric domains</category>
+<category>thermal management</category>
+<category>phonon transport</category>
+</item>
+<item>
+<title>Ultrafast cellulose nanocrystal production from diverse lignocellulosic biomass</title>
+<link>https://doi.org/10.1038/s41893-026-01989-3</link>
+<guid isPermaLink="false">10.1038/s41893-026-01989-3</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:49 GMT</pubDate>
+<description>این پژوهش روشی فوق‌سریع برای تولید نانوبلورهای سلولز از زیست‌توده‌های لیگنوسلولزی متنوع ارائه می‌دهد.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;🏷 cellulose nanocrystals · lignocellulosic biomass · ultrafast production · biomass conversion · nanomaterials</description>
+<category>cellulose nanocrystals</category>
+<category>lignocellulosic biomass</category>
+<category>ultrafast production</category>
+<category>biomass conversion</category>
+<category>nanomaterials</category>
+</item>
+<item>
+<title>Superspreading droplets for scalable and green perovskite photovoltaics</title>
+<link>https://doi.org/10.1038/s41893-026-01991-9</link>
+<guid isPermaLink="false">10.1038/s41893-026-01991-9</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:46 GMT</pubDate>
+<description>استفاده از قطرات فوق‌گسترش‌یابنده روشی سبز و مقیاس‌پذیر برای ساخت لایه‌های پروسکایت با یکنواختی بالا در فتوولتائیک فراهم می‌کند.&lt;br&gt;Nature Sustainability | 🔬 Research Article&lt;br&gt;🏷 perovskite photovoltaics · superspreading droplets · scalable coating · green fabrication · film uniformity</description>
+<category>perovskite photovoltaics</category>
+<category>superspreading droplets</category>
+<category>scalable coating</category>
+<category>green fabrication</category>
+<category>film uniformity</category>
+</item>
+<item>
+<title>A research agenda for integrating artificial intelligence in mitigation scenario workflows</title>
+<link>https://doi.org/10.1038/s41558-026-02801-y</link>
+<guid isPermaLink="false">10.1038/s41558-026-02801-y</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:43 GMT</pubDate>
+<description>این مقاله یک دستور کار پژوهشی برای ادغام هوش مصنوعی در جریان‌های کاری سناریوهای کاهش انتشار گازهای گلخانه‌ای ارائه می‌دهد.&lt;br&gt;Nature Climate Change | 💭 Perspective&lt;br&gt;🏷 artificial intelligence · mitigation scenarios · climate modeling · research agenda · integrated assessment</description>
+<category>artificial intelligence</category>
+<category>mitigation scenarios</category>
+<category>climate modeling</category>
+<category>research agenda</category>
+<category>integrated assessment</category>
+</item>
+<item>
+<title>Stage-dependent perovskite solidification and spatial heterogeneity under buried-contact regulation in scalable photovoltaics</title>
+<link>https://doi.org/10.1039/d6ee06236a</link>
+<guid isPermaLink="false">10.1039/d6ee06236a</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:38 GMT</pubDate>
+<description>این پژوهش نشان می‌دهد وضعیت تماس پنهان چگونه در مراحل مختلف انجماد لایه پروسکایت ناهمگنی فضایی را در فتوولتائیک‌های مقیاس‌پذیر کنترل می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 perovskite photovoltaics · buried contact · solidification stages · spatial heterogeneity · scalable fabrication</description>
+<category>perovskite photovoltaics</category>
+<category>buried contact</category>
+<category>solidification stages</category>
+<category>spatial heterogeneity</category>
+<category>scalable fabrication</category>
+</item>
+<item>
+<title>Tailoring the Spin State of Fe-Based Perovskite Cathodes for Fast Oxygen Electrocatalysis</title>
+<link>https://doi.org/10.1039/d6ee06383g</link>
+<guid isPermaLink="false">10.1039/d6ee06383g</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:34 GMT</pubDate>
+<description>تنظیم حالت اسپین در پروسکایت‌های آهن‌دار به‌عنوان کاتد پیل سوختی سرامیکی پروتونی، الکتروکاتالیز اکسیژن سریع و پایدار را فراهم می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 protonic ceramic fuel cell · Fe-based perovskite · spin state · oxygen electrocatalysis · cathode</description>
+<category>protonic ceramic fuel cell</category>
+<category>Fe-based perovskite</category>
+<category>spin state</category>
+<category>oxygen electrocatalysis</category>
+<category>cathode</category>
+</item>
+<item>
+<title>Closing the Chloride Balance Constrains Direct Seawater Electrolysis from Cell to Process Level</title>
+<link>https://doi.org/10.1039/d6ee07019a</link>
+<guid isPermaLink="false">10.1039/d6ee07019a</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:31 GMT</pubDate>
+<description>این مقاله نشان می‌دهد بستن موازنه کلرید از سطح سلول تا سطح فرآیند، محدودیت اصلی الکترولیز مستقیم آب دریا برای تولید هیدروژن است.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 seawater electrolysis · chloride balance · hydrogen production · chlorine evolution · process design</description>
+<category>seawater electrolysis</category>
+<category>chloride balance</category>
+<category>hydrogen production</category>
+<category>chlorine evolution</category>
+<category>process design</category>
+</item>
+<item>
+<title>Synergistic high negative pressure enables direct lithium crystallization from raw salt-lake brine</title>
+<link>https://doi.org/10.1039/d6ee04333j</link>
+<guid isPermaLink="false">10.1039/d6ee04333j</guid>
+<pubDate>Wed, 25 Nov 2026 12:01:28 GMT</pubDate>
+<description>یک پمپ جداسازی-تبلور خورشیدی با ترکیب فشار منفی تبخیر و مویینگی، تبلور مستقیم لیتیوم از آب‌نمک خام دریاچه نمک را ممکن می‌سازد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling evaporation and capillary negative pressures in a solar-driven separation–crystallization pump, enabling direct lithium crystallization from raw salt-lake brine without intermediate purification. This simplifies lithium extraction, reduces energy and chemical use, and offers a sustainable route to lithium recovery from complex brines.&lt;br&gt;🏷 lithium extraction · salt-lake brine · negative pressure · crystallization · solar evaporation</description>
+<category>lithium extraction</category>
+<category>salt-lake brine</category>
+<category>negative pressure</category>
+<category>crystallization</category>
+<category>solar evaporation</category>
+</item>
 <item>
 <title>Laser-induced streaking of megaelectronvolt electrons in a liquid medium</title>
 <link>https://doi.org/10.1038/s41566-026-02044-5</link>
@@ -1074,153 +1218,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 entropy engineering · ox
 <category>spin state</category>
 <category>perovskite anode</category>
 <category>solid oxide electrolysis</category>
-</item>
-<item>
-<title>Chemical Programming of Stacking Order and Superconductivity Dimensionality in NbSe 2–x Te x Polytypic Heterostructures</title>
-<link>https://doi.org/10.1021/jacs.6c17112</link>
-<guid isPermaLink="false">10.1021/jacs.6c17112</guid>
-<pubDate>Wed, 25 Nov 2026 06:04:17 GMT</pubDate>
-<description>در سیستم NbSe2–xTex گذار پلی‌تایپی پیوسته از 2H به 1T با جانشینی Te مشاهده شد و ابررسانایی دوبعدی تقویت‌شده در فاز 4H در برابر رفتار سه‌بعدی فاز 6R نشان داده شد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 NbSe2-xTex · polytypic heterostructure · superconductivity dimensionality · stacking order · spin-orbit coupling</description>
-<category>NbSe2-xTex</category>
-<category>polytypic heterostructure</category>
-<category>superconductivity dimensionality</category>
-<category>stacking order</category>
-<category>spin-orbit coupling</category>
-</item>
-<item>
-<title>A Unique Conformationally Assisted [2+2] Configuration in Cycloparaphenylenes Enables Efficient Laser Devices</title>
-<link>https://doi.org/10.1021/jacs.6c15955</link>
-<guid isPermaLink="false">10.1021/jacs.6c15955</guid>
-<pubDate>Wed, 25 Nov 2026 06:04:14 GMT</pubDate>
-<description>دو ماکروسیکل π-مزدوج بر پایه cycloparaphenylene به‌عنوان محیط بهره‌دهی لیزری DFB معرفی شدند و چرخه فوتونی چهارحالته با پیکربندی [2+2] تلفات بازجذب را کاهش می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cycloparaphenylene · DFB laser · amplified spontaneous emission · conformational states · gain media</description>
-<category>cycloparaphenylene</category>
-<category>DFB laser</category>
-<category>amplified spontaneous emission</category>
-<category>conformational states</category>
-<category>gain media</category>
-</item>
-<item>
-<title>Enantioconvergent N -Alkylation of Indoles with Alcohols Promoted by an Axially Chiral Iridacycle</title>
-<link>https://doi.org/10.1021/jacs.6c20756</link>
-<guid isPermaLink="false">10.1021/jacs.6c20756</guid>
-<pubDate>Wed, 25 Nov 2026 06:04:10 GMT</pubDate>
-<description>یک ایریداسیکل محوری-کایرال همراه با اسید فسفریک کایرال، N-آلکیلاسیون انانتیوکانورژنت ایندول‌ها با الکل‌های ثانویه راسمیک را از طریق فرایند borrowing-hydrogen ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 indole N-alkylation · enantioconvergent catalysis · iridacycle · borrowing hydrogen · chiral phosphoric acid</description>
-<category>indole N-alkylation</category>
-<category>enantioconvergent catalysis</category>
-<category>iridacycle</category>
-<category>borrowing hydrogen</category>
-<category>chiral phosphoric acid</category>
-</item>
-<item>
-<title>An Allosteric CLR N-Terminal Swing-Out Mechanism for RAMP-Mediated Adrenomedullin Receptor Selectivity</title>
-<link>https://doi.org/10.1021/jacs.6c13111</link>
-<guid isPermaLink="false">10.1021/jacs.6c13111</guid>
-<pubDate>Wed, 25 Nov 2026 06:04:07 GMT</pubDate>
-<description>شبیه‌سازی دینامیک مولکولی و آزمون‌های دارویی نشان داد دامنه خارج‌سلولی RAMP2/3 با تثبیت حالت swing-out در CLR، گزینش‌پذیری گیرنده آدرنومدولین را تعیین می‌کند.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 RAMP · adrenomedullin receptor · CLR swing-out · GPCR selectivity · molecular dynamics</description>
-<category>RAMP</category>
-<category>adrenomedullin receptor</category>
-<category>CLR swing-out</category>
-<category>GPCR selectivity</category>
-<category>molecular dynamics</category>
-</item>
-<item>
-<title>SMYD1 trimethylates myosin K129 to restrain cardiomyocyte hypercontractility</title>
-<link>https://doi.org/10.1038/s41467-026-79720-1</link>
-<guid isPermaLink="false">10.1038/s41467-026-79720-1</guid>
-<pubDate>Wed, 25 Nov 2026 06:04:04 GMT</pubDate>
-<description>SMYD1 با تری‌متیله‌کردن لیزین ۱۲۹ میوزین، انقباض‌پذیری بیش‌ازحد کاردیومیوسیت‌ها را مهار می‌کند و مکانیسمی اپی‌ژنتیکی برای تنظیم عملکرد قلبی ارائه می‌دهد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 SMYD1 methyltransferase · myosin K129 · cardiomyocyte contractility · trimethylation · cardiac hypertrophy</description>
-<category>SMYD1 methyltransferase</category>
-<category>myosin K129</category>
-<category>cardiomyocyte contractility</category>
-<category>trimethylation</category>
-<category>cardiac hypertrophy</category>
-</item>
-<item>
-<title>Hepatokine AGP2 mediates physical exercise-induced bone augmentation through liver-bone signaling communication</title>
-<link>https://doi.org/10.1038/s41467-026-79582-7</link>
-<guid isPermaLink="false">10.1038/s41467-026-79582-7</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:59 GMT</pubDate>
-<description>این مقاله نشان می‌دهد هپاتوکین AGP2 با میانجی‌گری ارتباط بین کبد و استخوان، افزایش استخوان ناشی از تمرین ورزشی را واسطه‌گری می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 AGP2 hepatokine · exercise-induced bone formation · liver-bone axis · bone augmentation · signaling communication</description>
-<category>AGP2 hepatokine</category>
-<category>exercise-induced bone formation</category>
-<category>liver-bone axis</category>
-<category>bone augmentation</category>
-<category>signaling communication</category>
-</item>
-<item>
-<title>CD300LD drives osteoclastogenesis and inflammatory bone loss by sensing cholesterol and activating FES SYK STAT3</title>
-<link>https://doi.org/10.1038/s41467-026-79735-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79735-8</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:55 GMT</pubDate>
-<description>غربالگری CRISPR–Cas9 ژن‌های CD نشان داد CD300LD با حس‌گری کلسترول و فعال‌سازی محور FES–SYK–STAT3، تمایز استئوکلاست و تحلیل استخوان التهابی را پیش می‌برد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 CD300LD · osteoclastogenesis · CRISPR-Cas9 screen · cholesterol sensing · FES-SYK-STAT3</description>
-<category>CD300LD</category>
-<category>osteoclastogenesis</category>
-<category>CRISPR-Cas9 screen</category>
-<category>cholesterol sensing</category>
-<category>FES-SYK-STAT3</category>
-</item>
-<item>
-<title>Contactless Nanoscale Temperature Mapping Using a Luminescent Nanoparticle Attached to a Sharp Glass Tip</title>
-<link>https://doi.org/10.1021/acsnano.6c17595</link>
-<guid isPermaLink="false">10.1021/acsnano.6c17595</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:52 GMT</pubDate>
-<description>یک نانوذره درخشان NaYF4:Yb3+/Er3+ متصل به نوک شیشه‌ای به‌عنوان کاوشگر دمایی نانومقیاس غیرتماسی معرفی شد که نقشه‌برداری دما با دقت ۱ درجه سلسیوس را ممکن می‌سازد.&lt;br&gt;ACS Nano | 🔬 Research Article&lt;br&gt;🏷 nanoscale thermometry · luminescent nanoparticle · NaYF4:Yb3+/Er3+ · glass tip probe · noncontact AFM</description>
-<category>nanoscale thermometry</category>
-<category>luminescent nanoparticle</category>
-<category>NaYF4:Yb3+/Er3+</category>
-<category>glass tip probe</category>
-<category>noncontact AFM</category>
-</item>
-<item>
-<title>Four-Dimensional Scanning Transmission Electron Microscopy Nanoscale Phase Mapping of the Lithium-Metal Surface Passivation Layer</title>
-<link>https://doi.org/10.1021/acsnano.6c11761</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11761</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:49 GMT</pubDate>
-<description>با ترکیب 4D-STEM و یادگیری ماشین بدون نظارت، نقشه‌برداری فازی نانومقیاس لایه پسیواسیون سطح لیتیم فلزی انجام شد و Li2O و LiOH به‌عنوان فازهای بلوری غالب شناسایی شدند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a 4D-STEM workflow combining dimensionality reduction and unsupervised machine learning for real-space clustering, boosting signal-to-noise in beam-sensitive samples, plus automated Bragg reflection analysis. Its significance: enabling nanoscale phase mapping of large fields at nanometer resolution, revealing lithium oxide and lithium hydroxide as dominant crystalline phases in the lithium-metal passivation layer—advancing characterization of beam-sensitive energy materials.&lt;br&gt;🏷 4D-STEM · lithium metal anode · solid electrolyte interphase · phase mapping · unsupervised machine learning</description>
-<category>4D-STEM</category>
-<category>lithium metal anode</category>
-<category>solid electrolyte interphase</category>
-<category>phase mapping</category>
-<category>unsupervised machine learning</category>
-</item>
-<item>
-<title>Mechanism of Zwitterionic Photochromism in Aza‐Diarylethenes Revealed by Direct Observation of a Closed‐Ring Intermediate</title>
-<link>https://doi.org/10.1002/anie.7993802</link>
-<guid isPermaLink="false">10.1002/anie.7993802</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:43 GMT</pubDate>
-<description>با طیف‌سنجی گذرا و IR زمان‌تفکیک، واسطه حلقه‌بسته خنثی در پیکوثانیه مشاهده و مسیر تشکیل ایزومر زویتریونی فوتوکرومیک آزادی‌آریل‌اتن تأیید می‌شود.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 aza-diarylethene · photochromism · zwitterionic isomer · transient absorption · reaction mechanism</description>
-<category>aza-diarylethene</category>
-<category>photochromism</category>
-<category>zwitterionic isomer</category>
-<category>transient absorption</category>
-<category>reaction mechanism</category>
-</item>
-<item>
-<title>Dynamic Oxygen Spillover–Structure Feedback in Asymmetric Site Catalysts: Stability Regimes and Design Principles</title>
-<link>https://doi.org/10.1002/anie.7668493</link>
-<guid isPermaLink="false">10.1002/anie.7668493</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:40 GMT</pubDate>
-<description>این مرور کوتاه دینامیک سرریز اکسیژن در کاتالیزورهای چندجایگاهی نامتقارن و عوامل تنظیم آن را بررسی و اصول طراحی برای پایداری ساختاری و کارایی ارائه می‌کند.&lt;br&gt;Angewandte Chemie International Edition | ⭐ Review&lt;br&gt;🏷 oxygen spillover · asymmetric site catalysts · in situ spectroscopy · interface engineering · structural stability</description>
-<category>oxygen spillover</category>
-<category>asymmetric site catalysts</category>
-<category>in situ spectroscopy</category>
-<category>interface engineering</category>
-<category>structural stability</category>
-</item>
-<item>
-<title>A Novel Metal‐Hydrogen‐Bonded Organic Framework (M‐HOF) Cathode Material for High‐Performance Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/anie.1182005</link>
-<guid isPermaLink="false">10.1002/anie.1182005</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:36 GMT</pubDate>
-<description>کاتد HOF-21/CNT@S با شبکه پیوند هیدروژنی و مراکز Cu، شاتلینگ پلی‌سولفید را مهار کرده و باتری لیتیوم-گوگرد با پایداری چرخه‌ای و عملکرد دمای پایین بالا ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a metal-containing hydrogen-bonded organic framework (HOF-21) cathode integrating Cu coordination sites with hydrogen-bonding networks. This synergistically anchors polysulfides and catalyzes sulfur conversion. Significance: the HOF-21/CNT@S cathode achieves ultralow capacity decay (0.06%/cycle over 500 cycles) and excellent low-temperature performance (−10°C and −20°C), offering a promising design strategy for high-energy-density Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · hydrogen-bonded organic framework · polysulfide anchoring · Cu coordination · low-temperature cycling</description>
-<category>lithium-sulfur battery</category>
-<category>hydrogen-bonded organic framework</category>
-<category>polysulfide anchoring</category>
-<category>Cu coordination</category>
-<category>low-temperature cycling</category>
 </item>
 </channel>
 </rss>
