@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 21:01:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 22:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries</title>
+<link>https://doi.org/10.1016/j.joule.2026.102747</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102747</guid>
+<pubDate>Wed, 25 Nov 2026 22:01:13 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که موضعی‌شدن فازهای غنی از پلی‌سولفید لیتیوم در مقیاس میکرون باعث ناهمگنی آند در باتری‌های لیتیوم-سولفور با الکترولیت کم می‌شود.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · lean electrolyte · lithium polysulfide · anode heterogeneity · phase localization</description>
+<category>lithium-sulfur battery</category>
+<category>lean electrolyte</category>
+<category>lithium polysulfide</category>
+<category>anode heterogeneity</category>
+<category>phase localization</category>
+</item>
+<item>
+<title>Stereoelectronic effects in glycan conformation</title>
+<link>https://doi.org/10.1039/d6cs00172f</link>
+<guid isPermaLink="false">10.1039/d6cs00172f</guid>
+<pubDate>Wed, 25 Nov 2026 22:01:08 GMT</pubDate>
+<description>این مقاله مروری به بررسی اثرات استریوالکترونیکی تعیین‌کننده ساختار گلیکان‌ها و راهبردهای شیمیایی برای تنظیم آن‌ها و طراحی گلیکان‌های جدید می‌پردازد.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 glycan conformation · stereoelectronic effects · carbohydrate chemistry · conformational control · glycan design</description>
+<category>glycan conformation</category>
+<category>stereoelectronic effects</category>
+<category>carbohydrate chemistry</category>
+<category>conformational control</category>
+<category>glycan design</category>
+</item>
 <item>
 <title>Single-Molecule DNA Sequencing with Nanopores</title>
 <link>https://doi.org/10.1021/acs.chemrev.5c00633</link>
@@ -1182,30 +1206,6 @@
 <category>asymmetric coupling</category>
 <category>rectification</category>
 <category>electron transport</category>
-</item>
-<item>
-<title>Helicity-Resolved Photocurrent with Distinct Dominant Mechanisms at Electrode-Contact Boundaries in Few-Layer MoS2 and WTe2</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04184</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04184</guid>
-<pubDate>Wed, 25 Nov 2026 09:01:32 GMT</pubDate>
-<description>با تفکیک وابستگی جریان نوری قطبی به تأخیر فاز، چرخش نمونه و اندازه لکه، مکانیزم غالب در MoS2 تبدیل اسپین–بار و در WTe2 جابه‌جایی پرتو تشخیص داده شد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 helicity-dependent photocurrent · MoS2 · WTe2 · spin Hall effect · electrode contacts</description>
-<category>helicity-dependent photocurrent</category>
-<category>MoS2</category>
-<category>WTe2</category>
-<category>spin Hall effect</category>
-<category>electrode contacts</category>
-</item>
-<item>
-<title>Stateful Nanopore Sensing through Particle-Written Interfacial Memory</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04562</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04562</guid>
-<pubDate>Wed, 25 Nov 2026 09:01:29 GMT</pubDate>
-<description>نانوپور طلای عامل‌دار با تله‌اندازی نانوذره بین دو حالت رسانایی جابه‌جا می‌شود و حالت حفظ‌شده سیگنال و حرکت ذره بعدی را تغییر می‌دهد و گرفتگی را کاهش می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 solid-state nanopore · interfacial memory · nanoparticle trapping · ionic current · stateful sensing</description>
-<category>solid-state nanopore</category>
-<category>interfacial memory</category>
-<category>nanoparticle trapping</category>
-<category>ionic current</category>
-<category>stateful sensing</category>
 </item>
 </channel>
 </rss>

@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 21:01:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 22:01:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries</title>
+<link>https://doi.org/10.1016/j.joule.2026.102747</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102747</guid>
+<pubDate>Wed, 25 Nov 2026 22:01:13 GMT</pubDate>
+<description>این مقاله نشان می‌دهد که موضعی‌شدن فازهای غنی از پلی‌سولفید لیتیوم در مقیاس میکرون باعث ناهمگنی آند در باتری‌های لیتیوم-سولفور با الکترولیت کم می‌شود.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · lean electrolyte · lithium polysulfide · anode heterogeneity · phase localization</description>
+<category>lithium-sulfur battery</category>
+<category>lean electrolyte</category>
+<category>lithium polysulfide</category>
+<category>anode heterogeneity</category>
+<category>phase localization</category>
+</item>
 <item>
 <title>Ultralong-Life Subzero Sodium-Sulfur Storage Enabled by Ru-Engineered Porous Carbon Catalytic Hosts</title>
 <link>https://doi.org/10.1039/d6ta07958j</link>
@@ -1194,18 +1206,6 @@
 <category>Li incorporation</category>
 <category>deposition conditions</category>
 <category>cathode material</category>
-</item>
-<item>
-<title>High-entropy engineering suppresses Jahn-Teller distortion and boosts charge-transfer kinetics in LiMn0.6Fe0.4PO4 cathodes</title>
-<link>https://doi.org/10.1039/d6ta07026d</link>
-<guid isPermaLink="false">10.1039/d6ta07026d</guid>
-<pubDate>Tue, 24 Nov 2026 14:01:32 GMT</pubDate>
-<description>مهندسی آنتروپی بالا در کاتد LiMn0.6Fe0.4PO4 اعوجاج Jahn-Teller را سرکوب کرده و سینتیک انتقال بار را برای باتری‌های لیتیوم-یونی بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 High-entropy engineering is applied to LMFP cathodes, suppressing Jahn-Teller distortion and accelerating charge-transfer kinetics—a strategy not previously demonstrated for this composition. This addresses LMFP&amp;#x27;s key limitations (sluggish kinetics, Mn dissolution), enabling higher energy density than LiFePO4 while improving rate performance and cycling stability, marking a significant advance toward practical high-energy olivine cathodes for Li-ion batteries.&lt;br&gt;🏷 LiMn0.6Fe0.4PO4 · high-entropy doping · Jahn-Teller distortion · charge-transfer kinetics · Li-ion battery cathode</description>
-<category>LiMn0.6Fe0.4PO4</category>
-<category>high-entropy doping</category>
-<category>Jahn-Teller distortion</category>
-<category>charge-transfer kinetics</category>
-<category>Li-ion battery cathode</category>
 </item>
 </channel>
 </rss>
