@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 22:01:15 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 23:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Programmable thermal expansion metamaterials: Mechanism-guided design, manufacturing, and functional applications</title>
+<link>https://doi.org/10.1016/j.mser.2026.101339</link>
+<guid isPermaLink="false">10.1016/j.mser.2026.101339</guid>
+<pubDate>Wed, 25 Nov 2026 23:01:10 GMT</pubDate>
+<description>این مقاله مروری مکانیزم‌های طراحی، ساخت و کاربردهای متامواد با انبساط حرارتی قابل‌برنامه‌ریزی را بررسی می‌کند و راهنمای طراحی و ساخت آن‌ها را ارائه می‌دهد.&lt;br&gt;Materials Science and Engineering: R: Reports | ⭐ Review&lt;br&gt;🏷 thermal expansion metamaterials · negative thermal expansion · metamaterial design · additive manufacturing · thermal management</description>
+<category>thermal expansion metamaterials</category>
+<category>negative thermal expansion</category>
+<category>metamaterial design</category>
+<category>additive manufacturing</category>
+<category>thermal management</category>
+</item>
 <item>
 <title>Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries</title>
 <link>https://doi.org/10.1016/j.joule.2026.102747</link>
@@ -1194,18 +1206,6 @@
 <category>liquid biopsy</category>
 <category>myocardium</category>
 <category>non-invasive diagnosis</category>
-</item>
-<item>
-<title>Symmetric Molecule, Asymmetric Coupling: Insights from Blinking in Surface-Enhanced Raman Scattering</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03395</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03395</guid>
-<pubDate>Wed, 25 Nov 2026 09:01:35 GMT</pubDate>
-<description>هم‌زمانی حالت‌های پرنور SERS با مشخصه I–V نامتقارن نشان می‌دهد چشمک‌زدن SERS امضای تماس نامتقارن گذرا و یکسوسازی در پیوند تک‌مولکولی است.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 SERS blinking · single-molecule junction · asymmetric coupling · rectification · electron transport</description>
-<category>SERS blinking</category>
-<category>single-molecule junction</category>
-<category>asymmetric coupling</category>
-<category>rectification</category>
-<category>electron transport</category>
 </item>
 </channel>
 </rss>
