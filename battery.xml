@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 20:01:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:01:57 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Ultralong-Life Subzero Sodium-Sulfur Storage Enabled by Ru-Engineered Porous Carbon Catalytic Hosts</title>
+<link>https://doi.org/10.1039/d6ta07958j</link>
+<guid isPermaLink="false">10.1039/d6ta07958j</guid>
+<pubDate>Wed, 25 Nov 2026 21:01:34 GMT</pubDate>
+<description>میزبان‌های کربنی متخلخل مهندسی‌شده با Ru برای باتری سدیم-گوگرد دما اتاق، عمر طولانی و عملکرد زیر صفر را ممکن ساختند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using Ru-engineered porous carbon hosts to catalyze sulfur conversion in RT Na-S batteries, enabling ultralong-life subzero operation. Significance: this addresses polysulfide migration, sluggish kinetics, and structural degradation, advancing durable sodium-sulfur storage for large-scale energy applications, particularly in cold environments.&lt;br&gt;🏷 sodium-sulfur battery · ruthenium catalyst · porous carbon host · polysulfide conversion · subzero operation</description>
+<category>sodium-sulfur battery</category>
+<category>ruthenium catalyst</category>
+<category>porous carbon host</category>
+<category>polysulfide conversion</category>
+<category>subzero operation</category>
+</item>
+<item>
+<title>First-Principles Insights into Substitution-Dependent Lattice Evolution during Desodiation of O3-Type NaMn 0.5 N i0.5 O 2 -Based Cathodes</title>
+<link>https://doi.org/10.1039/d6ta08969k</link>
+<guid isPermaLink="false">10.1039/d6ta08969k</guid>
+<pubDate>Wed, 25 Nov 2026 21:01:25 GMT</pubDate>
+<description>با محاسبات اصول اولیه، تحول شبکه در حین دسودیاسیون کاتدهای لایه‌ای O3-NaMn0.5Ni0.5O2 و اثر جانشینی بررسی شد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 This study provides first-principles insights into how substitution governs lattice evolution during desodiation of O3-type NaMn0.5Ni0.5O2 cathodes, moving beyond limited structural assessments. Its novelty lies in linking substituent identity to dynamic structural changes, offering mechanistic understanding of phase stability and electrochemical behavior. This guides rational doping design for durable, high-performance sodium-ion battery cathodes.&lt;br&gt;🏷 O3-type cathode · sodium-ion battery · desodiation · first-principles calculation · lattice evolution</description>
+<category>O3-type cathode</category>
+<category>sodium-ion battery</category>
+<category>desodiation</category>
+<category>first-principles calculation</category>
+<category>lattice evolution</category>
+</item>
 <item>
 <title>Titanyl Phosphate: A Long-Life Anode Material for Mg-Ion Storage in Aqueous Batteries</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04433</link>
@@ -1182,30 +1206,6 @@
 <category>Jahn-Teller distortion</category>
 <category>charge-transfer kinetics</category>
 <category>Li-ion battery cathode</category>
-</item>
-<item>
-<title>Construction of Homogeneous Sn-MoS 2 Nanoflower Anchoring on N-V 2 C Nanosheets for High-Energy Density Li-ion Capacitor and Flexible Microsupercapacitor Applications</title>
-<link>https://doi.org/10.1039/d5ta10581a</link>
-<guid isPermaLink="false">10.1039/d5ta10581a</guid>
-<pubDate>Tue, 24 Nov 2026 14:01:26 GMT</pubDate>
-<description>نانوگل‌های Sn-MoS2 روی نانوصفحات N-V2C تثبیت شده و برای ابرخازن‌های لیتیوم-یونی آبی و میکروسوپرکاپاسیتور انعطاف‌پذیر با چگالی انرژی بالا به کار رفته است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in constructing homogeneous Sn-MoS2 nanoflowers anchored on N-V2C nanosheets, creating a synergistic hybrid architecture. This design enables high-energy-density aqueous Li-ion capacitors and flexible microsupercapacitors, addressing the challenge of simultaneously achieving high energy and power densities. Its significance is advancing dual-function, flexible energy storage with scalable, sustainable aqueous systems.&lt;br&gt;🏷 Li-ion capacitor · Sn-MoS2 nanoflower · N-V2C MXene · microsupercapacitor · flexible energy storage</description>
-<category>Li-ion capacitor</category>
-<category>Sn-MoS2 nanoflower</category>
-<category>N-V2C MXene</category>
-<category>microsupercapacitor</category>
-<category>flexible energy storage</category>
-</item>
-<item>
-<title>Suppressing Irreversible Interlayer Migration via Enhancing Intralayer Interaction to Alleviate Voltage Hysteresis in Oxygen-Redox Na-Layered Cathode</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c04555</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c04555</guid>
-<pubDate>Tue, 24 Nov 2026 13:01:16 GMT</pubDate>
-<description>با تقویت پیوند Zn–O و مهار مهاجرت بین‌لایه‌ای Zn در کاتد لایه‌ای Na0.67Zn0.13Fe0.15Mn0.72O2، هیسترزیس ولتاژ از 1.47 به 0.97 V کاهش یافت.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying weak Zn–O bonds as the cause of irreversible interlayer Zn migration and voltage hysteresis in oxygen-redox Na-layered cathodes, and proposing a local coordination environment regulation strategy that strengthens Zn–O bonds to suppress migration. This reduces voltage hysteresis from 1.47 to 0.97 V and nearly doubles capacity retention, offering a universal design principle for high-energy sodium-ion batteries.&lt;br&gt;🏷 sodium-ion battery · oxygen-redox cathode · voltage hysteresis · Zn migration · layered oxide</description>
-<category>sodium-ion battery</category>
-<category>oxygen-redox cathode</category>
-<category>voltage hysteresis</category>
-<category>Zn migration</category>
-<category>layered oxide</category>
 </item>
 </channel>
 </rss>
