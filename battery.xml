@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:04:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 09:01:41 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Localized Bond Polarization Stabilizes Site-Selective Zn Intercalation in Orthorhombic Nb2O5</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04492</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04492</guid>
+<pubDate>Wed, 25 Nov 2026 09:01:12 GMT</pubDate>
+<description>شواهد اتمی نشان می‌دهد Zn2+ در جایگاه‌های 4g Nb2O5 اورتورومبیک قرار می‌گیرد و پایداری انتخابی جایگاه از قطبش موضعی پیوند Zn–O و جبران بار Nb ناشی می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 This study provides the first atomic-scale evidence that Zn2+ occupies specific 4g interlayer sites in orthorhombic Nb2O5, revealing that site stability arises from localized Zn–O bond polarization coupled to Nb-centered charge compensation rather than geometry alone. This establishes electronic-structure design principles for multivalent-ion hosts and high-rate Zn storage materials.&lt;br&gt;🏷 orthorhombic Nb2O5 · Zn intercalation · bond polarization · DFT · multivalent-ion storage</description>
+<category>orthorhombic Nb2O5</category>
+<category>Zn intercalation</category>
+<category>bond polarization</category>
+<category>DFT</category>
+<category>multivalent-ion storage</category>
+</item>
 <item>
 <title>Micro-meso-macro cooperative filtering for robust battery state estimation and capacity-parameter stabilization</title>
 <link>https://doi.org/10.1016/j.est.2026.125777</link>
@@ -1194,18 +1206,6 @@
 <category>structure-function relationship</category>
 <category>design strategies</category>
 <category>cathode architecture</category>
-</item>
-<item>
-<title>Synergistic FeCo diatomic catalysts on N-doped carbon for enhanced polysulfide confinement and redox kinetics in lithium-sulfur batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125908</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125908</guid>
-<pubDate>Tue, 24 Nov 2026 02:01:20 GMT</pubDate>
-<description>کاتالیزورهای دواتمی FeCo بر کربن دوپه‌شده با نیتروژن، مهار پلی‌سولفید و سینتیک واکنش‌های ردوکس در باتری‌های لیتیوم-گوگرد را بهبود می‌بخشند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 FeCo diatomic catalyst · lithium-sulfur battery · polysulfide confinement · redox kinetics · N-doped carbon</description>
-<category>FeCo diatomic catalyst</category>
-<category>lithium-sulfur battery</category>
-<category>polysulfide confinement</category>
-<category>redox kinetics</category>
-<category>N-doped carbon</category>
 </item>
 </channel>
 </rss>
