@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 19:01:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Titanyl Phosphate: A Long-Life Anode Material for Mg-Ion Storage in Aqueous Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04433</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04433</guid>
+<pubDate>Wed, 25 Nov 2026 20:01:14 GMT</pubDate>
+<description>این کار آند درج‌شونده Π-CrTOP را برای باتری آبی منیزیم-یون معرفی می‌کند که ظرفیت ۱۳۷.۲ mAh g–1 و حفظ ظرفیت ۹۸.۵٪ پس از ۲۲۰۰ چرخه و عملکرد در دمای −۳۰ درجه را نشان می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a new Π-type Ti2O(PO4)2 intercalation anode, Cr-doped to form Π-CrTOP, avoiding problematic metallic Mg anodes. It delivers 137.2 mAh g–1 with 98.5% retention over 2,200 cycles; full cells reach 125.4 mAh g–1 and 6,000 cycles at room temperature, plus 1,000 cycles at −30 °C. This advances practical aqueous Mg-ion batteries.&lt;br&gt;🏷 aqueous Mg-ion battery · titanyl phosphate · intercalation anode · Cr doping · long cycle life</description>
+<category>aqueous Mg-ion battery</category>
+<category>titanyl phosphate</category>
+<category>intercalation anode</category>
+<category>Cr doping</category>
+<category>long cycle life</category>
+</item>
+<item>
+<title>One-Dimensional Hybrid Metal Halides as Tunable Chiral THz Emitters</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03796</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03796</guid>
+<pubDate>Wed, 25 Nov 2026 20:01:09 GMT</pubDate>
+<description>این مقاله گسیل تراهرتز از هالیدهای فلزی هیبریدی یک‌بعدی با کاتیون‌های آلی کایرال را نشان می‌دهد که قطبش و طیف آن با تنظیم قطبش باریکه فرودی قابل کنترل است.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hybrid metal halides · THz emitter · chirality · optical rectification · lead bromide</description>
+<category>hybrid metal halides</category>
+<category>THz emitter</category>
+<category>chirality</category>
+<category>optical rectification</category>
+<category>lead bromide</category>
+</item>
 <item>
 <title>Chemical Fuel-Driven Rubbery-to-Glassy Transition of Hydrogels for High-Stress-Output Actuation with Tunable Self-Recovery</title>
 <link>https://doi.org/10.1039/d6mh02055k</link>
@@ -1182,30 +1206,6 @@
 <category>supercapacitor</category>
 <category>ZnCo2O4</category>
 <category>electrochemical response</category>
-</item>
-<item>
-<title>Synthesis and performance of Prussian blue materials with in-situ conductivity enhancement by carbon nanotubes for sodium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125915</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125915</guid>
-<pubDate>Wed, 25 Nov 2026 08:03:45 GMT</pubDate>
-<description>مواد Prussian blue با بهبود رسانایی درجای نانولوله کربنی سنتز و برای کاتد باتری‌های سدیم-یون ارزیابی می‌شوند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Prussian blue · sodium-ion battery · carbon nanotube · in-situ conductivity · cathode material</description>
-<category>Prussian blue</category>
-<category>sodium-ion battery</category>
-<category>carbon nanotube</category>
-<category>in-situ conductivity</category>
-<category>cathode material</category>
-</item>
-<item>
-<title>Functional polymer nanocomposites for high-performance supercapacitors: Design principles, charge storage mechanisms, and future perspectives</title>
-<link>https://doi.org/10.1016/j.est.2026.125899</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125899</guid>
-<pubDate>Wed, 25 Nov 2026 08:03:41 GMT</pubDate>
-<description>این مرور اصول طراحی، سازوکارهای ذخیره بار و چشم‌اندازهای آینده نانوکامپوزیت‌های پلیمری کاربردی برای ابرخازن‌های高性能 را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 polymer nanocomposite · supercapacitor · charge storage mechanism · design principles · functional polymer</description>
-<category>polymer nanocomposite</category>
-<category>supercapacitor</category>
-<category>charge storage mechanism</category>
-<category>design principles</category>
-<category>functional polymer</category>
 </item>
 </channel>
 </rss>

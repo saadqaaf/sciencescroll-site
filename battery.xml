@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 19:01:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Titanyl Phosphate: A Long-Life Anode Material for Mg-Ion Storage in Aqueous Batteries</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04433</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04433</guid>
+<pubDate>Wed, 25 Nov 2026 20:01:14 GMT</pubDate>
+<description>این کار آند درج‌شونده Π-CrTOP را برای باتری آبی منیزیم-یون معرفی می‌کند که ظرفیت ۱۳۷.۲ mAh g–1 و حفظ ظرفیت ۹۸.۵٪ پس از ۲۲۰۰ چرخه و عملکرد در دمای −۳۰ درجه را نشان می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a new Π-type Ti2O(PO4)2 intercalation anode, Cr-doped to form Π-CrTOP, avoiding problematic metallic Mg anodes. It delivers 137.2 mAh g–1 with 98.5% retention over 2,200 cycles; full cells reach 125.4 mAh g–1 and 6,000 cycles at room temperature, plus 1,000 cycles at −30 °C. This advances practical aqueous Mg-ion batteries.&lt;br&gt;🏷 aqueous Mg-ion battery · titanyl phosphate · intercalation anode · Cr doping · long cycle life</description>
+<category>aqueous Mg-ion battery</category>
+<category>titanyl phosphate</category>
+<category>intercalation anode</category>
+<category>Cr doping</category>
+<category>long cycle life</category>
+</item>
 <item>
 <title>Transforming Waste Into Wealth: Cucurbit[6]uril‐Functionalized MXene for Iodine Removal and High‐Performance Supercapacitor Applications</title>
 <link>https://doi.org/10.1002/smll.76674</link>
@@ -1194,18 +1206,6 @@
 <category>voltage hysteresis</category>
 <category>Zn migration</category>
 <category>layered oxide</category>
-</item>
-<item>
-<title>Two-stage adaptive robust dispatch of V2G-enabled community microgrids under renewable generation and price uncertainties</title>
-<link>https://doi.org/10.1016/j.est.2026.125791</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125791</guid>
-<pubDate>Tue, 24 Nov 2026 12:01:26 GMT</pubDate>
-<description>این مقاله یک مدل بهینه‌سازی مقاوم دومرحله‌ای برای بهره‌برداری از ریزشبکه‌های اجتماعی مجهز به V2G تحت عدم‌قطعیت تولید تجدیدپذیر و قیمت ارائه می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 V2G · community microgrid · robust dispatch · renewable uncertainty · price uncertainty</description>
-<category>V2G</category>
-<category>community microgrid</category>
-<category>robust dispatch</category>
-<category>renewable uncertainty</category>
-<category>price uncertainty</category>
 </item>
 </channel>
 </rss>
