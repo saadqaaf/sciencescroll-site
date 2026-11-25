@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 09:01:41 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 10:02:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>LiO2 Thermodynamics as a Unified Descriptor for the Bifunctional Activity of Dual-Atom Catalysts in Aprotic Lithium-Oxygen Batteries</title>
+<link>https://doi.org/10.1039/d6ta07931h</link>
+<guid isPermaLink="false">10.1039/d6ta07931h</guid>
+<pubDate>Wed, 25 Nov 2026 10:01:42 GMT</pubDate>
+<description>ترمودینامیک LiO2 به‌عنوان توصیفگر یکپارچه برای فعالیت دوفعالیتی کاتالیزورهای دواتمی در باتری‌های آپروتیک Li-O2 معرفی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using LiO2 thermodynamics as a single unified descriptor linking ORR and OER bifunctional activity for dual-atom catalysts in aprotic Li-O2 batteries. Its significance is enabling predictive, rational catalyst design by replacing separate reaction descriptors, thereby accelerating development of efficient bifunctional cathodes.&lt;br&gt;🏷 Li-O2 battery · dual-atom catalysts · LiO2 thermodynamics · bifunctional activity · ORR/OER</description>
+<category>Li-O2 battery</category>
+<category>dual-atom catalysts</category>
+<category>LiO2 thermodynamics</category>
+<category>bifunctional activity</category>
+<category>ORR/OER</category>
+</item>
+<item>
+<title>Machine Learning-Accelerated Development of Li-Rich Layered Oxides with High-Rate Performance</title>
+<link>https://doi.org/10.1039/d6ta07667j</link>
+<guid isPermaLink="false">10.1039/d6ta07667j</guid>
+<pubDate>Wed, 25 Nov 2026 10:01:36 GMT</pubDate>
+<description>با استفاده از یادگیری ماشین، توسعه اکسیدهای لایه‌ای غنی از لیتیوم با عملکرد نرخ بالا برای کاتد باتری‌های لیتیوم-یونی تسریع می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning to accelerate the discovery of Li-rich layered oxides with improved rate performance, addressing a key limitation of these high-capacity cathodes. Its significance is enabling faster design of next-generation high-energy-density lithium-ion battery materials, potentially overcoming the trade-off between capacity and rate capability.&lt;br&gt;🏷 Li-rich layered oxides · cathode · machine learning · rate capability · lithium-ion battery</description>
+<category>Li-rich layered oxides</category>
+<category>cathode</category>
+<category>machine learning</category>
+<category>rate capability</category>
+<category>lithium-ion battery</category>
+</item>
 <item>
 <title>Localized Bond Polarization Stabilizes Site-Selective Zn Intercalation in Orthorhombic Nb2O5</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04492</link>
@@ -1182,30 +1206,6 @@
 <category>cell-to-pack</category>
 <category>thermal regulation</category>
 <category>latent heat recovery</category>
-</item>
-<item>
-<title>Feature reconstruction based noise-robust recognition method for safety valve breakage sound of lithium-ion batteries in noisy environments</title>
-<link>https://doi.org/10.1016/j.est.2026.125814</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125814</guid>
-<pubDate>Tue, 24 Nov 2026 02:01:34 GMT</pubDate>
-<description>روشی مقاوم به نویز مبتنی بر بازسازی ویژگی برای تشخیص صدای شکستن شیر ایمنی باتری‌های لیتیوم-یونی در محیط‌های پرنویز ارائه شد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 safety valve · acoustic diagnosis · lithium-ion battery · noise-robust recognition · feature reconstruction</description>
-<category>safety valve</category>
-<category>acoustic diagnosis</category>
-<category>lithium-ion battery</category>
-<category>noise-robust recognition</category>
-<category>feature reconstruction</category>
-</item>
-<item>
-<title>Recent advances in sulfur host architectures for lithium–sulfur batteries: Structure–function relationships, design strategies, and future perspectives</title>
-<link>https://doi.org/10.1016/j.est.2026.125902</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125902</guid>
-<pubDate>Tue, 24 Nov 2026 02:01:25 GMT</pubDate>
-<description>این مرور، پیشرفت‌های اخیر در معماری میزبان‌های گوگرد برای باتری‌های لیتیوم-گوگرد و روابط ساختار-عملکرد و راهبردهای طراحی آن‌ها را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 lithium-sulfur battery · sulfur host · structure-function relationship · design strategies · cathode architecture</description>
-<category>lithium-sulfur battery</category>
-<category>sulfur host</category>
-<category>structure-function relationship</category>
-<category>design strategies</category>
-<category>cathode architecture</category>
 </item>
 </channel>
 </rss>
