@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 23:01:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:02:34 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Fabrication Strategies for Sulfide Solid Electrolyte Layers from Powder Compaction to Ultrathin Membranes</title>
+<link>https://doi.org/10.1039/d6ta08838d</link>
+<guid isPermaLink="false">10.1039/d6ta08838d</guid>
+<pubDate>Wed, 25 Nov 2026 00:02:00 GMT</pubDate>
+<description>این مرور راهبردهای ساخت لایه‌های نازک الکترولیت جامد سولفیدی را از فشرده‌سازی پودر تا غشاهای فوق‌نازک برای باتری‌های تمام‌جامد بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in systematically reviewing fabrication routes—from powder compaction to ultrathin membranes—for sulfide solid electrolytes, addressing the trade-off between thickness, ionic conductivity, and mechanical integrity. Its significance is guiding scalable processing of thin, continuous electrolyte layers that minimize inactive volume and resistance, enabling higher-energy all-solid-state batteries with intimate electrode contact and robust ion-conducting pathways.&lt;br&gt;🏷 sulfide solid electrolyte · all-solid-state battery · thin membranes · powder compaction · ionic conductivity</description>
+<category>sulfide solid electrolyte</category>
+<category>all-solid-state battery</category>
+<category>thin membranes</category>
+<category>powder compaction</category>
+<category>ionic conductivity</category>
+</item>
 <item>
 <title>Understanding Texture Evolution Dynamics in the Electrodeposition of Copper Current Collectors for Lithium-Metal Batteries via Differential in Situ XRD</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c03781</link>
@@ -1196,18 +1208,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using
 <category>stress characterization</category>
 <category>multiscale modeling</category>
 <category>in situ sensors</category>
-</item>
-<item>
-<title>Operando Pressure Monitoring, EIS, and X‐Ray Imaging of Solid‐State Sodium‐Sulfur Batteries — Insights into Chemo‐Mechanical Degradation Mechanisms</title>
-<link>https://doi.org/10.1002/aenm.71844</link>
-<guid isPermaLink="false">10.1002/aenm.71844</guid>
-<pubDate>Mon, 23 Nov 2026 11:01:41 GMT</pubDate>
-<description>با پایش هم‌زمان فشار، EIS و تصویربرداری پرتو ایکس، سازوکارهای تخریب شیمیایی-مکانیکی در باتری سدیم-گوگرد حالت جامد با الکترولیت‌های سولفیدی بررسی شد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a multi-modal operando platform combining pressure monitoring, EIS, and X-ray imaging to probe chemo-mechanical aging in solid-state Na||S cells. Its significance is revealing how electrolyte composition governs degradation: NPS causes localized sodium plating, while NPS-Cl improves interfacial stability and suppresses dendrites. This offers actionable guidance for sulfide electrolyte development and demonstrates operando diagnostics for resolving coupled chemo-mechanical phenomena.&lt;br&gt;🏷 solid-state sodium-sulfur battery · sulfide electrolyte · operando pressure monitoring · X-ray imaging · chemo-mechanical degradation</description>
-<category>solid-state sodium-sulfur battery</category>
-<category>sulfide electrolyte</category>
-<category>operando pressure monitoring</category>
-<category>X-ray imaging</category>
-<category>chemo-mechanical degradation</category>
 </item>
 </channel>
 </rss>
