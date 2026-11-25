@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 15:01:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 17:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Computer vision links electroplated lithium morphology to lithium metal battery performance</title>
+<link>https://doi.org/10.1016/j.matt.2026.103124</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.103124</guid>
+<pubDate>Wed, 25 Nov 2026 17:01:15 GMT</pubDate>
+<description>بینایی ماشین ریخت‌شناسی لیتیوم آبکاری‌شده را به عملکرد باتری فلز لیتیوم مرتبط می‌کند و ابزاری کمی برای ارزیابی مورفولوژی آند فراهم می‌آورد.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 lithium metal battery · electroplated lithium · morphology · computer vision · dendrite</description>
+<category>lithium metal battery</category>
+<category>electroplated lithium</category>
+<category>morphology</category>
+<category>computer vision</category>
+<category>dendrite</category>
+</item>
+<item>
+<title>Molecular-level pre-mixing enables robust high-entropy coating for sodium-ion battery cathodes</title>
+<link>https://doi.org/10.1016/j.matt.2026.103106</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.103106</guid>
+<pubDate>Wed, 25 Nov 2026 17:01:11 GMT</pubDate>
+<description>پیش‌اختلاط در سطح مولکولی پوشش پرآنتروپی پایدار برای کاتدهای باتری یون‌سدیم ایجاد می‌کند و عملکرد الکتروشیمیایی کاتد را بهبود می‌بخشد.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · high-entropy coating · cathode · pre-mixing · surface coating</description>
+<category>sodium-ion battery</category>
+<category>high-entropy coating</category>
+<category>cathode</category>
+<category>pre-mixing</category>
+<category>surface coating</category>
+</item>
+<item>
+<title>Suppressing interfacial water reactivity with an Eu20-encapsulated giant polyoxoniobate for stable zinc anodes</title>
+<link>https://doi.org/10.1016/j.matt.2026.103103</link>
+<guid isPermaLink="false">10.1016/j.matt.2026.103103</guid>
+<pubDate>Wed, 25 Nov 2026 17:01:03 GMT</pubDate>
+<description>با استفاده از پلی‌اکسونیوبات غول‌پیکر حاوی Eu20 واکنش‌پذیری آب سطحی مهار شده و آندهای روی پایدارتر در باتری آبی روی ساخته می‌شود.&lt;br&gt;Matter | 🔬 Research Article&lt;br&gt;🏷 zinc anode · polyoxoniobate · interfacial water · Eu encapsulation · aqueous zinc battery</description>
+<category>zinc anode</category>
+<category>polyoxoniobate</category>
+<category>interfacial water</category>
+<category>Eu encapsulation</category>
+<category>aqueous zinc battery</category>
+</item>
 <item>
 <title>Electrochemical entropymetry of battery electrode materials: From thermodynamic foundations to operando diagnostics and beyond</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105662</link>
@@ -1170,42 +1206,6 @@
 <category>electronic transport</category>
 <category>Li-metal interface</category>
 <category>all-solid-state battery</category>
-</item>
-<item>
-<title>A Lithiophilic Bilayer on Cu Current Collectors for Robust and Efficient Anode-Free Lithium Metal Batteries by All-dry Magnetron Sputtering</title>
-<link>https://doi.org/10.1039/d6ta07489h</link>
-<guid isPermaLink="false">10.1039/d6ta07489h</guid>
-<pubDate>Tue, 24 Nov 2026 04:01:19 GMT</pubDate>
-<description>پوشش دوجزئی لیتوفیلیک روی کلکتور جریان Cu به روش اسپاترینگ مغناطیسی تمام‌خشک، رسوب یکنواخت Li و پایداری SEI را در باتری‌های لیتیوم-فلزی بدون آند بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using all-dry magnetron sputtering to fabricate a lithiophilic bilayer on Cu current collectors, a scalable, solvent-free approach. This bilayer promotes uniform Li deposition and a stable SEI, suppressing dendrite growth. Significance: it enables robust, long-life, safe anode-free lithium metal batteries, advancing high-energy-density cell design via a manufacturable coating strategy.&lt;br&gt;🏷 anode-free lithium battery · magnetron sputtering · lithiophilic bilayer · Cu current collector · lithium dendrite</description>
-<category>anode-free lithium battery</category>
-<category>magnetron sputtering</category>
-<category>lithiophilic bilayer</category>
-<category>Cu current collector</category>
-<category>lithium dendrite</category>
-</item>
-<item>
-<title>Coupled effects of poly(acrylic acid) molecular weight and slurry solid fraction on silicon–graphite electrode performance</title>
-<link>https://doi.org/10.1016/j.est.2026.125804</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125804</guid>
-<pubDate>Tue, 24 Nov 2026 02:02:33 GMT</pubDate>
-<description>اثر هم‌زمان وزن مولکولی poly(acrylic acid) و کسر جامد دوغاب بر عملکرد الکترود سیلیکون-گرافیت بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 silicon-graphite anode · poly(acrylic acid) · slurry solid fraction · electrode processing · binder molecular weight</description>
-<category>silicon-graphite anode</category>
-<category>poly(acrylic acid)</category>
-<category>slurry solid fraction</category>
-<category>electrode processing</category>
-<category>binder molecular weight</category>
-</item>
-<item>
-<title>First-principles investigation of transition metal-modified ZrS2/graphene heterostructures as quantum capacitance electrode materials for supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125811</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125811</guid>
-<pubDate>Tue, 24 Nov 2026 02:02:29 GMT</pubDate>
-<description>محاسبات اصول اولیه نشان می‌دهد ناهم‌ساختارهای ZrS2/گرافن اصلاح‌شده با فلزات واسطه به‌عنوان الکترودهای خازن کوانتومی برای ابرخازن‌ها مناسب‌اند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 ZrS2/graphene · quantum capacitance · transition metal modification · first-principles · supercapacitor electrode</description>
-<category>ZrS2/graphene</category>
-<category>quantum capacitance</category>
-<category>transition metal modification</category>
-<category>first-principles</category>
-<category>supercapacitor electrode</category>
 </item>
 </channel>
 </rss>
