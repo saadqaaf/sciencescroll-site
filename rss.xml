@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 02:01:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 03:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cyanide chemosensing: molecular recognition, coordination chemistry, photophysical transduction and functional applications</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218794</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218794</guid>
+<pubDate>Wed, 25 Nov 2026 03:01:23 GMT</pubDate>
+<description>این مقاله مروری به شیمی‌حسگری سیانید می‌پردازد و بازشناسی مولکولی، شیمی کوئوردیناسیون، تبدیل فوتوفیزیکی و کاربردهای عملکردی حسگرهای سیانید را بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 cyanide sensing · chemosensors · molecular recognition · coordination chemistry · photophysical transduction</description>
+<category>cyanide sensing</category>
+<category>chemosensors</category>
+<category>molecular recognition</category>
+<category>coordination chemistry</category>
+<category>photophysical transduction</category>
+</item>
 <item>
 <title>Proximal single atoms for stable electrocatalysts</title>
 <link>https://doi.org/10.1038/s41563-026-02796-z</link>
@@ -1194,18 +1206,6 @@
 <category>ultramicropore</category>
 <category>bicyclo[1.1.1]pentane</category>
 <category>humid breakthrough</category>
-</item>
-<item>
-<title>Nickel‐Catalyzed Enantio‐ and Regioselective Addition of Silicon and Boron Nucleophiles to Methylene Cyclobutene for the Construction of Quaternary Stereocenters</title>
-<link>https://doi.org/10.1002/anie.5406071</link>
-<guid isPermaLink="false">10.1002/anie.5406071</guid>
-<pubDate>Tue, 24 Nov 2026 20:03:13 GMT</pubDate>
-<description>واکنش افزایش انانتیو و رژیوگزینشی Ni-کاتالیز شده سیلیسیم و بور به متیلن سیکلوبوتن، سیکلوبوتان‌های دارای مرکز استریو کواترنر با ee تا 99% می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 nickel catalysis · methylene cyclobutene · Si-B addition · quaternary stereocenter · enantioselective</description>
-<category>nickel catalysis</category>
-<category>methylene cyclobutene</category>
-<category>Si-B addition</category>
-<category>quaternary stereocenter</category>
-<category>enantioselective</category>
 </item>
 </channel>
 </rss>
