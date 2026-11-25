@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 18:03:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 19:01:17 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Chemical Fuel-Driven Rubbery-to-Glassy Transition of Hydrogels for High-Stress-Output Actuation with Tunable Self-Recovery</title>
+<link>https://doi.org/10.1039/d6mh02055k</link>
+<guid isPermaLink="false">10.1039/d6mh02055k</guid>
+<pubDate>Wed, 25 Nov 2026 19:01:14 GMT</pubDate>
+<description>این مقاله گذار لاستیکی-شیشه‌ای هیدروژل‌ها را با سوخت شیمیایی برای عملگرهایی با خروجی تنش بالا و خودبازیابی تنظیم‌پذیر به کار می‌گیرد.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 hydrogel actuator · rubbery-to-glassy transition · chemical fuel · self-recovery · high stress output</description>
+<category>hydrogel actuator</category>
+<category>rubbery-to-glassy transition</category>
+<category>chemical fuel</category>
+<category>self-recovery</category>
+<category>high stress output</category>
+</item>
+<item>
+<title>Advanced biomimetic nanodelivery systems for hepatocellular carcinoma therapy</title>
+<link>https://doi.org/10.1016/j.nantod.2026.103238</link>
+<guid isPermaLink="false">10.1016/j.nantod.2026.103238</guid>
+<pubDate>Wed, 25 Nov 2026 19:01:11 GMT</pubDate>
+<description>این مقاله مروری، سیستم‌های نانورسانش بیومیمتیک پیشرفته را برای درمان کارسینومای هپاتوسلولار معرفی و ارزیابی می‌کند.&lt;br&gt;Nano Today | ⭐ Review&lt;br&gt;🏷 biomimetic nanodelivery · hepatocellular carcinoma · nanomedicine · drug delivery · targeted therapy</description>
+<category>biomimetic nanodelivery</category>
+<category>hepatocellular carcinoma</category>
+<category>nanomedicine</category>
+<category>drug delivery</category>
+<category>targeted therapy</category>
+</item>
+<item>
+<title>The innovation trade-offs of CSR specialization: Evidence from independent and collaborative innovation</title>
+<link>https://doi.org/10.1016/j.technovation.2026.103780</link>
+<guid isPermaLink="false">10.1016/j.technovation.2026.103780</guid>
+<pubDate>Wed, 25 Nov 2026 19:01:08 GMT</pubDate>
+<description>این مقالهtrade-offهای نوآوری ناشی از تخصص‌گرایی در مسئولیت اجتماعی شرکتی را با شواهدی از نوآوری مستقل و مشارکتی بررسی می‌کند.&lt;br&gt;Technovation | 🔬 Research Article&lt;br&gt;🏷 CSR specialization · innovation trade-offs · independent innovation · collaborative innovation · corporate social responsibility</description>
+<category>CSR specialization</category>
+<category>innovation trade-offs</category>
+<category>independent innovation</category>
+<category>collaborative innovation</category>
+<category>corporate social responsibility</category>
+</item>
 <item>
 <title>Structural memory links experimental discovery and computational novelty</title>
 <link>https://doi.org/10.1038/s41524-026-02398-y</link>
@@ -1170,42 +1206,6 @@
 <category>charge storage mechanism</category>
 <category>design principles</category>
 <category>functional polymer</category>
-</item>
-<item>
-<title>Electro–thermal feature fusion-based bidirectional long short-term memory–attention network for lithium-ion battery state of health prediction</title>
-<link>https://doi.org/10.1016/j.est.2026.125779</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125779</guid>
-<pubDate>Wed, 25 Nov 2026 08:03:37 GMT</pubDate>
-<description>شبکه BiLSTM-attention مبتنی بر ادغام ویژگی‌های الکتریکی-حرارتی برای پیش‌بینی وضعیت سلامت باتری لیتیوم-یون ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · feature fusion · BiLSTM-attention · electro-thermal features</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>feature fusion</category>
-<category>BiLSTM-attention</category>
-<category>electro-thermal features</category>
-</item>
-<item>
-<title>Frequency-domain-guided dual-branch temporal network for state-of-health estimation of lithium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125767</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125767</guid>
-<pubDate>Wed, 25 Nov 2026 08:03:33 GMT</pubDate>
-<description>یک شبکه زمانی دومشعبه‌ای با راهنمایی دامنه فرکانس برای تخمین وضعیت سلامت باتری‌های لیتیوم-یون توسعه داده می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 state of health · lithium-ion battery · frequency-domain features · temporal network · dual-branch model</description>
-<category>state of health</category>
-<category>lithium-ion battery</category>
-<category>frequency-domain features</category>
-<category>temporal network</category>
-<category>dual-branch model</category>
-</item>
-<item>
-<title>Co-pyrolysis of waste biomass for carbon electrode material: Synergistic porosity and heteroatom functionality enabling high-performance zinc-ion hybrid supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125819</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125819</guid>
-<pubDate>Wed, 25 Nov 2026 08:03:29 GMT</pubDate>
-<description>هم‌پیرولیز زیست‌توده زائد برای الکترود کربنی با تخلخل و هترواتم هم‌افزا، ابرخازن هیبریدی روی-یون با عملکرد بالا را ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · biomass co-pyrolysis · porous carbon · heteroatom doping · carbon electrode</description>
-<category>zinc-ion hybrid supercapacitor</category>
-<category>biomass co-pyrolysis</category>
-<category>porous carbon</category>
-<category>heteroatom doping</category>
-<category>carbon electrode</category>
 </item>
 </channel>
 </rss>
