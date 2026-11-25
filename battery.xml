@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 13:02:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 14:02:23 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electrochemical entropymetry of battery electrode materials: From thermodynamic foundations to operando diagnostics and beyond</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105662</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105662</guid>
+<pubDate>Wed, 25 Nov 2026 14:02:21 GMT</pubDate>
+<description>این مقاله مبانی ترمودینامیکی آنتروپی‌سنجی الکتروشیمیایی مواد الکترود باتری و کاربردهای آن در تشخیص‌های اپراتیو را مرور می‌کند.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 entropymetry · battery electrodes · operando diagnostics · thermodynamics · entropy measurement</description>
+<category>entropymetry</category>
+<category>battery electrodes</category>
+<category>operando diagnostics</category>
+<category>thermodynamics</category>
+<category>entropy measurement</category>
+</item>
+<item>
+<title>Dual-oxygen-site Lewis-basic covalent organic framework interlayers for synergistic polysulfide confinement and Li+ desolvation</title>
+<link>https://doi.org/10.1016/j.scib.2026.11.041</link>
+<guid isPermaLink="false">10.1016/j.scib.2026.11.041</guid>
+<pubDate>Wed, 25 Nov 2026 14:01:52 GMT</pubDate>
+<description>لایه‌های میانی COF با دو سایت اکسیژن لوویس‌بازی، هم‌زمان مهار پلی‌سولفید و جداسازی Li+ را برای باتری لیتیوم-گوگرد تقویت می‌کنند.&lt;br&gt;Science Bulletin | 🔬 Research Article&lt;br&gt;🏷 covalent organic framework · polysulfide confinement · Li+ desolvation · Lewis basic sites · lithium-sulfur battery</description>
+<category>covalent organic framework</category>
+<category>polysulfide confinement</category>
+<category>Li+ desolvation</category>
+<category>Lewis basic sites</category>
+<category>lithium-sulfur battery</category>
+</item>
+<item>
+<title>Binder effects on the multifunctional performance of structural battery positive electrodes</title>
+<link>https://doi.org/10.1007/s42114-026-02195-7</link>
+<guid isPermaLink="false">10.1007/s42114-026-02195-7</guid>
+<pubDate>Wed, 25 Nov 2026 14:01:44 GMT</pubDate>
+<description>افزودن بایندرهای HEC و PAA به پوشش کاتدی الکترودهای ساختاری، استحکام برشی را بیش از دو برابر کرده و ظرفیت ویژه تا ۱۴۸ mAh g−1 را بهبود می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using electrophoretic deposition with HEC and PAA binders to strengthen cathode coatings on carbon fibres, addressing cracking and debonding in structural battery positive electrodes. Significance: binders more than double shear strength, and binder chemistry critically governs the trade-off between mechanical strength, electronic connectivity, and ionic transport, offering a design strategy for multifunctional structural battery electrodes.&lt;br&gt;🏷 structural battery · polymer binder · carbon fibre electrode · electrophoretic deposition · cathode coating</description>
+<category>structural battery</category>
+<category>polymer binder</category>
+<category>carbon fibre electrode</category>
+<category>electrophoretic deposition</category>
+<category>cathode coating</category>
+</item>
 <item>
 <title>Ion‐Pair Mediation Enables Low‐Viscosity, Nonflammable Ternary Hybrid Electrolytes for High‐Voltage Aqueous Zinc Metal Batteries</title>
 <link>https://doi.org/10.1002/aenm.71871</link>
@@ -1170,42 +1206,6 @@
 <category>transition metal modification</category>
 <category>first-principles</category>
 <category>supercapacitor electrode</category>
-</item>
-<item>
-<title>Interfacially engineered 0D/2D N-doped Ti3C2 MXene quantum dots/MoSe2 heterostructure for enhanced energy storage performance</title>
-<link>https://doi.org/10.1016/j.est.2026.125919</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125919</guid>
-<pubDate>Tue, 24 Nov 2026 02:02:24 GMT</pubDate>
-<description>نانوذرات کوانتومی Ti3C2 MXene دوپ‌شده با نیتروژن روی MoSe2 یک ناهم‌ساختار 0D/2D با رابط مهندسی‌شده برای ذخیره‌سازی انرژی بهبودیافته ایجاد می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 MXene quantum dots · MoSe2 heterostructure · Ti3C2 · energy storage · interface engineering</description>
-<category>MXene quantum dots</category>
-<category>MoSe2 heterostructure</category>
-<category>Ti3C2</category>
-<category>energy storage</category>
-<category>interface engineering</category>
-</item>
-<item>
-<title>Cement-based separators with vertically aligned microchannels for aqueous supercapacitors</title>
-<link>https://doi.org/10.1016/j.est.2026.125924</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125924</guid>
-<pubDate>Tue, 24 Nov 2026 02:02:20 GMT</pubDate>
-<description>جداکننده‌های سیمانی با میکروکانال‌های عمودی برای ابرخازن‌های آبی ساخته و عملکرد انتقال یون آن‌ها ارزیابی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 cement separator · aligned microchannels · aqueous supercapacitor · ion transport · porous structure</description>
-<category>cement separator</category>
-<category>aligned microchannels</category>
-<category>aqueous supercapacitor</category>
-<category>ion transport</category>
-<category>porous structure</category>
-</item>
-<item>
-<title>Entropy-enhanced multication modification of Na3V2O2(PO4)2F cathodes for high-performance sodium-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125846</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125846</guid>
-<pubDate>Tue, 24 Nov 2026 02:02:16 GMT</pubDate>
-<description>اصلاح چندکاتیونی مبتنی بر افزایش آنتروپی، عملکرد کاتد Na3V2O2(PO4)2F را برای باتری‌های سدیم-یونی بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 sodium-ion battery · Na3V2O2(PO4)2F · multication doping · entropy stabilization · cathode</description>
-<category>sodium-ion battery</category>
-<category>Na3V2O2(PO4)2F</category>
-<category>multication doping</category>
-<category>entropy stabilization</category>
-<category>cathode</category>
 </item>
 </channel>
 </rss>
