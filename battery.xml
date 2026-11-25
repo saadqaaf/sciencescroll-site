@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 06:05:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 07:03:15 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Beyond Decoupling: A Three‐Level Framework for High‐ICE Hard Carbon Anodes in Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/advs.78919</link>
+<guid isPermaLink="false">10.1002/advs.78919</guid>
+<pubDate>Wed, 25 Nov 2026 07:02:32 GMT</pubDate>
+<description>این مرور، راهبردهای بهبود ICE آند کربن سخت در باتری‌های سدیم-یون را در چارچوب سه‌سطحی جفت‌شدگی ساختار، واکنش سطحی و بهینه‌سازی سیستم بازآرایی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in reframing ICE strategies as a structure-coupling, decoupling-tolerance framework and proposing a three-level model (bulk competition, interface reaction, system optimization). Its significance is linking reversible storage to irreversible loss via causal pathways, offering quantifiable, testable design language and a validation path for hard-carbon anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · initial Coulombic efficiency · presodiation · SEI formation</description>
+<category>hard carbon anode</category>
+<category>sodium-ion battery</category>
+<category>initial Coulombic efficiency</category>
+<category>presodiation</category>
+<category>SEI formation</category>
+</item>
 <item>
 <title>Addressing the compatibility perspective between high-voltage cathodes and solid polymer electrolytes in solid-state lithium batteries: Challenges and advances</title>
 <link>https://doi.org/10.1016/j.jechem.2026.11.018</link>
@@ -1194,18 +1206,6 @@
 <category>lithium-ion battery</category>
 <category>PAEG binder</category>
 <category>stress relaxation</category>
-</item>
-<item>
-<title>Experimental evidence of electrochemical behaviour in a Ca–Zn alloy for aprotic calcium-based batteries</title>
-<link>https://doi.org/10.1039/d6ta07270d</link>
-<guid isPermaLink="false">10.1039/d6ta07270d</guid>
-<pubDate>Mon, 23 Nov 2026 18:01:53 GMT</pubDate>
-<description>آلیاژ Ca-Zn ذوب‌شده با قوس الکتریکی به‌عنوان الکترود مقابل تکرارپذیر و فعال الکتروشیمیایی در الکترولیت‌های Ca(TFSI)2 برای باتری‌های کلسیمی آپروتیک عمل می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using an arc-melted Ca–Zn alloy as a reproducible, electrochemically active counter electrode in Ca(TFSI)₂-based aprotic electrolytes, addressing the challenge of reliable calcium electrochemistry. Its significance is providing experimental evidence of electrochemical behaviour, enabling stable counter electrodes for calcium-based battery research and advancing development of aprotic Ca batteries.&lt;br&gt;🏷 calcium battery · Ca-Zn alloy · aprotic electrolyte · counter electrode · electrochemical behavior</description>
-<category>calcium battery</category>
-<category>Ca-Zn alloy</category>
-<category>aprotic electrolyte</category>
-<category>counter electrode</category>
-<category>electrochemical behavior</category>
 </item>
 </channel>
 </rss>
