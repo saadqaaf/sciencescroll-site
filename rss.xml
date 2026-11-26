@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 23:01:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 00:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Nanoquenchers for Fluorescence Sensing: Coordination and Interface Engineering towards Decentralized Monitoring</title>
+<link>https://doi.org/10.1016/j.ccr.2026.218812</link>
+<guid isPermaLink="false">10.1016/j.ccr.2026.218812</guid>
+<pubDate>Thu, 26 Nov 2026 00:01:03 GMT</pubDate>
+<description>این مرور به نانوکوئنچرها برای حسگری فلورسانس می‌پردازد و نقش مهندسی کوئوردیناسیون و سطح مشترک را در پایش غیرمتمرکز بررسی می‌کند.&lt;br&gt;Coordination Chemistry Reviews | ⭐ Review&lt;br&gt;🏷 nanoquenchers · fluorescence sensing · coordination engineering · interface engineering · decentralized monitoring</description>
+<category>nanoquenchers</category>
+<category>fluorescence sensing</category>
+<category>coordination engineering</category>
+<category>interface engineering</category>
+<category>decentralized monitoring</category>
+</item>
 <item>
 <title>Programmable thermal expansion metamaterials: Mechanism-guided design, manufacturing, and functional applications</title>
 <link>https://doi.org/10.1016/j.mser.2026.101339</link>
@@ -1194,18 +1206,6 @@
 <category>machine learning</category>
 <category>rate capability</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium</title>
-<link>https://doi.org/10.1016/j.cell.2026.10.050</link>
-<guid isPermaLink="false">10.1016/j.cell.2026.10.050</guid>
-<pubDate>Wed, 25 Nov 2026 09:01:38 GMT</pubDate>
-<description>وزیکول‌های خارج‌سلولی مشتق از کاردیومیوسیت‌های در گردش امکان بیوپسی مایع غیرتهاجمی میوکارد انسانی را فراهم می‌کنند.&lt;br&gt;Cell | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 extracellular vesicles · cardiomyocytes · liquid biopsy · myocardium · non-invasive diagnosis</description>
-<category>extracellular vesicles</category>
-<category>cardiomyocytes</category>
-<category>liquid biopsy</category>
-<category>myocardium</category>
-<category>non-invasive diagnosis</category>
 </item>
 </channel>
 </rss>
