@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 08:01:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 09:02:07 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Novel Fluorinated Amino‐Ester Electrolyte With Host–Guest Solvation Enables High‐Voltage and Thermally Safe Lithium–Metal Batteries</title>
+<link>https://doi.org/10.1002/adma.75860</link>
+<guid isPermaLink="false">10.1002/adma.75860</guid>
+<pubDate>Thu, 26 Nov 2026 09:02:05 GMT</pubDate>
+<description>این مقاله با الکترولیت آمینو-استر فلوئوردار و ساختار حل‌پوشی میزبان-میهمان، باتری لیتیوم-فلز با ولتاژ بالا، ایمنی حرارتی و چگالی انرژی 550 Wh/kg را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a host–guest solvation design using fluorinated amino-ester solvents (TFE/HFS) with polarity contrast, enabling LiF/Li₂O-rich interphases. Significance: this electrolyte delivers 550 Wh kg⁻¹ in a 22.4 Ah pouch cell, 260-cycle stability with 95.2% retention at 4.5 V, and improved nail-penetration/thermal safety—advancing practical high-energy, safe lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · fluorinated electrolyte · host-guest solvation · high-voltage · thermal safety</description>
+<category>lithium-metal battery</category>
+<category>fluorinated electrolyte</category>
+<category>host-guest solvation</category>
+<category>high-voltage</category>
+<category>thermal safety</category>
+</item>
+<item>
+<title>Multi-Anion Competitive Solvation: Unlocking Wide-Temperature Anode-Free Sodium Metal Batteries</title>
+<link>https://doi.org/10.1039/d6ee05384j</link>
+<guid isPermaLink="false">10.1039/d6ee05384j</guid>
+<pubDate>Thu, 26 Nov 2026 09:01:35 GMT</pubDate>
+<description>این مقاله با طراحی ساختار حل‌پوشی چندآنیونی، سینتیک سریع‌تر و شیمی سطحی پایدارتر را برای باتری‌های سدیم بدون آند در دماهای گسترده فراهم می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using multi-anion competitive solvation to tune desolvation kinetics and interfacial chemistry, enabling stable sodium plating/stripping. This unlocks wide-temperature anode-free sodium metal batteries, addressing irreversible sodium loss at extreme temperatures and advancing high-energy, low-cost battery viability.&lt;br&gt;🏷 anode-free sodium battery · multi-anion solvation · wide-temperature operation · desolvation kinetics · solid electrolyte interphase</description>
+<category>anode-free sodium battery</category>
+<category>multi-anion solvation</category>
+<category>wide-temperature operation</category>
+<category>desolvation kinetics</category>
+<category>solid electrolyte interphase</category>
+</item>
 <item>
 <title>Valorization of natural minerals into quenched SiO₂ anodes for durable high-capacity lithium storage</title>
 <link>https://doi.org/10.1039/d6ta04597a</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>texture evolution</category>
 <category>in situ XRD</category>
 <category>electrodeposition</category>
-</item>
-<item>
-<title>Gradient Zn 2+ Desolvation in Hierarchically Confined Carbon Enabled by Recycled H 3 PO 4 Engineering for High‐Density Charge Storage</title>
-<link>https://doi.org/10.1002/smll.76268</link>
-<guid isPermaLink="false">10.1002/smll.76268</guid>
-<pubDate>Tue, 24 Nov 2026 21:02:27 GMT</pubDate>
-<description>کربن متخلخل حاصل از لیچینگ بازیافتی H3PO4 با میکروحفره‌های محدودکننده و گروه‌های P/O، دسولواتاسیون Zn2+ را تسهیل و ذخیره بار متراکم را در ZIHC با انرژی 235.83 Wh/kg بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using recycled H₃PO₄ to leach biomass, creating hierarchically confined micropores (0.86–2 nm) with P/O functional groups that act as catalytic desolvation sites. This gradient design lowers the Zn²⁺ desolvation barrier, forming a compact EDL and boosting space charge density. Significance: a green, sustainable route enabling high-capacity, high-energy-density ZIHCs with exceptional 50,000-cycle stability.&lt;br&gt;🏷 zinc-ion capacitor · desolvation · porous carbon · H3PO4 activation · confined micropores</description>
-<category>zinc-ion capacitor</category>
-<category>desolvation</category>
-<category>porous carbon</category>
-<category>H3PO4 activation</category>
-<category>confined micropores</category>
-</item>
-<item>
-<title>Synergistic Friedel‐Crafts Cross‐Linking and Coordination Anchoring to Engineer Pore Architecture in Pitch‐Derived Hard Carbon</title>
-<link>https://doi.org/10.1002/smll.76821</link>
-<guid isPermaLink="false">10.1002/smll.76821</guid>
-<pubDate>Tue, 24 Nov 2026 21:02:21 GMT</pubDate>
-<description>ترکیب آسیلاسیون فریدل-کرافتس و لنگراندازی Zn2+ در پیش‌ماده قطران، گرافیت‌شدن را مهار و ساختار حفره سلسله‌مراتبی ایجاد می‌کند و آند کربن سخت با ظرفیت 364.81 mAh/g برای SIB حاصل می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in synergistically combining Friedel-Crafts acylation with Zn²⁺ coordination anchoring to suppress pitch graphitization and engineer hierarchical pores. This dual strategy creates high-density ultramicropores and closed pores, enabling a hard carbon anode with 364.81 mAh g⁻¹ capacity, 90.73% initial Coulombic efficiency, and excellent rate performance—offering a universal route to upgrade low-cost pitch into high-performance sodium-ion battery anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · pitch precursor · Friedel-Crafts acylation · pore architecture</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>pitch precursor</category>
-<category>Friedel-Crafts acylation</category>
-<category>pore architecture</category>
 </item>
 </channel>
 </rss>
