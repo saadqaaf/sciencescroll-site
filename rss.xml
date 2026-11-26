@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 22:01:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 23:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Assaying the myosin super-relaxed state</title>
+<link>https://doi.org/10.1038/s41596-026-01479-y</link>
+<guid isPermaLink="false">10.1038/s41596-026-01479-y</guid>
+<pubDate>Thu, 26 Nov 2026 23:01:09 GMT</pubDate>
+<description>این مقاله روشی برای سنجش حالت فوق‌آرام میوزین ارائه می‌دهد که به بررسی تنظیم فعالیت ATPase و عملکرد عضله کمک می‌کند.&lt;br&gt;Nature Protocols | 🔬 Research Article&lt;br&gt;🏷 myosin · super-relaxed state · ATPase assay · muscle regulation · fluorescence</description>
+<category>myosin</category>
+<category>super-relaxed state</category>
+<category>ATPase assay</category>
+<category>muscle regulation</category>
+<category>fluorescence</category>
+</item>
+<item>
+<title>Tunable out-of-plane electromechanical coupling in bilayer MoS2 wrinkles templated by self-assembled microsphere arrays</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112666</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112666</guid>
+<pubDate>Thu, 26 Nov 2026 23:01:06 GMT</pubDate>
+<description>این مقاله با الگوبرداری از آرایه‌های میکروسفر خودآرا، چین‌خوردگی‌های MoS2 دولایه را می‌سازد و کوپلاژ الکترومکانیکی خارج‌صفحه‌ای قابل تنظیم را نشان می‌دهد.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 bilayer MoS2 · wrinkles · electromechanical coupling · microsphere arrays · piezoelectricity</description>
+<category>bilayer MoS2</category>
+<category>wrinkles</category>
+<category>electromechanical coupling</category>
+<category>microsphere arrays</category>
+<category>piezoelectricity</category>
+</item>
+<item>
+<title>Mechanical Regulation Systems for Irregular Mechanical Energy Harvesting: A Transducer-Compatible Design Framework</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112637</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112637</guid>
+<pubDate>Thu, 26 Nov 2026 23:01:03 GMT</pubDate>
+<description>این مقاله یک چارچوب طراحی سازگار با مبدل‌ها برای برداشت انرژی مکانیکی نامنظم ارائه می‌دهد و نقش سامانه‌های تنظیم مکانیکی را بررسی می‌کند.&lt;br&gt;Nano Energy | ⭐ Review&lt;br&gt;🏷 mechanical energy harvesting · transducer design · irregular mechanical energy · mechanical regulation · energy conversion</description>
+<category>mechanical energy harvesting</category>
+<category>transducer design</category>
+<category>irregular mechanical energy</category>
+<category>mechanical regulation</category>
+<category>energy conversion</category>
+</item>
 <item>
 <title>Cathode-Generated Hydrogen Peroxide Contributes to Degradation of the Membrane Across Its Full Thickness in PEM Water Electrolyzers</title>
 <link>https://doi.org/10.1021/acsenergylett.6c02741</link>
@@ -1170,42 +1206,6 @@
 <category>soft robot</category>
 <category>motion switching</category>
 <category>swarm</category>
-</item>
-<item>
-<title>The circSRSF5 -FUS-EIF4A3 regulatory circuitry protects Ewing sarcoma cells from EWS::FLI1 small-molecule inhibition</title>
-<link>https://doi.org/10.1126/sciadv.aec1017</link>
-<guid isPermaLink="false">10.1126/sciadv.aec1017</guid>
-<pubDate>Thu, 26 Nov 2026 14:02:40 GMT</pubDate>
-<description>در سارکوم یوئینگ، circSRSF5 با تثبیت EIF4A3 به بقای سلول توموری و مقاومت به مهارکننده کوچک‌مولکولی YK-4-279 علیه EWS::FLI1 کمک می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 Ewing sarcoma · circSRSF5 · EWS::FLI1 · EIF4A3 · YK-4-279</description>
-<category>Ewing sarcoma</category>
-<category>circSRSF5</category>
-<category>EWS::FLI1</category>
-<category>EIF4A3</category>
-<category>YK-4-279</category>
-</item>
-<item>
-<title>Atomic-scale visualization and assignment of contaminant adsorption geometries at mineral surfaces</title>
-<link>https://doi.org/10.1126/sciadv.aeh2981</link>
-<guid isPermaLink="false">10.1126/sciadv.aeh2981</guid>
-<pubDate>Thu, 26 Nov 2026 14:02:37 GMT</pubDate>
-<description>با ترکیب HAADF-STEM خارج‌محور، شبیه‌سازی multislice و DFT، هندسه‌های جذب سلنیوم(IV)، سرب(II) و اورانیوم(VI) روی سطوح هماتیت در مقیاس اتمی تفکیک و به سایت‌های بلوری نسبت داده شد.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 adsorption geometry · HAADF-STEM · hematite surface · selenium adsorption · DFT</description>
-<category>adsorption geometry</category>
-<category>HAADF-STEM</category>
-<category>hematite surface</category>
-<category>selenium adsorption</category>
-<category>DFT</category>
-</item>
-<item>
-<title>Continuously aligned biomimetic sites in MXene membranes for rapid lithium extraction</title>
-<link>https://doi.org/10.1126/sciadv.aeg9915</link>
-<guid isPermaLink="false">10.1126/sciadv.aeg9915</guid>
-<pubDate>Thu, 26 Nov 2026 14:02:33 GMT</pubDate>
-<description>غشای بیومیمتیک MXene با گیرنده‌های کراون‌اتر پیوسته، انتقال جهشی Li+ را ممکن کرده و شار 0.12 mol·m−2·h−1 با گزینش‌پذیری Li+/Mg2+ برابر 109 در آب‌های شور دریاچه نمک فراهم می‌کند.&lt;br&gt;Science Advances | 🔬 Research Article&lt;br&gt;🏷 MXene membrane · lithium extraction · crown ether · biomimetic channel · Li/Mg separation</description>
-<category>MXene membrane</category>
-<category>lithium extraction</category>
-<category>crown ether</category>
-<category>biomimetic channel</category>
-<category>Li/Mg separation</category>
 </item>
 </channel>
 </rss>
