@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 10:01:27 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 11:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Interrupting Electrochemical Amplification through Hotspot-Selective Bi Deposition for Stable Zinc Metal Anodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105688</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105688</guid>
+<pubDate>Thu, 26 Nov 2026 11:02:07 GMT</pubDate>
+<description>رسوب انتخابی Bi در نقاط داغ، تقویت الکتروشیمیایی را متوقف کرده و آندهای فلزی روی پایدار را ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc metal anode · Bi deposition · hotspot-selective · electrochemical amplification · dendrite suppression</description>
+<category>zinc metal anode</category>
+<category>Bi deposition</category>
+<category>hotspot-selective</category>
+<category>electrochemical amplification</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Composition-programmed 3D printing of polyaniline-gradient thick electrodes for high-areal-energy zinc-ion hybrid supercapacitors</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105691</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105691</guid>
+<pubDate>Thu, 26 Nov 2026 11:02:03 GMT</pubDate>
+<description>الکترودهای ضخیم با گرادیان پلی‌آنیلین به روش چاپ سه‌بعدی برنامه‌ریزی‌شده ساخته می‌شوند تا انرژی سطحی بالایی در ابرخازن هیبریدی یون-روی حاصل شود.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 zinc-ion hybrid supercapacitor · 3D printing · polyaniline gradient · thick electrode · areal energy</description>
+<category>zinc-ion hybrid supercapacitor</category>
+<category>3D printing</category>
+<category>polyaniline gradient</category>
+<category>thick electrode</category>
+<category>areal energy</category>
+</item>
+<item>
+<title>Decoupling mechano-electrochemical coupling for stable SPAN cathodes via structural inheritance</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105689</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105689</guid>
+<pubDate>Thu, 26 Nov 2026 11:01:59 GMT</pubDate>
+<description>این مقاله با وراثت ساختاری، جفت‌شدگی مکانیکی-الکتروشیمیایی را در کاتدهای SPAN جدا می‌کند تا پایداری کاتد بهبود یابد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 SPAN cathode · mechano-electrochemical coupling · structural inheritance · lithium-sulfur battery · cathode stability</description>
+<category>SPAN cathode</category>
+<category>mechano-electrochemical coupling</category>
+<category>structural inheritance</category>
+<category>lithium-sulfur battery</category>
+<category>cathode stability</category>
+</item>
 <item>
 <title>Electron Bridge Effect Enhanced Tandem Catalysis for Efficient Nitrate Reduction to Ammonia</title>
 <link>https://doi.org/10.1002/aenm.71875</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>cathode-catholyte interface</category>
 <category>amorphous layer</category>
 <category>interface passivation</category>
-</item>
-<item>
-<title>Insoluble π-Conjugated Phenazinetetrone-Imidazole-Fused-Ring Polymer Anode Enables Stable Interphase and Ultralong-Life Potassium-Ion Storage</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105672</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105672</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:40 GMT</pubDate>
-<description>این مقاله آند پلیمری نامحلول با حلقه‌های فیوزشده فنازین‌تترون-ایمیدازول را برای ذخیره‌سازی پایدار و فوق‌طولانی یون پتاسیم ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 potassium-ion battery · polymer anode · phenazinetetrone · stable interphase · ultralong cycling</description>
-<category>potassium-ion battery</category>
-<category>polymer anode</category>
-<category>phenazinetetrone</category>
-<category>stable interphase</category>
-<category>ultralong cycling</category>
-</item>
-<item>
-<title>Low-temperature Lithium-Sulfur Batteries: Mechanisms, Challenges, and Targeted Strategies</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105680</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105680</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:36 GMT</pubDate>
-<description>این مرور، سازوکارها و چالش‌های باتری‌های لیتیوم-گوگرد در دمای پایین و راهبردهای هدفمند برای غلبه بر آن‌ها را بررسی می‌کند.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 lithium-sulfur battery · low temperature · reaction mechanisms · kinetic challenges · targeted strategies</description>
-<category>lithium-sulfur battery</category>
-<category>low temperature</category>
-<category>reaction mechanisms</category>
-<category>kinetic challenges</category>
-<category>targeted strategies</category>
-</item>
-<item>
-<title>Multifunctional BN-enabled Li7La3Zr2O12 composite electrolytes with enhanced toughness and ionic conductivity</title>
-<link>https://doi.org/10.1007/s42114-026-02197-5</link>
-<guid isPermaLink="false">10.1007/s42114-026-02197-5</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:17 GMT</pubDate>
-<description>این مقاله الکترولیت‌های کامپوزیتی LLZO تقویت‌شده با BN را با چقرمگی و رسانایی یونی بهبودیافته برای کاربرد در باتری ارائه می‌کند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LLZO electrolyte · boron nitride · composite electrolyte · ionic conductivity · toughness</description>
-<category>LLZO electrolyte</category>
-<category>boron nitride</category>
-<category>composite electrolyte</category>
-<category>ionic conductivity</category>
-<category>toughness</category>
 </item>
 </channel>
 </rss>
