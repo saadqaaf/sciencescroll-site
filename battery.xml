@@ -5,8 +5,104 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 12:01:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 13:06:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Low-pressure operation of all-solid-state batteries enabled by an organic electrode</title>
+<link>https://doi.org/10.1038/s41467-026-79379-8</link>
+<guid isPermaLink="false">10.1038/s41467-026-79379-8</guid>
+<pubDate>Thu, 26 Nov 2026 13:06:05 GMT</pubDate>
+<description>این مقاله نشان می‌دهد استفاده از یک الکترود آلی، امکان کارکرد باتری تمام‌جامد را در فشار پایین و بدون نیاز به فشار انباشت بالا فراهم می‌کند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using low-modulus, low-hardness, creep-compliant organic electrodes (TAQ) that deform adaptively, eliminating the high stack pressures (tens of MPa) usually needed for solid-state batteries. Significance: stable cycling at 1 MPa (80.3% retention after 100 cycles) and structural integrity down to 0.2 MPa, establishing mechanically adaptive materials design for practical low-pressure solid-state batteries.&lt;br&gt;🏷 all-solid-state battery · organic electrode · low-pressure operation · solid electrolyte · stack pressure</description>
+<category>all-solid-state battery</category>
+<category>organic electrode</category>
+<category>low-pressure operation</category>
+<category>solid electrolyte</category>
+<category>stack pressure</category>
+</item>
+<item>
+<title>Anion‐Anchoring, Anti‐Swelling Polymer Interphase Enables Durable Lithium Metal Anodes in Localized High‐Concentration Electrolytes</title>
+<link>https://doi.org/10.1002/anie.5054548</link>
+<guid isPermaLink="false">10.1002/anie.5054548</guid>
+<pubDate>Thu, 26 Nov 2026 13:03:40 GMT</pubDate>
+<description>لایه میانی پلیمری آنتی‌سوئلینگ با لنگر انداختن آنیون در LHCE، SEI غنی از LiF/Li2O و آند لیتیوم پایدار ایجاد کرد؛ سلول Li||NCM811 حدود ۹۰۰ چرخه با حفظ ۸۰٪ ظرفیت داشت.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an anion-anchoring, anti-swelling artificial SEI using imidazolium cations with long aliphatic chains, resolving the trade-off between ion coordination and solvent swelling in LHCEs. Its significance is enabling durable Li metal anodes with high modulus, Li⁺ transference number 0.94, and LiF/Li₂O-rich SEIs, achieving 99.5% Coulombic efficiency over 480 cycles and ~900 cycles in Li||NCM811 cells across multiple electrolyte chemistries.&lt;br&gt;🏷 lithium metal anode · localized high-concentration electrolyte · artificial SEI · anion anchoring · anti-swelling polymer</description>
+<category>lithium metal anode</category>
+<category>localized high-concentration electrolyte</category>
+<category>artificial SEI</category>
+<category>anion anchoring</category>
+<category>anti-swelling polymer</category>
+</item>
+<item>
+<title>Photocatalytic PVDF Degradation Coupled With Catalytic Targeted Li Replenishment Toward Low‐Energy Repair of Spent LiFePO 4 Electrodes</title>
+<link>https://doi.org/10.1002/anie.6715913</link>
+<guid isPermaLink="false">10.1002/anie.6715913</guid>
+<pubDate>Thu, 26 Nov 2026 13:03:19 GMT</pubDate>
+<description>تخریب فوتوکاتالیستی PVDF همراه با جبران هدفمند Li توسط TiO2، امکان ترمیم کم‌انرژی LFP مستعمل را فراهم کرد و ظرفیت ۱۴۰٫۶ mAh g−1 با حفظ ۹۹٫۸٪ پس از ۱۰۰ چرخه حاصل شد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in coupling photocatalytic PVDF degradation with targeted Li replenishment using TiO₂, whose photogenerated holes generate •OH radicals to cleave PVDF backbones while electrons reduce Fe³⁺ to Fe²⁺, lowering the Li⁺ migration barrier. This enables low-energy repair of spent LFP; the repaired material delivers 140.6 mAh g⁻¹ at 1 C with 99.8% retention after 100 cycles, and 98.3% over 1500 cycles at 5 C.&lt;br&gt;🏷 LiFePO4 recycling · photocatalytic PVDF degradation · lithium replenishment · TiO2 · direct regeneration</description>
+<category>LiFePO4 recycling</category>
+<category>photocatalytic PVDF degradation</category>
+<category>lithium replenishment</category>
+<category>TiO2</category>
+<category>direct regeneration</category>
+</item>
+<item>
+<title>Tailoring the Na + Transport Microenvironment With an Anion‐Capturing Interface Enables Low‐Temperature, Fast‐Charging Sodium‐Ion Batteries</title>
+<link>https://doi.org/10.1002/anie.6393193</link>
+<guid isPermaLink="false">10.1002/anie.6393193</guid>
+<pubDate>Thu, 26 Nov 2026 13:02:49 GMT</pubDate>
+<description>رابط جذب‌کننده آنیون با غنی‌سازی فسفات، SEI معدنی همگن و میدان الکتریکی داخلی ایجاد کرده و شارژ سریع باتری سدیم‌یون در دمای پایین را ممکن ساخت.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an anion-capturing phosphate interface that enriches anions near the inner Helmholtz plane, forming a homogeneous inorganic, phosphorus-rich SEI with a built-in electric field and lower Na⁺ diffusion barrier. This enables fast charging and stable operation down to −40°C, with 183.6 mAh g⁻¹ at −30°C and 90.2% retention over 1000 cycles, significantly advancing sodium-ion battery performance under harsh conditions.&lt;br&gt;🏷 sodium-ion battery · hard carbon anode · anion-capturing interface · fast charging · low-temperature electrolyte</description>
+<category>sodium-ion battery</category>
+<category>hard carbon anode</category>
+<category>anion-capturing interface</category>
+<category>fast charging</category>
+<category>low-temperature electrolyte</category>
+</item>
+<item>
+<title>Hofmeister Engineering Enables High‐Voltage Aqueous All‐Organic Batteries</title>
+<link>https://doi.org/10.1002/anie.3906832</link>
+<guid isPermaLink="false">10.1002/anie.3906832</guid>
+<pubDate>Thu, 26 Nov 2026 13:02:34 GMT</pubDate>
+<description>با جفت‌سازی آند PTCDI و کاتد برم، باتری آبی تمام‌آلی با ولتاژ ۲ ولت ساخته شد و اثر هافمایستر آنیون‌ها بر بازگشت‌پذیری و سینتیک الکترود بررسی شد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in pairing a PTCDI anode with a quaternary-ammonium bromine cathode to achieve a 2.0 V two-electron Br−/Br0/Br+ redox couple, compatible with diverse cations. Significance: revealing that anions govern reversibility and kinetics via the Hofmeister effect, enabling a hybrid kosmotropic/chaotropic electrolyte that yields ~107 Wh kg−1 and 83.1% capacity retention over 12,000 cycles.&lt;br&gt;🏷 aqueous all-organic battery · PTCDI anode · bromine cathode · Hofmeister effect · electrolyte design</description>
+<category>aqueous all-organic battery</category>
+<category>PTCDI anode</category>
+<category>bromine cathode</category>
+<category>Hofmeister effect</category>
+<category>electrolyte design</category>
+</item>
+<item>
+<title>An Expandable Library of Solid Polymer Electrolytes for Lithium‐Metal Batteries</title>
+<link>https://doi.org/10.1002/anie.7301001</link>
+<guid isPermaLink="false">10.1002/anie.7301001</guid>
+<pubDate>Thu, 26 Nov 2026 13:02:20 GMT</pubDate>
+<description>کتابخانه‌ای از 12 الکترولیت پلیمری جامد ساخته شد و تحلیل همبستگی نشان داد قدرت اتصال پلیمر-Li+، ساختار مولکولی و ترکیب SEI، و انحراف معیار بازده کولنی، پایداری چرخه را تعیین می‌کنند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 This work establishes the first solid polymer electrolyte library spanning 12 SPEs across five polymer families, enabling large-scale correlation analysis that reveals binding strength, polymer structure, and interphase composition as key descriptors, and identifies coulombic-efficiency standard deviation as governing cycling stability. Its expandable design pathways and terpolymer proof-of-concept offer a transformative framework for future polymer electrolyte design.&lt;br&gt;🏷 solid polymer electrolyte · lithium-metal battery · electrolyte library · interfacial stability · coulombic efficiency</description>
+<category>solid polymer electrolyte</category>
+<category>lithium-metal battery</category>
+<category>electrolyte library</category>
+<category>interfacial stability</category>
+<category>coulombic efficiency</category>
+</item>
+<item>
+<title>Ferroelectric‐Field Gating Suppresses the Outward Migration of Active Oxygen Intermediates in Li‐Rich Cathodes</title>
+<link>https://doi.org/10.1002/anie.3019780</link>
+<guid isPermaLink="false">10.1002/anie.3019780</guid>
+<pubDate>Thu, 26 Nov 2026 13:02:15 GMT</pubDate>
+<description>لایه فروالکتریک LiNbO3 با میدان الکتریکی درونی، مهاجرت اکسیژن فعال به سطح کاتد غنی از لیتیم را سرکوب کرده و ظرفیت 310 mAh/g با بازده اولیه 99.97% و پایداری بالا را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using a spontaneously polarized ferroelectric LiNbO₃ interfacial layer to create a built-in electric field that suppresses concentration-gradient-driven migration of charged oxygen intermediates. This limits O₂ evolution and preserves uniform oxygen electronic states, enabling 310 mAh g⁻¹, 99.97% initial Coulombic efficiency, 79% retention after 500 cycles, and 620 Wh kg⁻¹ pouch cells—establishing ferroelectric-field regulation as a strategy for stabilizing oxygen redox in Li-rich cathodes.&lt;br&gt;🏷 Li-rich cathode · ferroelectric LiNbO3 · oxygen redox · built-in electric field · Li-metal pouch cell</description>
+<category>Li-rich cathode</category>
+<category>ferroelectric LiNbO3</category>
+<category>oxygen redox</category>
+<category>built-in electric field</category>
+<category>Li-metal pouch cell</category>
+</item>
+<item>
+<title>Nitrogen‐Rich Covalent Organic Frameworks Enable Reversible Lithium Deposition in Anode‐Free Lithium Batteries</title>
+<link>https://doi.org/10.1002/anie.anie-26-24714</link>
+<guid isPermaLink="false">10.1002/anie.anie-26-24714</guid>
+<pubDate>Thu, 26 Nov 2026 13:01:56 GMT</pubDate>
+<description>یک COF غنی از نیتروژن به‌عنوان لایه میان‌فاز، رسوب یکنواخت لیتیم را در باتری‌های لیتیمی بدون آند بهبود می‌دهد و امکان آبکاری/جدایش تا 20 mAh/cm2 را فراهم می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 A nitrogen-rich covalent organic framework interphase layer enables uniform lithium deposition, achieving reversible plating/stripping at 20 mAh/cm² in Li/Cu cells and anode-free full-cell operation at 4.1 mAh/cm². This addresses poor lithium reversibility and sluggish interfacial kinetics, advancing high-areal-capacity, rate-capable anode-free lithium batteries.&lt;br&gt;🏷 anode-free lithium battery · covalent organic framework · lithium deposition · interphase layer · nitrogen-rich COF</description>
+<category>anode-free lithium battery</category>
+<category>covalent organic framework</category>
+<category>lithium deposition</category>
+<category>interphase layer</category>
+<category>nitrogen-rich COF</category>
+</item>
 <item>
 <title>Interrupting Electrochemical Amplification through Hotspot-Selective Bi Deposition for Stable Zinc Metal Anodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105688</link>
@@ -1113,102 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>artificial SEI</category>
 <category>thin anode</category>
 <category>NMC622</category>
-</item>
-<item>
-<title>Foreign‐Element‐Free Lattice Reorganization Constructs Multi‐Scale Heterostructure for Stable Oxygen Redox in Li‐Rich Cathodes</title>
-<link>https://doi.org/10.1002/adfm.79843</link>
-<guid isPermaLink="false">10.1002/adfm.79843</guid>
-<pubDate>Wed, 25 Nov 2026 05:03:29 GMT</pubDate>
-<description>با بازسازی شبکه و ساخت هترواستروکتور چندمقیاسی در کاتد غنی از لیتیم، آزادسازی برگشت‌ناپذیر اکسیژن مهار و پایداری الکتروشیمیایی بهبود می‌یابد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a foreign-element-free citric acid-assisted lattice reconstruction that creates a multi-scale rock-salt/layered heterostructure. This raises oxygen vacancy formation energy (1.36→2.19 eV), suppresses irreversible oxygen release, and anchors lattice strain to inhibit microcracks. Significance: it enables stable oxygen redox, 82.3% retention after 300 cycles, and 145.2 mAh·g⁻¹ at 10 C, offering a feasible strategy for long-life Li-rich cathodes.&lt;br&gt;🏷 Li-rich cathode · oxygen redox · rock-salt heterostructure · lattice reconstruction · capacity retention</description>
-<category>Li-rich cathode</category>
-<category>oxygen redox</category>
-<category>rock-salt heterostructure</category>
-<category>lattice reconstruction</category>
-<category>capacity retention</category>
-</item>
-<item>
-<title>Dilute Configurational Frustration Enables Reversible Jahn–Teller Strain Accommodation in ZnMn 2 O 4 Cathodes</title>
-<link>https://doi.org/10.1002/adfm.79861</link>
-<guid isPermaLink="false">10.1002/adfm.79861</guid>
-<pubDate>Wed, 25 Nov 2026 05:03:14 GMT</pubDate>
-<description>آلودگی رقیق چندعنصری در کاتد اسپینلی ZnMn2O4 با ایجاد ناهمگنی موضعی، کرنش Jahn-Teller را به‌صورت برگشت‌پذیر جبران کرده و پس از 3000 چرخه بیش از 80 درصد ظرفیت را حفظ می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using dilute multication substitution to create local chemical heterogeneity that disrupts correlated Jahn–Teller responses, enabling reversible strain relaxation rather than suppressing MnO₆ distortion. This approach preserves Mn–O coordination, reduces residual deformation, and delivers over 80% capacity retention after 3000 cycles, establishing reversible strain accommodation as a new stabilization strategy for Jahn–Teller-active cathodes.&lt;br&gt;🏷 aqueous zinc-ion battery · ZnMn2O4 cathode · Jahn-Teller distortion · configurational frustration · strain accommodation</description>
-<category>aqueous zinc-ion battery</category>
-<category>ZnMn2O4 cathode</category>
-<category>Jahn-Teller distortion</category>
-<category>configurational frustration</category>
-<category>strain accommodation</category>
-</item>
-<item>
-<title>Halide Anions Regulate the Self‐Assembly of HPMC Coating on PP Separator to Synergistically Modulate Weak Solvation Structure and Anode Interface to Enhance Lithium Metal Battery</title>
-<link>https://doi.org/10.1002/adfm.79786</link>
-<guid isPermaLink="false">10.1002/adfm.79786</guid>
-<pubDate>Wed, 25 Nov 2026 05:02:33 GMT</pubDate>
-<description>پوشش HPMC تنظیم‌شده با آنیون‌های هالید روی جداکننده PP ساختار حل‌پوشی Li+ و SEI غنی از LiF را بهبود می‌دهد و پایداری باتری لیتیوم-فلز را افزایش می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using halide anions (Cl⁻, Br⁻, I⁻) to regulate HPMC self-assembly on PP separators, creating chiral nematic liquid crystal coatings with tunable helical pitch. Cl⁻ yields optimal Li⁺ transport and uniform deposition. Significance: this dual modulation of solvation structure and anode interface (forming LiF/LiX-rich SEI) suppresses dendrites, enabling 103.8% capacity retention over 400 cycles and stable high-voltage NCM811 cells.&lt;br&gt;🏷 lithium metal battery · separator coating · HPMC · halide anions · solvation structure</description>
-<category>lithium metal battery</category>
-<category>separator coating</category>
-<category>HPMC</category>
-<category>halide anions</category>
-<category>solvation structure</category>
-</item>
-<item>
-<title>Bond-Energy-Driven Localized Crystallization in Amorphous Cathodes Enables Nanodomain Pinning and Electronic Modulation for Advanced Aluminum Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105686</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105686</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:59 GMT</pubDate>
-<description>این مقاله با تبلور موضعی ناشی از انرژی پیوند در کاتدهای آمورف، تثبیت نانودومین و تنظیم الکترونیکی را برای باتری‌های آلومینیمی پیشرفته ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 aluminum batteries · amorphous cathodes · localized crystallization · nanodomain pinning · bond energy</description>
-<category>aluminum batteries</category>
-<category>amorphous cathodes</category>
-<category>localized crystallization</category>
-<category>nanodomain pinning</category>
-<category>bond energy</category>
-</item>
-<item>
-<title>Plasma technology-driven key materials for lithium batteries: principles, applications, and future perspectives</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105684</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105684</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:55 GMT</pubDate>
-<description>این مرور، اصول و کاربردهای فناوری پلاسما در ساخت و اصلاح مواد کلیدی باتری‌های لیتیومی و چشم‌اندازهای آینده آن را بررسی می‌کند.&lt;br&gt;Energy Storage Materials | ⭐ Review&lt;br&gt;🏷 plasma technology · lithium batteries · electrode materials · surface modification · material synthesis</description>
-<category>plasma technology</category>
-<category>lithium batteries</category>
-<category>electrode materials</category>
-<category>surface modification</category>
-<category>material synthesis</category>
-</item>
-<item>
-<title>Micro-Short-Circuit Early Detection by Electrical–Mechanical Signals for Large-Format Lithium-Ion Batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105685</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105685</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:51 GMT</pubDate>
-<description>این پژوهش روشی مبتنی بر سیگنال‌های الکتریکی-مکانیکی برای تشخیص زودهنگام میکرو-اتصال کوتاه در باتری‌های لیتیوم-یونی بزرگ‌قالب ارائه می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 micro-short-circuit · early detection · electrical-mechanical signals · large-format lithium-ion batteries · safety diagnostics</description>
-<category>micro-short-circuit</category>
-<category>early detection</category>
-<category>electrical-mechanical signals</category>
-<category>large-format lithium-ion batteries</category>
-<category>safety diagnostics</category>
-</item>
-<item>
-<title>Electrochemical origins of impedance descriptor transferability for battery internal thermometry</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105666</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105666</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:48 GMT</pubDate>
-<description>این مقاله ریشه‌های الکتروشیمیایی قابلیت انتقال توصیفگرهای امپدانس را برای دماسنجی داخلی باتری بررسی می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 impedance thermometry · battery internal temperature · impedance descriptors · electrochemical origins · transferability</description>
-<category>impedance thermometry</category>
-<category>battery internal temperature</category>
-<category>impedance descriptors</category>
-<category>electrochemical origins</category>
-<category>transferability</category>
-</item>
-<item>
-<title>Passivating the cathode-catholyte interface of Li-rich layered oxide via amorphous layer design for all-solid-state batteries</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105683</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105683</guid>
-<pubDate>Wed, 25 Nov 2026 04:01:44 GMT</pubDate>
-<description>این مقاله با طراحی لایه آمورف، سطح مشترک کاتد-کاتولیت اکسید لایه‌ای غنی از لیتیوم را در باتری‌های تمام‌جامد غیرفعال می‌کند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 all-solid-state battery · Li-rich layered oxide · cathode-catholyte interface · amorphous layer · interface passivation</description>
-<category>all-solid-state battery</category>
-<category>Li-rich layered oxide</category>
-<category>cathode-catholyte interface</category>
-<category>amorphous layer</category>
-<category>interface passivation</category>
 </item>
 </channel>
 </rss>
