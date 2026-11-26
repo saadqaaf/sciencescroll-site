@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 16:01:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 17:01:33 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Bi–Sn composites on lignin-derived N,S-codoped carbon for high-rate and durable sodium storage</title>
+<link>https://doi.org/10.1039/d6ta07980f</link>
+<guid isPermaLink="false">10.1039/d6ta07980f</guid>
+<pubDate>Thu, 26 Nov 2026 17:01:18 GMT</pubDate>
+<description>کامپوزیت Bi-Sn در کربن متخلخل N,S-دوپ‌شده مشتق از لیگنین به‌عنوان آند باتری سدیم-یون، قابلیت نرخ بالا و پایداری چرخه‌ای فوق‌طولانی نشان می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in embedding Bi–Sn composites within lignin-derived N,S-codoped porous carbon, combining alloy synergy with sustainable biomass-derived doping. This design enables high-rate capability and ultralong cycling stability for sodium-ion battery anodes, offering a green, low-cost route to durable high-performance energy storage.&lt;br&gt;🏷 sodium-ion battery · Bi-Sn composite · N,S-codoped carbon · lignin-derived carbon · anode</description>
+<category>sodium-ion battery</category>
+<category>Bi-Sn composite</category>
+<category>N,S-codoped carbon</category>
+<category>lignin-derived carbon</category>
+<category>anode</category>
+</item>
+<item>
+<title>Interface-Engineered VO 2 @TiO 2 Core-Shell Microspheres on TiO 2 Nanoarrays for Direct Photo-Rechargeable Aqueous Zinc-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta05817e</link>
+<guid isPermaLink="false">10.1039/d6ta05817e</guid>
+<pubDate>Thu, 26 Nov 2026 17:01:10 GMT</pubDate>
+<description>کاتدی نوری مبتنی بر ریزکره‌های هسته-پوسته VO2@TiO2 روی نانومیله‌های TiO2 برای باتری آبی روی-یون قابل شارژ نوری مستقیم با جداسازی بار و سینتیک یون‌ذخیره‌سازی بهبودیافته ارائه می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in interface-engineered VO2@TiO2 core-shell microspheres on TiO2 nanoarrays, creating an integrated photocathode that enhances carrier separation, interfacial coupling, and ion-storage kinetics. This design enables efficient direct photo-recharging in aqueous zinc-ion batteries, offering a significant step toward compact, self-powered energy devices by overcoming key photocathode limitations.&lt;br&gt;🏷 photo-rechargeable battery · aqueous zinc-ion battery · VO2@TiO2 core-shell · TiO2 nanoarrays · interface engineering</description>
+<category>photo-rechargeable battery</category>
+<category>aqueous zinc-ion battery</category>
+<category>VO2@TiO2 core-shell</category>
+<category>TiO2 nanoarrays</category>
+<category>interface engineering</category>
+</item>
 <item>
 <title>Reachability constrained soft actor-critic Lagrangian with dynamic penalty for safe and fast charging of lithium-ion battery</title>
 <link>https://doi.org/10.1016/j.est.2026.125900</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>polysulfide anchoring</category>
 <category>Cu coordination</category>
 <category>low-temperature cycling</category>
-</item>
-<item>
-<title>Stress‐Modulated Ionic Transport Limits Composite Cathode Kinetics in Solid‐State Batteries</title>
-<link>https://doi.org/10.1002/anie.4734767</link>
-<guid isPermaLink="false">10.1002/anie.4734767</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:15 GMT</pubDate>
-<description>با ترکیب پراش عملیاتی و شبیه‌سازی چندمقیاسی نشان داده می‌شود که محدودیت انتقال یونی ناشی از تنش در الکترولیت جامد، سینتیک کاتد کامپوزیت باتری تمام‌جامد را کنترل می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in linking chemo-mechanical transport switching to spatiotemporal lithiation in thick composite cathodes, revealing that stress-field interactions in the solid electrolyte suppress ionic transport beyond an order of magnitude. Significance: this establishes a direct link between chemo-mechanical evolution and transport control, guiding design of low-pressure-sensitivity, mechanically compliant solid electrolytes for high-energy all-solid-state batteries.&lt;br&gt;🏷 solid-state battery · composite cathode · chemo-mechanical coupling · ionic transport · operando diffraction</description>
-<category>solid-state battery</category>
-<category>composite cathode</category>
-<category>chemo-mechanical coupling</category>
-<category>ionic transport</category>
-<category>operando diffraction</category>
-</item>
-<item>
-<title>Decoding Direct Regeneration of Spent LiFePO 4 : From Defect Evolution to Thermodynamic–Kinetic Barrier Engineering</title>
-<link>https://doi.org/10.1002/anie.6848748</link>
-<guid isPermaLink="false">10.1002/anie.6848748</guid>
-<pubDate>Wed, 25 Nov 2026 06:02:41 GMT</pubDate>
-<description>این مقاله با چارچوب چندمقیاسی نقص‌ها، سدهای ترمودینامیکی-سینتیکی بازتولید مستقیم کاتد LiFePO4 مستعمل را تحلیل و راهبردهای وابسته به تخریب را پیشنهاد می‌کند.&lt;br&gt;Angewandte Chemie International Edition | 💭 Perspective&lt;br&gt;💡 This study introduces a multiscale defect framework linking defect formation energy, migration barriers, and electron-transfer reorganization energy to spent LFP degradation states, proposing that the dominant regeneration barrier evolves with degradation. This resolves the thermodynamic–kinetic paradox of direct regeneration and transforms empirical recycling into rational barrier engineering, enabling failure-dependent strategies and guiding sustainable closed-loop battery recycling.&lt;br&gt;🏷 LiFePO4 recycling · direct regeneration · defect engineering · relithiation · barrier engineering</description>
-<category>LiFePO4 recycling</category>
-<category>direct regeneration</category>
-<category>defect engineering</category>
-<category>relithiation</category>
-<category>barrier engineering</category>
 </item>
 </channel>
 </rss>
