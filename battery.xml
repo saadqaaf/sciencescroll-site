@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 09:02:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 10:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Electron Bridge Effect Enhanced Tandem Catalysis for Efficient Nitrate Reduction to Ammonia</title>
+<link>https://doi.org/10.1002/aenm.71875</link>
+<guid isPermaLink="false">10.1002/aenm.71875</guid>
+<pubDate>Thu, 26 Nov 2026 10:01:25 GMT</pubDate>
+<description>کاتالیزور MoCoB با اثر پل الکترونی و کاتالیز پشتسرهم، بازده تولید NH3 از NO3- را با FE بالا افزایش داده و در باتری هیبریدی Zn-نیترات عملکرد پایداری نشان میدهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molten-salt-etched ternary boride MoCoB with a boron electronic bridge enabling tandem catalysis: Mo activates nitrate, Co supplies active hydrogen, and B accelerates electron/proton transfer. This synergy yields high ammonia production (61.89 mg h⁻¹ mgcat⁻¹, 98.73% FE) and enables a durable Zn-nitrate/ethanol hybrid battery producing ammonium acetate, offering a design strategy for efficient nitrate reduction and reversible Zn-based energy systems.&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · MoCoB electrocatalyst · electron bridge · Zn-based battery</description>
+<category>nitrate reduction</category>
+<category>ammonia synthesis</category>
+<category>MoCoB electrocatalyst</category>
+<category>electron bridge</category>
+<category>Zn-based battery</category>
+</item>
+<item>
+<title>SEI Evolution on Siloxene Anodes in Solid and Liquid Electrolytes via an Ion‐Sieving/Electron‐Conducting Interfacial Layer</title>
+<link>https://doi.org/10.1002/aenm.71856</link>
+<guid isPermaLink="false">10.1002/aenm.71856</guid>
+<pubDate>Thu, 26 Nov 2026 10:01:16 GMT</pubDate>
+<description>لایه واسط رسانای الکترون و غربالگر یون بر پایه siloxene، تکامل SEI را در الکترولیت مایع و جامد مقایسه کرده و پوشش LiF غنی و نازکتری در هر دو سیستم ایجاد میکند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a siloxene-based LP@SONS architecture combining electron-conducting polypyrrole with a Li⁺-selective ion-sieving layer, enabling direct comparison of SEI evolution in liquid versus solid electrolytes. It reveals that electrolyte contact geometry governs SEI dimensionality (3D bulk-permeated vs. 2D planar-confined), yielding thinner, LiF-rich interphases and stable cycling with only ~5% thickness expansion—offering a general interfacial engineering strategy for high-capacity anodes.&lt;br&gt;🏷 siloxene anode · solid electrolyte interphase · solid-state battery · ion-sieving layer · LiF-rich interphase</description>
+<category>siloxene anode</category>
+<category>solid electrolyte interphase</category>
+<category>solid-state battery</category>
+<category>ion-sieving layer</category>
+<category>LiF-rich interphase</category>
+</item>
 <item>
 <title>Novel Fluorinated Amino‐Ester Electrolyte With Host–Guest Solvation Enables High‐Voltage and Thermally Safe Lithium–Metal Batteries</title>
 <link>https://doi.org/10.1002/adma.75860</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>composite electrolyte</category>
 <category>ionic conductivity</category>
 <category>toughness</category>
-</item>
-<item>
-<title>Fabrication Strategies for Sulfide Solid Electrolyte Layers from Powder Compaction to Ultrathin Membranes</title>
-<link>https://doi.org/10.1039/d6ta08838d</link>
-<guid isPermaLink="false">10.1039/d6ta08838d</guid>
-<pubDate>Wed, 25 Nov 2026 00:02:00 GMT</pubDate>
-<description>این مرور راهبردهای ساخت لایه‌های نازک الکترولیت جامد سولفیدی را از فشرده‌سازی پودر تا غشاهای فوق‌نازک برای باتری‌های تمام‌جامد بررسی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | ⭐ Review&lt;br&gt;💡 The novelty lies in systematically reviewing fabrication routes—from powder compaction to ultrathin membranes—for sulfide solid electrolytes, addressing the trade-off between thickness, ionic conductivity, and mechanical integrity. Its significance is guiding scalable processing of thin, continuous electrolyte layers that minimize inactive volume and resistance, enabling higher-energy all-solid-state batteries with intimate electrode contact and robust ion-conducting pathways.&lt;br&gt;🏷 sulfide solid electrolyte · all-solid-state battery · thin membranes · powder compaction · ionic conductivity</description>
-<category>sulfide solid electrolyte</category>
-<category>all-solid-state battery</category>
-<category>thin membranes</category>
-<category>powder compaction</category>
-<category>ionic conductivity</category>
-</item>
-<item>
-<title>Understanding Texture Evolution Dynamics in the Electrodeposition of Copper Current Collectors for Lithium-Metal Batteries via Differential in Situ XRD</title>
-<link>https://doi.org/10.1021/acs.nanolett.6c03781</link>
-<guid isPermaLink="false">10.1021/acs.nanolett.6c03781</guid>
-<pubDate>Tue, 24 Nov 2026 23:01:20 GMT</pubDate>
-<description>با XRD همگام‌ترونی درجا، تکامل بافت مس الکترودپوشش‌شده در چگالی جریان و کلرید مختلف بررسی و نشان داده شد بافت {110} قوی باعث کاهش هیسترزیس و پایداری چرخه بیشتر می‌شود.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a differential in situ XRD method that isolates the texture of newly deposited copper, revealing surface texture emerges earlier than conventional analysis shows. Significance: quantitative links between current density, chloride concentration, and {110} texture enable rapid optimization of copper current collectors, yielding lower voltage hysteresis and improved cycling stability in lithium-metal batteries.&lt;br&gt;🏷 copper current collector · lithium-metal battery · texture evolution · in situ XRD · electrodeposition</description>
-<category>copper current collector</category>
-<category>lithium-metal battery</category>
-<category>texture evolution</category>
-<category>in situ XRD</category>
-<category>electrodeposition</category>
 </item>
 </channel>
 </rss>
