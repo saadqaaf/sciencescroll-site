@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 14:06:10 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 15:02:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Reachability constrained soft actor-critic Lagrangian with dynamic penalty for safe and fast charging of lithium-ion battery</title>
+<link>https://doi.org/10.1016/j.est.2026.125900</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125900</guid>
+<pubDate>Thu, 26 Nov 2026 15:02:18 GMT</pubDate>
+<description>یک عامل یادگیری تقویتی soft actor-critic با جریمه پویا و محدودیت دسترس‌پذیری برای شارژ سریع و ایمن باتری لیتیم-یون ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 fast charging · soft actor-critic · safe charging · lithium-ion battery · reinforcement learning</description>
+<category>fast charging</category>
+<category>soft actor-critic</category>
+<category>safe charging</category>
+<category>lithium-ion battery</category>
+<category>reinforcement learning</category>
+</item>
+<item>
+<title>Content-dependent Ce regulation of local chemistry, bulk Na+ transport, and interfacial kinetics in P2-type Na0.67Mn0.5Ni0.2Co0.3O2 cathodes</title>
+<link>https://doi.org/10.1016/j.est.2026.125922</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125922</guid>
+<pubDate>Thu, 26 Nov 2026 15:02:10 GMT</pubDate>
+<description>تنظیم وابسته به مقدار Ce در کاتد P2-Na0.67Mn0.5Ni0.2Co0.3O2 شیمی موضعی، انتقال Na+ و سینتیک بین‌سطحی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 P2-type cathode · sodium-ion battery · Ce doping · Na+ transport · interfacial kinetics</description>
+<category>P2-type cathode</category>
+<category>sodium-ion battery</category>
+<category>Ce doping</category>
+<category>Na+ transport</category>
+<category>interfacial kinetics</category>
+</item>
+<item>
+<title>Divergent thermal runaway pathways of LiFePO4 batteries under thermal and electrical abuse: Role of safety-valve-triggered interruption</title>
+<link>https://doi.org/10.1016/j.est.2026.126049</link>
+<guid isPermaLink="false">10.1016/j.est.2026.126049</guid>
+<pubDate>Thu, 26 Nov 2026 15:02:02 GMT</pubDate>
+<description>مسیرهای واگرای فرار حرارتی باتری‌های LiFePO4 تحت سوءاستفاده حرارتی و الکتریکی بررسی و نقش قطع‌کننده شیر اطمینان در این فرآیند روشن می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LiFePO4 battery · thermal runaway · safety valve · electrical abuse · thermal abuse</description>
+<category>LiFePO4 battery</category>
+<category>thermal runaway</category>
+<category>safety valve</category>
+<category>electrical abuse</category>
+<category>thermal abuse</category>
+</item>
+<item>
+<title>Constructing fast ion-conducting interfaces to optimize the compatibility of Li2NiO2 pre-lithiation additive in lithium-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.125483</link>
+<guid isPermaLink="false">10.1016/j.est.2026.125483</guid>
+<pubDate>Thu, 26 Nov 2026 15:01:58 GMT</pubDate>
+<description>ساخت رابط‌های رسانای یون سریع، سازگاری افزودنی پیش‌لیتیوم‌سازی Li2NiO2 را در باتری‌های یون-لیتیوم بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Li2NiO2 additive · pre-lithiation · ion-conducting interface · lithium-ion battery · compatibility</description>
+<category>Li2NiO2 additive</category>
+<category>pre-lithiation</category>
+<category>ion-conducting interface</category>
+<category>lithium-ion battery</category>
+<category>compatibility</category>
+</item>
+<item>
+<title>Dual-regulation mechanism of K+ incorporation and CuO loading in natural attapulgite for stable zinc anodes of aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1016/j.est.2026.126030</link>
+<guid isPermaLink="false">10.1016/j.est.2026.126030</guid>
+<pubDate>Thu, 26 Nov 2026 15:01:40 GMT</pubDate>
+<description>ترکیب K+ و بارگذاری CuO در آتاپولژیت طبیعی با تنظیم دوگانه، پایداری آند روی در باتری آبی یون-روی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · attapulgite · aqueous zinc-ion battery · CuO loading · K+ incorporation</description>
+<category>zinc anode</category>
+<category>attapulgite</category>
+<category>aqueous zinc-ion battery</category>
+<category>CuO loading</category>
+<category>K+ incorporation</category>
+</item>
 <item>
 <title>Extreme-condition reliability of solid-state sodium batteries: Interfacial transport–stress–reaction amplification and design principles</title>
 <link>https://doi.org/10.1039/d6im00247a</link>
@@ -1149,66 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>defect engineering</category>
 <category>relithiation</category>
 <category>barrier engineering</category>
-</item>
-<item>
-<title>d 5 ‐Probed Interlocked Charge‐Structural Disorder Enables Deep Mn 3+ /Mn 2+ Redox Chemistry in Layered Oxide Cathodes</title>
-<link>https://doi.org/10.1002/anie.6380455</link>
-<guid isPermaLink="false">10.1002/anie.6380455</guid>
-<pubDate>Wed, 25 Nov 2026 06:02:32 GMT</pubDate>
-<description>این مقاله با بی‌نظمی بار-ساختار درهم‌قفل‌شده در کاتد لایه‌ای Na0.67Fe0.1Mn0.9O2، ردوکس عمیق Mn3+/Mn2+ و پایداری ولتاژ را ممکن می‌سازد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using d5 Fe3+ and rapid quenching to create interlocked charge-structural disorder in P2-type Na0.67Fe0.1Mn0.9O2, suppressing Mn4+/Mn3+ charge ordering and enabling deep, reversible Mn3+/Mn2+ redox. This nearly doubles Mn3+/Mn2+ contribution (15.2% to 29.4%), boosts energy density to 291.3 Wh/kg, and improves capacity retention from 62.4% to 87.5%, establishing charge-state disorder as a design principle for layered oxide cathodes.&lt;br&gt;🏷 layered oxide cathode · Mn redox · charge-structural disorder · sodium-ion battery · quenching</description>
-<category>layered oxide cathode</category>
-<category>Mn redox</category>
-<category>charge-structural disorder</category>
-<category>sodium-ion battery</category>
-<category>quenching</category>
-</item>
-<item>
-<title>Exploring Superionic Migration in Halide Solid-State Electrolytes via Ta5+-driven Structural Evolution</title>
-<link>https://doi.org/10.1016/j.nanoen.2026.112654</link>
-<guid isPermaLink="false">10.1016/j.nanoen.2026.112654</guid>
-<pubDate>Wed, 25 Nov 2026 06:02:03 GMT</pubDate>
-<description>این مقاله با آلایش Ta5+ و تحول ساختاری، مهاجرت فوق‌یونی در الکترولیت‌های جامد هالیدی را بررسی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 halide solid electrolyte · superionic conduction · Ta5+ doping · structural evolution · all-solid-state battery</description>
-<category>halide solid electrolyte</category>
-<category>superionic conduction</category>
-<category>Ta5+ doping</category>
-<category>structural evolution</category>
-<category>all-solid-state battery</category>
-</item>
-<item>
-<title>Hierarchical Order‐Disorder Architecture Enables Reversible Mg–N Coordination in Prussian Blue Analogues for Aqueous Mg Ion Storage</title>
-<link>https://doi.org/10.1002/adfm.79779</link>
-<guid isPermaLink="false">10.1002/adfm.79779</guid>
-<pubDate>Wed, 25 Nov 2026 05:04:58 GMT</pubDate>
-<description>مهندسی نظم-بی‌نظمی سلسله‌مراتبی در FeCoSnMn-PBA، هماهنگی برگشت‌پذیر Mg-N را فعال کرده و ذخیره‌سازی یون منیزیم آبی با ظرفیت بالا و پایداری چرخه‌ای طولانی را بهبود می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in hierarchical order-disorder engineering of FeCoSnMn-PBA, creating short-range disordered domains that activate framework N sites while preserving ordered stability. This enables reversible Mg–N coordination-mediated storage, replacing conventional interstitial Mg²⁺ accommodation. Significance: enhanced homogeneous Mg²⁺ storage, fast transfer, and reversible lattice evolution, yielding 149.4 mAh g⁻¹ and 5000-cycle stability, establishing local structure regulation for multivalent ion storage.&lt;br&gt;🏷 Prussian blue analogue · aqueous magnesium battery · Mg-N coordination · order-disorder · cathode</description>
-<category>Prussian blue analogue</category>
-<category>aqueous magnesium battery</category>
-<category>Mg-N coordination</category>
-<category>order-disorder</category>
-<category>cathode</category>
-</item>
-<item>
-<title>Engineering Porous Nano‐SiO 2 From Clay Minerals via a Machine Learning Framework for High‐Performance Sodium Metal Batteries</title>
-<link>https://doi.org/10.1002/adfm.79825</link>
-<guid isPermaLink="false">10.1002/adfm.79825</guid>
-<pubDate>Wed, 25 Nov 2026 05:04:34 GMT</pubDate>
-<description>چارچوب یادگیری ماشین، سنتز نانو-SiO2 متخلخل از کانی‌های رسی با سطح ویژه ۷۴۷.۱ مترمربع بر گرم را هدایت کرده و آن را به‌عنوان لایه بافر آند سدیم به کار می‌برد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a machine learning framework integrating predictive modeling, SHAP interpretability, and domain adaptation to optimize porous nano-SiO₂ synthesis from clay minerals. Significance: it achieves a high specific surface area of 747.1 m² g⁻¹, adapts to new precursors with minimal data, and demonstrates enhanced Na anode interfacial stability, enabling data-driven clay valorization for energy storage.&lt;br&gt;🏷 nano-SiO2 · machine learning · clay minerals · sodium metal battery · porous buffer layer</description>
-<category>nano-SiO2</category>
-<category>machine learning</category>
-<category>clay minerals</category>
-<category>sodium metal battery</category>
-<category>porous buffer layer</category>
-</item>
-<item>
-<title>Bagged Anode Solid‐Phase Electrooxidation: A Controllable and Scalable Green Route to High‐Performance MnO 2 Supercapacitor Materials</title>
-<link>https://doi.org/10.1002/adfm.79492</link>
-<guid isPermaLink="false">10.1002/adfm.79492</guid>
-<pubDate>Wed, 25 Nov 2026 05:04:29 GMT</pubDate>
-<description>اکسیداسیون الکتروشیمیایی فاز جامد و مقیاس‌پذیر از Mn3O4، MnO2 آمورف با ظرفیت ۱۶۲.۱ فاراد بر گرم و ابرخازن نامتقارن با چگالی انرژی ۴۸.۸ وات‌ساعت بر کیلوگرم تولید می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a scalable, eco-friendly solid-phase electrooxidation route converting Mn₃O₄ directly to controllable MnO₂ (γ-MnO₂ nanorods and amorphous AMNO) with low energy consumption (1446.9 kWh·t⁻¹). Significance: delivers high specific capacitance (162.1 F·g⁻¹), and AMNO-based flexible supercapacitors achieve 48.8 Wh·kg⁻¹ with 93.3% retention over 10,000 cycles, offering a green, energy-efficient path to practical MnO₂ production.&lt;br&gt;🏷 MnO2 · supercapacitor · solid-phase electrooxidation · oxygen vacancy · asymmetric supercapacitor</description>
-<category>MnO2</category>
-<category>supercapacitor</category>
-<category>solid-phase electrooxidation</category>
-<category>oxygen vacancy</category>
-<category>asymmetric supercapacitor</category>
 </item>
 </channel>
 </rss>
