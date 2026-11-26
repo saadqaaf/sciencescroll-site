@@ -5,8 +5,56 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 21:00:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 22:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Localized High-Concentration Electrolyte with Nonfluorinated Diluent for Wide-Temperature Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02373</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02373</guid>
+<pubDate>Thu, 26 Nov 2026 22:01:24 GMT</pubDate>
+<description>الکترولیت غلظت بالای موضعی با رقیق‌کننده غیرفلوئوره تولوئن و SEI تنفس‌پذیر، عملکرد باتری سدیم-یون آنتیمونن را در دمای گسترده پایدار می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using low-cost, nonfluorinated toluene as a diluent to create a 1M localized high-concentration electrolyte for wide-temperature sodium-ion batteries. Its significance is enabling stable antimonene anode performance from −20 to 50 °C and revealing a &amp;quot;breathable&amp;quot; solid electrolyte interphase that adapts thickness and composition, accommodating volume changes and ensuring efficient Na+ transport.&lt;br&gt;🏷 localized high-concentration electrolyte · nonfluorinated diluent · sodium-ion battery · wide-temperature · solid electrolyte interphase</description>
+<category>localized high-concentration electrolyte</category>
+<category>nonfluorinated diluent</category>
+<category>sodium-ion battery</category>
+<category>wide-temperature</category>
+<category>solid electrolyte interphase</category>
+</item>
+<item>
+<title>Spatial Confinement Enables In Situ Growth of the Nano-Sn@Sn3(PO4)2 Anode for Sodium-Ion Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03094</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03094</guid>
+<pubDate>Thu, 26 Nov 2026 22:01:18 GMT</pubDate>
+<description>پوشش درجای Sn3(PO4)2 با محدودسازی فضایی، تجمع نانوذرات Sn را مهار کرده و آند باتری سدیم-یون با ظرفیت و پایداری بالا فراهم می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dealloying-induced phase transformation and spatial confinement strategy that in situ constructs a robust Sn3(PO4)2 coating on Sn nanoparticles, preventing aggregation and sustaining mechanical confinement. This yields superior cycling stability (83% retention after 3600 cycles) and rate performance, guiding electrode surface engineering and advancing Sn-based anodes for sodium-ion batteries.&lt;br&gt;🏷 tin anode · sodium-ion battery · spatial confinement · Sn3(PO4)2 coating · dealloying</description>
+<category>tin anode</category>
+<category>sodium-ion battery</category>
+<category>spatial confinement</category>
+<category>Sn3(PO4)2 coating</category>
+<category>dealloying</category>
+</item>
+<item>
+<title>Programming Sodium-Storage Kinetics through Linear Quinone Oligomerization</title>
+<link>https://doi.org/10.1021/acsenergylett.6c03180</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c03180</guid>
+<pubDate>Thu, 26 Nov 2026 22:01:13 GMT</pubDate>
+<description>الیگومریزاسیون خطی کینون با کاهش انحلال و بهبود سینتیک، ظرفیت و پایداری کاتد آلی باتری سدیم-یون را افزایش می‌دهد.&lt;br&gt;ACS Energy Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using linear quinone oligomerization (dimer vs. trimer) to tune sodium-storage kinetics, showing backbone extension reduces crystallinity and dissolution while lowering reorganization energy and HOMO–LUMO gap. Significance: 3BQ delivers 350 mA h g–1 and 80% retention after 500 cycles, establishing rational molecular design for advanced organic sodium-ion cathodes.&lt;br&gt;🏷 quinone oligomer · organic cathode · sodium-ion battery · sodiation kinetics · molecular design</description>
+<category>quinone oligomer</category>
+<category>organic cathode</category>
+<category>sodium-ion battery</category>
+<category>sodiation kinetics</category>
+<category>molecular design</category>
+</item>
+<item>
+<title>Liquid Metal Interlayers Enable Zero-Pressure Sulfide Solid Electrolyte Lithium Batteries</title>
+<link>https://doi.org/10.1021/acsenergylett.6c02793</link>
+<guid isPermaLink="false">10.1021/acsenergylett.6c02793</guid>
+<pubDate>Thu, 26 Nov 2026 22:01:07 GMT</pubDate>
+<description>لایه میانی مایع NaK با سازگاری مورفولوژیکی و انتقال Li، رابط الکترولیت جامد سولفیدی و آند لیتیم را در فشار صفر پایدار می‌کند.&lt;br&gt;ACS Energy Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty is a room-temperature liquid NaK interlayer that stabilizes the lithium–sulfide solid electrolyte interface at nominally zero stack pressure, combining stress-free morphological adaptability with dissolved-Li-mediated transport. Its significance lies in enabling stable full-cell cycling (600 cycles, &amp;gt;2 mAh cm–2) without external pressure, offering a compliant interfacial design concept that accommodates morphological evolution while sustaining Li transport under minimal mechanical confinement.&lt;br&gt;🏷 solid electrolyte · lithium metal anode · NaK interlayer · zero-pressure · interfacial contact</description>
+<category>solid electrolyte</category>
+<category>lithium metal anode</category>
+<category>NaK interlayer</category>
+<category>zero-pressure</category>
+<category>interfacial contact</category>
+</item>
 <item>
 <title>Carbon Nanosheets‐Supported Asymmetric Co‐B 1 N 3 for High‐Rate Potassium Ion Batteries</title>
 <link>https://doi.org/10.1002/cey2.70418</link>
@@ -1161,54 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>CNT/TiN network</category>
 <category>radiative heat loss</category>
 <category>thermal energy storage</category>
-</item>
-<item>
-<title>Beyond Decoupling: A Three‐Level Framework for High‐ICE Hard Carbon Anodes in Sodium‐Ion Batteries</title>
-<link>https://doi.org/10.1002/advs.78919</link>
-<guid isPermaLink="false">10.1002/advs.78919</guid>
-<pubDate>Wed, 25 Nov 2026 07:02:32 GMT</pubDate>
-<description>این مرور، راهبردهای بهبود ICE آند کربن سخت در باتری‌های سدیم-یون را در چارچوب سه‌سطحی جفت‌شدگی ساختار، واکنش سطحی و بهینه‌سازی سیستم بازآرایی می‌کند.&lt;br&gt;Advanced Science | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in reframing ICE strategies as a structure-coupling, decoupling-tolerance framework and proposing a three-level model (bulk competition, interface reaction, system optimization). Its significance is linking reversible storage to irreversible loss via causal pathways, offering quantifiable, testable design language and a validation path for hard-carbon anodes.&lt;br&gt;🏷 hard carbon anode · sodium-ion battery · initial Coulombic efficiency · presodiation · SEI formation</description>
-<category>hard carbon anode</category>
-<category>sodium-ion battery</category>
-<category>initial Coulombic efficiency</category>
-<category>presodiation</category>
-<category>SEI formation</category>
-</item>
-<item>
-<title>Addressing the compatibility perspective between high-voltage cathodes and solid polymer electrolytes in solid-state lithium batteries: Challenges and advances</title>
-<link>https://doi.org/10.1016/j.jechem.2026.11.018</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.11.018</guid>
-<pubDate>Wed, 25 Nov 2026 06:05:09 GMT</pubDate>
-<description>این مقاله مروری چالش‌ها و پیشرفت‌های سازگاری میان کاتدهای ولتاژ بالا و الکترولیت‌های پلیمری جامد در باتری‌های لیتیوم حالت جامد را بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 solid-state lithium battery · solid polymer electrolyte · high-voltage cathode · interfacial compatibility · electrochemical stability</description>
-<category>solid-state lithium battery</category>
-<category>solid polymer electrolyte</category>
-<category>high-voltage cathode</category>
-<category>interfacial compatibility</category>
-<category>electrochemical stability</category>
-</item>
-<item>
-<title>Bridging-group chemistry regulating radical evolution and pore formation in hard carbon for sodium storage</title>
-<link>https://doi.org/10.1016/j.jechem.2026.11.016</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.11.016</guid>
-<pubDate>Wed, 25 Nov 2026 06:05:05 GMT</pubDate>
-<description>شیمی گروه پل‌ساز برای تنظیم تکامل رادیکال‌ها و تشکیل حفرات در کربن سخت به‌منظور ذخیره‌سازی سدیم بررسی می‌شود.&lt;br&gt;Journal of Energy Chemistry | 🔬 Research Article&lt;br&gt;🏷 hard carbon · sodium storage · bridging group · radical evolution · pore formation</description>
-<category>hard carbon</category>
-<category>sodium storage</category>
-<category>bridging group</category>
-<category>radical evolution</category>
-<category>pore formation</category>
-</item>
-<item>
-<title>Ionic engineering of functional separators for advanced lithium–sulfur batteries</title>
-<link>https://doi.org/10.1016/j.jechem.2026.11.017</link>
-<guid isPermaLink="false">10.1016/j.jechem.2026.11.017</guid>
-<pubDate>Wed, 25 Nov 2026 06:05:01 GMT</pubDate>
-<description>این مقاله مروری به مهندسی یونی جداکننده‌های عملکردی برای باتری‌های لیتیوم-گوگرد پیشرفته می‌پردازد و راهبردهای بهبود عملکرد الکتروشیمیایی را بررسی می‌کند.&lt;br&gt;Journal of Energy Chemistry | ⭐ Review&lt;br&gt;🏷 lithium-sulfur battery · functional separator · ionic engineering · polysulfide shuttle · solid electrolyte interphase</description>
-<category>lithium-sulfur battery</category>
-<category>functional separator</category>
-<category>ionic engineering</category>
-<category>polysulfide shuttle</category>
-<category>solid electrolyte interphase</category>
 </item>
 </channel>
 </rss>
