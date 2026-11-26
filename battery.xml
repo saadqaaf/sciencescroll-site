@@ -5,8 +5,59 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 02:01:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 03:03:00 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Cross-Linked Halide Networks for Lithium Superionic Conduction</title>
+<link>https://doi.org/10.1021/jacs.6c10351</link>
+<guid isPermaLink="false">10.1021/jacs.6c10351</guid>
+<pubDate>Thu, 26 Nov 2026 03:02:55 GMT</pubDate>
+<description>استراتژی اتصال عرضی با پلی‌آنیون PO43– در شبکه‌های هالیدی ZrClx اکسیژن‌های پل‌ساز را افزایش داده و رسانایی یونی تا 2.8×10–3 S cm–1 در 30 °C همراه با پایداری در باتری تمام‌جامد فراهم می‌کند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a polyanion-assisted cross-linking strategy that suppresses nonbridging oxygens and promotes bridging-oxygen coordination in Cl/O halide networks, creating a frustrated energy landscape for fast Li+ conduction. Significance: ZrCl4-xLi3PO4 achieves 2.8×10–3 S cm–1 at 30 °C, humidity tolerance, and stable cycling at 55 °C and 4.6 V, establishing cross-linking topochemistry as a design principle for robust halide electrolytes.&lt;br&gt;🏷 solid electrolyte · halide superionic conductor · polyanion cross-linking · nonbridging oxygen · all-solid-state battery</description>
+<category>solid electrolyte</category>
+<category>halide superionic conductor</category>
+<category>polyanion cross-linking</category>
+<category>nonbridging oxygen</category>
+<category>all-solid-state battery</category>
+</item>
+<item>
+<title>Dynamic Li+/Na+-Exchanging Interphase Stabilizes High-Voltage Ni-Rich Cathodes for 557 Wh kg–1 Lithium Batteries</title>
+<link>https://doi.org/10.1021/jacs.6c17386</link>
+<guid isPermaLink="false">10.1021/jacs.6c17386</guid>
+<pubDate>Thu, 26 Nov 2026 03:02:32 GMT</pubDate>
+<description>واسط تبادل Li+/Na+ از پوشش NZSP روی NCM811، پایداری کاتد در ولتاژ بالا را بهبود داده و پاکت‌سل 4 Ah را به 557 Wh kg–1 می‌رساند.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Na+-based NZSP coating that dynamically undergoes Li+/Na+ exchange during cycling, forming a fast Li+ conductor while incorporating Na+ into the NCM811 lattice as pillar support. This couples interfacial protection with bulk lattice reinforcement, suppressing parasitic reactions and chemo-mechanical degradation. It enables 4.7 V stability and a 557 Wh kg–1 pouch cell, advancing high-energy Ni-rich lithium batteries.&lt;br&gt;🏷 Ni-rich cathode · Li+/Na+ exchange · cathode-electrolyte interphase · high-voltage · lithium battery</description>
+<category>Ni-rich cathode</category>
+<category>Li+/Na+ exchange</category>
+<category>cathode-electrolyte interphase</category>
+<category>high-voltage</category>
+<category>lithium battery</category>
+</item>
+<item>
+<title>Cation Pinning toward High-Concentration Formic Acid Fuel Cells</title>
+<link>https://doi.org/10.1021/jacs.6c14605</link>
+<guid isPermaLink="false">10.1021/jacs.6c14605</guid>
+<pubDate>Thu, 26 Nov 2026 03:02:04 GMT</pubDate>
+<description>تثبیت کاتیون با Dy2O3 روی سایت‌های تک‌اتمی Rh، وارونگی pH موضعی و غنی‌سازی فرمات را ایجاد می‌کند و پیل سوختی اسید فرمیک با چگالی توان ۳۷۵ mW cm–2 را ممکن می‌سازد.&lt;br&gt;Journal of the American
+Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in identifying interfacial acid–base kinetics, not CO poisoning, as the concentration-limiting factor in DFAFCs, and using cation-pinning via Dy2O3-modified Rh single atoms to stabilize OH–, invert local pH, and enrich formate. Significance: 641-fold higher mass activity and 375 mW cm–2 peak power, surpassing commercial Pd/C at all concentrations, establishing ionic management for multiphase catalysis.&lt;br&gt;🏷 formic acid fuel cell · cation pinning · Rh single-atom · interfacial pH · Dy2O3</description>
+<category>formic acid fuel cell</category>
+<category>cation pinning</category>
+<category>Rh single-atom</category>
+<category>interfacial pH</category>
+<category>Dy2O3</category>
+</item>
+<item>
+<title>Assembly and testing of aqueous organic redox flow batteries</title>
+<link>https://doi.org/10.1038/s41596-026-01450-x</link>
+<guid isPermaLink="false">10.1038/s41596-026-01450-x</guid>
+<pubDate>Thu, 26 Nov 2026 03:01:59 GMT</pubDate>
+<description>این مقاله روش‌های مونتاژ و آزمون باتری‌های جریان ردوکس آبی آلی را به‌عنوان راهکاری برای ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Nature Protocols | ⭐ Review&lt;br&gt;💡 The protocol addresses the lack of standardized methods by providing a comprehensive, reproducible workflow for synthesizing, assembling, and testing aqueous organic redox flow batteries. Its novelty lies in integrating lab-scale flow cells that mimic kilowatt-scale stack hydrodynamics, enabling meaningful performance translation. This facilitates benchmarking and broader adoption of flow batteries for grid-scale energy storage.&lt;br&gt;🏷 redox flow battery · aqueous organic · battery assembly · battery testing · energy storage</description>
+<category>redox flow battery</category>
+<category>aqueous organic</category>
+<category>battery assembly</category>
+<category>battery testing</category>
+<category>energy storage</category>
+</item>
 <item>
 <title>Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries</title>
 <link>https://doi.org/10.1016/j.joule.2026.102747</link>
@@ -1158,54 +1209,6 @@
 <category>Jahn-Teller distortion</category>
 <category>heterointerface</category>
 <category>cycling stability</category>
-</item>
-<item>
-<title>Oxygen‐Stacking Reconstruction of Spent LiCoO 2 for Fast Li‐Ion Kinetics and High‐Voltage Stability</title>
-<link>https://doi.org/10.1002/adma.75829</link>
-<guid isPermaLink="false">10.1002/adma.75829</guid>
-<pubDate>Tue, 24 Nov 2026 16:02:28 GMT</pubDate>
-<description>با تبدیل LiCoO2 مستعمل به فاز O2 از طریق تبادل یونی، کاتدی با انتقال سریع Li+ و پایداری بالا در ولتاژ زیاد با انرژی 486 Wh/kg در پوچ سل ساخته شد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in upcycling spent LiCoO₂ into O2-type LiCoO₂ via ion-exchange, rather than conventional O3 regeneration. This oxygen-stacking reconstruction enlarges Li-layer spacing, enabling fast Li⁺ transport and stable high-voltage kinetics, delivering 201 mAh g⁻¹ at 20C and 486 Wh kg⁻¹ in pouch cells. It offers a polymorph-upgrading strategy for high-value cathode recovery.&lt;br&gt;🏷 LiCoO2 recycling · O2-type cathode · polymorph upcycling · fast Li kinetics · high-voltage stability</description>
-<category>LiCoO2 recycling</category>
-<category>O2-type cathode</category>
-<category>polymorph upcycling</category>
-<category>fast Li kinetics</category>
-<category>high-voltage stability</category>
-</item>
-<item>
-<title>Ligand-field reconstruction enables 4.7 V LiCoO 2 with suppressed chemomechanical degradation for high-energy batteries</title>
-<link>https://doi.org/10.1039/d6ee05635k</link>
-<guid isPermaLink="false">10.1039/d6ee05635k</guid>
-<pubDate>Tue, 24 Nov 2026 16:01:45 GMT</pubDate>
-<description>با جایگزینی فلوئور در توده LiCoO2 و بازسازی میدان لیگاند، پایداری زیرلایه اکسیژن بهبود یافته و چرخه‌پذیری در ولتاژ قطع 4.7 ولت با تخریب شیمیومکانیکی سرکوب‌شده حاصل می‌شود.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 Bulk fluorine incorporation reconstructs the ligand field of LiCoO₂, stabilizing the oxygen sublattice. This suppresses surface reconstruction and chemomechanical degradation, enabling exceptional cycling stability at a 4.7 V cutoff. The approach advances high-voltage, high-energy lithium batteries.&lt;br&gt;🏷 LiCoO2 · high-voltage cathode · fluorine doping · ligand-field reconstruction · chemomechanical degradation</description>
-<category>LiCoO2</category>
-<category>high-voltage cathode</category>
-<category>fluorine doping</category>
-<category>ligand-field reconstruction</category>
-<category>chemomechanical degradation</category>
-</item>
-<item>
-<title>Selenidation-Inducing Heterostructure with Superior Pseudocapacitive Kinetics for Durable Alkali-Ion Batteries</title>
-<link>https://doi.org/10.1039/d6ta08248c</link>
-<guid isPermaLink="false">10.1039/d6ta08248c</guid>
-<pubDate>Tue, 24 Nov 2026 14:01:43 GMT</pubDate>
-<description>ساخت ناهم‌ساختار با سلنیداسیون، سینتیک شبه‌خازنی برتر و پایداری چرخه‌ای باتری‌های یون قلیایی را بهبود می‌بخشد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a selenidation-induced heterostructure that enables superior pseudocapacitive kinetics, addressing sluggish charge storage and poor rate capability in alkali-ion batteries. Its significance is durable, high-rate performance, offering a viable route to overcome capacity fading and advance practical alkali-ion battery deployment for electric vehicles and portable electronics.&lt;br&gt;🏷 heterostructure · selenidation · pseudocapacitive kinetics · alkali-ion battery · anode material</description>
-<category>heterostructure</category>
-<category>selenidation</category>
-<category>pseudocapacitive kinetics</category>
-<category>alkali-ion battery</category>
-<category>anode material</category>
-</item>
-<item>
-<title>Role of the deposition conditions in determining the Li incorporation in Li x Mn 2 O 4-δ epitaxial thin films and their structural, chemical and vibrational properties</title>
-<link>https://doi.org/10.1039/d6ta05448j</link>
-<guid isPermaLink="false">10.1039/d6ta05448j</guid>
-<pubDate>Tue, 24 Nov 2026 14:01:37 GMT</pubDate>
-<description>نقش شرایط لایه‌نشانی در میزان جایگیری Li و خواص ساختاری، شیمیایی و ارتعاشی لایه‌های نازک اپیتاکسیال LixMn2O4-δ بررسی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in systematically linking deposition conditions to Li incorporation in LiₓMn₂O₄₋δ epitaxial thin films, revealing how stoichiometry and defects tune structure, chemistry, and vibrational properties. Significance: this enables rational growth of model LMO cathodes, clarifying fundamental Li–Mn–O behavior and guiding optimization of Li-ion battery performance beyond bulk limitations.&lt;br&gt;🏷 LiMn2O4 thin films · epitaxial growth · Li incorporation · deposition conditions · cathode material</description>
-<category>LiMn2O4 thin films</category>
-<category>epitaxial growth</category>
-<category>Li incorporation</category>
-<category>deposition conditions</category>
-<category>cathode material</category>
 </item>
 </channel>
 </rss>
