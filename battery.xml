@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 06:00:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 07:03:50 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Valorization of natural minerals into quenched SiO₂ anodes for durable high-capacity lithium storage</title>
+<link>https://doi.org/10.1039/d6ta04597a</link>
+<guid isPermaLink="false">10.1039/d6ta04597a</guid>
+<pubDate>Thu, 26 Nov 2026 07:01:32 GMT</pubDate>
+<description>تبدیل مواد معدنی طبیعی به آندهای SiO2 کوئنچ‌شده، رسانایی و فعالیت الکتروشیمیایی را بهبود می‌دهد و ذخیره‌سازی لیتیوم با ظرفیت بالا و پایدار را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in valorizing natural minerals into quenched SiO₂ anodes, using rapid quenching to create defective, metastable structures that overcome SiO₂&amp;#x27;s poor conductivity and lithiation inertness. This enables durable high-capacity lithium storage from cheap, abundant natural precursors, offering a scalable, sustainable route to high-performance battery anodes and turning low-value minerals into valuable energy materials.&lt;br&gt;🏷 SiO2 anode · lithium-ion battery · quenching · natural minerals · high-capacity</description>
+<category>SiO2 anode</category>
+<category>lithium-ion battery</category>
+<category>quenching</category>
+<category>natural minerals</category>
+<category>high-capacity</category>
+</item>
 <item>
 <title>Electrochemically accessible surface area in biomass-derived porous carbons for developing pore–electrolyte matching energy storage materials</title>
 <link>https://doi.org/10.1016/j.est.2026.125925</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>pitch precursor</category>
 <category>Friedel-Crafts acylation</category>
 <category>pore architecture</category>
-</item>
-<item>
-<title>Expansion‑Pressure‑Based Early Detection and Relative Severity Assessment of Lithium Plating in Prismatic LiFePO 4 /Graphite Batteries</title>
-<link>https://doi.org/10.1002/smll.76782</link>
-<guid isPermaLink="false">10.1002/smll.76782</guid>
-<pubDate>Tue, 24 Nov 2026 21:02:08 GMT</pubDate>
-<description>پایش فشار انبساط و شاخص dP/dQ برای تشخیص زودهنگام و ارزیابی شدت نسبی لیتیوم‌پلیتینگ در باتری‌های منشوری LiFePO4/graphite در شارژ کم‌دما و پرجریان ارائه می‌شود.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using expansion pressure and a differential dP/dQ metric to detect lithium plating onset in prismatic LiFePO4/graphite cells, with a temperature-compensated threshold and five pressure-curve features for relative severity assessment. Its significance is enabling non-invasive, early plating detection and timely intervention before irreversible capacity loss, beyond insensitive voltage monitoring.&lt;br&gt;🏷 lithium plating · LiFePO4/graphite · expansion pressure · prismatic cell · early detection</description>
-<category>lithium plating</category>
-<category>LiFePO4/graphite</category>
-<category>expansion pressure</category>
-<category>prismatic cell</category>
-<category>early detection</category>
 </item>
 </channel>
 </rss>
