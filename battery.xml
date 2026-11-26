@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 03:03:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 04:02:55 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spike Sintering Tailored to Scrap Black Mass with a Low‐Defect Crystal Structure for Direct Single‐Crystal Upcycling of Layered Cathode Materials</title>
+<link>https://doi.org/10.1002/advs.78902</link>
+<guid isPermaLink="false">10.1002/advs.78902</guid>
+<pubDate>Thu, 26 Nov 2026 04:02:23 GMT</pubDate>
+<description>سینتر جرقه‌ای با نگه‌داشت ایزوترمال تنها ۱ دقیقه، black mass باتری را به کاتد تک‌کریستالی NCM تبدیل می‌کند و پایداری چرخه‌ای را در سلول کامل بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Spike sintering (1 min at 1040°C) directly upcycles scrap black mass into grain-boundary-free single-crystal NCM523 cathodes, exploiting the feedstock&amp;#x27;s largely intact lattice. This cuts furnace time from 486 to 205 min, eliminates 99.7% of isothermal hold, and doubles fracture strength, yielding 76.9% capacity retention after 350 cycles at 4.5 V/45°C versus 51.5% for commercial polycrystalline NCM523.&lt;br&gt;🏷 direct upcycling · single-crystal NCM · spike sintering · scrap black mass · layered cathode</description>
+<category>direct upcycling</category>
+<category>single-crystal NCM</category>
+<category>spike sintering</category>
+<category>scrap black mass</category>
+<category>layered cathode</category>
+</item>
 <item>
 <title>Cross-Linked Halide Networks for Lithium Superionic Conduction</title>
 <link>https://doi.org/10.1021/jacs.6c10351</link>
@@ -1197,18 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>self-assembly</category>
 <category>lithium storage</category>
 <category>anode</category>
-</item>
-<item>
-<title>Interfacial Electronic‐Structural Coupling Suppresses Jahn‐Teller Instability in NASICON Cathode Casting Long Cycling Life</title>
-<link>https://doi.org/10.1002/adma.75835</link>
-<guid isPermaLink="false">10.1002/adma.75835</guid>
-<pubDate>Tue, 24 Nov 2026 16:02:46 GMT</pubDate>
-<description>هتروساختار Na4VMn(PO4)3/NaFePO4 با کوپلاژ الکترونی-ساختاری بین‌سطحی، ناپایداری Jahn-Teller ناشی از Mn3+ را سرکوب کرده و پایداری چرخه‌ای گسترده دمایی را در کاتد سدیم‌یونی فراهم می‌کند.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in constructing a mosaic-like NVMP/NFP heterostructure that uses interfacial electronic-structural coupling to suppress Mn³⁺-induced Jahn-Teller instability, strengthening Mn─O bonds and disrupting local distortion correlation. It also reconstructs multidimensional Na⁺ pathways. Significance: this interfacial engineering strategy decouples electronic instability from structural degradation, enabling exceptional wide-temperature cycling stability and offering a general route to stabilize Jahn-Teller-active cathodes.&lt;br&gt;🏷 NASICON cathode · sodium-ion battery · Jahn-Teller distortion · heterointerface · cycling stability</description>
-<category>NASICON cathode</category>
-<category>sodium-ion battery</category>
-<category>Jahn-Teller distortion</category>
-<category>heterointerface</category>
-<category>cycling stability</category>
 </item>
 </channel>
 </rss>
