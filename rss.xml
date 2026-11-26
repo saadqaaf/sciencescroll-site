@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 00:01:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 01:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A novel strategy for inhibiting water freezing within cement matrix to enhance the frost resistance using micro-hydrogels</title>
+<link>https://doi.org/10.1007/s42114-026-02199-3</link>
+<guid isPermaLink="false">10.1007/s42114-026-02199-3</guid>
+<pubDate>Thu, 26 Nov 2026 01:01:06 GMT</pubDate>
+<description>استفاده از میکرو-هیدروژل‌ها در ماتریس سیمان برای مهار انجماد آب و افزایش مقاومت در برابر یخ‌زدگی به‌عنوان راهبردی نوین ارائه شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 micro-hydrogel · cement matrix · frost resistance · ice crystallization · freezing inhibition</description>
+<category>micro-hydrogel</category>
+<category>cement matrix</category>
+<category>frost resistance</category>
+<category>ice crystallization</category>
+<category>freezing inhibition</category>
+</item>
+<item>
+<title>Gradient (Zr, Hf)C matrix modification and (Zr, Hf)B₂–SiC coating on C/C composites for ablation and thermal shock resistance</title>
+<link>https://doi.org/10.1007/s42114-026-02191-x</link>
+<guid isPermaLink="false">10.1007/s42114-026-02191-x</guid>
+<pubDate>Thu, 26 Nov 2026 01:01:03 GMT</pubDate>
+<description>پوشش (Zr, Hf)B₂–SiC و اصلاح گرادیانی زمینه (Zr, Hf)C روی کامپوزیت‌های C/C برای بهبود مقاومت به سایش و شوک حرارتی بررسی شد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 C/C composites · ultra-high temperature ceramics · (Zr,Hf)C-SiC coating · ablation resistance · thermal shock</description>
+<category>C/C composites</category>
+<category>ultra-high temperature ceramics</category>
+<category>(Zr,Hf)C-SiC coating</category>
+<category>ablation resistance</category>
+<category>thermal shock</category>
+</item>
 <item>
 <title>Nanoquenchers for Fluorescence Sensing: Coordination and Interface Engineering towards Decentralized Monitoring</title>
 <link>https://doi.org/10.1016/j.ccr.2026.218812</link>
@@ -1182,30 +1206,6 @@
 <category>water splitting</category>
 <category>design principles</category>
 <category>material classification</category>
-</item>
-<item>
-<title>LiO2 Thermodynamics as a Unified Descriptor for the Bifunctional Activity of Dual-Atom Catalysts in Aprotic Lithium-Oxygen Batteries</title>
-<link>https://doi.org/10.1039/d6ta07931h</link>
-<guid isPermaLink="false">10.1039/d6ta07931h</guid>
-<pubDate>Wed, 25 Nov 2026 10:01:42 GMT</pubDate>
-<description>ترمودینامیک LiO2 به‌عنوان توصیفگر یکپارچه برای فعالیت دوفعالیتی کاتالیزورهای دواتمی در باتری‌های آپروتیک Li-O2 معرفی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using LiO2 thermodynamics as a single unified descriptor linking ORR and OER bifunctional activity for dual-atom catalysts in aprotic Li-O2 batteries. Its significance is enabling predictive, rational catalyst design by replacing separate reaction descriptors, thereby accelerating development of efficient bifunctional cathodes.&lt;br&gt;🏷 Li-O2 battery · dual-atom catalysts · LiO2 thermodynamics · bifunctional activity · ORR/OER</description>
-<category>Li-O2 battery</category>
-<category>dual-atom catalysts</category>
-<category>LiO2 thermodynamics</category>
-<category>bifunctional activity</category>
-<category>ORR/OER</category>
-</item>
-<item>
-<title>Machine Learning-Accelerated Development of Li-Rich Layered Oxides with High-Rate Performance</title>
-<link>https://doi.org/10.1039/d6ta07667j</link>
-<guid isPermaLink="false">10.1039/d6ta07667j</guid>
-<pubDate>Wed, 25 Nov 2026 10:01:36 GMT</pubDate>
-<description>با استفاده از یادگیری ماشین، توسعه اکسیدهای لایه‌ای غنی از لیتیوم با عملکرد نرخ بالا برای کاتد باتری‌های لیتیوم-یونی تسریع می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning to accelerate the discovery of Li-rich layered oxides with improved rate performance, addressing a key limitation of these high-capacity cathodes. Its significance is enabling faster design of next-generation high-energy-density lithium-ion battery materials, potentially overcoming the trade-off between capacity and rate capability.&lt;br&gt;🏷 Li-rich layered oxides · cathode · machine learning · rate capability · lithium-ion battery</description>
-<category>Li-rich layered oxides</category>
-<category>cathode</category>
-<category>machine learning</category>
-<category>rate capability</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
