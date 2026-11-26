@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 19:01:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 20:01:44 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Carbon Nanosheets‐Supported Asymmetric Co‐B 1 N 3 for High‐Rate Potassium Ion Batteries</title>
+<link>https://doi.org/10.1002/cey2.70418</link>
+<guid isPermaLink="false">10.1002/cey2.70418</guid>
+<pubDate>Thu, 26 Nov 2026 20:01:29 GMT</pubDate>
+<description>آند نانوصفحه کربنی حاوی ساختار نامتقارن Co-B1N3 ساخته شد که با افزایش جذب K+ و تشکیل SEI غنی از مواد معدنی، ظرفیت و پایداری چرخه باتری یون پتاسیم را بهبود می‌دهد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in synthesizing carbon nanosheet-supported asymmetric Co-B1N3 from coal tar pitch via electrostatic adsorption and heteroatom capture. This asymmetric coordination enhances K+ adsorption, lowers diffusion resistance, and promotes inorganic-rich SEI formation, yielding high capacity (356.6 mAh g−1), excellent rate capability (141.9 mAh g−1 at 5 A g−1), and 84.5% retention after 1200 cycles, offering a strategy for high-performance potassium-ion battery anodes.&lt;br&gt;🏷 potassium-ion battery · single-atom cobalt · asymmetric coordination · carbon nanosheets · anode</description>
+<category>potassium-ion battery</category>
+<category>single-atom cobalt</category>
+<category>asymmetric coordination</category>
+<category>carbon nanosheets</category>
+<category>anode</category>
+</item>
+<item>
+<title>Spin‐State Engineering via Asymmetric Defects for High‐Energy‐Efficiency Li–S Batteries: Unlocking Fast Sulfur Redox Through d‐p‐p Orbital Hybridization</title>
+<link>https://doi.org/10.1002/cey2.70360</link>
+<guid isPermaLink="false">10.1002/cey2.70360</guid>
+<pubDate>Thu, 26 Nov 2026 20:01:23 GMT</pubDate>
+<description>با تثبیت جای خالی گوگرد به‌وسیله دوپینگ فسفر در FeS، حالت اسپین میانی آهن از طریق هیبریداسیون اوربیتالی d-p-p تنظیم شده و بازده انرژی و عمر چرخه Li-S بهبود می‌یابد.&lt;br&gt;Carbon Energy | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a &amp;quot;heteroatom-pinning&amp;quot; strategy that stabilizes sulfur vacancies via phosphorus doping, creating asymmetric Vs–P motifs that tune Fe spin states through d-p-p orbital hybridization. This spin engineering enables fast sulfur redox, yielding exceptional durability (0.030% decay/cycle, 86.6% efficiency over 1986 cycles) and rate performance, establishing spin configuration as a key activity descriptor for rational Li–S battery design.&lt;br&gt;🏷 lithium-sulfur battery · spin-state engineering · sulfur vacancy · orbital hybridization · polysulfide conversion</description>
+<category>lithium-sulfur battery</category>
+<category>spin-state engineering</category>
+<category>sulfur vacancy</category>
+<category>orbital hybridization</category>
+<category>polysulfide conversion</category>
+</item>
 <item>
 <title>Bi–Sn composites on lignin-derived N,S-codoped carbon for high-rate and durable sodium storage</title>
 <link>https://doi.org/10.1039/d6ta07980f</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>ionic engineering</category>
 <category>polysulfide shuttle</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Four-Dimensional Scanning Transmission Electron Microscopy Nanoscale Phase Mapping of the Lithium-Metal Surface Passivation Layer</title>
-<link>https://doi.org/10.1021/acsnano.6c11761</link>
-<guid isPermaLink="false">10.1021/acsnano.6c11761</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:49 GMT</pubDate>
-<description>با ترکیب 4D-STEM و یادگیری ماشین بدون نظارت، نقشه‌برداری فازی نانومقیاس لایه پسیواسیون سطح لیتیم فلزی انجام شد و Li2O و LiOH به‌عنوان فازهای بلوری غالب شناسایی شدند.&lt;br&gt;ACS Nano | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a 4D-STEM workflow combining dimensionality reduction and unsupervised machine learning for real-space clustering, boosting signal-to-noise in beam-sensitive samples, plus automated Bragg reflection analysis. Its significance: enabling nanoscale phase mapping of large fields at nanometer resolution, revealing lithium oxide and lithium hydroxide as dominant crystalline phases in the lithium-metal passivation layer—advancing characterization of beam-sensitive energy materials.&lt;br&gt;🏷 4D-STEM · lithium metal anode · solid electrolyte interphase · phase mapping · unsupervised machine learning</description>
-<category>4D-STEM</category>
-<category>lithium metal anode</category>
-<category>solid electrolyte interphase</category>
-<category>phase mapping</category>
-<category>unsupervised machine learning</category>
-</item>
-<item>
-<title>A Novel Metal‐Hydrogen‐Bonded Organic Framework (M‐HOF) Cathode Material for High‐Performance Lithium–Sulfur Batteries</title>
-<link>https://doi.org/10.1002/anie.1182005</link>
-<guid isPermaLink="false">10.1002/anie.1182005</guid>
-<pubDate>Wed, 25 Nov 2026 06:03:36 GMT</pubDate>
-<description>کاتد HOF-21/CNT@S با شبکه پیوند هیدروژنی و مراکز Cu، شاتلینگ پلی‌سولفید را مهار کرده و باتری لیتیوم-گوگرد با پایداری چرخه‌ای و عملکرد دمای پایین بالا ارائه می‌دهد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a metal-containing hydrogen-bonded organic framework (HOF-21) cathode integrating Cu coordination sites with hydrogen-bonding networks. This synergistically anchors polysulfides and catalyzes sulfur conversion. Significance: the HOF-21/CNT@S cathode achieves ultralow capacity decay (0.06%/cycle over 500 cycles) and excellent low-temperature performance (−10°C and −20°C), offering a promising design strategy for high-energy-density Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · hydrogen-bonded organic framework · polysulfide anchoring · Cu coordination · low-temperature cycling</description>
-<category>lithium-sulfur battery</category>
-<category>hydrogen-bonded organic framework</category>
-<category>polysulfide anchoring</category>
-<category>Cu coordination</category>
-<category>low-temperature cycling</category>
 </item>
 </channel>
 </rss>
