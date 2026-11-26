@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Thu, 26 Nov 2026 17:01:33 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:01:20 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Large-scale quantitative assessment of tissue preparation and staining conditions for robust multiplexed imaging of FFPE tissue samples</title>
+<link>https://doi.org/10.1038/s41592-026-03317-1</link>
+<guid isPermaLink="false">10.1038/s41592-026-03317-1</guid>
+<pubDate>Thu, 26 Nov 2026 18:01:15 GMT</pubDate>
+<description>ارزیابی کمی در مقیاس بزرگ شرایط آماده‌سازی و رنگ‌آمیزی بافت FFPE برای تصویربرداری چندگانهٔ پایدار انجام شده است.&lt;br&gt;Nature Methods | 🔬 Research Article&lt;br&gt;🏷 FFPE tissue · multiplexed imaging · tissue staining · tissue preparation · quantitative assessment</description>
+<category>FFPE tissue</category>
+<category>multiplexed imaging</category>
+<category>tissue staining</category>
+<category>tissue preparation</category>
+<category>quantitative assessment</category>
+</item>
+<item>
+<title>Mitigating preferred orientation in cryo-EM with ultrasonic excitation during vitrification</title>
+<link>https://doi.org/10.1038/s41592-026-03382-6</link>
+<guid isPermaLink="false">10.1038/s41592-026-03382-6</guid>
+<pubDate>Thu, 26 Nov 2026 18:01:12 GMT</pubDate>
+<description>اعمال امواج فراصوت در حین ویتریفیکاسیون، جهت‌گیری ترجیحی پروتئین‌ها در cryo-EM را با شل کردن آن‌ها از سطح مشترک آب-هوا کاهش می‌دهد.&lt;br&gt;Nature Methods | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 cryo-EM · preferred orientation · ultrasonic excitation · vitrification · protein structure</description>
+<category>cryo-EM</category>
+<category>preferred orientation</category>
+<category>ultrasonic excitation</category>
+<category>vitrification</category>
+<category>protein structure</category>
+</item>
+<item>
+<title>Tunable diffusive memristor arrays for neuromorphic temporal computing</title>
+<link>https://doi.org/10.1038/s41563-026-02815-z</link>
+<guid isPermaLink="false">10.1038/s41563-026-02815-z</guid>
+<pubDate>Thu, 26 Nov 2026 18:01:09 GMT</pubDate>
+<description>آرایه‌های memristor نفوذی قابل تنظیم برای محاسبات زمانی نورومورفیک ارائه شده که دینامیک زمانی قابل کنترل را ممکن می‌سازد.&lt;br&gt;Nature Materials | 🔬 Research Article&lt;br&gt;🏷 diffusive memristor · neuromorphic computing · temporal computing · memristor array · tunable dynamics</description>
+<category>diffusive memristor</category>
+<category>neuromorphic computing</category>
+<category>temporal computing</category>
+<category>memristor array</category>
+<category>tunable dynamics</category>
+</item>
 <item>
 <title>Luminescence thermometry at the microscale and nanoscale</title>
 <link>https://doi.org/10.1038/s43586-026-00540-0</link>
@@ -1170,42 +1206,6 @@
 <category>oxidative cleavage</category>
 <category>pilot-scale synthesis</category>
 <category>scalable production</category>
-</item>
-<item>
-<title>Mechanistic insights into intracellular phase separation and maturation of FUS LC revealed by in-cell NMR</title>
-<link>https://doi.org/10.1038/s41467-026-79476-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79476-8</guid>
-<pubDate>Thu, 26 Nov 2026 13:05:52 GMT</pubDate>
-<description>NMR درون‌سلولی نشان می‌دهد دامنه FUS LC در دو مرحله تشکیل قطره و بلوغ condensate می‌دهد و ناحیه RAC و فعالیت‌های وابسته به ATP در این فرآیند نقش دارند.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 FUS LC · phase separation · in-cell NMR · biomolecular condensates · amyloid core</description>
-<category>FUS LC</category>
-<category>phase separation</category>
-<category>in-cell NMR</category>
-<category>biomolecular condensates</category>
-<category>amyloid core</category>
-</item>
-<item>
-<title>Carbon-neutral algal bloom management via algal organic matter repurposing</title>
-<link>https://doi.org/10.1038/s41467-026-79713-0</link>
-<guid isPermaLink="false">10.1038/s41467-026-79713-0</guid>
-<pubDate>Thu, 26 Nov 2026 13:05:48 GMT</pubDate>
-<description>بازتعریف AOM به‌عنوان اتصال‌دهنده و راهبرد شناورسازی خودبه‌خودی، حذف کارآمد جلبک‌ها را با کاهش چشمگیر ردپای کربن و هزینه ممکن می‌سازد.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 algal organic matter · self-driven flotation · algal bloom · carbon-neutral · DFT</description>
-<category>algal organic matter</category>
-<category>self-driven flotation</category>
-<category>algal bloom</category>
-<category>carbon-neutral</category>
-<category>DFT</category>
-</item>
-<item>
-<title>A wearable reconfigurable surface electrode network for spatiotemporal control of hand motor output</title>
-<link>https://doi.org/10.1038/s41467-026-79646-8</link>
-<guid isPermaLink="false">10.1038/s41467-026-79646-8</guid>
-<pubDate>Thu, 26 Nov 2026 13:05:45 GMT</pubDate>
-<description>یک شبکه الکترود سطحی پوشیدنی و قابل بازآرایی برای کنترل فضایی-زمانی حرکات دست از طریق تحریک الکتریکی عصبی-عضلانی ارائه و ارزیابی می‌شود.&lt;br&gt;Nature Communications | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 surface electrode network · electrical stimulation · hand motor control · wearable device · reconfigurable routing</description>
-<category>surface electrode network</category>
-<category>electrical stimulation</category>
-<category>hand motor control</category>
-<category>wearable device</category>
-<category>reconfigurable routing</category>
 </item>
 </channel>
 </rss>
