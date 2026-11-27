@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 06:01:14 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 07:02:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Geminal Dimethyl Lock in a Hydrogel Electrolyte Decouples Solvation from Deposition for Durable Zn–V Batteries and Self-Powered Sensing</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105690</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105690</guid>
+<pubDate>Fri, 27 Nov 2026 07:02:00 GMT</pubDate>
+<description>الکترولیت هیدروژلی با قفل ژمینال دی‌متیل، حل‌پذیری را از رسوب‌گذاری روی جدا کرده و باتری Zn-V پایدار و حسگر خودتوان را ممکن می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 Zn-V battery · hydrogel electrolyte · geminal dimethyl lock · solvation structure · zinc deposition</description>
+<category>Zn-V battery</category>
+<category>hydrogel electrolyte</category>
+<category>geminal dimethyl lock</category>
+<category>solvation structure</category>
+<category>zinc deposition</category>
+</item>
+<item>
+<title>Impact-Resistant and Flame-Retardant Ionogels with Wide-Temperature Stability for Flexible Energy Storage</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105692</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105692</guid>
+<pubDate>Fri, 27 Nov 2026 07:01:56 GMT</pubDate>
+<description>آیونوژل‌های مقاوم به ضربه و کندسوز با پایداری دمایی گسترده برای ذخیره‌سازی انرژی انعطاف‌پذیر توسعه می‌یابند.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 ionogel · flexible energy storage · flame retardancy · impact resistance · wide-temperature stability</description>
+<category>ionogel</category>
+<category>flexible energy storage</category>
+<category>flame retardancy</category>
+<category>impact resistance</category>
+<category>wide-temperature stability</category>
+</item>
+<item>
+<title>Chemical Prelithiation-Induced Robust NaF/LiF Hybrid SEI for Durable Anode-Free Sodium Batteries</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105687</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105687</guid>
+<pubDate>Fri, 27 Nov 2026 07:01:52 GMT</pubDate>
+<description>پیش‌لیتیاسیون شیمیایی یک SEI هیبریدی NaF/LiF پایدار ایجاد می‌کند و باتری‌های سدیمی بدون آند را بادوام می‌سازد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 anode-free sodium battery · prelithiation · hybrid SEI · NaF/LiF · cycling stability</description>
+<category>anode-free sodium battery</category>
+<category>prelithiation</category>
+<category>hybrid SEI</category>
+<category>NaF/LiF</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Covalent–Ionic Bonding Regulation Enables Chemo‐Mechanical Stabilization of High‐Voltage O3‐Type Sodium Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1002/adma.75884</link>
@@ -1173,42 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>Li+ desolvation</category>
 <category>Lewis basic sites</category>
 <category>lithium-sulfur battery</category>
-</item>
-<item>
-<title>Binder effects on the multifunctional performance of structural battery positive electrodes</title>
-<link>https://doi.org/10.1007/s42114-026-02195-7</link>
-<guid isPermaLink="false">10.1007/s42114-026-02195-7</guid>
-<pubDate>Wed, 25 Nov 2026 14:01:44 GMT</pubDate>
-<description>افزودن بایندرهای HEC و PAA به پوشش کاتدی الکترودهای ساختاری، استحکام برشی را بیش از دو برابر کرده و ظرفیت ویژه تا ۱۴۸ mAh g−1 را بهبود می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using electrophoretic deposition with HEC and PAA binders to strengthen cathode coatings on carbon fibres, addressing cracking and debonding in structural battery positive electrodes. Significance: binders more than double shear strength, and binder chemistry critically governs the trade-off between mechanical strength, electronic connectivity, and ionic transport, offering a design strategy for multifunctional structural battery electrodes.&lt;br&gt;🏷 structural battery · polymer binder · carbon fibre electrode · electrophoretic deposition · cathode coating</description>
-<category>structural battery</category>
-<category>polymer binder</category>
-<category>carbon fibre electrode</category>
-<category>electrophoretic deposition</category>
-<category>cathode coating</category>
-</item>
-<item>
-<title>Ion‐Pair Mediation Enables Low‐Viscosity, Nonflammable Ternary Hybrid Electrolytes for High‐Voltage Aqueous Zinc Metal Batteries</title>
-<link>https://doi.org/10.1002/aenm.71871</link>
-<guid isPermaLink="false">10.1002/aenm.71871</guid>
-<pubDate>Wed, 25 Nov 2026 13:01:48 GMT</pubDate>
-<description>الکترولیت هیبریدی سهجزئی با مایع یونی EMT پنجره الکتروشیمیایی را به ۲٫۷۶ ولت گسترش داده و با SEI غنی از فلوراید، عمر و پایداری بالای Zn//MnO2 را ممکن میکند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a ternary hybrid electrolyte combining Zn(OTf)₂/LiOTf dual salts with 5 vol.% EMIMTFSI ionic liquid, where ion pairs rebuild the hydrogen-bond network to lower viscosity and widen the electrochemical window to 2.76 V. Significance: this enables a fluoride-rich SEI with a dynamic cationic shield, yielding 3215 h Zn//Zn cycling and high-voltage, long-life AZMBs.&lt;br&gt;🏷 aqueous zinc battery · ternary hybrid electrolyte · ionic liquid · SEI bilayer · high voltage</description>
-<category>aqueous zinc battery</category>
-<category>ternary hybrid electrolyte</category>
-<category>ionic liquid</category>
-<category>SEI bilayer</category>
-<category>high voltage</category>
-</item>
-<item>
-<title>Ion‐Pair Decoupler Tunes Solvation Chemistry for Room‐Temperature Polymer Electrolytes With Built‐In Flame Retardancy</title>
-<link>https://doi.org/10.1002/aenm.71851</link>
-<guid isPermaLink="false">10.1002/aenm.71851</guid>
-<pubDate>Wed, 25 Nov 2026 13:01:43 GMT</pubDate>
-<description>با جداسازی جفت یون توسط دیاتیل فسفرآمیدات، رسانایی یونی الکترولیت پلیمری در دمای اتاق ۲۴٫۶ برابر شده و خواص ضدشعله ذاتی نیز فراهم میشود.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using diethyl phosphoramidate as an ion-pair decoupler that reshapes Li+ solvation chemistry in polymer electrolytes, boosting room-temperature conductivity 24.6-fold. Significance: this single-molecule design simultaneously enables fast ionic conduction, stable cycling (850 h; 96.5% retention after 400 cycles), and intrinsic flame retardancy, establishing solvation-chemistry tuning as a new paradigm for safe room-temperature solid polymer electrolytes.&lt;br&gt;🏷 polymer electrolyte · ion-pair decoupling · solvation chemistry · flame retardancy · lithium metal battery</description>
-<category>polymer electrolyte</category>
-<category>ion-pair decoupling</category>
-<category>solvation chemistry</category>
-<category>flame retardancy</category>
-<category>lithium metal battery</category>
 </item>
 </channel>
 </rss>
