@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 22:01:06 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 23:03:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Site-Selective Fluorination of Cyclic Ketals for Weakly Competing Solvation and Interfacial Electronic Response: A Theoretical Study</title>
+<link>https://doi.org/10.1039/d6ta07727g</link>
+<guid isPermaLink="false">10.1039/d6ta07727g</guid>
+<pubDate>Fri, 27 Nov 2026 23:01:36 GMT</pubDate>
+<description>این مطالعه نظری با فلوئوردارسازی انتخابی کتال‌های حلقوی، الکترولیتی با پایداری اکسیدی و پاسخ الکترونیکی بین‌سطحی متعادل برای باتری‌های لیتیوم-فلز طراحی می‌کند.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using site-selective fluorination of cyclic ketals to tune weakly competing solvation and interfacial electronic response in a single electrolyte platform. Its significance is providing a theoretical framework to decouple and balance oxidative stability, Li+ solvation, ion transport, and interfacial reactivity, guiding rational electrolyte design for lithium metal batteries.&lt;br&gt;🏷 fluorinated ketals · electrolyte design · Li+ solvation · oxidative stability · DFT calculations</description>
+<category>fluorinated ketals</category>
+<category>electrolyte design</category>
+<category>Li+ solvation</category>
+<category>oxidative stability</category>
+<category>DFT calculations</category>
+</item>
 <item>
 <title>Toward Robust Artificial Solid Electrolyte Interfaces for Solid-State Lithium and Sodium Metal Batteries: Mechanisms, Descriptors, and Design Principles</title>
 <link>https://doi.org/10.1016/j.nanoen.2026.112634</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>surface modification</category>
 <category>interfacial instability</category>
 <category>cathode</category>
-</item>
-<item>
-<title>Influence of material extrusion additive manufacturing on the microstructural anisotropy and electrolyte permeability of ceramic LiCoO2 cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125936</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125936</guid>
-<pubDate>Thu, 26 Nov 2026 05:02:59 GMT</pubDate>
-<description>تأثیر ساخت افزودنی اکستروژن مواد بر ناهمسانگردی ریزساختاری و نفوذپذیری الکترولیت کاتدهای سرامیکی LiCoO2 بررسی می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 LiCoO2 cathode · material extrusion · microstructural anisotropy · electrolyte permeability · additive manufacturing</description>
-<category>LiCoO2 cathode</category>
-<category>material extrusion</category>
-<category>microstructural anisotropy</category>
-<category>electrolyte permeability</category>
-<category>additive manufacturing</category>
 </item>
 </channel>
 </rss>
