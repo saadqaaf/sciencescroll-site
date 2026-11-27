@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 18:03:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 19:02:35 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Toward Robust Artificial Solid Electrolyte Interfaces for Solid-State Lithium and Sodium Metal Batteries: Mechanisms, Descriptors, and Design Principles</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112634</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112634</guid>
+<pubDate>Fri, 27 Nov 2026 19:01:35 GMT</pubDate>
+<description>این مرور مکانیسم‌ها، توصیف‌گرها و اصول طراحی لایه‌های مصنوعی الکترولیت جامد را برای باتری‌های فلزی لیتیوم و سدیم حالت جامد بررسی می‌کند.&lt;br&gt;Nano Energy | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 artificial SEI · solid-state battery · lithium metal · sodium metal · interface design</description>
+<category>artificial SEI</category>
+<category>solid-state battery</category>
+<category>lithium metal</category>
+<category>sodium metal</category>
+<category>interface design</category>
+</item>
+<item>
+<title>Heteroatoms Diffusion Rules: Revealing Elements Interdiffusion with Homogeneity Nexus for Upcycling Spent NCM</title>
+<link>https://doi.org/10.1016/j.nanoen.2026.112669</link>
+<guid isPermaLink="false">10.1016/j.nanoen.2026.112669</guid>
+<pubDate>Fri, 27 Nov 2026 19:01:31 GMT</pubDate>
+<description>این مقاله قواعد نفوذ هترواتم‌ها را برای همگن‌سازی و بازیافت کارآمد کاتدهای NCM مستعمل بررسی می‌کند.&lt;br&gt;Nano Energy | 🔬 Research Article&lt;br&gt;🏷 spent NCM · heteroatom diffusion · upcycling · interdiffusion · homogeneity</description>
+<category>spent NCM</category>
+<category>heteroatom diffusion</category>
+<category>upcycling</category>
+<category>interdiffusion</category>
+<category>homogeneity</category>
+</item>
 <item>
 <title>An Amorphous Phosphate-Based Chloride Electrolyte for Low-Stacking-Pressure All-Solid-State Sodium Batteries</title>
 <link>https://doi.org/10.1021/acsenergylett.6c03064</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>microstructural anisotropy</category>
 <category>electrolyte permeability</category>
 <category>additive manufacturing</category>
-</item>
-<item>
-<title>Modulating charge transfer and structural stability via oxygen vacancy construction in electrospun single-crystal porous Li-rich Mn-based oxides</title>
-<link>https://doi.org/10.1016/j.est.2026.125933</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125933</guid>
-<pubDate>Thu, 26 Nov 2026 05:02:46 GMT</pubDate>
-<description>ساخت جای خالی اکسیژن در اکسیدهای غنی از لیتیم و منگنز تک‌کریستالی متخلخل الکتروریسی‌شده، انتقال بار و پایداری ساختاری را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Li-rich Mn-based oxide · oxygen vacancy · single-crystal porous · electrospinning · structural stability</description>
-<category>Li-rich Mn-based oxide</category>
-<category>oxygen vacancy</category>
-<category>single-crystal porous</category>
-<category>electrospinning</category>
-<category>structural stability</category>
-</item>
-<item>
-<title>Hybrid electric-thermal model with data-driven residual correction for lithium-ion battery temperature estimation over the full life cycle</title>
-<link>https://doi.org/10.1016/j.est.2026.125410</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125410</guid>
-<pubDate>Thu, 26 Nov 2026 05:02:36 GMT</pubDate>
-<description>مدل ترکیبی الکتریکی-حرارتی با تصحیح باقیمانده داده‌محور برای تخمین دمای باتری لیتیوم-یونی در کل چرخه عمر ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 lithium-ion battery · temperature estimation · electro-thermal model · residual correction · full life cycle</description>
-<category>lithium-ion battery</category>
-<category>temperature estimation</category>
-<category>electro-thermal model</category>
-<category>residual correction</category>
-<category>full life cycle</category>
 </item>
 </channel>
 </rss>
