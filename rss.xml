@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 05:01:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 06:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A review: 10th anniversary of carbyne nanocrystal synthesis</title>
+<link>https://doi.org/10.1016/j.mattod.2026.103579</link>
+<guid isPermaLink="false">10.1016/j.mattod.2026.103579</guid>
+<pubDate>Fri, 27 Nov 2026 06:01:12 GMT</pubDate>
+<description>این مرور ده‌سالگی سنتز نانوکریستال کارباین را بررسی می‌کند و پیشرفت‌ها و چشم‌اندازهای این آلوتروپ خطی کربن را جمع‌بندی می‌نماید.&lt;br&gt;Materials Today | ⭐ Review&lt;br&gt;🏷 carbyne · nanocrystal synthesis · carbon allotrope · linear carbon chain · synthesis review</description>
+<category>carbyne</category>
+<category>nanocrystal synthesis</category>
+<category>carbon allotrope</category>
+<category>linear carbon chain</category>
+<category>synthesis review</category>
+</item>
+<item>
+<title>Intelligently controlled multi‐mode electrohydrodynamic printing manufacturing for flexible electronics</title>
+<link>https://doi.org/10.1002/inf2.70206</link>
+<guid isPermaLink="false">10.1002/inf2.70206</guid>
+<pubDate>Fri, 27 Nov 2026 06:01:09 GMT</pubDate>
+<description>این مقاله مبانی، حالت‌های چاپ EHD، راهبردهای کنترل هوشمند و کاربردهای آن را در الکترونیک انعطاف‌پذیر، نمایشگرها و حوزه زیست‌پزشکی مرور می‌کند.&lt;br&gt;InfoMat | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 electrohydrodynamic printing · flexible electronics · electrospinning · electrospray · intelligent control</description>
+<category>electrohydrodynamic printing</category>
+<category>flexible electronics</category>
+<category>electrospinning</category>
+<category>electrospray</category>
+<category>intelligent control</category>
+</item>
+<item>
+<title>Celastrol Alleviates IL‐17A Inflammatory Positive Feedback in Psoriasis by Targeting PFDN2</title>
+<link>https://doi.org/10.1002/exp2.70254</link>
+<guid isPermaLink="false">10.1002/exp2.70254</guid>
+<pubDate>Fri, 27 Nov 2026 06:01:05 GMT</pubDate>
+<description>سلستول با هدف‌گیری PFDN2 و تخریب S100A7، حلقه بازخورد مثبت IL-17A را در پسوریازیس مهار کرده و التهاب و ضایعات پوستی را کاهش می‌دهد.&lt;br&gt;Exploration | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 psoriasis · celastrol · PFDN2 · IL-17A · S100A7</description>
+<category>psoriasis</category>
+<category>celastrol</category>
+<category>PFDN2</category>
+<category>IL-17A</category>
+<category>S100A7</category>
+</item>
 <item>
 <title>Covalent–Ionic Bonding Regulation Enables Chemo‐Mechanical Stabilization of High‐Voltage O3‐Type Sodium Layered Oxide Cathodes</title>
 <link>https://doi.org/10.1002/adma.75884</link>
@@ -1170,42 +1206,6 @@
 <category>lattice disorder</category>
 <category>point defects</category>
 <category>strain mapping</category>
-</item>
-<item>
-<title>Reachability constrained soft actor-critic Lagrangian with dynamic penalty for safe and fast charging of lithium-ion battery</title>
-<link>https://doi.org/10.1016/j.est.2026.125900</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125900</guid>
-<pubDate>Thu, 26 Nov 2026 15:02:18 GMT</pubDate>
-<description>یک عامل یادگیری تقویتی soft actor-critic با جریمه پویا و محدودیت دسترس‌پذیری برای شارژ سریع و ایمن باتری لیتیم-یون ارائه می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 fast charging · soft actor-critic · safe charging · lithium-ion battery · reinforcement learning</description>
-<category>fast charging</category>
-<category>soft actor-critic</category>
-<category>safe charging</category>
-<category>lithium-ion battery</category>
-<category>reinforcement learning</category>
-</item>
-<item>
-<title>Surface functionalization of Mo4/3B2 MBene with an imine-based covalent organic framework for high-energy-density asymmetric supercapacitors with an extended operating window</title>
-<link>https://doi.org/10.1016/j.est.2026.125765</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125765</guid>
-<pubDate>Thu, 26 Nov 2026 15:02:13 GMT</pubDate>
-<description>سطح Mo4/3B2 MBene با چارچوب کووالانسی آمینی عامل‌دار شده و ابرخازن نامتقارن با چگالی انرژی بالا و پنجره عملیاتی گسترده ساخته می‌شود.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Mo4/3B2 MBene · covalent organic framework · asymmetric supercapacitor · surface functionalization · operating window</description>
-<category>Mo4/3B2 MBene</category>
-<category>covalent organic framework</category>
-<category>asymmetric supercapacitor</category>
-<category>surface functionalization</category>
-<category>operating window</category>
-</item>
-<item>
-<title>Content-dependent Ce regulation of local chemistry, bulk Na+ transport, and interfacial kinetics in P2-type Na0.67Mn0.5Ni0.2Co0.3O2 cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125922</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125922</guid>
-<pubDate>Thu, 26 Nov 2026 15:02:10 GMT</pubDate>
-<description>تنظیم وابسته به مقدار Ce در کاتد P2-Na0.67Mn0.5Ni0.2Co0.3O2 شیمی موضعی، انتقال Na+ و سینتیک بین‌سطحی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 P2-type cathode · sodium-ion battery · Ce doping · Na+ transport · interfacial kinetics</description>
-<category>P2-type cathode</category>
-<category>sodium-ion battery</category>
-<category>Ce doping</category>
-<category>Na+ transport</category>
-<category>interfacial kinetics</category>
 </item>
 </channel>
 </rss>
