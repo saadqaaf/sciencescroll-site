@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 02:01:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 03:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual-functional dulcitol mediates (101)-textured zinc deposition and solvation sheath reconstruction for durable aqueous zinc-ion batteries</title>
+<link>https://doi.org/10.1039/d6ta07366b</link>
+<guid isPermaLink="false">10.1039/d6ta07366b</guid>
+<pubDate>Fri, 27 Nov 2026 03:01:18 GMT</pubDate>
+<description>دولسیتول با تنظیم بافت بلوری (101) رسوب روی و بازسازی پوسته حل‌پوشی Zn2+، واکنش‌های جانبی را مهار کرده و پایداری چرخه باتری آبی یون روی را بهبود می‌دهد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 Dulcitol dual-functionally regulates Zn deposition: it induces (101)-preferred crystallographic texture and reconstructs the Zn2+ solvation sheath, simultaneously suppressing interfacial side reactions. This integrated texture-and-solvation strategy is novel, offering a simple additive route to dendrite-free, corrosion-resistant Zn anodes and enabling durable aqueous zinc-ion batteries.&lt;br&gt;🏷 aqueous zinc-ion battery · dulcitol additive · zinc texture · solvation sheath · dendrite suppression</description>
+<category>aqueous zinc-ion battery</category>
+<category>dulcitol additive</category>
+<category>zinc texture</category>
+<category>solvation sheath</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Reversible Fluorination of Ti 2 O Anode with Suppressed Volume Change for All-Solid-State Fluoride-Ion Batteries</title>
+<link>https://doi.org/10.1039/d6ta07798f</link>
+<guid isPermaLink="false">10.1039/d6ta07798f</guid>
+<pubDate>Fri, 27 Nov 2026 03:01:13 GMT</pubDate>
+<description>آند Ti2O با فلوئوردارسازی برگشت‌پذیر و کاهش تغییر حجم، برای باتری‌های یون فلوئورید تمام‌جامد با پایداری بهبودیافته طراحی شده است.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in reversible fluorination of a Ti₂O anode with suppressed volume change for all-solid-state fluoride-ion batteries. Its significance is enabling a conversion-type anode that mitigates the large volume changes that typically degrade cycling stability, advancing high-energy-density post-lithium FIBs.&lt;br&gt;🏷 fluoride-ion battery · Ti2O anode · reversible fluorination · volume change · all-solid-state</description>
+<category>fluoride-ion battery</category>
+<category>Ti2O anode</category>
+<category>reversible fluorination</category>
+<category>volume change</category>
+<category>all-solid-state</category>
+</item>
 <item>
 <title>Multiscale transport–reaction optimization for high-throughput roll-to-roll spatial atomic layer deposition process of battery separators</title>
 <link>https://doi.org/10.1016/j.est.2026.125751</link>
@@ -1185,30 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>negative pressure</category>
 <category>crystallization</category>
 <category>solar evaporation</category>
-</item>
-<item>
-<title>LiO2 Thermodynamics as a Unified Descriptor for the Bifunctional Activity of Dual-Atom Catalysts in Aprotic Lithium-Oxygen Batteries</title>
-<link>https://doi.org/10.1039/d6ta07931h</link>
-<guid isPermaLink="false">10.1039/d6ta07931h</guid>
-<pubDate>Wed, 25 Nov 2026 10:01:42 GMT</pubDate>
-<description>ترمودینامیک LiO2 به‌عنوان توصیفگر یکپارچه برای فعالیت دوفعالیتی کاتالیزورهای دواتمی در باتری‌های آپروتیک Li-O2 معرفی می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using LiO2 thermodynamics as a single unified descriptor linking ORR and OER bifunctional activity for dual-atom catalysts in aprotic Li-O2 batteries. Its significance is enabling predictive, rational catalyst design by replacing separate reaction descriptors, thereby accelerating development of efficient bifunctional cathodes.&lt;br&gt;🏷 Li-O2 battery · dual-atom catalysts · LiO2 thermodynamics · bifunctional activity · ORR/OER</description>
-<category>Li-O2 battery</category>
-<category>dual-atom catalysts</category>
-<category>LiO2 thermodynamics</category>
-<category>bifunctional activity</category>
-<category>ORR/OER</category>
-</item>
-<item>
-<title>Machine Learning-Accelerated Development of Li-Rich Layered Oxides with High-Rate Performance</title>
-<link>https://doi.org/10.1039/d6ta07667j</link>
-<guid isPermaLink="false">10.1039/d6ta07667j</guid>
-<pubDate>Wed, 25 Nov 2026 10:01:36 GMT</pubDate>
-<description>با استفاده از یادگیری ماشین، توسعه اکسیدهای لایه‌ای غنی از لیتیوم با عملکرد نرخ بالا برای کاتد باتری‌های لیتیوم-یونی تسریع می‌شود.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using machine learning to accelerate the discovery of Li-rich layered oxides with improved rate performance, addressing a key limitation of these high-capacity cathodes. Its significance is enabling faster design of next-generation high-energy-density lithium-ion battery materials, potentially overcoming the trade-off between capacity and rate capability.&lt;br&gt;🏷 Li-rich layered oxides · cathode · machine learning · rate capability · lithium-ion battery</description>
-<category>Li-rich layered oxides</category>
-<category>cathode</category>
-<category>machine learning</category>
-<category>rate capability</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
