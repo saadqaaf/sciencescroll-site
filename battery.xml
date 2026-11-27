@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 13:02:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 14:01:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual-cation solvation-tailored electrolyte solutions for low-temperature 48-V/30-Ah lithium-ion battery modules</title>
+<link>https://doi.org/10.1038/s41565-026-02339-2</link>
+<guid isPermaLink="false">10.1038/s41565-026-02339-2</guid>
+<pubDate>Fri, 27 Nov 2026 14:01:19 GMT</pubDate>
+<description>این پژوهش با الکترولیت‌های solvation-tailored دوکاتیونی، عملکرد ماژول‌های Li-ion در دمای پایین را برای کاربرد 48-V/30-Ah بهبود می‌دهد.&lt;br&gt;Nature Nanotechnology | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a dual-cation, core–shell solvation structure—a 2Li⁺–TEP inner core with a loose DFOB⁻/carbonate outer shell—that decouples Li⁺ solvation from desolvation. This overcomes the conductivity/desolvation trade-off, enabling stable operation down to −50 °C across coin cells and 48-V/30-Ah modules with diverse chemistries, marking a significant step toward practical low-temperature lithium-ion batteries.&lt;br&gt;🏷 lithium-ion battery · electrolyte solvation · low-temperature operation · dual-cation · battery module</description>
+<category>lithium-ion battery</category>
+<category>electrolyte solvation</category>
+<category>low-temperature operation</category>
+<category>dual-cation</category>
+<category>battery module</category>
+</item>
 <item>
 <title>Constructing Dual-Carbon-Shielded Hollow Bimetallic Sulfide Heterostructures for High-Stability and Fast-Kinetics Lithium/Sodium-Ion Batteries</title>
 <link>https://doi.org/10.1039/d6ta05798e</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>multiscale modeling</category>
 <category>poroelasticity</category>
 <category>cylindrical cell</category>
-</item>
-<item>
-<title>Spike Sintering Tailored to Scrap Black Mass with a Low‐Defect Crystal Structure for Direct Single‐Crystal Upcycling of Layered Cathode Materials</title>
-<link>https://doi.org/10.1002/advs.78902</link>
-<guid isPermaLink="false">10.1002/advs.78902</guid>
-<pubDate>Thu, 26 Nov 2026 04:02:23 GMT</pubDate>
-<description>سینتر جرقه‌ای با نگه‌داشت ایزوترمال تنها ۱ دقیقه، black mass باتری را به کاتد تک‌کریستالی NCM تبدیل می‌کند و پایداری چرخه‌ای را در سلول کامل بهبود می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 Spike sintering (1 min at 1040°C) directly upcycles scrap black mass into grain-boundary-free single-crystal NCM523 cathodes, exploiting the feedstock&amp;#x27;s largely intact lattice. This cuts furnace time from 486 to 205 min, eliminates 99.7% of isothermal hold, and doubles fracture strength, yielding 76.9% capacity retention after 350 cycles at 4.5 V/45°C versus 51.5% for commercial polycrystalline NCM523.&lt;br&gt;🏷 direct upcycling · single-crystal NCM · spike sintering · scrap black mass · layered cathode</description>
-<category>direct upcycling</category>
-<category>single-crystal NCM</category>
-<category>spike sintering</category>
-<category>scrap black mass</category>
-<category>layered cathode</category>
 </item>
 </channel>
 </rss>
