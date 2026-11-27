@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 03:01:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 04:01:24 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Oxide dispersion strengthened alloys for extreme environments: from oxide–matrix interface architecture to qualification-by-design</title>
+<link>https://doi.org/10.1016/j.pmatsci.2026.101896</link>
+<guid isPermaLink="false">10.1016/j.pmatsci.2026.101896</guid>
+<pubDate>Fri, 27 Nov 2026 04:01:22 GMT</pubDate>
+<description>این مقاله مروری معماری فصل مشترک اکسید-زمینه در آلیاژهای ODS را برای کاربرد در محیط‌های سخت بررسی کرده و رویکرد qualification-by-design را معرفی می‌کند.&lt;br&gt;Progress in Materials Science | ⭐ Review&lt;br&gt;🏷 oxide dispersion strengthened · ODS alloys · oxide-matrix interface · extreme environments · qualification-by-design</description>
+<category>oxide dispersion strengthened</category>
+<category>ODS alloys</category>
+<category>oxide-matrix interface</category>
+<category>extreme environments</category>
+<category>qualification-by-design</category>
+</item>
 <item>
 <title>Chemical defects in semiconducting polymers and their impact on reproducibility and device performance</title>
 <link>https://doi.org/10.1038/s41578-026-00984-6</link>
@@ -1194,18 +1206,6 @@
 <category>photovoltaic integration</category>
 <category>generation scheduling</category>
 <category>power systems</category>
-</item>
-<item>
-<title>Dual-regulation mechanism of K+ incorporation and CuO loading in natural attapulgite for stable zinc anodes of aqueous zinc-ion batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.126030</link>
-<guid isPermaLink="false">10.1016/j.est.2026.126030</guid>
-<pubDate>Thu, 26 Nov 2026 15:01:40 GMT</pubDate>
-<description>ترکیب K+ و بارگذاری CuO در آتاپولژیت طبیعی با تنظیم دوگانه، پایداری آند روی در باتری آبی یون-روی را بهبود می‌دهد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 zinc anode · attapulgite · aqueous zinc-ion battery · CuO loading · K+ incorporation</description>
-<category>zinc anode</category>
-<category>attapulgite</category>
-<category>aqueous zinc-ion battery</category>
-<category>CuO loading</category>
-<category>K+ incorporation</category>
 </item>
 </channel>
 </rss>
