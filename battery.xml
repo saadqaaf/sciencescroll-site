@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 14:01:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 15:02:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Spatially Synchronized Ion‐Electron Transport Enables Millimeter‐Thick Cathodes for Ah‐Level Aqueous Cu‐S Batteries</title>
+<link>https://doi.org/10.1002/adma.75869</link>
+<guid isPermaLink="false">10.1002/adma.75869</guid>
+<pubDate>Fri, 27 Nov 2026 15:02:19 GMT</pubDate>
+<description>معماری نانوسلولزی SCNF/PEDOT:PSS انتقال یون و الکترون را در کاتدهای میلی‌متری Cu-S همگام کرد و باتری آبی با ظرفیت آرئال 179 mAh/cm2 و پایداری ۱۰۰۰ چرخه به دست آمد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in integrating sulfated cellulose nanofibrils with PEDOT:PSS to spatially synchronize ionic and electronic transport within millimeter-thick Cu-S cathodes, converting heterogeneous sulfur conversion into homogeneous through-thickness reactions. This enables 112 mg cm⁻² sulfur loading, 179 mAh cm⁻² areal capacity, ~3 Ah pouch cells, and 651 Wh kg⁻¹, establishing a general design principle for practical high-loading conversion electrodes.&lt;br&gt;🏷 aqueous Cu-S battery · thick cathode · ion-electron transport · nanocellulose · PEDOT:PSS</description>
+<category>aqueous Cu-S battery</category>
+<category>thick cathode</category>
+<category>ion-electron transport</category>
+<category>nanocellulose</category>
+<category>PEDOT:PSS</category>
+</item>
+<item>
+<title>Halide‐Based Mixed Ionic‐Electronic Conductors Deliver High‐Rate and Long‐Life All‐Solid‐State Lithium Batteries</title>
+<link>https://doi.org/10.1002/adma.75832</link>
+<guid isPermaLink="false">10.1002/adma.75832</guid>
+<pubDate>Fri, 27 Nov 2026 15:02:01 GMT</pubDate>
+<description>افزودنی هالیدی C5.5Mo با رسانایی یونی-الکترونی مختلط، تماس جامد-جامد را حفظ کرده و باتری لیتیومی تمام‌جامد با نرخ بالا و عمر ۲۰۰۰۰ چرخه ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in C5.5Mo, a halide oxide additive with mixed ionic-electronic conductivity and low modulus that maintains solid-solid contact and regulates cathode interfaces. Its significance is enabling dense microstructures, reduced interfacial resistance, and mitigated space-charge limitations, yielding ~100 mAh g⁻¹ at 6 C and 85.84% retention over 20,000 cycles—a practical route to high-rate, long-life all-solid-state batteries.&lt;br&gt;🏷 all-solid-state lithium battery · halide additive · mixed ionic-electronic conductor · composite cathode · long cycling life</description>
+<category>all-solid-state lithium battery</category>
+<category>halide additive</category>
+<category>mixed ionic-electronic conductor</category>
+<category>composite cathode</category>
+<category>long cycling life</category>
+</item>
+<item>
+<title>Tackling Lithium Transport Barriers for High‐Performance All‐Solid‐State Li 2 S Batteries With a Dual‐Functional Cathode Additive</title>
+<link>https://doi.org/10.1002/adma.75448</link>
+<guid isPermaLink="false">10.1002/adma.75448</guid>
+<pubDate>Fri, 27 Nov 2026 15:01:41 GMT</pubDate>
+<description>افزودنی دوجنبه‌ای VN-NC در کاتد Li2S، سدهای انتقال لیتیوم را کاهش داده و باتری تمام‌جامد Li2S با ظرفیت بالا و چرخه‌پذیری پایدار ارائه می‌دهد.&lt;br&gt;Advanced Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in a VN-NC dual-functional additive that lowers the Li₂S conversion barrier and induces in situ formation of a conductive LiNₓOᵧ phase, simultaneously enhancing kinetics and Li⁺ transport. Its significance is enabling stable 2000-cycle operation and a high-loading cathode (10 mg cm⁻²) with 11.6 mAh cm⁻² capacity, advancing practical all-solid-state Li₂S batteries.&lt;br&gt;🏷 all-solid-state Li2S battery · VN-NC additive · lithium transport · cathode kinetics · cycling stability</description>
+<category>all-solid-state Li2S battery</category>
+<category>VN-NC additive</category>
+<category>lithium transport</category>
+<category>cathode kinetics</category>
+<category>cycling stability</category>
+</item>
 <item>
 <title>Dual-cation solvation-tailored electrolyte solutions for low-temperature 48-V/30-Ah lithium-ion battery modules</title>
 <link>https://doi.org/10.1038/s41565-026-02339-2</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>Li6PS5Cl</category>
 <category>phase-field modeling</category>
 <category>mechanochemical degradation</category>
-</item>
-<item>
-<title>An atomistic-level insight into ionic conductivity and electrochemical stability of LiSO₃F solid electrolyte</title>
-<link>https://doi.org/10.1016/j.est.2026.125977</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125977</guid>
-<pubDate>Thu, 26 Nov 2026 05:01:38 GMT</pubDate>
-<description>شبیه‌سازی‌های اتمی، رسانایی یونی و پایداری الکتروشیمیایی الکترولیت جامد LiSO3F را در سطح اتمی روشن می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 LiSO3F · solid electrolyte · ionic conductivity · electrochemical stability · atomistic simulation</description>
-<category>LiSO3F</category>
-<category>solid electrolyte</category>
-<category>ionic conductivity</category>
-<category>electrochemical stability</category>
-<category>atomistic simulation</category>
-</item>
-<item>
-<title>Flow-induced vibration and resonance assessment of injection-production strings in salt cavern compressed air energy storage</title>
-<link>https://doi.org/10.1016/j.est.2026.125770</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125770</guid>
-<pubDate>Thu, 26 Nov 2026 05:01:34 GMT</pubDate>
-<description>این مطالعه ارتعاش ناشی از جریان و تشدید در رشته‌های تزریق-تولید چاه‌های نمکی ذخیره‌سازی انرژی هوای فشرده را ارزیابی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 compressed air energy storage · salt cavern · flow-induced vibration · injection-production string · resonance</description>
-<category>compressed air energy storage</category>
-<category>salt cavern</category>
-<category>flow-induced vibration</category>
-<category>injection-production string</category>
-<category>resonance</category>
-</item>
-<item>
-<title>Towards understanding electrolyte salt inhomogeneities in cylindrical lithium-ion batteries: A multiscale model based on electrolyte motion and poroelasticity</title>
-<link>https://doi.org/10.1016/j.est.2026.125611</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125611</guid>
-<pubDate>Thu, 26 Nov 2026 05:01:30 GMT</pubDate>
-<description>یک مدل چندمقیاسی بر پایه حرکت الکترولیت و پوروالاستیسیته، ناهمگنی نمک الکترولیت در باتری‌های لیتیوم-یونی استوانه‌ای را بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lithium-ion battery · electrolyte inhomogeneity · multiscale modeling · poroelasticity · cylindrical cell</description>
-<category>lithium-ion battery</category>
-<category>electrolyte inhomogeneity</category>
-<category>multiscale modeling</category>
-<category>poroelasticity</category>
-<category>cylindrical cell</category>
 </item>
 </channel>
 </rss>
