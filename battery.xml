@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 09:04:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 10:03:47 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Minimal Component Electrolyte Design for −60°C Lithium‐Ion Batteries with Nickel‐Rich Cathode and Silicon‐Containing Anode</title>
+<link>https://doi.org/10.1002/advs.78925</link>
+<guid isPermaLink="false">10.1002/advs.78925</guid>
+<pubDate>Fri, 27 Nov 2026 10:03:08 GMT</pubDate>
+<description>الکترولیت کم‌جزء بر پایه 3m LiFSI و methyl propanoate در پاکت‌سل NCA||graphite-SiOx تا −60°C کار کرده و ۳۶٪ ظرفیت دمای اتاق را با کاهش مقاومت انتقال بار حفظ می‌کند.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 This work pioneers minimal-component electrolytes for −60°C high-energy Li-ion cells pairing nickel-rich cathodes with silicon-containing anodes—previously unaddressed. Using concentrated LiFSI with methyl propanoate and FEC, it suppresses crystallization and cuts interfacial charge-transfer resistance, delivering 300 mWh at −60°C where EMC fails. The single-solvent, single-additive strategy challenges complex formulations, advancing polar, aerospace, and cold-climate battery design.&lt;br&gt;🏷 low-temperature electrolyte · lithium-ion battery · nickel-rich cathode · SiO anode · LiFSI concentrated electrolyte</description>
+<category>low-temperature electrolyte</category>
+<category>lithium-ion battery</category>
+<category>nickel-rich cathode</category>
+<category>SiO anode</category>
+<category>LiFSI concentrated electrolyte</category>
+</item>
+<item>
+<title>Gradient Solvation Electrolyte Enables Self‐Limiting Fluorinated Interphases for Fast and Stable High‐Content Li–S Batteries</title>
+<link>https://doi.org/10.1002/advs.78772</link>
+<guid isPermaLink="false">10.1002/advs.78772</guid>
+<pubDate>Fri, 27 Nov 2026 10:02:51 GMT</pubDate>
+<description>الکترولیت حل‌پوشی گرادیانی با acetonitrile ساختار حل‌پوشی Li+ را تنظیم کرده و لایه LiF خودمحدودشونده ایجاد می‌کند، و Li-S با ۸۰٪ گوگرد ظرفیت 1006 mAh g−1 پس از ۸۰۰ چرخه می‌دهد.&lt;br&gt;Advanced Science | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using acetonitrile to quantitatively tune the Li+ solvation structure of vinylene carbonate electrolytes, creating a gradient solvation shell that yields self-limiting, LiF-rich interphases on both electrodes. This resolves the ether–carbonate trade-off, enabling 80 wt% sulfur cathodes with 1006 mAh g−1 after 800 cycles and 761 mAh g−1 at 5 A g−1, advancing practical Li–S batteries.&lt;br&gt;🏷 lithium-sulfur battery · gradient solvation electrolyte · LiF-rich interphase · high sulfur content · acetonitrile regulator</description>
+<category>lithium-sulfur battery</category>
+<category>gradient solvation electrolyte</category>
+<category>LiF-rich interphase</category>
+<category>high sulfur content</category>
+<category>acetonitrile regulator</category>
+</item>
 <item>
 <title>Preserving cyclable lithium inventory by asymmetric charge-discharge protocol in silicon-based all-solid-state batteries</title>
 <link>https://doi.org/10.1016/j.jechem.2026.11.019</link>
@@ -1186,30 +1210,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>Rh single-atom</category>
 <category>interfacial pH</category>
 <category>Dy2O3</category>
-</item>
-<item>
-<title>Assembly and testing of aqueous organic redox flow batteries</title>
-<link>https://doi.org/10.1038/s41596-026-01450-x</link>
-<guid isPermaLink="false">10.1038/s41596-026-01450-x</guid>
-<pubDate>Thu, 26 Nov 2026 03:01:59 GMT</pubDate>
-<description>این مقاله روش‌های مونتاژ و آزمون باتری‌های جریان ردوکس آبی آلی را به‌عنوان راهکاری برای ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Nature Protocols | ⭐ Review&lt;br&gt;💡 The protocol addresses the lack of standardized methods by providing a comprehensive, reproducible workflow for synthesizing, assembling, and testing aqueous organic redox flow batteries. Its novelty lies in integrating lab-scale flow cells that mimic kilowatt-scale stack hydrodynamics, enabling meaningful performance translation. This facilitates benchmarking and broader adoption of flow batteries for grid-scale energy storage.&lt;br&gt;🏷 redox flow battery · aqueous organic · battery assembly · battery testing · energy storage</description>
-<category>redox flow battery</category>
-<category>aqueous organic</category>
-<category>battery assembly</category>
-<category>battery testing</category>
-<category>energy storage</category>
-</item>
-<item>
-<title>Localization of micron-scale lithium polysulfide-rich phases causes anode heterogeneity in lean-electrolyte lithium–sulfur batteries</title>
-<link>https://doi.org/10.1016/j.joule.2026.102747</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102747</guid>
-<pubDate>Wed, 25 Nov 2026 22:01:13 GMT</pubDate>
-<description>این مقاله نشان می‌دهد که موضعی‌شدن فازهای غنی از پلی‌سولفید لیتیوم در مقیاس میکرون باعث ناهمگنی آند در باتری‌های لیتیوم-سولفور با الکترولیت کم می‌شود.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 lithium-sulfur battery · lean electrolyte · lithium polysulfide · anode heterogeneity · phase localization</description>
-<category>lithium-sulfur battery</category>
-<category>lean electrolyte</category>
-<category>lithium polysulfide</category>
-<category>anode heterogeneity</category>
-<category>phase localization</category>
 </item>
 </channel>
 </rss>
