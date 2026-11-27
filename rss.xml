@@ -5,8 +5,116 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 15:02:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 16:01:52 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Generating proteins with computationally predicted functions and multiple states via multimodal diffusion</title>
+<link>https://doi.org/10.1038/s42256-026-01329-2</link>
+<guid isPermaLink="false">10.1038/s42256-026-01329-2</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:50 GMT</pubDate>
+<description>مدل انتشار چندوجهی پروتئین‌هایی با عملکردهای پیش‌بینی‌شده محاسباتی و چند حالت ساختاری تولید می‌کند و طراحی پروتئین عملکردی را گسترش می‌دهد.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 protein generation · multimodal diffusion · protein function · conformational states · computational design</description>
+<category>protein generation</category>
+<category>multimodal diffusion</category>
+<category>protein function</category>
+<category>conformational states</category>
+<category>computational design</category>
+</item>
+<item>
+<title>Exploring nonlinear body oscillations for natural quadruped gaits</title>
+<link>https://doi.org/10.1038/s42256-026-01320-x</link>
+<guid isPermaLink="false">10.1038/s42256-026-01320-x</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:46 GMT</pubDate>
+<description>ربات چهارپای بسیار انعطاف‌پذیر eBert با بهره‌گیری از مودهای نرمال غیرخطی و رزونانس مکانیکی، راه‌رفتن‌های طبیعی چندگانه را بدون کنترل‌کننده اختصاصی تولید می‌کند.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 quadruped robot · nonlinear normal modes · mechanical resonance · embodied intelligence · gait generation</description>
+<category>quadruped robot</category>
+<category>nonlinear normal modes</category>
+<category>mechanical resonance</category>
+<category>embodied intelligence</category>
+<category>gait generation</category>
+</item>
+<item>
+<title>A long-context generative foundation model for versatile RNA design</title>
+<link>https://doi.org/10.1038/s42256-026-01321-w</link>
+<guid isPermaLink="false">10.1038/s42256-026-01321-w</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:43 GMT</pubDate>
+<description>یک مدل بنیادی مولد با زمینه طولانی برای طراحی همه‌جانبه RNA معرفی می‌شود که طراحی توالی و ساختار RNA را ممکن می‌سازد.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article&lt;br&gt;🏷 RNA design · foundation model · long context · generative model · deep learning</description>
+<category>RNA design</category>
+<category>foundation model</category>
+<category>long context</category>
+<category>generative model</category>
+<category>deep learning</category>
+</item>
+<item>
+<title>Generating proteins with complex functions</title>
+<link>https://doi.org/10.1038/s42256-026-01330-9</link>
+<guid isPermaLink="false">10.1038/s42256-026-01330-9</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:38 GMT</pubDate>
+<description>این مقاله روشی مولد برای طراحی پروتئین‌هایی با عملکردهای پیچیده ارائه می‌دهد و توانایی تولید پروتئین‌های کارآمد را نشان می‌دهد.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article&lt;br&gt;🏷 protein design · generative model · protein function · deep learning · biomolecular engineering</description>
+<category>protein design</category>
+<category>generative model</category>
+<category>protein function</category>
+<category>deep learning</category>
+<category>biomolecular engineering</category>
+</item>
+<item>
+<title>Dissociation‐Migration Trade‐Off in Gel Polymer Electrolytes Enables Extreme‐Condition Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71897</link>
+<guid isPermaLink="false">10.1002/aenm.71897</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:34 GMT</pubDate>
+<description>اصل موازنه تفکیک-مهاجرت در الکترولیت‌های ژل‌پلیمری با تنظیم برهم‌کنش پلیمر-Li+، رسانایی و عدد انتقال بالا و باتری لیتیوم-فلز پایدار در شرایط حدی (۴۰- تا ۸۰ درجه) را ممکن می‌سازد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in establishing a dissociation-migration trade-off principle for gel polymer electrolytes, showing intermediate polymer-Li+ interactions optimally balance carrier generation and migration. This yields high conductivity (4.78 mS/cm) and transference number (0.88), enabling Li||NCM811 cells across −40–80°C, 4.6 V, and 4 C, plus a 342.7 Wh/kg pouch cell. It provides a molecular design framework integrating ion transport with interfacial stability for extreme-condition batteries.&lt;br&gt;🏷 gel polymer electrolyte · Li+ transference number · dissociation-migration trade-off · interphase · extreme-condition battery</description>
+<category>gel polymer electrolyte</category>
+<category>Li+ transference number</category>
+<category>dissociation-migration trade-off</category>
+<category>interphase</category>
+<category>extreme-condition battery</category>
+</item>
+<item>
+<title>Unlocking Fast and Durable Li + Transport Beyond Polymer Segmental Dynamics for High‐Rate and Long‐Life Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71892</link>
+<guid isPermaLink="false">10.1002/aenm.71892</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:27 GMT</pubDate>
+<description>الکترولیت پلیمری شبه‌جامد با جدایی میکروفازی و تنظیم هم‌آرایی موضعی، انتقال Li+ را از وابستگی به دینامیک زنجیره رها کرده و باتری لیتیوم-فلز با نرخ بالا و عمر طولانی ارائه می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a microphase-separated quasi-solid polymer electrolyte using tethered pyrrolidinium ionic liquid and in situ thioether linkages to decouple Li+ transport from polymer segmental dynamics. This yields high conductivity (1.13 mS cm−1), Li+ transference (0.82), and low activation energy (0.17 eV), enabling 10C cycling with 97.9% retention over 2500 cycles and 120°C operation—breaking the processability–transport trade-off.&lt;br&gt;🏷 polymer electrolyte · Li+ hopping · ionic liquid · microphase separation · lithium metal battery</description>
+<category>polymer electrolyte</category>
+<category>Li+ hopping</category>
+<category>ionic liquid</category>
+<category>microphase separation</category>
+<category>lithium metal battery</category>
+</item>
+<item>
+<title>Cyanoethyl Cellulose‐Mediated Polymer Electrolyte With Fast Li + Transport and Stable Interface for Long‐Cycle Solid‑State Lithium Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71883</link>
+<guid isPermaLink="false">10.1002/aenm.71883</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:21 GMT</pubDate>
+<description>الکترولیت پلیمری PVDF/LiTFSI اصلاح‌شده با سیانواتیل سلولز، رسانایی یونی و عدد انتقال Li+ را بهبود داده و چرخه‌پذیری طولانی در باتری‌های لیتیوم-فلز حالت جامد فراهم می‌کند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using cyanoethyl cellulose to disrupt PVDF chain stacking and modulate Li⁺ coordination via polar cyano groups, enabling fast Li⁺ transport and stable interfaces. This molecular-chain engineering yields high ionic conductivity, dendrite suppression, 5000-cycle stability, and Ah-level pouch cells, advancing practical long-cycle solid-state lithium metal batteries.&lt;br&gt;🏷 solid polymer electrolyte · cyanoethyl cellulose · PVDF · Li+ transport · solid-state lithium battery</description>
+<category>solid polymer electrolyte</category>
+<category>cyanoethyl cellulose</category>
+<category>PVDF</category>
+<category>Li+ transport</category>
+<category>solid-state lithium battery</category>
+</item>
+<item>
+<title>Interphasial Li + Flux Engineering via Anchoring Vertically Oriented Fluorinated Covalent Organic Frameworks Toward Long‐Cycling Li‐Metal Batteries</title>
+<link>https://doi.org/10.1002/aenm.71886</link>
+<guid isPermaLink="false">10.1002/aenm.71886</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:14 GMT</pubDate>
+<description>لایه COF فلوئوردار عموداً جهت‌دار بر آند Li به‌عنوان SEI مصنوعی، شار Li+ را یکنواخت کرده و عمر چرخه باتری‌های لیتیوم-فلز را به بیش از ۱۳۰۰ ساعت می‌رساند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in anchoring vertically oriented 2D fluorinated covalent organic frameworks on Li metal as an artificial interphase. Fluorine sites enable fast LiTFSI dissociation and strong Li+ adsorption, while oriented channels lower diffusion barriers for uniform Li+ flux. This yields ultralong cycling (1300 h symmetric; 1 Ah pouch cell &amp;gt;325 cycles), offering a viable strategy for stable high-energy Li-metal batteries.&lt;br&gt;🏷 lithium metal anode · covalent organic framework · solid electrolyte interphase · Li+ flux · dendrite suppression</description>
+<category>lithium metal anode</category>
+<category>covalent organic framework</category>
+<category>solid electrolyte interphase</category>
+<category>Li+ flux</category>
+<category>dendrite suppression</category>
+</item>
+<item>
+<title>Tandem Solar Cells Based on Si and Stable Cu(In,Ga)S 2 With Efficiency Beyond the Bottom Cell</title>
+<link>https://doi.org/10.1002/aenm.71860</link>
+<guid isPermaLink="false">10.1002/aenm.71860</guid>
+<pubDate>Fri, 27 Nov 2026 16:01:08 GMT</pubDate>
+<description>سلول بالایی نیمه‌شفاف مبتنی بر Cu(In,Ga)S2 با آلیاژسازی Ag و بازده ۱۵.۵۲٪ ساخته شد که در سلول‌های تاندم Si و CuInSe2 بازده را به‌طور مطلق ۲.۵ تا ۵ درصد افزایش می‌دهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 tandem solar cells · Cu(In,Ga)S2 · Ag alloying · semitransparent top cell · non-radiative recombination</description>
+<category>tandem solar cells</category>
+<category>Cu(In,Ga)S2</category>
+<category>Ag alloying</category>
+<category>semitransparent top cell</category>
+<category>non-radiative recombination</category>
+</item>
 <item>
 <title>Dual Charge Extraction Pathways at Perovskite/Organic Hetero‐Contacts for Optoelectronics</title>
 <link>https://doi.org/10.1002/adma.75888</link>
@@ -1101,122 +1209,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 CO2 carboxylation · ally
 <category>unactivated alkenes</category>
 <category>electrochemistry</category>
 <category>CO2 radical anion</category>
-</item>
-<item>
-<title>A Bioinspired Thiolate-Bridged Diiron System for Functionally Replicating Hydrazine Dehydrogenase and Its Efficient Electrocatalytic Hydrazine Oxidation</title>
-<link>https://doi.org/10.1021/jacs.6c13165</link>
-<guid isPermaLink="false">10.1021/jacs.6c13165</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:22 GMT</pubDate>
-<description>کمپلکس دی‌آهن پل‌دار تیولات با تقلید از هیدرازین دهیدروژناز، واسطه دی‌آزن را تشکیل داده و اکسیداسیون الکتروکاتالیستی هیدرازین را ممکن می‌سازد.&lt;br&gt;Journal of the American Chemical Society | 🔬 Research Article&lt;br&gt;🏷 hydrazine dehydrogenase · thiolate-bridged diiron · hydrazine oxidation · molecular electrocatalyst · diazene intermediate</description>
-<category>hydrazine dehydrogenase</category>
-<category>thiolate-bridged diiron</category>
-<category>hydrazine oxidation</category>
-<category>molecular electrocatalyst</category>
-<category>diazene intermediate</category>
-</item>
-<item>
-<title>Strengthening Metal–Oxygen Bonds via Ionicity–Covalency Asymmetric Connection: 4f Electronic Configuration Effect</title>
-<link>https://doi.org/10.1021/jacs.6c19223</link>
-<guid isPermaLink="false">10.1021/jacs.6c19223</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:19 GMT</pubDate>
-<description>شبکه پیوندی نامتقارن یونی–کووالانسی Ce–O و M–O گذار برگشت‌پذیر پیکربندی الکترونی 4f را فعال می‌کند و پایداری الکترولیز آب قلیایی را بیش از ۳۵۰ ساعت حفظ می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 metal–oxygen bonds · 4f electronic configuration · CeO2/NiCo2O4 · alkaline water electrolysis · redox cycling</description>
-<category>metal–oxygen bonds</category>
-<category>4f electronic configuration</category>
-<category>CeO2/NiCo2O4</category>
-<category>alkaline water electrolysis</category>
-<category>redox cycling</category>
-</item>
-<item>
-<title>Revisiting the Biosynthetic Cyclization of Indole Sesquiterpene Alkaloids: Proposal of a Spiro -Indolenine Pathway and Synthesis of Prelecanindole</title>
-<link>https://doi.org/10.1021/jacs.6c14769</link>
-<guid isPermaLink="false">10.1021/jacs.6c14769</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:16 GMT</pubDate>
-<description>مسیر زیست‌سنتزی جدیدی با واسطه اسپیرو-ایندولنین برای آلکالوئیدهای سزکوئی‌ترپن ایندولی پیشنهاد و با محاسبات DFT و سنتز شیمیایی پری‌لکانین‌دول تأیید شد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 indole sesquiterpene alkaloids · spiro-indolenine · biosynthetic cyclization · DFT calculations · prelecanindole</description>
-<category>indole sesquiterpene alkaloids</category>
-<category>spiro-indolenine</category>
-<category>biosynthetic cyclization</category>
-<category>DFT calculations</category>
-<category>prelecanindole</category>
-</item>
-<item>
-<title>Electron-Deficient β-Diketone Ligand Enabled Ni-Catalyzed Remote Dicarbofunctionalization of Alkenes</title>
-<link>https://doi.org/10.1021/jacs.6c20962</link>
-<guid isPermaLink="false">10.1021/jacs.6c20962</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:13 GMT</pubDate>
-<description>لیگاند β-دی‌کتون کم‌الکترون در کاتالیز نیکل، دی‌کربوفانکشنالیزاسیون مهاجرتی دور از آلکن‌ها را با انتخاب‌پذیری بالا و بدون گروه هدایت‌کننده ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 nickel catalysis · remote dicarbofunctionalization · alkenes · β-diketone ligand · allyl-metal intermediate</description>
-<category>nickel catalysis</category>
-<category>remote dicarbofunctionalization</category>
-<category>alkenes</category>
-<category>β-diketone ligand</category>
-<category>allyl-metal intermediate</category>
-</item>
-<item>
-<title>Single-Atom Cerium Unlocks Efficient Hydrogen Spillover within Nonreducible Zeolites through a Proton–Electron Relay</title>
-<link>https://doi.org/10.1021/jacs.6c16950</link>
-<guid isPermaLink="false">10.1021/jacs.6c16950</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:09 GMT</pubDate>
-<description>اتم‌های منفرد Ce در Pt/USY با ایجاد رله پروتون–الکترون، انتقال هیدروژن در زئولیت غیرقابل‌احیا را تسهیل کرده و پایداری هیدروکراکینگ پلی‌اولفین را بهبود می‌بخشند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 hydrogen spillover · single-atom cerium · zeolite · proton–electron relay · hydrocracking</description>
-<category>hydrogen spillover</category>
-<category>single-atom cerium</category>
-<category>zeolite</category>
-<category>proton–electron relay</category>
-<category>hydrocracking</category>
-</item>
-<item>
-<title>Synthetic Control of Quantum Phases in Organic Conductors: Molecular-Level Disorder Engineering and Pressure-Induced Superconductivity</title>
-<link>https://doi.org/10.1021/jacs.6c17054</link>
-<guid isPermaLink="false">10.1021/jacs.6c17054</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:06 GMT</pubDate>
-<description>با کنترل ترمودینامیکی رشد بلور، دو پلی‌مورف κ-Br و κ″-Br با ترکیب یکسان ساخته شد که دومی به‌دلیل بی‌نظمی عایق است و تحت فشار به ابررسانا تبدیل می‌شود.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 organic superconductor · BEDT-TTF · disorder engineering · pressure-induced superconductivity · quantum phases</description>
-<category>organic superconductor</category>
-<category>BEDT-TTF</category>
-<category>disorder engineering</category>
-<category>pressure-induced superconductivity</category>
-<category>quantum phases</category>
-</item>
-<item>
-<title>Redox-Window-Guided Metal Node Editing of Copper Metal–Organic Frameworks for Recyclable Heterogeneous Cu(I) Catalysis</title>
-<link>https://doi.org/10.1021/jacs.6c18121</link>
-<guid isPermaLink="false">10.1021/jacs.6c18121</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:03 GMT</pubDate>
-<description>ویرایش گره فلزی با هدایت پنجره ردوکس، Cu(II)3BTC2 را به MOF پایدار با Cu(I/II) تبدیل می‌کند که در آمیداسیون آبی بازده ۹۲٪ و قابلیت بازیافت پنج‌دوره‌ای نشان می‌دهد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 Cu(I) MOF · metal node editing · redox window · heterogeneous catalysis · hydrative amidation</description>
-<category>Cu(I) MOF</category>
-<category>metal node editing</category>
-<category>redox window</category>
-<category>heterogeneous catalysis</category>
-<category>hydrative amidation</category>
-</item>
-<item>
-<title>Hydrogen-Bond Network-Assisted Ethylene and Hydrogen Photosynthesis from Methane over Isolated Ir Active Sites under Ambient Conditions</title>
-<link>https://doi.org/10.1021/jacs.6c16501</link>
-<guid isPermaLink="false">10.1021/jacs.6c16501</guid>
-<pubDate>Fri, 27 Nov 2026 09:03:00 GMT</pubDate>
-<description>کاتالیزور Ir1/TiO2–Ov با شبکه پیوند هیدروژنی، تبدیل فوتوکاتالیستی متان به اتیلن و H2 را در دمای اتاق و فشار اتمسفری با پایداری بیش از ۲۱۰ ساعت ممکن می‌سازد.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 methane conversion · single-atom Ir · ethylene photosynthesis · hydrogen-bond network · C–C coupling</description>
-<category>methane conversion</category>
-<category>single-atom Ir</category>
-<category>ethylene photosynthesis</category>
-<category>hydrogen-bond network</category>
-<category>C–C coupling</category>
-</item>
-<item>
-<title>Stepwise Assembly of a Lavandulyl Moiety on Flavonoids Enabled by a 2″-Prenyltransferase</title>
-<link>https://doi.org/10.1021/jacs.6c22804</link>
-<guid isPermaLink="false">10.1021/jacs.6c22804</guid>
-<pubDate>Fri, 27 Nov 2026 09:02:56 GMT</pubDate>
-<description>مسیر کامل بیوسنتز کورارینون در Sophora flavescens شامل چهار مرحله آنزیمی شناسایی شد و Sf2″PT نخستین پرنیل‌ترانسفراز فلاونوئیدی 2″ توصیف‌شده است که ساخت موئینه لاواندولیل را ممکن می‌کند.&lt;br&gt;Journal of the American
-Chemical Society | 🔬 Research Article&lt;br&gt;🏷 lavandulylated flavonoids · prenyltransferase · kurarinone biosynthesis · Sophora flavescens · ancestral sequence reconstruction</description>
-<category>lavandulylated flavonoids</category>
-<category>prenyltransferase</category>
-<category>kurarinone biosynthesis</category>
-<category>Sophora flavescens</category>
-<category>ancestral sequence reconstruction</category>
 </item>
 </channel>
 </rss>
