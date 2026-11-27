@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 21:00:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 22:01:06 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Needle Position Matters: A Region-Resolved Damage Quantification Framework for In-plane Properties of Needle-Punched Composites</title>
+<link>https://doi.org/10.1016/j.compositesb.2026.114415</link>
+<guid isPermaLink="false">10.1016/j.compositesb.2026.114415</guid>
+<pubDate>Fri, 27 Nov 2026 22:01:04 GMT</pubDate>
+<description>این مقاله چارچوبی منطقه‌محور برای کمّی‌سازی آسیب ناشی از موقعیت سوزن و اثر آن بر خواص درون‌صفحه‌ای کامپوزیت‌های سوزن‌زنی‌شده ارائه می‌کند.&lt;br&gt;Composites Part B: Engineering | 🔬 Research Article&lt;br&gt;🏷 needle-punched composites · damage quantification · in-plane properties · needle position · region-resolved framework</description>
+<category>needle-punched composites</category>
+<category>damage quantification</category>
+<category>in-plane properties</category>
+<category>needle position</category>
+<category>region-resolved framework</category>
+</item>
+<item>
+<title>Temperature-Dependent Relaxation Pathways in Perovskite BIC Exciton-Polariton Condensation</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04095</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04095</guid>
+<pubDate>Fri, 27 Nov 2026 22:01:01 GMT</pubDate>
+<description>بررسی دینامیک چگالش اکسیتون-پلاریتون BIC پروسکایتی در بازه ۴ تا ۳۰۰ کلوین سه رژیم واهلش وابسته به دما شامل پراکندگی فونونی، گلوگاه فونونی و انتقال کمک‌شده توسط مخزن اکسیتون را نشان می‌دهد.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;🏷 exciton-polariton · bound states in continuum · perovskite · polariton condensation · relaxation pathways</description>
+<category>exciton-polariton</category>
+<category>bound states in continuum</category>
+<category>perovskite</category>
+<category>polariton condensation</category>
+<category>relaxation pathways</category>
+</item>
+<item>
+<title>Modulating Lipid Nanoparticles for Spleen Targeted RNA Delivery</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04231</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04231</guid>
+<pubDate>Fri, 27 Nov 2026 22:00:58 GMT</pubDate>
+<description>با بهینه‌سازی نسبت لیپیدها در کتابخانه‌ای از ۲۱۶ فرمولاسیون LNP، محققان موفق به کاهش تجمع کبدی و افزایش هدف‌گیری طحال برای تحویل RNAی حلقوی شدند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 lipid nanoparticles · spleen targeting · circular RNA · ionizable lipids · extrahepatic delivery</description>
+<category>lipid nanoparticles</category>
+<category>spleen targeting</category>
+<category>circular RNA</category>
+<category>ionizable lipids</category>
+<category>extrahepatic delivery</category>
+</item>
 <item>
 <title>Folding self-assembly of bicomponent nanosheets into three-dimensional wrinkled porous microspheres with synergistically enhanced multi-level dielectric polarization</title>
 <link>https://doi.org/10.1016/j.carbon.2026.122372</link>
@@ -1170,42 +1206,6 @@
 <category>protein function</category>
 <category>conformational states</category>
 <category>computational design</category>
-</item>
-<item>
-<title>Exploring nonlinear body oscillations for natural quadruped gaits</title>
-<link>https://doi.org/10.1038/s42256-026-01320-x</link>
-<guid isPermaLink="false">10.1038/s42256-026-01320-x</guid>
-<pubDate>Fri, 27 Nov 2026 16:01:46 GMT</pubDate>
-<description>ربات چهارپای بسیار انعطاف‌پذیر eBert با بهره‌گیری از مودهای نرمال غیرخطی و رزونانس مکانیکی، راه‌رفتن‌های طبیعی چندگانه را بدون کنترل‌کننده اختصاصی تولید می‌کند.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 quadruped robot · nonlinear normal modes · mechanical resonance · embodied intelligence · gait generation</description>
-<category>quadruped robot</category>
-<category>nonlinear normal modes</category>
-<category>mechanical resonance</category>
-<category>embodied intelligence</category>
-<category>gait generation</category>
-</item>
-<item>
-<title>A long-context generative foundation model for versatile RNA design</title>
-<link>https://doi.org/10.1038/s42256-026-01321-w</link>
-<guid isPermaLink="false">10.1038/s42256-026-01321-w</guid>
-<pubDate>Fri, 27 Nov 2026 16:01:43 GMT</pubDate>
-<description>یک مدل بنیادی مولد با زمینه طولانی برای طراحی همه‌جانبه RNA معرفی می‌شود که طراحی توالی و ساختار RNA را ممکن می‌سازد.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article&lt;br&gt;🏷 RNA design · foundation model · long context · generative model · deep learning</description>
-<category>RNA design</category>
-<category>foundation model</category>
-<category>long context</category>
-<category>generative model</category>
-<category>deep learning</category>
-</item>
-<item>
-<title>Generating proteins with complex functions</title>
-<link>https://doi.org/10.1038/s42256-026-01330-9</link>
-<guid isPermaLink="false">10.1038/s42256-026-01330-9</guid>
-<pubDate>Fri, 27 Nov 2026 16:01:38 GMT</pubDate>
-<description>این مقاله روشی مولد برای طراحی پروتئین‌هایی با عملکردهای پیچیده ارائه می‌دهد و توانایی تولید پروتئین‌های کارآمد را نشان می‌دهد.&lt;br&gt;Nature Machine Intelligence | 🔬 Research Article&lt;br&gt;🏷 protein design · generative model · protein function · deep learning · biomolecular engineering</description>
-<category>protein design</category>
-<category>generative model</category>
-<category>protein function</category>
-<category>deep learning</category>
-<category>biomolecular engineering</category>
 </item>
 </channel>
 </rss>
