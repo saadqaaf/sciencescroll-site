@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 10:03:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 11:01:12 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Non-conjugated Polymeric Electron Transporting Layers Enable Efficient Organic Solar Cells under Multiple Stresses</title>
+<link>https://doi.org/10.1039/d6mh02282k</link>
+<guid isPermaLink="false">10.1039/d6mh02282k</guid>
+<pubDate>Fri, 27 Nov 2026 11:01:10 GMT</pubDate>
+<description>دو پلیمر غیرمزدوج و رسانا به عنوان لایه انتقال الکترون در سلول‌های خورشیدی آلی، بازده و پایداری عملیاتی را تحت تنش‌های مختلف بهبود می‌دهند.&lt;br&gt;Materials Horizons | 🔬 Research Article&lt;br&gt;🏷 organic solar cells · electron transport layer · non-conjugated polymer · interlayer · operational stability</description>
+<category>organic solar cells</category>
+<category>electron transport layer</category>
+<category>non-conjugated polymer</category>
+<category>interlayer</category>
+<category>operational stability</category>
+</item>
 <item>
 <title>Lewis Acid-Directed Oxygen-Down Interfacial Water Regulation Stabilizes Local pH for Robust High-Current-Density Propylene Epoxidation</title>
 <link>https://doi.org/10.1021/acscatal.6c07626</link>
@@ -1210,18 +1222,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 solid-phase peptide synth
 <category>electrocatalysis</category>
 <category>DFT+U</category>
 <category>square-planar NiO4</category>
-</item>
-<item>
-<title>Conformational Locking Strategy Enables Highly Efficient Dual‐Band Electrochromism in p‐ Azaquinodimethane‐Based Conjugated Polymers</title>
-<link>https://doi.org/10.1002/adfm.79893</link>
-<guid isPermaLink="false">10.1002/adfm.79893</guid>
-<pubDate>Fri, 27 Nov 2026 08:03:46 GMT</pubDate>
-<description>با راهبرد قفل‌کردن کانفورماسیونی بر پایه برهم‌کنش S···N، پلیمرهای کینوئیدی p-AQM با صفحات مسطح ساخته شد که الکتروکرومیسم دوباندی مرئی/فروسرخ با بازده رنگ‌آمیزی بالا و پایداری چرخه‌ای چشمگیر نشان می‌دهند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 electrochromism · conjugated polymers · azaquinodimethane · near-infrared · smart windows</description>
-<category>electrochromism</category>
-<category>conjugated polymers</category>
-<category>azaquinodimethane</category>
-<category>near-infrared</category>
-<category>smart windows</category>
 </item>
 </channel>
 </rss>
