@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 11:01:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:01:09 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Au-Free Hexagonal SiGe Nanowires and Quantum Dots</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04853</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04853</guid>
+<pubDate>Fri, 27 Nov 2026 12:01:07 GMT</pubDate>
+<description>این کار رشد نانوسیم‌ها و نقاط کوانتومی شش‌وجهی SiGe را با کاتالیزور Ga و بدون Au نشان می‌دهد و مسیری سازگار با CMOS برای گسیل نور مادون قرمز فراهم می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 hexagonal SiGe · nanowires · quantum dots · Ga catalyst · CMOS-compatible</description>
+<category>hexagonal SiGe</category>
+<category>nanowires</category>
+<category>quantum dots</category>
+<category>Ga catalyst</category>
+<category>CMOS-compatible</category>
+</item>
+<item>
+<title>Self-Assembling Peptide Materials for the Treatment of Infectious and Biofilm-Related Diseases</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c03464</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c03464</guid>
+<pubDate>Fri, 27 Nov 2026 12:01:04 GMT</pubDate>
+<description>این مرور بررسی می‌کند که خودآرایی پپتیدها چگونه با کنترل حالت فیزیکی و برهم‌کنش‌های مولکولی، دسترسی به سلول‌های میکروبی در بیوفیلم و فعالیت ضدمیکروبی را تحت تأثیر قرار می‌دهد.&lt;br&gt;Nano Letters | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 antimicrobial peptides · biofilm penetration · self-assembly · supramolecular materials · peptide stability</description>
+<category>antimicrobial peptides</category>
+<category>biofilm penetration</category>
+<category>self-assembly</category>
+<category>supramolecular materials</category>
+<category>peptide stability</category>
+</item>
 <item>
 <title>Non-conjugated Polymeric Electron Transporting Layers Enable Efficient Organic Solar Cells under Multiple Stresses</title>
 <link>https://doi.org/10.1039/d6mh02282k</link>
@@ -1198,30 +1222,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;🏷 solid-phase peptide synth
 <category>high gain</category>
 <category>In2O3</category>
 <category>neuromorphic circuits</category>
-</item>
-<item>
-<title>Shaping the Future: Cutting‐Edge Direct‐Write Technologies in Nanofabrication</title>
-<link>https://doi.org/10.1002/adfm.79512</link>
-<guid isPermaLink="false">10.1002/adfm.79512</guid>
-<pubDate>Fri, 27 Nov 2026 08:03:51 GMT</pubDate>
-<description>این مجموعه مروری، پیشرفت‌های نانوساخت مستقیم با پرتوهای الکترون و یون و لیزر را از برهم‌کنش پرتو-ماده تا رسوب‌گذاری، نانوچاپ و فرزکاری و کاربردهای نانومغناطیس، اپتیک و پلاسمونیک به‌هم پیوند می‌زند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;🏷 direct-write nanofabrication · focused electron beam · 3D nanoprinting · beam-induced deposition · plasmonics</description>
-<category>direct-write nanofabrication</category>
-<category>focused electron beam</category>
-<category>3D nanoprinting</category>
-<category>beam-induced deposition</category>
-<category>plasmonics</category>
-</item>
-<item>
-<title>Enhancement of Catalytic Activity in Infinite‐layer Nickelates for the Oxygen Evolution Reaction</title>
-<link>https://doi.org/10.1002/adfm.202600085</link>
-<guid isPermaLink="false">10.1002/adfm.202600085</guid>
-<pubDate>Fri, 27 Nov 2026 08:03:48 GMT</pubDate>
-<description>نیکلات‌های لایه‌بی‌نهایت با شبکه مربعی و آرایش اوربیتالی نیمه‌پر، فعالیت بالاتری در واکنش آزادسازی اکسیژن نسبت به پروسکایت‌ها نشان می‌دهند و DFT+U نقش حالت اکسایش پایین Ni و پیوند ضعیف‌تر *OH را تأیید می‌کند.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 infinite-layer nickelates · oxygen evolution reaction · electrocatalysis · DFT+U · square-planar NiO4</description>
-<category>infinite-layer nickelates</category>
-<category>oxygen evolution reaction</category>
-<category>electrocatalysis</category>
-<category>DFT+U</category>
-<category>square-planar NiO4</category>
 </item>
 </channel>
 </rss>
