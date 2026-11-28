@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 00:01:25 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 01:01:11 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Forward design of thick Fe–N–C cathodes via decoupled self-humidification and anti-flooding</title>
+<link>https://doi.org/10.1039/d6ee04441g</link>
+<guid isPermaLink="false">10.1039/d6ee04441g</guid>
+<pubDate>Sat, 28 Nov 2026 01:01:09 GMT</pubDate>
+<description>طراحی کاتد شیاردار الهام‌گرفته از سد، خودمرطوب‌سازی و ضدسیل‌زدگی را هم‌زمان ممکن می‌کند و انتقال پروتون-اکسیژن و عملکرد PEMFC را در لایه‌های ضخیم Fe-N-C بهبود می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 Fe-N-C cathode · PEMFC · thick catalyst layer · self-humidification · anti-flooding</description>
+<category>Fe-N-C cathode</category>
+<category>PEMFC</category>
+<category>thick catalyst layer</category>
+<category>self-humidification</category>
+<category>anti-flooding</category>
+</item>
+<item>
+<title>Catalyst-ionomer co-assembly engineering enables uniform electrode architectures for durable anion-exchange membrane electrolysis</title>
+<link>https://doi.org/10.1039/d6ee04479d</link>
+<guid isPermaLink="false">10.1039/d6ee04479d</guid>
+<pubDate>Sat, 28 Nov 2026 01:01:06 GMT</pubDate>
+<description>مهندسی هم‌آرایی کاتالیست و یونومر ساختار الکترود یکنواخت برای الکترولیز غشای تبادل آنیون ایجاد می‌کند و پایداری آن را در جریان بالا بهبود می‌دهد.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;🏷 anion-exchange membrane · water electrolysis · catalyst-ionomer assembly · electrode architecture · durability</description>
+<category>anion-exchange membrane</category>
+<category>water electrolysis</category>
+<category>catalyst-ionomer assembly</category>
+<category>electrode architecture</category>
+<category>durability</category>
+</item>
 <item>
 <title>Mechanism-grounded RNA velocity: from kinetic models to deep learning and foundation models</title>
 <link>https://doi.org/10.1038/s41592-026-03387-1</link>
@@ -1182,30 +1206,6 @@
 <category>heterointerface</category>
 <category>multimodal microscopy</category>
 <category>charge dynamics</category>
-</item>
-<item>
-<title>Advances in Wearable Tactile Systems: Toward Autonomous Intelligence</title>
-<link>https://doi.org/10.1002/adfm.79901</link>
-<guid isPermaLink="false">10.1002/adfm.79901</guid>
-<pubDate>Fri, 27 Nov 2026 18:03:07 GMT</pubDate>
-<description>این مرور، سامانه‌های لمسی پوشیدنی را در مسیر هوشمندی خودمختار از طریق حلقه بسته ادراک-تصمیم-عمل، شامل حسگری، تأمین انرژی و محاسبات محلی، بررسی می‌کند.&lt;br&gt;Advanced Functional Materials | ⭐ Review&lt;br&gt;🏷 wearable tactile sensors · autonomous intelligence · energy harvesting · haptic feedback · in-sensor computing</description>
-<category>wearable tactile sensors</category>
-<category>autonomous intelligence</category>
-<category>energy harvesting</category>
-<category>haptic feedback</category>
-<category>in-sensor computing</category>
-</item>
-<item>
-<title>Polarity‐Tunable Field‐Free Magnetization Switching in a van Der Waals Two‐Dimensional T‐type Magnetic Configuration for Spin Logic Devices</title>
-<link>https://doi.org/10.1002/adfm.79892</link>
-<guid isPermaLink="false">10.1002/adfm.79892</guid>
-<pubDate>Fri, 27 Nov 2026 18:03:04 GMT</pubDate>
-<description>در ناهم‌ساختار FGT/Co/Pt سوئیچینگ مغناطیسی بدون میدان و قابل تنظیم قطبی با SOT در دمای اتاق نشان داده شد و همه ۱۶ تابع منطقی بولی پیاده‌سازی شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;🏷 Fe3GaTe2 · spin-orbit torque · field-free switching · van der Waals heterostructure · spin logic</description>
-<category>Fe3GaTe2</category>
-<category>spin-orbit torque</category>
-<category>field-free switching</category>
-<category>van der Waals heterostructure</category>
-<category>spin logic</category>
 </item>
 </channel>
 </rss>
