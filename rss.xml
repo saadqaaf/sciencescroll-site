@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 09:01:29 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 10:01:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Molecular resolution fluorescence imaging: from Abbe to Ångström</title>
+<link>https://doi.org/10.1039/d6cs01040g</link>
+<guid isPermaLink="false">10.1039/d6cs01040g</guid>
+<pubDate>Sat, 28 Nov 2026 10:01:11 GMT</pubDate>
+<description>این مرور نشان می‌دهد چگونه استراتژی‌های نوری، فیزیک فوتون فلوروفورها، شیمی نشانه‌گذاری و تحلیل تصویر، میکروسکوپ فلورسانس را به تفکیک مولکولی و دقت Ångström می‌رسانند.&lt;br&gt;Chemical Society Reviews | ⭐ Review | 🔓 Open Access&lt;br&gt;🏷 fluorescence microscopy · super-resolution imaging · fluorophore photophysics · molecular resolution · Ångström precision</description>
+<category>fluorescence microscopy</category>
+<category>super-resolution imaging</category>
+<category>fluorophore photophysics</category>
+<category>molecular resolution</category>
+<category>Ångström precision</category>
+</item>
 <item>
 <title>NiFe-MOF/Carbon Nanotube/Graphene Hybrid Catalyst for Membrane Electrode Assembly in Alkaline Conditions</title>
 <link>https://doi.org/10.1039/d6ta07806k</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ammoni
 <category>surface vs bulk defects</category>
 <category>interface passivation</category>
 <category>device efficiency</category>
-</item>
-<item>
-<title>Mechanisms of nucleosome disruption shape epigenetic inheritance pathway choice</title>
-<link>https://doi.org/10.1126/science.aek0813</link>
-<guid isPermaLink="false">10.1126/science.aek0813</guid>
-<pubDate>Fri, 27 Nov 2026 23:03:22 GMT</pubDate>
-<description>این پژوهش با بازسازی پروتئین‌های مخمر نشان می‌دهد که استخراج هیستون توسط Ctf4 آن‌ها را به مسیر انتقال به رشته تأخیری متعهد می‌کند.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 nucleosome disruption · histone transfer · replisome · epigenetic inheritance · Ctf4</description>
-<category>nucleosome disruption</category>
-<category>histone transfer</category>
-<category>replisome</category>
-<category>epigenetic inheritance</category>
-<category>Ctf4</category>
 </item>
 </channel>
 </rss>
