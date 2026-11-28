@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 07:04:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination-Mediated Decoupling-Reconstruction Enables Semisolid Phase Regeneration of Spent Cathodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04638</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04638</guid>
+<pubDate>Sat, 28 Nov 2026 08:01:06 GMT</pubDate>
+<description>پارادایم بازتولید نیمه‌جامد با واسطه کمپلکس اگزالات، کاتد مستعمل LiFePO4 را به LiMn0.6Fe0.4PO4 با ظرفیت 156.5 mAh g–1 و حفظ 91.2% ظرفیت پس از 1000 چرخه تبدیل می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a coordination-mediated semisolid regeneration paradigm that directly reconstructs spent LiFePO4 into high-performance LiMn0.6Fe0.4PO4 via oxalate-coordinated selective decoupling and proton-assisted lattice deconstruction. Significance: this chemistry-guided upcycling avoids elemental recovery, yields a structurally ordered cathode with 156.5 mAh g–1 and 91.2% retention after 1000 cycles, advancing sustainable battery recycling.&lt;br&gt;🏷 LiFePO4 cathode · battery recycling · semisolid regeneration · oxalate coordination · LiMn0.6Fe0.4PO4</description>
+<category>LiFePO4 cathode</category>
+<category>battery recycling</category>
+<category>semisolid regeneration</category>
+<category>oxalate coordination</category>
+<category>LiMn0.6Fe0.4PO4</category>
+</item>
 <item>
 <title>Long-term outdoor performance of phase change material and expanded graphite composites for passive photovoltaic cooling</title>
 <link>https://doi.org/10.1016/j.est.2026.125880</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ammoni
 <category>binding kinetics</category>
 <category>RAS-mutant tumors</category>
 <category>tumor selectivity</category>
-</item>
-<item>
-<title>A tryptophan cation radical determines radical transfer kinetics and catalytic rate in a ribonucleotide reductase</title>
-<link>https://doi.org/10.1126/science.aei8950</link>
-<guid isPermaLink="false">10.1126/science.aei8950</guid>
-<pubDate>Fri, 27 Nov 2026 23:03:12 GMT</pubDate>
-<description>این مطالعه با جایگزینی اسیدهای آمینه غیرطبیعی نشان می‌دهد که انتقال رادیکال از طریق W48 مرحله محدودکننده سرعت و کنترل‌کننده فعالیت آنزیم RNR است.&lt;br&gt;Science | 🔬 Research Article&lt;br&gt;🏷 ribonucleotide reductase · radical transfer · tryptophan cation radical · enzyme kinetics · unnatural amino acids</description>
-<category>ribonucleotide reductase</category>
-<category>radical transfer</category>
-<category>tryptophan cation radical</category>
-<category>enzyme kinetics</category>
-<category>unnatural amino acids</category>
 </item>
 </channel>
 </rss>

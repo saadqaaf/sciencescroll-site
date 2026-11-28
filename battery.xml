@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 07:04:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:01:08 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Coordination-Mediated Decoupling-Reconstruction Enables Semisolid Phase Regeneration of Spent Cathodes</title>
+<link>https://doi.org/10.1021/acs.nanolett.6c04638</link>
+<guid isPermaLink="false">10.1021/acs.nanolett.6c04638</guid>
+<pubDate>Sat, 28 Nov 2026 08:01:06 GMT</pubDate>
+<description>پارادایم بازتولید نیمه‌جامد با واسطه کمپلکس اگزالات، کاتد مستعمل LiFePO4 را به LiMn0.6Fe0.4PO4 با ظرفیت 156.5 mAh g–1 و حفظ 91.2% ظرفیت پس از 1000 چرخه تبدیل می‌کند.&lt;br&gt;Nano Letters | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a coordination-mediated semisolid regeneration paradigm that directly reconstructs spent LiFePO4 into high-performance LiMn0.6Fe0.4PO4 via oxalate-coordinated selective decoupling and proton-assisted lattice deconstruction. Significance: this chemistry-guided upcycling avoids elemental recovery, yields a structurally ordered cathode with 156.5 mAh g–1 and 91.2% retention after 1000 cycles, advancing sustainable battery recycling.&lt;br&gt;🏷 LiFePO4 cathode · battery recycling · semisolid regeneration · oxalate coordination · LiMn0.6Fe0.4PO4</description>
+<category>LiFePO4 cathode</category>
+<category>battery recycling</category>
+<category>semisolid regeneration</category>
+<category>oxalate coordination</category>
+<category>LiMn0.6Fe0.4PO4</category>
+</item>
 <item>
 <title>Dual-modified iron oxide-graphene nanocomposites for high-performance lithium-ion storage</title>
 <link>https://doi.org/10.1016/j.est.2026.125797</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>molybdenum oxide</category>
 <category>proton intercalation</category>
 <category>Joule heating</category>
-</item>
-<item>
-<title>Programmable Nanostructured Polymer Electrolytes for Lithium‐Metal Batteries via Photopolymerization‐Induced Microphase Separation</title>
-<link>https://doi.org/10.1002/smll.76775</link>
-<guid isPermaLink="false">10.1002/smll.76775</guid>
-<pubDate>Fri, 27 Nov 2026 00:01:39 GMT</pubDate>
-<description>الکترولیت پلیمری جامد نانوساختار با جدایی میکروفازی نوری ساخته شد که رسانایی یونی و استحکام مکانیکی را همزمان بهبود داده و دندریت لیتیوم را مهار میکند.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using photopolymerization-induced microphase separation to 3D-print nanostructured solid polymer electrolytes with segregated soft ion-conducting and hard reinforcing domains in one step. This resolves the conductivity–strength trade-off, achieving ~1 mS cm⁻¹ with 110 MPa modulus, 4.5 V stability, and 1000 h cycling, enabling customizable, safer high-energy lithium-metal batteries.&lt;br&gt;🏷 solid polymer electrolyte · lithium-metal battery · photopolymerization · microphase separation · ionic conductivity</description>
-<category>solid polymer electrolyte</category>
-<category>lithium-metal battery</category>
-<category>photopolymerization</category>
-<category>microphase separation</category>
-<category>ionic conductivity</category>
 </item>
 </channel>
 </rss>
