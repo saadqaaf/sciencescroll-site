@@ -5,8 +5,68 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 05:02:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 06:02:27 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Synergistic Iodide/Capacitive Ion Storage in a Fluorinated Carbon Black Matrix Toward 1.9 V High‐Energy‐Density Zn‐I 2 Batteries</title>
+<link>https://doi.org/10.1002/smll.76835</link>
+<guid isPermaLink="false">10.1002/smll.76835</guid>
+<pubDate>Sat, 28 Nov 2026 06:02:06 GMT</pubDate>
+<description>افزودن ماتریس کربن‌بلک فلوئوره به کاتد I2/AC در باتری Zn-I2، ذخیره خازنی را فعال کرده و با سرکوب شاتل پلی‌یدید، ولتاژ ۱.۹ V و چگالی انرژی ۲۰۴ Wh kg−1 را محقق می‌سازد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in adding a fluorinated carbon black (CF20) matrix to the I2/activated carbon cathode, which boosts high-voltage capacitive ion storage and chemisorbs polyiodides to suppress shuttling. This enables a 1.9 V plateau, 163.4 mAh g−1 capacity, 6500-cycle stability, 2.92 mAh cm−2 areal capacity, and 204 Wh kg−1 energy density—significantly advancing high-energy aqueous Zn-I2 batteries.&lt;br&gt;🏷 Zn-I2 battery · fluorinated carbon black · polyiodide shuttle · capacitive ion storage · high energy density</description>
+<category>Zn-I2 battery</category>
+<category>fluorinated carbon black</category>
+<category>polyiodide shuttle</category>
+<category>capacitive ion storage</category>
+<category>high energy density</category>
+</item>
+<item>
+<title>A Layered Vanadium Oxide Cathode Enabled by Synergistic Control of Morphology, Intercalation, and Defect Engineering for High‐Rate and Long‐Life Zinc‐Ion Batteries</title>
+<link>https://doi.org/10.1002/smll.76916</link>
+<guid isPermaLink="false">10.1002/smll.76916</guid>
+<pubDate>Sat, 28 Nov 2026 06:01:57 GMT</pubDate>
+<description>کاتد اکسید وانادیوم لایه‌ای با نانوصفحه‌های نازک، پیش‌میان‌لایه NH4+ و جای‌خالی وانادیوم، ظرفیت بالا و پایداری چرخه‌ای فوق‌العاده در باتری آبی Zn-ion ارائه می‌دهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in synergistically combining ultrathin nanosheet morphology, NH4+ pre-intercalation, and vanadium vacancies in a layered vanadium oxide cathode. This triple engineering enhances Zn2+/H+ transport kinetics, stabilizes the framework, and creates active sites, enabling exceptional rate capability and ultra-long life (109.57% retention after 10,000 cycles at 20C). It offers a promising morphology-structure-defect design strategy for durable aqueous zinc-ion battery cathodes.&lt;br&gt;🏷 zinc-ion battery · vanadium oxide cathode · NH4+ intercalation · vanadium vacancies · nanosheet morphology</description>
+<category>zinc-ion battery</category>
+<category>vanadium oxide cathode</category>
+<category>NH4+ intercalation</category>
+<category>vanadium vacancies</category>
+<category>nanosheet morphology</category>
+</item>
+<item>
+<title>Air Stability of Cathode Prelithiation Agents for High‐Energy Lithium‐Ion Batteries: Degradation Mechanisms and Stabilization Strategies</title>
+<link>https://doi.org/10.1002/smll.76879</link>
+<guid isPermaLink="false">10.1002/smll.76879</guid>
+<pubDate>Sat, 28 Nov 2026 06:01:46 GMT</pubDate>
+<description>این مرور سازوکارهای تخریب ناشی از هوا در عوامل پیش‌لیتیوم‌سازی کاتد و راهبردهای پایدارسازی مانند پوشش محافظ و تنظیم ساختار را برای باتری‌های لیتیوم-یون بررسی می‌کند.&lt;br&gt;Small | ⭐ Review&lt;br&gt;💡 This review uniquely classifies air-degradation of cathode prelithiation agents into two evidence-supported pathways—hydrolysis/carbonation of binary lithium compounds and surface-lithium loss from lithium-rich oxides—and evaluates stabilization strategies (coatings, bulk regulation, intrinsically stable materials). Its significance lies in linking lithium-compensation capability, air stability, and engineering performance, while flagging nonstandardized testing and manufacturing-compatibility gaps essential for practical high-energy lithium-ion battery implementation.&lt;br&gt;🏷 cathode prelithiation · air stability · lithium-ion battery · degradation mechanism · protective coating</description>
+<category>cathode prelithiation</category>
+<category>air stability</category>
+<category>lithium-ion battery</category>
+<category>degradation mechanism</category>
+<category>protective coating</category>
+</item>
+<item>
+<title>Stress–Stoichiometry Mapping Enables Operando Tracking of Lithiation Dynamics in LiFePO 4 Electrodes</title>
+<link>https://doi.org/10.1002/smll.76937</link>
+<guid isPermaLink="false">10.1002/smll.76937</guid>
+<pubDate>Sat, 28 Nov 2026 06:01:42 GMT</pubDate>
+<description>این مقاله نشان می‌دهد تنش مکانیکی با میانگین استوکیومتری لیتیوم در الکترود LiFePO4 رابطه یک‌به‌یک دارد و حسگری درجای لیتیوم با خطای کمتر از 2.7% را ممکن می‌کند.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in establishing a one-to-one stress–stoichiometry relationship at the electrode scale, despite anisotropic single-particle strain, enabling operando lithiation tracking in LFP. Its significance: mechanical stress becomes an intrinsic state variable, yielding a fast (&amp;lt;500 ms), accurate (&amp;lt;2.7% error) stress-based sensing strategy robust across temperatures and currents, providing a new framework for operando electrochemical characterization.&lt;br&gt;🏷 LiFePO4 electrode · lithiation dynamics · operando stress sensing · chemo-mechanical coupling · lithium stoichiometry</description>
+<category>LiFePO4 electrode</category>
+<category>lithiation dynamics</category>
+<category>operando stress sensing</category>
+<category>chemo-mechanical coupling</category>
+<category>lithium stoichiometry</category>
+</item>
+<item>
+<title>Molecular Design Concepts for Fast Two Electron Transferring Ketazine‐Bridged Pyridinium Redox‐Active Species and Their Application in Non‐Aqueous Redox Flow Batteries</title>
+<link>https://doi.org/10.1002/smll.76787</link>
+<guid isPermaLink="false">10.1002/smll.76787</guid>
+<pubDate>Sat, 28 Nov 2026 06:01:36 GMT</pubDate>
+<description>این مقاله با پل ketazine انتقال دو الکترونی سریع در گونه‌های ردوکس پیریدینیوم را ممکن کرده و پایداری و حفظ انرژی باتری جریان ردوکس غیرآبی را بهبود می‌دهد.&lt;br&gt;Small | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in using ketazine bridges to link two pyridinium redox units, enabling fast, nearly simultaneous two-electron transfer that minimizes radical intermediates. This improves stability and performance; nBu-N-Me-AMAP-BF4 achieved 62% energy retention versus 26% for MAP over 30 cycles. It offers a promising design strategy for durable non-aqueous redox flow batteries.&lt;br&gt;🏷 redox flow battery · ketazine bridge · pyridinium redox species · two-electron transfer · non-aqueous electrolyte</description>
+<category>redox flow battery</category>
+<category>ketazine bridge</category>
+<category>pyridinium redox species</category>
+<category>two-electron transfer</category>
+<category>non-aqueous electrolyte</category>
+</item>
 <item>
 <title>Engineering electrolyte ion solvation structures for next-generation batteries</title>
 <link>https://doi.org/10.1038/s41467-026-79910-x</link>
@@ -1147,66 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>polyaniline gradient</category>
 <category>thick electrode</category>
 <category>areal energy</category>
-</item>
-<item>
-<title>Decoupling mechano-electrochemical coupling for stable SPAN cathodes via structural inheritance</title>
-<link>https://doi.org/10.1016/j.ensm.2026.105689</link>
-<guid isPermaLink="false">10.1016/j.ensm.2026.105689</guid>
-<pubDate>Thu, 26 Nov 2026 11:01:59 GMT</pubDate>
-<description>این مقاله با وراثت ساختاری، جفت‌شدگی مکانیکی-الکتروشیمیایی را در کاتدهای SPAN جدا می‌کند تا پایداری کاتد بهبود یابد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 SPAN cathode · mechano-electrochemical coupling · structural inheritance · lithium-sulfur battery · cathode stability</description>
-<category>SPAN cathode</category>
-<category>mechano-electrochemical coupling</category>
-<category>structural inheritance</category>
-<category>lithium-sulfur battery</category>
-<category>cathode stability</category>
-</item>
-<item>
-<title>Electron Bridge Effect Enhanced Tandem Catalysis for Efficient Nitrate Reduction to Ammonia</title>
-<link>https://doi.org/10.1002/aenm.71875</link>
-<guid isPermaLink="false">10.1002/aenm.71875</guid>
-<pubDate>Thu, 26 Nov 2026 10:01:25 GMT</pubDate>
-<description>کاتالیزور MoCoB با اثر پل الکترونی و کاتالیز پشتسرهم، بازده تولید NH3 از NO3- را با FE بالا افزایش داده و در باتری هیبریدی Zn-نیترات عملکرد پایداری نشان میدهد.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a molten-salt-etched ternary boride MoCoB with a boron electronic bridge enabling tandem catalysis: Mo activates nitrate, Co supplies active hydrogen, and B accelerates electron/proton transfer. This synergy yields high ammonia production (61.89 mg h⁻¹ mgcat⁻¹, 98.73% FE) and enables a durable Zn-nitrate/ethanol hybrid battery producing ammonium acetate, offering a design strategy for efficient nitrate reduction and reversible Zn-based energy systems.&lt;br&gt;🏷 nitrate reduction · ammonia synthesis · MoCoB electrocatalyst · electron bridge · Zn-based battery</description>
-<category>nitrate reduction</category>
-<category>ammonia synthesis</category>
-<category>MoCoB electrocatalyst</category>
-<category>electron bridge</category>
-<category>Zn-based battery</category>
-</item>
-<item>
-<title>SEI Evolution on Siloxene Anodes in Solid and Liquid Electrolytes via an Ion‐Sieving/Electron‐Conducting Interfacial Layer</title>
-<link>https://doi.org/10.1002/aenm.71856</link>
-<guid isPermaLink="false">10.1002/aenm.71856</guid>
-<pubDate>Thu, 26 Nov 2026 10:01:16 GMT</pubDate>
-<description>لایه واسط رسانای الکترون و غربالگر یون بر پایه siloxene، تکامل SEI را در الکترولیت مایع و جامد مقایسه کرده و پوشش LiF غنی و نازکتری در هر دو سیستم ایجاد میکند.&lt;br&gt;Advanced Energy Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a siloxene-based LP@SONS architecture combining electron-conducting polypyrrole with a Li⁺-selective ion-sieving layer, enabling direct comparison of SEI evolution in liquid versus solid electrolytes. It reveals that electrolyte contact geometry governs SEI dimensionality (3D bulk-permeated vs. 2D planar-confined), yielding thinner, LiF-rich interphases and stable cycling with only ~5% thickness expansion—offering a general interfacial engineering strategy for high-capacity anodes.&lt;br&gt;🏷 siloxene anode · solid electrolyte interphase · solid-state battery · ion-sieving layer · LiF-rich interphase</description>
-<category>siloxene anode</category>
-<category>solid electrolyte interphase</category>
-<category>solid-state battery</category>
-<category>ion-sieving layer</category>
-<category>LiF-rich interphase</category>
-</item>
-<item>
-<title>Novel Fluorinated Amino‐Ester Electrolyte With Host–Guest Solvation Enables High‐Voltage and Thermally Safe Lithium–Metal Batteries</title>
-<link>https://doi.org/10.1002/adma.75860</link>
-<guid isPermaLink="false">10.1002/adma.75860</guid>
-<pubDate>Thu, 26 Nov 2026 09:02:05 GMT</pubDate>
-<description>این مقاله با الکترولیت آمینو-استر فلوئوردار و ساختار حل‌پوشی میزبان-میهمان، باتری لیتیوم-فلز با ولتاژ بالا، ایمنی حرارتی و چگالی انرژی 550 Wh/kg را ممکن می‌سازد.&lt;br&gt;Advanced Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a host–guest solvation design using fluorinated amino-ester solvents (TFE/HFS) with polarity contrast, enabling LiF/Li₂O-rich interphases. Significance: this electrolyte delivers 550 Wh kg⁻¹ in a 22.4 Ah pouch cell, 260-cycle stability with 95.2% retention at 4.5 V, and improved nail-penetration/thermal safety—advancing practical high-energy, safe lithium-metal batteries.&lt;br&gt;🏷 lithium-metal battery · fluorinated electrolyte · host-guest solvation · high-voltage · thermal safety</description>
-<category>lithium-metal battery</category>
-<category>fluorinated electrolyte</category>
-<category>host-guest solvation</category>
-<category>high-voltage</category>
-<category>thermal safety</category>
-</item>
-<item>
-<title>Multi-Anion Competitive Solvation: Unlocking Wide-Temperature Anode-Free Sodium Metal Batteries</title>
-<link>https://doi.org/10.1039/d6ee05384j</link>
-<guid isPermaLink="false">10.1039/d6ee05384j</guid>
-<pubDate>Thu, 26 Nov 2026 09:01:35 GMT</pubDate>
-<description>این مقاله با طراحی ساختار حل‌پوشی چندآنیونی، سینتیک سریع‌تر و شیمی سطحی پایدارتر را برای باتری‌های سدیم بدون آند در دماهای گسترده فراهم می‌کند.&lt;br&gt;Energy &amp;amp;amp; Environmental Science | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using multi-anion competitive solvation to tune desolvation kinetics and interfacial chemistry, enabling stable sodium plating/stripping. This unlocks wide-temperature anode-free sodium metal batteries, addressing irreversible sodium loss at extreme temperatures and advancing high-energy, low-cost battery viability.&lt;br&gt;🏷 anode-free sodium battery · multi-anion solvation · wide-temperature operation · desolvation kinetics · solid electrolyte interphase</description>
-<category>anode-free sodium battery</category>
-<category>multi-anion solvation</category>
-<category>wide-temperature operation</category>
-<category>desolvation kinetics</category>
-<category>solid electrolyte interphase</category>
 </item>
 </channel>
 </rss>
