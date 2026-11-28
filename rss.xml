@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 11:01:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 12:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Applications and Challenges of Polyoxometalate‐Based Functional Materials in Electrochemical Energy Storage and Conversion</title>
+<link>https://doi.org/10.1002/aenm.71872</link>
+<guid isPermaLink="false">10.1002/aenm.71872</guid>
+<pubDate>Sat, 28 Nov 2026 12:01:03 GMT</pubDate>
+<description>این مرور، پیشرفت‌های اخیر مواد مبتنی بر polyoxometalate را در باتری‌های یون‌فلزی، جریان ردوکس، فلز-گوگرد و فلز-اکسیژن و راهبردهای بهبود عملکرد آن‌ها بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates POM-based materials across diverse electrochemical energy storage systems—metal-ion, redox flow, metal-sulfur, and metal-oxygen batteries—linking their structural/electronic features to working mechanisms. It systematically categorizes optimization and functionalization strategies, establishing a structure-property-performance framework. Its critical synthesis of challenges and perspectives offers guidance for advancing POM-based materials in energy storage.&lt;br&gt;🏷 polyoxometalates · metal-ion batteries · redox flow batteries · multi-electron redox · electrocatalysts</description>
+<category>polyoxometalates</category>
+<category>metal-ion batteries</category>
+<category>redox flow batteries</category>
+<category>multi-electron redox</category>
+<category>electrocatalysts</category>
+</item>
 <item>
 <title>Radical-Mediated Step-Growth Polymerization: Reaction Design, Mechanism and Polymer Architectures</title>
 <link>https://doi.org/10.1016/j.progpolymsci.2026.102208</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ammoni
 <category>deep learning</category>
 <category>foundation models</category>
 <category>single-cell transcriptomics</category>
-</item>
-<item>
-<title>Dynamic stress release via a mechano-photoisomerizable molecule for robust flexible perovskite/organic tandem solar cells</title>
-<link>https://doi.org/10.1016/j.joule.2026.102752</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102752</guid>
-<pubDate>Sat, 28 Nov 2026 00:01:19 GMT</pubDate>
-<description>این مقاله با یک مولکول مکانیکی-نوری‌ایزومری‌شدنی تنش دینامیکی را آزاد می‌کند و سلول‌های تاندم پروسکایت/آلی انعطاف‌پذیر مقاوم می‌سازد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 flexible tandem solar cells · perovskite/organic tandem · mechano-photoisomerizable molecule · dynamic stress release · mechanical robustness</description>
-<category>flexible tandem solar cells</category>
-<category>perovskite/organic tandem</category>
-<category>mechano-photoisomerizable molecule</category>
-<category>dynamic stress release</category>
-<category>mechanical robustness</category>
 </item>
 </channel>
 </rss>

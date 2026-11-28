@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 11:01:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 12:01:05 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Applications and Challenges of Polyoxometalate‐Based Functional Materials in Electrochemical Energy Storage and Conversion</title>
+<link>https://doi.org/10.1002/aenm.71872</link>
+<guid isPermaLink="false">10.1002/aenm.71872</guid>
+<pubDate>Sat, 28 Nov 2026 12:01:03 GMT</pubDate>
+<description>این مرور، پیشرفت‌های اخیر مواد مبتنی بر polyoxometalate را در باتری‌های یون‌فلزی، جریان ردوکس، فلز-گوگرد و فلز-اکسیژن و راهبردهای بهبود عملکرد آن‌ها بررسی می‌کند.&lt;br&gt;Advanced Energy Materials | ⭐ Review&lt;br&gt;💡 This review uniquely consolidates POM-based materials across diverse electrochemical energy storage systems—metal-ion, redox flow, metal-sulfur, and metal-oxygen batteries—linking their structural/electronic features to working mechanisms. It systematically categorizes optimization and functionalization strategies, establishing a structure-property-performance framework. Its critical synthesis of challenges and perspectives offers guidance for advancing POM-based materials in energy storage.&lt;br&gt;🏷 polyoxometalates · metal-ion batteries · redox flow batteries · multi-electron redox · electrocatalysts</description>
+<category>polyoxometalates</category>
+<category>metal-ion batteries</category>
+<category>redox flow batteries</category>
+<category>multi-electron redox</category>
+<category>electrocatalysts</category>
+</item>
 <item>
 <title>A Precursor Growth Reprogramming Strategy for Constructing Dense and Ultrastable Ni-rich Cathodes</title>
 <link>https://doi.org/10.1039/d6ta08234c</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>solvation engineering</category>
 <category>SEI</category>
 <category>amorphous anode</category>
-</item>
-<item>
-<title>Enhanced Silicon Anodes via Active Interfacial Reconstruction Enabled by Additive‐Engineered Conductive Binders</title>
-<link>https://doi.org/10.1002/smll.76874</link>
-<guid isPermaLink="false">10.1002/smll.76874</guid>
-<pubDate>Fri, 27 Nov 2026 00:02:06 GMT</pubDate>
-<description>افزودنی فلوئوردار در چسب رسانای PEDOT:PSS پیوند سطحی و SEI غنی از LiF را تقویت کرده و پایداری آند سیلیکونی پرانرژی را بهبود میدهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in an FS additive-engineered PEDOT:PSS conductive binder that acts as both a &amp;quot;molecular bridge&amp;quot; for interfacial adhesion and an &amp;quot;electrochemical initiator&amp;quot; for in situ LiF-rich SEI formation. This dual-function synergy enables a carbon-free 90 wt.% Si anode with 96.6% retention over 200 cycles and stable NCM811 full-cell performance, offering a practical molecular engineering pathway for durable high-capacity silicon anodes.&lt;br&gt;🏷 silicon anode · conductive binder · PEDOT:PSS · LiF-rich SEI · lithium-ion battery</description>
-<category>silicon anode</category>
-<category>conductive binder</category>
-<category>PEDOT:PSS</category>
-<category>LiF-rich SEI</category>
-<category>lithium-ion battery</category>
 </item>
 </channel>
 </rss>
