@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:03:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 00:01:25 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Mechanism-grounded RNA velocity: from kinetic models to deep learning and foundation models</title>
+<link>https://doi.org/10.1038/s41592-026-03387-1</link>
+<guid isPermaLink="false">10.1038/s41592-026-03387-1</guid>
+<pubDate>Sat, 28 Nov 2026 00:01:23 GMT</pubDate>
+<description>این مقاله مروری مکانیزم‌محور، مسیر تکامل RNA velocity را از مدل‌های سینتیکی تا یادگیری عمیق و مدل‌های بنیادی بررسی می‌کند.&lt;br&gt;Nature Methods | ⭐ Review&lt;br&gt;🏷 RNA velocity · kinetic models · deep learning · foundation models · single-cell transcriptomics</description>
+<category>RNA velocity</category>
+<category>kinetic models</category>
+<category>deep learning</category>
+<category>foundation models</category>
+<category>single-cell transcriptomics</category>
+</item>
+<item>
+<title>Dynamic stress release via a mechano-photoisomerizable molecule for robust flexible perovskite/organic tandem solar cells</title>
+<link>https://doi.org/10.1016/j.joule.2026.102752</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102752</guid>
+<pubDate>Sat, 28 Nov 2026 00:01:19 GMT</pubDate>
+<description>این مقاله با یک مولکول مکانیکی-نوری‌ایزومری‌شدنی تنش دینامیکی را آزاد می‌کند و سلول‌های تاندم پروسکایت/آلی انعطاف‌پذیر مقاوم می‌سازد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 flexible tandem solar cells · perovskite/organic tandem · mechano-photoisomerizable molecule · dynamic stress release · mechanical robustness</description>
+<category>flexible tandem solar cells</category>
+<category>perovskite/organic tandem</category>
+<category>mechano-photoisomerizable molecule</category>
+<category>dynamic stress release</category>
+<category>mechanical robustness</category>
+</item>
+<item>
+<title>Reconciling the surface and bulk oxygen vacancies in ITO for efficient inverted perovskite solar cells</title>
+<link>https://doi.org/10.1016/j.joule.2026.102749</link>
+<guid isPermaLink="false">10.1016/j.joule.2026.102749</guid>
+<pubDate>Sat, 28 Nov 2026 00:01:16 GMT</pubDate>
+<description>این مقاله نقش تهی‌جای اکسیژن سطحی و حجمی در ITO را برای بهبود کارایی سلول‌های خورشیدی پروسکایتی معکوس بررسی و آشتی می‌دهد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 ITO oxygen vacancies · inverted perovskite solar cells · surface vs bulk defects · interface passivation · device efficiency</description>
+<category>ITO oxygen vacancies</category>
+<category>inverted perovskite solar cells</category>
+<category>surface vs bulk defects</category>
+<category>interface passivation</category>
+<category>device efficiency</category>
+</item>
 <item>
 <title>Mechanisms of nucleosome disruption shape epigenetic inheritance pathway choice</title>
 <link>https://doi.org/10.1126/science.aek0813</link>
@@ -1170,42 +1206,6 @@
 <category>field-free switching</category>
 <category>van der Waals heterostructure</category>
 <category>spin logic</category>
-</item>
-<item>
-<title>Chemical Insights Into Wood Self‐Densification for the Design of High‐Performance Transparent Materials</title>
-<link>https://doi.org/10.1002/adfm.79780</link>
-<guid isPermaLink="false">10.1002/adfm.79780</guid>
-<pubDate>Fri, 27 Nov 2026 18:03:00 GMT</pubDate>
-<description>با حذف انتخابی همی‌سلولز و سوکسینیلاسیون فاز میانی سلولز، مکانیزم خودچگالش چوب روشن شد و فیلم‌های شفاف با چگالی و استحکام کششی بالا ساخته شد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 wood densification · transparent wood · cellulose succinylation · interphase chemistry · bio-based film</description>
-<category>wood densification</category>
-<category>transparent wood</category>
-<category>cellulose succinylation</category>
-<category>interphase chemistry</category>
-<category>bio-based film</category>
-</item>
-<item>
-<title>Harnessing Bio‑Digestion for Surface Porous Hard Carbon With Rich Internal Closed Pores Toward Exceptional Sodium Storage</title>
-<link>https://doi.org/10.1002/adfm.79919</link>
-<guid isPermaLink="false">10.1002/adfm.79919</guid>
-<pubDate>Fri, 27 Nov 2026 18:02:56 GMT</pubDate>
-<description>با هضم زیستی فضولات سوسک و افزودن نمک روی، کربن سخت متخلخل با حفرات بسته فراوان ساخته شد که ظرفیت و نرخ‌پذیری بالایی برای ذخیره سدیم نشان می‌دهد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in using cockroach digestion of zinc-enriched feed to create surface-porous hard carbon with abundant closed pores, N/S doping, and expanded interlayer spacing (0.43 nm). This biogenic strategy yields exceptional sodium storage: 148.9 mAh g⁻¹ at 32 C and 56.9% retention over 7000 cycles, enabling high-rate full cells. It offers a sustainable, scalable route to advanced SIB anodes.&lt;br&gt;🏷 hard carbon · sodium-ion battery · closed pores · bio-digestion · anode</description>
-<category>hard carbon</category>
-<category>sodium-ion battery</category>
-<category>closed pores</category>
-<category>bio-digestion</category>
-<category>anode</category>
-</item>
-<item>
-<title>Alloying‐Phase‐Regulated ZnO@C Scaffolds for Uniform and Pore‐Filling Lithium Metal Deposition</title>
-<link>https://doi.org/10.1002/adfm.79816</link>
-<guid isPermaLink="false">10.1002/adfm.79816</guid>
-<pubDate>Fri, 27 Nov 2026 18:02:52 GMT</pubDate>
-<description>داربست ZnO@C گل‌مانند با تنظیم فاز آلیاژی، هسته‌زنی لیتیوم و پر شدن حفرات را هماهنگ کرده و رسوب دندریت‌-free لیتیوم با هیسترزیس بسیار کم را ممکن می‌سازد.&lt;br&gt;Advanced Functional Materials | 🔬 Research Article&lt;br&gt;💡 The novelty lies in flower-like 3D porous ZnO@C scaffolds with tunable lithiophilic loading, linking alloy-phase evolution to pore-filling Li deposition. Operando XRD and DFT reveal LiZn phase-dominated epitaxial growth. Significance: dendrite-free cycling over 1200 h at 37 mV hysteresis, stable LFP/NMC-811 full cells, and a rational structure-phase-deposition design principle for high-energy Li metal batteries.&lt;br&gt;🏷 lithium metal anode · ZnO@C scaffold · Li-Zn alloy · dendrite-free deposition · pore-filling</description>
-<category>lithium metal anode</category>
-<category>ZnO@C scaffold</category>
-<category>Li-Zn alloy</category>
-<category>dendrite-free deposition</category>
-<category>pore-filling</category>
 </item>
 </channel>
 </rss>
