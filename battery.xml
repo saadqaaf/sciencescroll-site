@@ -5,8 +5,32 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 04:01:07 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 05:02:14 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Engineering electrolyte ion solvation structures for next-generation batteries</title>
+<link>https://doi.org/10.1038/s41467-026-79910-x</link>
+<guid isPermaLink="false">10.1038/s41467-026-79910-x</guid>
+<pubDate>Sat, 28 Nov 2026 05:02:01 GMT</pubDate>
+<description>این مرور به مهندسی ساختار حلال‌پوشی یون‌های الکترولیت برای باتری‌های نسل بعدی می‌پردازد.&lt;br&gt;Nature Communications | ⭐ Review | 🔓 Open Access&lt;br&gt;💡 The novelty lies in framing ion solvation structure engineering as a cross-scale design paradigm linking molecular coordination to device performance. Its significance is providing unified design principles for predictive electrolyte development, enabling batteries with fast charging, wide-temperature resilience, and high-voltage stability.&lt;br&gt;🏷 electrolyte solvation structure · ion solvation · next-generation batteries · electrolyte engineering · battery electrolytes</description>
+<category>electrolyte solvation structure</category>
+<category>ion solvation</category>
+<category>next-generation batteries</category>
+<category>electrolyte engineering</category>
+<category>battery electrolytes</category>
+</item>
+<item>
+<title>Dense Metalloporphyrin Arrays Enable Binuclear Cooperativity for Enhanced Electrocatalytic Oxygen Reduction</title>
+<link>https://doi.org/10.1002/anie.5227112</link>
+<guid isPermaLink="false">10.1002/anie.5227112</guid>
+<pubDate>Sat, 28 Nov 2026 05:01:31 GMT</pubDate>
+<description>این کار با ساخت چارچوب گالیم-پیرازولات حاوی آرایه‌های متراکم پورفیرین کبالت، همکاری دوهسته‌ای را برای بهبود ORR و عملکرد باتری روی-هوا محقق کرد.&lt;br&gt;Angewandte Chemie International Edition | 🔬 Research Article&lt;br&gt;💡 The novelty lies in mimicking cytochrome c oxidase&amp;#x27;s binuclear center using a Ga-pyrazolate framework with densely packed Co(II)-porphyrin arrays spaced 6.53 Å apart, enabling hydrogen-bonded binuclear cooperativity that stabilizes *OOH and lowers the ORR barrier. This yields exceptional zinc-air battery performance (185 mW cm⁻², 150 h stability), ranking among the best MOF-based ORR catalysts.&lt;br&gt;🏷 oxygen reduction reaction · metalloporphyrin framework · binuclear cooperativity · zinc-air battery · electrocatalyst</description>
+<category>oxygen reduction reaction</category>
+<category>metalloporphyrin framework</category>
+<category>binuclear cooperativity</category>
+<category>zinc-air battery</category>
+<category>electrocatalyst</category>
+</item>
 <item>
 <title>Dual‑site Mg/Ta substitution coupled with in situ surface electronic modulation boosts cycling stability of ultrahigh‑Ni cathodes</title>
 <link>https://doi.org/10.1016/j.ensm.2026.105693</link>
@@ -1183,30 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>wide-temperature operation</category>
 <category>desolvation kinetics</category>
 <category>solid electrolyte interphase</category>
-</item>
-<item>
-<title>Valorization of natural minerals into quenched SiO₂ anodes for durable high-capacity lithium storage</title>
-<link>https://doi.org/10.1039/d6ta04597a</link>
-<guid isPermaLink="false">10.1039/d6ta04597a</guid>
-<pubDate>Thu, 26 Nov 2026 07:01:32 GMT</pubDate>
-<description>تبدیل مواد معدنی طبیعی به آندهای SiO2 کوئنچ‌شده، رسانایی و فعالیت الکتروشیمیایی را بهبود می‌دهد و ذخیره‌سازی لیتیوم با ظرفیت بالا و پایدار را ممکن می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in valorizing natural minerals into quenched SiO₂ anodes, using rapid quenching to create defective, metastable structures that overcome SiO₂&amp;#x27;s poor conductivity and lithiation inertness. This enables durable high-capacity lithium storage from cheap, abundant natural precursors, offering a scalable, sustainable route to high-performance battery anodes and turning low-value minerals into valuable energy materials.&lt;br&gt;🏷 SiO2 anode · lithium-ion battery · quenching · natural minerals · high-capacity</description>
-<category>SiO2 anode</category>
-<category>lithium-ion battery</category>
-<category>quenching</category>
-<category>natural minerals</category>
-<category>high-capacity</category>
-</item>
-<item>
-<title>Electrochemically accessible surface area in biomass-derived porous carbons for developing pore–electrolyte matching energy storage materials</title>
-<link>https://doi.org/10.1016/j.est.2026.125925</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125925</guid>
-<pubDate>Thu, 26 Nov 2026 05:03:14 GMT</pubDate>
-<description>این مقاله سطح فعال الکتروشیمیایی کربن‌های متخلخل زیست‌توده را برای تطبیق تخلخل با الکترولیت در مواد ذخیره‌سازی انرژی بررسی می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 porous carbon · biomass-derived carbon · electrochemically accessible surface are · pore-electrolyte matching · energy storage</description>
-<category>porous carbon</category>
-<category>biomass-derived carbon</category>
-<category>electrochemically accessible surface are</category>
-<category>pore-electrolyte matching</category>
-<category>energy storage</category>
 </item>
 </channel>
 </rss>
