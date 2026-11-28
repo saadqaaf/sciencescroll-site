@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 10:01:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 11:01:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Radical-Mediated Step-Growth Polymerization: Reaction Design, Mechanism and Polymer Architectures</title>
+<link>https://doi.org/10.1016/j.progpolymsci.2026.102208</link>
+<guid isPermaLink="false">10.1016/j.progpolymsci.2026.102208</guid>
+<pubDate>Sat, 28 Nov 2026 11:01:11 GMT</pubDate>
+<description>این مقاله مروری به طراحی واکنش، سازوکار و ساختارهای پلیمری در پلیمریزاسیون رشد مرحله‌ای رادیکالی می‌پردازد و چارچوبی برای کنترل معماری پلیمر ارائه می‌کند.&lt;br&gt;Progress in Polymer Science | ⭐ Review&lt;br&gt;🏷 radical step-growth polymerization · reaction design · polymer architecture · mechanism · radical chemistry</description>
+<category>radical step-growth polymerization</category>
+<category>reaction design</category>
+<category>polymer architecture</category>
+<category>mechanism</category>
+<category>radical chemistry</category>
+</item>
 <item>
 <title>Molecular resolution fluorescence imaging: from Abbe to Ångström</title>
 <link>https://doi.org/10.1039/d6cs01040g</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ammoni
 <category>mechano-photoisomerizable molecule</category>
 <category>dynamic stress release</category>
 <category>mechanical robustness</category>
-</item>
-<item>
-<title>Reconciling the surface and bulk oxygen vacancies in ITO for efficient inverted perovskite solar cells</title>
-<link>https://doi.org/10.1016/j.joule.2026.102749</link>
-<guid isPermaLink="false">10.1016/j.joule.2026.102749</guid>
-<pubDate>Sat, 28 Nov 2026 00:01:16 GMT</pubDate>
-<description>این مقاله نقش تهی‌جای اکسیژن سطحی و حجمی در ITO را برای بهبود کارایی سلول‌های خورشیدی پروسکایتی معکوس بررسی و آشتی می‌دهد.&lt;br&gt;Joule | 🔬 Research Article&lt;br&gt;🏷 ITO oxygen vacancies · inverted perovskite solar cells · surface vs bulk defects · interface passivation · device efficiency</description>
-<category>ITO oxygen vacancies</category>
-<category>inverted perovskite solar cells</category>
-<category>surface vs bulk defects</category>
-<category>interface passivation</category>
-<category>device efficiency</category>
 </item>
 </channel>
 </rss>
