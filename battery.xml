@@ -5,8 +5,44 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 02:01:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 03:02:13 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Dual‑site Mg/Ta substitution coupled with in situ surface electronic modulation boosts cycling stability of ultrahigh‑Ni cathodes</title>
+<link>https://doi.org/10.1016/j.ensm.2026.105693</link>
+<guid isPermaLink="false">10.1016/j.ensm.2026.105693</guid>
+<pubDate>Sat, 28 Nov 2026 03:02:04 GMT</pubDate>
+<description>جایگزینی دوگانه Mg/Ta همراه با تنظیم الکترونیکی سطحی در کاتدهای فوق‌پرنیکل، پایداری چرخه‌ای را بهبود می‌دهد.&lt;br&gt;Energy Storage Materials | 🔬 Research Article&lt;br&gt;🏷 ultrahigh-Ni cathode · Mg/Ta dual-site substitution · surface electronic modulation · cycling stability · lithium-ion battery</description>
+<category>ultrahigh-Ni cathode</category>
+<category>Mg/Ta dual-site substitution</category>
+<category>surface electronic modulation</category>
+<category>cycling stability</category>
+<category>lithium-ion battery</category>
+</item>
+<item>
+<title>Interfacially coupled 2D/2D cobalt chromium layered double hydroxide/MXene hybrid structures for high-performance solid-state supercapacitors: experimental and theoretical insights</title>
+<link>https://doi.org/10.1007/s42114-026-02185-9</link>
+<guid isPermaLink="false">10.1007/s42114-026-02185-9</guid>
+<pubDate>Sat, 28 Nov 2026 03:01:34 GMT</pubDate>
+<description>ساخت هیبرید 2D/2D از CoCr-LDH و Ti3C2Tx MXene با کوپلاژ بین‌سطحی، ظرفیت 1472 C g⁻¹ و ابرخازن تمام‌جامد با انرژی 64.10 Wh kg⁻¹ و پایداری 95% را نشان می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in an exfoliation-restacking strategy creating 2D/2D CoCr-LDH/MXene heterostructures with strong interfacial coupling. Significance: the hybrid delivers high capacity (1472 C g⁻¹), 64.10 Wh kg⁻¹ energy density, 95% retention over 15,000 cycles, and DFT-verified interfacial electronic redistribution enhancing quantum capacitance (3955 F g⁻¹), advancing solid-state supercapacitor design.&lt;br&gt;🏷 MXene · layered double hydroxide · solid-state supercapacitor · 2D/2D heterostructure · DFT calculation</description>
+<category>MXene</category>
+<category>layered double hydroxide</category>
+<category>solid-state supercapacitor</category>
+<category>2D/2D heterostructure</category>
+<category>DFT calculation</category>
+</item>
+<item>
+<title>NaCl-assisted synthesis of Co/CoS2 heterostructures encapsulated within N, S co-doped carbon nanotubes as electrocatalysts for anion exchange membrane fuel cells and rechargeable liquid-state/flexible Zn-air batteries</title>
+<link>https://doi.org/10.1007/s42114-026-02187-7</link>
+<guid isPermaLink="false">10.1007/s42114-026-02187-7</guid>
+<pubDate>Sat, 28 Nov 2026 03:01:29 GMT</pubDate>
+<description>سنتز Co/CoS2 در نانولوله‌های کربنی دوپ‌شده با N و S با کمک NaCl، الکتروکاتالیستی دوفункسیونی برای واکنش‌های OER/ORR و باتری‌های Zn-air ارائه می‌دهد.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;💡 The novelty lies in NaCl-assisted templating combined with Zn evaporation to create porous dodecahedral carbon hosting Co/CoS2 heterostructures within in-situ grown N,S co-doped carbon nanotubes. This synergy of hierarchical porosity, conductive networks, and heterointerface engineering yields superior bifunctional OER/ORR activity, enabling high-performance AEMFCs and durable liquid/flexible Zn-air batteries, advancing cost-effective non-precious metal catalysts for wearable energy devices.&lt;br&gt;🏷 Zn-air battery · Co/CoS2 heterostructure · N,S-doped carbon nanotubes · bifunctional electrocatalyst · oxygen electrocatalysis</description>
+<category>Zn-air battery</category>
+<category>Co/CoS2 heterostructure</category>
+<category>N,S-doped carbon nanotubes</category>
+<category>bifunctional electrocatalyst</category>
+<category>oxygen electrocatalysis</category>
+</item>
 <item>
 <title>Site-Selective Fluorination of Cyclic Ketals for Weakly Competing Solvation and Interfacial Electronic Response: A Theoretical Study</title>
 <link>https://doi.org/10.1039/d6ta07727g</link>
@@ -1171,42 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>electrochemically accessible surface are</category>
 <category>pore-electrolyte matching</category>
 <category>energy storage</category>
-</item>
-<item>
-<title>Dry manufacturing of garnet-type Li7La3Zr2O12 (LLZO): Material and processing constraints with cross-field perspectives for scalable all-solid-state batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125711</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125711</guid>
-<pubDate>Thu, 26 Nov 2026 05:03:11 GMT</pubDate>
-<description>این مقاله محدودیت‌های مواد و فرآیند ساخت خشک الکترولیت جامد LLZO را بررسی و چشم‌اندازهایی برای باتری‌های تمام‌جامد مقیاس‌پذیر ارائه می‌کند.&lt;br&gt;Journal of Energy Storage | ⭐ Review&lt;br&gt;🏷 LLZO garnet · all-solid-state battery · dry manufacturing · solid electrolyte · scalable processing</description>
-<category>LLZO garnet</category>
-<category>all-solid-state battery</category>
-<category>dry manufacturing</category>
-<category>solid electrolyte</category>
-<category>scalable processing</category>
-</item>
-<item>
-<title>Fluorinated carbon cloth enables anode-free zinc metal batteries</title>
-<link>https://doi.org/10.1016/j.est.2026.125760</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125760</guid>
-<pubDate>Thu, 26 Nov 2026 05:03:06 GMT</pubDate>
-<description>پارچه کربنی فلوئوردار، باتری‌های فلزی روی بدون آند را با بهبود رسوب‌نشینی روی ممکن می‌سازد.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 anode-free zinc battery · fluorinated carbon cloth · zinc metal · dendrite suppression · current collector</description>
-<category>anode-free zinc battery</category>
-<category>fluorinated carbon cloth</category>
-<category>zinc metal</category>
-<category>dendrite suppression</category>
-<category>current collector</category>
-</item>
-<item>
-<title>Surface-anchored CeZr oxide nanodomains resolve coupled interfacial and structural instability in Ni-rich NCM90 cathodes</title>
-<link>https://doi.org/10.1016/j.est.2026.125974</link>
-<guid isPermaLink="false">10.1016/j.est.2026.125974</guid>
-<pubDate>Thu, 26 Nov 2026 05:03:03 GMT</pubDate>
-<description>نانودومین‌های اکسید CeZr لنگرشده بر سطح، ناپایداری بین‌سطحی و ساختاری جفت‌شده در کاتدهای غنی از نیکل NCM90 را حل می‌کنند.&lt;br&gt;Journal of Energy Storage | 🔬 Research Article&lt;br&gt;🏷 Ni-rich NCM90 · CeZr oxide · surface modification · interfacial instability · cathode</description>
-<category>Ni-rich NCM90</category>
-<category>CeZr oxide</category>
-<category>surface modification</category>
-<category>interfacial instability</category>
-<category>cathode</category>
 </item>
 </channel>
 </rss>
