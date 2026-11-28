@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New papers from 100+ top journals, with Persian summaries and keywords.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 12:01:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 13:01:02 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Transient localized joule heating beyond melting-point constraints for thermally conductive graphene/aluminum heterostructures</title>
+<link>https://doi.org/10.1007/s42114-026-02194-8</link>
+<guid isPermaLink="false">10.1007/s42114-026-02194-8</guid>
+<pubDate>Sat, 28 Nov 2026 13:01:00 GMT</pubDate>
+<description>پژوهش حاضر گرمایش ژول موضعی گذرا را در نانوساختارهای گرافن/آلومینیوم بررسی می‌کند و نشان می‌دهد این روش می‌تواند محدودیت نقطه ذوب را برای ساخت هتروساختارهای رسانای حرارتی دور بزند.&lt;br&gt;Advanced Composites and Hybrid Materials | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 graphene/aluminum heterostructure · transient Joule heating · thermal conductivity · localized heating · melting-point constraint</description>
+<category>graphene/aluminum heterostructure</category>
+<category>transient Joule heating</category>
+<category>thermal conductivity</category>
+<category>localized heating</category>
+<category>melting-point constraint</category>
+</item>
 <item>
 <title>Applications and Challenges of Polyoxometalate‐Based Functional Materials in Electrochemical Energy Storage and Conversion</title>
 <link>https://doi.org/10.1002/aenm.71872</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article | 🔓 Open Access&lt;br&gt;🏷 ammoni
 <category>catalyst-ionomer assembly</category>
 <category>electrode architecture</category>
 <category>durability</category>
-</item>
-<item>
-<title>Mechanism-grounded RNA velocity: from kinetic models to deep learning and foundation models</title>
-<link>https://doi.org/10.1038/s41592-026-03387-1</link>
-<guid isPermaLink="false">10.1038/s41592-026-03387-1</guid>
-<pubDate>Sat, 28 Nov 2026 00:01:23 GMT</pubDate>
-<description>این مقاله مروری مکانیزم‌محور، مسیر تکامل RNA velocity را از مدل‌های سینتیکی تا یادگیری عمیق و مدل‌های بنیادی بررسی می‌کند.&lt;br&gt;Nature Methods | ⭐ Review&lt;br&gt;🏷 RNA velocity · kinetic models · deep learning · foundation models · single-cell transcriptomics</description>
-<category>RNA velocity</category>
-<category>kinetic models</category>
-<category>deep learning</category>
-<category>foundation models</category>
-<category>single-cell transcriptomics</category>
 </item>
 </channel>
 </rss>
