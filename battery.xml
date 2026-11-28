@@ -5,8 +5,20 @@
 <link>https://sciencescroll.ir/</link>
 <description>New battery and energy-storage papers from 100+ top journals.</description>
 <language>en</language>
-<lastBuildDate>Sat, 28 Nov 2026 08:01:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 09:01:29 GMT</lastBuildDate>
 <atom:link href="https://sciencescroll.ir/battery.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A Precursor Growth Reprogramming Strategy for Constructing Dense and Ultrastable Ni-rich Cathodes</title>
+<link>https://doi.org/10.1039/d6ta08234c</link>
+<guid isPermaLink="false">10.1039/d6ta08234c</guid>
+<pubDate>Sat, 28 Nov 2026 09:01:24 GMT</pubDate>
+<description>پژوهش حاضر با بازبرنامه‌ریزی رشد پیش‌ماده، کاتدهای غنی از نیکل چگال و فوق‌پایدار با سرکوب ترک‌های ریز و تخریب مکانیکی-شیمیایی سطحی برای باتری‌های لیتیومی می‌سازد.&lt;br&gt;Journal of Materials Chemistry A | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a precursor growth reprogramming strategy that restructures the precursor to build dense, ultrastable Ni-rich cathodes, suppressing microcracks and interfacial chemo-mechanical degradation from abrupt H2-H3 phase transitions. Its significance is enabling high-energy-density lithium batteries with improved structural integrity and cycling stability, advancing the commercialization of Ni-rich layered cathodes.&lt;br&gt;🏷 Ni-rich cathode · precursor growth · H2-H3 phase transition · microcrack suppression · lithium battery</description>
+<category>Ni-rich cathode</category>
+<category>precursor growth</category>
+<category>H2-H3 phase transition</category>
+<category>microcrack suppression</category>
+<category>lithium battery</category>
+</item>
 <item>
 <title>Coordination-Mediated Decoupling-Reconstruction Enables Semisolid Phase Regeneration of Spent Cathodes</title>
 <link>https://doi.org/10.1021/acs.nanolett.6c04638</link>
@@ -1195,18 +1207,6 @@ Chemical Society | 🔬 Research Article&lt;br&gt;💡 The novelty lies in ident
 <category>PEDOT:PSS</category>
 <category>LiF-rich SEI</category>
 <category>lithium-ion battery</category>
-</item>
-<item>
-<title>Discovery of H + Intercalation Enables High Capacity in Tunnel Ternary Molybdenum‐Based Oxide</title>
-<link>https://doi.org/10.1002/smll.76914</link>
-<guid isPermaLink="false">10.1002/smll.76914</guid>
-<pubDate>Fri, 27 Nov 2026 00:01:47 GMT</pubDate>
-<description>اکسید مولیبدن تونلی سهتایی با گرمایش ژول ساخته شد که در باتری پروتونی آبی ظرفیت بالا و عمر چرخهای بیش از ۳۰۰۰ چرخه نشان میدهد.&lt;br&gt;Small | 🔬 Research Article&lt;br&gt;💡 The novelty lies in a Joule-heated ternary molybdenum oxide (VNbMoO) with 3D tunnels enabling bare proton intercalation, unlike hydronium. Its significance: high capacity (230.2 mAh g⁻¹), good rate capability, and 3000-cycle life at ~10 mg cm⁻² loading, establishing tunnel multinary oxides as promising high-performance aqueous proton battery anodes.&lt;br&gt;🏷 aqueous proton battery · tunnel oxide · molybdenum oxide · proton intercalation · Joule heating</description>
-<category>aqueous proton battery</category>
-<category>tunnel oxide</category>
-<category>molybdenum oxide</category>
-<category>proton intercalation</category>
-<category>Joule heating</category>
 </item>
 </channel>
 </rss>
